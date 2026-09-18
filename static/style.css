@@ -371,8 +371,7 @@ nav.top .logo:active {
   display: flex;
   gap: 10px;
   list-style: none;
-  margin: 0 0 0 20px;
-  padding: 0;
+  margin-left: 20px;
   align-items: center;
 }
 .nav-links a {
@@ -402,6 +401,7 @@ nav.top .logo:active {
 .theme-pick {
   position: relative;
   margin-left: auto;
+  width: 120px;
 }
 .theme-btn {
   background: var(--bg-panel);
@@ -411,9 +411,16 @@ nav.top .logo:active {
   font-family: var(--font-mono);
   font-size: var(--text-xs);
   text-transform: uppercase; letter-spacing: 0.08em;
-  padding: 4px 12px;
+  padding: 4px 10px;
   cursor: pointer;
   transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease, color 0.12s ease;
+}
+.theme-pick .theme-btn {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .theme-btn:hover {
   border-color: var(--accent);
@@ -428,22 +435,25 @@ nav.top .logo:active {
 .theme-btn:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
 .theme-menu {
   display: none;
-  position: absolute; top: calc(100% + 6px); right: 0;
-  min-width: 120px;
+  position: absolute; top: calc(100% + 6px); left: 0; right: 0;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0; padding: 0;
   background: var(--bg-panel);
   border: 1px solid var(--border);
-  box-shadow: 4px 4px 0 var(--border);
+  box-shadow: 3px 3px 0 var(--border);
   z-index: 50;
 }
 .theme-menu.open { display: block; }
 .theme-menu button {
   display: block; width: 100%; text-align: left;
+  box-sizing: border-box;
   background: none; border: none;
   color: var(--fg-dim);
   font-family: var(--font-mono);
   font-size: var(--text-xs);
   text-transform: uppercase; letter-spacing: 0.08em;
-  padding: 7px 12px;
+  padding: 7px 10px;
   cursor: pointer;
   transition: background 0.12s ease, color 0.12s ease;
 }
@@ -557,12 +567,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   font-size: var(--text-sm); color: var(--fg-dim);
   max-width: 100%;
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: flex-start;
-  /* Reserve the cursor's second row up front (1 line + gap + 1em cursor)
-     so the terminal never grows when typing finishes. */
-  min-height: calc(2.6em + 6px);
 }
 .terminal-body .tagline span { color: var(--fg-muted); }
 .terminal-body .tagline .dollar { color: var(--accent); margin-right: 1ch; }
@@ -573,11 +579,15 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   margin-left: 4px;
 }
 .cursor.below {
-  /* Wraps into the pre-reserved second row (stays inside .tagline,
-     so terminal height never changes). */
-  flex-basis: 100%;
+  display: block;
   width: 0.6em; height: 1em;
   margin: 6px auto 0;
+}
+/* Pre-reserved second row for the finished cursor: always exactly
+   cursor-height + gap, so the terminal never grows on completion. */
+.cursor-row {
+  width: 100%;
+  height: calc(1em + 6px);
 }
 @media (prefers-reduced-motion: no-preference) {
   .cursor { animation: blink 1s step-end infinite; }
@@ -2354,7 +2364,7 @@ html.anim-on .reveal.in {
 .playlist-item:hover::after { transform: scaleY(1); }
 
 /* theme button dropdown caret */
-.theme-btn::after { content: " \25BE"; }
+.theme-pick .theme-btn::after { content: "\25BE"; margin-left: auto; }
 
 /* theme menu entrance */
 .theme-menu { transform-origin: top right; }

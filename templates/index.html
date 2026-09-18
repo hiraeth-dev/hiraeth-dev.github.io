@@ -31,6 +31,7 @@
         <span class="cursor" id="cursor" aria-hidden="true"></span>
         <noscript><style>.typewriter{width:auto!important}</style></noscript>
       </div>
+      <div class="cursor-row" id="cursor-row" aria-hidden="true"></div>
     </div>
   </div>
 </div>
@@ -253,9 +254,10 @@ setInterval(tick, 1000);
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   function moveCursorBelow() {
+    var row = document.getElementById('cursor-row');
     if (cursor) {
-      // Stays inside .tagline and wraps into the reserved second row —
-      // terminal height never changes.
+      // Into the pre-reserved second row — terminal height never changes.
+      if (row) row.appendChild(cursor);
       cursor.classList.add('below');
     }
   }
