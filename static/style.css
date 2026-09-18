@@ -558,8 +558,12 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   font-size: var(--text-sm); color: var(--fg-dim);
   max-width: 100%;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: flex-start;
+  /* Reserve the cursor's second row up front (1 line + gap + 1em cursor)
+     so the terminal never grows when typing finishes. */
+  min-height: calc(2.6em + 6px);
 }
 .terminal-body .tagline span { color: var(--fg-muted); }
 .terminal-body .tagline .dollar { color: var(--accent); margin-right: 1ch; }
@@ -570,7 +574,9 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   margin-left: 4px;
 }
 .cursor.below {
-  display: block;
+  /* Wraps into the pre-reserved second row (stays inside .tagline,
+     so terminal height never changes). */
+  flex-basis: 100%;
   width: 0.6em; height: 1em;
   margin: 6px auto 0;
 }

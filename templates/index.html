@@ -254,8 +254,9 @@ setInterval(tick, 1000);
 
   function moveCursorBelow() {
     if (cursor) {
+      // Stays inside .tagline and wraps into the reserved second row —
+      // terminal height never changes.
       cursor.classList.add('below');
-      tag.after(cursor);
     }
   }
 
