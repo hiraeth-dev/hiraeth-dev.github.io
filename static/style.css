@@ -246,7 +246,7 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 52px;
+  scroll-padding-top: 64px;
   margin: 0;
   padding: 0;
   overflow-x: clip;
@@ -373,7 +373,8 @@ nav.top .logo:active {
   display: flex;
   gap: 10px;
   list-style: none;
-  margin-left: 20px;
+  margin: 0 0 0 20px;
+  padding: 0;
   align-items: center;
 }
 .nav-links a {
@@ -1195,7 +1196,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .terminal-body h1 { font-size: var(--text-xl); }
   .terminal { max-width: 100%; }
-  nav.top { flex-wrap: nowrap; padding: 6px 16px; }
+  nav.top { flex-wrap: nowrap; padding: 12px 16px; }
   .nav-links { display: none; }
   .theme-pick { margin-left: auto; }
 }
