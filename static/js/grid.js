@@ -37,6 +37,7 @@
   }
   let clr = getColors();
   let dotRgba = parseRgba(clr.dot);
+  let live = false;
   // hiraeth's theme switcher dispatches this; re-read vars when it fires.
   document.addEventListener('themechange', () => {
     clr = getColors();
@@ -195,6 +196,11 @@
     }
 
     draw(now);
+    if (!live) {
+      live = true;
+      // First live frame drawn — fade out the static CSS underlay.
+      document.documentElement.classList.add('grid-live');
+    }
     requestAnimationFrame(tick);
   }
 
@@ -221,6 +227,7 @@
   resize();
   if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     draw();
+    document.documentElement.classList.add('grid-live');
     return;
   }
   tick();

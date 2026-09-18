@@ -439,6 +439,24 @@ nav.top .logo:active {
   z-index: -1; pointer-events: none;
 }
 
+/* ── Static grid underlay ──
+   Paints with the first CSS paint (same 55px geometry + theme vars as the
+   canvas) so a hard refresh never shows a bare background while grid.js is
+   still downloading. Fades out the moment the live canvas draws (grid-live). */
+body:has(#grid-canvas)::before {
+  content: ""; position: fixed; inset: 0;
+  z-index: -2; pointer-events: none;
+  background:
+    linear-gradient(180deg, var(--grid-fade) 0%, transparent 12%, transparent 88%, var(--grid-fade) 100%),
+    radial-gradient(circle, var(--grid-dot) 1.5px, transparent 1.6px),
+    repeating-linear-gradient(0deg, var(--grid-line) 0 1px, transparent 1px 55px),
+    repeating-linear-gradient(90deg, var(--grid-line) 0 1px, transparent 1px 55px);
+  background-size: auto, 55px 55px, auto, auto;
+  background-position: 0 0, -27.5px -27.5px, 0 0, 0 0;
+  transition: opacity 0.4s ease;
+}
+html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
+
 /* ── Terminal window ── */
 .terminal {
   background: var(--bg-panel);
