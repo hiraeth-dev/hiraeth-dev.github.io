@@ -25,7 +25,7 @@
   box-sizing: border-box;
 }
 
-/* ── Base: miasma (fallback when JS disabled, matches default theme) ── */
+/* ── Base: kanagawa (fallback when JS disabled, matches default theme) ── */
 :root {
   --bg: #1A2026;
   --bg-panel: #20272E;
@@ -70,44 +70,10 @@
   --yellow: #F2BEA0;
 }
 
-/* THEMES — miasma + solitude + gruvbox + kanagawa + dusky + hilltop + evergreen + cyberpunk */
-   miasma: xero canonical — cellar black, linen, moss olive, rust, sickly gold
+/* THEMES — solitude + gruvbox + kanagawa + dusky + cyberpunk */
    solitude: HANCORE charcoal monochrome, steel accents, single rust alert
    ─────────────────────────────────────────────────────────── */
 
-/* ── 1. Miasma (dark organic: olive × sickly gold × rust) ── */
-[data-theme="miasma"] {
-  --bg: #222222;
-  --bg-panel: #2a2a27;
-  --bg-panel-alt: #383838;
-  --border: #43492a;
-  --border-strong: #78824b;
-  --fg: #c2c2b0;
-  --fg-dim: #8a8a7e;
-  --fg-muted: #666666;
-  --accent: #78824b;
-  --accent-bright: #d7c483;
-  --accent-soft: #c9a554;
-  --accent-dim: #5f875f;
-  --link: #c9a554;
-  --link-hover: #d7c483;
-  --focus-ring: #78824b;
-  --grid-fade: #222222;
-  --grid-line: rgba(120, 130, 75, 0.08);
-  --grid-dot: rgba(120, 130, 75, 0.28);
-  --bg-glow: #242d1d;
-  --bg-core: #101010;
-  --bar-a: #78824b;
-  --bar-b: #c9a554;
-  --bar-c: #b36d43;
-  --orange: #b36d43;
-  --orange-deep: #685742;
-  --red: #b36d43;
-  --red-deep: #685742;
-  --cyan: #c9a554;
-  --cyan-deep: #78824b;
-  --yellow: #d7c483;
-}
 
 /* ── 2. Solitude (sparse charcoal monochrome — steel × bone × rust alert) ── */
 [data-theme="solitude"] {
@@ -218,12 +184,7 @@
   --cat-base: #D9A78B;
   --cat-light: #F2BEA0;
 }
-[data-theme="miasma"] {
-  --cat-dark: #43492a;
-  --cat-mid: #5f875f;
-  --cat-base: #78824b;
-  --cat-light: #d7c483;
-}
+
 [data-theme="solitude"] {
   --cat-dark: #2f353b;
   --cat-mid: #5d6367;
@@ -280,97 +241,12 @@
   --logo-edge: #e86b7c;
   --logo-iris: #9b74b8;
   --logo-pupil: #e2deea;
-  --cat-dark: #433b54;
-  --cat-mid: #9b74b8;
+  --cat-dark: #622f41;
+  --cat-mid: #9d465e;
   --cat-base: #d85d7b;
-  --cat-light: #e86b7c;
+  --cat-light: #dc91a7;
 }
 
-/* ── hilltop (ember amber × moss × clay) ── */
-[data-theme="hilltop"] {
-  --bg: #27150D;
-  --bg-panel: #2E1D12;
-  --bg-panel-alt: #4A3423;
-  --border: #4A3423;
-  --border-strong: #F2A65A;
-  --fg: #F2E6D8;
-  --fg-dim: #E0B98A;
-  --fg-muted: #6B4423;
-  --accent: #F2A65A;
-  --accent-bright: #F0CB84;
-  --accent-soft: #8FAE5C;
-  --accent-dim: #6B9E8C;
-  --link: #8FAE5C;
-  --link-hover: #F0CB84;
-  --focus-ring: #F2A65A;
-  --grid-fade: #27150D;
-  --grid-line: rgba(242, 166, 90, 0.08);
-  --grid-dot: rgba(242, 166, 90, 0.28);
-  --bg-glow: #2E1D12;
-  --bg-core: #0A0603;
-  --bar-a: #F2A65A;
-  --bar-b: #E0B15A;
-  --bar-c: #8FAE5C;
-  --orange: #E0B15A;
-  --orange-deep: #4A3423;
-  --red: #D9695A;
-  --red-deep: #A63D2E;
-  --cyan: #6B9E8C;
-  --cyan-deep: #5C6B8C;
-  --yellow: #F0CB84;
-  --logo-disc: #2E1D12;
-  --logo-eye: #F2A65A;
-  --logo-edge: #F0CB84;
-  --logo-iris: #8FAE5C;
-  --logo-pupil: #F2E6D8;
-  --cat-dark: #4A3423;
-  --cat-mid: #A65D2E;
-  --cat-base: #F2A65A;
-  --cat-light: #F0CB84;
-}
-
-/* ── evergreen (deep pine × leaf × teal) ── */
-[data-theme="evergreen"] {
-  --bg: #101913;
-  --bg-panel: #28302b;
-  --bg-panel-alt: #28302b;
-  --border: #4a684a;
-  --border-strong: #4a9a68;
-  --fg: #a1af9c;
-  --fg-dim: #798375;
-  --fg-muted: #4a684a;
-  --accent: #4a9a68;
-  --accent-bright: #82c45a;
-  --accent-soft: #6aae52;
-  --accent-dim: #52987a;
-  --link: #6aae52;
-  --link-hover: #82c45a;
-  --focus-ring: #4a9a68;
-  --grid-fade: #101913;
-  --grid-line: rgba(74, 154, 104, 0.08);
-  --grid-dot: rgba(74, 154, 104, 0.28);
-  --bg-glow: #28302b;
-  --bg-core: #080d0a;
-  --bar-a: #4a9a68;
-  --bar-b: #6aae52;
-  --bar-c: #52987a;
-  --orange: #c4a64e;
-  --orange-deep: #8a7856;
-  --red: #c87a5c;
-  --red-deep: #4a684a;
-  --cyan: #52987a;
-  --cyan-deep: #4a9a68;
-  --yellow: #d4ba60;
-  --logo-disc: #28302b;
-  --logo-eye: #4a9a68;
-  --logo-edge: #82c45a;
-  --logo-iris: #6aae52;
-  --logo-pupil: #a1af9c;
-  --cat-dark: #4a684a;
-  --cat-mid: #4a9a68;
-  --cat-base: #6aae52;
-  --cat-light: #82c45a;
-}
 
 /* ── cyberpunk (neon gold × crimson × terminal green) ── */
 [data-theme="cyberpunk"] {
@@ -409,10 +285,10 @@
   --logo-edge: #d7a23a;
   --logo-iris: #D14358;
   --logo-pupil: #d8e0ff;
-  --cat-dark: #B32D2D;
-  --cat-mid: #D14358;
+  --cat-dark: #51481e;
+  --cat-mid: #8c7a26;
   --cat-base: #C4A82E;
-  --cat-light: #d7a23a;
+  --cat-light: #cbbc77;
 }
 
 
