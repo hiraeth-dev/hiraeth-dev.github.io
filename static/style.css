@@ -204,50 +204,7 @@
   --cyan-deep: #547875;
   --yellow: #F2BEA0;
 }
-/* ── Theme-aware logo colors (evil-eye mark, shapes in templates/logo.html) ── */
-:root {
-  --logo-disc: #313C47;
-  --logo-eye: #7794A6;
-  --logo-edge: #8AB2C9;
-  --logo-iris: #D9A78B;
-  --logo-pupil: #D9D1BA;
-}
-[data-theme="miasma"] {
-  --logo-disc: #383838;
-  --logo-eye: #78824b;
-  --logo-edge: #d7c483;
-  --logo-iris: #c9a554;
-  --logo-pupil: #c2c2b0;
-}
-[data-theme="solitude"] {
-  --logo-disc: #232a2e;
-  --logo-eye: #798186;
-  --logo-edge: #a8adb0;
-  --logo-iris: #c9c2b4;
-  --logo-pupil: #cacccc;
-}
-[data-theme="gruvbox"] {
-  --logo-disc: #45403d;
-  --logo-eye: #e78a4e;
-  --logo-edge: #d8a657;
-  --logo-iris: #7daea3;
-  --logo-pupil: #d4be98;
-}
-[data-theme="kanagawa"] {
-  --logo-disc: #313C47;
-  --logo-eye: #7794A6;
-  --logo-edge: #8AB2C9;
-  --logo-iris: #D9A78B;
-  --logo-pupil: #D9D1BA;
-}
 
-
-
-
-*, *::before, *::after {
-  margin: 0; padding: 0; box-sizing: border-box;
-  border-radius: 0 !important;
-}
 
 html {
   scroll-behavior: smooth;
@@ -326,15 +283,6 @@ nav.top .logo {
   object-fit: contain;
   flex-shrink: 0;
   filter: drop-shadow(1px 1px 0 rgba(0, 0, 0, 0.6));
-}
-/* Theme-aware logo fills (shapes live in templates/logo.html, no hardcoded color) */
-.logo-mark .lg-disc { fill: var(--logo-disc); }
-.logo-mark .lg-eye { fill: var(--logo-eye); stroke: var(--logo-edge); }
-.logo-mark .lg-iris { fill: var(--logo-iris); }
-.logo-mark .lg-pupil { fill: var(--logo-pupil); }
-.logo-mark .lg-disc, .logo-mark .lg-eye,
-.logo-mark .lg-iris, .logo-mark .lg-pupil {
-  transition: fill 0.2s ease, stroke 0.2s ease;
 }
 .logo-text {
   display: inline-flex;
