@@ -251,6 +251,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 72px;
 }
 
 /* ── Scrollbar ── */
@@ -287,16 +288,20 @@ a:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
 
 /* ── Nav ── */
 nav.top {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
   padding: 14px 24px;
-  background: color-mix(in srgb, var(--bg-panel) 85%, transparent);
+  background: color-mix(in srgb, var(--bg-panel) 92%, transparent);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-bottom: 2px solid var(--border);
   box-shadow: 0 4px 0 var(--border);
   display: flex; justify-content: space-between; align-items: center;
   gap: 16px;
-  position: relative;
-  z-index: 40;
 }
 nav.top .logo {
   color: var(--fg);
