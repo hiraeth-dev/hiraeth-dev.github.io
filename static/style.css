@@ -296,9 +296,7 @@ nav.top {
   max-width: 100%;
   box-sizing: border-box;
   padding: 6px 24px;
-  background: color-mix(in srgb, var(--bg-panel) 92%, transparent);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: var(--bg-panel);
   border-bottom: 1px solid var(--border);
   box-shadow: 0 2px 0 var(--border);
   display: flex; justify-content: space-between; align-items: center;
