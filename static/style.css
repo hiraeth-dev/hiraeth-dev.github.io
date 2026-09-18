@@ -19,6 +19,12 @@
   font-weight: 700; font-style: italic; font-display: swap;
 }
 
+/* Border-box everywhere: width:100% + padding must not spill past the viewport
+   (this was the horizontal scrollbar — e.g. .footer's 24px padding). */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
 /* ── Base: miasma (fallback when JS disabled, matches default theme) ── */
 :root {
   --bg: #1A2026;
@@ -243,6 +249,7 @@ html {
   scroll-padding-top: 52px;
   margin: 0;
   padding: 0;
+  overflow-x: clip;
 }
 
 /* ── Scrollbar ── */
@@ -258,6 +265,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  overflow-x: clip;
   background:
     radial-gradient(ellipse 120% 90% at 50% 35%, var(--bg-core) 0%, var(--bg) 55%, var(--bg-glow) 100%);
   background-attachment: fixed;
@@ -446,7 +454,7 @@ nav.top .logo:active {
 /* ── Grid canvas background ── */
 #grid-canvas {
   position: fixed; top: 0; left: 0;
-  width: 100vw; height: 100vh;
+  width: 100%; height: 100vh;
   z-index: -1; pointer-events: none;
 }
 
@@ -1190,6 +1198,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   .stack-grid { grid-template-columns: 1fr; }
   .stats-grid { grid-template-columns: 1fr; }
   .terminal-body { padding: 16px; }
+  .type-toolbar { flex-wrap: wrap; row-gap: 6px; }
 }
 
 /* ── Desktop enhancement (min-width, additive) ── */
@@ -1989,6 +1998,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* Results footer actions */
 .type-results-footer {
   display: flex;
+  flex-wrap: wrap;
   gap: 14px;
   align-items: center;
   justify-content: center;
@@ -2377,7 +2387,7 @@ html.anim-on .reveal.in {
   margin: 14px auto 0;
   display: block;
 }
-.walldiff-buttons { display: flex; justify-content: center; gap: 10px; margin-top: 14px; }
+.walldiff-buttons { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 14px; }
 .walldiff-options { display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
 .walldiff-btn {
   font-family: var(--font-mono);
