@@ -1199,6 +1199,9 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   .stats-grid { grid-template-columns: 1fr; }
   .terminal-body { padding: 16px; }
   .type-toolbar { flex-wrap: wrap; row-gap: 6px; }
+  .dict-meaning-item { padding: 8px 10px; }
+  .dict-word-row { gap: 8px; margin-bottom: 10px; }
+  .dict-word { font-size: 1.18rem; }
 }
 
 /* ── Desktop enhancement (min-width, additive) ── */
@@ -1376,6 +1379,27 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 .dict-meaning-item em {
   color: var(--accent-soft);
   font-style: italic;
+}
+@media (max-width: 640px) {
+  .dict-meaning-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 10px 12px;
+  }
+  .dict-meaning-lbl {
+    min-width: auto;
+    font-size: 0.625rem;
+    font-weight: 800;
+    padding: 2px 8px;
+    letter-spacing: 0.1em;
+    margin-top: 0;
+  }
+  .dict-meaning-item .dict-def {
+    width: 100%;
+    font-size: 0.8125rem;
+    line-height: 1.55;
+  }
 }
 .dict-footer-action {
   margin-top: 14px;
