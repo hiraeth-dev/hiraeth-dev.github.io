@@ -34,7 +34,13 @@
         <h1 class="novel-hero-title">{{ section.title }}</h1>
         <div class="novel-hero-badges">
           {% if section.subsections %}
-            <span class="section-badge">{{ section.subsections | length }} books</span>
+            <span class="section-badge">
+              {% if section.extra.sub_label %}
+                {{ section.subsections | length }} {{ section.extra.sub_label }}
+              {% else %}
+                {{ section.subsections | length }} books
+              {% endif %}
+            </span>
           {% else %}
             <span class="section-badge">{{ pages | length }} chapters</span>
           {% endif %}
@@ -70,7 +76,11 @@
     <div class="section-line" aria-hidden="true"></div>
     <span class="section-badge">
       {% if section.subsections %}
-        {{ section.subsections | length }} books
+        {% if section.extra.sub_label %}
+          {{ section.subsections | length }} {{ section.extra.sub_label }}
+        {% else %}
+          {{ section.subsections | length }} books
+        {% endif %}
       {% else %}
         {{ pages | length }} chapters
       {% endif %}
@@ -82,7 +92,7 @@
         {% set sub_sec = get_section(path=sub) %}
         <a href="{{ sub_sec.path | safe }}" class="chapter-card">
           <div class="chapter-card-top">
-            <span class="chapter-num">BOOK {{ loop.index }}</span>
+            <span class="chapter-num">{% if sub_sec.extra.label %}{{ sub_sec.extra.label }}{% else %}BOOK {{ loop.index }}{% endif %}</span>
             <span class="chapter-arrow">&nearr;</span>
           </div>
           <div class="chapter-card-title">{{ sub_sec.title }}</div>
@@ -96,7 +106,9 @@
         <a href="{{ page.path | safe }}" class="chapter-card">
           <div class="chapter-card-top">
             <span class="chapter-num">
-              {% if page.extra.chapter %}
+              {% if page.extra.badge %}
+                {{ page.extra.badge }}
+              {% elif page.extra.chapter %}
                 CH.{{ page.extra.chapter }}
               {% else %}
                 {{ loop.index }}

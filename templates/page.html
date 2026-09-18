@@ -69,11 +69,11 @@
       {% endfor %}
     {% endif %}
     {% set unit = novel.extra.unit | default(value="Chapter") %}
-    <div>{% if prev_page %}<a href="{{ prev_page.path }}">&#8592; {{ unit }} {{ prev_page.extra.chapter }}</a>{% endif %}</div>
-    <div>{% if next_page %}<a href="{{ next_page.path }}">{{ unit }} {{ next_page.extra.chapter }} &#8594;</a>{% endif %}</div>
+    <div>{% if prev_page %}<a href="{{ prev_page.path }}">&#8592; {% if prev_page.extra.nav_title %}{{ prev_page.extra.nav_title }}{% elif prev_page.extra.chapter %}{{ unit }} {{ prev_page.extra.chapter }}{% else %}{{ prev_page.title }}{% endif %}</a>{% endif %}</div>
+    <div>{% if next_page %}<a href="{{ next_page.path }}">{% if next_page.extra.nav_title %}{{ next_page.extra.nav_title }}{% elif next_page.extra.chapter %}{{ unit }} {{ next_page.extra.chapter }}{% else %}{{ next_page.title }}{% endif %} &#8594;</a>{% endif %}</div>
   {% else %}
-    <div>{% if page.lower %}<a href="{{ page.lower.path }}">&#8592; Chapter {{ page.lower.extra.chapter }}</a>{% endif %}</div>
-    <div>{% if page.higher %}<a href="{{ page.higher.path }}">Chapter {{ page.higher.extra.chapter }} &#8594;</a>{% endif %}</div>
+    <div>{% if page.lower %}<a href="{{ page.lower.path }}">&#8592; {% if page.lower.extra.nav_title %}{{ page.lower.extra.nav_title }}{% elif page.lower.extra.chapter %}Chapter {{ page.lower.extra.chapter }}{% else %}{{ page.lower.title }}{% endif %}</a>{% endif %}</div>
+    <div>{% if page.higher %}<a href="{{ page.higher.path }}">{% if page.higher.extra.nav_title %}{{ page.higher.extra.nav_title }}{% elif page.higher.extra.chapter %}Chapter {{ page.higher.extra.chapter }}{% else %}{{ page.higher.title }}{% endif %} &#8594;</a>{% endif %}</div>
   {% endif %}
 </div>
 {% endblock content %}

@@ -39,7 +39,7 @@
   <div class="section-header">
     <h2 class="section-heading"><span class="heading-sym">~/</span>novels</h2>
     <div class="section-line" aria-hidden="true"></div>
-    <span class="section-badge">11 books</span>
+    <span class="section-badge">12 books</span>
   </div>
   {% set ri = get_section(path="reverend-insanity/_index.md") %}
   {% set chapters = get_section(path="chapters/_index.md") %}
@@ -52,7 +52,8 @@
   {% set trial = get_section(path="the-trial/_index.md") %}
   {% set pride = get_section(path="pride-and-prejudice/_index.md") %}
   {% set odyssey = get_section(path="the-odyssey/_index.md") %}
-  {% set shelves = [ri, chapters, md, wn, idiot, nfu, bk, meta, trial, pride, odyssey] %}
+  {% set roshidere = get_section(path="roshidere/_index.md") %}
+  {% set shelves = [ri, chapters, md, wn, idiot, nfu, bk, meta, trial, pride, odyssey, roshidere] %}
   <div class="novels-grid">
     {% for shelf in shelves %}
     <a href="{{ shelf.path }}" class="novel-card">
