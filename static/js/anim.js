@@ -1,5 +1,9 @@
 (function() {
   var doc = document;
+  // Gate the dimmed pre-reveal state on this script actually running.
+  // (Previously `html.js` was set in <head>, so first paint showed every
+  // section at 15% opacity until these files arrived — a dark flash.)
+  doc.documentElement.classList.add('anim-on');
   var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   /* scroll progress bar */
