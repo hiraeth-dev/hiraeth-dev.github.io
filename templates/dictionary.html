@@ -24,7 +24,7 @@
 
       <form id="dict-form" class="dict-search">
         <span class="dict-prompt">></span>
-        <input type="text" id="dict-input" class="dict-input" placeholder="type a word…" autocomplete="off" autofocus>
+        <input type="text" id="dict-input" class="dict-input" value="hiraeth" autocomplete="off" autofocus>
         <button type="submit" class="dict-submit">↵</button>
       </form>
 
@@ -340,6 +340,10 @@
     if (!word) return;
     doLookup(word);
   });
+
+  // Pre-loaded showcase: "hiraeth" is already typed; show its entry at once.
+  input.value = 'hiraeth';
+  doLookup('hiraeth');
 })();
 </script>
 {% endblock content %}
