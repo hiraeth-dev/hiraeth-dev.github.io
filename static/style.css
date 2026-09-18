@@ -19,31 +19,31 @@
   font-weight: 700; font-style: italic; font-display: swap;
 }
 
-/* ── Base: parchment (fallback when JS disabled) ── */
+/* ── Base: miasma (fallback when JS disabled, matches default theme) ── */
 :root {
-  --bg: #eae1cd;
-  --bg-panel: #f7f2e7;
-  --bg-panel-alt: #fdfaf3;
-  --border: #3b2d1f;
-  --border-strong: #8b2513;
-  --fg: #1c1611;
-  --fg-dim: #5c4937;
-  --fg-muted: #8e7861;
-  --accent: #8b2513;
-  --accent-bright: #b3321d;
-  --accent-soft: #1e567a;
-  --accent-dim: #286644;
+  --bg: #222222;
+  --bg-panel: #2a2a27;
+  --bg-panel-alt: #383838;
+  --border: #43492a;
+  --border-strong: #78824b;
+  --fg: #c2c2b0;
+  --fg-dim: #8a8a7e;
+  --fg-muted: #666666;
+  --accent: #78824b;
+  --accent-bright: #d7c483;
+  --accent-soft: #c9a554;
+  --accent-dim: #5f875f;
   --link: var(--accent-soft);
-  --link-hover: var(--accent-dim);
-  --focus-ring: var(--accent-bright);
-  --grid-fade: #eae1cd;
+  --link-hover: var(--accent-bright);
+  --focus-ring: var(--accent);
+  --grid-fade: #222222;
   --grid-line: rgba(59, 45, 31, 0.09);
   --grid-dot: rgba(59, 45, 31, 0.28);
-  --bg-glow: #ded4bf;
-  --bg-core: #f3ecde;
-  --bar-a: #8b2513;
-  --bar-b: #bf8524;
-  --bar-c: #1e567a;
+  --bg-glow: #242d1d;
+  --bg-core: #101010;
+  --bar-a: #78824b;
+  --bar-b: #c9a554;
+  --bar-c: #b36d43;
   --font-mono: "Maple Mono NF", monospace;
   --font-read: "Maple Mono NF", monospace;
   --text-xs: 0.75rem;
@@ -55,195 +55,123 @@
   --content-w: 720px;
   --content-w-wide: 1100px;
   --content-w-list: 960px;
-  --orange: #ff7e33;
-  --orange-deep: #943407;
-  --red: #ff4d4d;
-  --red-deep: #7f1d1d;
-  --cyan: #2dd4bf;
-  --cyan-deep: #134e4a;
-  --yellow: #f59e0b;
+  --orange: #b36d43;
+  --orange-deep: #685742;
+  --red: #b36d43;
+  --red-deep: #685742;
+  --cyan: #c9a554;
+  --cyan-deep: #78824b;
+  --yellow: #d7c483;
 }
 
-/* ═══════════════════════════════════════════════════════════
-   THEMES — 5 diverse, multi-accent themes (including light)
-   Each with unique accent trios and custom hover-bar gradients
+/* THEMES — miasma + solitude (Omarchy palettes)
+   miasma: xero canonical — cellar black, linen, moss olive, rust, sickly gold
+   solitude: HANCORE charcoal monochrome, steel accents, single rust alert
    ─────────────────────────────────────────────────────────── */
 
-/* ── 2. Cyberpunk (vibrant terminal — electric cyan × neon magenta × toxic lime) ── */
-[data-theme="cyberpunk"] {
-  --bg: #07090e;
-  --bg-panel: #0d121c;
-  --bg-panel-alt: #141b29;
-  --border: #223048;
-  --border-strong: #00f0ff;
-  --fg: #f0f6fc;
-  --fg-dim: #8ba2c4;
-  --fg-muted: #4e6382;
-  --accent: #00f0ff;
-  --accent-bright: #38bdf8;
-  --accent-soft: #ff2a85;
-  --accent-dim: #39ff14;
-  --link: #00f0ff;
-  --link-hover: #ff2a85;
-  --focus-ring: #00f0ff;
-  --grid-fade: #07090e;
-  --grid-line: rgba(0, 240, 255, 0.06);
-  --grid-dot: rgba(0, 240, 255, 0.22);
-  --bg-glow: #021a24;
-  --bg-core: #000000;
-  --bar-a: #00f0ff;
-  --bar-b: #ff2a85;
-  --bar-c: #39ff14;
+/* ── 1. Miasma (DEFAULT — dark organic: olive × sickly gold × rust) ── */
+:root,
+[data-theme="miasma"] {
+  --bg: #222222;
+  --bg-panel: #2a2a27;
+  --bg-panel-alt: #383838;
+  --border: #43492a;
+  --border-strong: #78824b;
+  --fg: #c2c2b0;
+  --fg-dim: #8a8a7e;
+  --fg-muted: #666666;
+  --accent: #78824b;
+  --accent-bright: #d7c483;
+  --accent-soft: #c9a554;
+  --accent-dim: #5f875f;
+  --link: #c9a554;
+  --link-hover: #d7c483;
+  --focus-ring: #78824b;
+  --grid-fade: #222222;
+  --grid-line: rgba(120, 130, 75, 0.08);
+  --grid-dot: rgba(120, 130, 75, 0.28);
+  --bg-glow: #242d1d;
+  --bg-core: #101010;
+  --bar-a: #78824b;
+  --bar-b: #c9a554;
+  --bar-c: #b36d43;
+  --orange: #b36d43;
+  --orange-deep: #685742;
+  --red: #b36d43;
+  --red-deep: #685742;
+  --cyan: #c9a554;
+  --cyan-deep: #78824b;
+  --yellow: #d7c483;
 }
 
-/* ── 3. Jade (Imperial Jade — Emerald × Golden Amber × Cinnabar Red) ── */
-[data-theme="jade"] {
-  --bg: #081512;
-  --bg-panel: #0f251f;
-  --bg-panel-alt: #16362d;
-  --border: #1b6352;
-  --border-strong: #1e9177;
-  --fg: #a8c5b5;
-  --fg-dim: #9ab8a8;
-  --fg-muted: #567d6c;
-  --accent: #1e9177;
-  --accent-bright: #26a589;
-  --accent-soft: #f59e0b;
-  --accent-dim: #c93b3b;
-  --link: #1e9177;
-  --link-hover: #26a589;
-  --focus-ring: #26a589;
-  --grid-fade: #081512;
-  --grid-line: rgba(30, 145, 119, 0.08);
-  --grid-dot: rgba(30, 145, 119, 0.28);
-  --bg-glow: #072b22;
-  --bg-core: #000000;
-  --bar-a: #1e9177;
-  --bar-b: #f59e0b;
-  --bar-c: #c93b3b;
+/* ── 2. Solitude (sparse charcoal monochrome — steel × bone × rust alert) ── */
+[data-theme="solitude"] {
+  --bg: #101315;
+  --bg-panel: #1a1f22;
+  --bg-panel-alt: #232a2e;
+  --border: #2f353b;
+  --border-strong: #798186;
+  --fg: #cacccc;
+  --fg-dim: #9fa5a9;
+  --fg-muted: #5d6367;
+  --accent: #798186;
+  --accent-bright: #a8adb0;
+  --accent-soft: #c9c2b4;
+  --accent-dim: #707070;
+  --link: #a8adb0;
+  --link-hover: #d9dbdc;
+  --focus-ring: #798186;
+  --grid-fade: #101315;
+  --grid-line: rgba(121, 129, 134, 0.08);
+  --grid-dot: rgba(121, 129, 134, 0.28);
+  --bg-glow: #1c2124;
+  --bg-core: #0a0c0e;
+  --bar-a: #798186;
+  --bar-b: #a8adb0;
+  --bar-c: #c9c2b4;
+  --orange: #c9c2b4;
+  --orange-deep: #707070;
+  --red: #de6145;
+  --red-deep: #4b4e55;
+  --cyan: #9fa5a9;
+  --cyan-deep: #343d41;
+  --yellow: #d9dbdc;
 }
 
-/* ── 4. Crimson (blood-red gothic — arterial scarlet × relic gold × phantom amethyst) ── */
-[data-theme="crimson"] {
-  --bg: #0c0406;
-  --bg-panel: #16080c;
-  --bg-panel-alt: #220e14;
-  --border: #3d141b;
-  --border-strong: #ff2a4b;
-  --fg: #fceeee;
-  --fg-dim: #c98e98;
-  --fg-muted: #73454e;
-  --accent: #ff2a4b;
-  --accent-bright: #ff526e;
-  --accent-soft: #f59e0b;
-  --accent-dim: #a855f7;
-  --link: #ff2a4b;
-  --link-hover: #f59e0b;
-  --focus-ring: #ff2a4b;
-  --grid-fade: #0c0406;
-  --grid-line: rgba(255, 42, 75, 0.06);
-  --grid-dot: rgba(255, 42, 75, 0.28);
-  --bg-glow: #28050e;
-  --bg-core: #000000;
-  --bar-a: #ff2a4b;
-  --bar-b: #f59e0b;
-  --bar-c: #a855f7;
+/* ── 3. Gruvbox Material (warm retro — burnt orange × golden yellow × sage) ── */
+[data-theme="gruvbox"] {
+  --bg: #282828;
+  --bg-panel: #32302f;
+  --bg-panel-alt: #45403d;
+  --border: #45403d;
+  --border-strong: #e78a4e;
+  --fg: #d4be98;
+  --fg-dim: #a89984;
+  --fg-muted: #7c6f64;
+  --accent: #e78a4e;
+  --accent-bright: #d8a657;
+  --accent-soft: #7daea3;
+  --accent-dim: #a9b665;
+  --link: #7daea3;
+  --link-hover: #d8a657;
+  --focus-ring: #e78a4e;
+  --grid-fade: #282828;
+  --grid-line: rgba(231, 138, 78, 0.08);
+  --grid-dot: rgba(231, 138, 78, 0.28);
+  --bg-glow: #32302f;
+  --bg-core: #141414;
+  --bar-a: #e78a4e;
+  --bar-b: #d8a657;
+  --bar-c: #a9b665;
+  --orange: #e78a4e;
+  --orange-deep: #744527;
+  --red: #ea6962;
+  --red-deep: #744527;
+  --cyan: #89b482;
+  --cyan-deep: #7daea3;
+  --yellow: #d8a657;
 }
 
-/* ── 5. Synthwave (retro outrun — flamingo pink × sunset orange × electric cyan) ── */
-[data-theme="synthwave"] {
-  --bg: #0c0614;
-  --bg-panel: #160c24;
-  --bg-panel-alt: #221336;
-  --border: #3b1d5a;
-  --border-strong: #f43f5e;
-  --fg: #fdf2f8;
-  --fg-dim: #d1a8e2;
-  --fg-muted: #78508e;
-  --accent: #f43f5e;
-  --accent-bright: #fb7185;
-  --accent-soft: #fb923c;
-  --accent-dim: #06b6d4;
-  --link: #fb923c;
-  --link-hover: #f43f5e;
-  --focus-ring: #f43f5e;
-  --grid-fade: #0c0614;
-  --grid-line: rgba(244, 63, 94, 0.06);
-  --grid-dot: rgba(244, 63, 94, 0.20);
-  --bg-glow: #240530;
-  --bg-core: #000000;
-  --bar-a: #f43f5e;
-  --bar-b: #fb923c;
-  --bar-c: #06b6d4;
-}
-
-/* ── 6. Parchment (LIGHT — tactile archival paper × vermilion wax × Prussian ink × verdigris) ── */
-[data-theme="parchment"] {
-  --bg: #eae1cd;
-  --bg-panel: #f7f2e7;
-  --bg-panel-alt: #fdfaf3;
-  --border: #3b2d1f;
-  --border-strong: #8b2513;
-  --fg: #1c1611;
-  --fg-dim: #5c4937;
-  --fg-muted: #8e7861;
-  --accent: #8b2513;
-  --accent-bright: #b3321d;
-  --accent-soft: #1e567a;
-  --accent-dim: #286644;
-  --link: #1e567a;
-  --link-hover: #8b2513;
-  --focus-ring: #8b2513;
-  --grid-fade: #eae1cd;
-  --grid-line: rgba(59, 45, 31, 0.09);
-  --grid-dot: rgba(59, 45, 31, 0.28);
-  --bg-glow: #ded4bf;
-  --bg-core: #f3ecde;
-  --bar-a: #8b2513;
-  --bar-b: #bf8524;
-  --bar-c: #1e567a;
-}
-
-/* ── Parchment Tactile Paper Texture for Cards & Elements ── */
-
-[data-theme="parchment"] .novel-card,
-[data-theme="parchment"] .stack-card,
-[data-theme="parchment"] .stat-card,
-[data-theme="parchment"] .terminal,
-[data-theme="parchment"] .chapter-card,
-[data-theme="parchment"] .code-block,
-[data-theme="parchment"] .section-badge,
-[data-theme="parchment"] nav.top .logo,
-[data-theme="parchment"] .theme-btn,
-[data-theme="parchment"] .theme-menu,
-[data-theme="parchment"] .dict-launch-btn,
-[data-theme="parchment"] .dict-meaning-item,
-[data-theme="parchment"] .novel-hero-terminal {
-  background-color: var(--bg-panel);
-  background-image:
-    url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='cardNoise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23cardNoise)' opacity='0.06'/%3E%3C/svg%3E"),
-    repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(100, 75, 45, 0.02) 3px, rgba(100, 75, 45, 0.02) 6px);
-}
-
-[data-theme="parchment"] .novel-card:hover,
-[data-theme="parchment"] .stack-card:hover,
-[data-theme="parchment"] .stat-card:hover,
-[data-theme="parchment"] .chapter-card:hover {
-  background-color: var(--bg-panel-alt);
-}
-
-[data-theme="parchment"] nav.top {
-  background: color-mix(in srgb, var(--bg-panel) 92%, transparent);
-}
-
-[data-theme="parchment"] .terminal-bar {
-  background: var(--bg-panel-alt);
-}
-
-[data-theme="parchment"] ::selection {
-  background: #e8d0a9;
-  color: #1a1208;
-}
 
 
 
@@ -268,7 +196,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   background:
-    radial-gradient(ellipse 120% 90% at 50% 35%, var(--bg-core, #000) 0%, var(--bg) 55%, var(--bg-glow) 100%);
+    radial-gradient(ellipse 120% 90% at 50% 35%, var(--bg-core) 0%, var(--bg) 55%, var(--bg-glow) 100%);
   background-attachment: fixed;
   color: var(--fg);
   font-family: var(--font-mono);
@@ -473,9 +401,9 @@ nav.top .logo:active {
   height: 9px;
   box-shadow: 1px 1px 0 rgba(0,0,0,0.5);
 }
-.dot-red { background: #ff4d4d; border: 1px solid #c53030; }
-.dot-yellow { background: #f59e0b; border: 1px solid #d97706; }
-.dot-cyan { background: #2dd4bf; border: 1px solid #0d9488; }
+.dot-red { background: var(--red); border: 1px solid var(--red-deep); }
+.dot-yellow { background: var(--yellow); border: 1px solid var(--orange-deep); }
+.dot-cyan { background: var(--cyan); border: 1px solid var(--cyan-deep); }
 .dict-word-row .sym { color: var(--accent); margin-right: 2px; }
 .live-dot {
   display: inline-block;
@@ -631,7 +559,7 @@ nav.top .logo:active {
   right: 0;
   bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, var(--bar-a, #ff4d4d), var(--bar-b, #f59e0b), var(--bar-c, #2dd4bf));
+  background: linear-gradient(90deg, var(--bar-a, var(--accent)), var(--bar-b, var(--accent-soft)), var(--bar-c, var(--accent-dim)));
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -787,7 +715,7 @@ nav.top .logo:active {
 .stack-card::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, var(--bar-a, #ff4d4d), var(--bar-b, #f59e0b), var(--bar-c, #2dd4bf));
+  background: linear-gradient(90deg, var(--bar-a, var(--accent)), var(--bar-b, var(--accent-soft)), var(--bar-c, var(--accent-dim)));
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -859,7 +787,7 @@ nav.top .logo:active {
 .stat-card::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, var(--bar-c, #2dd4bf), var(--bar-b, #f59e0b), var(--bar-a, #ff4d4d));
+  background: linear-gradient(90deg, var(--bar-c, var(--accent-dim)), var(--bar-b, var(--accent-soft)), var(--bar-a, var(--accent)));
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -978,8 +906,8 @@ nav.top .logo:active {
   flex-wrap: wrap;
 }
 .novel-hero-badges .badge-accent {
-  color: var(--accent-soft, #2dd4bf);
-  border-color: var(--accent-soft, #2dd4bf);
+  color: var(--accent-soft);
+  border-color: var(--accent-soft);
 }
 .novel-hero-quote {
   background: var(--bg-panel-alt);
@@ -1089,7 +1017,7 @@ nav.top .logo:active {
   right: 0;
   bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, var(--bar-a, #ff4d4d), var(--bar-b, #f59e0b), var(--bar-c, #2dd4bf));
+  background: linear-gradient(90deg, var(--bar-a, var(--accent)), var(--bar-b, var(--accent-soft)), var(--bar-c, var(--accent-dim)));
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -1278,7 +1206,7 @@ nav.top .logo:active {
   margin-right: 6px;
 }
 .dict-cmd-line .dict-cmd {
-  color: var(--accent-soft, #2dd4bf);
+  color: var(--accent-soft);
   font-weight: 700;
 }
 .dict-entry {
@@ -1710,7 +1638,7 @@ nav.top .logo:active {
   text-underline-offset: 4px;
 }
 .tc.extra {
-  color: color-mix(in srgb, var(--accent) 80%, #ffffff);
+  color: color-mix(in srgb, var(--accent) 80%, var(--fg));
   opacity: 0.95;
   text-decoration: underline;
   text-decoration-color: var(--accent);

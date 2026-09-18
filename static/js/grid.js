@@ -21,9 +21,9 @@
     const cs = getComputedStyle(document.documentElement);
     const pick = (a, b, fb) => cs.getPropertyValue(a).trim() || cs.getPropertyValue(b).trim() || fb;
     return {
-      fade: pick('--canvas-fade', '--grid-fade', '#08080a'),
-      line: pick('--canvas-line', '--grid-line', 'rgba(150, 170, 220, 0.05)'),
-      dot: pick('--canvas-dot', '--grid-dot', 'rgba(150, 170, 220, 0.20)'),
+      fade: pick('--canvas-fade', '--grid-fade', '#222222'),
+      line: pick('--canvas-line', '--grid-line', 'rgba(120, 130, 75, 0.08)'),
+      dot: pick('--canvas-dot', '--grid-dot', 'rgba(120, 130, 75, 0.28)'),
     };
   }
   function parseRgba(str) {
