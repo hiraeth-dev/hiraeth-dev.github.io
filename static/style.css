@@ -286,6 +286,15 @@ nav.top .logo {
   flex-shrink: 0;
   filter: drop-shadow(1px 1px 0 rgba(0, 0, 0, 0.6));
 }
+/* Theme-aware logo fills (shapes live in templates/logo.html, no hardcoded color) */
+.logo-mark .lg-disc { fill: var(--logo-disc); }
+.logo-mark .lg-eye { fill: var(--logo-eye); stroke: var(--logo-edge); }
+.logo-mark .lg-iris { fill: var(--logo-iris); }
+.logo-mark .lg-pupil { fill: var(--logo-pupil); }
+.logo-mark .lg-disc, .logo-mark .lg-eye,
+.logo-mark .lg-iris, .logo-mark .lg-pupil {
+  transition: fill 0.2s ease, stroke 0.2s ease;
+}
 .logo-text {
   display: inline-flex;
   align-items: center;
@@ -851,8 +860,9 @@ nav.top .logo:active {
   font-size: 1rem; line-height: 1.85; color: var(--fg);
 }
 .chapter-body p { margin-bottom: 1.4em; }
-.chapter-body em { color: var(--accent-soft); font-style: italic; }
-.chapter-body strong { color: var(--accent); }
+.chapter-body em { font-style: italic; color: inherit; }
+.chapter-body strong { font-weight: 700; color: inherit; }
+.chapter-body u { text-decoration: underline; text-underline-offset: 3px; }
 .chapter-body img { max-width: 100%; max-height: 600px; width: auto; height: auto; display: block; margin: 1.5em auto; }
 
 .page-header {
