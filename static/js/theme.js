@@ -5,12 +5,6 @@
   if (!btn || !menu) return;
   var current = html.getAttribute('data-theme') || 'kanagawa';
   var VALID = ['miasma', 'solitude', 'gruvbox', 'kanagawa'];
-  var LOGOS = {
-    miasma: '/logo-miasma.png',
-    solitude: '/logo-solitude.png',
-    gruvbox: '/logo-gruvbox.png',
-    kanagawa: '/logo-kanagawa.png'
-  };
   if (VALID.indexOf(current) < 0) {
     current = 'kanagawa';
     html.setAttribute('data-theme', current);
@@ -23,8 +17,6 @@
       opts[i].classList.toggle('active', opts[i].getAttribute('data-theme-opt') === current);
     }
     btn.textContent = current;
-    var logo = document.getElementById('site-logo');
-    if (logo && LOGOS[current]) logo.setAttribute('src', LOGOS[current]);
   }
 
   function close() {

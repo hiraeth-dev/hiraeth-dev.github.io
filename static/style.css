@@ -284,6 +284,28 @@ nav.top .logo {
   flex-shrink: 0;
   filter: drop-shadow(1px 1px 0 rgba(0, 0, 0, 0.6));
 }
+/* ── Site logo: pixel kitty (ported from abeyant newtab) ──
+   Chunky pixel shapes drawn with clip-path; colors resolve through theme
+   vars so the cat recolors on every theme switch. Scaled into the 20px slot. */
+.site-cat { overflow: hidden; position: relative; }
+.site-cat .cat-logo { position: relative; display: block; width: 182px; height: 166px; transform: scale(0.11); transform-origin: top left; }
+.site-cat .cat-logo i { position: absolute; display: block; }
+.site-cat .cat-tail { z-index: 1; left: 126px; top: 48px; width: 48px; height: 101px; background: var(--accent-dim); clip-path: polygon(35% 0, 100% 0, 100% 75%, 83% 75%, 83% 100%, 0 100%, 0 76%, 50% 76%, 50% 25%, 35% 25%); }
+.site-cat .cat-body { z-index: 2; left: 69px; top: 86px; width: 83px; height: 63px; background: var(--accent-dim); clip-path: polygon(0 18%, 16% 18%, 16% 0, 66% 0, 66% 12%, 84% 12%, 84% 31%, 100% 31%, 100% 100%, 0 100%); }
+.site-cat .cat-paw { z-index: 5; top: 135px; width: 26px; height: 14px; background: var(--fg); }
+.site-cat .cat-paw-one { left: 55px; }
+.site-cat .cat-paw-two { left: 108px; }
+.site-cat .cat-paw::after { content: ""; position: absolute; left: 6px; bottom: 3px; width: 3px; height: 3px; background: var(--accent-dim); box-shadow: 7px 0 0 var(--accent-dim), 14px 0 0 var(--accent-dim); }
+.site-cat .cat-head { z-index: 6; left: 25px; top: 57px; width: 74px; height: 70px; background: var(--accent); clip-path: polygon(0 17%, 14% 17%, 14% 0, 31% 16%, 68% 16%, 85% 0, 85% 17%, 100% 17%, 100% 100%, 0 100%); }
+.site-cat .cat-ear { z-index: 7; top: 38px; width: 28px; height: 31px; background: var(--accent); }
+.site-cat .cat-ear-left { left: 28px; clip-path: polygon(0 100%, 0 0, 100% 100%); }
+.site-cat .cat-ear-right { left: 70px; clip-path: polygon(0 100%, 100% 0, 100% 100%); }
+.site-cat .cat-ear::after { content: ""; position: absolute; bottom: 0; left: 8px; width: 12px; height: 16px; background: var(--accent-dim); clip-path: polygon(0 100%, 0 0, 100% 100%); }
+.site-cat .cat-ear-right::after { clip-path: polygon(0 100%, 100% 0, 100% 100%); }
+.site-cat .cat-face { z-index: 9; left: 39px; top: 86px; width: 16px; height: 4px; background: var(--bg); box-shadow: 29px 0 0 var(--bg); }
+.site-cat .cat-nose { z-index: 10; left: 60px; top: 98px; width: 8px; height: 6px; background: var(--red); clip-path: polygon(0 0, 100% 0, 50% 100%); }
+.site-cat .cat-whiskers { z-index: 9; left: 24px; top: 105px; width: 27px; height: 2px; background: var(--fg); box-shadow: 0 7px 0 var(--fg); }
+.site-cat .cat-whiskers::after { content: ""; position: absolute; left: 49px; top: 0; width: 27px; height: 2px; background: var(--fg); box-shadow: 0 7px 0 var(--fg); }
 .logo-text {
   display: inline-flex;
   align-items: center;
