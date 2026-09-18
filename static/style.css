@@ -21,29 +21,29 @@
 
 /* ── Base: miasma (fallback when JS disabled, matches default theme) ── */
 :root {
-  --bg: #222222;
-  --bg-panel: #2a2a27;
-  --bg-panel-alt: #383838;
-  --border: #43492a;
-  --border-strong: #78824b;
-  --fg: #c2c2b0;
-  --fg-dim: #8a8a7e;
-  --fg-muted: #666666;
-  --accent: #78824b;
-  --accent-bright: #d7c483;
-  --accent-soft: #c9a554;
-  --accent-dim: #5f875f;
+  --bg: #1A2026;
+  --bg-panel: #20272E;
+  --bg-panel-alt: #313C47;
+  --border: #313C47;
+  --border-strong: #D9A78B;
+  --fg: #D9D1BA;
+  --fg-dim: #9E9783;
+  --fg-muted: #667858;
+  --accent: #D9A78B;
+  --accent-bright: #F2BEA0;
+  --accent-soft: #7794A6;
+  --accent-dim: #8BA37A;
   --link: var(--accent-soft);
   --link-hover: var(--accent-bright);
   --focus-ring: var(--accent);
-  --grid-fade: #222222;
-  --grid-line: rgba(59, 45, 31, 0.09);
-  --grid-dot: rgba(59, 45, 31, 0.28);
-  --bg-glow: #242d1d;
-  --bg-core: #101010;
-  --bar-a: #78824b;
-  --bar-b: #c9a554;
-  --bar-c: #b36d43;
+  --grid-fade: #1A2026;
+  --grid-line: rgba(217, 167, 139, 0.08);
+  --grid-dot: rgba(217, 167, 139, 0.28);
+  --bg-glow: #20272E;
+  --bg-core: #0a0c10;
+  --bar-a: #D9A78B;
+  --bar-b: #7794A6;
+  --bar-c: #8BA37A;
   --font-mono: "Maple Mono NF", monospace;
   --font-read: "Maple Mono NF", monospace;
   --text-xs: 0.75rem;
@@ -55,22 +55,21 @@
   --content-w: 720px;
   --content-w-wide: 1100px;
   --content-w-list: 960px;
-  --orange: #b36d43;
-  --orange-deep: #685742;
-  --red: #b36d43;
-  --red-deep: #685742;
-  --cyan: #c9a554;
-  --cyan-deep: #78824b;
-  --yellow: #d7c483;
+  --orange: #D9A78B;
+  --orange-deep: #A67A61;
+  --red: #D96C6C;
+  --red-deep: #A64F4F;
+  --cyan: #77A3A0;
+  --cyan-deep: #547875;
+  --yellow: #F2BEA0;
 }
 
-/* THEMES — miasma + solitude (Omarchy palettes)
+/* THEMES — miasma + solitude + gruvbox + kanagawa (Omarchy palettes)
    miasma: xero canonical — cellar black, linen, moss olive, rust, sickly gold
    solitude: HANCORE charcoal monochrome, steel accents, single rust alert
    ─────────────────────────────────────────────────────────── */
 
-/* ── 1. Miasma (DEFAULT — dark organic: olive × sickly gold × rust) ── */
-:root,
+/* ── 1. Miasma (dark organic: olive × sickly gold × rust) ── */
 [data-theme="miasma"] {
   --bg: #222222;
   --bg-panel: #2a2a27;
@@ -170,6 +169,40 @@
   --cyan: #89b482;
   --cyan-deep: #7daea3;
   --yellow: #d8a657;
+}
+
+/* ── 4. Kanagawa (DEFAULT — deep ink × warm tan × mist blue × sage) ── */
+[data-theme="kanagawa"] {
+  --bg: #1A2026;
+  --bg-panel: #20272E;
+  --bg-panel-alt: #313C47;
+  --border: #313C47;
+  --border-strong: #D9A78B;
+  --fg: #D9D1BA;
+  --fg-dim: #9E9783;
+  --fg-muted: #667858;
+  --accent: #D9A78B;
+  --accent-bright: #F2BEA0;
+  --accent-soft: #7794A6;
+  --accent-dim: #8BA37A;
+  --link: #7794A6;
+  --link-hover: #8AB2C9;
+  --focus-ring: #D9A78B;
+  --grid-fade: #1A2026;
+  --grid-line: rgba(217, 167, 139, 0.08);
+  --grid-dot: rgba(217, 167, 139, 0.28);
+  --bg-glow: #20272E;
+  --bg-core: #0a0c10;
+  --bar-a: #D9A78B;
+  --bar-b: #7794A6;
+  --bar-c: #8BA37A;
+  --orange: #D9A78B;
+  --orange-deep: #A67A61;
+  --red: #D96C6C;
+  --red-deep: #A64F4F;
+  --cyan: #77A3A0;
+  --cyan-deep: #547875;
+  --yellow: #F2BEA0;
 }
 
 

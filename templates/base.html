@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>(function(){var t;try{var p=new URLSearchParams(window.location.search).get('theme');t=p||localStorage.getItem('theme')}catch(e){}var v=['miasma','solitude','gruvbox'];if(v.indexOf(t)<0)t='miasma';document.documentElement.setAttribute('data-theme',t);document.documentElement.classList.add('js')})();</script>
+  <script>(function(){var t;try{var p=new URLSearchParams(window.location.search).get('theme');t=p||localStorage.getItem('theme')}catch(e){}var v=['miasma','solitude','gruvbox','kanagawa'];if(v.indexOf(t)<0)t='kanagawa';document.documentElement.setAttribute('data-theme',t);document.documentElement.classList.add('js')})();</script>
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <link rel="stylesheet" href="/style.css">
   <link rel="preload" href="/fonts/MapleMono-NF-Regular.woff2" as="font" type="font/woff2" crossorigin>
@@ -32,6 +32,7 @@
   <div class="theme-pick">
     <button class="theme-btn" id="theme-btn" type="button" aria-haspopup="true" aria-expanded="false">theme</button>
     <div class="theme-menu" id="theme-menu">
+      <button type="button" data-theme-opt="kanagawa">kanagawa</button>
       <button type="button" data-theme-opt="miasma">miasma</button>
       <button type="button" data-theme-opt="solitude">solitude</button>
       <button type="button" data-theme-opt="gruvbox">gruvbox</button>
