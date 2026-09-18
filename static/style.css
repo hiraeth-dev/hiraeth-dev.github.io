@@ -240,7 +240,9 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 72px;
+  scroll-padding-top: 52px;
+  margin: 0;
+  padding: 0;
 }
 
 /* ── Scrollbar ── */
@@ -251,6 +253,8 @@ html {
 * { scrollbar-width: thin; scrollbar-color: var(--border) var(--bg); }
 
 body {
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -283,12 +287,12 @@ nav.top {
   width: 100%;
   max-width: 100%;
   box-sizing: border-box;
-  padding: 14px 24px;
+  padding: 6px 24px;
   background: color-mix(in srgb, var(--bg-panel) 92%, transparent);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  border-bottom: 2px solid var(--border);
-  box-shadow: 0 4px 0 var(--border);
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 2px 0 var(--border);
   display: flex; justify-content: space-between; align-items: center;
   gap: 16px;
 }
@@ -1177,9 +1181,9 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .terminal-body h1 { font-size: var(--text-xl); }
   .terminal { max-width: 100%; }
-  nav.top { flex-wrap: wrap; }
+  nav.top { flex-wrap: nowrap; padding: 6px 16px; }
   .nav-links { display: none; }
-  .theme-pick { margin-left: 0; }
+  .theme-pick { margin-left: auto; }
 }
 
 @media (max-width: 480px) {
@@ -1190,7 +1194,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 
 /* ── Desktop enhancement (min-width, additive) ── */
 @media (min-width: 1024px) {
-  nav.top { max-width: 100%; padding: 16px 48px; }
+  nav.top { max-width: 100%; padding: 7px 48px; }
   #hero.wrap { max-width: var(--content-w-wide); }
   #notes.wrap, #studies.wrap { max-width: var(--content-w-wide); }
   #stack.wrap { max-width: var(--content-w-wide); }
