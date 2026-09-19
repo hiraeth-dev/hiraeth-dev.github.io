@@ -1340,7 +1340,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  background: var(--bg-panel-alt);
+  background: var(--bg-panel);
   border: 1px solid var(--border);
   box-shadow: 3px 3px 0 var(--border);
   color: var(--accent);
@@ -1687,7 +1687,9 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   justify-content: flex-end;
 }
 .dict-launch-btn {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   background: var(--bg-panel);
   border: 1px solid var(--border);
   box-shadow: 3px 3px 0 var(--border);
