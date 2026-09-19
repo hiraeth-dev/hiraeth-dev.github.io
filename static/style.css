@@ -91,18 +91,16 @@
   --yellow: #F2BEA0;
 }
 
-/* ── Fonts: maple (default) vs iosevka, switched via html[data-font] ── */
-[data-font="iosevka"] {
+/* Iosevka runs small, so the root scales up under its font. */
+html[data-font="iosevka"] {
+  font-size: 107%;
   --font-mono: "Iosevka", "Maple Mono NF", monospace;
   --font-read: "Iosevka", "Maple Mono NF", monospace;
 }
 
-/* THEMES — solitude + gruvbox + kanagawa + dusky + cyberpunk */
-   solitude: HANCORE charcoal monochrome, steel accents, single rust alert
-   ─────────────────────────────────────────────────────────── */
+/* Themes: solitude, gruvbox, kanagawa, dusky, cyberpunk. */
 
-
-/* ── 2. Solitude (sparse charcoal monochrome — steel × bone × rust alert) ── */
+/* 2. Solitude, sparse charcoal monochrome */
 [data-theme="solitude"] {
   --bg: #101315;
   --bg-panel: #1a1f22;
@@ -387,6 +385,8 @@ nav.top .logo {
   border: 1px solid var(--border);
   box-shadow: 3px 3px 0 var(--border);
   padding: 4px 12px 4px 8px;
+  height: 30px;
+  box-sizing: border-box;
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -412,12 +412,12 @@ nav.top .logo {
 .site-cat .cat-paw { z-index: 5; top: 135px; width: 26px; height: 14px; background: var(--cat-light); }
 .site-cat .cat-paw-one { left: 55px; }
 .site-cat .cat-paw-two { left: 108px; }
-.site-cat .cat-paw::after { content: ""; position: absolute; left: 6px; bottom: 3px; width: 3px; height: 3px; background: var(--cat-dark); box-shadow: 7px 0 0 var(--cat-dark), 14px 0 0 var(--cat-dark); }
+.site-cat .cat-paw::after { content: ""; position: absolute; left: 6px; bottom: 3px; width: 3px; height: 3px; background: var(--cyan-deep); box-shadow: 7px 0 0 var(--cyan-deep), 14px 0 0 var(--cyan-deep); }
 .site-cat .cat-head { z-index: 6; left: 25px; top: 57px; width: 74px; height: 70px; background: var(--cat-base); clip-path: polygon(0 17%, 14% 17%, 14% 0, 31% 16%, 68% 16%, 85% 0, 85% 17%, 100% 17%, 100% 100%, 0 100%); }
 .site-cat .cat-ear { z-index: 7; top: 38px; width: 28px; height: 31px; background: var(--cat-light); }
 .site-cat .cat-ear-left { left: 28px; clip-path: polygon(0 100%, 0 0, 100% 100%); }
 .site-cat .cat-ear-right { left: 70px; clip-path: polygon(0 100%, 100% 0, 100% 100%); }
-.site-cat .cat-ear::after { content: ""; position: absolute; bottom: 0; left: 8px; width: 12px; height: 16px; background: var(--cat-dark); clip-path: polygon(0 100%, 0 0, 100% 100%); }
+.site-cat .cat-ear::after { content: ""; position: absolute; bottom: 0; left: 8px; width: 12px; height: 16px; background: var(--cyan-deep); clip-path: polygon(0 100%, 0 0, 100% 100%); }
 .site-cat .cat-ear-right::after { clip-path: polygon(0 100%, 100% 0, 100% 100%); }
 .site-cat .cat-face { z-index: 9; left: 39px; top: 86px; width: 16px; height: 4px; background: var(--bg); box-shadow: 29px 0 0 var(--bg); }
 .site-cat .cat-nose { z-index: 10; left: 60px; top: 98px; width: 8px; height: 6px; background: var(--cat-dark); clip-path: polygon(0 0, 100% 0, 50% 100%); }
@@ -458,7 +458,10 @@ nav.top .logo:active {
   border: 1px solid var(--border);
   box-shadow: 3px 3px 0 var(--border);
   padding: 4px 12px;
-  display: inline-block;
+  height: 30px;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
   transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease, color 0.12s ease;
 }
 .nav-links a:hover {
@@ -472,11 +475,11 @@ nav.top .logo:active {
   box-shadow: 0 0 0 var(--accent);
 }
 
-/* ── Theme picker ── */
+/* ── Theme / font pickers: square icon buttons pinned right ── */
 .theme-pick {
   position: relative;
   margin-left: auto;
-  width: 120px;
+  width: auto;
 }
 .theme-btn {
   background: var(--bg-panel);
@@ -500,7 +503,9 @@ nav.top .logo:active {
   stroke-linecap: square;
 }
 .theme-pick .theme-btn {
-  width: 100%;
+  width: 30px;
+  height: 30px;
+  padding: 0;
   box-sizing: border-box;
   display: flex;
   justify-content: center;
@@ -519,8 +524,9 @@ nav.top .logo:active {
 .theme-btn:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
 .theme-menu {
   display: none;
-  position: absolute; top: calc(100% + 6px); left: 0; right: 0;
-  width: 100%;
+  position: absolute; top: calc(100% + 6px); right: 0;
+  width: max-content;
+  min-width: 100%;
   box-sizing: border-box;
   margin: 0; padding: 0;
   background: var(--bg-panel);
@@ -2446,9 +2452,6 @@ html.anim-on .reveal.in {
   transition: transform 0.3s cubic-bezier(0.25, 1, 0.4, 1);
 }
 .playlist-item:hover::after { transform: scaleY(1); }
-
-/* theme button dropdown caret */
-.theme-pick .theme-btn::after { content: "\25BE"; margin-left: auto; }
 
 /* theme menu entrance */
 .theme-menu { transform-origin: top right; }
