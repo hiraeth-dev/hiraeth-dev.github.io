@@ -10,7 +10,7 @@
 <div class="novel-hero wrap">
   <div class="terminal novel-hero-terminal">
     <div class="terminal-bar">
-      <span>BOOK ARCHIVE // {{ section.title | upper }}</span>
+      <span>BOOK {{ section.extra.book_number | default(value=1) }}</span>
       <div class="terminal-dots">
         <span class="dot dot-red"></span>
         <span class="dot dot-yellow"></span>

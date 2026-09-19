@@ -22,7 +22,7 @@
 <div class="novel-hero wrap">
   <div class="terminal novel-hero-terminal">
     <div class="terminal-bar">
-      <span>BOOK ARCHIVE // {{ section.title | upper }}</span>
+      <span>{% if section.extra.book_number %}BOOK {{ section.extra.book_number }}{% elif section.extra.label %}{{ section.extra.label | upper }}{% else %}{{ section.title | upper }}{% endif %}</span>
       <div class="terminal-dots">
         <span class="dot dot-red"></span>
         <span class="dot dot-yellow"></span>
