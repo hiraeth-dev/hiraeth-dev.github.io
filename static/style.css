@@ -481,6 +481,10 @@ nav.top .logo:active {
   margin-left: auto;
   width: auto;
 }
+/* Second picker huddles next to the first instead of splitting the gap. */
+.theme-pick + .theme-pick {
+  margin-left: 0;
+}
 .theme-btn {
   background: var(--bg-panel);
   border: 1px solid var(--border);
