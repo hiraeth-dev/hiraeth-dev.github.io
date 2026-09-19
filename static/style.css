@@ -711,7 +711,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   align-items: center;
   justify-content: flex-start;
 }
-.terminal-body .tagline span { color: var(--fg-muted); }
+.terminal-body .tagline span { color: var(--fg-dim); }
 .terminal-body .tagline .dollar { color: var(--accent); margin-right: 1ch; }
 .cursor {
   display: inline-block;
