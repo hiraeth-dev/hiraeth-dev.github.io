@@ -3,10 +3,10 @@
   var btn = document.getElementById('theme-btn');
   var menu = document.getElementById('theme-menu');
   if (!btn || !menu) return;
-  var current = html.getAttribute('data-theme') || 'kanagawa';
-  var VALID = ['solitude', 'gruvbox', 'kanagawa', 'dusky', 'cyberpunk'];
+  var current = html.getAttribute('data-theme') || 'magma';
+  var VALID = ['magma', 'abyss', 'bordeaux', 'cyberpunk', 'dusky', 'forest', 'lagoon', 'walnut'];
   if (VALID.indexOf(current) < 0) {
-    current = 'kanagawa';
+    current = 'magma';
     html.setAttribute('data-theme', current);
     try { localStorage.setItem('theme', current); } catch (e) {}
   }

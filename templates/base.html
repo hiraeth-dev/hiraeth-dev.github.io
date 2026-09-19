@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>(function(){var t;try{var p=new URLSearchParams(window.location.search).get('theme');t=p||localStorage.getItem('theme')}catch(e){}var v=['solitude','gruvbox','kanagawa','dusky','cyberpunk'];if(v.indexOf(t)<0)t='kanagawa';document.documentElement.setAttribute('data-theme',t);var f;try{var pf=new URLSearchParams(window.location.search).get('font');f=pf||localStorage.getItem('font')}catch(e){}var fv=['maple','iosevka'];if(fv.indexOf(f)<0)f='maple';document.documentElement.setAttribute('data-font',f);document.documentElement.classList.add('js')})();</script>
+  <script>(function(){var t;try{var p=new URLSearchParams(window.location.search).get('theme');t=p||localStorage.getItem('theme')}catch(e){}var v=['magma','abyss','bordeaux','cyberpunk','dusky','forest','lagoon','walnut'];if(v.indexOf(t)<0)t='magma';document.documentElement.setAttribute('data-theme',t);var f;try{var pf=new URLSearchParams(window.location.search).get('font');f=pf||localStorage.getItem('font')}catch(e){}var fv=['maple','iosevka','flaviotte','baskerville'];if(fv.indexOf(f)<0)f='maple';document.documentElement.setAttribute('data-font',f);document.documentElement.classList.add('js')})();</script>
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <link rel="stylesheet" href="/style.css">
   <link rel="preload" href="/fonts/MapleMono-NF-Regular.woff2" as="font" type="font/woff2" crossorigin>
@@ -12,6 +12,9 @@
   <link rel="preload" href="/fonts/MapleMono-NF-BoldItalic.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/fonts/Iosevka-Regular.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/fonts/Iosevka-Bold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/Flaviotte.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/LibreBaskerville-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/LibreBaskerville-Bold.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="alternate icon" href="/favicon.ico">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -37,16 +40,21 @@
     <div class="theme-menu" id="font-menu">
       <button type="button" data-font-opt="maple">Maple Mono</button>
       <button type="button" data-font-opt="iosevka">Iosevka</button>
+      <button type="button" data-font-opt="flaviotte">Flaviotte</button>
+      <button type="button" data-font-opt="baskerville">Baskerville</button>
     </div>
   </div>
   <div class="theme-pick">
     <button class="theme-btn" id="theme-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Theme" title="Theme"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor" stroke="none"/></svg></button>
     <div class="theme-menu" id="theme-menu">
-      <button type="button" data-theme-opt="kanagawa">kanagawa</button>
-      <button type="button" data-theme-opt="solitude">solitude</button>
-      <button type="button" data-theme-opt="gruvbox">gruvbox</button>
-      <button type="button" data-theme-opt="dusky">dusky</button>
+      <button type="button" data-theme-opt="magma">magma</button>
+      <button type="button" data-theme-opt="abyss">abyss</button>
+      <button type="button" data-theme-opt="bordeaux">bordeaux</button>
       <button type="button" data-theme-opt="cyberpunk">cyberpunk</button>
+      <button type="button" data-theme-opt="dusky">dusky</button>
+      <button type="button" data-theme-opt="forest">forest</button>
+      <button type="button" data-theme-opt="lagoon">lagoon</button>
+      <button type="button" data-theme-opt="walnut">walnut</button>
     </div>
   </div>
 </nav>
