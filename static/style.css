@@ -528,7 +528,7 @@ nav.top .logo:active {
 .theme-btn:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
 .theme-menu {
   display: none;
-  position: absolute; top: calc(100% + 6px); right: 0;
+  position: absolute; top: calc(100% + 12px); right: 0;
   width: max-content;
   min-width: 100%;
   box-sizing: border-box;
@@ -792,7 +792,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 }
 .novel-card-top {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   margin-bottom: 8px;
 }
@@ -805,15 +805,6 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   box-shadow: 1px 1px 0 var(--border);
   padding: 2px 7px;
   letter-spacing: 0.06em;
-}
-.novel-arrow {
-  color: var(--fg-muted);
-  font-size: var(--text-sm);
-  transition: transform 0.15s ease, color 0.15s ease;
-}
-.novel-card:hover .novel-arrow {
-  color: var(--accent);
-  transform: translate(2px, -2px);
 }
 .novel-title {
   color: var(--fg);
@@ -833,16 +824,6 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   font-style: italic;
   opacity: 0.9;
   margin-top: auto;
-}
-.novel-summary:not(:empty)::before {
-  content: "“";
-  color: var(--accent);
-  margin-right: 2px;
-}
-.novel-summary:not(:empty)::after {
-  content: "”";
-  color: var(--accent);
-  margin-left: 1px;
 }
 @media (min-width: 641px) {
   .novel-card:last-child:nth-child(odd) {
@@ -922,7 +903,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 }
 .stack-card .name { font-size: var(--text-sm); font-weight: 700; color: var(--fg); transition: color 0.15s ease; }
 .stack-card .kicker {
-  display: inline-block;
+  display: table;
   font-size: 0.6875rem;
   font-weight: 700;
   color: var(--accent);
@@ -932,7 +913,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   padding: 2px 7px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  margin-bottom: 8px;
+  margin: 0 0 8px auto;
 }
 .stack-card .desc { font-size: var(--text-xs); color: var(--fg-dim); margin-top: 4px; }
 .stack-card:hover .name { color: var(--accent); }
