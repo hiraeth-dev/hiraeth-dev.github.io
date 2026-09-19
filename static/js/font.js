@@ -26,10 +26,28 @@
     btn.setAttribute('aria-expanded', 'false');
   }
 
+  function positionMenu() {
+    var nav = document.querySelector('nav.top');
+    if (!nav || !btn.parentElement) return;
+    var navBottom = nav.getBoundingClientRect().bottom;
+    var parentTop = btn.parentElement.getBoundingClientRect().top;
+    menu.style.top = Math.round(navBottom - parentTop - 1) + 'px';
+  }
+
   setActive();
 
   btn.addEventListener('click', function(e) {
     e.stopPropagation();
+    // Close any other open dropdown menu (e.g. theme-menu)
+    document.querySelectorAll('.theme-menu.open').forEach(function(m) {
+      if (m !== menu) {
+        m.classList.remove('open');
+        var b = m.parentElement ? m.parentElement.querySelector('.theme-btn') : null;
+        if (b) b.setAttribute('aria-expanded', 'false');
+      }
+    });
+
+    positionMenu();
     var open = menu.classList.toggle('open');
     btn.setAttribute('aria-expanded', open ? 'true' : 'false');
   });
@@ -51,5 +69,13 @@
 
   document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') close();
+  });
+
+  window.addEventListener('resize', function() {
+    if (menu.classList.contains('open')) positionMenu();
+  });
+
+  document.addEventListener('fontchange', function() {
+    if (menu.classList.contains('open')) positionMenu();
   });
 })();

@@ -59,9 +59,9 @@
     {% for shelf in shelves %}
     <a href="{{ shelf.path }}" class="novel-card">
       <div class="novel-card-top">
+        <div class="novel-title">{{ shelf.title }}</div>
         <span class="novel-tag">Book {{ loop.index }}</span>
       </div>
-      <div class="novel-title">{{ shelf.title }}</div>
       <div class="novel-summary">{{ shelf.extra.summary | default(value="") }}</div>
     </a>
     {% endfor %}

@@ -528,7 +528,7 @@ nav.top .logo:active {
 .theme-btn:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
 .theme-menu {
   display: none;
-  position: absolute; top: calc(100% + 12px); right: 0;
+  position: absolute; top: calc(100% + 20px); right: 0;
   width: max-content;
   min-width: 100%;
   box-sizing: border-box;
@@ -537,6 +537,9 @@ nav.top .logo:active {
   border: 1px solid var(--border);
   box-shadow: 3px 3px 0 var(--border);
   z-index: 50;
+}
+@media (max-width: 768px) {
+  .theme-menu { top: calc(100% + 11px); }
 }
 .theme-menu.open { display: block; }
 .theme-menu button {
@@ -792,8 +795,9 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 }
 .novel-card-top {
   display: flex;
-  justify-content: flex-end;
-  align-items: center;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
   margin-bottom: 8px;
 }
 .novel-tag {
@@ -805,13 +809,15 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   box-shadow: 1px 1px 0 var(--border);
   padding: 2px 7px;
   letter-spacing: 0.06em;
+  flex-shrink: 0;
+  white-space: nowrap;
 }
 .novel-title {
   color: var(--fg);
   font-size: var(--text-base);
   font-weight: 700;
   line-height: 1.3;
-  margin-bottom: 6px;
+  margin-bottom: 0;
   transition: color 0.15s ease;
 }
 .novel-card:hover .novel-title {
