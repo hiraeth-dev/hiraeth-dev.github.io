@@ -47,29 +47,36 @@
 
 /* ── Base: kanagawa (fallback when JS disabled, matches default theme) ── */
 :root {
-  --bg: #1A2026;
-  --bg-panel: #20272E;
-  --bg-panel-alt: #313C47;
-  --border: #313C47;
-  --border-strong: #D9A78B;
-  --fg: #D9D1BA;
-  --fg-dim: #9E9783;
-  --fg-muted: #667858;
-  --accent: #D9A78B;
-  --accent-bright: #F2BEA0;
-  --accent-soft: #7794A6;
-  --accent-dim: #8BA37A;
-  --link: var(--accent-soft);
-  --link-hover: var(--accent-bright);
-  --focus-ring: var(--accent);
-  --grid-fade: #1A2026;
-  --grid-line: rgba(217, 167, 139, 0.08);
-  --grid-dot: rgba(217, 167, 139, 0.28);
-  --bg-glow: #20272E;
-  --bg-core: #0a0c10;
-  --bar-a: #D9A78B;
-  --bar-b: #7794A6;
-  --bar-c: #8BA37A;
+  --bg: #1F1F28;
+  --bg-panel: #2A2A37;
+  --bg-panel-alt: #363646;
+  --border: #435965;
+  --border-strong: #c4b28a;
+  --fg: #DCD7BA;
+  --fg-dim: #C8C093;
+  --fg-muted: #938AA9;
+  --accent: #c4b28a;
+  --accent-bright: #d4c196;
+  --accent-soft: #8ea49e;
+  --accent-dim: #699469;
+  --link: #8ea49e;
+  --link-hover: #d4c196;
+  --focus-ring: #c4b28a;
+  --grid-fade: #1F1F28;
+  --grid-line: rgba(196, 178, 138, 0.08);
+  --grid-dot: rgba(196, 178, 138, 0.28);
+  --bg-glow: #2A2A37;
+  --bg-core: #000000;
+  --bar-a: #c4b28a;
+  --bar-b: #8ea49e;
+  --bar-c: #938AA9;
+  --orange: #c4b28a;
+  --orange-deep: #a292a3;
+  --red: #cc928e;
+  --red-deep: #c4746e;
+  --cyan: #8ea49e;
+  --cyan-deep: #435965;
+  --yellow: #d4c196;
   --font-mono: "Maple Mono NF", monospace;
   --font-read: "Maple Mono NF", monospace;
   --text-xs: 0.75rem;
@@ -81,13 +88,6 @@
   --content-w: 720px;
   --content-w-wide: 1100px;
   --content-w-list: 960px;
-  --orange: #D9A78B;
-  --orange-deep: #A67A61;
-  --red: #D96C6C;
-  --red-deep: #A64F4F;
-  --cyan: #77A3A0;
-  --cyan-deep: #547875;
-  --yellow: #F2BEA0;
 }
 
 /* Iosevka runs small, so the root scales up under its font. */
@@ -97,135 +97,191 @@ html[data-font="iosevka"] {
   --font-read: "Iosevka", "Maple Mono NF", monospace;
 }
 
-/* Themes: solitude, gruvbox, kanagawa, dusky, cyberpunk. */
+/* Themes: kanagawa, dusky, cyberpunk, tokyo, rosepine, nord. */
 
 /* ── Site logo ramps: one hue per theme, dark → light (mirrors the
    abeyant newtab cat: dark tail, mid body, base head, light ears) ── */
 /* ── Site logo ramps: one hue per theme, dark → light (mirrors the
    abeyant newtab cat: dark tail, mid body, base head, light ears) ── */
 :root {
-  --cat-dark: #936B53;
-  --cat-mid: #A67A61;
-  --cat-base: #D9A78B;
-  --cat-light: #F2BEA0;
+  --cat-dark: #696154;
+  --cat-mid: #9b8d72;
+  --cat-base: #c4b28a;
+  --cat-light: #cec19d;
 }
 
-[data-theme="solitude"] {
-  --cat-dark: #2f353b;
-  --cat-mid: #5d6367;
-  --cat-base: #798186;
-  --cat-light: #a8adb0;
-}
-[data-theme="gruvbox"] {
-  --cat-dark: #744527;
-  --cat-mid: #e78a4e;
-  --cat-base: #d8a657;
-  --cat-light: #ebdbb2;
-}
+
+/* ── kanagawa (paper, wave tan x sage x violet) ── */
 [data-theme="kanagawa"] {
-  --cat-dark: #936B53;
-  --cat-mid: #A67A61;
-  --cat-base: #D9A78B;
-  --cat-light: #F2BEA0;
+  --bg: #1F1F28;
+  --bg-panel: #2A2A37;
+  --bg-panel-alt: #363646;
+  --border: #435965;
+  --border-strong: #c4b28a;
+  --fg: #DCD7BA;
+  --fg-dim: #C8C093;
+  --fg-muted: #938AA9;
+  --accent: #c4b28a;
+  --accent-bright: #d4c196;
+  --accent-soft: #8ea49e;
+  --accent-dim: #699469;
+  --link: #8ea49e;
+  --link-hover: #d4c196;
+  --focus-ring: #c4b28a;
+  --grid-fade: #1F1F28;
+  --grid-line: rgba(196, 178, 138, 0.08);
+  --grid-dot: rgba(196, 178, 138, 0.28);
+  --bg-glow: #2A2A37;
+  --bg-core: #000000;
+  --bar-a: #c4b28a;
+  --bar-b: #8ea49e;
+  --bar-c: #938AA9;
+  --orange: #c4b28a;
+  --orange-deep: #a292a3;
+  --red: #cc928e;
+  --red-deep: #c4746e;
+  --cyan: #8ea49e;
+  --cyan-deep: #435965;
+  --yellow: #d4c196;
+  --logo-disc: #2A2A37;
+  --logo-eye: #c4b28a;
+  --logo-edge: #d4c196;
+  --logo-iris: #8ea49e;
+  --logo-pupil: #DCD7BA;
+  --cat-dark: #696154;
+  --cat-mid: #9b8d72;
+  --cat-base: #c4b28a;
+  --cat-light: #cec19d;
 }
 
-[data-theme="solitude"] {
-  --bg: #101315;
-  --bg-panel: #1a1f22;
-  --bg-panel-alt: #232a2e;
-  --border: #2f353b;
-  --border-strong: #798186;
-  --fg: #cacccc;
-  --fg-dim: #9fa5a9;
-  --fg-muted: #5d6367;
-  --accent: #798186;
-  --accent-bright: #a8adb0;
-  --accent-soft: #c9c2b4;
-  --accent-dim: #707070;
-  --link: #a8adb0;
-  --link-hover: #d9dbdc;
-  --focus-ring: #798186;
-  --grid-fade: #101315;
-  --grid-line: rgba(121, 129, 134, 0.08);
-  --grid-dot: rgba(121, 129, 134, 0.28);
-  --bg-glow: #1c2124;
-  --bg-core: #0a0c0e;
-  --bar-a: #798186;
-  --bar-b: #a8adb0;
-  --bar-c: #c9c2b4;
-  --orange: #c9c2b4;
-  --orange-deep: #707070;
-  --red: #de6145;
-  --red-deep: #4b4e55;
-  --cyan: #9fa5a9;
-  --cyan-deep: #343d41;
-  --yellow: #d9dbdc;
+
+/* ── tokyo (neon bay blues) ── */
+[data-theme="tokyo"] {
+  --bg: #1a1b26;
+  --bg-panel: #1f2335;
+  --bg-panel-alt: #292e42;
+  --border: #414868;
+  --border-strong: #7aa2f7;
+  --fg: #c0caf5;
+  --fg-dim: #a9b1d6;
+  --fg-muted: #565f89;
+  --accent: #7aa2f7;
+  --accent-bright: #7dcfff;
+  --accent-soft: #bb9af7;
+  --accent-dim: #9ece6a;
+  --link: #bb9af7;
+  --link-hover: #7dcfff;
+  --focus-ring: #7aa2f7;
+  --grid-fade: #1a1b26;
+  --grid-line: rgba(122, 162, 247, 0.08);
+  --grid-dot: rgba(122, 162, 247, 0.28);
+  --bg-glow: #1f2335;
+  --bg-core: #16161e;
+  --bar-a: #7aa2f7;
+  --bar-b: #bb9af7;
+  --bar-c: #9ece6a;
+  --orange: #e0af68;
+  --orange-deep: #ff9e64;
+  --red: #f7768e;
+  --red-deep: #e0af68;
+  --cyan: #7dcfff;
+  --cyan-deep: #7aa2f7;
+  --yellow: #e0af68;
+  --logo-disc: #1f2335;
+  --logo-eye: #7aa2f7;
+  --logo-edge: #7dcfff;
+  --logo-iris: #bb9af7;
+  --logo-pupil: #c0caf5;
+  --cat-dark: #3b4261;
+  --cat-mid: #565f89;
+  --cat-base: #7aa2f7;
+  --cat-light: #7dcfff;
 }
 
-[data-theme="gruvbox"] {
-  --bg: #282828;
-  --bg-panel: #32302f;
-  --bg-panel-alt: #45403d;
-  --border: #45403d;
-  --border-strong: #e78a4e;
-  --fg: #d4be98;
-  --fg-dim: #a89984;
-  --fg-muted: #7c6f64;
-  --accent: #e78a4e;
-  --accent-bright: #d8a657;
-  --accent-soft: #7daea3;
-  --accent-dim: #a9b665;
-  --link: #7daea3;
-  --link-hover: #d8a657;
-  --focus-ring: #e78a4e;
-  --grid-fade: #282828;
-  --grid-line: rgba(231, 138, 78, 0.08);
-  --grid-dot: rgba(231, 138, 78, 0.28);
-  --bg-glow: #32302f;
-  --bg-core: #141414;
-  --bar-a: #e78a4e;
-  --bar-b: #d8a657;
-  --bar-c: #a9b665;
-  --orange: #e78a4e;
-  --orange-deep: #744527;
-  --red: #ea6962;
-  --red-deep: #744527;
-  --cyan: #89b482;
-  --cyan-deep: #7daea3;
-  --yellow: #d8a657;
+/* ── rosepine (dusty rose and lavender) ── */
+[data-theme="rosepine"] {
+  --bg: #191724;
+  --bg-panel: #1f1d2e;
+  --bg-panel-alt: #26233a;
+  --border: #403d52;
+  --border-strong: #eb6f92;
+  --fg: #e0def4;
+  --fg-dim: #908caa;
+  --fg-muted: #6e6a86;
+  --accent: #eb6f92;
+  --accent-bright: #ebbcba;
+  --accent-soft: #c4a7e7;
+  --accent-dim: #31748f;
+  --link: #c4a7e7;
+  --link-hover: #ebbcba;
+  --focus-ring: #eb6f92;
+  --grid-fade: #191724;
+  --grid-line: rgba(235, 111, 146, 0.08);
+  --grid-dot: rgba(235, 111, 146, 0.28);
+  --bg-glow: #1f1d2e;
+  --bg-core: #121019;
+  --bar-a: #eb6f92;
+  --bar-b: #ebbcba;
+  --bar-c: #f6c177;
+  --orange: #f6c177;
+  --orange-deep: #ebbcba;
+  --red: #eb6f92;
+  --red-deep: #c4a7e7;
+  --cyan: #9ccfd8;
+  --cyan-deep: #31748f;
+  --yellow: #f6c177;
+  --logo-disc: #1f1d2e;
+  --logo-eye: #eb6f92;
+  --logo-edge: #ebbcba;
+  --logo-iris: #c4a7e7;
+  --logo-pupil: #e0def4;
+  --cat-dark: #773f55;
+  --cat-mid: #ac5571;
+  --cat-base: #eb6f92;
+  --cat-light: #ebbcba;
 }
 
-[data-theme="kanagawa"] {
-  --bg: #1A2026;
-  --bg-panel: #20272E;
-  --bg-panel-alt: #313C47;
-  --border: #313C47;
-  --border-strong: #D9A78B;
-  --fg: #D9D1BA;
-  --fg-dim: #9E9783;
-  --fg-muted: #667858;
-  --accent: #D9A78B;
-  --accent-bright: #F2BEA0;
-  --accent-soft: #7794A6;
-  --accent-dim: #8BA37A;
-  --link: #7794A6;
-  --link-hover: #8AB2C9;
-  --focus-ring: #D9A78B;
-  --grid-fade: #1A2026;
-  --grid-line: rgba(217, 167, 139, 0.08);
-  --grid-dot: rgba(217, 167, 139, 0.28);
-  --bg-glow: #20272E;
-  --bg-core: #0a0c10;
-  --bar-a: #D9A78B;
-  --bar-b: #7794A6;
-  --bar-c: #8BA37A;
-  --orange: #D9A78B;
-  --orange-deep: #A67A61;
-  --red: #D96C6C;
-  --red-deep: #A64F4F;
-  --cyan: #77A3A0;
-  --cyan-deep: #547875;
-  --yellow: #F2BEA0;
+/* ── nord (arctic frost) ── */
+[data-theme="nord"] {
+  --bg: #2e3440;
+  --bg-panel: #3b4252;
+  --bg-panel-alt: #434c5e;
+  --border: #4c566a;
+  --border-strong: #88c0d0;
+  --fg: #eceff4;
+  --fg-dim: #d8dee9;
+  --fg-muted: #4c566a;
+  --accent: #88c0d0;
+  --accent-bright: #8fbcbb;
+  --accent-soft: #81a1c1;
+  --accent-dim: #5e81ac;
+  --link: #81a1c1;
+  --link-hover: #8fbcbb;
+  --focus-ring: #88c0d0;
+  --grid-fade: #2e3440;
+  --grid-line: rgba(136, 192, 208, 0.08);
+  --grid-dot: rgba(136, 192, 208, 0.28);
+  --bg-glow: #3b4252;
+  --bg-core: #20242d;
+  --bar-a: #88c0d0;
+  --bar-b: #8fbcbb;
+  --bar-c: #a3be8c;
+  --orange: #ebcb8b;
+  --orange-deep: #d08770;
+  --red: #bf616a;
+  --red-deep: #4c566a;
+  --cyan: #8fbcbb;
+  --cyan-deep: #5e81ac;
+  --yellow: #ebcb8b;
+  --logo-disc: #3b4252;
+  --logo-eye: #88c0d0;
+  --logo-edge: #8fbcbb;
+  --logo-iris: #81a1c1;
+  --logo-pupil: #eceff4;
+  --cat-dark: #4c566a;
+  --cat-mid: #5e81ac;
+  --cat-base: #88c0d0;
+  --cat-light: #8fbcbb;
 }
 
 /* ── dusky (dusky rose × violet × lagoon) ── */
