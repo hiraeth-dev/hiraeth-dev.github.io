@@ -18,6 +18,27 @@
   src: url("/fonts/MapleMono-NF-BoldItalic.woff2") format("woff2");
   font-weight: 700; font-style: italic; font-display: swap;
 }
+@font-face {
+  font-family: "Iosevka";
+  src: url("/fonts/Iosevka-Regular.woff2") format("woff2");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Iosevka";
+  src: url("/fonts/Iosevka-Bold.woff2") format("woff2");
+  font-weight: 700; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Iosevka";
+  src: url("/fonts/Iosevka-Italic.woff2") format("woff2");
+  font-weight: 400; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "Iosevka";
+  src: url("/fonts/Iosevka-BoldItalic.woff2") format("woff2");
+  font-weight: 700; font-style: italic; font-display: swap;
+}
+
 
 /* Border-box everywhere: width:100% + padding must not spill past the viewport
    (this was the horizontal scrollbar — e.g. .footer's 24px padding). */
@@ -68,6 +89,12 @@
   --cyan: #77A3A0;
   --cyan-deep: #547875;
   --yellow: #F2BEA0;
+}
+
+/* ── Fonts: maple (default) vs iosevka, switched via html[data-font] ── */
+[data-font="iosevka"] {
+  --font-mono: "Iosevka", "Maple Mono NF", monospace;
+  --font-read: "Iosevka", "Maple Mono NF", monospace;
 }
 
 /* THEMES — solitude + gruvbox + kanagawa + dusky + cyberpunk */
@@ -463,11 +490,20 @@ nav.top .logo:active {
   cursor: pointer;
   transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease, color 0.12s ease;
 }
+.theme-btn svg {
+  width: 14px;
+  height: 14px;
+  display: block;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: square;
+}
 .theme-pick .theme-btn {
   width: 100%;
   box-sizing: border-box;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 .theme-btn:hover {

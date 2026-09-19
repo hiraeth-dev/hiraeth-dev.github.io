@@ -16,7 +16,8 @@
     for (var i = 0; i < opts.length; i++) {
       opts[i].classList.toggle('active', opts[i].getAttribute('data-theme-opt') === current);
     }
-    btn.textContent = current;
+    btn.setAttribute('aria-label', 'Theme: ' + current);
+    btn.setAttribute('title', 'Theme: ' + current);
   }
 
   function close() {
