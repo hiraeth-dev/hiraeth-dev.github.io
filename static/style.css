@@ -38,32 +38,6 @@
   src: url("/fonts/Iosevka-BoldItalic.woff2") format("woff2");
   font-weight: 700; font-style: italic; font-display: swap;
 }
-@font-face {
-  font-family: "Flaviotte";
-  src: url("/fonts/Flaviotte.woff2") format("woff2");
-  font-weight: 400; font-style: normal; font-display: swap;
-}
-@font-face {
-  font-family: "Baskerville";
-  src: url("/fonts/LibreBaskerville-Regular.woff2") format("woff2");
-  font-weight: 400; font-style: normal; font-display: swap;
-}
-@font-face {
-  font-family: "Baskerville";
-  src: url("/fonts/LibreBaskerville-Bold.woff2") format("woff2");
-  font-weight: 700; font-style: normal; font-display: swap;
-}
-@font-face {
-  font-family: "Baskerville";
-  src: url("/fonts/LibreBaskerville-Italic.woff2") format("woff2");
-  font-weight: 400; font-style: italic; font-display: swap;
-}
-@font-face {
-  font-family: "Baskerville";
-  src: url("/fonts/LibreBaskerville-BoldItalic.woff2") format("woff2");
-  font-weight: 700; font-style: italic; font-display: swap;
-}
-
 
 /* Border-box everywhere: width:100% + padding must not spill past the viewport
    (this was the horizontal scrollbar — e.g. .footer's 24px padding). */
@@ -122,17 +96,8 @@ html[data-font="iosevka"] {
   --font-mono: "Iosevka", "Maple Mono NF", monospace;
   --font-read: "Iosevka", "Maple Mono NF", monospace;
 }
-html[data-font="flaviotte"] {
-  --font-mono: "Flaviotte", "Maple Mono NF", monospace;
-  --font-read: "Flaviotte", "Maple Mono NF", monospace;
-}
-html[data-font="baskerville"] {
-  --font-mono: "Baskerville", Georgia, serif;
-  --font-read: "Baskerville", Georgia, serif;
-}
 
 /* Themes: solitude, gruvbox, kanagawa, dusky, cyberpunk. */
-
 
 /* ── Site logo ramps: one hue per theme, dark → light (mirrors the
    abeyant newtab cat: dark tail, mid body, base head, light ears) ── */
@@ -163,7 +128,6 @@ html[data-font="baskerville"] {
   --cat-base: #D9A78B;
   --cat-light: #F2BEA0;
 }
-
 
 [data-theme="solitude"] {
   --bg: #101315;
@@ -302,7 +266,6 @@ html[data-font="baskerville"] {
   --cat-light: #dc91a7;
 }
 
-
 /* ── cyberpunk (neon gold × crimson × terminal green) ── */
 [data-theme="cyberpunk"] {
   --bg: #0a0d14;
@@ -340,7 +303,6 @@ html[data-font="baskerville"] {
   --cat-base: #C4A82E;
   --cat-light: #cbbc77;
 }
-
 
 html {
   scroll-behavior: smooth;

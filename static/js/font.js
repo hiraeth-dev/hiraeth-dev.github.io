@@ -4,8 +4,8 @@
   var menu = document.getElementById('font-menu');
   if (!btn || !menu) return;
   var current = html.getAttribute('data-font') || 'maple';
-  var VALID = ['maple', 'iosevka', 'flaviotte', 'baskerville'];
-  var LABELS = { maple: 'Maple Mono', iosevka: 'Iosevka', flaviotte: 'Flaviotte', baskerville: 'Baskerville' };
+  var VALID = ['maple', 'iosevka'];
+  var LABELS = { maple: 'Maple Mono', iosevka: 'Iosevka' };
   if (VALID.indexOf(current) < 0) {
     current = 'maple';
     html.setAttribute('data-font', current);
