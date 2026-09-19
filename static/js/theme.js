@@ -4,7 +4,7 @@
   var menu = document.getElementById('theme-menu');
   if (!btn || !menu) return;
   var current = html.getAttribute('data-theme') || 'kanagawa';
-  var VALID = ['kanagawa', 'dusky', 'cyberpunk', 'tokyo', 'rosepine', 'nord'];
+  var VALID = ['kanagawa', 'dusky', 'cyberpunk', 'tokyo', 'amoled', 'nord'];
   if (VALID.indexOf(current) < 0) {
     current = 'kanagawa';
     html.setAttribute('data-theme', current);
