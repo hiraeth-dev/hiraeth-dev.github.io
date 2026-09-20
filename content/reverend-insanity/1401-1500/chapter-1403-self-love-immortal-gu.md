@@ -5,8 +5,114 @@ weight = 1403
 chapter = 1403
 +++
 
-<p>Northern Plains, Lang Ya blessed land. In the refinement hall, after months of refining Gu, the most crucial moment was here. Lang Ya land spirit stood at the edge of a refinement path super Gu formation, his eyes observed the Gu formation that was blazing with fire. This fire was icy blue in color, it was not hot, but cold instead. Even the super Gu formation could not isolate this blazing ice fire completely. Lang Ya land spirit stood at the side of the Gu formation, his brows and beard were covered in a thin layer of blue frost. But he did not care, he was concentrated on that fire. Or rather, the profound ice at the center of the fire. The profound ice was still melting, but it was also continuing to form. The initial profound ice had sharp edges, but under Lang Ya land spirit&#x27;s refinement, it was already smooth and had a rather round appearance now. &quot;Five traces of fan door wind.&quot; Lang Ya land spirit suddenly said. Hairy man Gu Immortal Sixth Hair was currently assisting him, he quickly worked as he heard that, using a special method to take out five traces of the fan door wind from the immortal material inventory. This fan door wind was a rank seven immortal material. It was very special. It did not grow in deep forests or mountains, or even the sky, it grew in the doors of the homes of mortals. Whenever this immortal material was produced, the mortal&#x27;s door would not be able to close, it could only stay open. This special phenomenon attracted the attention of Gu Masters very quickly, and caused Gu Immortals to come and collect it. But initially, this fan door wind immortal material could not be used, nobody understood its use. But now, there were profound methods and plans to make use of it. The five traces of the fan door wind were carefully sent to the center of the ice fire by Lang Ya land spirit. Soon, the five traces of the wind surrounded the profound ice, circling it like five delicate hands, hastening the transformation of the profound ice. &quot;Oh no.&quot; But the success was short-lived, Lang Ya land spirit&#x27;s expression suddenly changed as he called out. Sixth Hair had a feeling as he looked over. He saw that the ice fire had extinguished, the profound ice broke as the five traces of the fan door wind also vanished. &quot;Ahhh! I failed again!!!&quot; Lang Ya land spirit stomped his feet, shouting loudly in deep anger and unhappiness. Sixth Hair sighed deeply. It was a pity. They were at the final few steps. But they failed. Their months of hard work had gone down the drain.</p>
-<p>&quot;If I used the hairy man heaven and earth style, this would not have happened!&quot; Lang Ya land spirit snorted coldly. Sixth Hair quickly reminded: &quot;But first supreme elder, according to the sect rules, elder Fang Yuan paid a huge amount of contribution points for this, we need to follow his request.&quot; &quot;Sigh! This Fang Yuan has lost his mind, why does he want to use the human Gu refinement method. Is he trying to mess around with me?!&quot; The failure of the Gu refinement gave Lang Ya land spirit a horrible mood. Sixth Hair quickly spoke up for Fang Yuan: &quot;Elder Fang Yuan has always been mysterious. Even though I do not like him, it seemed like he had used up all his assets for this, using a vast amount of sect contribution points to refine Immortal Gu. He even needs three Immortal Gu, if he wants to purposely trouble first supreme elder, he would not have paid such a huge price, right?&quot; &quot;Sigh! I was just venting.&quot; Lang Ya land spirit was dejected, he waved his hand: &quot;Let&#x27;s rest first for a while. This is the fifth failure already. Fang Yuan&#x27;s sect contribution points are not enough, contact him and tell him the result of the Gu refinement, if he wants more attempts, he will need enough sect contribution points!&quot; &quot;Yes.&quot; Sixth Hair replied. Fang Yuan flew like an arrow shooting rapidly in the sky. He had no mood to admire the beauty of this desert, at this moment, his mind was on the battle against Feng Jiu Ge. That tributary of the River of Time in the sand whirlpool was a secret cultivation resource of Shadow Sect, it was listed in Shadow Sect&#x27;s map. &quot;Before Purple Mountain True Monarch died, he had instructed me to go to the River of Time and interact with Spectral Soul&#x27;s will inside the ghost face red lotus.&quot; Even though Fang Yuan inherited Purple Mountain True Monarch&#x27;s inheritance and obtained a lot of killer moves, Immortal Gu recipes and secrets. He had only gotten about half of Shadow Sect&#x27;s assets. The ghost face red lotus in the River of Time contained Spectral Soul&#x27;s will, it had almost all of Shadow Sect&#x27;s cultivation details. It even had a portion of Spectral Soul Demon Venerable&#x27;s true inheritance. Shadow Sect had existed for a hundred thousand years, when Spectral Soul Demon Venerable was alive, he had slaughtered the world and caused deep despair in everyone. Even though Shadow Sect was destroyed, the cultivation information it had was unthinkably vast and grand. For example, Immortal Gu Houses. Fang Yuan currently knew the complete construction details of twelve Immortal Gu Houses. But in actuality, Spectral Soul Demon Venerable and Shadow Sect had far more than twelve. The rest of the information could only be obtained when Fang Yuan went to the ghost face red lotus. &quot;As for Red Lotus&#x27; true inheritance, it is also inside the River of Time. I have Spring Autumn Cicada, I hold the key to the true inheritance.&quot; Fang Yuan was definitely going to the River of Time. The tributaries of the River of Time in the five regions were his entrances.</p>
-<p>Even though Fang Yuan lost one to eliminate Heavenly Court&#x27;s pursuers, it was not a problem, Shadow Sect had left behind five or six of them. &quot;However, in Western Desert, Shadow Sect only has control of one final tributary of the River of Time.&quot; &quot;To play safe, I should head to the two resource points first. Before I am completely ready, I should not go there.&quot; Fang Yuan made his decision. Right now, he was in Western Desert, it bordered Northern Plains, Southern Border, and Central Continent. But Fang Yuan could not go to these three regions. Central Continent had Heavenly Court and the ten great ancient sects, Fang Yuan could not head there. Northern Plains had Longevity Heaven, which was hunting Fang Yuan. Southern Border had the righteous path Gu Immortals who were chasing after Shadow Sect earlier. Western Desert was the best place to hide. As for Eastern Sea, Shadow Sect only had the location of one tributary of the River of Time. And unfortunately, this tributary of the River of Time was already taken by Miao Ming Shen. Speaking of which, it was Fang Yuan&#x27;s fault. He was the one who found it and told Miao Ming Shen. Back then, Purple Mountain True Monarch had tried to use the tributary of the River of Time to meet the ghost face red lotus. When he was in Eastern Sea, he could not find that tributary of the River of Time, he had to go to Southern Border for that. &quot;My biggest problem now is the investigative killer move on me, it is exposing my location to Heavenly Court&#x27;s Gu Immortals.&quot; &quot;And without dark limit Immortal Gu&#x27;s protection, heaven&#x27;s will is plotting at all times to get rid of me.&quot; &quot;The problem is, I lack Immortal Gu, I have so many killer moves, but I lack the core Immortal Gu. With the core Immortal Gu, I will be able to dispel this investigative killer move and hide from heaven&#x27;s will again!&quot; While thinking, Fang Yuan received Sixth Hair&#x27;s letter. He looked into it and the contents made him frown. The Gu refinement failed again. Damn it! Even though he succeeded in plotting against Feng Jiu Ge, Heavenly Court was not only going to send him alone against Fang Yuan. Heavenly Court had other methods, it was only a matter of time. &quot;This wisdom path Immortal Gu, self love Immortal Gu, needs to be refined as rank seven from the start. It is quite difficult. I have been observing the Gu refinement all along, Lang Ya land spirit has been giving it his all, he is not working half-heartedly.&quot; Sixth Hair said. Fang Yuan did not suspect his words. Lang Ya land spirit was straightforward and honest, Fang Yuan believed it. The failure was normal. After all, the success rate of a rank seven Immortal Gu was too low.</p>
-<p>But this self love Immortal Gu was necessary to Fang Yuan, and he needed it as soon as possible. With it, Fang Yuan would be able to use a killer move from Purple Mountain True Monarch&#x27;s inheritance to get rid of the investigative killer move on him. This was possible. Fang Yuan had confidence in that. &quot;Refine it, we need to refine it, even if I go bankrupt, we must do it.&quot; Fang Yuan gritted his teeth, firming his mind. It was too easy to get Lang Ya Sect contribution points now, because Purple Mountain True Monarch&#x27;s inheritance was too plentiful. &quot;But...&quot; &quot;I cannot remain passive now.&quot; &quot;I succeeded against Feng Jiu Ge because I caught him by surprise and used the rank eight Immortal Gu Years Flow Like Water. Heavenly Court had not gotten information about it yet.&quot; &quot;But it has already been exposed, I need to hurry up!&quot; &quot;It seems I need to use that method.&quot; Fang Yuan&#x27;s eyes shined with determination. He replied: For this refinement, Sixth Hair will do the refining while Lang Ya land spirit will help out on the side. Sixth Hair received Fang Yuan&#x27;s reply and saw it, feeling rather surprised. He knew that his Gu refinement technique was inferior to Lang Ya land spirit, and since he was not purposely failing, why did Fang Yuan want Sixth Hair to do the Gu refinement? In the River of Time. Raging water could be heard around him. Feng Jiu Ge was swept into the river by the raging waves. &quot;This is the River of Time?&quot; He tried to regain his footing, but he felt the power of time path invading his immortal body. Strong. Incredibly strong! The protection of Feng Jiu Ge&#x27;s immortal body was quite exemplary. But in just a moment, he felt that he was heavily resisted by the surrounding environment. Feng Jiu Ge understood that because he was full of sound path dao marks, he could not coexist with the time path dao marks. &quot;As expected of the River of Time, I need to get out as soon as possible!&quot; Feng Jiu Ge wanted to leave, but looking back, the tributary of the River of Time was already destroyed, only a thin ripple of time was left behind. This ripple was huge, but for Feng Jiu Ge, it was not an exit. &quot;This is a problem. I am not a time path Gu Immortal, I cannot get out using the ripple of time alone, what can I do?&quot; While he was uncertain, Feng Jiu Ge heard an explosion. A tiger&#x27;s roar could be heard, as a huge tiger year beast emerged from the bottom of the river. With a loud sound, river water spattered.</p>
-<p>Feng Jiu Ge&#x27;s pupils shrunk to pin size, his body was like an ant beside an elephant compared to the tiger year beast. &quot;An immemorial year beast!&quot; The shadow of death engulfed Feng Jiu Ge.</p>
+<p>Northern Plains, Lang Ya blessed land.</p>
+<p>In the refinement hall, after months of refining Gu, the most crucial moment was here.</p>
+<p>Lang Ya land spirit stood at the edge of a refinement path super Gu formation, his eyes observed the Gu formation that was blazing with fire.</p>
+<p>This fire was icy blue in color, it was not hot, but cold instead.</p>
+<p>Even the super Gu formation could not isolate this blazing ice fire completely.</p>
+<p>Lang Ya land spirit stood at the side of the Gu formation, his brows and beard were covered in a thin layer of blue frost.</p>
+<p>But he did not care, he was concentrated on that fire.</p>
+<p>Or rather, the profound ice at the center of the fire.</p>
+<p>The profound ice was still melting, but it was also continuing to form. The initial profound ice had sharp edges, but under Lang Ya land spirit&#x27;s refinement, it was already smooth and had a rather round appearance now.</p>
+<p>&quot;Five traces of fan door wind.&quot; Lang Ya land spirit suddenly said.</p>
+<p>Hairy man Gu Immortal Sixth Hair was currently assisting him, he quickly worked as he heard that, using a special method to take out five traces of the fan door wind from the immortal material inventory.</p>
+<p>This fan door wind was a rank seven immortal material.</p>
+<p>It was very special.</p>
+<p>It did not grow in deep forests or mountains, or even the sky, it grew in the doors of the homes of mortals.</p>
+<p>Whenever this immortal material was produced, the mortal&#x27;s door would not be able to close, it could only stay open.</p>
+<p>This special phenomenon attracted the attention of Gu Masters very quickly, and caused Gu Immortals to come and collect it.</p>
+<p>But initially, this fan door wind immortal material could not be used, nobody understood its use. But now, there were profound methods and plans to make use of it.</p>
+<p>The five traces of the fan door wind were carefully sent to the center of the ice fire by Lang Ya land spirit.</p>
+<p>Soon, the five traces of the wind surrounded the profound ice, circling it like five delicate hands, hastening the transformation of the profound ice.</p>
+<p>&quot;Oh no.&quot; But the success was short-lived, Lang Ya land spirit&#x27;s expression suddenly changed as he called out.</p>
+<p>Sixth Hair had a feeling as he looked over.</p>
+<p>He saw that the ice fire had extinguished, the profound ice broke as the five traces of the fan door wind also vanished.</p>
+<p>&quot;Ahhh! I failed again!!!&quot; Lang Ya land spirit stomped his feet, shouting loudly in deep anger and unhappiness.</p>
+<p>Sixth Hair sighed deeply.</p>
+<p>It was a pity.</p>
+<p>They were at the final few steps.</p>
+<p>But they failed.</p>
+<p>Their months of hard work had gone down the drain.</p>
+<p>&quot;If I used the hairy man heaven and earth style, this would not have happened!&quot; Lang Ya land spirit snorted coldly.</p>
+<p>Sixth Hair quickly reminded: &quot;But first supreme elder, according to the sect rules, elder Fang Yuan paid a huge amount of contribution points for this, we need to follow his request.&quot;</p>
+<p>&quot;Sigh! This Fang Yuan has lost his mind, why does he want to use the human Gu refinement method. Is he trying to mess around with me?!&quot; The failure of the Gu refinement gave Lang Ya land spirit a horrible mood.</p>
+<p>Sixth Hair quickly spoke up for Fang Yuan: &quot;Elder Fang Yuan has always been mysterious.</p>
+<p>Even though I do not like him, it seemed like he had used up all his assets for this, using a vast amount of sect contribution points to refine Immortal Gu. He even needs three Immortal Gu, if he wants to purposely trouble first supreme elder, he would not have paid such a huge price, right?&quot;</p>
+<p>&quot;Sigh! I was just venting.&quot; Lang Ya land spirit was dejected, he waved his hand: &quot;Let&#x27;s rest first for a while. This is the fifth failure already. Fang Yuan&#x27;s sect contribution points are not enough, contact him and tell him the result of the Gu refinement, if he wants more attempts, he will need enough sect contribution points!&quot;</p>
+<p>&quot;Yes.&quot; Sixth Hair replied.</p>
+<p>Fang Yuan flew like an arrow shooting rapidly in the sky.</p>
+<p>He had no mood to admire the beauty of this desert, at this moment, his mind was on the battle against Feng Jiu Ge.</p>
+<p>That tributary of the River of Time in the sand whirlpool was a secret cultivation resource of Shadow Sect, it was listed in Shadow Sect&#x27;s map.</p>
+<p>&quot;Before Purple Mountain True Monarch died, he had instructed me to go to the River of Time and interact with Spectral Soul&#x27;s will inside the ghost face red lotus.&quot;</p>
+<p>Even though Fang Yuan inherited Purple Mountain True Monarch&#x27;s inheritance and obtained a lot of killer moves, Immortal Gu recipes and secrets.</p>
+<p>He had only gotten about half of Shadow Sect&#x27;s assets.</p>
+<p>The ghost face red lotus in the River of Time contained Spectral Soul&#x27;s will, it had almost all of Shadow Sect&#x27;s cultivation details. It even had a portion of Spectral Soul Demon Venerable&#x27;s true inheritance.</p>
+<p>Shadow Sect had existed for a hundred thousand years, when Spectral Soul Demon Venerable was alive, he had slaughtered the world and caused deep despair in everyone.</p>
+<p>Even though Shadow Sect was destroyed, the cultivation information it had was unthinkably vast and grand.</p>
+<p>For example, Immortal Gu Houses.</p>
+<p>Fang Yuan currently knew the complete construction details of twelve Immortal Gu Houses. But in actuality, Spectral Soul Demon Venerable and Shadow Sect had far more than twelve.</p>
+<p>The rest of the information could only be obtained when Fang Yuan went to the ghost face red lotus.</p>
+<p>&quot;As for Red Lotus&#x27; true inheritance, it is also inside the River of Time. I have Spring Autumn Cicada, I hold the key to the true inheritance.&quot;</p>
+<p>Fang Yuan was definitely going to the River of Time.</p>
+<p>The tributaries of the River of Time in the five regions were his entrances.</p>
+<p>Even though Fang Yuan lost one to eliminate Heavenly Court&#x27;s pursuers, it was not a problem, Shadow Sect had left behind five or six of them.</p>
+<p>&quot;However, in Western Desert, Shadow Sect only has control of one final tributary of the River of Time.&quot;</p>
+<p>&quot;To play safe, I should head to the two resource points first. Before I am completely ready, I should not go there.&quot;</p>
+<p>Fang Yuan made his decision.</p>
+<p>Right now, he was in Western Desert, it bordered Northern Plains, Southern Border, and Central Continent.</p>
+<p>But Fang Yuan could not go to these three regions.</p>
+<p>Central Continent had Heavenly Court and the ten great ancient sects, Fang Yuan could not head there.</p>
+<p>Northern Plains had Longevity Heaven, which was hunting Fang Yuan.</p>
+<p>Southern Border had the righteous path Gu Immortals who were chasing after Shadow Sect earlier.</p>
+<p>Western Desert was the best place to hide.</p>
+<p>As for Eastern Sea, Shadow Sect only had the location of one tributary of the River of Time.</p>
+<p>And unfortunately, this tributary of the River of Time was already taken by Miao Ming Shen.</p>
+<p>Speaking of which, it was Fang Yuan&#x27;s fault. He was the one who found it and told Miao Ming Shen.</p>
+<p>Back then, Purple Mountain True Monarch had tried to use the tributary of the River of Time to meet the ghost face red lotus. When he was in Eastern Sea, he could not find that tributary of the River of Time, he had to go to Southern Border for that.</p>
+<p>&quot;My biggest problem now is the investigative killer move on me, it is exposing my location to Heavenly Court&#x27;s Gu Immortals.&quot;</p>
+<p>&quot;And without dark limit Immortal Gu&#x27;s protection, heaven&#x27;s will is plotting at all times to get rid of me.&quot;</p>
+<p>&quot;The problem is, I lack Immortal Gu, I have so many killer moves, but I lack the core Immortal Gu. With the core Immortal Gu, I will be able to dispel this investigative killer move and hide from heaven&#x27;s will again!&quot;</p>
+<p>While thinking, Fang Yuan received Sixth Hair&#x27;s letter.</p>
+<p>He looked into it and the contents made him frown.</p>
+<p>The Gu refinement failed again.</p>
+<p>Damn it!</p>
+<p>Even though he succeeded in plotting against Feng Jiu Ge, Heavenly Court was not only going to send him alone against Fang Yuan.</p>
+<p>Heavenly Court had other methods, it was only a matter of time.</p>
+<p>&quot;This wisdom path Immortal Gu, self love Immortal Gu, needs to be refined as rank seven from the start. It is quite difficult. I have been observing the Gu refinement all along, Lang Ya land spirit has been giving it his all, he is not working half-heartedly.&quot; Sixth Hair said.</p>
+<p>Fang Yuan did not suspect his words.</p>
+<p>Lang Ya land spirit was straightforward and honest, Fang Yuan believed it.</p>
+<p>The failure was normal.</p>
+<p>After all, the success rate of a rank seven Immortal Gu was too low.</p>
+<p>But this self love Immortal Gu was necessary to Fang Yuan, and he needed it as soon as possible.</p>
+<p>With it, Fang Yuan would be able to use a killer move from Purple Mountain True Monarch&#x27;s inheritance to get rid of the investigative killer move on him.</p>
+<p>This was possible.</p>
+<p>Fang Yuan had confidence in that.</p>
+<p>&quot;Refine it, we need to refine it, even if I go bankrupt, we must do it.&quot; Fang Yuan gritted his teeth, firming his mind.</p>
+<p>It was too easy to get Lang Ya Sect contribution points now, because Purple Mountain True Monarch&#x27;s inheritance was too plentiful.</p>
+<p>&quot;But...&quot;</p>
+<p>&quot;I cannot remain passive now.&quot;</p>
+<p>&quot;I succeeded against Feng Jiu Ge because I caught him by surprise and used the rank eight Immortal Gu Years Flow Like Water. Heavenly Court had not gotten information about it yet.&quot;</p>
+<p>&quot;But it has already been exposed, I need to hurry up!&quot;</p>
+<p>&quot;It seems I need to use that method.&quot;</p>
+<p>Fang Yuan&#x27;s eyes shined with determination.</p>
+<p>He replied: For this refinement, Sixth Hair will do the refining while Lang Ya land spirit will help out on the side.</p>
+<p>Sixth Hair received Fang Yuan&#x27;s reply and saw it, feeling rather surprised.</p>
+<p>He knew that his Gu refinement technique was inferior to Lang Ya land spirit, and since he was not purposely failing, why did Fang Yuan want Sixth Hair to do the Gu refinement?</p>
+<p>In the River of Time.</p>
+<p>Raging water could be heard around him.</p>
+<p>Feng Jiu Ge was swept into the river by the raging waves.</p>
+<p>&quot;This is the River of Time?&quot; He tried to regain his footing, but he felt the power of time path invading his immortal body.</p>
+<p>Strong.</p>
+<p>Incredibly strong!</p>
+<p>The protection of Feng Jiu Ge&#x27;s immortal body was quite exemplary.</p>
+<p>But in just a moment, he felt that he was heavily resisted by the surrounding environment.</p>
+<p>Feng Jiu Ge understood that because he was full of sound path dao marks, he could not coexist with the time path dao marks.</p>
+<p>&quot;As expected of the River of Time, I need to get out as soon as possible!&quot; Feng Jiu Ge wanted to leave, but looking back, the tributary of the River of Time was already destroyed, only a thin ripple of time was left behind.</p>
+<p>This ripple was huge, but for Feng Jiu Ge, it was not an exit.</p>
+<p>&quot;This is a problem. I am not a time path Gu Immortal, I cannot get out using the ripple of time alone, what can I do?&quot;</p>
+<p>While he was uncertain, Feng Jiu Ge heard an explosion.</p>
+<p>A tiger&#x27;s roar could be heard, as a huge tiger year beast emerged from the bottom of the river.</p>
+<p>With a loud sound, river water spattered.</p>
+<p>Feng Jiu Ge&#x27;s pupils shrunk to pin size, his body was like an ant beside an elephant compared to the tiger year beast.</p>
+<p>&quot;An immemorial year beast!&quot;</p>
+<p>The shadow of death engulfed Feng Jiu Ge.</p>

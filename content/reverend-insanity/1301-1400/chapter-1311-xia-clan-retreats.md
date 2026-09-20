@@ -5,6 +5,88 @@ weight = 1311
 chapter = 1311
 +++
 
-<p>&quot;Damn it!&quot; Xia Fei Kuai gritted his teeth. He had taken such efforts to activate saw light wheel, but now it seemed like a joke. The small tortoise shell-like thoughts were still proliferating. Fifty thousand, sixty thousand... Their numbers were increasing rapidly, not only covering the valley, they were even spreading beyond. Among the dense number of small tortoise shells, some were floating in the air while some were leisurely revolving. In the middle was Fang Yuan&#x27;s divination tortoise transformation, with its huge body that was like an iron hill. &quot;I can&#x27;t let it continue like this!&quot; Xia Fei Kuai was feeling an increasing sense of urgency. &quot;The speed of growth is too fast. No wonder Wu Yi Hai set this sparring rule, but Lord Xia Fei Kuai still has abilities yet to be used, the outcome of this battle is not certain yet.&quot; Xia Zhuo Mo thought, looking at Xia Fei Kuai with anticipation. Xia Fei Kuai was already preparing his killer move. Countless Gu worm auras rose and surged outwards. An arrogant look flashed past his eyes as he looked down at the divination tortoise. &quot;No matter how numerous, they are only thoughts, what can they do?&quot; &quot;Take this — Thirty-three Heavenly Lights!&quot; &quot;Let me see how many layers of heavenly lights can your thoughts stop?&quot; Immortal killer move — Thirty-three Heavenly Lights! It was one of the trump cards of Xia Fei Kuai and was renowned throughout Southern Border. &quot;Is he using it? Lord Xia Fei Kuai&#x27;s area-of-effect method!&quot; Xia Zhuo Mo was inwardly excited. This killer move was quite amazing. Once activated, from Xia Fei Kuai at the center, intense light would shoot out to the surroundings. Under the illumination of the light, all things would receive light path injuries. Intense lights would continue to flicker thirty-three times, with the illumination range continuing to increase. They were like lights descending from heaven, therefore it was called thirty-three heavenly lights. At the first flicker, the heavenly light&#x27;s damage was not high, it could at most only kill some insects. But by the second flicker, its damage would increase and it could destroy plants and flowers. By the third flicker, birds and animals would die when exposed to the light. By the fourth flicker, large trees would be destroyed and boulders would crumble. The fifth flicker, sixth flicker.... Like this, the power of the light would continue growing, until it threatened even desolate beasts and ancient desolate beasts. The small tortoise shell thoughts were hard, but they simply could not compare to desolate beasts, they would definitely be destroyed by the thirty-three heavenly lights. There was no doubt about it.</p>
-<p>Xia Fei Kuai was taking the easy route by using this move. Thirty-three heavenly lights was actually not practical, because once it was activated, the Gu Immortal had to stop moving, if they budged even a little, the killer move would immediately stop. Xia Fei Kuai would even suffer backlash. Naturally, the level of backlash also had differences. If the killer move was stopped before the tenth flicker, Xia Fei Kuai would suffer light injuries, stopping in-between the tenth to twenty-third flicker would inflict medium injuries, and stopping after the twenty-third flicker would cause heavy injuries. After the thirtieth flicker, the backlash would be even stronger, and Xia Fei Kuai might suffer fatal injuries. The stronger the immortal killer move, the greater the danger from the backlash once its activation failed. Soon, the light burst forth! At the first flicker, Fang Yuan&#x27;s tortoise shell thoughts remained unmoved. Second flicker, the thoughts were still growing and did not seem to stop. Third flicker, the thoughts started shaking. Forth flicker, some thoughts started to crumble apart by themselves. Fifth flicker, hundreds of thoughts collapsed into nothingness. Xia Zhuo Mo, who was watching from the side, could not help but smile at this scene. This was only the fifth flicker. The immortal killer move altogether had thirty-three flickers. &quot;But why am I still feeling some unease?&quot; Xia Zhuo Mo pondered. Sixth flicker, a thousand thoughts were destroyed, the tortoise shells on the periphery started to show signs of collapse. &quot;Seventh flicker, time to deal with you!&quot; Xia Fei Kuai sneered inwardly. But, right at this moment. Swoosh! Seventy-eighty thousand small tortoise shell thoughts suddenly surged towards Fang Yuan like a tide. More accurately, they entered his mind. The divination tortoise he had transformed into was a wisdom path ancient desolate beast, its mind was incomparably spacious and holding seventy-eighty thousand thoughts was nothing to it. &quot;What?&quot; Xia Fei Kuai was stunned. Xia Zhuo Mo patted his head as he hatefully exclaimed inwardly: &quot;I finally understand what made me uneasy! These small tortoise shells are thoughts in essence, since they are thoughts, the Gu Immortal can store them back inside their mind.&quot; As a result, the seventy-eight thousand thoughts that filled the valley had completely disappeared and withdrawn into Fang Yuan&#x27;s mind. Only an enormous divination tortoise was left, quietly lying on the ground. In the air, Xia Fei Kuai&#x27;s immortal killer move still continued. Seventh flicker! Eight flicker. Ninth flicker....</p>
-<p>But there were no thoughts, there was no meaning to these powerful lights. However, the immortal killer move was still in the activation process and could not be carelessly stopped. As such, Xia Fei Kuai could only continue to activate the killer move. Tenth flicker, eleventh, twelfth.... It was an extremely awkward situation. After the thirty-third flicker, Xia Fei Kuai had spent a large amount of immortal essence, while the divination tortoise hid inside its shell, motionless on the ground. The mountain valley he was inside had now been turned into a flat land. Thirty-three heavenly lights was indeed powerful, it forcefully changed a vast surrounding area into a flat plain. The hills from before were completely gone. &quot;This killer move is truly powerful.&quot; Fang Yuan did not stint on his praise. While speaking, he stretched out his head, tail and limbs from inside the shell. These parts were not as strong as the tortoise shell, so during the stronger flickers, Fang Yuan hid inside, suffering no injuries. Hearing Fang Yuan&#x27;s praise, Xia Fei Kuai immediately felt incomparably stifled. &quot;Too shameless!&quot; Xia Zhuo Mo gritted his teeth, looking at Fang Yuan hatefully. This was especially the case when he saw over a hundred thousand small tortoise shell thoughts surge out of Fang Yuan&#x27;s mind and spread out, surrounding the divination tortoise. The hatred and fury in his eyes deepened by several degrees. &quot;How are we supposed to break his defense?&quot; The two Gu Immortals of Xia clan were pondering over this difficulty. &quot;You have used three moves.&quot; Fang Yuan indifferently reminded. Xia Fei Kuai shouted: &quot;Then take my following move!!&quot; As he said so, he turned into a ray of light and pounced forward, attacking the divination tortoise from all directions. Countless tortoise shell thoughts were destroyed as they moved to defend him. But Xia Fei Kuai displayed an expert&#x27;s demeanor, he moved back and forth around the thoughts, and could not be stopped. Fang Yuan saw that Xia Fei Kuai was serious and going at full force, he withdrew his head, tail and limbs back inside the shell. Xia Fei Kuai was stifled. This Wu Yi Hai was too wretched, leaving behind only the shell for him to target. A gigantic tortoise shell on the ground and countless small tortoise shells in the air, Xia Fei Kuai was increasingly beginning to feel hatred for tortoise shells. The tenth move was over, Xia Fei Kuai&#x27;s efforts gave no result, while only some slight injury marks had appeared on Fang Yuan&#x27;s tortoise shell. &quot;You win this time.&quot; Xia Fei Kuai directly left the scene with this sentence, flying into the sky. Xia Zhuo Mo, who was left behind, sighed, he had to clear the mess; at least, he had to take away that Gu Master Zhang. &quot;Five years. After five years, I will have to come back and find you.&quot; Xia Zhuo Mo also left, feeling somewhat indignant.</p>
+<p>&quot;Damn it!&quot; Xia Fei Kuai gritted his teeth.</p>
+<p>He had taken such efforts to activate saw light wheel, but now it seemed like a joke.</p>
+<p>The small tortoise shell-like thoughts were still proliferating.</p>
+<p>Fifty thousand, sixty thousand...</p>
+<p>Their numbers were increasing rapidly, not only covering the valley, they were even spreading beyond.</p>
+<p>Among the dense number of small tortoise shells, some were floating in the air while some were leisurely revolving. In the middle was Fang Yuan&#x27;s divination tortoise transformation, with its huge body that was like an iron hill.</p>
+<p>&quot;I can&#x27;t let it continue like this!&quot; Xia Fei Kuai was feeling an increasing sense of urgency.</p>
+<p>&quot;The speed of growth is too fast. No wonder Wu Yi Hai set this sparring rule, but Lord Xia Fei Kuai still has abilities yet to be used, the outcome of this battle is not certain yet.&quot; Xia Zhuo Mo thought, looking at Xia Fei Kuai with anticipation.</p>
+<p>Xia Fei Kuai was already preparing his killer move.</p>
+<p>Countless Gu worm auras rose and surged outwards.</p>
+<p>An arrogant look flashed past his eyes as he looked down at the divination tortoise.</p>
+<p>&quot;No matter how numerous, they are only thoughts, what can they do?&quot;</p>
+<p>&quot;Take this — Thirty-three Heavenly Lights!&quot;</p>
+<p>&quot;Let me see how many layers of heavenly lights can your thoughts stop?&quot;</p>
+<p>Immortal killer move — Thirty-three Heavenly Lights!</p>
+<p>It was one of the trump cards of Xia Fei Kuai and was renowned throughout Southern Border.</p>
+<p>&quot;Is he using it? Lord Xia Fei Kuai&#x27;s area-of-effect method!&quot; Xia Zhuo Mo was inwardly excited.</p>
+<p>This killer move was quite amazing.</p>
+<p>Once activated, from Xia Fei Kuai at the center, intense light would shoot out to the surroundings.</p>
+<p>Under the illumination of the light, all things would receive light path injuries.</p>
+<p>Intense lights would continue to flicker thirty-three times, with the illumination range continuing to increase. They were like lights descending from heaven, therefore it was called thirty-three heavenly lights.</p>
+<p>At the first flicker, the heavenly light&#x27;s damage was not high, it could at most only kill some insects.</p>
+<p>But by the second flicker, its damage would increase and it could destroy plants and flowers.</p>
+<p>By the third flicker, birds and animals would die when exposed to the light.</p>
+<p>By the fourth flicker, large trees would be destroyed and boulders would crumble.</p>
+<p>The fifth flicker, sixth flicker....</p>
+<p>Like this, the power of the light would continue growing, until it threatened even desolate beasts and ancient desolate beasts.</p>
+<p>The small tortoise shell thoughts were hard, but they simply could not compare to desolate beasts, they would definitely be destroyed by the thirty-three heavenly lights.</p>
+<p>There was no doubt about it.</p>
+<p>Xia Fei Kuai was taking the easy route by using this move.</p>
+<p>Thirty-three heavenly lights was actually not practical, because once it was activated, the Gu Immortal had to stop moving, if they budged even a little, the killer move would immediately stop.</p>
+<p>Xia Fei Kuai would even suffer backlash.</p>
+<p>Naturally, the level of backlash also had differences.</p>
+<p>If the killer move was stopped before the tenth flicker, Xia Fei Kuai would suffer light injuries, stopping in-between the tenth to twenty-third flicker would inflict medium injuries, and stopping after the twenty-third flicker would cause heavy injuries. After the thirtieth flicker, the backlash would be even stronger, and Xia Fei Kuai might suffer fatal injuries.</p>
+<p>The stronger the immortal killer move, the greater the danger from the backlash once its activation failed.</p>
+<p>Soon, the light burst forth!</p>
+<p>At the first flicker, Fang Yuan&#x27;s tortoise shell thoughts remained unmoved.</p>
+<p>Second flicker, the thoughts were still growing and did not seem to stop.</p>
+<p>Third flicker, the thoughts started shaking.</p>
+<p>Forth flicker, some thoughts started to crumble apart by themselves.</p>
+<p>Fifth flicker, hundreds of thoughts collapsed into nothingness.</p>
+<p>Xia Zhuo Mo, who was watching from the side, could not help but smile at this scene.</p>
+<p>This was only the fifth flicker.</p>
+<p>The immortal killer move altogether had thirty-three flickers.</p>
+<p>&quot;But why am I still feeling some unease?&quot; Xia Zhuo Mo pondered.</p>
+<p>Sixth flicker, a thousand thoughts were destroyed, the tortoise shells on the periphery started to show signs of collapse.</p>
+<p>&quot;Seventh flicker, time to deal with you!&quot; Xia Fei Kuai sneered inwardly.</p>
+<p>But, right at this moment.</p>
+<p>Swoosh!</p>
+<p>Seventy-eighty thousand small tortoise shell thoughts suddenly surged towards Fang Yuan like a tide.</p>
+<p>More accurately, they entered his mind.</p>
+<p>The divination tortoise he had transformed into was a wisdom path ancient desolate beast, its mind was incomparably spacious and holding seventy-eighty thousand thoughts was nothing to it.</p>
+<p>&quot;What?&quot; Xia Fei Kuai was stunned.</p>
+<p>Xia Zhuo Mo patted his head as he hatefully exclaimed inwardly: &quot;I finally understand what made me uneasy! These small tortoise shells are thoughts in essence, since they are thoughts, the Gu Immortal can store them back inside their mind.&quot;</p>
+<p>As a result, the seventy-eight thousand thoughts that filled the valley had completely disappeared and withdrawn into Fang Yuan&#x27;s mind.</p>
+<p>Only an enormous divination tortoise was left, quietly lying on the ground.</p>
+<p>In the air, Xia Fei Kuai&#x27;s immortal killer move still continued.</p>
+<p>Seventh flicker!</p>
+<p>Eight flicker.</p>
+<p>Ninth flicker....</p>
+<p>But there were no thoughts, there was no meaning to these powerful lights.</p>
+<p>However, the immortal killer move was still in the activation process and could not be carelessly stopped.</p>
+<p>As such, Xia Fei Kuai could only continue to activate the killer move. Tenth flicker, eleventh, twelfth....</p>
+<p>It was an extremely awkward situation.</p>
+<p>After the thirty-third flicker, Xia Fei Kuai had spent a large amount of immortal essence, while the divination tortoise hid inside its shell, motionless on the ground.</p>
+<p>The mountain valley he was inside had now been turned into a flat land.</p>
+<p>Thirty-three heavenly lights was indeed powerful, it forcefully changed a vast surrounding area into a flat plain. The hills from before were completely gone.</p>
+<p>&quot;This killer move is truly powerful.&quot; Fang Yuan did not stint on his praise.</p>
+<p>While speaking, he stretched out his head, tail and limbs from inside the shell.</p>
+<p>These parts were not as strong as the tortoise shell, so during the stronger flickers, Fang Yuan hid inside, suffering no injuries.</p>
+<p>Hearing Fang Yuan&#x27;s praise, Xia Fei Kuai immediately felt incomparably stifled.</p>
+<p>&quot;Too shameless!&quot; Xia Zhuo Mo gritted his teeth, looking at Fang Yuan hatefully.</p>
+<p>This was especially the case when he saw over a hundred thousand small tortoise shell thoughts surge out of Fang Yuan&#x27;s mind and spread out, surrounding the divination tortoise. The hatred and fury in his eyes deepened by several degrees.</p>
+<p>&quot;How are we supposed to break his defense?&quot; The two Gu Immortals of Xia clan were pondering over this difficulty.</p>
+<p>&quot;You have used three moves.&quot; Fang Yuan indifferently reminded.</p>
+<p>Xia Fei Kuai shouted: &quot;Then take my following move!!&quot;</p>
+<p>As he said so, he turned into a ray of light and pounced forward, attacking the divination tortoise from all directions. Countless tortoise shell thoughts were destroyed as they moved to defend him.</p>
+<p>But Xia Fei Kuai displayed an expert&#x27;s demeanor, he moved back and forth around the thoughts, and could not be stopped.</p>
+<p>Fang Yuan saw that Xia Fei Kuai was serious and going at full force, he withdrew his head, tail and limbs back inside the shell.</p>
+<p>Xia Fei Kuai was stifled.</p>
+<p>This Wu Yi Hai was too wretched, leaving behind only the shell for him to target. A gigantic tortoise shell on the ground and countless small tortoise shells in the air, Xia Fei Kuai was increasingly beginning to feel hatred for tortoise shells.</p>
+<p>The tenth move was over, Xia Fei Kuai&#x27;s efforts gave no result, while only some slight injury marks had appeared on Fang Yuan&#x27;s tortoise shell.</p>
+<p>&quot;You win this time.&quot; Xia Fei Kuai directly left the scene with this sentence, flying into the sky.</p>
+<p>Xia Zhuo Mo, who was left behind, sighed, he had to clear the mess; at least, he had to take away that Gu Master Zhang.</p>
+<p>&quot;Five years. After five years, I will have to come back and find you.&quot; Xia Zhuo Mo also left, feeling somewhat indignant.</p>

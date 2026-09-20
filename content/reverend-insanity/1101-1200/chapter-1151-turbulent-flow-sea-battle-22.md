@@ -5,8 +5,138 @@ weight = 1151
 chapter = 1151
 +++
 
-<p>Five Gu Immortals were moving along the surface of the sea. &quot;Hehehe, with the appropriate arrangement, as long as Fang Yuan falls for it, he will suffer. Even if we cannot trap him, we can greatly delay his growth.&quot; Ying Wu Xie felt a little smug. Fang Yuan&#x27;s development was too fast, it was terrifying! Heaven&#x27;s will was trying all means possible to kill him, it even used the snowmen and rockmen. They had to suppress him. Earlier, Fang Yuan was in Lang Ya blessed land, Ying Wu Xie could not do anything. Now that he was coming over, they were going to teach him a lesson. Of course, they could not act personally. They had a huge responsibility, he had the most important task to rebuild Shadow Sect! &quot;This is good, we can suppress Fang Yuan while not falling into heaven&#x27;s will&#x27;s trap. Hmm?!&quot; Suddenly, Ying Wu Xie&#x27;s gaze froze. &quot;Be careful, there is a desolate beast in the sea, it is moving rapidly, it is very strange!&quot; Ying Wu Xie frowned, reminding them. &quot;Merely a desolate beast.&quot; Rank seven Gu Immortal Shi Nu attacked. Boom! Huge ripples and waves appeared on the water surface, as Fang Yuan emerged and showed himself. &quot;I finally found you... Ying Wu Xie!&quot; Fang Yuan&#x27;s mouth opened, revealing a ruthless smile. The five immortals were stunned, this was the first time they were seeing Fang Yuan. Because Fang Yuan was vigilant, before setting off on this trip, he had already changed his appearance. &quot;You are?&quot; Suddenly, Ying Wu Xie&#x27;s body shook. He used luck inspection Immortal Gu, seeing that Fang Yuan&#x27;s tall luck was exactly the same as his and Hei Lou Lan&#x27;s luck. Connect luck Immortal Gu! Ying Wu Xie had used Connect Luck on Hei Lou Lan. And Hei Lou Lan was luck connected to Fang Yuan. Fang Yuan&#x27;s appearance could change, but his luck was unconcealed. Seeing his luck, Ying Wu Xie realized that this was Fang Yuan! &quot;Quick, the ancient battle formation!&quot; He shouted loudly, panicking. The other three immortals had coordination, they subconsciously acted, using the ancient battle formation, Omni-directional Travel. Swoosh, the four immortals disappeared completely. Only one person was left behind. Liu Qing Yu: &quot;...&quot; Fang Yuan: &quot;...&quot; The two looked at each other, falling into silence. Ancient battle formation — Omni-directional Travel.</p>
-<p>It could allow Ying Wu Xie and the rest to escape from Heavenly Court&#x27;s Gu Immortals, it naturally had incredible effect. Fang Yuan was seeing it for the first time as well. Thus, he was speechless. Even though he had some guesses, after seeing it personally, he still felt quite shocked. &quot;This method might be strong, but as long as I have qi luck sensation, I will be able to find them. Now, I should kill this person first!&quot; Fang Yuan thought as his attention went over to Liu Qing Yu. Liu Qing Yu: &quot;...&quot; Seeing Fang Yuan&#x27;s cold gaze filled with killing intent, he subconsciously flew backwards. His mood was even worse than Fang Yuan! He had tried so hard to obtain the information path inheritance, yet it got snatched away. After killing the blood path demonic immortal, the crucial clue was lost. He returned to the turbulent flow sea area to wait, but he encountered Ying Wu Xie, his helpers were all killed, and he had to surrender. So be it if he surrendered, so be it if the alliance agreement was overbearing, he admitted his loss! So be it if he had to call Ying Wu Xie his boss! For his life, Liu Qing Yu was determined to become a core member of this group called Shadow Sect. However, when leaving Eastern Sea, a person suddenly appeared! And next, Ying Wu Xie ran away! He ran!! Not only did he run, the other three Gu Immortals also ran. And they ran so quickly! In literally one moment, they vanished without a trace! &quot;This is absurd!&quot; Liu Qing Yu really wanted to swear. But he could not. He was under the alliance agreement, he had to be polite to Ying Wu Xie at all times. If he cursed, he would face the backlash of the information path dao marks. Liu Qing Yu&#x27;s current mood was simply terrible, it was at rock bottom! He did not recognize Fang Yuan, because Fang Yuan was only rank six now. But Liu Qing Yu sensed that Fang Yuan was a Gu Immortal that was rank six as well. This time, Fang Yuan had casually changed his appearance, in terms of aura, he did not conceal anything. His main goal was to kill Ying Wu Xie and the rest. Everyone knew each other and their cultivation level, his aura was not too important. This caused Liu Qing Yu to feel deeply aggrieved. &quot;Against a rank six Gu Immortal, why are you running?!&quot; &quot;Running for what?!&quot; &quot;We have two rank sevens and three rank sixes, we are all experts! Why are you running?&quot; &quot;Ah! Why did you run?&quot; Liu Qing Yu screamed internally, furious. But he could not get any answers. He had joined Shadow Sect for too short of a time, Ying Wu Xie did not expect Fang Yuan to come so quickly, he did not tell Liu Qing Yu some details. If Ying Wu Xie told Liu Qing Yu that the reason why they fled was because Fang Yuan had the rank eight battle strength — upper extreme heavenly eagle!</p>
-<p>Then Liu Qing Yu would not scream like this internally, he would definitely flee more quickly than Ying Wu Xie and Hei Lou Lan. Oh, no. He could not outrun them. But in terms of effort, he would definitely exceed them. Rank eight battle strength was no joke, killing them was as easy as killing an ant! &quot;This is the deterrence of rank eight.&quot; At this time, Fang Yuan had a lot of insight. Ying Wu Xie and the rest fled, they were wise and resolute. If their positions were reversed, Fang Yuan would escape too. Earlier in the northern icy plain, he did not flee, that was because Fang Yuan could not begin to escape! It was not that he did not want to. There was no shame in running away. For an old demon like Fang Yuan, temporary retreat was a brilliant tactic in battle. However, Ying Wu Xie and the rest did not know that the upper extreme heavenly eagle had died already, it had returned to being an unhatched egg. Even though Fang Yuan told this to Lang Ya land spirit, he had asked him to not leak out this secret. Thus, Sixth Hair only obtained intel about the earlier part, he could not tell Ying Wu Xie about the most crucial intel that was kept secret. At this moment, Ying Wu Xie and the rest left, only Liu Qing Yu was left. This situation was very good for Fang Yuan. Originally, Fang Yuan was a bit concerned in chasing after them, after all, they had an advantage in numbers, there were two rank seven Gu Immortals. Fang Yuan recognized Liu Qing Yu, but this was the first time he saw Shi Nu. Now, once Fang Yuan&#x27;s identity was exposed, Ying Wu Xie ran away, only Liu Qing Yu stayed. It was correct to escape. Trying to probe a rank eight was courting death. During the grey cloud battle puppet killer move, Fang Yuan did not dare to probe the immemorial rock dragon as well. Right now, Fang Yuan was considering killing Liu Qing Yu first. Eliminating him would weaken their combined strength, this was a good chance to take them down, if Fang Yuan could not make use of it, he would definitely get hit by lightning. &quot;After killing him, I would be able to use soul search and obtain intel regarding Ying Wu Xie and the rest!&quot; Thinking of this, Fang Yuan attacked. Sword mark targeting death! At once, he used an extraordinary sword path killer move. Even though Liu Qing Yu was screaming internally, he was still filled with immense wariness. The logic was simple, he was something who made Ying Wu Xie and the rest so fearful, even though he was a rank six Gu Immortal, he was definitely dangerous. Liu Qing Yu was already completely focused against this huge foe. At this moment, sword light flew out, Liu Qing Yu quickly moved, dodging Fang Yuan&#x27;s attack.</p>
-<p>&quot;Sure enough, this guy is also a rank six Gu Immortal with rank seven Immortal Gu. Sword path?&quot; Liu Qing Yu thought bitterly, he only had two rank six Immortal Gu, he had lost to Hei Lou Lan earlier because of this. After some rounds of fighting, Liu Qing Yu was in a disadvantaged position. He was a lone cultivator, even though his cultivation level was higher, with rank seven cultivation level, he had only two rank six Immortal Gu, his immortal killer moves were also deduced by himself, they were not exemplary, and few in number too. After another dozen rounds, Fang Yuan had almost completely understood Liu Qing Yu&#x27;s methods. He only used the same few moves over and over again, how could he not learn everything? Liu Qing Yu was covered in sweat, he was in a sad state. Even though Fang Yuan could not use blood asset Immortal Gu temporarily, he had other time path defensive methods, he could easily attack or defend, he had an easy time. His strength had grown too quickly! In the past, Liu Qing Yu chased Fang Yuan and caused him to run, but now, Fang Yuan was suppressing him instead. Even though he had rank six cultivation level, in terms of battle strength, he far surpassed Liu Qing Yu. &quot;No wonder Ying Wu Xie ran, this is a monster! He is unbelievably powerful, and by the looks of it, he has not used his full strength yet.&quot; Liu Qing Yu lost his motivation as he fought. He really wanted to surrender. But now was different, he had Shadow Sect&#x27;s alliance agreement, he could not surrender to the enemy. He had only one option left, that was to fight to the death! &quot;Follow me if you dare.&quot; Liu Qing Yu desperately avoided Fang Yuan&#x27;s attack as he turned into a green rainbow, escaping towards the turbulent flow sea area. &quot;Too naive.&quot; Fang Yuan sneered, he pointed at Liu Qing Yu&#x27;s escape route. Immortal killer move — Year Beast Summoning! A snake year beast tore through space, suddenly appearing and blocking Liu Qing Yu. Liu Qing Yu was obstructed and could not escape anymore. Fang Yuan used sword escape Immortal Gu behind him and easily caught up to him, attacking. Liu Qing Yu was struck, his life was over, his body self-detonated as his soul broke into several pieces. Fang Yuan quickly acted, but he only salvaged a portion. Liu Qing Yu&#x27;s immortal aperture also fell into the sea, sinking, as the heaven and earth qi surged into it, a blessed land was formed. His remnant soul was dissipating, it seemed to be Shadow Sect&#x27;s method, Fang Yuan tried several methods but did not seem to be able to stop the soul from self-destructing. Fang Yuan quickly soul searched. Dozens of memory fragments were seen by him. Fang Yuan was quite lucky, he saw the scene of Liu Qing Yu and Ying Wu Xie setting up the trap.</p>
-<p>&quot;Oh? It seems that after Ying Wu Xie found out I have rank eight battle strength, he knew he could not fight me, so he set up a trap to harm me. He has truly grown.&quot; The other fragments were useless. Soon, these remnant soul fragments dissipated completely. Liu Qing Yu&#x27;s body also turned into pulp, it was hard to collect it. Already, all of his dao marks had returned to his immortal aperture. Fang Yuan let out a sigh. He wanted to absorb Liu Qing Yu&#x27;s dao marks into himself. But Gu Immortals in the five regions were not so easy to loot. After some commotion, a blessed land was completely formed from the immortal aperture. The entrance opened. This was a rare chance to enter the blessed land! If he missed it, to enter it later, there would be much greater obstacles. In the past, when Fang Yuan placed Star Form blessed land and Ge Pi blessed land, he also used these chances to enter the blessed land.</p>
+<p>Five Gu Immortals were moving along the surface of the sea.</p>
+<p>&quot;Hehehe, with the appropriate arrangement, as long as Fang Yuan falls for it, he will suffer.</p>
+<p>Even if we cannot trap him, we can greatly delay his growth.&quot; Ying Wu Xie felt a little smug.</p>
+<p>Fang Yuan&#x27;s development was too fast, it was terrifying!</p>
+<p>Heaven&#x27;s will was trying all means possible to kill him, it even used the snowmen and rockmen.</p>
+<p>They had to suppress him.</p>
+<p>Earlier, Fang Yuan was in Lang Ya blessed land, Ying Wu Xie could not do anything. Now that he was coming over, they were going to teach him a lesson.</p>
+<p>Of course, they could not act personally.</p>
+<p>They had a huge responsibility, he had the most important task to rebuild Shadow Sect!</p>
+<p>&quot;This is good, we can suppress Fang Yuan while not falling into heaven&#x27;s will&#x27;s trap.</p>
+<p>Hmm?!&quot; Suddenly, Ying Wu Xie&#x27;s gaze froze.</p>
+<p>&quot;Be careful, there is a desolate beast in the sea, it is moving rapidly, it is very strange!&quot; Ying Wu Xie frowned, reminding them.</p>
+<p>&quot;Merely a desolate beast.&quot; Rank seven Gu Immortal Shi Nu attacked.</p>
+<p>Boom!</p>
+<p>Huge ripples and waves appeared on the water surface, as Fang Yuan emerged and showed himself.</p>
+<p>&quot;I finally found you... Ying Wu Xie!&quot; Fang Yuan&#x27;s mouth opened, revealing a ruthless smile.</p>
+<p>The five immortals were stunned, this was the first time they were seeing Fang Yuan.</p>
+<p>Because Fang Yuan was vigilant, before setting off on this trip, he had already changed his appearance.</p>
+<p>&quot;You are?&quot; Suddenly, Ying Wu Xie&#x27;s body shook.</p>
+<p>He used luck inspection Immortal Gu, seeing that Fang Yuan&#x27;s tall luck was exactly the same as his and Hei Lou Lan&#x27;s luck.</p>
+<p>Connect luck Immortal Gu!</p>
+<p>Ying Wu Xie had used Connect Luck on Hei Lou Lan. And Hei Lou Lan was luck connected to Fang Yuan.</p>
+<p>Fang Yuan&#x27;s appearance could change, but his luck was unconcealed.</p>
+<p>Seeing his luck, Ying Wu Xie realized that this was Fang Yuan!</p>
+<p>&quot;Quick, the ancient battle formation!&quot; He shouted loudly, panicking.</p>
+<p>The other three immortals had coordination, they subconsciously acted, using the ancient battle formation, Omni-directional Travel.</p>
+<p>Swoosh, the four immortals disappeared completely.</p>
+<p>Only one person was left behind.</p>
+<p>Liu Qing Yu: &quot;...&quot;</p>
+<p>Fang Yuan: &quot;...&quot;</p>
+<p>The two looked at each other, falling into silence.</p>
+<p>Ancient battle formation — Omni-directional Travel.</p>
+<p>It could allow Ying Wu Xie and the rest to escape from Heavenly Court&#x27;s Gu Immortals, it naturally had incredible effect.</p>
+<p>Fang Yuan was seeing it for the first time as well.</p>
+<p>Thus, he was speechless.</p>
+<p>Even though he had some guesses, after seeing it personally, he still felt quite shocked.</p>
+<p>&quot;This method might be strong, but as long as I have qi luck sensation, I will be able to find them. Now, I should kill this person first!&quot;</p>
+<p>Fang Yuan thought as his attention went over to Liu Qing Yu.</p>
+<p>Liu Qing Yu: &quot;...&quot;</p>
+<p>Seeing Fang Yuan&#x27;s cold gaze filled with killing intent, he subconsciously flew backwards.</p>
+<p>His mood was even worse than Fang Yuan!</p>
+<p>He had tried so hard to obtain the information path inheritance, yet it got snatched away.</p>
+<p>After killing the blood path demonic immortal, the crucial clue was lost.</p>
+<p>He returned to the turbulent flow sea area to wait, but he encountered Ying Wu Xie, his helpers were all killed, and he had to surrender.</p>
+<p>So be it if he surrendered, so be it if the alliance agreement was overbearing, he admitted his loss! So be it if he had to call Ying Wu Xie his boss! For his life, Liu Qing Yu was determined to become a core member of this group called Shadow Sect.</p>
+<p>However, when leaving Eastern Sea, a person suddenly appeared!</p>
+<p>And next, Ying Wu Xie ran away!</p>
+<p>He ran!!</p>
+<p>Not only did he run, the other three Gu Immortals also ran.</p>
+<p>And they ran so quickly!</p>
+<p>In literally one moment, they vanished without a trace!</p>
+<p>&quot;This is absurd!&quot; Liu Qing Yu really wanted to swear.</p>
+<p>But he could not.</p>
+<p>He was under the alliance agreement, he had to be polite to Ying Wu Xie at all times.</p>
+<p>If he cursed, he would face the backlash of the information path dao marks.</p>
+<p>Liu Qing Yu&#x27;s current mood was simply terrible, it was at rock bottom!</p>
+<p>He did not recognize Fang Yuan, because Fang Yuan was only rank six now. But Liu Qing Yu sensed that Fang Yuan was a Gu Immortal that was rank six as well.</p>
+<p>This time, Fang Yuan had casually changed his appearance, in terms of aura, he did not conceal anything. His main goal was to kill Ying Wu Xie and the rest. Everyone knew each other and their cultivation level, his aura was not too important.</p>
+<p>This caused Liu Qing Yu to feel deeply aggrieved.</p>
+<p>&quot;Against a rank six Gu Immortal, why are you running?!&quot;</p>
+<p>&quot;Running for what?!&quot;</p>
+<p>&quot;We have two rank sevens and three rank sixes, we are all experts! Why are you running?&quot;</p>
+<p>&quot;Ah! Why did you run?&quot;</p>
+<p>Liu Qing Yu screamed internally, furious.</p>
+<p>But he could not get any answers.</p>
+<p>He had joined Shadow Sect for too short of a time, Ying Wu Xie did not expect Fang Yuan to come so quickly, he did not tell Liu Qing Yu some details.</p>
+<p>If Ying Wu Xie told Liu Qing Yu that the reason why they fled was because Fang Yuan had the rank eight battle strength — upper extreme heavenly eagle!</p>
+<p>Then Liu Qing Yu would not scream like this internally, he would definitely flee more quickly than Ying Wu Xie and Hei Lou Lan.</p>
+<p>Oh, no.</p>
+<p>He could not outrun them.</p>
+<p>But in terms of effort, he would definitely exceed them.</p>
+<p>Rank eight battle strength was no joke, killing them was as easy as killing an ant!</p>
+<p>&quot;This is the deterrence of rank eight.&quot; At this time, Fang Yuan had a lot of insight.</p>
+<p>Ying Wu Xie and the rest fled, they were wise and resolute. If their positions were reversed, Fang Yuan would escape too.</p>
+<p>Earlier in the northern icy plain, he did not flee, that was because Fang Yuan could not begin to escape! It was not that he did not want to.</p>
+<p>There was no shame in running away.</p>
+<p>For an old demon like Fang Yuan, temporary retreat was a brilliant tactic in battle.</p>
+<p>However, Ying Wu Xie and the rest did not know that the upper extreme heavenly eagle had died already, it had returned to being an unhatched egg.</p>
+<p>Even though Fang Yuan told this to Lang Ya land spirit, he had asked him to not leak out this secret.</p>
+<p>Thus, Sixth Hair only obtained intel about the earlier part, he could not tell Ying Wu Xie about the most crucial intel that was kept secret.</p>
+<p>At this moment, Ying Wu Xie and the rest left, only Liu Qing Yu was left.</p>
+<p>This situation was very good for Fang Yuan.</p>
+<p>Originally, Fang Yuan was a bit concerned in chasing after them, after all, they had an advantage in numbers, there were two rank seven Gu Immortals.</p>
+<p>Fang Yuan recognized Liu Qing Yu, but this was the first time he saw Shi Nu.</p>
+<p>Now, once Fang Yuan&#x27;s identity was exposed, Ying Wu Xie ran away, only Liu Qing Yu stayed.</p>
+<p>It was correct to escape.</p>
+<p>Trying to probe a rank eight was courting death. During the grey cloud battle puppet killer move, Fang Yuan did not dare to probe the immemorial rock dragon as well.</p>
+<p>Right now, Fang Yuan was considering killing Liu Qing Yu first.</p>
+<p>Eliminating him would weaken their combined strength, this was a good chance to take them down, if Fang Yuan could not make use of it, he would definitely get hit by lightning.</p>
+<p>&quot;After killing him, I would be able to use soul search and obtain intel regarding Ying Wu Xie and the rest!&quot; Thinking of this, Fang Yuan attacked.</p>
+<p>Sword mark targeting death!</p>
+<p>At once, he used an extraordinary sword path killer move.</p>
+<p>Even though Liu Qing Yu was screaming internally, he was still filled with immense wariness.</p>
+<p>The logic was simple, he was something who made Ying Wu Xie and the rest so fearful, even though he was a rank six Gu Immortal, he was definitely dangerous.</p>
+<p>Liu Qing Yu was already completely focused against this huge foe.</p>
+<p>At this moment, sword light flew out, Liu Qing Yu quickly moved, dodging Fang Yuan&#x27;s attack.</p>
+<p>&quot;Sure enough, this guy is also a rank six Gu Immortal with rank seven Immortal Gu. Sword path?&quot; Liu Qing Yu thought bitterly, he only had two rank six Immortal Gu, he had lost to Hei Lou Lan earlier because of this.</p>
+<p>After some rounds of fighting, Liu Qing Yu was in a disadvantaged position.</p>
+<p>He was a lone cultivator, even though his cultivation level was higher, with rank seven cultivation level, he had only two rank six Immortal Gu, his immortal killer moves were also deduced by himself, they were not exemplary, and few in number too.</p>
+<p>After another dozen rounds, Fang Yuan had almost completely understood Liu Qing Yu&#x27;s methods.</p>
+<p>He only used the same few moves over and over again, how could he not learn everything?</p>
+<p>Liu Qing Yu was covered in sweat, he was in a sad state.</p>
+<p>Even though Fang Yuan could not use blood asset Immortal Gu temporarily, he had other time path defensive methods, he could easily attack or defend, he had an easy time.</p>
+<p>His strength had grown too quickly!</p>
+<p>In the past, Liu Qing Yu chased Fang Yuan and caused him to run, but now, Fang Yuan was suppressing him instead.</p>
+<p>Even though he had rank six cultivation level, in terms of battle strength, he far surpassed Liu Qing Yu.</p>
+<p>&quot;No wonder Ying Wu Xie ran, this is a monster! He is unbelievably powerful, and by the looks of it, he has not used his full strength yet.&quot; Liu Qing Yu lost his motivation as he fought.</p>
+<p>He really wanted to surrender.</p>
+<p>But now was different, he had Shadow Sect&#x27;s alliance agreement, he could not surrender to the enemy.</p>
+<p>He had only one option left, that was to fight to the death!</p>
+<p>&quot;Follow me if you dare.&quot; Liu Qing Yu desperately avoided Fang Yuan&#x27;s attack as he turned into a green rainbow, escaping towards the turbulent flow sea area.</p>
+<p>&quot;Too naive.&quot; Fang Yuan sneered, he pointed at Liu Qing Yu&#x27;s escape route.</p>
+<p>Immortal killer move — Year Beast Summoning!</p>
+<p>A snake year beast tore through space, suddenly appearing and blocking Liu Qing Yu.</p>
+<p>Liu Qing Yu was obstructed and could not escape anymore.</p>
+<p>Fang Yuan used sword escape Immortal Gu behind him and easily caught up to him, attacking.</p>
+<p>Liu Qing Yu was struck, his life was over, his body self-detonated as his soul broke into several pieces.</p>
+<p>Fang Yuan quickly acted, but he only salvaged a portion.</p>
+<p>Liu Qing Yu&#x27;s immortal aperture also fell into the sea, sinking, as the heaven and earth qi surged into it, a blessed land was formed.</p>
+<p>His remnant soul was dissipating, it seemed to be Shadow Sect&#x27;s method, Fang Yuan tried several methods but did not seem to be able to stop the soul from self-destructing.</p>
+<p>Fang Yuan quickly soul searched.</p>
+<p>Dozens of memory fragments were seen by him.</p>
+<p>Fang Yuan was quite lucky, he saw the scene of Liu Qing Yu and Ying Wu Xie setting up the trap.</p>
+<p>&quot;Oh? It seems that after Ying Wu Xie found out I have rank eight battle strength, he knew he could not fight me, so he set up a trap to harm me. He has truly grown.&quot;</p>
+<p>The other fragments were useless.</p>
+<p>Soon, these remnant soul fragments dissipated completely.</p>
+<p>Liu Qing Yu&#x27;s body also turned into pulp, it was hard to collect it. Already, all of his dao marks had returned to his immortal aperture.</p>
+<p>Fang Yuan let out a sigh.</p>
+<p>He wanted to absorb Liu Qing Yu&#x27;s dao marks into himself.</p>
+<p>But Gu Immortals in the five regions were not so easy to loot.</p>
+<p>After some commotion, a blessed land was completely formed from the immortal aperture.</p>
+<p>The entrance opened.</p>
+<p>This was a rare chance to enter the blessed land!</p>
+<p>If he missed it, to enter it later, there would be much greater obstacles.</p>
+<p>In the past, when Fang Yuan placed Star Form blessed land and Ge Pi blessed land, he also used these chances to enter the blessed land.</p>

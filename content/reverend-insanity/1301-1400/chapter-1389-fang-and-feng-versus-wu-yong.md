@@ -5,8 +5,142 @@ weight = 1389
 chapter = 1389
 +++
 
-<p>&quot;Hahaha.&quot; Wu Yong suddenly started laughing loudly. His laughter was filled with anger. He was obviously angry at Feng Jiu Ge for wanting to help Fang Yuan. &quot;Good.&quot; &quot;Good.&quot; &quot;Both of you are only rank seven Gu Immortals, but have rank eight battle strength.&quot; &quot;Let me experience what level of strength you two have!&quot; A rank eight Gu Immortal&#x27;s pride and confidence made the killing intent inside Wu Yong flourish and intensify. He was absolutely confident of his victory. So what if it was one against two? He, Wu Yong, was a rank eight Gu Immortal, while his opponents were only rank seven. How could the gulf between rank seven and rank eight be so easy to bridge? Let alone when he had an Immortal Gu House with him. Clear Jade Dripping Wind Tiny Bamboo Building — a rank eight Immortal Gu House! A rank eight Gu Immortal with a rank eight Immortal Gu House, how could he lose? Wu Yong could not think of any way he would lose. The battle started again, the atmosphere immediately tensed. Feng Jiu Ge slowly moved towards Wu Yong, while saying to Fang Yuan without turning his head: &quot;You once saved my life, now I am saving yours. The favor has been repaid, you should leave, whether you can break through and get out of here alive will depend on yourself.&quot; Fang Yuan was surprised. By the looks of it, Feng Jiu Ge was not going to fight together with him, and was instead going to fight Wu Yong by himself! &quot;Okay.&quot; Fang Yuan immediately retreated to a corner. Who was he? How could he forgo such a chance? Seeing that Feng Jiu Ge was facing him alone, Wu Yong felt a trace of admiration inwardly and spoke: &quot;Alright, let me experience the power of the famous Central Continent genius.&quot; He then stored the Immortal Gu House Clear Jade Dripping Wind Tiny Bamboo Building back into his immortal aperture. This rank eight Immortal Gu House was his trump card. It was constructed with multiple rank eight Immortal Gu, naturally it consumed an enormous amount of immortal essence. Wu Yong had already activated it for a long time to set up the situation and chase Fang Yuan. Now, Wu Yong stored it. It was like a sheathed divine sword, the enemy would never know when Wu Yong would activate this trump card, and would always feel apprehension and pressure. At the same time, this also showed Wu Yong&#x27;s self-confidence and pride. He wanted to fight Feng Jiu Ge fairly.</p>
-<p>Battle intent soared as both sides readied themselves! Fierce wind suddenly blew around Wu Yong before subsiding rapidly. Feng Jiu Ge and Fang Yuan both watched with focused gazes. This was a sign of Wu Yong activating his immortal killer move. It was extremely fast! Moreover, the aura before activation had been concealed to an extreme degree, be it Feng Jiu Ge or Fang Yuan, both were unable to sense it. Feng Jiu Ge quickly retreated, cautiously pulling apart some distance from Wu Yong. How could he dare to be conceited against a rank eight Gu Immortal? Especially against an immortal killer move which was completely unknown, facing it headon was absolutely reckless. The fierce wind subsided turning into gentle breeze which then rotated endlessly, transforming into enormous figures in a blink of an eye. They were shaped like humans, but were tall like elephants, with bulging muscles like piles of stones. Their whole bodies were bluish-black, sharp fangs protruded out of their mouths, and they had a pair of thick monstrous arms that drooped down to their feet. Their eyes were completely black, and green hair grew all over their bodies. Immortal killer move — Soft Vajra Wind Chief! Wu Yong created six wind chiefs at once. Some of the wind chiefs were shouting, producing loud wheezing noises, while some screamed with an almost ear-piercing pitch. They divided into two groups with each group having three wind chiefs, one group charged at Feng Jiu Ge while the other chased after Fang Yuan. Feng Jiu Ge wanted to fight Wu Yong, while Wu Yong had his own pride and wanted to deal with both Feng Jiu Ge and Fang Yuan together. A light flashed in Feng Jiu Ge&#x27;s eyes when he saw the killer move&#x27;s form. Instead of retreating further, he unleashed his long range palm attacks. Ding — Ding — Ding! Each of his palm strikes produced a resonant sound. The sound waves vibrated and spread, striking the six soft vajra wind chiefs one after the other. The soft vajra wind chiefs had an imposing momentum earlier, but they were completely stopped by this immortal killer move of Feng Jiu Ge. They were even sent back and looked like they were unable to resist the attack! Both Fang Yuan&#x27;s and Wu Yong&#x27;s pupils shrunk at such a sight. They were both shocked! Feng Jiu Ge only had rank seven cultivation level, but the power of his immortal killer move did not lose to Wu Yong&#x27;s. Whether it be Fang Yuan or Wu Yong, they could both see that this was because of the extremely abundant amount of sound path dao marks on Feng Jiu Ge&#x27;s body. His sound path dao mark accumulation was so immense that it was actually on par with Wu Yong! How did he cultivate to this extent?! Fang Yuan was endlessly astonished as he observed the battle from afar.</p>
-<p>The reason he could fight with rank eights was because of reverse flow protection seal. But Feng Jiu Ge was able to fight rank eights because he possessed an extremely deep sound path foundation. When these two were compared, Fang Yuan was naturally inferior to Feng Jiu Ge. &quot;How did he cultivate? Having such a foundation, it is no wonder he was able to fight against Central Continent&#x27;s ten ancient sects back then, and has the confidence to fight Wu Yong!&quot; &quot;Does he truly have this foundation or is it some temporary method that can only last for a short time?&quot; Fang Yuan began to ponder. Naturally, his main attention was still on Wu Yong&#x27;s immortal battlefield killer move as well as analyzing and deducing the killer move air lock. At the same time, the Shadow Sect Gu Immortals inside his immortal aperture were also doing their best at this. Crack crack crack! Wu Yong saw that the soft vajra wind chiefs were ineffective, and activated another killer move. He grasped a thin and long wind whip in his hand and continuously lashed it at Feng Jiu Ge. The wind whip seemed to have no end to it and could also be immediately contracted. Every lash could break the air and produce a crisp explosion. Feng Jiu Ge showed no weaknesses, his left hand sent palm strikes against the soft vajra wind chiefs, while his right hand clenched into a fist and dealt against the wind whip. His left palm struck the air, every strike bringing with it a long and resonant bell sound. His right fist pummeled in front of him, every fist producing a rumbling explosion like striking a war drum. Dang dang dang... Bam bam bam... For a moment, Feng Jiu Ge was actually equally matched against Wu Yong. Even Fang Yuan was almost dazed. The main reason was because Feng Jiu Ge&#x27;s dao marks accumulation did not lose to the rank eight Gu Immortal Wu Yong. How did he cultivate to the point where he was able to go against the common sense of Gu Immortal world! The biggest difference between a rank eight and a rank seven was the amount of dao marks. An earthly calamity could, on average, give two hundred and fifty dao marks (250) to a Gu Immortal. A heavenly tribulation was seven hundred and fifty (750). A grand tribulation was seven thousand two hundred and fifty (7250). A myriad tribulation was eighty-six thousand seven hundred and fifty (86750) dao marks. The difference between the dao marks of a rank seven Gu Immortal and a rank eight was extremely huge. While the difference between a rank nine Gu Immortal and a rank eight was like heaven and earth. This was one of the main reasons why rank nine was invincible, and rank eight Gu Immortals could crush rank sevens.</p>
-<p>As Gu Immortals advanced further, the amount of dao marks they gained would increase explosively. Even though everyone knew this, it was simply too difficult to do anything about it. Rank eight Gu Immortal themselves signified higher quantity and quality of tribulations than rank seven. Hence, it was almost impossible for a Gu Immortal at rank seven cultivation to possess a rank eight Gu Immortal&#x27;s dao mark accumulation. If not for this, there would have been abundant examples of rank seven fighting rank eight in the Gu Immortal world. However, Feng Jiu Ge was able to achieve this. &quot;If this is his temporary power-up method which increases his dao marks, it would be slightly easier to accept. But if he actually has such a dao mark accumulation, that is too terrifying!&quot; Fang Yuan thought to himself while observing the battle. Wu Yong did not get angry at Feng Jiu Ge being able to fight him equally, instead his expression became more calm. &quot;Good.&quot; &quot;Truly worthy of Feng Jiu Ge.&quot; &quot;Well then, how about this move?&quot; Wu Yong pointed his finger. His fingertip aimed at Feng Jiu Ge. A crisp sound echoed. A dark jade worm flew out of his fingertip. The small worm shot at Feng Jiu Ge with an extreme speed. While flying, it grew larger as its body expanded to ten feet, fifty feet, a hundred and fifty feet. After a few breaths of time, it turned into a vicious wind dragon that was two hundred and twenty feet tall, baring its fangs and claws as it showed a ferocious imposingness, as if it was going to swallow Feng Jiu Ge. It was Wu Yong&#x27;s specialty immortal killer move — Finger Wind Dragon! Feng Jiu Ge&#x27;s pupils shrunk slightly, and he immediately retreated back! Finger wind dragon was extremely powerful, Feng Jiu Ge could not face it head-on, hence he retreated to create some distance and attack from afar. It could not be helped. Wu Yong&#x27;s finger wind dragon killer move had rank eight Immortal Gu as its core. Feng Jiu Ge&#x27;s dao mark accumulation was similar to Wu Yong&#x27;s. But he did not have any rank eight Immortal Gu. Wu Yong&#x27;s rank eight killer move, finger wind dragon, was extremely powerful, Feng Jiu Ge could not face it with his killer moves that used rank seven Immortal Gu as their cores. Or, he could use quantity to make up for the quality. Feng Jiu Ge had this idea. He retreated while sending out endless punches and palm strikes, using rank seven killer moves as he weakened the finger wind dragon until it completely dissipated. But this undoubtedly was an intense burden on Feng Jiu Ge&#x27;s rank seven red date immortal essence! On the other hand, Wu Yong&#x27;s immortal essence was something only rank eight Gu Immortals had - white litchi immortal essence.</p>
-<p>Feng Jiu Ge was far inferior to Wu Yong in this aspect. Rank eight Gu Immortals were stronger than rank seven, not only in dao marks, but also their other aspects that were of qualitative difference, immortal essence was only one of them. Just by using one finger wind dragon, Wu Yong had immediately broken the stalemate, suppressing Feng Jiu Ge. &quot;This killer move is dangerous. I can sense the violent strength hiding inside it, I must not let it get close to me!&quot; Feng Jiu Ge had an extraordinary perception. Wu Yong had indeed stacked another move on top of this move, it was chaotic shooting blades. Once this move was activated, the finger wind dragon would self-detonate, turning into countless jade wind blades which would shoot everywhere. The power was terrifying and had shown its might in the purple blood river formation. Although it was the first time Feng Jiu Ge saw the finger wind dragon, with his plentiful battle experience, he intuitively sensed this follow up of Wu Yong. This discovery let Feng Jiu Ge avoid danger, but he became even more passive. He could only retreat while weakening the finger wind dragon with long range attacks. This gave Wu Yong enough opportunity and time to prepare a new immortal killer move. This was very dangerous. Feng Jiu Ge also knew this, but unfortunately, finger wind dragon was extremely fast and gave him huge pressure, adding on the six soft vajra wind chiefs, Feng Jiu Ge was unable to interrupt Wu Yong. &quot;This is troublesome!&quot; Feng Jiu Ge&#x27;s brows began to furrow. At this rate, the situation would become increasingly disadvantageous for him. Once Wu Yong activated another immortal killer move, it would definitely make Feng Jiu Ge&#x27;s situation even more unbearable. However, right at this time, a figure suddenly joined the battlefield! Boom! The finger wind dragon directly collided against Fang Yuan&#x27;s body. Then, it was reflected back by reverse flow protection seal. The finger wind dragon which had troubled Feng Jiu Ge for some time was sent flying back to Wu Yong. Wu Yong, who was preparing a new killer move, immediately frowned deeply! &quot;Reverse flow protection seal is truly amazing!&quot; It was Feng Jiu Ge&#x27;s turn to look at Fang Yuan in a new light.</p>
+<p>&quot;Hahaha.&quot; Wu Yong suddenly started laughing loudly.</p>
+<p>His laughter was filled with anger.</p>
+<p>He was obviously angry at Feng Jiu Ge for wanting to help Fang Yuan.</p>
+<p>&quot;Good.&quot;</p>
+<p>&quot;Good.&quot;</p>
+<p>&quot;Both of you are only rank seven Gu Immortals, but have rank eight battle strength.&quot;</p>
+<p>&quot;Let me experience what level of strength you two have!&quot;</p>
+<p>A rank eight Gu Immortal&#x27;s pride and confidence made the killing intent inside Wu Yong flourish and intensify.</p>
+<p>He was absolutely confident of his victory.</p>
+<p>So what if it was one against two?</p>
+<p>He, Wu Yong, was a rank eight Gu Immortal, while his opponents were only rank seven.</p>
+<p>How could the gulf between rank seven and rank eight be so easy to bridge?</p>
+<p>Let alone when he had an Immortal Gu House with him.</p>
+<p>Clear Jade Dripping Wind Tiny Bamboo Building — a rank eight Immortal Gu House!</p>
+<p>A rank eight Gu Immortal with a rank eight Immortal Gu House, how could he lose?</p>
+<p>Wu Yong could not think of any way he would lose.</p>
+<p>The battle started again, the atmosphere immediately tensed.</p>
+<p>Feng Jiu Ge slowly moved towards Wu Yong, while saying to Fang Yuan without turning his head: &quot;You once saved my life, now I am saving yours. The favor has been repaid, you should leave, whether you can break through and get out of here alive will depend on yourself.&quot;</p>
+<p>Fang Yuan was surprised.</p>
+<p>By the looks of it, Feng Jiu Ge was not going to fight together with him, and was instead going to fight Wu Yong by himself!</p>
+<p>&quot;Okay.&quot; Fang Yuan immediately retreated to a corner.</p>
+<p>Who was he?</p>
+<p>How could he forgo such a chance?</p>
+<p>Seeing that Feng Jiu Ge was facing him alone, Wu Yong felt a trace of admiration inwardly and spoke: &quot;Alright, let me experience the power of the famous Central Continent genius.&quot;</p>
+<p>He then stored the Immortal Gu House Clear Jade Dripping Wind Tiny Bamboo Building back into his immortal aperture.</p>
+<p>This rank eight Immortal Gu House was his trump card.</p>
+<p>It was constructed with multiple rank eight Immortal Gu, naturally it consumed an enormous amount of immortal essence. Wu Yong had already activated it for a long time to set up the situation and chase Fang Yuan.</p>
+<p>Now, Wu Yong stored it.</p>
+<p>It was like a sheathed divine sword, the enemy would never know when Wu Yong would activate this trump card, and would always feel apprehension and pressure.</p>
+<p>At the same time, this also showed Wu Yong&#x27;s self-confidence and pride.</p>
+<p>He wanted to fight Feng Jiu Ge fairly.</p>
+<p>Battle intent soared as both sides readied themselves!</p>
+<p>Fierce wind suddenly blew around Wu Yong before subsiding rapidly.</p>
+<p>Feng Jiu Ge and Fang Yuan both watched with focused gazes.</p>
+<p>This was a sign of Wu Yong activating his immortal killer move.</p>
+<p>It was extremely fast!</p>
+<p>Moreover, the aura before activation had been concealed to an extreme degree, be it Feng Jiu Ge or Fang Yuan, both were unable to sense it.</p>
+<p>Feng Jiu Ge quickly retreated, cautiously pulling apart some distance from Wu Yong.</p>
+<p>How could he dare to be conceited against a rank eight Gu Immortal?</p>
+<p>Especially against an immortal killer move which was completely unknown, facing it head-on was absolutely reckless.</p>
+<p>The fierce wind subsided turning into gentle breeze which then rotated endlessly, transforming into enormous figures in a blink of an eye.</p>
+<p>They were shaped like humans, but were tall like elephants, with bulging muscles like piles of stones. Their whole bodies were bluish-black, sharp fangs protruded out of their mouths, and they had a pair of thick monstrous arms that drooped down to their feet. Their eyes were completely black, and green hair grew all over their bodies.</p>
+<p>Immortal killer move — Soft Vajra Wind Chief!</p>
+<p>Wu Yong created six wind chiefs at once.</p>
+<p>Some of the wind chiefs were shouting, producing loud wheezing noises, while some screamed with an almost ear-piercing pitch.</p>
+<p>They divided into two groups with each group having three wind chiefs, one group charged at Feng Jiu Ge while the other chased after Fang Yuan.</p>
+<p>Feng Jiu Ge wanted to fight Wu Yong, while Wu Yong had his own pride and wanted to deal with both Feng Jiu Ge and Fang Yuan together.</p>
+<p>A light flashed in Feng Jiu Ge&#x27;s eyes when he saw the killer move&#x27;s form. Instead of retreating further, he unleashed his long range palm attacks.</p>
+<p>Ding — Ding — Ding!</p>
+<p>Each of his palm strikes produced a resonant sound.</p>
+<p>The sound waves vibrated and spread, striking the six soft vajra wind chiefs one after the other.</p>
+<p>The soft vajra wind chiefs had an imposing momentum earlier, but they were completely stopped by this immortal killer move of Feng Jiu Ge. They were even sent back and looked like they were unable to resist the attack!</p>
+<p>Both Fang Yuan&#x27;s and Wu Yong&#x27;s pupils shrunk at such a sight.</p>
+<p>They were both shocked!</p>
+<p>Feng Jiu Ge only had rank seven cultivation level, but the power of his immortal killer move did not lose to Wu Yong&#x27;s.</p>
+<p>Whether it be Fang Yuan or Wu Yong, they could both see that this was because of the extremely abundant amount of sound path dao marks on Feng Jiu Ge&#x27;s body.</p>
+<p>His sound path dao mark accumulation was so immense that it was actually on par with Wu Yong!</p>
+<p>How did he cultivate to this extent?!</p>
+<p>Fang Yuan was endlessly astonished as he observed the battle from afar.</p>
+<p>The reason he could fight with rank eights was because of reverse flow protection seal. But Feng Jiu Ge was able to fight rank eights because he possessed an extremely deep sound path foundation.</p>
+<p>When these two were compared, Fang Yuan was naturally inferior to Feng Jiu Ge.</p>
+<p>&quot;How did he cultivate? Having such a foundation, it is no wonder he was able to fight against Central Continent&#x27;s ten ancient sects back then, and has the confidence to fight Wu Yong!&quot;</p>
+<p>&quot;Does he truly have this foundation or is it some temporary method that can only last for a short time?&quot;</p>
+<p>Fang Yuan began to ponder.</p>
+<p>Naturally, his main attention was still on Wu Yong&#x27;s immortal battlefield killer move as well as analyzing and deducing the killer move air lock.</p>
+<p>At the same time, the Shadow Sect Gu Immortals inside his immortal aperture were also doing their best at this.</p>
+<p>Crack crack crack!</p>
+<p>Wu Yong saw that the soft vajra wind chiefs were ineffective, and activated another killer move.</p>
+<p>He grasped a thin and long wind whip in his hand and continuously lashed it at Feng Jiu Ge.</p>
+<p>The wind whip seemed to have no end to it and could also be immediately contracted.</p>
+<p>Every lash could break the air and produce a crisp explosion.</p>
+<p>Feng Jiu Ge showed no weaknesses, his left hand sent palm strikes against the soft vajra wind chiefs, while his right hand clenched into a fist and dealt against the wind whip.</p>
+<p>His left palm struck the air, every strike bringing with it a long and resonant bell sound.</p>
+<p>His right fist pummeled in front of him, every fist producing a rumbling explosion like striking a war drum.</p>
+<p>Dang dang dang...</p>
+<p>Bam bam bam...</p>
+<p>For a moment, Feng Jiu Ge was actually equally matched against Wu Yong.</p>
+<p>Even Fang Yuan was almost dazed.</p>
+<p>The main reason was because Feng Jiu Ge&#x27;s dao marks accumulation did not lose to the rank eight Gu Immortal Wu Yong.</p>
+<p>How did he cultivate to the point where he was able to go against the common sense of Gu Immortal world!</p>
+<p>The biggest difference between a rank eight and a rank seven was the amount of dao marks.</p>
+<p>An earthly calamity could, on average, give two hundred and fifty dao marks (250) to a Gu Immortal.</p>
+<p>A heavenly tribulation was seven hundred and fifty (750).</p>
+<p>A grand tribulation was seven thousand two hundred and fifty (7250).</p>
+<p>A myriad tribulation was eighty-six thousand seven hundred and fifty (86750) dao marks.</p>
+<p>The difference between the dao marks of a rank seven Gu Immortal and a rank eight was extremely huge. While the difference between a rank nine Gu Immortal and a rank eight was like heaven and earth.</p>
+<p>This was one of the main reasons why rank nine was invincible, and rank eight Gu Immortals could crush rank sevens.</p>
+<p>As Gu Immortals advanced further, the amount of dao marks they gained would increase explosively.</p>
+<p>Even though everyone knew this, it was simply too difficult to do anything about it.</p>
+<p>Rank eight Gu Immortal themselves signified higher quantity and quality of tribulations than rank seven.</p>
+<p>Hence, it was almost impossible for a Gu Immortal at rank seven cultivation to possess a rank eight Gu Immortal&#x27;s dao mark accumulation. If not for this, there would have been abundant examples of rank seven fighting rank eight in the Gu Immortal world.</p>
+<p>However, Feng Jiu Ge was able to achieve this.</p>
+<p>&quot;If this is his temporary power-up method which increases his dao marks, it would be slightly easier to accept. But if he actually has such a dao mark accumulation, that is too terrifying!&quot; Fang Yuan thought to himself while observing the battle.</p>
+<p>Wu Yong did not get angry at Feng Jiu Ge being able to fight him equally, instead his expression became more calm.</p>
+<p>&quot;Good.&quot;</p>
+<p>&quot;Truly worthy of Feng Jiu Ge.&quot;</p>
+<p>&quot;Well then, how about this move?&quot;</p>
+<p>Wu Yong pointed his finger.</p>
+<p>His fingertip aimed at Feng Jiu Ge.</p>
+<p>A crisp sound echoed.</p>
+<p>A dark jade worm flew out of his fingertip.</p>
+<p>The small worm shot at Feng Jiu Ge with an extreme speed.</p>
+<p>While flying, it grew larger as its body expanded to ten feet, fifty feet, a hundred and fifty feet.</p>
+<p>After a few breaths of time, it turned into a vicious wind dragon that was two hundred and twenty feet tall, baring its fangs and claws as it showed a ferocious imposingness, as if it was going to swallow Feng Jiu Ge.</p>
+<p>It was Wu Yong&#x27;s specialty immortal killer move — Finger Wind Dragon!</p>
+<p>Feng Jiu Ge&#x27;s pupils shrunk slightly, and he immediately retreated back!</p>
+<p>Finger wind dragon was extremely powerful, Feng Jiu Ge could not face it head-on, hence he retreated to create some distance and attack from afar.</p>
+<p>It could not be helped.</p>
+<p>Wu Yong&#x27;s finger wind dragon killer move had rank eight Immortal Gu as its core.</p>
+<p>Feng Jiu Ge&#x27;s dao mark accumulation was similar to Wu Yong&#x27;s. But he did not have any rank eight Immortal Gu.</p>
+<p>Wu Yong&#x27;s rank eight killer move, finger wind dragon, was extremely powerful, Feng Jiu Ge could not face it with his killer moves that used rank seven Immortal Gu as their cores.</p>
+<p>Or, he could use quantity to make up for the quality.</p>
+<p>Feng Jiu Ge had this idea.</p>
+<p>He retreated while sending out endless punches and palm strikes, using rank seven killer moves as he weakened the finger wind dragon until it completely dissipated.</p>
+<p>But this undoubtedly was an intense burden on Feng Jiu Ge&#x27;s rank seven red date immortal essence!</p>
+<p>On the other hand, Wu Yong&#x27;s immortal essence was something only rank eight Gu Immortals had - white litchi immortal essence.</p>
+<p>Feng Jiu Ge was far inferior to Wu Yong in this aspect.</p>
+<p>Rank eight Gu Immortals were stronger than rank seven, not only in dao marks, but also their other aspects that were of qualitative difference, immortal essence was only one of them.</p>
+<p>Just by using one finger wind dragon, Wu Yong had immediately broken the stalemate, suppressing Feng Jiu Ge.</p>
+<p>&quot;This killer move is dangerous. I can sense the violent strength hiding inside it, I must not let it get close to me!&quot;</p>
+<p>Feng Jiu Ge had an extraordinary perception.</p>
+<p>Wu Yong had indeed stacked another move on top of this move, it was chaotic shooting blades.</p>
+<p>Once this move was activated, the finger wind dragon would self-detonate, turning into countless jade wind blades which would shoot everywhere. The power was terrifying and had shown its might in the purple blood river formation.</p>
+<p>Although it was the first time Feng Jiu Ge saw the finger wind dragon, with his plentiful battle experience, he intuitively sensed this follow up of Wu Yong.</p>
+<p>This discovery let Feng Jiu Ge avoid danger, but he became even more passive.</p>
+<p>He could only retreat while weakening the finger wind dragon with long range attacks.</p>
+<p>This gave Wu Yong enough opportunity and time to prepare a new immortal killer move.</p>
+<p>This was very dangerous.</p>
+<p>Feng Jiu Ge also knew this, but unfortunately, finger wind dragon was extremely fast and gave him huge pressure, adding on the six soft vajra wind chiefs, Feng Jiu Ge was unable to interrupt Wu Yong.</p>
+<p>&quot;This is troublesome!&quot; Feng Jiu Ge&#x27;s brows began to furrow.</p>
+<p>At this rate, the situation would become increasingly disadvantageous for him.</p>
+<p>Once Wu Yong activated another immortal killer move, it would definitely make Feng Jiu Ge&#x27;s situation even more unbearable.</p>
+<p>However, right at this time, a figure suddenly joined the battlefield!</p>
+<p>Boom!</p>
+<p>The finger wind dragon directly collided against Fang Yuan&#x27;s body.</p>
+<p>Then, it was reflected back by reverse flow protection seal.</p>
+<p>The finger wind dragon which had troubled Feng Jiu Ge for some time was sent flying back to Wu Yong.</p>
+<p>Wu Yong, who was preparing a new killer move, immediately frowned deeply!</p>
+<p>&quot;Reverse flow protection seal is truly amazing!&quot; It was Feng Jiu Ge&#x27;s turn to look at Fang Yuan in a new light.</p>

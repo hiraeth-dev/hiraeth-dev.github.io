@@ -5,9 +5,176 @@ weight = 1109
 chapter = 1109
 +++
 
-<p>A shadow resembling a mountain crashed towards Qiao Dong. In an instant, Qiao Dong was immobilized, he could only scream: &quot;Elder Liu, save me!&quot; Liu Zhuan Shen swiftly appeared in front of Qiao Dong, his body shone with white light, causing all of the darkness to fade away. &quot;Hei Tie Sheng, with me here, you cannot harm Qiao Dong.&quot; Liu Zhuan Shen looked at the person with intense battle intent. The Gu Immortals started stirring. Be it the dragon eagles or resonance eagles, they were not important. The important thing was, Hei tribe&#x27;s Gu Immortals had finally acted! With the rank seven Gu Immortal Hei Tie Sheng as the leader, seven rank six Gu Immortals followed behind him, standing before the immortals. Hei Tie Sheng looked around, before his gaze fixed on Liu Zhuan Shen, he snickered, asking: &quot;Is that so?&quot; Liu Zhuan Shen&#x27;s expression turned to shock, he turned around and looked. Qiao Dong was still standing behind him, floating in the air, but his expression had frozen with shock, he had no vitality left, he was dead. &quot;Immortal killer move life draining darkness!&quot; Liu Zhuan Shen shouted before feeling intense anger, but his anger soon faded as only sadness and admiration remained. He and Hei Tie Sheng were old rivals, they had fought for more than a hundred times. he was clear that this life draining darkness was powerful, but it could not be used easily, each activation had a huge cost. Liu Zhuan Shen had never seen Hei Tie Sheng use this trump card at the start of the battle. From this, he understood: His rival for many years had prepared himself to die, he had the mentality of killing as many enemies as possible before going down. Hei Tie Sheng looked Qiao Dong, the morale of the Hei tribe Gu Immortals behind him rose. Hei Tie Sheng was an experienced person, using this chance, he used his methods. At once, the resonance eagles formed into groups, moving in formation. Each of the Hei tribe Gu Immortals went to an area and defended territory. With Gu Immortals here, the second line of defense stabilized, they were hard to deal with. This made many Gu Immortals who invaded Hei tribe furious. Ruining a person&#x27;s wealth was like killing their parents! This hatred was huge, and because Hei tribe was weak, they lost their only Immortal Gu House Dark Prison, the only problem was Green City Rampage. But in this situation, Hei tribe was only struggling at death&#x27;s door. &quot;I&#x27;ll fight you!&quot; Pi Shui Han pounced. He waved his hand, as tides began to form, charging towards Hei Tie Sheng. The tides flew into the air and stopped, turning into glaciers as the temperature fell. &quot;Be careful, this is Pi Shui Han&#x27;s signature killer move — Flood Glacier!&quot; A rank six Gu Immortal from Hei tribe shouted. Hei Tie Sheng laughed lightly, he and Pi Shui Han had deep enmity too, he was not surprised that Pi Shui Han attacked him.</p>
-<p>&quot;He is just a loser, so what?&quot; Hei Tie Sheng&#x27;s eyes shined with dark light, he did not move, he only looked over. The white glacier was covered with black water, in a few breaths&#x27; time, it disintegrated. Pi Shui Han grunted, spitting out a mouthful of blood, falling from the sky. &quot;Against so many enemies, consecutive killer moves are not easy to use.&quot; A figure appeared behind Hei Tie Sheng. It was Huang Di! This was the rank seven demonic path Gu Immortal who communicated with the other demonic path members, entering Iron Eagle blessed land first and causing the righteous path to lose the initiative. He had earned immensely, right now, he was using the chance to attack and kill Hei Tie Sheng! Hei Tie Sheng did not move, he did not even turn around, he only waved his sleeves. Immediately, dark light burst out like waves, sending Huang Di far away. Huang Di struggled to get out of the black tide, showing shock on his face. His seven orifices were spewing out black blood, he drilled into the ground without even a bit of hesitation, vanishing. &quot;Simply a rat, what can you do?&quot; Hei Tie Sheng snorted, looking around, shouting: &quot;Who is next?&quot; Nobody came. Hei Tie Sheng had incredible battle strength, he was even stronger than Pi Shui Han. The immortals could tell, this person was prepared to die, he was oozing with fighting intent and was fighting without reservation, in this situation, his battle strength was at its peak. Why did everyone come to Iron Eagle blessed land? To gain fortune! If their goal was fortune, why would they fight with this person to the death? The Gu Immortals moved away, evading Hei Tie Sheng. Battle commenced. One side was the collaboration of righteous and demonic, they had great numbers, but Hei tribe had the territorial advantage and large numbers of desolate beast resonance eagles to help them. Battles raged on. Hei tribe&#x27;s Gu Immortals were all prepared to die defending their home, their battle intent was high. The demonic path Gu Immortals just wanted a fortune, they did not want to die, they were heavily restricted. The intelligence of Gu Immortals could not be matched by iron crown eagles. At once, the second line of defense was extremely stable! Hei Tie Sheng saw that everyone was avoiding him, so he approached them instead. &quot;Meng Ji, hand over your life!&quot; Hei Tie Sheng shouted angrily, pouncing towards the Meng tribe rank seven Gu Immortal who was closest to him. &quot;Hmph, would I be afraid of you?&quot; Meng Ji fought back courageously. Boom boom boom! The two fought as the sky rumbled, intense shock waves were sent out.</p>
-<p>After several rounds, the proud and arrogant Meng Ji turned around and fled. He was courageous, but Hei Tie Sheng was beyond courageous, he was a lunatic not afraid of death! He fought with Meng Ji by causing injuries to both of them, he was trying to go down together. After several times, Meng Ji could not stand it anymore, he immediately retreated. Hei Tie Sheng was going to chase him, but he heard the Hei tribe Gu Immortals cry for help, he turned around to help them out. &quot;Guan Chou, take this!&quot; Hei Tie Sheng charged forward, dark light burst out and engulfed the surroundings. Guan Chou was a transformation path Gu Immortal, he had turned into a lion. He roared as he crashed into Hei Tie Sheng. At the next moment, the lion that Guan Chou had transformed into flew out like a rag doll. Hei Tie Sheng charged at him again. Guan Chou screeched, turning into a little bird and flying away. &quot;Coward!&quot; Hei Tie Sheng could not catch up, he snorted. His gaze swept around, he targeted the rank seven Gu Immortal who was closer to him, Liu Zhuan Shen. Liu Zhuan Shen was very perceptive! Seeing that Hei Tie Sheng was approaching, he retreated. Hei Tie Sheng chased after him, so Liu Zhuan Shen went over to Divine Lord Tian Du. Divine Lord Tian Du&#x27;s body shook, he turned around and left. Liu Zhuan Shen then lured Hei Tie Sheng towards Unfettered Scholar, he snorted as a threeway battle started. Boom boom boom! A moment later, in an intense clash, Liu Zhuan Shen and Unfettered Scholar were forced back. Hei Tie Sheng continued to fight everyone, he was unstoppable. In the sky, Hei tribe&#x27;s first supreme elder sighed: &quot;Tie Sheng, this child...&quot; He knew that Hei Tie Sheng had a special technique, he could expend his lifespan to increase the power of his killer moves. He was fighting by consuming his life! The righteous and demonic Gu Immortals did not want to die, that was true. But with just this reason, there was no way anybody could contest him. Hei Tie Sheng was a huge setback to the Gu Immortals. These were all people with high cultivation level and impressive methods. In the earlier battles, the weaker Gu Immortals were already eliminated. But no matter how strong Hei Tie Sheng was, he could not reach the level of rank eight. He could not turn around the situation singlehandedly. Resonance eagles were captured or killed, while Hei tribe&#x27;s Gu Immortals died one by one. Fight! A fight to the death! Towards the end of the battle, Hei Tie Sheng was the only one left. He was bathed in blood, he stood proud and straight, looking at the Gu Immortals around, he laughed loudly: &quot;Alright, come and kill me!&quot;</p>
-<p>The immortals looked around, but nobody moved. Liu Zhuan Shen&#x27;s expression was complex, he knew that Hei Tie Sheng was already out of steam. His immortal essence was expended, he was not a threat. But he was unable to attack! Hei Tie Sheng moved his lips: &quot;Then let me!&quot; Saying so, he charged towards the Gu Immortals in front. Charge! His final charge. He died while charging. It was tragic. It was courageous. Hei Tie Sheng died, the immortals had no obstacles left, they went towards Hei tribe&#x27;s final line of defense. Twelve flying eagles blocked them. Enemy eagles with overflowing killing intent, absolute eyebrow eagles with divine aura, shadow eagles with indistinct figures, whale swallowing eagles with huge muscular bodies... Without exception, they were all ancient desolate beasts, having rank seven battle strength. Hei tribe&#x27;s first supreme elder and the other six elders descended from the sky. At this moment, they no longer placed further hope in being saved, they came out to battle. Ancient battle formation, Green City Rampage! The top four supreme elders joined forces, their might could rival rank eight Gu Immortals. The righteous and demonic Gu Immortals split up at once. Resources were more important. By now, everyone had already earned a lot, but they paid a huge price too. Their mental energy was depleted, their immortal essence was also expended, who would fight against Green City Rampage in this state? Whoever got caught would simply be unlucky! In the sky of Iron Eagle blessed land, there were twelve eagle nests that were in peculiar shapes. These eagle nests were not round ball wooden eagle nests, they held precious rank eight immortal materials. Immediately, countless Gu Immortals fought over them. The battle was a chaotic mess! Green City Rampage went on a killing spree, lots of unlucky people died in the top four supreme elders&#x27; hands. Humans die for wealth and birds die for food. &quot;This is too dangerous, let&#x27;s go, let&#x27;s go.&quot; Nian Er Fu grabbed the unconscious Nian Er Ping Zhi as he sneakily retreated. &quot;I cannot stay here.&quot; Pi Shui Han also retreated, he had obtained some eagle nests, and had gained large amounts of rank eight immortal materials. Some astute Gu Immortals were leaving. The twelve eagle nests were all lost. Suddenly, in the air, there were ripples as a thirteenth eagle nest appeared, drawing everyone&#x27;s attention.</p>
-<p>The immortals shouted, pouncing over. &quot;This is mine.&quot; Chu Du suddenly appeared, blocking all the immortals. &quot;Ah, Domination Immortal!&quot; The immortals were shocked, stopping their movement. Chu Du was powerful, far stronger than Hei Tie Sheng! Liu tribe&#x27;s entire strength as a super force could do nothing to him. In the entire Northern Plains Gu Immortal world, only people like Qin Bai Sheng could fight him. At this stage in the battle, everyone was in poor conditions. But this was the first time Chu Du was acting. At once, nobody dared to go forward. Chu Du successfully deterred the immortals, it was to obtain this mysterious thirteenth eagle nest. Green City Rampage came crashing, a voice was loud as thunder: &quot;Chu Du, you dare?&quot; Chu Du laughed coldly: &quot;Why wouldn&#x27;t I?&quot; Boom! The two sides clashed, the giant that Green City Rampage transformed into was sent flying by Chu Du in one move. &quot;The ancient battle formation is powerful, but it is powered by you people. In your condition, none of you can match me.&quot; Chu Du stood arrogantly in the air, looking at the immortals. The immortals wanted to attack, but they also wanted others to do the work, so that they could reap the benefits. &quot;Simply a mob.&quot; Chu Du commented, before going ahead to grab at the eagle nest behind him. Suddenly, a shocking change occurred. An Immortal Gu House appeared, crashing towards Chu Du&#x27;s head. &quot;Modest Thatched Hut!&quot; A Gu Immortal yelled, he recognized that this was Dong Fang tribe&#x27;s former Immortal Gu House! &quot;Scram!&quot; Chu Du slapped, creating a huge sound. Thud!! Bam, Modest Thatched Hut was actually sent flying by his slap. Gasp! Everyone took in a deep breath of shock. Chu Du successfully placed the thirteenth eagle nest into his own immortal aperture. Next, his gaze fell on Green City Rampage. The four supreme elders felt a wave of despair. &quot;Wait.&quot; Just as Chu Du was about to deal the killing blow, a voice resounded in the entire place. An immeasurable aura, like a formless mountain, enveloped the entire area in an instant. Rank eight Gu Immortal, Heavenly Lord Bai Zu! The immortals were shaken, the identity of the voice appeared in their minds. At this point in the battle, a rank eight Gu Immortal had finally shown up! It was not certain that he came in person, after all, only his voice was heard. &quot;Wasn&#x27;t it agreed upon that the rank eight great experts would not personally interfere?&quot; Some righteous path Gu Immortals who knew some inside information were confused.</p>
-<p>At the next moment, the immortals heard Heavenly Lord Bai Zu&#x27;s voice: &quot;Hei tribe&#x27;s battle ends here, the remaining members of Hei tribe have submitted to me. From now on, this is Bai Zu tribe&#x27;s territory.&quot; &quot;We are willing to change our surnames to Bai Zu!&quot; Hei tribe&#x27;s elders responded. The immortals were shaken, this matter was huge, the situation in Northern Plains&#x27; Gu Immortal world would immediately change! Smarter people knew: Heavenly Lord Bai Zu could say this because he had come to an agreement with the other rank eight great experts. &quot;No need to leave, I am holding a banquet for three days and three nights for everyone.&quot; Heavenly Lord Bai Zu said again. The remaining Hei tribe Gu Immortals&#x27; faces twitched. This battlefield which was still filled with blood from the battle earlier was going to hold a banquet. The change was too sudden and abrupt. &quot;Congratulations to Bai Zu tribe, congratulations to Heavenly Lord.&quot; The righteous path Gu Immortals quickly came to an agreement, giving many responses. The demonic path and lone immortals were uneasy and agitated. &quot;Hmph!&quot; Chu Du snorted coldly, it was loud and shrill. He left with a billowing of his sleeves. Under everyone&#x27;s gazes, he flew away into the horizon.</p>
+<p>No sooner said than done!</p>
+<p>A shadow resembling a mountain crashed towards Qiao Dong.</p>
+<p>In an instant, Qiao Dong was immobilized, he could only scream: &quot;Elder Liu, save me!&quot;</p>
+<p>Liu Zhuan Shen swiftly appeared in front of Qiao Dong, his body shone with white light, causing all of the darkness to fade away.</p>
+<p>&quot;Hei Tie Sheng, with me here, you cannot harm Qiao Dong.&quot; Liu Zhuan Shen looked at the person with intense battle intent.</p>
+<p>The Gu Immortals started stirring.</p>
+<p>Be it the dragon eagles or resonance eagles, they were not important.</p>
+<p>The important thing was, Hei tribe&#x27;s Gu Immortals had finally acted!</p>
+<p>With the rank seven Gu Immortal Hei Tie Sheng as the leader, seven rank six Gu Immortals followed behind him, standing before the immortals.</p>
+<p>Hei Tie Sheng looked around, before his gaze fixed on Liu Zhuan Shen, he snickered, asking:</p>
+<p>&quot;Is that so?&quot;</p>
+<p>Liu Zhuan Shen&#x27;s expression turned to shock, he turned around and looked.</p>
+<p>Qiao Dong was still standing behind him, floating in the air, but his expression had frozen with shock, he had no vitality left, he was dead.</p>
+<p>&quot;Immortal killer move life draining darkness!&quot; Liu Zhuan Shen shouted before feeling intense anger, but his anger soon faded as only sadness and admiration remained.</p>
+<p>He and Hei Tie Sheng were old rivals, they had fought for more than a hundred times. he was clear that this life draining darkness was powerful, but it could not be used easily, each activation had a huge cost.</p>
+<p>Liu Zhuan Shen had never seen Hei Tie Sheng use this trump card at the start of the battle.</p>
+<p>From this, he understood: His rival for many years had prepared himself to die, he had the mentality of killing as many enemies as possible before going down.</p>
+<p>Hei Tie Sheng looked Qiao Dong, the morale of the Hei tribe Gu Immortals behind him rose.</p>
+<p>Hei Tie Sheng was an experienced person, using this chance, he used his methods.</p>
+<p>At once, the resonance eagles formed into groups, moving in formation. Each of the Hei tribe Gu Immortals went to an area and defended territory.</p>
+<p>With Gu Immortals here, the second line of defense stabilized, they were hard to deal with.</p>
+<p>This made many Gu Immortals who invaded Hei tribe furious.</p>
+<p>Ruining a person&#x27;s wealth was like killing their parents!</p>
+<p>This hatred was huge, and because Hei tribe was weak, they lost their only Immortal Gu House Dark Prison, the only problem was Green City Rampage. But in this situation, Hei tribe was only struggling at death&#x27;s door.</p>
+<p>&quot;I&#x27;ll fight you!&quot; Pi Shui Han pounced.</p>
+<p>He waved his hand, as tides began to form, charging towards Hei Tie Sheng.</p>
+<p>The tides flew into the air and stopped, turning into glaciers as the temperature fell.</p>
+<p>&quot;Be careful, this is Pi Shui Han&#x27;s signature killer move — Flood Glacier!&quot; A rank six Gu Immortal from Hei tribe shouted.</p>
+<p>Hei Tie Sheng laughed lightly, he and Pi Shui Han had deep enmity too, he was not surprised that Pi Shui Han attacked him.</p>
+<p>&quot;He is just a loser, so what?&quot; Hei Tie Sheng&#x27;s eyes shined with dark light, he did not move, he only looked over.</p>
+<p>The white glacier was covered with black water, in a few breaths&#x27; time, it disintegrated.</p>
+<p>Pi Shui Han grunted, spitting out a mouthful of blood, falling from the sky.</p>
+<p>&quot;Against so many enemies, consecutive killer moves are not easy to use.&quot; A figure appeared behind Hei Tie Sheng.</p>
+<p>It was Huang Di!</p>
+<p>This was the rank seven demonic path Gu Immortal who communicated with the other demonic path members, entering Iron Eagle blessed land first and causing the righteous path to lose the initiative.</p>
+<p>He had earned immensely, right now, he was using the chance to attack and kill Hei Tie Sheng!</p>
+<p>Hei Tie Sheng did not move, he did not even turn around, he only waved his sleeves.</p>
+<p>Immediately, dark light burst out like waves, sending Huang Di far away.</p>
+<p>Huang Di struggled to get out of the black tide, showing shock on his face. His seven orifices were spewing out black blood, he drilled into the ground without even a bit of hesitation, vanishing.</p>
+<p>&quot;Simply a rat, what can you do?&quot; Hei Tie Sheng snorted, looking around, shouting: &quot;Who is next?&quot;</p>
+<p>Nobody came.</p>
+<p>Hei Tie Sheng had incredible battle strength, he was even stronger than Pi Shui Han.</p>
+<p>The immortals could tell, this person was prepared to die, he was oozing with fighting intent and was fighting without reservation, in this situation, his battle strength was at its peak.</p>
+<p>Why did everyone come to Iron Eagle blessed land?</p>
+<p>To gain fortune!</p>
+<p>If their goal was fortune, why would they fight with this person to the death?</p>
+<p>The Gu Immortals moved away, evading Hei Tie Sheng.</p>
+<p>Battle commenced.</p>
+<p>One side was the collaboration of righteous and demonic, they had great numbers, but Hei tribe had the territorial advantage and large numbers of desolate beast resonance eagles to help them.</p>
+<p>Battles raged on.</p>
+<p>Hei tribe&#x27;s Gu Immortals were all prepared to die defending their home, their battle intent was high.</p>
+<p>The demonic path Gu Immortals just wanted a fortune, they did not want to die, they were heavily restricted.</p>
+<p>The intelligence of Gu Immortals could not be matched by iron crown eagles.</p>
+<p>At once, the second line of defense was extremely stable!</p>
+<p>Hei Tie Sheng saw that everyone was avoiding him, so he approached them instead.</p>
+<p>&quot;Meng Ji, hand over your life!&quot; Hei Tie Sheng shouted angrily, pouncing towards the Meng tribe rank seven Gu Immortal who was closest to him.</p>
+<p>&quot;Hmph, would I be afraid of you?&quot; Meng Ji fought back courageously.</p>
+<p>Boom boom boom!</p>
+<p>The two fought as the sky rumbled, intense shock waves were sent out.</p>
+<p>After several rounds, the proud and arrogant Meng Ji turned around and fled.</p>
+<p>He was courageous, but Hei Tie Sheng was beyond courageous, he was a lunatic not afraid of death!</p>
+<p>He fought with Meng Ji by causing injuries to both of them, he was trying to go down together.</p>
+<p>After several times, Meng Ji could not stand it anymore, he immediately retreated.</p>
+<p>Hei Tie Sheng was going to chase him, but he heard the Hei tribe Gu Immortals cry for help, he turned around to help them out.</p>
+<p>&quot;Guan Chou, take this!&quot; Hei Tie Sheng charged forward, dark light burst out and engulfed the surroundings.</p>
+<p>Guan Chou was a transformation path Gu Immortal, he had turned into a lion. He roared as he crashed into Hei Tie Sheng.</p>
+<p>At the next moment, the lion that Guan Chou had transformed into flew out like a rag doll.</p>
+<p>Hei Tie Sheng charged at him again.</p>
+<p>Guan Chou screeched, turning into a little bird and flying away.</p>
+<p>&quot;Coward!&quot; Hei Tie Sheng could not catch up, he snorted.</p>
+<p>His gaze swept around, he targeted the rank seven Gu Immortal who was closer to him, Liu Zhuan Shen.</p>
+<p>Liu Zhuan Shen was very perceptive!</p>
+<p>Seeing that Hei Tie Sheng was approaching, he retreated.</p>
+<p>Hei Tie Sheng chased after him, so Liu Zhuan Shen went over to Divine Lord Tian Du.</p>
+<p>Divine Lord Tian Du&#x27;s body shook, he turned around and left.</p>
+<p>Liu Zhuan Shen then lured Hei Tie Sheng towards Unfettered Scholar, he snorted as a three-way battle started.</p>
+<p>Boom boom boom!</p>
+<p>A moment later, in an intense clash, Liu Zhuan Shen and Unfettered Scholar were forced back.</p>
+<p>Hei Tie Sheng continued to fight everyone, he was unstoppable.</p>
+<p>In the sky, Hei tribe&#x27;s first supreme elder sighed: &quot;Tie Sheng, this child...&quot;</p>
+<p>He knew that Hei Tie Sheng had a special technique, he could expend his lifespan to increase the power of his killer moves.</p>
+<p>He was fighting by consuming his life!</p>
+<p>The righteous and demonic Gu Immortals did not want to die, that was true. But with just this reason, there was no way anybody could contest him.</p>
+<p>Hei Tie Sheng was a huge setback to the Gu Immortals.</p>
+<p>These were all people with high cultivation level and impressive methods. In the earlier battles, the weaker Gu Immortals were already eliminated.</p>
+<p>But no matter how strong Hei Tie Sheng was, he could not reach the level of rank eight.</p>
+<p>He could not turn around the situation singlehandedly.</p>
+<p>Resonance eagles were captured or killed, while Hei tribe&#x27;s Gu Immortals died one by one.</p>
+<p>Fight!</p>
+<p>A fight to the death!</p>
+<p>Towards the end of the battle, Hei Tie Sheng was the only one left.</p>
+<p>He was bathed in blood, he stood proud and straight, looking at the Gu Immortals around, he laughed loudly: &quot;Alright, come and kill me!&quot;</p>
+<p>The immortals looked around, but nobody moved.</p>
+<p>Liu Zhuan Shen&#x27;s expression was complex, he knew that Hei Tie Sheng was already out of steam. His immortal essence was expended, he was not a threat.</p>
+<p>But he was unable to attack!</p>
+<p>Hei Tie Sheng moved his lips: &quot;Then let me!&quot;</p>
+<p>Saying so, he charged towards the Gu Immortals in front.</p>
+<p>Charge!</p>
+<p>His final charge.</p>
+<p>He died while charging.</p>
+<p>It was tragic.</p>
+<p>It was courageous.</p>
+<p>Hei Tie Sheng died, the immortals had no obstacles left, they went towards Hei tribe&#x27;s final line of defense.</p>
+<p>Twelve flying eagles blocked them.</p>
+<p>Enemy eagles with overflowing killing intent, absolute eyebrow eagles with divine aura, shadow eagles with indistinct figures, whale swallowing eagles with huge muscular bodies...</p>
+<p>Without exception, they were all ancient desolate beasts, having rank seven battle strength.</p>
+<p>Hei tribe&#x27;s first supreme elder and the other six elders descended from the sky.</p>
+<p>At this moment, they no longer placed further hope in being saved, they came out to battle.</p>
+<p>Ancient battle formation, Green City Rampage!</p>
+<p>The top four supreme elders joined forces, their might could rival rank eight Gu Immortals.</p>
+<p>The righteous and demonic Gu Immortals split up at once.</p>
+<p>Resources were more important.</p>
+<p>By now, everyone had already earned a lot, but they paid a huge price too. Their mental energy was depleted, their immortal essence was also expended, who would fight against Green City Rampage in this state?</p>
+<p>Whoever got caught would simply be unlucky!</p>
+<p>In the sky of Iron Eagle blessed land, there were twelve eagle nests that were in peculiar shapes.</p>
+<p>These eagle nests were not round ball wooden eagle nests, they held precious rank eight immortal materials.</p>
+<p>Immediately, countless Gu Immortals fought over them.</p>
+<p>The battle was a chaotic mess!</p>
+<p>Green City Rampage went on a killing spree, lots of unlucky people died in the top four supreme elders&#x27; hands.</p>
+<p>Humans die for wealth and birds die for food.</p>
+<p>&quot;This is too dangerous, let&#x27;s go, let&#x27;s go.&quot; Nian Er Fu grabbed the unconscious Nian Er Ping Zhi as he sneakily retreated.</p>
+<p>&quot;I cannot stay here.&quot; Pi Shui Han also retreated, he had obtained some eagle nests, and had gained large amounts of rank eight immortal materials.</p>
+<p>Some astute Gu Immortals were leaving.</p>
+<p>The twelve eagle nests were all lost.</p>
+<p>Suddenly, in the air, there were ripples as a thirteenth eagle nest appeared, drawing everyone&#x27;s attention.</p>
+<p>The immortals shouted, pouncing over.</p>
+<p>&quot;This is mine.&quot; Chu Du suddenly appeared, blocking all the immortals.</p>
+<p>&quot;Ah, Domination Immortal!&quot; The immortals were shocked, stopping their movement.</p>
+<p>Chu Du was powerful, far stronger than Hei Tie Sheng!</p>
+<p>Liu tribe&#x27;s entire strength as a super force could do nothing to him. In the entire Northern Plains Gu Immortal world, only people like Qin Bai Sheng could fight him.</p>
+<p>At this stage in the battle, everyone was in poor conditions.</p>
+<p>But this was the first time Chu Du was acting.</p>
+<p>At once, nobody dared to go forward.</p>
+<p>Chu Du successfully deterred the immortals, it was to obtain this mysterious thirteenth eagle nest.</p>
+<p>Green City Rampage came crashing, a voice was loud as thunder: &quot;Chu Du, you dare?&quot;</p>
+<p>Chu Du laughed coldly: &quot;Why wouldn&#x27;t I?&quot;</p>
+<p>Boom!</p>
+<p>The two sides clashed, the giant that Green City Rampage transformed into was sent flying by Chu Du in one move.</p>
+<p>&quot;The ancient battle formation is powerful, but it is powered by you people. In your condition, none of you can match me.&quot; Chu Du stood arrogantly in the air, looking at the immortals.</p>
+<p>The immortals wanted to attack, but they also wanted others to do the work, so that they could reap the benefits.</p>
+<p>&quot;Simply a mob.&quot; Chu Du commented, before going ahead to grab at the eagle nest behind him.</p>
+<p>Suddenly, a shocking change occurred.</p>
+<p>An Immortal Gu House appeared, crashing towards Chu Du&#x27;s head.</p>
+<p>&quot;Modest Thatched Hut!&quot; A Gu Immortal yelled, he recognized that this was Dong Fang tribe&#x27;s former Immortal Gu House!</p>
+<p>&quot;Scram!&quot; Chu Du slapped, creating a huge sound.</p>
+<p>Thud!!</p>
+<p>Bam, Modest Thatched Hut was actually sent flying by his slap.</p>
+<p>Gasp!</p>
+<p>Everyone took in a deep breath of shock.</p>
+<p>Chu Du successfully placed the thirteenth eagle nest into his own immortal aperture.</p>
+<p>Next, his gaze fell on Green City Rampage.</p>
+<p>The four supreme elders felt a wave of despair.</p>
+<p>&quot;Wait.&quot; Just as Chu Du was about to deal the killing blow, a voice resounded in the entire place.</p>
+<p>An immeasurable aura, like a formless mountain, enveloped the entire area in an instant.</p>
+<p>Rank eight Gu Immortal, Heavenly Lord Bai Zu!</p>
+<p>The immortals were shaken, the identity of the voice appeared in their minds.</p>
+<p>At this point in the battle, a rank eight Gu Immortal had finally shown up!</p>
+<p>It was not certain that he came in person, after all, only his voice was heard.</p>
+<p>&quot;Wasn&#x27;t it agreed upon that the rank eight great experts would not personally interfere?&quot;</p>
+<p>Some righteous path Gu Immortals who knew some inside information were confused.</p>
+<p>At the next moment, the immortals heard Heavenly Lord Bai Zu&#x27;s voice: &quot;Hei tribe&#x27;s battle ends here, the remaining members of Hei tribe have submitted to me. From now on, this is Bai Zu tribe&#x27;s territory.&quot;</p>
+<p>&quot;We are willing to change our surnames to Bai Zu!&quot; Hei tribe&#x27;s elders responded.</p>
+<p>The immortals were shaken, this matter was huge, the situation in Northern Plains&#x27; Gu Immortal world would immediately change!</p>
+<p>Smarter people knew: Heavenly Lord Bai Zu could say this because he had come to an agreement with the other rank eight great experts.</p>
+<p>&quot;No need to leave, I am holding a banquet for three days and three nights for everyone.&quot;</p>
+<p>Heavenly Lord Bai Zu said again.</p>
+<p>The remaining Hei tribe Gu Immortals&#x27; faces twitched.</p>
+<p>This battlefield which was still filled with blood from the battle earlier was going to hold a banquet. The change was too sudden and abrupt.</p>
+<p>&quot;Congratulations to Bai Zu tribe, congratulations to Heavenly Lord.&quot; The righteous path Gu Immortals quickly came to an agreement, giving many responses.</p>
+<p>The demonic path and lone immortals were uneasy and agitated.</p>
+<p>&quot;Hmph!&quot; Chu Du snorted coldly, it was loud and shrill.</p>
+<p>He left with a billowing of his sleeves.</p>
+<p>Under everyone&#x27;s gazes, he flew away into the horizon.</p>

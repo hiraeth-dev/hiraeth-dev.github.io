@@ -5,7 +5,113 @@ weight = 221
 chapter = 221
 +++
 
-<p>Bai clan leader&#x27;s face looked extremely dark. She had understood everything! At first she was hesitant, but after seeing the image in the colorful smoke, only an idiot would not understand what had happened. Bai clan leader was no idiot, in fact she was wiser than ordinary people. In Fang Yuan&#x27;s previous life, she was the one who led Bai clan on the resettlement, and set the foundation for the next generation&#x27;s prosperity. &quot;Damn it! How could this happen?&quot; &quot;Those two scoundrels were actually demonic Gu Masters. They are too good at acting!&quot; &quot;Clan leader, the two young masters are in their hands, what do we do?&quot; In the tent, the other Gu Masters were panicking when they looked at this scene. The situation was terrible, Fang Yuan was holding the two young masters hostage, and caused everyone to be cautious in their actions. Bai clan leader forced herself to calm down. She was the birth mother of Bai Hua and Bai Sheng, her worry and anxiety far surpassed the others. However, as someone in power, she had to have her strengths. Other than her identity as a mother, she was also the clan leader! She first ordered her subordinates to release Tie Dao Ku. &quot;We were wrong about you, Tie clan&#x27;s warrior, I apologise to you here.&quot; She stood up and bowed with a sincere expression. Tie Dao Ku snorted, although he was extremely displeased, he admired Bai clan leader&#x27;s resolve. After all, he was only a prisoner now, his life and death could have been decided merely at her thought. He gritted his teeth and tried to stand up, but because his body was extremely weak, even this action was taxing on him. &quot;Come, bring the Tie clan guest to his seat.&quot; Bai clan leader instructed. Tie Dao Ku sat down, fixing his gaze at the colorful smoke. His gaze seemed to be on fire when he looked at Fang Yuan and Bai Ning Bing, causing others to look away. &quot;These two are the demonic Gu Masters who escaped Qing Mao mountain? That explosion trap was set by them? Young master Tie Ao Tian&#x27;s death, the ones I am pursuing, are these two youngsters?&quot; Tie Dao Ku etched Bai and Fang&#x27;s appearances and their body shapes into his mind. &quot;No, it might not be them, this could all be a misunderstanding...&quot; Tie Dao Ku thought of another possibility. He was upright, and never killed an innocent. &quot;Regardless, I have to confirm it myself! If they aren&#x27;t, I will pursue the true criminals. If they are, I shall cripple these two rascals&#x27; apertures and tear them to pieces!&quot; Thinking so, he spoke: &quot;Bai clan leader, the matter at hand is to arrest these two scoundrels, as well as saving your clans&#x27; two young masters.&quot; &quot;Tie clan warrior, what do you have to advise me?&quot; Bai clan leader wanted to get some useful information from Tie Dao Ku. But she was destined to be disappointed.</p>
-<p>Tie Dao Ku shook his head, smiling bitterly. In the cave, swords were brandished. &quot;All of you, get out, do you want me to repeat myself again?&quot; Fang Yuan threatened in a cold snicker. &quot;Fang Zheng, what are you doing?&quot; &quot;What is going on? Why are you holding the two young masters hostage?&quot; Bai Lian, Bai Sheng and the others were tongue-tied, they thought he had found the spirit spring, but everything happened in a flash, who would have thought that Fang Yuan would suddenly go crazy and kidnap the two young masters. Whoosh! Whoosh! Whoosh! Three figures suddenly appeared. &quot;Fang Zheng, you dare to hold our clan&#x27;s young masters hostage? How dare you, your crime is unforgivable!&quot; &quot;Release them, and we may spare you your life!&quot; &quot;Fang Zheng, release them now, and come back with us, we will let you leave safely!&quot; The three clan elders spoke, their expression extremely ugly. They were strong, and followed this group the entire time. But the moment they sensed this change, they rushed to the scene. &quot;You guys finally decided to show yourselves? Excellent...&quot; Fang Yuan snickered, Bai Sheng and Bai Hua struggled intensely in his hands. &quot;Evil scoundrel, release us!&quot; &quot;If you kill me, you will die too!&quot; The two children shouted with all their strength, their faces were turning red from suffocation. These two children were future Rank 5 Gu Masters, lords of Bai clan, the Righteous Twin Stars. But now, unfortunately, they were defenseless and were being strangled by Fang Yuan. After a while, their eyes started rolling back and their breathing slowed. &quot;Fang Zheng! Don&#x27;t make a mistake, release the two young masters!&quot; &quot;We&#x27;ve given you the chance, as long as you release the young masters, we will let you leave, we will definitely not pursue you.&quot; &quot;What do you want? Primeval stones, Gu worms?&quot; The three clan elders were anxious, and their eyes revealed a ruthless expression as if they couldn&#x27;t wait to attack. &quot;Hmph, weren&#x27;t my earlier words clear enough? All of you get out, if not.....&quot; Fang Yuan laughed deviously, using his gaze to signal to Bai Ning Bing. Bai Ning Bing understood, taking out the chainsaw golden centipede. She injected primeval essence into it, and the razors started rotating furiously, moving towards Bai Hua&#x27;s tender arm. &quot;Let go of my sister... le... let go....&quot; Bai Sheng stared furiously, his breathing started getting rough as he struggled with all his strength, but Fang Yuan used just a little more strength and his words were stuck in his throat. &quot;Don&#x27;t be rash!&quot; &quot;Stop, stop!&quot; At this point, more and more Gu Masters entered, and everyone were screaming in anxiety.</p>
-<p>Fang Yuan laughed loudly: &quot;On the count of three, if you are not all out of this cave, your young master&#x27;s limb will be gone!&quot; Everyone gritted their teeth, their eyes burning with fire, they wanted nothing more than to chop Fang Yuan into pieces. &quot;Still not leaving?&quot; Fang Yuan&#x27;s eyebrows rose and he moved Bai Hua closer towards the chainsaw. &quot;Ah!&quot; Everyone screamed. &quot;My god!!&quot; A young female Gu Masters covered her eyes. &quot;Quickly, get out of the cave!&quot; The clan elders shouted, they did not dare to gamble with their young masters&#x27; lives. Everyone gradually retreated, staring at Fang and Bai on the way out. If gazes could kill a person, Fang Yuan would&#x27;ve been dead a million times. If rage was like water, they would&#x27;ve drowned under the tsunami already. When everyone was out of the cave, Fang Yuan passed Bai Hua and Bai Sheng to Bai Ning Bing, before surveying the surrounding. Bai Gu mountain was made of bones with no rocks or soil. This cave was the same, white throughout. The cave walls even had sharp bone spikes, although these bone spikes looked the same as in other caves, in fact, if one observed properly, they would find that these bone spikes were spiral at the tip, different from others. This was the spiral bone cave, also the entrance to the Grey Bone Scholar&#x27;s inheritance. The entire Bai Gu mountain had many caves, but this was the only cave with so many spiral bone spikes. Fang Yuan had never been here. But in his previous life he had heard many stories which were even testified by Bai Sheng and Bai Hua personally. &quot;We entered the spiral bone cave first, then accidentally found a bone spike that could be twisted; it was the mechanism to open the entrance......&quot; Fang Yuan thought for a while, before starting to search for that special bone spike. There were uncountable bone spikes in this cave, but in Fang Yuan&#x27;s previous life, Bai Hua had revealed that back then when she and her brother had been playing in the back mountain, she saw a large bone spike in the cave, with very closely carved spiral markings. She touched it casually, and accidentally twisted it, opening the entrance. &quot;Fang Zheng, you are surrounded. There is no way to escape, come out.&quot; &quot;To be honest, we were quite kind to you, to think you returned our kindness with ingratitude!&quot; &quot;Fang Zheng, I&#x27;ll give you some advice, leave some leeway for yourself. If anything happens to our young masters, we will take revenge on you with all our might!&quot; The cave was not deep, the shouts of the Gu Masters could be heard echoing inside. Bai Hua started to sob. Bai Sheng said: &quot;Fang Zheng, stop it. Release us and I will let you two leave in peace. I assure you as the young master.&quot; He was young, but was calmer than an adult facing this predicament. The brilliance of a future star was already being displayed in him. Fang Yuan paid them no heed, suddenly his eyes shone. He took a step forward before stretching his hand towards a rather conspicuous large bone spike.</p>
-<p>Next, he twisted it lightly. Creak... There was a loud sound and the bone spikes began to contract; a secret door opened from the side, revealing a squarish cave opening. Bai Ning Bing&#x27;s eyes shone. Bai Hua stopped crying, staring at this change in shock. &quot;Ah, there&#x27;s a cave!&quot; Bai Sheng shouted. &quot;Hmph, keep your mouth shut.&quot; Bai Ning Bing chopped on his neck, knocking him unconscious. Bai Sheng had screamed on purpose to leave traces for the people outside. As expected, a commotion occurred outside. &quot;Cave?&quot; &quot;Not good, they&#x27;re trying to escape!&quot; &quot;Chase!&quot; Fang Yuan growled: &quot;If anyone dares to step inside, I will kill Bai Sheng first.&quot; This shout stopped the Bai clan Gu Masters. Fang Yuan quickly walked into the cave, Bai Ning Bing also knocked Bai Hua unconscious, carrying them on each of her hands and followed. This secret path was well lit, shining with a pure white light. It was just that there were bone spikes everywhere, stabbed into the walls like sharp spears.. These bone spears were densely packed, sealing the whole tunnel. There was only a little space between them, allowing Fang Yuan to see a hall beyond them. &quot;It seems this is the reason you came to Bai Gu mountain, I&#x27;ll open a path for us!&quot; Bai Ning Bing moved ahead, trying to use the chainsaw golden centipede, but Fang Yuan stopped her. &quot;These bone spears are extremely tough, don&#x27;t be in a hurry.&quot; Fang Yuan searched around according to what Bai Hua had said in his previous life; he found the shortest spiral bone spike, and pulled it. Creak...... Another sound of some mechanisms being activated, the cave behind the two sealed itself while the bone spears in the tunnel contracted back into the walls. Suddenly, the path ahead was smooth and unobstructed. Fang Yuan laughed heartily, turning and saying to Bai Ning Bing: &quot;Welcome to Bai Gu mountain.&quot; Bai Ning Bing&#x27;s gaze flickered, as she looked behind subconsciously. The cave entrance behind her had sealed itself. The Bai clan Gu Masters would need to spend quite a bit of time to pursue them at least to open this cave entrance. Bai Ning Bing&#x27;s lips curled, revealing an excited smile. Everything had become interesting, this was the life that she was after...</p>
+<p>Bai clan leader&#x27;s face looked extremely dark.</p>
+<p>She had understood everything!</p>
+<p>At first she was hesitant, but after seeing the image in the colorful smoke, only an idiot would not understand what had happened.</p>
+<p>Bai clan leader was no idiot, in fact she was wiser than ordinary people. In Fang Yuan&#x27;s previous life, she was the one who led Bai clan on the resettlement, and set the foundation for the next generation&#x27;s prosperity.</p>
+<p>&quot;Damn it! How could this happen?&quot;</p>
+<p>&quot;Those two scoundrels were actually demonic Gu Masters. They are too good at acting!&quot;</p>
+<p>&quot;Clan leader, the two young masters are in their hands, what do we do?&quot;</p>
+<p>In the tent, the other Gu Masters were panicking when they looked at this scene.</p>
+<p>The situation was terrible, Fang Yuan was holding the two young masters hostage, and caused everyone to be cautious in their actions.</p>
+<p>Bai clan leader forced herself to calm down. She was the birth mother of Bai Hua and Bai Sheng, her worry and anxiety far surpassed the others. However, as someone in power, she had to have her strengths.</p>
+<p>Other than her identity as a mother, she was also the clan leader!</p>
+<p>She first ordered her subordinates to release Tie Dao Ku.</p>
+<p>&quot;We were wrong about you, Tie clan&#x27;s warrior, I apologise to you here.&quot; She stood up and bowed with a sincere expression.</p>
+<p>Tie Dao Ku snorted, although he was extremely displeased, he admired Bai clan leader&#x27;s resolve.</p>
+<p>After all, he was only a prisoner now, his life and death could have been decided merely at her thought.</p>
+<p>He gritted his teeth and tried to stand up, but because his body was extremely weak, even this action was taxing on him.</p>
+<p>&quot;Come, bring the Tie clan guest to his seat.&quot; Bai clan leader instructed.</p>
+<p>Tie Dao Ku sat down, fixing his gaze at the colorful smoke. His gaze seemed to be on fire when he looked at Fang Yuan and Bai Ning Bing, causing others to look away.</p>
+<p>&quot;These two are the demonic Gu Masters who escaped Qing Mao mountain? That explosion trap was set by them? Young master Tie Ao Tian&#x27;s death, the ones I am pursuing, are these two youngsters?&quot;</p>
+<p>Tie Dao Ku etched Bai and Fang&#x27;s appearances and their body shapes into his mind.</p>
+<p>&quot;No, it might not be them, this could all be a misunderstanding...&quot; Tie Dao Ku thought of another possibility.</p>
+<p>He was upright, and never killed an innocent.</p>
+<p>&quot;Regardless, I have to confirm it myself! If they aren&#x27;t, I will pursue the true criminals. If they are, I shall cripple these two rascals&#x27; apertures and tear them to pieces!&quot;</p>
+<p>Thinking so, he spoke: &quot;Bai clan leader, the matter at hand is to arrest these two scoundrels, as well as saving your clans&#x27; two young masters.&quot;</p>
+<p>&quot;Tie clan warrior, what do you have to advise me?&quot; Bai clan leader wanted to get some useful information from Tie Dao Ku.</p>
+<p>But she was destined to be disappointed.</p>
+<p>Tie Dao Ku shook his head, smiling bitterly.</p>
+<p>In the cave, swords were brandished.</p>
+<p>&quot;All of you, get out, do you want me to repeat myself again?&quot; Fang Yuan threatened in a cold snicker.</p>
+<p>&quot;Fang Zheng, what are you doing?&quot;</p>
+<p>&quot;What is going on? Why are you holding the two young masters hostage?&quot;</p>
+<p>Bai Lian, Bai Sheng and the others were tongue-tied, they thought he had found the spirit spring, but everything happened in a flash, who would have thought that Fang Yuan would suddenly go crazy and kidnap the two young masters.</p>
+<p>Whoosh! Whoosh! Whoosh!</p>
+<p>Three figures suddenly appeared.</p>
+<p>&quot;Fang Zheng, you dare to hold our clan&#x27;s young masters hostage? How dare you, your crime is unforgivable!&quot;</p>
+<p>&quot;Release them, and we may spare you your life!&quot;</p>
+<p>&quot;Fang Zheng, release them now, and come back with us, we will let you leave safely!&quot;</p>
+<p>The three clan elders spoke, their expression extremely ugly.</p>
+<p>They were strong, and followed this group the entire time. But the moment they sensed this change, they rushed to the scene.</p>
+<p>&quot;You guys finally decided to show yourselves? Excellent...&quot; Fang Yuan snickered, Bai Sheng and Bai Hua struggled intensely in his hands.</p>
+<p>&quot;Evil scoundrel, release us!&quot;</p>
+<p>&quot;If you kill me, you will die too!&quot;</p>
+<p>The two children shouted with all their strength, their faces were turning red from suffocation.</p>
+<p>These two children were future Rank 5 Gu Masters, lords of Bai clan, the Righteous Twin Stars. But now, unfortunately, they were defenseless and were being strangled by Fang Yuan.</p>
+<p>After a while, their eyes started rolling back and their breathing slowed.</p>
+<p>&quot;Fang Zheng! Don&#x27;t make a mistake, release the two young masters!&quot;</p>
+<p>&quot;We&#x27;ve given you the chance, as long as you release the young masters, we will let you leave, we will definitely not pursue you.&quot;</p>
+<p>&quot;What do you want? Primeval stones, Gu worms?&quot;</p>
+<p>The three clan elders were anxious, and their eyes revealed a ruthless expression as if they couldn&#x27;t wait to attack.</p>
+<p>&quot;Hmph, weren&#x27;t my earlier words clear enough? All of you get out, if not.....&quot; Fang Yuan laughed deviously, using his gaze to signal to Bai Ning Bing.</p>
+<p>Bai Ning Bing understood, taking out the chainsaw golden centipede.</p>
+<p>She injected primeval essence into it, and the razors started rotating furiously, moving towards Bai Hua&#x27;s tender arm.</p>
+<p>&quot;Let go of my sister... le... let go....&quot; Bai Sheng stared furiously, his breathing started getting rough as he struggled with all his strength, but Fang Yuan used just a little more strength and his words were stuck in his throat.</p>
+<p>&quot;Don&#x27;t be rash!&quot;</p>
+<p>&quot;Stop, stop!&quot;</p>
+<p>At this point, more and more Gu Masters entered, and everyone were screaming in anxiety.</p>
+<p>Fang Yuan laughed loudly: &quot;On the count of three, if you are not all out of this cave, your young master&#x27;s limb will be gone!&quot;</p>
+<p>Everyone gritted their teeth, their eyes burning with fire, they wanted nothing more than to chop Fang Yuan into pieces.</p>
+<p>&quot;Still not leaving?&quot; Fang Yuan&#x27;s eyebrows rose and he moved Bai Hua closer towards the chainsaw.</p>
+<p>&quot;Ah!&quot; Everyone screamed.</p>
+<p>&quot;My god!!&quot; A young female Gu Masters covered her eyes.</p>
+<p>&quot;Quickly, get out of the cave!&quot; The clan elders shouted, they did not dare to gamble with their young masters&#x27; lives.</p>
+<p>Everyone gradually retreated, staring at Fang and Bai on the way out.</p>
+<p>If gazes could kill a person, Fang Yuan would&#x27;ve been dead a million times. If rage was like water, they would&#x27;ve drowned under the tsunami already.</p>
+<p>When everyone was out of the cave, Fang Yuan passed Bai Hua and Bai Sheng to Bai Ning Bing, before surveying the surrounding.</p>
+<p>Bai Gu mountain was made of bones with no rocks or soil. This cave was the same, white throughout. The cave walls even had sharp bone spikes, although these bone spikes looked the same as in other caves, in fact, if one observed properly, they would find that these bone spikes were spiral at the tip, different from others.</p>
+<p>This was the spiral bone cave, also the entrance to the Grey Bone Scholar&#x27;s inheritance.</p>
+<p>The entire Bai Gu mountain had many caves, but this was the only cave with so many spiral bone spikes.</p>
+<p>Fang Yuan had never been here. But in his previous life he had heard many stories which were even testified by Bai Sheng and Bai Hua personally.</p>
+<p>&quot;We entered the spiral bone cave first, then accidentally found a bone spike that could be twisted; it was the mechanism to open the entrance......&quot;</p>
+<p>Fang Yuan thought for a while, before starting to search for that special bone spike.</p>
+<p>There were uncountable bone spikes in this cave, but in Fang Yuan&#x27;s previous life, Bai Hua had revealed that back then when she and her brother had been playing in the back mountain, she saw a large bone spike in the cave, with very closely carved spiral markings.</p>
+<p>She touched it casually, and accidentally twisted it, opening the entrance.</p>
+<p>&quot;Fang Zheng, you are surrounded. There is no way to escape, come out.&quot;</p>
+<p>&quot;To be honest, we were quite kind to you, to think you returned our kindness with ingratitude!&quot;</p>
+<p>&quot;Fang Zheng, I&#x27;ll give you some advice, leave some leeway for yourself. If anything happens to our young masters, we will take revenge on you with all our might!&quot;</p>
+<p>The cave was not deep, the shouts of the Gu Masters could be heard echoing inside.</p>
+<p>Bai Hua started to sob.</p>
+<p>Bai Sheng said: &quot;Fang Zheng, stop it. Release us and I will let you two leave in peace. I assure you as the young master.&quot;</p>
+<p>He was young, but was calmer than an adult facing this predicament. The brilliance of a future star was already being displayed in him.</p>
+<p>Fang Yuan paid them no heed, suddenly his eyes shone.</p>
+<p>He took a step forward before stretching his hand towards a rather conspicuous large bone spike.</p>
+<p>Next, he twisted it lightly.</p>
+<p>Creak...</p>
+<p>There was a loud sound and the bone spikes began to contract; a secret door opened from the side, revealing a squarish cave opening.</p>
+<p>Bai Ning Bing&#x27;s eyes shone.</p>
+<p>Bai Hua stopped crying, staring at this change in shock.</p>
+<p>&quot;Ah, there&#x27;s a cave!&quot; Bai Sheng shouted.</p>
+<p>&quot;Hmph, keep your mouth shut.&quot; Bai Ning Bing chopped on his neck, knocking him unconscious.</p>
+<p>Bai Sheng had screamed on purpose to leave traces for the people outside.</p>
+<p>As expected, a commotion occurred outside.</p>
+<p>&quot;Cave?&quot;</p>
+<p>&quot;Not good, they&#x27;re trying to escape!&quot;</p>
+<p>&quot;Chase!&quot;</p>
+<p>Fang Yuan growled: &quot;If anyone dares to step inside, I will kill Bai Sheng first.&quot;</p>
+<p>This shout stopped the Bai clan Gu Masters.</p>
+<p>Fang Yuan quickly walked into the cave, Bai Ning Bing also knocked Bai Hua unconscious, carrying them on each of her hands and followed.</p>
+<p>This secret path was well lit, shining with a pure white light. It was just that there were bone spikes everywhere, stabbed into the walls like sharp spears..</p>
+<p>These bone spears were densely packed, sealing the whole tunnel. There was only a little space between them, allowing Fang Yuan to see a hall beyond them.</p>
+<p>&quot;It seems this is the reason you came to Bai Gu mountain, I&#x27;ll open a path for us!&quot; Bai Ning Bing moved ahead, trying to use the chainsaw golden centipede, but Fang Yuan stopped her.</p>
+<p>&quot;These bone spears are extremely tough, don&#x27;t be in a hurry.&quot; Fang Yuan searched around according to what Bai Hua had said in his previous life; he found the shortest spiral bone spike, and pulled it.</p>
+<p>Creak......</p>
+<p>Another sound of some mechanisms being activated, the cave behind the two sealed itself while the bone spears in the tunnel contracted back into the walls.</p>
+<p>Suddenly, the path ahead was smooth and unobstructed.</p>
+<p>Fang Yuan laughed heartily, turning and saying to Bai Ning Bing: &quot;Welcome to Bai Gu mountain.&quot;</p>
+<p>Bai Ning Bing&#x27;s gaze flickered, as she looked behind subconsciously.</p>
+<p>The cave entrance behind her had sealed itself.</p>
+<p>The Bai clan Gu Masters would need to spend quite a bit of time to pursue them at least to open this cave entrance.</p>
+<p>Bai Ning Bing&#x27;s lips curled, revealing an excited smile.</p>
+<p>Everything had become interesting, this was the life that she was after...</p>

@@ -5,8 +5,130 @@ weight = 2056
 chapter = 2056
 +++
 
-<p>&quot;First supreme elder, what idea do you have?&quot; Qing clan&#x27;s first supreme elder forced a smile: &quot;The cause of everything, the origin of Qing clan&#x27;s predicament, is just one thing, Divine Bean Palace! Other than us, nobody wants to see Qing clan refine Divine Bean Palace successfully, even if we exert all our strength and give up our territories, even if we defeat Ming You, how can we deal with all the super forces?&quot; &quot;Cough, cough.&quot; Qing clan&#x27;s first supreme elder paused before continuing: &quot;So our best counterattack is to refine Divine Bean Palace.&quot; An anxious Gu Immortal immediately asked: &quot;How can we refine Divine Bean Palace rapidly?&quot; Qing clan&#x27;s first supreme elder sighed: &quot;There is one method we can try!&quot; Qing clan&#x27;s immortals were very excited, they looked at Qing clan&#x27;s first supreme elder fixedly. Qing clan&#x27;s first supreme elder slowly explained: &quot;Earlier, we used hatred Gu to get past Divine Bean Palace&#x27;s defense, we made huge progress, we just need some time to refine it now. However, we lack the time we need, we can only take a risk and use that killer move now.&quot; &quot;What killer move?&quot; &quot;Don&#x27;t tell me...&quot; Some Qing clan Gu Immortals had perplexed expressions while some had changing expressions, they recalled some vague rumors they had heard. Qing clan&#x27;s first supreme elder nodded, excitement showed on his tired face: &quot;This killer move was created by second supreme elder and I, he was the main user with my assistance. The killer move has extraordinary might, I will activate it while all of you participate and help. As long as we can unleash it, the current Divine Bean Palace cannot block it, any rank eight Gu Immortal will need to avoid it as well. No matter how strong Ming You is, he is still rank seven.&quot; &quot;We will do that!&quot; &quot;First supreme elder, what do we name it?&quot; First supreme elder shook his head as he smiled bitterly: &quot;Second supreme elder died before we could name it.&quot; This old man was silent for a while before replying solemnly: &quot;Let&#x27;s call it, Qing Chou, this is the revenge of Qing clan! Divine Bean Palace was the cause of our predicament and suffering, Qing clan needs to take revenge. We will use Qing Chou to refine Divine Bean Palace completely! These super forces with ill intentions will also face the revenge of our Qing clan one by one! That arrogant and vicious Ming You who caused us great harm will also face our revenge! Using Qing Chou, we will...&quot; &quot;We will take revenge! We will repay this debt a thousandfold to those who hurt us. In this aspect, we will not be stingy, we will repay them fully!&quot; These words raised the spirits of the immortals. &quot;Qing Chou... truly a good name.&quot; &quot;First supreme elder is right, we must take revenge!&quot;</p>
-<p>&quot;Let Qing Chou be the sign of our Qing clan&#x27;s rise to greatness.&quot; Qing... Chou... Qing Chou... Qing Chou? Qing Chou! Qing Chou&#x27;s vision cleared up at once, it recalled everything, its memories were fully restored. Facing Ming You&#x27;s assault, Qing clan first decided to use the killer move Qing Chou to refine Divine Bean Palace. Next, they would go and fight to claim victory. However, the Qing Chou killer move that they entrusted their hopes to did not fully refine Divine Bean Palace. Instead, it triggered a mysterious resonance with Divine Bean Palace, the entire sky shined with jade green light. The mysterious light devoured Qing clan&#x27;s immortals, it digested the entire Qing clan headquarters, including Qing oasis, it covered the surrounding ten thousand li! Ming You was forced to retreat, after the mysterious light faded, the super forces came to check what happened, they saw that the great Qing clan territory was reduced to a huge and vast ruin. The indignant Western Desert Gu Immortals searched the entire place thoroughly but they could not find anything. As time passed, people went from disappointment to despair, they left this lifeless dessert eventually. Only in some corner, a rank eight wood path Immortal Gu House with a dim hall and hatred Gu as the core within the hall was activating a killer move. This killer move was called Qing Chou. The killer move Qing Chou did not fail, it was only influenced by something and mutated in essence. It turned into... a life form! Countless vengeful souls who died terrible deaths fused together, a soul beast with hatred Gu as the core was born. Initially, it was very small like a baby. It opened its eyes, its gaze was crystal clear. Next, it grew up continuously, without any idea of what was happening. Its body started to grow as its physique became clear. It had claws, a tortoise shell, and a head with long hair. Its size was initially the same as a rabbit, next it grew to a wolf&#x27;s size, before a bull and then an elephant, eventually, it became as large as a mountain. Countless vengeful souls cried out, from the moment it was born, they had been screeching in its ears, reverberating in its heart. Every time it grew, these resounding voices would become louder and more muffled. They were screaming, they were howling. Qing Chou could not hear them clearly, it felt greatly troubled. These voices were too annoying and muffled, they went on without stopping, it became confused, it became frustrated, it became angry. Its thoughts became more chaotic, it became more ruthless and aggressive.</p>
-<p>It growled, it slashed the ground of the hall with its claws, it crashed into the pillars using its shell, it bled from injuries as its hair covered its face. The hall rapidly repaired itself but the voices still continued, they were getting more muffled and loud. Qing Chou could do nothing. It became dejected eventually. It wanted to give up, it wanted to die. But it did not do so, those vengeful voices were trying to remind it of something. What was it? What were those damned voices trying to say? Tell me, tell me, why are you torturing me like this, why don&#x27;t you just let me die?! Ever since the chaotic battle started, Qing Chou sensed Spectral Soul, its consciousness fell into chaos due to hatred Gu. Even though it was conscious, its mind was not clear. It only knew how to kill, it knew how to charge and advance, it only knew how to fight! It wanted to exert itself, to use every drop of blood in its body to kill Spectral Soul, to exterminate Spectral Soul! But now, Qing Chou&#x27;s mind was no longer in chaos, it regained clarity. It was as if the clouds parted in the sky, everything was clear now. Its memories were complete, it understood the whole situation from start to finish. It... could finally understand the words of those vengeful souls. These vengeful souls were screaming and crying all the time, they had never stopped or weakened at all. Qing Chou heard them clearly now. These vengeful souls were not screaming in pain or bitterness. They were not crying out in grievance, they were not screaming their innocence. They only said one thing — Qing Chou. Qing Chou! Qing Chou!! You must remember the purpose of your existence! You must remember the burden that you bear! You must remember all your enemies! Don&#x27;t forget it, don&#x27;t forget it for even an instance, don&#x27;t give up, don&#x27;t give up even for an instance. Revenge, revenge, revenge! Those clansmen who died pitiful deaths, those Qing clan members who had yet to fulfill their aspirations, we need to take revenge for the pain and suffering that was inflicted on us! &quot;Spectral Soul—!&quot; Qing Chou screamed: &quot;Have a good taste of this!&quot; &quot;This is the revenge of Qing clan, after a hundred thousand years, the killer move that has been nurturing for a hundred thousand years—&quot; &quot;Qing Chou!!!&quot; &quot;Oh no!&quot; At this moment, Giant Spectral Soul&#x27;s expression turned cold, his heart sank. A qualitative change occurred in Qing Chou&#x27;s body, rank eight Immortal Gu Hatred which had been growing the entire time finally broke through at this moment, it became a genuine rank nine Immortal Gu!</p>
-<p>Qing Chou&#x27;s mountain-like body shot out a jade green light that was familiar to Spectral Soul. Within the green light, Qing Chou&#x27;s body transformed like flowing water. It stood straight up, its four limbs turned into human hands and legs. The huge pair of wings that it had turned into a full body armor. Its shell turned into a shield, held by its left arm. Its snake neck contracted rapidly, allowing its neck and shoulder to have the perfect proportion. Next, a huge lump of light flowed from its long tail and snake neck, transferring to its right palm as it extended into a terrifying spear. Giant Qing Chou charged towards Spectral Soul, the vast green light condensed and went into the tip of its spear. The long spear stabbed forward with great force! Giant Spectral Soul changed moves! He had to make a change, if he used his earlier method on Qing Chou again, he would be courting death. Spectral Soul grunted as he retracted his move, causing him to suffer backlash. But he achieved his goal, he successfully changed killer moves. At the crucial moment, rumbling black smoke gushed towards Qing Chou, stopping its attack. Seeing this, Wu Shuai, Qi Sea Ancestor, and Demon Immortal Qi Jue stared with wide eyes. This seemed like a long process but in fact, it occurred too quickly and suddenly. Qing Chou suddenly became stronger, it turned into a giant with a huge rise in battle strength. Before Wu Shuai, Qi Sea or Qi Jue had time to celebrate, Giant Spectral Soul withdrew his killer move and retaliated instantly. Seeing that this fatal killer move was mostly blocked by Spectral Soul, Wu Shuai, Qi Sea, and Qi Jue felt greatly disappointed, they could not help but admire Spectral Soul&#x27;s resolve and method. He could actually swap killer moves within such a short time frame! However, Lu Wei Yin smiled. At the next moment, Giant Qing Chou&#x27;s messy hair rose up and tangled together like vines, gathering into the appearance of a huge tree. This tree had lush leaves, it was a massive cover over Qing Chou&#x27;s head, it emitted a jade green light again. Spectral Soul&#x27;s rumbling smoke was all blocked by this powerful light! &quot;This is?!&quot; &quot;A venerable method!&quot; &quot;Genesis Lotus Immortal Venerable&#x27;s karma divine tree killer move!!&quot; Qi Sea, Qi Jue, and Wu Shuai were shocked. Swish! Giant Qing Chou&#x27;s attacks were no longer obstructed, the terrifying spear pierced through Giant Spectral Soul from the front to the back. Following that, the green spear turned into jade green light and flowed into Giant Spectral Soul&#x27;s body like a torrent of water. Giant Spectral Soul took several steps back, his aura weakened to an extremely low level.</p>
-<p>Spectral Soul was covered in holes as soul qi leaked out along with some jade green light. Hundreds of arms covered these holes but could not stop the overwhelming green light from shining. These mysterious lights were like swords or spears, bursting out of Spectral Soul&#x27;s body, radiating the entire battlefield. Spectral Soul lost! This was a truly fatal blow!! Spectral Soul&#x27;s expression was cold as he muttered: &quot;Genesis Lotus, Paradise Earth... good, you guys are really impressive.&quot; Next, he smiled coldly, his killing intent surged instead, reaching an unprecedented level! &quot;Long long ago, I swore that I would only make others struggle in the face of death. Are you all... prepared for that?&quot; Spectral Soul&#x27;s words made everyone&#x27;s expressions change. &quot;Oh no!&quot; &quot;Get away from him, quickly!&quot; &quot;He is going to self-detonate!!&quot; &quot;All of you, die with me.&quot; Spectral Soul roared. Boom—!!! Chou means revenge Back</p>
+<p>&quot;First supreme elder, what idea do you have?&quot;</p>
+<p>Qing clan&#x27;s first supreme elder forced a smile: &quot;The cause of everything, the origin of Qing clan&#x27;s predicament, is just one thing, Divine Bean Palace! Other than us, nobody wants to see Qing clan refine Divine Bean Palace successfully, even if we exert all our strength and give up our territories, even if we defeat Ming You, how can we deal with all the super forces?&quot;</p>
+<p>&quot;Cough, cough.&quot; Qing clan&#x27;s first supreme elder paused before continuing: &quot;So our best counterattack is to refine Divine Bean Palace.&quot;</p>
+<p>An anxious Gu Immortal immediately asked: &quot;How can we refine Divine Bean Palace rapidly?&quot;</p>
+<p>Qing clan&#x27;s first supreme elder sighed: &quot;There is one method we can try!&quot;</p>
+<p>Qing clan&#x27;s immortals were very excited, they looked at Qing clan&#x27;s first supreme elder fixedly.</p>
+<p>Qing clan&#x27;s first supreme elder slowly explained: &quot;Earlier, we used hatred Gu to get past Divine Bean Palace&#x27;s defense, we made huge progress, we just need some time to refine it now. However, we lack the time we need, we can only take a risk and use that killer move now.&quot;</p>
+<p>&quot;What killer move?&quot;</p>
+<p>&quot;Don&#x27;t tell me...&quot;</p>
+<p>Some Qing clan Gu Immortals had perplexed expressions while some had changing expressions, they recalled some vague rumors they had heard.</p>
+<p>Qing clan&#x27;s first supreme elder nodded, excitement showed on his tired face: &quot;This killer move was created by second supreme elder and I, he was the main user with my assistance.</p>
+<p>The killer move has extraordinary might, I will activate it while all of you participate and help. As long as we can unleash it, the current Divine Bean Palace cannot block it, any rank eight Gu Immortal will need to avoid it as well. No matter how strong Ming You is, he is still rank seven.&quot;</p>
+<p>&quot;We will do that!&quot;</p>
+<p>&quot;First supreme elder, what do we name it?&quot;</p>
+<p>First supreme elder shook his head as he smiled bitterly: &quot;Second supreme elder died before we could name it.&quot;</p>
+<p>This old man was silent for a while before replying solemnly: &quot;Let&#x27;s call it, Qing Chou, this is the revenge of Qing clan! Divine Bean Palace was the cause of our predicament and suffering, Qing clan needs to take revenge. We will use Qing Chou to refine Divine Bean Palace completely! These super forces with ill intentions will also face the revenge of our Qing clan one by one! That arrogant and vicious Ming You who caused us great harm will also face our revenge! Using Qing Chou, we will...&quot;</p>
+<p>&quot;We will take revenge! We will repay this debt a thousandfold to those who hurt us. In this aspect, we will not be stingy, we will repay them fully!&quot;</p>
+<p>These words raised the spirits of the immortals.</p>
+<p>&quot;Qing Chou... truly a good name.&quot;</p>
+<p>&quot;First supreme elder is right, we must take revenge!&quot;</p>
+<p>&quot;Let Qing Chou be the sign of our Qing clan&#x27;s rise to greatness.&quot;</p>
+<p>Qing... Chou...</p>
+<p>Qing Chou...</p>
+<p>Qing Chou?</p>
+<p>Qing Chou!</p>
+<p>Qing Chou&#x27;s vision cleared up at once, it recalled everything, its memories were fully restored.</p>
+<p>Facing Ming You&#x27;s assault, Qing clan first decided to use the killer move Qing Chou to refine Divine Bean Palace. Next, they would go and fight to claim victory.</p>
+<p>However, the Qing Chou killer move that they entrusted their hopes to did not fully refine Divine Bean Palace. Instead, it triggered a mysterious resonance with Divine Bean Palace, the entire sky shined with jade green light.</p>
+<p>The mysterious light devoured Qing clan&#x27;s immortals, it digested the entire Qing clan headquarters, including Qing oasis, it covered the surrounding ten thousand li!</p>
+<p>Ming You was forced to retreat, after the mysterious light faded, the super forces came to check what happened, they saw that the great Qing clan territory was reduced to a huge and vast ruin.</p>
+<p>The indignant Western Desert Gu Immortals searched the entire place thoroughly but they could not find anything.</p>
+<p>As time passed, people went from disappointment to despair, they left this lifeless dessert eventually.</p>
+<p>Only in some corner, a rank eight wood path Immortal Gu House with a dim hall and hatred Gu as the core within the hall was activating a killer move.</p>
+<p>This killer move was called Qing Chou.</p>
+<p>The killer move Qing Chou did not fail, it was only influenced by something and mutated in essence.</p>
+<p>It turned into... a life form!</p>
+<p>Countless vengeful souls who died terrible deaths fused together, a soul beast with hatred Gu as the core was born.</p>
+<p>Initially, it was very small like a baby.</p>
+<p>It opened its eyes, its gaze was crystal clear.</p>
+<p>Next, it grew up continuously, without any idea of what was happening.</p>
+<p>Its body started to grow as its physique became clear. It had claws, a tortoise shell, and a head with long hair.</p>
+<p>Its size was initially the same as a rabbit, next it grew to a wolf&#x27;s size, before a bull and then an elephant, eventually, it became as large as a mountain.</p>
+<p>Countless vengeful souls cried out, from the moment it was born, they had been screeching in its ears, reverberating in its heart.</p>
+<p>Every time it grew, these resounding voices would become louder and more muffled.</p>
+<p>They were screaming, they were howling.</p>
+<p>Qing Chou could not hear them clearly, it felt greatly troubled.</p>
+<p>These voices were too annoying and muffled, they went on without stopping, it became confused, it became frustrated, it became angry.</p>
+<p>Its thoughts became more chaotic, it became more ruthless and aggressive.</p>
+<p>It growled, it slashed the ground of the hall with its claws, it crashed into the pillars using its shell, it bled from injuries as its hair covered its face.</p>
+<p>The hall rapidly repaired itself but the voices still continued, they were getting more muffled and loud.</p>
+<p>Qing Chou could do nothing.</p>
+<p>It became dejected eventually.</p>
+<p>It wanted to give up, it wanted to die.</p>
+<p>But it did not do so, those vengeful voices were trying to remind it of something.</p>
+<p>What was it?</p>
+<p>What were those damned voices trying to say?</p>
+<p>Tell me, tell me, why are you torturing me like this, why don&#x27;t you just let me die?!</p>
+<p>Ever since the chaotic battle started, Qing Chou sensed Spectral Soul, its consciousness fell into chaos due to hatred Gu. Even though it was conscious, its mind was not clear.</p>
+<p>It only knew how to kill, it knew how to charge and advance, it only knew how to fight! It wanted to exert itself, to use every drop of blood in its body to kill Spectral Soul, to exterminate Spectral Soul!</p>
+<p>But now, Qing Chou&#x27;s mind was no longer in chaos, it regained clarity.</p>
+<p>It was as if the clouds parted in the sky, everything was clear now.</p>
+<p>Its memories were complete, it understood the whole situation from start to finish.</p>
+<p>It... could finally understand the words of those vengeful souls.</p>
+<p>These vengeful souls were screaming and crying all the time, they had never stopped or weakened at all.</p>
+<p>Qing Chou heard them clearly now.</p>
+<p>These vengeful souls were not screaming in pain or bitterness.</p>
+<p>They were not crying out in grievance, they were not screaming their innocence.</p>
+<p>They only said one thing — Qing Chou.</p>
+<p>Qing Chou!</p>
+<p>Qing Chou!!</p>
+<p>You must remember the purpose of your existence!</p>
+<p>You must remember the burden that you bear!</p>
+<p>You must remember all your enemies!</p>
+<p>Don&#x27;t forget it, don&#x27;t forget it for even an instance, don&#x27;t give up, don&#x27;t give up even for an instance.</p>
+<p>Revenge, revenge, revenge!</p>
+<p>Those clansmen who died pitiful deaths, those Qing clan members who had yet to fulfill their aspirations, we need to take revenge for the pain and suffering that was inflicted on us!</p>
+<p>&quot;Spectral Soul—!&quot; Qing Chou screamed: &quot;Have a good taste of this!&quot;</p>
+<p>&quot;This is the revenge of Qing clan, after a hundred thousand years, the killer move that has been nurturing for a hundred thousand years—&quot;</p>
+<p>&quot;Qing Chou!!!&quot;</p>
+<p>&quot;Oh no!&quot; At this moment, Giant Spectral Soul&#x27;s expression turned cold, his heart sank.</p>
+<p>A qualitative change occurred in Qing Chou&#x27;s body, rank eight Immortal Gu Hatred which had been growing the entire time finally broke through at this moment, it became a genuine rank nine Immortal Gu!</p>
+<p>Qing Chou&#x27;s mountain-like body shot out a jade green light that was familiar to Spectral Soul.</p>
+<p>Within the green light, Qing Chou&#x27;s body transformed like flowing water.</p>
+<p>It stood straight up, its four limbs turned into human hands and legs.</p>
+<p>The huge pair of wings that it had turned into a full body armor.</p>
+<p>Its shell turned into a shield, held by its left arm.</p>
+<p>Its snake neck contracted rapidly, allowing its neck and shoulder to have the perfect proportion.</p>
+<p>Next, a huge lump of light flowed from its long tail and snake neck, transferring to its right palm as it extended into a terrifying spear.</p>
+<p>Giant Qing Chou charged towards Spectral Soul, the vast green light condensed and went into the tip of its spear.</p>
+<p>The long spear stabbed forward with great force!</p>
+<p>Giant Spectral Soul changed moves!</p>
+<p>He had to make a change, if he used his earlier method on Qing Chou again, he would be courting death.</p>
+<p>Spectral Soul grunted as he retracted his move, causing him to suffer backlash.</p>
+<p>But he achieved his goal, he successfully changed killer moves. At the crucial moment, rumbling black smoke gushed towards Qing Chou, stopping its attack.</p>
+<p>Seeing this, Wu Shuai, Qi Sea Ancestor, and Demon Immortal Qi Jue stared with wide eyes.</p>
+<p>This seemed like a long process but in fact, it occurred too quickly and suddenly.</p>
+<p>Qing Chou suddenly became stronger, it turned into a giant with a huge rise in battle strength.</p>
+<p>Before Wu Shuai, Qi Sea or Qi Jue had time to celebrate, Giant Spectral Soul withdrew his killer move and retaliated instantly.</p>
+<p>Seeing that this fatal killer move was mostly blocked by Spectral Soul, Wu Shuai, Qi Sea, and Qi Jue felt greatly disappointed, they could not help but admire Spectral Soul&#x27;s resolve and method.</p>
+<p>He could actually swap killer moves within such a short time frame!</p>
+<p>However, Lu Wei Yin smiled.</p>
+<p>At the next moment, Giant Qing Chou&#x27;s messy hair rose up and tangled together like vines, gathering into the appearance of a huge tree.</p>
+<p>This tree had lush leaves, it was a massive cover over Qing Chou&#x27;s head, it emitted a jade green light again.</p>
+<p>Spectral Soul&#x27;s rumbling smoke was all blocked by this powerful light!</p>
+<p>&quot;This is?!&quot;</p>
+<p>&quot;A venerable method!&quot;</p>
+<p>&quot;Genesis Lotus Immortal Venerable&#x27;s karma divine tree killer move!!&quot;</p>
+<p>Qi Sea, Qi Jue, and Wu Shuai were shocked.</p>
+<p>Swish!</p>
+<p>Giant Qing Chou&#x27;s attacks were no longer obstructed, the terrifying spear pierced through Giant Spectral Soul from the front to the back.</p>
+<p>Following that, the green spear turned into jade green light and flowed into Giant Spectral Soul&#x27;s body like a torrent of water.</p>
+<p>Giant Spectral Soul took several steps back, his aura weakened to an extremely low level.</p>
+<p>Spectral Soul was covered in holes as soul qi leaked out along with some jade green light.</p>
+<p>Hundreds of arms covered these holes but could not stop the overwhelming green light from shining.</p>
+<p>These mysterious lights were like swords or spears, bursting out of Spectral Soul&#x27;s body, radiating the entire battlefield.</p>
+<p>Spectral Soul lost!</p>
+<p>This was a truly fatal blow!!</p>
+<p>Spectral Soul&#x27;s expression was cold as he muttered: &quot;Genesis Lotus, Paradise Earth... good, you guys are really impressive.&quot;</p>
+<p>Next, he smiled coldly, his killing intent surged instead, reaching an unprecedented level!</p>
+<p>&quot;Long long ago, I swore that I would only make others struggle in the face of death. Are you all... prepared for that?&quot;</p>
+<p>Spectral Soul&#x27;s words made everyone&#x27;s expressions change.</p>
+<p>&quot;Oh no!&quot;</p>
+<p>&quot;Get away from him, quickly!&quot;</p>
+<p>&quot;He is going to self-detonate!!&quot;</p>
+<p>&quot;All of you, die with me.&quot; Spectral Soul roared.</p>
+<p>Boom—!!!</p>
+<p>Chou means revenge Back</p>

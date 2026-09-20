@@ -5,7 +5,109 @@ weight = 1420
 chapter = 1420
 +++
 
-<p>Feng Jiu Ge wore a red and white robe, he was extremely handsome, while looking at Shadow Sect&#x27;s immortals, he smiled warmly with great flair and elegance. He showed no battle intent or killing intent, but Shadow Sect felt great pressure from him. &quot;Feng Jiu Ge…&quot; Fang Yuan walked out and muttered. He was graceful and elegant, his robe was white as snow, his face was pure as jade, his eyes were dark and unfathomably deep. Seeing this, Lady White Rabbit&#x27;s heart jumped, she thought: &quot;The two strongest people under rank eight in the current world are finally going to fight!&quot; Speaking of which, even though Fang Yuan and Feng Jiu Ge had not interacted for a long time, the interactions between them were quite deep and long lasting. Years ago, Fang Yuan snatched Hu Immortal blessed land and took away Feng Jin Huang&#x27;s fortuitous encounter, he became noticed by Feng Jiu Ge as a result. But at that time, Feng Jiu Ge was a great rank seven Gu Immortal, an established expert who had high fame. But Fang Yuan was just a mortal, he was like an ant, even if he was quite impressive, that was nothing much. Who could have thought that after a few years, not only did Fang Yuan become a Gu Immortal, he was even the owner of Spring Autumn Cicada and destroyed Eighty-Eight True Yang Building, he joined the battle of Yi Tian Mountain, Reverse Flow River, and the Southern Border dream realm. Right now, he was extremely famous and was pursued by Heavenly Court, his reputation was on par with Feng Jiu Ge! Fang Yuan saved Feng Jiu Ge, and Feng Jiu Ge saved him in return, their debts to each other had all been settled already. Right now, these two were fighting for their respective factions using their true strength. &quot;Feng Jiu Ge, you chased us all the way to this place, did you know that you are handing your life over to me?&quot; Fang Yuan snickered, he shot out like lightning, pouncing at Feng Jiu Ge. Saying so, a robe and sash appeared around his body, his black hair swayed in the air as his eyes shone like lightning, he rapidly engaged in this climactic battle. Immortal killer move — Reverse Flow Protection Seal! Feng Jiu Ge&#x27;s gaze was fixed on him. He had already seen the power of this world famous killer move before. He could guess that reverse flow protection seal was very complex and hard to activate, it needed a lot of time to set up. If he sneak attacked, Fang Yuan would not have time to use this move, the battle would be in his favor. But unfortunately, Fang Yuan did not give Feng Jiu Ge this opportunity. And because Shadow Sect had superb investigative killer moves, Feng Jiu Ge could not find a chance to attack. Seeing Fang Yuan&#x27;s assault, Feng Jiu Ge broke into a wide smile. He spoke openly: &quot;I could teleport here because of my self-created immortal killer move, yang pass tune. And more importantly, my yang pass tune has not ended yet.&quot; As he said that, he burst out in golden light.</p>
-<p>The golden light had no offensive power, but the light flickered and vanished rapidly, along with Feng Jiu Ge himself. &quot;What?&quot; At almost the same time, Fang Yuan could hear the tune of an ancient zither getting louder. The sound became loud and soft at times, it was as if the person playing it was moving around him. Fang Yuan&#x27;s heart shook, he suddenly remembered that this was Feng Jiu Ge&#x27;s movement method that had displayed great power during the five regions chaotic war. It allowed Feng Jiu Ge to turn into formless sound waves and move around before turning back into human again. Sound path was not a mainstream path, and because this move was extremely unique to itself, normal methods could not restrict Feng Jiu Ge&#x27;s movement. &quot;Be careful!!&quot; Hei Lou Lan alerted. They had also heard the tune of the ancient zither, they all retreated subconsciously. But their speed was slower than yang pass tune, they did not know Feng Jiu Ge&#x27;s exact location, they could only retreat towards a random direction. Lady White Rabbit suddenly heard an explosion of zither music as Feng Jiu Ge formed towards the right of her instantly. Clang! Feng Jiu Ge had a curious gaze as he pointed at Lady White Rabbit, as sounds of clashing weapons could be heard. Lady White Rabbit screamed in a shrill voice, at this instant, she felt an intense threat of death. She rapidly retreated. But the sharp sound waves stabbed into her chest. At the next moment, blood spewed as black fog appeared from Lady White Rabbit&#x27;s body. Within the black fog, Black Tigress appeared, she flew into the sky while atop a lizard. Rank six Lady White Rabbit was not Feng Jiu Ge&#x27;s match. At the crucial moment, her other self, Black Tigress, appeared to save their life. Even so, Black Tigress was heavily injured, she quickly escaped and tried to heal herself. Feng Jiu Ge did not pursue her. He knew that his sneak attack had not succeeded, he had lost his initiative, now that everyone was alert, it would not be as effective anymore. And most importantly… Feng Jiu Ge frowned as he looked at the desert below: &quot;This is?&quot; &quot;Anti-sound desert, the place where you die!&quot; Saying so, Fang Yuan pounced at him again. &quot;So that&#x27;s it.&quot; Feng Jiu Ge realized, at the next moment, he turned into sound waves as yang pass tune allowed him to dodge again. However, Feng Jiu Ge, who reappeared elsewhere had an ugly expression. His smile had faded mostly, there was seriousness in his gaze. Western Desert&#x27;s anti-sound desert had the same fame as Southern Border&#x27;s silent hill. They were famous in the world, and were extremely unfavorable for sound path Gu Immortals. Because at these two places, sound path dao marks were extremely suppressed, all sound path killer moves were greatly weakened. Earlier, Feng Jiu Ge wanted to teleport behind Lady White Rabbit to kill her.</p>
-<p>But in the end, he was exposed when he got a hundred steps near her. This allowed Lady White Rabbit to escape from her fatal danger. &quot;Anti-sound desert, in the past, this special area was stolen by Thieving Heaven Demon Venerable. To think that it ended up here. How did Fang Yuan know? Heh, I almost forgot that he is the new leader of Shadow Sect, it is natural that he knows some secrets.&quot; Feng Jiu Ge guessed. He had guessed wrongly, Shadow Sect did not know about this place. Fang Yuan knew because in the five hundred years of his previous life, during the five regions chaotic war, this place was exposed and made use of. &quot;Hmm?&quot; Feng Jiu Ge&#x27;s expression suddenly changed as he looked at his arms. He did not know when it started, but there was a thick layer of frost on his arms and back. &quot;That dragon lady Bai Ning Bing?&quot; Feng Jiu Ge looked at Bai Ning Bing with an admiring gaze. Immortal killer move — Cold Eyes! This was Bai Ning Bing&#x27;s method. Even though Feng Jiu Ge moved quickly, cold eyes killer move was even faster, he just had to be in Bai Ning Bing&#x27;s field of vision, it was nearly instantaneous. Feng Jiu Ge laughed heartily as he stretched out his palm, touching the frost. Instantly, the sound of bells rang as the frost melted. Bai Ning Bing snorted as the light in her dragon eyes intensified. &quot;Troublesome.&quot; Feng Jiu Ge frowned slightly, he used yang pass tune to teleport away. But at the next moment, when he reappeared, not only was he met with Bai Ning Bing&#x27;s cold eyes, he was even attacked by Fairy Miao Yin&#x27;s curved moon. Immortal killer move — Curved Moon! Fairy Miao Yin&#x27;s eyes have two curved moons in them. Similar to cold eyes, this was a sight based attack, it was extremely quick to activate. Feng Jiu Ge was hit and his body shook. Fairy Miao Yin was shocked, she was confident in curved moon&#x27;s power, but it only made Feng Jiu Ge&#x27;s body shake. Feng Jiu Ge&#x27;s foundation in defense was extremely deep. Back then, even against Wu Yong&#x27;s battlefield immortal killer move, he lasted such a long time. This curved moon killer move was nothing much. Chirp chirp! Suddenly, the chirping of birds could be heard. A group of fire birds flew towards Feng Jiu Ge. Bam bam bam bam! At the next moment, the fire birds self-detonated and exploded loudly, but they soon turned silent. Because this was anti-sound desert. The explosions engulfed Feng Jiu Ge, the heat caused powerful currents to push out towards the surroundings. At once, red light shone on the faces of Fang Yuan and the others. The temperature of the place went up rapidly. Hei Lou Lan stood far away, battle intent surging in her eyes. This was the immortal killer move that she used — Angry Bird.</p>
-<p>Feng Jiu Ge reappeared at a distance. He was unharmed, the exploded angry birds did not affect him. Fang Yuan charged towards him while the other Shadow Sect immortals attacked from all directions. Feng Jiu Ge laughed soundlessly: &quot;Enough dodging, take this.&quot; Immortal killer move — Heaven and Earth Song! At once, the world sang. Music entered the ears of the immortals, their bodies shook, they felt like the sky was tall and the earth was wide, they felt themselves becoming more insignificant and minuscule, they felt like ants, they felt like dust. The feeling of being small and lowly emerged in them. Compared to heaven and earth, they were such insects, what could they possibly amount to? This was the might of heaven and earth song! Not only were Gu Immortals affected, even their immortal killer moves were influenced, while suppressed by heaven and earth song, they would become weaker as they dissipate after a few breaths of time. This move was one of Feng Jiu Ge&#x27;s signature killer moves, back then during the battle of Luo Po Valley, Qin Bai Sheng and his group suffered from it. Now, it was time for Fang Yuan and the rest to face it. Hei Lou Lan and the rest did not feel good, but Fang Yuan was relentlessly moving forward. Reverse flow protection seal was unmoved, only some ripples appeared on the surface, not just that, it even reflected a portion of heaven and earth song&#x27;s power back to Feng Jiu Ge. Feng Jiu Ge tasted the power of his killer move for the first time! Seeing Fang Yuan, who approached brazenly, he frowned as he used yang pass tune to teleport again. Reverse flow protection seal rendered Heavenly Court, Longevity Heaven, and Purple Mountain True Monarch without options, Wu Yong was also unable to get past it, not to mention Feng Jiu Ge. Feng Jiu Ge felt a headache seeing Fang Yuan. He had finally understood how Wu Yong felt. &quot;Forget about Fang Yuan, I should get rid of his subordinates first!&quot; Feng Jiu Ge did not want to fight with Fang Yuan, he placed his target on the rest.</p>
+<p>Feng Jiu Ge wore a red and white robe, he was extremely handsome, while looking at Shadow Sect&#x27;s immortals, he smiled warmly with great flair and elegance.</p>
+<p>He showed no battle intent or killing intent, but Shadow Sect felt great pressure from him.</p>
+<p>&quot;Feng Jiu Ge…&quot; Fang Yuan walked out and muttered.</p>
+<p>He was graceful and elegant, his robe was white as snow, his face was pure as jade, his eyes were dark and unfathomably deep.</p>
+<p>Seeing this, Lady White Rabbit&#x27;s heart jumped, she thought: &quot;The two strongest people under rank eight in the current world are finally going to fight!&quot;</p>
+<p>Speaking of which, even though Fang Yuan and Feng Jiu Ge had not interacted for a long time, the interactions between them were quite deep and long lasting.</p>
+<p>Years ago, Fang Yuan snatched Hu Immortal blessed land and took away Feng Jin Huang&#x27;s fortuitous encounter, he became noticed by Feng Jiu Ge as a result.</p>
+<p>But at that time, Feng Jiu Ge was a great rank seven Gu Immortal, an established expert who had high fame. But Fang Yuan was just a mortal, he was like an ant, even if he was quite impressive, that was nothing much.</p>
+<p>Who could have thought that after a few years, not only did Fang Yuan become a Gu Immortal, he was even the owner of Spring Autumn Cicada and destroyed Eighty-Eight True Yang Building, he joined the battle of Yi Tian Mountain, Reverse Flow River, and the Southern Border dream realm. Right now, he was extremely famous and was pursued by Heavenly Court, his reputation was on par with Feng Jiu Ge!</p>
+<p>Fang Yuan saved Feng Jiu Ge, and Feng Jiu Ge saved him in return, their debts to each other had all been settled already.</p>
+<p>Right now, these two were fighting for their respective factions using their true strength.</p>
+<p>&quot;Feng Jiu Ge, you chased us all the way to this place, did you know that you are handing your life over to me?&quot; Fang Yuan snickered, he shot out like lightning, pouncing at Feng Jiu Ge.</p>
+<p>Saying so, a robe and sash appeared around his body, his black hair swayed in the air as his eyes shone like lightning, he rapidly engaged in this climactic battle.</p>
+<p>Immortal killer move — Reverse Flow Protection Seal!</p>
+<p>Feng Jiu Ge&#x27;s gaze was fixed on him.</p>
+<p>He had already seen the power of this world famous killer move before.</p>
+<p>He could guess that reverse flow protection seal was very complex and hard to activate, it needed a lot of time to set up. If he sneak attacked, Fang Yuan would not have time to use this move, the battle would be in his favor.</p>
+<p>But unfortunately, Fang Yuan did not give Feng Jiu Ge this opportunity.</p>
+<p>And because Shadow Sect had superb investigative killer moves, Feng Jiu Ge could not find a chance to attack.</p>
+<p>Seeing Fang Yuan&#x27;s assault, Feng Jiu Ge broke into a wide smile.</p>
+<p>He spoke openly: &quot;I could teleport here because of my self-created immortal killer move, yang pass tune. And more importantly, my yang pass tune has not ended yet.&quot;</p>
+<p>As he said that, he burst out in golden light.</p>
+<p>The golden light had no offensive power, but the light flickered and vanished rapidly, along with Feng Jiu Ge himself.</p>
+<p>&quot;What?&quot; At almost the same time, Fang Yuan could hear the tune of an ancient zither getting louder.</p>
+<p>The sound became loud and soft at times, it was as if the person playing it was moving around him.</p>
+<p>Fang Yuan&#x27;s heart shook, he suddenly remembered that this was Feng Jiu Ge&#x27;s movement method that had displayed great power during the five regions chaotic war.</p>
+<p>It allowed Feng Jiu Ge to turn into formless sound waves and move around before turning back into human again. Sound path was not a mainstream path, and because this move was extremely unique to itself, normal methods could not restrict Feng Jiu Ge&#x27;s movement.</p>
+<p>&quot;Be careful!!&quot; Hei Lou Lan alerted.</p>
+<p>They had also heard the tune of the ancient zither, they all retreated subconsciously.</p>
+<p>But their speed was slower than yang pass tune, they did not know Feng Jiu Ge&#x27;s exact location, they could only retreat towards a random direction.</p>
+<p>Lady White Rabbit suddenly heard an explosion of zither music as Feng Jiu Ge formed towards the right of her instantly.</p>
+<p>Clang!</p>
+<p>Feng Jiu Ge had a curious gaze as he pointed at Lady White Rabbit, as sounds of clashing weapons could be heard.</p>
+<p>Lady White Rabbit screamed in a shrill voice, at this instant, she felt an intense threat of death.</p>
+<p>She rapidly retreated.</p>
+<p>But the sharp sound waves stabbed into her chest.</p>
+<p>At the next moment, blood spewed as black fog appeared from Lady White Rabbit&#x27;s body.</p>
+<p>Within the black fog, Black Tigress appeared, she flew into the sky while atop a lizard.</p>
+<p>Rank six Lady White Rabbit was not Feng Jiu Ge&#x27;s match. At the crucial moment, her other self, Black Tigress, appeared to save their life.</p>
+<p>Even so, Black Tigress was heavily injured, she quickly escaped and tried to heal herself.</p>
+<p>Feng Jiu Ge did not pursue her.</p>
+<p>He knew that his sneak attack had not succeeded, he had lost his initiative, now that everyone was alert, it would not be as effective anymore.</p>
+<p>And most importantly…</p>
+<p>Feng Jiu Ge frowned as he looked at the desert below: &quot;This is?&quot;</p>
+<p>&quot;Anti-sound desert, the place where you die!&quot; Saying so, Fang Yuan pounced at him again.</p>
+<p>&quot;So that&#x27;s it.&quot; Feng Jiu Ge realized, at the next moment, he turned into sound waves as yang pass tune allowed him to dodge again.</p>
+<p>However, Feng Jiu Ge, who reappeared elsewhere had an ugly expression.</p>
+<p>His smile had faded mostly, there was seriousness in his gaze.</p>
+<p>Western Desert&#x27;s anti-sound desert had the same fame as Southern Border&#x27;s silent hill.</p>
+<p>They were famous in the world, and were extremely unfavorable for sound path Gu Immortals.</p>
+<p>Because at these two places, sound path dao marks were extremely suppressed, all sound path killer moves were greatly weakened.</p>
+<p>Earlier, Feng Jiu Ge wanted to teleport behind Lady White Rabbit to kill her.</p>
+<p>But in the end, he was exposed when he got a hundred steps near her.</p>
+<p>This allowed Lady White Rabbit to escape from her fatal danger.</p>
+<p>&quot;Anti-sound desert, in the past, this special area was stolen by Thieving Heaven Demon Venerable. To think that it ended up here. How did Fang Yuan know? Heh, I almost forgot that he is the new leader of Shadow Sect, it is natural that he knows some secrets.&quot; Feng Jiu Ge guessed.</p>
+<p>He had guessed wrongly, Shadow Sect did not know about this place.</p>
+<p>Fang Yuan knew because in the five hundred years of his previous life, during the five regions chaotic war, this place was exposed and made use of.</p>
+<p>&quot;Hmm?&quot; Feng Jiu Ge&#x27;s expression suddenly changed as he looked at his arms.</p>
+<p>He did not know when it started, but there was a thick layer of frost on his arms and back.</p>
+<p>&quot;That dragon lady Bai Ning Bing?&quot; Feng Jiu Ge looked at Bai Ning Bing with an admiring gaze.</p>
+<p>Immortal killer move — Cold Eyes!</p>
+<p>This was Bai Ning Bing&#x27;s method.</p>
+<p>Even though Feng Jiu Ge moved quickly, cold eyes killer move was even faster, he just had to be in Bai Ning Bing&#x27;s field of vision, it was nearly instantaneous.</p>
+<p>Feng Jiu Ge laughed heartily as he stretched out his palm, touching the frost.</p>
+<p>Instantly, the sound of bells rang as the frost melted.</p>
+<p>Bai Ning Bing snorted as the light in her dragon eyes intensified.</p>
+<p>&quot;Troublesome.&quot; Feng Jiu Ge frowned slightly, he used yang pass tune to teleport away.</p>
+<p>But at the next moment, when he reappeared, not only was he met with Bai Ning Bing&#x27;s cold eyes, he was even attacked by Fairy Miao Yin&#x27;s curved moon.</p>
+<p>Immortal killer move — Curved Moon!</p>
+<p>Fairy Miao Yin&#x27;s eyes have two curved moons in them.</p>
+<p>Similar to cold eyes, this was a sight based attack, it was extremely quick to activate.</p>
+<p>Feng Jiu Ge was hit and his body shook.</p>
+<p>Fairy Miao Yin was shocked, she was confident in curved moon&#x27;s power, but it only made Feng Jiu Ge&#x27;s body shake.</p>
+<p>Feng Jiu Ge&#x27;s foundation in defense was extremely deep.</p>
+<p>Back then, even against Wu Yong&#x27;s battlefield immortal killer move, he lasted such a long time. This curved moon killer move was nothing much.</p>
+<p>Chirp chirp!</p>
+<p>Suddenly, the chirping of birds could be heard.</p>
+<p>A group of fire birds flew towards Feng Jiu Ge.</p>
+<p>Bam bam bam bam!</p>
+<p>At the next moment, the fire birds self-detonated and exploded loudly, but they soon turned silent.</p>
+<p>Because this was anti-sound desert.</p>
+<p>The explosions engulfed Feng Jiu Ge, the heat caused powerful currents to push out towards the surroundings.</p>
+<p>At once, red light shone on the faces of Fang Yuan and the others.</p>
+<p>The temperature of the place went up rapidly.</p>
+<p>Hei Lou Lan stood far away, battle intent surging in her eyes. This was the immortal killer move that she used — Angry Bird.</p>
+<p>Feng Jiu Ge reappeared at a distance.</p>
+<p>He was unharmed, the exploded angry birds did not affect him.</p>
+<p>Fang Yuan charged towards him while the other Shadow Sect immortals attacked from all directions.</p>
+<p>Feng Jiu Ge laughed soundlessly: &quot;Enough dodging, take this.&quot;</p>
+<p>Immortal killer move — Heaven and Earth Song!</p>
+<p>At once, the world sang.</p>
+<p>Music entered the ears of the immortals, their bodies shook, they felt like the sky was tall and the earth was wide, they felt themselves becoming more insignificant and minuscule, they felt like ants, they felt like dust.</p>
+<p>The feeling of being small and lowly emerged in them.</p>
+<p>Compared to heaven and earth, they were such insects, what could they possibly amount to?</p>
+<p>This was the might of heaven and earth song!</p>
+<p>Not only were Gu Immortals affected, even their immortal killer moves were influenced, while suppressed by heaven and earth song, they would become weaker as they dissipate after a few breaths of time.</p>
+<p>This move was one of Feng Jiu Ge&#x27;s signature killer moves, back then during the battle of Luo Po Valley, Qin Bai Sheng and his group suffered from it.</p>
+<p>Now, it was time for Fang Yuan and the rest to face it.</p>
+<p>Hei Lou Lan and the rest did not feel good, but Fang Yuan was relentlessly moving forward.</p>
+<p>Reverse flow protection seal was unmoved, only some ripples appeared on the surface, not just that, it even reflected a portion of heaven and earth song&#x27;s power back to Feng Jiu Ge.</p>
+<p>Feng Jiu Ge tasted the power of his killer move for the first time!</p>
+<p>Seeing Fang Yuan, who approached brazenly, he frowned as he used yang pass tune to teleport again.</p>
+<p>Reverse flow protection seal rendered Heavenly Court, Longevity Heaven, and Purple Mountain True Monarch without options, Wu Yong was also unable to get past it, not to mention Feng Jiu Ge.</p>
+<p>Feng Jiu Ge felt a headache seeing Fang Yuan.</p>
+<p>He had finally understood how Wu Yong felt.</p>
+<p>&quot;Forget about Fang Yuan, I should get rid of his subordinates first!&quot; Feng Jiu Ge did not want to fight with Fang Yuan, he placed his target on the rest.</p>

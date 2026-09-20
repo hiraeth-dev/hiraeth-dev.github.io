@@ -5,7 +5,117 @@ weight = 1266
 chapter = 1266
 +++
 
-<p>&quot;Did we win?&quot; Zhao Lian Yun had to use quite some effort to climb out of the blood pool. Her injuries were severe, and she was blacking out. Fortunately, Zhao Pu was already dead, and the blood drain immortal killer move on Zhao Lian Yun and Yu Yi Ye Zi also dissipated. If it did not dissipate, Zhao Lian Yun and Yu Yi Ye Zi would undoubtedly follow Zhao Pu to death. Huff, huff... On the other side, Yu Yi Ye Zi was breathing roughly, standing up while leaning on the wall. When he saw Zhao Lian Yun, this young Gu Immortal was dazed and turned pale: &quot;Lian... Fairy Lian Yun... your face... no... your body...&quot; Yu Yi Ye Zi&#x27;s eyes were wide open, and he stuttered, not knowing how to express himself. Zhao Lian Yun felt strange, transmitting her voice: &quot;What&#x27;s wrong with me?&quot; She lowered her head to look at herself, the first thing she saw were her hands. A pair of old and skinny hands. Zhao Lian Yun&#x27;s heart gave a jolt as she found she had unknowingly become an elderly woman! Her back was bent, wrinkles covered her body, her sight was blurry and her hair had turned white. &quot;What&#x27;s happening?&quot; Zhao Lian Yun was shocked. She grabbed her hair, easily pulling out strands of white hair. Her strong hair roots had degraded and become loose. Yu Yi Ye Zi spoke with a heavy voice: &quot;It is probably love Gu. Love Gu consumed your lifespan to burst out with the terrifying power that could directly kill Zhao Pu!&quot; &quot;Is that so?&quot; Zhao Lian Yun was dazed and at a loss. Anyone who turned from the prime of their youth to an old and frail person the next moment, would definitely receive a huge shock in their mind. &quot;Yes.&quot; Yu Yi Ye Zi nodded, and consoled, &quot;But you don&#x27;t have to worry, you can restore your youth by using lifespan Gu. Normal Gu Immortals might not be able to gather lifespan Gu, but you are different, you are the current generation fairy of Spirit Affinity House, the sect will definitely provide you lifespan Gu.&quot; Zhao Lian Yun did not reply. She was feeling complicated emotions. Shock, disappointment, disbelief, dazedness. She was an otherworldly demon, but even before transmigrating, she had not experienced becoming this old. After a while of silence, Zhao Lian Yun finally recovered from the shock. &quot;I will continue going forward!&quot; &quot;Old age doesn&#x27;t matter, Hong Yun is still waiting for me.&quot; Zhao Lian Yun gazed at the distant first snowy peak through the window, her gaze becoming resolute once more. &quot;You cannot continue!!&quot; Yu Yi Ye Zi was shocked, quickly walking over to Zhao Lian Yun and holding her arm. &quot;Love Immortal Gu is powerful but it is not stable. Maybe it will take your lifespan the next time as well. If so, you will definitely die!&quot; Yu Yi Ye Zi persuaded.</p>
-<p>&quot;So what if I die?&quot; The old Zhao Lian Yun looked at the young Yu Yi Ye Zi with a slight smile. Her smile was not even a little beautiful, but Yu Yi Ye Zi was dazed. Then, Zhao Lian Yun softly drew back her arm. She clearly did not use much strength, but Yu Yi Ye Zi felt a formless strength attacking his heart, letting him voluntarily release his hand. He then quietly stood on the spot, looking at Zhao Lian Yun&#x27;s hunched back, looking at her walking towards the outside of the hall with heavy and aged steps. This scene was ordinary and nothing strange, but Yu Yi Ye Zi felt an intense tremor in his heart. He even subconsciously held his breath, as Zhao Lian Yun&#x27;s weak receding figure imprinted deeply in him at this moment. &quot;What kind of spirit is this!&quot; &quot;For her love, she is willing to make sacrifices, unafraid of death and destruction.&quot; &quot;Zhao Lian Yun, I would have definitely died in Zhao Pu&#x27;s hands without you.&quot; &quot;Alright, let me follow you, at worst, this life will be paid to you!&quot; Yu Yi Ye Zi was not old, he was still hot-blooded, and after firming up his mind, he quickly followed Zhao Lian Yun. There was not much immortal essence left in her phantom aperture, Zhao Lian Yun was also worried that recklessly summoning love Immortal Gu would spend what little remained of her lifespan. As such, she chose to walk down the peak. Under the effect of the fate reversing sacrificial refinement formation, Zhao Lian Yun and Yu Yi Ye Zi separated, and she alone went to another snowy peak. There was still a large hall at the peak, and the atmosphere was quiet. &quot;There was a battle here!&quot; Zhao Lian Yun slowly walked to the hall, finding the inside of the hall in ruins, signs of an intense battle were everywhere. &quot;Fairy Lian Yun?&quot; A voice suddenly transmitted to Zhao Lian Yun&#x27;s ears. Zhao Lian Yun was slightly dazed, before shortly recognizing the voice as that water path Gu Immortal, Mu Ling Lan&#x27;s voice. &quot;This is the eighth peak of Snowy Mountain blessed land, I fought with the owner of this peak, Xiao Fei Fei, and now, we are both wounded.&quot; &quot;We are both hiding right now, healing our injuries as quickly as possible.&quot; &quot;You need to be careful, don&#x27;t be hit by her ability. She has an immortal killer move which can cause the target to continuously lose their memories.&quot; Just as he finished speaking, a ray of strange light flew and struck Zhao Lian Yun&#x27;s forehead. &quot;No!&quot; Mu Ling Lan quickly called out, &quot;Every time you lose your memory, the related memory will float in your mind. Use Immortal Gu to defend yourself, don&#x27;t use any immortal killer moves, that would be even more dangerous. If you forget an immortal killer move by any chance, you will suffer the backlash from the immortal killer move. Persevere, wait until I heal my injuries and recover some strength to fight!&quot; Zhao Lian Yun quickly agreed. She hid in a corner and used Immortal Gu to protect herself, then waited for the killer move to activate. &quot;Damn it!&quot; Zhao Lian Yun gradually felt unease. She knew her situation, she had just recently become a Gu Immortal, most of her battles came from during her training time. It would be an extremely huge blow to her if the memories of this period were erased.</p>
-<p>Memories began to surface in her mind... Northern Plains. Ma tribe was defeated, and surrendered to Hei tribe. &quot;I didn&#x27;t think we could still live, Lady Xiao Yun!&quot; Ma Hong Yun held Zhao Lian Yun&#x27;s hands and spun round and round on the spot, &quot;Hahaha.&quot; &quot;Let me down, you big fool!&quot; Zhao Lian Yun shouted. ... Imperial Court blessed land. &quot;You, kid, are truly lucky, you actually became Chang tribe&#x27;s son-in-law, hahaha.&quot; Zhao Lian Yun patted Ma Hong Yun&#x27;s shoulder. Ma Hong Yun chuckled while scratching his hair: &quot;Lady Xiao Yun, don&#x27;t worry, you have helped me so much, I will treat you well.&quot; Zhao Lian Yun gave a sound of acknowledgement and nodded: &quot;Then I will rely on you.&quot; Inside, however, she felt strange: Why do I have some feelings of loss and bitterness? ... Inside Eighty-Eight True Yang Building. &quot;To think that you are an otherworldly demon! You are actually lurking by Ma Hong Yun&#x27;s side! Hehehe, you have such guts, you are really daring. Unfortunately... you met me.&quot; Giant Sun&#x27;s will exuded strong killing intent. Zhao Lian Yun felt like she had fallen in an ice cave, shouting in her mind: &quot;Damn it, there is still such an obstacle? Transmigrators are otherworldly demons? This world is too big of a trap! Oh no, my death is certain this time!! I am actually going to die here?&quot; But the next moment, Ma Hong Yun stood in front of Zhao Lian Yun. He spread open his arms, protecting Zhao Lian Yun behind him. &quot;Boy, you want to protect an otherworldly demon?&quot; Giant Sun&#x27;s will sharpened his tone, his expression becoming ice-cold. &quot;What otherworldly demon! I don&#x27;t know any otherworldly demon, I only know she is Lady Xiao Yun, without her help, I would likely have been killed already.&quot; Ma Hong Yun tried his best to defend Zhao Lian Yun. Zhao Lian Yun&#x27;s pupils shrunk as she looked at Ma Hong Yun in a daze. &quot;Even against Giant Sun&#x27;s will, this fellow will still stand up for me?&quot; &quot;Why?&quot; &quot;I am clearly an otherworldly demon, and not a person of this world!&quot; &quot;You idiot, you are going to die. By protecting me, you are offending Giant Sun&#x27;s will, that is your ancestor, you idiot!&quot; Hei Lou Lan&#x27;s gaze towards Zhao Lian Yun started showing killing intent. &quot;No, Lady Xiao Yun is innocent, you must not harm her!&quot; Ma Hong Yun was extremely determined, he wholeheartedly wanted to protect Zhao Lian Yun. However, Giant Sun&#x27;s special will did not care about Ma Hong Yun, directly making a move against Zhao Lian Yun. &quot;No——!&quot; Ma Hong Yun saw the situation going south, he called out in a moment of desperation, extending both his arms and hugging Zhao Lian Yun within his bosom. During this moment. Time seemed to have become endlessly slow. Zhao Lian Yun was curled up in Ma Hong Yun&#x27;s chest, her heart beginning to beat wildly.</p>
-<p>An unprecedented feeling of safety and warmth filled her heart. Following that came a kind of panic. This panic was not towards her life hanging by a thread, instead it was a strange feeling that came from the depths of her heart. Zhao Lian Yun found at this moment that she had hopelessly fallen in love with the stupid Ma Hong Yun. In this world, there could be guys who would watch the stars with her, accompany her to shout at the valley, heal her and give her flowers. But who would sacrifice their life for her?! In this world, otherworldly demons were despised by even Giant Sun Immortal Venerable, who would be so stupid to protect her? Ma Hong Yun. Ma Hong Yun! ... The memories surfaced one by one in Zhao Lian Yun&#x27;s mind. Then, they started to disappear one by one. &quot;No, stop it!&quot; Tears filled Zhao Lian Yun&#x27;s face as she called out with incomparable sorrow. Xiao Fei Fei&#x27;s voice transmitted: &quot;Hehehe, when you are struck by my immortal killer move, you will lose your most precious memories. Do you feel pain? It doesn&#x27;t matter, the more you forget, the more relaxed you will be, maybe you will even smile. Hehehe....&quot; The memories disappeared, a smile suddenly appeared on Zhao Lian Yun&#x27;s face. &quot;Don&#x27;t smile. This is Xiao Fei Fei&#x27;s famous sinister killer move, it will kill people while they smile. The longer you smile, the more easily you will lose your life.&quot; Mu Ling Lan quickly transmitted his voice to warn her. However, Zhao Lian Yun seemed to have turned silly, as her smile became increasingly wider. &quot;Damn it!&quot; Mu Ling Lan knew he had to take action. He unleashed his killer move after a long period of preparation, creating an incredible effect! &quot;Ahh! You actually...&quot; Xiao Fei Fei had exposed her location while attacking Zhao Lian Yun, and was struck by the fatal move while unprepared, losing her life miserably. &quot;Fairy Lian Yun, you need to persevere!&quot; Mu Ling Lan quickly rushed over and helped Zhao Lian Yun. Zhao Lian Yun still had a smile on her face, but she was no longer in a daze. Two streams of translucent tears dripped down her face from her eyes. Her eyes were blurry from age and her hair had turned white, she could only use Gu worms to transmit her voice. &quot;What should I do?&quot; &quot;I have forgotten almost everything about him, even his appearance.&quot; &quot;I only remember his name.&quot; &quot;I only remember....&quot; &quot;That I love him.&quot;</p>
+<p>&quot;Did we win?&quot; Zhao Lian Yun had to use quite some effort to climb out of the blood pool.</p>
+<p>Her injuries were severe, and she was blacking out.</p>
+<p>Fortunately, Zhao Pu was already dead, and the blood drain immortal killer move on Zhao Lian Yun and Yu Yi Ye Zi also dissipated.</p>
+<p>If it did not dissipate, Zhao Lian Yun and Yu Yi Ye Zi would undoubtedly follow Zhao Pu to death.</p>
+<p>Huff, huff...</p>
+<p>On the other side, Yu Yi Ye Zi was breathing roughly, standing up while leaning on the wall.</p>
+<p>When he saw Zhao Lian Yun, this young Gu Immortal was dazed and turned pale: &quot;Lian...</p>
+<p>Fairy Lian Yun... your face... no... your body...&quot;</p>
+<p>Yu Yi Ye Zi&#x27;s eyes were wide open, and he stuttered, not knowing how to express himself.</p>
+<p>Zhao Lian Yun felt strange, transmitting her voice: &quot;What&#x27;s wrong with me?&quot;</p>
+<p>She lowered her head to look at herself, the first thing she saw were her hands.</p>
+<p>A pair of old and skinny hands.</p>
+<p>Zhao Lian Yun&#x27;s heart gave a jolt as she found she had unknowingly become an elderly woman!</p>
+<p>Her back was bent, wrinkles covered her body, her sight was blurry and her hair had turned white.</p>
+<p>&quot;What&#x27;s happening?&quot; Zhao Lian Yun was shocked.</p>
+<p>She grabbed her hair, easily pulling out strands of white hair. Her strong hair roots had degraded and become loose.</p>
+<p>Yu Yi Ye Zi spoke with a heavy voice: &quot;It is probably love Gu. Love Gu consumed your lifespan to burst out with the terrifying power that could directly kill Zhao Pu!&quot;</p>
+<p>&quot;Is that so?&quot; Zhao Lian Yun was dazed and at a loss.</p>
+<p>Anyone who turned from the prime of their youth to an old and frail person the next moment, would definitely receive a huge shock in their mind.</p>
+<p>&quot;Yes.&quot; Yu Yi Ye Zi nodded, and consoled, &quot;But you don&#x27;t have to worry, you can restore your youth by using lifespan Gu. Normal Gu Immortals might not be able to gather lifespan Gu, but you are different, you are the current generation fairy of Spirit Affinity House, the sect will definitely provide you lifespan Gu.&quot;</p>
+<p>Zhao Lian Yun did not reply.</p>
+<p>She was feeling complicated emotions. Shock, disappointment, disbelief, dazedness.</p>
+<p>She was an otherworldly demon, but even before transmigrating, she had not experienced becoming this old.</p>
+<p>After a while of silence, Zhao Lian Yun finally recovered from the shock.</p>
+<p>&quot;I will continue going forward!&quot;</p>
+<p>&quot;Old age doesn&#x27;t matter, Hong Yun is still waiting for me.&quot;</p>
+<p>Zhao Lian Yun gazed at the distant first snowy peak through the window, her gaze becoming resolute once more.</p>
+<p>&quot;You cannot continue!!&quot; Yu Yi Ye Zi was shocked, quickly walking over to Zhao Lian Yun and holding her arm.</p>
+<p>&quot;Love Immortal Gu is powerful but it is not stable. Maybe it will take your lifespan the next time as well. If so, you will definitely die!&quot; Yu Yi Ye Zi persuaded.</p>
+<p>&quot;So what if I die?&quot; The old Zhao Lian Yun looked at the young Yu Yi Ye Zi with a slight smile.</p>
+<p>Her smile was not even a little beautiful, but Yu Yi Ye Zi was dazed.</p>
+<p>Then, Zhao Lian Yun softly drew back her arm.</p>
+<p>She clearly did not use much strength, but Yu Yi Ye Zi felt a formless strength attacking his heart, letting him voluntarily release his hand.</p>
+<p>He then quietly stood on the spot, looking at Zhao Lian Yun&#x27;s hunched back, looking at her walking towards the outside of the hall with heavy and aged steps.</p>
+<p>This scene was ordinary and nothing strange, but Yu Yi Ye Zi felt an intense tremor in his heart.</p>
+<p>He even subconsciously held his breath, as Zhao Lian Yun&#x27;s weak receding figure imprinted deeply in him at this moment.</p>
+<p>&quot;What kind of spirit is this!&quot;</p>
+<p>&quot;For her love, she is willing to make sacrifices, unafraid of death and destruction.&quot;</p>
+<p>&quot;Zhao Lian Yun, I would have definitely died in Zhao Pu&#x27;s hands without you.&quot;</p>
+<p>&quot;Alright, let me follow you, at worst, this life will be paid to you!&quot;</p>
+<p>Yu Yi Ye Zi was not old, he was still hot-blooded, and after firming up his mind, he quickly followed Zhao Lian Yun.</p>
+<p>There was not much immortal essence left in her phantom aperture, Zhao Lian Yun was also worried that recklessly summoning love Immortal Gu would spend what little remained of her lifespan. As such, she chose to walk down the peak.</p>
+<p>Under the effect of the fate reversing sacrificial refinement formation, Zhao Lian Yun and Yu Yi Ye Zi separated, and she alone went to another snowy peak.</p>
+<p>There was still a large hall at the peak, and the atmosphere was quiet.</p>
+<p>&quot;There was a battle here!&quot; Zhao Lian Yun slowly walked to the hall, finding the inside of the hall in ruins, signs of an intense battle were everywhere.</p>
+<p>&quot;Fairy Lian Yun?&quot; A voice suddenly transmitted to Zhao Lian Yun&#x27;s ears.</p>
+<p>Zhao Lian Yun was slightly dazed, before shortly recognizing the voice as that water path Gu Immortal, Mu Ling Lan&#x27;s voice.</p>
+<p>&quot;This is the eighth peak of Snowy Mountain blessed land, I fought with the owner of this peak, Xiao Fei Fei, and now, we are both wounded.&quot;</p>
+<p>&quot;We are both hiding right now, healing our injuries as quickly as possible.&quot;</p>
+<p>&quot;You need to be careful, don&#x27;t be hit by her ability. She has an immortal killer move which can cause the target to continuously lose their memories.&quot;</p>
+<p>Just as he finished speaking, a ray of strange light flew and struck Zhao Lian Yun&#x27;s forehead.</p>
+<p>&quot;No!&quot; Mu Ling Lan quickly called out, &quot;Every time you lose your memory, the related memory will float in your mind. Use Immortal Gu to defend yourself, don&#x27;t use any immortal killer moves, that would be even more dangerous. If you forget an immortal killer move by any chance, you will suffer the backlash from the immortal killer move. Persevere, wait until I heal my injuries and recover some strength to fight!&quot;</p>
+<p>Zhao Lian Yun quickly agreed.</p>
+<p>She hid in a corner and used Immortal Gu to protect herself, then waited for the killer move to activate.</p>
+<p>&quot;Damn it!&quot; Zhao Lian Yun gradually felt unease. She knew her situation, she had just recently become a Gu Immortal, most of her battles came from during her training time. It would be an extremely huge blow to her if the memories of this period were erased.</p>
+<p>Memories began to surface in her mind...</p>
+<p>Northern Plains.</p>
+<p>Ma tribe was defeated, and surrendered to Hei tribe.</p>
+<p>&quot;I didn&#x27;t think we could still live, Lady Xiao Yun!&quot; Ma Hong Yun held Zhao Lian Yun&#x27;s hands and spun round and round on the spot, &quot;Hahaha.&quot;</p>
+<p>&quot;Let me down, you big fool!&quot; Zhao Lian Yun shouted.</p>
+<p>...</p>
+<p>Imperial Court blessed land.</p>
+<p>&quot;You, kid, are truly lucky, you actually became Chang tribe&#x27;s son-in-law, hahaha.&quot; Zhao Lian Yun patted Ma Hong Yun&#x27;s shoulder.</p>
+<p>Ma Hong Yun chuckled while scratching his hair: &quot;Lady Xiao Yun, don&#x27;t worry, you have helped me so much, I will treat you well.&quot;</p>
+<p>Zhao Lian Yun gave a sound of acknowledgement and nodded: &quot;Then I will rely on you.&quot;</p>
+<p>Inside, however, she felt strange: Why do I have some feelings of loss and bitterness?</p>
+<p>...</p>
+<p>Inside Eighty-Eight True Yang Building.</p>
+<p>&quot;To think that you are an otherworldly demon! You are actually lurking by Ma Hong Yun&#x27;s side! Hehehe, you have such guts, you are really daring. Unfortunately... you met me.&quot; Giant Sun&#x27;s will exuded strong killing intent.</p>
+<p>Zhao Lian Yun felt like she had fallen in an ice cave, shouting in her mind: &quot;Damn it, there is still such an obstacle? Transmigrators are otherworldly demons? This world is too big of a trap! Oh no, my death is certain this time!! I am actually going to die here?&quot;</p>
+<p>But the next moment, Ma Hong Yun stood in front of Zhao Lian Yun.</p>
+<p>He spread open his arms, protecting Zhao Lian Yun behind him.</p>
+<p>&quot;Boy, you want to protect an otherworldly demon?&quot; Giant Sun&#x27;s will sharpened his tone, his expression becoming ice-cold.</p>
+<p>&quot;What otherworldly demon! I don&#x27;t know any otherworldly demon, I only know she is Lady Xiao Yun, without her help, I would likely have been killed already.&quot; Ma Hong Yun tried his best to defend Zhao Lian Yun.</p>
+<p>Zhao Lian Yun&#x27;s pupils shrunk as she looked at Ma Hong Yun in a daze.</p>
+<p>&quot;Even against Giant Sun&#x27;s will, this fellow will still stand up for me?&quot;</p>
+<p>&quot;Why?&quot;</p>
+<p>&quot;I am clearly an otherworldly demon, and not a person of this world!&quot;</p>
+<p>&quot;You idiot, you are going to die. By protecting me, you are offending Giant Sun&#x27;s will, that is your ancestor, you idiot!&quot;</p>
+<p>Hei Lou Lan&#x27;s gaze towards Zhao Lian Yun started showing killing intent.</p>
+<p>&quot;No, Lady Xiao Yun is innocent, you must not harm her!&quot; Ma Hong Yun was extremely determined, he wholeheartedly wanted to protect Zhao Lian Yun.</p>
+<p>However, Giant Sun&#x27;s special will did not care about Ma Hong Yun, directly making a move against Zhao Lian Yun.</p>
+<p>&quot;No——!&quot; Ma Hong Yun saw the situation going south, he called out in a moment of desperation, extending both his arms and hugging Zhao Lian Yun within his bosom.</p>
+<p>During this moment.</p>
+<p>Time seemed to have become endlessly slow.</p>
+<p>Zhao Lian Yun was curled up in Ma Hong Yun&#x27;s chest, her heart beginning to beat wildly.</p>
+<p>An unprecedented feeling of safety and warmth filled her heart.</p>
+<p>Following that came a kind of panic.</p>
+<p>This panic was not towards her life hanging by a thread, instead it was a strange feeling that came from the depths of her heart.</p>
+<p>Zhao Lian Yun found at this moment that she had hopelessly fallen in love with the stupid Ma Hong Yun.</p>
+<p>In this world, there could be guys who would watch the stars with her, accompany her to shout at the valley, heal her and give her flowers. But who would sacrifice their life for her?!</p>
+<p>In this world, otherworldly demons were despised by even Giant Sun Immortal Venerable, who would be so stupid to protect her?</p>
+<p>Ma Hong Yun.</p>
+<p>Ma Hong Yun!</p>
+<p>...</p>
+<p>The memories surfaced one by one in Zhao Lian Yun&#x27;s mind.</p>
+<p>Then, they started to disappear one by one.</p>
+<p>&quot;No, stop it!&quot; Tears filled Zhao Lian Yun&#x27;s face as she called out with incomparable sorrow.</p>
+<p>Xiao Fei Fei&#x27;s voice transmitted: &quot;Hehehe, when you are struck by my immortal killer move, you will lose your most precious memories. Do you feel pain? It doesn&#x27;t matter, the more you forget, the more relaxed you will be, maybe you will even smile. Hehehe....&quot;</p>
+<p>The memories disappeared, a smile suddenly appeared on Zhao Lian Yun&#x27;s face.</p>
+<p>&quot;Don&#x27;t smile. This is Xiao Fei Fei&#x27;s famous sinister killer move, it will kill people while they smile. The longer you smile, the more easily you will lose your life.&quot; Mu Ling Lan quickly transmitted his voice to warn her.</p>
+<p>However, Zhao Lian Yun seemed to have turned silly, as her smile became increasingly wider.</p>
+<p>&quot;Damn it!&quot; Mu Ling Lan knew he had to take action.</p>
+<p>He unleashed his killer move after a long period of preparation, creating an incredible effect!</p>
+<p>&quot;Ahh! You actually...&quot; Xiao Fei Fei had exposed her location while attacking Zhao Lian Yun, and was struck by the fatal move while unprepared, losing her life miserably.</p>
+<p>&quot;Fairy Lian Yun, you need to persevere!&quot; Mu Ling Lan quickly rushed over and helped Zhao Lian Yun.</p>
+<p>Zhao Lian Yun still had a smile on her face, but she was no longer in a daze.</p>
+<p>Two streams of translucent tears dripped down her face from her eyes.</p>
+<p>Her eyes were blurry from age and her hair had turned white, she could only use Gu worms to transmit her voice.</p>
+<p>&quot;What should I do?&quot;</p>
+<p>&quot;I have forgotten almost everything about him, even his appearance.&quot;</p>
+<p>&quot;I only remember his name.&quot;</p>
+<p>&quot;I only remember....&quot;</p>
+<p>&quot;That I love him.&quot;</p>

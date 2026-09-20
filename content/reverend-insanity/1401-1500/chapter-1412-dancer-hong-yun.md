@@ -5,6 +5,73 @@ weight = 1412
 chapter = 1412
 +++
 
-<p>A beautiful red cloud was flying in the sky. &quot;Green ghost desert is ahead.&quot; Dancer Hong Yun lay down on her red cloud as she shut her eyes in a relaxed manner. She had a curvy body and was wearing a red dancing dress with yellow threads, her belly was exposed as well as her arms and legs. There were golden jade bracelets on her wrists and ankles. On her fingers, there were many jeweled rings, blue, green, and red, enhancing one another&#x27;s beauty. Her eyes had a deep gaze, her brows were thick and long, there was a faint green light in her eyes, even though they were half closed, she was still very alluring. A translucent red veil was covering half her face, her tall nose and red lips were covered by the veil, it made people have the urge to explore what was truly behind that veil. Dancer Hong Yun, she was a seductive rank seven female Gu Immortal. She was once a demoness that roamed Western Desert, but unfortunately she trifled with a righteous path rank eight great expert, during the critical moment, Thousand Transformations Ancestor saved her. Using that opportunity, Dancer Hong Yun became one of Thousand Transformations Ancestor&#x27;s concubines. But unfortunately, she was not his type, even though she was very beautiful and sexy, her status was lower than Fairy Cui Bo in Thousand Transformations Ancestor&#x27;s heart. Wild winds were blowing by her ears, the red cloud was soft like cotton but also very bouncy, it was very comfortable for Dancer Hong Yun to lie down on it. This was Dancer Hong Yun&#x27;s signature method, immortal killer move — Dancing Red Cloud. Even though she did not normally have a good relationship with Fairy Cui Bo, they even competed very fiercely in secret, Fairy Cui Bo was in trouble now, Dancer Hong Yun had to go rescue her using her fastest method. She was unwilling, of course, but now, there was Thousand Transformations Ancestor&#x27;s will with her. This will was here not only to help Dancer Hong Yun, but also to supervise her. As long as this will was around, Dancer Hong Yun would need to do everything to save Fairy Cui Bo. The red cloud traveled along the way, arriving in the sky above green ghost desert, soon, the weather changed. Dark clouds started appearing. Once she entered green ghost desert, dark clouds joined together and became even thicker, covering the sky entirely. Ordinary deserts were hot and open. But in green ghost desert, there was barely any sunlight, it was dark and gloomy. There were many trees in this desert. Ghost crying trees were one of the types that had the highest numbers. This ghost crying tree was very twisted in shape and full of natural holes inside. It had deep tree bark markings, resembling the faces of crying humans.</p>
-<p>Every time the wind blew on the ghost crying tree, it would shake slightly and emit a shrill scream, or terrifying cry. Even during the day, this place was cold and dark, soul beasts roamed freely. When it was night time, cold bone-chilling winds would blow as countless ghosts wandered. Dancer Hong Yun rode on her dancing red cloud as she moved past the dark clouds with a repressed feeling. She was no longer as relaxed as before, she sat cross-legged and opened her eyes, staying vigilant at all times. Green ghost desert was a famous place of danger in Western Desert. It was related to a Demon Venerable in history. That was the famed Spectral Soul Demon Venerable. Before Spectral Soul Demon Venerable became a venerable, he had fought with a super clan here, he murdered all of the Gu Immortals in this Western Desert wood path clan overlord that were here. The aftermath of the battle turned area this into green ghost desert. This place seemed to be filled with the hatred and anger of the losers, they were filled with unhappiness and grief towards their horrible fate. This was an ominous land. There were a vast number of soul beasts living here. Even immemorial soul beasts were not rare. After a hundred thousand years, there were many Western Desert Gu Immortals who died here. Dancer Hong Yun had the guts to travel here, it was not because of her rank seven cultivation level or battle strength, it was because she had Thousand Transformations Ancestor&#x27;s will and rank eight Immortal Gu. And her travel route was just a corner of green ghost desert, she did not truly enter it deeply. Thus, she chose to advance like this. The cloud continued flying ahead, across the dark sky, it was very eye-catching. Howl—! There was a long howl resembling a wolf&#x27;s cry, a huge hill-like soul beast appeared above Dancer Hong Yun, emerging from the deep dark clouds. This was an ancient soul beast, it thought of Dancer Hong Yun as prey, opening its mouth and pouncing at her. Dancer Hong Yun&#x27;s pupils shrunk, she gritted her teeth and was about to strike. At this time, Thousand Transformations&#x27; will spoke: &quot;Let me handle it, Hong Yun, just advance.&quot; Dancer Hong Yun heard this and became overjoyed, she listened to him. Dancing red cloud did not stop at all, it continued forward without changing directions. The rank eight Immortal Gu activated, as a strange resonance targeted the ancient soul beast. The ancient soul beast opened its mouth, its huge body covered Dancer Hong Yun under its shadow, but at the crucial moment, its attack stopped eerily. Next, its head exploded as a monkey jumped out, its claws turned into vines, its fur turned into grass, and from its flesh, countless crocodiles jumped out.</p>
-<p>At once, the ancient soul beast broke apart and turned into countless random things. Next, they fell from the sky, it was like a drizzle. &quot;So, so impressive, this is the power of rank eight mutation Immortal Gu?&quot; Looking back, Dancer Hong Yun was filled with shock. Killing an ancient desolate beast like killing a chicken. It was too simple. Dancer Hong Yun was aware that if she had to act personally, she would need to fight for a hundred rounds to force this ancient soul beast to retreat, if she was lucky, she might be able to kill it. Once the ancient soul beast died, the ancient soul beasts near its territory became stirred up, they emerged from the dark clouds. Thousand Transformations&#x27; will snorted coldly, he stopped concealing it as the rank eight Immortal Gu aura leaked out. Feeling this aura, many ancient soul beasts returned to their hiding spots in the dark clouds, they did not want to mess with this troublesome foe. Of course, a portion of the ancient soul beasts still wanted to attack Dancer Hong Yun, they were not deterred. This was not a rank eight Gu Immortal&#x27;s aura, after all, it was just a rank eight Immortal Gu. Soul beasts did not have high intelligence, but after killing all the ancient soul beasts that attacked, Dancer Hong Yun felt relieved and increasingly relaxed. After experiencing her power, the remaining ancient soul beasts left her alone. These wild soul beasts had survival instincts, after feeling a life-threatening danger, they would choose to back off. Roar—! Just as Dancer Hong Yun relaxed her mind slightly, a loud beast roar resounded in her ears like thunder. A huge lion with grey-white ghost wings on its back pounced at her fiercely. Seeing this, Dancer Hong Yun&#x27;s heart shook as she shouted: &quot;Oh no, this is a green claw ghost winged lion, an immemorial desolate beast!!&quot;</p>
+<p>A beautiful red cloud was flying in the sky.</p>
+<p>&quot;Green ghost desert is ahead.&quot; Dancer Hong Yun lay down on her red cloud as she shut her eyes in a relaxed manner.</p>
+<p>She had a curvy body and was wearing a red dancing dress with yellow threads, her belly was exposed as well as her arms and legs.</p>
+<p>There were golden jade bracelets on her wrists and ankles.</p>
+<p>On her fingers, there were many jeweled rings, blue, green, and red, enhancing one another&#x27;s beauty.</p>
+<p>Her eyes had a deep gaze, her brows were thick and long, there was a faint green light in her eyes, even though they were half closed, she was still very alluring.</p>
+<p>A translucent red veil was covering half her face, her tall nose and red lips were covered by the veil, it made people have the urge to explore what was truly behind that veil.</p>
+<p>Dancer Hong Yun, she was a seductive rank seven female Gu Immortal.</p>
+<p>She was once a demoness that roamed Western Desert, but unfortunately she trifled with a righteous path rank eight great expert, during the critical moment, Thousand Transformations Ancestor saved her.</p>
+<p>Using that opportunity, Dancer Hong Yun became one of Thousand Transformations Ancestor&#x27;s concubines.</p>
+<p>But unfortunately, she was not his type, even though she was very beautiful and sexy, her status was lower than Fairy Cui Bo in Thousand Transformations Ancestor&#x27;s heart.</p>
+<p>Wild winds were blowing by her ears, the red cloud was soft like cotton but also very bouncy, it was very comfortable for Dancer Hong Yun to lie down on it.</p>
+<p>This was Dancer Hong Yun&#x27;s signature method, immortal killer move — Dancing Red Cloud.</p>
+<p>Even though she did not normally have a good relationship with Fairy Cui Bo, they even competed very fiercely in secret, Fairy Cui Bo was in trouble now, Dancer Hong Yun had to go rescue her using her fastest method.</p>
+<p>She was unwilling, of course, but now, there was Thousand Transformations Ancestor&#x27;s will with her.</p>
+<p>This will was here not only to help Dancer Hong Yun, but also to supervise her.</p>
+<p>As long as this will was around, Dancer Hong Yun would need to do everything to save Fairy Cui Bo.</p>
+<p>The red cloud traveled along the way, arriving in the sky above green ghost desert, soon, the weather changed.</p>
+<p>Dark clouds started appearing.</p>
+<p>Once she entered green ghost desert, dark clouds joined together and became even thicker, covering the sky entirely.</p>
+<p>Ordinary deserts were hot and open.</p>
+<p>But in green ghost desert, there was barely any sunlight, it was dark and gloomy.</p>
+<p>There were many trees in this desert.</p>
+<p>Ghost crying trees were one of the types that had the highest numbers.</p>
+<p>This ghost crying tree was very twisted in shape and full of natural holes inside. It had deep tree bark markings, resembling the faces of crying humans.</p>
+<p>Every time the wind blew on the ghost crying tree, it would shake slightly and emit a shrill scream, or terrifying cry.</p>
+<p>Even during the day, this place was cold and dark, soul beasts roamed freely. When it was night time, cold bone-chilling winds would blow as countless ghosts wandered.</p>
+<p>Dancer Hong Yun rode on her dancing red cloud as she moved past the dark clouds with a repressed feeling.</p>
+<p>She was no longer as relaxed as before, she sat cross-legged and opened her eyes, staying vigilant at all times.</p>
+<p>Green ghost desert was a famous place of danger in Western Desert.</p>
+<p>It was related to a Demon Venerable in history.</p>
+<p>That was the famed Spectral Soul Demon Venerable.</p>
+<p>Before Spectral Soul Demon Venerable became a venerable, he had fought with a super clan here, he murdered all of the Gu Immortals in this Western Desert wood path clan overlord that were here.</p>
+<p>The aftermath of the battle turned area this into green ghost desert.</p>
+<p>This place seemed to be filled with the hatred and anger of the losers, they were filled with unhappiness and grief towards their horrible fate.</p>
+<p>This was an ominous land.</p>
+<p>There were a vast number of soul beasts living here. Even immemorial soul beasts were not rare.</p>
+<p>After a hundred thousand years, there were many Western Desert Gu Immortals who died here.</p>
+<p>Dancer Hong Yun had the guts to travel here, it was not because of her rank seven cultivation level or battle strength, it was because she had Thousand Transformations Ancestor&#x27;s will and rank eight Immortal Gu.</p>
+<p>And her travel route was just a corner of green ghost desert, she did not truly enter it deeply.</p>
+<p>Thus, she chose to advance like this.</p>
+<p>The cloud continued flying ahead, across the dark sky, it was very eye-catching.</p>
+<p>Howl—!</p>
+<p>There was a long howl resembling a wolf&#x27;s cry, a huge hill-like soul beast appeared above Dancer Hong Yun, emerging from the deep dark clouds.</p>
+<p>This was an ancient soul beast, it thought of Dancer Hong Yun as prey, opening its mouth and pouncing at her.</p>
+<p>Dancer Hong Yun&#x27;s pupils shrunk, she gritted her teeth and was about to strike.</p>
+<p>At this time, Thousand Transformations&#x27; will spoke: &quot;Let me handle it, Hong Yun, just advance.&quot;</p>
+<p>Dancer Hong Yun heard this and became overjoyed, she listened to him.</p>
+<p>Dancing red cloud did not stop at all, it continued forward without changing directions.</p>
+<p>The rank eight Immortal Gu activated, as a strange resonance targeted the ancient soul beast.</p>
+<p>The ancient soul beast opened its mouth, its huge body covered Dancer Hong Yun under its shadow, but at the crucial moment, its attack stopped eerily.</p>
+<p>Next, its head exploded as a monkey jumped out, its claws turned into vines, its fur turned into grass, and from its flesh, countless crocodiles jumped out.</p>
+<p>At once, the ancient soul beast broke apart and turned into countless random things.</p>
+<p>Next, they fell from the sky, it was like a drizzle.</p>
+<p>&quot;So, so impressive, this is the power of rank eight mutation Immortal Gu?&quot; Looking back, Dancer Hong Yun was filled with shock.</p>
+<p>Killing an ancient desolate beast like killing a chicken.</p>
+<p>It was too simple.</p>
+<p>Dancer Hong Yun was aware that if she had to act personally, she would need to fight for a hundred rounds to force this ancient soul beast to retreat, if she was lucky, she might be able to kill it.</p>
+<p>Once the ancient soul beast died, the ancient soul beasts near its territory became stirred up, they emerged from the dark clouds.</p>
+<p>Thousand Transformations&#x27; will snorted coldly, he stopped concealing it as the rank eight Immortal Gu aura leaked out.</p>
+<p>Feeling this aura, many ancient soul beasts returned to their hiding spots in the dark clouds, they did not want to mess with this troublesome foe.</p>
+<p>Of course, a portion of the ancient soul beasts still wanted to attack Dancer Hong Yun, they were not deterred.</p>
+<p>This was not a rank eight Gu Immortal&#x27;s aura, after all, it was just a rank eight Immortal Gu.</p>
+<p>Soul beasts did not have high intelligence, but after killing all the ancient soul beasts that attacked, Dancer Hong Yun felt relieved and increasingly relaxed.</p>
+<p>After experiencing her power, the remaining ancient soul beasts left her alone.</p>
+<p>These wild soul beasts had survival instincts, after feeling a life-threatening danger, they would choose to back off.</p>
+<p>Roar—!</p>
+<p>Just as Dancer Hong Yun relaxed her mind slightly, a loud beast roar resounded in her ears like thunder.</p>
+<p>A huge lion with grey-white ghost wings on its back pounced at her fiercely.</p>
+<p>Seeing this, Dancer Hong Yun&#x27;s heart shook as she shouted: &quot;Oh no, this is a green claw ghost winged lion, an immemorial desolate beast!!&quot;</p>

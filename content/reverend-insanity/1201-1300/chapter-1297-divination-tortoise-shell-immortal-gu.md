@@ -5,7 +5,91 @@ weight = 1297
 chapter = 1297
 +++
 
-<p>He had first used aurora light, he had bought large numbers of dazzling light Gu to increase the aurora light in his immortal aperture. The more intense the aurora light, the more flowing light fruits could be formed. And rank eight attitude Gu fed on these fruits. Light shine fungus was a type of desolate plant that provided light which was not like the multicolored aurora light. But this was not absolute. Humans had the highest intelligence, they were most skilled in adapting flexibly. There were methods to modify and graft plants in this world. Wood path Gu Immortals excelled at this. Each path has its own specialties, and wood path Gu Immortals were often skilled at managing immortal apertures. Thus, if Fang Yuan brought in light shine fungi, he might be able to modify them in the future using wood path methods into aurora light shine fungi, it was possible. Other than attitude Gu, there was wisdom sword Immortal Gu. Wisdom sword Immortal Gu fed on multicolored overlord flowers. If Fang Yuan wanted to plant multicolored overlord flowers on a large scale, he needed to fulfill three conditions. Illumination, sweet scents and pearl soil. The latter two were easy to achieve, but illumination was hard. Fang Yuan&#x27;s immortal aperture had light path dao marks, and he had also annexed a light path blessed land, but it was far from Fang Yuan&#x27;s goal. If he used light shine fungi, he would be able to solve the problem of mass production of multicolored overlord flowers. But there was an uncertainty in this. Light shine fungi grew in the deep sea, could they still survive in other environments? &quot;This should not be a problem, after all, light shine fungus is a desolate plant.&quot; &quot;Even ignoring aurora lights, earlier, I plundered Liu tribe&#x27;s jade light pit, I gained a lot of replenishment. Even though I am still not at the required standard, I am close.&quot; &quot;But multicolored overlord flowers are different, their scale is far from optimal. I have too few light path dao marks currently, and not all of my light path dao marks can gather at the multicolored overlord flowers. My other lifeforms need light too.&quot; &quot;Oh, that&#x27;s right, I have transformation path dao marks, in crucial moments, I can convert them to light path dao marks temporarily.&quot; While Fang Yuan was thinking, Tong Hua spoke: &quot;I am willing to trade these desolate plant light shine fungi for storey building water elephants, three of them.&quot; Once she said that, a Gu Immortal responded: &quot;Storey building water elephants... I have a few, how many storeys do you want from the water elephants?&quot; Storey building water elephants were a special type of beast in Eastern Sea, they had varying sizes, with white tusks and blue skin. Water elephants with one storey buildings were like boats and had blue jade exoskeleton on their backs resembling buildings. Two</p>
-<p>storey building water elephants were larger, with two floors of blue jade exoskeleton on their backs. Similarly, six storey building water elephants had wide backs and were like huge boats, they were desolate beasts. Seven storey building water elephants were ancient desolate beasts, and eight storey building water elephants were immemorial desolate beasts, they were extremely rare. Nine storey building water elephants did not exist. Be it beasts or plants, or even variant humans, there were no rank nine versions of them. Among humans, there were only ten of them, rank nine Gu Venerables, they were unique among all lifeforms. Tong Hua showed the scale of her light shine fungi and told the Gu Immortals that she wanted a total of three six storey building water elephants. This was not expensive, it was very standard. But that Gu Immortal frowned: &quot;I only have one six storey building water elephant, the light shine fungi can be split up, would you like to trade?&quot; Tong Hua hesitated. He might not be speaking the truth. After considering it, Tong Hua nodded: &quot;Then let&#x27;s trade.&quot; Thus, the first deal was made, both sides transacted quickly. &quot;I would like some light shine fungi, but I do not have storey building water elephants, do you accept immortal essence stones?&quot; Fang Yuan asked. Tong Hua shook her head, but she did not reject him entirely: &quot;If there are no storey building water elephants, never mind. But my light shine fungi will be sold in treasure yellow heaven, you can buy them then.&quot; In fact, Eastern Sea had mostly water path Gu Immortals. And light shine fungi suited Eastern Sea Gu Immortals a lot. Like Wu Yi Hai for example, his immortal aperture was a sea. Tong Hua was only testing the waters with this new discovery, seeing if she could gain benefits from it. As for selling them for immortal essence stones, Tong Hua did not want that. Because she did not know the market price. This was a new finding, she was selling it for the first time, Tong Hua did not know its value. However, she was very expectant about it. Thus, she rejected Fang Yuan without hesitation. What if this light shine fungus was very popular in treasure yellow heaven, then wouldn&#x27;t her sale price be at a loss now? But if she sold it for too high of a price, the other party would not trade. Treasure yellow heaven was the best place for that. Tong Hua did not want to sell it, Fang Yuan was helpless. But he understood her. This was a new desolate plant, she could use some methods to raise the prices later. Even though this world&#x27;s economy was not developed, Gu Immortals were astute people, they knew how to jack up prices. Especially this light shine fungus, in the world, currently only Tong Hua had it. If it were Fang Yuan, he would also elevate the price at the initial stage to earn a huge profit.</p>
-<p>This light shine fungus was just a rank six desolate plant, once it was in the market for some time, people would research about it, and Tong Hua&#x27;s monopoly would be gone. After all, Eastern Sea was so big, light shine fungi would not grow in only one place. Gu Immortals could create a method to seek out light shine fungi after some research. That would cause the supply of light shine fungi to rise sharply. Seeing that no one else was interested, Tong Hua stepped down. Next, the second Gu Immortal went up onto the platform. This was the rule of the trading convention. In each round, the Gu Immortals would go up in order that was decided earlier. They could only put up one resource each round. This ensured relative fairness. As for Fang Yuan, a newly joined member, he could also transact and go on the platform, but he was the last person. &quot;This is marrow sucking stone, rank seven immortal material, I want some thousand year floating wood.&quot; The Gu Immortal who went up expressed himself quickly, explaining his item. Once he said that, he displayed it. This marrow sucking stone was black and looked like an ordinary rock by the beach. But in fact, as long as a life form that had bone marrow got close to it, they would be sucked inside. Thus, marrow sucking stone was known as a demon stone. Demon stone was a name coined by mermen. Mermen were a type of variant human, most mermen in the world lived in Eastern Sea. Mermen could live underwater and breathe, when they met marrow sucking stones, they had suffered from them, thus, they feared and called them demon stones. In Eastern Sea&#x27;s history, there were some merman tribes who treated these demon stones as deities to worship. But to Gu Immortals, this marrow sucking stone was just an immortal material. This transaction was successful as well. Thousand year floating wood might be rare in the market, but the Gu Immortals here were all affluent, otherwise, they would not have gathered for this trading convention. Birds of a feather flock together, Gu Immortals who associated with Miao Ming Shen were not simple. One could say, this small trading convention was a rare gathering of experts in Eastern Sea. After the second Gu Immortal, Tu Tou Tuo went up. &quot;I have an ancient desolate beast queen toad. It can command all huge toads at rank six level and below. If raised well, it can nurture enslavement path Immortal Gu as well. Anyone interested?&quot; The queen toad had a lot of enslavement path dao marks. But Tu Tou Tuo&#x27;s transaction failed. The fourth Gu Immortal: &quot;I am looking for clues to qi sea. Anyone know how to find qi sea and how to get in? I am willing to pay a high price for relevant information.&quot; It was also possible to trade information, but the Gu Immortals present stayed silent. This transaction also failed. Qi sea was a special and mysterious sea area in Eastern Sea.</p>
-<p>The Gu Immortals present might be unsure of it, or some might know but did not want to trade. The Gu Immortals went up one by one. The first round was about to end. Fang Yuan was the final one. And Miao Ming Shen was second last. He went up: &quot;I have a rank seven divination tortoise shell Immortal Gu, anyone wants to trade?&quot; Fang Yuan heard this and his eyes shined!</p>
+<p>Fang Yuan needed light.</p>
+<p>He had first used aurora light, he had bought large numbers of dazzling light Gu to increase the aurora light in his immortal aperture. The more intense the aurora light, the more flowing light fruits could be formed. And rank eight attitude Gu fed on these fruits.</p>
+<p>Light shine fungus was a type of desolate plant that provided light which was not like the multicolored aurora light.</p>
+<p>But this was not absolute.</p>
+<p>Humans had the highest intelligence, they were most skilled in adapting flexibly. There were methods to modify and graft plants in this world.</p>
+<p>Wood path Gu Immortals excelled at this.</p>
+<p>Each path has its own specialties, and wood path Gu Immortals were often skilled at managing immortal apertures.</p>
+<p>Thus, if Fang Yuan brought in light shine fungi, he might be able to modify them in the future using wood path methods into aurora light shine fungi, it was possible.</p>
+<p>Other than attitude Gu, there was wisdom sword Immortal Gu.</p>
+<p>Wisdom sword Immortal Gu fed on multicolored overlord flowers.</p>
+<p>If Fang Yuan wanted to plant multicolored overlord flowers on a large scale, he needed to fulfill three conditions. Illumination, sweet scents and pearl soil.</p>
+<p>The latter two were easy to achieve, but illumination was hard.</p>
+<p>Fang Yuan&#x27;s immortal aperture had light path dao marks, and he had also annexed a light path blessed land, but it was far from Fang Yuan&#x27;s goal.</p>
+<p>If he used light shine fungi, he would be able to solve the problem of mass production of multicolored overlord flowers.</p>
+<p>But there was an uncertainty in this.</p>
+<p>Light shine fungi grew in the deep sea, could they still survive in other environments?</p>
+<p>&quot;This should not be a problem, after all, light shine fungus is a desolate plant.&quot;</p>
+<p>&quot;Even ignoring aurora lights, earlier, I plundered Liu tribe&#x27;s jade light pit, I gained a lot of replenishment. Even though I am still not at the required standard, I am close.&quot;</p>
+<p>&quot;But multicolored overlord flowers are different, their scale is far from optimal. I have too few light path dao marks currently, and not all of my light path dao marks can gather at the multicolored overlord flowers. My other lifeforms need light too.&quot;</p>
+<p>&quot;Oh, that&#x27;s right, I have transformation path dao marks, in crucial moments, I can convert them to light path dao marks temporarily.&quot;</p>
+<p>While Fang Yuan was thinking, Tong Hua spoke: &quot;I am willing to trade these desolate plant light shine fungi for storey building water elephants, three of them.&quot;</p>
+<p>Once she said that, a Gu Immortal responded: &quot;Storey building water elephants... I have a few, how many storeys do you want from the water elephants?&quot;</p>
+<p>Storey building water elephants were a special type of beast in Eastern Sea, they had varying sizes, with white tusks and blue skin. Water elephants with one storey buildings were like boats and had blue jade exoskeleton on their backs resembling buildings. Two storey building water elephants were larger, with two floors of blue jade exoskeleton on their backs.</p>
+<p>Similarly, six storey building water elephants had wide backs and were like huge boats, they were desolate beasts. Seven storey building water elephants were ancient desolate beasts, and eight storey building water elephants were immemorial desolate beasts, they were extremely rare. Nine storey building water elephants did not exist.</p>
+<p>Be it beasts or plants, or even variant humans, there were no rank nine versions of them.</p>
+<p>Among humans, there were only ten of them, rank nine Gu Venerables, they were unique among all lifeforms.</p>
+<p>Tong Hua showed the scale of her light shine fungi and told the Gu Immortals that she wanted a total of three six storey building water elephants.</p>
+<p>This was not expensive, it was very standard.</p>
+<p>But that Gu Immortal frowned: &quot;I only have one six storey building water elephant, the light shine fungi can be split up, would you like to trade?&quot;</p>
+<p>Tong Hua hesitated.</p>
+<p>He might not be speaking the truth.</p>
+<p>After considering it, Tong Hua nodded: &quot;Then let&#x27;s trade.&quot;</p>
+<p>Thus, the first deal was made, both sides transacted quickly.</p>
+<p>&quot;I would like some light shine fungi, but I do not have storey building water elephants, do you accept immortal essence stones?&quot; Fang Yuan asked.</p>
+<p>Tong Hua shook her head, but she did not reject him entirely: &quot;If there are no storey building water elephants, never mind. But my light shine fungi will be sold in treasure yellow heaven, you can buy them then.&quot;</p>
+<p>In fact, Eastern Sea had mostly water path Gu Immortals.</p>
+<p>And light shine fungi suited Eastern Sea Gu Immortals a lot. Like Wu Yi Hai for example, his immortal aperture was a sea.</p>
+<p>Tong Hua was only testing the waters with this new discovery, seeing if she could gain benefits from it.</p>
+<p>As for selling them for immortal essence stones, Tong Hua did not want that.</p>
+<p>Because she did not know the market price.</p>
+<p>This was a new finding, she was selling it for the first time, Tong Hua did not know its value.</p>
+<p>However, she was very expectant about it.</p>
+<p>Thus, she rejected Fang Yuan without hesitation. What if this light shine fungus was very popular in treasure yellow heaven, then wouldn&#x27;t her sale price be at a loss now?</p>
+<p>But if she sold it for too high of a price, the other party would not trade. Treasure yellow heaven was the best place for that.</p>
+<p>Tong Hua did not want to sell it, Fang Yuan was helpless.</p>
+<p>But he understood her.</p>
+<p>This was a new desolate plant, she could use some methods to raise the prices later.</p>
+<p>Even though this world&#x27;s economy was not developed, Gu Immortals were astute people, they knew how to jack up prices.</p>
+<p>Especially this light shine fungus, in the world, currently only Tong Hua had it.</p>
+<p>If it were Fang Yuan, he would also elevate the price at the initial stage to earn a huge profit.</p>
+<p>This light shine fungus was just a rank six desolate plant, once it was in the market for some time, people would research about it, and Tong Hua&#x27;s monopoly would be gone.</p>
+<p>After all, Eastern Sea was so big, light shine fungi would not grow in only one place.</p>
+<p>Gu Immortals could create a method to seek out light shine fungi after some research. That would cause the supply of light shine fungi to rise sharply.</p>
+<p>Seeing that no one else was interested, Tong Hua stepped down.</p>
+<p>Next, the second Gu Immortal went up onto the platform.</p>
+<p>This was the rule of the trading convention.</p>
+<p>In each round, the Gu Immortals would go up in order that was decided earlier. They could only put up one resource each round.</p>
+<p>This ensured relative fairness.</p>
+<p>As for Fang Yuan, a newly joined member, he could also transact and go on the platform, but he was the last person.</p>
+<p>&quot;This is marrow sucking stone, rank seven immortal material, I want some thousand year floating wood.&quot; The Gu Immortal who went up expressed himself quickly, explaining his item.</p>
+<p>Once he said that, he displayed it.</p>
+<p>This marrow sucking stone was black and looked like an ordinary rock by the beach. But in fact, as long as a life form that had bone marrow got close to it, they would be sucked inside.</p>
+<p>Thus, marrow sucking stone was known as a demon stone.</p>
+<p>Demon stone was a name coined by mermen.</p>
+<p>Mermen were a type of variant human, most mermen in the world lived in Eastern Sea.</p>
+<p>Mermen could live underwater and breathe, when they met marrow sucking stones, they had suffered from them, thus, they feared and called them demon stones.</p>
+<p>In Eastern Sea&#x27;s history, there were some merman tribes who treated these demon stones as deities to worship.</p>
+<p>But to Gu Immortals, this marrow sucking stone was just an immortal material.</p>
+<p>This transaction was successful as well.</p>
+<p>Thousand year floating wood might be rare in the market, but the Gu Immortals here were all affluent, otherwise, they would not have gathered for this trading convention.</p>
+<p>Birds of a feather flock together, Gu Immortals who associated with Miao Ming Shen were not simple.</p>
+<p>One could say, this small trading convention was a rare gathering of experts in Eastern Sea.</p>
+<p>After the second Gu Immortal, Tu Tou Tuo went up.</p>
+<p>&quot;I have an ancient desolate beast queen toad. It can command all huge toads at rank six level and below. If raised well, it can nurture enslavement path Immortal Gu as well.</p>
+<p>Anyone interested?&quot;</p>
+<p>The queen toad had a lot of enslavement path dao marks.</p>
+<p>But Tu Tou Tuo&#x27;s transaction failed.</p>
+<p>The fourth Gu Immortal: &quot;I am looking for clues to qi sea. Anyone know how to find qi sea and how to get in? I am willing to pay a high price for relevant information.&quot;</p>
+<p>It was also possible to trade information, but the Gu Immortals present stayed silent.</p>
+<p>This transaction also failed.</p>
+<p>Qi sea was a special and mysterious sea area in Eastern Sea.</p>
+<p>The Gu Immortals present might be unsure of it, or some might know but did not want to trade.</p>
+<p>The Gu Immortals went up one by one.</p>
+<p>The first round was about to end.</p>
+<p>Fang Yuan was the final one.</p>
+<p>And Miao Ming Shen was second last.</p>
+<p>He went up: &quot;I have a rank seven divination tortoise shell Immortal Gu, anyone wants to trade?&quot;</p>
+<p>Fang Yuan heard this and his eyes shined!</p>

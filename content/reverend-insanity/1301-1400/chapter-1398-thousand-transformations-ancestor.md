@@ -5,8 +5,117 @@ weight = 1398
 chapter = 1398
 +++
 
-<p>The sun was blazing, the rays were like countless arrows shooting down at this majestic desert. On this desert, there were countless sand statues. These statues made from sand had the forms of humans or beasts, some were fighting while some were lying down, looking like they were on their final breaths. There were larger and smaller sand statues, but the smallest one was tens of feet tall. Countless statues formed a forest of sand statues, it was a grand sight. It was the myriad statue desert! This desert was huge, there were countless sand statues in it, everyone in Western Desert&#x27;s Gu Immortal world knew about it. It had a long history, it was formed during the Olden Antiquity Era, and had been around for over a million years. This desert was formed from a particularly important situation in human history. It was during Reckless Savage Demon Venerable&#x27;s era, a huge battle was fought here between humans and variant humans, after a hundred days and night, rivers of blood flowed, almost turning into a sea. During that era, transformation path was the mainstream path. In the battle, humans won a pyrrhic victory, be it the humans or the variant humans, large numbers of Gu Immortals died here. Their immortal fetuses formed into blessed lands, their dao marks spread out and changed the environment. Gradually, this became the myriad statue desert. The sand moved on its own, growing like trees at a slow rate each year, eventually turning into huge statues. This was the former location of the great battle where the different races fought from day until night, countless life forms died. But fortune and disaster coexisted, this place became a sanctuary for cultivation as it was now filled with resources. Every sand statue was an immortal material filled with transformation path dao marks if it was at least sixty feet tall. There were no longer any blessed lands here, after a million years, these blessed lands were either destroyed by tribulations or taken by Gu Immortals. But here, there were countless wild Gu worms and even wild Immortal Gu. Nobody would step here rashly. Because the environment was too dense with dao marks, mortals could not traverse the desert, it was too dangerous for them. As for Western Desert Gu Immortals, they would also make a detour when they came here. Because of one person. Thousand Transformations Ancestor! This rank eight Gu Immortal, specialized in transformation path, had been here for a thousand years. The might of rank eight deterred everyone from antagonizing him.</p>
-<p>Myriad statue desert was Thousand Transformations Ancestor&#x27;s territory, any Gu Immortal who entered without his permission would need to prepare to face the fury of a rank eight. Deep below the desert, in Myriad Statue Palace. Deep within the palace, in an eerie dark corner, there was a painful cry that could be heard. &quot;Ahhhhhh—!&quot; Thousand Transformations Ancestor raised his head and screamed, he seemed to be in great pain, his expression was terrifying. Every time he shouted, sound waves could be seen spreading outwards. But when these sound waves landed on the palace walls, there would be a veil of light that absorbed all the sound waves rapidly. Because of these walls isolating him, all of the commotion from Thousand Transformations Ancestor could not be felt outside. Pain! Intense pain! An unbearable pain was assaulting Thousand Transformations Ancestor&#x27;s mind and body. His forehead had popping veins, he could not take it anymore, he rolled around the ground in pain. If any other Gu Immortal saw this, they would be deeply shocked. What was the reason that made Thousand Transformations Ancestor suffer such intense torture, to have lost all of his rank eight demeanor? Cling, clang! More than ten thick chains coiled around Thousand Transformations Ancestor&#x27;s body, his four limbs were connected to chains that stabbed deeply into the surrounding walls. Seeing this, Thousand Transformations Ancestor was actually imprisoned?! &quot;No, this cannot continue, I am going to go crazy completely, the intense pain will engulf all my reason and make me a lunatic! Rank eight myriad tribulation, even the first one is so terrifying, how can I deal with the next two?&quot; Damn it! The final bit of clarity in Thousand Transformations Ancestor&#x27;s eyes struggled. Using this last bit of sanity, Thousand Transformations Ancestor made his choice! Immortal killer move — Cutting Flesh Transformation! He activated his killer move, he was extremely familiar with this move, at the crucial moment, even though he was in deep pain, the activation did not fail. This rank eight immortal killer move had grand aura. Thousand Transformations Ancestor&#x27;s immortal body started to expand. Like he was a balloon, he became larger and larger, from a muscular middle aged man into a round and fat meatball. The fat Thousand Transformations Ancestor shook his body as soft sounds could be heard from within him. Swoosh swoosh swoosh... Along with the sound, a meat lump appeared on the side of his neck. The meat lump became larger and larger, it inflated like a balloon. His pain intensified! Thousand Transformations Ancestor gritted his teeth, his face had swollen up, his eyes could not be seen anymore.</p>
-<p>Guh. Soon, after the meat lump on his neck grew to the size of a face, it reached its limits and exploded. The meat lump exploded as yellow pus splattered, a year beast jumped out and landed on the ground. Woof woof woof! After this year beast landed, it started to bark, it was a dog year beast. And its aura was not weak, it was a desolate year beast. After the dog year beast landed on the ground, Thousand Transformations Ancestor felt a bit of relief. It was as if he was carrying a mountain on his back, and now, a rock had been lifted off that mountain. Swoosh swoosh swoosh... Next, on Thousand Transformations Ancestor&#x27;s body, more meat lumps appeared. Puff puff puff. In a short time, these meat lumps expanded and exploded, as pus oozed out and year beasts appeared. Chicken, monkey, sheep, rabbit, all sorts of year beasts appeared. These year beasts were not just desolate beast level, there were also some ancient year beasts. After some time, the year beasts gathered and attacked Thousand Transformations Ancestor! Thousand Transformations Ancestor was not surprised, his expression became more relaxed instead. His pain was greatly reduced, even though it was still painful, it was at a bearable level now. Against the attack of a dozen year beasts, Thousand Transformations Ancestor snorted as he willed. Cling clang! Countless thick chains shot out from the surrounding walls at lightning speed. In the blink of an eye, all of the year beasts were captured and suppressed, no matter how they struggled inside the palace. Thousand Transformations Ancestor let out a breath of air: &quot;I can finally catch a breather.&quot; He grabbed the snake year beast closest to him and observed it with his methods. The snake year beast continued to hiss as it exposed its tongue, it wanted to bite Thousand Transformations Ancestor but was restrained and could not move. A moment later, Thousand Transformations Ancestor&#x27;s expression was unchanged, but he was deeply shocked. &quot;I used all my methods earlier, but this snake year beast still has such great animosity against me, it wants me dead.&quot; &quot;My cutting flesh transformation is one of the styles of an immortal killer move from Reckless Savage true inheritance, suicide transformation. Whenever I use it, life forms would be produced from my body, regardless of form, they will be manipulated like my limbs, I can use them freely. Because they are a portion of my body to begin with.&quot; &quot;But these year beasts were produced from my body, yet I cannot control them, even with all my methods, they are useless.&quot;</p>
-<p>&quot;Such an amazing myriad tribulation!&quot; Thousand Transformations Ancestor&#x27;s forehead produced a drop of sweat. He thought about his tribulation half a month ago, he was still feeling lingering fear from it. Rank eight Gu Immortals had to go through three myriad tribulations. Thousand Transformations Ancestor had just gone through the first. &quot;If not for this Immortal Gu House left behind by Reckless Savage Demon Venerable, I would not be able to survive the first myriad tribulation at all. Even though I passed it now, I am still severely injured, I had to use cutting flesh transformation to cut my losses short.&quot; Thousand Transformations Ancestor wanted to find some other way around it, but after half a month, he reached his limit and could not endure it anymore. Without a choice, he could only use cutting flesh transformation to discard a portion of his immortal body, and get rid of the part of his body that was heavily injured. This time, he met with a time path myriad tribulation, the injuries on him were all of time path dao marks. Thousand Transformations Ancestor got rid of all these time path dao marks using cutting flesh transformation, abandoning them. This way, the cutting flesh transformation turned them into year beasts. And because they were filled with heaven&#x27;s will, these year beasts were not under his control, they were his enemies. Thousand Transformations Ancestor felt great loss. The costs were too severe. Not just the near catastrophic damage to his immortal aperture from the myriad tribulation. Looking at the dao marks he lost from cutting flesh transformation, not only did he lose the time path dao marks, he even lost his own transformation path dao marks. The dao marks losses were too huge. Thousand Transformations Ancestor counted, after this myriad tribulation, not only did he not have any growth in dao marks, he even made a small loss instead! &quot;This means, I was better off not going through the tribulation?&quot; Thinking of this, the experienced Thousand Transformations Ancestor&#x27;s heart felt some bitterness. He sighed deeply. It could not be helped. In the past, he had cultivated boldly and advanced quickly, facing his myriad tribulation, he had stalled it until recently, when he could no longer stall it anymore. Even though he passed the myriad tribulation, Thousand Transformations Ancestor&#x27;s foundation did not grow, he even became weaker in terms of dao marks. &quot;I was wrong.&quot; &quot;A thousand years ago, by relying on this Reckless Savage true inheritance, I thought I would progress unhindered.&quot; &quot;Earthly calamities, heavenly tribulations, grand tribulations, I got through all of them easily, but the myriad tribulation is a completely different story!&quot; &quot;I underestimated the myriad tribulation&#x27;s power. These last years, I had unknowingly gotten more arrogant, this injury is both a blessing and a disaster to me.&quot;</p>
-<p>Thousand Transformations Ancestor was a rank eight expert, he was naturally an incredible person. He recalled his experiences and reflected on himself after this severe loss. Right at this time, outside the palace, a female immortal&#x27;s voice could be heard: &quot;Lord husband, something happened. Sister Cui Bo&#x27;s life tablet Gu was broken, her soul lantern Gu has turned dim. She went to translocation desert, but none of us can contact her now, this is too important, I had no choice but to inform you!&quot;</p>
+<p>The sun was blazing, the rays were like countless arrows shooting down at this majestic desert.</p>
+<p>On this desert, there were countless sand statues.</p>
+<p>These statues made from sand had the forms of humans or beasts, some were fighting while some were lying down, looking like they were on their final breaths.</p>
+<p>There were larger and smaller sand statues, but the smallest one was tens of feet tall.</p>
+<p>Countless statues formed a forest of sand statues, it was a grand sight.</p>
+<p>It was the myriad statue desert!</p>
+<p>This desert was huge, there were countless sand statues in it, everyone in Western Desert&#x27;s Gu Immortal world knew about it.</p>
+<p>It had a long history, it was formed during the Olden Antiquity Era, and had been around for over a million years.</p>
+<p>This desert was formed from a particularly important situation in human history.</p>
+<p>It was during Reckless Savage Demon Venerable&#x27;s era, a huge battle was fought here between humans and variant humans, after a hundred days and night, rivers of blood flowed, almost turning into a sea.</p>
+<p>During that era, transformation path was the mainstream path.</p>
+<p>In the battle, humans won a pyrrhic victory, be it the humans or the variant humans, large numbers of Gu Immortals died here.</p>
+<p>Their immortal fetuses formed into blessed lands, their dao marks spread out and changed the environment.</p>
+<p>Gradually, this became the myriad statue desert. The sand moved on its own, growing like trees at a slow rate each year, eventually turning into huge statues.</p>
+<p>This was the former location of the great battle where the different races fought from day until night, countless life forms died. But fortune and disaster coexisted, this place became a sanctuary for cultivation as it was now filled with resources.</p>
+<p>Every sand statue was an immortal material filled with transformation path dao marks if it was at least sixty feet tall.</p>
+<p>There were no longer any blessed lands here, after a million years, these blessed lands were either destroyed by tribulations or taken by Gu Immortals.</p>
+<p>But here, there were countless wild Gu worms and even wild Immortal Gu.</p>
+<p>Nobody would step here rashly.</p>
+<p>Because the environment was too dense with dao marks, mortals could not traverse the desert, it was too dangerous for them.</p>
+<p>As for Western Desert Gu Immortals, they would also make a detour when they came here.</p>
+<p>Because of one person.</p>
+<p>Thousand Transformations Ancestor!</p>
+<p>This rank eight Gu Immortal, specialized in transformation path, had been here for a thousand years.</p>
+<p>The might of rank eight deterred everyone from antagonizing him.</p>
+<p>Myriad statue desert was Thousand Transformations Ancestor&#x27;s territory, any Gu Immortal who entered without his permission would need to prepare to face the fury of a rank eight.</p>
+<p>Deep below the desert, in Myriad Statue Palace.</p>
+<p>Deep within the palace, in an eerie dark corner, there was a painful cry that could be heard.</p>
+<p>&quot;Ahhhhhh—!&quot;</p>
+<p>Thousand Transformations Ancestor raised his head and screamed, he seemed to be in great pain, his expression was terrifying.</p>
+<p>Every time he shouted, sound waves could be seen spreading outwards.</p>
+<p>But when these sound waves landed on the palace walls, there would be a veil of light that absorbed all the sound waves rapidly.</p>
+<p>Because of these walls isolating him, all of the commotion from Thousand Transformations Ancestor could not be felt outside.</p>
+<p>Pain!</p>
+<p>Intense pain!</p>
+<p>An unbearable pain was assaulting Thousand Transformations Ancestor&#x27;s mind and body.</p>
+<p>His forehead had popping veins, he could not take it anymore, he rolled around the ground in pain.</p>
+<p>If any other Gu Immortal saw this, they would be deeply shocked. What was the reason that made Thousand Transformations Ancestor suffer such intense torture, to have lost all of his rank eight demeanor?</p>
+<p>Cling, clang!</p>
+<p>More than ten thick chains coiled around Thousand Transformations Ancestor&#x27;s body, his four limbs were connected to chains that stabbed deeply into the surrounding walls.</p>
+<p>Seeing this, Thousand Transformations Ancestor was actually imprisoned?!</p>
+<p>&quot;No, this cannot continue, I am going to go crazy completely, the intense pain will engulf all my reason and make me a lunatic! Rank eight myriad tribulation, even the first one is so terrifying, how can I deal with the next two?&quot;</p>
+<p>Damn it!</p>
+<p>The final bit of clarity in Thousand Transformations Ancestor&#x27;s eyes struggled.</p>
+<p>Using this last bit of sanity, Thousand Transformations Ancestor made his choice!</p>
+<p>Immortal killer move — Cutting Flesh Transformation!</p>
+<p>He activated his killer move, he was extremely familiar with this move, at the crucial moment, even though he was in deep pain, the activation did not fail.</p>
+<p>This rank eight immortal killer move had grand aura.</p>
+<p>Thousand Transformations Ancestor&#x27;s immortal body started to expand.</p>
+<p>Like he was a balloon, he became larger and larger, from a muscular middle aged man into a round and fat meatball.</p>
+<p>The fat Thousand Transformations Ancestor shook his body as soft sounds could be heard from within him.</p>
+<p>Swoosh swoosh swoosh...</p>
+<p>Along with the sound, a meat lump appeared on the side of his neck.</p>
+<p>The meat lump became larger and larger, it inflated like a balloon.</p>
+<p>His pain intensified!</p>
+<p>Thousand Transformations Ancestor gritted his teeth, his face had swollen up, his eyes could not be seen anymore.</p>
+<p>Guh.</p>
+<p>Soon, after the meat lump on his neck grew to the size of a face, it reached its limits and exploded.</p>
+<p>The meat lump exploded as yellow pus splattered, a year beast jumped out and landed on the ground.</p>
+<p>Woof woof woof!</p>
+<p>After this year beast landed, it started to bark, it was a dog year beast.</p>
+<p>And its aura was not weak, it was a desolate year beast.</p>
+<p>After the dog year beast landed on the ground, Thousand Transformations Ancestor felt a bit of relief. It was as if he was carrying a mountain on his back, and now, a rock had been lifted off that mountain.</p>
+<p>Swoosh swoosh swoosh...</p>
+<p>Next, on Thousand Transformations Ancestor&#x27;s body, more meat lumps appeared.</p>
+<p>Puff puff puff.</p>
+<p>In a short time, these meat lumps expanded and exploded, as pus oozed out and year beasts appeared.</p>
+<p>Chicken, monkey, sheep, rabbit, all sorts of year beasts appeared.</p>
+<p>These year beasts were not just desolate beast level, there were also some ancient year beasts.</p>
+<p>After some time, the year beasts gathered and attacked Thousand Transformations Ancestor!</p>
+<p>Thousand Transformations Ancestor was not surprised, his expression became more relaxed instead.</p>
+<p>His pain was greatly reduced, even though it was still painful, it was at a bearable level now.</p>
+<p>Against the attack of a dozen year beasts, Thousand Transformations Ancestor snorted as he willed.</p>
+<p>Cling clang!</p>
+<p>Countless thick chains shot out from the surrounding walls at lightning speed.</p>
+<p>In the blink of an eye, all of the year beasts were captured and suppressed, no matter how they struggled inside the palace.</p>
+<p>Thousand Transformations Ancestor let out a breath of air: &quot;I can finally catch a breather.&quot;</p>
+<p>He grabbed the snake year beast closest to him and observed it with his methods.</p>
+<p>The snake year beast continued to hiss as it exposed its tongue, it wanted to bite Thousand Transformations Ancestor but was restrained and could not move.</p>
+<p>A moment later, Thousand Transformations Ancestor&#x27;s expression was unchanged, but he was deeply shocked.</p>
+<p>&quot;I used all my methods earlier, but this snake year beast still has such great animosity against me, it wants me dead.&quot;</p>
+<p>&quot;My cutting flesh transformation is one of the styles of an immortal killer move from Reckless Savage true inheritance, suicide transformation. Whenever I use it, life forms would be produced from my body, regardless of form, they will be manipulated like my limbs, I can use them freely. Because they are a portion of my body to begin with.&quot;</p>
+<p>&quot;But these year beasts were produced from my body, yet I cannot control them, even with all my methods, they are useless.&quot;</p>
+<p>&quot;Such an amazing myriad tribulation!&quot;</p>
+<p>Thousand Transformations Ancestor&#x27;s forehead produced a drop of sweat.</p>
+<p>He thought about his tribulation half a month ago, he was still feeling lingering fear from it.</p>
+<p>Rank eight Gu Immortals had to go through three myriad tribulations.</p>
+<p>Thousand Transformations Ancestor had just gone through the first.</p>
+<p>&quot;If not for this Immortal Gu House left behind by Reckless Savage Demon Venerable, I would not be able to survive the first myriad tribulation at all. Even though I passed it now, I am still severely injured, I had to use cutting flesh transformation to cut my losses short.&quot;</p>
+<p>Thousand Transformations Ancestor wanted to find some other way around it, but after half a month, he reached his limit and could not endure it anymore.</p>
+<p>Without a choice, he could only use cutting flesh transformation to discard a portion of his immortal body, and get rid of the part of his body that was heavily injured.</p>
+<p>This time, he met with a time path myriad tribulation, the injuries on him were all of time path dao marks.</p>
+<p>Thousand Transformations Ancestor got rid of all these time path dao marks using cutting flesh transformation, abandoning them.</p>
+<p>This way, the cutting flesh transformation turned them into year beasts.</p>
+<p>And because they were filled with heaven&#x27;s will, these year beasts were not under his control, they were his enemies.</p>
+<p>Thousand Transformations Ancestor felt great loss.</p>
+<p>The costs were too severe.</p>
+<p>Not just the near catastrophic damage to his immortal aperture from the myriad tribulation.</p>
+<p>Looking at the dao marks he lost from cutting flesh transformation, not only did he lose the time path dao marks, he even lost his own transformation path dao marks.</p>
+<p>The dao marks losses were too huge.</p>
+<p>Thousand Transformations Ancestor counted, after this myriad tribulation, not only did he not have any growth in dao marks, he even made a small loss instead!</p>
+<p>&quot;This means, I was better off not going through the tribulation?&quot;</p>
+<p>Thinking of this, the experienced Thousand Transformations Ancestor&#x27;s heart felt some bitterness.</p>
+<p>He sighed deeply.</p>
+<p>It could not be helped.</p>
+<p>In the past, he had cultivated boldly and advanced quickly, facing his myriad tribulation, he had stalled it until recently, when he could no longer stall it anymore.</p>
+<p>Even though he passed the myriad tribulation, Thousand Transformations Ancestor&#x27;s foundation did not grow, he even became weaker in terms of dao marks.</p>
+<p>&quot;I was wrong.&quot;</p>
+<p>&quot;A thousand years ago, by relying on this Reckless Savage true inheritance, I thought I would progress unhindered.&quot;</p>
+<p>&quot;Earthly calamities, heavenly tribulations, grand tribulations, I got through all of them easily, but the myriad tribulation is a completely different story!&quot;</p>
+<p>&quot;I underestimated the myriad tribulation&#x27;s power. These last years, I had unknowingly gotten more arrogant, this injury is both a blessing and a disaster to me.&quot;</p>
+<p>Thousand Transformations Ancestor was a rank eight expert, he was naturally an incredible person.</p>
+<p>He recalled his experiences and reflected on himself after this severe loss.</p>
+<p>Right at this time, outside the palace, a female immortal&#x27;s voice could be heard: &quot;Lord husband, something happened. Sister Cui Bo&#x27;s life tablet Gu was broken, her soul lantern Gu has turned dim. She went to translocation desert, but none of us can contact her now, this is too important, I had no choice but to inform you!&quot;</p>

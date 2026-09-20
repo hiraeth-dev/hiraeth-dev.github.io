@@ -5,7 +5,118 @@ weight = 1153
 chapter = 1153
 +++
 
-<p>Ahead was a deep blue veil, it completely covered the visions of Ying Wu Xie and the others. Blue water regional wall! Between the five regions, there were regional walls, they were like thin membrane which shielded the region. Blue water regional wall was the protective membrane of Eastern Sea. The turbulent flow sea area was very close to blue water regional wall to begin with, precisely because of this, when Fang Yuan was on the journey from Southern Border to Northern Plains, when he got close to the turbulent flow sea area, he encountered Liu Qing Yu and the rest. Ying Wu Xie and the other immortals used Omni-directional Travel to directly reach this place. &quot;Are we leaving again?&quot; Hei Lou Lan sighed. &quot;Who was that person earlier?&quot; Tai Bai Yun Sheng questioned. &quot;An enemy, a strong enemy, an irreconcilable enemy! Don&#x27;t look at his rank six cultivation level, he has rank eight battle strength.&quot; Ying Wu Xie looked at Tai Bai Yun Sheng, choosing to expose some information to him. Hearing this Tai Bai Yun Sheng breathed in sharply, he shouted in disbelief: &quot;Rank eight battle strength?!&quot; Hei Lou Lan pretended to be shocked too: &quot;No wonder we had to retreat.&quot; Shi Nu had no expression. Tai Bai Yun Sheng suddenly thought of something, he showed sadness on his face: &quot;Sigh! Since he has rank eight battle strength, Liu Qing Yu is finished. It is a pity.&quot; &quot;Dying for Shadow Sect is his greatest honor.&quot; Shi Nu snorted, saying in disdain. &quot;Let&#x27;s go, since he can chase us, we should increase our distance. That upper extreme heavenly eagle is an immemorial desolate beast that can roam the nine heavens, it is likely to be a life form from the immemorial nine heavens, it can travel in the five regional walls freely.&quot; Hei Lou Lan transmitted secretly, reminding Ying Wu Xie. Ying Wu Xie looked at her deeply, replying: &quot;Don&#x27;t worry, I have already checked the historical records in Northern Plains. Fang Yuan&#x27;s upper extreme heavenly eagle came from Hei Fan, and the upper extreme heavenly eagle that Hei Fan had was raised in Northern Plains. If it enters the five regional walls, it would face suppression as well. We are quite safe now at the border of the regional wall.&quot; &quot;Is that so?&quot; Hei Lou Lan was stunned, before showing an expression of relief. &quot;Where are we going now? We cannot go to Central Continent, are we going to Southern Border to work on the rescue?&quot; Hei Lou Lan asked. Ying Wu Xie smiled, he did not enter the blue water regional wall, instead, he used his immortal essence as aura of Gu worms burst out from within. His entire body was floating in the air, he turned around and looked in the direction of the turbulent flow sea area. Ripples appeared below his feet, making a soft sound. The cold and wet sea breeze blew on the four Gu Immortals&#x27; faces.</p>
-<p>&quot;Wait.&quot; Ying Wu Xie said one word in reply to Hei Lou Lan. &quot;Wait for what?&quot; Tai Bai Yun Sheng was confused. &quot;Wait for the enemy.&quot; Ying Wu Xie said. The rest of the three Gu Immortals looked at each other, not understanding why. Since they retreated earlier, why were they waiting for him now? That person had rank eight battle strength, why were they waiting for him? Waiting for him to kill them? Hei Lou Lan&#x27;s expression changed: &quot;I see!&quot; &quot;See what?&quot; Tai Bai Yun Sheng quickly asked, he was extremely lost. Shi Nu was expressionless, but his gaze also revealed curiosity. Hei Lou Lan smiled: &quot;Don&#x27;t you find it strange? How did he know our location? When chasing us, why did he have such precise knowledge of our whereabouts?&quot; This time, even Shi Nu&#x27;s expression changed. Tai Bai Yun Sheng&#x27;s tone became lower: &quot;Hei Lou Lan, you mean to say, we have a traitor? impossible, how can the four of us... unless, that Liu Qing Yu is a spy? Wait! He went under an alliance agreement to join us, could the alliance agreement be exploited?&quot; &quot;The probability of a traitor is small.&quot; Ying Wu Xie shook his head, replying. He looked at Tai Bai Yun Sheng. Even though Tai Bai Yun Sheng was kept in the dark, he was also under an alliance agreement from Ying Wu Xie, he could not become a traitor. &quot;The most probable reason is, he has an investigative method that can track our locations.&quot; Ying Wu Xie said. &quot;These last days, we have been staying in our base, we rarely went out.&quot; Tai Bai Yun Sheng frowned. Hei Lou Lan smiled: &quot;Gu Immortal methods are unfathomably vast in number, some are incredibly brilliant, how much do we actually know?&quot; &quot;That&#x27;s true.&quot; Tai Bai Yun Sheng nodded. Hei Lou Lan continued: &quot;If we cannot find a way to counter it, no matter where we go, that enemy will find us, it is only a matter of time.&quot; &quot;Thus, lord decided to stay here and not enter the regional wall. Lord is waiting for the other party to use his investigative killer move. I see!&quot; Shi Nu suddenly realized. Actually, a lot of information was only known to Ying Wu Xie. At this moment, countless thoughts were forming and colliding in Ying Wu Xie&#x27;s mind. Even though he was a strength path immortal zombie and could not think well, he had lots of methods to bypass this flaw. Ying Wu Xie was rapidly thinking now! &quot;What method is Fang Yuan using to find my location?&quot; &quot;I came to Eastern Sea secretly, how did the intel leak? Is he able to find my location in Northern Plains, across two regional walls?&quot; &quot;That is impossible! Even Heavenly Court&#x27;s Gu Immortals could not deduce anything after I used my Gu formation to conceal my traces.&quot; &quot;No matter what is inside Hei Fan&#x27;s true inheritance, he would not be able to do this.&quot; Heaven&#x27;s will! Ying Wu Xie had an answer in his mind. &quot;Since I can be plotted against by heaven&#x27;s will, gaining its reminder regarding Fang Yuan&#x27;s intel, would Fang Yuan also receive the same information about me?&quot;</p>
-<p>This was very possible. But Ying Wu Xie was not satisfied with this answer. &quot;If at this time, the person in my situation is not me but Fang Yuan, what would he do? What would he consider?&quot; &quot;He would consider the worst possible situation.&quot; &quot;And what was the worst possible situation?&quot; Ying Wu Xie asked himself, and had answer — &quot;The other party has an investigative killer move that can pass regional walls to confirm my location.&quot; Ying Wu Xie smiled, how could that be possible? But suddenly, his smile froze. He thought of a possibility! Luck path! Fang Yuan had the most important clue all along. It was that their lucks were all interconnected. Connect luck Immortal Gu! Back then, Ying Wu Xie had no choice, he could only sell this Immortal Gu in treasure yellow heaven. After transacting with Fang Yuan, Ying Wu Xie obtained the Gu refinement materials he needed, when treasure yellow heaven opened, he took back connect luck Immortal Gu. Even though Fang Yuan had a new body, Connect Luck&#x27;s effect also targeted his soul. Thus, his luck connection to Hei Lou Lan and the rest was still in effect. Ying Wu Xie gained a lot of information from Shadow Sect regarding how to resist heaven&#x27;s will, there was one point — Fate is hard to defy, but luck can be exploited. Using luck, one could deal with heaven&#x27;s will effectively. Who had better luck? Undoubtedly, it was Fang Yuan who owned dog shit luck Immortal Gu. Fang Yuan had Dog Shit Luck, Ying Wu Xie knew this clearly. Sixth Hair, who was in Lang Ya Sect, was not to be forgotten. Thus, Ying Wu Xie used Connect Luck and connected his own luck with Hei Lou Lan. Even though Hei Lou Lan was unwilling to, she could not resist. This way, Ying Wu Xie and Fang Yuan truly had their luck connected. &quot;If he realizes this relationship and uses a luck path method, even if we are in two separate regions, he can still sense me, that is possible.&quot; &quot;Is it luck path?&quot; Right at this moment, Ying Wu Xie&#x27;s body shook. He saw it! Using luck inspection Immortal Gu, he saw that at this moment, the luck above him and Hei Lou Lan&#x27;s head was shaking slightly. &quot;As expected... a luck path method. Impressive, Fang Yuan. To think that you even made use of the fact that we have Connect Luck, and found your way to us. It is a pity, I have understood your method already.&quot; Ying Wu Xie&#x27;s eyes flickered brightly. Even though he knew about Fang Yuan&#x27;s method, Ying Wu Xie could not break the luck connection. He did not have break luck Immortal Gu.</p>
-<p>However, he had a lot of soul path methods, he could influence and interfere with the luck. He tried them one by one, but the effect was not good. The luck was still shaking. In fact, even if he was concealed, there was still Hei Lou Lan. Unlike Liu Qing Yu, Hei Lou Lan could not be thrown away easily. She had huge value, once they lost her, they could not even use the ancient battle formation Omni-directional Travel. Thus, Ying Wu Xie quickly gave up this thought. &quot;Then, enter an immortal aperture?&quot; Ying Wu Xie entered Shi Nu&#x27;s immortal aperture, and he was surprised to find out that in conjunction with his soul path methods, the luck on top of his head stopped shaking. He ordered Hei Lou Lan to enter Shi Nu&#x27;s immortal aperture as well. Next, Tai Bai Yun Sheng and Shi Nu entered the blue water regional wall, quickly vanishing from sight. Fang Yuan had just come out of Qing Yu blessed land. Luck path investigative killer move — Qi Luck Sensation! He activated his immortal killer move, at once, he sensed several locations. Eastern Sea, Western Desert, Southern Border. Among which, Eastern Sea had the clearest sensation and highest number of people. Qi luck sensation had a huge investigative range, but the effect was not very outstanding. If not for Connect Luck, Fang Yuan could not pass regions in investigation. &quot;They are at the border of blue water regional wall, this ancient battle formation is actually so amazing?&quot; &quot;Hmph! Even if victory is hard to obtain, I will pursue you, even if I cannot kill you, I will weaken you. As long as I prevent you from saving Spectral Soul&#x27;s main body, I would be victorious.&quot; &quot;Strange, why did they stop?&quot; &quot;Hmm?!&quot; Suddenly, Fang Yuan&#x27;s expression changed, he showed shock. In his senses, two people had suddenly vanished. &quot;Oh? He sensed it so quickly?&quot; Fang Yuan&#x27;s heart sank. This way, he could not pursue them. &quot;But as long as your luck is connected, you will be threatened by my killer move. I have the initiative, I can use this killer move from time to time, and check your location. But you need to be wary of me at all times, you will have to pay a bigger price than me.&quot; &quot;This will cause a battle of attrition between us, but if you break the luck connection, hehe, isn&#x27;t that just what I want?&quot; &quot;Forget it, I should get the good stuff inside the turbulent flow sea area first.&quot;</p>
+<p>Ahead was a deep blue veil, it completely covered the visions of Ying Wu Xie and the others.</p>
+<p>Blue water regional wall!</p>
+<p>Between the five regions, there were regional walls, they were like thin membrane which shielded the region.</p>
+<p>Blue water regional wall was the protective membrane of Eastern Sea.</p>
+<p>The turbulent flow sea area was very close to blue water regional wall to begin with, precisely because of this, when Fang Yuan was on the journey from Southern Border to Northern Plains, when he got close to the turbulent flow sea area, he encountered Liu Qing Yu and the rest.</p>
+<p>Ying Wu Xie and the other immortals used Omni-directional Travel to directly reach this place.</p>
+<p>&quot;Are we leaving again?&quot; Hei Lou Lan sighed.</p>
+<p>&quot;Who was that person earlier?&quot; Tai Bai Yun Sheng questioned.</p>
+<p>&quot;An enemy, a strong enemy, an irreconcilable enemy! Don&#x27;t look at his rank six cultivation level, he has rank eight battle strength.&quot; Ying Wu Xie looked at Tai Bai Yun Sheng, choosing to expose some information to him.</p>
+<p>Hearing this Tai Bai Yun Sheng breathed in sharply, he shouted in disbelief: &quot;Rank eight battle strength?!&quot;</p>
+<p>Hei Lou Lan pretended to be shocked too: &quot;No wonder we had to retreat.&quot;</p>
+<p>Shi Nu had no expression.</p>
+<p>Tai Bai Yun Sheng suddenly thought of something, he showed sadness on his face: &quot;Sigh!</p>
+<p>Since he has rank eight battle strength, Liu Qing Yu is finished. It is a pity.&quot;</p>
+<p>&quot;Dying for Shadow Sect is his greatest honor.&quot; Shi Nu snorted, saying in disdain.</p>
+<p>&quot;Let&#x27;s go, since he can chase us, we should increase our distance. That upper extreme heavenly eagle is an immemorial desolate beast that can roam the nine heavens, it is likely to be a life form from the immemorial nine heavens, it can travel in the five regional walls freely.&quot; Hei Lou Lan transmitted secretly, reminding Ying Wu Xie.</p>
+<p>Ying Wu Xie looked at her deeply, replying: &quot;Don&#x27;t worry, I have already checked the historical records in Northern Plains. Fang Yuan&#x27;s upper extreme heavenly eagle came from Hei Fan, and the upper extreme heavenly eagle that Hei Fan had was raised in Northern Plains. If it enters the five regional walls, it would face suppression as well. We are quite safe now at the border of the regional wall.&quot;</p>
+<p>&quot;Is that so?&quot; Hei Lou Lan was stunned, before showing an expression of relief.</p>
+<p>&quot;Where are we going now? We cannot go to Central Continent, are we going to Southern Border to work on the rescue?&quot; Hei Lou Lan asked.</p>
+<p>Ying Wu Xie smiled, he did not enter the blue water regional wall, instead, he used his immortal essence as aura of Gu worms burst out from within.</p>
+<p>His entire body was floating in the air, he turned around and looked in the direction of the turbulent flow sea area.</p>
+<p>Ripples appeared below his feet, making a soft sound.</p>
+<p>The cold and wet sea breeze blew on the four Gu Immortals&#x27; faces.</p>
+<p>&quot;Wait.&quot; Ying Wu Xie said one word in reply to Hei Lou Lan.</p>
+<p>&quot;Wait for what?&quot; Tai Bai Yun Sheng was confused.</p>
+<p>&quot;Wait for the enemy.&quot; Ying Wu Xie said.</p>
+<p>The rest of the three Gu Immortals looked at each other, not understanding why.</p>
+<p>Since they retreated earlier, why were they waiting for him now? That person had rank eight battle strength, why were they waiting for him? Waiting for him to kill them?</p>
+<p>Hei Lou Lan&#x27;s expression changed: &quot;I see!&quot;</p>
+<p>&quot;See what?&quot; Tai Bai Yun Sheng quickly asked, he was extremely lost.</p>
+<p>Shi Nu was expressionless, but his gaze also revealed curiosity.</p>
+<p>Hei Lou Lan smiled: &quot;Don&#x27;t you find it strange? How did he know our location? When chasing us, why did he have such precise knowledge of our whereabouts?&quot;</p>
+<p>This time, even Shi Nu&#x27;s expression changed.</p>
+<p>Tai Bai Yun Sheng&#x27;s tone became lower: &quot;Hei Lou Lan, you mean to say, we have a traitor? impossible, how can the four of us... unless, that Liu Qing Yu is a spy? Wait! He went under an alliance agreement to join us, could the alliance agreement be exploited?&quot;</p>
+<p>&quot;The probability of a traitor is small.&quot; Ying Wu Xie shook his head, replying.</p>
+<p>He looked at Tai Bai Yun Sheng.</p>
+<p>Even though Tai Bai Yun Sheng was kept in the dark, he was also under an alliance agreement from Ying Wu Xie, he could not become a traitor.</p>
+<p>&quot;The most probable reason is, he has an investigative method that can track our locations.&quot;</p>
+<p>Ying Wu Xie said.</p>
+<p>&quot;These last days, we have been staying in our base, we rarely went out.&quot; Tai Bai Yun Sheng frowned.</p>
+<p>Hei Lou Lan smiled: &quot;Gu Immortal methods are unfathomably vast in number, some are incredibly brilliant, how much do we actually know?&quot;</p>
+<p>&quot;That&#x27;s true.&quot; Tai Bai Yun Sheng nodded.</p>
+<p>Hei Lou Lan continued: &quot;If we cannot find a way to counter it, no matter where we go, that enemy will find us, it is only a matter of time.&quot;</p>
+<p>&quot;Thus, lord decided to stay here and not enter the regional wall. Lord is waiting for the other party to use his investigative killer move. I see!&quot; Shi Nu suddenly realized.</p>
+<p>Actually, a lot of information was only known to Ying Wu Xie.</p>
+<p>At this moment, countless thoughts were forming and colliding in Ying Wu Xie&#x27;s mind.</p>
+<p>Even though he was a strength path immortal zombie and could not think well, he had lots of methods to bypass this flaw.</p>
+<p>Ying Wu Xie was rapidly thinking now!</p>
+<p>&quot;What method is Fang Yuan using to find my location?&quot;</p>
+<p>&quot;I came to Eastern Sea secretly, how did the intel leak? Is he able to find my location in Northern Plains, across two regional walls?&quot;</p>
+<p>&quot;That is impossible! Even Heavenly Court&#x27;s Gu Immortals could not deduce anything after I used my Gu formation to conceal my traces.&quot;</p>
+<p>&quot;No matter what is inside Hei Fan&#x27;s true inheritance, he would not be able to do this.&quot;</p>
+<p>Heaven&#x27;s will!</p>
+<p>Ying Wu Xie had an answer in his mind.</p>
+<p>&quot;Since I can be plotted against by heaven&#x27;s will, gaining its reminder regarding Fang Yuan&#x27;s intel, would Fang Yuan also receive the same information about me?&quot;</p>
+<p>This was very possible.</p>
+<p>But Ying Wu Xie was not satisfied with this answer.</p>
+<p>&quot;If at this time, the person in my situation is not me but Fang Yuan, what would he do?</p>
+<p>What would he consider?&quot;</p>
+<p>&quot;He would consider the worst possible situation.&quot;</p>
+<p>&quot;And what was the worst possible situation?&quot;</p>
+<p>Ying Wu Xie asked himself, and had answer — &quot;The other party has an investigative killer move that can pass regional walls to confirm my location.&quot;</p>
+<p>Ying Wu Xie smiled, how could that be possible?</p>
+<p>But suddenly, his smile froze.</p>
+<p>He thought of a possibility!</p>
+<p>Luck path!</p>
+<p>Fang Yuan had the most important clue all along. It was that their lucks were all interconnected.</p>
+<p>Connect luck Immortal Gu!</p>
+<p>Back then, Ying Wu Xie had no choice, he could only sell this Immortal Gu in treasure yellow heaven.</p>
+<p>After transacting with Fang Yuan, Ying Wu Xie obtained the Gu refinement materials he needed, when treasure yellow heaven opened, he took back connect luck Immortal Gu.</p>
+<p>Even though Fang Yuan had a new body, Connect Luck&#x27;s effect also targeted his soul. Thus, his luck connection to Hei Lou Lan and the rest was still in effect.</p>
+<p>Ying Wu Xie gained a lot of information from Shadow Sect regarding how to resist heaven&#x27;s will, there was one point — Fate is hard to defy, but luck can be exploited.</p>
+<p>Using luck, one could deal with heaven&#x27;s will effectively.</p>
+<p>Who had better luck?</p>
+<p>Undoubtedly, it was Fang Yuan who owned dog shit luck Immortal Gu.</p>
+<p>Fang Yuan had Dog Shit Luck, Ying Wu Xie knew this clearly. Sixth Hair, who was in Lang Ya Sect, was not to be forgotten.</p>
+<p>Thus, Ying Wu Xie used Connect Luck and connected his own luck with Hei Lou Lan.</p>
+<p>Even though Hei Lou Lan was unwilling to, she could not resist.</p>
+<p>This way, Ying Wu Xie and Fang Yuan truly had their luck connected.</p>
+<p>&quot;If he realizes this relationship and uses a luck path method, even if we are in two separate regions, he can still sense me, that is possible.&quot;</p>
+<p>&quot;Is it luck path?&quot;</p>
+<p>Right at this moment, Ying Wu Xie&#x27;s body shook.</p>
+<p>He saw it!</p>
+<p>Using luck inspection Immortal Gu, he saw that at this moment, the luck above him and Hei Lou Lan&#x27;s head was shaking slightly.</p>
+<p>&quot;As expected... a luck path method. Impressive, Fang Yuan. To think that you even made use of the fact that we have Connect Luck, and found your way to us. It is a pity, I have understood your method already.&quot;</p>
+<p>Ying Wu Xie&#x27;s eyes flickered brightly.</p>
+<p>Even though he knew about Fang Yuan&#x27;s method, Ying Wu Xie could not break the luck connection.</p>
+<p>He did not have break luck Immortal Gu.</p>
+<p>However, he had a lot of soul path methods, he could influence and interfere with the luck.</p>
+<p>He tried them one by one, but the effect was not good.</p>
+<p>The luck was still shaking.</p>
+<p>In fact, even if he was concealed, there was still Hei Lou Lan.</p>
+<p>Unlike Liu Qing Yu, Hei Lou Lan could not be thrown away easily.</p>
+<p>She had huge value, once they lost her, they could not even use the ancient battle formation Omni-directional Travel. Thus, Ying Wu Xie quickly gave up this thought.</p>
+<p>&quot;Then, enter an immortal aperture?&quot;</p>
+<p>Ying Wu Xie entered Shi Nu&#x27;s immortal aperture, and he was surprised to find out that in conjunction with his soul path methods, the luck on top of his head stopped shaking.</p>
+<p>He ordered Hei Lou Lan to enter Shi Nu&#x27;s immortal aperture as well.</p>
+<p>Next, Tai Bai Yun Sheng and Shi Nu entered the blue water regional wall, quickly vanishing from sight.</p>
+<p>Fang Yuan had just come out of Qing Yu blessed land.</p>
+<p>Luck path investigative killer move — Qi Luck Sensation!</p>
+<p>He activated his immortal killer move, at once, he sensed several locations.</p>
+<p>Eastern Sea, Western Desert, Southern Border.</p>
+<p>Among which, Eastern Sea had the clearest sensation and highest number of people.</p>
+<p>Qi luck sensation had a huge investigative range, but the effect was not very outstanding. If not for Connect Luck, Fang Yuan could not pass regions in investigation.</p>
+<p>&quot;They are at the border of blue water regional wall, this ancient battle formation is actually so amazing?&quot;</p>
+<p>&quot;Hmph! Even if victory is hard to obtain, I will pursue you, even if I cannot kill you, I will weaken you. As long as I prevent you from saving Spectral Soul&#x27;s main body, I would be victorious.&quot;</p>
+<p>&quot;Strange, why did they stop?&quot;</p>
+<p>&quot;Hmm?!&quot;</p>
+<p>Suddenly, Fang Yuan&#x27;s expression changed, he showed shock.</p>
+<p>In his senses, two people had suddenly vanished.</p>
+<p>&quot;Oh? He sensed it so quickly?&quot; Fang Yuan&#x27;s heart sank.</p>
+<p>This way, he could not pursue them.</p>
+<p>&quot;But as long as your luck is connected, you will be threatened by my killer move. I have the initiative, I can use this killer move from time to time, and check your location. But you need to be wary of me at all times, you will have to pay a bigger price than me.&quot;</p>
+<p>&quot;This will cause a battle of attrition between us, but if you break the luck connection, hehe, isn&#x27;t that just what I want?&quot;</p>
+<p>&quot;Forget it, I should get the good stuff inside the turbulent flow sea area first.&quot;</p>

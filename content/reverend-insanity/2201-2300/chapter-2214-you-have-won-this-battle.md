@@ -5,8 +5,126 @@ weight = 2214
 chapter = 2214
 +++
 
-<p>The dark capital strength biao was incredibly fast, it was hard to deal with in the first place. More importantly, after Hei Lou Lan stabilized her position, she quickly used a healing method on herself before joining the fight again. She had great coordination with the dark capital strength biao, they attacked from the left and right, firmly suppressing Chu Du. Chu Du was in a pitiful state, many areas of his robe were torn, showing that his defenses were no longer holding up. Blood soon appeared on his lips, his injuries were slowly accumulating. Chu tribe&#x27;s Gu Immortals had grim expression, in the current situation, they could not see hope of Chu Du turning this around. The dark capital strength biao gave Hei Lou Lan too great of an advantage! &quot;You will lose!&quot; Hei Lou Lan shouted with momentum, unleashing her killer move, eight directional strength fight. Chu Du was surrounded by countless figures, he could not break out for the time being. Suddenly, a shadow casted down from above him, it was the dark capital strength biao! It opened its mouth to bite at Chu Du. If this bite connected, Chu Du would be heavily injured, if not dead. At the moment of crisis, Chu Du laughed loudly instead: &quot;Finally caught you!&quot; At the next moment, strength path giant hand appeared and grabbed forcefully. The dark capital strength biao was caught unguarded and growled loudly, it wanted to struggle. But after only one breath of time, the strength path giant hand firmly held onto it and slammed it to the ground. Boom! There was a loud sound as the ground shook, rocks were sent flying and dust clouds rose. Immortal killer move — Battle Strength Transpiration! Chu Du suddenly erupted with an intense aura as his body expanded to the size of a ten meter giant. His entire body turned red, all of the pores on his body opened up, as his sweat turned into steam, surrounding his body. Immortal killer move — Heaven and Earth Combined Strength! Chu Du straightened both arms before clapping them together in front of his chest. At the next moment, the immortals gasped, Hei Lou Lan&#x27;s expression changed. The surrounding thousand li were enveloped by a formless force, the Gu Immortals were restrained and unable to move easily, they felt like bugs that had fallen into oil. Affected by this killer move, the speed of the dark capital strength biao fell drastically, its threat towards Chu Du also plunged to rock bottom. &quot;This is a quasi-battlefield killer move!&quot; Hei Lou Lan gritted her teeth, Chu Du&#x27;s move was amazing and beyond her expectations. &quot;I did not want to use this.&quot; Hei Lou Lan snorted internally, activating the expend strength Immortal Gu in her immortal aperture.</p>
-<p>This rank seven Immortal Gu was lent to her by Longevity Heaven secretly, other than that, there was also a killer move that used expend strength Immortal Gu as the core, it was called seventy-percent expended strength. At the crucial moment, Hei Lou Lan immediately activated this move. This move&#x27;s preparation had no aura and was stealthy, only when it was used, it unleashed an overwhelmingly extraordinary burst of aura. Chu Du quickly tried to dodge but he did not succeed. After getting hit by this move, every action or killer move of his took much more effort to complete, by at least more than fifty percent. While Chu Du&#x27;s condition fell, Hei Lou Lan unleashed a flurry of attacks again. The battle was in a heated stage, both sides were stuck in a deadlock. The observing immortals retreated at once, they left the range of heaven and earth combined strength, becoming more at ease as they continued to watch the battle. &quot;Regardless of this battle&#x27;s result, these two are peak characters among Northern Plains&#x27; rank seven experts!&quot; &quot;Such terrifying battle strength, I&#x27;m afraid they might be able to challenge rank eight Gu Immortals as well.&quot; &quot;Chu Du, Black Moon... they are the support pillars of strength path in the current world, undoubtedly.&quot; The Gu Immortals sighed to themselves, at this point in the battle, be they Chu Du or Hei Lou Lan, they had earned the respect and recognition of everyone. Such evenly matched opponents made the immortals even more excited to see the eventual winner. &quot;Awesome, this is really great.&quot; Chu Du had many bone fractures and his robe was dyed red, but he laughed heartily and expressed his excitement towards this battle. Hei Lou Lan gritted her teeth and did not speak, she had gotten into a disadvantage once again. The reason was still the difference in combat experience. Chu Du was superior to Hei Lou Lan in every tiny detail. As they accumulated,they eventually affected the entire battle. Hei Lou Lan tried all ways to regain her footing but the more she fought, the more tiny weaknesses she exposed, giving Chu Du even more opportunities to take advantage of. &quot;He was clearly hit by my seventy-percent expended strength, how can he still have such stamina?&quot; Seeing that Chu Du was not getting tired, Hei Lou Lan could not help but feel a bit shocked. Chu Du had outstanding strength, even though Hei Lou Lan was using her full strength, she could not take down Chu Du. Currently, she could only hope that the effect of seventy-percent expended strength would tire Chu Du out. But another ten or so rounds passed. Before Chu Du even got tired, Hei Lou Lan was already completely at a disadvantage, the situation was dangerous! Hei Lou Lan gritted her teeth secretly, she was not willing to fail. In this situation, she could only take a risk and try.</p>
-<p>At the next moment, the dark capital strength biao growled and jumped towards Hei Lou Lan. Hei Lou Lan advanced instead of moving aside, entering the dark capital strength biao&#x27;s body in mid air. With a flash of dark light, the dark capital strength biao shrank in size, turning into a halfbeast half-man form, it became a layer of armor on Hei Lou Lan&#x27;s body, it seemed like smoke or an illusion. This was a higher level use of a totem killer move! When the Gu Immortal combined with the totem, their battle strength would surge immensely! &quot;Chu Du, time to go down!&quot; Hei Lou Lan shouted, the biao wings flapped, she instantly arrived before Chu Du. Chu Du raised his arms. Hei Lou Lan&#x27;s iron fists landed on his arms, the huge force erupted like resounding thunder, the surrounding air was forced aside as Chu Du flew out uncontrollably towards the ground. But Chu Du landed with both feet on the ground, creating a huge and long trench behind him. While he was still retreating, Hei Lou Lan suddenly appeared above him. Boom! There was another attack as Hei Lou Lan sent Chu Du flying to the ground again. Bam bam bam... Hei Lou Lan floated in the air, raining down fist shadows incessantly. The ground shook as smoke appeared, her terrifying strength caused the spectators to turn pale. &quot;Lord Chu Du!&quot; &quot;Godfather!!&quot; Chu tribe&#x27;s Gu Immortals shouted loudly in worry. Hei Lou Lan was too powerful now, she was almost dominating the scene, Chu Du had no way of retaliating. &quot;Enough... stop now, Black Moon.&quot; From the pit, Chu Du&#x27;s voice could be heard as he spoke with difficulty. But Hei Lou Lan did not listen to him, she continued to punch endlessly. &quot;Is Chu Du admitting defeat?&quot; Wu Guang was excited as he spoke. &quot;Something is not right! Master seems to be in a weird state.&quot; Chen Cheng&#x27;s expression changed. Hearing this, everyone realized that Hei Lou Lan&#x27;s gaze was like a wild beast, she seemed to have lost her reasoning, she could only control this killer move through her instincts to slaughter. Chu tribe&#x27;s Gu Immortals were all happy now. &quot;There is still hope!&quot; &quot;Great. As long as first supreme elder gets through this, he will win!&quot; &quot;This killer move is too powerful. If Fairy Black Moon&#x27;s killer move activation fails, she might face a backlash and even lose her life.&quot; But right at this moment, a figure flew out. It was Chu Du!</p>
-<p>But what Chu Du did next was out of everyone&#x27;s expectations. He had forcefully endured the rampaging attacks, disregarding his own life to approach Hei Lou Lan and place his arm on her shoulder. A huge vibration force was emitted, Hei Lou Lan and the dark capital strength biao were separated. Hei Lou Lan regained her senses and her pupils shrank immediately. She was shocked to find out that her left fist had penetrated the right side of Chu Du&#x27;s chest! But Chu Du used a method to save her and prevent her from suffering the immense backlash from her killer move. &quot;Why?&quot; At once, Hei Lou Lan fell into deep confusion and disbelief. But right at this moment, the dark capital strength biao&#x27;s ferocity did not lower, it appeared behind Chu Du and bit harshly. &quot;Stop!&quot; Hei Lou Lan shouted internally and willed to try to stop the dark capital strength biao. In this situation, if Chu Du was hit by it, he would definitely die! But the dark capital strength biao was not under Hei Lou Lan&#x27;s control, it was incredibly fierce. Right when Hei Lou Lan thought Chu Du was about to die, a surge of aura burst out of Chu Du&#x27;s body. His killer move was unleashed, the dark capital strength biao was sent flying from one attack. The immortals were shocked! &quot;Rank, rank eight cultivation level?!&quot; &quot;Chu Du became a rank eight Gu Immortal?&quot; &quot;Our first supreme elder is rank eight? When did he advance?!&quot; Hei Lou Lan stared with wide eyes and looked fixedly at Chu Du: &quot;Why?&quot; While speaking, she retracted her left hand from Chu Du&#x27;s chest and placed it on his shoulder. A killer move was activated by Hei Lou Lan, it was not an offensive killer move but a healing method instead. Chu Du&#x27;s expression was pale, he accepted her good intentions as he smiled: &quot;Ever since you started challenging people, I started noticing you, Fairy Black Moon.&quot; &quot;Do you know? Even if you did not challenge me, I would issue you a challenge as well!&quot; &quot;To have a fair battle!&quot; &quot;Because... strength path has been silent for far too long.&quot; &quot;Your emergence made me really happy. Continue on this path, Black Moon.&quot; &quot;Revitalize strength path and let it shine gloriously again!&quot; Chu Du expressed his aspirations. Looking at his dazzling eyes, Hei Lou Lan was silent. The dark capital strength biao had returned after being repelled by Chu Du. But now, Hei Lou Lan regained control of it. The dark capital strength biao was heavily damaged, it went back onto Hei Lou Lan&#x27;s skin. Hei Lou Lan looked at Chu Du deeply before leaving. Before departing, she said: &quot;Chu Du, you have won this battle.&quot;</p>
-<p>This battle that caused a commotion in Northern Plains&#x27; Gu Immortal ended in Chu Du&#x27;s victory, but the exact outcome of this fight was far beyond everyone&#x27;s expectations. Once Chu Du displayed rank eight cultivation level, he became a higher-up in the Gu Immortal world, be they himself or Chu tribe, their reputation soared! And in that intense battle, Chu Du first sealed his own cultivation level to fight against Fairy Black Moon as a rank seven. He then disregarded his own life to save her. Such actions caused the neutral Gu Immortals to gain good feelings towards him. Even those who supported Fairy Black Moon like Yin Wu Que, Chen Cheng, and Wu Guang secretly felt admiration towards him. After returning to Chu tribe, his god-children suggested to hold a celebratory banquet and invite the immortals, to make use of this result and elevate Chu tribe&#x27;s status. But Chu Du rejected it without second thought. He was very low-profile regarding the result of this battle. However, news that he became a rank eight Gu Immortal still caused a huge commotion in Northern Plains&#x27; current situation. Days later, Heavenly Court and Longevity Heaven let out even more surprising news that shook the world. Star Constellation Immortal Venerable and Giant Sun Immortal Venerable had revived successfully, while Gu Yue Fang Yuan had become a refinement path Demon Venerable! The world was in an uproar, all the immortals were shocked.</p>
+<p>The dark capital strength biao was incredibly fast, it was hard to deal with in the first place.</p>
+<p>More importantly, after Hei Lou Lan stabilized her position, she quickly used a healing method on herself before joining the fight again.</p>
+<p>She had great coordination with the dark capital strength biao, they attacked from the left and right, firmly suppressing Chu Du.</p>
+<p>Chu Du was in a pitiful state, many areas of his robe were torn, showing that his defenses were no longer holding up.</p>
+<p>Blood soon appeared on his lips, his injuries were slowly accumulating.</p>
+<p>Chu tribe&#x27;s Gu Immortals had grim expression, in the current situation, they could not see hope of Chu Du turning this around.</p>
+<p>The dark capital strength biao gave Hei Lou Lan too great of an advantage!</p>
+<p>&quot;You will lose!&quot; Hei Lou Lan shouted with momentum, unleashing her killer move, eight directional strength fight.</p>
+<p>Chu Du was surrounded by countless figures, he could not break out for the time being.</p>
+<p>Suddenly, a shadow casted down from above him, it was the dark capital strength biao!</p>
+<p>It opened its mouth to bite at Chu Du. If this bite connected, Chu Du would be heavily injured, if not dead.</p>
+<p>At the moment of crisis, Chu Du laughed loudly instead: &quot;Finally caught you!&quot;</p>
+<p>At the next moment, strength path giant hand appeared and grabbed forcefully.</p>
+<p>The dark capital strength biao was caught unguarded and growled loudly, it wanted to struggle.</p>
+<p>But after only one breath of time, the strength path giant hand firmly held onto it and slammed it to the ground.</p>
+<p>Boom!</p>
+<p>There was a loud sound as the ground shook, rocks were sent flying and dust clouds rose.</p>
+<p>Immortal killer move — Battle Strength Transpiration!</p>
+<p>Chu Du suddenly erupted with an intense aura as his body expanded to the size of a ten meter giant.</p>
+<p>His entire body turned red, all of the pores on his body opened up, as his sweat turned into steam, surrounding his body.</p>
+<p>Immortal killer move — Heaven and Earth Combined Strength!</p>
+<p>Chu Du straightened both arms before clapping them together in front of his chest.</p>
+<p>At the next moment, the immortals gasped, Hei Lou Lan&#x27;s expression changed.</p>
+<p>The surrounding thousand li were enveloped by a formless force, the Gu Immortals were restrained and unable to move easily, they felt like bugs that had fallen into oil.</p>
+<p>Affected by this killer move, the speed of the dark capital strength biao fell drastically, its threat towards Chu Du also plunged to rock bottom.</p>
+<p>&quot;This is a quasi-battlefield killer move!&quot; Hei Lou Lan gritted her teeth, Chu Du&#x27;s move was amazing and beyond her expectations.</p>
+<p>&quot;I did not want to use this.&quot; Hei Lou Lan snorted internally, activating the expend strength Immortal Gu in her immortal aperture.</p>
+<p>This rank seven Immortal Gu was lent to her by Longevity Heaven secretly, other than that, there was also a killer move that used expend strength Immortal Gu as the core, it was called seventy-percent expended strength.</p>
+<p>At the crucial moment, Hei Lou Lan immediately activated this move.</p>
+<p>This move&#x27;s preparation had no aura and was stealthy, only when it was used, it unleashed an overwhelmingly extraordinary burst of aura.</p>
+<p>Chu Du quickly tried to dodge but he did not succeed.</p>
+<p>After getting hit by this move, every action or killer move of his took much more effort to complete, by at least more than fifty percent.</p>
+<p>While Chu Du&#x27;s condition fell, Hei Lou Lan unleashed a flurry of attacks again.</p>
+<p>The battle was in a heated stage, both sides were stuck in a deadlock.</p>
+<p>The observing immortals retreated at once, they left the range of heaven and earth combined strength, becoming more at ease as they continued to watch the battle.</p>
+<p>&quot;Regardless of this battle&#x27;s result, these two are peak characters among Northern Plains&#x27; rank seven experts!&quot;</p>
+<p>&quot;Such terrifying battle strength, I&#x27;m afraid they might be able to challenge rank eight Gu Immortals as well.&quot;</p>
+<p>&quot;Chu Du, Black Moon... they are the support pillars of strength path in the current world, undoubtedly.&quot;</p>
+<p>The Gu Immortals sighed to themselves, at this point in the battle, be they Chu Du or Hei Lou Lan, they had earned the respect and recognition of everyone.</p>
+<p>Such evenly matched opponents made the immortals even more excited to see the eventual winner.</p>
+<p>&quot;Awesome, this is really great.&quot; Chu Du had many bone fractures and his robe was dyed red, but he laughed heartily and expressed his excitement towards this battle.</p>
+<p>Hei Lou Lan gritted her teeth and did not speak, she had gotten into a disadvantage once again.</p>
+<p>The reason was still the difference in combat experience.</p>
+<p>Chu Du was superior to Hei Lou Lan in every tiny detail. As they accumulated,they eventually affected the entire battle.</p>
+<p>Hei Lou Lan tried all ways to regain her footing but the more she fought, the more tiny weaknesses she exposed, giving Chu Du even more opportunities to take advantage of.</p>
+<p>&quot;He was clearly hit by my seventy-percent expended strength, how can he still have such stamina?&quot; Seeing that Chu Du was not getting tired, Hei Lou Lan could not help but feel a bit shocked.</p>
+<p>Chu Du had outstanding strength, even though Hei Lou Lan was using her full strength, she could not take down Chu Du.</p>
+<p>Currently, she could only hope that the effect of seventy-percent expended strength would tire Chu Du out.</p>
+<p>But another ten or so rounds passed.</p>
+<p>Before Chu Du even got tired, Hei Lou Lan was already completely at a disadvantage, the situation was dangerous!</p>
+<p>Hei Lou Lan gritted her teeth secretly, she was not willing to fail. In this situation, she could only take a risk and try.</p>
+<p>At the next moment, the dark capital strength biao growled and jumped towards Hei Lou Lan.</p>
+<p>Hei Lou Lan advanced instead of moving aside, entering the dark capital strength biao&#x27;s body in mid air.</p>
+<p>With a flash of dark light, the dark capital strength biao shrank in size, turning into a half-beast half-man form, it became a layer of armor on Hei Lou Lan&#x27;s body, it seemed like smoke or an illusion.</p>
+<p>This was a higher level use of a totem killer move!</p>
+<p>When the Gu Immortal combined with the totem, their battle strength would surge immensely!</p>
+<p>&quot;Chu Du, time to go down!&quot; Hei Lou Lan shouted, the biao wings flapped, she instantly arrived before Chu Du.</p>
+<p>Chu Du raised his arms.</p>
+<p>Hei Lou Lan&#x27;s iron fists landed on his arms, the huge force erupted like resounding thunder, the surrounding air was forced aside as Chu Du flew out uncontrollably towards the ground.</p>
+<p>But Chu Du landed with both feet on the ground, creating a huge and long trench behind him. While he was still retreating, Hei Lou Lan suddenly appeared above him.</p>
+<p>Boom!</p>
+<p>There was another attack as Hei Lou Lan sent Chu Du flying to the ground again.</p>
+<p>Bam bam bam...</p>
+<p>Hei Lou Lan floated in the air, raining down fist shadows incessantly.</p>
+<p>The ground shook as smoke appeared, her terrifying strength caused the spectators to turn pale.</p>
+<p>&quot;Lord Chu Du!&quot;</p>
+<p>&quot;Godfather!!&quot;</p>
+<p>Chu tribe&#x27;s Gu Immortals shouted loudly in worry.</p>
+<p>Hei Lou Lan was too powerful now, she was almost dominating the scene, Chu Du had no way of retaliating.</p>
+<p>&quot;Enough... stop now, Black Moon.&quot; From the pit, Chu Du&#x27;s voice could be heard as he spoke with difficulty.</p>
+<p>But Hei Lou Lan did not listen to him, she continued to punch endlessly.</p>
+<p>&quot;Is Chu Du admitting defeat?&quot; Wu Guang was excited as he spoke.</p>
+<p>&quot;Something is not right! Master seems to be in a weird state.&quot; Chen Cheng&#x27;s expression changed.</p>
+<p>Hearing this, everyone realized that Hei Lou Lan&#x27;s gaze was like a wild beast, she seemed to have lost her reasoning, she could only control this killer move through her instincts to slaughter.</p>
+<p>Chu tribe&#x27;s Gu Immortals were all happy now.</p>
+<p>&quot;There is still hope!&quot;</p>
+<p>&quot;Great. As long as first supreme elder gets through this, he will win!&quot;</p>
+<p>&quot;This killer move is too powerful. If Fairy Black Moon&#x27;s killer move activation fails, she might face a backlash and even lose her life.&quot;</p>
+<p>But right at this moment, a figure flew out.</p>
+<p>It was Chu Du!</p>
+<p>But what Chu Du did next was out of everyone&#x27;s expectations.</p>
+<p>He had forcefully endured the rampaging attacks, disregarding his own life to approach Hei Lou Lan and place his arm on her shoulder.</p>
+<p>A huge vibration force was emitted, Hei Lou Lan and the dark capital strength biao were separated.</p>
+<p>Hei Lou Lan regained her senses and her pupils shrank immediately.</p>
+<p>She was shocked to find out that her left fist had penetrated the right side of Chu Du&#x27;s chest! But Chu Du used a method to save her and prevent her from suffering the immense backlash from her killer move.</p>
+<p>&quot;Why?&quot; At once, Hei Lou Lan fell into deep confusion and disbelief.</p>
+<p>But right at this moment, the dark capital strength biao&#x27;s ferocity did not lower, it appeared behind Chu Du and bit harshly.</p>
+<p>&quot;Stop!&quot; Hei Lou Lan shouted internally and willed to try to stop the dark capital strength biao.</p>
+<p>In this situation, if Chu Du was hit by it, he would definitely die!</p>
+<p>But the dark capital strength biao was not under Hei Lou Lan&#x27;s control, it was incredibly fierce.</p>
+<p>Right when Hei Lou Lan thought Chu Du was about to die, a surge of aura burst out of Chu Du&#x27;s body.</p>
+<p>His killer move was unleashed, the dark capital strength biao was sent flying from one attack.</p>
+<p>The immortals were shocked!</p>
+<p>&quot;Rank, rank eight cultivation level?!&quot;</p>
+<p>&quot;Chu Du became a rank eight Gu Immortal?&quot;</p>
+<p>&quot;Our first supreme elder is rank eight? When did he advance?!&quot;</p>
+<p>Hei Lou Lan stared with wide eyes and looked fixedly at Chu Du: &quot;Why?&quot;</p>
+<p>While speaking, she retracted her left hand from Chu Du&#x27;s chest and placed it on his shoulder.</p>
+<p>A killer move was activated by Hei Lou Lan, it was not an offensive killer move but a healing method instead.</p>
+<p>Chu Du&#x27;s expression was pale, he accepted her good intentions as he smiled: &quot;Ever since you started challenging people, I started noticing you, Fairy Black Moon.&quot;</p>
+<p>&quot;Do you know? Even if you did not challenge me, I would issue you a challenge as well!&quot;</p>
+<p>&quot;To have a fair battle!&quot;</p>
+<p>&quot;Because... strength path has been silent for far too long.&quot;</p>
+<p>&quot;Your emergence made me really happy. Continue on this path, Black Moon.&quot;</p>
+<p>&quot;Revitalize strength path and let it shine gloriously again!&quot;</p>
+<p>Chu Du expressed his aspirations.</p>
+<p>Looking at his dazzling eyes, Hei Lou Lan was silent.</p>
+<p>The dark capital strength biao had returned after being repelled by Chu Du.</p>
+<p>But now, Hei Lou Lan regained control of it.</p>
+<p>The dark capital strength biao was heavily damaged, it went back onto Hei Lou Lan&#x27;s skin.</p>
+<p>Hei Lou Lan looked at Chu Du deeply before leaving.</p>
+<p>Before departing, she said: &quot;Chu Du, you have won this battle.&quot;</p>
+<p>This battle that caused a commotion in Northern Plains&#x27; Gu Immortal ended in Chu Du&#x27;s victory, but the exact outcome of this fight was far beyond everyone&#x27;s expectations.</p>
+<p>Once Chu Du displayed rank eight cultivation level, he became a higher-up in the Gu Immortal world, be they himself or Chu tribe, their reputation soared!</p>
+<p>And in that intense battle, Chu Du first sealed his own cultivation level to fight against Fairy Black Moon as a rank seven. He then disregarded his own life to save her.</p>
+<p>Such actions caused the neutral Gu Immortals to gain good feelings towards him. Even those who supported Fairy Black Moon like Yin Wu Que, Chen Cheng, and Wu Guang secretly felt admiration towards him.</p>
+<p>After returning to Chu tribe, his god-children suggested to hold a celebratory banquet and invite the immortals, to make use of this result and elevate Chu tribe&#x27;s status.</p>
+<p>But Chu Du rejected it without second thought.</p>
+<p>He was very low-profile regarding the result of this battle.</p>
+<p>However, news that he became a rank eight Gu Immortal still caused a huge commotion in Northern Plains&#x27; current situation.</p>
+<p>Days later, Heavenly Court and Longevity Heaven let out even more surprising news that shook the world.</p>
+<p>Star Constellation Immortal Venerable and Giant Sun Immortal Venerable had revived successfully, while Gu Yue Fang Yuan had become a refinement path Demon Venerable!</p>
+<p>The world was in an uproar, all the immortals were shocked.</p>

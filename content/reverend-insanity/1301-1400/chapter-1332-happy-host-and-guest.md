@@ -5,7 +5,117 @@ weight = 1332
 chapter = 1332
 +++
 
-<p>Chi Shang drank a lot, his face was red, he spoke a lot. It seemed that after defeating Fang Yuan in this contest, his confidence had risen sharply, he felt that he could obtain the love of his life. Gu Immortals had all sorts of methods to prevent getting drunk. But that way, the joy of drinking would be gone, and it was very rude to their drinking buddies. Fang Yuan quickly raised his cup, drinking the wine as he smiled: &quot;If that is the case, I will admit I am unlucky, it was too bad that I had a competitor like you! Sigh...&quot; Fang Yuan sighed to himself, as if lamenting that the heavens saw fit to put someone so gifted in his way, he expressed that sentiment fully in his act. Chi Shang laughed loudly, stretching out his arm and patting Fang Yuan&#x27;s shoulder, consoling him. Fang Yuan laughed internally. This Chi Shang was so innocent and pure. This matter was decided long ago. As long as Fang Yuan agreed, Qiao Si Liu would enter his embrace, this was a certain thing. But Qiao Si Liu did not express her intention clearly, because this fairy had her schemes and pride, she wanted to play hard to get, so as to raise her own value. Actually, Fang Yuan could tell very clearly. Like this time, Qiao Si Liu&#x27;s letter was the expression of her attitude. &quot;Qiao Si Liu is seeing that Chi Shang and I are competing, she is very happy about it. Earlier, she had been watching on the fence, this suited her intentions.&quot; &quot;When I lost, she then took the initiative to tell me about the situation between her and Chi Shang. She wants to console me and let me know that she has no feelings for Chi Shang. It was his one sided affection.&quot; &quot;But this clever woman did not state her attitude clearly, she just talked about a fact to show her purity, while showing that she had a lot of value to her suitors.&quot; It was natural instinct for men to pursue women. How many men pursued her, and the type of men that went after her, these somewhat determined the perceived value of a woman. &quot;Qiao Si Liu is seeking to be with me, this is not her personal wish, but the political desire of Qiao clan.&quot; &quot;And with just this, I am already ahead of all her suitors.&quot; &quot;No matter how many times I fail, no matter how many women I go after, no matter how weak I am, even if I make a scene like during the moon festival, so what?&quot; &quot;I am already victorious!&quot; &quot;In fact, even if I go after another woman instead of Qiao Si Liu, she will turn around and pursue me instead.&quot; &quot;Of course, this is not love, this is... politics!&quot; Fang Yuan sneered in his mind, he had seen through everything. But he could not accept this &#x27;love&#x27; from Qiao Si Liu. Once he accepted it, he would be dragged into this vicious political spiral, he would no longer be simply Wu Yi Hai, he would be the key pawn that Qiao clan had inserted into Wu clan to fight for their own benefits.</p>
-<p>Wu Yong would no longer give him such a relaxed environment like now, he would keep Fang Yuan under close observation, suppressing him and maintaining alertness against this brother. If that happened, would Fang Yuan be able to enter the dream realms easily? Evidently, he could not, he might even get exposed. And that would lead to greater problems. Once Fang Yuan&#x27;s identity was exposed, he would face the attacks of Qiao clan, because they were a righteous path force, they had to keep a clear distance from Fang Yuan, and Wu clan and Qiao clan would try to defend their own reputation by going after Fang Yuan with all their effort, far more than the other clans. &quot;However, even though I cannot accept it, and won&#x27;t accept it, I can make use of this &#x27;love&#x27;.&quot; Using Qiao Si Liu, Fang Yuan would make Wu Yong more alert, he would arrange for Fang Yuan to be sent back to the super Gu formation, Fang Yuan&#x27;s goal would be achieved. Of course, there was nothing perfect in this world, even though this method was brilliant, it had its drawbacks. Wu Yong&#x27;s alertness, Luo Mu Zi, Lun Fei, and Chi Shang, as well as Qiao Si Liu&#x27;s other suitors were all lingering problems. There was pure love in this world, but it was indeed rare. When people lived in this world, they had to consider many things. Qiao Si Liu&#x27;s beauty, background, cultivation level and others, these were alluring temptations. Among her suitors, Chi Shang was the purest, but he still considered the element of formation path, not to mention the others. As for Fang Yuan, he was the most special one. Chi Shang&#x27;s arrival was not out of Fang Yuan&#x27;s expectations. In fact, he was mentally prepared. Even without Chi Shang, others were going to come and find problems. Even if they did not come now, they would in the future. Because Fang Yuan was approaching Qiao Si Liu, and the benefits associated with her, he angered many people. Among these people, there were suitors, and there were forces behind them after the benefits. As the saying goes, beautiful women are trouble. A beauty was not easy to pursue. Only a naive person would think of using love and emotions to conquer a beauty. Actually, there was far more. A woman&#x27;s beauty was her natural dowry. This dowry was extremely valuable, it was a huge amount of wealth. Who would not want such wealth? But not everyone could protect this wealth. If a beauty was willing to give this wealth to her partner out of pure love, then this lucky person should treat her well. But the truth was, such situations were too few. If it happened, treasure it, if it didn&#x27;t, don&#x27;t bank on it. This was not &#x27;unseemly&#x27;. This was — reality.</p>
-<p>When Fang Yuan returned to the super Gu formation, he started to think of how to settle the aftermath of this. A true chessmaster would consider many steps ahead before even moving. In fact, when Fang Yuan decided to use Qiao Si Liu&#x27;s &#x27;love&#x27; to achieve his goals, he had already started to think of how to resolve the fallout of this issue. If he handled it badly, Chi Shang would be only the first one here. The second, third, and so on, these people would be unending. This would be huge interference for Fang Yuan&#x27;s exploration of the dream realm. At the same time, Wu Yi Hai&#x27;s identity restricted Fang Yuan greatly in dealing with these challenges, he could not expose himself during the process. Fang Yuan needed to resolve this problem carefully and accurately. How? It was difficult, and yet easy. He would create a target, someone who would attract the attention of those suitors. Fang Yuan had been expecting people to find trouble with him. Chi Shang came here at such an opportune time, Fang Yuan was secretly happy about it. When he looked through Chi Shang&#x27;s information, his joy increased by several times! His opponent&#x27;s stupidity was his own fortune. Of course, there was a point: Such stupidity had nothing to do with IQ or EQ. There was a clear example from Earth, it was Yue Fei. Yue Fei went on a campaign, and when he was about to succeed, the emperor he served used twelve golden plaques to recall him back to the capital, and executed him on false charges. The reason? Was the emperor being stupid? He was! But were the emperor and officials idiots? They were not! If Yue Fei succeeded in his campaign, the reputation of his personal army would rise greatly, the emperor&#x27;s authority would be lower than this general, the threat was too big. And most importantly, if Yue Fei won, he would bring back the former emperor. Then what would the current emperor do? And now, Chi clan&#x27;s first supreme elder, Chi Qu You, intentionally nurtured a Gu Immortal like Chi Shang, was he senile, did he not know that a person like Chi Shang, who was focused on researching formation path and had no capabilities in political conflicts, would eventually become a tool that was used? He was not senile of course, he nurtured Chi Shang extensively precisely because he knew this. Because his son needed to be the first supreme elder, he needed a &#x27;tool&#x27; to assist his son, Chi Shang was the chosen one. Many people thought that Chi Shang was Fang Yuan&#x27;s problem. But that was not the case from Fang Yuan&#x27;s perspective, he felt like this was an opportunity. If he handled this well, he would resolve all the future problems ahead, he would be able to peacefully explore the dream realm and raise his foundation for the following period of time.</p>
-<p>Thus, Fang Yuan had to lose. If he did not lose, how would he create the bigger threat than himself, Chi Shang? Without this meat shield, how would he divert all of the attention away? Chi Shang was the easiest to plot against. From his information, Fang Yuan knew that Chi Shang loved to research formation path, he was most skilled in answering problems, and creating the necessary Gu formations. Fang Yuan thus challenged him using this. As a researcher, Chi Shang had his unique pride in this domain he was specialized in. He could ignore everything else, he did not pay attention to his appearance, nor did he have any interest in fortune, but he cared about this. Because this was the meaning of his life! Fang Yuan, a transformation path Gu Immortal, was using this to challenge him, this was a huge slap on Chi Shang&#x27;s face to begin with. How could Chi Shang endure this? He could not. Thus, he fell into the trap that Fang Yuan had set, he could not climb out. Not only was he stuck in the trap, he even toasted Fang Yuan, feeling that Fang Yuan was a very sincere person! &quot;You are a competitor, but, but what can I say? We are truly friends made after a fight, haha...&quot; Chi Shang laughed, placing his arm around Fang Yuan&#x27;s shoulder. &quot;Enough talking, let&#x27;s drink!&quot; Fang Yuan gulped. Chi Shang stared at Fang Yuan with wide eyes, he gave a thumbs up and said: &quot;Brother, you are so cool! Let&#x27;s drink!&quot; Both sides continued to empty their cups. &quot;Good wine.&quot; Chi Shang sighed: &quot;Sigh, to speak the truth, this is the first time I am drinking so much...&quot; Fang Yuan laughed heartily, but he was unmoved inside. The wine of the righteous path was not so easy to drink. The demonic path fought and killed, they were direct in their actions. The banquets of the righteous path was shrouded in rumors and suspicions, they were filled with schemes and plots, all sorts of devious thoughts were like undercurrents, waiting to sweep unknowing prey into the abyss. Fang Yuan lost the challenge to Chi Shang, but he was very happy, he spread news about this. So what if he lost? Sometimes, losing was a way to achieve one&#x27;s goals. Chi Shang was also very happy, he felt that this was the happiest he had ever been in a banquet. At once, both the host and guest were happy. The guy whose mother carved tattoos on his back to be loyal to his country. Back</p>
+<p>Chi Shang drank a lot, his face was red, he spoke a lot.</p>
+<p>It seemed that after defeating Fang Yuan in this contest, his confidence had risen sharply, he felt that he could obtain the love of his life.</p>
+<p>Gu Immortals had all sorts of methods to prevent getting drunk. But that way, the joy of drinking would be gone, and it was very rude to their drinking buddies.</p>
+<p>Fang Yuan quickly raised his cup, drinking the wine as he smiled: &quot;If that is the case, I will admit I am unlucky, it was too bad that I had a competitor like you! Sigh...&quot;</p>
+<p>Fang Yuan sighed to himself, as if lamenting that the heavens saw fit to put someone so gifted in his way, he expressed that sentiment fully in his act.</p>
+<p>Chi Shang laughed loudly, stretching out his arm and patting Fang Yuan&#x27;s shoulder, consoling him.</p>
+<p>Fang Yuan laughed internally.</p>
+<p>This Chi Shang was so innocent and pure.</p>
+<p>This matter was decided long ago.</p>
+<p>As long as Fang Yuan agreed, Qiao Si Liu would enter his embrace, this was a certain thing.</p>
+<p>But Qiao Si Liu did not express her intention clearly, because this fairy had her schemes and pride, she wanted to play hard to get, so as to raise her own value.</p>
+<p>Actually, Fang Yuan could tell very clearly.</p>
+<p>Like this time, Qiao Si Liu&#x27;s letter was the expression of her attitude.</p>
+<p>&quot;Qiao Si Liu is seeing that Chi Shang and I are competing, she is very happy about it. Earlier, she had been watching on the fence, this suited her intentions.&quot;</p>
+<p>&quot;When I lost, she then took the initiative to tell me about the situation between her and Chi Shang. She wants to console me and let me know that she has no feelings for Chi Shang. It was his one sided affection.&quot;</p>
+<p>&quot;But this clever woman did not state her attitude clearly, she just talked about a fact to show her purity, while showing that she had a lot of value to her suitors.&quot;</p>
+<p>It was natural instinct for men to pursue women. How many men pursued her, and the type of men that went after her, these somewhat determined the perceived value of a woman.</p>
+<p>&quot;Qiao Si Liu is seeking to be with me, this is not her personal wish, but the political desire of Qiao clan.&quot;</p>
+<p>&quot;And with just this, I am already ahead of all her suitors.&quot;</p>
+<p>&quot;No matter how many times I fail, no matter how many women I go after, no matter how weak I am, even if I make a scene like during the moon festival, so what?&quot;</p>
+<p>&quot;I am already victorious!&quot;</p>
+<p>&quot;In fact, even if I go after another woman instead of Qiao Si Liu, she will turn around and pursue me instead.&quot;</p>
+<p>&quot;Of course, this is not love, this is... politics!&quot;</p>
+<p>Fang Yuan sneered in his mind, he had seen through everything.</p>
+<p>But he could not accept this &#x27;love&#x27; from Qiao Si Liu.</p>
+<p>Once he accepted it, he would be dragged into this vicious political spiral, he would no longer be simply Wu Yi Hai, he would be the key pawn that Qiao clan had inserted into Wu clan to fight for their own benefits.</p>
+<p>Wu Yong would no longer give him such a relaxed environment like now, he would keep Fang Yuan under close observation, suppressing him and maintaining alertness against this brother.</p>
+<p>If that happened, would Fang Yuan be able to enter the dream realms easily?</p>
+<p>Evidently, he could not, he might even get exposed.</p>
+<p>And that would lead to greater problems.</p>
+<p>Once Fang Yuan&#x27;s identity was exposed, he would face the attacks of Qiao clan, because they were a righteous path force, they had to keep a clear distance from Fang Yuan, and Wu clan and Qiao clan would try to defend their own reputation by going after Fang Yuan with all their effort, far more than the other clans.</p>
+<p>&quot;However, even though I cannot accept it, and won&#x27;t accept it, I can make use of this &#x27;love&#x27;.&quot;</p>
+<p>Using Qiao Si Liu, Fang Yuan would make Wu Yong more alert, he would arrange for Fang Yuan to be sent back to the super Gu formation, Fang Yuan&#x27;s goal would be achieved.</p>
+<p>Of course, there was nothing perfect in this world, even though this method was brilliant, it had its drawbacks.</p>
+<p>Wu Yong&#x27;s alertness, Luo Mu Zi, Lun Fei, and Chi Shang, as well as Qiao Si Liu&#x27;s other suitors were all lingering problems.</p>
+<p>There was pure love in this world, but it was indeed rare.</p>
+<p>When people lived in this world, they had to consider many things.</p>
+<p>Qiao Si Liu&#x27;s beauty, background, cultivation level and others, these were alluring temptations.</p>
+<p>Among her suitors, Chi Shang was the purest, but he still considered the element of formation path, not to mention the others.</p>
+<p>As for Fang Yuan, he was the most special one.</p>
+<p>Chi Shang&#x27;s arrival was not out of Fang Yuan&#x27;s expectations.</p>
+<p>In fact, he was mentally prepared.</p>
+<p>Even without Chi Shang, others were going to come and find problems. Even if they did not come now, they would in the future.</p>
+<p>Because Fang Yuan was approaching Qiao Si Liu, and the benefits associated with her, he angered many people. Among these people, there were suitors, and there were forces behind them after the benefits.</p>
+<p>As the saying goes, beautiful women are trouble.</p>
+<p>A beauty was not easy to pursue.</p>
+<p>Only a naive person would think of using love and emotions to conquer a beauty.</p>
+<p>Actually, there was far more.</p>
+<p>A woman&#x27;s beauty was her natural dowry.</p>
+<p>This dowry was extremely valuable, it was a huge amount of wealth.</p>
+<p>Who would not want such wealth?</p>
+<p>But not everyone could protect this wealth.</p>
+<p>If a beauty was willing to give this wealth to her partner out of pure love, then this lucky person should treat her well.</p>
+<p>But the truth was, such situations were too few.</p>
+<p>If it happened, treasure it, if it didn&#x27;t, don&#x27;t bank on it.</p>
+<p>This was not &#x27;unseemly&#x27;.</p>
+<p>This was — reality.</p>
+<p>When Fang Yuan returned to the super Gu formation, he started to think of how to settle the aftermath of this.</p>
+<p>A true chessmaster would consider many steps ahead before even moving.</p>
+<p>In fact, when Fang Yuan decided to use Qiao Si Liu&#x27;s &#x27;love&#x27; to achieve his goals, he had already started to think of how to resolve the fallout of this issue.</p>
+<p>If he handled it badly, Chi Shang would be only the first one here. The second, third, and so on, these people would be unending.</p>
+<p>This would be huge interference for Fang Yuan&#x27;s exploration of the dream realm.</p>
+<p>At the same time, Wu Yi Hai&#x27;s identity restricted Fang Yuan greatly in dealing with these challenges, he could not expose himself during the process.</p>
+<p>Fang Yuan needed to resolve this problem carefully and accurately.</p>
+<p>How?</p>
+<p>It was difficult, and yet easy.</p>
+<p>He would create a target, someone who would attract the attention of those suitors.</p>
+<p>Fang Yuan had been expecting people to find trouble with him.</p>
+<p>Chi Shang came here at such an opportune time, Fang Yuan was secretly happy about it.</p>
+<p>When he looked through Chi Shang&#x27;s information, his joy increased by several times!</p>
+<p>His opponent&#x27;s stupidity was his own fortune.</p>
+<p>Of course, there was a point: Such stupidity had nothing to do with IQ or EQ.</p>
+<p>There was a clear example from Earth, it was Yue Fei.</p>
+<p>Yue Fei went on a campaign, and when he was about to succeed, the emperor he served used twelve golden plaques to recall him back to the capital, and executed him on false charges.</p>
+<p>The reason?</p>
+<p>Was the emperor being stupid?</p>
+<p>He was!</p>
+<p>But were the emperor and officials idiots?</p>
+<p>They were not!</p>
+<p>If Yue Fei succeeded in his campaign, the reputation of his personal army would rise greatly, the emperor&#x27;s authority would be lower than this general, the threat was too big.</p>
+<p>And most importantly, if Yue Fei won, he would bring back the former emperor. Then what would the current emperor do?</p>
+<p>And now, Chi clan&#x27;s first supreme elder, Chi Qu You, intentionally nurtured a Gu Immortal like Chi Shang, was he senile, did he not know that a person like Chi Shang, who was focused on researching formation path and had no capabilities in political conflicts, would eventually become a tool that was used?</p>
+<p>He was not senile of course, he nurtured Chi Shang extensively precisely because he knew this.</p>
+<p>Because his son needed to be the first supreme elder, he needed a &#x27;tool&#x27; to assist his son, Chi Shang was the chosen one.</p>
+<p>Many people thought that Chi Shang was Fang Yuan&#x27;s problem.</p>
+<p>But that was not the case from Fang Yuan&#x27;s perspective, he felt like this was an opportunity.</p>
+<p>If he handled this well, he would resolve all the future problems ahead, he would be able to peacefully explore the dream realm and raise his foundation for the following period of time.</p>
+<p>Thus, Fang Yuan had to lose.</p>
+<p>If he did not lose, how would he create the bigger threat than himself, Chi Shang?</p>
+<p>Without this meat shield, how would he divert all of the attention away?</p>
+<p>Chi Shang was the easiest to plot against.</p>
+<p>From his information, Fang Yuan knew that Chi Shang loved to research formation path, he was most skilled in answering problems, and creating the necessary Gu formations.</p>
+<p>Fang Yuan thus challenged him using this.</p>
+<p>As a researcher, Chi Shang had his unique pride in this domain he was specialized in.</p>
+<p>He could ignore everything else, he did not pay attention to his appearance, nor did he have any interest in fortune, but he cared about this. Because this was the meaning of his life!</p>
+<p>Fang Yuan, a transformation path Gu Immortal, was using this to challenge him, this was a huge slap on Chi Shang&#x27;s face to begin with.</p>
+<p>How could Chi Shang endure this?</p>
+<p>He could not.</p>
+<p>Thus, he fell into the trap that Fang Yuan had set, he could not climb out.</p>
+<p>Not only was he stuck in the trap, he even toasted Fang Yuan, feeling that Fang Yuan was a very sincere person!</p>
+<p>&quot;You are a competitor, but, but what can I say? We are truly friends made after a fight, haha...&quot; Chi Shang laughed, placing his arm around Fang Yuan&#x27;s shoulder.</p>
+<p>&quot;Enough talking, let&#x27;s drink!&quot; Fang Yuan gulped.</p>
+<p>Chi Shang stared at Fang Yuan with wide eyes, he gave a thumbs up and said: &quot;Brother, you are so cool! Let&#x27;s drink!&quot;</p>
+<p>Both sides continued to empty their cups.</p>
+<p>&quot;Good wine.&quot; Chi Shang sighed: &quot;Sigh, to speak the truth, this is the first time I am drinking so much...&quot;</p>
+<p>Fang Yuan laughed heartily, but he was unmoved inside.</p>
+<p>The wine of the righteous path was not so easy to drink.</p>
+<p>The demonic path fought and killed, they were direct in their actions. The banquets of the righteous path was shrouded in rumors and suspicions, they were filled with schemes and plots, all sorts of devious thoughts were like undercurrents, waiting to sweep unknowing prey into the abyss.</p>
+<p>Fang Yuan lost the challenge to Chi Shang, but he was very happy, he spread news about this.</p>
+<p>So what if he lost?</p>
+<p>Sometimes, losing was a way to achieve one&#x27;s goals.</p>
+<p>Chi Shang was also very happy, he felt that this was the happiest he had ever been in a banquet.</p>
+<p>At once, both the host and guest were happy.</p>
+<p>The guy whose mother carved tattoos on his back to be loyal to his country. Back</p>

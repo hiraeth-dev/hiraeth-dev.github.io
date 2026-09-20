@@ -5,8 +5,120 @@ weight = 913
 chapter = 913
 +++
 
-<p>Once Feng Jin Huang died, her soul flew into the night sky, giggling tenderly. On the back of her soul, a pair of rainbow colored feather wings unfolded. It was the manifestation of dream wings Immortal Gu! &quot;I have dream wings Immortal Gu, I can freely enter and exit the dream realm. Even if I failed this time, I can just wait for the next attempt at the dream realm, and try again.&quot; Feng Jin Huang snorted smugly internally. She had tried earlier, the wind knot grass in her hands had already been ruined by her, the knot was even worse than at the beginning. But when Feng Jin Huang was about to escape by flapping her wings, an eagle bodied beastman pounced down from the sky. Feng Jin Huang shrieked in fear, she wanted to dodge. But the wings that could flap rapidly ordinarily were extremely slow when they tried to move in this dream realm. Feng Jin Huang had underestimated Star Constellation Immortal Venerable&#x27;s dream realm, it was much more hard to deal with, her soul was crushed by the eagle bodied beastman before she could escape! With just one hit, Feng Jin Huang&#x27;s soul was heavily injured. At the next moment, Feng Jin Huang left the dream realm, her soul returned to her body. Puff! She opened her eyes and spat out a mouthful of blood. The Gu Masters from Spirit Affinity House were shocked, they quickly came over to assist her. &quot;What a formidable dream realm! If I were to take another hit like that one earlier, I would definitely die inside the dream for real.&quot; Feng Jin Huang&#x27;s eyes were flashing with lingering fear, cold sweat was pouring down her back. &quot;I was careless! Even though I have dream wings Immortal Gu, against the dream realm of an Immortal Venerable, I am not safe at all. Thankfully, I had prepared a large number of guts Gu and brought it with me. With guts Gu, my soul will recover rapidly. In half a day, I will heal completely.&quot; Feng Jin Huang wiped the cold sweat off her forehead as she stopped wasting time, she quickly started healing herself. In the dream realm, Fang Yuan directed his gaze towards the wind knot grass again. Feng Jin Huang&#x27;s earlier performance gave Fang Yuan quite a bit of information. &quot;This dream realm is not large in scale, this current scene is only the outer layer of the dream realm, this is an Immortal Venerable&#x27;s dream after all, even with the rank six dream wings Immortal Gu, she could not escape immediately. Now it seems, the crux of this dream realm is the wind knot grass in my hands.&quot; Fang Yuan had a realization. After he finished his observations, he started to untie the wind knot grass. He first tried to untie it from the outermost layer. He felt like he was facing a complex and tangled ball of string. He needed to find the outer tip of the string and pull it out slowly strand by strand.</p>
-<p>At the third layer, Fang Yuan could not continue further. It was a complete mess in front of him, the stalks were intertwined together, he could not untie it manually. &quot;To untie the wind knot grass without using brute strength, not only would I need confidence and good perception, I need to deduce it with my brain, I also need patience and ample time most importantly, along with some luck.&quot; Fang Yuan sighed to himself inwardly. He had opened a path in this wind knot grass, but this path was stuck at the third layer. There was a way out for him now, that was to retreat by two layers and try to untie this from another end. Other people could only do this as well. But there was an exception. Fang Yuan looked around and noticed that the girl he suspected was Star Constellation Immortal Venerable had already untied the seventh layer. The wind knot grass had shrunken in half in her hands. &quot;Without using any wisdom path Gu worms, using purely her brain power, she reached this stage?&quot; Fang Yuan was shocked. Even though he had been late at starting to unite the wind knot grass, the difference between them was still too great. Fang Yuan squinted, he concealed the brilliance shining in his eyes. In terms of untying ability, Fang Yuan was only at the middle to upper tier among the children. In terms of progress, he was at the middle to lower tier. More than half the time had passed already. Looking at the speed of the children, the only one with any hopes of escaping was the girl who he thought was Star Constellation Immortal Venerable. But Fang Yuan had ample confidence, he believed that not only could he succeed, he would even surpass everyone and become the first. What gave him confidence was none other than the dream path immortal killer move — Unravel Dream! Unravel dream activated. The intertwined strands in front of him slowly melted, they untied themselves. The surrounding beastmen were watching this, especially a snake beastman behind Fang Yuan, it was observing the entire process. But they did not say anything, or take any action. This was the mystical power of unravel dream. It was not an offensive killer move purely, its effect varied according to the dream he was in. For example, if Fang Yuan was fighting inside a dream realm, unravel dream would be his strongest attacking method. If the dream realm was weak, he could directly disintegrate his enemies. Right now, the dream realm&#x27;s rules were for Fang Yuan to untie the wind knot grass. Then, unravel dream&#x27;s current effect was to help Fang Yuan and untie the wind knot grass. This untying was according to the set rules, it was not unraveled through brute force.</p>
-<p>In the eyes of the surrounding children and the observing beastmen, Fang Yuan was not cheating at all, he was using his brain and successfully untying the third layer of the wind knot grass. Thus, they did not do anything, even the snake person that wanted to eat Fang Yuan only watched with a slightly surprised expression, it felt that it was somewhat unexpected that Fang Yuan could untie three layers. Unravel dream. Unravel dream. Unravel dream. Fang Yuan continued his momentum and did not stop. The wind knot grass in his hands was quickly untied, he reached the center. At the core of the wind knot grass, there was a seed. This was the self-defense mechanism of the plants in immemorial green heaven, as well as a way to use the wind for dispersal. Fang Yuan took out the seed, standing up and raising it high. &quot;He, he succeeded!&quot; &quot;This speed is too fast!!&quot; &quot;I am begging you, help me, okay?&quot; The surrounding people were stirred up, even the girl who he suspected to be Star Constellation Immortal Venerable gave him a surprised gaze. &quot;You are free, little thing, I will give you three days to escape for your life, scram now.&quot; The leader of the beastman tribe snorted, kicking Fang Yuan and sending him flying. Fang Yuan&#x27;s tiny body flew in the air for a distance of more than ten steps before crashing on the ground. What made Fang Yuan surprised was, even though he felt a little short of breath from getting kicked, he was uninjured. The beastman leader was strong and powerful, but in terms of physical movements, it had reached the stage of perfect self control. Since Fang Yuan had untied the wind knot grass, the beastman tribe had to let him go. Fang Yuan gaze a glance at the little girl, the latter had already gathered her attention to the wind knot grass in her hands. Fang Yuan hesitated slightly, before turning around and leaving. He left the bonfire, walking towards the darkness in the forest. He only took a dozen steps before there was a bright light shining in the darkness. The more he walked forward, the brighter the light, eventually, all of the darkness in front of him turned into light. The light faded slowly, and the scene of reality showed itself in front of him. Fang Yuan realized that not only did he open his eyes, his body had walked for over a dozen steps, away from the manifested dream realm. Looking back at the dream realm, Fang Yuan frowned deeply, he was very confused: &quot;What is going on? I left the dream realm just like that?&quot; He thought it over. This exploration of the dream realm did not fail. His wisdom path attainment level had risen slightly.</p>
-<p>&quot;This should not be! According to the scale of this dream realm, there should be three scenes. I got through the first round, why did I not enter the second round successfully?&quot; Fang Yuan stood on the spot as he pondered. The light emitted by the manifested dream realm shined on his face. He left the dream realm and returned on the same route from which he entered. On the other side of the dream realm, Spirit Affinity House&#x27;s group was still trying to heal Feng Jin Huang urgently. Thus, Fang Yuan was not exposed. But if he could not understand why he left the dream realm, there was a possibility that he might walk towards Spirit Affinity House&#x27;s direction the next time he left it. If others found out that Fang Yuan could explore the dream realm, it would be somewhat troublesome. After a long time, Fang Yuan&#x27;s tight frown gradually eased. He walked forwards and let the dream realm engulf him. His vision changed, Fang Yuan had entered Star Constellation Immortal Venerable&#x27;s dream realm again. Dark night, bonfire, beastmen, children, wind knot grass, the same scene was unfolding again. Using unravel dream, Fang Yuan cheated all the way, becoming the first to untie the wind knot grass. But this time, he did not leave, he walked towards the girl who he thought was Star Constellation Immortal Venerable and tried to help her untie her wind knot grass. The beastman leader did not object, he said: &quot;Little rascal, you still want to help others? Hehe, you can help her, but if you fail, you will lose your life!&quot; &quot;It seems my guess is correct.&quot; Fang Yuan was overjoyed, he untied the wind knot grass within the time limit and successfully escaped with the girl. &quot;What? I still left?&quot; Fang Yuan looked back in surprise. His second attempt still failed. Fang Yuan did not enter the second scene, he was thrown out of the dream realm like the first time. Dream realms were unpredictable and strange, their rules varied. Because each dream realm was unique, it was hard to accumulate experience in exploring the dream realm. Even though Fang Yuan had his previous life&#x27;s memories, his advantage was still very small. &quot;This time, after saving the girl, my wisdom path attainment went up more than last time...&quot; Fang Yuan muttered. He went into deep contemplation. According to this situation, there were two possibilities. One, the girl that he saved was not the real Star Constellation Immortal Venerable. Two, he had to save more children, after he hit a certain number, he would enter the second scene. Before he entered the dream realm for a third time, Fang Yuan rested slightly first. He took out guts Gu and healed his weakened soul back to its prime. Even though he had successfully escaped the dream realm and did a successful exploration, his soul was not unharmed, he still expended a lot of it in the dream realm. Of course, Fang Yuan&#x27;s soul was far less injured than Feng Jin Huang&#x27;s. The former had succeeded, while the latter&#x27;s exploration failed, this was incomparable.</p>
-<p>&quot;Third time!&quot; Fang Yuan spurring himself on inwardly, he entered the dream realm again. Everything restarted again in the dream. The moment the wind knot grass was distributed, Fang Yuan used the killer move unravel dream several times and in a few breaths&#x27; time, he untied the wind knot grass in his hand. Fang Yuan grabbed onto the seed as he raised up his right hand, shouting: &quot;I succeeded!&quot; At once, be it the beastmen or children, they stared with wide open eyes as they looked at Fang Yuan in shock. The noisy scene turned into creepy silence.</p>
+<p>Once Feng Jin Huang died, her soul flew into the night sky, giggling tenderly.</p>
+<p>On the back of her soul, a pair of rainbow colored feather wings unfolded.</p>
+<p>It was the manifestation of dream wings Immortal Gu!</p>
+<p>&quot;I have dream wings Immortal Gu, I can freely enter and exit the dream realm. Even if I failed this time, I can just wait for the next attempt at the dream realm, and try again.&quot; Feng Jin Huang snorted smugly internally.</p>
+<p>She had tried earlier, the wind knot grass in her hands had already been ruined by her, the knot was even worse than at the beginning.</p>
+<p>But when Feng Jin Huang was about to escape by flapping her wings, an eagle bodied beastman pounced down from the sky.</p>
+<p>Feng Jin Huang shrieked in fear, she wanted to dodge.</p>
+<p>But the wings that could flap rapidly ordinarily were extremely slow when they tried to move in this dream realm.</p>
+<p>Feng Jin Huang had underestimated Star Constellation Immortal Venerable&#x27;s dream realm, it was much more hard to deal with, her soul was crushed by the eagle bodied beastman before she could escape!</p>
+<p>With just one hit, Feng Jin Huang&#x27;s soul was heavily injured.</p>
+<p>At the next moment, Feng Jin Huang left the dream realm, her soul returned to her body.</p>
+<p>Puff!</p>
+<p>She opened her eyes and spat out a mouthful of blood.</p>
+<p>The Gu Masters from Spirit Affinity House were shocked, they quickly came over to assist her.</p>
+<p>&quot;What a formidable dream realm! If I were to take another hit like that one earlier, I would definitely die inside the dream for real.&quot; Feng Jin Huang&#x27;s eyes were flashing with lingering fear, cold sweat was pouring down her back.</p>
+<p>&quot;I was careless! Even though I have dream wings Immortal Gu, against the dream realm of an Immortal Venerable, I am not safe at all. Thankfully, I had prepared a large number of guts Gu and brought it with me. With guts Gu, my soul will recover rapidly. In half a day, I will heal completely.&quot; Feng Jin Huang wiped the cold sweat off her forehead as she stopped wasting time, she quickly started healing herself.</p>
+<p>In the dream realm, Fang Yuan directed his gaze towards the wind knot grass again.</p>
+<p>Feng Jin Huang&#x27;s earlier performance gave Fang Yuan quite a bit of information.</p>
+<p>&quot;This dream realm is not large in scale, this current scene is only the outer layer of the dream realm, this is an Immortal Venerable&#x27;s dream after all, even with the rank six dream wings Immortal Gu, she could not escape immediately. Now it seems, the crux of this dream realm is the wind knot grass in my hands.&quot;</p>
+<p>Fang Yuan had a realization.</p>
+<p>After he finished his observations, he started to untie the wind knot grass.</p>
+<p>He first tried to untie it from the outermost layer.</p>
+<p>He felt like he was facing a complex and tangled ball of string. He needed to find the outer tip of the string and pull it out slowly strand by strand.</p>
+<p>At the third layer, Fang Yuan could not continue further.</p>
+<p>It was a complete mess in front of him, the stalks were intertwined together, he could not untie it manually.</p>
+<p>&quot;To untie the wind knot grass without using brute strength, not only would I need confidence and good perception, I need to deduce it with my brain, I also need patience and ample time most importantly, along with some luck.&quot;</p>
+<p>Fang Yuan sighed to himself inwardly.</p>
+<p>He had opened a path in this wind knot grass, but this path was stuck at the third layer.</p>
+<p>There was a way out for him now, that was to retreat by two layers and try to untie this from another end.</p>
+<p>Other people could only do this as well.</p>
+<p>But there was an exception.</p>
+<p>Fang Yuan looked around and noticed that the girl he suspected was Star Constellation Immortal Venerable had already untied the seventh layer.</p>
+<p>The wind knot grass had shrunken in half in her hands.</p>
+<p>&quot;Without using any wisdom path Gu worms, using purely her brain power, she reached this stage?&quot; Fang Yuan was shocked.</p>
+<p>Even though he had been late at starting to unite the wind knot grass, the difference between them was still too great.</p>
+<p>Fang Yuan squinted, he concealed the brilliance shining in his eyes.</p>
+<p>In terms of untying ability, Fang Yuan was only at the middle to upper tier among the children.</p>
+<p>In terms of progress, he was at the middle to lower tier.</p>
+<p>More than half the time had passed already.</p>
+<p>Looking at the speed of the children, the only one with any hopes of escaping was the girl who he thought was Star Constellation Immortal Venerable.</p>
+<p>But Fang Yuan had ample confidence, he believed that not only could he succeed, he would even surpass everyone and become the first.</p>
+<p>What gave him confidence was none other than the dream path immortal killer move — Unravel Dream!</p>
+<p>Unravel dream activated.</p>
+<p>The intertwined strands in front of him slowly melted, they untied themselves.</p>
+<p>The surrounding beastmen were watching this, especially a snake beastman behind Fang Yuan, it was observing the entire process.</p>
+<p>But they did not say anything, or take any action.</p>
+<p>This was the mystical power of unravel dream.</p>
+<p>It was not an offensive killer move purely, its effect varied according to the dream he was in.</p>
+<p>For example, if Fang Yuan was fighting inside a dream realm, unravel dream would be his strongest attacking method. If the dream realm was weak, he could directly disintegrate his enemies.</p>
+<p>Right now, the dream realm&#x27;s rules were for Fang Yuan to untie the wind knot grass. Then, unravel dream&#x27;s current effect was to help Fang Yuan and untie the wind knot grass.</p>
+<p>This untying was according to the set rules, it was not unraveled through brute force.</p>
+<p>In the eyes of the surrounding children and the observing beastmen, Fang Yuan was not cheating at all, he was using his brain and successfully untying the third layer of the wind knot grass.</p>
+<p>Thus, they did not do anything, even the snake person that wanted to eat Fang Yuan only watched with a slightly surprised expression, it felt that it was somewhat unexpected that Fang Yuan could untie three layers.</p>
+<p>Unravel dream.</p>
+<p>Unravel dream.</p>
+<p>Unravel dream.</p>
+<p>Fang Yuan continued his momentum and did not stop. The wind knot grass in his hands was quickly untied, he reached the center.</p>
+<p>At the core of the wind knot grass, there was a seed.</p>
+<p>This was the self-defense mechanism of the plants in immemorial green heaven, as well as a way to use the wind for dispersal.</p>
+<p>Fang Yuan took out the seed, standing up and raising it high.</p>
+<p>&quot;He, he succeeded!&quot;</p>
+<p>&quot;This speed is too fast!!&quot;</p>
+<p>&quot;I am begging you, help me, okay?&quot;</p>
+<p>The surrounding people were stirred up, even the girl who he suspected to be Star Constellation Immortal Venerable gave him a surprised gaze.</p>
+<p>&quot;You are free, little thing, I will give you three days to escape for your life, scram now.&quot; The leader of the beastman tribe snorted, kicking Fang Yuan and sending him flying.</p>
+<p>Fang Yuan&#x27;s tiny body flew in the air for a distance of more than ten steps before crashing on the ground.</p>
+<p>What made Fang Yuan surprised was, even though he felt a little short of breath from getting kicked, he was uninjured.</p>
+<p>The beastman leader was strong and powerful, but in terms of physical movements, it had reached the stage of perfect self control.</p>
+<p>Since Fang Yuan had untied the wind knot grass, the beastman tribe had to let him go.</p>
+<p>Fang Yuan gaze a glance at the little girl, the latter had already gathered her attention to the wind knot grass in her hands.</p>
+<p>Fang Yuan hesitated slightly, before turning around and leaving.</p>
+<p>He left the bonfire, walking towards the darkness in the forest.</p>
+<p>He only took a dozen steps before there was a bright light shining in the darkness.</p>
+<p>The more he walked forward, the brighter the light, eventually, all of the darkness in front of him turned into light.</p>
+<p>The light faded slowly, and the scene of reality showed itself in front of him.</p>
+<p>Fang Yuan realized that not only did he open his eyes, his body had walked for over a dozen steps, away from the manifested dream realm.</p>
+<p>Looking back at the dream realm, Fang Yuan frowned deeply, he was very confused: &quot;What is going on? I left the dream realm just like that?&quot;</p>
+<p>He thought it over.</p>
+<p>This exploration of the dream realm did not fail.</p>
+<p>His wisdom path attainment level had risen slightly.</p>
+<p>&quot;This should not be! According to the scale of this dream realm, there should be three scenes. I got through the first round, why did I not enter the second round successfully?&quot;</p>
+<p>Fang Yuan stood on the spot as he pondered.</p>
+<p>The light emitted by the manifested dream realm shined on his face.</p>
+<p>He left the dream realm and returned on the same route from which he entered. On the other side of the dream realm, Spirit Affinity House&#x27;s group was still trying to heal Feng Jin Huang urgently.</p>
+<p>Thus, Fang Yuan was not exposed.</p>
+<p>But if he could not understand why he left the dream realm, there was a possibility that he might walk towards Spirit Affinity House&#x27;s direction the next time he left it.</p>
+<p>If others found out that Fang Yuan could explore the dream realm, it would be somewhat troublesome.</p>
+<p>After a long time, Fang Yuan&#x27;s tight frown gradually eased.</p>
+<p>He walked forwards and let the dream realm engulf him.</p>
+<p>His vision changed, Fang Yuan had entered Star Constellation Immortal Venerable&#x27;s dream realm again.</p>
+<p>Dark night, bonfire, beastmen, children, wind knot grass, the same scene was unfolding again.</p>
+<p>Using unravel dream, Fang Yuan cheated all the way, becoming the first to untie the wind knot grass.</p>
+<p>But this time, he did not leave, he walked towards the girl who he thought was Star Constellation Immortal Venerable and tried to help her untie her wind knot grass.</p>
+<p>The beastman leader did not object, he said: &quot;Little rascal, you still want to help others?</p>
+<p>Hehe, you can help her, but if you fail, you will lose your life!&quot;</p>
+<p>&quot;It seems my guess is correct.&quot; Fang Yuan was overjoyed, he untied the wind knot grass within the time limit and successfully escaped with the girl.</p>
+<p>&quot;What? I still left?&quot; Fang Yuan looked back in surprise.</p>
+<p>His second attempt still failed. Fang Yuan did not enter the second scene, he was thrown out of the dream realm like the first time.</p>
+<p>Dream realms were unpredictable and strange, their rules varied. Because each dream realm was unique, it was hard to accumulate experience in exploring the dream realm.</p>
+<p>Even though Fang Yuan had his previous life&#x27;s memories, his advantage was still very small.</p>
+<p>&quot;This time, after saving the girl, my wisdom path attainment went up more than last time...&quot;</p>
+<p>Fang Yuan muttered.</p>
+<p>He went into deep contemplation.</p>
+<p>According to this situation, there were two possibilities.</p>
+<p>One, the girl that he saved was not the real Star Constellation Immortal Venerable.</p>
+<p>Two, he had to save more children, after he hit a certain number, he would enter the second scene.</p>
+<p>Before he entered the dream realm for a third time, Fang Yuan rested slightly first.</p>
+<p>He took out guts Gu and healed his weakened soul back to its prime.</p>
+<p>Even though he had successfully escaped the dream realm and did a successful exploration, his soul was not unharmed, he still expended a lot of it in the dream realm.</p>
+<p>Of course, Fang Yuan&#x27;s soul was far less injured than Feng Jin Huang&#x27;s.</p>
+<p>The former had succeeded, while the latter&#x27;s exploration failed, this was incomparable.</p>
+<p>&quot;Third time!&quot; Fang Yuan spurring himself on inwardly, he entered the dream realm again.</p>
+<p>Everything restarted again in the dream.</p>
+<p>The moment the wind knot grass was distributed, Fang Yuan used the killer move unravel dream several times and in a few breaths&#x27; time, he untied the wind knot grass in his hand.</p>
+<p>Fang Yuan grabbed onto the seed as he raised up his right hand, shouting: &quot;I succeeded!&quot;</p>
+<p>At once, be it the beastmen or children, they stared with wide open eyes as they looked at Fang Yuan in shock.</p>
+<p>The noisy scene turned into creepy silence.</p>

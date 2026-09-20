@@ -5,8 +5,127 @@ weight = 941
 chapter = 941
 +++
 
-<p>A shadowy figure moved rapidly in the tall grass, like a flying snake. A moment later, the shadow vanished with a soft sound, and the flying stopped. Hei Cheng crashed into the grass nearby. A clear stream was flowing, right beside him. Hei Cheng breathed roughly, he was sprawled on the ground, not even having the strength to turn his body over. His current condition was terrible. His entire body was covered in wounds, some were deep until bones could be seen, some were still bleeding. Intense pain was assaulting him, but Hei Cheng was already used to it. These injuries were all created when he fought intensely with the pursuers from Hei tribe. If Hei tribe was not trying to capture Hei Cheng alive, with his current ability, there was no way he could have escaped so many times. &quot;I am already at my limits, huh...&quot; Hei Cheng felt grim internally, he gritted his teeth and tried to get up, seeing his reflection in the water, he smiled bitterly at himself. Originally, he was handsome and charming, having a gentlemanly disposition, but now his face was pale and his lips were green, his body was covered in blood while he escaped for his life. Suddenly, Hei Cheng&#x27;s pupils shrunk to pinpricks in size as he curled up his body, like a venomous snake that felt threatened. &quot;Who is it?!&quot; Hei Cheng&#x27;s eyes shined with a sharp light, he shouted at a nearby bush. At the next moment, with a loud bang, air currents burst out as the grass was uprooted, a large pathway was created. Hei Lou Lan wore a mask as she stepped forward. Her eerie and dark eyes were burning with flames of hatred that had been etched into her. &quot;It is you!&quot; Hei Cheng was shocked, he tried to stand up but his head was dizzy, his body shook intensely as he fell down helplessly. Thankfully, he did not collapse entirely, he managed to regain his balance but he was half squatting with tightened muscles, his expression was ruthless but he could not conceal the anxiety inside him. If he was captured by the Hei tribe Gu Immortals, he might still be able to live, even though that was unlikely. But if he ended up in the hands of Hei Lou Lan, Hei Cheng would be dead meat, his fate would be unthinkably miserable! &quot;Hei Cheng, to think that you would end up like this!&quot; Hei Lou Lan walked towards him, her body was straight like a spear, across a small river, she looked down at him arrogantly. Fate was unpredictable. Who would have thought that Hei Cheng would end up in such a state? Hei Lou Lan had never expected this! Thus, when the perfect opportunity for revenge was right in front of her, other than hatred and anger deep inside her, she also felt a trace of pity. The father and daughter stared at each other. Hatred, grudges, all of their emotions were present.</p>
-<p>For a moment, time seemed to have stopped. &quot;Don&#x27;t look at me with that gaze!!!&quot; Hei Cheng screamed, he struggled to get up. He could accept Hei Lou Lan&#x27;s anger and hatred, but he could not stand that trace of pity in her eyes. I, the great Hei Cheng, do not need anyone&#x27;s pity! Whoosh! A strong wind blew, the dark clouds in the sky moved as the surrounding grass swayed. Ripples appeared in the stream, as Fairy Li Shan&#x27;s voice was heard in the wind: &quot;Nice wind, nice scenery, this nameless location is a good place for you to die, Hei Cheng.&quot; Hei Cheng sneered, he could feel the hatred and killing intent in Fairy Li Shan&#x27;s words. He turned his head around with difficulty, looking at the surroundings: &quot;A tiger without power gets bullied by dogs, isn&#x27;t there someone else? Why are you not coming out?&quot; Fang Yuan quietly concealed himself nearby, he did not move and leaked no aura, as if he could not hear Hei Cheng&#x27;s words. &quot;You, a tiger? You are just a dog who is struggling to survive on the verge of death. Thieving dog, prepare to lose your life!&quot; Hei Lou Lan no longer concealed the anger inside her, she took a big step and sent out a punch. In an instant, there was an explosion in the air as the air currents created from her punch burst out. Fang Yuan&#x27;s mood was stirred, he felt a strong desire: &quot;This is only a mortal killer move, but with the amplification of the Great Strength True Martial Physique&#x27;s strength path dao marks, its power could actually reach such a level.&quot; Before this punch landed on Hei Cheng, the latter already felt an intense feeling of stiflement. An immeasurable sense of danger filled him. If this punch landed, Hei Cheng would die on the spot! Escape! Hei Cheng gritted his teeth, activating countless Gu worms. With a swoosh, he turned into a dark shadowy snake again, escaping towards the left side. Hei Lou Lan&#x27;s punch missed, she quickly chased him. But Hei Cheng was very fast, in a few breaths of time, Hei Lou Lan was already dozens of meters behind. In fact, even though Hei Cheng lost the Immortal Gu House Dark Prison, he still had Immortal Gu Dark Arrow. During the hundred days battle, in order to raise Hei Cheng&#x27;s strength, Shadow Sect designed a set of immortal killer moves for him. This set of immortal killer moves used dark arrow Immortal Gu as the core, right now, the dark snake that Hei Cheng had transformed into to escape was one of these immortal killer moves. &quot;Hei Cheng, stay here.&quot; Fairy Li Shan took action, the surrounding grass grew wildly as flowers grew out of nowhere. Battlefield killer move — Pear Orchard! Hei Cheng&#x27;s body froze, but he immediately broke out of the pear orchard and moved west to escape. Swoosh swoosh swoosh!</p>
-<p>Countless strength path phantoms emerged from the tall grass, blocking Hei Cheng. Fang Yuan had not exposed the identity of Xing Xiang Zi to Hei Lou Lan or Fairy Li Shan, right now he was using his strength path battle strength. Fang Yuan secretly used his wisdom path techniques and deduced three possible escape paths, he quietly assigned his strength path phantoms to those areas in order to ambush him. While escaping, Hei Cheng accidentally went towards one of them, and was stalled by Fang Yuan&#x27;s strength path phantoms. Even so, Hei Lou Lan was still a distance from Hei Cheng. Seeing that Hei Cheng was about to escape, Fairy Li Shan transmitted to Fang Yuan anxiously: &quot;Quickly stop him!&quot; Fang Yuan immediately showed his true form, using the true solid bat wings on his back to fly towards Hei Cheng. Fairy Li Shan frowned deeply, she could tell, with Fang Yuan&#x27;s speed, he could not obstruct Hei Cheng. In truth, Fang Yuan was not planning to stop Hei Cheng either. Earlier, he had fought with Hei Cheng, but times were different now. Hei Cheng was Hei Lou Lan&#x27;s weakness, as long as he was alive, he would be able to use Hei Cheng in order to scheme against Hei Lou Lan. Fang Yuan had originally wanted to use this chance to see if he could capture Hei Lou Lan. But after seeing Hei Cheng&#x27;s severe injuries, he knew the chances were close to zero. If it were possible, Fang Yuan would rather let Hei Cheng go and let him escape. But because of the alliance agreement, he could not go overboard. Hei Cheng got rid of the obstacles, he gave Fang Yuan a look as he sneered: &quot;You finally came out? It is a pity you cannot catch me!&quot; Saying so, he was about to use his immortal killer move to escape from this place. But right at this moment, the cry of an eagle resounded and almost tore his eardrums. A giant iron crown eagle phantom appeared behind Fang Yuan! His iron crown eagle strength activated, as Fang Yuan&#x27;s speed rose, he flew at lightning speed, closing the gap between him and Hei Cheng. Hei Cheng was shocked, he did not dare to slow down, he quickly escaped. Fang Yuan sighed internally. Even though he had the rank six Immortal Gu recipe of all-out effort Gu, it was still a rank five mortal Gu now. Fang Yuan&#x27;s iron crown eagle strength was obtained from an Immortal Gu, it could only be triggered with certain probabilities. In the previous battles, it had never been triggered, but today, when he did not want it to activate, it did. &quot;It seems that it was inappropriate to use time assist luck right before this to raise my luck! If I had known that Hei Cheng would be in such a condition, I would have realized that it was impossible to execute my plan.&quot; Fang Yuan sighed, his body was like an eagle, pouncing at Hei Cheng. Hei Cheng was slippery as a snake, he moved around in the grass as a dark snake, changing many directions, even though Fang Yuan attacked many times, he narrowly escaped each time. But Fairy Li Shan and Hei Lou Lan were no longer anxious, they were excited.</p>
-<p>With Fang Yuan&#x27;s interference, Hei Cheng could no longer escape. In a few breaths of time, Fairy Li Shan and Hei Lou Lan got close to them. Eventually, the three of them encircled Hei Cheng. Hei Cheng&#x27;s expression was dark and ominous, he screamed with messy hair all over his face: &quot;You want me dead? Don&#x27;t think you will leave unscathed!&quot; An intense battle erupted. Rumble... Thunderous sounds exploded, darkness shot out, flowers were flying, strength qi rampaged, the soil on the ground was sent flying. Without any doubt, Hei Cheng was heavily suppressed, Fang Yuan&#x27;s group held the advantage. &quot;It is a pity that I can only hold back on ten to twenty percent of my strength, that is the limit. If I hold back any more, Hei Lou Lan and Fairy Li Shan would realize it, they would be suspicious towards me and lose trust.&quot; Seeing that this excellent pawn in Hei Cheng was about to die, Fang Yuan felt some regret. Including this time, Fang Yuan had already fought against Hei Cheng three times. Fang Yuan and the others did not have much of an increase in battle strength compared to the previous time. But Hei Cheng&#x27;s condition was too terrible, he had experienced the hundred days battle and the immortal essence that he accumulated over all his life was expended. These last days, he had been escaping and fighting intensely with Hei tribe&#x27;s Gu Immortals. Thus at this moment, under the attacks of Fang Yuan and the rest, Hei Cheng suffered another severe injury, he spat out blood and was about to lose. &quot;Stop!&quot; Suddenly, an angry shout could be heard in the sky. A blinding green light filled the entire battlefield. Space tore open as a green hand grabbed at Hei Cheng imposingly. Fang Yuan and the others reacted quickly, but the green hand could affect time, it grabbed Hei Cheng before anyone could react. &quot;Green City Rampage!&quot; Hei Cheng could not move, he screamed while being captured. Hei Lou Lan and the others rapidly retreated. Green City Rampage was a powerful battle formation of the Olden Antiquity Era, at that time it was ranked at third in the world, only lower than Golden Heavenly Saint and Heavenly Giant Solor. The fact that Hei tribe was in control of Green City Rampage was known to everyone in Northern Plains&#x27; Gu Immortal world. At this moment, with the appearance of Green City Rampage, it meant that the four strongest supreme elders of the super force Hei tribe had arrived together. &quot;We of Hei tribe will deal with our own Hei tribe members, how can we allow you to kill him casually?&quot; &quot;Hei Lou Lan, the tribe nurtured you, but you betrayed us and went to the demonic path, you are guilty of the most heinous crimes, surrender now!&quot; At the next moment, a green giant tore through space, standing on the ground. A mysterious light shot out of its forehead, towards Hei Lou Lan. At that moment, Hei Lou Lan was unable to move!</p>
-<p>Strength path giant hand! Fang Yuan rapidly retreated as he used his rank seven battle strength. Boom! With an intense collision, strength path giant hand collided with the green hand, and the strength path giant hand disintegrated immediately. &quot;Pitiful trick!&quot; The green giant laughed coldly. But at the next moment, a fire bird crashed into the green giant&#x27;s chest out of nowhere. Boom! With an intense explosion, the green giant was sent back, almost falling onto the ground. &quot;Blazing Heaven Demoness?!&quot; The four supreme elders of Hei tribe shouted with shock and anger on their faces inside the green giant. Angry bird, this was a signature killer move of Blazing Heaven Demoness, it was widely known among Gu Immortals of Northern Plains. At this time and place, why was Blazing Heaven Demoness here? Be it the Hei tribe Gu Immortals or Fang Yuan, they were asking the same question.</p>
+<p>Escape! Escape! Escape!</p>
+<p>A shadowy figure moved rapidly in the tall grass, like a flying snake.</p>
+<p>A moment later, the shadow vanished with a soft sound, and the flying stopped. Hei Cheng crashed into the grass nearby.</p>
+<p>A clear stream was flowing, right beside him.</p>
+<p>Hei Cheng breathed roughly, he was sprawled on the ground, not even having the strength to turn his body over.</p>
+<p>His current condition was terrible.</p>
+<p>His entire body was covered in wounds, some were deep until bones could be seen, some were still bleeding. Intense pain was assaulting him, but Hei Cheng was already used to it.</p>
+<p>These injuries were all created when he fought intensely with the pursuers from Hei tribe.</p>
+<p>If Hei tribe was not trying to capture Hei Cheng alive, with his current ability, there was no way he could have escaped so many times.</p>
+<p>&quot;I am already at my limits, huh...&quot; Hei Cheng felt grim internally, he gritted his teeth and tried to get up, seeing his reflection in the water, he smiled bitterly at himself.</p>
+<p>Originally, he was handsome and charming, having a gentlemanly disposition, but now his face was pale and his lips were green, his body was covered in blood while he escaped for his life.</p>
+<p>Suddenly, Hei Cheng&#x27;s pupils shrunk to pinpricks in size as he curled up his body, like a venomous snake that felt threatened.</p>
+<p>&quot;Who is it?!&quot; Hei Cheng&#x27;s eyes shined with a sharp light, he shouted at a nearby bush.</p>
+<p>At the next moment, with a loud bang, air currents burst out as the grass was uprooted, a large pathway was created.</p>
+<p>Hei Lou Lan wore a mask as she stepped forward.</p>
+<p>Her eerie and dark eyes were burning with flames of hatred that had been etched into her.</p>
+<p>&quot;It is you!&quot; Hei Cheng was shocked, he tried to stand up but his head was dizzy, his body shook intensely as he fell down helplessly.</p>
+<p>Thankfully, he did not collapse entirely, he managed to regain his balance but he was half squatting with tightened muscles, his expression was ruthless but he could not conceal the anxiety inside him.</p>
+<p>If he was captured by the Hei tribe Gu Immortals, he might still be able to live, even though that was unlikely.</p>
+<p>But if he ended up in the hands of Hei Lou Lan, Hei Cheng would be dead meat, his fate would be unthinkably miserable!</p>
+<p>&quot;Hei Cheng, to think that you would end up like this!&quot; Hei Lou Lan walked towards him, her body was straight like a spear, across a small river, she looked down at him arrogantly.</p>
+<p>Fate was unpredictable.</p>
+<p>Who would have thought that Hei Cheng would end up in such a state?</p>
+<p>Hei Lou Lan had never expected this!</p>
+<p>Thus, when the perfect opportunity for revenge was right in front of her, other than hatred and anger deep inside her, she also felt a trace of pity.</p>
+<p>The father and daughter stared at each other.</p>
+<p>Hatred, grudges, all of their emotions were present.</p>
+<p>For a moment, time seemed to have stopped.</p>
+<p>&quot;Don&#x27;t look at me with that gaze!!!&quot; Hei Cheng screamed, he struggled to get up.</p>
+<p>He could accept Hei Lou Lan&#x27;s anger and hatred, but he could not stand that trace of pity in her eyes.</p>
+<p>I, the great Hei Cheng, do not need anyone&#x27;s pity!</p>
+<p>Whoosh!</p>
+<p>A strong wind blew, the dark clouds in the sky moved as the surrounding grass swayed.</p>
+<p>Ripples appeared in the stream, as Fairy Li Shan&#x27;s voice was heard in the wind: &quot;Nice wind, nice scenery, this nameless location is a good place for you to die, Hei Cheng.&quot;</p>
+<p>Hei Cheng sneered, he could feel the hatred and killing intent in Fairy Li Shan&#x27;s words.</p>
+<p>He turned his head around with difficulty, looking at the surroundings: &quot;A tiger without power gets bullied by dogs, isn&#x27;t there someone else? Why are you not coming out?&quot;</p>
+<p>Fang Yuan quietly concealed himself nearby, he did not move and leaked no aura, as if he could not hear Hei Cheng&#x27;s words.</p>
+<p>&quot;You, a tiger? You are just a dog who is struggling to survive on the verge of death. Thieving dog, prepare to lose your life!&quot; Hei Lou Lan no longer concealed the anger inside her, she took a big step and sent out a punch.</p>
+<p>In an instant, there was an explosion in the air as the air currents created from her punch burst out.</p>
+<p>Fang Yuan&#x27;s mood was stirred, he felt a strong desire: &quot;This is only a mortal killer move, but with the amplification of the Great Strength True Martial Physique&#x27;s strength path dao marks, its power could actually reach such a level.&quot;</p>
+<p>Before this punch landed on Hei Cheng, the latter already felt an intense feeling of stiflement.</p>
+<p>An immeasurable sense of danger filled him.</p>
+<p>If this punch landed, Hei Cheng would die on the spot!</p>
+<p>Escape!</p>
+<p>Hei Cheng gritted his teeth, activating countless Gu worms.</p>
+<p>With a swoosh, he turned into a dark shadowy snake again, escaping towards the left side.</p>
+<p>Hei Lou Lan&#x27;s punch missed, she quickly chased him.</p>
+<p>But Hei Cheng was very fast, in a few breaths of time, Hei Lou Lan was already dozens of meters behind.</p>
+<p>In fact, even though Hei Cheng lost the Immortal Gu House Dark Prison, he still had Immortal Gu Dark Arrow.</p>
+<p>During the hundred days battle, in order to raise Hei Cheng&#x27;s strength, Shadow Sect designed a set of immortal killer moves for him.</p>
+<p>This set of immortal killer moves used dark arrow Immortal Gu as the core, right now, the dark snake that Hei Cheng had transformed into to escape was one of these immortal killer moves.</p>
+<p>&quot;Hei Cheng, stay here.&quot; Fairy Li Shan took action, the surrounding grass grew wildly as flowers grew out of nowhere.</p>
+<p>Battlefield killer move — Pear Orchard!</p>
+<p>Hei Cheng&#x27;s body froze, but he immediately broke out of the pear orchard and moved west to escape.</p>
+<p>Swoosh swoosh swoosh!</p>
+<p>Countless strength path phantoms emerged from the tall grass, blocking Hei Cheng.</p>
+<p>Fang Yuan had not exposed the identity of Xing Xiang Zi to Hei Lou Lan or Fairy Li Shan, right now he was using his strength path battle strength.</p>
+<p>Fang Yuan secretly used his wisdom path techniques and deduced three possible escape paths, he quietly assigned his strength path phantoms to those areas in order to ambush him.</p>
+<p>While escaping, Hei Cheng accidentally went towards one of them, and was stalled by Fang Yuan&#x27;s strength path phantoms.</p>
+<p>Even so, Hei Lou Lan was still a distance from Hei Cheng.</p>
+<p>Seeing that Hei Cheng was about to escape, Fairy Li Shan transmitted to Fang Yuan anxiously: &quot;Quickly stop him!&quot;</p>
+<p>Fang Yuan immediately showed his true form, using the true solid bat wings on his back to fly towards Hei Cheng.</p>
+<p>Fairy Li Shan frowned deeply, she could tell, with Fang Yuan&#x27;s speed, he could not obstruct Hei Cheng.</p>
+<p>In truth, Fang Yuan was not planning to stop Hei Cheng either.</p>
+<p>Earlier, he had fought with Hei Cheng, but times were different now.</p>
+<p>Hei Cheng was Hei Lou Lan&#x27;s weakness, as long as he was alive, he would be able to use Hei Cheng in order to scheme against Hei Lou Lan.</p>
+<p>Fang Yuan had originally wanted to use this chance to see if he could capture Hei Lou Lan.</p>
+<p>But after seeing Hei Cheng&#x27;s severe injuries, he knew the chances were close to zero.</p>
+<p>If it were possible, Fang Yuan would rather let Hei Cheng go and let him escape.</p>
+<p>But because of the alliance agreement, he could not go overboard.</p>
+<p>Hei Cheng got rid of the obstacles, he gave Fang Yuan a look as he sneered: &quot;You finally came out? It is a pity you cannot catch me!&quot;</p>
+<p>Saying so, he was about to use his immortal killer move to escape from this place.</p>
+<p>But right at this moment, the cry of an eagle resounded and almost tore his eardrums.</p>
+<p>A giant iron crown eagle phantom appeared behind Fang Yuan!</p>
+<p>His iron crown eagle strength activated, as Fang Yuan&#x27;s speed rose, he flew at lightning speed, closing the gap between him and Hei Cheng.</p>
+<p>Hei Cheng was shocked, he did not dare to slow down, he quickly escaped.</p>
+<p>Fang Yuan sighed internally.</p>
+<p>Even though he had the rank six Immortal Gu recipe of all-out effort Gu, it was still a rank five mortal Gu now. Fang Yuan&#x27;s iron crown eagle strength was obtained from an Immortal Gu, it could only be triggered with certain probabilities.</p>
+<p>In the previous battles, it had never been triggered, but today, when he did not want it to activate, it did.</p>
+<p>&quot;It seems that it was inappropriate to use time assist luck right before this to raise my luck!</p>
+<p>If I had known that Hei Cheng would be in such a condition, I would have realized that it was impossible to execute my plan.&quot;</p>
+<p>Fang Yuan sighed, his body was like an eagle, pouncing at Hei Cheng.</p>
+<p>Hei Cheng was slippery as a snake, he moved around in the grass as a dark snake, changing many directions, even though Fang Yuan attacked many times, he narrowly escaped each time.</p>
+<p>But Fairy Li Shan and Hei Lou Lan were no longer anxious, they were excited.</p>
+<p>With Fang Yuan&#x27;s interference, Hei Cheng could no longer escape. In a few breaths of time, Fairy Li Shan and Hei Lou Lan got close to them.</p>
+<p>Eventually, the three of them encircled Hei Cheng.</p>
+<p>Hei Cheng&#x27;s expression was dark and ominous, he screamed with messy hair all over his face: &quot;You want me dead? Don&#x27;t think you will leave unscathed!&quot;</p>
+<p>An intense battle erupted.</p>
+<p>Rumble...</p>
+<p>Thunderous sounds exploded, darkness shot out, flowers were flying, strength qi rampaged, the soil on the ground was sent flying.</p>
+<p>Without any doubt, Hei Cheng was heavily suppressed, Fang Yuan&#x27;s group held the advantage.</p>
+<p>&quot;It is a pity that I can only hold back on ten to twenty percent of my strength, that is the limit. If I hold back any more, Hei Lou Lan and Fairy Li Shan would realize it, they would be suspicious towards me and lose trust.&quot;</p>
+<p>Seeing that this excellent pawn in Hei Cheng was about to die, Fang Yuan felt some regret.</p>
+<p>Including this time, Fang Yuan had already fought against Hei Cheng three times.</p>
+<p>Fang Yuan and the others did not have much of an increase in battle strength compared to the previous time.</p>
+<p>But Hei Cheng&#x27;s condition was too terrible, he had experienced the hundred days battle and the immortal essence that he accumulated over all his life was expended. These last days, he had been escaping and fighting intensely with Hei tribe&#x27;s Gu Immortals.</p>
+<p>Thus at this moment, under the attacks of Fang Yuan and the rest, Hei Cheng suffered another severe injury, he spat out blood and was about to lose.</p>
+<p>&quot;Stop!&quot;</p>
+<p>Suddenly, an angry shout could be heard in the sky.</p>
+<p>A blinding green light filled the entire battlefield.</p>
+<p>Space tore open as a green hand grabbed at Hei Cheng imposingly.</p>
+<p>Fang Yuan and the others reacted quickly, but the green hand could affect time, it grabbed Hei Cheng before anyone could react.</p>
+<p>&quot;Green City Rampage!&quot; Hei Cheng could not move, he screamed while being captured.</p>
+<p>Hei Lou Lan and the others rapidly retreated.</p>
+<p>Green City Rampage was a powerful battle formation of the Olden Antiquity Era, at that time it was ranked at third in the world, only lower than Golden Heavenly Saint and Heavenly Giant Solor.</p>
+<p>The fact that Hei tribe was in control of Green City Rampage was known to everyone in Northern Plains&#x27; Gu Immortal world.</p>
+<p>At this moment, with the appearance of Green City Rampage, it meant that the four strongest supreme elders of the super force Hei tribe had arrived together.</p>
+<p>&quot;We of Hei tribe will deal with our own Hei tribe members, how can we allow you to kill him casually?&quot;</p>
+<p>&quot;Hei Lou Lan, the tribe nurtured you, but you betrayed us and went to the demonic path, you are guilty of the most heinous crimes, surrender now!&quot;</p>
+<p>At the next moment, a green giant tore through space, standing on the ground.</p>
+<p>A mysterious light shot out of its forehead, towards Hei Lou Lan.</p>
+<p>At that moment, Hei Lou Lan was unable to move!</p>
+<p>Strength path giant hand!</p>
+<p>Fang Yuan rapidly retreated as he used his rank seven battle strength.</p>
+<p>Boom!</p>
+<p>With an intense collision, strength path giant hand collided with the green hand, and the strength path giant hand disintegrated immediately.</p>
+<p>&quot;Pitiful trick!&quot; The green giant laughed coldly.</p>
+<p>But at the next moment, a fire bird crashed into the green giant&#x27;s chest out of nowhere.</p>
+<p>Boom!</p>
+<p>With an intense explosion, the green giant was sent back, almost falling onto the ground.</p>
+<p>&quot;Blazing Heaven Demoness?!&quot; The four supreme elders of Hei tribe shouted with shock and anger on their faces inside the green giant.</p>
+<p>Angry bird, this was a signature killer move of Blazing Heaven Demoness, it was widely known among Gu Immortals of Northern Plains.</p>
+<p>At this time and place, why was Blazing Heaven Demoness here?</p>
+<p>Be it the Hei tribe Gu Immortals or Fang Yuan, they were asking the same question.</p>

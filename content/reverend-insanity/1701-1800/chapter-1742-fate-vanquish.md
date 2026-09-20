@@ -5,7 +5,110 @@ weight = 1742
 chapter = 1742
 +++
 
-<p>Inside Heaven Overseeing Tower. Duke Long softly caressed fate Gu with tears silently flowing down his face. Fate Gu looked like a spider, colored in black and white. Its aura had been weak, there was a scarlet wound on its body that almost cut it in two. This was the injury caused by Red Lotus Demon Venerable. But now! The scarlet wound was gone without a trace, the complete and intact fate Gu was lying down quietly with a vigorous aura. Life or death is decreed by fate, success or failure is up to heaven! All things in the world followed their own fixed trail which could not be changed. This was fate. Fate Gu was a representation of many things in Heavenly Court. Relying on fate Gu, they changed the hearts of the people, Primordial Origin Immortal Venerable led humanity to rise up, he established Heavenly Court! Relying on fate Gu, Star Constellation made arrangements and Heavenly Court resisted three Demon Venerables! Relying on fate Gu, Genesis Lotus Immortal Venerable inherited his predecessors&#x27; ambitions and progressed, Heavenly Court continued to hold onto the throne of the number one Gu Immortal force in the world! Fate Gu was not just a rank nine Gu to Heavenly Court, it was the spirit and banner that had always throbbed in the hearts of countless generations of Heavenly Court Gu Immortals! &quot;So many years, after so many years…&quot; Duke Long mumbled. The turbulent waves in his heart gradually calmed down. Duke Long&#x27;s body no longer trembled from agitation, as if he was released from a heavy burden. Indeed, he felt released from a heavy burden! Differing from most Heavenly Court Gu Immortals, repairing fate Gu had much deeper meaning to Duke Long. Because the one who injured fate Gu was none other than his proudest disciple! In other words, he was one of the culprits who injured fate Gu! All these years, Duke Long blamed himself for this. To repair fate Gu and repent for his sins, he did not hesitate in sacrificing his own life by activating heavenly dragon&#x27;s last stand. Even when he was hibernating, he had been uneasy and terrified. &quot;Can I really succeed in repairing fate Gu?&quot; &quot;I must succeed in repairing it, I must!&quot; &quot;Otherwise, how can I face the other two dukes, how can I face the common people, how can I face the later generations of Heavenly Court members, how I face the whole of humanity?!&quot; This was the voice that lingered in Duke Long&#x27;s mind every day. And now, he had finally accomplished it! &quot;It was not just because of me, this was the accomplishment of all my comrades! All our sacrifices were worth it.&quot; Duke Long smiled in satisfaction.</p>
-<p>Right now, his hair was disheveled and his dragon horns were already broken, his whole body was bathed in blood. His injuries were extremely severe but the more terrifying thing was that his lifespan was at its end. He was about to die completely without leaving behind even a trace of his soul. At the final moment of his life, although it was not his most blissful moment, it was absolutely his most free and relaxed moment. So naturally, he felt fatigue. Tired. Too tired. Both his body and mind were exhausted. The torment and burden he had endured all these years was entirely let go of, the intense battle as well as his injuries made him extremely tired. &quot;I really want to rest well.&quot; Duke Long&#x27;s breathing slowed down, his dragon eyes were like the sea which contained incomparably complex and profound emotions. He slowly took back his hand and gave one last look at fate Gu before slowly turning around. His gaze moved past Heaven Overseeing Tower and swept through the battlefield. Although the battle was still going on intensely, Calamity Luck Altar had already retreated far away. &quot;It is time to end everything, this battle…&quot; Duke Long took a deep breath and spoke loudly, his voice spreading throughout the whole Heavenly Court: &quot;Longevity Heaven, you want to leave so easily? Hehe, aren&#x27;t you too naive in thinking so?&quot; Duke Long controlled Heaven Overseeing Tower to fly into the air. This Immortal Gu House which was renowned throughout the world had returned to being a genuine rank nine Immortal Gu House now! Under Heavenly Court immortals&#x27; gaze, Heaven Overseeing Tower began to let out dazzling light, as if a deity had descended upon the battlefield. Heaven Overseeing Tower, Heaven Overseeing Tower! It monitored the world, followed the will of heaven and upheld justice for heaven! &quot;This is the true Heaven Overseeing Tower!&quot; &quot;It has been so long, it has finally reappeared….&quot; &quot;I am really fortunate, I could see such a scene in my final moments.&quot; Countless gazes of Heavenly Court Gu Immortals turned blurry, many of them were at the end of their lives but they had satisfied smiles on their faces. &quot;Retreat—!&quot; Bing Sai Chuan&#x27;s voice was so loud that it turned hoarse. Even the valiant Longevity Heaven looked scared right now as they retreated. &quot;It is pointless.&quot; Duke Long said softly from inside Heaven Overseeing Tower, his squinted eyes shined with a trace of pride. Heaven Overseeing Tower suddenly let out an intense light! Immortal killer move — Fate Vanquish. Light. Light was everywhere. White light. Filling the world from all directions.</p>
-<p>This was a true rank nine killer move! An attack decreed by fate that could not be dodge no matter which method was used. If fate wants you to lose, you will lose no matter what. This was an unavoidable attack. Light dispersed, the Heavenly Court immortals were all standing proudly in the battlefield, while the many past experts of Northern Plains looked shaken or in disbelief, some had bitter smiles as they disintegrated. The phantom River of Time also slowly disappeared. Calamity Luck Altar was in a highly ruined state, like a mortal hut that had suffered from a hurricane. Inside Calamity Luck Altar, Bing Sai Chuan, Bull Demon, and Five Elements Grandmaster were heavily injured and coughed out mouthfuls of blood. &quot;Leave.&quot; Bing Sai Chuan gasped as he controlled the half-damaged Calamity Luck Altar. Yellow light shined once again in the air, this was a backup plan prepared by Giant Sun Immortal Venerable; it paved out a road to retreat. Calamity Luck Altar entered the yellow light successfully. &quot;You want to leave?&quot; &quot;Where can you escape to!&quot; Heavenly Court immortals charged together. &quot;Leave quickly!&quot; Mao Li Qiu clenched its teeth, it forcibly stood up with its dying body and blocked Heavenly Court&#x27;s immortals with a resolute expression. &quot;Everyone, please step back.&quot; Duke Long sent out the command. Heavenly Court&#x27;s immortals were surprised. Fairy Zi Wei: &quot;Lord Duke Long?&quot; Duke Long sighed: &quot;Preserve some foundation for Heavenly Court.&quot; The immortals were silent. Heavenly Court had suffered a disastrous loss in this battle. It was truly a huge ordeal. As a result of lacking Immortal Gu, many rank eight Gu Immortals had to use their own bodies to block Longevity Heaven&#x27;s attacks, as such, many were sacrificed. In Heavenly Court&#x27;s situation, because of the immortal graveyard, they had many rank eight Gu Immortals but insufficient Immortal Gu! Duke Long still remembered how Star Constellation&#x27;s will had appeared and specially instructed him to have many rank eight Gu Immortals in hibernation. There undoubtedly were deeper reasons behind this, but in this battle, too many rank eight Gu Immortals had awakened in Heavenly Court&#x27;s immortal graveyard and many of them were sacrificed. Not only were there no new rank eight Gu Immortals in hibernation, it instead caused them to lose many existing ones. Although fate Gu was successfully restored, Duke Long still felt uneasy because of this. &quot;Heavenly Court has now completely restored rank nine fate Gu, including myself, who can go against us? Even if it is a rank nine venerable method, I can fight against it using Heaven Overseeing Tower. Everyone, please return to the immortal graveyard, I will call for you if the need arises.&quot; Duke Long urged. &quot;Since it is so…&quot; &quot;Alright, with fate Gu and Lord Duke Long here, which enemy can stop us?&quot;</p>
-<p>&quot;Then let&#x27;s go back to hibernating.&quot; Most of the Gu Immortals returned to the immortal graveyard, but few remained. These people were already at the end of their lifespan like Duke Long, there was not much meaning for them to hibernate again. Duke Long left behind Fairy Zi Wei and others to clean up the battlefield and guard Heavenly Court, while he led a small group to chase after Longevity Heaven with Heaven Overseeing Tower. Calamity Luck Altar brought the defeated forces of Longevity Heaven and escaped Heavenly Court, but so what? Their speed could never compare to Heaven Overseeing Tower&#x27;s, and furthermore, they were in Central Continent. Duke Long wanted to retain these people, whether it be killing them or taking them as prisoners, both would showcase the awe-inspiring might of Heavenly Court and let the other four regions&#x27; Gu Immortals understand the price for offending Heavenly Court! &quot;What? Longevity Heaven is retreating in defeat, Heavenly Court repaired fate Gu completely?!&quot; &quot;Sigh, this battle is our defeat, let&#x27;s retreat.&quot; &quot;Escape! Heaven Overseeing Tower with fate Gu is the number one Immortal Gu House in the current world!&quot; &quot;Be it Duke Long or Heaven Overseeing Tower, we are not their match.&quot; After getting this news, the battle situation in Infallible blessed land immediately underwent a complete change. Southern Border and Northern Plains immortals had the intentions to retreat, even Fang Yuan was the same. He felt a huge pity regarding this but he could do nothing about it. Except, he could not imagine that at the next moment, he saw the arrival of the devastated Calamity Luck Altar as well as the Heavenly Court forces chasing them closely. For some reason, Giant Sun Immortal Venerable had created the retreat route for Longevity Heaven above Hairy Foot Mountain and it had not been discovered by anyone. &quot;Good, then I will take you all out at once!&quot; Duke Long laughed heartily.</p>
+<p>Inside Heaven Overseeing Tower.</p>
+<p>Duke Long softly caressed fate Gu with tears silently flowing down his face.</p>
+<p>Fate Gu looked like a spider, colored in black and white. Its aura had been weak, there was a scarlet wound on its body that almost cut it in two. This was the injury caused by Red Lotus Demon Venerable.</p>
+<p>But now!</p>
+<p>The scarlet wound was gone without a trace, the complete and intact fate Gu was lying down quietly with a vigorous aura.</p>
+<p>Life or death is decreed by fate, success or failure is up to heaven!</p>
+<p>All things in the world followed their own fixed trail which could not be changed.</p>
+<p>This was fate.</p>
+<p>Fate Gu was a representation of many things in Heavenly Court.</p>
+<p>Relying on fate Gu, they changed the hearts of the people, Primordial Origin Immortal Venerable led humanity to rise up, he established Heavenly Court!</p>
+<p>Relying on fate Gu, Star Constellation made arrangements and Heavenly Court resisted three Demon Venerables!</p>
+<p>Relying on fate Gu, Genesis Lotus Immortal Venerable inherited his predecessors&#x27;</p>
+<p>ambitions and progressed, Heavenly Court continued to hold onto the throne of the number one Gu Immortal force in the world!</p>
+<p>Fate Gu was not just a rank nine Gu to Heavenly Court, it was the spirit and banner that had always throbbed in the hearts of countless generations of Heavenly Court Gu Immortals!</p>
+<p>&quot;So many years, after so many years…&quot; Duke Long mumbled.</p>
+<p>The turbulent waves in his heart gradually calmed down.</p>
+<p>Duke Long&#x27;s body no longer trembled from agitation, as if he was released from a heavy burden.</p>
+<p>Indeed, he felt released from a heavy burden!</p>
+<p>Differing from most Heavenly Court Gu Immortals, repairing fate Gu had much deeper meaning to Duke Long.</p>
+<p>Because the one who injured fate Gu was none other than his proudest disciple!</p>
+<p>In other words, he was one of the culprits who injured fate Gu!</p>
+<p>All these years, Duke Long blamed himself for this. To repair fate Gu and repent for his sins, he did not hesitate in sacrificing his own life by activating heavenly dragon&#x27;s last stand.</p>
+<p>Even when he was hibernating, he had been uneasy and terrified.</p>
+<p>&quot;Can I really succeed in repairing fate Gu?&quot;</p>
+<p>&quot;I must succeed in repairing it, I must!&quot;</p>
+<p>&quot;Otherwise, how can I face the other two dukes, how can I face the common people, how can I face the later generations of Heavenly Court members, how I face the whole of humanity?!&quot;</p>
+<p>This was the voice that lingered in Duke Long&#x27;s mind every day.</p>
+<p>And now, he had finally accomplished it!</p>
+<p>&quot;It was not just because of me, this was the accomplishment of all my comrades! All our sacrifices were worth it.&quot; Duke Long smiled in satisfaction.</p>
+<p>Right now, his hair was disheveled and his dragon horns were already broken, his whole body was bathed in blood.</p>
+<p>His injuries were extremely severe but the more terrifying thing was that his lifespan was at its end.</p>
+<p>He was about to die completely without leaving behind even a trace of his soul.</p>
+<p>At the final moment of his life, although it was not his most blissful moment, it was absolutely his most free and relaxed moment.</p>
+<p>So naturally, he felt fatigue.</p>
+<p>Tired.</p>
+<p>Too tired.</p>
+<p>Both his body and mind were exhausted.</p>
+<p>The torment and burden he had endured all these years was entirely let go of, the intense battle as well as his injuries made him extremely tired.</p>
+<p>&quot;I really want to rest well.&quot; Duke Long&#x27;s breathing slowed down, his dragon eyes were like the sea which contained incomparably complex and profound emotions.</p>
+<p>He slowly took back his hand and gave one last look at fate Gu before slowly turning around.</p>
+<p>His gaze moved past Heaven Overseeing Tower and swept through the battlefield.</p>
+<p>Although the battle was still going on intensely, Calamity Luck Altar had already retreated far away.</p>
+<p>&quot;It is time to end everything, this battle…&quot; Duke Long took a deep breath and spoke loudly, his voice spreading throughout the whole Heavenly Court: &quot;Longevity Heaven, you want to leave so easily? Hehe, aren&#x27;t you too naive in thinking so?&quot;</p>
+<p>Duke Long controlled Heaven Overseeing Tower to fly into the air.</p>
+<p>This Immortal Gu House which was renowned throughout the world had returned to being a genuine rank nine Immortal Gu House now!</p>
+<p>Under Heavenly Court immortals&#x27; gaze, Heaven Overseeing Tower began to let out dazzling light, as if a deity had descended upon the battlefield.</p>
+<p>Heaven Overseeing Tower, Heaven Overseeing Tower!</p>
+<p>It monitored the world, followed the will of heaven and upheld justice for heaven!</p>
+<p>&quot;This is the true Heaven Overseeing Tower!&quot;</p>
+<p>&quot;It has been so long, it has finally reappeared….&quot;</p>
+<p>&quot;I am really fortunate, I could see such a scene in my final moments.&quot;</p>
+<p>Countless gazes of Heavenly Court Gu Immortals turned blurry, many of them were at the end of their lives but they had satisfied smiles on their faces.</p>
+<p>&quot;Retreat—!&quot; Bing Sai Chuan&#x27;s voice was so loud that it turned hoarse.</p>
+<p>Even the valiant Longevity Heaven looked scared right now as they retreated.</p>
+<p>&quot;It is pointless.&quot; Duke Long said softly from inside Heaven Overseeing Tower, his squinted eyes shined with a trace of pride.</p>
+<p>Heaven Overseeing Tower suddenly let out an intense light!</p>
+<p>Immortal killer move — Fate Vanquish.</p>
+<p>Light.</p>
+<p>Light was everywhere.</p>
+<p>White light.</p>
+<p>Filling the world from all directions.</p>
+<p>This was a true rank nine killer move!</p>
+<p>An attack decreed by fate that could not be dodge no matter which method was used.</p>
+<p>If fate wants you to lose, you will lose no matter what.</p>
+<p>This was an unavoidable attack.</p>
+<p>Light dispersed, the Heavenly Court immortals were all standing proudly in the battlefield, while the many past experts of Northern Plains looked shaken or in disbelief, some had bitter smiles as they disintegrated.</p>
+<p>The phantom River of Time also slowly disappeared.</p>
+<p>Calamity Luck Altar was in a highly ruined state, like a mortal hut that had suffered from a hurricane.</p>
+<p>Inside Calamity Luck Altar, Bing Sai Chuan, Bull Demon, and Five Elements Grandmaster were heavily injured and coughed out mouthfuls of blood.</p>
+<p>&quot;Leave.&quot; Bing Sai Chuan gasped as he controlled the half-damaged Calamity Luck Altar.</p>
+<p>Yellow light shined once again in the air, this was a backup plan prepared by Giant Sun Immortal Venerable; it paved out a road to retreat.</p>
+<p>Calamity Luck Altar entered the yellow light successfully.</p>
+<p>&quot;You want to leave?&quot;</p>
+<p>&quot;Where can you escape to!&quot;</p>
+<p>Heavenly Court immortals charged together.</p>
+<p>&quot;Leave quickly!&quot; Mao Li Qiu clenched its teeth, it forcibly stood up with its dying body and blocked Heavenly Court&#x27;s immortals with a resolute expression.</p>
+<p>&quot;Everyone, please step back.&quot; Duke Long sent out the command.</p>
+<p>Heavenly Court&#x27;s immortals were surprised.</p>
+<p>Fairy Zi Wei: &quot;Lord Duke Long?&quot;</p>
+<p>Duke Long sighed: &quot;Preserve some foundation for Heavenly Court.&quot;</p>
+<p>The immortals were silent.</p>
+<p>Heavenly Court had suffered a disastrous loss in this battle.</p>
+<p>It was truly a huge ordeal.</p>
+<p>As a result of lacking Immortal Gu, many rank eight Gu Immortals had to use their own bodies to block Longevity Heaven&#x27;s attacks, as such, many were sacrificed.</p>
+<p>In Heavenly Court&#x27;s situation, because of the immortal graveyard, they had many rank eight Gu Immortals but insufficient Immortal Gu!</p>
+<p>Duke Long still remembered how Star Constellation&#x27;s will had appeared and specially instructed him to have many rank eight Gu Immortals in hibernation. There undoubtedly were deeper reasons behind this, but in this battle, too many rank eight Gu Immortals had awakened in Heavenly Court&#x27;s immortal graveyard and many of them were sacrificed.</p>
+<p>Not only were there no new rank eight Gu Immortals in hibernation, it instead caused them to lose many existing ones.</p>
+<p>Although fate Gu was successfully restored, Duke Long still felt uneasy because of this.</p>
+<p>&quot;Heavenly Court has now completely restored rank nine fate Gu, including myself, who can go against us? Even if it is a rank nine venerable method, I can fight against it using Heaven Overseeing Tower. Everyone, please return to the immortal graveyard, I will call for you if the need arises.&quot; Duke Long urged.</p>
+<p>&quot;Since it is so…&quot;</p>
+<p>&quot;Alright, with fate Gu and Lord Duke Long here, which enemy can stop us?&quot;</p>
+<p>&quot;Then let&#x27;s go back to hibernating.&quot;</p>
+<p>Most of the Gu Immortals returned to the immortal graveyard, but few remained. These people were already at the end of their lifespan like Duke Long, there was not much meaning for them to hibernate again.</p>
+<p>Duke Long left behind Fairy Zi Wei and others to clean up the battlefield and guard Heavenly Court, while he led a small group to chase after Longevity Heaven with Heaven Overseeing Tower.</p>
+<p>Calamity Luck Altar brought the defeated forces of Longevity Heaven and escaped Heavenly Court, but so what?</p>
+<p>Their speed could never compare to Heaven Overseeing Tower&#x27;s, and furthermore, they were in Central Continent.</p>
+<p>Duke Long wanted to retain these people, whether it be killing them or taking them as prisoners, both would showcase the awe-inspiring might of Heavenly Court and let the other four regions&#x27; Gu Immortals understand the price for offending Heavenly Court!</p>
+<p>&quot;What? Longevity Heaven is retreating in defeat, Heavenly Court repaired fate Gu completely?!&quot;</p>
+<p>&quot;Sigh, this battle is our defeat, let&#x27;s retreat.&quot;</p>
+<p>&quot;Escape! Heaven Overseeing Tower with fate Gu is the number one Immortal Gu House in the current world!&quot;</p>
+<p>&quot;Be it Duke Long or Heaven Overseeing Tower, we are not their match.&quot;</p>
+<p>After getting this news, the battle situation in Infallible blessed land immediately underwent a complete change.</p>
+<p>Southern Border and Northern Plains immortals had the intentions to retreat, even Fang Yuan was the same.</p>
+<p>He felt a huge pity regarding this but he could do nothing about it.</p>
+<p>Except, he could not imagine that at the next moment, he saw the arrival of the devastated Calamity Luck Altar as well as the Heavenly Court forces chasing them closely.</p>
+<p>For some reason, Giant Sun Immortal Venerable had created the retreat route for Longevity Heaven above Hairy Foot Mountain and it had not been discovered by anyone.</p>
+<p>&quot;Good, then I will take you all out at once!&quot; Duke Long laughed heartily.</p>

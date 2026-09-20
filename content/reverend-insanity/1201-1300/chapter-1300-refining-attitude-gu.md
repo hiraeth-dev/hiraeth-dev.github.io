@@ -5,7 +5,96 @@ weight = 1300
 chapter = 1300
 +++
 
-<p>&quot;This particular trading convention is very different.&quot; &quot;That&#x27;s right, it is truly not normal. In our usual trading conventions, even though there are Immortal Gu trades, they will not appear in the first round.&quot; It was traditionally hard to trade Immortal Gu, most of the members in the trading convention had limited chances. Thus, they would usually put up the items which were unlikely to be traded to the end. Thus, even if they wanted to trade away their Immortal Gu, the Gu Immortals would choose to do it in the last few rounds. This was normal in trading conventions. But this time, it was different. Not only was there an Immortal Gu trade in the first round, it happened twice. And more importantly, both times succeeded! And in these two transactions, Fang Yuan played a pivotal role. Even though this was the first time he came to a trading convention, the Gu Immortals present did not dare to underestimate this newcomer, Chu Ying, anymore. &quot;We will start the second round now, Fairy Tong Hua, please.&quot; Miao Ming Shen said. He was very happy. The trading convention had just started and Immortal Gu were already traded, this result would help him a lot when he traveled over Eastern Sea&#x27;s Gu Immortal world. Tong Hua went onto the platform, she wanted to trade another type of desolate beast. &quot;It seems that she is trying to develop her blessed land.&quot; Fang Yuan, who was sitting beside Miao Ming Shen, spoke to him. Miao Ming Shen smiled: &quot;Brother Chu, you might not know, but Fairy Tong Hua had just passed a tribulation recently.&quot; &quot;So that&#x27;s it.&quot; Fang Yuan understood. After a Gu Immortal passed a tribulation, their immortal aperture&#x27;s resources would be greatly damaged, but they would gain a lot of dao marks too. These new dao marks would modify the immortal aperture&#x27;s environment, causing it to be more accommodating to different types of resources. Thus, Fairy Tong Hua tried to trade for all sorts of resources in this convention, planning to develop them in her immortal aperture. &quot;This Immortal Tong Hua is very affluent. Not only is her immortal aperture managed well, she also has a personal sea area, called rainbow aurora sea. Whenever it is dawn or dusk, aurora light shines above the sea area, weaving with the sky, it is extremely beautiful. This sea area is not far away. After the trading convention ends, Fairy Tong Hua will invite everyone to her sea area for a gathering. By then, Brother Chu can go with us.&quot; Miao Ming Shen said, giving Fang Yuan some information about Tong Hua. Fang Yuan gained more understanding of her. &quot;Then I will thank you for a recommendation. To speak the truth, I am interested in her light shine fungus.&quot; Fang Yuan said directly. &quot;No problem, I can help you with that.&quot; Miao Ming Shen was someone who knew the best way to interact with someone, he gladly took on this task. After the trading of Immortal Gu, his relationship with Fang Yuan improved greatly.</p>
-<p>Fang Yuan knew why Miao Ming Shen&#x27;s attitude had changed. The reason was none other than — lifespan Gu! What could interest Miao Ming Shen was undoubtedly lifespan Gu. Fang Yuan used a rank six Immortal Gu to trade for a rank seven Immortal Gu, and he even used a declining strength path Gu. But Miao Ming Shen was very satisfied with the transaction. This was because Fang Yuan used a hundred years of lifespan Gu to make up for the difference. Lifespan Gu was only a mortal Gu, but it was really rare. Many Gu Immortals would keep them in their hands and refuse to trade them. They would keep these lifespan Gu for the time when they really needed it. Miao Ming Shen&#x27;s lifespan was not near its end, but he did not have a lot left. Thus, he was looking for the tributary of the River of Time, he wanted to find some methods to extend lifespan. In the five hundred years of Fang Yuan&#x27;s previous life, Miao Ming Shen had entered the blue dragon whale many times to look for the lifespan Gu inside. Fang Yuan offered him lifespan Gu, why would Miao Ming Shen not be happy with it? Furthermore, Fang Yuan took out a hunded years of lifespan Gu, what did that mean? Miao Ming Shen was not dumb, he thought: This meant that Chu Ying had more lifespan Gu. Otherwise, why would he use them so &#x27;unsparingly&#x27;? Thus, Miao Ming Shen wanted to improve his relationship with Fang Yuan. But he did not know that this was Fang Yuan&#x27;s intention. Fang Yuan&#x27;s motives were deeper. The blue dragon whale! According to his previous life&#x27;s information, Fang Yuan had a greater understanding of this opportunity than Miao Ming Shen currently. The transactions continued. During the second round, Gu Immortals went up one by one, and most of their transactions succeeded. Soon, it was Fang Yuan&#x27;s turn. Immortal Gu Woman&#x27;s Heart. Fang Yuan was about to trade this rank six Immortal Gu away when his expression suddenly changed. &quot;Sorry, something happened, everyone, I need to leave early.&quot; Fang Yuan said. The Gu Immortals were shocked. This trading convention was a rare chance, to think that Fang Yuan was giving up now. But the trading convention was not a restricted event, it was fine if Fang Yuan wanted to leave, they could not stop him. &quot;What happened? Do you need my help?&quot; Miao Ming Shen sent Fang Yuan off. &quot;It is not a big matter, but it is urgent. This is such a waste, I am missing out on the trading convention!&quot; Fang Yuan sighed. Miao Ming Shen quickly said: &quot;Don&#x27;t worry, when such a trading convention happens again, I will inform you.&quot; &quot;I will thank you in advance, goodbye.&quot; &quot;See you again.&quot; Fang Yuan flew off into the clouds, vanishing from sight.</p>
-<p>Miao Ming Shen sighed, looking at Fang Yuan vanish, he turned around and went back into the cave. While flying in the clouds, Fang Yuan&#x27;s expression was ugly. He had left earlier because a wisdom path great expert had suddenly tried to deduce his whereabouts. The power from Dark Limit was almost used up, with this huge expenditure now, Fang Yuan was forced to leave the trading convention prematurely. &quot;Damn it, which Gu Immortal is deducing me? I wonder if they are deducing Fang Yuan or Liu Guan Yi?&quot; Fang Yuan felt some regret. If he had some more time, he might have traded woman&#x27;s heart Immortal Gu away. Such opportunities were incredibly rare. After one convention, many Gu Immortals would lay low for many years before wanting to trade again. After he got to a safe distance, Fang Yuan used the new divination tortoise shell Immortal Gu, as well as change form Immortal Gu. Immortal killer move — Divination Tortoise Transformation! Transformation path killer moves were so simple and straightforward. Because he lacked the help of mortal Gu, this killer move&#x27;s effect was not outstanding. But because of change form Immortal Gu, this panacea, although the transformation had none of the battle strength from the divination tortoise, Fang Yuan could use it. This divination tortoise transformation was to give Fang Yuan more time. A while later, he found a safe environment and placed his immortal aperture. For several days, he stayed inside the immortal aperture. He started to think about how he could refine attitude Gu. Even though he had two new Immortal Gu, they were not useful for refining attitude Gu. Fang Yuan was helpless about this. Maybe the third Gu for Woman&#x27;s Heart could have been a suitable Immortal Gu. But Fang Yuan missed this opportunity. He needed to stay inside the immortal aperture for some time so that Dark Limit could be used again. By then, the trading convention would be over. &quot;This means I can only borrow Immortal Gu from Lang Ya blessed land.&quot; Fang Yuan had a backup plan. But this was a secondary method. The best situation was for Fang Yuan to settle it himself. Borrowing Immortal Gu was not a feasible plan. If Fang Yuan used his own Immortal Gu to deduce an immortal killer move to refine attitude Gu, it would help him greatly, he could even fuse this immortal killer move into reverse flow protection seal. Think about it, by then, Reverse Flow River would flow around Fang Yuan&#x27;s body, and any Immortal Gu that flew inside would be refined by Fang Yuan. How tempting was that? Fang Yuan had a long term goal regarding this. But it was a pity, even though he joined the trading convention, he did not gain any progress in this aspect.</p>
-<p>But thankfully, Lang Ya blessed land had no lack of refinement path Immortal Gu. Through treasure yellow heaven, and after expending Lang Ya Sect contribution points, Fang Yuan borrowed some Immortal Gu. A commotion occurred in treasure yellow heaven again, but Fang Yuan had no choice but to do this. Using these refinement path Immortal Gu, Fang Yuan came up with an immortal killer move using Reverse Flow River to refine attitude Gu. Fang Yuan purposely slowed his movement, half a month later, he successfully refined attitude Gu. And now, he finally owned this legendary rank eight Immortal Gu.</p>
+<p>&quot;This particular trading convention is very different.&quot;</p>
+<p>&quot;That&#x27;s right, it is truly not normal. In our usual trading conventions, even though there are Immortal Gu trades, they will not appear in the first round.&quot;</p>
+<p>It was traditionally hard to trade Immortal Gu, most of the members in the trading convention had limited chances. Thus, they would usually put up the items which were unlikely to be traded to the end.</p>
+<p>Thus, even if they wanted to trade away their Immortal Gu, the Gu Immortals would choose to do it in the last few rounds.</p>
+<p>This was normal in trading conventions.</p>
+<p>But this time, it was different.</p>
+<p>Not only was there an Immortal Gu trade in the first round, it happened twice. And more importantly, both times succeeded!</p>
+<p>And in these two transactions, Fang Yuan played a pivotal role.</p>
+<p>Even though this was the first time he came to a trading convention, the Gu Immortals present did not dare to underestimate this newcomer, Chu Ying, anymore.</p>
+<p>&quot;We will start the second round now, Fairy Tong Hua, please.&quot; Miao Ming Shen said.</p>
+<p>He was very happy.</p>
+<p>The trading convention had just started and Immortal Gu were already traded, this result would help him a lot when he traveled over Eastern Sea&#x27;s Gu Immortal world.</p>
+<p>Tong Hua went onto the platform, she wanted to trade another type of desolate beast.</p>
+<p>&quot;It seems that she is trying to develop her blessed land.&quot; Fang Yuan, who was sitting beside Miao Ming Shen, spoke to him.</p>
+<p>Miao Ming Shen smiled: &quot;Brother Chu, you might not know, but Fairy Tong Hua had just passed a tribulation recently.&quot;</p>
+<p>&quot;So that&#x27;s it.&quot; Fang Yuan understood.</p>
+<p>After a Gu Immortal passed a tribulation, their immortal aperture&#x27;s resources would be greatly damaged, but they would gain a lot of dao marks too. These new dao marks would modify the immortal aperture&#x27;s environment, causing it to be more accommodating to different types of resources.</p>
+<p>Thus, Fairy Tong Hua tried to trade for all sorts of resources in this convention, planning to develop them in her immortal aperture.</p>
+<p>&quot;This Immortal Tong Hua is very affluent. Not only is her immortal aperture managed well, she also has a personal sea area, called rainbow aurora sea. Whenever it is dawn or dusk, aurora light shines above the sea area, weaving with the sky, it is extremely beautiful. This sea area is not far away. After the trading convention ends, Fairy Tong Hua will invite everyone to her sea area for a gathering. By then, Brother Chu can go with us.&quot; Miao Ming Shen said, giving Fang Yuan some information about Tong Hua.</p>
+<p>Fang Yuan gained more understanding of her.</p>
+<p>&quot;Then I will thank you for a recommendation. To speak the truth, I am interested in her light shine fungus.&quot; Fang Yuan said directly.</p>
+<p>&quot;No problem, I can help you with that.&quot; Miao Ming Shen was someone who knew the best way to interact with someone, he gladly took on this task.</p>
+<p>After the trading of Immortal Gu, his relationship with Fang Yuan improved greatly.</p>
+<p>Fang Yuan knew why Miao Ming Shen&#x27;s attitude had changed.</p>
+<p>The reason was none other than — lifespan Gu!</p>
+<p>What could interest Miao Ming Shen was undoubtedly lifespan Gu. Fang Yuan used a rank six Immortal Gu to trade for a rank seven Immortal Gu, and he even used a declining strength path Gu.</p>
+<p>But Miao Ming Shen was very satisfied with the transaction. This was because Fang Yuan used a hundred years of lifespan Gu to make up for the difference.</p>
+<p>Lifespan Gu was only a mortal Gu, but it was really rare.</p>
+<p>Many Gu Immortals would keep them in their hands and refuse to trade them. They would keep these lifespan Gu for the time when they really needed it.</p>
+<p>Miao Ming Shen&#x27;s lifespan was not near its end, but he did not have a lot left.</p>
+<p>Thus, he was looking for the tributary of the River of Time, he wanted to find some methods to extend lifespan.</p>
+<p>In the five hundred years of Fang Yuan&#x27;s previous life, Miao Ming Shen had entered the blue dragon whale many times to look for the lifespan Gu inside.</p>
+<p>Fang Yuan offered him lifespan Gu, why would Miao Ming Shen not be happy with it?</p>
+<p>Furthermore, Fang Yuan took out a hunded years of lifespan Gu, what did that mean?</p>
+<p>Miao Ming Shen was not dumb, he thought: This meant that Chu Ying had more lifespan Gu.</p>
+<p>Otherwise, why would he use them so &#x27;unsparingly&#x27;?</p>
+<p>Thus, Miao Ming Shen wanted to improve his relationship with Fang Yuan.</p>
+<p>But he did not know that this was Fang Yuan&#x27;s intention.</p>
+<p>Fang Yuan&#x27;s motives were deeper.</p>
+<p>The blue dragon whale!</p>
+<p>According to his previous life&#x27;s information, Fang Yuan had a greater understanding of this opportunity than Miao Ming Shen currently.</p>
+<p>The transactions continued.</p>
+<p>During the second round, Gu Immortals went up one by one, and most of their transactions succeeded.</p>
+<p>Soon, it was Fang Yuan&#x27;s turn.</p>
+<p>Immortal Gu Woman&#x27;s Heart.</p>
+<p>Fang Yuan was about to trade this rank six Immortal Gu away when his expression suddenly changed.</p>
+<p>&quot;Sorry, something happened, everyone, I need to leave early.&quot; Fang Yuan said.</p>
+<p>The Gu Immortals were shocked.</p>
+<p>This trading convention was a rare chance, to think that Fang Yuan was giving up now.</p>
+<p>But the trading convention was not a restricted event, it was fine if Fang Yuan wanted to leave, they could not stop him.</p>
+<p>&quot;What happened? Do you need my help?&quot; Miao Ming Shen sent Fang Yuan off.</p>
+<p>&quot;It is not a big matter, but it is urgent. This is such a waste, I am missing out on the trading convention!&quot; Fang Yuan sighed.</p>
+<p>Miao Ming Shen quickly said: &quot;Don&#x27;t worry, when such a trading convention happens again, I will inform you.&quot;</p>
+<p>&quot;I will thank you in advance, goodbye.&quot;</p>
+<p>&quot;See you again.&quot;</p>
+<p>Fang Yuan flew off into the clouds, vanishing from sight.</p>
+<p>Miao Ming Shen sighed, looking at Fang Yuan vanish, he turned around and went back into the cave.</p>
+<p>While flying in the clouds, Fang Yuan&#x27;s expression was ugly.</p>
+<p>He had left earlier because a wisdom path great expert had suddenly tried to deduce his whereabouts.</p>
+<p>The power from Dark Limit was almost used up, with this huge expenditure now, Fang Yuan was forced to leave the trading convention prematurely.</p>
+<p>&quot;Damn it, which Gu Immortal is deducing me? I wonder if they are deducing Fang Yuan or Liu Guan Yi?&quot;</p>
+<p>Fang Yuan felt some regret.</p>
+<p>If he had some more time, he might have traded woman&#x27;s heart Immortal Gu away.</p>
+<p>Such opportunities were incredibly rare.</p>
+<p>After one convention, many Gu Immortals would lay low for many years before wanting to trade again.</p>
+<p>After he got to a safe distance, Fang Yuan used the new divination tortoise shell Immortal Gu, as well as change form Immortal Gu.</p>
+<p>Immortal killer move — Divination Tortoise Transformation!</p>
+<p>Transformation path killer moves were so simple and straightforward.</p>
+<p>Because he lacked the help of mortal Gu, this killer move&#x27;s effect was not outstanding. But because of change form Immortal Gu, this panacea, although the transformation had none of the battle strength from the divination tortoise, Fang Yuan could use it.</p>
+<p>This divination tortoise transformation was to give Fang Yuan more time.</p>
+<p>A while later, he found a safe environment and placed his immortal aperture.</p>
+<p>For several days, he stayed inside the immortal aperture.</p>
+<p>He started to think about how he could refine attitude Gu.</p>
+<p>Even though he had two new Immortal Gu, they were not useful for refining attitude Gu.</p>
+<p>Fang Yuan was helpless about this.</p>
+<p>Maybe the third Gu for Woman&#x27;s Heart could have been a suitable Immortal Gu.</p>
+<p>But Fang Yuan missed this opportunity.</p>
+<p>He needed to stay inside the immortal aperture for some time so that Dark Limit could be used again.</p>
+<p>By then, the trading convention would be over.</p>
+<p>&quot;This means I can only borrow Immortal Gu from Lang Ya blessed land.&quot; Fang Yuan had a backup plan.</p>
+<p>But this was a secondary method.</p>
+<p>The best situation was for Fang Yuan to settle it himself.</p>
+<p>Borrowing Immortal Gu was not a feasible plan.</p>
+<p>If Fang Yuan used his own Immortal Gu to deduce an immortal killer move to refine attitude Gu, it would help him greatly, he could even fuse this immortal killer move into reverse flow protection seal.</p>
+<p>Think about it, by then, Reverse Flow River would flow around Fang Yuan&#x27;s body, and any Immortal Gu that flew inside would be refined by Fang Yuan. How tempting was that?</p>
+<p>Fang Yuan had a long term goal regarding this.</p>
+<p>But it was a pity, even though he joined the trading convention, he did not gain any progress in this aspect.</p>
+<p>But thankfully, Lang Ya blessed land had no lack of refinement path Immortal Gu.</p>
+<p>Through treasure yellow heaven, and after expending Lang Ya Sect contribution points, Fang Yuan borrowed some Immortal Gu.</p>
+<p>A commotion occurred in treasure yellow heaven again, but Fang Yuan had no choice but to do this.</p>
+<p>Using these refinement path Immortal Gu, Fang Yuan came up with an immortal killer move using Reverse Flow River to refine attitude Gu.</p>
+<p>Fang Yuan purposely slowed his movement, half a month later, he successfully refined attitude Gu.</p>
+<p>And now, he finally owned this legendary rank eight Immortal Gu.</p>

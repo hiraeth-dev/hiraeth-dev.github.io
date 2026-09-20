@@ -5,8 +5,124 @@ weight = 1285
 chapter = 1285
 +++
 
-<p>&quot;If you think that there will be a chance to escape when we fight, you can forget about it. Today, I only have one target, that is you. Do you know how much of a price I&#x27;ve paid to refine fortune rivalling heaven Gu? You foiled my cultivation plan, you are the person I hate most in my life. If I do not kill you, I will never be appeased!&quot; Old Ancestor Xue Hu looked at Fang Yuan with deep hatred, his words were like an icy river pouring on Fang Yuan. But Fang Yuan was still expressionless. He was like a rock, a deaf person, anyone&#x27;s words, be it threats or promises, had no effect on him. As time passed, Fang Yuan continued to move forward. Unknowingly, the growling of the dog tail life extending ferret, Mao Li Qiu, became softer. This giant purple ferret&#x27;s expression had changed. It spoke in a weird and incredulous tone, looking at Fang Yuan: &quot;No way...&quot; &quot;What?&quot; Black Extremity was confused. At this moment, Old Ancestor Xue Hu, Bi Chen Tian, and Wei Ling Yang also had changes in their expressions. They sensed something. Soon, the other Gu Immortals present were stirred up, they quickly shouted. &quot;Hmm?&quot; &quot;This is a Gu worm&#x27;s aura? But it doesn&#x27;t seem like it!&quot; &quot;What Gu worm? Impossible, does he also have a rank nine Immortal Gu?&quot; &quot;This is weird, this is not an Immortal Gu&#x27;s aura, or rather, it is not complete, this is so strange!&quot; Suddenly, Yu Yi Ye Zi&#x27;s eyes shined, he guessed the truth as he said: &quot;This situation, he is refining Gu!&quot; A Gu Immortal immediately mocked: &quot;How can that be? Refining Gu in Reverse Flow River?&quot; That was true. Gu worms could not be used in Reverse Flow River, unless it was a rank nine Immortal Gu. Even though Fang Yuan had wisdom Gu, it was inside Lang Ya blessed land, he could not use any Gu worms, not to mention refining Gu. Fang Yuan also felt the change inside his body. He was expressionless, but he was shocked on the inside: &quot;It seems... I really am refining Gu? What is going on? Every step I take, the aura in my body strengthens. What is going on?&quot; Even though Fang Yuan did not understand it, he knew that this was a turning point! The situation was at its worst, no matter what, Fang Yuan wanted to try. He continued to move forward. Step by step. He walked steadily, he was expressionless, but it gave others a feeling of strength. &quot;Why does he show no expression?&quot; A Gu Immortal suddenly asked. The immortals finally reacted. That was true.</p>
-<p>Other than Fang Yuan, everyone else who had been in this situation had distorted expressions, they were in pain, or they were going crazy or sobbing. But why was Fang Yuan expressionless from start to finish? The immortals were silent. They all knew that the person who asked this question actually was asking about something else. And that was — &quot;Why is this Liu Guan Yi able to persevere for so long? Furthermore, he seems to be able to continue, it seems like he can persevere forever!&quot; How was it possible? Everyone was eliminated, swept away by Reverse Flow River. How could he remain here with so much remaining strength? Why was it him? Why was it him! Nobody could answer that, the Gu Immortals were all silent. A moment later, as Fang Yuan continued to advance, the Gu worm aura in his body continued to strength, it was at its peak. Soon, from inside Fang Yuan&#x27;s body to the outside, he started to shine in a bright pure white light. &quot;It really... it really became like this!&quot; Mao Li Qiu saw this and his eyes were staring wide open, he was gaping, unable to believe the sight in front of him. &quot;Grandpa Mao, what is going on?&quot; Black Extremity could not endure it, he asked. &quot;Sigh! At this point, there is no reason in me hiding it anymore.&quot; Mao Li Qiu sighed deeply, showing a defeated look on his face. &quot;There is an Immortal Gu nurturing inside his body. This Immortal Gu&#x27;s name is Perseverance!&quot; Mao Li Qiu said some shocking things. &quot;Perseverance Immortal Gu?!&quot; Black Extremity was extremely shocked. The other Gu Immortals were too. &quot;It is said in \&lt;\&lt;The Legends of Ren Zu\&gt;\&gt; that perseverance Immortal Gu was the crucial Immortal Gu that could allow the user to conquer Reverse Flow River? Isn&#x27;t it just a legend?&quot; Yu Yi Ye Zi asked. &quot;No, it exists.&quot; Bi Chen Tian said, he was a Heavenly Court Gu Immortal, he knew many ancient secrets. &quot;There was a person who had once owned it, that person was a former leader of Heavenly Court, Genesis Lotus Immortal Venerable!&quot; Wei Ling Yang added. &quot;What?!&quot; The immortals went into shock again. &quot;But we had never expected the refinement method of perseverance Immortal Gu to be like this. Genesis Lotus Immortal Venerable had never mentioned it.&quot; Bi Chen Tian sighed and shook his head. &quot;Of course he didn&#x27;t. This is a shameful event in his life. Hehehe.&quot; Mao Li Qiu interjected, it was very interested in anything that would ruin Heavenly Court&#x27;s reputation. These words made Shi Zheng Yi shout: &quot;Rubbish, how dare you slander the reputation of an Immortal Venerable?!&quot; Daring to yell at a legendary immemorial desolate beast, Shi Zheng Yi was truly courageous, many Central Continent Gu Immortals were worried for him.</p>
-<p>Mao Li Qiu did not get angry: &quot;Little boy, what do you know? Immortal Venerable or Demon Venerable, even if they have high cultivation level, they are still human. Humans have emotions, they have flaws, they have weaknesses.&quot; &quot;Back then, Genesis Lotus Immortal Venerable charged through Reverse Flow River and was trapped inside, unable to escape. Eventually, he painstakingly traveled to the end of the river and refined perseverance Immortal Gu in his body. From then on, he conquered Reverse Flow River and became the first Reverse Flow River Lord in history.&quot; &quot;The first Reverse Flow River Lord?&quot; Even Old Ancestor Xue Hu was shocked. This Reverse Flow River had been his for so long, he did not think there were such secrets. &quot;This means...&quot; At once, the immortals&#x27; gazes landed on Fang Yuan. Mao Li Qiu sighed, with his gaze fixed on Fang Yuan who was bathed in white light, he said helplessly: &quot;That is true. At this rate, he will refine perseverance Immortal Gu and become the second Reverse Flow River Lord!&quot; The immortals were lost for words, they looked at Fang Yuan, who continued moving forward. He was expressionless, no matter how many steps he took, Reverse Flow River was always still below his feet, as if fate was mocking and laughing at him. But he continued walking. He had traveled through five hundred years of experiences over his previous life, he did not know how much longer he would have to walk. But he knew where he needed to go. As if... nobody could stop him. At least... inside this river, nobody could stop him. In the five hundred years of his previous life. Fang Yuan sat inside the bamboo house, he looked at the village, he looked at Qing Mao Mountain. His fists were clenched, hope was displayed all over his young and tender face. &quot;It is time to give up the past.&quot; &quot;Transmigrating here is my greatest opportunity! Because here, I can attain eternal life.&quot; &quot;I have to make good use of this rare opportunity! Otherwise, how can I live with myself, how can I give up this chance?&quot; &quot;Of course, right now, I need to improve the living conditions of me and my brother. Hehe, that little fellow...&quot; After the aperture awakening. On the battle stage, Fang Yuan lowered his head, he was filled with shock and anger. &quot;I was set up!&quot; &quot;Who set me up? Who does not want me to win in battle? The answer is obvious!&quot; &quot;Brother, give up, you are not my match. Because of our differing aptitude, we are fated to be different.&quot; Gu Yue Fang Zheng said with glee and smugness in front of him. Fang Yuan turned around and left, he was filled with determination. &quot;Since the village refuses to nurture me, since my aunt and uncle are purposely pushing me aside, what is the point of staying here?&quot; &quot;If I stay here, will I be able to get stronger and gain eternal life?&quot; &quot;Why don&#x27;t I leave?&quot; Inside the caravan.</p>
-<p>Gu Master Big Beard died, Fang Yuan stood in front of his grave. The youngster was filled with tears, he sobbed: &quot;Uncle Big Beard, rest in peace.&quot; &quot;Thank you for the final present.&quot; &quot;You said: When you were a child, you wanted to be a grand hero, like those legendary figures of the righteous path. When you were a youngster, you wanted to be a clan leader. When you were an adult, you were satisfied with becoming a clan elder. When you were a middle aged man, you were exiled from the clan, you felt that you could live by yourself just as well, you were satisfied with just raising your Gu worms and yourself.&quot; &quot;But I am not like this, I will not forgo my dreams just because of age.&quot; &quot;This world is too big, but we are all minor characters... I will work hard! I will definitely do my best!&quot; ... Childhood, adolescence, adulthood. Qing Mao Mountain, caravan, he walked all along. Middle age, old age, and eventually, lifespan Gu. Southern Border, Western Desert, Eastern Sea, and Central Continent. After his rebirth using Spring Autumn Cicada, Qing Mao Mountain, Three Kings blessed land, Hu Immortal blessed land, Imperial Court blessed land, Yi Tian Mountain, and Reverse Flow River! Step by step, through difficulties and ordeals. Bi Chen Tian frowned, he stared at Fang Yuan&#x27;s figure, thinking: &quot;What sort of willpower is this! Why does he persevere? What makes him persevere to this extent?&quot; Old Ancestor Xue Hu snorted coldly, solemness showed in his eyes, he no longer looked down on this rank seven Gu Immortal: &quot;This means, there was Genesis Lotus three hundred thousand years ago, and now, there is Liu Guan Yi... the Reverse Flow River Lord.&quot; Mao Li Qiu looked at the light on Fang Yuan&#x27;s body, there was nothing it could do, it bore its fangs and scratched the ground with its claws, causing deep marks to form. Bai Ning Bing&#x27;s and Hei Lou Lan&#x27;s eyelids were twitching, they were evidently moved. Zhao Lian Yun had woken up, she looked at Ma Hong Yun&#x27;s corpse, held in Fang Yuan&#x27;s arm, her tears were flowing out. She cried in her heart: &quot;Hong Yun, Hong Yun, how could you leave me like this. Without you, I am all alone in this world. What is the point of living? Do you know, the perseverance of one person is so difficult!&quot; How difficult is the perseverance of one person? All of the Gu Immortals here could answer that question. Because among them, some persevered because of responsibility, some persevered because of hatred, some persevered because of excitement, and some persevered because of love... And Fang Yuan&#x27;s answer? He was still expressionless, he continued to move forward relentlessly. I had once screamed, gradually, I lost my voice. I had once cried, gradually, I lost my tears. I had once grieved, gradually, I became able to withstand everything. I had once rejoiced, gradually, I became unmoved by the world. And now!</p>
-<p>All I have left is an expressionless face, my gaze is as tough as a monolith, only perseverance remains in my heart. This is my own, an insignificant character, Fang Yuan&#x27;s — Perseverance! A dazzling light erupted out. Perseverance Immortal Gu, at this moment, was refined successfully!!</p>
+<p>&quot;If you think that there will be a chance to escape when we fight, you can forget about it.</p>
+<p>Today, I only have one target, that is you. Do you know how much of a price I&#x27;ve paid to refine fortune rivalling heaven Gu? You foiled my cultivation plan, you are the person I hate most in my life. If I do not kill you, I will never be appeased!&quot; Old Ancestor Xue Hu looked at Fang Yuan with deep hatred, his words were like an icy river pouring on Fang Yuan.</p>
+<p>But Fang Yuan was still expressionless.</p>
+<p>He was like a rock, a deaf person, anyone&#x27;s words, be it threats or promises, had no effect on him.</p>
+<p>As time passed, Fang Yuan continued to move forward.</p>
+<p>Unknowingly, the growling of the dog tail life extending ferret, Mao Li Qiu, became softer.</p>
+<p>This giant purple ferret&#x27;s expression had changed.</p>
+<p>It spoke in a weird and incredulous tone, looking at Fang Yuan: &quot;No way...&quot;</p>
+<p>&quot;What?&quot; Black Extremity was confused.</p>
+<p>At this moment, Old Ancestor Xue Hu, Bi Chen Tian, and Wei Ling Yang also had changes in their expressions.</p>
+<p>They sensed something.</p>
+<p>Soon, the other Gu Immortals present were stirred up, they quickly shouted.</p>
+<p>&quot;Hmm?&quot;</p>
+<p>&quot;This is a Gu worm&#x27;s aura? But it doesn&#x27;t seem like it!&quot;</p>
+<p>&quot;What Gu worm? Impossible, does he also have a rank nine Immortal Gu?&quot;</p>
+<p>&quot;This is weird, this is not an Immortal Gu&#x27;s aura, or rather, it is not complete, this is so strange!&quot;</p>
+<p>Suddenly, Yu Yi Ye Zi&#x27;s eyes shined, he guessed the truth as he said: &quot;This situation, he is refining Gu!&quot;</p>
+<p>A Gu Immortal immediately mocked: &quot;How can that be? Refining Gu in Reverse Flow River?&quot;</p>
+<p>That was true.</p>
+<p>Gu worms could not be used in Reverse Flow River, unless it was a rank nine Immortal Gu.</p>
+<p>Even though Fang Yuan had wisdom Gu, it was inside Lang Ya blessed land, he could not use any Gu worms, not to mention refining Gu.</p>
+<p>Fang Yuan also felt the change inside his body.</p>
+<p>He was expressionless, but he was shocked on the inside: &quot;It seems... I really am refining Gu? What is going on? Every step I take, the aura in my body strengthens. What is going on?&quot;</p>
+<p>Even though Fang Yuan did not understand it, he knew that this was a turning point!</p>
+<p>The situation was at its worst, no matter what, Fang Yuan wanted to try.</p>
+<p>He continued to move forward.</p>
+<p>Step by step.</p>
+<p>He walked steadily, he was expressionless, but it gave others a feeling of strength.</p>
+<p>&quot;Why does he show no expression?&quot; A Gu Immortal suddenly asked.</p>
+<p>The immortals finally reacted.</p>
+<p>That was true.</p>
+<p>Other than Fang Yuan, everyone else who had been in this situation had distorted expressions, they were in pain, or they were going crazy or sobbing.</p>
+<p>But why was Fang Yuan expressionless from start to finish?</p>
+<p>The immortals were silent.</p>
+<p>They all knew that the person who asked this question actually was asking about something else.</p>
+<p>And that was — &quot;Why is this Liu Guan Yi able to persevere for so long? Furthermore, he seems to be able to continue, it seems like he can persevere forever!&quot;</p>
+<p>How was it possible?</p>
+<p>Everyone was eliminated, swept away by Reverse Flow River.</p>
+<p>How could he remain here with so much remaining strength?</p>
+<p>Why was it him?</p>
+<p>Why was it him!</p>
+<p>Nobody could answer that, the Gu Immortals were all silent.</p>
+<p>A moment later, as Fang Yuan continued to advance, the Gu worm aura in his body continued to strength, it was at its peak.</p>
+<p>Soon, from inside Fang Yuan&#x27;s body to the outside, he started to shine in a bright pure white light.</p>
+<p>&quot;It really... it really became like this!&quot; Mao Li Qiu saw this and his eyes were staring wide open, he was gaping, unable to believe the sight in front of him.</p>
+<p>&quot;Grandpa Mao, what is going on?&quot; Black Extremity could not endure it, he asked.</p>
+<p>&quot;Sigh! At this point, there is no reason in me hiding it anymore.&quot; Mao Li Qiu sighed deeply, showing a defeated look on his face.</p>
+<p>&quot;There is an Immortal Gu nurturing inside his body. This Immortal Gu&#x27;s name is Perseverance!&quot; Mao Li Qiu said some shocking things.</p>
+<p>&quot;Perseverance Immortal Gu?!&quot; Black Extremity was extremely shocked.</p>
+<p>The other Gu Immortals were too.</p>
+<p>&quot;It is said in \&lt;\&lt;The Legends of Ren Zu\&gt;\&gt; that perseverance Immortal Gu was the crucial Immortal Gu that could allow the user to conquer Reverse Flow River? Isn&#x27;t it just a legend?&quot; Yu Yi Ye Zi asked.</p>
+<p>&quot;No, it exists.&quot; Bi Chen Tian said, he was a Heavenly Court Gu Immortal, he knew many ancient secrets.</p>
+<p>&quot;There was a person who had once owned it, that person was a former leader of Heavenly Court, Genesis Lotus Immortal Venerable!&quot; Wei Ling Yang added.</p>
+<p>&quot;What?!&quot; The immortals went into shock again.</p>
+<p>&quot;But we had never expected the refinement method of perseverance Immortal Gu to be like this. Genesis Lotus Immortal Venerable had never mentioned it.&quot; Bi Chen Tian sighed and shook his head.</p>
+<p>&quot;Of course he didn&#x27;t. This is a shameful event in his life. Hehehe.&quot; Mao Li Qiu interjected, it was very interested in anything that would ruin Heavenly Court&#x27;s reputation.</p>
+<p>These words made Shi Zheng Yi shout: &quot;Rubbish, how dare you slander the reputation of an Immortal Venerable?!&quot;</p>
+<p>Daring to yell at a legendary immemorial desolate beast, Shi Zheng Yi was truly courageous, many Central Continent Gu Immortals were worried for him.</p>
+<p>Mao Li Qiu did not get angry: &quot;Little boy, what do you know? Immortal Venerable or Demon Venerable, even if they have high cultivation level, they are still human. Humans have emotions, they have flaws, they have weaknesses.&quot;</p>
+<p>&quot;Back then, Genesis Lotus Immortal Venerable charged through Reverse Flow River and was trapped inside, unable to escape. Eventually, he painstakingly traveled to the end of the river and refined perseverance Immortal Gu in his body. From then on, he conquered Reverse Flow River and became the first Reverse Flow River Lord in history.&quot;</p>
+<p>&quot;The first Reverse Flow River Lord?&quot; Even Old Ancestor Xue Hu was shocked. This Reverse Flow River had been his for so long, he did not think there were such secrets.</p>
+<p>&quot;This means...&quot; At once, the immortals&#x27; gazes landed on Fang Yuan.</p>
+<p>Mao Li Qiu sighed, with his gaze fixed on Fang Yuan who was bathed in white light, he said helplessly: &quot;That is true. At this rate, he will refine perseverance Immortal Gu and become the second Reverse Flow River Lord!&quot;</p>
+<p>The immortals were lost for words, they looked at Fang Yuan, who continued moving forward.</p>
+<p>He was expressionless, no matter how many steps he took, Reverse Flow River was always still below his feet, as if fate was mocking and laughing at him.</p>
+<p>But he continued walking.</p>
+<p>He had traveled through five hundred years of experiences over his previous life, he did not know how much longer he would have to walk.</p>
+<p>But he knew where he needed to go.</p>
+<p>As if... nobody could stop him.</p>
+<p>At least... inside this river, nobody could stop him.</p>
+<p>In the five hundred years of his previous life.</p>
+<p>Fang Yuan sat inside the bamboo house, he looked at the village, he looked at Qing Mao Mountain.</p>
+<p>His fists were clenched, hope was displayed all over his young and tender face.</p>
+<p>&quot;It is time to give up the past.&quot;</p>
+<p>&quot;Transmigrating here is my greatest opportunity! Because here, I can attain eternal life.&quot;</p>
+<p>&quot;I have to make good use of this rare opportunity! Otherwise, how can I live with myself, how can I give up this chance?&quot;</p>
+<p>&quot;Of course, right now, I need to improve the living conditions of me and my brother. Hehe, that little fellow...&quot;</p>
+<p>After the aperture awakening.</p>
+<p>On the battle stage, Fang Yuan lowered his head, he was filled with shock and anger.</p>
+<p>&quot;I was set up!&quot;</p>
+<p>&quot;Who set me up? Who does not want me to win in battle? The answer is obvious!&quot;</p>
+<p>&quot;Brother, give up, you are not my match. Because of our differing aptitude, we are fated to be different.&quot; Gu Yue Fang Zheng said with glee and smugness in front of him.</p>
+<p>Fang Yuan turned around and left, he was filled with determination.</p>
+<p>&quot;Since the village refuses to nurture me, since my aunt and uncle are purposely pushing me aside, what is the point of staying here?&quot;</p>
+<p>&quot;If I stay here, will I be able to get stronger and gain eternal life?&quot;</p>
+<p>&quot;Why don&#x27;t I leave?&quot;</p>
+<p>Inside the caravan.</p>
+<p>Gu Master Big Beard died, Fang Yuan stood in front of his grave.</p>
+<p>The youngster was filled with tears, he sobbed: &quot;Uncle Big Beard, rest in peace.&quot;</p>
+<p>&quot;Thank you for the final present.&quot;</p>
+<p>&quot;You said: When you were a child, you wanted to be a grand hero, like those legendary figures of the righteous path. When you were a youngster, you wanted to be a clan leader.</p>
+<p>When you were an adult, you were satisfied with becoming a clan elder. When you were a middle aged man, you were exiled from the clan, you felt that you could live by yourself just as well, you were satisfied with just raising your Gu worms and yourself.&quot;</p>
+<p>&quot;But I am not like this, I will not forgo my dreams just because of age.&quot;</p>
+<p>&quot;This world is too big, but we are all minor characters... I will work hard! I will definitely do my best!&quot;</p>
+<p>...</p>
+<p>Childhood, adolescence, adulthood.</p>
+<p>Qing Mao Mountain, caravan, he walked all along.</p>
+<p>Middle age, old age, and eventually, lifespan Gu.</p>
+<p>Southern Border, Western Desert, Eastern Sea, and Central Continent.</p>
+<p>After his rebirth using Spring Autumn Cicada, Qing Mao Mountain, Three Kings blessed land, Hu Immortal blessed land, Imperial Court blessed land, Yi Tian Mountain, and Reverse Flow River!</p>
+<p>Step by step, through difficulties and ordeals.</p>
+<p>Bi Chen Tian frowned, he stared at Fang Yuan&#x27;s figure, thinking: &quot;What sort of willpower is this! Why does he persevere? What makes him persevere to this extent?&quot;</p>
+<p>Old Ancestor Xue Hu snorted coldly, solemness showed in his eyes, he no longer looked down on this rank seven Gu Immortal: &quot;This means, there was Genesis Lotus three hundred thousand years ago, and now, there is Liu Guan Yi... the Reverse Flow River Lord.&quot;</p>
+<p>Mao Li Qiu looked at the light on Fang Yuan&#x27;s body, there was nothing it could do, it bore its fangs and scratched the ground with its claws, causing deep marks to form.</p>
+<p>Bai Ning Bing&#x27;s and Hei Lou Lan&#x27;s eyelids were twitching, they were evidently moved.</p>
+<p>Zhao Lian Yun had woken up, she looked at Ma Hong Yun&#x27;s corpse, held in Fang Yuan&#x27;s arm, her tears were flowing out.</p>
+<p>She cried in her heart: &quot;Hong Yun, Hong Yun, how could you leave me like this. Without you, I am all alone in this world. What is the point of living? Do you know, the perseverance of one person is so difficult!&quot;</p>
+<p>How difficult is the perseverance of one person?</p>
+<p>All of the Gu Immortals here could answer that question.</p>
+<p>Because among them, some persevered because of responsibility, some persevered because of hatred, some persevered because of excitement, and some persevered because of love...</p>
+<p>And Fang Yuan&#x27;s answer?</p>
+<p>He was still expressionless, he continued to move forward relentlessly.</p>
+<p>I had once screamed, gradually, I lost my voice.</p>
+<p>I had once cried, gradually, I lost my tears.</p>
+<p>I had once grieved, gradually, I became able to withstand everything.</p>
+<p>I had once rejoiced, gradually, I became unmoved by the world.</p>
+<p>And now!</p>
+<p>All I have left is an expressionless face, my gaze is as tough as a monolith, only perseverance remains in my heart.</p>
+<p>This is my own, an insignificant character, Fang Yuan&#x27;s — Perseverance!</p>
+<p>A dazzling light erupted out.</p>
+<p>Perseverance Immortal Gu, at this moment, was refined successfully!!</p>

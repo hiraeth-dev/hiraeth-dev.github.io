@@ -5,6 +5,77 @@ weight = 1293
 chapter = 1293
 +++
 
-<p>It was fine if Reverse Flow River was outside, but if it stayed in the immortal aperture for long, it would consume a lot of heaven and earth qi. Once he lacked heaven and earth qi, his immortal aperture would be unstable. Thus, Fang Yuan had to constantly place his immortal aperture outside to absorb heaven and earth qi and replenish it. After he finished his absorption, Fang Yuan closed his immortal aperture&#x27;s entrance. Arriving at Reverse Flow River, he held an immortal zombie body. It was his original body. He tossed the immortal zombie into Reverse Flow River. The immortal zombie body flowed along it. Using perseverance Immortal Gu and Reverse Flow River, Fang Yuan made his experiments, he used all of the methods he could think of. However, it was pointless. &quot;As expected.&quot; &quot;The immortal zombie body&#x27;s soul path dao marks cannot be destroyed or suppressed by Reverse Flow River. After all, these are soul path dao marks, not Immortal Gu.&quot; &quot;Rank one to eight Immortal Gu cannot be used in Reverse Flow River. But dao marks still work. It is like before, before I conquered Reverse Flow River, my dao marks still defended me. Thus, rank eight Gu Immortals were the strongest in that river.&quot; Fang Yuan continued to analyze and think about his failed experiment. He wanted to use Reverse Flow River to resolve his soul path trap, it was impossible. Fang Yuan was not disheartened, in fact, he had expected this before trying it. He placed the immortal zombie body back inside Heaven Sealing Mountain, using the Gu formation to seal it again. Next, he refined Gu. A nightmare demonic colt corpse was in front of him. Fang Yuan&#x27;s fingers moved like blades, golden light shone as he move them. The golden light entered the nightmare demonic colt&#x27;s body and vanished. The nightmare demonic colt&#x27;s front leg was cut off. There was no blood. These nightmare demonic colts died in battle, Fang Yuan asked his immortal aperture&#x27;s land spirits to process these materials first. The blood had been drained and kept elsewhere. Fang Yuan lifted the leg and immediately tore it away. Next, he breathed out fire and started to process this leg. Three days later, the leg was finally melted into a dark purple liquid. Fang Yuan continued to throw in Gu worms to refine Gu. Over a dozen steps took up only fifteen minutes. The dark purple liquid exploded, as a hundred dream path mortal Gu flew around chaotically in the sky. But Fang Yuan willed and they quickly went back to Fang Yuan&#x27;s side. A hundred dream path mortal Gu! This was only a leg of this nightmare demonic colt.</p>
-<p>Processing this immortal material took the most time. This step took three days. The rest of the steps only took less than an hour. Such efficiency was very high, it was a clear contrast to Fang Yuan refining Gu in his dream realm previously. In the dream realm, Fang Yuan had to collect dream path Gu materials before refining Gu. There was a risk in entering the dream, he even sometimes had to use the immortal killer move, unravel dream, to pass the dream realm. Refining dream path mortal Gu but using immortal killer moves, the cost was very high. But now, Fang Yuan had these nightmare demonic colts, refining these dream path mortal Gu was no longer like before. &quot;It is like earlier, when I used the spring dream fruit to refine mortal Gu, the efficiency was great.&quot; &quot;Actually, my Gu refinement method can be improved. Like the cutting method earlier, I used metal path methods, it was not the best, some of the dream path dao marks were consumed. When processing immortal materials, I can try other methods to see if there is a better way.&quot; While he was refining Gu, Sixth Hair sent another letter. Using Lang Ya blessed land, Sixth Hair was already the middleman between Fang Yuan and Purple Mountain True Monarch. In the letter, Purple Mountain True Monarch did not give in, he said bluntly: If Fang Yuan wanted to control attitude Gu, he would need to cooperate first. As long as they worked together, attitude Gu would be his. This time, Shadow Sect even mentioned the sovereign immortal aperture&#x27;s drawback, as for what it was, they did not say it. &quot;Rank eight Gu Immortals are truly hard to deal with.&quot; &quot;Drawback? Is Shadow Sect lying, or is it true?&quot; This information had a huge impact on Fang Yuan. But soon, he calmed down. He had gone through many difficulties, this scheme or threat was nothing to him. &quot;It seems I can only work hard myself.&quot; Fang Yuan sent a letter, he bargained and continued negotiating with Shadow Sect. But he had already realized that Shadow Sect would not give attitude Gu to him before cooperating. Fang Yuan started to design a new immortal killer move. He wanted to use this immortal killer move to refine attitude Gu. He was soon met with a problem, the reason was that even though he had many Immortal Gu, they were not suitable for this purpose. It was not like the creation of reverse flow protection seal. Fang Yuan had pulling water Immortal Gu and perseverance Immortal Gu, they were suitable as the two cores of this immortal killer move. But now, Fang Yuan&#x27;s other Immortal Gu were not especially useful for refining attitude Gu, they had limited connection to it and a lot of mortal Gu were needed. &quot;If only there is a chance to trade Gu.&quot; This thought appeared in Fang Yuan&#x27;s mind and rooted itself deeply. Trading Immortal Gu! Fang Yuan had too many Immortal Gu now, it was shocking.</p>
-<p>But in fact, a portion of the Immortal Gu were not suitable for him, or rather, they did not have much use for the time being. Wisdom Sword, Years Flow Like Water, even though they were not usable now, they were rank eight, Fang Yuan would not exchange them. Fang Yuan did not have many sword path dao marks, his sword path attainment level was ordinary as well, but Sword Eyebrows, Wave Sword, and Sword Escape, these sword path Immortal Gu sustained a portion of his battle strength, he could not lose them. Looking over the situation, change soul Immortal Gu could be traded. Woman&#x27;s Heart was poison path, it had little use as well. Flying bear strength Immortal Gu was strength path, but Fang Yuan used ancient sword dragon transformation, this Immortal Gu was not useful. There was also bone spike Immortal Gu, it was completely irrelevant to Fang Yuan&#x27;s current circumstances. Perceivable dao Immortal Gu could inspect dao marks, it had a mystical use, but to Fang Yuan, it was not very useful, he had to weigh up its value later. All in all, Woman&#x27;s Heart, Flying Bear Strength, and Bone Spike, these three Immortal Gu had little use to Fang Yuan, if they could be traded for other Immortal Gu, that would be best. But trading Gu, how difficult was that? During the five regions chaotic war, it was very common. But now, there were few opportunities for Gu Immortals to undergo high end trading sessions. This way, Fang Yuan continued to travel and stop. He wanted to go faster, but it was too difficult. Along the way, when placing his immortal aperture, he refined dream path mortal Gu and deduced immortal killer moves, attempting to refine attitude Gu to make it his own. This time, as Fang Yuan stored his immortal aperture and prepared to set off, his expression suddenly changed, he noticed traces of Gu Immortals fighting.</p>
+<p>It was fine if Reverse Flow River was outside, but if it stayed in the immortal aperture for long, it would consume a lot of heaven and earth qi. Once he lacked heaven and earth qi, his immortal aperture would be unstable.</p>
+<p>Thus, Fang Yuan had to constantly place his immortal aperture outside to absorb heaven and earth qi and replenish it.</p>
+<p>After he finished his absorption, Fang Yuan closed his immortal aperture&#x27;s entrance.</p>
+<p>Arriving at Reverse Flow River, he held an immortal zombie body.</p>
+<p>It was his original body.</p>
+<p>He tossed the immortal zombie into Reverse Flow River.</p>
+<p>The immortal zombie body flowed along it.</p>
+<p>Using perseverance Immortal Gu and Reverse Flow River, Fang Yuan made his experiments, he used all of the methods he could think of.</p>
+<p>However, it was pointless.</p>
+<p>&quot;As expected.&quot;</p>
+<p>&quot;The immortal zombie body&#x27;s soul path dao marks cannot be destroyed or suppressed by Reverse Flow River. After all, these are soul path dao marks, not Immortal Gu.&quot;</p>
+<p>&quot;Rank one to eight Immortal Gu cannot be used in Reverse Flow River. But dao marks still work. It is like before, before I conquered Reverse Flow River, my dao marks still defended me. Thus, rank eight Gu Immortals were the strongest in that river.&quot;</p>
+<p>Fang Yuan continued to analyze and think about his failed experiment.</p>
+<p>He wanted to use Reverse Flow River to resolve his soul path trap, it was impossible.</p>
+<p>Fang Yuan was not disheartened, in fact, he had expected this before trying it.</p>
+<p>He placed the immortal zombie body back inside Heaven Sealing Mountain, using the Gu formation to seal it again.</p>
+<p>Next, he refined Gu.</p>
+<p>A nightmare demonic colt corpse was in front of him.</p>
+<p>Fang Yuan&#x27;s fingers moved like blades, golden light shone as he move them.</p>
+<p>The golden light entered the nightmare demonic colt&#x27;s body and vanished. The nightmare demonic colt&#x27;s front leg was cut off.</p>
+<p>There was no blood.</p>
+<p>These nightmare demonic colts died in battle, Fang Yuan asked his immortal aperture&#x27;s land spirits to process these materials first. The blood had been drained and kept elsewhere.</p>
+<p>Fang Yuan lifted the leg and immediately tore it away.</p>
+<p>Next, he breathed out fire and started to process this leg.</p>
+<p>Three days later, the leg was finally melted into a dark purple liquid.</p>
+<p>Fang Yuan continued to throw in Gu worms to refine Gu.</p>
+<p>Over a dozen steps took up only fifteen minutes.</p>
+<p>The dark purple liquid exploded, as a hundred dream path mortal Gu flew around chaotically in the sky.</p>
+<p>But Fang Yuan willed and they quickly went back to Fang Yuan&#x27;s side.</p>
+<p>A hundred dream path mortal Gu!</p>
+<p>This was only a leg of this nightmare demonic colt.</p>
+<p>Processing this immortal material took the most time. This step took three days. The rest of the steps only took less than an hour.</p>
+<p>Such efficiency was very high, it was a clear contrast to Fang Yuan refining Gu in his dream realm previously.</p>
+<p>In the dream realm, Fang Yuan had to collect dream path Gu materials before refining Gu.</p>
+<p>There was a risk in entering the dream, he even sometimes had to use the immortal killer move, unravel dream, to pass the dream realm. Refining dream path mortal Gu but using immortal killer moves, the cost was very high.</p>
+<p>But now, Fang Yuan had these nightmare demonic colts, refining these dream path mortal Gu was no longer like before.</p>
+<p>&quot;It is like earlier, when I used the spring dream fruit to refine mortal Gu, the efficiency was great.&quot;</p>
+<p>&quot;Actually, my Gu refinement method can be improved. Like the cutting method earlier, I used metal path methods, it was not the best, some of the dream path dao marks were consumed. When processing immortal materials, I can try other methods to see if there is a better way.&quot;</p>
+<p>While he was refining Gu, Sixth Hair sent another letter.</p>
+<p>Using Lang Ya blessed land, Sixth Hair was already the middleman between Fang Yuan and Purple Mountain True Monarch.</p>
+<p>In the letter, Purple Mountain True Monarch did not give in, he said bluntly: If Fang Yuan wanted to control attitude Gu, he would need to cooperate first. As long as they worked together, attitude Gu would be his. This time, Shadow Sect even mentioned the sovereign immortal aperture&#x27;s drawback, as for what it was, they did not say it.</p>
+<p>&quot;Rank eight Gu Immortals are truly hard to deal with.&quot;</p>
+<p>&quot;Drawback? Is Shadow Sect lying, or is it true?&quot;</p>
+<p>This information had a huge impact on Fang Yuan.</p>
+<p>But soon, he calmed down.</p>
+<p>He had gone through many difficulties, this scheme or threat was nothing to him.</p>
+<p>&quot;It seems I can only work hard myself.&quot;</p>
+<p>Fang Yuan sent a letter, he bargained and continued negotiating with Shadow Sect.</p>
+<p>But he had already realized that Shadow Sect would not give attitude Gu to him before cooperating.</p>
+<p>Fang Yuan started to design a new immortal killer move.</p>
+<p>He wanted to use this immortal killer move to refine attitude Gu.</p>
+<p>He was soon met with a problem, the reason was that even though he had many Immortal Gu, they were not suitable for this purpose.</p>
+<p>It was not like the creation of reverse flow protection seal.</p>
+<p>Fang Yuan had pulling water Immortal Gu and perseverance Immortal Gu, they were suitable as the two cores of this immortal killer move.</p>
+<p>But now, Fang Yuan&#x27;s other Immortal Gu were not especially useful for refining attitude Gu, they had limited connection to it and a lot of mortal Gu were needed.</p>
+<p>&quot;If only there is a chance to trade Gu.&quot;</p>
+<p>This thought appeared in Fang Yuan&#x27;s mind and rooted itself deeply.</p>
+<p>Trading Immortal Gu!</p>
+<p>Fang Yuan had too many Immortal Gu now, it was shocking.</p>
+<p>But in fact, a portion of the Immortal Gu were not suitable for him, or rather, they did not have much use for the time being.</p>
+<p>Wisdom Sword, Years Flow Like Water, even though they were not usable now, they were rank eight, Fang Yuan would not exchange them.</p>
+<p>Fang Yuan did not have many sword path dao marks, his sword path attainment level was ordinary as well, but Sword Eyebrows, Wave Sword, and Sword Escape, these sword path Immortal Gu sustained a portion of his battle strength, he could not lose them.</p>
+<p>Looking over the situation, change soul Immortal Gu could be traded.</p>
+<p>Woman&#x27;s Heart was poison path, it had little use as well.</p>
+<p>Flying bear strength Immortal Gu was strength path, but Fang Yuan used ancient sword dragon transformation, this Immortal Gu was not useful.</p>
+<p>There was also bone spike Immortal Gu, it was completely irrelevant to Fang Yuan&#x27;s current circumstances.</p>
+<p>Perceivable dao Immortal Gu could inspect dao marks, it had a mystical use, but to Fang Yuan, it was not very useful, he had to weigh up its value later.</p>
+<p>All in all, Woman&#x27;s Heart, Flying Bear Strength, and Bone Spike, these three Immortal Gu had little use to Fang Yuan, if they could be traded for other Immortal Gu, that would be best.</p>
+<p>But trading Gu, how difficult was that?</p>
+<p>During the five regions chaotic war, it was very common. But now, there were few opportunities for Gu Immortals to undergo high end trading sessions.</p>
+<p>This way, Fang Yuan continued to travel and stop.</p>
+<p>He wanted to go faster, but it was too difficult.</p>
+<p>Along the way, when placing his immortal aperture, he refined dream path mortal Gu and deduced immortal killer moves, attempting to refine attitude Gu to make it his own.</p>
+<p>This time, as Fang Yuan stored his immortal aperture and prepared to set off, his expression suddenly changed, he noticed traces of Gu Immortals fighting.</p>

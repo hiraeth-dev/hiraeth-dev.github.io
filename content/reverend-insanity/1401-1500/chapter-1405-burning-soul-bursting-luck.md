@@ -5,7 +5,114 @@ weight = 1405
 chapter = 1405
 +++
 
-<p>It was night time, stars were shining in the sky. In the desert, the difference in temperature during each day was larger, it was hot in the day and cold at night. Fang Yuan landed on a nameless sand dune softly. &quot;After flying for so long, there are no Heavenly Court pursuers coming. Was Feng Jiu Ge really the only one sent after me?&quot; Fang Yuan was suspicious. &quot;Forget it, I&#x27;ll ignore that for now.&quot; Fang Yuan calmed down and opened his immortal aperture&#x27;s entrance, letting out Hei Lou Lan, Bai Ning Bing, and the rest. &quot;Next, I will use a killer move with Ying Wu Xie, our battle strength will fall, our safety will be in your hands.&quot; Fang Yuan said to Bai Ning Bing, Lady White Rabbit, Fairy Miao Yin, and Hei Lou Lan. The four immortals acknowledged it and moved out to patrol the surroundings. Fang Yuan set up an immortal Gu formation. With precaution Immortal Gu as the core, the entire Gu formation&#x27;s original form was a mortal formation from Purple Mountain True Monarch&#x27;s inheritance. Fang Yuan was a formation path grandmaster, it was not hard to modify a mortal formation. After adding in precaution Immortal Gu, the defense of this Gu formation could not be underestimated. Of course, there were weaknesses and flaws in this formation, but it was only needed for the time being. Purple Mountain True Monarch&#x27;s inheritance had four immortal Gu formations, the strongest one was purple blood river formation! Unfortunately, Fang Yuan lacked certain Immortal Gu for all of these immortal Gu formations, he could not set up any of them. If the Gu formation was modified and used a vast number of mortal Gu to replace the missing Immortal Gu, the deduction would take two to three days. Because of many reasons, Fang Yuan chose to set up this Gu formation. This Gu formation was enough for now, it was to defend against sneak attacks from the enemies. Most importantly, Fang Yuan needed to race for time. Heavenly Court not sending any more pursuers instead made Fang Yuan more worried. The Gu formation closed, creating a simple temporary space. The Gu formation&#x27;s space was very simple, it could not compare to the Southern Border super Gu formation&#x27;s array of palaces. In this empty space, there was only Fang Yuan and Ying Wu Xie. &quot;Sect leader, let me do it! For Shadow Sect, for our goal, I will do my best!&quot; Ying Wu Xie was filled with fighting spirit. Fang Yuan nodded: &quot;Then you can go first.&quot; Ying Wu Xie sat down and instilled his immortal essence.</p>
-<p>A moment later, his aura shook, immortal killer move burning soul bursting luck was successfully activated. At once, Ying Wu Xie&#x27;s luck rose by many times, at the same time, he felt dizzy and nauseous. Burning soul bursting luck was a killer move that expended the foundation of the soul to temporarily increase the Gu Immortal&#x27;s luck. Thus, when the killer move activated, not only did Ying Wu Xie&#x27;s luck rise sharply, his soul was also extremely weakened. But it was not a problem, Fang Yuan took out guts Gu. In the process of cultivation, Fang Yuan had been accumulating his storage of guts Gu to prepare for the worst. His vigilant act was very helpful to him, it was shown now when used on Ying Wu Xie. Ying Wu Xie rapidly recovered, he was no longer dizzy, he was just a little pale. Even though his soul was healthy now, his soul path dao marks had reduced sharply. Burning soul bursting luck permanently used up soul path dao marks. And this killer move had requirements towards soul path dao marks, to activate it, one had to use a certain number of soul path dao marks. Because of this, out of Fang Yuan&#x27;s side, only he and Ying Wu Xie were able to use this killer move. The rest might have strong battle strength, but their soul foundation was weak. Experts had their field of expertise, not anyone could cultivate as widely as Fang Yuan. In fact, Fang Yuan could tackle so many paths because of the sovereign immortal body, and also because the dream realm raised his attainment level of many paths rapidly. After Ying Wu Xie, it was Fang Yuan&#x27;s turn. This killer move, burning soul bursting luck, used the soul path Immortal Gu, Soul Howl. With Ying Wu Xie&#x27;s guidance, even though this was Fang Yuan&#x27;s first use, after failing twice, he succeeded in using it. Rumble! Instantly, Fang Yuan witnessed a mirage, he could see the luck above his head surging and growing, soaring towards the heavens. He nodded and informed Sixth Hair to refine Gu. Sixth Hair and Ying Wu Xie had their luck connected. And before the battle of Reverse Flow River, while Fang Yuan was chasing Ying Wu Xie and the others, they had gone from Eastern Sea to Northern Plains. And in the Earth Trench in Northern Plains Zombie Alliance, Ying Wu Xie was aided by Sixth Hair to escape, while Sixth Hair used Dark Flow Giant City to obstruct Fang Yuan. Ying Wu Xie and Sixth Hair had their luck connected at this time. Naturally, Ying Wu Xie still had connect luck Immortal Gu. To delay Fang Yuan, Ying Wu Xie tried all kinds of ways to strengthen Sixth Hair. Luck was one aspect. Of course, in the end, Fang Yuan&#x27;s pursuit was stopped, and Sixth Hair did not die, he managed to return to Lang Ya blessed land safely. Now, Fang Yuan wanted to use this connection to raise Sixth Hair&#x27;s luck! Initially, when Ying Wu Xie was in Earth Abyss, he tried to use this move to refine Fixed Immortal Travel. Too bad Heavenly Court refined it first. But his efforts were not in vain, it helped Fang Yuan to refine change form Immortal Gu.</p>
-<p>This information was obtained by Fang Yuan from Purple Mountain True Monarch, he thought of using it in this situation. After all, luck was the best method to help in Gu refinement. There was evidence of this. In the past, it was because of Giant Sun Immortal Venerable&#x27;s luck path assistance that Long Hair Ancestor could refine so many Immortal Gu for him and create Eighty-Eight True Yang Building. Perceivable dao Immortal Gu! After using burning soul bursting luck, Fang Yuan used this Gu to inspect the number of soul path dao marks in his soul. The numbers had truly been shaved off, his soul foundation was nearly crippled, he was back to square one. Fang Yuan had cultivated his soul for a long time. When he acted as Chang Shan Yin and roamed Northern Plains, before joining the imperial court contest, he had already started. Using Luo Po Valley and Dang Hun Mountain, Fang Yuan&#x27;s current soul path cultivation was very efficient and fast. After a long period, his soul had accumulated a great number of soul path dao marks. But today, after using burning soul bursting luck once, all of Fang Yuan&#x27;s effort had been obliterated. Fang Yuan did not feel much of a pity or shame, he could always regain the dao marks later. But if he lost his life now, then it would all be over. If other Gu Immortals like Bai Ning Bing tried to use this move, how could they have enough soul path dao marks for the expenditure? Fang Yuan suddenly thought of something, asking Ying Wu Xie: &quot;With your soul path foundation, how many times can you use it?&quot; Ying Wu Xie replied: &quot;I can use it two more times, but sect leader, you have Purple Mountain True Monarch&#x27;s inheritance, you should know that the same person cannot use burning soul bursting luck repeatedly to raise its effect. It is useless even if I try it again.&quot; Fang Yuan nodded: &quot;I am just asking.&quot; He had a feeling of admiration towards Spectral Soul Demon Venerable. Ying Wu Xie was a split soul of Spectral Soul, but he actually had the soul foundation to use burning soul bursting luck four times. Spectral Soul was indeed the legendary person who created soul path and cultivated to rank nine! &quot;Burning soul bursting luck has been activated, this is all we can do. Let&#x27;s go.&quot; Fang Yuan settled his thoughts and stood up. Soon, he stored away the immortal Gu formation and the other Gu Immortals into his immortal aperture before setting off again. He had to continue moving. Not only did Heavenly Court know his location and would send Gu Immortals at him, even heaven&#x27;s will was plotting. If Fang Yuan and the rest stayed at a place for long, they would meet with many problems. In white heaven. The upper extreme heavenly eagle shook off its blood and flew up.</p>
-<p>Behind it, an Immortal Gu House carrying two Heavenly Court Gu Immortals chased relentlessly. &quot;This upper extreme heavenly eagle is reaching its limit.&quot; &quot;That&#x27;s right, it was really good at enduring and flying.&quot; &quot;Alright, let&#x27;s end it, this move will let you rest!&quot; The Immortal Gu House rapidly grew in aura as a golden beam of light shot out. The golden light was extremely fast, landing on the upper extreme heavenly eagle. The upper extreme heavenly eagle suffered a huge blow, it quickly flapped its wings and tried to escape. But the golden beam of light was long and thin, it was like a shadow, homing in on the upper extreme heavenly eagle. The upper extreme heavenly eagle&#x27;s injuries got more severe, its body was covered in a layer of golden light, making its movement even slower. But at the next moment, a change occurred. A white cloud formed in the path of the falling upper extreme heavenly eagle. The upper extreme heavenly eagle fell into the cloud and vanished. &quot;Oh no, this is a black-white overturning cloud!&quot; &quot;Quickly stop the killer move, don&#x27;t destroy this cloud!!&quot; The two Heavenly Court Gu Immortals shouted in shock, but it was too late, everything had happened too quickly. The upper extreme heavenly eagle vanished in the cloud, while the golden beam of light landed on the white cloud, dying it golden. The golden cloud became extremely heavy and fell downwards. At this time, the golden beam of light vanished as the two Heavenly Court Gu Immortals stopped the killer move. But now, their smug appearance was gone, replaced by a dumbfounded look. &quot;How could this happen?!&quot; &quot;Wasn&#x27;t it too coincidental?&quot; &quot;The black-white overturning cloud can connect between black heaven and white heaven, anything that enters will be able to move between the two heavens.&quot; &quot;We were concerned about this, so we had already destroyed all of the clouds that could potentially be black-white overturning clouds already.&quot; &quot;To think that a new one would appear and the upper extreme heavenly eagle had to crash into it.&quot; &quot;This damned luck!!&quot; The two Heavenly Court Gu Immortals were going frantic, they wanted to spit blood, after so much hard work, and expending a great deal of immortal essence, right before success, this happened! &quot;Chase!&quot; &quot;The upper extreme heavenly eagle still has our investigative killer move. We will return through the heavenly wind qi wall and go back to black heaven.&quot; &quot;That&#x27;s right, this is our first mission after joining Heavenly Court, how can we fail? Even if we have to chase it to the ends of the world, we will capture this upper extreme heavenly eagle!&quot;</p>
+<p>Western Desert.</p>
+<p>It was night time, stars were shining in the sky.</p>
+<p>In the desert, the difference in temperature during each day was larger, it was hot in the day and cold at night.</p>
+<p>Fang Yuan landed on a nameless sand dune softly.</p>
+<p>&quot;After flying for so long, there are no Heavenly Court pursuers coming. Was Feng Jiu Ge really the only one sent after me?&quot;</p>
+<p>Fang Yuan was suspicious.</p>
+<p>&quot;Forget it, I&#x27;ll ignore that for now.&quot;</p>
+<p>Fang Yuan calmed down and opened his immortal aperture&#x27;s entrance, letting out Hei Lou Lan, Bai Ning Bing, and the rest.</p>
+<p>&quot;Next, I will use a killer move with Ying Wu Xie, our battle strength will fall, our safety will be in your hands.&quot; Fang Yuan said to Bai Ning Bing, Lady White Rabbit, Fairy Miao Yin, and Hei Lou Lan.</p>
+<p>The four immortals acknowledged it and moved out to patrol the surroundings.</p>
+<p>Fang Yuan set up an immortal Gu formation.</p>
+<p>With precaution Immortal Gu as the core, the entire Gu formation&#x27;s original form was a mortal formation from Purple Mountain True Monarch&#x27;s inheritance.</p>
+<p>Fang Yuan was a formation path grandmaster, it was not hard to modify a mortal formation. After adding in precaution Immortal Gu, the defense of this Gu formation could not be underestimated.</p>
+<p>Of course, there were weaknesses and flaws in this formation, but it was only needed for the time being.</p>
+<p>Purple Mountain True Monarch&#x27;s inheritance had four immortal Gu formations, the strongest one was purple blood river formation! Unfortunately, Fang Yuan lacked certain Immortal Gu for all of these immortal Gu formations, he could not set up any of them.</p>
+<p>If the Gu formation was modified and used a vast number of mortal Gu to replace the missing Immortal Gu, the deduction would take two to three days.</p>
+<p>Because of many reasons, Fang Yuan chose to set up this Gu formation.</p>
+<p>This Gu formation was enough for now, it was to defend against sneak attacks from the enemies.</p>
+<p>Most importantly, Fang Yuan needed to race for time.</p>
+<p>Heavenly Court not sending any more pursuers instead made Fang Yuan more worried.</p>
+<p>The Gu formation closed, creating a simple temporary space.</p>
+<p>The Gu formation&#x27;s space was very simple, it could not compare to the Southern Border super Gu formation&#x27;s array of palaces.</p>
+<p>In this empty space, there was only Fang Yuan and Ying Wu Xie.</p>
+<p>&quot;Sect leader, let me do it! For Shadow Sect, for our goal, I will do my best!&quot; Ying Wu Xie was filled with fighting spirit.</p>
+<p>Fang Yuan nodded: &quot;Then you can go first.&quot;</p>
+<p>Ying Wu Xie sat down and instilled his immortal essence.</p>
+<p>A moment later, his aura shook, immortal killer move burning soul bursting luck was successfully activated.</p>
+<p>At once, Ying Wu Xie&#x27;s luck rose by many times, at the same time, he felt dizzy and nauseous.</p>
+<p>Burning soul bursting luck was a killer move that expended the foundation of the soul to temporarily increase the Gu Immortal&#x27;s luck. Thus, when the killer move activated, not only did Ying Wu Xie&#x27;s luck rise sharply, his soul was also extremely weakened.</p>
+<p>But it was not a problem, Fang Yuan took out guts Gu.</p>
+<p>In the process of cultivation, Fang Yuan had been accumulating his storage of guts Gu to prepare for the worst.</p>
+<p>His vigilant act was very helpful to him, it was shown now when used on Ying Wu Xie.</p>
+<p>Ying Wu Xie rapidly recovered, he was no longer dizzy, he was just a little pale.</p>
+<p>Even though his soul was healthy now, his soul path dao marks had reduced sharply.</p>
+<p>Burning soul bursting luck permanently used up soul path dao marks.</p>
+<p>And this killer move had requirements towards soul path dao marks, to activate it, one had to use a certain number of soul path dao marks.</p>
+<p>Because of this, out of Fang Yuan&#x27;s side, only he and Ying Wu Xie were able to use this killer move.</p>
+<p>The rest might have strong battle strength, but their soul foundation was weak.</p>
+<p>Experts had their field of expertise, not anyone could cultivate as widely as Fang Yuan. In fact, Fang Yuan could tackle so many paths because of the sovereign immortal body, and also because the dream realm raised his attainment level of many paths rapidly.</p>
+<p>After Ying Wu Xie, it was Fang Yuan&#x27;s turn.</p>
+<p>This killer move, burning soul bursting luck, used the soul path Immortal Gu, Soul Howl.</p>
+<p>With Ying Wu Xie&#x27;s guidance, even though this was Fang Yuan&#x27;s first use, after failing twice, he succeeded in using it.</p>
+<p>Rumble!</p>
+<p>Instantly, Fang Yuan witnessed a mirage, he could see the luck above his head surging and growing, soaring towards the heavens.</p>
+<p>He nodded and informed Sixth Hair to refine Gu.</p>
+<p>Sixth Hair and Ying Wu Xie had their luck connected.</p>
+<p>And before the battle of Reverse Flow River, while Fang Yuan was chasing Ying Wu Xie and the others, they had gone from Eastern Sea to Northern Plains.</p>
+<p>And in the Earth Trench in Northern Plains Zombie Alliance, Ying Wu Xie was aided by Sixth Hair to escape, while Sixth Hair used Dark Flow Giant City to obstruct Fang Yuan.</p>
+<p>Ying Wu Xie and Sixth Hair had their luck connected at this time.</p>
+<p>Naturally, Ying Wu Xie still had connect luck Immortal Gu.</p>
+<p>To delay Fang Yuan, Ying Wu Xie tried all kinds of ways to strengthen Sixth Hair. Luck was one aspect.</p>
+<p>Of course, in the end, Fang Yuan&#x27;s pursuit was stopped, and Sixth Hair did not die, he managed to return to Lang Ya blessed land safely.</p>
+<p>Now, Fang Yuan wanted to use this connection to raise Sixth Hair&#x27;s luck!</p>
+<p>Initially, when Ying Wu Xie was in Earth Abyss, he tried to use this move to refine Fixed Immortal Travel. Too bad Heavenly Court refined it first.</p>
+<p>But his efforts were not in vain, it helped Fang Yuan to refine change form Immortal Gu.</p>
+<p>This information was obtained by Fang Yuan from Purple Mountain True Monarch, he thought of using it in this situation.</p>
+<p>After all, luck was the best method to help in Gu refinement.</p>
+<p>There was evidence of this.</p>
+<p>In the past, it was because of Giant Sun Immortal Venerable&#x27;s luck path assistance that Long Hair Ancestor could refine so many Immortal Gu for him and create Eighty-Eight True Yang Building.</p>
+<p>Perceivable dao Immortal Gu!</p>
+<p>After using burning soul bursting luck, Fang Yuan used this Gu to inspect the number of soul path dao marks in his soul.</p>
+<p>The numbers had truly been shaved off, his soul foundation was nearly crippled, he was back to square one.</p>
+<p>Fang Yuan had cultivated his soul for a long time.</p>
+<p>When he acted as Chang Shan Yin and roamed Northern Plains, before joining the imperial court contest, he had already started. Using Luo Po Valley and Dang Hun Mountain, Fang Yuan&#x27;s current soul path cultivation was very efficient and fast.</p>
+<p>After a long period, his soul had accumulated a great number of soul path dao marks.</p>
+<p>But today, after using burning soul bursting luck once, all of Fang Yuan&#x27;s effort had been obliterated.</p>
+<p>Fang Yuan did not feel much of a pity or shame, he could always regain the dao marks later.</p>
+<p>But if he lost his life now, then it would all be over.</p>
+<p>If other Gu Immortals like Bai Ning Bing tried to use this move, how could they have enough soul path dao marks for the expenditure?</p>
+<p>Fang Yuan suddenly thought of something, asking Ying Wu Xie: &quot;With your soul path foundation, how many times can you use it?&quot;</p>
+<p>Ying Wu Xie replied: &quot;I can use it two more times, but sect leader, you have Purple Mountain True Monarch&#x27;s inheritance, you should know that the same person cannot use burning soul bursting luck repeatedly to raise its effect. It is useless even if I try it again.&quot;</p>
+<p>Fang Yuan nodded: &quot;I am just asking.&quot;</p>
+<p>He had a feeling of admiration towards Spectral Soul Demon Venerable.</p>
+<p>Ying Wu Xie was a split soul of Spectral Soul, but he actually had the soul foundation to use burning soul bursting luck four times.</p>
+<p>Spectral Soul was indeed the legendary person who created soul path and cultivated to rank nine!</p>
+<p>&quot;Burning soul bursting luck has been activated, this is all we can do. Let&#x27;s go.&quot; Fang Yuan settled his thoughts and stood up.</p>
+<p>Soon, he stored away the immortal Gu formation and the other Gu Immortals into his immortal aperture before setting off again.</p>
+<p>He had to continue moving.</p>
+<p>Not only did Heavenly Court know his location and would send Gu Immortals at him, even heaven&#x27;s will was plotting.</p>
+<p>If Fang Yuan and the rest stayed at a place for long, they would meet with many problems.</p>
+<p>In white heaven.</p>
+<p>The upper extreme heavenly eagle shook off its blood and flew up.</p>
+<p>Behind it, an Immortal Gu House carrying two Heavenly Court Gu Immortals chased relentlessly.</p>
+<p>&quot;This upper extreme heavenly eagle is reaching its limit.&quot;</p>
+<p>&quot;That&#x27;s right, it was really good at enduring and flying.&quot;</p>
+<p>&quot;Alright, let&#x27;s end it, this move will let you rest!&quot;</p>
+<p>The Immortal Gu House rapidly grew in aura as a golden beam of light shot out.</p>
+<p>The golden light was extremely fast, landing on the upper extreme heavenly eagle.</p>
+<p>The upper extreme heavenly eagle suffered a huge blow, it quickly flapped its wings and tried to escape.</p>
+<p>But the golden beam of light was long and thin, it was like a shadow, homing in on the upper extreme heavenly eagle.</p>
+<p>The upper extreme heavenly eagle&#x27;s injuries got more severe, its body was covered in a layer of golden light, making its movement even slower.</p>
+<p>But at the next moment, a change occurred.</p>
+<p>A white cloud formed in the path of the falling upper extreme heavenly eagle.</p>
+<p>The upper extreme heavenly eagle fell into the cloud and vanished.</p>
+<p>&quot;Oh no, this is a black-white overturning cloud!&quot;</p>
+<p>&quot;Quickly stop the killer move, don&#x27;t destroy this cloud!!&quot;</p>
+<p>The two Heavenly Court Gu Immortals shouted in shock, but it was too late, everything had happened too quickly.</p>
+<p>The upper extreme heavenly eagle vanished in the cloud, while the golden beam of light landed on the white cloud, dying it golden.</p>
+<p>The golden cloud became extremely heavy and fell downwards.</p>
+<p>At this time, the golden beam of light vanished as the two Heavenly Court Gu Immortals stopped the killer move.</p>
+<p>But now, their smug appearance was gone, replaced by a dumbfounded look.</p>
+<p>&quot;How could this happen?!&quot;</p>
+<p>&quot;Wasn&#x27;t it too coincidental?&quot;</p>
+<p>&quot;The black-white overturning cloud can connect between black heaven and white heaven, anything that enters will be able to move between the two heavens.&quot;</p>
+<p>&quot;We were concerned about this, so we had already destroyed all of the clouds that could potentially be black-white overturning clouds already.&quot;</p>
+<p>&quot;To think that a new one would appear and the upper extreme heavenly eagle had to crash into it.&quot;</p>
+<p>&quot;This damned luck!!&quot;</p>
+<p>The two Heavenly Court Gu Immortals were going frantic, they wanted to spit blood, after so much hard work, and expending a great deal of immortal essence, right before success, this happened!</p>
+<p>&quot;Chase!&quot;</p>
+<p>&quot;The upper extreme heavenly eagle still has our investigative killer move. We will return through the heavenly wind qi wall and go back to black heaven.&quot;</p>
+<p>&quot;That&#x27;s right, this is our first mission after joining Heavenly Court, how can we fail? Even if we have to chase it to the ends of the world, we will capture this upper extreme heavenly eagle!&quot;</p>

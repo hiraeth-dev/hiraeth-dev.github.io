@@ -5,7 +5,117 @@ weight = 1157
 chapter = 1157
 +++
 
-<p>The other party had arrived imposingly, staring at Fang Yuan fixedly, he had injuries on his body, his hair was messy and he looked to be in a sorry state. One thought flashed in Fang Yuan&#x27;s mind: &quot;Ding Qi.&quot; Some days ago, Immortal Hua Die had told Fang Yuan about the blood path demonic path immortal, Ding Qi, who had come to the turbulent flow sea area. His brother, Ding Yan, was the blood path demonic immortal that had died at Liu Qing Yu&#x27;s hands. Now, Fang Yuan saw this person, he naturally had a guess towards his identity. Next, another group of Gu Immortals appeared as they charged into the bubble. The two at the front were familiar to Fang Yuan. One was Tang Song, the other was Zhou Li. Tang Song shouted: &quot;Ding Qi, where are you trying to go? In exactly one year, it will be the anniversary of your death! It is a pity, your brother is dead, nobody is going to send you offerings, hahaha!&quot; Ding Qi seemingly did not hear anything, he stared at Fang Yuan, gritting his teeth: &quot;It&#x27;s you! You just obtained the information path inheritance, my brother found that clue after so much trouble, but it is with you. You are also his murderer!!&quot; &quot;What?&quot; The Gu Immortals pursuing him heard this and turned to stare at Fang Yuan. Fang Yuan smiled: &quot;Interesting. How did you know I took the inheritance?&quot; Ding Qi smiled coldly: &quot;Because I have blood trace Immortal Gu.&quot; Saying this, he used his Immortal Gu. Soon, blood colored shadows appeared in the island. The shadows formed a series of movements, it was Fang Yuan who had entered the bubble and took away the information path inheritance. Zhou Li and Tang Song screamed angrily: &quot;He stole the inheritance!&quot; &quot;Who are you?&quot; &quot;Hand over the inheritance!&quot; Fang Yuan&#x27;s smile bloomed, he ignored the immortals, he only looked at Ding Qi with curiosity: &quot;Blood trace Immortal Gu, this is the first time I have heard of this.&quot; &quot;This is a blood path Immortal Gu that I created together with my brother. Other than this, we also created the Immortal Gu Blood Oath!&quot; Mentioning his brother, Ding Qi was extremely angry and upset. Zhou Li, Tang Song, and the other immortals were furious too. As it turned out, Liu Qing Yu gathered a bunch of people to come to the turbulent flow sea area, it caused Ding Qi to appear. Information got out, Zhou Li and Tang Song also gathered a group of Gu Immortals to come here. Initially, they were suspicious that Liu Qing Yu had gotten the information path inheritance clue. They had spent so much effort in getting here, but the immortals met Ding Qi. Ding Qi had already gotten here long ago, using blood trace Immortal Gu to make some arrangements. Both sides fought, but Ding Qi was alone, even though he was a blood path demonic immortal, he could not rival so many enemies, he had to escape while fighting.</p>
-<p>During which, Fang Yuan came in and obtained the inheritance. Ding Qi felt something and rushed over without caring about anything else, meeting Fang Yuan. &quot;This is blood trace Immortal Gu? Very interesting indeed.&quot; Fang Yuan looked at Ding Qi with a look of appreciation, sighing: &quot;Geniuses are indeed everywhere, they have their own unique talents.&quot; Speaking of blood path, the most famous person was Blood Sea Ancestor. He was a great demon with seven Blood Sea true inheritances, everyone knew about them, he had left a deep mark in history. But at present, if blood path experts were listed down, Ding Qi and Ding Yan would definitely have reputable rankings. These brothers had deeply researched, they created Blood Oath and Blood Trace, these two blood path Immortal Gu. Most importantly, they actually managed to refine them, in terms of blood path, they were truly talented, it was rare. &quot;What are you sighing about, hand over the inheritance!&quot; &quot;That&#x27;s right, the inheritance is mine, you are an outsider, you actually snatched it from us.&quot; Zhou Li and Tang Song screamed. They had worked so hard and put in so much effort, in the end, an outsider whose name was not even known had taken their rightful gains. Zhou Li and Tang Song had already regarded this inheritance as their own. Fang Yuan was naturally taking away their food, how could they stand it?! Zhou Li and Tang Song gave up on their original target, Ding Qi, they turned towards Fang Yuan. But Ding Qi was even quicker, he directly attacked Fang Yuan: &quot;Murderer, hand over your life!&quot; Fang Yuan smiled lightly: &quot;You want my life, but I&#x27;m not going to play with you. The inheritance is mine already anyway.&quot; Saying so, he charged out of the bubble, going into the currents. &quot;Chase!&quot; &quot;We will catch him, dead or alive!!&quot; Zhou Li and Tang Song shouted angrily, they refused to give up, especially Fang Yuan&#x27;s final words, it truly sent their anger over the edge. A group of Gu Immortals were chasing in the chaotic currents. In this special environment, Gu Immortals could only move along with the currents. During the process, countless attacks aimed at Fang Yuan were unleashed. Fang Yuan used his Immortal Gu to defend as he accelerated. Sword escape Immortal Gu was not to be underestimated, soon, a group of Gu Immortals fell behind, they were too far apart. &quot;Eh? This person&#x27;s movement is so familiar!&quot; Zhou Li was perplexed. Tang Song&#x27;s eyes opened wide, he wanted to get back his inheritance, he did not think in that aspect at all. Between the two sides, there was also the blood path demonic immortal Ding Qi. His eyes were blood red, he was filled with killing intent: &quot;Die, die! My brother died, and you took advantage of it, it was such a regretful death. Death, you deserve death, I will tear you into pieces!!&quot; Intense rage burned through his rationality, he was in a frenzied state.</p>
-<p>Fang Yuan suddenly turned, dodging a huge waves of attacks. The pursuers were stifled. Fang Yuan&#x27;s movements were too slippery, even if some killer moves could chase after the enemy, he destroyed them personally. The Gu Immortals chased him for so long, but there was no result, they even wasted a lot of immortal essence. Here was not like other places, the environment was quite unique. A bubble appeared before them, Fang Yuan thoughts shifted, directly entering it. &quot;He went in!&quot; &quot;Quick, quick, encircle it.&quot; &quot;Something is wrong, why did he enter a bubble instead of escaping?&quot; The immortals surrounded this bubble, but they did not enter, they were filled with suspicion. A blood-red figure shot into the bubble like an arrow. It was the blood path demonic immortal Ding Qi, he was more resolute than these Gu Immortals. The immortals stayed outside the bubble, but they saw no disturbance. They started to get restless, they could not stand it anymore, Tang Song went in first, followed by Zhou Li, and the rest, all of the Gu Immortals went into the bubble. &quot;Strange, where is this?&quot; &quot;A city?&quot; The Gu Immortals who came in found that they had appeared amidst some houses for some reason. These houses were designed meticulously, but they had broken walls, as if an earthquake had occurred here. Furthermore, this place was full of cobwebs and dust, it looked like a city that had been abandoned for many years. &quot;Strange, strange. There are lots of pans and bowls here, it seems like many people had lived here before.&quot; &quot;On such a large scale, they cannot be Gu Immortals. But mortals actually lived here?&quot; &quot;Even before the turbulent flow sea area formed, I have never heard of many mortals living here.&quot; The Gu Immortals gathered as they discussed. &quot;Also, where is that Gu Immortal who ran away?&quot; &quot;Ding Qi is missing too.&quot; &quot;No, Ding Qi is there, facing Lord Tang Song.&quot; &quot;The Gu Immortal who took the inheritance is really missing, he seems to be hiding inside here.&quot; &quot;Find him and force him to hand over the inheritance!&quot; The immortals were about to get to work, when they suddenly heard Fang Yuan&#x27;s voice from the sky, it was loud and grand: &quot;You are all here, good, everyone, enjoy this. It is your final moment before death.&quot; As he said this, the immortals felt the sky turning dark. They raised their heads and at the next moment, the immortals showed extremely shocked expressions.</p>
-<p>Only to see that a huge hand, enormously big, covering the entire sky, pressed down slowly. The aura was too imposing, it was like the sky was collapsing, everyone felt a strong feeling of weakness and helplessness. &quot;Impossible! This is an illusion, if he has such strength, how could he be running away from us?&quot; Zhou Li shouted. The immortals jolted, their morale rose, they felt that Zhou Li was right. All of the immortals attacked. Boom! With a loud sound, the giant hand pressed down, countless houses collapsed, several Gu Immortals died at once, turning into meat paste. &quot;How can this be?&quot; Zhou Li climbed up from the pit with much difficulty, he opened his eyes and looked around in disbelief. The entire city was gone, it was a pathetic sight full of ruins. The Gu Immortals who survived stood up in the rubble, they were all shocked and fearful. In a contest of strength, they had so many Gu Immortals, but they actually lost. &quot;Shadow Sect&#x27;s trap is truly useful. Hehe.&quot; Fang Yuan thought as he activated strength path giant hand again. Thus, in the immortals&#x27; eyes, the sky turned dark again, the giant hand crashed down slowly while covering the entire sky. &quot;It&#x27;s coming, it&#x27;s coming again!&quot; &quot;Hold on, we have to endure it!!&quot; &quot;At the moment of life and death, forget about the rest, take out your trump cards and survive this trial.&quot; The immortals shouted, they were fearful and uneasy, their attitude was clearly different from before. Boom! The giant hand caused the entire ground to lower by several meters, this time, only three people stood up. Zhou Li, Tang Song, and the blood path demonic immortal Ding Qi. Giant hand was used for the third time, the three immortals had a look of despair. &quot;I will not let you have an easy time even if I die!&quot; Ding Qi self-detonated. Zhou Li and Tang Song resisted but to no avail. Eventually, they died at Fang Yuan&#x27;s hands. &quot;Secluded domain of heaven and earth — City Well, it truly lives up to its reputation!&quot; Fang Yuan praised as he sighed. Right now, there was a well in front of him. The well was squarish on the outside, but it was circular on the surface inside. Fang Yuan stood on the edge of the well, he looked down, seeing a miniature town at the bottom of the well. Right now, it had been completely decimated from his three uses of giant hand. There were some bloody patches in the rubble, it was the meat paste of Gu Immortals who were killed. City Well first appeared in \&lt;\&lt;The Legends of Ren Zu\&gt;\&gt;. Or more accurately, \&lt;\&lt;The Legends of Ren Zu\&gt;\&gt;, chapter four, section twenty-three clearly described it.</p>
+<p>The other party had arrived imposingly, staring at Fang Yuan fixedly, he had injuries on his body, his hair was messy and he looked to be in a sorry state.</p>
+<p>One thought flashed in Fang Yuan&#x27;s mind: &quot;Ding Qi.&quot;</p>
+<p>Some days ago, Immortal Hua Die had told Fang Yuan about the blood path demonic path immortal, Ding Qi, who had come to the turbulent flow sea area. His brother, Ding Yan, was the blood path demonic immortal that had died at Liu Qing Yu&#x27;s hands.</p>
+<p>Now, Fang Yuan saw this person, he naturally had a guess towards his identity.</p>
+<p>Next, another group of Gu Immortals appeared as they charged into the bubble.</p>
+<p>The two at the front were familiar to Fang Yuan.</p>
+<p>One was Tang Song, the other was Zhou Li.</p>
+<p>Tang Song shouted: &quot;Ding Qi, where are you trying to go? In exactly one year, it will be the anniversary of your death! It is a pity, your brother is dead, nobody is going to send you offerings, hahaha!&quot;</p>
+<p>Ding Qi seemingly did not hear anything, he stared at Fang Yuan, gritting his teeth: &quot;It&#x27;s you! You just obtained the information path inheritance, my brother found that clue after so much trouble, but it is with you. You are also his murderer!!&quot;</p>
+<p>&quot;What?&quot; The Gu Immortals pursuing him heard this and turned to stare at Fang Yuan.</p>
+<p>Fang Yuan smiled: &quot;Interesting. How did you know I took the inheritance?&quot;</p>
+<p>Ding Qi smiled coldly: &quot;Because I have blood trace Immortal Gu.&quot;</p>
+<p>Saying this, he used his Immortal Gu.</p>
+<p>Soon, blood colored shadows appeared in the island. The shadows formed a series of movements, it was Fang Yuan who had entered the bubble and took away the information path inheritance.</p>
+<p>Zhou Li and Tang Song screamed angrily: &quot;He stole the inheritance!&quot;</p>
+<p>&quot;Who are you?&quot;</p>
+<p>&quot;Hand over the inheritance!&quot;</p>
+<p>Fang Yuan&#x27;s smile bloomed, he ignored the immortals, he only looked at Ding Qi with curiosity: &quot;Blood trace Immortal Gu, this is the first time I have heard of this.&quot;</p>
+<p>&quot;This is a blood path Immortal Gu that I created together with my brother. Other than this, we also created the Immortal Gu Blood Oath!&quot; Mentioning his brother, Ding Qi was extremely angry and upset.</p>
+<p>Zhou Li, Tang Song, and the other immortals were furious too.</p>
+<p>As it turned out, Liu Qing Yu gathered a bunch of people to come to the turbulent flow sea area, it caused Ding Qi to appear.</p>
+<p>Information got out, Zhou Li and Tang Song also gathered a group of Gu Immortals to come here. Initially, they were suspicious that Liu Qing Yu had gotten the information path inheritance clue.</p>
+<p>They had spent so much effort in getting here, but the immortals met Ding Qi.</p>
+<p>Ding Qi had already gotten here long ago, using blood trace Immortal Gu to make some arrangements.</p>
+<p>Both sides fought, but Ding Qi was alone, even though he was a blood path demonic immortal, he could not rival so many enemies, he had to escape while fighting.</p>
+<p>During which, Fang Yuan came in and obtained the inheritance. Ding Qi felt something and rushed over without caring about anything else, meeting Fang Yuan.</p>
+<p>&quot;This is blood trace Immortal Gu? Very interesting indeed.&quot; Fang Yuan looked at Ding Qi with a look of appreciation, sighing: &quot;Geniuses are indeed everywhere, they have their own unique talents.&quot;</p>
+<p>Speaking of blood path, the most famous person was Blood Sea Ancestor.</p>
+<p>He was a great demon with seven Blood Sea true inheritances, everyone knew about them, he had left a deep mark in history.</p>
+<p>But at present, if blood path experts were listed down, Ding Qi and Ding Yan would definitely have reputable rankings.</p>
+<p>These brothers had deeply researched, they created Blood Oath and Blood Trace, these two blood path Immortal Gu. Most importantly, they actually managed to refine them, in terms of blood path, they were truly talented, it was rare.</p>
+<p>&quot;What are you sighing about, hand over the inheritance!&quot;</p>
+<p>&quot;That&#x27;s right, the inheritance is mine, you are an outsider, you actually snatched it from us.&quot;</p>
+<p>Zhou Li and Tang Song screamed.</p>
+<p>They had worked so hard and put in so much effort, in the end, an outsider whose name was not even known had taken their rightful gains.</p>
+<p>Zhou Li and Tang Song had already regarded this inheritance as their own. Fang Yuan was naturally taking away their food, how could they stand it?!</p>
+<p>Zhou Li and Tang Song gave up on their original target, Ding Qi, they turned towards Fang Yuan.</p>
+<p>But Ding Qi was even quicker, he directly attacked Fang Yuan: &quot;Murderer, hand over your life!&quot;</p>
+<p>Fang Yuan smiled lightly: &quot;You want my life, but I&#x27;m not going to play with you. The inheritance is mine already anyway.&quot;</p>
+<p>Saying so, he charged out of the bubble, going into the currents.</p>
+<p>&quot;Chase!&quot;</p>
+<p>&quot;We will catch him, dead or alive!!&quot;</p>
+<p>Zhou Li and Tang Song shouted angrily, they refused to give up, especially Fang Yuan&#x27;s final words, it truly sent their anger over the edge.</p>
+<p>A group of Gu Immortals were chasing in the chaotic currents.</p>
+<p>In this special environment, Gu Immortals could only move along with the currents. During the process, countless attacks aimed at Fang Yuan were unleashed.</p>
+<p>Fang Yuan used his Immortal Gu to defend as he accelerated.</p>
+<p>Sword escape Immortal Gu was not to be underestimated, soon, a group of Gu Immortals fell behind, they were too far apart.</p>
+<p>&quot;Eh? This person&#x27;s movement is so familiar!&quot; Zhou Li was perplexed.</p>
+<p>Tang Song&#x27;s eyes opened wide, he wanted to get back his inheritance, he did not think in that aspect at all.</p>
+<p>Between the two sides, there was also the blood path demonic immortal Ding Qi.</p>
+<p>His eyes were blood red, he was filled with killing intent: &quot;Die, die! My brother died, and you took advantage of it, it was such a regretful death. Death, you deserve death, I will tear you into pieces!!&quot;</p>
+<p>Intense rage burned through his rationality, he was in a frenzied state.</p>
+<p>Fang Yuan suddenly turned, dodging a huge waves of attacks.</p>
+<p>The pursuers were stifled.</p>
+<p>Fang Yuan&#x27;s movements were too slippery, even if some killer moves could chase after the enemy, he destroyed them personally.</p>
+<p>The Gu Immortals chased him for so long, but there was no result, they even wasted a lot of immortal essence.</p>
+<p>Here was not like other places, the environment was quite unique.</p>
+<p>A bubble appeared before them, Fang Yuan thoughts shifted, directly entering it.</p>
+<p>&quot;He went in!&quot;</p>
+<p>&quot;Quick, quick, encircle it.&quot;</p>
+<p>&quot;Something is wrong, why did he enter a bubble instead of escaping?&quot;</p>
+<p>The immortals surrounded this bubble, but they did not enter, they were filled with suspicion.</p>
+<p>A blood-red figure shot into the bubble like an arrow.</p>
+<p>It was the blood path demonic immortal Ding Qi, he was more resolute than these Gu Immortals.</p>
+<p>The immortals stayed outside the bubble, but they saw no disturbance.</p>
+<p>They started to get restless, they could not stand it anymore, Tang Song went in first, followed by Zhou Li, and the rest, all of the Gu Immortals went into the bubble.</p>
+<p>&quot;Strange, where is this?&quot;</p>
+<p>&quot;A city?&quot;</p>
+<p>The Gu Immortals who came in found that they had appeared amidst some houses for some reason.</p>
+<p>These houses were designed meticulously, but they had broken walls, as if an earthquake had occurred here.</p>
+<p>Furthermore, this place was full of cobwebs and dust, it looked like a city that had been abandoned for many years.</p>
+<p>&quot;Strange, strange. There are lots of pans and bowls here, it seems like many people had lived here before.&quot;</p>
+<p>&quot;On such a large scale, they cannot be Gu Immortals. But mortals actually lived here?&quot;</p>
+<p>&quot;Even before the turbulent flow sea area formed, I have never heard of many mortals living here.&quot;</p>
+<p>The Gu Immortals gathered as they discussed.</p>
+<p>&quot;Also, where is that Gu Immortal who ran away?&quot;</p>
+<p>&quot;Ding Qi is missing too.&quot;</p>
+<p>&quot;No, Ding Qi is there, facing Lord Tang Song.&quot;</p>
+<p>&quot;The Gu Immortal who took the inheritance is really missing, he seems to be hiding inside here.&quot;</p>
+<p>&quot;Find him and force him to hand over the inheritance!&quot;</p>
+<p>The immortals were about to get to work, when they suddenly heard Fang Yuan&#x27;s voice from the sky, it was loud and grand: &quot;You are all here, good, everyone, enjoy this. It is your final moment before death.&quot;</p>
+<p>As he said this, the immortals felt the sky turning dark.</p>
+<p>They raised their heads and at the next moment, the immortals showed extremely shocked expressions.</p>
+<p>Only to see that a huge hand, enormously big, covering the entire sky, pressed down slowly.</p>
+<p>The aura was too imposing, it was like the sky was collapsing, everyone felt a strong feeling of weakness and helplessness.</p>
+<p>&quot;Impossible! This is an illusion, if he has such strength, how could he be running away from us?&quot; Zhou Li shouted.</p>
+<p>The immortals jolted, their morale rose, they felt that Zhou Li was right.</p>
+<p>All of the immortals attacked.</p>
+<p>Boom!</p>
+<p>With a loud sound, the giant hand pressed down, countless houses collapsed, several Gu Immortals died at once, turning into meat paste.</p>
+<p>&quot;How can this be?&quot; Zhou Li climbed up from the pit with much difficulty, he opened his eyes and looked around in disbelief.</p>
+<p>The entire city was gone, it was a pathetic sight full of ruins.</p>
+<p>The Gu Immortals who survived stood up in the rubble, they were all shocked and fearful.</p>
+<p>In a contest of strength, they had so many Gu Immortals, but they actually lost.</p>
+<p>&quot;Shadow Sect&#x27;s trap is truly useful. Hehe.&quot; Fang Yuan thought as he activated strength path giant hand again.</p>
+<p>Thus, in the immortals&#x27; eyes, the sky turned dark again, the giant hand crashed down slowly while covering the entire sky.</p>
+<p>&quot;It&#x27;s coming, it&#x27;s coming again!&quot;</p>
+<p>&quot;Hold on, we have to endure it!!&quot;</p>
+<p>&quot;At the moment of life and death, forget about the rest, take out your trump cards and survive this trial.&quot;</p>
+<p>The immortals shouted, they were fearful and uneasy, their attitude was clearly different from before.</p>
+<p>Boom!</p>
+<p>The giant hand caused the entire ground to lower by several meters, this time, only three people stood up.</p>
+<p>Zhou Li, Tang Song, and the blood path demonic immortal Ding Qi.</p>
+<p>Giant hand was used for the third time, the three immortals had a look of despair.</p>
+<p>&quot;I will not let you have an easy time even if I die!&quot; Ding Qi self-detonated.</p>
+<p>Zhou Li and Tang Song resisted but to no avail.</p>
+<p>Eventually, they died at Fang Yuan&#x27;s hands.</p>
+<p>&quot;Secluded domain of heaven and earth — City Well, it truly lives up to its reputation!&quot; Fang Yuan praised as he sighed.</p>
+<p>Right now, there was a well in front of him.</p>
+<p>The well was squarish on the outside, but it was circular on the surface inside.</p>
+<p>Fang Yuan stood on the edge of the well, he looked down, seeing a miniature town at the bottom of the well. Right now, it had been completely decimated from his three uses of giant hand.</p>
+<p>There were some bloody patches in the rubble, it was the meat paste of Gu Immortals who were killed.</p>
+<p>City Well first appeared in \&lt;\&lt;The Legends of Ren Zu\&gt;\&gt;.</p>
+<p>Or more accurately, \&lt;\&lt;The Legends of Ren Zu\&gt;\&gt;, chapter four, section twenty-three clearly described it.</p>

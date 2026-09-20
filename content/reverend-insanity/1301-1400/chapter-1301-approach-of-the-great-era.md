@@ -5,7 +5,109 @@ weight = 1301
 chapter = 1301
 +++
 
-<p>Central Continent, Hidden Dragon Cave. &quot;Greetings to superior immortal from Heavenly Court.&quot; Two Gu Immortals knelt on the ground. One old and one young. A grandfather and a grandson. They were Gu Immortals from Wind Cloud Manor. The young Gu Immortal was Feng Chan Zi, while the elderly man was Old Man Bei Feng, with rank eight cultivation level. Among the ten great ancient sects of Central Continent, he was famous, and without any mishaps, he would have become a member of Heavenly Court already. It was not easy or normal to become a member of Heavenly Court. Rank eight cultivation level was not enough, they had to be elites among rank eights. This standard had never been lowered since Heavenly Court was created. Heavenly Court did not waver in this aspect, too few was better than too many! And this Old Man Bei Feng was now kneeling on the ground, expressing his reverence. The person he was kneeling to was an extremely weak old man, he was shaking as if a gust of wind could blow him away. But this old man was not ordinary, he had a huge origin, he left a deep mark in Heavenly Court&#x27;s history. He was — Duke Long! &quot;Get up, bring me inside.&quot; Duke Long said plainly. &quot;Yes.&quot; Old Man Bei Feng acknowledged. A moment later, Duke Long came to the deepest part of Hidden Dragon Cave. This was a deep earth trench, it was larger than the Earth Trench that Northern Plains&#x27; Zombie Alliance had. It was possible to stuff thousands of cities into it easily. Duke Long and Old Man Bei Feng were tiny like dust specks compared to it. From their view, the entire Earth Trench was covered in darkness, this darkness was so deep that one could not see through it. Rumble...!! Suddenly, the entire Earth Trench started shaking intensely. The two sides of the Earth Trench started to have falling rocks. The earthquake caused incredible sound waves that would make people shell-shocked. Old Man Bei Feng&#x27;s expression changed, he quickly used the Immortal Gu in his immortal aperture. Suddenly, bright lights shone as countless auroras and flowing water weaved together dazzlingly. There was actually a huge super Gu formation here! In contrast to this Gu formation, the one that surrounded Southern Border&#x27;s dream realm was just a kitten compared to an elephant. Old Man Bei Feng controlled the Gu formation, his expression quickly changed as his forehead was covered in sweat. &quot;The commotion is so huge!&quot; As a great rank eight Gu Immortal, he was actually feeling difficulty now.</p>
-<p>This super Gu formation was suppressing a terrifying lifeform, Old Man Bei Feng could only barely deal with it using the super Gu formation. &quot;Hehehe, it seems that after so many years, you are still so lively. Di Zang Sheng.&quot; At this time, Duke Long spoke plainly. &quot;Roar!!!&quot; At the next moment, an overwhelming dragon roar filled the entire Earth Trench. The super Gu formation&#x27;s aurora lights were dispersing, flowing water was disrupted. Old Man Bei Feng&#x27;s forehead was dripping with sweat, he thought: &quot;This is after the super Gu formation&#x27;s isolation, the volume is still so loud. If I have to face this Evil Dragon directly, I am afraid...&quot; Duke Long was unmoved, he assessed: &quot;It seems your temper has not changed, you are still so feisty.&quot; &quot;Accursed old man!!&quot; This time, a voice came from inside the Gu formation. The voice was just as loud. At the next moment, a huge dragon head appeared from within the aurora light and flowing water. It was Evil Dragon — Di Zang Sheng! This immemorial desolate beast had a huge origin, it was a legendary immemorial desolate beast created from endless hatred, anger, and grudges, all these negatives emotions in Central Continent&#x27;s earth veins. It was born of nature, because it was created from the collective negative emotions of humans, after it was born, it had intelligence that matched humans. Initially, it could only roar and growl, but after learning, it could use hope Gu to awaken its aperture, it learned human language, and for some time, it turned into a human and tried to master Gu Immortal methods. For some time, it wreaked havoc in Central Continent, it caused great distress and chaos in the world. But eventually, it was suppressed by Duke Long. It was suppressed for countless years. But Heavenly Court could not kill it. Because it was formed from the negative emotions of humans. As long as humanity still flourished, the Evil Dragon would continue to grow stronger every day. Even if its body was destroyed or completely decimated. Soon, it would form from new earth veins, and continue to cause chaos in the world. That was why Heavenly Court used a super Gu formation to suppress this Evil Dragon. The people guarding the place were rotated from time to time. This time, Feng Chan Zi sold immortal materials for his own profits, he was punished to guard Hidden Dragon Cave. And his grandpa knew that he could not do this alone, so he gave up the chance to join Heavenly Court and came to look after this Evil Dragon. After the Evil Dragon saw Duke Long, it became incredibly furious. The meeting of enemies with filled with animosity. &quot;Why are you roaring and growling, you cannot escape from this prison.&quot; Duke Long said plainly. Di Zang Sheng heard this and no longer raged, it laughed: &quot;Hahaha, I almost forgot. Accursed old man, you are going to die soon. Your lifespan is reaching its limit, you only</p>
-<p>have one last chance of extending your life. Even lifespan Gu cannot save you. Haha, this is hilarious, so what if you suppressed me? I am alive, while you are dying.&quot; Duke Long nodded: &quot;You are right. Sometimes, I envy you, you have a long lifespan from birth, you innately have longevity. This might be the last time we meet, let me borrow ten years of life from you.&quot; Saying this, Duke Long sucked in a breath. Old Man Bei Feng was shocked to find out that as the guardian, he instantly lost control of this Gu formation. Di Zang Sheng was suppressed by Duke Long, this super Gu formation was created by Duke Long personally. Duke Long was the true owner of this super Gu formation! &quot;Roar!&quot; Di Zang Sheng let out a painful cry. Duke Long was still sucking. Old Man Bei Feng could not tell what Duke Long was actually sucking. It seemed to be a sort of life essence that could not be seen with the naked eye, it was forcefully extracted from Di Zang Sheng&#x27;s body, sucked into Duke Long&#x27;s own body. &quot;It seems that this super Gu formation is not purely for suppressing Di Zang Sheng, it has this kind of effect.&quot; Old Man Bei Feng had an epiphany. During the process of sucking, Duke Long&#x27;s body inflated like a balloon from its twig-like appearance. His pale yellow ragged face faded to a normal color. His pale white hair also turned dark. He was hunchbacked earlier and had fragile bones that emitted cracking sounds, but it had straightened now. Most evidently, the pair of horns on his head were originally shriveled like two lumps of meat, but now, they shined with a metallic luster, piercing towards the sky. Bam. His peak rank eight aura burst out like an invisible wall, pushing outwards. Old Man Bei Feng took a step back uncontrollably, looking at Duke Long&#x27;s majestic background, he had a sense of admiration in his heart. In contrast to Duke Long was Evil Dragon Di Zang Sheng. It said in a hoarse voice: &quot;Damned old man, that is merely ten years of lifespan. It&#x27;s like I&#x27;m giving a pool of piss to you. Hahaha...&quot; It was still laughing, but it was very weak now. Duke Long clenched his fists, saying nonchalantly: &quot;Evil Dragon, you do not understand, how can I, Duke Long, fear death? I woke up this time to make up for my previous mistake. Ten years is more than enough.&quot; &quot;Enough for? What are you trying to do?&quot; Evil Dragon asked. &quot;What else? The great era is coming.&quot; Duke Long said with deep meaning. &quot;Great era? Great era! Don&#x27;t tell me, the earth veins will merge, the regional walls will vanish, and the five regions will become one... wait, accursed old man, don&#x27;t go, tell me everything!&quot; Di Zang Sheng shouted. But Duke Long sneered, why would he care about a captive? He turned around and left Hidden Dragon Cave without any hesitation. Southern Border. A nameless place.</p>
-<p>River water was surging. This was a tributary of the River of Time! Ying Wu Xie and the rest had been waiting by the riverside for a long time. A figure emerged from the tributary of the River of Time. &quot;Quick! Let&#x27;s quickly give lord a helping hand!&quot; Ying Wu Xie saw this and shouted. Hei Lou Lan and Bai Ning Bing worked together beside him, activating the Gu formation. Under the effect of the Gu formation, Purple Mountain True Monarch escaped from the tributary of the River of Time, he was like a drowning person, he barely managed to crawl ashore, he breathed roughly and was soaked to the bones. &quot;Purple Mountain True Monarch actually managed to return safely after entering the River of Time!&quot; Bai Ning Bing was expressionless, but she was shocked on the inside. &quot;Lord, did you succeed?&quot; Seeing Purple Mountain True Monarch regain his composure, Ying Wu Xie asked this. Purple Mountain True Monarch nodded: &quot;I went into the red lotus and interacted with that will, my gains were phenomenal!&quot; &quot;Is that so?&quot; Ying Wu Xie was overjoyed. But Purple Mountain True Monarch had a solemn expression: &quot;I used Red Lotus&#x27; true inheritance to observe the past and future. Before Fang Yuan was reborn, our Shadow Sect had succeeded, we delayed the great era by five hundred years, we exterminated the future Great Dream Immortal Venerable before she matured, we even had Heavenly Court completely under our control! It is a pity that Fang Yuan changed everything. Shadow Sect cannot stop it anymore, the great era is coming!&quot; Ying Wu Xie had an extremely shocked expression. Bai Ning Bing and Hei Lou Lan looked at each other, feeling puzzled. The former asked coldly: &quot;What is the great era?&quot; Ying Wu Xie breathed in deeply and answered: &quot;The earth veins will merge, the regional walls will vanish, the five regions will become one, and Great Dream becomes venerable. This is the great era!&quot; Hei Lou Lan and Bai Ning Bing were stunned. At the same time. Fang Yuan went back to Southern Border using Wu Yi Hai&#x27;s appearance, he was back in Wu clan. &quot;I am finally back.&quot; &quot;This time, I must absorb the dream realm and go all-out in raising my attainment levels.&quot; &quot;There is enough time.&quot; &quot;After five hundred years, during the five regions chaotic war, I might become a great grandmaster of every path already. I am looking forward to it.&quot;</p>
+<p>Central Continent, Hidden Dragon Cave.</p>
+<p>&quot;Greetings to superior immortal from Heavenly Court.&quot; Two Gu Immortals knelt on the ground.</p>
+<p>One old and one young.</p>
+<p>A grandfather and a grandson.</p>
+<p>They were Gu Immortals from Wind Cloud Manor.</p>
+<p>The young Gu Immortal was Feng Chan Zi, while the elderly man was Old Man Bei Feng, with rank eight cultivation level. Among the ten great ancient sects of Central Continent, he was famous, and without any mishaps, he would have become a member of Heavenly Court already.</p>
+<p>It was not easy or normal to become a member of Heavenly Court.</p>
+<p>Rank eight cultivation level was not enough, they had to be elites among rank eights. This standard had never been lowered since Heavenly Court was created. Heavenly Court did not waver in this aspect, too few was better than too many!</p>
+<p>And this Old Man Bei Feng was now kneeling on the ground, expressing his reverence.</p>
+<p>The person he was kneeling to was an extremely weak old man, he was shaking as if a gust of wind could blow him away.</p>
+<p>But this old man was not ordinary, he had a huge origin, he left a deep mark in Heavenly Court&#x27;s history.</p>
+<p>He was — Duke Long!</p>
+<p>&quot;Get up, bring me inside.&quot; Duke Long said plainly.</p>
+<p>&quot;Yes.&quot; Old Man Bei Feng acknowledged.</p>
+<p>A moment later, Duke Long came to the deepest part of Hidden Dragon Cave.</p>
+<p>This was a deep earth trench, it was larger than the Earth Trench that Northern Plains&#x27;</p>
+<p>Zombie Alliance had.</p>
+<p>It was possible to stuff thousands of cities into it easily.</p>
+<p>Duke Long and Old Man Bei Feng were tiny like dust specks compared to it.</p>
+<p>From their view, the entire Earth Trench was covered in darkness, this darkness was so deep that one could not see through it.</p>
+<p>Rumble...!!</p>
+<p>Suddenly, the entire Earth Trench started shaking intensely.</p>
+<p>The two sides of the Earth Trench started to have falling rocks.</p>
+<p>The earthquake caused incredible sound waves that would make people shell-shocked.</p>
+<p>Old Man Bei Feng&#x27;s expression changed, he quickly used the Immortal Gu in his immortal aperture. Suddenly, bright lights shone as countless auroras and flowing water weaved together dazzlingly.</p>
+<p>There was actually a huge super Gu formation here!</p>
+<p>In contrast to this Gu formation, the one that surrounded Southern Border&#x27;s dream realm was just a kitten compared to an elephant.</p>
+<p>Old Man Bei Feng controlled the Gu formation, his expression quickly changed as his forehead was covered in sweat.</p>
+<p>&quot;The commotion is so huge!&quot; As a great rank eight Gu Immortal, he was actually feeling difficulty now.</p>
+<p>This super Gu formation was suppressing a terrifying lifeform, Old Man Bei Feng could only barely deal with it using the super Gu formation.</p>
+<p>&quot;Hehehe, it seems that after so many years, you are still so lively. Di Zang Sheng.&quot; At this time, Duke Long spoke plainly.</p>
+<p>&quot;Roar!!!&quot; At the next moment, an overwhelming dragon roar filled the entire Earth Trench.</p>
+<p>The super Gu formation&#x27;s aurora lights were dispersing, flowing water was disrupted.</p>
+<p>Old Man Bei Feng&#x27;s forehead was dripping with sweat, he thought: &quot;This is after the super Gu formation&#x27;s isolation, the volume is still so loud. If I have to face this Evil Dragon directly, I am afraid...&quot;</p>
+<p>Duke Long was unmoved, he assessed: &quot;It seems your temper has not changed, you are still so feisty.&quot;</p>
+<p>&quot;Accursed old man!!&quot; This time, a voice came from inside the Gu formation.</p>
+<p>The voice was just as loud.</p>
+<p>At the next moment, a huge dragon head appeared from within the aurora light and flowing water.</p>
+<p>It was Evil Dragon — Di Zang Sheng!</p>
+<p>This immemorial desolate beast had a huge origin, it was a legendary immemorial desolate beast created from endless hatred, anger, and grudges, all these negatives emotions in Central Continent&#x27;s earth veins.</p>
+<p>It was born of nature, because it was created from the collective negative emotions of humans, after it was born, it had intelligence that matched humans.</p>
+<p>Initially, it could only roar and growl, but after learning, it could use hope Gu to awaken its aperture, it learned human language, and for some time, it turned into a human and tried to master Gu Immortal methods.</p>
+<p>For some time, it wreaked havoc in Central Continent, it caused great distress and chaos in the world.</p>
+<p>But eventually, it was suppressed by Duke Long.</p>
+<p>It was suppressed for countless years.</p>
+<p>But Heavenly Court could not kill it.</p>
+<p>Because it was formed from the negative emotions of humans. As long as humanity still flourished, the Evil Dragon would continue to grow stronger every day. Even if its body was destroyed or completely decimated.</p>
+<p>Soon, it would form from new earth veins, and continue to cause chaos in the world.</p>
+<p>That was why Heavenly Court used a super Gu formation to suppress this Evil Dragon.</p>
+<p>The people guarding the place were rotated from time to time. This time, Feng Chan Zi sold immortal materials for his own profits, he was punished to guard Hidden Dragon Cave. And his grandpa knew that he could not do this alone, so he gave up the chance to join Heavenly Court and came to look after this Evil Dragon.</p>
+<p>After the Evil Dragon saw Duke Long, it became incredibly furious.</p>
+<p>The meeting of enemies with filled with animosity.</p>
+<p>&quot;Why are you roaring and growling, you cannot escape from this prison.&quot; Duke Long said plainly.</p>
+<p>Di Zang Sheng heard this and no longer raged, it laughed: &quot;Hahaha, I almost forgot.</p>
+<p>Accursed old man, you are going to die soon. Your lifespan is reaching its limit, you only have one last chance of extending your life. Even lifespan Gu cannot save you. Haha, this is hilarious, so what if you suppressed me? I am alive, while you are dying.&quot;</p>
+<p>Duke Long nodded: &quot;You are right. Sometimes, I envy you, you have a long lifespan from birth, you innately have longevity. This might be the last time we meet, let me borrow ten years of life from you.&quot;</p>
+<p>Saying this, Duke Long sucked in a breath.</p>
+<p>Old Man Bei Feng was shocked to find out that as the guardian, he instantly lost control of this Gu formation.</p>
+<p>Di Zang Sheng was suppressed by Duke Long, this super Gu formation was created by Duke Long personally.</p>
+<p>Duke Long was the true owner of this super Gu formation!</p>
+<p>&quot;Roar!&quot; Di Zang Sheng let out a painful cry.</p>
+<p>Duke Long was still sucking.</p>
+<p>Old Man Bei Feng could not tell what Duke Long was actually sucking.</p>
+<p>It seemed to be a sort of life essence that could not be seen with the naked eye, it was forcefully extracted from Di Zang Sheng&#x27;s body, sucked into Duke Long&#x27;s own body.</p>
+<p>&quot;It seems that this super Gu formation is not purely for suppressing Di Zang Sheng, it has this kind of effect.&quot; Old Man Bei Feng had an epiphany.</p>
+<p>During the process of sucking, Duke Long&#x27;s body inflated like a balloon from its twig-like appearance. His pale yellow ragged face faded to a normal color. His pale white hair also turned dark.</p>
+<p>He was hunchbacked earlier and had fragile bones that emitted cracking sounds, but it had straightened now.</p>
+<p>Most evidently, the pair of horns on his head were originally shriveled like two lumps of meat, but now, they shined with a metallic luster, piercing towards the sky.</p>
+<p>Bam.</p>
+<p>His peak rank eight aura burst out like an invisible wall, pushing outwards.</p>
+<p>Old Man Bei Feng took a step back uncontrollably, looking at Duke Long&#x27;s majestic background, he had a sense of admiration in his heart.</p>
+<p>In contrast to Duke Long was Evil Dragon Di Zang Sheng.</p>
+<p>It said in a hoarse voice: &quot;Damned old man, that is merely ten years of lifespan. It&#x27;s like I&#x27;m giving a pool of piss to you. Hahaha...&quot;</p>
+<p>It was still laughing, but it was very weak now.</p>
+<p>Duke Long clenched his fists, saying nonchalantly: &quot;Evil Dragon, you do not understand, how can I, Duke Long, fear death? I woke up this time to make up for my previous mistake.</p>
+<p>Ten years is more than enough.&quot;</p>
+<p>&quot;Enough for? What are you trying to do?&quot; Evil Dragon asked.</p>
+<p>&quot;What else? The great era is coming.&quot; Duke Long said with deep meaning.</p>
+<p>&quot;Great era? Great era! Don&#x27;t tell me, the earth veins will merge, the regional walls will vanish, and the five regions will become one... wait, accursed old man, don&#x27;t go, tell me everything!&quot; Di Zang Sheng shouted.</p>
+<p>But Duke Long sneered, why would he care about a captive? He turned around and left Hidden Dragon Cave without any hesitation.</p>
+<p>Southern Border.</p>
+<p>A nameless place.</p>
+<p>River water was surging.</p>
+<p>This was a tributary of the River of Time!</p>
+<p>Ying Wu Xie and the rest had been waiting by the riverside for a long time.</p>
+<p>A figure emerged from the tributary of the River of Time.</p>
+<p>&quot;Quick! Let&#x27;s quickly give lord a helping hand!&quot; Ying Wu Xie saw this and shouted.</p>
+<p>Hei Lou Lan and Bai Ning Bing worked together beside him, activating the Gu formation.</p>
+<p>Under the effect of the Gu formation, Purple Mountain True Monarch escaped from the tributary of the River of Time, he was like a drowning person, he barely managed to crawl ashore, he breathed roughly and was soaked to the bones.</p>
+<p>&quot;Purple Mountain True Monarch actually managed to return safely after entering the River of Time!&quot; Bai Ning Bing was expressionless, but she was shocked on the inside.</p>
+<p>&quot;Lord, did you succeed?&quot; Seeing Purple Mountain True Monarch regain his composure, Ying Wu Xie asked this.</p>
+<p>Purple Mountain True Monarch nodded: &quot;I went into the red lotus and interacted with that will, my gains were phenomenal!&quot;</p>
+<p>&quot;Is that so?&quot; Ying Wu Xie was overjoyed.</p>
+<p>But Purple Mountain True Monarch had a solemn expression: &quot;I used Red Lotus&#x27; true inheritance to observe the past and future. Before Fang Yuan was reborn, our Shadow Sect had succeeded, we delayed the great era by five hundred years, we exterminated the future Great Dream Immortal Venerable before she matured, we even had Heavenly Court completely under our control! It is a pity that Fang Yuan changed everything. Shadow Sect cannot stop it anymore, the great era is coming!&quot;</p>
+<p>Ying Wu Xie had an extremely shocked expression.</p>
+<p>Bai Ning Bing and Hei Lou Lan looked at each other, feeling puzzled.</p>
+<p>The former asked coldly: &quot;What is the great era?&quot;</p>
+<p>Ying Wu Xie breathed in deeply and answered: &quot;The earth veins will merge, the regional walls will vanish, the five regions will become one, and Great Dream becomes venerable.</p>
+<p>This is the great era!&quot;</p>
+<p>Hei Lou Lan and Bai Ning Bing were stunned.</p>
+<p>At the same time.</p>
+<p>Fang Yuan went back to Southern Border using Wu Yi Hai&#x27;s appearance, he was back in Wu clan.</p>
+<p>&quot;I am finally back.&quot;</p>
+<p>&quot;This time, I must absorb the dream realm and go all-out in raising my attainment levels.&quot;</p>
+<p>&quot;There is enough time.&quot;</p>
+<p>&quot;After five hundred years, during the five regions chaotic war, I might become a great grandmaster of every path already. I am looking forward to it.&quot;</p>

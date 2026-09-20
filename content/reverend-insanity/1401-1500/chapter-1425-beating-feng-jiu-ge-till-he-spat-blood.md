@@ -5,7 +5,116 @@ weight = 1425
 chapter = 1425
 +++
 
-<p>Fang Yuan directly charged at Feng Jiu Ge. Of course, his special robe was already present, glittering light was shining on his robe, he had a long sash that coiled around his waist and arms. As Fang Yuan charged out, the robe moved along with him. Immortal killer move — Reverse Flow Protection Seal! &quot;This move again.&quot; Feng Jiu Ge saw this and sighed internally, he very much was unable to break past this move. Thus, Feng Jiu Ge chose to retreat. He easily pulled some distance from Fang Yuan. &quot;Controlling reverse flow protection seal uses up too much mental energy, Fang Yuan cannot distract himself to use other moves, even if he has movement killer moves, he cannot use them. This means that when he uses reverse flow protection seal, other than defense, his other aspects are very ordinary.&quot; Feng Jiu Ge thought as he smiled. Fang Yuan could not catch up to Feng Jiu Ge, who was actively avoiding him, even after many tries. A glimmer of thought flashed in Feng Jiu Ge&#x27;s eyes, he had not stopped thinking: &quot;Why is Fang Yuan still alone?&quot; In this battle against Feng Jiu Ge, Fang Yuan was not aided by Bai Ning Bing, Hei Lou Lan, or the others. Thus, Feng Jiu Ge&#x27;s earlier tactic of dealing with them could not be utilized on Fang Yuan alone. &quot;But even so, Fang Yuan has no hope of winning. Even if he has good defense, he is a moving target board. Be it attack or movement, he is inferior to me, the battle is in my control.&quot; &quot;No, Fang Yuan is not so stupid! He must have other schemes.&quot; Feng Jiu Ge was not careless, he became increasingly vigilant. When Fang Yuan approached, he would retreat to a safe distance. &quot;Feng Jiu Ge, you chased me up to here, are you going to run now?&quot; Fang Yuan sneered. Feng Jiu Ge&#x27;s smile faded: &quot;Is there a point in taunting me? Fang Yuan, catch up to me first. It is not easy to use reverse flow protection seal, as time passes, your mental energy will be used up, won&#x27;t your immortal essence also be depleted? Such a strong method must have a huge price.&quot; Feng Jiu Ge held the initiative, he had a hold over Fang Yuan in both speed and battle tactic. This battle was very different from the previous. In the previous fight, they engaged in fierce combat. This time, both sides chased and escaped, other than some words, there was silence. Fang Yuan snorted, he had a way to deal with Feng Jiu Ge&#x27;s actions. Five hundred years of experience was not a joke, in terms of battle experience, he had his fair share. At the next moment, Fang Yuan charged down and landed on the ground. Feng Jiu Ge did not pursue him, he floated in the sky vigilantly, observing this desert.</p>
-<p>He had suffered a territorial disadvantage last time when Fang Yuan used the anti-sound desert. Feng Jiu Ge remembered this lesson and had done his homework before coming, this desert was nothing special. Plop. With a soft sound, Fang Yuan drilled into the desert, moving underground. Feng Jiu Ge continued to investigative using immortal methods, but there were no suspicions, he used drum fist and bell palm to attack. Bang… bang… bang! Clank clank clank! At once, drum fist and bell palm created huge holes in the desert, large amounts of sand splattered and created a huge cloud of dust in the radius of several li. But Fang Yuan ignored him, he continued digging deeper. Feng Jiu Ge frowned slightly. The deeper he went, the denser the earth path dao marks, it would be disadvantageous to Feng Jiu Ge. At the same time, he had a suspicion: &quot;Fang Yuan is so confident now, did he have a set up here in advance? Or does he know about some special trait of this place that he can use?&quot; Feng Jiu Ge had all sorts of thoughts as he flew down. He shot out like an arrow, stabbing into the desert, pursuing Fang Yuan. He had to. Because Fang Yuan could stay underground and use the immortal formation to remove the investigative killer move, Feng Jiu Ge had to pursue him. Even if he did not get rid of the investigative killer move, he could also set up Gu formations or battlefield killer moves, if Feng Jiu Ge remained hesitant and did not chase him, Fang Yuan would have a lot of time to prepare amply. In that situation, Feng Jiu Ge would be stupid to wait. Thus, he had to chase and give Fang Yuan pressure. He had to force more trump cards to be used and ruin his battle momentum. Drum fist, bell palm! Even deep underground, Feng Jiu Ge&#x27;s sound path killer moves were still very powerful. Explosions happened around Fang Yuan. Fang Yuan&#x27;s face was stern. Without the help of anti-sound desert, Fang Yuan could feel Feng Jiu Ge&#x27;s terrifying attack power at its fullest. Even deep underground with rich earth path dao marks, Feng Jiu Ge&#x27;s killer moves were still overbearing. This was the advantage of sound path. Every path had its own specialty, in both advantages and disadvantages. Sound path was a minor path, but it had an advantage. The advantage was, sound path could travel easily, with relatively little conflict of dao marks. For example, for ordinary paths like earth path, the killer moves would be weakened by fifty to sixty percent in places filled with water path dao marks. A sound path killer move of the same power would only be weakened by twenty to thirty percent.</p>
-<p>&quot;Without reverse flow protection seal, I would not be able to last until now facing these attacks.&quot; &quot;How did Feng Jiu Ge cultivate? How can his dao mark accumulation be on par with rank eight as a rank seven?&quot; &quot;Forget about this, it is time to retaliate!&quot; Immortal killer move — Ancient Sword Dragon Transformation! Instantly, a sharp light shone on Fang Yuan&#x27;s body. But deep underground, light could not spread out. &quot;Hmm?&quot; The moment Fang Yuan transformed, Feng Jiu Ge&#x27;s investigative killer move sensed something amiss. Next, in a breath&#x27;s time, the soil in front of Feng Jiu Ge exploded as a large dragon head appeared. Feng Jiu Ge was like a rat in front of an elephant, facing this huge dragon head. &quot;Ancient sword dragon! Fang Yuan!&quot; Feng Jiu Ge&#x27;s pupils shrunk to pin size at this moment. Fang Yuan&#x27;s counterattack was so sudden and so powerful! The dragon head opened its mouth and shot out a wave of silvery light. Sword dragon breath! At once, silvery light shot out like countless arrows, it was powerful and made the entire area glow silver. The sharp breath was still far away, but Feng Jiu Ge could already feel sharp pain, like hundreds of needles were stabbing his face. Boom! Sword dragon breath landed on Feng Jiu Ge. Feng Jiu Ge&#x27;s body had clanging sounds, his defensive methods were activated, sound waves were forced out and destroyed by the powerful and destructive dragon breath. Ordinary dragon breath could only last a moment, but Fang Yuan had perseverance Immortal Gu, his dragon breath was unceasing and continuous! Feng Jiu Ge was forced back, under the impact of the sword dragon breath, he used his methods as he flew into the sky, escaping from the sword dragon breath&#x27;s range. But at the next moment, Fang Yuan raised his head. The thick sword dragon breath shot up like a silver pillar, it was like the sharpest sword that pierced the heavens. &quot;It&#x27;s coming!&quot; Feng Jiu Ge was not smiling anymore, his face was silver from the reflected light. Seeing the sword dragon breath, he retreated once again. Immortal killer move — Yang Pass Tune. Swoosh, he vanished on the spot, before appearing a thousand steps away. Fang Yuan stopped his dragon breath as he roared, attacking towards the sky. His sleek dragon tail swung, as ancient sword dragon&#x27;s speed burst out. At the same time, he used sword escape Immortal Gu. Tens of thousands of sword path dao marks amplified the effect, giving Fang Yuan incredible speed! Boom! With a loud sound, he broke through air and went at supersonic speed. Instantly, Fang Yuan appeared in front of Feng Jiu Ge.</p>
-<p>He was so fast that Fang Yuan himself could not react in time, his vision blurred for a moment and Feng Jiu Ge who was a tiny black dot appeared in front of him, they were only a dozen steps apart. The dragon opened its mouth again but this time, Feng Jiu Ge was amply prepared. He called out: &quot;Go ahead.&quot; Next, against the impending sword light dragon breath, he did not dodge, he attacked instead. Boom! With a loud explosion, Feng Jiu Ge flew backwards like a cannonball. For the first time, there was shock on his face as he felt deep suspicion: &quot;How can this be? Fang Yuan has reverse flow protection seal active?&quot; In the earlier battle, when Fang Yuan transformed into an ancient sword dragon, he could not maintain reverse flow protection seal. In the earlier clash, Feng Jiu Ge focused on this and attacked fiercely, but now, reverse flow protection seal reflected his entire attack to himself. Guh. Feng Jiu Ge felt pain in his chest as he spat out blood, he struggled to maintain his position in the air. The earlier attack not only had the force of Fang Yuan&#x27;s attack, there was also the reflected power of Feng Jiu Ge&#x27;s attack, the combination of both made him spit out blood! Fang Yuan had the advantage, he roared and charged forward. It was too fast earlier, but now, Feng Jiu Ge could see properly, the ancient sword dragon&#x27;s silvery and shiny body actually had a layer of light, like a thin layer of clothing resembling flowing water. &quot;It really is reverse flow protection seal?&quot; &quot;He can maintain both immortal killer moves now! How did he do it?&quot; Yang pass tune! Fang Yuan missed and Feng Jiu Ge appeared elsewhere. The ancient sword dragon that Fang Yuan turned into could not tear open space, it could only travel rapidly in a straight line. Meanwhile, Feng Jiu Ge&#x27;s yang pass tune had the power of space path, it could teleport him to an entirely new location. From this point, even though Fang Yuan turned into an ancient sword dragon with sword escape Immortal Gu, he could not match Feng Jiu Ge&#x27;s yang pass tune. Unless Fang Yuan used the sword path movement killer move from Bo Qing&#x27;s inheritance. But so what? Yang pass tune had a time limit. Once the time was up, Feng Jiu Ge would be at a disadvantage in terms of movement. &quot;I need to find a way around this while yang pass tune is still active.&quot; Seeing Fang Yuan attacking yet again, Feng Jiu Ge&#x27;s heart sank.</p>
+<p>Fang Yuan directly charged at Feng Jiu Ge.</p>
+<p>Of course, his special robe was already present, glittering light was shining on his robe, he had a long sash that coiled around his waist and arms.</p>
+<p>As Fang Yuan charged out, the robe moved along with him.</p>
+<p>Immortal killer move — Reverse Flow Protection Seal!</p>
+<p>&quot;This move again.&quot; Feng Jiu Ge saw this and sighed internally, he very much was unable to break past this move.</p>
+<p>Thus, Feng Jiu Ge chose to retreat.</p>
+<p>He easily pulled some distance from Fang Yuan.</p>
+<p>&quot;Controlling reverse flow protection seal uses up too much mental energy, Fang Yuan cannot distract himself to use other moves, even if he has movement killer moves, he cannot use them. This means that when he uses reverse flow protection seal, other than defense, his other aspects are very ordinary.&quot;</p>
+<p>Feng Jiu Ge thought as he smiled.</p>
+<p>Fang Yuan could not catch up to Feng Jiu Ge, who was actively avoiding him, even after many tries.</p>
+<p>A glimmer of thought flashed in Feng Jiu Ge&#x27;s eyes, he had not stopped thinking: &quot;Why is Fang Yuan still alone?&quot;</p>
+<p>In this battle against Feng Jiu Ge, Fang Yuan was not aided by Bai Ning Bing, Hei Lou Lan, or the others. Thus, Feng Jiu Ge&#x27;s earlier tactic of dealing with them could not be utilized on Fang Yuan alone.</p>
+<p>&quot;But even so, Fang Yuan has no hope of winning. Even if he has good defense, he is a moving target board. Be it attack or movement, he is inferior to me, the battle is in my control.&quot;</p>
+<p>&quot;No, Fang Yuan is not so stupid! He must have other schemes.&quot;</p>
+<p>Feng Jiu Ge was not careless, he became increasingly vigilant.</p>
+<p>When Fang Yuan approached, he would retreat to a safe distance.</p>
+<p>&quot;Feng Jiu Ge, you chased me up to here, are you going to run now?&quot; Fang Yuan sneered.</p>
+<p>Feng Jiu Ge&#x27;s smile faded: &quot;Is there a point in taunting me? Fang Yuan, catch up to me first.</p>
+<p>It is not easy to use reverse flow protection seal, as time passes, your mental energy will be used up, won&#x27;t your immortal essence also be depleted? Such a strong method must have a huge price.&quot;</p>
+<p>Feng Jiu Ge held the initiative, he had a hold over Fang Yuan in both speed and battle tactic.</p>
+<p>This battle was very different from the previous.</p>
+<p>In the previous fight, they engaged in fierce combat. This time, both sides chased and escaped, other than some words, there was silence.</p>
+<p>Fang Yuan snorted, he had a way to deal with Feng Jiu Ge&#x27;s actions.</p>
+<p>Five hundred years of experience was not a joke, in terms of battle experience, he had his fair share.</p>
+<p>At the next moment, Fang Yuan charged down and landed on the ground.</p>
+<p>Feng Jiu Ge did not pursue him, he floated in the sky vigilantly, observing this desert.</p>
+<p>He had suffered a territorial disadvantage last time when Fang Yuan used the anti-sound desert.</p>
+<p>Feng Jiu Ge remembered this lesson and had done his homework before coming, this desert was nothing special.</p>
+<p>Plop.</p>
+<p>With a soft sound, Fang Yuan drilled into the desert, moving underground.</p>
+<p>Feng Jiu Ge continued to investigative using immortal methods, but there were no suspicions, he used drum fist and bell palm to attack.</p>
+<p>Bang… bang… bang!</p>
+<p>Clank clank clank!</p>
+<p>At once, drum fist and bell palm created huge holes in the desert, large amounts of sand splattered and created a huge cloud of dust in the radius of several li.</p>
+<p>But Fang Yuan ignored him, he continued digging deeper.</p>
+<p>Feng Jiu Ge frowned slightly.</p>
+<p>The deeper he went, the denser the earth path dao marks, it would be disadvantageous to Feng Jiu Ge.</p>
+<p>At the same time, he had a suspicion: &quot;Fang Yuan is so confident now, did he have a set up here in advance? Or does he know about some special trait of this place that he can use?&quot;</p>
+<p>Feng Jiu Ge had all sorts of thoughts as he flew down.</p>
+<p>He shot out like an arrow, stabbing into the desert, pursuing Fang Yuan.</p>
+<p>He had to.</p>
+<p>Because Fang Yuan could stay underground and use the immortal formation to remove the investigative killer move, Feng Jiu Ge had to pursue him.</p>
+<p>Even if he did not get rid of the investigative killer move, he could also set up Gu formations or battlefield killer moves, if Feng Jiu Ge remained hesitant and did not chase him, Fang Yuan would have a lot of time to prepare amply. In that situation, Feng Jiu Ge would be stupid to wait.</p>
+<p>Thus, he had to chase and give Fang Yuan pressure. He had to force more trump cards to be used and ruin his battle momentum.</p>
+<p>Drum fist, bell palm!</p>
+<p>Even deep underground, Feng Jiu Ge&#x27;s sound path killer moves were still very powerful.</p>
+<p>Explosions happened around Fang Yuan.</p>
+<p>Fang Yuan&#x27;s face was stern.</p>
+<p>Without the help of anti-sound desert, Fang Yuan could feel Feng Jiu Ge&#x27;s terrifying attack power at its fullest.</p>
+<p>Even deep underground with rich earth path dao marks, Feng Jiu Ge&#x27;s killer moves were still overbearing.</p>
+<p>This was the advantage of sound path.</p>
+<p>Every path had its own specialty, in both advantages and disadvantages.</p>
+<p>Sound path was a minor path, but it had an advantage.</p>
+<p>The advantage was, sound path could travel easily, with relatively little conflict of dao marks. For example, for ordinary paths like earth path, the killer moves would be weakened by fifty to sixty percent in places filled with water path dao marks. A sound path killer move of the same power would only be weakened by twenty to thirty percent.</p>
+<p>&quot;Without reverse flow protection seal, I would not be able to last until now facing these attacks.&quot;</p>
+<p>&quot;How did Feng Jiu Ge cultivate? How can his dao mark accumulation be on par with rank eight as a rank seven?&quot;</p>
+<p>&quot;Forget about this, it is time to retaliate!&quot;</p>
+<p>Immortal killer move — Ancient Sword Dragon Transformation!</p>
+<p>Instantly, a sharp light shone on Fang Yuan&#x27;s body.</p>
+<p>But deep underground, light could not spread out.</p>
+<p>&quot;Hmm?&quot; The moment Fang Yuan transformed, Feng Jiu Ge&#x27;s investigative killer move sensed something amiss.</p>
+<p>Next, in a breath&#x27;s time, the soil in front of Feng Jiu Ge exploded as a large dragon head appeared.</p>
+<p>Feng Jiu Ge was like a rat in front of an elephant, facing this huge dragon head.</p>
+<p>&quot;Ancient sword dragon! Fang Yuan!&quot; Feng Jiu Ge&#x27;s pupils shrunk to pin size at this moment.</p>
+<p>Fang Yuan&#x27;s counterattack was so sudden and so powerful!</p>
+<p>The dragon head opened its mouth and shot out a wave of silvery light.</p>
+<p>Sword dragon breath!</p>
+<p>At once, silvery light shot out like countless arrows, it was powerful and made the entire area glow silver.</p>
+<p>The sharp breath was still far away, but Feng Jiu Ge could already feel sharp pain, like hundreds of needles were stabbing his face.</p>
+<p>Boom!</p>
+<p>Sword dragon breath landed on Feng Jiu Ge.</p>
+<p>Feng Jiu Ge&#x27;s body had clanging sounds, his defensive methods were activated, sound waves were forced out and destroyed by the powerful and destructive dragon breath.</p>
+<p>Ordinary dragon breath could only last a moment, but Fang Yuan had perseverance Immortal Gu, his dragon breath was unceasing and continuous!</p>
+<p>Feng Jiu Ge was forced back, under the impact of the sword dragon breath, he used his methods as he flew into the sky, escaping from the sword dragon breath&#x27;s range.</p>
+<p>But at the next moment, Fang Yuan raised his head.</p>
+<p>The thick sword dragon breath shot up like a silver pillar, it was like the sharpest sword that pierced the heavens.</p>
+<p>&quot;It&#x27;s coming!&quot; Feng Jiu Ge was not smiling anymore, his face was silver from the reflected light.</p>
+<p>Seeing the sword dragon breath, he retreated once again.</p>
+<p>Immortal killer move — Yang Pass Tune.</p>
+<p>Swoosh, he vanished on the spot, before appearing a thousand steps away.</p>
+<p>Fang Yuan stopped his dragon breath as he roared, attacking towards the sky.</p>
+<p>His sleek dragon tail swung, as ancient sword dragon&#x27;s speed burst out. At the same time, he used sword escape Immortal Gu.</p>
+<p>Tens of thousands of sword path dao marks amplified the effect, giving Fang Yuan incredible speed!</p>
+<p>Boom!</p>
+<p>With a loud sound, he broke through air and went at supersonic speed.</p>
+<p>Instantly, Fang Yuan appeared in front of Feng Jiu Ge.</p>
+<p>He was so fast that Fang Yuan himself could not react in time, his vision blurred for a moment and Feng Jiu Ge who was a tiny black dot appeared in front of him, they were only a dozen steps apart.</p>
+<p>The dragon opened its mouth again but this time, Feng Jiu Ge was amply prepared.</p>
+<p>He called out: &quot;Go ahead.&quot;</p>
+<p>Next, against the impending sword light dragon breath, he did not dodge, he attacked instead.</p>
+<p>Boom!</p>
+<p>With a loud explosion, Feng Jiu Ge flew backwards like a cannonball.</p>
+<p>For the first time, there was shock on his face as he felt deep suspicion: &quot;How can this be?</p>
+<p>Fang Yuan has reverse flow protection seal active?&quot;</p>
+<p>In the earlier battle, when Fang Yuan transformed into an ancient sword dragon, he could not maintain reverse flow protection seal.</p>
+<p>In the earlier clash, Feng Jiu Ge focused on this and attacked fiercely, but now, reverse flow protection seal reflected his entire attack to himself.</p>
+<p>Guh.</p>
+<p>Feng Jiu Ge felt pain in his chest as he spat out blood, he struggled to maintain his position in the air.</p>
+<p>The earlier attack not only had the force of Fang Yuan&#x27;s attack, there was also the reflected power of Feng Jiu Ge&#x27;s attack, the combination of both made him spit out blood!</p>
+<p>Fang Yuan had the advantage, he roared and charged forward.</p>
+<p>It was too fast earlier, but now, Feng Jiu Ge could see properly, the ancient sword dragon&#x27;s silvery and shiny body actually had a layer of light, like a thin layer of clothing resembling flowing water.</p>
+<p>&quot;It really is reverse flow protection seal?&quot;</p>
+<p>&quot;He can maintain both immortal killer moves now! How did he do it?&quot;</p>
+<p>Yang pass tune!</p>
+<p>Fang Yuan missed and Feng Jiu Ge appeared elsewhere.</p>
+<p>The ancient sword dragon that Fang Yuan turned into could not tear open space, it could only travel rapidly in a straight line.</p>
+<p>Meanwhile, Feng Jiu Ge&#x27;s yang pass tune had the power of space path, it could teleport him to an entirely new location.</p>
+<p>From this point, even though Fang Yuan turned into an ancient sword dragon with sword escape Immortal Gu, he could not match Feng Jiu Ge&#x27;s yang pass tune.</p>
+<p>Unless Fang Yuan used the sword path movement killer move from Bo Qing&#x27;s inheritance.</p>
+<p>But so what?</p>
+<p>Yang pass tune had a time limit.</p>
+<p>Once the time was up, Feng Jiu Ge would be at a disadvantage in terms of movement.</p>
+<p>&quot;I need to find a way around this while yang pass tune is still active.&quot; Seeing Fang Yuan attacking yet again, Feng Jiu Ge&#x27;s heart sank.</p>

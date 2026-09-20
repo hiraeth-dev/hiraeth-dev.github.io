@@ -5,7 +5,112 @@ weight = 1492
 chapter = 1492
 +++
 
-<p>In the vast darkness, Fang Yuan&#x27;s soul was suffering. This dark space had an immense corrosive effect on his soul. This was something Fang Yuan had never seen when exploring dream realms. Fortunately, Fang Yuan&#x27;s soul foundation was extraordinary, he was over ten million man soul, he could endure the corrosion of the dream realm. Time in the dream realm could not be estimated. He only felt like a long time had passed before a white light appeared in the vast darkness. The white spot extended into a white line, before the line expanded up and down, light burst out as it filled Fang Yuan&#x27;s vision. Young Thieving Heaven gradually awakened. The white light was the blazing sun. Young Thieving Heaven quickly used his hand to shield his eyes. &quot;Why am I here?&quot; He soon found himself lying on the desert, night had already passed, it was noon now. Young Thieving Heaven&#x27;s doubts did not last long because soon, he found some information in his mind. This information was left behind by the clan&#x27;s Gu Master. The content was that Young Thieving Heaven had defied the clan rules and was exiled as punishment. But because he was young and ignorant, he only needed to stay in this desert for three days, as long as he returned to the clan after that, he would be able to join the clan again and live there. &quot;F*ck!&quot; After understanding what had happened, young Thieving Heaven cursed as his saliva shot out. &quot;I had merely said a few words and you guys exiled me, this is abusing children, you simply disregard lives!&quot; &quot;You bastards! I curse you…&quot; Young Thieving Heaven raised his middle finger but he did not know where to point. He did not even know his directions now, he did not know where the clan was at. This discovery made young Thieving Heaven lose all his vigor. He sat on the ground: &quot;What do I do now? Even though I became a Gu Master, I have no Gu worms. I have no water or food, by night time, without any warm clothes or tents to shield me from the wind, I will freeze to death!&quot; &quot;No, I must live.&quot; &quot;I will survive in this accursed world and find a way home!&quot; Young Thieving Heaven gritted his teeth, two flames of ambition were burning in his eyes. At the same time, Fang Yuan felt his body relaxing, the restraints on him vanished suddenly. When he moved his arms and legs, young Thieving Heaven also moved his arms and legs. &quot;Oh? I can control it now?&quot; &quot;It seems that I need to take the place of young Thieving Heaven and survive in this desert.&quot; Fang Yuan immediately realized.</p>
-<p>Struggling to survive in a desperate situation, Fang Yuan had experienced that many times, but he was in a difficult spot now. There was simply one reason, he had nothing to work with! Young Thieving Heaven had nothing on him, he only had twenty to thirty percent primeval essence without a single mortal Gu. Asking him to survive in the desert was harder than ascending heaven. &quot;The clan exiled him like this, they want him to die. No, more accurately, they do not care about a Gu Master like him.&quot; Normally speaking, every Gu Master was precious, but Fang Yuan thought about the scene before, he realized the reason. &quot;The clan that young Thieving Heaven is in is not strong, they have few resources. Thus, even if they have potential Gu Masters, they need to nurture the talented ones.&quot; Fang Yuan smiled bitterly, this discovery was useless for the problem he was facing. Looking around, all he saw was sand, there was no greenery anywhere. Immortal killer move — Unravel Dream. Fang Yuan used it, but after a while, he saw nothing happening. This useful trump card that had helped him countless times was completely restricted in Thieving Heaven&#x27;s dream realm. Fang Yuan sighed deeply: &quot;I can only test my luck.&quot; He chose a direction and started moving. One and a half days later, Fang Yuan encountered nothing, he died of thirst along the way. After that, Fang Yuan&#x27;s soul suffered a huge injury. He was forced out of the dream. The exploration of the dream realm failed, his soul was heavily injured and returned to the sovereign immortal body. Fang Yuan felt dizzy and saw darkness, he quickly used guts Gu to heal his injuries. &quot;Guts Gu!&quot; Tang Fang Ming saw this and had a look of envy. He watched as Fang Yuan used many guts Gu to heal his soul rapidly. Guts Gu was the best supporting Gu for exploring dream realms. Fang Yuan went into Thieving Heaven&#x27;s dream realm again as his soul left his body. Arriving in the desert again. Fang Yuan sighed, he chose a different direction and moved forward. After walking for a day, there was still nothing in his vision, Fang Yuan was tired and thirsty, he felt his body reaching its limit. &quot;If Thieving Heaven was in the same situation in history, he had no way of surviving, he needed external help or fortuitous encounters.&quot; &quot;This means, one direction will have a fortuitous encounter. But my luck was bad, I did not encounter it.&quot; &quot;This round seems to depend on the explorer&#x27;s luck. It is a pity my luck path methods cannot be used in the dream, unless I can combine dream path and luck path to create an immortal killer move or Immortal Gu of both paths, that will have effect.&quot; Fang Yuan continued to analyze. His second exploration failed again. After resting, he started his third try. This time, he chose a different direction, soon, he encountered a pit.</p>
-<p>This was a quicksand pit, Fang Yuan was stuck and could not escape. &quot;Am I going to die again?&quot; Fang Yuan was a little stifled, he could only watch as the sand devoured him. But unexpectedly, before the quicksand covered his head, sand started to spew upwards like a geyser, shooting Fang Yuan towards the sky. After Fang Yuan landed, the quicksand pit had turned into a hole, it was blowing out cold air. It was a cool and comfortable breeze. &quot;This might work!&quot; Fang Yuan quickly got close to the pit and saw that there were winged fish flying out of the hole along with the breeze. These were not fish, they were mortal cool wind Gu. Fang Yuan quickly wanted to subdue these mortal Gu, but the cool wind Gu were very fast, they ignored Fang Yuan. The edges of the hole were blowing air and repelling Fang Yuan, pushing him away. Fang Yuan had low strength and was very hungry, he could not get close to the hole and interact with these cool wind Gu. But Fang Yuan was not dejected, he patiently waited. Not long after, his chance appeared, a cool wind Gu was injured when colliding into its companions, it fell to the ground and left the cool air, landing at the fringe of the hole. Fang Yuan quickly grabbed this cool wind Gu. But in his excitement, he squashed it to death! Fang Yuan was speechless, he could only wait. Soon, his chance appeared again, two cool wind Gu flew out. But before Fang Yuan captured them, they flew up again and went into the cool air tunnel. Fang Yuan sighed, but he suddenly had an inspiration: &quot;What if I use unravel dream at this time?&quot; He used immortal killer move unravel dream again, at the next moment, he saw an effect, a cool wind Gu flew out. Fang Yuan grabbed it and before he refined it, a second cool wind Gu flew down and was quite injured, it tried to move its wings but could not fly. Fang Yuan captured it as well and after some effort, he refined both cool wind Gu. When the cool air vanished, these wild cool wind Gu flew with it and left Fang Yuan&#x27;s vision, but he already had five cool wind Gu in his aperture. &quot;I finally have some methods.&quot; Even though the issue of survival was not solved, this was a good start. And most importantly, this quicksand pit was a sign that Fang Yuan chose the right direction. And something that boosted Fang Yuan&#x27;s morale was that unravel dream was not useless here, it had some specific uses in Thieving Heaven&#x27;s dream realm. Fang Yuan continued past the quicksand pit and moved forward, not long after, he saw a small oasis. There was a well in the oasis, even though there were some wild beasts guarding it, and the leader of the beasts even had a mortal Gu. Fang Yuan was energized, he used the five cool wind Gu to fight this group of beasts.</p>
-<p>Eventually, using the terrain and his schemes, he killed the beast group, and also subdued the wild Gu worm on the leader&#x27;s body. This was a poison path Gu worm resembling a scorpion. The battle was decided, Fang Yuan quickly came to the well, but to his disappointment, it had dried up. But that was not an issue, the beast corpses here were precious provisions. Fang Yuan drank the beast blood and ate some meat to fill his stomach. Next, he collected the stomachs of some beasts and collected all of their blood, he also pulled apart some meat and used the beast intestines to tie them onto his body. By now, the dream realm was already at night time, the desert temperature was getting low. Fang Yuan had a plan, he was not rushed or anxious. He held the beast skins and bones that he had and came to the dried well, creating a structure with the bones and placing the skin above them. These beast skins still had some fat layers on them, they were quite heat retaining. After his arrangements, Fang Yuan entered the empty hole and carefully explored the well. He placed his his feet on the sides of the well, preventing his body from falling down, he pulled on the beast skin and completely covered the hole on top. Next, he slowly got down to the bottom of the well. When he got to the bottom of the well, Fang Yuan wanted to survive a night in here, but he had a new discovery. It turned out that there was a small hole at the bottom of the well, and there was quite the thing there! Looking at the edge of the hole, it was man-made. Fang Yuan&#x27;s heart shook, he quickly entered this hole by controlling young Thieving Heaven&#x27;s body. Following this hole, after fifty to sixty steps, Fang Yuan came to a small underground space that was the size of a room. This place was quite simple, but there was a bowl made from soil, and there was a spring, it was tiny, but clear water was accumulated there. There was also a dried corpse on the ground. &quot;Don&#x27;t tell me that this is Thieving Heaven Demon Venerable&#x27;s true fortuitous encounter in his early days?&quot; Fang Yuan was intrigued.</p>
+<p>In the vast darkness, Fang Yuan&#x27;s soul was suffering.</p>
+<p>This dark space had an immense corrosive effect on his soul. This was something Fang Yuan had never seen when exploring dream realms.</p>
+<p>Fortunately, Fang Yuan&#x27;s soul foundation was extraordinary, he was over ten million man soul, he could endure the corrosion of the dream realm.</p>
+<p>Time in the dream realm could not be estimated.</p>
+<p>He only felt like a long time had passed before a white light appeared in the vast darkness.</p>
+<p>The white spot extended into a white line, before the line expanded up and down, light burst out as it filled Fang Yuan&#x27;s vision.</p>
+<p>Young Thieving Heaven gradually awakened.</p>
+<p>The white light was the blazing sun.</p>
+<p>Young Thieving Heaven quickly used his hand to shield his eyes.</p>
+<p>&quot;Why am I here?&quot; He soon found himself lying on the desert, night had already passed, it was noon now.</p>
+<p>Young Thieving Heaven&#x27;s doubts did not last long because soon, he found some information in his mind.</p>
+<p>This information was left behind by the clan&#x27;s Gu Master.</p>
+<p>The content was that Young Thieving Heaven had defied the clan rules and was exiled as punishment. But because he was young and ignorant, he only needed to stay in this desert for three days, as long as he returned to the clan after that, he would be able to join the clan again and live there.</p>
+<p>&quot;F*ck!&quot; After understanding what had happened, young Thieving Heaven cursed as his saliva shot out.</p>
+<p>&quot;I had merely said a few words and you guys exiled me, this is abusing children, you simply disregard lives!&quot;</p>
+<p>&quot;You bastards! I curse you…&quot;</p>
+<p>Young Thieving Heaven raised his middle finger but he did not know where to point.</p>
+<p>He did not even know his directions now, he did not know where the clan was at.</p>
+<p>This discovery made young Thieving Heaven lose all his vigor.</p>
+<p>He sat on the ground: &quot;What do I do now? Even though I became a Gu Master, I have no Gu worms. I have no water or food, by night time, without any warm clothes or tents to shield me from the wind, I will freeze to death!&quot;</p>
+<p>&quot;No, I must live.&quot;</p>
+<p>&quot;I will survive in this accursed world and find a way home!&quot;</p>
+<p>Young Thieving Heaven gritted his teeth, two flames of ambition were burning in his eyes.</p>
+<p>At the same time, Fang Yuan felt his body relaxing, the restraints on him vanished suddenly.</p>
+<p>When he moved his arms and legs, young Thieving Heaven also moved his arms and legs.</p>
+<p>&quot;Oh? I can control it now?&quot;</p>
+<p>&quot;It seems that I need to take the place of young Thieving Heaven and survive in this desert.&quot;</p>
+<p>Fang Yuan immediately realized.</p>
+<p>Struggling to survive in a desperate situation, Fang Yuan had experienced that many times, but he was in a difficult spot now.</p>
+<p>There was simply one reason, he had nothing to work with!</p>
+<p>Young Thieving Heaven had nothing on him, he only had twenty to thirty percent primeval essence without a single mortal Gu. Asking him to survive in the desert was harder than ascending heaven.</p>
+<p>&quot;The clan exiled him like this, they want him to die. No, more accurately, they do not care about a Gu Master like him.&quot;</p>
+<p>Normally speaking, every Gu Master was precious, but Fang Yuan thought about the scene before, he realized the reason.</p>
+<p>&quot;The clan that young Thieving Heaven is in is not strong, they have few resources. Thus, even if they have potential Gu Masters, they need to nurture the talented ones.&quot;</p>
+<p>Fang Yuan smiled bitterly, this discovery was useless for the problem he was facing.</p>
+<p>Looking around, all he saw was sand, there was no greenery anywhere.</p>
+<p>Immortal killer move — Unravel Dream.</p>
+<p>Fang Yuan used it, but after a while, he saw nothing happening.</p>
+<p>This useful trump card that had helped him countless times was completely restricted in Thieving Heaven&#x27;s dream realm.</p>
+<p>Fang Yuan sighed deeply: &quot;I can only test my luck.&quot;</p>
+<p>He chose a direction and started moving.</p>
+<p>One and a half days later, Fang Yuan encountered nothing, he died of thirst along the way.</p>
+<p>After that, Fang Yuan&#x27;s soul suffered a huge injury.</p>
+<p>He was forced out of the dream.</p>
+<p>The exploration of the dream realm failed, his soul was heavily injured and returned to the sovereign immortal body.</p>
+<p>Fang Yuan felt dizzy and saw darkness, he quickly used guts Gu to heal his injuries.</p>
+<p>&quot;Guts Gu!&quot; Tang Fang Ming saw this and had a look of envy.</p>
+<p>He watched as Fang Yuan used many guts Gu to heal his soul rapidly.</p>
+<p>Guts Gu was the best supporting Gu for exploring dream realms.</p>
+<p>Fang Yuan went into Thieving Heaven&#x27;s dream realm again as his soul left his body.</p>
+<p>Arriving in the desert again.</p>
+<p>Fang Yuan sighed, he chose a different direction and moved forward.</p>
+<p>After walking for a day, there was still nothing in his vision, Fang Yuan was tired and thirsty, he felt his body reaching its limit.</p>
+<p>&quot;If Thieving Heaven was in the same situation in history, he had no way of surviving, he needed external help or fortuitous encounters.&quot;</p>
+<p>&quot;This means, one direction will have a fortuitous encounter. But my luck was bad, I did not encounter it.&quot;</p>
+<p>&quot;This round seems to depend on the explorer&#x27;s luck. It is a pity my luck path methods cannot be used in the dream, unless I can combine dream path and luck path to create an immortal killer move or Immortal Gu of both paths, that will have effect.&quot;</p>
+<p>Fang Yuan continued to analyze.</p>
+<p>His second exploration failed again.</p>
+<p>After resting, he started his third try.</p>
+<p>This time, he chose a different direction, soon, he encountered a pit.</p>
+<p>This was a quicksand pit, Fang Yuan was stuck and could not escape.</p>
+<p>&quot;Am I going to die again?&quot; Fang Yuan was a little stifled, he could only watch as the sand devoured him.</p>
+<p>But unexpectedly, before the quicksand covered his head, sand started to spew upwards like a geyser, shooting Fang Yuan towards the sky.</p>
+<p>After Fang Yuan landed, the quicksand pit had turned into a hole, it was blowing out cold air.</p>
+<p>It was a cool and comfortable breeze.</p>
+<p>&quot;This might work!&quot; Fang Yuan quickly got close to the pit and saw that there were winged fish flying out of the hole along with the breeze.</p>
+<p>These were not fish, they were mortal cool wind Gu.</p>
+<p>Fang Yuan quickly wanted to subdue these mortal Gu, but the cool wind Gu were very fast, they ignored Fang Yuan.</p>
+<p>The edges of the hole were blowing air and repelling Fang Yuan, pushing him away.</p>
+<p>Fang Yuan had low strength and was very hungry, he could not get close to the hole and interact with these cool wind Gu.</p>
+<p>But Fang Yuan was not dejected, he patiently waited.</p>
+<p>Not long after, his chance appeared, a cool wind Gu was injured when colliding into its companions, it fell to the ground and left the cool air, landing at the fringe of the hole.</p>
+<p>Fang Yuan quickly grabbed this cool wind Gu.</p>
+<p>But in his excitement, he squashed it to death!</p>
+<p>Fang Yuan was speechless, he could only wait.</p>
+<p>Soon, his chance appeared again, two cool wind Gu flew out.</p>
+<p>But before Fang Yuan captured them, they flew up again and went into the cool air tunnel.</p>
+<p>Fang Yuan sighed, but he suddenly had an inspiration: &quot;What if I use unravel dream at this time?&quot;</p>
+<p>He used immortal killer move unravel dream again, at the next moment, he saw an effect, a cool wind Gu flew out.</p>
+<p>Fang Yuan grabbed it and before he refined it, a second cool wind Gu flew down and was quite injured, it tried to move its wings but could not fly.</p>
+<p>Fang Yuan captured it as well and after some effort, he refined both cool wind Gu.</p>
+<p>When the cool air vanished, these wild cool wind Gu flew with it and left Fang Yuan&#x27;s vision, but he already had five cool wind Gu in his aperture.</p>
+<p>&quot;I finally have some methods.&quot;</p>
+<p>Even though the issue of survival was not solved, this was a good start.</p>
+<p>And most importantly, this quicksand pit was a sign that Fang Yuan chose the right direction.</p>
+<p>And something that boosted Fang Yuan&#x27;s morale was that unravel dream was not useless here, it had some specific uses in Thieving Heaven&#x27;s dream realm.</p>
+<p>Fang Yuan continued past the quicksand pit and moved forward, not long after, he saw a small oasis.</p>
+<p>There was a well in the oasis, even though there were some wild beasts guarding it, and the leader of the beasts even had a mortal Gu.</p>
+<p>Fang Yuan was energized, he used the five cool wind Gu to fight this group of beasts.</p>
+<p>Eventually, using the terrain and his schemes, he killed the beast group, and also subdued the wild Gu worm on the leader&#x27;s body. This was a poison path Gu worm resembling a scorpion.</p>
+<p>The battle was decided, Fang Yuan quickly came to the well, but to his disappointment, it had dried up.</p>
+<p>But that was not an issue, the beast corpses here were precious provisions.</p>
+<p>Fang Yuan drank the beast blood and ate some meat to fill his stomach. Next, he collected the stomachs of some beasts and collected all of their blood, he also pulled apart some meat and used the beast intestines to tie them onto his body.</p>
+<p>By now, the dream realm was already at night time, the desert temperature was getting low.</p>
+<p>Fang Yuan had a plan, he was not rushed or anxious.</p>
+<p>He held the beast skins and bones that he had and came to the dried well, creating a structure with the bones and placing the skin above them.</p>
+<p>These beast skins still had some fat layers on them, they were quite heat retaining.</p>
+<p>After his arrangements, Fang Yuan entered the empty hole and carefully explored the well.</p>
+<p>He placed his his feet on the sides of the well, preventing his body from falling down, he pulled on the beast skin and completely covered the hole on top.</p>
+<p>Next, he slowly got down to the bottom of the well.</p>
+<p>When he got to the bottom of the well, Fang Yuan wanted to survive a night in here, but he had a new discovery.</p>
+<p>It turned out that there was a small hole at the bottom of the well, and there was quite the thing there!</p>
+<p>Looking at the edge of the hole, it was man-made.</p>
+<p>Fang Yuan&#x27;s heart shook, he quickly entered this hole by controlling young Thieving Heaven&#x27;s body.</p>
+<p>Following this hole, after fifty to sixty steps, Fang Yuan came to a small underground space that was the size of a room.</p>
+<p>This place was quite simple, but there was a bowl made from soil, and there was a spring, it was tiny, but clear water was accumulated there.</p>
+<p>There was also a dried corpse on the ground.</p>
+<p>&quot;Don&#x27;t tell me that this is Thieving Heaven Demon Venerable&#x27;s true fortuitous encounter in his early days?&quot;</p>
+<p>Fang Yuan was intrigued.</p>
