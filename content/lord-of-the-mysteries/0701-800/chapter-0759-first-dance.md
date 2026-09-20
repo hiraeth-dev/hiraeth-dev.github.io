@@ -1,0 +1,65 @@
++++
+title = "Chapter 759: First Dance"
+weight = 759
+[extra]
+chapter = 759
++++
+
+<p>Saturday night, 8 p.m.</p>
+<p>Klein rode his high-end carriage and arrived at 39 Böklund Street —Member of Parliament Macht&#x27;s house—in two and a half minutes</p>
+<p>After stealing a glance at the lit fountain that was sloshing with water, he buttoned his tailcoat and walked down the carriage before strolling to the house&#x27;s main entrance.</p>
+<p>Richardson held an exquisitely packaged bottle of Southville red wine and followed closely behind his employer.</p>
+<p>After walking through the main door, Klein instantly saw Member of Parliament Macht and his wife, Riana, walk over to welcome him.</p>
+<p>The former was wearing an olive-green army officer uniform with an orange-red sash around his waist and a few medals hanging from his chest. In the Loen Kingdom, serving and retired officers enjoyed wearing their military uniforms at balls.</p>
+<p>The latter was wearing a yellow long dress with frilly sides and rarely-seen, exquisite lace, making her look different from unmarried ladies. However, she also partially exposed her fair neck and her shoulders.</p>
+<p>Klein took the bottle of Southville red wine from Richardson&#x27;s hand and handed it to Member of Parliament Macht before saying with a bow, &quot;Sorry, I&#x27;m late by a few minutes.&quot; This was actually a common situation at Loen balls. Guests would rather be late by a certain amount of time than be early. This was because the masters of the house might still be busy with the final preparations with the ball. It was the worst time for them to entertain guests, but of course, one had to ensure that they weren&#x27;t late by more than ten minutes.</p>
+<p>If Wahana hadn&#x27;t specially taught him this, Klein would&#x27;ve definitely come early as a form of respect.</p>
+<p>&quot;It&#x27;s fine. The ball hasn&#x27;t officially begun.&quot; Macht glanced at the Southville red wine as he handed it to his valet before nodding with a smile.</p>
+<p>At Loen&#x27;s high society engagements, one had to bring a gift for the master if it was their first time attending a ball. Alcoholic beverages were the most welcomed, but one had to keep in mind that the first gift had to be something locally produced.</p>
+<p>After greeting Macht, Klein looked towards Ma&#x27;am Riana and saw that she had slightly raised her right hand. Hence, he took one step forward and lifted her palm and bent his back to kiss it.</p>
+<p>&quot;You illuminate the entire ball.&quot;</p>
+<p>Before the ball began, complimenting the masters of the house was a necessary step in Loen social events. And unlike Intis, Loen&#x27;s hand-kissing etiquette required the lady to gesture that it was possible before a gentleman could do the kiss; otherwise, it would be a serious faux pas.</p>
+<p>&quot;Likewise for your arrival,&quot; Ma&#x27;am Riana replied with a smile. Then, the couple led Dwayne Dantès through the corridor and into the main hall where a pleasant tune was echoing.</p>
+<p>After taking a few steps forward, Maury Macht pointed at a lady in a sky-blue dress.</p>
+<p>&quot;My daughter, Hazel.&quot;</p>
+<p>Klein looked at the girl as his pupils suddenly constricted!</p>
+<p>He knew this girl!</p>
+<p>To be precise, he had seen her image before!</p>
+<p>Back when he had asked Arrodes where he could obtain a mystical item which could steal the Beyonder powers of others, the magic mirror had indicated a scene of an arrogant lady loitering in the sewers, and she was none other than Hazel Macht. She was a lady with wavy black-green hair and bright brown eyes!</p>
+<p>She has a mystical item that corresponds to a Prometheus? With her family conditions, why would she be loitering in the sewers? Is it some fortuitous encounter of hers? Was she searching for something or waiting for something in the sewers? She has already become a Beyonder? How did she become one? Could it be that she has a Grandpa parasitizing in her body? Klein, who was donning the &quot;skin&quot; of Dwayne Dantès, instantly thought of many questions, but he pressed his hand to his chest as he bowed with an unperturbed look.</p>
+<p>&quot;Good evening, Miss Hazel.&quot; During this process, he stole a glance at Hazel Macht&#x27;s face and discovered that she wore a composed look. There was an arrogance in her eyes, and all she did was smile politely and answer, &quot;Good evening, Mr. Dantès.&quot;</p>
+<p>She didn&#x27;t have any abnormal reaction, which means that she&#x27;s unable to sense the aura of the gray fog... At the very least, there&#x27;s no Grandpa parasitizing her. I can&#x27;t be certain for now, and I&#x27;ll have to continue observing... Klein stood up straight as he took a cup of pale-gold champagne from a waiter&#x27;s tray. He then began chatting with Member of Parliament Maury Macht.</p>
+<p>&quot;I never expected you to be a major.&quot;</p>
+<p>He could tell from the epaulet on Macht&#x27;s shoulder.</p>
+<p>If he was a colonel, Klein would&#x27;ve even suspected if the gentleman was also a Beyonder, but it was hard to tell for a major.</p>
+<p>&quot;Haha, it&#x27;s nothing. There are many opportunities to render meritorious services in Balam,&quot; Maury answered. &quot;Of course, the weather there is especially unsuitable. I&#x27;ve always been suggesting to the army&#x27;s higher-ups to design a uniform for West Balam and to get rid of the traditional dark colors; otherwise, the officers will only feel as if they are beef waiting to be roasted.&quot;</p>
+<p>As for the enlisted soldiers, most of them wore red tops and white bottoms.</p>
+<p>&quot;Yes, the weather there is completely different from what it&#x27;s like in the country. Even Desi Bay isn&#x27;t that hot.&quot; Klein indicated that he had been to the Southern Continent, and he had been to either East or West Balam to corroborate his hunting experiences that he had mentioned a few days ago. After a few minutes of small talk, Macht apologized and walked to the staircase with his wife. At the second floor, he raised a cup of red wine while standing by the railings facing the main door and said, &quot;Thank you everyone for coming to our ball. First, let us toast the deities. They are the source of everything beautiful.&quot;</p>
+<p>He and Ma&#x27;am Riana tapped four times on their chests as they softly praised the Goddess. The other guests also praised the deities they believed in via their own means.</p>
+<p>Macht continued having his cup raised as he said with a smile, &quot;Second, a toast to the kingdom. It is a stable bedrock.&quot;</p>
+<p>&quot;To the kingdom.&quot; Klein raised his cup of champagne and spoke with the other guests around him.</p>
+<p>Following that, Macht surveyed the area and asked humorously, &quot;Finally, what shall we toast to?&quot;</p>
+<p>Klein&#x27;s mind whirred as he said loudly with a smile, &quot;A toast to the improvement of the air in Backlund.&quot;</p>
+<p>Macht was taken aback as he couldn&#x27;t help but smile in response.</p>
+<p>&quot;Excellent. That&#x27;s a great suggestion.</p>
+<p>&quot;A toast to the improvement of Backlund&#x27;s air. This is a symbol of us living better lives. Cheers!&quot;</p>
+<p>The fixing of the atmospheric pollution issue had always been one of his political ideals as a House of Commons Member of Parliament. He had ultimately been pushing for the corresponding bills, and he had played a significant role in the improvement of the environment. Therefore, toasting to the improvement in Backlund&#x27;s air was equivalent to toasting to himself. It was more euphemistic and more aboveboard.</p>
+<p>All the guests echoed in a spirited burst as they finished the drinks in their hands.</p>
+<p>Right on the heels of that, Member of Parliament Macht held Ma&#x27;am Riana&#x27;s hand, and they went down to the hall. They then started the opening dance in the mellow music.</p>
+<p>All the gentlemen present began finding their first partners to dance. Klein took another cup of champagne as he leisurely sized up the guests.</p>
+<p>Hmm, Ma&#x27;am Mary is here as well... He swept his gaze and found someone familiar. As one of the major shareholders of the Coim Company, with a wealth amounting to tens of thousands, Ma&#x27;am Mary had formerly hired Sherlock Moriarty to investigate her ex-husband&#x27;s act of adultery.</p>
+<p>She&#x27;s a member of the National Atmospheric Pollution Council, so it&#x27;s normal that she has a close relationship with the Member of Parliament... Klein didn&#x27;t attempt to invite her to a dance, since he here as Dwayne Dantès. He didn&#x27;t know this lady who lived in another street.</p>
+<p>He retracted his gaze and looked elsewhere. He saw Hazel Macht holding a cup of white wine and standing to the side. She wore a clear smile of alienation as she watched the gentlemen lock onto their targets to invite them for a dance.</p>
+<p>This lady actually looks pretty good. She&#x27;s digniﬁed and pretty. She should&#x27;ve been the star at this ball, with people yearning to invite her to a dance. However, the way she exudes that look of arrogance, looking down at people with a supercilious look, makes any gentleman who casts his eyes on her shift over to another target.</p>
+<p>I&#x27;ve seen this look in the eyes of certain Beyonders as well. They no longer think of themselves as mortal, and they often have a sense of superiority when facing ordinary folks... Heh heh, this implies that Miss Hazel is likely a Beyonder... That&#x27;s right, if she isn&#x27;t a Beyonder, how would she dare to loiter in the sewers... She&#x27;s from the Marauder pathway? But how is she to act as a Marauder or Swindler with such arrogance? It&#x27;s hard to imagine... Seeing that the hosts were almost done with the opening dance, he began seriously considering who he could invite.</p>
+<p>Dwayne Dantès is in his early forties, so it isn&#x27;t appropriate to invite a lady for his ﬁrst dance, unless it&#x27;s someone conﬁrmed to be a junior. And the ﬁrst dance of most ma&#x27;am&#x27;s would be done with their husbands... Hmm, I should be able to invite people I&#x27;m familiar with or the hosts... Klein swept the dance floor and found the only lady Dwayne Dantès was familiar with. It was his etiquette teacher, Wahana.</p>
+<p>Invite her? No, she likely already knows that I&#x27;ve secretly helped her. To invite her for the ﬁrst dance can easily make her misunderstand. It might even affect her relationship with her husband and incur unnecessary trouble for Dwayne Dantès... It&#x27;s not like I&#x27;m Emperor Roselle who has a penchant for the wives of others. No, he has a penchant for everything. In short, I should avoid creating gossip... Klein shifted his gaze and heard the music change. It went from a mellow melody to something brisk.</p>
+<p>It was a piece of countryside music that was popular in central Loen. It was well-liked by nobles and was often used for the first dance. With the change in music, the gentlemen walked to the ladies and madams they had selected. Klein also noticed that no one approached Hazel Macht.</p>
+<p>She&#x27;s one of the hosts of this ball... Besides, I can observe her at a close distance... Heh heh, if she really is a Beyonder of the Marauder pathway, it implies that the gray fog is able to &quot;converge&quot; Beyonders from the neighboring pathways of the Seer pathway... Klein wore a gentle smile as he unhurriedly walked to the arrogant lady.</p>
+<p>&quot;Miss Hazel, may I have the pleasure of a dance with you?&quot; Dwayne Dantès with his white sideburns gave a standard bow as he said.</p>
+<p>Hazel glanced at him and, after a few seconds of silence, said, &quot;It will be my honor.&quot;</p>
+<p>She then extended her palm.</p>
+<p>Klein politely held her hand and entered the dance floor as they began a brisk and lively dance.</p>
+<p>Glancing at her beautiful but deadpan face, Klein said with a smile as he tried probing, &quot;I just noticed that many young gentlemen wished to invite you to a dance, but they were unable to muster their courage.&quot;</p>
+<p>Hazel looked up and swept her gaze at him and said, &quot;Mr. Dantès, that&#x27;s not a polite topic.&quot;</p>
+<p>&quot;...&quot; Klein choked, lost as to how to reply.</p>

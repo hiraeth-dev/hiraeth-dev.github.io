@@ -1,0 +1,63 @@
++++
+title = "Chapter 1097: Different Conundrum"
+weight = 1097
+[extra]
+chapter = 1097
++++
+
+<p>Seeing that her mistress was clearly interested in ghost tales, Annie glanced at the other maids who were preparing hot water, combs, and other items. She continued, &quot;The doctors and nurses wished to invite the Church&#x27;s bishop to host a Mass, but the remaining patients strongly objected to it. They look forward to meeting that ghost. They all call it ‘the Clown Angel.&#x27; They say that its terrifying appearance resembles a specially dressed clown, but in actual fact, it&#x27;s an angel who can resolve pain and torment.&quot;</p>
+<p>&quot;This title is very interesting...&quot; Audrey said with a faint smile.</p>
+<p>If it were in the past, she would definitely be very interested in this, perhaps eager to make a trip to the hospital via Dream Traversal to figure out what was going on with the so-called &quot;Clown Angel.&quot; However, the sudden eruption of the war made her feel rather depressed. She felt that there were too many important things that she needed to do, so she wasn&#x27;t in the mood to probe further.</p>
+<p>In fact, if she hadn&#x27;t experienced the air raid herself and seen those who were injured because of it, she would definitely feel like a war had never happened over the past few days and that Backlund was still very peaceful.</p>
+<p>This was because, after that air raid, the airship fleet of the Loen Kingdom had been roped into the war effort. The air defenses of the coastal city&#x27;s had all been raised, and Backlund didn&#x27;t suffer another attack again. Currently, the battle between Feysac and Loen was mainly focused in three places—the Winter County&#x27;s Amantha mountain range, the heavy industry metropolitan area along the Midseashire&#x27;s east coast, and the few harbors along the Sonia Sea coast. Furthermore, they were in a deadlock with no side gaining an advantage over the other. Even if there were casualties, it didn&#x27;t have any material impact on Backlund. Other than the rise in prices with several editorial pieces in the newspapers, this city seemed to restore its peace in a few short days.</p>
+<p>However, Audrey didn&#x27;t think so. Her father and brother have been busy with work recently, often returning late at night or convening a private gathering with a group of nobles, Members of Parliament, and clergymen. Through the other charity organizations in the Church of Evernight, she learned of the exact number of casualties at the front lines of Pritz Harbor and Amantha. She even saw some photos of the battlefield. She was working hard to gather funds, contacting various pharmaceutical companies and hospitals, hoping that she could organize help and treatment needed in the war effort.</p>
+<p>Who would&#x27;ve thought that the crazy adventurer has not only offered the excess food in his manor, but he has even donated 7,000 pounds in cash... Audrey sighed secretly and began letting the maidservant help doll her up.</p>
+<p>South of the Bridge, Rose Street.</p>
+<p>Emlyn White casually donated ten pounds to a charity organization&#x27;s solicitor. He pressed his top hat and walked up the stairs, entering the Harvest Church.</p>
+<p>At this moment, there were no believers in the cathedral. Father Utravsky, who looked like a half-giant, sat at the front and prayed sincerely.</p>
+<p>Emlyn was in no hurry to change into his priest robes. He sat beside the priest and wanted to say something, but when he opened his mouth, he ended up scoffing. &quot;It must be your typical Feysac appearance and figure that made those believers fearful of coming over,&quot; Emlyn said casually as he looked at the altar in front of him.</p>
+<p>Bishop Utravsky put down his hands and opened his eyes.</p>
+<p>&quot;I can understand them.&quot;</p>
+<p>&quot;What&#x27;s the point of understanding them? If the war gets more intense and the number of soldiers who die in the battle increase a bit more, the believers might rush in here and bum the cathedral and hang you to death.&quot; Emlyn continued to look at the Sacred Emblem of Life.</p>
+<p>Father Utravsky shook his head slightly.</p>
+<p>&quot;No, they won&#x27;t. They sincerely believe in the Earth Mother. They won&#x27;t bum the cathedral. At most, they will banish me. If I express that I&#x27;ve given up on my Feysac nationality, there will always be people who will understand and accept me.&quot;</p>
+<p>Emlyn tsked and said without moving his gaze, &quot;What if Feynapotter joins in the war and attacks Desi Bay, Loen territory?</p>
+<p>&quot;What if the Church of Earth Mother calls all clergymen to arms and become enemies with Loen?</p>
+<p>&quot;Are you going to obey the orders of the Church and abandon the believers here, or are you going to pretend that you don&#x27;t know anything? Continuing promoting how precious life is, how joyous the harvest is as you are now? Or, will you directly organize those believers to make them become enemies with their own kind, using blood and sacrifices to prove their faith?&quot;</p>
+<p>Bishop Utravsky slowly looked at the Sacred Emblems of Life up and above the altar, not saying anything for a long time.</p>
+<p>Emlyn didn&#x27;t bring up any more questions as he fell silent like the priest.</p>
+<p>The entire Harvest Church was silent.</p>
+<p>On a colonial island, Alger Wilson, who hadn&#x27;t had the chance to return to Pasu Island, didn&#x27;t leave the Blue Avenger due to his principles of being cautious. He only sent his sailors to take turns to gather information.</p>
+<p>&quot;Captain, there still isn&#x27;t any news about mustering us,&quot; a sailor reported to Alger of his findings of the day while reeking of alcohol.</p>
+<p>Alger waved his hand and dismissed his subordinate to leave the room. Then, he frowned slightly and muttered silently to himself, The Church doesn&#x27;t seem to care much about this war...</p>
+<p>From what Alger knew, this was likely an intense war that would cover a huge scale. As the victim of an invasion, the Church of the Lord of Storms would definitely mobilize all its strength to defeat the enemy, including the &quot;captains&quot; who were scattered across the sea by giving them corresponding missions. However, at this moment in time, Alger had yet to receive orders from Pasu Island.</p>
+<p>This didn&#x27;t mean that the Church of the Lord of Storms was slacking off. The activity of the Church&#x27;s forces amongst the Loen army and the air raid drills it was involved in the various major cities, and the activities of the demigods implied that the Church of the Lord of Storms was seriously resisting the invasion of the Feysac Empire. It was just that it wasn&#x27;t going all-out.</p>
+<p>Could it be that it&#x27;s because we&#x27;re still in the early stages of the war? The Church wishes to preserve a portion of its strength for the critical moment? Alger held back the stirrings in his heart and waited for further information.</p>
+<p>At night, another group of sailors returned with news that had nothing to do with the war.</p>
+<p>&quot;Captain, there seems to be some kind of monster hiding on this island. Many pirates say that they encountered a terrifying situation when they head out to pee after drinking too much. Some of them were violently slapped by the branches of trees, while others saw fruits growing on their bodies—ones filled with blood and flesh in them. Some of them encountered skinny ghostly figures with wheat faces...&quot; A rather sober sailor described the rumors he had heard.</p>
+<p>Tales about ghosts and monsters... Alger didn&#x27;t have the intention to probe into the truth of the matter. He nodded and sternly warned, &quot;Don&#x27;t go out at night.&quot;</p>
+<p>After such paranormal tales started in Backlund and Pritz Harbor, Klein never went to those hospitals again, afraid that he would directly meet Zaratul&#x27;s marionettes.</p>
+<p>With the Creeping Hunger and the ability to &quot;Travel,&quot; he expanded his range for creating terrifying tales. Sometimes, he would be in the Sonia Sea, at other times in the Fog Sea. He would go to Lenburg, sometimes to Feynapotter, and sometimes appear in places like East and West Balam, the highlands and valley. He didn&#x27;t abide by any rules, and he relied solely on his momentary inspiration. He would visit some cities two or three times while not stepping foot into others even once.</p>
+<p>During this process, Klein felt an inexplicable strange feeling. In the terrifying darkness, invisible tentacles extended out, either searching for his whereabouts or attempting to predict his movements so as to intercept him ahead of time.</p>
+<p>They were silent and cold, and once they entangled him, the consequences were unimaginable.</p>
+<p>Klein knew that this might be the result of Zaratul&#x27;s &quot;search.&quot; His best solution was to temporarily stop acting and to lay low in wait. However, it was also this subtle feeling that made him wish to digest the potion as soon as possible. Hence, he made use of the gray fog&#x27;s powers. Every time he randomly chose a target location, he would go above the gray fog to divine the danger level and use Paper Angels to interfere.</p>
+<p>At this moment, with the huge progress in his digestion, he &quot;Teleported&quot; to Cookawa, which was in the Northern State of West Balam.</p>
+<p>This was where he had killed Ince Zangwill to avenge himself and the captain.</p>
+<p>The moment his figure appeared in the White Feather Square, he suddenly sensed something amiss.</p>
+<p>The residence that belonged to Maysanchez was too quiet. It was so quiet that it sent chills down his spine.</p>
+<p>Maysanchez was a native general who had previously bought arms from Dwayne Dantes. He was a Beyonder of the Death pathway, and he was backed by the Church of Knowledge.</p>
+<p>What happened? Klein frowned slightly as he considered whether he should enter to confirm the situation. After all, that was his &quot;collaboration partner.&quot;</p>
+<p>Furthermore, if he were to encounter an enemy that wasn&#x27;t weak, it would be a very good opportunity for him to act. After doing a self-analysis of the situation, he believed that if he could use a saint-level demigod as the main lead and create a few more horror tales, then his Bizarro Sorcerer potion would be digested for the most part.</p>
+<p>Of course, the prerequisite for everything is to be safe. I have to be careful and cautious... As he made his marionette, Qonas Kilgor, transform into the appearance of Dwayne Dantes, he took out a gold coin.</p>
+<p>This time, the revelation he received was that there wasn&#x27;t any danger.</p>
+<p>Strange... Klein didn&#x27;t let his guard down as his body turned incorporeal before becoming a shadow that disappeared into the darkness of the night. As for his marionette, Qonas Kilgor walked slowly towards Maysanchez&#x27;s mansion with his face facing down.</p>
+<p>This was the ability to hide in the shadows that Creeping Hunger provided itself.</p>
+<p>As for the other marionette, Enuni, he was waiting about 1000 meters away. As for the few &quot;rats&quot; that belonged to the marionette, they were spaced out nearly 1000 meters away from each other, but they were unable to do anything. Soon, Dwayne Dantes arrived in front of the general&#x27;s residence and activated his Spirit Body Threads vision.</p>
+<p>What entered his vision were black illusory threads that were &quot;grown&quot; in a messy fashion. They seemed to come from different people, but they also had an obviously similar aura.</p>
+<p>And normal Spirit Body Threads didn&#x27;t exist at all.</p>
+<p>After a few seconds of silence, Dwayne Dantes extended his right hand and pushed open the closed door.</p>
+<p>The scene inside was completely different from what he remembered. The pillars that were covered with golden foils, the golden sculptures on the walls, and gorgeous stairs were now rolled into a bunch like a huge porcupine with golden spikes growing out of it. On the ground, there were sharp stone pillars and shattered glass everywhere.</p>
+<p>Apart from these, there were more illusory bookshelves in the hall that didn&#x27;t appear real. There were pools of black shadows hidden in different spots on the bookshelf as they curled and stretched like eyes from time to time.</p>
+<p>As the door opened, the pool of liquid-like shadows suddenly came alive and produced the same sound:</p>
+<p>&quot;It&#x27;s you!</p>
+<p>&quot;My prediction was right. You&#x27;re the one who can help me out of my conundrum!&quot;</p>

@@ -1,0 +1,60 @@
++++
+title = "Chapter 840: Using His Advantage"
+weight = 840
+[extra]
+chapter = 840
++++
+
+<p>With all the abnormalities vanishing, Klein heaved a slight sigh of relief. He began to observe his surroundings. Then, he selected a shadowy spot that wasn&#x27;t too dark due to the faint moonlight. This was to prevent himself from suffering any sudden attacks.</p>
+<p>And the few seconds from before had made him come up with a theory about the faint figures and beast-like growls.</p>
+<p>They were previously corpses that were hung inside the cathedral, producing the ravings of &quot;Hornacis... Flegrea...&quot;!</p>
+<p>When Klein passed through the wall and left the cathedral, the corpses that hung from above had turned to face the lit candle, and there weren&#x27;t any figures on the street until Klein remotely used Flame Controlling and extinguished the flame. Everything was the same as before!</p>
+<p>When the crimson moon is clear and one&#x27;s spirituality is enhanced, the &quot;magnet&quot; at the top of the cathedral will have a stronger inﬂuence on the foggy town. It will be able to control those corpses to loiter around and pretend that everything is normal? If that really is the case, the light might actually be attracting the controller&#x27;s attention. Under such circumstances, if the ﬂame isn&#x27;t extinguished and the source is locked on, it might result in an extremely terrifying outcome. Hmm, I can&#x27;t rely on Flame Controlling to repeatedly divert the &quot;attention&quot; of those ﬁgures... Klein reminded himself. Then, he turned to use his Spirit Body Threads vision that he didn&#x27;t deactivate, to size up the bread, stewed beef potatoes, and red wine on the dining table.</p>
+<p>He suspected that the food here was part of the &quot;magnet&quot; at the top of the cathedral. If it was consumed, one&#x27;s Spirit Body Threads would be corrupted, and it would cause them to be unable to resist floating towards the cathedral. This also explained why eating the food caused them to vanish. They ended up being hung up to dry in the cathedral and be let out to &quot;walk&quot; when the crimson moon turned clear. This matched Mr. A&#x27;s description of the vanished people&#x27;s reappearance under the bright moonlight.</p>
+<p>At a glance, Klein discovered that the food was like living beings. They had Spirit Body Threads extending out, reaching towards the ancient cathedral.</p>
+<p>The most special point about them was that they had only one Spirit Body Thread, obviously being different from the dense, countless Spirit Body Threads of a normal living creature.</p>
+<p>Indeed, it&#x27;s close to my theory... After obtaining some validation regarding his theory, Klein retracted his gaze and considered how to deal with Demoness of Despair Panatiya.</p>
+<p>Beside him, Wraith Senor in his ancient triangular hat and dark red robe appeared. This marionette&#x27;s bones cracked as his face squirmed. Soon, he turned into Gehrman Sparrow.</p>
+<p>This was a marionette using the powers of a Faceless!</p>
+<p>Klein observed his double for a moment and realized that there were some flaws. The clothes couldn&#x27;t be changed, and if he concealed them with an illusion, it wasn&#x27;t possible for him to fool a demigod-level Demoness of Despair. Even Mr. A might not fall for it.</p>
+<p>After some thought, he made Wraith Senor take off his clothes. As for himself, he took off the black clergyman robe, and they switched clothes with one another! While wearing the clothes and hat, Klein&#x27;s expression turned odd. Over the past two months, the marionette had been wearing the same outfit. It had been down the sewers and experienced an explosion, so there were all sorts of smells mixed into the clothes. It wasn&#x27;t a pleasant smell.</p>
+<p>Sigh, my present suffering is all a result of my laziness prior to this... Klein sighed silently as he completed changing his appearance. He had turned into Gehrman Sparrow dressed as a pirate captain.</p>
+<p>At this moment, Senor had also changed into the black clergyman robe. His aura was spirited and no longer cold. He looked no different from a living person.</p>
+<p>Klein deliberated for a moment and took off Creeping Hunger, allowing Admiral of Blood to wear it on his left hand.</p>
+<p>This way, the marionette was the perfect copy of Gehrman Sparrow!</p>
+<p>One must go all the way when putting on an act... Besides, if Creeping Hunger were to revolt at this moment, then it will be eating the marionette. Heh heh, once the marionette lapses, will it feel cheated? It&#x27;s like it ate a placebo... As Klein got Senor to get used to his state and take away the fish meat, he seriously began formulating plans.</p>
+<p>Relying on a marionette that can use my Beyonder powers wouldn&#x27;t be able to defeat a Demoness of Despair, even stealing the obsidian rock from her is nearly impossible. She&#x27;s a genuine demigod after all...</p>
+<p>Even though this extremely convincing marionette gives me a chance of achieving success in battle, such as letting it draw her attention while I complete a sudden sneak attack and constantly swap positions; thus, confusing Panatiya so that she can&#x27;t make an accurate judgment, I can&#x27;t make up for the disadvantage that stems from the difference in our levels and strength to achieve my goals...</p>
+<p>I can consider using the marionette to engage in close combat and attempt to control Panatiya&#x27;s Spirit Body Threads. He&#x27;s already a corpse, so he wouldn&#x27;t be affected by the plague. I can catch her by surprise using this method... But there are too many problems. First, the mysticism &quot;viruses&quot; and &quot;germs&quot; that a Demoness of Despair creates will grow in strength. At its peak, will it be able to affect a zombie? Second, does she still have other Beyonder powers I&#x27;m not aware of... There&#x27;s a high chance that it&#x27;s the case!</p>
+<p>Hmm, I&#x27;ll ﬁrst make a list and write down my advantages or things that are on par with the Demoness of Despair. Let&#x27;s see if I can get any ideas...</p>
+<p>I can disguise myself. A marionette using its Beyonder powers can be considered at the level of a demigod. Instantaneous swapping is also one. Apart from them, there isn&#x27;t anything else... Yes, considering Demoness of Despair&#x27;s current state, I seem to have something that I&#x27;m better at than her...</p>
+<p>She&#x27;s in a half-crazed state. Her reason comes and goes at random, and she does extreme things. She&#x27;s easily led around by her instincts. Hmm, although she&#x27;s still good at incitement and allurement, that&#x27;s an innate quality for catching prey. As for me, I&#x27;m in a normal state, and I haven&#x27;t had any problems with my rationality yet. I&#x27;m still able to think and analyze...</p>
+<p>Don&#x27;t tell me I need to come out on top using my wit?</p>
+<p>An idea came to Klein as he gradually formulated a new train of thought and plans. Why must I ﬁght Demoness of Despair Panatiya to the death at this moment?</p>
+<p>She deﬁnitely yearns to escape this foggy town. Deep down in her heart, this will be something that beats her instinctive need to eat! Furthermore, she&#x27;s still full at the moment!</p>
+<p>I can try to cooperate with her. She can provide that obsidian rock, and I&#x27;ll draw the special and secret symbol, putting together the conditions for opening the door...</p>
+<p>Besides, I&#x27;m not too sure about Zaratul. Who knows what schemes &quot;He&quot; might be up to. &quot;He&quot; might be secretly plotting something. By pulling a Demoness of Despair into this, it can effectively make the situation chaotic and restrain &quot;Him&quot; in some way!</p>
+<p>Cooperation is a diplomatic choice, not a militaristic choice. The effects of an intact stand-in at the demigod level has will deﬁnitely be better than directly engaging in battle. This is equivalent to me obtaining beneﬁts from both sides!</p>
+<p>Klein rapidly made a decision. As he pondered on the details of him negotiating to cooperate, he patiently waited for the crimson moon to return behind the fog.</p>
+<p>After a while, the crimson moonlight that seeped through the dark-colored curtains dimmed. Klein immediately made his marionette pass through the wall and leave where he was hiding.</p>
+<p>Then, Senor walked onto the streets with the appearance of Gehrman Sparrow, walking straight towards the pitch-black cathedral. In about ten seconds, Klein discovered that Senor was being affected by an ailment.</p>
+<p>To the dead, this was completely ineffective, but Klein could foresee that, with the passage of time, the ailment would worsen and turn stranger. It might even affect one&#x27;s nerves and spirituality. This would make the zombie&#x27;s actions turn stiff. In the end, even its knees would be unable to bend, making movement only being possible by hopping.</p>
+<p>Thankfully, I didn&#x27;t choose to use the plan of letting my marionette control the Spirit Body Threads. Klein immediately made Senor say out loud, &quot;I was inside the cathedral for a while, and I&#x27;m not dead.</p>
+<p>&quot;I found a way to escape from this place!&quot;</p>
+<p>After saying that, &quot;Gehrman Sparrow&quot; sniffed as though his resistance to the ailment had weakened due to the declining state of his body.</p>
+<p>And at this moment, the white-robed Panatiya suddenly appeared at the door of the cathedral. Her hair had been tied up once again, looking neat and tidy.</p>
+<p>Her slightly crazy-looking but beautiful eyes looked at Gehrman Sparrow as she took out a strangely profound obsidian rock.</p>
+<p>The contours of the obsidian rock was identical to the inset on the wall behind the cathedral&#x27;s statue!</p>
+<p>&quot;You need it?&quot; Panatiya asked calmly. Klein discovered that the Demoness of Despair had dispelled her plague and ailment as he hurriedly made Senor nod.</p>
+<p>&quot;Yes. As long as you place it in the correct location in the cathedral, and match it with a special symbol, we will be able to open a ‘door&#x27; that allows us to escape.</p>
+<p>&quot;I know that the cathedral&#x27;s interior is very dangerous to you, but this is mainly a result of Spirit Body Threads. And as a Marionettist, I can control Spirit Body Threads to prevent you from suffering the fate of being hung up.&quot;</p>
+<p>Panatiya fell silent for a few seconds as she curled her lips. With a bright smile, she returned with a question, &quot;Then, I&#x27;ll become your marionette?</p>
+<p>&quot;Or you can stop helping me at the critical moment, making me turn into a loitering figure under the moon?&quot;</p>
+<p>Klein was long prepared. He immediately made his marionette reply earnestly, &quot;What should I do to make you feel at ease?&quot;</p>
+<p>Panatiya didn&#x27;t immediately reply. After some careful thought, she said, &quot;Give me your hair and flesh.&quot;</p>
+<p>Curses that Demonesses are good at? Using Senor&#x27;s hair and ﬂesh to curse Gehrman Sparrow? Count me as the loser if that works! As Klein felt grounded, he made the marionette appear in a difficult position.</p>
+<p>&quot;Then wouldn&#x27;t you be able to kill me at any moment?&quot; Panatiya replied with a smile, &quot;You can hand me the hair and flesh only when entering the cathedral.</p>
+<p>&quot;When inside, if there are any signs of me cursing you, you can give up controlling my Spirit Body Threads. It will be the same the other way round too. If anything abnormal happens to me, I&#x27;ll immediately curse you.</p>
+<p>&quot;Once the door is opened, I&#x27;ll leave first. And at the same time, I&#x27;ll return the flesh and hair to you.&quot;</p>
+<p>&quot;Gehrman Sparrow&quot; hesitated for a long time as he discussed the details with the Demoness of Despair. Finally, he nodded and said, &quot;Alright, let&#x27;s do it.&quot;</p>
+<p>Just as Panatiya wanted to say something, her eyes suddenly narrowed as she slowly said, &quot;For some reason, I&#x27;m still a little worried.&quot;</p>

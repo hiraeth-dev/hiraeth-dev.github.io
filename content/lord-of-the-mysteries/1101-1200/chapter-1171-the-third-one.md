@@ -1,0 +1,67 @@
++++
+title = "Chapter 1171: The Third One"
+weight = 1171
+[extra]
+chapter = 1171
++++
+
+<p>Let a piece of history that has been left behind return to the present era... Return, not reappear... The meaning of the two are completely different. It&#x27;s not sufﬁcient for me to write the true history of the Fourth or Third Epoch and disseminate it to complete the ritual... Klein&#x27;s right hand, which was holding the fountain pen, paused. He instinctively analyzed the contents of the Miracle Invoker potion.</p>
+<p>After some thought, he found something that perfectly matched the ritual&#x27;s requirements.</p>
+<p>That was to let the people of the City of Silver escape the Forsaken Land of the Gods and return to the Northern and Southern Continents, allowing this history that had been left behind for two to three thousand years return to the present era!</p>
+<p>This isn&#x27;t any easier than escaping Amon&#x27;s pursuit. The only way to leave the Forsaken Land of the Gods is to enter the Giant King&#x27;s Court and open the palace where Dark Angel Sasrir is in deep slumber. This is the ancient sun god&#x27;s negative personality. It&#x27;s ranked ﬁrst among the Kings of Angels and is known as the Left Hand of God, the deputy of Heaven. &quot;He&quot; might even be stronger than the current Amon... Besides, &quot;His&quot; current state is being watched by the various deities... Yes, the more controllable aspect of this compared to my escape from Amon is that I can make sufﬁcient preparations... Klein slowly exhaled and felt that there was a certain chance of completing the ritual.</p>
+<p>In fact, he knew very well that, even without him, the City of Silver would make repeated attempts to open the door to the Giant King&#x27;s residence and find a way to leave this forsaken land. It was as if they were moths darting towards the flames, even at the cost of death. No matter what, with my &quot;participation,&quot; the chances of success will deﬁnitely be higher than what it is now... Klein subconsciously wanted to open the door to the Dark Angel&#x27;s slumber ground to attract Amon, creating chaos to offset the damage caused by the Dark Angel&#x27;s awakening.</p>
+<p>This was a tactic he was rather familiar with.</p>
+<p>However, he eventually rejected this idea because it was too dangerous.</p>
+<p>After spending some time with Amon and finally seeing the level of a King of Angels, Klein instinctively began to fear these terrifying existences. He no longer wanted to use the conflict between them to create chaos.</p>
+<p>Just &quot;Their&quot; existence alone could cause irreparable damage to the surrounding Beyonders and the entire region!</p>
+<p>Under such circumstances, trying to rely on &quot;Them&quot; to create a chaotic situation was no longer tottering on the edge of the abyss —if one wasn&#x27;t careful, they would fall into the abyss and into eternal damnation. Therefore, it was best not to try.</p>
+<p>Unless he had no other solution, to the point of escaping being just his wishful thinking, Klein didn&#x27;t want to make such an attempt.</p>
+<p>Indeed, a portion of a Miracle Invoker&#x27;s Beyonder powers comes from history, which is why there&#x27;s a ritual requirement like this... How did the other Scholars of Yore complete it? Looking at the parchment on the long bronze table, he thought of a possible solution from another angle. If it were me, the only solution I can think of is to isolate some people or history from reality. Only when they are forgotten will I allow them to return to the present era. This might take centuries, or even longer... What an evil act... Heh heh, it reminds me of The Peach Blossom Spring... Those people living in utopia away from the outside world share some characteristics...</p>
+<p>After some thought, Klein believed that the difficulty of this ritual for Scholars of Yore was whether they could survive until the ritual was held. Furthermore, there were too many accidents that could interrupt self-isolation like that.</p>
+<p>The Forsaken Land of the Gods has perfectly resolved these issues, but it also brings with it greater problems... Dark Angel Sasrir... What is the condition of this Heaven&#x27;s deputy right hand now? Is it related to the resurrection of the ancient sun god... The level involved in such a matter has already reached the ceiling of this world... Why am I always involved in such matters... Klein gave a self-deprecating laugh. He could roughly guess that this was due to the destiny Sefirah Castle brought him.</p>
+<p>After all, Blasphemer Amon was unwilling to shoulder such a destiny.</p>
+<p>Retracting his wandering thoughts, he focused his attention back onto the Miracle Invoker potion formula.</p>
+<p>The Worm of Star is from the Apprentice pathway? The supplementary ingredients contain three high-grade spiritual materials of the three neighboring pathways... I&#x27;ve already made the Worms of Time into Fate Siphon charms. There&#x27;s no way to restore them. Let Leonard&#x27;s grandpa ‘lend&#x27; me another one? How can that be called ‘lending&#x27;? I&#x27;m going to use the upgraded version of a Yesterday Once More charm to exchange for it!</p>
+<p>Where should I ﬁnd the Worm of Star...? There aren&#x27;t many demigods from the Apprentice pathway that live in the real world... The Aurora Order&#x27;s Saint of Secrets, Botis? However, I&#x27;m stuck in the Forsaken Land of the Gods and can&#x27;t deal with him... All I can do is ask Ma&#x27;am Hermit and Queen Mystic for help. At the same time, I have to urge Miss Magician to become a Traveler as soon as possible... Yes, I can also get her to ask her teacher where Worms of Cosmos might be...</p>
+<p>There&#x27;s actually only one main ingredient. It&#x27;s either the heart of the Dark Demonic Wolf or the Beyonder characteristic produced by other Miracle Invokers. It&#x27;s no longer two as one...</p>
+<p>Yes, that also means that, at this level, there are very few scattered characteristics. They&#x27;ve all gathered...</p>
+<p>The Dark Demonic Wolf is also known as the God of Wishes. That&#x27;s a standard angel, a subsidiary god. If I can&#x27;t ﬁnd any materials that can be used, wouldn&#x27;t I be slaying a god?</p>
+<p>The level of an angel can already be considered a hidden existence. There&#x27;s a fundamental difference from being a Sequence 3...</p>
+<p>Just thinking about it makes me scared...</p>
+<p>After making a list of helpers that he could rope in, he felt a lot more at ease. He had a feeling that he no longer feared his debts when they reached a significant amount.</p>
+<p>He lifted his right hand that was holding the fountain pen, and he continued to record what he had previously learned.</p>
+<p>Most of this was something he already knew, and he could only use it as a reminder. Finally, he wrote down incomplete information in the corner of the parchment.</p>
+<p>&quot;Sequence 1: Attendant of Mysteries</p>
+<p>&quot;Main ingredients: One Attendant of Mysteries Beyonder characteristic.&quot;</p>
+<p>This piece of information meant that Sequence 1 Beyonder characteristics were difficult to obtain through other means, with only three to choose from.</p>
+<p>One of them is on The Half-Fool on the main peak of the Hornacis mountain range. It&#x27;s with the Uniqueness. The other is with Zaratul. There&#x27;s still one more. According to what Leonard said, the True Creator has clues to its location. Where could it be... Yes, Little Sun and the rest had hunted Shapeshifters in the northern city ruins, Nois. There seems to be a high-level existence of the Seer pathway lurking there. I wonder if it corresponds to Miracle Invoker or Attendant of Mysteries... Klein gradually had a thought, and he planned on visiting Nois for a preliminary investigation after he resurrected and escaped Amon.</p>
+<p>After digesting the knowledge he had gained, he summoned his golden pocket watch from the junk pile and opened it to check the time.</p>
+<p>Before he destroyed the Blood Emperor&#x27;s ruin, he had sacrificed many things that he didn&#x27;t need in battle, above the gray fog to prevent any damage.</p>
+<p>Despite that, he still lost quite a bit after the battle and his eventual suicide. Furthermore, they were all extremely valuable. Just the thought of it made him almost lose control. Groselle&#x27;s Travels, Death Knell, Creeping Hunger, Fate Siphon charm, Flaring Sun Charms, Marionette Qonas and his equipment, Marionette Enuni and his two rings, and the adventurer&#x27;s harmonica... No, I can&#x27;t think about it anymore. Thankfully, I had thrown Azik&#x27;s copper whistle above the gray fog ahead of time. Thankfully, I can still summon the Historical Void projections of these items. They&#x27;re just accompanying me in a different form... Uh, probably not for Groselle&#x27;s Travels... Klein&#x27;s temples throbbed as he couldn&#x27;t help but feel heavy.</p>
+<p>He sighed and seriously mourned over the items, especially the mystical item that had accompanied him for a long time: Creeping Hunger.</p>
+<p>After a long silence, Klein forced his attention back to the present. As he waited for the Tarot Gathering to begin, he casually thought about the ancient sun god and the other matters such as Chernobyl.</p>
+<p>Suddenly, he frowned slightly.</p>
+<p>Since this is my hometown, there have never been transmigrators. They&#x27;re all ancient humans that were released by Seﬁrah Castle. Then, do places like the Chaos Sea also have similar existences? Was Chernobyl converted into a sanctuary?</p>
+<p>According to what Amon said, and what I saw in my divination, the ancient sun god had indeed woken up in Chernobyl. Then, is he a &quot;transmigrator&quot; released from Seﬁrah Castle, or a survivor of a sanctuary?</p>
+<p>If it&#x27;s the latter, who&#x27;s the third person inside the cocoon...</p>
+<p>Upon thinking of this, Klein was alarmed as his pupils dilated slightly. He already had a certain guess about the history of the elves. It likely had nothing to do with Sefirah Castle.</p>
+<p>This way, he still couldn&#x27;t find the correct corresponding identity of the third, or more correctly, the first &quot;transmigrator.&quot;</p>
+<p>This &quot;transmigrator&quot; didn&#x27;t seem to leave behind any traces in history!</p>
+<p>Without any hesitation, Klein&#x27;s consciousness sank into the grayish-white fog. With the power of Sefirah Castle, he came directly to a certain part of history that was relatively distant.</p>
+<p>It was made up of many fragments of light, and the clearest one was the suspended Zhou Mingrui above the door of light.</p>
+<p>And beside Zhou Mingrui, the corresponding fog of history was instantly lit up due to his sufficient knowledge of Roselle. He saw a young man who also had his eyes tightly shut in the cocoon.</p>
+<p>There was no need to verify it. Through that sense of familiarity and spiritual intuition, he confirmed that this was the former incarnation of Emperor Roselle Gustav, Huang Tao.</p>
+<p>Without bothering to appreciate the Emperor&#x27;s true appearance, Klein turned his gaze to the other side.</p>
+<p>There was a transparent cocoon there, and the figure inside could vaguely be seen.</p>
+<p>As he had already seen the other hanged figures, he had lit up many fragments of light in the fog of history. They interweaved and stimulated each other, barely allowing him to see the fuzzy area.</p>
+<p>The figure inside was obviously a woman.</p>
+<p>Female... A thought came to his mind as he realized that he had missed a direction when he analyzed the &quot;transmigrator.&quot;</p>
+<p>&quot;Transmigrators&quot; had an objective mindset. They could completely control themselves and not leave any traces that exceeded the times, but there was one thing that couldn&#x27;t be avoided.</p>
+<p>It was very obvious that Sefirah Castle was related to the three pathways related to the Seer, Apprentice, and Marauder. After the birth of a &quot;transmigrator,&quot; they had to quickly make a connection with one of these three pathways.</p>
+<p>Not only was Klein involved in the case brought about by the Antigonus family&#x27;s notebook, but he also quickly had the opportunity to choose the Seer potion.</p>
+<p>In Intis where Roselle was active, there was the Secret Order, and he got to know Zaratul early on.</p>
+<p>According to this logic, the ancient sun god with the Marauder authority was indeed one of the reasonable suspects.</p>
+<p>Klein immediately conjured a pen and paper and began listing the corresponding names he knew at the moment. For example, Fourth Epoch people from the Antigonus, Zaratul, and Abraham family, or the Kings of Angels surrounding the ancient sun god. Before long, Klein&#x27;s gaze stopped on a few names.</p>
+<p>The first person was none other than the ancient god, Flegrea, who clearly had the authority of Seer. Behind him was &quot;His&quot; subsidiary god.</p>
+<p>The God of the Dead, Salinger, and the Goddess of Misfortune, Amanises.</p>
+<p>The latter was also known as the Evernight Goddess.</p>

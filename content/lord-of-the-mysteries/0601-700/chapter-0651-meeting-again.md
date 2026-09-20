@@ -1,0 +1,81 @@
++++
+title = "Chapter 651: Meeting Again"
+weight = 651
+[extra]
+chapter = 651
++++
+
+<p>Upon seeing Will Auceptin&#x27;s warning, Klein&#x27;s first found himself blessed with good luck.</p>
+<p>Thankfully I didn&#x27;t court death and continue the exploration... He didn&#x27;t hesitate to heave a sigh of relief.</p>
+<p>Although he had seen the mural related to Ouroboros, as well as the terrifying monster, Anderson, who mutated for some unknown reason, he didn&#x27;t actually physically get himself into a dangerous situation.</p>
+<p>I wonder if I&#x27;ll randomly appear in a region in the next dream, or will it continue from before... If it&#x27;s the latter, the best choice of action is to not disturb Anderson so as to avoid agitating him. I&#x27;ll just walk the same way back and leave that black cloister... Klein retracted his gaze and continued reading.</p>
+<p>&quot;Apart from the dream, the other things aren&#x27;t that troublesome. As long as you don&#x27;t attempt to approach those ruins, directly look at the thing that flies in the sky at ‘midday,&#x27; or challenge the storms that give ample warning, then it wouldn&#x27;t be a problem if you follow the safe sea routes that have been verified by others.</p>
+<p>&quot;As for mermaids, just keep cruising forward and you&#x27;ll ultimately encounter them. This is because, at their levels, they will only live in relatively safer areas, and there aren&#x27;t many such areas.</p>
+<p>&quot;Finally, I hope everything goes smoothly. &quot;Sincerely, your friend who might be often in deep sleep due to reaching a critical stage in his maturing development,</p>
+<p>Will Auceptin&quot;</p>
+<p>The final sentence was long and somewhat awkward-sounding, but Klein instantly understood what the Snake of Fate meant: Before I&#x27;m born, don&#x27;t disturb me unless it&#x27;s something extremely important and critical!</p>
+<p>I&#x27;ll try my best... Klein replied inwardly without any assurance.</p>
+<p>If he successfully advanced, then it might not take long before he had to seek Will Auceptin&#x27;s help in finding the Sequence 4 potion formula for the Seer pathway.</p>
+<p>Being more confident with finding mermaids, Klein immediately left the dream, wore his hat, and headed for the pirates&#x27; dining hall.</p>
+<p>Due to the dream&#x27;s disturbance, most of the food had turned cold, but the pirates still had a great time eating. After all, no one died.</p>
+<p>Since no one died during this mystical encounter, they naturally felt great that they had something to brag about.</p>
+<p>&quot;Do you want a cup of milk?&quot; Frank Lee held a plate and sat opposite Klein, asking warmly.</p>
+<p>Recalling the conversation in the dream, Klein firmly shook his head with a deadpan expression. Inwardly, he was very worried that the milk on the ship were all Frank&#x27;s experimental products.</p>
+<p>Frank didn&#x27;t mind as he gulped a mouthful of milk.</p>
+<p>&quot;I remember telling you about those little things in the dream?&quot;</p>
+<p>&quot;Yes.&quot; Klein cut through a Dragon-Bone Fish that was cooked in sauce, and he stuffed it into his mouth.</p>
+<p>This kind of fish was well known for having few bones. Most of the time, it only had one main bone. In Backlund, due to its various species, they were considered a mid-to high-end delicacy, but east of the Oravi Island, in the periphery of the safe sea routes, they could often be caught.</p>
+<p>Frank chuckled.</p>
+<p>&quot;My description back then was a little inaccurate. Their true purpose was to successfully produce milk even when they aren&#x27;t in a state capable of lactation, regardless of whether they are male or female. As long as they consume it, they will produce milk and return to normal once they aren&#x27;t fed. This way, the milk cows don&#x27;t have to suffer any torture. This way, it becomes fairer for men and women to bring up their children. It will be beneficial for women to head out for work...&quot;</p>
+<p>Wait, why are you telling me this... Klein nearly failed to maintain his persona as Gehrman Sparrow.</p>
+<p>At that instant, he felt that the nickname of crazy shouldn&#x27;t be Gehrman Sparrow&#x27;s but Frank Lee&#x27;s. He&#x27;s actually someone who supports equality between men and women. However, his means are a little terrifying... That&#x27;s right. The Church of Earth Mother is like the Church of the Goddess. They believe that women should have the same standing in society as men. However, they place more emphasis on reproduction, treating it as the holiest matter...</p>
+<p>Among the seven Churches, the Church of Storms and the Church of the God of Combat are most biased towards men. The Church of the Sun is next. As for the Church of the God of Knowledge and Wisdom, they are different from the other Churches. They discriminate based on intelligence. The Church of Steam is neutral and has even worked with the Church of the Goddess to encourage women to head out for work due to the need for more labor in the development of industry... Klein instantly had the differences between the seven Churches flash past his mind.</p>
+<p>He looked up and glanced at Frank Lee as though what he had just said was something trivial.</p>
+<p>This made Frank rather happy as he couldn&#x27;t help but drink a few more mouthfuls of milk.</p>
+<p>After the pirates finished their lunch in batches, Cattleya pushed open the windows to the captain&#x27;s cabin once again. Using magic, she amplified her voice.</p>
+<p>&quot;There&#x27;s an island 1.5 nautical miles ahead of us. We will dock there and wait for the storm to pass.</p>
+<p>&quot;In these waters, every time there&#x27;s a switch from noon to nighttime, there&#x27;s a possibility of a terrifying storm occurring. I cannot confirm when it will happen, but I believe it&#x27;s safer for us to wait for it to pass before we continue our voyage.&quot; She went into the details a lot more than in the past, as it wasn&#x27;t a sudden occurrence, and there was plenty of time.</p>
+<p>One of the things people at sea feared the most was a storm; therefore, no one objected to it. They went according to Cattleya&#x27;s instructions. Under Navigator Ottolov&#x27;s and Boatswain Nina&#x27;s guidance, they nervously prepared to dock.</p>
+<p>And this made Klein confirm one of the matters that Will Auceptin had mentioned.</p>
+<p>Do not challenge any signs of a storm!</p>
+<p>Before long, an island covered with gigantic trees appeared ahead of the Future.</p>
+<p>The more than hundred-meter-long sailboat adjusted its course and docked against the wind.</p>
+<p>More than half an hour passed as the sky suddenly dimmed. Lead-colored clouds surfaced one after another.</p>
+<p>They overlapped with one another as though they enveloped all the surrounding waters.</p>
+<p>Amidst a loud boom and blinding flashes of lightning, a hurricane from afar swept over.</p>
+<p>It was connected to the clouds at the top and to the sea at the bottom. It was more exaggerated than any legendary giant. It was like a gigantic coiling serpent in a bid to destroy the world. The terrifying hurricane brought with it waves that towered like mountains. Lightning that branched out like trees and didn&#x27;t stop because of the incoming storm. It constantly struck the surface of the sea, splitting into tiny electric bolts that spread outwards.</p>
+<p>As the rain pattered down on the Future&#x27;s deck, it made the pirates who had entered the cabin or gotten shelter feel like the apocalypse had arrived.</p>
+<p>Such a storm didn&#x27;t last too long. The sea calmed down after about fifteen minutes, and the hurricane dissipated. The midday sunlight reigned in the sky once again.</p>
+<p>&quot;You can head onto the island for a while, but don&#x27;t wander inside. You have to be within the range of the cannons.&quot; Cattleya gave the pirates a brief chance of reprieve.</p>
+<p>Klein kept in mind Will Auceptin&#x27;s warnings and had no desire to explore the island. After leaving the Future, he only walked about on the shore, taking in the feeling of having his feet on solid ground.</p>
+<p>Beach, sunlight, trees... It feels like a vacation... Klein thought in amusement when he suddenly noticed a rapidly moving black dot through the corner of his eye.</p>
+<p>It was rushing over from the boundary of a cliff!</p>
+<p>The black dot increased in size to reveal a human figure!</p>
+<p>Not far away, Cattleya, who was on the sand, also noticed the abnormality. She half-turned around and took off the heavy glasses on her nose bridge.</p>
+<p>The figure with emerald-colored eyes approached. He was wearing a white shirt, a black vest, and trousers. He was of medium build with his blond hair split seventy-thirty.</p>
+<p>Anderson!</p>
+<p>The unlucky Anderson!</p>
+<p>Klein instantly recognized him.</p>
+<p>The person was none other than the terrifying Anderson in the dream world!</p>
+<p>It was the Anderson who said that his companions never returned after they proceeded to explore the hall but had claimed to be a member of the exploration team!</p>
+<p>At that moment, Anderson raised his right hand.</p>
+<p>Without any hesitation, as Gehrman Sparrow, Klein took out a charm and chanted a single word in ancient Hermes.</p>
+<p>&quot;Storm!&quot;</p>
+<p>The charm made of tin immediately turned sharp, resembling a thin blade. With the infusion of spirituality, the wind in midair reverberated.</p>
+<p>With a deadpan expression, Klein threw out the charm in his hand at Anderson.</p>
+<p>Sou! Sou! Sou!</p>
+<p>Azure sharp blades shot at their target like a lined up firing squad.</p>
+<p>Anderson was raising his right hand high with a smile and was about to say something when he heard a deep and mysterious incantation and the scalp-numbing sound of the wind.</p>
+<p>His gaze froze as he threw himself to the side and somersaulted multiple times in a pathetic manner as if the area before him was scorching metal.</p>
+<p>Sou! Sou! Sou!</p>
+<p>The wind blades struck the beach, slicing clear slits into the sand, but they were just short of hitting their target.</p>
+<p>&quot;Stop! Stop!&quot; As Anderson nimbly somersaulted to dodge, he shouted, &quot;I come in peace! I mean no harm!&quot;</p>
+<p>&quot;Anderson Hood...&quot; Admiral of Stars suddenly said a name as she raised her hand to stop Gehrman Sparrow who had taken out a charm. She knows Anderson? Klein didn&#x27;t rashly chant the charm&#x27;s incantation as he said in a deep voice, &quot;He has already mutated.</p>
+<p>&quot;I saw him in the dream.&quot;</p>
+<p>He wasn&#x27;t surprised at meeting the unlucky Anderson. This was because the pirates were all in the same area during the dream. They were all very close to one another, which also meant that Anderson, who wasn&#x27;t too far away, was also very close to the Future.</p>
+<p>&quot;No! Not at all!&quot; Anderson stood up, at a loss on whether to laugh or cry. He raised his hands like he was surrendering. &quot;I recognize you. You asked me many questions. Back then, I wanted to pull a prank on you. Really, it was just a joke to enliven the mood. Don&#x27;t you think that having the mood suddenly change into one of horror is an exhilarating experience? Of course, I&#x27;m referring to the target and not myself.</p>
+<p>&quot;If I had participated in the exploration, how could I still be alive?&quot;</p>
+<p>That is what I&#x27;m worried about... Klein didn&#x27;t believe his explanation.</p>
+<p>Anderson shrugged and said, &quot;I was preparing to explain that the moment I said that. I was planning on telling you that I was joking and had planned to seek your help. I hope that you could take me away, but at that moment, the dream ended... Dammit, I was really too unlucky!&quot;</p>
+<p>It does comply with the traits of being unlucky... Klein silently muttered. He planned on flipping a coin right there and then to test him with divination when he suddenly heard Admiral of Stars Cattleya say, &quot;Listen to what he has to say.</p>
+<p>&quot;He&#x27;s very famous in the Fog Sea. He has the nickname ‘Strongest Hunter.&#x27;&quot;</p>

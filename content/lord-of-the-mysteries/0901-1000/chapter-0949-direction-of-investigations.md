@@ -1,0 +1,56 @@
++++
+title = "Chapter 949: Direction of Investigations"
+weight = 949
+[extra]
+chapter = 949
++++
+
+<p>Klein&#x27;s first target of suspicion was undoubtedly Elf King Soniathrym.</p>
+<p>This ancient god had created chopsticks, made blood cakes, enjoyed eating animal innards, and was good at using spices for cooking. &quot;His&quot; descendants had facial features, hair color, and eyes that resembled Asians on Earth. Not only did Klein suspect that &quot;He&quot; was a transmigrator, even Emperor Roselle shared his feelings.</p>
+<p>Of course, after a deeper level of investigations, Roselle had ruled out that hypothesis from their language, symbols, traditional proverbs, and other facets. Klein believed that using chopsticks as cutlery, the preference for eating innards, and using spices wasn&#x27;t an exclusive trait. To a species that enjoyed nature, it was possible for these to gradually appear in their daily life!</p>
+<p>As for why elves who wielded the Sailor pathway were close to nature, Klein didn&#x27;t know why. It was just something as described by the murals and texts they left behind.</p>
+<p>I for one felt that the Elf King is unlikely to be a transmigrator, but after seeing the three shattered cocoons, I can&#x27;t be too sure... Perhaps &quot;He&quot; might be a fellow countryman... Hmm, I can&#x27;t rule out the possibility that this ancient god isn&#x27;t a transmigrator but that one of the high-ranking elves around &quot;Him&quot; is one. This can also allow the tradition to pass down in the name of the Elf King... Klein tapped his fingers as he thought silently.</p>
+<p>Almost at the same time, he had two directions for his investigation: Groselle&#x27;s Travels had Elven Songster, Siatas, who served Soniathrym&#x27;s queen, Queen of Calamity Cohinem!</p>
+<p>As long as I enter her sea of collective subconscious, I should be able to see or make contact with the elves and ﬁnd memory fragments regarding the ancient god!</p>
+<p>I can also use Hypnosis, directly allowing her subconscious to speak... But the problem is that I&#x27;m not good at such matters. The last time I attempted to delve into Groselle&#x27;s subconscious, I felt quick-tempered and could hardly calm down. Although I&#x27;m already a demigod, it also becomes more pressing that I resist the inclination towards madness and losing control. And I won&#x27;t be able to regulate my mental state for quite some time... Forcefully spirit channeling isn&#x27;t suitable for such a situation and for such a target... Klein frowned slightly. He felt that he might need a mystical item that was of a relatively high-level Sequence in the Spectator pathway, or an assistant that was at least a Hypnotist.</p>
+<p>He began seriously considering the possibility of getting Miss Justice&#x27;s help.</p>
+<p>There&#x27;s no problem doing it. It&#x27;s not impossible to leave by entering as a Spirit Body above the gray fog...</p>
+<p>I don&#x27;t have to worry that Miss Justice will pry into the secret of a transmigrator. As long as Siatas doesn&#x27;t have any knowledge of this, her subconscious and collective subconscious wouldn&#x27;t point towards such a conclusion. And I can ﬁnd the desired clues in details so they don&#x27;t pay any notice...</p>
+<p>The biggest problem is that Miss Justice has no adventuring experience and she lacks it. Entering the sea of subconscious of an ancient ﬁgure is very dangerous to her. There might be the remnants of an ancient god in there at any time... Once I don&#x27;t have the help of a Psychiatrist, I will also end up the same... Even if I&#x27;m getting Miss Justice as support, I&#x27;ll have to wait until she reaches Sequence 5 so that she can use her level to make up for her lack of experience. When that happens, we can ﬁrst attempt to hypnotize Siatas and see what we can learn from her mouth. If there&#x27;s nothing of value, we can consider entering her dream to delve deeper into her consciousness and step into that sea.</p>
+<p>Yes, the Dream Charms I create now aren&#x27;t potent enough. I might not be able to maintain such a long exploration. Sigh, the Goddess won&#x27;t directly respond to such trivial matters. It&#x27;s a ﬁxed feedback based on a ﬁxed ritual... The corresponding Beyonder characteristics have been returned to the Church... Don&#x27;t tell me that I need to bring Leonard with me? I wonder if pulling someone at the Spirit Body level can avoid the notice of the grandpa inside him. I&#x27;ll do some research over the next few days...</p>
+<p>Klein reined in his thoughts and considered his second target of suspicion.</p>
+<p>This person didn&#x27;t seem too special in the past, nor did Klein believe that he was a transmigrator. But now that his mind calmed down, he began processing his thoughts and analyzing, Klein realized that many points that he viewed as common sense weren&#x27;t that simple on careful thought. They contained an unspeakable sense of horror.</p>
+<p>He suspected: the ancient sun god, the City of Silver&#x27;s Creator!</p>
+<p>The seven Church&#x27;s separate bibles have similarities to Earth&#x27;s Western religions... It is similarly the case for their Masses!</p>
+<p>Based on Little Sun&#x27;s description, from what Emperor Roselle saw from Adam&#x27;s chapel, and the content of the murals in the Forsaken Land of the Gods, it&#x27;s clear that the ancient sun god&#x27;s main symbol is the cross! &quot;He&quot; gave his children the names Adam and Amon...</p>
+<p>The angels beneath &quot;Him&quot; all have wings of light. I&#x27;ve not seen that in the other pathways to date...</p>
+<p>It&#x27;s unknown how &quot;He&quot; rose up. &quot;He&quot; suddenly appeared late in the Second Epoch, killed several ancient gods, and took &quot;Their&quot; various authorities...</p>
+<p>I never thought much about these details in the past. It&#x27;s quite scary now that I think deeply of it. Klein drew a gasp as he began feeling more convinced that it was the ancient sun god instead of Elf King Soniathrym.</p>
+<p>&quot;His&quot; experiences were just too legendary, more of a protagonist of an era than Emperor Roselle!</p>
+<p>Of course, &quot;His&quot; outcome was rather tragic, becoming a feast for &quot;His&quot; Kings of Angels. Emperor Roselle was also tragic but in no way as terrible.</p>
+<p>Doesn&#x27;t this imply Amon&#x27;s and Adam&#x27;s attitude in a certain sense? &quot;They&quot; believe that the gray fog is related to &quot;Their&quot; father, but due to &quot;Their&quot; different pathways, they made different choices? Hmm, there&#x27;s a certain chance that Adam can&#x27;t see the gray fog. &quot;He&quot; isn&#x27;t a High-Sequence Beyonder of the Fate, Marauder, Seer, and Apprentice pathways... Klein nodded slightly.</p>
+<p>Based on these clues, he also had a direction of investigation that didn&#x27;t require him to make contact with major figures at the angel level.</p>
+<p>In Groselle&#x27;s Travels lived Ascetic Snowman who survived the Third Epoch and had served the ancient sun god!</p>
+<p>The problem circles back to itself... There&#x27;s nothing to doubt about the rest for the time being. Klein slowly exhaled, reached out his right hand, and picked up the newly obtained Card of Blasphemy: Red Priest card!</p>
+<p>Infusing his spirituality into it, the card produced a blood-red light, forming a palm-sized illusory book.</p>
+<p>The pages of the book flipped, presenting portraits of a lifelike Roselle Gustav. He was either wearing a hunter&#x27;s attire, raising his middle finger, walking through a burning building, or standing behind a trap. He had all sorts of attires and was doing all kinds of things.</p>
+<p>Sequence 9: Hunter... Sequence 8: Provoker... Sequence 7: Pyromaniac... Sequence 6: Conspirer... Sequence 5: Reaper... Sequence 4: Iron-blooded Knight... Sequence 3: War Bishop... Sequence 2: Weather Warlock... Sequence 1: Conqueror... Sequence 0: Red Priest... Klein&#x27;s gaze swept past the different portraits on the tarot card and imprinted the content into his mind.</p>
+<p>He wasn&#x27;t surprised at this pathway&#x27;s Sequence 0&#x27;s ritual to become a god. This was because Hermes had once told Roselle that the &quot;red&quot; in Red Priest meant the red of war.</p>
+<p>Therefore, when he saw &quot;stirring up a war that sweeps an entire continent and gain victory,&quot; he wasn&#x27;t stirred at all.</p>
+<p>After flipping the Red Priest card, he began thinking about problems and felt his mental state improve. He rubbed his temples, finally feeling exhausted. I should set a short-term goal and investigate the person behind the Great Smog of Backlund. This is something that I&#x27;ve yet to complete. Yes, I should continue the arms deal according to my original plans, and return to Backlund after receiving the money. Now, there are two clues. First, the captain of the royal guards, Viscount Stratford, and the other is MI9&#x27;s deputy director, Brigadier General Qonas Kilgor... Klein tried to pull himself up and decided to occupy himself with something.</p>
+<p>Before leaving the gray fog, he threw the mental medicine recipe that Miss Justice had given him to the crimson star representing The Moon Emlyn. He requested this vampire, who was good at making it, to make a week&#x27;s worth at 1 pound a bottle.</p>
+<p>...</p>
+<p>Backlund, within the Odora family&#x27;s villa.</p>
+<p>Emlyn White, who was waiting in the activity room, curled his lips and thought to himself, A transaction that&#x27;s just 7 pounds. I really don&#x27;t want to do it... The World can concoct it himself if he&#x27;s a little careful.</p>
+<p>He hadn&#x27;t objected to The World&#x27;s request, because after spending 5,000 pounds to buy the Sequence 5 Vampire Beyonder characteristic, he only had 730 pounds left.</p>
+<p>At this moment, Cosmi walked over, looking like a middle-aged gentleman.</p>
+<p>After exchanging a bow, the Sanguine Baron asked, &quot;Emlyn, why are you suddenly here?&quot; Emlyn immediately felt a little guilty before recalling his previous experiences of conversing with The Hanged Man and The World. He tipped his chin slightly and answered in a seemingly casual manner, &quot;I&#x27;ve received a Sequence 5 Scarlet Scholar Beyonder characteristic. I wonder when we can begin the ritual to make me a Viscount.&quot;</p>
+<p>Cosmi was taken aback as he asked in surprise, &quot;You obtained a Scarlet Scholar Beyonder characteristic?&quot;</p>
+<p>Emlyn glanced at him and nodded with a faint smile.</p>
+<p>&quot;That&#x27;s right.&quot;</p>
+<p>He didn&#x27;t explain how he had obtained the Beyonder characteristic, as though Cosmi wasn&#x27;t worthy of knowing.</p>
+<p>Cosmi turned agape as he fell silent. After a few seconds, he said, &quot;Wait till the next full moon.&quot;</p>
+<p>He paused and said, &quot;I happen to have something for you.</p>
+<p>&quot;My grandfather wishes to inform you that an important figure will be coming to Backlund. ‘He&#x27; wishes to meet you.&quot;</p>
+<p>&quot;He&quot;? Emlyn&#x27;s pupils dilated instantly.</p>
+<p>The ancient ones of the Sanguine that lived since the Second Epoch to this day, together with the Grade 0 Sealed Artifacts, all of those important existences at the angel level didn&#x27;t exceed five in number!</p>

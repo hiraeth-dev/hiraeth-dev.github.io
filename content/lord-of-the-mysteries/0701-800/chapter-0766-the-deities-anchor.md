@@ -1,0 +1,62 @@
++++
+title = "Chapter 766: The Deities’ Anchor"
+weight = 766
+[extra]
+chapter = 766
++++
+
+<p>Knowing that the diary pages specially selected by Queen Mystic contained rather important information, The Fool Klein focused his attention and cast his eyes on the yellowish-brown goatskin in his hand.</p>
+<p>&quot;11th September. Ever since I became an angel, I&#x27;ve had the feeling that I&#x27;ve had my identity disassociated. In my heart, in my soul, and in the depths of my mind, there&#x27;s ultimately a voice urging me, influencing me and creating an uncontrollable sense of coldness, bloodthirstiness, cruelty, and craziness.</p>
+<p>&quot;This doesn&#x27;t stem from the external world or an influence from a god of the same pathway. I can clearly sense that it comes from one&#x27;s genes, the collective subconsciousness of humanity from generation after generation. It stems from the Beyonder characteristic itself, and not from the remnant psychological influences.</p>
+<p>&quot;It makes me have a strong desire to hunt and kill. It makes me want to devour all the living beings around me with Beyonder characteristics. It requires me to spend a lot of effort to resist it. Even if I&#x27;ve already acted and digested the potion, it doesn&#x27;t seem to improve.</p>
+<p>&quot;It&#x27;s no wonder that Mr. Door said that rationality is temporary, but madness is eternal.&quot;</p>
+<p>&quot;28th September. I haven&#x27;t written a diary entry in ages. In the past half a month, I seemed to see myself being replaced by a stranger. Bit by bit, I turn cold and terrifying. Even my daughter, Bernadette, can only allow me to show her minute amounts of fatherly love. Very, very tiny amounts. &quot;Just as I was about to go mad, I seemed to hear countless praises. They were from my subjects, people who had benefited from my reformations. They are the believers who view me as the Son of Steam. They praise me with great acclaim. They erected statues of me, write stories for me, and have created songs and poems for me.</p>
+<p>&quot;Their voices seem like a ship&#x27;s anchor that helps me ‘secure&#x27; myself in place.</p>
+<p>&quot;I began to have the ability to resist that desire and that roar within me. Bit by bit, I walked out of it as I once again possessed the normal feelings of a father, a husband, and a man.</p>
+<p>&quot;Just Sequence 2 alone causes such changes. At Sequence 0, at the level of a true god, how terrifying would it be to resist that madness?</p>
+<p>&quot;Perhaps ‘They&#x27; also need an anchor so as to resist the Beyonder characteristics and the strong inclination to lose control, the urges buried deep in the collective subconscious.</p>
+<p>&quot;I probably understand why ‘They&#x27; establish Churches and why ‘They&#x27; want to spread ‘Their&#x27; faith, to write stories for ‘Their&#x27; faction&#x27;s saints and leave legends for ‘Their&#x27; corresponding angels...</p>
+<p>&quot;But why do ‘They&#x27; not have any anthropomorphic form other than symbols?</p>
+<p>&quot;I can&#x27;t understand it.</p>
+<p>&quot;I&#x27;ll try asking Mr. Door in the future. ‘He&#x27; seems to know a lot in regards to the domain of deities. If ‘He&#x27; had been released back then, there might very well be an additional deity today.&quot;</p>
+<p>&quot;29th September. After rereading yesterday&#x27;s diary entry, I recalled the corresponding rituals of my Sequence 4, Sequence 3, and Sequence 2. They clearly had hints of madness and cruelty, akin to the kinds held by antagonists in novels.</p>
+<p>&quot;A Sequence pathway might very well be a path destined to be crazy and filled with despair.</p>
+<p>&quot;And this is the only path for humans to obtain extraordinary strength.</p>
+<p>&quot;How laughable and ironic it is.</p>
+<p>&quot;We strive to save ourselves, only to better destroy ourselves?&quot;</p>
+<p>The first page&#x27;s content left Klein&#x27;s heart heavy and repressed. The Roselle who had written those words was no longer an ordinary person, but someone who had become an angel, someone who had joined the Twilight Hermit Order, and someone who had seen the Blasphemy Slate. His understanding of the mysterious world and Beyonder characteristics far exceeded him, but he was even more pessimistic than him. He seemed to believe that the world&#x27;s origins were innately warped, crazy, and destined for destruction.</p>
+<p>However, the seven deities have apparently found a way to maintain &quot;Their&quot; rationality. Ordinary humans aren&#x27;t without any use. Their recognition and their spirituality put together can help a deity &quot;anchor&quot; &quot;Their&quot; original image, retaining &quot;Their&quot; memories and rationality that &quot;They&quot; had accumulated for years... This can be inferred from Roselle&#x27;s own experiences... However, why would the seven deities abandon &quot;Their&quot; anthropomorphic images and use Sacred Emblems as a form of abstraction? This doesn&#x27;t match my theories... I can&#x27;t understand why... Klein didn&#x27;t waste any time as he flipped to the next diary page.</p>
+<p>&quot;5th December. Night of the Blood Moon. I conversed with Mr. Door.</p>
+<p>&quot;Like every time prior to this, ‘He&#x27; would always make a request to get me to help ‘Him&#x27; return to the real world, but ‘He&#x27; doesn&#x27;t overly insist on it. Furthermore, ‘He&#x27; would randomly answer some of my questions.</p>
+<p>&quot;Heh heh, it&#x27;s like ‘He&#x27; is playing a game, trying hard to raise my affection towards ‘Him.&#x27; But unfortunately, I&#x27;m sorry, I&#x27;ve already sealed off that option ahead of time.</p>
+<p>&quot;As I already knew of the legends of the Kings of Angels, I mainly asked Mr. Door about the level of strength that the Kings of Angels have, knowing the fact that I had nothing to lose by asking ‘Him&#x27; that question.</p>
+<p>&quot;Mr. Door said that some of the Kings of Angels accommodated the Uniqueness, while others had consumed two sets of Sequence 1 potions; it could also be both.</p>
+<p>&quot;The word ‘accommodate&#x27; is used in an odd manner. I had asked ‘Him&#x27; about it, but Mr. Door didn&#x27;t directly answer me. All ‘He&#x27; said was that if one was unable to ‘accommodate&#x27; the Uniqueness, then the Uniqueness was a burden instead of an aid to a Sequence 1 angel before they held the ritual to advance to Sequence 0.</p>
+<p>&quot;Hmm, it&#x27;s understandable. It&#x27;s akin to using a Grade 0 Sealed Artifact. The negative effects are often terrifying, and the Uniqueness must definitely be even more exaggerated.</p>
+<p>&quot;I also asked which Kings of Angels had ‘accommodated&#x27; their Uniquenesses, and similarly, Mr. Door didn&#x27;t give a direct answer. ‘He&#x27; only said that Amon and Adam make all the angels feel a sense of envy, because ‘They&#x27; were born with a Uniqueness and didn&#x27;t need to consider the problem of ‘accommodation.&#x27; From another point of view, does it mean that Amon and Adam&#x27;s state is equivalent to having consumed a Sequence 1 potion and the Uniqueness? As expected of the Creator&#x27;s sons!</p>
+<p>&quot;That Creator who&#x27;s also known as the ancient sun god was actually so powerful that ‘He&#x27; could pass on a Uniqueness to each of ‘His&#x27; two sons, as well as Sequence Beyonders characteristics... Was ‘He&#x27; trying to purify ‘Himself&#x27; to eliminate any unneeded interference?</p>
+<p>&quot;Then, does Mr. Door also ‘accommodate&#x27; a Uniqueness, and also possibly have even consumed two Sequence 1 potions? I didn&#x27;t ask, because I knew ‘He&#x27; definitely wouldn&#x27;t answer me.</p>
+<p>&quot;During the conversation, Mr. Door warned me not to directly say out Adam&#x27;s full name; otherwise, it would be detected and the conversation would be discovered.</p>
+<p>&quot;I had an inkling why as I laughingly asked ‘Him&#x27; that didn&#x27;t ‘He&#x27; just say Adam&#x27;s full name?</p>
+<p>&quot;Mr. Door said it didn&#x27;t matter. This is because the Apprentice pathway&#x27;s Sequence 4 is called Secrets Sorcerer. It has the meaning of maintaining secrecy, and although it&#x27;s inferior to the Servant of Concealment of the Evernight pathway, it&#x27;s enough for ‘Him&#x27; to block any detection at ‘His&#x27; level.</p>
+<p>&quot;I asked another few questions regarding the deities, but Mr. Door didn&#x27;t answer. All ‘He&#x27; said was that when I had the ability and opportunity, I could head above the moon to take a look. I would then understand many things.</p>
+<p>&quot;This is somewhat in line with some of my previous thoughts, but I&#x27;m suspecting if ‘He&#x27; is luring me there to get a chance to return to the real world. After all, ‘His&#x27; appearance each time is related to the moon!&quot;</p>
+<p>As long as Mr. Door appears, there will be plenty of information, usually covering an entire page... Hmm, his explanation of the level of strength that Kings of Angels have does match my theories...</p>
+<p>The generalized meaning of King of Angels implicitly refers to a quasi-deity who exceeds Sequence 1 by using a variety of means, but ‘They&#x27; have yet to reach the level of a Sequence 0. This includes accommodating the Uniqueness or consuming additional Sequence 1 potions. The simpliﬁed meaning of King of Angels will point out to the Creator who the City of Silver worships—the eight kings of all the angels that are ruled by the ancient sun god. Of course, ‘They&#x27; must also fulﬁll the general deﬁnition... Thoughts rapidly flashed through Klein&#x27;s mind.</p>
+<p>As for Roselle&#x27;s theory about the ancient sun god, he was in strong agreement. He believed that the Creator who the City of Silver worshiped had reclaimed too many authorities of the ancient gods, causing &quot;Him&quot; to show signs of chaos and insanity. Hence, &quot;He&quot; decisively gave birth to two sons to eliminate a portion of the &quot;waste.&quot;</p>
+<p>To put it simply, Amon and Adam are freebies that come with drinking potions... From the looks of it, Angel of Imagination, Adam, clearly possesses the Uniqueness of the Spectator pathway. &quot;He&quot; is likely the mysterious leader of the Twilight Hermit Order. Since ancient times, &quot;He&quot; has been interfering with the direction of the times in order to revive &quot;His&quot; father... I wonder if &quot;He&quot; has advanced to Sequence 0... Even if &quot;He&quot; hasn&#x27;t, the number of angels the Twilight Hermit Order can mobilize probably exceeds my imagination... Oh, Secrets Sorcerer actually has the meaning of keeping secrets, as well as the implications of concealment... Klein instantly recalled the symbol on the back of The Fool&#x27;s chair.</p>
+<p>It was the Pupil-less Eye, a symbol representing secrecy, and the Contorted Lines that represented change!</p>
+<p>He quickly reined in his thoughts and flipped to the third diary page.</p>
+<p>&quot;28th November. I dreamed of Grimm again.</p>
+<p>&quot;He was the smartest among my subordinates, but unfortunately, he died in the Fog Sea due to some unknown infection while exploring that nameless island. He didn&#x27;t even leave a child behind.</p>
+<p>&quot;Back then, I knew that the nameless island hid secrets with unimaginable danger, but due to my lacking strength, all I could do was hold back.</p>
+<p>&quot;The dream this time is likely a result of my spirituality reminding me that I can explore that island, grasp its secrets, and completely resolve Grimm&#x27;s matter.</p>
+<p>&quot;29th November. I summoned three subordinates, and with Benjamin Abraham&#x27;s help and some searching, I finally found that nameless island again.</p>
+<p>&quot;I didn&#x27;t directly enter, and I decided to rest for a day along its periphery.</p>
+<p>&quot;Edwards said that he also often dreams of Grimm, feeling a deep sense of guilt for not having managed to save him back then.</p>
+<p>&quot;‘This is not your responsibility, but my problem.&#x27; That was what I said to Edwards because I&#x27;m their leader.&quot;</p>
+<p>&quot;30th November. We ventured deep into the island.</p>
+<p>&quot;Existing here were Beyonder creatures that large sources of data claim that they have gone extinct. They gathered there without any conflict, as though they were consecrating something...</p>
+<p>&quot;This bunch of Beyonder creatures without any intelligence appeared to be holding some ritual!</p>
+<p>&quot;They were praying to an unknown deity?</p>
+<p>&quot;In the ritual, I saw Grimm...&quot;</p>

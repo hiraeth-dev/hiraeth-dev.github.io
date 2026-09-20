@@ -1,0 +1,105 @@
++++
+title = "Chapter 86: Prayer"
+weight = 86
+[extra]
+chapter = 86
++++
+
+<p>Suspension-style ritualistic magic referred to the termination of a ritual according to the Beyonder&#x27;s judgment. They could finish other matters first before returning to continue the ritual. Even by doing so, it was still possible to gain the desired effects.</p>
+<p>This was a technique produced over 1000 years of ritualistic magic development. After all, many high-level ritualistic magic required multiple steps. The duration ranged from an hour to half a day before finishing. It was difficult to ensure that no one disturbed them during the entire process or that there wouldn&#x27;t be any accidents.</p>
+<p>After gaining lessons from various predecessors through blood and tears, gaining feedback through each failure, being able to suspend ritualistic magic became mainstream at the higher levels while it also indirectly affected the lower level rituals.</p>
+<p>However, being able to suspend a ritual didn&#x27;t mean that the ritual could be suspended at any time. One had to abide by mysticism theory and grasp the corresponding technique. If not, the failure of the ritual was unavoidable. it could even result in a terrifying backlash effect.</p>
+<p>Based on Klein&#x27;s understanding, once one gained the attention of a particular divinity, and the divinity was waiting on the contents of the request, to suddenly say, &quot;Wait, I need to use the bathroom,&quot; one can only be congratulated since they might never need to go to the bathroom ever again.</p>
+<p>Phew... Klein heaved a sigh of relief as he composed himself. Even though he had held many luck-enhancement rituals and had even designed a corresponding ritual that made an attempt at Justice and The Hanged Man, this was his first actual ritualistic magic that abided by the rules.</p>
+<p>After looking at the silver-inlaid cane by the side of the bed, Klein picked up the third candle and placed it in the middle of the desk to represent himself.</p>
+<p>He placed the silver bowl that Selena used for rituals in front of the third candle and replaced the ax with a Sacred Emblem. On the left were extracts and essential oils of the Moon flower, Slumber flower, and other plants. While on the right, he placed a plate of salt, a small silver dagger, a piece of fake goatskin, and a quill that was dipped in ink.</p>
+<p>Luckily, Selena had a complete inventory; otherwise, he wouldn&#x27;t have had any way to complete the preparations. As for the moderately fast rituals that Old Neil could perform, they were not something a Seer could do...</p>
+<p>From the looks of it, Selena is quite an experienced mysticism enthusiast. Yes, if she wasn&#x27;t experienced then she wouldn&#x27;t have gotten into such trouble... She was only 16 and had been exposed to all of this for at least a year... Who had guided her? Ideas flashed through his mind as he picked up Selena&#x27;s cup from the bed. He poured plain water into it and placed it beside the coarse salt.</p>
+<p>He took out his pocket watch and popped it open. He didn&#x27;t delay any further after taking a glance at it. He traced layers of the spherical light in his mind and quickly entered Cogitation.</p>
+<p>The room that was filled with floral fragrance, was suddenly subject to a formless whirlwind. Klein put away his pocket watch and his eyes suddenly turned darker, from brown to black, as though he could see through one&#x27;s soul.</p>
+<p>He extended his palm and laid it against the candle on the top right corner. He chanted inwardly, &quot;Evernight Goddess, you are the Lady of Crimson!&quot;</p>
+<p>As Klein chanted, he extended his spirituality and rubbed the candle wick. After a couple of moments, the candle suddenly lit up, and there was a tranquil blue inside the dim yellow light.</p>
+<p>&quot;Evernight Goddess, you are the Empress of Misfortune and Horror!&quot;</p>
+<p>Just like he did before, Klein successfully lit up the second candle on the top left corner.</p>
+<p>&quot;I am your loyal guard; the shield that fends against danger in the dark night, and the long spear that stabs at evil in the silence!&quot;</p>
+<p>Whoosh!</p>
+<p>The third candle that symbolized Klein began to burn.</p>
+<p>The flame was still. He picked up the small silver knife and mimicked Old Neil&#x27;s motions. He used incantations, coarse salt, and plain water to fulfill the purification.</p>
+<p>Then, he let his spirituality that he had gathered spewed out from the tip of the silver dagger, and naturally merged them as one. With the silver knife in hand, Klein walked around the bedroom —kneeling when he came to the bed—and sealed the area with a formless barrier.</p>
+<p>The light from the street lamp outside the window suddenly disappeared, but the red light was still shining through quietly.</p>
+<p>Klein returned to the study desk and picked up the quill. With spirituality and ink, he drew incantations and symbols to ward off misfortune.</p>
+<p>When all of that was finished, he put down the things he was holding. Then, he trickled a drop of extract, flower essence, and essential oils on each of the three candles.</p>
+<p>Sizzle!</p>
+<p>A faint fog filled the room which suddenly possessed an additional hint of mystery.</p>
+<p>Next, he burned a few types of herbs before taking a step back from the mixture of fragrances and began reciting the corresponding incantation in the suspension ritualistic magic.</p>
+<p>&quot;Standing higher than the cosmos and more eternal than eternity, the Evernight Goddess.</p>
+<p>&quot;I pray for your loving grace.</p>
+<p>&quot;I pray for you to show your loving grace to a devout believer of yours. &quot;I pray for the power of the Crimson.</p>
+<p>&quot;I pray for the powers of Misfortune and Horror.</p>
+<p>&quot;I pray that you will cleanse your devout believer, Selena Wood, from evil&#x27;s corruption and be safe from danger.</p>
+<p>&quot;I pray that you would wait for a moment, a moment for that unfortunate girl.&quot;</p>
+<p>...</p>
+<p>&quot;Moon flower, a herb that belongs to the red moon, please bestow your powers to my incantation!</p>
+<p>&quot;Slumber flower, a herb that belongs to the red moon, please bestow your powers to my incantation!&quot;</p>
+<p>...</p>
+<p>After reciting the incantation, Klein closed his eyes and repeated it seven times in his heart.</p>
+<p>He saw that there was nothing out of the ordinary at the altar. He then lifted the silver dagger again and took a few steps back to the door of Selena&#x27;s bedroom.</p>
+<p>He tapped his chest in four spots, forming the shape of the crimson moon. He then turned around and raised his silver dagger. His spirituality spewed out from the tip once again and sliced open the shape of a door in the formless wall.</p>
+<p>Klein knew that even if he opened the door at that very moment, it wouldn&#x27;t affect the tranquility and holiness of the altar.</p>
+<p>He took out his silver vine-leaf pocket watch that had an intricate pattern. He checked the time and went through the process that was to happen in a few moments.</p>
+<p>...</p>
+<p>In the living room on the second floor.</p>
+<p>Elizabeth&#x27;s body was quivering as she lifted her head from time to time to check the wall clock. She was counting down in silence under the illumination of the two gas lamps.</p>
+<p>&quot;It&#x27;s almost time...&quot; As she spoke softly, she looked sideways at the lively girl with long wine-red hair. Her dimples were deep, her smile was bright, and she gossiped well with all the friends around her.</p>
+<p>But the more everything looked normal, the more terrified Elizabeth felt. The cold and terrifying Selena in the mirror seemed to be in her head, and she couldn&#x27;t wipe the image away.</p>
+<p>I can&#x27;t wait anymore! I have to take action now! Elizabeth suddenly stood up. Before everyone&#x27;s shocked gazes, she smiled and stuttered, &quot;Selena, I-I have a surprise for y-you. Follow me out for a bit.&quot; &quot;Really? Didn&#x27;t you give me a birthday present already?&quot; Selena flipped the mirror the other way around and stood up in surprise.</p>
+<p>&quot;A surprise will n-not have any signs.&quot; Elizabeth felt that she had no talent in acting at all.</p>
+<p>Without saying another word, she walked toward the bedroom door first. Selena followed behind with a confused smile.</p>
+<p>Melissa looked at her two best friends leaving, and unconsciously knitted her eyebrows.</p>
+<p>Elizabeth is acting so strange today...</p>
+<p>She started acting even stranger after she met Klein...</p>
+<p>She suddenly ran out earlier and said that she needed to use the bathroom, but why did she look so anxious?</p>
+<p>...</p>
+<p>Selena&#x27;s bedroom entrance.</p>
+<p>Elizabeth took a deep breath and said to the girl in front of her, &quot;Let&#x27;s go to your room.&quot;</p>
+<p>&quot;Elizabeth, you seem very nervous and afraid. Why?&quot; Selena looked puzzled at her good friend as she noticed her body trembling constantly. &quot;Excitement! Yes, excitement!&quot; Elizabeth shot a glance at the mirror in Selena&#x27;s hand as she turned half her body around to knock on the door with a long knock followed by two short successive ones.</p>
+<p>&quot;Why are you knocking on the door...&quot; Selena was baffled even more.</p>
+<p>Creak. Her bedroom door opened. Dressed in his black tuxedo and half top hat, Klein appeared in front of the two girls.</p>
+<p>&quot;Pleasant surprise? This is a pleasant surprise?&quot; Selena&#x27;s mouth turned agape as she felt perplexed.</p>
+<p>At that moment, Klein suddenly reached out his hand and grabbed her by the wrist. He pulled her into the room as Elizabeth stood rooted to the ground.</p>
+<p>Simultaneously, Klein&#x27;s silver dagger struck forward as it spewed out his spirituality which quickly mended the door-shaped passage.</p>
+<p>The invisible spirituality wall sealed off the room, insulating Selena&#x27;s screams within.</p>
+<p>Bang!</p>
+<p>Klein suddenly closed the door and without even looking at Selena, he rushed to the desk.</p>
+<p>The wine-red haired girl stopped screaming as she looked up and surveyed the room. Her gaze rapidly turned cold as her skin was mottled with paleness. Her fingers rapidly grew sharp fingernails.</p>
+<p>And at this moment, Klein had already returned to his Cogitation state. He trickled a drop of Moon flower and essential oil onto each candle as he chanted loudly, &quot;Supreme Lady of Crimson, Great Empress of Misfortune and Horror.</p>
+<p>&quot;I pray for you to bestow your loving grace.</p>
+<p>&quot;Show your loving grace to the lost lamb, Selena Wood!&quot;</p>
+<p>While chanting, he picked up the fake goatskin and pushed it onto the candle representing the requester.</p>
+<p>Whoosh!</p>
+<p>He felt a cold wind blow behind him as an immense energy assaulted his body.</p>
+<p>The goat skin was ignited and Klein threw it into a silver bowl. Then, he crouched downwards in accordance to his preparations to dodge the lethal strike.</p>
+<p>Whoosh! Whoosh! Whoosh!</p>
+<p>The wind howled ferociously, and Klein felt the uncontrolled outpouring of his spirituality surging like the currents.</p>
+<p>He saw the goatskin burning in the tiny silver bowl, burning in silent darkness, and he heard heavy items landing on the ground behind him.</p>
+<p>Bam! Bang!</p>
+<p>The two sounds followed one after another with almost no breaks in between. Wisps of dark green gases plunged into the silver bowl and vanished into the illusory darkness.</p>
+<p>Klein rolled to the side and got up. He drew his revolver from his underarm holster. However, he saw that the adorable red-haired girl Selena had fallen to the ground and the silver-coated mirror had shattered into countless broken pieces on the carpet.</p>
+<p>Those shattered pieces didn&#x27;t reflect Selena, but showed the ceiling and Klein&#x27;s silhouette.</p>
+<p>Then, through the Spirit Vision he had left active, Klein saw the wicked dark green in Selena&#x27;s aura had vanished completely. Everything returned to normal, but she seemed more frail.</p>
+<p>Phew... He had just relaxed when he felt a sharp, throbbing pain in his glabella and head.</p>
+<p>The sharp pain spread all over his body and made him want to roll around on the floor.</p>
+<p>Klein held his fists tight, and the veins on the back of his hands popped and became black. They looked like moving worms.</p>
+<p>Simultaneously, he heard silent screams and the whispers that ripped at his mind. It took him nearly twenty seconds to survive the ordeal. His forehead and vest was soaked in cold sweat.</p>
+<p>The ritualistic magic I used sucked up all my spirituality and almost made my Beyonder powers lose control? Klein made a rough guess of the situation.</p>
+<p>That also made him notice that he had digested quite a bit of the remaining energy in the potion. Based on his calculations, if he had the strength at the time he consumed the potion, he believed that there was no way he could have survived the ordeal. He could have become a monster straightaway.</p>
+<p>&quot;Acting&quot; is quite effective after all... Klein tapped his glabella and wiped away his sweat.</p>
+<p>He turned towards the altar, tapped his chest four times, and said out loudly, &quot;Praise the Lady!&quot;</p>
+<p>Following that, he extinguished the candles and quickly tidied up the altar.</p>
+<p>Finally, he placed the items back into the desk and used his silver dagger to dispel the spirituality wall seal.</p>
+<p>Whoosh!</p>
+<p>The sound of the wind echoed before subsiding. Klein let out a long sigh of relief and felt a sense of lingering fear.</p>
+<p>&quot;If I hadn&#x27;t walked through the process beforehand and successfully completed the ritual then things would have become troublesome... Besides, I still don&#x27;t know who my opponent or enemy is... Thankfully—yes—thankfully, the room was carpeted, so I didn&#x27;t damage my clothes while rolling...&quot;</p>
+<p>He shook his head and reached out to open the wooden door to Selena&#x27;s bedroom.</p>
+<p>&quot;How was it?&quot; Elizabeth took two steps back and asked nervously.</p>
+<p>Klein looked at her terrified expression and took off his half top hat before saying with a warm smile, &quot;I&#x27;ve already corrected the mistake of her magic mirror divination. It&#x27;s been resolved now.&quot;</p>

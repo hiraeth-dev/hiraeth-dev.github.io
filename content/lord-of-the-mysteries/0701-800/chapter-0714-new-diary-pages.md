@@ -1,0 +1,59 @@
++++
+title = "Chapter 714: New Diary Pages"
+weight = 714
+[extra]
+chapter = 714
++++
+
+<p>Inside the quiet room in the inn, the dark and silent radio transceiver instantly returned back to normal as its surroundings stopped being eerie.</p>
+<p>Klein busily set up the ritual and sacrificed it above the gray fog before having the time to consider the answers he had received.</p>
+<p>According to the clues provided by Arrodes, and combining the answers from Mr. Azik and Will Auceptin, Klein had a basic idea on how he should proceed.</p>
+<p>It wasn&#x27;t just because he wished to return to Backlund for some rest and reorganization, but because he viewed the large city as a main locale that he would spend a long period of time being active in. He wanted to see if he could steal the Antigonus family&#x27;s notebook from the Church of the Evernight Goddess&#x27;s Saint Samuel Cathedral.</p>
+<p>If he confirmed that there weren&#x27;t any solutions, he would attempt to switch to neighboring Beyonder pathways, but if that was impossible, he had no choice but to take the final route— head to the main peak of the Hornacis mountain range.</p>
+<p>Hmm... I deﬁnitely can&#x27;t use my identity as Sherlock Moriarty when I&#x27;m back in Backlund unless I wish to dig out Ince Zangwill or the royal family faction that&#x27;s hiding in the darkness. However, when contacting people I&#x27;m familiar with or using the resources of the Church of Steam, I can transform back into Sherlock Moriarty.</p>
+<p>In short, I have to create a new identity. Furthermore, it has to be completely separate from Gehrman Sparrow. Hmm, I won&#x27;t directly return to Pritz Harbor this time. I&#x27;ll make a detour to Desi Bay and make sure that no one can ﬁgure out my background. Klein&#x27;s thoughts raced and he soon came up with a clear train of thought.</p>
+<p>After determining the next steps of action to take, he planned on drawing some blood and heading above the gray fog to explore Groselle&#x27;s Travels using his Spirit Body, but in consideration that there was a Tarot Gathering in the afternoon, he lay back in bed and took the time to rest and relax.</p>
+<p>...</p>
+<p>The Future smoothly cruised through the undulating waves as Admiral of Stars Cattleya stood by the window, watching the scenery that seemed to go on without end. And by the deck, there were Nina&#x27;s exasperated shouts from time to time. She would be angrily scolding Frank Lee for producing a bunch of fast-growing, beef-flavored mushrooms that enjoyed eating fish.</p>
+<p>Cattleya sighed silently as she nudged the heavy glasses on her nose bridge.</p>
+<p>At that moment, her spiritual perception was suddenly triggered as she looked down at her study desk. At some point in time, a few pieces of yellowed paper had appeared there.</p>
+<p>The emperor&#x27;s diary entries... She ﬁnally sent a messenger over... Cattleya turned around in delight and picked up the few pieces of paper that were akin to a preliminary probe.</p>
+<p>By three in the afternoon, having memorized the symbols, Cattleya saw the illusory crimson light surge at her like a tide, drowning her within. Under a high dome propped up by stone columns, Cattleya saw similar red beams soar up, transforming into indistinct figures.</p>
+<p>She didn&#x27;t look carefully, as she realized that a pair of familiar glasses had naturally appeared over her nose bridge. It was almost a perfect replica of the one from the outside world.</p>
+<p>Then, she caught Miss Justice elegantly stand up from the corner of her eye. Miss Justice briskly greeted the figure at the seat of honor, &quot;Good afternoon, Mr. Fool~&quot;</p>
+<p>Audrey was in a good mood recently. After she returned to her family&#x27;s castle, as an obedient daughter, she helped her mother, Lady Caitlyn, resolve some psychological problems that stemmed from her age and physical condition. She received extremely good feedback, allowing her to conclude more of the acting principles for Psychiatrist.</p>
+<p>Amongst them, the most important principle was to help others resolve psychological issues. She suspected that this was the reason why the potion&#x27;s name was Psychiatrist and not Psychologist.</p>
+<p>Miss Justice is very happy... Klein appeared infected as he nodded with a smile as a response.</p>
+<p>During this process, he noticed that Mr. Hanged Man appeared to be preoccupied with concerns. He looked like he was hesitating and struggling, having not made up his mind.</p>
+<p>Eh, this means that Mr. Hanged Man is able to buy the Ocean Songster&#x27;s potion formula and main ingredient, but he will have to pay a huge price. I thought he would request to pay for it in installments... The Fool Klein reined in his gaze without any signs of unrest as he surveyed the area. After Miss Justice was done with her greeting, Cattleya looked towards the end of the long bronze table.</p>
+<p>&quot;Honorable Mr. Fool, I found three pages of Roselle&#x27;s diary.&quot;</p>
+<p>Here it comes... I wonder if the three diary pages specially selected by Queen Mystic will be valuable. For instance, providing clues to the Card of Blasphemy for the Seer pathway. This will be able to provide me with another alternative... Klein was filled with anticipation as he calmly and naturally said, &quot;Very good. You can think of a request.&quot;</p>
+<p>&quot;Yes, Mr. Fool.&quot; Cattleya replied in an impeccable manner before requesting to conjure the contents of the diary pages.</p>
+<p>Upon seeing her behavior and thinking about how she acted in the dream, Klein was rather gratified. He felt like a teacher having successfully reformed a student.</p>
+<p>This is the ﬁrst time Ma&#x27;am Hermit is providing Emperor Roselle&#x27;s diary entries. With the standards and ability she has showcased, it&#x27;s impossible for her to have failed to ﬁnd it in the past... Yes, in the past, she was more of an observer. After being punished by Mr. Fool, she has truly integrated into our Tarot Club? Together with how Cattleya had performed last week, Audrey made a judgment.</p>
+<p>Meanwhile, she sensed that Mr. Hanged Man didn&#x27;t seem normal. He looked like he was anticipating something but was also unable to bring himself to part with something. She was rather intrigued.</p>
+<p>Klein didn&#x27;t wait too long before the three diary pages were conjured and came into his hands. Derrick and the other members instinctively fell silent, so as to not disturb Mr. Fool&#x27;s reading.</p>
+<p>&quot;9th February. Today is Bornova&#x27;s birthday. He&#x27;s already a healthy, strong, honest, and kind young man. His piousness has won the Church&#x27;s favor.</p>
+<p>&quot;Everyone is congratulating me, saying that Bornova will definitely become a Blessed, a saint. They praise him for how pure and flawless his faith is.</p>
+<p>&quot;I should be very happy, but I can&#x27;t hide my dismay. I wish that my children can be more human, to have more emotions. I hope that they can be themselves, and not just a believer of a deity.</p>
+<p>&quot;However, almost everyone believes from the bottom of their hearts that Bornova&#x27;s present state is excellent. Matilda is the same. Likewise for Ciel. Most of my noble officials share the same feelings. Only Bernadette shares my point of view. She has told me in private that she believes a person should be more self-centered, as long as they don&#x27;t harm others.</p>
+<p>&quot;Recalling the words Zaratul had said during Bornova&#x27;s birth, as well as the premonition I&#x27;ve had after becoming a demigod, my heart is turning heavier. Adorable angel, heh heh, what an adorable angel.</p>
+<p>&quot;Is this you being wary of me?</p>
+<p>&quot;Is this how you are attempting to control me?</p>
+<p>&quot;No, you can probably never understand the pride inside me. To me, so what if you&#x27;re a deity? I can replace you!&quot; &quot;11th February, contact with Zaratul was fruitless again.</p>
+<p>&quot;Ever since he obtained that Antigonus notebook, the number of times this Secret Order leader appears has been decreasing. I&#x27;ve no idea what secret he&#x27;s scheming. Anyway, ‘He&#x27; will definitely not tell me.</p>
+<p>&quot;12th February. I made a mystical item very suitable for Bernadette.</p>
+<p>&quot;This can allow her to effective avoid the Hidden Sage&#x27;s nagging, as long as she doesn&#x27;t proactively pray and seek a response. Yes, this item seems to be able to help saints enter the easternmost front of the Sonia Sea where the battlefield of the gods is. It prevents one from being influenced by the True Creator&#x27;s ravings, and that place likely hides the secret to the Forsaken Land of God.</p>
+<p>&quot;Ha, I was only making a present for my daughter out of fun. To think that it has such powerful effects. Bernadette, your dad is really the best Artisan in the world!&quot;</p>
+<p>Best Artisan? Does this mean that the emperor had already reached Sequence 2 of the Savant pathway when he wrote this diary entry, that he had become an angel? With the God of Steam and Machinery present, this is the peak an Artisan can attain... It&#x27;s no wonder that Queen Mystic can freely enter and exit the battleﬁeld of the gods. So it&#x27;s because of a gift from the emperor. Indeed, a child with parents is like a treasure... Klein felt wistful.</p>
+<p>In addition, he could sense Emperor Roselle&#x27;s repressed and angry feelings from the diary entry. He used his comprehension skills that were honed from his previous life to figure out what was written in between the lines. After he became an angel, the Church of the God of Steam and Machinery obstructed him and suppressed him. The God of Steam and Machinery had exerted some influence on his youngest son, Bornova, making him become the most devout believer and appointing him as someone who could become an angel and enter the Land of Perfection.</p>
+<p>And this not only made Emperor Roselle submit to the suppression while having misgivings, but this had also stirred thoughts of rebellion in him.</p>
+<p>The Emperor later became a public enemy of the world because of this rebellion? Klein nodded inwardly.</p>
+<p>Meanwhile, he noticed a matter regarding Zaratul. He suspected that the Miracle Invoker only began aiming for Sequence 1 after he obtained the Antigonus family&#x27;s notebook. For this, he planned many things, but something happened during his advancement, turning him into a monster. Of course, just as Arrodes said, Zaratul might not have lost control. He could be hiding something or plotting something.</p>
+<p>After quickly scanning through it, Klein flipped the page and looked back. It wasn&#x27;t continuous, and it was brand new content.</p>
+<p>&quot;5th October. A few Primordial Moon believers were caught by the Men in Black organization I established. They failed to complete the corresponding sacrificial ritual.</p>
+<p>&quot;Their behavior has intrigued me, as their strength seems to come directly from the crimson moon.</p>
+<p>&quot;Unfortunately, large amounts of data have confirmed that the crimson moon is really a satellite that&#x27;s revolving around our planet. Then, how is it fusing physics and mystery together? &quot;With my present strength, it&#x27;s not impossible to head for the crimson moon. At most, it will be troublesome and a little difficult, but it doesn&#x27;t seem to be necessary.&quot;</p>
+<p>&quot;17th October, I&#x27;ve finally made up my mind.</p>
+<p>&quot;I will attempt to switch to the neighboring Mystery Pryer pathway. Only by doing so can I become a Sequence 1.</p>
+<p>&quot;I&#x27;ve always suspected that the Hidden Sage is only a conceptualized Uniqueness. Due to some sort of accident, it became sentient and awakened. Therefore, this pathway&#x27;s Sequence 1 position is likely still empty!&quot;</p>

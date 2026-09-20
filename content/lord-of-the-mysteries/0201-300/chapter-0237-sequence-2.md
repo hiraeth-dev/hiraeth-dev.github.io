@@ -1,0 +1,60 @@
++++
+title = "Chapter 237: Sequence 2"
+weight = 237
+[extra]
+chapter = 237
++++
+
+<p>&quot;29th October. The leader of the Secret Order, Zaratul, visited me once again. He didn&#x27;t mention anything specific and just casually chatted with me. I wasn&#x27;t able to guess his true intentions. It seems like he just wanted to strengthen the communication between us and understand each other better?</p>
+<p>&quot;I&#x27;ve already met the two High-Sequence Beyonders from the Church, but I felt that Zaratul was much more powerful and mysterious than them, so I asked him what Sequence number he was without much hope, and in the end, he actually answered me!</p>
+<p>&quot;He told me that he was a Sequence 2, Miracle Invoker!</p>
+<p>&quot;Sequence 2? In the Church&#x27;s categorization, that&#x27;s the position of an angel, close to that of a deity!</p>
+<p>&quot;He truly is more powerful than the Alchemist and Arcane Scholar that I met before!</p>
+<p>&quot;But my intuition tells me that Zaratul isn&#x27;t telling the whole truth. Sequence 2 might just be his former position, or that he&#x27;s about to advance.</p>
+<p>&quot;Miracle Invoker? A master at creating miracles? The name of this potion makes one&#x27;s imagination run wild!</p>
+<p>&quot;This is the corresponding Sequence 2 of Seer, a Miracle Invoker who controls fate? &quot;I tried probing Zaratul if the word miracle refers to the miracle of fate? That the Seer pathway is one that slowly understands and grasps fate so as to control it?</p>
+<p>&quot;Zaratul ignored the first question. He told me that fate is just one of the parts of the Seer pathway, and it&#x27;s not even its main focus. The pathway that truly represents fate is Monster!</p>
+<p>&quot;He raised a few examples which were all potion names of the Monster Sequence. Sequence 7 Lucky, Sequence 5 Winner, Sequence 2 Soothsayer, and Sequence 1 Snake of Mercury! It&#x27;s also known as the Snake of Fate.</p>
+<p>&quot;This was the first Sequence 1 I got to know. It hit me right in the face!</p>
+<p>&quot;According to what I know, the Monster pathway should be controlled by the Life School of Thought. This school seems to also have parts of the Apothecary Sequence pathway. They propose three major divisions, the world of absolute rationality, the world of the spirit, and the material world. Yea, it&#x27;s pretty cool.</p>
+<p>&quot;Zaratul told me that the Life School of Thought specializes in astromancy, seeking to use medicine, music, light, wine, and fragrance, to eliminate paths with unfavorable star readings and fate. They believe that disasters and diseases are caused by the loss of balance between man and nature, as well as the balance between man and his own mind.</p>
+<p>&quot;He added meaningfully that the Life School of Thought worships the moon.</p>
+<p>&quot;Why worship the moon and not go one step further, the Evernight Goddess?&quot; This diary took up two pages and was clearly copied from both sides of the original.</p>
+<p>That&#x27;s a lot of information... Klein sighed in heartfelt silence.</p>
+<p>This was also the first time he was learning of a Sequence 1 potion&#x27;s name.</p>
+<p>Snake of Mercury and Snake of Fate really made one feel a pining for!</p>
+<p>Similarly, it&#x27;s my ﬁrst time learning of a Sequence 2. I now know the corresponding Sequence 2 of Seer... The name Miracle Invoker sounds pretty good. It contains deep meaning and doesn&#x27;t sound lowly. Of course, compared to Soothsayer, it does seem a little inferior...</p>
+<p>Fate is only part of the Seer pathway and it&#x27;s not even its main focus. I have to remember this. I should constantly reﬂect on myself and not end up steering towards fate. It might result in the failure of my &quot;acting&quot;... Zaratul&#x27;s words don&#x27;t seem contradictory... The Monster pathway is the real path of fate... So, Soothsayer is a Sequence 2. If that&#x27;s the case, then I already knew of a Sequence 2 in the past...</p>
+<p>Although he didn&#x27;t take his eyes off the paper, Klein was seriously considering his own Sequence chain.</p>
+<p>Due to his experience in digesting the two potions, &quot;Seer&quot; and &quot;Clown,&quot; and because he could spy and revere fate, he was able to be a little prescient regarding fate. However, he would still be helpless toward the development of fate. He had slowly been equating the essence of his Beyonder pathway to fate. If it wasn&#x27;t for this diary, it was very likely that he would&#x27;ve used this as a premise to comprehend and &quot;act&quot; for the subsequent Sequences. As for whether or not Zaratul was lying, what Klein was certain of was that the Monster pathway was definitely the Sequence of Fate, which was consistent with what he had seen from the confidential information of the Nighthawks and with the potion name he had heard of earlier, &quot;Soothsayer.&quot;</p>
+<p>Now that there was a Fate Sequence, the &quot;Seer&quot; pathway was unlikely to be a repeat. This would result in some degree of overlapping, and it would be inconsistent with how each of the current Sequences had different characteristics.</p>
+<p>Therefore, Klein was inclined to believe what Zaratul had said. He was inclined to believe that fate was only part of the Seer&#x27;s pathway, not even its main focus.</p>
+<p>The value of these two pages is invaluable to the present me... The Alchemist and the Arcane Scholar should be the higher Sequences of the Savant pathway. From Roselle&#x27;s tone, they deﬁnitely don&#x27;t belong to Sequence 2 and 1. That is to say, they are Sequence 4 and Sequence 3... For the time being, it&#x27;s impossible to determine which is Sequence 4 and which is Sequence 3... Klein gathered his thoughts, flipped the diary, and continued reading.</p>
+<p>As for why the Life School of Thought only worshiped the moon and didn&#x27;t believe in the Evernight Goddess which symbolized the crimson moon, he was unable to ponder too deeply about it due to the lack of information.</p>
+<p>The third page was Roselle&#x27;s recount of inventing a practical steam engine. At times, he was afraid of suffering crackdowns, and at other times, afraid that the fruits of his labor would be seized by powerful figures. His words displayed his fear of being persecuted.</p>
+<p>To think that even Emperor Roselle, who thought of himself as the protagonist of an era, would have such a perturbed and worried side to him... The corners of Klein&#x27;s mouth twitched as he flipped to the fourth page of the diary.</p>
+<p>&quot;18th April. Matilda is pregnant.</p>
+<p>&quot;It&#x27;s to be expected, and I can even tell you exactly which love-making session she conceived in, because I felt a decrease in my Beyonder characteristic.</p>
+<p>&quot;Once the conception is successful, my own Beyonder characteristic will follow a mysterious connection, and part of it will be transferred to my child.</p>
+<p>&quot;After that, I asked Archbishop Fan Esti worriedly. He told me that this is a normal phenomenon. For Sequence 7 and below, Beyonder characteristics will not be passed on to the next generation, but it isn&#x27;t absolute, Sequence 6 and 5 will naturally pass down a portion, but it will not affect the parent&#x27;s strength. As for the child, they would be born with certain Beyonder powers, close to that of Sequence 9. But as a result, their pathway is basically fixed.</p>
+<p>&quot;At high Sequences, the inheritance of Beyonder characteristics is something one can control. One can choose to pass down or not, or one can even choose to pass down just a little bit, a third, half, or all of them.</p>
+<p>&quot;In other words, the children born from High-Sequence Beyonders might be born as Beyonders. As for the Sequence number, it&#x27;s up to either one of the parents to decide.</p>
+<p>&quot;I wonder if the descendants of the deities are like this as well...&quot; After reading the diary, there were only two phrases in Klein&#x27;s mind: &quot;Law of Beyonder Characteristics Indestructibility&quot; and &quot;Law of Beyonder Characteristics Conservation.&quot;</p>
+<p>Is the law governing the survival of Beyonder creatures? It&#x27;s no wonder that some magical animals will reproduce only before they die... It&#x27;s no wonder there would be the phenomenon of increased killing and bloodlust after childbirth. The target would be of their own race or even their partner. This is to supplement their Beyonder characteristics... According to this logic, if we trace this all the way back, where did the earliest Beyonder characteristics come from? Produced out of thin air? From the Creator who created everything?</p>
+<p>Since Miss Justice had already advanced to Telepathist, Klein controlled the urge to nod and continued to leaf through the pages.</p>
+<p>The fifth page was Roselle&#x27;s criticisms about how no one could enjoy his pop music and thought that he was making noise, while at the same time, he mused how refreshing stories was a common pursuit of different people from different worlds, and that the popularity of the novels he plagiarized from The Count of Monte Cristo allowed the newspaper he founded to flourish.</p>
+<p>...Emperor, is there anything else you haven&#x27;t done? With a smile, Klein turned to the sixth and ﬁnal page.</p>
+<p>&quot;10th November, I received the great pirate Savigny Solomon in secret at the White Maple Palace. I hope that he will plunder my opponents on the new sea route and strike at the ships of Feysac, Loen, and Feynapotter.</p>
+<p>&quot;And I promised to help him advance to a High-Sequence Beyonder. &quot;The Beyonder pathway of Black Emperor has names that are as strange as the Demoness pathway—Corruption, Confusion, The Fallen, Disorder... However, in order to match the Black Emperor, they added on their own suffixes, Baron of Corruption, Mentor of Disorder, Earl of The Fallen, and Prince of Abolition.</p>
+<p>&quot;In order for Savigny to live up to his name, I decided to confer him the title of Earl of the Court in secret.</p>
+<p>&quot;Savigny has a child named Nast Solomon, and my intuition tells me that he will dominate the Five Seas in the future.&quot;</p>
+<p>Nast Solomon... The King of the Five Seas, Nast? Nast, who claims to be a descendant of the Solomon Empire? To think that he was born during the Roselle period! Klein was stunned.</p>
+<p>Since Roselle had mentioned the term &quot;new sea route,&quot; Klein had easily determined the corresponding year.</p>
+<p>It was in 1194 that the new sea route was discovered and the Southern Continent was found, and Roselle was assassinated in 1198. The diary could only have been written between those two years.</p>
+<p>That also meant that it was about 151 to 155 years ago.</p>
+<p>If Nast, the &quot;King of the Five Seas,&quot; was the Nast Solomon, Roselle had spoken of, he&#x27;s almost 160 years old... Is this due to other reasons, or do High-Sequence Beyonders obtain an extension to their lifespan in the ﬁrst place... Klein thought seriously.</p>
+<p>He gathered his thoughts and let the diary disappear from his hands. He then looked at Justice and said, &quot;You are free to trade or communicate now.&quot;</p>
+<p>Mr. Fool has no general knowledge to tell us today... Audrey was slightly disappointed. She turned her gaze to Sun and said, &quot;Can I exchange information related to the dragon from you?&quot;</p>
+<p>She clearly remembered that Mr. Sun called the Spectator pathway &quot;the Dragon pathway,&quot; and that he said it originated from the Dragon race.</p>
+<p>&quot;Sure. I want the Sequence 8 potion formula for Bard,&quot; answered The Sun, Derrick, who had been silent all this while, in hesitation.</p>
+<p>He had wanted to use this as an exchange for information on the world where Justice and The Hanged Man were living so that he wouldn&#x27;t always be confounded by what he heard. However, seeing that his process of digesting the potion was nearing completion, he still made his advancement his top priority.</p>

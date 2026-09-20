@@ -1,0 +1,63 @@
++++
+title = "Chapter 327: Encounter on the Road"
+weight = 327
+[extra]
+chapter = 327
++++
+
+<p>Inside the small theater of the Rice Circus.</p>
+<p>As long as something felt familiar, there was no problem for a Seer to recall it. Klein nudged his gold-rimmed glasses up on his nose, leaned back, and murmured something almost soundlessly.</p>
+<p>Soon after, he pretended to close his eyes to rest for more than ten seconds. In reality, he had used the help of Cogitation to quickly fall asleep and be reminded through his dream.</p>
+<p>It was a rather dim room, with only one candle flickering on the coffee table. The people sitting around it were all wearing black hooded robes and iron masks that covered only half their faces.</p>
+<p>Deliberately massaging his glabella, Klein opened his eyes and continued watching the beast taming performance.</p>
+<p>He had interpreted the revelation and knew the source of the familiarity: the scene in the dream was of the Beyonder gathering organized by Old Mister Eye of Wisdom.</p>
+<p>There was also an Apothecary with a chubby face who enjoyed using sarcasm as a warning. Although he was clearly a kind-hearted fellow, he always gave others the feeling that he deserved a beating.</p>
+<p>Could it be that Apothecary? That shouldn&#x27;t be the case. When did he learn beast taming... According to the conﬁdential records of the Nighthawks, an Apothecary doesn&#x27;t have Spirit Vision like those of the Seer pathway who were able to distinguish emotional colors in detail. Well, when it comes to the color of auras, they&#x27;re actually quite good at it... Klein&#x27;s thoughts slowly dispersed without affecting his appreciation of the performance onstage.</p>
+<p>In his Spirit Vision, the emotional colors of the black bear, the tiger, and the curly-haired baboon were indeed unstable. If there was an addition level of provocation to a certain degree, they might very well rampage on the spot. This indirectly confirmed that the chubby man who had just spoken wasn&#x27;t causing trouble. He seemed to be able to read the thoughts of the three animals and understand their impulses.</p>
+<p>Having received the warnings, the beast trainer&#x27;s face darkened with anger, but even so, his actions were instinctively gentler. He was more careful, and the show ended without a hitch.</p>
+<p>After that, there was a simple but comedic skit. Only when it was over was it the magician&#x27;s turn to perform.</p>
+<p>This magician wore a tuxedo. He wore a bow tie of the same color, as well as a large top hat. The moment he appeared, he spat out fire from his mouth, which immediately caused the audience to applaud and cheer.</p>
+<p>Such a simple trick... Klein, who had excellent eyesight and had watched quite a few magic lesson programs, understood the gist of it with just a quick glance.</p>
+<p>Next, the magician performed: the classic escape act, releasing flying doves from his hat, pulling out flowers, card tricks, and so on. Klein thought he could easily see through every one of the magician&#x27;s tricks, but he was surprised to discover that, at some point, he actually failed to do so because his attention had been drawn to where the magician wished it to be, causing him to ignore the key details. He clearly doesn&#x27;t have any Beyonder powers, but his technique is still able to fool my eyes. Hmm, the key point is grasping attention... The Magician&#x27;s second principle is fully divert a target&#x27;s attention, thus achieving the desired effect? Klein made a guess in his mind which he wasn&#x27;t sure if it was right or wrong.</p>
+<p>It needed him to &quot;act&quot; it out to receive feedback.</p>
+<p>At this moment, the magician&#x27;s performance came to an end. The audience weren&#x27;t stingy with their warm applause and cheers. The atmosphere in the theater reached its peak that afternoon.</p>
+<p>Heh heh, the third principle. A Magician&#x27;s performance requires the applause of the audience for his performance? Klein muttered to himself in a half-joking and half-guessing manner in silence.</p>
+<p>Shortly after three o&#x27;clock, he pulled the collar of his black double-breasted frock coat and left the small theater. He didn&#x27;t try to come into contact with the chubby man who was suspected to be the Apothecary and only secretly remembered his appearance—soliciting him suddenly might result in extreme reactions.</p>
+<p>He took a tracked public carriage back to Minsk Street.</p>
+<p>The carriage was divided into two floors and each of them had a few passengers. According to his usual practice, Klein chose the spot next to the window on the first floor.</p>
+<p>The carriage proceeded and stopped from time to time. Klein, who had half-closed his eyes to recall the inspiration he had just had, suddenly felt his heart palpitate. He became sober and rational—the reaction was like someone had forcibly intruded into his dream or channeled his spirit. At this moment, he clearly knew that he was no longer in the real world!</p>
+<p>As someone rich with experience, he pretended to be unconcerned. He looked around and saw that the gentleman in a tuxedo and top hat to his left was still flipping through a newspaper. There were two children who were being reprimanded by a vexed woman in a light blue dress for being disobedient troublemakers. Beside her, people were chewing on bread or drinking tea that they had brought with them... Everything was the same as before.</p>
+<p>However, when Klein quietly activated his Spirit Vision, these passengers didn&#x27;t emit any of the corresponding auras or emotions!</p>
+<p>They don&#x27;t have Ether Bodies!</p>
+<p>They&#x27;re clearly talking, eating bread, and reading newspapers, but none of them have any signs of life!</p>
+<p>Is this an illusion, or did they just suddenly die and are just moving according to the inertia of their lives? Klein tried to remain calm as he looked out the window and saw carriages and pedestrians passing by. It was still an afternoon scene.</p>
+<p>However, they also have no aura colors... As the carriage moved forward rather slowly, Klein became more and more serious, not understanding what had just happened.</p>
+<p>He lowered his head and examined himself. He saw a clear spirituality luster which was completely different from the people around him. At that moment, he suddenly heard an angry roar. It didn&#x27;t sound like it came from a human!</p>
+<p>Klein looked up and saw a large black dog on the street.</p>
+<p>Its sharp white teeth were stained with traces of blood and rust. It was the huge Devil dog that had committed heinous crimes!</p>
+<p>The black dog quickly swelled into a tall devil. It had bat-like wings on its back and goat horns, filled with mysterious patterns, that grew from its head. It looked up at the sky and said in the devil language, &quot;Corruption!&quot;</p>
+<p>Almost as soon as it opened its mouth, Klein confirmed that it was real, because it possessed aura and emotion colors while strong spirituality lusters were being emitted from it!</p>
+<p>Following the howls of the huge Devil dog, a few illusory pedestrians exploded and turned into a black mist that filled the air, blocking his line of sight.</p>
+<p>However, Klein could vaguely see that there were quite a few &quot;real people&quot; with aura colors in midair and around him. They were using Beyonder powers which emitted spirituality lusters.</p>
+<p>What&#x27;s going on? Ordinary people are illusory, but the Beyonders are real... Have the Nighthawks and Mandated Punishers found the Devil dog and used a Sealed Artifact to create a battle environment which wouldn&#x27;t disturb reality? That Sealed Artifact is only aimed at Beyonders, and it has no effect on normal people? Thus, I, who just happened to pass by, was pulled in out of bad luck? Klein&#x27;s mind raced as he roughly guessed what had happened to him. What a ridiculous disaster... Just as he was sighing with emotion, he suddenly heard a blood-curdling shriek, a sharp and loud scream.</p>
+<p>The black gas that screened his vision suddenly dispersed, and the gigantic Devil dog fell heavily onto the ground. Its body was divided into two halves, and all the light in the air converged on something, making it look like a clean, pure moon shining down on the dark environment.</p>
+<p>The gigantic Devil dog tenaciously roared again, and its body suddenly exploded. Using its soul and flesh as fuel, it ignited blue and red flames that soared into the sky.</p>
+<p>However, the flames lost all of their brightness as soon as they reached midair, having been absorbed by that bright and resplendent moon-like object.</p>
+<p>It disappeared without a trace, and that huge Devil dog died so simply and completely, not even leaving a speck of it behind.</p>
+<p>So powerful... As Klein was sighing, he suddenly thought of something. Would those official Beyonders discover that he— another wild Beyonder—was sitting in the carriage, different from the other illusory people in the surrounding area?</p>
+<p>His heart tightened as his scalp went numb. He pulled out a paper figurine, and with a shake, he transformed it into himself, a copy that was without any aura or emotional colors.</p>
+<p>As for him, with the help of the substitution spell, he hid in the paper figurine&#x27;s &quot;shadow.&quot; At this moment, Klein heard a light snort from across the street.</p>
+<p>The snort was clearly filled with anger and indignation.</p>
+<p>Who is it? It doesn&#x27;t seem like the sound an ofﬁcial Beyonder will make... Klein was puzzled, but he didn&#x27;t dare to dispel his double and peek his head out to look.</p>
+<p>Following which, a few pairs of eyes swept across the crowd, not stopping for even a moment.</p>
+<p>When all this faded away, Klein saw that the void around him had cracked and shattered like glass.</p>
+<p>Then the feeling of reality inundated him, and he knew he was back in the real world.</p>
+<p>After removing the double, he sat back in his seat. The passengers in the carriage were doing their respective deeds— reading newspapers, chewing bread, and scolding children. It was no different from before.</p>
+<p>But in Klein&#x27;s vision, they had regained their aura and their emotional colors.</p>
+<p>In addition, compared to earlier, the tracked carriage had clearly moved forward by quite a distance.</p>
+<p>It seems like in that special battle environment earlier, time and space are synchronized with reality. If that battle had continued for a long time, then the carriage would&#x27;ve left the area of inﬂuence, leaving me alone there. Alone there... That would be an obvious exposure... Fortunately, Backlund is the Capital of Capitals and the Land of Hope. There are High-Sequence Beyonders from the three major Churches residing here... Klein thought with a lingering sense of fear.</p>
+<p>He had originally thought that even if they had locked onto their target, it would still take the Nighthawks, Mandated Punishers, and others several days to find the black Devil dog. Moreover, that was on the premise that the dog hadn&#x27;t left Backlund. That was something certain, because leaving Backlund would mean stepping out of the range of the ritual, and the advancement would fail. And to the Devil, the negative impact of a failed ritual would cause it, who was already struggling at the edge of bloodlust, to immediately lose control.</p>
+<p>Who would&#x27;ve thought that just after one night and half a day, the gigantic Devil dog would be discovered, executed, and cleansed!</p>
+<p>Terrifying! This is Backlund... This is the true power of the three Churches! A Sequence 6 Beyonder who&#x27;s just about to advance was merely exposed and had left behind the tiniest of traces. Yet, he was quickly found and killed so easily... This is a Devil that can sense danger ahead of time! From the looks of it, some Sealed Artifact perfectly hinders this trait... In the future, I must be even more careful! Klein felt that he had learned a great lesson.</p>
+<p>At this moment, he remembered the strange snort he had heard earlier.</p>
+<p>It seemed to be the companion of that gigantic Devil dog? Its master? He was actually not discovered. Perhaps the ﬁnal explosion of the gigantic Devil dog was secretly orchestrated by him... Of course, it&#x27;s also possible that he&#x27;s a member of some secret organization that is unsatisﬁed with the ofﬁcial Beyonders... Klein abruptly looked out the window on the opposite side of the carriage. All he saw were people walking past looking ordinary. They either wore tweed coats, half top hats, or bright long skirts. He couldn&#x27;t tell if there was anything wrong with them.</p>

@@ -1,0 +1,63 @@
++++
+title = "Chapter 374: Artificial Sleepwalking"
+weight = 374
+[extra]
+chapter = 374
++++
+
+<p>Lawrence sat in the coffee shop booth, unable to stop himself from thinking about the hardships of the Abraham family over the years.</p>
+<p>Ever since they had split up into smaller families and settled in other places, the Elder Council&#x27;s control over the family members hit rock-bottom. A great number of Abrahams refused to advance, in order to avoid the effects of the curse; hence, many of them remained at Sequence 8 or 9. Some didn&#x27;t even attempt to become Beyonders, wishing to be ordinary people with a certain amount of knowledge so as to live a calm and peaceful life.</p>
+<p>The Elder Council believed that this was an act of forgetting the family&#x27;s honor, but it couldn&#x27;t be harsh on such actions since it was tantamount to self-destruction.</p>
+<p>In such a situation, the upper echelons of the Abraham family began to think of introducing changes. They imitated the master-apprentice inheritance system of the Life School of Thought, and they trained non-family members, hoping that once they advanced to become High-Sequence Beyonders, then they would, in turn, be able to help the Abraham family deal with the curse that had existed for about 1,500 years and find their ancestor, Bethel Abraham, who had vanished in the War of the Four Emperors.</p>
+<p>The plan started off smoothly, and the apprentices who didn&#x27;t have to worry about the curse quickly became stronger and stronger under the Abraham family&#x27;s meticulous nurturing. Within a short period of ten years, there were several strong Sequence 5 individuals among them, while not a single person among the direct descendants of the Abraham family was Sequence 6. The trunk was too weak, but the branches were too strong; hence, the seeds of tragedy were planted, and the ambitious apprentices began casting their sights on the powerful Sealed Artifacts that the Abraham family possessed.</p>
+<p>Their plot failed, but it also resulted in serious repercussions. All the non-family members at Sequences 6 and 5 were of the opinion that their positions within the Abraham family didn&#x27;t match their own strength and that they couldn&#x27;t be trusted, preventing them from being in possession of certain Sealed Artifacts.</p>
+<p>In the process of going back and forth, with difficult negotiations occurring and compromises between the two parties, an accident happened. One of them, Traveler Botis, was lured by the True Creator into joining the Aurora Order, which led to a terrible disaster.</p>
+<p>In this disaster, the upper echelons of the Abraham family were almost completely destroyed. More than half of the few powerful Sealed Artifacts were lost, and only three were left. As a result, Lawrence&#x27;s brother, who he shared the same mother with, Richard, died.</p>
+<p>Not only did Botis benefit greatly from it, but he also gathered all the Beyonder ingredients he needed, and with the help of the True Creator, he successfully overcame the dangers and became a demigod, becoming one of the five Saints of the Aurora Order, the Saint of Secrets.</p>
+<p>After the disaster, the rebuilt Abraham family&#x27;s Elder Council reflected over the actions of the past few years, but they couldn&#x27;t find a solution to the problem. Emotions such as negativity, dejection, and hopelessness shrouded the hearts of the few remaining family members. Lawrence didn&#x27;t wish to be placed in such an environment or face sighing and repressed emotions every day. He found a reason to leave the Elder Council and came to Backlund to look for his other brothers, Laubero, who he shared the same mother, and Sam, who he didn&#x27;t share the same mother.</p>
+<p>But now, he suddenly realized that he was the only one remaining from his father&#x27;s line.</p>
+<p>He was already nearly eighty-years-old, and all his children had died in the disaster brought about by Botis.</p>
+<p>Just recalling the past made him feel sorrow from the bottom of his heart.</p>
+<p>The most painful thing was that he couldn&#x27;t see the hope for revenge, and he couldn&#x27;t see the dawn of his clan&#x27;s glory appearing once more.</p>
+<p>I&#x27;m already very old, and I was also injured before. Unless it&#x27;s absolutely necessary, I wouldn&#x27;t dare to use my Beyonder powers anymore, which would cause me to lose control or even cause the curse to descend... What is the future of the Abraham family? Lawrence took a sip of the Fermo coffee and fell into a long silence.</p>
+<p>...</p>
+<p>Upon returning to her rented house, Fors immediately entered the bedroom and locked the wooden door behind her.</p>
+<p>She sat on the edge of the bed, calmed her mind, and whispered the honorific name that represented hope and the future. &quot;The Fool that doesn&#x27;t belong to this era,</p>
+<p>&quot;You are the mysterious ruler above the gray fog;</p>
+<p>&quot;You are the King of Yellow and Black who wields good luck.</p>
+<p>&quot;I wish to inform you of what I have encountered today.</p>
+<p>&quot;I met the elder brother of the husband of the old lady who made me become an Apprentice. He seems to be a member of a certain family...</p>
+<p>&quot;I didn&#x27;t mention anything related to mysticism, but I&#x27;m worried that he has extremely powerful divination abilities and will be able to find out the complete truth...&quot;</p>
+<p>...</p>
+<p>At this moment, Klein happened to be above the gray fog.</p>
+<p>He saw the crimson star that represented The Magician expanding outward, rippling as he heard the stacked layers of prayers.</p>
+<p>After figuring out the details, Klein tapped the edge of the ancient table and said to himself silently, How cautious for her to know to seek help from The Fool.</p>
+<p>Besides, your guess isn&#x27;t wrong. The corresponding Sequence 7 for Apprentice is Astrologer... Having recently read the Book of Secrets thoroughly, he had quickly come up with a plan that would help him interfere with divination through rituals.</p>
+<p>I have to say, with the Book of Secrets and my advancement to Sequence 7, I&#x27;m becoming more and more godlike when above the gray fog. Of course, for the time being, I&#x27;m still just an empty shell...</p>
+<p>Speaking of which, I&#x27;ve been acting in front of Miss Justice and Mr. Hanged Man several times, fooling them completely. Why didn&#x27;t I receive any feedback from my spirituality? The speed at which I digest the potion doesn&#x27;t seem to be getting faster as a result. Does it have to happen in the real world? Yes, it might be possible that their &quot;applause,&quot; as an audience, has been blocked by the gray fog, preventing them from directly affecting me. Just like how the Eternal Blazing Sun and the True Creator are unable to penetrate the gray fog to ﬁnd this mysterious space...</p>
+<p>From the looks of it, the reaction between the gray fog and this mysterious space is very mechanical. It&#x27;s not sentient enough, and it lacks intelligence... However, to me, this is actually a good thing...</p>
+<p>In the midst of his thoughts, Klein turned his knowledge into an ancient piece of goatskin and threw it into the crimson star that symbolized The Magician.</p>
+<p>A boundless grayish-white fog suddenly filled the air in front of Fors&#x27;s eyes, and an illusory yellowish-brown goatskin descended from the sky.</p>
+<p>When she saw the information written on it, she suddenly felt at peace. With Mr. Fool, Mr. Lawrence certainly wouldn&#x27;t be able to get the correct revelations via divination! Fors sincerely expressed her gratitude and busily prepared for the ritual.</p>
+<p>She had seen a lot of instances where evil spirits did harm to others. In fact, she didn&#x27;t trust The Fool that much, but the curse of the full moon forced her to rely on him.</p>
+<p>Regardless of how bad the consequences are, I will just lose my life. Without the help of Mr. Fool, I would&#x27;ve already lost control during the last Blood Moon and become a monster... Every day I live is a day gained. This is all given to me by Mr. Fool, and he can take it back at any time. Well, it&#x27;s best if he doesn&#x27;t... Fors took a breath and lit the two candles that symbolized The Fool.</p>
+<p>The initial steps of the ritual were no different from those she had mastered before. This continued until the candles were lit and the essential oils, extract, and herbal powder were thrown into the fire.</p>
+<p>When the fragrance of a serene etherealness filled the room, a faint, illusory fog covered the entire altar. According to the contents of the goatskin, Fors quickly adjusted her body and mind, entered Cogitation and chanted the corresponding name of The Fool over and over again.</p>
+<p>Such monotonous, repetitive behavior allowed the originally calm and relaxed Fors to slowly enter a state where the mind was in deep sleep while her spirituality dispersed. Her entire being felt groggy, but she maintained a strange sense of lucidness. She felt as if her spirit was floating about, constantly moving upwards.</p>
+<p>This was similar to the &quot;secret deed&quot; process that was formed with the help of an external object, but it was different in many ways. This was a technique in mediumship and was used to communicate with higher level spirits. At an extremum, it could even allow a Beyonder to travel the spirit world under the pretext of maintaining a special lucidness.</p>
+<p>Some Beyonders who specialized in influencing the mind called it &quot;artificial sleepwalking.&quot; They could use techniques such as hypnosis to make ordinary people enter this state as well.</p>
+<p>In that way, an ordinary person would appear to be in a deep slumber, yet they would be able to answer questions. Although their eyes and mouths were closed, they could detect the presence of various Spirit Bodies around them; thus, completing a certain degree of communication.</p>
+<p>The reason why Klein didn&#x27;t let Fors use the secret deed ritual was that it could only give knowledge or direct effects such as purification or corruption, letting the target&#x27;s mind gain a wonderful experience. It couldn&#x27;t interfere with the divination or other matters done by another person.</p>
+<p>Simply put, the secret deed ritual directly affected the target&#x27;s Soul Body, Astral Projection, Body of Heart and Mind, and Ether Body. The related positive or negative states were removed, and with the artificial sleepwalking ritual, it allowed Klein to do something indirect so as to deal with any outside interference.</p>
+<p>In a daze, Fors felt herself drifting back to the majestic old palace above the gray fog, and she saw Mr. Fool sitting high above, looking down at everything.</p>
+<p>Klein looked at the image of The Magician projected by the dark red starlight. He unhurriedly picked up a paper figurine that he had found earlier from his trash pile in the corner.</p>
+<p>As a Seer who had advanced twice, he had many ways to interfere with the divination of others, so he didn&#x27;t need to rely on mystical items to help him.</p>
+<p>At this moment, due to the effects of the ritual, the mysterious space above the gray fog started to tremble slightly, and some of the power was flowing due to the perturbation.</p>
+<p>Klein&#x27;s left hand pressed the Black Emperor card on the surface of the long bronze table, connecting it with his own Spirit Body and uplifting himself to a higher level. It raised his level just like the previous times he used the Flaring Sun Charm and Azik&#x27;s copper whistle to solidify his Spirit Body.</p>
+<p>Then, with a flick of his right wrist, he threw the paper figurine out.</p>
+<p>The paper figurine suddenly expanded in size, and on its back, twelve pairs of black angel wings which were cut out of paper grew out. The feathers were vivid and lifelike.</p>
+<p>The paper &quot;angel&quot; pierced through the dark red light and overlapped with the illusory figure of The Magician.</p>
+<p>Without any warning, it started to burn and completely disappeared.</p>
+<p>The half-awake Fors seemed to see a dignified and majestic angel as it wrapped layer upon layers of pitch-black wings around her!</p>
+<p>After an unknown period of time, Fors suddenly awoke from her artificial sleepwalking state. In front of her were only the three candles quietly burning on the altar and the fog that had permeated the entire room. At the tip of her nose was the familiar fragrance of serene etherealness.</p>
+<p>Angel... Fors was so lost in thought that she momentarily forgot to end the ritual.</p>

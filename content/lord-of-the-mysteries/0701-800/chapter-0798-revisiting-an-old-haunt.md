@@ -1,0 +1,60 @@
++++
+title = "Chapter 798: Revisiting an Old Haunt"
+weight = 798
+[extra]
+chapter = 798
++++
+
+<p>Cherwood Borough, outside the Coim Company.</p>
+<p>When Klein alighted from the carriage, he looked around as if he had never been here before, as though everything had a strong sense of novelty.</p>
+<p>In fact, he wasn&#x27;t a stranger to the area. He knew that opposite the street was the Gardeley department store where the middle-class enjoyed patronizing, and that there was a shop not far away that was famous for its specialty Desi pies.</p>
+<p>He had once spent a considerable amount of time here waiting for Doragu Gale, to tail him so as to obtain evidence to his acts of adultery!</p>
+<p>Retracting his gaze, Klein walked towards the Coim Company with Richardson. Ma&#x27;am Mary and her lady&#x27;s maid were already waiting there.</p>
+<p>In the relatively conservative Loen Kingdom, a lady&#x27;s servant had to be of the same sex; otherwise, it would result in nasty gossip, affecting her social relationships and marriage. Therefore, even though Ma&#x27;am Mary&#x27;s lady&#x27;s maid needed to play the role of her secretary to a certain extent, with her understanding societal etiquette, commercial knowledge, and having a certain level of negotiation skill, all she could do was select from women with good education or with relevant working experience without considering any men.</p>
+<p>Similarly, gentlemen needed to have valets and commercial secretaries of the same sex. Of course, even so, there were always people who couldn&#x27;t rein themselves in and engaged in immoral acts. Every year, there were cases of servants and their employers having relations. Amongst them, the maids were mostly the victims. They were either cheated, forced, or enticed to become the male employer&#x27;s lover. When they were eventually discovered, they would be fired, losing their jobs. Then, their reputation would be destroyed, making them ineligible options for servants again. Many a time, they had to become prostitutes.</p>
+<p>&quot;Good afternoon, Dwayne.&quot; Ma&#x27;am Mary welcomed him with a smile.</p>
+<p>Klein bowed and said, &quot;Good afternoon, Ma&#x27;am. It really is a flourishing area.&quot;</p>
+<p>Such a topic was roughly equivalent to talking about the weather.</p>
+<p>After Mary exchanged pleasantries with him, she led Dwayne Dantès through the Coim Company&#x27;s entrance and said with a smile, &quot;Later, there will be professionals giving you an explanation as they show you around.</p>
+<p>&quot;After about half an hour, head on up. I&#x27;ve prepared a buffet and invited a few friends in different circles.&quot;</p>
+<p>Friends in different circles... This is her trying to expand my social circle... Very sincere! Klein nodded slightly and said, &quot;As someone not from the area, I always look forward to knowing more friends, having just come to Backlund.&quot;</p>
+<p>&quot;No, you&#x27;re nothing like that. If I had the liberty of saying it, you&#x27;re a true Backlund gentleman who has received excellent education,&quot; Ma&#x27;am Mary replied politely. As they conversed, they passed through the door and entered the reception area which had excellent lighting. A stocky man in a suit with a beautiful mustache stood there waiting.</p>
+<p>&quot;This is Luke Sammer. He is our Coim Company&#x27;s first manager,&quot; Mary introduced him to Dwayne Dantès.</p>
+<p>Actually, I know him... Klein looked at Luke and nodded with a smile.</p>
+<p>To him, Luke Sammer was a rather staid, professional gentleman. He enjoyed machinery and was a very gentlemanly person at banquets. He didn&#x27;t belittle the poor detective who had yet to make a name for himself, not did he deliberately curry favor with the few mid-ranking civil servants of the Backlund municipal department that lived on Minsk Street.</p>
+<p>&quot;This is my friend, Dwayne Dantès. He&#x27;s interested in anthracite and high-quality charcoal. Help me give him a detailed explanation,&quot; Mary said to Luke.</p>
+<p>Luke, who had been informed ahead of time, took a step forward and looked at the tycoon from Desi Bay. He gave a warm smile and said respectfully, &quot;Mr. Dantès, this is the Coim Company&#x27;s headquarters... We have long-term agreements with several anthracite mines... We supply Cherwood, Hillston, North, and West Borough with anthracite and high-quality charcoal, satisfying 30% of their overall demand. We also have the chance of clinching a huge contract with the navy...&quot;</p>
+<p>I&#x27;ve never seen Luke with such an expression... Klein followed him around Coim Company with an unperturbed expression as he listened to Luke introduce the various areas. From time to time, he would inquire without expressing his attitude. Half an hour later, they went up to the second floor and entered a huge meeting room.</p>
+<p>The place was already set up with tables clinging close to the walls. Plates of food were randomly placed on them, with mainly ham, smoked meat, sausages, bread, salad, cakes, pudding, and other cold dishes. However, there were a few hot dishes.</p>
+<p>Just as he stepped in, Dwayne Dantès was introduced to two men who were talking close to Mary.</p>
+<p>&quot;This is Reporter Mike Joseph from the Daily Observer. This is an excellent surgeon, Dr. Aaron Ceres. In Backlund, you will often need them.&quot;</p>
+<p>As Klein listened to Mary, he smiled at the two gentlemen, the corners of his lips nearly twitching.</p>
+<p>These are all friends I&#x27;m very familiar with! Well, I&#x27;m even more familiar with the fetus in the womb of Aaron&#x27;s wife. Hmm, why does that sound wrong... As Klein lampooned, he patiently waited for Mary to introduce Dwayne Dantès to the two men before politely greeting Mike and Aaron.</p>
+<p>Mike Joseph didn&#x27;t look much different from last year. He had thin brows, rough skin, and charming blue eyes. As for Aaron Ceres, although he was intrinsically a cold and reserved person, he didn&#x27;t make it obvious. Everything that happened in the recent half-year had been smooth for him. In terms of mood and confidence, he was riding a high.</p>
+<p>Upon hearing that Dantès was a tycoon from Desi, Mike took out his name card and handed it over with a smile. &quot;You don&#x27;t mind me advertising, right?</p>
+<p>&quot;If you wish to publish an advertisement, find me. Be it the Daily Observer or the Tussock Times, I can provide you with a discounted price.&quot;</p>
+<p>As he spoke, Mike winked, indicating that he was joking.</p>
+<p>You are nothing but a reporter with all these fake identiﬁcation documents... Why didn&#x27;t you mention the discount price advertisements to Sherlock Moriarty in the past? You were looking down on the detective, were you? Klein lampooned and exchanged name cards with him.</p>
+<p>&quot;I&#x27;ve always had such needs.&quot;</p>
+<p>Following that, he turned to Aaron and handed another name card to him.</p>
+<p>&quot;I was recently ill and recovered only recently. I&#x27;m very aware of how important a doctor is.&quot;</p>
+<p>&quot;I&#x27;m a surgeon, so I believe you wouldn&#x27;t wish to meet me that much.&quot; Despite saying so, Aaron still received the name card.</p>
+<p>No, I&#x27;d love to meet you. I even wish to join the party of your child&#x27;s birth... Klein mumbled, deliberately leading the conversation to the field of medicine and having a good conversation with Mike and Aaron.</p>
+<p>He had previously been stressing over how to close ties with Aaron to reestablish connections with a particular unborn fetus. After all, the paper crane was about to tear at any moment, making it unusable for even one more attempt. As for Sherlock Moriarty, it was difficult for him to openly appear in Backlund to pay Aaron a visit, much less participate in the birth party.</p>
+<p>There aren&#x27;t any problems now. With Ma&#x27;am Mary&#x27;s introduction, I can very naturally get close to Aaron. When the time comes, I&#x27;ll deﬁnitely be invited. Hehe, I might even be made the godfather of a particular Snake of Mercury; after all, we are all believers of the Goddess... Will this make a particular fetus angry?... I&#x27;d better be careful. I deﬁnitely wouldn&#x27;t mention this unless Aaron mentions it... Klein thought in delight.</p>
+<p>He skillfully held himself back without appearing overly passionate on their first meeting. After a simple chat, he was introduced to the other guests by Mary.</p>
+<p>During this process, Klein didn&#x27;t forget to get some food and water, making him appear to easily adapt himself to the environment.</p>
+<p>After completing a round, Mary stopped and said after some deliberation, &quot;Everyone here is my friend.&quot;</p>
+<p>This means that you didn&#x27;t invite anyone from the other camp, and you are also including me as your friend? Klein nodded gently.</p>
+<p>&quot;I probably shouldn&#x27;t ask as a gentleman, but as a businessman, I need to know who is the person, or who are the people, vying for the Coim Company&#x27;s controlling share rights?&quot;</p>
+<p>Mary fell silent for two seconds. &quot;Baron Syndras and his friends. They wish to publicly list the Coim Company and earn the sky-high evaluation that will eventually happen. They&#x27;re completely unconcerned with the company&#x27;s future development.&quot;</p>
+<p>Baron Syndras, one of the richest men in Loen. By donating to the Conservative Party, he became an aristocrat and is a banker, factory owner, and a powerful businessman... It&#x27;s hard to tell where he stands, so even though he relied on the Conservative Party to obtain his aristocratic title, he&#x27;s more aligned with the New Party while being biased towards merchants... Klein thought and asked with a smile, &quot;Why didn&#x27;t you get that Mr. Hall to help? His father is a powerful noble and banker. He should be able to provide you with the necessary help.&quot;</p>
+<p>Mary said with a wry smile, &quot;Mr. Hall doesn&#x27;t wish to involve himself in this matter. He claims to be the chief secretary of the National Atmospheric Pollution Council, so he can&#x27;t be involved in commercial activities that deal with anthracite or charcoal.&quot;</p>
+<p>A man whose true ambitions lie in politics... However, he probably doesn&#x27;t wish to be at odds with Baron Syndras... Heh heh, if I were to choose another butler back then, I&#x27;d likely have established ties with Baron Syndras... He&#x27;s so rich, so if he really wants to raise the price, I wouldn&#x27;t be able to beat him... Heh, will a trope of him using money to crush me appear... Klein didn&#x27;t ask further as he said, &quot;I will wait for the investigation report.&quot;</p>
+<p>Realizing that Dwayne Dantès wasn&#x27;t directly backing out, Mary said with slight gratitude, &quot;In this age, chivalrous people are already few and far between. You are one of them.&quot;</p>
+<p>Klein smiled without promising anything. After the buffet was over, he began returning to North Borough on his high-end four-wheeled carriage. As he daydreamed while looking out the window, Klein suddenly said to Richardson, &quot;Turn towards Saint Samuel Cathedral.&quot;</p>
+<p>He had failed to figure out the exact answer to the reason for the anomaly in the cathedral which was later quelled. This made him wonder if he should find a chance to make contact with the Keepers.</p>
+<p>He also remembered that every afternoon, there would at least be a Keeper who prayed to the Goddess in the prayer hall.</p>
+<p>How should I make contact? In that environment, even a conversation will appear noisy... And this will easily incur the suspicion of others... Klein frowned slightly as he decided to observe before coming up with a solution.</p>
+<p>The carriage didn&#x27;t change direction as it continued driving towards Böklund Street, but it didn&#x27;t stop and instead continued past it.</p>
+<p>Inside the carriage, Klein closed his eyes to calm his slightly anxious feelings.</p>

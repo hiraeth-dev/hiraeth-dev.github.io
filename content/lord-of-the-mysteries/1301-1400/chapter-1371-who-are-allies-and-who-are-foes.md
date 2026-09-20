@@ -1,0 +1,64 @@
++++
+title = "Chapter 1371: Who are Allies and Who are Foes"
+weight = 1371
+[extra]
+chapter = 1371
++++
+
+<p>Bayam, inside the Church of the Sea God.</p>
+<p>After the Mass, Alger Wilson returned to his room and saw a figure appear by the window.</p>
+<p>It was Gehrman Sparrow in a top hat and trench coat.</p>
+<p>Without waiting for Alger to speak, Klein took two steps forward and solemnly said, &quot;I have come under Mr. Fool&#x27;s orders.&quot;</p>
+<p>He habitually acted as the Attendant of Mysteries.</p>
+<p>Alger immediately lowered his head and pressed his right hand to his left chest.</p>
+<p>&quot;Praise Mr. Fool.&quot;</p>
+<p>Klein nodded slightly and took out an item from the junk pile of Sefirah Castle.</p>
+<p>Alger&#x27;s eyes immediately reflected a short scepter made of bones.</p>
+<p>The tip of the scepter was embedded with tiny blue gems. A small number of them were dyed black, and a small number was covered in the light of dawn. Around it were countless pure points of light, and the sounds of illusory prayers emitted from it, stacked and holy. Alger&#x27;s eyes widened as he couldn&#x27;t help but reveal a hint of greed.</p>
+<p>As a Sequence 4 demigod of the Sailor pathway, he was extremely certain that the white bone scepter before him was the symbol of the Sea God&#x27;s identity, level, and strength.</p>
+<p>As he endured the slight dizziness from the prayers, he cast his gaze at The World Gehrman Sparrow, waiting for the deity&#x27;s attendant to speak.</p>
+<p>Klein raised the Sea God Scepter with one hand and said with a solemn expression, &quot;This is Mr. Fool&#x27;s gift and a sign of trust, as well as a reward for protecting a large number of believers.</p>
+<p>&quot;No matter what happens in the future, you are to keep following Mr. Fool&#x27;s instructions and do your best to complete the missions ‘He&#x27; gives.&quot;</p>
+<p>&quot;...&quot; Alger acutely sensed the hidden meaning.</p>
+<p>He suspected that Mr. Fool would encounter something in the future, causing &quot;Him&quot; to suffer injuries or enter a nadir state.</p>
+<p>At the thought that he had already left the Church of Storms and had no way out, Alger pressed his right hand to his left chest and replied loudly, &quot;My faith lies only with Mr. Fool!&quot;</p>
+<p>Upon seeing this, Klein secretly nodded before repeating what he had said to Miss Justice and Miss Judgment.</p>
+<p>This made Alger heave a sigh of relief. After all, knowing what might happen in the future was better than not knowing anything.</p>
+<p>Without hesitation, he repeated his words in a serious tone.</p>
+<p>Klein handed the Sea God Scepter to him.</p>
+<p>&quot;You should get used to this Sealed Artifact and the daily life as a Sea God. Once you finish digesting the Cataclysmic Interrer potion, use it to concoct the potion. The prior acting will reduce the difficulty of advancing.&quot;</p>
+<p>In fact, Klein could now remove the &quot;Grafting&quot; and transfer the concept of &quot;Sea God&quot; which was directed at him and Sefirah Castle to Alger, allowing him to directly become half a Sea God. It would allow him to better adapt to his identity and better act in advance.</p>
+<p>However, considering how he was about to accommodate The Fool&#x27;s Uniqueness, he needed sufficient anchors to balance the consciousness of the Celestial Worthy&#x27;s awakening. He couldn&#x27;t be missing the Sea God&#x27;s believers. Klein decided to wait until his condition had stabilized before completely transferring everything that was related to Sea God.</p>
+<p>Currently, Alger was an attendant more suitable to wield the authority, helping the deity listen and respond to prayer without enjoying the corresponding anchors and identity. The Sea God Scepter&#x27;s owner was still Klein, as everything still pointed at him. This was the miraculous use of &quot;Grafting.&quot;</p>
+<p>Alger suppressed his excitement and joy as he answered Gehrman Sparrow sincerely and received the Sea God Scepter. Then, he deliberated and asked, &quot;What negative effects does this Sealed Artifact have?&quot;</p>
+<p>&quot;Mr. Fool has already applied certain seals to it. The negative effects of the Sea God Scepter have been greatly reduced,&quot; Klein said simply. &quot;It will only make the wielder more irritable and cause the spirit to be in a certain state of chaos. In addition, it will drain the blood of the surrounding creatures every month. You can fly to the sea or an uninhabited island ahead of time.&quot;</p>
+<p>That&#x27;s still manageable... Alger secretly heaved a sigh of relief before asking what Beyonder powers the scepter had.</p>
+<p>After Klein briefly described it, he vanished.</p>
+<p>...</p>
+<p>In the ancient palace above the fog.</p>
+<p>After finishing the additional preparations, Klein sat on The Fool&#x27;s chair and conjured a piece of goatskin and a dark red fountain pen. He began analyzing the possible developments at the main peak of the Hornacis mountain range when he faced the Antigonus family&#x27;s ancestor.</p>
+<p>If everything goes smoothly, and I enter the ﬁnal stage of accommodating The Fool&#x27;s Uniqueness, the Goddess will deﬁnitely have to remove the Concealment. This is because this is the only way to allow the region to interact with reality, allowing fate to connect, thus achieving the effect of fooling fate.</p>
+<p>From Mr. Door&#x27;s apotheosis ritual, the commotion caused by accommodating a Uniqueness is deﬁnitely not trivial. Once it&#x27;s not concealed, this matter will deﬁnitely be detected by the other deities. Furthermore, those who are concerned about this matter must&#x27;ve been watching the main peak of the Hornacis mountain range recently. Once there are any changes there, &quot;They&quot; will immediately know.</p>
+<p>In such a situation, there&#x27;s no doubt that there will be interference, destruction, assistance, and support. It&#x27;s very important to ﬁnd out who the foes and allies are. Otherwise, there&#x27;s no way to make targeted preparations.</p>
+<p>The Goddess is deﬁnitely on my side. If &quot;She&quot; were an enemy, I would&#x27;ve been concealed countless times. It&#x27;s impossible for me to grow to this level. To put it simply, &quot;She&quot; had many opportunities to sell me out. Furthermore, &quot;She&quot; could sell it at a very good price previously. Furthermore, to &quot;Her,&quot; it wouldn&#x27;t affect &quot;Her&quot; ability to support who becomes the Lord of the Mysteries. That&#x27;s why &quot;She&quot; can make a decision based on &quot;Her&quot; preferences. Adam is currently unable to bypass the seal and obtain the River of Eternal Darkness.</p>
+<p>The ones who do not wish for Amon to become the Lord of the Mysteries the most are the Eternal Blazing Sun, the Lord of Storms, and the God of Knowledge and Wisdom. Once someone attempts to destroy my ritual to accommodate The Fool&#x27;s Uniqueness, &quot;They&quot; would deﬁnitely help me and directly provide help.</p>
+<p>Apart from these four true deities, the remaining Sequence 0s are:</p>
+<p>Visionary Adam and the True Creator are Amon&#x27;s father. The probability of helping &quot;Him&quot; is deﬁnitely higher than &quot;Them&quot; being on the sidelines; Earth Mother has placed a bet on me through Emlyn, but it&#x27;s not necessarily the case that &quot;She&quot; would deﬁnitely help me at the critical moment. To &quot;Her,&quot; waiting patiently for the outcome when there are no interests at play is the best choice. The Primordial Demoness&#x27;s condition is odd. It&#x27;s possible for &quot;Her&quot; to make any choice. The attitude of the God of Steam and Machinery is ambiguous. It&#x27;s more likely for &quot;Him&quot; to remain neutral or privately make a deal with Amon and Adam. I don&#x27;t have any chips to move &quot;Him.&quot;</p>
+<p>Other than these true deities, there are some uncommon Sequence 0s or the consciousnesses in existence that are nearly at Sequence 0.</p>
+<p>The Lord of the Abyss, also known as the Dark Side of the Universe, is suspected to have been invaded by the Mother Tree of Desire. &quot;He&quot; would occasionally respond to the prayers of the Blood Sanctify Sect. It has been a long time since &quot;He&quot; exerted any inﬂuence on the real world. Likewise, the Chained God is in a similar situation.</p>
+<p>What &quot;They&quot; will do will only depend on the Mother Tree of Desire&#x27;s thoughts. And to the Outer Deities, delaying the birth of a Lord of the Mysteries should be a consensus. Under such circumstances, stopping me from being able to accommodate The Fool&#x27;s Uniqueness will only cause me to be at an absolute disadvantage in the competition with Amon, allowing the competition to quickly determine a winner.</p>
+<p>The most plausible strategy of the Mother Tree of Desire is tacit consent. &quot;She&quot; might even help me to accommodate The Fool&#x27;s Uniqueness, preventing the scale between me and Amon from tilting. After that, &quot;She&quot; will repeatedly destroy our inclinations and attempts to converge, delaying the birth of the Lord of the Mysteries to the apocalypse.</p>
+<p>The Red Angel evil spirit deﬁnitely hasn&#x27;t recovered to the level where &quot;He&quot; can be involved in such matters. The Hidden Sage is very mysterious, making it difﬁcult to guess &quot;His&quot; thoughts, but &quot;He&quot; should know that I am hostile towards &quot;Him.&quot; At this point in the analysis, Klein made a conclusion:</p>
+<p>&quot;Allies: The Evernight Goddess, Lord of Storms, Eternal Blazing Sun, and the God of Knowledge and Wisdom:</p>
+<p>&quot;Foes: Visionary Adam, True Creator, and Mr. Error Amon.</p>
+<p>&quot;Neutral with tendencies to support me: Earth Mother, Dark Side of the Universe, and Chained God.</p>
+<p>&quot;Neutral with tendencies to support Amon: Hidden Sage.</p>
+<p>&quot;Neutral and ambiguous attitudes: Primordial Demoness, God of Steam and Machinery.&quot;</p>
+<p>Yes, I&#x27;ll ignore how far Adam and the True Creator have fused. I&#x27;ll consider the worst-case scenario. I&#x27;ll treat &quot;Them&quot; as the ancient sun god and treat them as a dual-pathway Sequence 0 true god... The Goddess has the Uniqueness of the Twilight Giant and Death. Although &quot;She&quot; hasn&#x27;t accommodated them, &quot;She&quot; has some level of control of them using that bird-shaped, golden accessory as a medium. Even if &quot;She&quot; can&#x27;t compare to the ancient sun god, she can deﬁnitely stall &quot;Him&quot;...</p>
+<p>I&#x27;ll also consider Amon as a dual-pathways Sequence 0 true god. At least two of the Lord of Storms trio have to be diverted to have a chance to fend &quot;Him&quot; off... From the surface, I still hold a certain advantage... Klein looked at the content listed on the piece of paper as he thought silently.</p>
+<p>However, this advantage didn&#x27;t consider the neutral factions. Klein tapped the edge of the long mottled table and considered the worst situation.</p>
+<p>The Primordial Demoness, Hidden Sage, and God of Steam and Machinery might all choose to help Amon based on their own secret dealings or &quot;Their&quot; morality.</p>
+<p>This way, even if Earth Mother participated in the battle, Klein&#x27;s side would be at a disadvantage. The God of Steam and Machinery and the other god from the omnipotent and omniscient pathway would cancel out each other. The Primordial Demoness would hold back the Earth Mother, who had just taken back the Uniqueness of The Moon. The Hidden Sage would face the Universe&#x27;s Dark Side and the Chained God which were controlled by the Mother Tree of Desire—the powers that the Outer Deities could sneak into the world were extremely limited. This gave the Hidden Sage a likely advantage.</p>
+<p>Furthermore, this cancellation was a calculation based on ideal conditions. In reality, under the chaotic situation, Amon, who was in charge of the &quot;Error&quot; authority, could play many tricks. It was possible that &quot;He&quot; would be able to find weaknesses in an instant and bypass the obstacles, causing Klein&#x27;s ritual to fail and make him lose control on the spot. In addition, some deities who supported Klein on the surface might turn to help Amon due to reasons he wasn&#x27;t aware of.</p>
+<p>As for the Sealed Artifacts that could change the power balance between the deities, Klein didn&#x27;t know much about them and wasn&#x27;t able to make an analysis.</p>
+<p>Heh, I didn&#x27;t expect that there would be a day when I ﬂeeced the Mother Tree of Desire. Yes, I have to make some preparations for the worst-case scenario to prevent things from developing in this direction. Klein dispersed the paper and fountain pen in front of him and cast his gaze at a particular prayer light. His figure vanished from Sefirah Castle and appeared on Bernadette&#x27;s Dawn.</p>

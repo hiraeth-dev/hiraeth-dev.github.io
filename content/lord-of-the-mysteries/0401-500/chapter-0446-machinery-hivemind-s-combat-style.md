@@ -1,0 +1,82 @@
++++
+title = "Chapter 446: Machinery Hivemind’s Combat Style"
+weight = 446
+[extra]
+chapter = 446
++++
+
+<p>In an instant, Klein switched to his unfathomable state as &quot;The Fool who overlooked everything.&quot; He nodded and said, &quot;Not bad.&quot;</p>
+<p>Ahead of him, the river surged, and the white words squirmed and changed before taking shape again.</p>
+<p>&quot;What follows is the exploration process your loyal servant, Arrodes, has recorded. You can choose to speed up or skip certain scenes at any time.&quot;</p>
+<p>This sentence froze for two seconds, and then the scene abruptly zoomed in. Klein instantly appeared beside Ikanser Bernard, but no one noticed him.</p>
+<p>He looked around and felt that he was surrounded by living people with lifelike scenes. Nothing about his surroundings looked unreal, making him feel as if though he was there in person.</p>
+<p>I can even speed up or skip certain scenes... The original form of this mirror, Arrodes, is a virtual reality family cinema... Klein couldn&#x27;t help but lampoon.</p>
+<p>He took another look at the Machinery Hivemind members and saw that it was led by an old man in white priest robes and a cleric cap. His face was unusually kind, and his expression was calm and gentle.</p>
+<p>&quot;Your Grace, everyone is ready,&quot; Ikanser approached the elder and said with a bow. Archbishop... This is the archbishop of the Church of Steam and Machinery&#x27;s Backlund diocese, the demigod, Horamick Haydn? The Machinery Hivemind really is cautious, and not careless...</p>
+<p>Who knows, they might have even brought along a Grade 1 Sealed Artifact and performed a divination in advance. After all, they&#x27;re in control of the Mystery Pryer pathway. Luckily, I can basically conﬁrm that the fog&#x27;s anti-divination or divination interference abilities are similar to the Cards of Blasphemy, allowing the result to be as ordinary as possible and the least bit suspicious; otherwise, certain matters might be exposed...</p>
+<p>However, there&#x27;s a certain probability that the meeting between Miss Sharron and I will appear, because, to me, that isn&#x27;t something harmful. It depends on whether a Wraith&#x27;s instinct to interfere with divination will affect the Machinery Hivemind&#x27;s attempt. Wait, the Machinery Hivemind is highly likely to have relied on Arrodes, and based on its performance from just now and previously, it isn&#x27;t impossible for him to curry favor with me by adding some mosaics... Klein thought in enlightenment.</p>
+<p>At this point, Horamick Haydn drew a triangular Sacred Emblem on his chest.</p>
+<p>&quot;Begin the operation. God will protect us.&quot;</p>
+<p>Nearly ten Beyonders headed down as Klein followed closely behind. He didn&#x27;t &quot;fast-forward&quot; at all.</p>
+<p>He had always been curious about the combat styles of Low-and Mid-Sequence Beyonders of the Machinery Hivemind, and he wanted to take this opportunity to experience it.</p>
+<p>In addition, he was also greatly concerned about how a demigod really did in combat, as well as the secrets hidden in the Amon family tomb.</p>
+<p>After being ransacked by time, in a period spanning one or two thousand years, the black marble staircase still retained its hardness without any signs of corrosion. The Machinery Hivemind members followed it all the way underground, where they saw the unique asymmetrical stone pillars and axe-and-blade scuffing from the period of the Fourth Epoch.</p>
+<p>The pillars stood on either side of the wide road, and in front of them was a large, heavy, dark gray stone double door.</p>
+<p>The stone door had already cracked open, wide enough for two people to walk alongside each other. It was completely dark inside.</p>
+<p>The Machinery Hivemind members were in no hurry to enter. They carefully searched the surrounding area with lanterns, but they found nothing of value.</p>
+<p>&quot;According to the plan, the first group will begin with a preliminary clean-up.&quot; With the archbishop&#x27;s approval, Ikanser pushed down his hat, compressing his fluffy hair.</p>
+<p>Clean-up? By the side, Klein ruminated over the word.</p>
+<p>Amidst his puzzlement, the two strongest and burliest male Machinery Hivemind team members each laid down a long black box on their backs and opened them up.</p>
+<p>Inside one long box was a sturdy, heavy, iron-black cannon-shaped object. Its surface was engraved with dense and arcane patterns. In the other box was a complex and exquisite firearm with a chain of pale golden bullets inserted into it.</p>
+<p>One of the two team members carried the cannon-shaped object and trudged to the open stone door.</p>
+<p>Another Machinery Hivemind member picked up the peculiar gun, adjusted the bullet chain, and followed slightly behind.</p>
+<p>After the two of them glanced at each other, the cannon-shaped object on the former&#x27;s shoulder rapidly lit up, outlining burning patterns and imprints before a loud salvo.</p>
+<p>Boom!</p>
+<p>A golden fireball, akin to a miniature sun, flew out from the &quot;cannon barrel&quot; and into the darkness.</p>
+<p>Boom!</p>
+<p>The ground trembled slightly, and intense light was emitted from the crack.</p>
+<p>The body of the Machinery Hivemind member, who was holding onto the &quot;cannon barrel,&quot; clearly sank a little as his feet trembled.</p>
+<p>Boom! Boom! Boom!</p>
+<p>He repeatedly used the Beyonder weapon to launch one golden &quot;cannonball&quot; after another at different spots, causing the tomb to sway without a speck of dust falling. After he came to a stop, the team member with the peculiar gun stepped forward and pulled the trigger.</p>
+<p>Da! Da! Da! Da! Da!</p>
+<p>The sound of machine-gun fire echoed as one pale golden bullet after another flew out, purifying the danger in the depths of the darkness.</p>
+<p>...Isn&#x27;t this the bombardment effect I&#x27;ve always wanted? Furthermore, they&#x27;re using Beyonder expendables like purifying bullets and exorcism cannonballs... How extravagant! Is this the combat style of the Machinery Hivemind? Klein&#x27;s stared with his eyes wide open and his mouth slightly agape.</p>
+<p>After the series of savage bombardments, Ikanser raised his voice above the rumbling echoes and said, &quot;Group two, do the follow-up clean-up.&quot;</p>
+<p>There&#x27;s more... Klein felt a little numb from what was happening.</p>
+<p>The second group was also made up of two team members who used scrolls made of different kinds of leather.</p>
+<p>They chanted simplified incantations, activated the scrolls, and tossed them inside.</p>
+<p>The construct behind the stone door was suddenly shrouded by gentle and pure light. Droplets of golden holy rain pattered down, &quot;cleansing&quot; everything in the area. Klein looked at this scene and suddenly found it somewhat ridiculous.</p>
+<p>Wait, aren&#x27;t you guys here to engage in archaeological studies? Aren&#x27;t you professional &quot;archaeologists?&quot; Aren&#x27;t you afraid that the tomb would collapse from using such clean-up methods?</p>
+<p>While these thoughts flashed through his mind, the second team was done, and they shouted at Ikanser, &quot;Deacon, as expected, the construct&#x27;s structural integrity hasn&#x27;t been destroyed.&quot;</p>
+<p>They were clearly prepared.</p>
+<p>&quot;Alright, continue forward.&quot; Ikanser gave the order.</p>
+<p>Klein walked in the middle, through the stone door, and saw piles of dirt and debris on the ground. It was impossible to tell what kind of monsters had once been active here, and no one could guess the functions of the mechanisms that had been set up here.</p>
+<p>After these &quot;cleaning up&quot; procedures, as long as one didn&#x27;t dodge in advance, no Beyonder below that of High-Sequence Beyonders would be able to withstand it... Klein once again gained a deeper understanding of what the aesthetic of violence was like and what it meant to be simple, direct, and unreasonable.</p>
+<p>In what followed, the previous scenes were repeated over and over again. The Machinery Hivemind team members smoothly approached, exploring one area after another, occasionally harvesting some Beyonder characteristics that were beginning to gather. &quot;There are no murals...&quot; Seeing the main tomb chamber in sight, the archbishop of the Church of the God of Steam, Horamick Haydn stopped and muttered to himself in puzzlement.</p>
+<p>Klein, who was considered half a historian, was equally puzzled.</p>
+<p>Generally speaking, a noble family member&#x27;s grave would more or less express their position and honor when they were alive.</p>
+<p>And when a grave became a tomb or even a mausoleum, it was very common for a mural to be used to describe its master&#x27;s life when it possessed enough space. In even older and more obscure eras, this wasn&#x27;t rare, and it was even the most common method—the first thing humans learned was drawings, not writing.</p>
+<p>Thus, it really was a little strange that there were no similar murals in the tomb of a Fourth Epoch noble family.</p>
+<p>Upon hearing the archbishop&#x27;s question, Ikanser immediately ordered the men to spread out in groups of two to search the vicinity for relevant traces of murals.</p>
+<p>Watching from the sidelines, Klein couldn&#x27;t help but want to &quot;fast forward&quot; a little to immediately see the outcome.</p>
+<p>At that moment, he noticed that the two Machinery Hivemind members in the left corner had suddenly turned into three!</p>
+<p>One of them looked identical to Ikanser Bernard, his fluffy hair propping his hat high. This... Klein was first stunned before he made a guess.</p>
+<p>The moment he had the thought, Ikanser walked over to the team member closest to him.</p>
+<p>&quot;Any discoveries?&quot; He cleared his throat and lowered his voice.</p>
+<p>The team member turned around warily, but immediately relaxed when he saw that it was Deacon Ikanser.</p>
+<p>&quot;No...&quot; Before he could finish his sentence, the &quot;Ikanser&quot; in front of him suddenly turned into a piece of human skin and enveloped his body.</p>
+<p>The pale human skin tightly wrapped around him, and his face began to form the outline of his facial features. During this process, there were no additional sounds, nor were there any abnormal movements that were triggered.</p>
+<p>All of a sudden, the human skin began to emit rays of light, just like the rising of the sun!</p>
+<p>The human skin immediately turned translucent and quickly soared into the air as if it was being burned.</p>
+<p>A black whip immediately lashed out, striking its body, causing its movements to clearly slow down.</p>
+<p>In such a battle, slowness was an &quot;Original Sin.&quot; One Beyonder weapon after another, burning scrolls, and pale golden bullets were released towards the human skin. After a brilliant burst of light, countless ashes fell from the sky.</p>
+<p>All of them coruscated faint light and slowly &quot;struggled&quot; to gather together.</p>
+<p>It really is a Human-skinned Shadow... Klein turned his attention to the Machinery Hivemind members who had just been attacked.</p>
+<p>The man pulled at his collar and pulled out a protective charm. There were many symbols and magic labels related to the sun on it.</p>
+<p>&quot;Thankfully, the archbishop got us to wear these things!&quot; he held the lantern and sincerely praised.</p>
+<p>It was only then that Klein realized that his brooch had the quality of the night, his ring had the intensity of the storm, and his belt exuded the sense of physical strength...</p>
+<p>Although they aren&#x27;t all mystical items, most of them are in the category of charms and Beyonder weapons. Even if their effects will quickly decline, they&#x27;re still worth a lot! If you weren&#x27;t an Artisan or a rich Beyonder, there&#x27;s no way to gather that much... Is this the combat style of the Machinery Hivemind? Burning money... Klein felt a sudden setback, and it took him a long time to recover.</p>
+<p>At that moment, the Human-skinned Shadow characteristic gathered and took form. It was like a huge diamond with countless sides reflecting light, and each side reflected a different face. The faces were densely packed, layered, and left one dizzy.</p>
+<p>I&#x27;m just short of it... Klein was overjoyed.</p>
+<p>After the Machinery Hivemind handled the spoils, they continued to search for the murals, but they didn&#x27;t find any traces of them.</p>
+<p>They had no choice but to gather again and head for the passageway that led to the main tomb.</p>

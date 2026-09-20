@@ -1,0 +1,48 @@
++++
+title = "Chapter 800: Psychologically Becoming “Better”"
+weight = 800
+[extra]
+chapter = 800
++++
+
+<p>Who is it? Who is the one speaking? Klein&#x27;s muscles tensed up as he nearly opened his eyes.</p>
+<p>At that moment, his back oozed with sweat that soaked his shirt.</p>
+<p>What he was most alarmed of wasn&#x27;t the words said, but that it directly sounded in his heart and had modulated the voice to sound exactly like his.</p>
+<p>Although I maintained my lucidity in that dream, I still had my Spirit Body tainted by his psyche that was on the verge of losing control? Or is someone using that Keeper to pass me a message? Countless guesses ran through Klein&#x27;s mind. Finally, combining the contents of what was said and his own situation, he came up with a preliminary judgment.</p>
+<p>The number of people who knows about my identity as Klein Moretti is few to begin with. Likewise for those who know that Klein Moretti had once sworn an oath while touching a Holy Artifact. Furthermore, there&#x27;s almost no intersection between the two.</p>
+<p>Mr. Azik had heard me mention the former matter before, but if he wants to give me any reminders, he can directly do it through a messenger. There&#x27;s no need to use such a frightening method... Will Auceptin might know; after all, he&#x27;s a Snake of Mercury who represents fate. But by the same logic, &quot;He&quot; can directly contact me... Of course, I can eliminate the possibility that he suddenly had the thought of frightening me. I just thought in the afternoon about having a chance of becoming his godfather... The Antigonus family&#x27;s notebook had corrupted the Keeper, just like how it used the Misfortune Cloth Puppet to deliver the symbol? But if it really is the Antigonus family&#x27;s notebook, why didn&#x27;t it just give me the potion formula directly? Or try negotiating with me to help in a Notebook Jailbreak... Saint Samuel Cathedral is the headquarters of the Backlund diocese, making it at a higher level than Saint Selena Cathedral. That notebook shouldn&#x27;t have the ability to do anything further. It should be securely sealed...</p>
+<p>Apart from them, there is only one entity who is aware of both matters—the Evernight Goddess. However, with a deity&#x27;s pride, &quot;She&quot; has no need to pretend to act as a passerby to call me out with a polite and estranged tone... I&#x27;m in Saint Samuel Cathedral, so all &quot;She&quot; needs to do is produce a revelation, and dozens of Beyonders will appear to mow me down. And as a diocese headquarters, with sufﬁcient preparation, they can probably disrupt Traveling; therefore, there&#x27;s no need to go through so much trouble...</p>
+<p>Hmm, there&#x27;s still one more person who&#x27;s aware of both matters...</p>
+<p>That&#x27;s myself!</p>
+<p>Before planning my operation, I&#x27;ve actually considered the corresponding problem. Back then, my conclusion was that I didn&#x27;t need to worry too much about it because only after advancing to Faceless will some of the gray fog&#x27;s powers enter the real world, allowing certain demigods to sense my uniqueness. Before this, only Beyonders from the Monster pathway could discover a tiny bit of my uniqueness, and back when I touched the holy sword and made that oath, I had yet to become a Clown...</p>
+<p>Just because of the secret connection established from the oath, it made the Goddess slowly sense something about me. It&#x27;s been so long, and I haven&#x27;t seen &quot;Her&quot; take any action... That female Angel, hmm... she should be an angel. She had even smiled at me when she wiped away Mr. A... Therefore, the Goddess might be happy to see me take away the Antigonus family&#x27;s notebook. Although I&#x27;m not sure of &quot;Her&quot; motives, I can only accept it and subsequently think of ways to deal with it at my current level. This is ultimately safer than climbing the main peak of the Hornacis mountain range... Of course, that&#x27;s built on the premise that the lady which wiped away Mr. A is an angel of the Church...</p>
+<p>Hmm... Although I had undergone all kinds of acting during the Faceless stage and got to know myself well, I&#x27;ve consumed additional potions without completely digesting them. And Marionettist requires every marionette to adhere to a speciﬁc persona. This also easily causes a personality dissociation... Also, to steal the Antigonus family&#x27;s notebook and to act as Dwayne Dantès, I&#x27;m under immense stress. I am subconsciously wavering and am suspicious... In this state, the Keeper&#x27;s corrupted psyche of nearly losing control had agitated my Spirit Body, causing me to have a split personality?</p>
+<p>Just as Klein thought of this, the familiar yet unfamiliar voice resounded in his mind again.</p>
+<p>&quot;Heh, your considerations are too idealized. All of your actions are fundamentally all thanks to luck. If that high-ranking deacon, Crestet Cesimir, with the holy sword was here in Backlund to handle Beyonder cases, can you guarantee that the holy sword wouldn&#x27;t sense you when you are in the same cathedral? Both of you are linked by an oath!&quot;</p>
+<p>If Deacon Cesimir were to come, I&#x27;ll abandon this plan... Besides, it&#x27;s also not possible to avoid it ahead of time. I&#x27;ll ﬁnd an excuse or reason to be out of town for some time... Klein mumbled inwardly.</p>
+<p>Then, he heard the voice belonging to himself sound in his mind: &quot;This makes it a situation prone to too many accidents and unpredictable developments.</p>
+<p>&quot;Before coming to the cathedral, didn&#x27;t you also not consider that the mere observation of Spirit Body Threads would result in a mutation?&quot;</p>
+<p>My nervousness back then was the anxiety that something happened beyond my expectations. However, as it&#x27;s a mere observation without me making any direct contact, I didn&#x27;t believe that there would be too great a problem. I should be more cautious in the future... Also, accidents and developments exist for everything... Who exactly are you? Klein closed his eyes as he pretended to focus on praying.</p>
+<p>The voice hesitated and said, &quot;I&#x27;m Klein. You are Zhou Mingrui.</p>
+<p>&quot;No, I&#x27;m Zhou Mingrui. You are Klein...&quot;</p>
+<p>Indeed... Klein felt his hair stand on end once again. He decided to leave Saint Samuel Cathedral immediately, return home, and resolve the problem of his character dissociation.</p>
+<p>When the symptoms ﬁrst appear, the situation is easier to resolve. Once the other personality stabilizes and becomes stronger, it will begin to snatch control of the body. I might even need external help when that happens!</p>
+<p>He opened his eyes and looked at Elektra with a tranquil expression.</p>
+<p>&quot;I feel like I&#x27;ve calmed down.&quot; Ever since I got a mental illness, my mind is a lot better... As he spoke, Klein inwardly gave a self-deprecating comment.</p>
+<p>He enjoyed lampooning, partially because it was in his character to do so, and partially to enforce his personality. It was ultimately to remind himself who he was, so as not to lose himself to his acting.</p>
+<p>Bishop Elektra smiled.</p>
+<p>&quot;May the Goddess bless you.&quot;</p>
+<p>As he spoke, he took a cup of water from a priest&#x27;s hand and passed it to Dwayne Dantès.</p>
+<p>Without any explanation needed, Klein knew that it was holy water. He often drank it in the past; hence, hiding his anxiety, he received it in a composed manner and downed it.</p>
+<p>A refreshing feeling slushed down his throat, jolting his mind as he became a lot more awake. Even the voice in his mind weakened.</p>
+<p>This has the effect of placating the Spirit Body... The Church does view Dwayne Dantès with great importance. Of course, this is created by their Beyonders... As Klein nodded at Bishop Elektra, he drew the sign of the crimson moon and staidly walked to the altar and donated fifty pounds into the donation box.</p>
+<p>After doing everything, he led Richardson and left the cathedral, riding the carriage back to Böklund Street. On his trip back, he didn&#x27;t feed the pigeons, because an ordinary person who had just encountered something would hardly have the peace of mind to do so.</p>
+<p>After returning home, the silent Klein used the excuse of an afternoon nap to dismiss his servants. In his master bedroom&#x27;s bathroom, he took four steps counterclockwise and headed above the gray fog.</p>
+<p>Passing through the roars and ravings, he didn&#x27;t feel his body be purified. He was increasingly certain that the voice in his mind originated from himself. It was a result of being corrupted and agitated, causing a character dissociation.</p>
+<p>Sitting in the high-back chair of The Fool, Klein immediately studied his Spirit Body&#x27;s situation. He discovered that there were some signs of chaos without it being pure. The corresponding aura colors were somewhat spotted.</p>
+<p>After seriously contemplating for two minutes and ignoring the echoing noise in his head, Klein conjured The World Gehrman Sparrow and made him devoutly pray:</p>
+<p>&quot;Honorable Mr. Fool... Please inform The Moon that I wish to rent the Mental Terror Candle for half a day. I know he has the means of obtaining it...&quot;</p>
+<p>Very early on, his identity as The World had been prepared for Sherlock Moriarty, so Klein wasn&#x27;t worried about it.</p>
+<p>...</p>
+<p>South of the Bridge, Harvest Church. Emlyn White, who was anticipating his obtaining of Lilith&#x27;s Ring in the evening, suddenly saw the endless gray fog and heard The World.</p>
+<p>Alarmed, he muttered in silence, How does he know that I can get the Mental Terror Candle?</p>

@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<nav class="back-link wrap">
+  <a href="/#notes" class="back-btn">&larr; ~/novels</a>
+</nav>
+
+<div class="novel-hero wrap">
+  <div class="terminal novel-hero-terminal">
+    <div class="terminal-bar">
+      <span>BOOK {{ section.extra.book_number | default(value=1) }}</span>
+      <div class="terminal-dots">
+        <span class="dot dot-red"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-cyan"></span>
+      </div>
+    </div>
+    <div class="terminal-body novel-hero-body">
+      <div class="novel-hero-head">
+        <h1 class="novel-hero-title">{{ section.title }}</h1>
+        <div class="novel-hero-badges">
+          <span class="section-badge">{{ section.subsections | length }} books</span>
+          <span class="section-badge badge-accent">1430 chapters</span>
+        </div>
+      </div>
+      {% if section.extra.summary %}
+      <div class="novel-hero-quote">
+        <span class="quote-sym">&ldquo;</span>
+        <p class="quote-text">{{ section.extra.summary }}</p>
+      </div>
+      {% endif %}
+      {% if section.content %}
+      <div class="novel-hero-desc">
+        {{ section.content | safe }}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<section class="chapter-list wrap">
+  <div class="section-header">
+    <h2 class="section-heading"><span class="heading-sym">~/</span>books</h2>
+    <div class="section-line" aria-hidden="true"></div>
+    <span class="section-badge">{{ section.subsections | length }} books</span>
+  </div>
+  <div class="chapter-grid">
+    {% for sub in section.subsections | sort %}
+      {% set vol = get_section(path=sub) %}
+      <a href="{{ vol.path | safe }}" class="chapter-card">
+        <div class="chapter-card-top">
+          <span class="chapter-num">BOOK {{ loop.index }}</span>
+          <span class="chapter-arrow">&nearr;</span>
+        </div>
+        <div class="chapter-card-title">{{ vol.title }}</div>
+        {% if vol.pages %}
+          <div class="chapter-card-meta">{{ vol.pages | length }} chapters</div>
+        {% endif %}
+      </a>
+    {% endfor %}
+  </div>
+</section>
+{% endblock content %}

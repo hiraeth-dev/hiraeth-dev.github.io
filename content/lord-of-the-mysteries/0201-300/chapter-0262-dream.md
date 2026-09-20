@@ -1,0 +1,65 @@
++++
+title = "Chapter 262: Dream"
+weight = 262
+[extra]
+chapter = 262
++++
+
+<p>In the cold and gloomy hall, Klein suddenly shivered. He retracted his gaze and said to Miss Bodyguard, &quot;Let&#x27;s return.&quot;</p>
+<p>From the way Azik&#x27;s copper whistle reacted, it&#x27;s likely that the room contains a terrifying evil spirit. Its danger level is highly likely to be above that of Marionettist Rosago and Vice Admiral Hurricane Qilangos... It&#x27;s been roaming these conﬁnes for centuries to thousands of years. Perhaps it&#x27;s already equivalent to a High-Sequence Beyonder. If it wasn&#x27;t for its experiencing difﬁculties in letting its powers escape the room, I would already be dead... Even if Miss Bodyguard is a powerful Sequence 5, there&#x27;s no hope of us turning the tides of battle with our powers combined... One needs to be aware of one&#x27;s strength. I cannot be enticed by the suspected Beyonder characteristics and mystical items left in there... Greed often leads to death... Klein silently came up with a reason to convince himself.</p>
+<p>Miss Bodyguard turned her head to look at him. Without much emotion in her eyes, she asked, &quot;What happens next?&quot;</p>
+<p>Next? Klein silently gritted his teeth and said with deliberation, &quot;Let Millet Carter get the police. Who knows when this evil spirit will escape. It&#x27;s best to finish it as soon as possible. No, that won&#x27;t work. Mr. Carter doesn&#x27;t know enough. By informing the police this way, the police department won&#x27;t pay enough attention to it. The first batch of people who come to explore this place will suffer heavy casualties, and they might even indirectly help the evil spirit escape from its restraints. Also, for me to see these statues, a detective like me might be silenced... Uh... Did you see the bones and spiritual light in the room?&quot;</p>
+<p>Miss Bodyguard once again cast her gaze towards the dark path behind the ajar stone door, and very slightly nodded her head. Klein thought quickly and said, &quot;My guess is that these are the corpses of the explorers from before. They were killed by the evil spirit in that room, and one of the Beyonders left behind some mystical items. This might have had something to do with the viscount family that lived beyond this premises. I plan to inquire about their last names, go to the library, and look for information about their descendants. Perhaps, I might gain some valuable clues.</p>
+<p>&quot;After coming to a preliminary confirmation of the situation, I&#x27;ll make a choice based on the severity of the situation. I might get some explosives, destroy the door, or send an anonymous letter to the police, detailing the existence of the evil spirit. However, I&#x27;ll have to think of a way to avoid the risk ahead of time.</p>
+<p>&quot;This isn&#x27;t too urgent. I can take my time.&quot;</p>
+<p>Miss Bodyguard quietly listened to what Klein had to say. Looking ahead, she said in an ethereal voice, &quot;Are you not considering to get people to exorcise this evil spirit?</p>
+<p>&quot;Even if there were no mystical items left behind, the remains after the evil spirit dissipates are still precious enough.&quot;</p>
+<p>It&#x27;s the ﬁrst time I&#x27;ve seen you talk so much... Probably... Klein replied without hesitation, &quot;The risk is too high. I think my life and health are more important.&quot;</p>
+<p>He organized his words and added, &quot;The most powerful person I know is you. And from your performance just now, you don&#x27;t seem to be a match for that evil spirit. I can&#x27;t imagine any other way of finishing it, other than calling the police.&quot;</p>
+<p>Miss Bodyguard turned around, her pale face somewhat translucent. &quot;You still have some sense,&quot; she commented calmly, then drifted toward the exit of the ancient hall.</p>
+<p>Other than being suspected to be under the True Creator&#x27;s inﬂuence, in what way do I look like a madman? Klein silently lampooned. He held the lantern and cane and followed behind Miss Bodyguard. Throughout the entire process, he felt as if he was being watched by the cold eyes of the dark corridor.</p>
+<p>It was only when they walked out of the stone door that suffused an ancient aura did the feeling suddenly disappear.</p>
+<p>Klein turned around and closed the door, sealing the inverted candlesticks, scuffed marks, and the creepy statues of the six deities, allowing them to continue their thousand-year-long &quot;slumber&quot; in that unchanging darkness and silence.</p>
+<p>Patting the dust off his clothes, he switched the lantern in his other hand and hurried back to Millet Carter&#x27;s basement. As for Miss Bodyguard, she had disappeared into thin air as usual.</p>
+<p>Millet Carter was pacing about in the basement. When he saw Klein exit, he hurriedly asked, &quot;How is it? What&#x27;s the situation inside?&quot;</p>
+<p>Klein had long thought of an excuse as he said with an expression of fear, &quot;Terrible, there are a lot of snakes in there, and many spots have collapsed. I plan to gather some information, gather some manpower, and once preparations are done, do another round of exploration. During this period of time, it&#x27;s best that you don&#x27;t send anyone in. Believe me, there are more venomous snakes in there than you can imagine.&quot;</p>
+<p>Millet drew a gasp and asked in fear, &quot;Will they slither out? &quot;Do you know any experts that can deal with the snakes?&quot;</p>
+<p>Klein immediately nodded. &quot;I&#x27;ll get people to help and try my best to deal with this matter. It&#x27;s the cold autumn now, and the snakes aren&#x27;t willing to move. As long as you don&#x27;t send anyone to disturb them, nothing will happen.&quot;</p>
+<p>&quot;Okay, please hurry. I&#x27;ll close this door and prevent anyone from entering.&quot; Hearing that, Millet relaxed a little.</p>
+<p>When Klein saw that his employer was truly intimidated by what he said, he quickly put down the lantern, nudged his gold-rimmed spectacles and said, &quot;Next up, I&#x27;ll gather some information. I&#x27;ll first gain a preliminary understanding of the layout of the underground structure before I explore it again.</p>
+<p>&quot;That requires you to tell me which viscount was the original owner of this house.&quot;</p>
+<p>Millet had bought this building precisely because it was an estate of a former noble, so he answered immediately, &quot;Viscount Pound.&quot;</p>
+<p>&quot;What do you know about him and his family?&quot; Klein asked in a professional manner.</p>
+<p>Millet pondered and said, &quot;Not much. I only know that he won his aristocratic title in the Battle of the Violated Oath. It once enjoyed an illustrious period, but decades later, suddenly declined due to unknown reasons. The family kept losing its heirs, causing it to eventually have to seek out distant relatives to keep the aristocratic title. And the new Viscount Pound is, heh heh. He squandered most of the family&#x27;s fortune, and he was demoted to baronet by the king. He&#x27;s probably still in Backlund and can go bankrupt at any moment.&quot; Battle of the Violated Oath? The Battle of the Violated Oath that began in 738 during the Fifth Epoch? Having successfully graduated as a history student, Klein instinctively recalled the corresponding knowledge.</p>
+<p>The war that happened about six centuries ago was a war involving religion. The southern Feynapotter Kingdom originally believed in both Earth Mother and the God of Knowledge and Wisdom, but due to some influencing factors, the two churches began to be at odds with each other, and their believers often clashed.</p>
+<p>During that period, its two neighbors in the north, the Loen Kingdom and the Intis Kingdom, seized the opportunity to start a war in the name of protecting freedom of religion. In the later stages of the war, the Feysac Empire joined the fray and attempted to destroy the ploy by Loen and Intis. However, they still failed to turn the situation around.</p>
+<p>The result of the war was that the border between Loen and Feynapotter, as well as Intis and Feynapotter, countries such as Lenburg, Masin, and Segar, gained independence. They mainly believed in the God of Knowledge and Wisdom, leaving the Church of Earth Mother as the only religion in the Feynapotter Kingdom.</p>
+<p>The conflict that lasted five years was called the Battle of the Violated Oath because both sides of the war accused their adversaries of violating the Holy Oath at the end of the Fourth Epoch.</p>
+<p>After that, there was more than 300 years of peace in the Northern Continent. This didn&#x27;t mean that there was no conflict between nations, but rather, there were no wars on that scale again. It lasted until Roselle invented the steam engine and improved the sailboats and artillery. This is the information recorded in the history textbooks... Thinking about it now, since it involved faith, there must&#x27;ve been some Beyonders from the Church involved. There must&#x27;ve been an intense Beyonder war... However, it&#x27;s said that that era was a period with few Beyonders... Squadron battles? Could the Pound family&#x27;s sudden waning and continuous loss of heirs, which happened decades ago, have something to do with the discovery of the ancient structure underground? Klein thoughtfully asked, &quot;Do you know where Baronet Pound currently lives?&quot;</p>
+<p>&quot;I&#x27;m sorry, I don&#x27;t know.&quot; Millet shook his head slightly.</p>
+<p>Klein asked a few more questions, but seeing that he couldn&#x27;t get any more information, he bade farewell and returned to 15 Minsk Street.</p>
+<p>It was almost five in the afternoon and the sky was as dark as the night. Klein thought that the public libraries would&#x27;ve be closed by then, so he temporarily put aside the underground structure and prepared dinner for himself.</p>
+<p>He had wanted to learn to make Feynapotter noodles based on a recipe in the newspapers, but he ended up with noodles mixed in meat, sauce, and vegetables. To his surprise, it tasted pretty good.</p>
+<p>After having had his fill, Klein tossed a coin casually, divining if he should inform the police. He received a negative answer.</p>
+<p>...</p>
+<p>The Backlund evening was as serene as other cities, at least in Cherwood Borough. Klein was sleeping soundly, wandering through different dreams in an adrift manner when he suddenly realized, with a jolt, that he was dreaming.</p>
+<p>Someone is invading my dreams? Klein resisted the urge to frown and pretended to look around in confusion.</p>
+<p>He found himself in a scorching yellow desert.</p>
+<p>A roar suddenly came from the sky, and a huge monster dyed in black and gold flew over.</p>
+<p>The creature had a thick, lizard-like body and a pair of wide wings covered in a hide on its back. It descended and blotted out the sun in the sky.</p>
+<p>A dragon! A powerful dragon! Klein saw scales the size of a plate, a gaping mouth that emitted pure light, and two dark golden vertical pupils.</p>
+<p>Roar!</p>
+<p>The dragon spat out a beam of light that seemed to envelop everything. Soon, large swaths of the desert was obliterated.</p>
+<p>Amid the light, a figure jumped into the air.</p>
+<p>He was three or four meters tall, but he didn&#x27;t have the unique vertical eye of the giants. He had a handsome, young face, and he wore black full-body armor which seemed to be spattered with blood. This giant knight swung his broadsword upwards and countless bluish-white flames, which appeared a little purple, condensed into long spears. They shot at the dragon. It was as if he had an entire army of illusory Beyonders helping him in battle!</p>
+<p>In the midst of the meteor shower, the giant knight leaped onto the head of the dragon, and he swung his sword down.</p>
+<p>The afterimages he had created earlier instantly overlapped, and the sword rays turned into intersecting lightning.</p>
+<p>Pow!</p>
+<p>The ground shook wildly, and the dragon fell, splattering its dark gold blood.</p>
+<p>At that moment, the scene changed to a huge bloody door. It was the same bloody door that Klein had seen in the ancient structure that very afternoon.</p>
+<p>With a creak, the bloody door opened a crack, allowing him to catch a glimpse of a black high back chair.</p>
+<p>A man of normal height sat on the high back chair. He had his head lowered, silent and deathly still.</p>
+<p>As his vision got closer and closer, Klein saw the man&#x27;s clothes clearly. He seemed to be the knight that had just killed the dragon, and he was still wearing the black armor that was stained with blood!</p>
+<p>The only difference was that he was no longer three or four meters tall.</p>
+<p>At this moment, the man suddenly raised his head. His handsome, young face had terrifying signs of decay; his eyes ice-cold and emotionless.</p>
+<p>Klein jumped in fright and awoke from his dream. Opening his eyes, he saw the crimson moonlight shining through the curtains.</p>
