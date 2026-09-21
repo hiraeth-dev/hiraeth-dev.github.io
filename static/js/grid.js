@@ -117,7 +117,7 @@
       ctx.stroke();
     }
 
-    // original grid preserved — only hover bloom is premium
+    // hover bloom is softened/widened for the glass vibe (base grid untouched)
     for (let i = 0; i < pts.length; i++) {
       const p = pts[i];
       const dx = p.x - mx, dy = p.y - my;
@@ -128,9 +128,9 @@
       // blink only affects the hover glow, not the base grid
       const blink = 0.88 + 0.12 * Math.sin(now * p.flick + p.phase);
       if (glow > 0.02) {
-        const outer = 1.5 + 6 + glow * 12;
+        const outer = 1.5 + 8 + glow * 16;
         const grad = ctx.createRadialGradient(p.x, p.y, 0, p.x, p.y, outer);
-        const ga = (0.14 + glow * 0.32) * blink;
+        const ga = (0.16 + glow * 0.36) * blink;
         grad.addColorStop(0, `rgba(${dotRgba.r},${dotRgba.g},${dotRgba.b},${ga})`);
         grad.addColorStop(0.24, `rgba(${dotRgba.r},${dotRgba.g},${dotRgba.b},${ga * 0.38})`);
         grad.addColorStop(0.6, `rgba(${dotRgba.r},${dotRgba.g},${dotRgba.b},${glow * 0.10 * blink})`);

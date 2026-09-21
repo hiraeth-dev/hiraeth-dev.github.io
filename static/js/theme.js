@@ -3,10 +3,10 @@
   var btn = document.getElementById('theme-btn');
   var menu = document.getElementById('theme-menu');
   if (!btn || !menu) return;
-  var current = html.getAttribute('data-theme') || 'kanagawa';
+  var current = html.getAttribute('data-theme') || 'emerald';
   var VALID = ['kanagawa', 'dusky', 'cyberpunk', 'nord', 'emerald', 'crimson', 'sakura', 'catppuccin'];
   if (VALID.indexOf(current) < 0) {
-    current = 'kanagawa';
+    current = 'emerald';
     html.setAttribute('data-theme', current);
     try { localStorage.setItem('theme', current); } catch (e) {}
   }

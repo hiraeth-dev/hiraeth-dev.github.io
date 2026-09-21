@@ -4,9 +4,9 @@
   if (!btn) return;
   var VALID = ['maple', 'iosevka'];
   var LABELS = { maple: 'Maple Mono', iosevka: 'Iosevka' };
-  var current = html.getAttribute('data-font') || 'maple';
+  var current = html.getAttribute('data-font') || 'iosevka';
   if (VALID.indexOf(current) < 0) {
-    current = 'maple';
+    current = 'iosevka';
     html.setAttribute('data-font', current);
     try { localStorage.setItem('font', current); } catch (e) {}
   }
