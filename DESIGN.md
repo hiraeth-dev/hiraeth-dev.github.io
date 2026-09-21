@@ -16,7 +16,7 @@ Base palette per theme — every theme **must** define all of these:
 | Glass system (global, auto-derived) | `--glass-bg` (panel 62%), `--glass-bg-strong` (panel 82%), `--glass-blur` (= per-theme `--blur`), `--glass-hi` (fg 14%), `--glass-shadow(-hover)` |
 
 Fonts switch via `html[data-font="iosevka"]`, which also bumps root
-`font-size` to 110%. Default theme is `amber`, default font `iosevka`; boot script in
+`font-size` to 110%. Default theme is `tungsten`, default font `iosevka`; boot script in
 `templates/base.html` sets `data-theme`/`data-font` pre-paint from
 `?theme=`/`?font=` params, else `localStorage`, else defaults.
 
