@@ -1212,7 +1212,17 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   display: flex; justify-content: space-between; align-items: center;
   max-width: var(--content-w); margin: 0 auto; padding: 24px 24px 0;
 }
-.page-header h2 { font-size: var(--text-lg); color: var(--fg); text-shadow: 2px 2px 0 var(--border); }
+.page-header h2 {
+  font-size: var(--text-lg); color: var(--fg);
+  text-shadow: 2px 2px 0 var(--border);
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  border: 1px solid var(--border);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), inset 0 1px 0 var(--glass-hi);
+  padding: 8px 18px;
+  margin: 0;
+}
 
 /* ── Back link ── */
 .back-link {
