@@ -10,7 +10,7 @@ Base palette per theme — every theme **must** define all of these:
 | Token family | Tokens |
 |---|---|
 | Core (per theme, literal) | `--bg`, `--bg-elev`, `--fg`, `--fg-dim`, `--accent`, `--accent-2` |
-| Glass (per theme, literal) | `--glass`, `--glass-hi`, `--line`, `--line-hi`, `--sheen`, `--grid`, `--glow`, `--halo-a`, `--halo-b`, `--blur` |
+| Glass (per theme, literal) | `--glass`, `--glass-hi`, `--line`, `--line-hi`, `--sheen`, `--grid`, `--glow`, `--halo-a`, `--halo-b`, `--blur`, `--sat` |
 | Legacy compat (per theme, literal) | `--bg-panel` (=bg-elev), `--bg-panel-alt`, `--bg-glow` (=bg-elev), `--bg-core`, `--fg-muted`, `--border` (=line), `--border-strong` (=line-hi), `--accent-bright/soft/dim`, `--link`, `--link-hover`, `--focus-ring`, `--grid-fade` (=bg), `--grid-line`, `--grid-dot`, `--bar-a/b/c`, `--orange(+deep)`, `--red(+deep)`, `--cyan(+deep)`, `--yellow`, `--cat-dark/mid/base/light` |
 | Type (global `:root`) | `--font-mono`, `--font-read`, `--text-xs/sm/base/lg/xl/2xl`, `--content-w{-wide,-list}` |
 | Glass system (global, auto-derived) | `--glass-bg` (panel 62%), `--glass-bg-strong` (panel 82%), `--glass-blur` (= per-theme `--blur`), `--glass-hi` (fg 14%), `--glass-shadow(-hover)` |
@@ -40,8 +40,8 @@ surface back to solid `var(--bg-panel)`.
 code-block, dict-result, theme-menu, dict-meaning-item):
 ```css
 background: var(--glass-bg);
-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
--webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+-webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
 border: 1px solid var(--border);
 box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
 ```

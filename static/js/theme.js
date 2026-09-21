@@ -4,7 +4,7 @@
   var menu = document.getElementById('theme-menu');
   if (!btn || !menu) return;
   var current = html.getAttribute('data-theme') || 'amber';
-  var VALID = ['amber', 'mallow', 'deep'];
+  var VALID = ['amber', 'mallow', 'slick', 'safelight', 'tungsten'];
   if (VALID.indexOf(current) < 0) {
     current = 'amber';
     html.setAttribute('data-theme', current);

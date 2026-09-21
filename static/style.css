@@ -109,7 +109,7 @@ html[data-font="iosevka"] {
   --font-read: "Iosevka", "Maple Mono NF", monospace;
 }
 
-/* Themes: amber, mallow, deep. */
+/* Themes: amber, mallow, deep, slick, safelight, tungsten. */
 :root {
   --cat-dark: #5C3410;
   --cat-mid: #9A5A1C;
@@ -134,6 +134,7 @@ html[data-theme="amber"] {
   --halo-a: rgba(255, 160, 40, .16);
   --halo-b: rgba(210, 80, 20, .13);
   --blur: 14px;
+  --sat: 140%;
   --bg-panel: #14100A;
   --bg-panel-alt: #251A0E;
   --bg-glow: #14100A;
@@ -183,6 +184,7 @@ html[data-theme="mallow"] {
   --halo-a: rgba(170, 110, 255, .15);
   --halo-b: rgba(255, 110, 170, .11);
   --blur: 16px;
+  --sat: 140%;
   --bg-panel: #120C1E;
   --bg-panel-alt: #1E1430;
   --bg-glow: #120C1E;
@@ -214,54 +216,159 @@ html[data-theme="mallow"] {
   --cat-base: #C89BFF;
   --cat-light: #E2B8FF;
 }
-/* ── deepwater — A sonar console at depth. Cold, saturated, the highest-contrast of the three. ── */
-html[data-theme="deep"] {
-  --bg: #04090D;
-  --bg-elev: #081319;
-  --fg: #D2E8EC;
-  --fg-dim: #6E8F98;
-  --accent: #46E0C8;
-  --accent-2: #58B6FF;
-  --glass: rgba(10, 32, 40, .48);
-  --glass-hi: rgba(14, 46, 56, .64);
-  --line: rgba(125, 225, 230, .15);
-  --line-hi: rgba(140, 240, 240, .46);
-  --sheen: rgba(190, 245, 250, .07);
-  --grid: rgba(120, 220, 230, .06);
-  --glow: rgba(70, 224, 200, .28);
-  --halo-a: rgba(40, 180, 190, .14);
-  --halo-b: rgba(30, 90, 200, .12);
-  --blur: 18px;
-  --bg-panel: #081319;
-  --bg-panel-alt: #0E2230;
-  --bg-glow: #081319;
-  --bg-core: #020608;
-  --fg-muted: #3E5A61;
+
+
+/* ── slick — An oil film on wet asphalt. Thin panes, wide blur, two hues bleeding through. ── */
+html[data-theme="slick"] {
+  --bg: #04080B;
+  --bg-elev: #0A1219;
+  --fg: #DCEAF0;
+  --fg-dim: #7B8F9C;
+  --accent: #5EEAD4;
+  --accent-2: #E879C7;
+  --glass: rgba(10, 22, 32, .30);
+  --glass-hi: rgba(14, 32, 46, .46);
+  --line: rgba(190, 230, 240, .14);
+  --line-hi: rgba(94, 234, 212, .48);
+  --sheen: rgba(255, 255, 255, .11);
+  --grid: rgba(150, 220, 235, .055);
+  --glow: rgba(94, 234, 212, .30);
+  --halo-a: rgba(0, 200, 190, .26);
+  --halo-b: rgba(150, 70, 255, .24);
+  --blur: 24px;
+  --sat: 200%;
+  --bg-panel: #0A1219;
+  --bg-panel-alt: #0E1A26;
+  --bg-glow: #0A1219;
+  --bg-core: #020507;
+  --fg-muted: #4E616C;
   --border: var(--line);
   --border-strong: var(--line-hi);
-  --accent-bright: #7DF0DD;
-  --accent-soft: #58B6FF;
-  --accent-dim: #1E9E8A;
-  --link: #58B6FF;
-  --link-hover: #46E0C8;
-  --focus-ring: #46E0C8;
-  --grid-fade: #04090D;
-  --grid-line: rgba(120, 220, 230, .09);
-  --grid-dot: rgba(70, 224, 200, .28);
-  --bar-a: #46E0C8;
-  --bar-b: #58B6FF;
-  --bar-c: #7DF0DD;
-  --orange: #58B6FF;
-  --orange-deep: #1E6E8A;
+  --accent-bright: #A7F3EA;
+  --accent-soft: #E879C7;
+  --accent-dim: #2AA893;
+  --link: #E879C7;
+  --link-hover: #5EEAD4;
+  --focus-ring: #5EEAD4;
+  --grid-fade: #04080B;
+  --grid-line: rgba(150, 220, 235, .09);
+  --grid-dot: rgba(94, 234, 212, .30);
+  --bar-a: #5EEAD4;
+  --bar-b: #E879C7;
+  --bar-c: #A7F3EA;
+  --orange: #E879C7;
+  --orange-deep: #8A4A6E;
   --red: #FF6B6B;
   --red-deep: #C44545;
-  --cyan: #46E0C8;
-  --cyan-deep: #1E9E8A;
-  --yellow: #7DF0DD;
+  --cyan: #5EEAD4;
+  --cyan-deep: #2AA893;
+  --yellow: #A7F3EA;
   --cat-dark: #0E4A44;
-  --cat-mid: #159A85;
-  --cat-base: #46E0C8;
-  --cat-light: #7DF0DD;
+  --cat-mid: #1E9E8A;
+  --cat-base: #5EEAD4;
+  --cat-light: #A7F3EA;
+}
+
+/* ── safelight — Darkroom red. Almost no blue light in it, and the dimmest of the six. ── */
+html[data-theme="safelight"] {
+  --bg: #0B0406;
+  --bg-elev: #15070B;
+  --fg: #F2D9DC;
+  --fg-dim: #9A6B72;
+  --accent: #FF4D6A;
+  --accent-2: #C9285C;
+  --glass: rgba(42, 10, 18, .48);
+  --glass-hi: rgba(60, 14, 26, .64);
+  --line: rgba(255, 110, 135, .17);
+  --line-hi: rgba(255, 140, 160, .46);
+  --sheen: rgba(255, 200, 210, .08);
+  --grid: rgba(255, 100, 125, .07);
+  --glow: rgba(255, 77, 106, .30);
+  --halo-a: rgba(255, 50, 85, .16);
+  --halo-b: rgba(150, 15, 70, .14);
+  --blur: 15px;
+  --sat: 155%;
+  --bg-panel: #15070B;
+  --bg-panel-alt: #221016;
+  --bg-glow: #15070B;
+  --bg-core: #060203;
+  --fg-muted: #6B4A50;
+  --border: var(--line);
+  --border-strong: var(--line-hi);
+  --accent-bright: #FF9DAD;
+  --accent-soft: #C9285C;
+  --accent-dim: #8A1F3D;
+  --link: #C9285C;
+  --link-hover: #FF4D6A;
+  --focus-ring: #FF4D6A;
+  --grid-fade: #0B0406;
+  --grid-line: rgba(255, 100, 125, .09);
+  --grid-dot: rgba(255, 77, 106, .30);
+  --bar-a: #FF4D6A;
+  --bar-b: #C9285C;
+  --bar-c: #FF9DAD;
+  --orange: #C9285C;
+  --orange-deep: #7A1F3D;
+  --red: #FF6B6B;
+  --red-deep: #C44545;
+  --cyan: #FF4D6A;
+  --cyan-deep: #8A1F3D;
+  --yellow: #FFB3C0;
+  --cat-dark: #5C1A28;
+  --cat-mid: #A32444;
+  --cat-base: #FF4D6A;
+  --cat-light: #FFB3C0;
+}
+
+/* ── tungsten — No hue at all. Filament white on steel, with contrast doing every job. ── */
+html[data-theme="tungsten"] {
+  --bg: #0A0A0C;
+  --bg-elev: #121317;
+  --fg: #E8EAEF;
+  --fg-dim: #858B97;
+  --accent: #F2F5FA;
+  --accent-2: #9FB0C4;
+  --glass: rgba(255, 255, 255, .055);
+  --glass-hi: rgba(255, 255, 255, .10);
+  --line: rgba(255, 255, 255, .12);
+  --line-hi: rgba(255, 255, 255, .34);
+  --sheen: rgba(255, 255, 255, .10);
+  --grid: rgba(255, 255, 255, .07);
+  --glow: rgba(190, 205, 230, .22);
+  --halo-a: rgba(255, 255, 255, .07);
+  --halo-b: rgba(80, 110, 170, .12);
+  --blur: 20px;
+  --sat: 120%;
+  --bg-panel: #121317;
+  --bg-panel-alt: #1A1C22;
+  --bg-glow: #121317;
+  --bg-core: #050506;
+  --fg-muted: #565C68;
+  --border: var(--line);
+  --border-strong: var(--line-hi);
+  --accent-bright: #FFFFFF;
+  --accent-soft: #9FB0C4;
+  --accent-dim: #5C6675;
+  --link: #9FB0C4;
+  --link-hover: #F2F5FA;
+  --focus-ring: #F2F5FA;
+  --grid-fade: #0A0A0C;
+  --grid-line: rgba(255, 255, 255, .09);
+  --grid-dot: rgba(190, 205, 230, .22);
+  --bar-a: #F2F5FA;
+  --bar-b: #9FB0C4;
+  --bar-c: #FFFFFF;
+  --orange: #9FB0C4;
+  --orange-deep: #5C6675;
+  --red: #FF6B6B;
+  --red-deep: #C44545;
+  --cyan: #F2F5FA;
+  --cyan-deep: #858B97;
+  --yellow: #FFFFFF;
+  --cat-dark: #343A42;
+  --cat-mid: #6B7280;
+  --cat-base: #9FB0C4;
+  --cat-light: #F2F5FA;
 }
 
 /* ── Scrollbar ── */
@@ -311,8 +418,8 @@ nav.top {
   box-sizing: border-box;
   padding: 6px 24px;
   background: var(--glass-bg-strong);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border-bottom: 1px solid var(--border);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
   display: flex; justify-content: space-between; align-items: center;
@@ -477,8 +584,8 @@ nav.top .logo:active {
   box-sizing: border-box;
   margin: 0; padding: 0;
   background: var(--glass-bg-strong);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   z-index: 50;
@@ -530,8 +637,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* ── Terminal window ── */
 .terminal {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   margin: 40px auto;
@@ -658,8 +765,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   display: inline-flex;
   align-items: center;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), inset 0 1px 0 var(--glass-hi);
   padding: 6px 14px;
@@ -687,8 +794,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   font-weight: 700;
   color: var(--fg-dim);
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3), inset 0 1px 0 var(--glass-hi);
   padding: 4px 10px;
@@ -709,8 +816,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   display: flex;
   flex-direction: column;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 16px 18px;
@@ -796,8 +903,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* ── Playlist ── */
 .playlist {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   margin-bottom: 40px;
@@ -842,8 +949,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 .stack-card {
   display: block;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 16px;
@@ -900,8 +1007,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 .code-block {
   display: flex; align-items: center; gap: 8px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 12px 16px;
@@ -944,8 +1051,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 }
 .stat-card {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 16px;
@@ -994,8 +1101,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   max-width: var(--content-w); margin: 0 auto;
   padding: 32px 36px;
   background: color-mix(in srgb, var(--bg-panel) 82%, transparent);
-  backdrop-filter: blur(10px) saturate(140%);
-  -webkit-backdrop-filter: blur(10px) saturate(140%);
+  backdrop-filter: blur(10px) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(10px) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   font-family: var(--font-read);
@@ -1015,8 +1122,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   font-size: var(--text-lg); color: var(--fg);
   text-shadow: 2px 2px 0 var(--border);
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), inset 0 1px 0 var(--glass-hi);
   padding: 8px 18px;
@@ -1037,8 +1144,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   align-items: center;
   gap: 6px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), inset 0 1px 0 var(--glass-hi);
   font-size: var(--text-xs);
@@ -1187,8 +1294,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   justify-content: flex-start;
   gap: 12px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 16px 18px;
@@ -1320,8 +1427,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   align-items: center;
   gap: 6px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), inset 0 1px 0 var(--glass-hi);
   padding: 8px 16px;
@@ -1523,8 +1630,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 
 .dict-result {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 18px 22px;
@@ -1943,8 +2050,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   gap: 20px;
   padding: 18px 24px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   margin-bottom: 14px;
@@ -2001,8 +2108,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* Enhanced SVG Graph */
 .type-graph-container {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   padding: 14px 18px 12px;
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
@@ -2082,8 +2189,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* Words to practice review */
 .type-error-review {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(140%);
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(140%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border: 1px solid var(--border);
   padding: 12px 18px;
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
