@@ -1389,7 +1389,6 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
     -webkit-backdrop-filter: none;
     border: none;
     box-shadow: none;
-    padding: 8px 0;
   }
 }
 

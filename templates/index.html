@@ -40,7 +40,7 @@
   <div class="section-header">
     <h2 class="section-heading"><span class="heading-sym">~/</span>novels</h2>
     <div class="section-line" aria-hidden="true"></div>
-    <span class="section-badge">12 books</span>
+    <span class="section-badge">13 books</span>
   </div>
   {% set ri = get_section(path="reverend-insanity/_index.md") %}
   {% set lotm = get_section(path="lord-of-the-mysteries/_index.md") %}
@@ -54,7 +54,8 @@
   {% set trial = get_section(path="the-trial/_index.md") %}
   {% set pride = get_section(path="pride-and-prejudice/_index.md") %}
   {% set odyssey = get_section(path="the-odyssey/_index.md") %}
-  {% set shelves = [ri, lotm, chapters, md, wn, idiot, nfu, bk, meta, trial, pride, odyssey] %}
+  {% set mt = get_section(path="mushoku-tensei/_index.md") %}
+  {% set shelves = [ri, lotm, chapters, md, wn, idiot, nfu, bk, meta, trial, pride, odyssey, mt] %}
   <div class="novels-grid">
     {% for shelf in shelves %}
     <a href="{{ shelf.path }}" class="novel-card">
@@ -199,6 +200,7 @@
     {% set trial = get_section(path="the-trial/_index.md") %}
     {% set pride = get_section(path="pride-and-prejudice/_index.md") %}
     {% set odyssey = get_section(path="the-odyssey/_index.md") %}
+    {% set mt = get_section(path="mushoku-tensei/_index.md") %}
     {% set_global ri_n = 0 %}
     {% for sub in ri.subsections %}
       {% set vol = get_section(path=sub) %}
@@ -235,10 +237,16 @@
     {% set trial_n = trial.pages | length %}
     {% set pride_n = pride.pages | length %}
     {% set odyssey_n = odyssey.pages | length %}
+    {% set_global mt_n = 0 %}
+    {% for sub in mt.subsections %}
+      {% set vol = get_section(path=sub) %}
+      {% set vol_n = vol.pages | length %}
+      {% set_global mt_n = mt_n + vol_n %}
+    {% endfor %}
     {% set ch_n = chapters.pages | length %}
-    {% set all_n = ch_n + ri_n + lotm_n + md_n + wn_n + idiot_n + nfu_n + bk_n + meta_n + trial_n + pride_n + odyssey_n %}
+    {% set all_n = ch_n + ri_n + lotm_n + mt_n + md_n + wn_n + idiot_n + nfu_n + bk_n + meta_n + trial_n + pride_n + odyssey_n %}
     <div class="stat-card">
-      <div class="value">12+5</div>
+      <div class="value">13+5</div>
       <div class="label">Novels and Tools</div>
     </div>
     <div class="stat-card">
