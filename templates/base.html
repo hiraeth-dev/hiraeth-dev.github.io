@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>(function(){var t;try{var p=new URLSearchParams(window.location.search).get('theme');t=p||localStorage.getItem('theme')}catch(e){}var v=['kanagawa','dusky','cyberpunk','nord','emerald','crimson','sakura','catppuccin'];if(v.indexOf(t)<0)t='emerald';document.documentElement.setAttribute('data-theme',t);var f;try{var pf=new URLSearchParams(window.location.search).get('font');f=pf||localStorage.getItem('font')}catch(e){}var fv=['maple','iosevka'];if(fv.indexOf(f)<0)f='iosevka';document.documentElement.setAttribute('data-font',f);document.documentElement.classList.add('js')})();</script>
+  <script>(function(){var t;try{var p=new URLSearchParams(window.location.search).get('theme');t=p||localStorage.getItem('theme')}catch(e){}var v=['amber','mallow','deep'];if(v.indexOf(t)<0)t='amber';document.documentElement.setAttribute('data-theme',t);var f;try{var pf=new URLSearchParams(window.location.search).get('font');f=pf||localStorage.getItem('font')}catch(e){}var fv=['maple','iosevka'];if(fv.indexOf(f)<0)f='iosevka';document.documentElement.setAttribute('data-font',f);document.documentElement.classList.add('js')})();</script>
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <link rel="stylesheet" href="/style.css">
   <link rel="preload" href="/fonts/MapleMono-NF-Regular.woff2" as="font" type="font/woff2" crossorigin>
@@ -38,14 +38,9 @@
   <div class="theme-pick">
     <button class="theme-btn" id="theme-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Theme" title="Theme"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor" stroke="none"/></svg></button>
     <div class="theme-menu" id="theme-menu">
-      <button type="button" data-theme-opt="kanagawa">kanagawa</button>
-      <button type="button" data-theme-opt="dusky">dusky</button>
-      <button type="button" data-theme-opt="cyberpunk">cyberpunk</button>
-      <button type="button" data-theme-opt="nord">nord</button>
-      <button type="button" data-theme-opt="emerald">emerald</button>
-      <button type="button" data-theme-opt="crimson">crimson</button>
-      <button type="button" data-theme-opt="sakura">sakura</button>
-      <button type="button" data-theme-opt="catppuccin">catppuccin</button>
+      <button type="button" data-theme-opt="amber">amber</button>
+      <button type="button" data-theme-opt="mallow">mallow</button>
+      <button type="button" data-theme-opt="deep">deep</button>
     </div>
   </div>
 </nav>

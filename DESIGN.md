@@ -9,20 +9,14 @@ Base palette per theme — every theme **must** define all of these:
 
 | Token family | Tokens |
 |---|---|
-| Surfaces | `--bg`, `--bg-panel`, `--bg-panel-alt`, `--bg-glow`, `--bg-core` |
-| Text | `--fg`, `--fg-dim`, `--fg-muted` |
-| Lines | `--border`, `--border-strong` |
-| Accents | `--accent`, `--accent-bright`, `--accent-soft`, `--accent-dim` |
-| Links | `--link`, `--link-hover`, `--focus-ring` |
-| Grid canvas | `--grid-fade`, `--grid-line`, `--grid-dot` |
-| Card bars | `--bar-a`, `--bar-b`, `--bar-c` |
-| Status | `--orange`, `--orange-deep`, `--red`, `--red-deep`, `--cyan`, `--cyan-deep`, `--yellow` |
-| Logo cat | `--cat-dark`, `--cat-mid`, `--cat-base`, `--cat-light` |
-| Legacy logo | `--logo-disc`, `--logo-eye`, `--logo-edge`, `--logo-iris`, `--logo-pupil` |
-| Type | `--font-mono`, `--font-read`, `--text-xs/sm/base/lg/xl/2xl`, `--content-w{-wide,-list}` |
+| Core (per theme, literal) | `--bg`, `--bg-elev`, `--fg`, `--fg-dim`, `--accent`, `--accent-2` |
+| Glass (per theme, literal) | `--glass`, `--glass-hi`, `--line`, `--line-hi`, `--sheen`, `--grid`, `--glow`, `--halo-a`, `--halo-b`, `--blur` |
+| Legacy compat (per theme, literal) | `--bg-panel` (=bg-elev), `--bg-panel-alt`, `--bg-glow` (=bg-elev), `--bg-core`, `--fg-muted`, `--border` (=line), `--border-strong` (=line-hi), `--accent-bright/soft/dim`, `--link`, `--link-hover`, `--focus-ring`, `--grid-fade` (=bg), `--grid-line`, `--grid-dot`, `--bar-a/b/c`, `--orange(+deep)`, `--red(+deep)`, `--cyan(+deep)`, `--yellow`, `--cat-dark/mid/base/light` |
+| Type (global `:root`) | `--font-mono`, `--font-read`, `--text-xs/sm/base/lg/xl/2xl`, `--content-w{-wide,-list}` |
+| Glass system (global, auto-derived) | `--glass-bg` (panel 62%), `--glass-bg-strong` (panel 82%), `--glass-blur` (= per-theme `--blur`), `--glass-hi` (fg 14%), `--glass-shadow(-hover)` |
 
 Fonts switch via `html[data-font="iosevka"]`, which also bumps root
-`font-size` to 110%. Default theme is `emerald`, default font `iosevka`; boot script in
+`font-size` to 110%. Default theme is `amber`, default font `iosevka`; boot script in
 `templates/base.html` sets `data-theme`/`data-font` pre-paint from
 `?theme=`/`?font=` params, else `localStorage`, else defaults.
 
