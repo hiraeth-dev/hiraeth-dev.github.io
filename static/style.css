@@ -1391,6 +1391,16 @@ html[data-theme="amber"] {
 /* ── Mobile nav ── */
 /* ── Responsive ── */
 @media (max-width: 768px) {
+  /* Mobile stays pre-wallpaper: no photo layer, original solid fade + frost. */
+  html[data-theme="amber"] {
+    --grid-fade: #0B0906;
+    --blur: 14px;
+    --glass-bg: color-mix(in srgb, var(--bg-panel) 62%, transparent);
+    --glass-bg-strong: color-mix(in srgb, var(--bg-panel) 82%, transparent);
+  }
+  html[data-theme="amber"] body:has(#grid-canvas)::after {
+    display: none;
+  }
   .stack-grid { grid-template-columns: repeat(2, 1fr); }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .terminal-body h1 { font-size: var(--text-xl); }
