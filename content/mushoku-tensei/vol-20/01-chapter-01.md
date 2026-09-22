@@ -1,0 +1,121 @@
++++
+title = "Chapter 1: Plans for the Future and Cliff's Concerns"
+weight = 2
+[extra]
+chapter = "Chapter 1"
+badge = "CH.1"
+nav_title = "Chapter 1"
++++
+
+<p><strong>O</strong>NE MONTH HAD PASSED since the events in the Shirone Kingdom. Winter was drawing to a close, and spring was right around the corner. For the past month, I&#x27;d focused on crafting a detailed plan with Orsted. Our first order of business: gathering allies. For this, we settled on a three-pronged approach.</p>
+<p>The first major goal would be putting together an intelligence agency to gather information. Ruquag&#x27;s Mercenary Band, the group that Aisha and Linia set up, would work nicely for this. Its top brass were all my people, so I might as well use them. I&#x27;d have their full cooperation behind the scenes. I&#x27;d structure the group&#x27;s global hierarchy such that headquarters maintained contact with each branch, so it would pull in information from countries around the world. I&#x27;d design them so that if I ever couldn&#x27;t make it to headquarters, I could still visit a branch to learn every detail of the current news.</p>
+<p>This would be less for Orsted&#x27;s use and more for mine. I was placing my pieces on the board, ready to be played.</p>
+<p>The second goal was to draw in figures of authority and future leaders. Laplace&#x27;s resurrection was going to trigger a war—with all of humanity, I suppose. If each nation was prepared, it would only improve their response times when the invasion finally came. So, we&#x27;d inform those in power of the coming war and what was at stake. We&#x27;d offer whatever little aid we could and have them prepare for what was coming for us in eighty years at whatever pace they could manage. The cooperation of these nations in the coming Laplace war could make our lives as Ruquag&#x27;s Mercenary Band easier if we had it—or much, much harder if we didn&#x27;t.</p>
+<p>The third prong in the plan was to recruit warriors for combat. This was the primary goal, as far as Orsted was concerned. He&#x27;d rather other fighters take on Laplace instead of him. If we managed to lift Orsted&#x27;s curse so he didn&#x27;t have to fight solo anymore, then we could even have our new recruits join the final battle against the Man-God. Orsted and I talked over who would be a good fit, and finally settled on this profile: <em>The warriors already fated to battle Laplace, but who won&#x27;t easily become disciples of the Man-God.</em></p>
+<p>For instance, titles such as Ogre God and Ore God— their current holders</p>
+<p>had no hate or love for Laplace, but future generations would oppose him later on. Same for schools like Water God Style and Sword God Style—the current practitioners were far removed from Laplace, but their apprentices would face him down as well. We also planned to ask long-living warriors like North God Kalman the Third or Death God Randolph. Some held personal grudges against Laplace—Ruijerd especially. Ruquag&#x27;s Mercenary Band could locate the ones whose whereabouts were unknown, after which I could visit them personally and negotiate on my hands and knees. I imagined that some of them would ask me to make it worth their while. But for now, the plan more or less came down to asking all the strong and capable people that came to mind.</p>
+<p>Now, then.</p>
+<p>Once we assembled all those resources, we&#x27;d be faced with final bottleneck: the Man-God. Knowing him, he was sure to send his disciples to get in our way. For the most part, we didn&#x27;t know who might end up serving as one of the Man-God&#x27;s disciples. Orsted said that he could estimate the odds in any normal loop, but since the disciples in this loop already included people who&#x27;d never joined the Man-God before, it would be hard to tell for certain. If I wanted to carry out my missions, then I had to risk-proof them against disciples that Orsted wouldn&#x27;t see coming.</p>
+<p>As for how I could do that… To be honest, I couldn&#x27;t think of anything. So, I decided not to think. I didn&#x27;t know what standards the Man-God chose his disciples by. Orsted said he &quot;tended to choose those with strong fate,&quot; but people with weak fates had already shown up as disciples. I didn&#x27;t even get how you could measure the &quot;strength&quot; of someone&#x27;s fate. It seemed like the kind of rule that only Orsted and the Man-God would understand. Even if I tried to follow every minute detail, asking Orsted about every little thing would just give him more of a headache. Thinking about it wouldn&#x27;t get me very far.</p>
+<p>I was a small piece in this game, but pawns can still make power moves. I could spread a message among the people we ally with, something like, &quot;don&#x27;t believe what comes to you in a dream.&quot; Disciples would probably pop up, even so. We&#x27;d just have to confirm it with anyone we find suspicious and kill them if necessary. A tough job, but I&#x27;d do it.</p>
+<p>Aside from that looming and nasty work, there weren&#x27;t any downsides to making every ally I could. After all, the Man-God could only have three disciples at a time, which meant that every number added to our forces gave us an advantage. If there were only five people on our side, our strength would fall by twenty percent if one were to betray us and become a disciple. If that disciple joined the enemy forces, the math would look even worse for us. But if there were ten of us, or maybe twenty of us. Maybe a hundred, or a thousand… Basically, the greater our numbers, the less impact a betrayal or two would have on our position. True, we&#x27;d be screwed if a leader on our side fell under the Man-God&#x27;s control and turned a thousand allies into enemies, so I had to minimize that risk by not giving any one leader too much power. Then again, I was going to be that leader for a while, so I didn&#x27;t need to worry about it for now. It&#x27;d become a problem following my death, but there already were plenty of leaders far more suited to the job than I was, and more in line after that. I already had Roxy, after all.</p>
+<p>Recruitment was just one of many logistical needs. I needed a way to contact Orsted, for instance. Our failure to prevent Pax&#x27;s death during our last battle happened due to a lack of communication. Of course, it was far from the only cause…but if we&#x27;d had some clear way to reach Orsted, we might have been able to stop it. I couldn&#x27;t rely on Orsted for everything, but our plans were going to have us working separately more and more, so communication would be crucial. It was better to handle a delicate situation after consulting with your team than to trust your gut feeling alone. And if you knew your ally was in danger, you could rush to help. Not that I could imagine Orsted needing me to save him, but even being able to send him some information one-way could help him in a pinch.</p>
+<p>And so, I brought all this up to Orsted. I tried to explain the concept of a phone while asking if something like that already existed, and whether we could make one if it didn&#x27;t.</p>
+<p>&quot;So, a magical implement that can send voices or text?&quot; Orsted asked.</p>
+<p>&quot;Text alone would be fine, but I figure it&#x27;d help if we had some way to share information over long distances. Like, if I have to make a tough decision, I&#x27;d rather talk it over with someone first. Do you think that&#x27;s possible?&quot;</p>
+<p>I wasn&#x27;t optimistic. That would&#x27;ve been too convenient, right?</p>
+<p>&quot;The dragonfolk have a magical implement like that,&quot; said Orsted. &quot;If we recreate it, then it should be possible to do what you&#x27;re asking.&quot;</p>
+<p>I was surprised. &quot;Huh, so stuff like that really does exist?&quot;</p>
+<p>&quot;Yes. You&#x27;ve seen one before, too.&quot;</p>
+<p>For real? When the heck did that happen? Something like that would&#x27;ve been way too handy for me to forget about it.</p>
+<p>&quot;The monuments to the Seven Great Powers and the Adventurers&#x27; Guild cards.&quot;</p>
+<p>&quot;Oh, those!&quot;</p>
+<p>Now that he mentioned it, I had seen them. The Adventurers&#x27; Guild cards accepted voice input, and the monuments to the Seven Great Powers had the same text all over the world. Interesting, though; I didn&#x27;t know that the Adventurers&#x27; Guild cards were dragonfolk-made. They did seem unusually sci-fi for a world like this…</p>
+<p>&quot;It&#x27;ll take some modifications,&quot; Orsted continued, &quot;but I&#x27;ll try making them.&quot;</p>
+<p>&quot;Huh? You mean you&#x27;d make them yourself?&quot;</p>
+<p>&quot;Your arrival already threw a wrench into all of my predictions. I may as well make those things in case we ever need them. Besides, they&#x27;ll be useful next time, too.&quot;</p>
+<p>And with that, Orsted offered to make them himself. Definitely a miscalculation I was happy to have made. Knowing that Orsted would still want me as an ally next time made me all the happier.</p>
+<p>&quot;There&#x27;s a chance it won&#x27;t work out, so keep that in mind,&quot; Orsted warned.</p>
+<p>&quot;Roger Wilco, boss!&quot;</p>
+<p>That settled the communicator issue.</p>
+<p>One more thing, though. Given our failure last time, it was clear that there was something else I needed to make: a way to transport the Magic Armor. Even though I managed to bring the Version One with me last time, the only use it got was when I traveled in it. Hauling it from the city to the fort was already a huge hassle, but not being able to fit it inside the castle meant that it ended up useless during my fight with Death God Randolph. I didn&#x27;t think I&#x27;d be fighting anyone on the Death God&#x27;s level any time soon, but I couldn&#x27;t rule it out. Given how dire the situation was back then, I wanted to be proactive this time around.</p>
+<p>Development on the Version Three was still progressing, of course, and its goal was to resolve these issues by being both powerful and lightweight. However, there was still a long way to go before it would be completed. Even with Zanoba&#x27;s full cooperation it was still going to take a year or two to finish this project.</p>
+<p>To that, one suggestion came to mind. Why not summon the Version One as is? According to what Sylvaril once taught me, physical objects couldn&#x27;t be summoned…but I felt like, you know, with a little change of perspective, it might be possible. I planned to try it out myself just to be sure. If it didn&#x27;t work, then that would be that.</p>
+<p>With that, plans for gathering allies were finalized. For now, I would expand Ruquag&#x27;s Mercenary Band and network with powerful figures in nations around the world. We&#x27;d start with Cliff and Ariel—a relative of the Millis Church&#x27;s pope, and the next ruler of the Asura Kingdom. I was already halfway to being allies with them, and now it was time to officially add them into Orsted&#x27;s camp.</p>
+<p>Who first? Cliff, of course—he was stationed nearby. Making Cliff an ally would give us ties to the Millis Church. The Holy Country of Millis was powerful, which would make them a powerful force in the war against Laplace, too. Battles came down to money and numbers, after all. Having some connections who could provide both wouldn&#x27;t hurt.</p>
+<p>Cliff might have said otherwise, but I considered him a close friend. He was already helping out with Orsted&#x27;s curse, so a verbal agreement was probably all I needed to get him fully aboard. I could already hear him say &quot;Sure&quot; with no hesitation in my head. With my plan settled, I made my way toward the apartment where Cliff lived.</p>
+<p>I arrived at Cliff&#x27;s love nest. It was a rare moment of me not catching them in the act; the afternoon apartment was silent enough to hear a pin drop. Then again, if they went at it every day, his neighbors probably wouldn&#x27;t get much rest… Wait! I&#x27;d misremembered. They typically did it in the school&#x27;s research room this time of day. Maybe it only got busy around here at night?</p>
+<p>When I entered his room, I was greeted by a gaunt, exhausted Cliff. &quot;Oh, hey, Rudeus…&quot;</p>
+<p>He seemed like he was doing all right during Elinalise&#x27;s pregnancy right up until his child&#x27;s birth, but lately, he&#x27;d been white as a sheet every time I saw him. I was starting to worry about his stamina outside the bedroom, too.</p>
+<p>&quot;Oh, Rudeus. What&#x27;s the occasion?&quot; asked Elinalise.</p>
+<p>Elinalise, on the other hand, had a healthy glow. She had a satisfied look on her face as she held her baby up to her breast. She was naked above the waist, and wore only a pair of panties below it. It seemed like I&#x27;d caught them in a short break; they were probably going to pick up where they left off once lunch</p>
+<p>was over.</p>
+<p>&quot;Ah, well, I had something to discuss,&quot; I explained. That said, I was distracted—the sight of this blonde, dainty beauty bestowing her baby with a nipple was high art. It belonged in a museum. Her lithe elven body certainly didn&#x27;t help. The tension between her usual sluttery and the almost saintly scene before me was captivating.</p>
+<p>Seeing Sylphie and Roxy breastfeed gave me that same feeling. Even Eris had been showing that sort of tension lately; she carried that baby and let him get away with suckling her teat without so much as a shout or a slap. Yes, the sight of a woman becoming a mother and offering a breast to her child is enchanting.</p>
+<p>&quot;Hey, Rudeus, could you stare a bit less intensely?&quot; asked Cliff.</p>
+<p>&quot;Huh? Oh, sorry.&quot;</p>
+<p>I&#x27;d gotten too lost in thought, and Cliff snapped me back to reality. My bad. I wasn&#x27;t looking out of horniness. Seriously.</p>
+<p>&quot;And Lise, we have a guest over, so could you put some clothes on?&quot;</p>
+<p>&quot;Oh my, Cliff… Are you getting jealous?&quot;</p>
+<p>&quot;Yes, I am. You might only see Rudeus as family, though…&quot;</p>
+<p>Elinalise&#x27;s shoulders slumped. &quot;Fine, if you insist.&quot;</p>
+<p>She retreated with her baby into an inner room.</p>
+<p>&quot;Rudeus, could you please refrain from looking at my wife like a piece of meat when you already have three wives of your own?&quot;</p>
+<p>&quot;Piece of meat? Hey, listen—&quot;</p>
+<p>I tried to explain that I had done no such thing, but the fact was that I did look. I wouldn&#x27;t want people looking at my wives naked either, so it was better to apologize.</p>
+<p>&quot;Never mind, I&#x27;m sorry. I&#x27;ll keep that in mind next time.&quot;</p>
+<p>&quot;Right…&quot;</p>
+<p>Cliff heaved a sigh as he sank into his sofa. He was certainly tired, but he also seemed to be in a sour mood. Maybe he was having some technical difficulties during his nightlife.</p>
+<p>&quot;So, what did you come for today?&quot; he asked.</p>
+<p>Cliff stared back at me with vacant eyes. It felt kind of hard to broach the subject. I considered coming back later, but I figured I ought to ask why he seemed so bothered first.</p>
+<p>&quot;Did…something happen?&quot;</p>
+<p>&quot;Nah, nothing…&quot; Cliff started, but he shook his head and began again. &quot;On second thought, your timing&#x27;s perfect. It&#x27;s something I have to tell you about anyway.&quot;</p>
+<p>It felt like he was leading into something serious, like how Zanoba was recently summoned by his family.</p>
+<p>&quot;The truth is…a letter came in from my grandfather in the Holy Country of Millis.&quot;</p>
+<p>It was following the same pattern, too. That could only mean one thing: this was designed to lure Cliff away. Was it another war? Or was it a trap laid by the Man-God? No matter. Either way, I was planning to ask Cliff to build some bridges between me and the Holy Country of Millis. He apparently had the same idea, so he wouldn&#x27;t waste time by asking me to tag along. I would have liked for him to stay in Sharia, of course, but I had a goal to pursue.</p>
+<p>Cliff stood up and pulled a single letter from off his shelf. It gave me another hit of déjà vu. I could guess the contents of the letter without reading a single word. <em>Do you know how much money it cost your grandfather to raise you? And why it cost money? So that you would grow to be an asset to our faction. And when do we need that asset? Right now!</em></p>
+<p>I had to prepare for the worst before looking.</p>
+<p>&quot;Oh, it&#x27;s not that serious a problem or anything,&quot; Cliff said as he gave his cheek a nervous scratch. He seemed to feel a bit guilty. &quot;It&#x27;s just that we agreed a long time ago that I&#x27;d return once I graduated. I&#x27;m only worried about my travel budget and any dangers on the road.&quot;</p>
+<p>I took a look at the letter.</p>
+<p>It started off asking after Cliff&#x27;s health. After that, it instructed him to show the enclosed insignia of the Millis Faith Curia at a Millis Church if he ever ran low on travel funds. It said Millishion was currently embroiled in a power struggle and that they were on the losing side. Then, a stern warning: Cliff had to prepare for the worst if he intended to come home, and if he couldn&#x27;t, then he shouldn&#x27;t bother. Cliff&#x27;s grandfather concluded the letter by saying that despite the harsh words, he longed to see Cliff again and that he was awaiting his return</p>
+<p>from the bottom of his heart.</p>
+<p>Every word on the page bled concern for Cliff. I&#x27;d never met Cliff&#x27;s grandfather, but if he could write such a heartfelt letter, then I was sure he had to be a good person. What could be the problem with this?</p>
+<p>&quot;Honestly, I&#x27;ve been going back and forth,&quot; said Cliff, apparently referring to the part about preparing for the worst. &quot;I was planning to return home the moment I graduated. It&#x27;s what I&#x27;d trained so hard for. It&#x27;s what I&#x27;d wanted this whole time until now. I was confident that I could even make it in the cutthroat world of the Millis Church.&quot;</p>
+<p>&quot;Figures,&quot; I said. Cliff had been talking about it from the beginning; once he graduated the academy, he&#x27;d return to the Holy Country of Millis and follow in his grandfather&#x27;s footsteps… Though of course, he understood how difficult papal succession had become lately, so he&#x27;d been diligently training for the humble profession of priesthood as well.</p>
+<p>&quot;But,&quot; Cliff continued as he sat back down on the couch and held his head in his arms, &quot;I&#x27;ve gotten married. I even have a child.&quot;</p>
+<p>I instantly understood what he was worried about. It was the same kind of worry that I&#x27;d always been plagued by.</p>
+<p>&quot;The Millis Church, they have no qualms with targeting the families of the weak…of their enemies.&quot;</p>
+<p>&quot;…&quot;</p>
+<p>&quot;Lise would be fine, she knows how to protect herself. But Clive, he&#x27;s not old enough to walk on his own two feet. I&#x27;m—I&#x27;m not confident that I can protect him.&quot;</p>
+<p>I understood his concern. You always want to keep your loved ones safe.</p>
+<p>&quot;I haven&#x27;t even told my grandfather I&#x27;m married. If word got out that the Millis pope&#x27;s grandson got married to an elf, he could have a scandal on his hands. One that could force him to flee the country.&quot;</p>
+<p>The Millis faith was pretty rough on other races. Elves might typically face less discrimination due to being a forest-dwelling race, but I&#x27;d heard that there were extremists who persecuted them just because they weren&#x27;t human. And given that Elinalise wasn&#x27;t exactly in great standing among the elves, the reality awaiting Cliff and his family was harsh.</p>
+<p>&quot;I&#x27;ve been thinking about it over and over. Should I go back, should I not</p>
+<p>go back. Then Lise comforts me when I just don&#x27;t know anymore… It&#x27;s all I&#x27;ve been thinking about lately. It&#x27;s a bit late to realize this, but I think I get what made Zanoba so stubborn about going back to Shirone…&quot;</p>
+<p>I was sure that Cliff personally wanted to return, even if he wasn&#x27;t set on it. But doing so would put his wife and son in danger; worse yet, his choice of wife could even put his grandfather at risk. Would it be right to stay committed to his old dreams? Impossible to say. Even I didn&#x27;t know the answer. But what I came here to discuss also touched upon that very question. I was finally in a position to offer him a lifeline.</p>
+<p>&quot;Cliff?&quot;</p>
+<p>&quot;…What?&quot;</p>
+<p>&quot;I&#x27;d like to you to join Orsted&#x27;s army in a formal capacity.&quot;</p>
+<p>Cliff stared blankly in response. It might have been a clunky choice of words on my part, but I didn&#x27;t want to confuse him by asking him to &quot;join my cause&quot; or something. I had to be clear.</p>
+<p>&quot;What do you mean?&quot;</p>
+<p>&quot;If you become Orsted&#x27;s subordinate, then Orsted and I can offer you our full support. You&#x27;ll be able to protect Elinalise and Clive while also leading your grandfather&#x27;s camp to victory.&quot;</p>
+<p>Cliff furrowed his brow. &quot;If I accepted your help, what would I need to do?&quot;</p>
+<p>&quot;Once you assume power, you&#x27;ll have to prepare for Laplace&#x27;s eventual resurrection.&quot;</p>
+<p>From there, I explained my plan—the one centered on Orsted eighty years from now. I&#x27;d mentioned the Man-God to Cliff before, but this time, I explained everything in detail from the beginning.</p>
+<p>&quot;…&quot; Once I was done telling him everything, Cliff looked deep in thought.</p>
+<p>&quot;So, what do you think?&quot; I asked.</p>
+<p>Cliff didn&#x27;t answer right away; he crossed his arms, closed his eyes, and mumbled in consternation. &quot;Hmm…&quot;</p>
+<p>I thought it was a pretty good deal. Cliff knew that his vague disdain for Orsted was due to Orsted&#x27;s curse. He didn&#x27;t know what Orsted was really like without the curse…but even if you took him out of the equation, I wouldn&#x27;t</p>
+<p>betray Cliff. I would&#x27;ve been sad if he had questions about that.</p>
+<p>&quot;Can…can you give me some more time?&quot; Cliff asked, as though his response was being pried out of him after all that deep thought. &quot;The graduation ceremony&#x27;s happening soon. I&#x27;ll make a decision by then.&quot;</p>
+<p>He gave me a clear deadline, so I had no choice but accept it. I had to wonder why he couldn&#x27;t let himself simply nod and agree, but perhaps Cliff himself didn&#x27;t understand his hesitation.</p>
+<p>&quot;In that case, you should talk it over with Elinalise, too,&quot; I said. &quot;There&#x27;s no reason to carry the whole burden yourself.&quot;</p>
+<p>&quot;Huh? Oh, yeah, that&#x27;s right. Thanks.&quot;</p>
+<p>This time, Cliff simply nodded as a faint smile crept across his face.</p>
+<p>Elinalise probably overheard our discussion. I&#x27;d noticed flashes of blonde hair peeking out from behind a cracked-open door down the hall. I was sure that someone like her could make Cliff see sense. They might not end up where I&#x27;d like…but hey, that&#x27;d be fine, too.</p>
+<p>&quot;All right, I&#x27;ll come back later.&quot;</p>
+<p>&quot;Sure. Sorry about all this,&quot; said Cliff.</p>
+<p>&quot;Don&#x27;t worry. I know it&#x27;s hard, but we&#x27;re all in this together.&quot;</p>
+<p>With that, I left Cliff&#x27;s room—though, not before giving the heads up to Elinalise.</p>
+<p>I&#x27;d wait until the graduation ceremony for Cliff&#x27;s answer. That was about two months out, so I figured I&#x27;d get things rolling on another project. For that one, I needed Zanoba&#x27;s assistance.</p>
+<p><strong>Chapter 2: The Zanoba Store</strong></p>
