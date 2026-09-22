@@ -1421,6 +1421,14 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* ── Mobile nav ── */
 /* ── Responsive ── */
 @media (max-width: 768px) {
+  /* Mobile glass-up: no wallpaper here, so glass cues come from brighter
+     borders, a top-inner highlight, and a sheen gradient on every card. */
+  .terminal, .novel-card, .stack-card, .stat-card, .chapter-card,
+  .section-badge, .playlist, .code-block, .dict-result {
+    border-color: var(--line-hi);
+    box-shadow: var(--glass-shadow), inset 0 1px 0 rgba(255, 255, 255, .14);
+    background-image: linear-gradient(rgba(255, 255, 255, .05), transparent 32%);
+  }
   .stack-grid { grid-template-columns: repeat(2, 1fr); }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .terminal-body h1 { font-size: var(--text-xl); }
