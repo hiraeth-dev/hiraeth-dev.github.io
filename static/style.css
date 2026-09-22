@@ -159,7 +159,7 @@ html[data-theme="amber"] {
   --glow: rgba(255, 180, 84, .30);
   --halo-a: rgba(255, 160, 40, .16);
   --halo-b: rgba(210, 80, 20, .13);
-  --blur: 20px;
+  --blur: 14px;
   --sat: 140%;
   --bg-panel: #14100A;
   --bg-panel-alt: #251A0E;
@@ -174,7 +174,7 @@ html[data-theme="amber"] {
   --link: #FF7A3D;
   --link-hover: #FFB454;
   --focus-ring: #FFB454;
-  --grid-fade: transparent;
+  --grid-fade: #0B0906;
   --grid-line: rgba(255, 176, 84, .09);
   --grid-dot: rgba(255, 180, 84, .30);
   --bar-a: #FFB454;
@@ -628,26 +628,56 @@ body:has(#grid-canvas)::before {
 }
 html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 
-/* ── Amber wallpaper ──
-   Fixed photo behind the grid canvas (z-index -3: rearmost layer).
-   Amber theme only — every other theme keeps its solid gradient + grid. */
-html[data-theme="amber"] body:has(#grid-canvas)::after {
-  content: ""; position: fixed; inset: 0;
-  z-index: -3; pointer-events: none;
-  /* Only ~13% of the wallpaper leaks through, blurred (≈ kawase size 8 /
-     passes 3); the dark body background does the rest. Scaled so blurred
-     edges never show. */
-  background: url("/wallpaper-amber.webp") center / cover no-repeat;
-  opacity: 0.12;
-  filter: blur(18px) saturate(1.25);
-  transform: scale(1.05);
-}
 
-/* Amber panels: 87% translucent over the wallpaper, frosted by backdrop blur
-   (≈ kawase size 8 / passes 3). */
-html[data-theme="amber"] {
-  --glass-bg: color-mix(in srgb, var(--bg-panel) 30%, transparent);
-  --glass-bg-strong: color-mix(in srgb, var(--bg-panel) 90%, transparent);
+/* ── Theme wallpapers (desktop only) ──
+   Fixed photo behind the grid canvas (z-index -3: rearmost layer), same
+   recipe per theme: 0.12 leak, 30px blur, brighter, desaturated. The
+   transparent --grid-fade makes grid.js skip its edge fill so the photo
+   shows through everywhere. Mobile never sees any of this. */
+@media (min-width: 769px) {
+  html[data-theme="amber"], html[data-theme="slick"], html[data-theme="mallow"],
+  html[data-theme="safelight"], html[data-theme="tungsten"] {
+    --grid-fade: transparent;
+  }
+  html[data-theme="amber"] {
+    --blur: 20px;
+    --glass-bg: color-mix(in srgb, #211C16 25%, transparent);
+    --glass-bg-strong: color-mix(in srgb, #211C16 40%, transparent);
+  }
+  html[data-theme="slick"], html[data-theme="mallow"],
+  html[data-theme="safelight"], html[data-theme="tungsten"] {
+    --glass-bg: color-mix(in srgb, var(--bg-panel) 25%, transparent);
+    --glass-bg-strong: color-mix(in srgb, var(--bg-panel) 40%, transparent);
+  }
+  html[data-theme="amber"] body:has(#grid-canvas)::after,
+  html[data-theme="slick"] body:has(#grid-canvas)::after,
+  html[data-theme="mallow"] body:has(#grid-canvas)::after,
+  html[data-theme="safelight"] body:has(#grid-canvas)::after,
+  html[data-theme="tungsten"] body:has(#grid-canvas)::after {
+    content: ""; position: fixed; inset: 0;
+    z-index: -3; pointer-events: none;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.12;
+    filter: blur(30px) brightness(1.15) saturate(0.7);
+    transform: scale(1.05);
+  }
+  html[data-theme="amber"] body:has(#grid-canvas)::after {
+    background-image: url("/wallpaper-amber.webp");
+  }
+  html[data-theme="slick"] body:has(#grid-canvas)::after {
+    background-image: url("/wallpaper-slick.webp");
+  }
+  html[data-theme="mallow"] body:has(#grid-canvas)::after {
+    background-image: url("/wallpaper-mallow.webp");
+  }
+  html[data-theme="safelight"] body:has(#grid-canvas)::after {
+    background-image: url("/wallpaper-safelight.webp");
+  }
+  html[data-theme="tungsten"] body:has(#grid-canvas)::after {
+    background-image: url("/wallpaper-tungsten.webp");
+  }
 }
 
 /* ── Terminal window ── */
@@ -1391,16 +1421,6 @@ html[data-theme="amber"] {
 /* ── Mobile nav ── */
 /* ── Responsive ── */
 @media (max-width: 768px) {
-  /* Mobile stays pre-wallpaper: no photo layer, original solid fade + frost. */
-  html[data-theme="amber"] {
-    --grid-fade: #0B0906;
-    --blur: 14px;
-    --glass-bg: color-mix(in srgb, var(--bg-panel) 62%, transparent);
-    --glass-bg-strong: color-mix(in srgb, var(--bg-panel) 82%, transparent);
-  }
-  html[data-theme="amber"] body:has(#grid-canvas)::after {
-    display: none;
-  }
   .stack-grid { grid-template-columns: repeat(2, 1fr); }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .terminal-body h1 { font-size: var(--text-xl); }
