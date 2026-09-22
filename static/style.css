@@ -60,38 +60,40 @@
   box-sizing: border-box;
 }
 
-/* ── Base: tungsten (fallback when JS disabled, matches default theme) ── */
+/* ── Base: amber (fallback when JS disabled, matches default theme) ── */
 :root {
-  --bg: #0A0A0C;
-  --bg-panel: #121317;
-  --bg-panel-alt: #1A1C22;
-  --border: rgba(255, 255, 255, .12);
-  --border-strong: rgba(255, 255, 255, .34);
-  --fg: #E8EAEF;
-  --fg-dim: #858B97;
-  --fg-muted: #565C68;
-  --accent: #F2F5FA;
-  --accent-bright: #FFFFFF;
-  --accent-soft: #9FB0C4;
-  --accent-dim: #5C6675;
-  --link: #9FB0C4;
-  --link-hover: #F2F5FA;
-  --focus-ring: #F2F5FA;
-  --grid-fade: #0A0A0C;
-  --grid-line: rgba(255, 255, 255, .09);
-  --grid-dot: rgba(190, 205, 230, .22);
-  --bg-glow: #121317;
-  --bg-core: #050506;
-  --bar-a: #F2F5FA;
-  --bar-b: #9FB0C4;
-  --bar-c: #FFFFFF;
-  --orange: #9FB0C4;
-  --orange-deep: #5C6675;
+  --bg: #0B0906;
+  --bg-elev: #14100A;
+  --bg-panel: #14100A;
+  --bg-panel-alt: #251A0E;
+  --border: rgba(255, 176, 84, .22);
+  --border-strong: rgba(255, 196, 120, .5);
+  --fg: #F2E3CC;
+  --fg-dim: #9C876A;
+  --fg-muted: #6E5B40;
+  --accent: #FFB454;
+  --accent-2: #FF7A3D;
+  --accent-bright: #FFD9A0;
+  --accent-soft: #FF8A4D;
+  --accent-dim: #B25A1E;
+  --link: #FF7A3D;
+  --link-hover: #FFB454;
+  --focus-ring: #FFB454;
+  --grid-fade: #0B0906;
+  --grid-line: rgba(255, 176, 84, .09);
+  --grid-dot: rgba(255, 180, 84, .30);
+  --bg-glow: #14100A;
+  --bg-core: #060503;
+  --bar-a: #FFB454;
+  --bar-b: #FF7A3D;
+  --bar-c: #FFD9A0;
+  --orange: #FF8A4D;
+  --orange-deep: #8A3D16;
   --red: #FF6B6B;
   --red-deep: #C44545;
-  --cyan: #F2F5FA;
-  --cyan-deep: #858B97;
-  --yellow: #FFFFFF;
+  --cyan: #FFB454;
+  --cyan-deep: #B25A1E;
+  --yellow: #FFD9A0;
   --font-mono: "Maple Mono NF", monospace;
   --font-read: "Maple Mono NF", monospace;
   --text-xs: 0.75rem;
@@ -135,10 +137,10 @@ html[data-font="space"] {
 
 /* Themes: amber, mallow, deep, slick, safelight, tungsten. */
 :root {
-  --cat-dark: #343A42;
-  --cat-mid: #6B7280;
-  --cat-base: #9FB0C4;
-  --cat-light: #F2F5FA;
+  --cat-dark: #5C3410;
+  --cat-mid: #9A5A1C;
+  --cat-base: #FFB454;
+  --cat-light: #FFD9A0;
 }
 /* ── amberglass — DEC VT220 phosphor behind smoked glass. Warm, low-glare, easy at 2am. ── */
 html[data-theme="amber"] {
@@ -157,7 +159,7 @@ html[data-theme="amber"] {
   --glow: rgba(255, 180, 84, .30);
   --halo-a: rgba(255, 160, 40, .16);
   --halo-b: rgba(210, 80, 20, .13);
-  --blur: 14px;
+  --blur: 20px;
   --sat: 140%;
   --bg-panel: #14100A;
   --bg-panel-alt: #251A0E;
@@ -172,7 +174,7 @@ html[data-theme="amber"] {
   --link: #FF7A3D;
   --link-hover: #FFB454;
   --focus-ring: #FFB454;
-  --grid-fade: #0B0906;
+  --grid-fade: transparent;
   --grid-line: rgba(255, 176, 84, .09);
   --grid-dot: rgba(255, 180, 84, .30);
   --bar-a: #FFB454;
@@ -441,7 +443,7 @@ nav.top {
   max-width: 100%;
   box-sizing: border-box;
   padding: 6px 24px;
-  background: var(--glass-bg-strong);
+  background: var(--glass-bg);
   backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   border-bottom: 1px solid var(--border);
@@ -625,6 +627,28 @@ body:has(#grid-canvas)::before {
   transition: opacity 0.4s ease;
 }
 html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
+
+/* ── Amber wallpaper ──
+   Fixed photo behind the grid canvas (z-index -3: rearmost layer).
+   Amber theme only — every other theme keeps its solid gradient + grid. */
+html[data-theme="amber"] body:has(#grid-canvas)::after {
+  content: ""; position: fixed; inset: 0;
+  z-index: -3; pointer-events: none;
+  /* Only ~13% of the wallpaper leaks through, blurred (≈ kawase size 8 /
+     passes 3); the dark body background does the rest. Scaled so blurred
+     edges never show. */
+  background: url("/wallpaper-amber.webp") center / cover no-repeat;
+  opacity: 0.12;
+  filter: blur(18px) saturate(1.25);
+  transform: scale(1.05);
+}
+
+/* Amber panels: 87% translucent over the wallpaper, frosted by backdrop blur
+   (≈ kawase size 8 / passes 3). */
+html[data-theme="amber"] {
+  --glass-bg: color-mix(in srgb, var(--bg-panel) 30%, transparent);
+  --glass-bg-strong: color-mix(in srgb, var(--bg-panel) 90%, transparent);
+}
 
 /* ── Terminal window ── */
 .terminal {
@@ -1092,7 +1116,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 .chapter-body {
   max-width: var(--content-w); margin: 0 auto;
   padding: 32px 36px;
-  background: color-mix(in srgb, var(--bg-panel) 82%, transparent);
+  background: var(--glass-bg);
   backdrop-filter: blur(10px) saturate(var(--sat, 140%));
   -webkit-backdrop-filter: blur(10px) saturate(var(--sat, 140%));
   border: 1px solid var(--border);

@@ -11,14 +11,20 @@ Base palette per theme — every theme **must** define all of these:
 |---|---|
 | Core (per theme, literal) | `--bg`, `--bg-elev`, `--fg`, `--fg-dim`, `--accent`, `--accent-2` |
 | Glass (per theme, literal) | `--glass`, `--glass-hi`, `--line`, `--line-hi`, `--sheen`, `--grid`, `--glow`, `--halo-a`, `--halo-b`, `--blur`, `--sat` |
-| Legacy compat (per theme, literal) | `--bg-panel` (=bg-elev), `--bg-panel-alt`, `--bg-glow` (=bg-elev), `--bg-core`, `--fg-muted`, `--border` (=line), `--border-strong` (=line-hi), `--accent-bright/soft/dim`, `--link`, `--link-hover`, `--focus-ring`, `--grid-fade` (=bg), `--grid-line`, `--grid-dot`, `--bar-a/b/c`, `--orange(+deep)`, `--red(+deep)`, `--cyan(+deep)`, `--yellow`, `--cat-dark/mid/base/light` |
+| Legacy compat (per theme, literal) | `--bg-panel` (=bg-elev), `--bg-panel-alt`, `--bg-glow` (=bg-elev), `--bg-core`, `--fg-muted`, `--border` (=line), `--border-strong` (=line-hi), `--accent-bright/soft/dim`, `--link`, `--link-hover`, `--focus-ring`, `--grid-fade` (=bg, except amber `transparent`), `--grid-line`, `--grid-dot`, `--bar-a/b/c`, `--orange(+deep)`, `--red(+deep)`, `--cyan(+deep)`, `--yellow`, `--cat-dark/mid/base/light` |
 | Type (global `:root`) | `--font-mono`, `--font-read`, `--text-xs/sm/base/lg/xl/2xl`, `--content-w{-wide,-list}` |
 | Glass system (global, auto-derived) | `--glass-bg` (panel 62%), `--glass-bg-strong` (panel 82%), `--glass-blur` (= per-theme `--blur`), `--glass-hi` (fg 14%), `--glass-shadow(-hover)` |
 
-Fonts switch via `html[data-font="iosevka"]`, which also bumps root
-`font-size` to 110%. Default theme is `tungsten`, default font `iosevka`; boot script in
-`templates/base.html` sets `data-theme`/`data-font` pre-paint from
-`?theme=`/`?font=` params, else `localStorage`, else defaults.
+Fonts switch via `html[data-font]`, which also bumps root `font-size`
+(maple/space 110%, iosevka 115%). Default theme is `amber`, default font
+`iosevka`; boot script in `templates/base.html` sets `data-theme`/`data-font`
+pre-paint from `?theme=`/`?font=` params, else `localStorage`, else defaults.
+
+Amber alone layers `static/wallpaper-amber.webp` (277KB) fixed behind the grid
+canvas (`body::after`, z-index -3) at 0.12 opacity + 18px blur; its
+`--grid-fade` is `transparent` so `grid.js` skips the edge fill, and its
+`--glass-bg` is panel 30% (nav unified to the same token). Other themes are
+unaffected.
 
 ### Glass tokens (global, auto-derived — work in every theme)
 

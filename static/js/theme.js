@@ -3,9 +3,9 @@
   var btn = document.getElementById('theme-btn');
   if (!btn) return;
   var VALID = ['amber', 'mallow', 'slick', 'safelight', 'tungsten'];
-  var current = html.getAttribute('data-theme') || 'tungsten';
+  var current = html.getAttribute('data-theme') || 'amber';
   if (VALID.indexOf(current) < 0) {
-    current = 'tungsten';
+    current = 'amber';
     html.setAttribute('data-theme', current);
     try { localStorage.setItem('theme', current); } catch (e) {}
   }

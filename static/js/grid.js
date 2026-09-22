@@ -37,11 +37,15 @@
   }
   let clr = getColors();
   let dotRgba = parseRgba(clr.dot);
+  // Amber theme sets --grid-fade: transparent so the wallpaper shows through.
+  // (custom props keep the keyword as-is: 'transparent', not rgba.)
+  let fadeSolid = !isTransparent(clr.fade);
   let live = false;
   // hiraeth's theme switcher dispatches this; re-read vars when it fires.
   document.addEventListener('themechange', () => {
     clr = getColors();
     dotRgba = parseRgba(clr.dot);
+    fadeSolid = !isTransparent(clr.fade);
   });
 
   function resize() {
@@ -69,6 +73,10 @@
     }
   }
 
+  function isTransparent(v) {
+    const s = v.trim().toLowerCase();
+    return s === 'transparent' || s.replace(/\s+/g, '') === 'rgba(0,0,0,0)';
+  }
   function hexAlpha(hex, a) {
     const r = parseInt(hex.slice(1, 3), 16);
     const g = parseInt(hex.slice(3, 5), 16);
@@ -80,13 +88,16 @@
     const w = c.width, h = c.height;
     ctx.clearRect(0, 0, w, h);
 
-    const grad = ctx.createLinearGradient(0, 0, 0, h);
-    grad.addColorStop(0, clr.fade);
-    grad.addColorStop(0.12, hexAlpha(clr.fade, 0));
-    grad.addColorStop(0.88, hexAlpha(clr.fade, 0));
-    grad.addColorStop(1, clr.fade);
-    ctx.fillStyle = grad;
-    ctx.fillRect(0, 0, w, h);
+    // Amber skips this fill (transparent --grid-fade) so the wallpaper shows.
+    if (fadeSolid) {
+      const grad = ctx.createLinearGradient(0, 0, 0, h);
+      grad.addColorStop(0, clr.fade);
+      grad.addColorStop(0.12, hexAlpha(clr.fade, 0));
+      grad.addColorStop(0.88, hexAlpha(clr.fade, 0));
+      grad.addColorStop(1, clr.fade);
+      ctx.fillStyle = grad;
+      ctx.fillRect(0, 0, w, h);
+    }
 
     const cols = Math.ceil(w / SPACING) + 2;
     const rows_n = Math.ceil(h / SPACING) + 2;
