@@ -2,8 +2,8 @@
   var html = document.documentElement;
   var btn = document.getElementById('font-btn');
   if (!btn) return;
-  var VALID = ['maple', 'iosevka'];
-  var LABELS = { maple: 'Maple Mono', iosevka: 'Iosevka' };
+  var VALID = ['maple', 'iosevka', 'space'];
+  var LABELS = { maple: 'Maple Mono', iosevka: 'Iosevka', space: 'Space Mono' };
   var current = html.getAttribute('data-font') || 'iosevka';
   if (VALID.indexOf(current) < 0) {
     current = 'iosevka';
@@ -19,7 +19,8 @@
   describe();
 
   btn.addEventListener('click', function() {
-    current = current === 'maple' ? 'iosevka' : 'maple';
+    var idx = VALID.indexOf(current);
+    current = VALID[(idx + 1) % VALID.length];
     html.setAttribute('data-font', current);
     try { localStorage.setItem('font', current); } catch (err) {}
     describe();

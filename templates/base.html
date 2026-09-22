@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>(function(){var t;try{var p=new URLSearchParams(window.location.search).get('theme');t=p||localStorage.getItem('theme')}catch(e){}var v=['amber','mallow','slick','safelight','tungsten'];if(v.indexOf(t)<0)t='tungsten';document.documentElement.setAttribute('data-theme',t);var f;try{var pf=new URLSearchParams(window.location.search).get('font');f=pf||localStorage.getItem('font')}catch(e){}var fv=['maple','iosevka'];if(fv.indexOf(f)<0)f='iosevka';document.documentElement.setAttribute('data-font',f);document.documentElement.classList.add('js')})();</script>
+  <script>(function(){var t;try{var p=new URLSearchParams(window.location.search).get('theme');t=p||localStorage.getItem('theme')}catch(e){}var v=['amber','mallow','slick','safelight','tungsten'];if(v.indexOf(t)<0)t='tungsten';document.documentElement.setAttribute('data-theme',t);var f;try{var pf=new URLSearchParams(window.location.search).get('font');f=pf||localStorage.getItem('font')}catch(e){}var fv=['maple','iosevka','space'];if(fv.indexOf(f)<0)f='iosevka';document.documentElement.setAttribute('data-font',f);document.documentElement.classList.add('js')})();</script>
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <link rel="stylesheet" href="/style.css">
   <link rel="preload" href="/fonts/MapleMono-NF-Regular.woff2" as="font" type="font/woff2" crossorigin>
@@ -12,6 +12,8 @@
   <link rel="preload" href="/fonts/MapleMono-NF-BoldItalic.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/fonts/Iosevka-Regular.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/fonts/Iosevka-Bold.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/SpaceMono-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/SpaceMono-Bold.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="alternate icon" href="/favicon.ico">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -36,14 +38,7 @@
     <button class="theme-btn" id="font-btn" type="button" aria-label="Font" title="Font"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 6V4h14v2M12 4v16M9 20h6"/></svg></button>
   </div>
   <div class="theme-pick">
-    <button class="theme-btn" id="theme-btn" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Theme" title="Theme"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor" stroke="none"/></svg></button>
-    <div class="theme-menu" id="theme-menu">
-      <button type="button" data-theme-opt="amber">amber</button>
-      <button type="button" data-theme-opt="mallow">mallow</button>
-      <button type="button" data-theme-opt="slick">slick</button>
-      <button type="button" data-theme-opt="safelight">safelight</button>
-      <button type="button" data-theme-opt="tungsten">tungsten</button>
-    </div>
+    <button class="theme-btn" id="theme-btn" type="button" aria-label="Theme" title="Theme"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor" stroke="none"/></svg></button>
   </div>
 </nav>
 
