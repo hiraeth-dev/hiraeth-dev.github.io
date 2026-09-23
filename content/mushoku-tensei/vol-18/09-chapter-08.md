@@ -35,7 +35,7 @@ nav_title = "Chapter 8"
 <p>Perugius broke out into a grin. &quot;Oh? Judging by your reply, I suppose Orsted must have told you about our peoples&#x27; ability to reincarnate.&quot;</p>
 <p>&quot;He did.&quot;</p>
 <p>&quot;In that case, be sure you don&#x27;t forget this: when the day comes that Laplace reincarnates, I will kill him, regardless of if he happens to be your son.&quot; His teeth showed as his smile spread.</p>
-<p><em>That&#x27;s terrifying.</em></p>
+<p>That&#x27;s terrifying.</p>
 <p>&quot;Well, personally, I&#x27;d like to pray that never happens.&quot;</p>
 <p>Personally, I was split on the matter of Laplace. According to Orsted, he was the last of the dedicated warriors to have continued fighting the Man-God over a long period. That would make him an ally under normal circumstances, but he was defeated by the Man-God. The resulting split in his personality resulted in one half deceiving Ruijerd and becoming bitter enemies with Perugius. That made him my enemy. If such a man was then born as my son, I wouldn&#x27;t know what to do.</p>
 <p>I wasn&#x27;t too worried, of course. Orsted implied he already knew exactly when, where, and under whose identity Laplace would reincarnate. My appearance may have altered the future, but since Laplace seemed to have a strong destiny of his own, I wanted to believe my presence wouldn&#x27;t greatly influence that.</p>
@@ -47,12 +47,12 @@ nav_title = "Chapter 8"
 <p>After that, I went to my assigned room and waited patiently. Linia&#x27;s eyes lit up when she saw how opulent the rooms were. She wasted no time diving onto the plush couch.</p>
 <p>&quot;Haah,&quot; she sighed. &quot;You being unfazed I get, but Aisha being fearless is another story, Boss. Can&#x27;t believe she can act on equal footing with someone that terrifying, mew…&quot; Linia stretched out her body as she grumbled.</p>
 <p>I had no idea what Aisha had discussed with Perugius, but knowing her, everything must have gone well. Perugius seemed pretty chill about their encounter as well. My only worry was Aisha&#x27;s occasional propensity to say what she was thinking even if it was insensitive or offensive.</p>
-<p><em>Maybe I&#x27;d better take some preemptive measures to make sure she doesn&#x27;t step on Perugius&#x27;s toes.</em></p>
+<p>Maybe I&#x27;d better take some preemptive measures to make sure she doesn&#x27;t step on Perugius&#x27;s toes.</p>
 <p>&quot;Linia, none of us are on equal footing with him,&quot; I said. &quot;We&#x27;re all beneath him. The only reason Aisha was forgiven for being so brazen is because Lord Perugius is a magnanimous man.&quot;</p>
 <p>&quot;Think so, mew? Sure he&#x27;s not just terrified of that big bad Dragon God boss you got behind ya? I haven&#x27;t met him myself, but he&#x27;s pretty scary, right? Cliff was a trembling mess, mew.&quot;</p>
 <p>&quot;Hey, knock that off! That&#x27;s not true at all!&quot; I snapped.</p>
 <p>Perugius could overhear every word of our conversation. This was the equivalent of squeezing water from a dirty dishrag into someone&#x27;s tea before serving it. Honestly! I couldn&#x27;t believe the nerve of her.</p>
-<p>Not long after that conversation, a grumpy Sylvaril showed up. As I suspected, she&#x27;d overheard us. &quot;Lord Perugius <em>is</em> a magnanimous man, and he thinks of you as a close friend,&quot; she said with added emphasis, as if to put me in my place.</p>
+<p>Not long after that conversation, a grumpy Sylvaril showed up. As I suspected, she&#x27;d overheard us. &quot;Lord Perugius is a magnanimous man, and he thinks of you as a close friend,&quot; she said with added emphasis, as if to put me in my place.</p>
 <p>There no was no need for that; I wasn&#x27;t getting ahead of myself. And I&#x27;d prefer it if she didn&#x27;t take what this idiot cat said seriously. Besides, it was a great honor being considered a friend by someone as awe-inspiring as Lord Perugius. I said as much to Sylvaril, trying to butter her up, but my attempt was apparently a little overdone because it did nothing to soften her bad mood. &quot;Preparations are complete, so please come this way,&quot; she said irritably as she ushered us out of the room.</p>
 <p>Sylvaril guided us to the basement of the fortress: it was the same dark, dank maze we&#x27;d descended into on our trip to the Demon Continent. In one of the dimly lit rooms we found Perugius and Nanahoshi standing side-by-side. Before them was, unsurprisingly, a teleportation circle. It wasn&#x27;t emitting any light; they must not have activated it yet.</p>
 <p>As I waited, wondering what the holdup could be, Nanahoshi took a deep breath, holding a magic crystal in her hands.</p>
@@ -64,7 +64,7 @@ nav_title = "Chapter 8"
 <p>I opened it and studied it. The Doldia Village was near the edge of the paper, so I could only assume we&#x27;d be teleporting to the ruins in the middle. It looked like the village was half a day&#x27;s travel away. Perhaps it was because the whole place was covered in forest, but the two locations looked fairly close by. I decided to show Linia and see what she had to say.</p>
 <p>&quot;Ah, I know where this is, mew. Don&#x27;t worry, it&#x27;s pretty close, mew.&quot;</p>
 <p>Then surely everything would be fine. It had been close to a decade since Linia had last been home, but since it was her birthplace, it was probably best to leave navigation to her.</p>
-<p><em>As for you, Miss Sylvaril, I bet you had no intention of handing us that map unless Lord Perugius said something first. Such wicked behavior is very unbecoming, you know. I&#x27;ll tattle on you to Lord Perugius!</em></p>
+<p>As for you, Miss Sylvaril, I bet you had no intention of handing us that map unless Lord Perugius said something first. Such wicked behavior is very unbecoming, you know. I&#x27;ll tattle on you to Lord Perugius!</p>
 <p>&quot;Now, let&#x27;s get started,&quot; said Perugius.</p>
 <p>&quot;All right.&quot; Nanahoshi knelt and drew the magic crystal close to the circle. With a brush in hand, she began drawing something on the ground.</p>
 <p>&quot;Just to be on the safe side, we&#x27;re only going to activate the circle for a moment. Once you&#x27;re over there, you&#x27;ll need to figure things out yourself,&quot; said Perugius. &quot;Understood?&quot;</p>
@@ -76,9 +76,9 @@ nav_title = "Chapter 8"
 <p>&quot;Urk!&quot;</p>
 <p>The next thing I knew, I was surrounded by water that rose all the way to my stomach. Below it, I spotted the magic circle that had brought us here. The light it had emitted soon disappeared.</p>
 <p>&quot;Meeeew! I knew it, it&#x27;s the rainy season!&quot; Linia squeaked, cradling Leo in her arms. Despite essentially being a dog, he held his head high as if he thought it was only natural for her to carry him, even though he was already completely soaked. To make matters worse, our luggage was waterlogged too.</p>
-<p><em>Oh, great. That means my apology gift is probably sopping wet.</em></p>
+<p>Oh, great. That means my apology gift is probably sopping wet.</p>
 <p>The water was freezing. If we didn&#x27;t hurry out of here and find a place to dry off, we risked catching a cold.</p>
-<p><em>Not that a cold really matters. A little detoxification magic will fix that right up.</em></p>
+<p>Not that a cold really matters. A little detoxification magic will fix that right up.</p>
 <p>Those thoughts knocked around in my head as I began the search for some stairs, but I saw nothing that would help us to climb out of here. That left me with only one option. I called forth a lamplight spirit to aid me, and finally, located a stairway…that led downwards. This was apparently the top floor of this building.</p>
 <p>&quot;Boss, you gotta do something, mew!&quot;</p>
 <p>&quot;Hold your horses,&quot; I barked back.</p>
@@ -98,7 +98,7 @@ nav_title = "Chapter 8"
 <p>&quot;When it does end, that&#x27;ll be mating season, mew. If that happens, I&#x27;ll end up being someone&#x27;s plaything, mew.&quot;</p>
 <p>Ah, right. Mating season. It was one thing to resist her when we were at home, but I wasn&#x27;t sure I could hold myself back on a trip like this. Perhaps it would be better to get going then. Or would it be better to go back and see if Orsted had some kind of item to help us along?</p>
 <p>&quot;Woof!&quot; Leo barked, puffing out his chest as he looked up at me.</p>
-<p><em>What&#x27;s with him?</em></p>
+<p>What&#x27;s with him?</p>
 <p>&quot;Ya mean it, mew?!&quot; Linia hopped in, responding for me.</p>
 <p>&quot;Woof!&quot;</p>
 <p>&quot;You aren&#x27;t the Sacred Beast for nothing, that&#x27;s for sure, mew!&quot;</p>
@@ -108,7 +108,7 @@ nav_title = "Chapter 8"
 <p>Linia was right; Leo&#x27;s title wasn&#x27;t meaningless. He was very capable.</p>
 <p>With that decided, I used my earth magic to conjure a boat. The issue with my earth-crafting was that the more mana I concentrated into it, the heavier whatever I was trying to make became. However, by decreasing the intensity of mana that I used, I could also make something lighter. To construct a proper boat, I would need to use a honeycomb pattern and maintain mana density while shaping, making sure the center could contain air and give it buoyancy.</p>
 <p>It took a little more than an hour to complete the project. The end product was a misshapen square raft.</p>
-<p><em>Ah well, it floats, and its propulsion is entirely based on my own magic. This should suit us just fine</em>.</p>
+<p>Ah well, it floats, and its propulsion is entirely based on my own magic. This should suit us just fine.</p>
 <p>&quot;All right! Shall we be off?&quot;</p>
 <p>Linia looked uneasy. &quot;You sure this is gonna be okay, mew? Boss, did you run outta mana or something? I sure hope we don&#x27;t sink halfway there, mew…&quot;</p>
 <p>&quot;If it starts going under, we&#x27;ll stop midway and climb one of the trees and rest on the branches for a while,&quot; I said as I climbed aboard the raft. It lacked stability, but I could simply patch it up along the way.</p>
@@ -124,9 +124,9 @@ nav_title = "Chapter 8"
 <p>The whole village erupted into a great fuss upon spotting us. Warriors came rushing out, almost like bees swarming out of a hive, and they were all fully decked out.</p>
 <p>&quot;It&#x27;s a human male.&quot;</p>
 <p>&quot;Don&#x27;t tell me he&#x27;s the one who kidnapped the Sacred Beast…?&quot;</p>
-<p>&quot;Come to think of it, there <em>was</em> an incident just like this ten years ago.&quot;</p>
+<p>&quot;Come to think of it, there was an incident just like this ten years ago.&quot;</p>
 <p>As our raft drew closer, the beastfolk grew even more wary. The atmosphere was so tense that it seemed likely they might clap us in irons without any room for discussion.</p>
-<p><em>Oh boy, now what? They might capture me, strip me, and throw me in a cell again.</em></p>
+<p>Oh boy, now what? They might capture me, strip me, and throw me in a cell again.</p>
 <p>Just as I was beginning to grow worried, Linia stood up.</p>
 <p>&quot;Everyone! I, Linia Dedoldia, daughter of Gyes Dedoldia, have made my return, mew!&quot; she declared.</p>
 <p>&quot;Huh?&quot;</p>
@@ -170,7 +170,7 @@ nav_title = "Chapter 8"
 <p>&quot;The only thing he mentioned was that the food in your house is supposedly delicious,&quot; Gyes informed me.</p>
 <p>&quot;Sorry?&quot; I gaped.</p>
 <p>&quot;I jest. He said, &#x27;I am there to be at his daughter&#x27;s side, to do what must be done.&#x27;&quot; Gyes sighed.</p>
-<p><em>That was a joke? Gyes, you rascal. You can actually tell jokes now, huh?</em></p>
+<p>That was a joke? Gyes, you rascal. You can actually tell jokes now, huh?</p>
 <p>Anyway, so Leo was interested in my daughter, huh? Lucie? Nah, probably Lara. He was really attached to her, after all. From what I had seen, he was almost always glued to her baby bed. Orsted had even agreed that Lara had special promise.</p>
 <p>&quot;Woof!&quot;</p>
 <p>&quot;Hm? Destiny, you say?&quot;</p>
@@ -185,14 +185,14 @@ nav_title = "Chapter 8"
 <p>&quot;I don&#x27;t doubt that you&#x27;re telling the truth. However, this is unprecedented—for the savior&#x27;s father to summon the Sacred Beast directly and have him protect her from infancy…&quot;</p>
 <p>Through Linia&#x27;s interpretation, Leo made a point of emphasizing his importance as he spoke. That level of arrogance reminded me of a certain buff Demon King I had met in the past.</p>
 <p>Anyway, so my daughter was the savior, huh? Our little baby Lara with that impudent-looking face? Orsted had hinted something along those lines, but nothing concrete. Huh. It felt very surreal, somehow.</p>
-<p><em>Maybe I should start teaching her kung fu while she&#x27;s young. You know, passing along my fatherly knowledge.</em></p>
+<p>Maybe I should start teaching her kung fu while she&#x27;s young. You know, passing along my fatherly knowledge.</p>
 <p>&quot;Woof, woof. Woof woof, woof!&quot; (Linia&#x27;s translation: &quot;The legend also talks about a possibility of the savior dying early! Tell me, do you recall what that entails?!&quot;)</p>
 <p>After a brief pause, Gyes answered, &quot;According to the legend, if the savior dies, the Sacred Tree will wither. The Sacred Beast will also grow weaker and weaker until death takes him.&quot;</p>
 <p>&quot;Grrrr!&quot; (Linia&#x27;s translation: &quot;Someone is after my master&#x27;s life! Is it your desire to snuff mine out as well?!&quot;)</p>
 <p>Gyes shook his head. &quot;No, that is absolutely not what we want.&quot;</p>
 <p>&quot;Arf!&quot; (Linia&#x27;s translation: &quot;In that case, there should be no issue here!&quot;)</p>
 <p>Again, Gyes&#x27;s expression soured. He glared at Linia, who had been animatedly interpreting the conversation for me the entire time. Linia withered under his gaze and hid behind me.</p>
-<p><em>This is why you gotta quit joking around. Yeah, I&#x27;m the one who asked you to interpret, but you&#x27;re the one who took weird creative liberties and pissed him off. You goofed, so you need to deal with the consequences.</em></p>
+<p>This is why you gotta quit joking around. Yeah, I&#x27;m the one who asked you to interpret, but you&#x27;re the one who took weird creative liberties and pissed him off. You goofed, so you need to deal with the consequences.</p>
 <p>&quot;Linia,&quot; Gyes said suddenly. &quot;Is everything he&#x27;s saying true?&quot;</p>
 <p>&quot;Y-yes, it is, sir. He&#x27;s there to protect Boss&#x27;s—uh, I mean—Lord Rudeus&#x27;s child, mew.&quot;</p>
 <p>It was rare for her to speak so politely. Apparently even Sharia&#x27;s arrogant delinquent was terrified of her father.</p>
@@ -203,27 +203,27 @@ nav_title = "Chapter 8"
 <p>Would the same be true for Linia? Nah, I was sure she&#x27;d be the same until the day she died.</p>
 <p>The two young women standing behind Gyes chimed in, &quot;There&#x27;s no way a demon could be the savior, mew!&quot;</p>
 <p>&quot;Yeah! And he said he called the Sacred Beast to him with summoning magic. I&#x27;ll bet he used some weird sorcery to trick the Sacred Beast!&quot;</p>
-<p>Minitona and Tersuna sounded just like Gyes had in his younger days. <em>Weird. I was pretty sure in the past they were grateful to me for my help. I guess being around the other beastfolk for so long colored their view, huh?</em></p>
+<p>Minitona and Tersuna sounded just like Gyes had in his younger days. Weird. I was pretty sure in the past they were grateful to me for my help. I guess being around the other beastfolk for so long colored their view, huh?</p>
 <p>Their shift in attitude aside, they kind of had a point; I did use a magic circle devised by Perugius to summon Leo. The circle had conditions placed on it to make whoever was summoned from it completely obedient to me. Perhaps that had an impact on Leo, and his belief that my daughter was the savior was only a delusion.</p>
 <p>&quot;No, the chances of that are slim,&quot; said Gyes. &quot;If that were the case, Lord Rudeus would not come all the way to our village like this. He lives on the other side of the world. It would have been hard for us to track him down and do something about him. So he would have ignored the situation if he was planning anything underhanded.&quot;</p>
 <p>&quot;I-I guess so…&quot;</p>
-<p><em>Uh, yeah, about that… I should apologize. I actually did try to ignore it. Sorry about that.</em></p>
+<p>Uh, yeah, about that… I should apologize. I actually did try to ignore it. Sorry about that.</p>
 <p>&quot;Well, that should be enough regarding the matter of the Sacred Beast,&quot; Gyes said.</p>
 <p>&quot;Are you sure that&#x27;s wise?&quot;</p>
 <p>&quot;He has spoken. Our job now is simply to obey.&quot;</p>
 <p>&quot;Woof!&quot; Leo barked, as if agreeing, then promptly placed his head on my lap.</p>
 <p>I instinctively stroked his head, and his expression turned to one of contentment. Minitona and Tersena looked entirely displeased, as if they found my actions impudent, but I ignored them. Back home we did this all the time.</p>
-<p>Still, I was surprised that they accepted what Leo had to say so readily. I guess Linia was right in the end. <em>In fact, I seem to recall Ghislaine saying something similar too.</em></p>
+<p>Still, I was surprised that they accepted what Leo had to say so readily. I guess Linia was right in the end. In fact, I seem to recall Ghislaine saying something similar too.</p>
 <p>&quot;That said, Lord Rudeus… Let&#x27;s see… yes, about fifteen years from now. When your child has matured, please bring her here. I would like to follow custom and conduct the Sacred Tree ceremony. I am sure it will be a difficult trek given that it takes about a year to travel from where you live, but I would still ask it of you. This is a part of our duty.&quot;</p>
 <p>&quot;Very well then.&quot;</p>
-<p>A ceremony, huh? I had no idea what that entailed exactly, but I assumed it was some kind of formality. <em>So we&#x27;re going to celebrate Lara reaching adulthood in fifteen years from now here in the Doldia Village, huh? I&#x27;ll have to write that down in my diary so I don&#x27;t forget.</em></p>
+<p>A ceremony, huh? I had no idea what that entailed exactly, but I assumed it was some kind of formality. So we&#x27;re going to celebrate Lara reaching adulthood in fifteen years from now here in the Doldia Village, huh? I&#x27;ll have to write that down in my diary so I don&#x27;t forget.</p>
 <p>At least that took care of the situation with Leo, and much more smoothly than I thought it would. I let out a breath. I wasn&#x27;t the only one relieved; I noticed the tension leave Gyes&#x27;s shoulders as well. The whole room seemed more relaxed.</p>
 <p>Gyes glanced over at Linia, who immediately flinched. &quot;Now tell me, why is our brazen little alley cat, Linia, staying with Lord Rudeus, hm?&quot;</p>
 <p>&quot;Oh,&quot; I said. &quot;About that, actually. You see, she tried to get into the trade business, but she ended up racking up a huge de—&quot;</p>
 <p>&quot;So glad you asked, mew!&quot; Linia interrupted, suddenly pushing herself in front of me so she could explain for herself. &quot;You see, I thought about throwing my hat in and trying out the trading business after I split with Pursena, but then one day, I received a divine revelation from the heavens, mew. I followed their advice and returned to the Magic City of Sharia. And would you believe who I found there? None other than the Sacred Beast himself! This is it, I thought to myself, the purr-pose for which I was led here—to look after the Sacred Beast and all his needs! So really, I haven&#x27;t forgotten the duty our tribe&#x27;s been tasked with. In fact, the whole reason I didn&#x27;t come back was because, as one of our warriors, I was trying to fulfill my role, mew!&quot;</p>
 <p>Wow. It sure was impressive how she could pull so many lies out of thin air like that. Or perhaps she&#x27;d been contemplating what excuses to feed her father in advance?</p>
 <p>Gyes eyed her skeptically, but Minitona and Tersena looked completely convinced. They had regarded her disdainfully moments before, but now they gazed at her with something bordering on reverence.</p>
-<p><em>These guys really are simple-minded.</em></p>
+<p>These guys really are simple-minded.</p>
 <p>Although I had read in a manga somewhere that once people stop looking down on others and start to respect people, it facilitates their own growth. It made sense; finding something good in an otherwise hopeless person reflected on one&#x27;s maturity.</p>
 <p>But still, lying wasn&#x27;t great.</p>
 <p>&quot;Pardon, Mister Gyes,&quot; I cut in. &quot;Actually, she tried her hands at the whole trading business and racked up a bunch of debt. That&#x27;s how she ended up being turned into a slave, and I stepped in to save her. Well, really, I just shouldered her debt for her.&quot;</p>
@@ -232,18 +232,18 @@ nav_title = "Chapter 8"
 <p>Minitona and Tersena were back to giving her dirty looks.</p>
 <p>&quot;She&#x27;s currently working at my place to return the money she owes,&quot; I explained.</p>
 <p>&quot;So what you mean, Lord Rudeus, is that she is currently your slave. Correct?&quot;</p>
-<p><em>Urk. Now that I think about it, she</em> is <em>Gyes&#x27;s daughter. I can only imagine how he feels as a father, hearing that his child has been turned into a slave. If it were me and I heard Lucie was a slave, I&#x27;d kill whoever owned her and set her free, no questions asked.</em></p>
+<p>Urk. Now that I think about it, she is Gyes&#x27;s daughter. I can only imagine how he feels as a father, hearing that his child has been turned into a slave. If it were me and I heard Lucie was a slave, I&#x27;d kill whoever owned her and set her free, no questions asked.</p>
 <p>Regardless, I couldn&#x27;t bring myself to lie.</p>
 <p>&quot;Effectively, I guess you could say that,&quot; I admitted reluctantly. &quot;But to be clear, I am most certainly not treating her like a slave. I&#x27;m just helping her get back on her feet, as a friend.&quot;</p>
 <p>Gyes shook his head. &quot;I don&#x27;t care whatever the circumstances are. She is the one who abandoned her duties for her ambition, only to end up in enormous debt and bring trouble to the door of our peoples&#x27; hero. I would be ashamed for anyone to even know she&#x27;s from our village. So please, feel free to do whatever you want with her.&quot;</p>
-<p><em>Oh, wow. Gyes, man, you sure have turned into a man of reason since I last saw you.</em></p>
+<p>Oh, wow. Gyes, man, you sure have turned into a man of reason since I last saw you.</p>
 <p>Actually, no. Judging by his face, he was actually lamenting the kind of woman his daughter had turned into.</p>
 <p>Linia frowned. &quot;Hey, Daddy, isn&#x27;t that a bit cruel, mew? I was in a real bind there, you know. If things hadn&#x27;t gone the way they did, I&#x27;d have been a sex toy for some perverted nobles.&quot;</p>
 <p>&quot;As I recall, Lord Rudeus,&quot; he said, mostly ignoring her, &quot;your libido was strong even as a child. Mating season should start soon enough. When that happens, you are welcome to use Linia as you please.&quot;</p>
 <p>&quot;Mew! Daddy, have you no concern for your daughter&#x27;s chastity?!&quot; Linia waved her fists in the air, incensed.</p>
 <p>Gyes glared at her, his throat rumbling low and deep as he snapped, &quot;Silence. If you claim to be one of the beastfolk, then you should offer your body freely to repay what you owe.&quot;</p>
 <p>&quot;Urgh…&quot; Linia shrunk back. &quot;F-fine, I understand, mew. I was the one in the wrong, mew.&quot; She hid behind me again.</p>
-<p><em>Look, I don&#x27;t mind if you use me as a shield, but don&#x27;t push your breasts up against my back. I have no intention of doing anything to you, mating season or not.</em></p>
+<p>Look, I don&#x27;t mind if you use me as a shield, but don&#x27;t push your breasts up against my back. I have no intention of doing anything to you, mating season or not.</p>
 <p>&quot;At any rate, it is true that someone needs to be there to look after the Sacred Beast, and we haven&#x27;t the means of returning the debt Linia owes anyway,&quot; said Gyes. &quot;So please take her with you when you go.&quot;</p>
 <p>Someone to look after Leo, huh? I didn&#x27;t really think he needed that, but the Doldia Tribe did have their duty to fulfill. If they wanted to watch over him, I had no reason to refuse them. Besides, it would be a bigger problem for me if Linia did remain.</p>
 <p>&quot;However,&quot; Gyes continued, &quot;I do feel uneasy sending Linia by herself.&quot;</p>
@@ -261,7 +261,7 @@ nav_title = "Chapter 8"
 <p>&quot;That&#x27;s not true at all, Tona. You big liar!&quot;</p>
 <p>&quot;You&#x27;re the liar, Tersena!&quot;</p>
 <p>The two reminded me of Linia and Pursena, each defending their own position.</p>
-<p><em>Oh yeah, come to think of it…</em> &quot;Has Pursena not made it back home yet?&quot; I asked.</p>
+<p>Oh yeah, come to think of it… &quot;Has Pursena not made it back home yet?&quot; I asked.</p>
 <p>***</p>
 <p>&quot;This way.&quot;</p>
 <p>I was led to a building at the edge of the village. It was a familiar place for me, at least. Truly familiar. I had once lived here myself before. It was quite a comfortable little spot, although I did end up sharing it with a roommate at one point—a middle-aged man with a monkey&#x27;s face. It had been a nice accommodation even so. The security was top-notch and—okay, yeah. Enough of the jokes. Basically, they brought me to the jail.</p>

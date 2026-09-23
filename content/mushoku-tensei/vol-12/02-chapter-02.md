@@ -8,16 +8,16 @@ nav_title = "Chapter 2"
 +++
 
 <p><strong>R</strong>OXY WAS in trouble.</p>
-<p>The moment I heard that, I felt the immediate need to go rushing off to find her. She was lost in a teleportation labyrinth, but fortunately, I had <em>An Exploratory Account of the Teleportation Labyrinth</em> at my side. A strategic guide. I had also researched teleportation circles myself, and as long as we had time to observe one of the circles, we could surely use this book to guide us through.</p>
+<p>The moment I heard that, I felt the immediate need to go rushing off to find her. She was lost in a teleportation labyrinth, but fortunately, I had An Exploratory Account of the Teleportation Labyrinth at my side. A strategic guide. I had also researched teleportation circles myself, and as long as we had time to observe one of the circles, we could surely use this book to guide us through.</p>
 <p>But first, I had to be clear on where things currently stood. That was important.</p>
-<p>It might be a race against time for both Roxy and Zenith. If we were even five minutes late, it could be the difference between life or death for them. Even so—or rather, <em>precisely</em> for that reason—we couldn&#x27;t be hasty. We had to confirm the situation, carefully prepare, and then save them without fail.</p>
+<p>It might be a race against time for both Roxy and Zenith. If we were even five minutes late, it could be the difference between life or death for them. Even so—or rather, precisely for that reason—we couldn&#x27;t be hasty. We had to confirm the situation, carefully prepare, and then save them without fail.</p>
 <p>If we were too hasty, we might overlook something important and make a mistake, rendering all our efforts in vain. That would cost us not only five minutes, but maybe even a day, perhaps two or three. We had to be cautious. There was no room for mistakes here.</p>
 <p>A mistake, I was sure, would leave me with regrets. Whatever the circumstances, if my errors led to us being unable to save Roxy or Zenith, I would be left with overwhelming regrets.</p>
 <p>&quot;Father, I have a notebook with me by an adventurer who went deep into the Teleportation Labyrinth.&quot; I started by revealing the book&#x27;s existence.</p>
-<p><em>An Exploratory Account of the Teleportation Labyrinth</em> was once shown to me by Master Fitz. It had detailed information about the shape of teleportation circles, which were considered taboo. The</p>
+<p>An Exploratory Account of the Teleportation Labyrinth was once shown to me by Master Fitz. It had detailed information about the shape of teleportation circles, which were considered taboo. The</p>
 <p>only reason it had avoided censorship at the university was either because it had simply been lucky enough to go unnoticed, or because it was an adventurer&#x27;s tale. The fact that it hadn&#x27;t been taken off the shelves meant it was possible the book was pure fiction.</p>
 <p>The Teleportation Labyrinth was one into which no one had ventured. The author might just have used the concept to spin this fictional tale, but that seemed unlikely to me. After all, the teleportation circles described in this book bore a striking resemblance to the real thing. I&#x27;d researched the circles myself, and this book had the most accurate and precise information about them that I&#x27;d found when cross-referencing it with other such books. I was certain of it.</p>
-<p>Still, it could be referencing a <em>different</em> teleportation labyrinth. I couldn&#x27;t rule out the possibility of there being another labyrinth in this world that was littered with teleportation traps. A guidebook of the same name had no value unless its contents matched the situation.</p>
+<p>Still, it could be referencing a different teleportation labyrinth. I couldn&#x27;t rule out the possibility of there being another labyrinth in this world that was littered with teleportation traps. A guidebook of the same name had no value unless its contents matched the situation.</p>
 <p>&quot;If the labyrinth written about in here matches the one we&#x27;re about to enter, then this could really help us navigate our way.&quot;</p>
 <p>When I said that, Paul&#x27;s eyes widened. &quot;Hold on, Rudy…why do you even have a book like that?&quot;</p>
 <p>&quot;I thought it might be useful, so I took it from the university library and brought it along.&quot;</p>
@@ -26,7 +26,7 @@ nav_title = "Chapter 2"
 <p>&quot;I&#x27;d like to go over the contents of the book. If it seems like it might be helpful, let&#x27;s make use of it.&quot; Paul took it in his hands and, after a long, hard look at the front cover, immediately passed it over to Geese.</p>
 <p>The latter held it and turned to me. &quot;I&#x27;ll go ahead and read it then, &#x27;kay?&quot;</p>
 <p>&quot;Please do.&quot;</p>
-<p><em>Why Geese?</em> I wondered. Everyone acted like this was natural, though, so I chose not to ask. This must just be Geese&#x27;s role in Paul&#x27;s party. He was capable of doing anything, so that was just what he did. I felt like I&#x27;d heard him say as much before. He was probably also in charge of mapping their labyrinth diving and organizing the information at their disposal.</p>
+<p>Why Geese? I wondered. Everyone acted like this was natural, though, so I chose not to ask. This must just be Geese&#x27;s role in Paul&#x27;s party. He was capable of doing anything, so that was just what he did. I felt like I&#x27;d heard him say as much before. He was probably also in charge of mapping their labyrinth diving and organizing the information at their disposal.</p>
 <p>&quot;Father, while Geese is reading that, I&#x27;d like you to tell me about the labyrinth.&quot; I stood directly in front of Paul, prepared to direct questions his way for the purpose of confirming what was written in the book.</p>
 <p>&quot;Sure, go ahead.&quot;</p>
 <p>My questions pertained to the types and names of monsters, the number of floors to the deepest level, the status of the interior, and the shape of the circles. Paul readily answered.</p>
@@ -39,7 +39,7 @@ nav_title = "Chapter 2"
 <p>How many floors to the bottom level? Unknown. Rumor had it that it was either six or seven floors, but no one had actually delved those depths far enough to look upon its guardian yet. As for the state of each of those floors, that was difficult to describe, too, but the book had some accounts.</p>
 <p>The first floor was where spiders created their numerous webs. The second floor was occupied by a vast number of spiders and caterpillars. On the third floor, Mud Skulls took command over the aforementioned monsters. Once you got to the fourth floor, the spiders and caterpillars were virtually absent, leaving Mud Skulls and Armored Warriors. On the fifth floor, the Mud Skulls vanished and it was only Armored Warriors and Devouring Devils. After the sixth floor, there were only Devouring Devils.</p>
 <p>There was nothing in the book about floors after the sixth.</p>
-<p>The first three floors were part of an ant nest: complex, winding pathways with rooms connected at the end. Apparently, the teleportation circles were always located in the back of these rooms. According to the book, the labyrinth transformed into a stone ruin around the fourth floor, but Paul and his group hadn&#x27;t made it that far yet. But there <em>was</em> information about the beasts and first three floors to be found, courtesy of the trial and error of numerous adventurers.</p>
+<p>The first three floors were part of an ant nest: complex, winding pathways with rooms connected at the end. Apparently, the teleportation circles were always located in the back of these rooms. According to the book, the labyrinth transformed into a stone ruin around the fourth floor, but Paul and his group hadn&#x27;t made it that far yet. But there was information about the beasts and first three floors to be found, courtesy of the trial and error of numerous adventurers.</p>
 <p>Finally, the shape of the teleportation circles. Carved into the ground were complex, bizarre shapes emitting a pale light. Hearing them described in detail, they sounded just like the ones I&#x27;d seen several times for myself.</p>
 <p>Most of what Paul said fell in line with what I&#x27;d read in the book and seen for myself.</p>
 <p>&quot;This is amazin&#x27;, haha! Leave it to you, Boss. You brought us somethin&#x27; incredible!&quot; About the time Paul concluded his explanation, Geese clapped the book closed and raised his voice in excitement. Apparently, he was done flipping through it. He sure was a quick reader. Or perhaps he&#x27;d just skimmed the highlights.</p>
@@ -76,7 +76,7 @@ nav_title = "Chapter 2"
 <p>&quot;If I might ask a question, Lord Rudeus,&quot; Lilia spoke up.</p>
 <p>&quot;Yes, what is it?&quot;</p>
 <p>&quot;Is Aisha performing acceptably?&quot;</p>
-<p>It was thanks to her question that I finally realized the answer to my own. <em>That&#x27;s right, family. We are a family, after all. So we can just talk about that</em>.</p>
+<p>It was thanks to her question that I finally realized the answer to my own. That&#x27;s right, family. We are a family, after all. So we can just talk about that.</p>
 <p>&quot;Yes. She&#x27;s working really hard.&quot;</p>
 <p>&quot;She hasn&#x27;t caused you any trouble, has she?&quot;</p>
 <p>&quot;Not at all,&quot; I assured her. &quot;She&#x27;s a big help. She&#x27;s been doing all the household chores for us.&quot;</p>
@@ -109,7 +109,7 @@ nav_title = "Chapter 2"
 <p>Apparently, he wanted to engage in some locker room talk. Part of me wondered if that was really appropriate, given the circumstances, but I could also understand where he was coming from. He was probably in high spirits himself, since it was the first time we&#x27;d seen each other in a while. It was just that he hadn&#x27;t wanted to reveal that side of himself in front of everyone else. I was pretty happy to be reunited with him, too.</p>
 <p>Starting tomorrow, we&#x27;d be entering the labyrinth. We&#x27;d no longer have the opportunity for these kinds of things. At least for tonight, we could cut loose and swap sex stories.</p>
 <p>&quot;I feel pretty confident when it comes to sex,&quot; said Paul. &quot;You can ask me anything. I might not look it now, but I played around quite a bit when I was younger.&quot;</p>
-<p>It looked like I had no other choice. Guess I&#x27;d just have to go along with him. I <em>had</em> always kind of wanted someone I could have open conversations with on the subject. &quot;All right then, there&#x27;s a few questions I&#x27;d like to ask,&quot; I began.</p>
+<p>It looked like I had no other choice. Guess I&#x27;d just have to go along with him. I had always kind of wanted someone I could have open conversations with on the subject. &quot;All right then, there&#x27;s a few questions I&#x27;d like to ask,&quot; I began.</p>
 <p>&quot;Honestly, Lord Rudeus,&quot; Lilia cut in, exasperated, &quot;I can&#x27;t believe you&#x27;re going along with this.&quot;</p>
 <p>Paul said, &quot;She talks like that, but she&#x27;s pretty aggressive in bed.&quot;</p>
 <p>&quot;My lord!&quot; Lilia protested.</p>

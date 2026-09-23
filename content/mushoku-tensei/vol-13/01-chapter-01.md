@@ -13,24 +13,24 @@ nav_title = "Chapter 1"
 <p>&quot;Ooh…&quot;</p>
 <p>I slowly emerged from beneath the blanket, and then rose to my knees as quietly as I could. Putting my hands together, I offered her a brief gesture of supplication. There was a holy personage in my bed. It was only natural that I show her deference.</p>
 <p>&quot;Wait a minute. Could this mean…&quot;</p>
-<p>With shaking hands, I reached out to pull back the blanket from atop the goddess. It was just as I&#x27;d hoped! Astonishing as it may seem, her entire <em>body</em> had manifested next to me!</p>
+<p>With shaking hands, I reached out to pull back the blanket from atop the goddess. It was just as I&#x27;d hoped! Astonishing as it may seem, her entire body had manifested next to me!</p>
 <p>&quot;Ooooh!&quot;</p>
 <p>Her figure was slender and deceptively youthful in appearance, lacking curves in certain places where they might usually be expected. It was too dark to see clearly, but…was that dot I saw on her chest a divine symbol, perhaps? An auspicious mark, meant to represent her third eye?</p>
 <p>No, probably not. Still, it was something no less holy.</p>
 <p>&quot;Gulp…&quot;</p>
-<p>Would it be permissible for me to touch her? Surely I had the heavens&#x27; implicit blessing. The goddess had come to <em>me,</em> after all. I was the chosen one. The messiah. And surely a messiah is allowed to touch his god.</p>
+<p>Would it be permissible for me to touch her? Surely I had the heavens&#x27; implicit blessing. The goddess had come to me, after all. I was the chosen one. The messiah. And surely a messiah is allowed to touch his god.</p>
 <p>But was it permissible for me to do so while her spirit was roving elsewhere? There was a risk that I would burden my soul with sin, and bar myself from the gates of Nirvana. The moment I reached out my hand, she might flood the room with brilliant light, shout &quot;Begone, foul Mara!&quot;, and purify me into nothingness.</p>
 <p>What a cruel dilemma. I couldn&#x27;t help it if my little apostle was feeling particularly fervent this morning!</p>
 <p>&quot;Mm… &#x27;S cold…&quot;</p>
 <p>The goddess grabbed blindly for the blanket, pulled it back over her, and then turned on her other side.</p>
 <p>&quot;Oooh…&quot;</p>
 <p>How truly wondrous! I could see the white nape of her neck peeking from beneath her blue hair! I could see the hickeys I&#x27;d left there yesterday! Truly splendid. Surely I was the luckiest man in the world, to be offered such spectacular sights the very moment I awakened.</p>
-<p><em>…Oh, right. We don&#x27;t have that much time in the morning, do we? Better get her up…</em></p>
+<p>…Oh, right. We don&#x27;t have that much time in the morning, do we? Better get her up…</p>
 <p>&quot;Roxy, wake up. It&#x27;s morning.&quot;</p>
 <p>&quot;Hm…?&quot;</p>
 <p>My goddess opened her eyes and slowly sat up. The blanket slipped away as she did so, revealing her lovely, naked back. This was the dawn of a new age.</p>
 <p>&quot;…Good morning.&quot;</p>
-<p>Sluggishly, she turned around to face me, eyes fogged with sleep. She had <em>two</em> auspicious marks on her chest, and a cute little belly button down below them. And then there were her panties, which hid further spiritual delights.</p>
+<p>Sluggishly, she turned around to face me, eyes fogged with sleep. She had two auspicious marks on her chest, and a cute little belly button down below them. And then there were her panties, which hid further spiritual delights.</p>
 <p>My stupa was accumulating karma at a dangerous rate of speed. At this rate, I was going to reach enlightenment before too long.</p>
 <p>&quot;Oh…&quot;</p>
 <p>Perhaps noticing this state of affairs, she grabbed the blanket and pulled it up to hide her body. The goddess had abandoned me. All light faded from the world. A new dark age was upon us…</p>
@@ -40,9 +40,9 @@ nav_title = "Chapter 1"
 <p>&quot;Don&#x27;t be absurd! Come on, pull back that blanket. Let me bask in your radiance!&quot;</p>
 <p>&quot;Good lord, you&#x27;re certainly energetic this morning… Well, whatever. I suppose there isn&#x27;t any reason to be bashful at this point…&quot;</p>
 <p>Slowly, Roxy pulled the blanket aside. Just like that, the light came flooding back into my world. Yeah, I saw the light, and it was good!</p>
-<p>I saw the darkness, too; I named it <em>Eros,</em> and the light <em>Apollo.</em> Beside the darkness, I saw a belly button and thighs. I named them <em>Cupid</em> and <em>Amor</em>. That seemed like enough work for the first day.</p>
+<p>I saw the darkness, too; I named it Eros, and the light Apollo. Beside the darkness, I saw a belly button and thighs. I named them Cupid and Amor. That seemed like enough work for the first day.</p>
 <p>&quot;All right, I think that&#x27;s enough.&quot;</p>
-<p>Once again, that accursed blanket hid the glories of creation from my eyes. Another dark age was… Okay, even <em>I</em> was getting sick of this bit.</p>
+<p>Once again, that accursed blanket hid the glories of creation from my eyes. Another dark age was… Okay, even I was getting sick of this bit.</p>
 <p>&quot;Uhm, Rudy?&quot;</p>
 <p>&quot;Yes, dear?&quot;</p>
 <p>&quot;Thank you. For last night.&quot;</p>
@@ -53,10 +53,10 @@ nav_title = "Chapter 1"
 <p>&quot;To be honest, I didn&#x27;t even know there were…techniques like those.&quot; Her eyes darting away from mine, Roxy blushed a little.</p>
 <p>&quot;Heh heh. Well, it&#x27;s a wide world out there, you know?&quot;</p>
 <p>I&#x27;d used every trick I knew. Over the years, I&#x27;d developed a routine that always left Sylphie breathless from too much moaning. I wanted to overwhelm Roxy with pleasure, too, and I figured my &quot;techniques&quot; would be the quickest way to accomplish that.</p>
-<p>It hadn&#x27;t gone <em>exactly</em> as expected, though. Mostly because Roxy kept asking me questions at every step of the process—usually something like &quot;What should I be doing now?&quot; It seemed she was just the studious type, even in bed. I&#x27;d indulged her with brief explanations and tips, followed by <em>extensive</em> hands-on demonstrations.</p>
+<p>It hadn&#x27;t gone exactly as expected, though. Mostly because Roxy kept asking me questions at every step of the process—usually something like &quot;What should I be doing now?&quot; It seemed she was just the studious type, even in bed. I&#x27;d indulged her with brief explanations and tips, followed by extensive hands-on demonstrations.</p>
 <p>&quot;Teach me more of the details next time, all right?&quot;</p>
 <p>&quot;You could always just lie back and let me do my thing, Roxy. I&#x27;ll make sure you enjoy yourself.&quot;</p>
-<p>&quot;No, thank you. I want to develop my <em>own</em> skills.&quot;</p>
+<p>&quot;No, thank you. I want to develop my own skills.&quot;</p>
 <p>To be honest, this wasn&#x27;t what I&#x27;d pictured when I was planning things out beforehand. But it wasn&#x27;t half bad, in its own way. Sylphie had her approach to sex, and Roxy had a different one. I found both of them very satisfying, so I wasn&#x27;t about to complain.</p>
 <p>&quot;Ugh. I&#x27;m going to be late for work…&quot;</p>
 <p>Her face still slightly flushed, Roxy turned her face away from me and clambered down out of the bed. I stayed right where I was seated formally on the bed—and bathed in the radiance of her butt as she walked across the room.</p>
@@ -68,12 +68,12 @@ nav_title = "Chapter 1"
 <p>&quot;I&#x27;m sorry, Rudy. It looks like I scratched you. Does it hurt?&quot;</p>
 <p>&quot;Hm?&quot;</p>
 <p>When I craned my head around to get a look, I could just see four long, thin welts on one side of my back. They stung a little when I touched them. Roxy had left them on me last night. They were a badge of honor, in other words.</p>
-<p><em>Gah, now she&#x27;s got me remembering the look on her face when she did that… Down, boy! Down! We don&#x27;t have time for your antics right now!</em></p>
+<p>Gah, now she&#x27;s got me remembering the look on her face when she did that… Down, boy! Down! We don&#x27;t have time for your antics right now!</p>
 <p>&quot;I&#x27;m fine, Roxy.&quot;</p>
 <p>&quot;I hope they don&#x27;t leave a scar or anything…&quot;</p>
 <p>Roxy&#x27;s face was bright red as she mumbled out those words. The fact that she didn&#x27;t even think of healing them with magic made me feel like she was busy remembering last night as well. I looked up and met her gaze. I could see my face&#x27;s reflection in her big blue eyes. After a moment, she closed them, clearly anticipating a kiss.</p>
 <p>I couldn&#x27;t take her up on that, though. We&#x27;d find ourselves right back in bed ten seconds later. And so, I restrained myself to stroking her cheek affectionately.</p>
-<p>&quot;…I think it&#x27;s about time we got dressed, <em>Professor</em>.&quot;</p>
+<p>&quot;…I think it&#x27;s about time we got dressed, Professor.&quot;</p>
 <p>&quot;Oh. Right. O-of course!&quot;</p>
 <p>Roxy hopped back away from me, looking more than a little embarrassed, and started pulling on her underwear. I turned around and started getting dressed as well.</p>
 <p>&quot;Do I look all right, Rudy?&quot;</p>
@@ -81,7 +81,7 @@ nav_title = "Chapter 1"
 <p>&quot;Yep.&quot;</p>
 <p>&quot;Really?&quot;</p>
 <p>&quot;Of course, Roxy. You look great.&quot;</p>
-<p>That was an understatement, in fact. If there was anyone stupid enough to imply that Roxy looked anything less than <em>perfect</em>, I&#x27;d ensure they saw the error of their ways.</p>
+<p>That was an understatement, in fact. If there was anyone stupid enough to imply that Roxy looked anything less than perfect, I&#x27;d ensure they saw the error of their ways.</p>
 <p>&quot;Well, all right. It&#x27;s my first day on the job, you know? I can&#x27;t mess this one up!&quot;</p>
 <p>Roxy squeezed her hand into a fist and nodded to herself. As of today, she was going to be commuting to the University of Magic as well…but as a member of the faculty. This would also be my first day as a third-year student there.</p>
 <p>But before we get into all that, I should probably turn back the clock a little.</p>
@@ -98,22 +98,22 @@ nav_title = "Chapter 1"
 <p>It did make sense. She&#x27;d seemed a little bit restless since our arrival here.</p>
 <p>Roxy wasn&#x27;t exactly the domestic housekeeper type. She&#x27;d spent most of her life as a solo adventurer on the road, so she could handle almost any job when she needed to…but when it came to housework, she wasn&#x27;t nearly as efficient as Aisha, Sylphie, or Lilia.</p>
 <p>Also, we had two dedicated maids living in the house already, so there wasn&#x27;t much for her to do.</p>
-<p>She <em>was</em> taking the place of my left hand sometimes, though. I wasn&#x27;t used to being one-handed yet, and it did make some things really inconvenient. It was a help having Roxy around to assist me with getting dressed and eating my meals.</p>
+<p>She was taking the place of my left hand sometimes, though. I wasn&#x27;t used to being one-handed yet, and it did make some things really inconvenient. It was a help having Roxy around to assist me with getting dressed and eating my meals.</p>
 <p>Still, it wasn&#x27;t like I absolutely needed her around all day. I could bumble by on my own when I had to.</p>
 <p>&quot;Hmm…&quot;</p>
 <p>In any case… Roxy wanted to be a professor, did she? She was an amazing teacher, of course. I knew personally what a blessing it could be to learn magic from her.</p>
-<p>Given her talents and wisdom, it would be criminal of me to keep her around as nothing more than a replacement for my missing hand. Keeping her all to myself did have a certain appeal, but for the sake of everyone <em>else</em> in the world, she should be out there enriching our society with her presence.</p>
+<p>Given her talents and wisdom, it would be criminal of me to keep her around as nothing more than a replacement for my missing hand. Keeping her all to myself did have a certain appeal, but for the sake of everyone else in the world, she should be out there enriching our society with her presence.</p>
 <p>&quot;I&#x27;m sure it sounds a little arrogant to you, since I&#x27;m nothing special as a mage…but I&#x27;ve always enjoyed teaching people what I know.&quot;</p>
 <p>&quot;What? That&#x27;s not what I was thinking at all!&quot;</p>
 <p>I was actually kind of offended, in a way.</p>
-<p>No matter how many parallel universes might exist, you&#x27;d never find one where I thought Roxy was <em>arrogant.</em> I was fated to respect her deeply in every possible world line. It was the choice of Stein&#x27;s Gate!</p>
+<p>No matter how many parallel universes might exist, you&#x27;d never find one where I thought Roxy was arrogant. I was fated to respect her deeply in every possible world line. It was the choice of Stein&#x27;s Gate!</p>
 <p>&quot;You should go for it, Roxy. Absolutely. You&#x27;ll be a great professor!&quot;</p>
 <p>&quot;Oh. Well, that&#x27;s nice to hear…and a little embarrassing, I guess.&quot;</p>
 <p>Now that the matter was settled, there was no point dillydallying around. &quot;Okay then. Why don&#x27;t we go talk to Vice-Principal Jenius right now?&quot;</p>
 <p>Roxy started in surprise. &quot;Jenius? Wait, Professor Jenius is the Vice-Principal now?&quot;</p>
 <p>&quot;That&#x27;s right. Do you know him?&quot;</p>
 <p>For some reason, Roxy hesitated for a moment with something like a grimace on her face. &quot;He was my master, actually.&quot;</p>
-<p><em>Oh? Is Jenius a Saint-tier Water Mage, then? I thought Fire magic was his specialty… Maybe I&#x27;m misremembering?</em></p>
+<p>Oh? Is Jenius a Saint-tier Water Mage, then? I thought Fire magic was his specialty… Maybe I&#x27;m misremembering?</p>
 <p>Then again, it wasn&#x27;t that unusual for a mage to study more than one element in depth. Presumably Jenius was a Water Mage as well, and had just neglected to mention it to me.</p>
 <p>&quot;I&#x27;m afraid I said some very harsh things the last time I saw him. I regret that now, but I was young and hot-headed…&quot;</p>
 <p>&quot;Don&#x27;t worry about it, Roxy. The past is the past.&quot;</p>
@@ -206,12 +206,12 @@ nav_title = "Chapter 1"
 <p>&quot;Heh heh. It is the fruit of some six months&#x27; labors!&quot;</p>
 <p>&quot;Oh?&quot;</p>
 <p>&quot;Indeed,&quot; said Zanoba proudly, a meaningful smile on his face. &quot;I wasn&#x27;t just sitting around in your absence, Master.&quot;</p>
-<p><em>True enough. You&#x27;ve also been making love to inanimate objects… Whoops. No, I didn&#x27;t see that. I didn&#x27;t see anything!</em></p>
+<p>True enough. You&#x27;ve also been making love to inanimate objects… Whoops. No, I didn&#x27;t see that. I didn&#x27;t see anything!</p>
 <p>&quot;Okay, then. So what is it, exactly?&quot;</p>
 <p>&quot;Observe!&quot;</p>
 <p>His face full of confidence, Zanoba balled his free hand into a fist, then plunged it inside the model glove.</p>
 <p>At this point, he shouted something that sounded like an incantation: &quot;Earth, be thou my hand!&quot;</p>
-<p>All of a sudden, the model began to <em>move</em>. It had been fixed in the shape of a fist, but now its clay-like fingers slowly extended. It clenched again, then unclenched, and then folded down its fingers one by one.</p>
+<p>All of a sudden, the model began to move. It had been fixed in the shape of a fist, but now its clay-like fingers slowly extended. It clenched again, then unclenched, and then folded down its fingers one by one.</p>
 <p>All of these movements were startlingly smooth and naturallooking.</p>
 <p>&quot;It&#x27;s a magical implement in the shape of a hand. It moves exactly as its bearer wills.&quot;</p>
 <p>&quot;…&quot;</p>
@@ -230,17 +230,17 @@ nav_title = "Chapter 1"
 <p>With Zanoba&#x27;s second incantation, the hand stopped moving. Apparently, you could turn it on and off at will.</p>
 <p>&quot;Now then…&quot;</p>
 <p>Pulling his hand out of the magical implement, Zanoba offered it to me.</p>
-<p>&quot;Please do give it a try yourself, Master. Simply command it with the words &#x27;<em>Earth, be thou my hand,&#x27;</em> and it will become a part of you. When you wish to remove it, speak the words &#x27;<em>My hand, return to earth</em>.&#x27;&quot;</p>
+<p>&quot;Please do give it a try yourself, Master. Simply command it with the words &#x27;Earth, be thou my hand,&#x27; and it will become a part of you. When you wish to remove it, speak the words &#x27;My hand, return to earth.&#x27;&quot;</p>
 <p>&quot;All right.&quot;</p>
 <p>Accepting the hand from Zanoba, I pushed it against my left wrist. The thing was made to have room for a balled-up hand inside it, of course; since I was missing a hand, it felt like it might fall off at any moment.</p>
 <p>&quot;I&#x27;m not sure if this thing&#x27;s going to stay on, though…&quot;</p>
 <p>&quot;It won&#x27;t be a problem. Go ahead, try the incantation.&quot;</p>
-<p>&quot;Okay, then… <em>Earth, be thou my hand</em>.&quot;</p>
+<p>&quot;Okay, then… Earth, be thou my hand.&quot;</p>
 <p>The instant I spoke those words, I felt the device draining mana from my arm.</p>
 <p>It didn&#x27;t take that much. But of course it wouldn&#x27;t, if Zanoba could use it.</p>
 <p>&quot;Whoa!&quot;</p>
 <p>As soon as it absorbed my mana, I felt the device press itself tightly against my stump.</p>
-<p>The sense that I was &quot;wearing&quot; something quickly faded away. In its place, I could <em>feel</em> the artificial hand that was now connected to me.</p>
+<p>The sense that I was &quot;wearing&quot; something quickly faded away. In its place, I could feel the artificial hand that was now connected to me.</p>
 <p>&quot;…What do you think?&quot;</p>
 <p>Gingerly, I tried moving my left hand. I opened and closed it, stretched out each finger starting from the thumb, and folded them down starting from the pinky. The crude-looking clay responded as if it was just another part of my body.</p>
 <div class="chapter-illustration">
@@ -259,11 +259,11 @@ nav_title = "Chapter 1"
 <p>&quot;I wasn&#x27;t entirely sure if you&#x27;d be able to use it without a hand, but it seems there aren&#x27;t any major problems,&quot; said Zanoba with a satisfied smile.</p>
 <p>&quot;Yeah, it moves just fine. I can feel the fingers, too. And use magic.&quot;</p>
 <p>&quot;If you wish to increase its strength, simply feed it more of your mana. Its power will increase accordingly.&quot;</p>
-<p>&quot;Of course, if you were to give it <em>all</em> of your mana, I would expect it to fall apart under the strain. It&#x27;s sturdier than a normal human hand, but do be cautious.&quot;</p>
+<p>&quot;Of course, if you were to give it all of your mana, I would expect it to fall apart under the strain. It&#x27;s sturdier than a normal human hand, but do be cautious.&quot;</p>
 <p>&quot;Well, let&#x27;s see…&quot;</p>
 <p>As we spoke, I fed the device a bit more mana. The weight of the sculpture in my hand seemed to disappear entirely.</p>
 <p>&quot;Wow, this is really—&quot;</p>
-<p>Before I could finish my sentence, there was a sharp <em>crack</em>.</p>
+<p>Before I could finish my sentence, there was a sharp crack.</p>
 <p>&quot;Oh.&quot;</p>
 <p>&quot;Aaah!&quot;</p>
 <p>I&#x27;d snapped one of the legs clean off the little horse without even meaning to.</p>
@@ -278,12 +278,12 @@ nav_title = "Chapter 1"
 <p>&quot;With you and Cliff to help me, I&#x27;m sure I can make another of comparable quality in no time at all.&quot;</p>
 <p>That made sense. He was still actively working on his research, after all.</p>
 <p>It would be nice to make the thing more sensitive. That way, I could use it for recreational fondling.</p>
-<p>There were countless other possible improvements, of course. This thing had a <em>lot</em> of potential. For example, we could find a way to make it transform into various tools or weapons. How useful would it be to have fingers that turned into drills whenever you needed one? Or a hand that turned into a magic cannon on demand?</p>
+<p>There were countless other possible improvements, of course. This thing had a lot of potential. For example, we could find a way to make it transform into various tools or weapons. How useful would it be to have fingers that turned into drills whenever you needed one? Or a hand that turned into a magic cannon on demand?</p>
 <p>&quot;…Zanoba, I think this might be a pretty amazing invention.&quot;</p>
 <p>&quot;I quite agree! Not to toot my proverbial horn, but I do think it&#x27;s a rather splendid little item.&quot;</p>
 <p>As useful as it might be in combat, or in making figurines, there were plenty of other applications. For one thing, it was a brilliant prosthetic.</p>
 <p>In this world, it was possible to reattach a severed limb if you made your way to a magician with advanced skills in Healing. And wounds that would have landed you in a hospital back in my old world could be cured quickly with even elementary spells.</p>
-<p>On the other hand, having a <em>missing</em> part of your body regenerated was extremely expensive. Unless you were very wealthy, it probably wasn&#x27;t going to happen. And there weren&#x27;t many magicians even capable of restoring an entire arm or leg. You could find some in the Holy Country of Millis, but even there they were very rare. A mere adventurer couldn&#x27;t expect to employ their services.</p>
+<p>On the other hand, having a missing part of your body regenerated was extremely expensive. Unless you were very wealthy, it probably wasn&#x27;t going to happen. And there weren&#x27;t many magicians even capable of restoring an entire arm or leg. You could find some in the Holy Country of Millis, but even there they were very rare. A mere adventurer couldn&#x27;t expect to employ their services.</p>
 <p>When a common villager or adventurer lost a part of their body, for the most part they had to make do with crude replacement something more like Captain Ahab&#x27;s wooden peg-leg.</p>
 <p>If we started selling magical prosthetics like this at a relatively affordable price, we&#x27;d be helping a lot of people. And making plenty of money in the process.</p>
 <p>The Healers of Millis might not be too pleased about that, but fortunately, they were on the other side of the world from us. As long as we got the backing of a larger organization, like the University or the Magic Guild, it would probably work out just fine.</p>
@@ -348,7 +348,7 @@ nav_title = "Chapter 1"
 <p>Roxy was obviously flustered. Not that I could blame her.</p>
 <p>This was probably my cue to step in and calm things down a little. &quot;Not to worry, Teacher. If anyone tried to make an issue of it, I&#x27;d silence them myself.&quot;</p>
 <p>&quot;Not you too, Rudy! Have you lost your mind?!&quot;</p>
-<p><em>God, she&#x27;s so cute when she&#x27;s all worked up…</em></p>
+<p>God, she&#x27;s so cute when she&#x27;s all worked up…</p>
 <p>There wasn&#x27;t really anything to be worried about, though.</p>
 <p>&quot;I think you just need to take a few deep breaths and calm down, Roxy. It&#x27;s perfectly natural that Zanoba would want to prostrate himself in front of you.&quot;</p>
 <p>&quot;Uh, is it? Could you explain why?&quot;</p>
@@ -407,10 +407,10 @@ nav_title = "Chapter 1"
 <p>As they stood there meekly with their tails between their legs, I introduced Roxy as my beloved teacher. They promptly bowed their heads to her.</p>
 <p>I guess beastfolk are quick to recognize people they really shouldn&#x27;t mess with. Their instincts were right on the money this time.</p>
 <p>Ariel and Luke, on the other hand, were surprisingly oblivious.</p>
-<p>When I showed up to say hello, the first words out of Ariel&#x27;s mouth were &quot;I see you remembered to stop by <em>after</em> your trip, at least.&quot;</p>
+<p>When I showed up to say hello, the first words out of Ariel&#x27;s mouth were &quot;I see you remembered to stop by after your trip, at least.&quot;</p>
 <p>She didn&#x27;t seem genuinely upset, but she did explain that she could have offered me assistance if I&#x27;d come to see her before leaving. Considering that my inadequate preparations had ended up costing me dearly, hearing that left me a little shamefaced. I ended up apologizing for my oversight.</p>
 <p>Putting that aside, though… When I got around to introducing Roxy, the two of them stared at her in blank surprise, then turned to look at each other. They were obviously surprised that such a &quot;young&quot; magician would be taking on a role in the faculty here.</p>
-<p>Still, Ariel <em>was</em> a princess, with all the diplomatic skills that implied. She greeted Roxy very politely, without any hint of confusion in her voice. The woman&#x27;s self-control was impressive.</p>
+<p>Still, Ariel was a princess, with all the diplomatic skills that implied. She greeted Roxy very politely, without any hint of confusion in her voice. The woman&#x27;s self-control was impressive.</p>
 <p>We found Nanahoshi looking somewhat the worse for wear. She might have caught a cold or something, since she was coughing like crazy. When she saw my face, she smiled in relief and muttered &quot;Now we can get the research back on track.&quot;</p>
 <p>When I introduced Roxy, and explained that she would be teaching at the University from now on, her response was a disinterested &quot;I see.&quot;</p>
 <p>This struck me as a little too curt, so I took the time to elaborate on Roxy&#x27;s many virtues and talents. Sadly, Nanahoshi just grimaced and called me a &quot;cradle robber.&quot;</p>
@@ -418,16 +418,16 @@ nav_title = "Chapter 1"
 <p>By this point, it was getting around to evening, and we&#x27;d stopped by everyone I wanted to visit.</p>
 <p>Just as I was about to suggest we head home, though, Roxy spoke up with a slightly disgruntled expression on her face. &quot;Rudy?&quot;</p>
 <p>&lt;sup&gt;&amp;&lt;/sup&gt;quot;Yes, Roxy?&quot;</p>
-<p>&quot;I&#x27;m very happy that you&#x27;re taking the time to introduce me to your friends, but I feel like you&#x27;re being…a bit <em>excessive</em> in your praise of me.&quot;</p>
+<p>&quot;I&#x27;m very happy that you&#x27;re taking the time to introduce me to your friends, but I feel like you&#x27;re being…a bit excessive in your praise of me.&quot;</p>
 <p>&quot;Really? It wasn&#x27;t intentional, I assure you.&quot;</p>
 <p>&quot;Are you serious?&quot;</p>
 <p>&quot;Well, as far as I&#x27;m concerned, no words I could offer would possibly be sufficient to really capture how wonderful you are. I thought I was selling you a little short, if anything.&quot;</p>
 <p>Frowning, Roxy jabbed a finger up at me. &quot;Okay, there you go again! Are you teasing me or something, Rudy?&quot;</p>
 <p>&quot;Don&#x27;t be ridiculous. My respect and admiration for you is as real as it gets.&quot;</p>
-<p>&quot;Oh, for crying out loud… You know, whenever you start calling me <em>Teacher,</em> I can&#x27;t help feeling like you&#x27;re just messing with me.&quot;</p>
+<p>&quot;Oh, for crying out loud… You know, whenever you start calling me Teacher, I can&#x27;t help feeling like you&#x27;re just messing with me.&quot;</p>
 <p>Roxy paused to let out a long sigh.</p>
 <p>I honestly thought my opinion of her was perfectly justified, but it seemed she found it somewhat overblown.</p>
-<p>&quot;Putting all that aside, though… You introduced me to quite a few of your friends, and told them I was your teacher. But you didn&#x27;t once mention that I was your <em>wife.</em>&quot;</p>
+<p>&quot;Putting all that aside, though… You introduced me to quite a few of your friends, and told them I was your teacher. But you didn&#x27;t once mention that I was your wife.&quot;</p>
 <p>&quot;Oh!&quot;</p>
 <p>Just like that, I realized how badly I&#x27;d screwed this up.</p>
 <p>This might not even be something I could fix at this point.</p>
@@ -435,7 +435,7 @@ nav_title = "Chapter 1"
 <p>I&#x27;d introduced her that way to everyone, of course. And she&#x27;d repeated it when she made her greetings. I guess a part of me had assumed that was enough—that it was perfectly obvious we were married.</p>
 <p>At the very least, I was confident someone as sharp as Ariel would have figured it out.</p>
 <p>Still, that was no excuse. Roxy had every right to be furious.</p>
-<p>I suppose I&#x27;d wanted to emphasize her greatness more than anything else. And a part of me still thought she was far too good to be married to the likes of me. But she&#x27;d clearly <em>wanted</em> me to introduce her as my wife.</p>
+<p>I suppose I&#x27;d wanted to emphasize her greatness more than anything else. And a part of me still thought she was far too good to be married to the likes of me. But she&#x27;d clearly wanted me to introduce her as my wife.</p>
 <p>This was an unforgiveable blunder on my part. Roxy was my second wife, yes, but that didn&#x27;t make her any less my wife. We&#x27;d be spending the rest of our lives together. Maybe even having children.</p>
 <p>&quot;I&#x27;m so sorry, Roxy, sweetheart. But you know how much I love you, right? How can I make it up to you? Want me to go introduce myself to your parents?&quot;</p>
 <p>&quot;Uh…n-no, I don&#x27;t think that&#x27;s necessary. It&#x27;s a long trip, after all. We&#x27;ll get to it eventually.&quot;</p>
@@ -445,6 +445,6 @@ nav_title = "Chapter 1"
 <p>&quot;All right then. We&#x27;ll have to make the time one of these days.&quot;</p>
 <p>There was no need to rush things. Once everything settled down, maybe we could take the entire family out to say hello to them.</p>
 <p>Pushing the thought to the back of my mind, I headed home with my new wife at my side.</p>
-<p><em>Legends of the University #1: The Boss can fire his hand like a rocket.</em></p>
+<p>Legends of the University #1: The Boss can fire his hand like a rocket.</p>
 <p><strong>Chapter 2: Year Three</strong></p>
 <p><strong>T</strong>HE FIRST DAY of my third year in the University had arrived.</p>

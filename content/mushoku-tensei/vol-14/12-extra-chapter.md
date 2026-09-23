@@ -17,7 +17,7 @@ nav_title = "Extra Chapter"
 <p>Everyone waited silently.</p>
 <p>&quot;What do you three think separates a sword saint, a sword king, and a sword emperor?&quot;</p>
 <p>&quot;Strength?&quot; Nina blurted.</p>
-<p>It was clear from their collective expressions that they couldn&#x27;t fathom any other answer. Yet at the same time, they also knew it wasn&#x27;t that simple—the Sword God wanted to know what came <em>after</em> that strength. What <em>else</em> separated them?</p>
+<p>It was clear from their collective expressions that they couldn&#x27;t fathom any other answer. Yet at the same time, they also knew it wasn&#x27;t that simple—the Sword God wanted to know what came after that strength. What else separated them?</p>
 <p>&quot;Nina. What did your teacher tell you to do before acquiring the Sword of Light?&quot;</p>
 <p>Nina&#x27;s teacher wasn&#x27;t Gall Falion. The person who had mentored her was Gino&#x27;s father, Timothy Britz. She reflected on the man&#x27;s teachings and replied, &quot;He said, &#x27;Since you&#x27;re right-handed, train your left hand.&#x27; He told me I wouldn&#x27;t be able to release the Sword of Light until I could perfectly wield a sword in my left hand.&quot;</p>
 <p>&quot;That&#x27;s right. Your non-dominant hand is important for using the Sword of Light. Do you understand why?&quot;</p>
@@ -54,7 +54,7 @@ nav_title = "Extra Chapter"
 <p>In the back of her mind, she saw Orsted stabbing Rudeus through the chest. She remembered lamenting how powerless she was as he crumpled to the ground.</p>
 <p>She had become stronger since then. Her power and speed were on a completely different level. However, it wasn&#x27;t enough to beat Orsted. After years of training, Eris had glimpsed the limits of her abilities. No matter how much she trained, she would never reach Orsted&#x27;s level. It wasn&#x27;t an exaggeration. She knew she would never be able to defeat him on her own.</p>
 <p>But it would be a different story if she was with Rudeus. Together, they might be able to accomplish it. With his magic and her sword skills, they could win.</p>
-<p><em>Even if I had to sacrifice myself to pin Orsted down, Rudeus would land the final blow.</em></p>
+<p>Even if I had to sacrifice myself to pin Orsted down, Rudeus would land the final blow.</p>
 <p>If Rudeus won, that would also be a win for Eris. She would die, of course, but Rudeus would live on. It meant she would lose out on sharing a future with him, but she didn&#x27;t mind that. Dwelling on the future would only make her lose her nerve, and losing her nerve would make her sword dull. A dull sword meant they would both die. If anyone was going to lose their life, it would be her. Eris was determined to pursue that outcome—or perhaps one might say she was resigned to it.</p>
 <p>&quot;Then you don&#x27;t care if you can&#x27;t become a Sword King?&quot; Gall asked.</p>
 <p>&quot;That doesn&#x27;t really matter to me.&quot;</p>
@@ -95,9 +95,9 @@ nav_title = "Extra Chapter"
 <p>This was a technique she learned from her training with the North Emperor. The added speed it gave her was honestly negligible, compared to how much attack power she sacrificed to achieve it. Yet this difference, little more than a hair&#x27;s breadth, was what it took to claim victory.</p>
 <p>&quot;Magnificent, Eris. I give you the title of Sword King.&quot;</p>
 <p>Nina slowly peeled herself off the floor. Her face contorted as her stomach throbbed with a dull pain.</p>
-<p><em>She completely outdid me.</em></p>
+<p>She completely outdid me.</p>
 <p>Because they were using wooden swords, she had merely been thrown back and bruised. If Eris had used a real sword, it would have plunged right through Nina&#x27;s heart. A comparatively weak attack, considering the normal power of a Sword of Light could cleave a person&#x27;s body in two, but it was still enough to kill. As Eris had only sustained a tear in the shoulder of her uniform, that was more than enough to qualify her as the victor. Nina had lost completely.</p>
-<p>Nina sighed and sat on the floor, stretching her back out. She&#x27;d lost this duel in every way. The opening move was hers, and she was still defeated. <em>I lost, completely and utterly. It&#x27;s over.</em> A heavy, oppressive weight settled on her chest.</p>
+<p>Nina sighed and sat on the floor, stretching her back out. She&#x27;d lost this duel in every way. The opening move was hers, and she was still defeated. I lost, completely and utterly. It&#x27;s over. A heavy, oppressive weight settled on her chest.</p>
 <p>&quot;Feeling vexed, Nina?&quot; asked the Sword God.</p>
 <p>&quot;Yes.&quot;</p>
 <p>Large tears rolled down her cheeks.</p>

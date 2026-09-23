@@ -9,7 +9,7 @@ nav_title = "Chapter 4"
 
 <p><strong>I</strong> HEARD A SMALL SOUND and my eyes snapped open. Everything around me was dark and narrow. Yes, that&#x27;s right—this place was narrow. After being warped numerous times, it was here that I&#x27;d arrived, in a space no larger than a cradle. It had only enough room for a single human, or perhaps two, to lie down. The ceiling was low, too, barely taller than my head.</p>
 <p>As long as I was within this small, cramped area, no monsters could come teleporting in. I sat at the edge of the space and leaned back against the wall, gazing at what lay before me.</p>
-<p>A magic circle, emitting a pale light. A teleportation circle. If I put just one foot on it, it would send me off somewhere. Most likely to a monster&#x27;s den. To a place clamoring with dozens of monsters. To my <em>death</em>.</p>
+<p>A magic circle, emitting a pale light. A teleportation circle. If I put just one foot on it, it would send me off somewhere. Most likely to a monster&#x27;s den. To a place clamoring with dozens of monsters. To my death.</p>
 <p>Just one month ago, I&#x27;d stumbled. I could make the excuse that it wasn&#x27;t my fault; I was evading an attack directed my way, taking a step back, when I tripped over a rock. I lost my balance and my foot found a magic circle. Despite the fact that I had gone over where the traps were before we headed into battle, I had still so easily stepped right onto one.</p>
 <p>The place I was teleported to teemed with monsters. There were twenty—no, thirty—of them. I was a magician, and a pretty good one, if I said so myself. I couldn&#x27;t cast without incantations, but I could shorten them, thereby casting magic faster than most other mages. Facing enemies in vast numbers wasn&#x27;t new to me. Even as I was surrounded, I didn&#x27;t panic. I thought only about eradicating my enemy, and soon did just that.</p>
 <p>But no matter how many I defeated, they just kept coming. Monster after monster, as far as the eye could see.</p>
@@ -36,8 +36,8 @@ nav_title = "Chapter 4"
 <p>Those thoughts alone kept me from stepping onto the circle again. The beasts had likely noticed my presence. They knew I was here, in this cramped space. They also knew that if I used the circle in front of me, I&#x27;d wind up right back at their den. I was sure they were waiting for that. They were waiting anxiously for me to make a fatal mistake in my exhaustion.</p>
 <p>I could feel it. There would be no next time.</p>
 <p>For the first time, I became conscious of death.</p>
-<p>My corpse would never be found. The beasts would leave nothing of me <em>to</em> find. I would die, and no proof of my existence would remain.</p>
-<p>It was terrifying. <em>I</em> was terrified. Before I realized it, I was grinding my teeth together. Driven by the impulse to scream, I gripped my staff tight.</p>
+<p>My corpse would never be found. The beasts would leave nothing of me to find. I would die, and no proof of my existence would remain.</p>
+<p>It was terrifying. I was terrified. Before I realized it, I was grinding my teeth together. Driven by the impulse to scream, I gripped my staff tight.</p>
 <p>I had seen death countless times before. As an adventurer, I&#x27;d watched people die right before my eyes. I had seen monsters split brawny warriors in two as easily as if they were cutting through butter. I had seen wise magicians squashed like rotten tomatoes. Skilled thieves and swift swordsmen had been felled before me.</p>
 <p>When I witnessed their deaths, I knew in the back of my mind that it would be my turn someday. And yet, I simultaneously believed I&#x27;d able to make it through. But now, faced with the very real prospect of death, I was terrified.</p>
 <p>I still hadn&#x27;t accomplished anything. There was still so much I wanted to do. I had a dream. That&#x27;s right, a dream. I wanted to become a teacher. I loved teaching people. I had no talent for it, but I enjoyed it. That was why, once this was over and we&#x27;d safely rescued Zenith, I planned on taking the teacher exam at the University of Magic to become a professor.</p>
@@ -46,13 +46,13 @@ nav_title = "Chapter 4"
 <p>&quot;Hah.&quot;</p>
 <p>A self-deprecating chuckle slipped from my lips. I couldn&#x27;t believe I was allowing myself to indulge such fantasies, even under these circumstances.</p>
 <p>I was going to die. None of my dreams were going to come true. My death would be a miserable one. There was no one to save me now. I&#x27;d never heard of anyone in my predicament being saved before.</p>
-<p><em>I don&#x27;t want to die,</em> I thought.</p>
+<p>I don&#x27;t want to die, I thought.</p>
 <p>I stepped onto the circle, because I really did want to live.</p>
 <p>My instincts were correct. I was teleported to an unfamiliar passage, where I left symbols to mark previously undiscovered circles. I went through numerous other circles, then, as if it were predetermined, found myself right back in a monster&#x27;s den.</p>
 <p>I knew at a glance that it was impossible. The beasts had heaped the bodies of their dead brethren to block my escape route, and it seemed the space on the other end of the circle was too cramped for the monsters—or their corpses—to teleport. I had no choice but to clear the way if I was going to use it to escape.</p>
 <p>&quot;While facing this horde?&quot; I asked myself.</p>
 <p>They were arrayed in an impeccable formation, branched out around the mountain of corpses that blocked my escape, protecting it. The Iron Crawler directly in front of me moved as if it were dedicated to defense, while the tarantulas behind it began spitting their webs to stall my movements. Still further back was a large, mud-covered human shape—a Mud Skull—which was hurling stones my way.</p>
-<p><em>They&#x27;re almost like an army,</em> I thought to myself as I began weaving my magic together. &quot;Envelop me in the earth&#x27;s magnificent armor. Earth Fortress!&quot;</p>
+<p>They&#x27;re almost like an army, I thought to myself as I began weaving my magic together. &quot;Envelop me in the earth&#x27;s magnificent armor. Earth Fortress!&quot;</p>
 <p>I crafted a shield from the earth around me. It wrapped around me, covering my body up to my head in a dome-like shape. I cut off the spell before it consumed my body completely. As long as it rose</p>
 <p>up to my collar, it would be enough to stop the Iron Crawler from charging.</p>
 <p>&quot;Scatter the falling droplets, blanket the world in water. Water Cascade!&quot;</p>
@@ -62,7 +62,7 @@ nav_title = "Chapter 4"
 <p>&quot;King of Frost, supreme ruler of the arctic lands, sovereign wrapped in all white whose frigid cold robs all heat. Freeze thy enemy, oh glacial king who governs death! Blizzard!&quot;</p>
 <p>I finished my shortened incantation. I generally used this spell to unleash frozen lances around me, but now they fanned out radially, soaring over those I&#x27;d frozen solid and skewering the beasts lying in wait behind them. I wasn&#x27;t actually going to defeat the front line; they were frozen statues that would act as a wall between me and the rest of their ilk while I pounded the ones behind them with my advanced magic.</p>
 <p>These were the same tactics I used when I traversed that labyrinth near Shirone. They guaranteed victory. However, as soon as the ones in the rear died off, more monsters came pouring through the magic circles in the room, stepping right past their fallen comrades. The place was brimming with beasts again in the blink of an eye.</p>
-<p>My heart was brimming, too. With despair. &quot;I suppose it really <em>is</em> hopeless.&quot;</p>
+<p>My heart was brimming, too. With despair. &quot;I suppose it really is hopeless.&quot;</p>
 <p>If I didn&#x27;t move those corpses, I wasn&#x27;t going to make it out of here. But there were too many for just me to handle.</p>
 <p>&quot;Grr!&quot;</p>
 <p>The Mud Skull was launching boulders at me from a distance. It had already shattered part of my Earth Fortress, and the sluggish Iron Crawler was bearing down.</p>
@@ -71,7 +71,7 @@ nav_title = "Chapter 4"
 <p>Iron Crawlers were vulnerable to fire. Using fire magic in a cave could wind up signing your own death warrant, but even so, I had no choice.</p>
 <p>&quot;Envelop me in the earth&#x27;s magnificent armor. Earth Fortress!&quot;</p>
 <p>Once again, I created a wall of earth. My mana was dwindling, and I began to panic. What should I do? How was I supposed to make it out of here?</p>
-<p><em>Think,</em> I told myself.</p>
+<p>Think, I told myself.</p>
 <p>I racked my brain, even as I continued to launch magic and blast away my enemies. But nothing came to mind. Was I trapped? Was this the end? Was I really going to die here? My body went on autopilot, vanquishing my enemies for me as I entertained those thoughts.</p>
 <p>&quot;Ah!&quot; My feet stumbled. My mind was fuzzy. I could feel my mana drying up. I had only a few more spells left within me before I fainted. &quot;No…&quot;</p>
 <p>I tightened my grip on my staff.</p>
@@ -86,14 +86,14 @@ nav_title = "Chapter 4"
 <p>I began delving into a labyrinth near the Shirone Kingdom next. The Shirone Kingdom hired me to teach magic to Prince Pax once I was done, a task that reminded me yet again of how amazing Rudeus was, as well as how little talent I had as a teacher. Then Rudy&#x27;s letter came, and I worked tirelessly to craft a textbook on the Demon God tongue for him. When my job eventually grew too disgusting to bear, I left the Shirone Kingdom.</p>
 <p>It was then that I learned about the Displacement Incident. I met Elinalise and Talhand, two people so unrestrained in their behavior that it came as a shock to me. We set out together for the Demon Continent, where I reunited with my parents and confirmed that they really did love me. Then I ran into Kishirika. And then, after that…</p>
 <p>All those memories ran through my mind in an instant. An Iron Crawler was bearing down on me. Thanks to my fire magic, the room had heated up, and the effects of the Frost Nova were wearing off.</p>
-<p><em>I can&#x27;t do this. I don&#x27;t want to die. I don&#x27;t want to! No!</em> I screamed in my head.</p>
+<p>I can&#x27;t do this. I don&#x27;t want to die. I don&#x27;t want to! No! I screamed in my head.</p>
 <p>&quot;No, nooo!!&quot; I swung my staff around futilely. Webs came flying at me, wrapping around it. In moments, it was ripped from my hand. &quot;I don&#x27;t want to die, please, someone, anyone, help me…!&quot;</p>
-<p>I inched backward, but there was just a wall behind me. The Iron Crawler was coming. No, not one—<em>many</em>.</p>
+<p>I inched backward, but there was just a wall behind me. The Iron Crawler was coming. No, not one—many.</p>
 <p>There was nothing left for me to do. I was going to be eaten alive, wasn&#x27;t I? No, anything but that.</p>
 <p>&quot;Someone, please…&quot;</p>
 <p>Oh. The Iron Crawler was already…</p>
 <p>I snapped my eyes shut in the face of the impinging crawler.</p>
-<p><em>I guess I won&#x27;t be able to see my mother and father anymore.</em> That was the last thought I had.</p>
+<p>I guess I won&#x27;t be able to see my mother and father anymore. That was the last thought I had.</p>
 <p>***</p>
 <p>I waited for a bit, but the end never came. Maybe I&#x27;d just died instantly. Maybe it was already over. No, that couldn&#x27;t be… But I couldn&#x27;t even hear anything. Was this the afterlife?</p>
 <p>Timidly, I peeled my eyes open. An unimaginable vista spread out before me.</p>
@@ -109,20 +109,20 @@ nav_title = "Chapter 4"
 <p>He embraced me with those well-built, warm, strong arms. His scent—a familiar one, one that smelled of sweat—filled my nose. He partially knelt and nuzzled his face into my neck, seemingly overcome with emotion as he inhaled deeply.</p>
 <p>That was when I realized something. I hadn&#x27;t bathed at all in the past month. &quot;Ah!&quot; As soon as I realized, I shoved him away.</p>
 <p>&quot;Huh?&quot; He looked surprised.</p>
-<p><em>Crap.</em> I&#x27;d done something terrible! After he&#x27;d gone to the trouble of saving me! But I didn&#x27;t want him to think I was stinky.</p>
+<p>Crap. I&#x27;d done something terrible! After he&#x27;d gone to the trouble of saving me! But I didn&#x27;t want him to think I was stinky.</p>
 <p>Oh, wait, maybe now wasn&#x27;t the time to be worrying about that… Um, was it? I couldn&#x27;t really think straight. &quot;M-my apologies,&quot; I said. &quot;It just kind of stinks…&quot;</p>
 <p>&quot;I-I stink? I&#x27;m sorry.&quot; Shocked, he sniffed at his sleeve.</p>
 <p>&quot;No, not you! My body. I&#x27;ve been in here a month.&quot;</p>
 <p>&quot;Oh, that&#x27;s what you meant.&quot; He looked relieved. &quot;It really doesn&#x27;t bother me, though.&quot;</p>
-<p>&quot;Well, it <em>does</em> bother me.&quot; Oh, forget it. That didn&#x27;t matter right now. First, I needed to thank him. &quot;Thank you so much for saving me.&quot;</p>
+<p>&quot;Well, it does bother me.&quot; Oh, forget it. That didn&#x27;t matter right now. First, I needed to thank him. &quot;Thank you so much for saving me.&quot;</p>
 <p>&quot;Not at all. It was only natural.&quot;</p>
 <p>Natural? I didn&#x27;t see how he had any obligation to face that kind of horde to save me.</p>
 <p>Oh yeah, his name! I had to ask his name. &quot;Ahem. It&#x27;s a pleasure to make your acquaintance,&quot; I said. &quot;My name is Roxy Migurdia. If you don&#x27;t mind, may I know your name as well?&quot;</p>
 <p>His entire body went stiff when I asked that. Had I said something weird?</p>
 <p>&quot;M-make my acquaintance…?&quot;</p>
 <p>Confused, I said, &quot;Huh? Oh, have we met somewhere before? If so, I must apologize, I&#x27;m afraid I don&#x27;t remember.&quot;</p>
-<p>Come to think of it, I did get the feeling I&#x27;d seen him somewhere before. But where? He <em>did</em> kind of resemble Paul, but surely I wouldn&#x27;t forget someone like this.</p>
-<p>&quot;You don&#x27;t…remember…&quot; His face went pale. Had I made him angry? I <em>did</em> feel like we&#x27;d met somewhere before. His face was familiar, as if I&#x27;d seen him long ago… &quot;Don&#x27;t…remember…&quot;</p>
+<p>Come to think of it, I did get the feeling I&#x27;d seen him somewhere before. But where? He did kind of resemble Paul, but surely I wouldn&#x27;t forget someone like this.</p>
+<p>&quot;You don&#x27;t…remember…&quot; His face went pale. Had I made him angry? I did feel like we&#x27;d met somewhere before. His face was familiar, as if I&#x27;d seen him long ago… &quot;Don&#x27;t…remember…&quot;</p>
 <p>He shook his head a bit and staggered backward. Suddenly, he slapped a hand over his mouth and then—</p>
 <p>&quot;Bleeegh!&quot;</p>
 <p>He threw up.</p>

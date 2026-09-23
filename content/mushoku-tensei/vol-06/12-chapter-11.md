@@ -9,8 +9,8 @@ nav_title = "Chapter 11"
 
 <p><strong>T</strong>he three of us finally arrived in the Asura Kingdom three days later. It was right before us…or rather, we were right in it. Despite that, the events of the previous day still weighed us down, leaving glum looks on our faces.</p>
 <p>We&#x27;d been utterly defeated. We&#x27;d been wiped out so abruptly, and I&#x27;d even had my life taken from me. Orsted had resuscitated me on some strange whim, but if not for that, I wouldn&#x27;t even be here. That hadn&#x27;t quite sunk in yet.</p>
-<p>It was true that I&#x27;d thought I didn&#x27;t want to die when he landed his final blow. You&#x27;d expect me to be traumatized, and yet, when I opened my eyes, I felt refreshed. Well, that was a bit of an exaggeration. It was more like, <em>oh, it was just a dream?</em> It was the same feeling I got when I woke up from a nightmare. Perhaps because I&#x27;d seen the Man-God right as I was dying and so the whole thing felt surreal.</p>
-<p>Put like that, it seemed the Man-God must have guessed what was going on and forced himself into my consciousness. To be honest, on an instinctive level, I wanted nothing more than to turn him away, but the Man-God <em>did</em> care about Ruijerd and his affairs, so maybe the god wasn&#x27;t actually that bad.</p>
+<p>It was true that I&#x27;d thought I didn&#x27;t want to die when he landed his final blow. You&#x27;d expect me to be traumatized, and yet, when I opened my eyes, I felt refreshed. Well, that was a bit of an exaggeration. It was more like, oh, it was just a dream? It was the same feeling I got when I woke up from a nightmare. Perhaps because I&#x27;d seen the Man-God right as I was dying and so the whole thing felt surreal.</p>
+<p>Put like that, it seemed the Man-God must have guessed what was going on and forced himself into my consciousness. To be honest, on an instinctive level, I wanted nothing more than to turn him away, but the Man-God did care about Ruijerd and his affairs, so maybe the god wasn&#x27;t actually that bad.</p>
 <p>That aside, ever since I nearly died, Eris has been sticking really close to me while we were inside the carriage. Before, she&#x27;d just stand diagonally across from me and say, &quot;I&#x27;m doing balancing training. Why don&#x27;t you give it a try?&quot; But lately, she&#x27;d started sitting down. Specifically, right beside me. Close enough for our thighs to touch. Yesterday there was skin peeking out from the hem of her pants. It&#x27;s only human instinct to want to touch something you can see, so I reached out with my right hand, just a bit, and stroked it. In return Eris just glared at me, her face bright red.</p>
 <p>She didn&#x27;t punch me. Eris, the one who was always punching people, had suddenly stopped. Even when I did something that I totally deserved to be punched for, she didn&#x27;t. Her face would flush and she&#x27;d just glower at me instead. And she&#x27;d just keep doing that, staring me down. Not just that, but she&#x27;d keep sitting right next me. In the past, she&#x27;d move away when I did things like that, but now, she remained close.</p>
 <p>To be completely honest, it was getting to the point where I wanted to thrust my hand into her pants next, so I wished she would put some distance between us. I knew there were some things you could pass off with a laugh and some things you couldn&#x27;t. I was holding myself back. But whether she knew of my internal conflict or not, Eris stayed close to me all the same.</p>
@@ -18,7 +18,7 @@ nav_title = "Chapter 11"
 <p>It was simple and didn&#x27;t cost much mana, yet it was an incredible technique. In retrospect, this method of nullification was similar to the King-tier barrier I&#x27;d gotten trapped in back in the Shirone Kingdom. It was simple to explain, but actually performing it was quite difficult. Perhaps because I was using my non-dominant hand to conjure with, for the most part the magic still took shape, albeit imperfectly. It was extremely difficult to completely nullify it the way Orsted had done. But it could still be used as a restraint, even in its imperfection. He&#x27;d actually taught me something pretty useful.</p>
 <p>&quot;Hey, Rudeus, what have you been doing this whole time?&quot;</p>
 <p>&quot;I&#x27;m trying to mimic the magic that Orsted used,&quot; I said.</p>
-<p>Eris stared intently at my hands. In my left, I&#x27;d crafted a small, misshapen stone cannon that fell to the floor with a small <em>thud</em>.</p>
+<p>Eris stared intently at my hands. In my left, I&#x27;d crafted a small, misshapen stone cannon that fell to the floor with a small thud.</p>
 <p>Another failure. I almost felt like I was playing rock-paperscissors with my hands. No matter how I tried, I kept letting my left hand win. Hm. This wasn&#x27;t going to work if I was being sloppy about it. In other words, there were some rules involved in disrupting magic. Did that mean that if I could unleash magic in accordance with those rules, I could actually nullify his Disturb Magic? The possibilities were growing.</p>
 <p>&quot;What kind of magic is it?&quot;</p>
 <p>&quot;The kind that nullifies magic,&quot; I answered.</p>
@@ -121,7 +121,7 @@ nav_title = "Chapter 11"
 <p>&quot;Rudeus, don&#x27;t bow to me.&quot;</p>
 <p>&quot;Why not…?&quot; I asked.</p>
 <p>&quot;You may think that I&#x27;ve done a lot for you, but I think you&#x27;ve done a lot for me. Thanks to you, I see hope that my tribe can regain its honor once more.&quot;</p>
-<p>&quot;I didn&#x27;t do anything. I basically wasn&#x27;t <em>able</em> to do anything.&quot;</p>
+<p>&quot;I didn&#x27;t do anything. I basically wasn&#x27;t able to do anything.&quot;</p>
 <p>I&#x27;d tried to turn the name &quot;Dead End&quot; into something positive on the Demon Continent, but we were never anything more than a group of adventurers while we were there. In the Millis Continent, that name just didn&#x27;t carry the same weight. I&#x27;d meant to come up with a new strategy, but it just kept getting pushed back, and then we&#x27;d come to the Central Continent and I wasn&#x27;t able to do anything else to help him. I liked to think everything we&#x27;d done had some impact, but I couldn&#x27;t erase the sizeable history of oppression in the world, and I couldn&#x27;t do anything about the prejudices people held toward the Superd tribe.</p>
 <p>&quot;No, you did a lot. You taught me that my straightforward method of saving children wasn&#x27;t the only one out there.&quot;</p>
 <p>&quot;But none of my methods were very effective,&quot; I countered.</p>
@@ -140,7 +140,7 @@ nav_title = "Chapter 11"
 <p>&quot;Fine, whatever,&quot; she answered curtly.</p>
 <p>There was a faint smile on Ruijerd&#x27;s face as he stroked her head. &quot;Eris, you have talent. Enough to become far, far stronger than me.&quot;</p>
 <p>&quot;Liar. After all, I lost to…&quot; Her mouth curled downward into a pout.</p>
-<p>Ruijerd chuckled and said the same words he&#x27;d always used when they practiced. &quot;You survived an attack in battle from a man who bears the name of a god. You…&quot; <em>Understand what that means, right?</em></p>
+<p>Ruijerd chuckled and said the same words he&#x27;d always used when they practiced. &quot;You survived an attack in battle from a man who bears the name of a god. You…&quot; Understand what that means, right?</p>
 <p>She glared at him sharply. Then at last her eyes widened with realization. &quot;…I understand.&quot;</p>
 <p>&quot;Good girl.&quot; Ruijerd patted her on the head before dropping his hand.</p>
 <p>Eris kept the tight frown on her face and balled her hands into fists. It looked like she was trying her best to hold in her tears. I turned my gaze away from her and asked Ruijerd, &quot;What are you going to do after this?&quot;</p>
@@ -154,8 +154,8 @@ nav_title = "Chapter 11"
 <p>&quot;That&#x27;s exactly why I want you to keep it.&quot;</p>
 <p>When I said that, he nodded. It seemed he was willing to take it. &quot;All right then, Rudeus, Eris…let&#x27;s meet again,&quot; Ruijerd said as he left the two of us.</p>
 <p>We&#x27;d spent so much time talking about things when he first said he&#x27;d come with us in the beginning, and yet now, as he was leaving, everything seemed to be happening in an instant. There was so much I wanted to say to him. So many things had happened, from the time we met on the Demon Continent until we reached the Asura Kingdom. So many feelings that words couldn&#x27;t even describe. Like not wanting to say goodbye to our companion.</p>
-<p><em>&quot;Let&#x27;s meet again.&quot;</em></p>
-<p>All those feelings were wrapped up in those few words as his silhouette receded into the distance. <em>That&#x27;s right—we just have to meet again</em>, I told myself. We surely would. As long as we were still alive, we&#x27;d definitely meet again.</p>
+<p>&quot;Let&#x27;s meet again.&quot;</p>
+<p>All those feelings were wrapped up in those few words as his silhouette receded into the distance. That&#x27;s right—we just have to meet again, I told myself. We surely would. As long as we were still alive, we&#x27;d definitely meet again.</p>
 <p>Eris and I watched Ruijerd go, in silence and with gratitude for everything he&#x27;d done for us up until now, until he faded away completely.</p>
 <p>That was how our journey reached its conclusion.</p>
 <div class="chapter-illustration">

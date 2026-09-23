@@ -22,7 +22,7 @@ nav_title = "Chapter 6"
 <p>Their expressions hardened and they nodded, running off toward the door. There was no other meaning to my directions. It wasn&#x27;t like I just wanted them out of the way so I could ogle the girls without interruption.</p>
 <p>Ruijerd was causing a ruckus above, so probably no one would come this way. Still, we couldn&#x27;t take any chances. Before I entered the room, I had set my demon eye to show me one second into the future, but I wouldn&#x27;t be able to see anything if I didn&#x27;t look behind me.</p>
 <p>I proceeded to remove the girls&#x27; shackles. Some were more wellendowed than others, but I didn&#x27;t discriminate. I admired them equally as I took off their binds. I also didn&#x27;t touch them more than was necessary. I wanted them to think of the Rudeus before them as nothing short of a gentleman.</p>
-<p>I also healed their bruises. It was my time to enjo— err, I mean <em>treat their wounds</em>. After all, you had to touch someone to heal them. So there was no other meaning behind it. Yes, one of the girls did have bruises on her chest, but I swear I had no ulterior motives.</p>
+<p>I also healed their bruises. It was my time to enjo— err, I mean treat their wounds. After all, you had to touch someone to heal them. So there was no other meaning behind it. Yes, one of the girls did have bruises on her chest, but I swear I had no ulterior motives.</p>
 <p>This one had a broken rib. That couldn&#x27;t be good… And this other had her femur broken. Those men really had been vicious.</p>
 <p>The girls hid themselves with their hands as they stood up. They removed their gags themselves. Was it my imagination, or was the strong-willed girl with cat ears glaring at me?</p>
 <p>&quot;Thank you for…hic…saving us.&quot; The girl with dog ears thanked me as she shyly hid her body. She spoke in the Beast God tongue, of course.</p>
@@ -47,17 +47,17 @@ nav_title = "Chapter 6"
 <p>&quot;Okay, guys,&quot; I told them. &quot;Please just wait a little bit longer.&quot;</p>
 <p>We split up and started searching for suitable clothes. We couldn&#x27;t find anything for children. Their clothes must have been stripped off and discarded when their captors abducted them. But what for? I didn&#x27;t understand. It was a mystery to me why they left these kids naked. Not having clothes was a serious problem. We couldn&#x27;t even take them into a clothing store if they were naked.</p>
 <p>&quot;Hm?&quot; I happened to glance out the window, only to see a mountain of dead bodies. Each of them bore a single stab wound, either in the heart or the throat. Seeing something like that would have terrified me long ago, but this time it was reassuring. Still, I didn&#x27;t expect there to be so many of them. The smell of blood hung thick. It would lure monsters.</p>
-<p><em>Let&#x27;s burn these quickly,</em> I thought, and stepped out of the building.</p>
+<p>Let&#x27;s burn these quickly, I thought, and stepped out of the building.</p>
 <p>I stood before the odorous mountain of corpses and created a fireball. A radius of five meters seemed appropriate for this use. In fire magic, increasing the power of a spell also increased its size for some reason. I didn&#x27;t want to smell the stench of burnt flesh, though, so I decided to incinerate them in a single blast.</p>
 <p>&quot;Whoops!&quot;</p>
 <p>The resulting fire was clearly too powerful, because it instantly spread to the building. I quickly turned to water magic to extinguish the flames.</p>
 <p>That was close. I almost turned myself into a pyromaniac.</p>
-<p><em>Aw crap, maybe I should have stripped them of their clothes first</em>, I thought. They would probably reek of blood and turn my stomach, but they could still be worn after I washed them.</p>
+<p>Aw crap, maybe I should have stripped them of their clothes first, I thought. They would probably reek of blood and turn my stomach, but they could still be worn after I washed them.</p>
 <p>&quot;Rudeus. I&#x27;m finished.&quot;</p>
 <p>As I was preoccupied with those thoughts, Ruijerd came out of the building. The children were all with him, all clothed. By clothed, I meant they were all in feathered robes.</p>
 <p>&quot;Where did you find clothes like that?&quot;</p>
 <p>&quot;I cut the curtains.&quot;</p>
-<p><em>Oho. You are a clever one</em>, I thought. <em>A true font of wisdom.</em></p>
+<p>Oho. You are a clever one, I thought. A true font of wisdom.</p>
 <p>***</p>
 <p>The next objective in our mission was to return the children to their homes. That meant bringing them to the city and guiding them to their parents.</p>
 <p>I lit the torches at the building&#x27;s front entrance and made each of the children carry one. I decided to take a different route back. It would be troublesome if another smuggler found us, and that underground route was probably created to protect people from the forest&#x27;s beasts. We didn&#x27;t need that.</p>
@@ -68,10 +68,10 @@ nav_title = "Chapter 6"
 <p>That&#x27;s right, there was a dog. Wait, that was a dog? It was freakin&#x27; huge.</p>
 <p>&quot;You guys came first.&quot;</p>
 <p>Their reproachful eyes fixed upon Ruijerd.</p>
-<p><em>Oh, come on</em>, I thought. <em>We just saved you guys. There&#x27;s no reason for you to give us that look.</em> &quot;Just so you know, he&#x27;s the one who saved you.&quot;</p>
+<p>Oh, come on, I thought. We just saved you guys. There&#x27;s no reason for you to give us that look. &quot;Just so you know, he&#x27;s the one who saved you.&quot;</p>
 <p>&quot;W-well, I&#x27;m grateful for that, mew. But…&quot;</p>
 <p>&quot;If you&#x27;re grateful, then you should say thank you.&quot;</p>
-<p>When I said that, they all bowed their heads to him. <em>Good</em>, I thought. <em>You should all be more grateful.</em></p>
+<p>When I said that, they all bowed their heads to him. Good, I thought. You should all be more grateful.</p>
 <p>This might have been a mission we were given by a smuggler from the organization that kidnapped them in the first place, but it was also true that Ruijerd was genuinely concerned about them. Though it was also true we were demanding their gratitude when they&#x27;d never asked us to save them.</p>
 <p>&quot;I&#x27;ll go back and free the dog. Ruijerd, you take these guys to the city.&quot;</p>
 <p>&quot;Understood. Where should we go once we get there?&quot;</p>
@@ -89,8 +89,8 @@ nav_title = "Chapter 6"
 <p>The moment I tried to enter the magic circle, it repelled me. Not quite like a zap. The sensation was difficult to explain, but it was like the pain receptors in my brain were being triggered. It seemed this magic circle was actually a barrier. A barrier was a type of healing magic—a construction I knew nothing about.</p>
 <p>&quot;Hmm.&quot; I studied the borders of the magic circle. It emitted a bluish-white light, faintly illuminating the room. The light coming from it meant that mana was circulating. If I could cut off the source of its fuel, the circle would disappear. Roxy taught me that. It was the quintessential method of removing magical traps.</p>
 <p>The fuel source… In other words, a magic crystal.</p>
-<p>Yet as far as I could see, there was no such crystal to be found. No… that just meant I hadn&#x27;t found it <em>yet</em>. Where had they hidden it? Probably underground. Maybe I should use earth magic to remove the circle? Who knew what would occur if I tried to forcibly dispel a magic circle such as this?</p>
-<p><em>Hm, wait</em>, I thought. <em>Wait, wait, wait. Let&#x27;s think about this more simply.</em></p>
+<p>Yet as far as I could see, there was no such crystal to be found. No… that just meant I hadn&#x27;t found it yet. Where had they hidden it? Probably underground. Maybe I should use earth magic to remove the circle? Who knew what would occur if I tried to forcibly dispel a magic circle such as this?</p>
+<p>Hm, wait, I thought. Wait, wait, wait. Let&#x27;s think about this more simply.</p>
 <p>How were those guys even planning to get this dog out of that circle in the first place? There hadn&#x27;t been a magician amongst the corpses I&#x27;d seen. There had to be a way for a complete beginner to remove this trap.</p>
 <p>First I considered where the magic crystal could be. I thought it had to be underground. However, if it were underground, those guys wouldn&#x27;t have been able to pull it out. It had to be somewhere they could extract it. But it also had to be somewhere where it could still fuel mana into the trap.</p>
 <p>&quot;Hm, so above rather than below?&quot;</p>
@@ -108,26 +108,26 @@ nav_title = "Chapter 6"
 <p>I tried using magic to sever the chain. It broke easily. Once it did, power instantly returned to the dog&#x27;s body. It immediately stood up and tried to dash off, but I stopped it.</p>
 <p>It looked at me and obediently lay down once more.</p>
 <p>I tried my best to remove the collar, but it had no keyhole. If there was no keyhole, there was no way to unlock it. That was weird. How did they intend to ever remove it? Or did they never intend to do so? It was a tough battle, but I managed to find a joint in the collar. Apparently this was one of those collars you couldn&#x27;t remove once it was snapped on.</p>
-<p>&quot;I&#x27;m going to take it off now, so don&#x27;t move.&quot; I carefully conjured earth magic into the small juncture where the collar joined together, using magic to force it open. There was a <em>clang</em>, and finally it came off.</p>
+<p>&quot;I&#x27;m going to take it off now, so don&#x27;t move.&quot; I carefully conjured earth magic into the small juncture where the collar joined together, using magic to force it open. There was a clang, and finally it came off.</p>
 <p>&quot;There we go.&quot;</p>
 <p>The puppy shook its neck. &quot;Woof!&quot;</p>
 <p>&quot;Whoa!&quot;</p>
 <p>The dog hooked its front paws on either of my shoulders, and its weight knocked me over. I fell limply to the ground, and the dog started slobbering all over my face.</p>
 <p>&quot;Woof!&quot;</p>
-<p><em>Aah! You can&#x27;t, little puppy! I have a wife and husband…!</em></p>
+<p>Aah! You can&#x27;t, little puppy! I have a wife and husband…!</p>
 <p>I tried to push the great silver ball of fur off of me, but it was too heavy and, moreover, soft and fluffy. Silky and soft. That was all well and good, but it was heavy. Its weight on my chest was enough to make my bones creak. Moving it seemed difficult. I gave up on not being licked since there was nothing I could do. Instead I focused on enjoying the feel of its fur until it grew bored of lapping at my face.</p>
 <p>And boy was it fluffy. Or, as the kids say, &quot;a floof&quot;.</p>
-<p><em>For you to be this soft… Hey, wait. You&#x27;re using some kind of fabric softener, aren&#x27;t you?</em> I thought, only for another voice in my head to reply in kind. <em>Aww, but I&#x27;m not using anything~</em></p>
+<p>For you to be this soft… Hey, wait. You&#x27;re using some kind of fabric softener, aren&#x27;t you? I thought, only for another voice in my head to reply in kind. Aww, but I&#x27;m not using anything~</p>
 <p>&quot;Bastard! What have you done to the Sacred Beast?!&quot;</p>
 <p>&quot;Huh?&quot;</p>
 <p>Just as the ball of fur finally seemed satisfied, a voice rang out. Still sprawled on the ground, I looked up, wondering if one of those smugglers had managed to survive.</p>
 <p>I was greeted by chocolate-colored skin, beast ears, and a tiger&#x27;s tail. Ghislaine…? No, it wasn&#x27;t. They looked similar, but it wasn&#x27;t her. The hairy, muscular part was the same, but there was something a bit different. Ghislaine&#x27;s biggest feature was absent. It was the chest—this person&#x27;s was flat. This person had pecs where Ghislaine had a full bosom. It was a man.</p>
 <p>The man put his hand to his mouth, as if he were about to shout.</p>
-<p><em>Ah, crap! He&#x27;s going to do something. I&#x27;ve got to run. But I can&#x27;t move!</em></p>
+<p>Ah, crap! He&#x27;s going to do something. I&#x27;ve got to run. But I can&#x27;t move!</p>
 <p>&quot;Doggy, move. I need to run from this guy!&quot;</p>
 <p>The dog moved.</p>
 <p>I scrambled to my feet and activated my demon eye. I could see what would happen.</p>
-<p><em>The man has his hand still pressed to his mouth.</em></p>
+<p>The man has his hand still pressed to his mouth.</p>
 <p>I thought he wasn&#x27;t going to do anything, but then suddenly he roared. &quot;Graaaaah!&quot; The volume was overpowering. It was a voice many times more shrill than any Eris had ever produced. The sound felt like it had mass. My eardrums rang, and my brain trembled.</p>
 <p>By the time I realized what was happening, I had collapsed. I couldn&#x27;t stand. This was bad. I had to heal myself, but I couldn&#x27;t move my hands. What the hell was this, some kind of magic?</p>
 <p>Crap. Crap, crap, crap. I couldn&#x27;t use magic? I tried to channel my mana but…no good.</p>
@@ -141,7 +141,7 @@ nav_title = "Chapter 6"
 <p>&quot;But he was trying to attack the Sacred Beast.&quot;</p>
 <p>&quot;Hm.&quot;</p>
 <p>&quot;He had an obscene look on his face as he fondled it. Perhaps he isn&#x27;t the age that he appears.&quot;</p>
-<p><em>N-no, you&#x27;re wrong. I&#x27;m twelve. I&#x27;m definitely not a forty-fiveyear-old man on the inside</em>, I protested in my head.</p>
+<p>N-no, you&#x27;re wrong. I&#x27;m twelve. I&#x27;m definitely not a forty-fiveyear-old man on the inside, I protested in my head.</p>
 <p>&quot;Woof!&quot; When the beast barked, Gyes and the other man both took a knee before it.</p>
 <p>&quot;I apologize. We should have moved with more haste, but instead we were late in our rescue.&quot;</p>
 <p>&quot;Woof!&quot;</p>
@@ -155,10 +155,10 @@ nav_title = "Chapter 6"
 <p>&quot;There&#x27;s no time. The last ship leaves tomorrow.&quot;</p>
 <p>Gyes gritted his teeth.</p>
 <p>&quot;We have no choice but to give up. Consider it fortuitous enough that we managed to save the Sacred Beast.&quot;</p>
-<p>&quot;And what&#x27;ll we do with <em>this</em>?&quot;</p>
+<p>&quot;And what&#x27;ll we do with this?&quot;</p>
 <p>&quot;Take him home with us. He may be a child, but if he was working with those smugglers, then he&#x27;ll have to be punished.&quot;</p>
 <p>Gyes nodded and tied my hands behind me with a rope. Then he hoisted me onto his shoulder. The dog toddled along behind him, glancing worriedly at me.</p>
-<p><em>It&#x27;s okay. Don&#x27;t worry. These guys don&#x27;t seem to be smugglers</em>, I told myself. <em>They came here to rescue those kids. So if I talk to them, they&#x27;ll understand. I just have to wait until they&#x27;ll let me.</em></p>
+<p>It&#x27;s okay. Don&#x27;t worry. These guys don&#x27;t seem to be smugglers, I told myself. They came here to rescue those kids. So if I talk to them, they&#x27;ll understand. I just have to wait until they&#x27;ll let me.</p>
 <p>&quot;Hm…&quot; When we stepped outside, the elder twitched his nose. &quot;The smell lingers.&quot;</p>
 <p>&quot;A smell? The stench of blood is so thick I can&#x27;t tell.&quot;</p>
 <p>&quot;It&#x27;s faint, but it&#x27;s the smell of Tona and the others. There&#x27;s one more as well. That demon&#x27;s scent.&quot;</p>
@@ -168,10 +168,10 @@ nav_title = "Chapter 6"
 <p>&quot;Gyes. I&#x27;m going to follow the trail. You take the boy and the Sacred Beast and return to the village.&quot;</p>
 <p>&quot;No, I&#x27;m going with you,&quot; Gyes protested.</p>
 <p>&quot;You&#x27;re too short-tempered. And that boy may not be one of those smugglers after all, you know?&quot; Unsurprisingly, the elder&#x27;s words had a wisdom to them.</p>
-<p><em>That&#x27;s right</em>, I thought. <em>I&#x27;m not a smuggler, so please let me explain.</em></p>
+<p>That&#x27;s right, I thought. I&#x27;m not a smuggler, so please let me explain.</p>
 <p>&quot;Even so, there&#x27;s still no mistaking the fact that he touched the Sacred Beast with his filthy hands. This boy smells like an aroused human. As unbelievable as it sounds, he showed signs of sexual excitement toward the Sacred Beast.&quot;</p>
 <p>What?!</p>
-<p><em>Absolutely untrue!</em> I thought. <em>I do not have any sexual interest in dogs! Helpless naked young girls, however… No! That&#x27;s not a good defense, either!</em></p>
+<p>Absolutely untrue! I thought. I do not have any sexual interest in dogs! Helpless naked young girls, however… No! That&#x27;s not a good defense, either!</p>
 <p>&quot;In that case, throw him in a cell. But do not put your hands on him until I return home.&quot;</p>
 <p>&quot;Yes, sir!&quot;</p>
 <p>The older man gave a nod before running off into the darkness of the forest.</p>
@@ -195,7 +195,7 @@ nav_title = "Chapter 6"
 <p>It really had been a long time since he&#x27;d used Beast God tongue, though. The last time he used it was… Hmm, just when was it again? He couldn&#x27;t remember using it much at all since Laplace&#x27;s War.</p>
 <p>&quot;The Sacred Beast is a symbol of our tribe, mew, so we just couldn&#x27;t leave it behind, mew.&quot;</p>
 <p>&quot;So that&#x27;s it. I didn&#x27;t know that, but still, I apologize.&quot; She smiled at Ruijerd when he said that. He really did enjoy how children weren&#x27;t so terrified of him. &quot;Hmm…&quot;</p>
-<p>Suddenly his third eye sensed someone rapidly approaching. Their speed was incredible, and their aura was strong. They came from the direction of the building they&#x27;d left behind. Was it one of the smugglers&#x27; allies? But they seemed too adept for that. <em>It couldn&#x27;t be</em>, he thought. <em>Did they actually defeat Rudeus…?</em></p>
+<p>Suddenly his third eye sensed someone rapidly approaching. Their speed was incredible, and their aura was strong. They came from the direction of the building they&#x27;d left behind. Was it one of the smugglers&#x27; allies? But they seemed too adept for that. It couldn&#x27;t be, he thought. Did they actually defeat Rudeus…?</p>
 <p>&quot;Get back.&quot; He had the children take cover behind him as he readied his spear.</p>
 <p>The victor would be the one who struck first. He would bring them down in one blow.</p>
 <p>Or so he thought, but Ruijerd&#x27;s opponent stopped just short of his reach. It was a male beastperson, holding a thick hatchet in his hand. The man was clearly wary as he took a stance of his own. He</p>
@@ -210,7 +210,7 @@ nav_title = "Chapter 6"
 <p>&quot;Thank you for saving my granddaughter.&quot;</p>
 <p>&quot;Sure.&quot;</p>
 <p>&quot;What&#x27;s your name?&quot;</p>
-<p>&quot;Ruijerd.&quot; <em>Superdia</em>, he thought to add, but he hesitated. If the man knew he was Superd, it would just put him on guard.</p>
+<p>&quot;Ruijerd.&quot; Superdia, he thought to add, but he hesitated. If the man knew he was Superd, it would just put him on guard.</p>
 <p>&quot;Ruijerd, is it? I&#x27;m Gustav Dedoldia. I will repay this debt to you without fail. First, I must return these children to their parents.&quot;</p>
 <p>&quot;Yes, you should.&quot;</p>
 <p>&quot;But it&#x27;s dangerous to make children walk at night. I&#x27;d like you to explain exactly what happened.&quot; As he said that, the elder started walking toward the town.</p>
@@ -220,7 +220,7 @@ nav_title = "Chapter 6"
 <p>&quot;I did. A depressing place that reeked of blood.&quot;</p>
 <p>Ruijerd pressed on with his questions. &quot;And no one was there?&quot;</p>
 <p>&quot;There was one. A male in the form of a child. It seems he had a perverted grin as he fondled the Sacred Beast.&quot;</p>
-<p>He realized who it was immediately. Rudeus. <em>So the kid still gets that grin on his face</em>, he thought. &quot;That&#x27;s my companion,&quot; Ruijerd said.</p>
+<p>He realized who it was immediately. Rudeus. So the kid still gets that grin on his face, he thought. &quot;That&#x27;s my companion,&quot; Ruijerd said.</p>
 <p>&quot;Oh dear!&quot;</p>
 <p>&quot;Don&#x27;t tell me you killed him?&quot;</p>
 <p>It didn&#x27;t matter if it was a misunderstanding that caused it. If they&#x27;d killed Rudeus, Ruijerd would have his revenge. He would see the children to their parents first, though. Eris too. That&#x27;s right… Eris was alone right now. That worried him.</p>

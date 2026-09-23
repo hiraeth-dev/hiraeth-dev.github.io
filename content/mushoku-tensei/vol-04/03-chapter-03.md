@@ -33,7 +33,7 @@ nav_title = "Chapter 3"
 <p>The Great Emperor of the Demon World, Kishirika Kishirisu, was also known as the Demon Emperor of Resurrection. Another name for her was the Demon Emperor of Demon Eyes. Apparently, she wasn&#x27;t that skilled in combat, but with twelve demon eyes in her possession, there were many things she could see that most could not. Her most fearsome power was her ability to turn another person&#x27;s eye into a demon eye. It was through that power that she bestowed demon eyes on all of her followers, giving her the power to rule over all of the demon tribes. There were even those who became her followers just so they could obtain more power.</p>
 <p>&quot;I wonder what she was doing in this city?&quot; I said.</p>
 <p>&quot;Who knows? I have no idea what goes through the minds of Demon Kings or Demon Emperors,&quot; Ruijerd said with a shrug.</p>
-<p><em>True</em>, I thought. <em>You didn&#x27;t even know the true intentions of the Demon God you served for so many years, after all.</em> Not that I would say as much to him, knowing it would only depress him.</p>
+<p>True, I thought. You didn&#x27;t even know the true intentions of the Demon God you served for so many years, after all. Not that I would say as much to him, knowing it would only depress him.</p>
 <p>Eris, on the other hand, was starry-eyed over the title &quot;Demon World&#x27;s Great Emperor.&quot; &quot;That&#x27;s incredible. I want to meet her, too!&quot;</p>
 <p>&quot;You do?&quot;</p>
 <p>Eris and Kishirika. Just what kind of conversation would the two of them have if they were to meet? Even I was a little curious. As unlikely as it seemed, they might find common ground.</p>
@@ -51,11 +51,11 @@ nav_title = "Chapter 3"
 <p>I could see up to three or four seconds with more mana, but if I tried to see up to five seconds in advance, the image split and blurred so much that it gave me a headache. That was representative of just how many ways the future could change. Also, the further you tried to see into the future, the more it taxed your brain, apparently. Kishirika even said that having two demon eyes would cripple you. Perhaps it was the influence of all her demon eyes that made her seem like such an airhead.</p>
 <p>Regardless, I knew that I could safely see one second into the future. It took me three days to master this, then an extra day to learn how to control both factors at once. In total, it took seven days to learn the basics of using my Eye of Foresight.</p>
 <p>***</p>
-<p>While I was busy channeling mana into my eye and commanding it, <em>Do my bidding, Eye of Foresight!</em> Eris and Ruijerd went somewhere together every day. When they returned, Eris was always bathed in sweat while Ruijerd looked as composed as ever, only perspiring</p>
+<p>While I was busy channeling mana into my eye and commanding it, Do my bidding, Eye of Foresight! Eris and Ruijerd went somewhere together every day. When they returned, Eris was always bathed in sweat while Ruijerd looked as composed as ever, only perspiring</p>
 <p>slightly more than usual. The two of them were doing something to work up that sweat. And every single day, at that!</p>
 <p>&quot;Just for the sake of reference, I&#x27;d like to ask. What are you two doing?&quot;</p>
 <p>Eris was wringing out a rag drenched in sweat when I asked. She answered, &quot;Heh heh, that&#x27;s a secret!&quot; She looked to be truly enjoying herself.</p>
-<p>So she was doing something in secret that she couldn&#x27;t tell me? Oh, I get it. A little <em>afternoon delight</em>, eh? Guess my only hope for action was to drown myself in the scent of that sweat-soaked rag she was holding.</p>
+<p>So she was doing something in secret that she couldn&#x27;t tell me? Oh, I get it. A little afternoon delight, eh? Guess my only hope for action was to drown myself in the scent of that sweat-soaked rag she was holding.</p>
 <p>Don&#x27;t get the wrong idea—I wasn&#x27;t particularly worried about it. They were probably just going out and training. While her attitude might have suggested otherwise, Eris actually was the type to work hard in secret. Back when we were in the Fittoa Region, she did the same thing, frequently training with Ghislaine on her days off. Back then, whenever I asked her what she was doing, she would get that same overconfident smirk on her face and say, &quot;It&#x27;s a secret!&quot; So I was sure it had to be training this time, too.</p>
 <p>That night I had a dream about a thirty-four-year-old shut-in prodding me in the cheek as he whispered in my ear, &quot;From now on your nickname will be &#x27;pathetic loser&#x27;.&quot; I figured it had to be the Man-God&#x27;s handiwork. That bastard was really good for absolutely nothing.</p>
 <p>***</p>
@@ -64,19 +64,19 @@ nav_title = "Chapter 3"
 <p>&quot;Do you really think you can beat me now just because you got that demon eye?!&quot; Eris was feeling particularly confident today. She must&#x27;ve learned some new technique or something this past week.</p>
 <p>I wanted to keep that cheeky grin on her face. &quot;Nope, it&#x27;s fine if I lose. I just want to know how much I can see in the midst of battle with this eye, that&#x27;s all.&quot; That was why I wasn&#x27;t going to use magic today. I wanted to see the fruits of my own labor, as well. I adjusted my eye to be able to see one second into the future and the fight began.</p>
 <p>&quot;Hmph, that sounds just like something you would say, but…&quot;</p>
-<p>I could see what she was going to do even as she was still talking. <em>She&#x27;s going to suddenly swing her left fist at me.</em> If I didn&#x27;t have this eye, I wouldn&#x27;t have been able to react in time. Eris was a natural when it came to launching preemptive strikes.</p>
+<p>I could see what she was going to do even as she was still talking. She&#x27;s going to suddenly swing her left fist at me. If I didn&#x27;t have this eye, I wouldn&#x27;t have been able to react in time. Eris was a natural when it came to launching preemptive strikes.</p>
 <p>&quot;Hah!&quot;</p>
 <p>&quot;Oho!&quot; I was able to dodge her attack. I countered by clapping the side of her face.</p>
-<p>Then the next vision came. <em>Eris won&#x27;t even flinch—she&#x27;ll start an onslaught of attacks instead, with the sword in her right hand.</em> That was Eris&#x27; strong point. She could shrug off any number of attacks and launch right into an offensive. Her lower body was so strong that most attacks wouldn&#x27;t send her reeling. In fact, the more damage she took, the more it charged her rage and the more aggressive her attacks became.</p>
+<p>Then the next vision came. Eris won&#x27;t even flinch—she&#x27;ll start an onslaught of attacks instead, with the sword in her right hand. That was Eris&#x27; strong point. She could shrug off any number of attacks and launch right into an offensive. Her lower body was so strong that most attacks wouldn&#x27;t send her reeling. In fact, the more damage she took, the more it charged her rage and the more aggressive her attacks became.</p>
 <p>&quot;Okay!&quot; I struck her forearm hard. Eris dropped the sword. Previously, I would have considered the battle over at that point. Dropping your sword meant you lost, or at least it did when I was training under Ghislaine. However, I could see with my eye that this wasn&#x27;t over yet.</p>
-<p><em>Eris is already falling back into her second line of attack.</em></p>
+<p>Eris is already falling back into her second line of attack.</p>
 <p>In other words, this was just one of her feints. She dropped the sword to get me to lower my guard.</p>
-<p><em>She&#x27;ll punch me right in the chin with her left fist.</em></p>
+<p>She&#x27;ll punch me right in the chin with her left fist.</p>
 <p>In other words, she purposefully dropped the sword to lure me into a false sense of security, so she could launch into her usual style of hand-to-hand combat: Eris&#x27; special Boreas Punch.</p>
 <p>&quot;Wha…!&quot;</p>
 <p>&quot;Your legs are open.&quot; I hooked my foot around hers, knocking her off balance. Her fist swiped at empty air and she fell to the ground.</p>
 <p>Still, it seemed the battle wasn&#x27;t over.</p>
-<p><em>She&#x27;s going to catch herself with her hands, use the rebound and torque to turn, and latch onto my right leg.</em></p>
+<p>She&#x27;s going to catch herself with her hands, use the rebound and torque to turn, and latch onto my right leg.</p>
 <p>&quot;Uh-uh.&quot; I stepped back and at the same time brought my knees down, pinning her so she couldn&#x27;t move.</p>
 <p>Thanks to the way she&#x27;d contorted her body in a desperate attempt to bite me, Eris&#x27; body was all twisted. One arm was squashed beneath her, while one of her legs was bent toward her bottom. I wondered what she would do next, but all I could foresee was more struggling.</p>
 <p>&quot;That&#x27;s enough,&quot; our referee called out.</p>
@@ -84,9 +84,9 @@ nav_title = "Chapter 3"
 <p>Did I win? Did I actually win? This was the first time I had ever beaten Eris in close combat and without magic.</p>
 <p>&quot;I failed, huh…&quot; Eris had a surprisingly tranquil look on her face when she gazed up at me.</p>
 <p>I got off her. She stood up slowly and dusted the dirt off of her outfit.</p>
-<p><em>She&#x27;s going to punch me.</em></p>
+<p>She&#x27;s going to punch me.</p>
 <p>Eris&#x27; expression soured when I stopped her fist with my hand. &quot;I&#x27;m going home!&quot; she declared loudly. Her shoulders trembled as she left for the inn.</p>
-<p><em>Did I really piss her off?</em> I wondered. No, that wasn&#x27;t it. I probably just made her lose some confidence. She&#x27;d always had an easy time beating me so far. Now I had suddenly gotten stronger. If I were in her place, I would have probably felt jealous, too.</p>
+<p>Did I really piss her off? I wondered. No, that wasn&#x27;t it. I probably just made her lose some confidence. She&#x27;d always had an easy time beating me so far. Now I had suddenly gotten stronger. If I were in her place, I would have probably felt jealous, too.</p>
 <p>&quot;Eris is still a child,&quot; Ruijerd said as he watched her go.</p>
 <p>&quot;That&#x27;s normal for her age,&quot; I responded before looking back at him.</p>
 <p>He looked me in the eye and nodded. &quot;Smooth work.&quot;</p>
@@ -104,12 +104,12 @@ nav_title = "Chapter 3"
 <p>Ruijerd put his lance aside and took a stance empty-handed. In other words, he didn&#x27;t need his signature weapon against a runt like me. &quot;You can use magic if you&#x27;d like,&quot; he said.</p>
 <p>&quot;No, if we&#x27;re going to do this, we&#x27;ll do it with our bare hands.&quot;</p>
 <p>Before I had even finished, a vision appeared before me.</p>
-<p><em>Ruijerd&#x27;s palm is going to come straight at me.</em></p>
+<p>Ruijerd&#x27;s palm is going to come straight at me.</p>
 <p>I could see it. I could see what he was going to do, and I could react to it.</p>
 <p>&quot;Oho!&quot; I reached my hand out to stop him.</p>
-<p><em>He&#x27;s going to grab my hand.</em></p>
+<p>He&#x27;s going to grab my hand.</p>
 <p>The moment I saw the vision, I instinctively pulled my hand back. The next moment, the vision blurred.</p>
-<p><em>He&#x27;s going to catch me in the face with his fist.</em></p>
+<p>He&#x27;s going to catch me in the face with his fist.</p>
 <p>Now there were two visions; in other words, two separate potential futures. One in which he grabbed my arm, and another in which he slammed his fist into my face. What was going on? Doubt stirred within me. My vision wasn&#x27;t supposed to blur within a onesecond window.</p>
 <p>&quot;Whoa!&quot; I bent my body back, narrowly evading his attack.</p>
 <p>I could see it. I could see it clearly. But my body was already contorted from dodging his last attack. Even if I could see what he would do next, I wasn&#x27;t able to move in time to avoid it.</p>
@@ -130,7 +130,7 @@ nav_title = "Chapter 3"
 <p>&quot;It looks like I got a little ahead of myself.&quot;</p>
 <p>It seemed the weaknesses of the demon eye were already longestablished, such as finding a way to block the possessor&#x27;s vision, using a shield, attacking from behind, or even fighting in the dark.</p>
 <p>All that aside, this eye still had its appeal. I beat Eris, after all. Just thinking about the ways in which I could use it from now on made my heart pound. I had predicted everything Eris would do. A complete 180 from how things were before. In other words, with practice, I might even be able to predict Ruijerd&#x27;s movements.</p>
-<p>That was when the Wise Old Sage appeared with a <em>poof</em> inside my head, with his bald head and sunglasses. &quot;Now you don&#x27;t have to get smacked around all the time to see how far you&#x27;ve come!&quot; he said.</p>
+<p>That was when the Wise Old Sage appeared with a poof inside my head, with his bald head and sunglasses. &quot;Now you don&#x27;t have to get smacked around all the time to see how far you&#x27;ve come!&quot; he said.</p>
 <p>All right, then. Thank you, breast-loving Wise Old Sage. Hmm. Thinking about all the ways I could use this eye really did make my heart soar!</p>
 <p>***</p>
 <p>When I returned to the inn, wearing a dreamy look on my face, I found Eris perched on the bed with her knees hugged to her chest. Oh, right, I had forgotten about her. She was depressed. Meanwhile,</p>
@@ -140,7 +140,7 @@ nav_title = "Chapter 3"
 <p>After our battle, Ruijerd told me what the two of them had been doing this past week. Apparently it was special training, after all. Not the perverted kind, of course. To strengthen herself, Eris had dedicated every single day to sword practice. As a result, she had successfully managed to beat him one time.</p>
 <p>She&#x27;d beaten Ruijerd once. That was extraordinary. I&#x27;d probably never manage that in my entire life. Apparently, Eris got pretty cocky because of it. That&#x27;s why Ruijerd used me to deflate her ego.</p>
 <p>Seriously, what the hell? It was his own mistake and yet that lolicon-loving wannabe warrior made me clean up his mess. Still, it was effective. Her ego had swelled so much after claiming victory against an opponent she&#x27;d never beaten before (Ruijerd), only to be punctured by losing to an opponent who had never defeated her before (me).</p>
-<p>That said, I didn&#x27;t think this was the right way of handling it. I knew what it was like to finally start thinking, <em>Hey, maybe I&#x27;ve got the hang of this?</em> only to be proven otherwise. It left you feeling completely miserable, as if everything you&#x27;d done up until now had been pointless.</p>
+<p>That said, I didn&#x27;t think this was the right way of handling it. I knew what it was like to finally start thinking, Hey, maybe I&#x27;ve got the hang of this? only to be proven otherwise. It left you feeling completely miserable, as if everything you&#x27;d done up until now had been pointless.</p>
 <p>Sure, perhaps it helped cool her head. Maybe she wouldn&#x27;t make big mistakes now. But Eris was probably in a period of rapid growth. I didn&#x27;t think checking her ego was the right answer. Instead, it was better to let her ride that high so she could develop even faster. Then you could point out her shortcomings and correct them afterward.</p>
 <p>&quot;You really have gotten very strong, Eris.&quot;</p>
 <p>&quot;It&#x27;s fine, you don&#x27;t need to comfort me. I knew I couldn&#x27;t beat you, anyway.&quot; Still irritable, she stuck out her bottom lip in a pout.</p>
@@ -153,7 +153,7 @@ nav_title = "Chapter 3"
 </div>
 <p>&quot;It&#x27;s cheating, Rudeus. You got a demon eye for yourself while I had to work my butt off…&quot;</p>
 <p>I froze. My head instantly went numb. My inner wolf receded with its tail tucked firmly between its legs. There was nothing I could say in response.</p>
-<p>She was right. What was I getting so happy over? It <em>was</em> cheating. What I&#x27;d done was dishonest. The demon eye&#x27;s power wasn&#x27;t something I&#x27;d worked hard to obtain. It just fell into my lap. All I did was buy food from some stand and wander the back alleys. True, it had taken me a week to master its powers. But that was it. I hadn&#x27;t struggled at all. What the hell was I doing using that power and acting all happy that I&#x27;d beaten Eris when she spent an entire week working hard, drenched in sweat?</p>
+<p>She was right. What was I getting so happy over? It was cheating. What I&#x27;d done was dishonest. The demon eye&#x27;s power wasn&#x27;t something I&#x27;d worked hard to obtain. It just fell into my lap. All I did was buy food from some stand and wander the back alleys. True, it had taken me a week to master its powers. But that was it. I hadn&#x27;t struggled at all. What the hell was I doing using that power and acting all happy that I&#x27;d beaten Eris when she spent an entire week working hard, drenched in sweat?</p>
 <p>&quot;I&#x27;m sorry.&quot;</p>
 <p>&quot;Don&#x27;t apologize.&quot;</p>
 <p>Eris went completely silent after that. She didn&#x27;t move away from me, though. My heart would normally be pounding at her scent or the warmth of her body, but this time it didn&#x27;t. Instead I just felt ashamed, as if her heat and the smell of her sweat were criticizing me. The air felt heavy.</p>
@@ -162,7 +162,7 @@ nav_title = "Chapter 3"
 <p>That night I spent time thinking by myself.</p>
 <p>Ultimately, we hadn&#x27;t found a way to cross the ocean yet. Had I messed up somewhere? I followed the Man-God&#x27;s advice well enough, but all I had gained was the demon eye.</p>
 <p>Was this supposed to help somehow? Like with gambling? But pleasures like gambling didn&#x27;t exist here on the Demon Continent. If they did, they were probably in the form of betting on brawls between two people. That wouldn&#x27;t earn me much money. We could use Ruijerd as a gladiator and charge a participation fee of one crude iron with a prize pool of five green ore coins, but eventually he&#x27;d run out of opponents.</p>
-<p>Hmm. No matter how much I thought about it, I couldn&#x27;t come up with any solutions. We were still in the same situation as we were before I was given the Man-God&#x27;s advice. In a way, we had wasted a week. Wasted an <em>entire</em> week.</p>
+<p>Hmm. No matter how much I thought about it, I couldn&#x27;t come up with any solutions. We were still in the same situation as we were before I was given the Man-God&#x27;s advice. In a way, we had wasted a week. Wasted an entire week.</p>
 <p>&quot;Okay…guess I should sell it.&quot; Saying the words out loud helped strengthen my resolve.</p>
 <p>Fortunately Ruijerd wasn&#x27;t around tonight, and Eris was already on the edge of her bed with her belly hanging out. It would be troublesome if she caught a cold, so I pulled a blanket over her.</p>
 <p>There was no one to stop me. Surely the back alley pawnshop was still open, right? After all, shops that dealt with suspicious items were always open at night. With my staff in one hand, I left the inn.</p>
@@ -243,7 +243,7 @@ nav_title = "Chapter 3"
 <p>He was going to return a favor, but also wanted one of his own? That seemed a bit off. Then again, he did see me using magic without chanting. His talk of repaying a debt was probably just a cover; he was actually looking for someone competent to do a job for him. That was why he made his appearance when he heard our conversation.</p>
 <p>Ruijerd cast a glance at me. Negotiating was my job, after all.</p>
 <p>&quot;It depends on the details of your request.&quot;</p>
-<p>&quot;Nothing too difficult.&quot; Yet the conditions he listed were a bit unexpected. &quot;You see, we have to store smuggled goods before we deliver them, and then we have to keep them safe until the claimant comes to retrieve them. In a month from now, we&#x27;re going to store some, ahem, <em>goods</em> before shipping them. I want you to release those people. If possible, I&#x27;d like you to make arrangements so they get back to their homes.&quot;</p>
+<p>&quot;Nothing too difficult.&quot; Yet the conditions he listed were a bit unexpected. &quot;You see, we have to store smuggled goods before we deliver them, and then we have to keep them safe until the claimant comes to retrieve them. In a month from now, we&#x27;re going to store some, ahem, goods before shipping them. I want you to release those people. If possible, I&#x27;d like you to make arrangements so they get back to their homes.&quot;</p>
 <p>&quot;Isn&#x27;t that the exact definition of betraying your friends?&quot;</p>
 <p>&quot;Nah, it&#x27;s for their own good. There&#x27;s one mixed among those goods…well, slaves, as you&#x27;d call them…who will cause trouble for us in the future. Selling them would net us a huge fortune, but it would also come back to haunt us a year from now.&quot; He shrugged and continued. &quot;I tried to tell them no, but it&#x27;s not like we&#x27;re a single, organized group. I was looking for someone both capable and tightlipped who could squash their plans. So how about it?&quot;</p>
 <p>Once again Ruijerd and I traded glances. We weren&#x27;t kidnapping, but rather saving people. If that were the case, I didn&#x27;t see the problem with it, but…</p>

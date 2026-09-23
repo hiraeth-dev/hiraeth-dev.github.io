@@ -22,7 +22,7 @@ nav_title = "Chapter 6"
 <p>Before setting out, I had gathered some information from the Adventurers&#x27; Guild. Large cities had multiple slave markets, and this particular one had five. The less savory markets would sell off slaves who were sick or even on the brink of death, and though there were bargains to be found there, beginners like us wouldn&#x27;t know the difference between a good deal and a scam. So instead, we made</p>
 <p>our way to a market that was both beginner-friendly and aimed at clientele with deeper pockets.</p>
 <p>&quot;Hm, this is quite unlike the market in my home country.&quot; Zanoba nodded in approval, as if he were impressed.</p>
-<p>At a glance, the slave market looked like any other building. It was plain, comprised of three mud-and-stone buildings. Above the entryway were the words <em>Rium Group</em> - <em>Slave Market</em>. A brazier crackled near the entrance, and beside it stood a man clad in thick Arctic clothing topped with leather armor. He was thickly bearded, but didn&#x27;t give off a disreputable vibe, though that might just have been because I&#x27;d gotten used to seeing such types in my time as an adventurer.</p>
+<p>At a glance, the slave market looked like any other building. It was plain, comprised of three mud-and-stone buildings. Above the entryway were the words Rium Group - Slave Market. A brazier crackled near the entrance, and beside it stood a man clad in thick Arctic clothing topped with leather armor. He was thickly bearded, but didn&#x27;t give off a disreputable vibe, though that might just have been because I&#x27;d gotten used to seeing such types in my time as an adventurer.</p>
 <p>&quot;So it&#x27;s not outdoors, huh?&quot; Fitz remarked in surprise.</p>
 <p>Slave markets were generally indoors affairs in the Northern Territories. For a simple reason.</p>
 <p>&quot;Let&#x27;s go inside.&quot;</p>
@@ -36,11 +36,11 @@ nav_title = "Chapter 6"
 <p>I followed his gaze to a group of lean, muscled slaves, probably warriors. The female warrior in the center was particularly nice. She was big. Not just her height, but the bulge of her chest, which was enough to make your mouth water. You might think melons like those would get in the way in combat, but I knew from watching Ghislaine fight that that wasn&#x27;t the case.</p>
 <p>&quot;Is this your first time coming here, Master Fitz?&quot;</p>
 <p>&quot;Huh? Oh, um, yeah.&quot; Master Fitz scratched at the back of his ear while shyly drawing his cloak tighter around himself, probably trying to hide his erection. Exactly the kind of reaction you&#x27;d expect from a virgin. I&#x27;d been like that once, though of course, I had a different reason for not reacting now. &quot;S-so, Rudeus, you&#x27;re used to this?&quot;</p>
-<p>It made me feel a little triumphant to think I might have more sexual experience than an upperclassman, but I&#x27;d only done it once, myself. <em>And</em> my partner ran off after it. Nothing to be proud of.</p>
+<p>It made me feel a little triumphant to think I might have more sexual experience than an upperclassman, but I&#x27;d only done it once, myself. And my partner ran off after it. Nothing to be proud of.</p>
 <p>Still, it was true that I felt calmer now that I&#x27;d experienced it once. A bit too calm, as far as my lower half was concerned.</p>
 <p>&quot;I&#x27;m sure you&#x27;ll feel more at ease once you get some experience,&quot; I assured him.</p>
-<p>&quot;Y-you sure about that? Hey, wait, that means <em>you</em> have experience…&quot; He looked suddenly crestfallen.</p>
-<p><em>Ah, you&#x27;re still so young,</em> I thought.</p>
+<p>&quot;Y-you sure about that? Hey, wait, that means you have experience…&quot; He looked suddenly crestfallen.</p>
+<p>Ah, you&#x27;re still so young, I thought.</p>
 <p>&quot;Master, we don&#x27;t want warriors, do we? We&#x27;re searching for a race with dexterous hands that can use magic, right?&quot; Zanoba jerked his chin at us, as if to say that our conversation was irrelevant to him. He had no interest in women, it seemed, even though he&#x27;d technically been married once. Guess his libido was just entirely absent.</p>
 <p>&quot;A race with dexterous hands—that&#x27;s gotta be a dwarf, right?&quot; I asked.</p>
 <p>&quot;A dwarf that can use earth magic. Though the latter is more important than their race,&quot; Fitz replied as we made our way around the shops.</p>
@@ -54,7 +54,7 @@ nav_title = "Chapter 6"
 <p>&quot;Yeah. I might be mistaken, but this is the conclusion I&#x27;ve come to on the basis of my personal experience, my master&#x27;s, and the words of our professors. Also, if you start using magic by the age of five, the size of your mana pool will drastically increase. If you want to teach the slave how to make figurines using your method, then the bigger the mana pool they have, the better.&quot;</p>
 <p>&quot;I thought the size of a person&#x27;s mana pool was fixed at birth,&quot; I said.</p>
 <p>&quot;That&#x27;s incorrect. The textbooks may say so, but the truth is that a person&#x27;s mana pool ceases to grow once they reach the age of ten,&quot; Master Fitz explained.</p>
-<p><em>I see</em>. That would explain why I had such a vast mana pool, having started using magic when I was about two or three. And since Master Fitz had said he was speaking from personal experience, he probably harbored an impressively large mana pool, too. &quot;Have you also been using magic since you were pretty young?&quot;</p>
+<p>I see. That would explain why I had such a vast mana pool, having started using magic when I was about two or three. And since Master Fitz had said he was speaking from personal experience, he probably harbored an impressively large mana pool, too. &quot;Have you also been using magic since you were pretty young?&quot;</p>
 <p>&quot;Yeah. Well…a long time ago, my master saved me and I asked him to teach me, which is how I learned.&quot;</p>
 <p>&quot;Aha.&quot; Maybe his master had saved him from monsters in a forest, or something. No—if he&#x27;d been a child then, it was more likely that he&#x27;d been kidnapped. There was a thriving business in trafficking children in this world, and even with the sunglasses on, Master Fitz was good-looking. &quot;So your master can use voiceless magic, too?&quot;</p>
 <p>&quot;Yes. He&#x27;s amazing. I respect him deeply.&quot;</p>
@@ -66,7 +66,7 @@ nav_title = "Chapter 6"
 <p>&quot;He&#x27;s still alive. I&#x27;ve found him, in fact.&quot;</p>
 <p>Come to think of it, he had said that he&#x27;d started looking into teleportation to search for an acquaintance. So that was his master, huh? &quot;Wait, then why can&#x27;t I meet him?&quot;</p>
 <p>&quot;Hehe. That&#x27;s a secret.&quot; Fitz grinned toothily.</p>
-<p>Why was it that my heart seemed to pound when I saw his smile? Sure, I might swoon over fictional <em>otoko no ko</em>, but I wasn&#x27;t gay. Maybe this was my body taking drastic measures in its pursuit of recovery.</p>
+<p>Why was it that my heart seemed to pound when I saw his smile? Sure, I might swoon over fictional otoko no ko, but I wasn&#x27;t gay. Maybe this was my body taking drastic measures in its pursuit of recovery.</p>
 <p>In keeping with Master Fitz&#x27;s suggestions, we settled on three criteria as we searched for a slave.</p>
 <p>One, they had to be around five years old (any younger than that and there was a high probability they wouldn&#x27;t have a grasp of language).</p>
 <p>Two, they had to be a dwarf (for their dexterous hands).</p>
@@ -90,7 +90,7 @@ nav_title = "Chapter 6"
 <p>The man took an iron claw to the face and was lifted into the air.</p>
 <p>&quot;Don&#x27;t ignore my master. I&#x27;ll rip out that ridiculous waggling tongue of yours, and take your jaw off while I&#x27;m at it.&quot;</p>
 <p>&quot;H-hey now! What are you doing?!&quot;</p>
-<p>Two guards swarmed in to subdue Zanoba, but he didn&#x27;t budge an inch. In fact, all he had to do to fling them off was to shrug slightly. <em>Impressive</em>, I thought. This tall, underfed otaku had totally overpowered two brawny guards without even trying. So this was the might of a Blessed Child, huh? Well, strength did seem to equal power!</p>
+<p>Two guards swarmed in to subdue Zanoba, but he didn&#x27;t budge an inch. In fact, all he had to do to fling them off was to shrug slightly. Impressive, I thought. This tall, underfed otaku had totally overpowered two brawny guards without even trying. So this was the might of a Blessed Child, huh? Well, strength did seem to equal power!</p>
 <p>Oh, wait, I shouldn&#x27;t be spectating. &quot;Stop! Zanoba, knock it off. Down, boy!&quot;</p>
 <p>&quot;Yes, sir!&quot;</p>
 <p>At the sound of my voice, Zanoba released the man. Now that he&#x27;d stopped, that gave the security guards pause as well. I flipped around to face them and bowed my head, as if that were the exact moment I&#x27;d been waiting for. I wasn&#x27;t proud of it, but I&#x27;d perfected the speed of my bow in these past couple of years. Speed equaled swiftness!</p>

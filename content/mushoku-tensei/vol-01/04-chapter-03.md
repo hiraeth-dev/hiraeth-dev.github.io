@@ -14,17 +14,17 @@ nav_title = "Chapter 3"
 <p>What had I lacked in my previous life? Study, exercise, and technique, that&#x27;s what.</p>
 <p>As a baby, however, there wasn&#x27;t much I could do. Nothing much beyond burying my face in someone&#x27;s chest when I was picked up, anyway. Whenever I did that to the maid, she made no attempt to mask the displeasure on her face; clearly, she wasn&#x27;t a fan of children.</p>
 <p>Figuring that exercise was something that could wait, I began learning to read books around the house. The study of language is a crucial thing; almost one hundred percent of Japanese people are literate in their own language, but many of them neglect their study of English or hesitate to interact with people when abroad, so much so that the ability to speak a foreign language is a valued skill. With that in mind, I decided to make this world&#x27;s writing system my first subject.</p>
-<p>There were only five books in our house. I didn&#x27;t know if that was because books were expensive in this world or because Paul and Zenith weren&#x27;t big readers. Probably some combination of both. As someone who used to own a collection of several thousand bookseven if they <em>were</em> all light novels—the situation was tough to come to grips with.</p>
+<p>There were only five books in our house. I didn&#x27;t know if that was because books were expensive in this world or because Paul and Zenith weren&#x27;t big readers. Probably some combination of both. As someone who used to own a collection of several thousand bookseven if they were all light novels—the situation was tough to come to grips with.</p>
 <p>Still, even five books were enough material to learn how to read. The language of this world was close to Japanese, so I was able to pick it up quickly enough. The written characters were completely different, but the grammar was close to what I was familiar with, which thankfully meant I mostly needed to learn vocabulary, a good chunk of which I&#x27;d already been exposed to. My father would read to me, which allowed me to readily pick up words. My new self being better at learning things probably had something to do with it, too.</p>
 <p>Once I could read, I found the contents of our books pretty interesting. I&#x27;d never had fun studying at any point in my life before, but after some thought, I realized it wasn&#x27;t that different from hunting down new information about online games. And that wasn&#x27;t so bad.</p>
 <p>Anyway, I wondered if my father knew that his infant son understood the things he was reading. I mean, I was cool with it, but I figured a normal kid my age would throw a temper tantrum or something, so that&#x27;s just what I did.</p>
 <p>These were the five books in our house:</p>
-<p><em>Wandering the World</em>, a reference guide to the various countries of the world and their unique characteristics.</p>
-<p><em>The Ecology and Weaknesses of Fittoan Monsters</em>, which detailed the various monstrous creatures of the Fittoa Region, where they lived, and how to deal with them.</p>
-<p><em>A Textbook of Magic</em>, a wizard&#x27;s manual of attack spells, ranging from the Beginner to Advanced levels.</p>
-<p><em>The Legend of Perugius</em>, a fairytale about a summoner named Perugius and his companions, who battle a demon and save the world in a classic good-versus-evil epic.</p>
-<p><em>The Three Swordsmen and the Labyrinth</em>, a tale of action and adventure where three master swordsmen of different styles meet and head into the depths of the titular labyrinth.</p>
-<p>Those last two were essentially fantasy novels, but the other three made for good study. It was <em>A Textbook of Magic</em> that particularly drew my attention. As someone who came from a world without magic, the chance to read actual documentation on it was very relevant to my interests. Reading the book taught me some of the fundamentals.</p>
+<p>Wandering the World, a reference guide to the various countries of the world and their unique characteristics.</p>
+<p>The Ecology and Weaknesses of Fittoan Monsters, which detailed the various monstrous creatures of the Fittoa Region, where they lived, and how to deal with them.</p>
+<p>A Textbook of Magic, a wizard&#x27;s manual of attack spells, ranging from the Beginner to Advanced levels.</p>
+<p>The Legend of Perugius, a fairytale about a summoner named Perugius and his companions, who battle a demon and save the world in a classic good-versus-evil epic.</p>
+<p>The Three Swordsmen and the Labyrinth, a tale of action and adventure where three master swordsmen of different styles meet and head into the depths of the titular labyrinth.</p>
+<p>Those last two were essentially fantasy novels, but the other three made for good study. It was A Textbook of Magic that particularly drew my attention. As someone who came from a world without magic, the chance to read actual documentation on it was very relevant to my interests. Reading the book taught me some of the fundamentals.</p>
 <p>First, magic came in three types: Attack magic, to do battle against others; Healing magic, to treat the wounds of others; and Summoning magic, to call things forth. And that was it. There seemed to be lots of other things you could do with magic, but according to the textbook, magic was something birthed and developed in battle, and therefore not used much outside of combat or hunting.</p>
 <p>Second, you needed magical power in order to use magic meaning, anyone could use magic so long as they had magical power. There were chiefly two ways of doing this: using one&#x27;s innate magical power or drawing on the magical power imbued in an object. Either would suffice. There weren&#x27;t specific examples, but I got the impression that people who did the former were like their own power generators, whereas the second type had to use batteries.</p>
 <p>In days of yore, the book said, people had largely used the power within their own bodies for magic. But as research on magic progressed, things got more and more complex. Accordingly, expendable sources of magical energy were developed at an explosive rate. People with strong magical reserves had been able to make do, but those who had little power couldn&#x27;t cast even basic spells, and so the old magical masters developed ways to draw power from things other than themselves and channel that into magic.</p>
@@ -38,21 +38,21 @@ nav_title = "Chapter 3"
 <p>The most proficient of wizards, the book said, could cast spells without incanting anything at all—or drastically shorten the incanting time at the very least. I wasn&#x27;t sure why training allowed people to circumvent the incantation, though. After all, the amount of someone&#x27;s magical power didn&#x27;t change; there was no leveling up and no corresponding increase to maximum MP. Maybe with training, the amount of MP spent on the spell decreased? But spending less MP wouldn&#x27;t make the process less involved, would it?</p>
 <p>Well, anyway. Whatever the case, I just needed to give it a shot.</p>
 <p>With A Textbook of Magic in my left hand, I held out my right and began to recite the words.</p>
-<p><em>&quot;Let the vast and blessed waters converge where thou wilt and issue forth a single pure stream thereof— Waterball!&quot;</em></p>
+<p>&quot;Let the vast and blessed waters converge where thou wilt and issue forth a single pure stream thereof— Waterball!&quot;</p>
 <p>I felt a sensation like blood pooling in my right hand, and then, as if that blood had extruded through my palm, a sphere of water about the size of my fist manifested itself.</p>
 <p>&quot;Gah!&quot; I yelped at the strange feeling, and a moment later, the ball of water fell and splattered onto the floor.</p>
 <p>It looked like concentration was required in order to maintain a spell.</p>
-<p><em>Concentrate… Concentrate…</em></p>
-<p>I could feel the blood welling in my hand once more. <em>That&#x27;s it. There we go. Yeah, this feels right.</em> Once again, I held out my right</p>
+<p>Concentrate… Concentrate…</p>
+<p>I could feel the blood welling in my hand once more. That&#x27;s it. There we go. Yeah, this feels right. Once again, I held out my right</p>
 <p>hand, forming an image in my head as I recalled how things had gone the last time. I wasn&#x27;t sure how much magical power I had, but I figured that I couldn&#x27;t just keep using it over and over.</p>
 <p>My plan was to practice one thing at a time until I could pull it off. I would form the image in my mind and play it out, over and over, and try to enact it upon reality. If I tripped up, I would call that image back to mind until I had it perfectly emblazoned within my head.</p>
 <p>This was the same way I&#x27;d practiced combos in fighting games, back in my previous life. Thanks to that, I almost never screwed up a combo during a real match. Hopefully that meant my training methodology would be sound here, too.</p>
 <p>I drew a deep breath. My blood coursed through my body, from my toes to the top of my head, collecting in my right hand, filling it with power. Then, I felt that power pop into being before my palm. Now, bit by bit, so very, very carefully, my thoughts fell in line with the beating of my heart.</p>
-<p><em>Waterball, ball of water, water, wetness, wet…wet panties…</em></p>
+<p>Waterball, ball of water, water, wetness, wet…wet panties…</p>
 <p>Whoops. That kinda just slipped in there. Getting back to it, then…</p>
-<p>I buckled down, and set my mind to it: <em>water, water water waterwaterwater—</em></p>
+<p>I buckled down, and set my mind to it: water, water water waterwaterwater—</p>
 <p>&quot;Hah!&quot; I cried out in pure reflex as my hand shot out before me, fingers spread. In that instant, the ball of water came into being. &quot;Whoa, what?&quot;</p>
-<p><em>Splish</em>.</p>
+<p>Splish.</p>
 <p>In my moment of shock, the ball of water plopped to the floor.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-01/insert-02.webp" alt="Illustration" loading="lazy" />
@@ -61,15 +61,15 @@ nav_title = "Chapter 3"
 <p>Was using magic without chanting really that easy? That had to be a high-level skill, right? &quot;If it&#x27;s that easy, what&#x27;s the point of the incantation at all?&quot; I mused aloud. Here I was, a complete beginner, and I&#x27;d successfully pulled off a spell without any words at all. I&#x27;d simply focused the magical energy of my body in the front of my mind and then willed it to take shape.</p>
 <p>That&#x27;s all it was. Which implied that the incantation wasn&#x27;t really necessary after all. Anyone could do what I&#x27;d just done.</p>
 <p>Hmm. Perhaps the incantation was an activation trigger for the spell, where uttering the words would create the effect without having to focus on the energy coursing through your body. That had to be what it was. Sort of like the difference between manual and automatic transmissions in a car, where you could still take manual control if you really wanted to.</p>
-<p><em>&quot;Using an incantation allows magical effects to trigger automatically.&quot;</em></p>
+<p>&quot;Using an incantation allows magical effects to trigger automatically.&quot;</p>
 <p>This had some huge advantages. First, it made for easy teaching. Rather than needing a convoluted explanation about feeling the blood coursing through your veins converging and all that, casting a spell by chanting words was both easier to explain and easier to understand. And then, as one&#x27;s studies progressed, the idea of the incantation being an indispensable part of the process would naturally take root.</p>
 <p>The second advantage was that incantations were easy to use. Attack magic, by its very nature, was something that needed to be done in the heat of battle. It was a lot faster to rattle off a chant than it was to close your eyes and stand there humming as you tried to</p>
 <p>concentrate. Also, in the heat of the moment, it was far easier to blurt something out than it was to go through a series of minute gestures.</p>
 <p>&quot;But maybe some people do find the first option easier…&quot;</p>
 <p>I flipped through the book, but there was nothing about casting spells without incantation. That was odd. What I&#x27;d just done hadn&#x27;t been all that difficult.</p>
 <p>Maybe I had some kind of special talent, but I doubted it was something that others weren&#x27;t able to tap into at all, I reasoned. A magician typically used incantations from when they were a beginner to when they became a master. After casting thousands or even tens of thousands of spells, the body grew accustomed to the incanting; even if they did try to cast a spell wordlessly, they wouldn&#x27;t know how. Therefore, it wasn&#x27;t something that was ordinarily done, and hence the book said nothing of it.</p>
-<p>&quot;Yeah, that does make sense!&quot; After all, I was hardly ordinary myself. That was cool, right? Sorta like having a sneaky trick up my sleeves. &quot;<em>Did she just activate the Crime Catalyst without an Oratorio?&quot; &quot;But that catalyst is usually just supposed to open up the channel!&quot;</em></p>
-<p>Oh, <em>now</em> I sure was interested!</p>
+<p>&quot;Yeah, that does make sense!&quot; After all, I was hardly ordinary myself. That was cool, right? Sorta like having a sneaky trick up my sleeves. &quot;Did she just activate the Crime Catalyst without an Oratorio?&quot; &quot;But that catalyst is usually just supposed to open up the channel!&quot;</p>
+<p>Oh, now I sure was interested!</p>
 <p>Okay, okay. No getting ahead of myself. I needed to calm down and keep my cool. My past self had gotten all caught up in this feeling, too, and we know how he turned out: someone who puffed himself up because he was better with computers than the average person, then got way too cocky and failed hard at life.</p>
 <p>I needed to keep a level head. Restrain myself. The important thing here was not to think of myself as being better than other people. I was just a beginner. A n00b. I was like a novice bowler who just happened to land a strike on my first toss through dumb luck.</p>
 <p>Beginner&#x27;s luck—that&#x27;s all it was. I needed to buckle down and focus on studying instead of mistaking this for some sort of innate knack.</p>
@@ -117,9 +117,9 @@ nav_title = "Chapter 3"
 <p>Ice Blade: creates a sword made out of ice.</p>
 <p>These were all Beginner spells, but the amount of magical power they required was very different, taking somewhere roughly between twice and twenty times as much as the basic Waterball spell. For my fundamentals, I stuck to water magic; if I tried fire magic, I might accidentally burn the house down.</p>
 <p>Speaking of fire magic, the amount of magical energy you put into a spell affected the temperature of the results, so it stood to reason that Advanced ice spells worked the same way. But despite the fact that the book claimed both Waterball and Water Arrow were supposed to fly through the air, I wasn&#x27;t able to get them to do that for some reason. I wasn&#x27;t sure why. Was I getting some part of the spell wrong? I couldn&#x27;t really tell.</p>
-<p><em>A Textbook of Magic</em> did say something about the size and speed of spells. Maybe, after conjuring my projectile, I needed to imbue it with additional magical energy in order to control its movement?</p>
+<p>A Textbook of Magic did say something about the size and speed of spells. Maybe, after conjuring my projectile, I needed to imbue it with additional magical energy in order to control its movement?</p>
 <p>I decided to give it a try. &quot;Huh?&quot; I murmured as my sphere of water grew larger. &quot;Whoa!&quot;</p>
-<p>And then: <em>Splash</em>!</p>
+<p>And then: Splash!</p>
 <p>&quot;Oh…&quot;</p>
 <p>I&#x27;d dropped it on the floor again.</p>
 <p>After that, I experimented with making the Waterball bigger and smaller. I tried creating two Waterballs at once, then attempted to change their sizes separately.</p>

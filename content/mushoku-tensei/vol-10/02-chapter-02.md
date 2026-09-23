@@ -39,7 +39,7 @@ nav_title = "Chapter 2"
 <p>&quot;…Ah, I see. And their name?&quot;</p>
 <p>&quot;Um, I have to keep that a secret for the moment.&quot;</p>
 <p>&quot;Okay. Well, if they happen to be a follower of Millis, let me know. I&#x27;m acquainted with the city&#x27;s bishop, so we could have a ceremony, as long as you&#x27;re okay with it being informal.&quot;</p>
-<p>So the Millis faith <em>did</em> have something like a wedding ceremony, then! I wasn&#x27;t a follower of Millis, though, and I was sure Sylphie wasn&#x27;t, either.</p>
+<p>So the Millis faith did have something like a wedding ceremony, then! I wasn&#x27;t a follower of Millis, though, and I was sure Sylphie wasn&#x27;t, either.</p>
 <p>&quot;Master, if you lack the funds, shall I assist?&quot; Zanoba offered.</p>
 <p>&quot;No, no. I&#x27;d feel super lame about relying on you for that.&quot; Though I put on a brave face by saying that, I had no idea what the housing market was like around here. I hoped my savings would be enough. &quot;At any rate, I&#x27;ll go have a look at houses in the city tomorrow. If it looks like I can&#x27;t do it myself, I may ask for your help.&quot;</p>
 <p>&quot;Of course. I can afford to buy even the biggest house in this city, so you have no need to worry,&quot; said Zanoba with a smile.</p>
@@ -48,7 +48,7 @@ nav_title = "Chapter 2"
 <p>The following day, I went to the real estate agency. The liege lord of a region was generally the one who offered home loans to residents, but there was no clear regional lord in Sharia. Instead, the Three Magic Nations and the Magicians&#x27; Guild jointly administered the territory through the establishment of a real estate agency that would resolve any problems that arose. As for what those &quot;problems&quot; might be, I had no idea.</p>
 <p>I referred to it as a real estate agency as a matter of convenience, but its official name was the Land Management Office. They dealt with the buying and selling of vacant houses, as well as granting permits for people to build on empty land. When I told the receptionist there that I wanted a house, I was handed a list. Information about available houses was catalogued on each page: addresses, plot sizes, house sizes, the number of rooms, and the cost. There was quite the variety—from small, single-room affairs to veritable mansions.</p>
 <p>&quot;Hmm…&quot;</p>
-<p>To be honest, I had no idea how big a house I should buy. Something with a garden and room for a big dog might be best…or maybe a townhouse apartment? I didn&#x27;t mind living somewhere small, but Sylphie was the Princess&#x27; bodyguard, and her good friend on top of that. That meant the Princess would come see her on occasion, and we couldn&#x27;t be living in a shabby apartment if royalty came visiting. That said, my current savings wouldn&#x27;t cover the cost of a posh residence of the kind designed for nobility. Maybe I <em>should</em> accept Zanoba&#x27;s help? No, I&#x27;d feel awkward using him as my wallet. I could buy a decent house with what I had, after all.</p>
+<p>To be honest, I had no idea how big a house I should buy. Something with a garden and room for a big dog might be best…or maybe a townhouse apartment? I didn&#x27;t mind living somewhere small, but Sylphie was the Princess&#x27; bodyguard, and her good friend on top of that. That meant the Princess would come see her on occasion, and we couldn&#x27;t be living in a shabby apartment if royalty came visiting. That said, my current savings wouldn&#x27;t cover the cost of a posh residence of the kind designed for nobility. Maybe I should accept Zanoba&#x27;s help? No, I&#x27;d feel awkward using him as my wallet. I could buy a decent house with what I had, after all.</p>
 <p>Maybe I should&#x27;ve brought Sylphie with me. Shouldn&#x27;t large purchases like this be discussed with one&#x27;s partner? But in this world, it was apparently the man who bought the house and welcomed the woman into it. Sylphie might think me pathetic if I couldn&#x27;t do this on my own. I had to show her I was dependable, at least.</p>
 <p>&quot;So a cheap, large house with lots of rooms.&quot; I searched the list for a match. &quot;Hm?&quot;</p>
 <p>A listing at the very bottom of the stack caught my eye. A wornout, discolored page advertised what looked like a manor of some kind. It was located in a corner of the Residential District, which meant it wasn&#x27;t too far from the university. For the price it was going, I could buy it and still have some money left over. The only downside was its age.</p>
@@ -62,7 +62,7 @@ nav_title = "Chapter 2"
 <p>&quot;What about the Magicians&#x27; Guild?&quot;</p>
 <p>&quot;They said real estate isn&#x27;t their jurisdiction, so we should figure it out ourselves.&quot;</p>
 <p>&quot;What if I were able to successfully cleanse the place? Would you give it to me free of charge?&quot;</p>
-<p>The employee gave me a look as if to ask, <em>What the hell are you smoking?</em></p>
+<p>The employee gave me a look as if to ask, What the hell are you smoking?</p>
 <p>&quot;Sorry,&quot; I said. &quot;How about a provisional contract, then? I&#x27;ll check out the place myself in the next couple of days. If I decide I like it, then we&#x27;ll make the sale official. Will that work?&quot;</p>
 <p>&quot;Please write your name here, then.&quot;</p>
 <p>I&#x27;d failed in my attempt to haggle, but pressed on anyway, signing my name where I was told. There was a place where you could list a guarantor, and I went ahead and put down Princess Ariel&#x27;s and Badigadi&#x27;s names. Then I submitted it.</p>
@@ -93,12 +93,12 @@ nav_title = "Chapter 2"
 <p>&quot;We&#x27;ll start with the right side of the first floor. We&#x27;ll look through each and every room. I don&#x27;t think there are any traps, but it&#x27;s possible that either the floor or ceiling are rotted, so watch your head and feet.&quot;</p>
 <p>&quot;Understood.&quot; Zanoba nodded.</p>
 <p>Cliff looked back over his shoulder at me. &quot;Y-you sure are going all out.&quot;</p>
-<p>&quot;Well, I <em>am</em> an A-ranked adventurer,&quot; I said.</p>
+<p>&quot;Well, I am an A-ranked adventurer,&quot; I said.</p>
 <p>&quot;Y-yeah, that&#x27;s right, isn&#x27;t it?&quot; Cliff seemed to be nervous about something. Come to think of it, he&#x27;d gone off on an enjoyable adventure with Elinalise the other day, hadn&#x27;t he? I wondered how it went.</p>
 <p>&quot;Oh yes, so how was that adventure you went on the other day?&quot;</p>
 <p>&quot;…They completely ripped into me.&quot;</p>
 <p>&quot;Well, they are S-ranked after all.&quot;</p>
-<p>The members of Stepped Leader probably hadn&#x27;t been <em>that</em> harsh on him. After all, they&#x27;d known they were dealing with a rookie. How the person receiving that criticism decided to interpret it was a different matter. Cliff was a self-proclaimed genius. He&#x27;d probably never had anyone point out his flaws before.</p>
+<p>The members of Stepped Leader probably hadn&#x27;t been that harsh on him. After all, they&#x27;d known they were dealing with a rookie. How the person receiving that criticism decided to interpret it was a different matter. Cliff was a self-proclaimed genius. He&#x27;d probably never had anyone point out his flaws before.</p>
 <p>&quot;What should I be doing?&quot;</p>
 <p>&quot;If we run into an enemy, use basic-level divine magic to attack them.&quot;</p>
 <p>&quot;G-got it. But what if they&#x27;re not a spirit?&quot; he asked.</p>
@@ -120,7 +120,7 @@ nav_title = "Chapter 2"
 <p>&quot;I can&#x27;t say for sure until you light a fire in it, but it seems intact,&quot; Cliff assessed.</p>
 <p>Good. &quot;All right. Thank you.&quot;</p>
 <p>I nodded, and we were off to the next room, the innermost one to the right of the entrance. It had stone floors and something like a kiln, so this was most likely the kitchen. There was a torn piece of cloth lying on the floor next to said kiln. When I picked it up, I discovered it was a ragged apron. Maybe Sylphie would cook for me in here, naked except for an apron covering her. That gave me something to be excited about.</p>
-<p><em>No, forget that,</em> I told myself. We were here to weed out the evil spirit—or whatever it was that haunted this place. This was no time for me to be pitching a tent in my pants.</p>
+<p>No, forget that, I told myself. We were here to weed out the evil spirit—or whatever it was that haunted this place. This was no time for me to be pitching a tent in my pants.</p>
 <p>I searched the kiln and every other place where a living thing might be hiding. &quot;Okay, nothing amiss here. Next.&quot;</p>
 <p>We discovered a door leading to the basement behind the staircase, but we decided to save that for later. We moved counterclockwise through each room on the first floor and found no abnormalities. There were some places where dust had built up, but the house was in such good condition that you wouldn&#x27;t think it&#x27;d been built over a century ago. Perhaps the previous owner had made some repairs to it or something.</p>
 <p>&quot;So this is the last one, huh?&quot;</p>
@@ -132,7 +132,7 @@ nav_title = "Chapter 2"
 <p>Since we were in agreement, I decided to head to the basement first. The door, located behind the stairs leading to the second floor, led to another flight of stairs heading downward. I lit the lamps we had and passed them to Zanoba and Cliff.</p>
 <p>&quot;I&#x27;ll keep a lookout from the middle with my demon eye. Do not drop your lamp, even if you think we&#x27;re in danger. I can&#x27;t provide backup in the dark.&quot;</p>
 <p>&quot;Ha ha ha, I&#x27;m a Blessed Child! There&#x27;s nothing to fear,&quot; Zanoba declared as we headed down the stairs. What a guaranteed death flag.</p>
-<p><em>Be more cautious,</em> I inwardly chided him. <em>You never know if an arrow will come flying out when you open a door or not.</em> Although, knowing Zanoba, it&#x27;d probably ricochet right off his body with a noisy <em>clink</em>.</p>
+<p>Be more cautious, I inwardly chided him. You never know if an arrow will come flying out when you open a door or not. Although, knowing Zanoba, it&#x27;d probably ricochet right off his body with a noisy clink.</p>
 <p>We reached a door that led further into the basement.</p>
 <p>&quot;Hm. Nothing here.&quot;</p>
 <p>There were several empty wooden shelves, but it otherwise looked like an unused storage area. I shone my light around a bit, but I didn&#x27;t sense anything skulking about. There was kind of a stain on the wall, but it wasn&#x27;t human-shaped at all. The edges of the wallboard had rotted a bit, but that was it. I&#x27;d have to replace them later.</p>
@@ -141,8 +141,8 @@ nav_title = "Chapter 2"
 <p>We left the basement and returned to the entrance. From there, we headed up the flight of stairs to the second floor. The wood beneath our feet didn&#x27;t even so much as creak.</p>
 <p>The second floor was also completely symmetrical. At either end of the two wings was a room connected to an inner bedroom. Apart from that, there were also a number of extra bedrooms, each about six tatami mats in size. That made six room in totals: four of those smaller rooms, and two medium-sized rooms which were about twelve tatami mats in size. The latter two were connected to the inner bedrooms. Finally, there was also a balcony.</p>
 <p>&quot;Hmm…&quot;</p>
-<p><em>Let&#x27;s put a big bed in this bedroom,</em> I decided. One with more than enough room for three people to lie in. Two normal beds</p>
-<p>pushed together might be good, too. No, wait—if the bed were small, we&#x27;d have to huddle close to sleep, which wouldn&#x27;t be a bad thing. Then, when I awoke, I&#x27;d have her warmth right beside me. <em>And</em> her small breasts would be constantly within groping distance. Nope, not bad at all.</p>
+<p>Let&#x27;s put a big bed in this bedroom, I decided. One with more than enough room for three people to lie in. Two normal beds</p>
+<p>pushed together might be good, too. No, wait—if the bed were small, we&#x27;d have to huddle close to sleep, which wouldn&#x27;t be a bad thing. Then, when I awoke, I&#x27;d have her warmth right beside me. And her small breasts would be constantly within groping distance. Nope, not bad at all.</p>
 <p>At any rate, the bed was important. We&#x27;d be using it every day, after all—and no, I didn&#x27;t mean just for sex. People had to sleep, you know.</p>
 <p>&quot;Master Cliff.&quot;</p>
 <p>&quot;Wh-what? Did you find something?&quot;</p>
@@ -150,14 +150,14 @@ nav_title = "Chapter 2"
 <p>&quot;Huh?&quot; Cliff went quiet for a few seconds as he thought about it. Then he sucked in a breath. Finally, he sighed. &quot;Oh, you. Yes, that&#x27;s an important aspect of a relationship. But you&#x27;re not doing your partner justice if that&#x27;s the only thing you&#x27;re focusing on.&quot;</p>
 <p>&quot;Oh. Well, yes, I suppose you&#x27;re right.&quot;</p>
 <p>For some reason, his words were compelling—probably because he was speaking from experience. I could very easily imagine Elinalise lunging at him, eyes full of lust, the moment the two of them were alone together.</p>
-<p>I&#x27;d take what he said to heart, then. <em>Guess I&#x27;ll go with a bigger bed.</em></p>
+<p>I&#x27;d take what he said to heart, then. Guess I&#x27;ll go with a bigger bed.</p>
 <p>&quot;Phew, nothing here, huh?&quot; I said, heaving a breath after we surveyed the final room.</p>
 <p>&quot;I assume we&#x27;ll be staying the night here, then. Just as we planned,&quot; Zanoba said.</p>
 <p>&quot;Yes. I&#x27;m counting on you.&quot;</p>
 <p>I&#x27;d wanted to search the house ahead of time just to be sure, but hadn&#x27;t really expected anything to come of it. According to the stories, the spirit only showed itself at night, accompanied by a</p>
 <p>creaking noise. Creepy. Probably just a monster that was squatting here, though what kind, I didn&#x27;t know. I didn&#x27;t think it could be too powerful, considering we were in the middle of a city. Then again, low-ranking adventurers sent to clear out the house had been brutally murdered. We couldn&#x27;t let our guard down.</p>
 <p>Perhaps the truth was actually simple: bandits using the house as a hideout, for instance. The creaking sound could be caused by them picking the lock to the front door. No—the front door was broken. Then maybe the back door? But there were no signs of anyone living here at all.</p>
-<p>Yeah, I was stumped. Maybe I should have brought Elinalise and the others along, too. She&#x27;d seen a lot in her long life; she might&#x27;ve been able to help us. Though, now that my little man was back in action, I wasn&#x27;t confident being around her wouldn&#x27;t turn me on. I could just imagine it—I&#x27;d be keeping watch in the middle of the night, and a shadow would come creeping up to me, whispering temptations into my ear. <em>But Cliff is sleeping right beside us,</em> I&#x27;d say. And she&#x27;d respond, <em>So what?</em></p>
+<p>Yeah, I was stumped. Maybe I should have brought Elinalise and the others along, too. She&#x27;d seen a lot in her long life; she might&#x27;ve been able to help us. Though, now that my little man was back in action, I wasn&#x27;t confident being around her wouldn&#x27;t turn me on. I could just imagine it—I&#x27;d be keeping watch in the middle of the night, and a shadow would come creeping up to me, whispering temptations into my ear. But Cliff is sleeping right beside us, I&#x27;d say. And she&#x27;d respond, So what?</p>
 <p>&quot;Stay alert,&quot; I declared as we stood in the second-floor bedroom area. &quot;The spirit might not show itself right away, so we&#x27;ll be spending the night.&quot;</p>
 <p>&quot;Hm. I&#x27;m worried about Julie.&quot;</p>
 <p>&quot;I&#x27;m worried about Elinalise.&quot;</p>
@@ -165,9 +165,9 @@ nav_title = "Chapter 2"
 <p>My thoughts went to Sylphie, who was probably serving as the Princess&#x27; bodyguard again, just as she always did. There was nothing to worry about. Wait, I did tell her that I was going out today, but I hadn&#x27;t mentioned I&#x27;d be staying the night. What if she came to my room to talk to me before bed, and I wasn&#x27;t there? She might hover in that cold hall, waiting for me, mumbling to herself, &quot;Rudy sure is late.&quot;</p>
 <p>&quot;The sun&#x27;s about to set,&quot; Zanoba interjected.</p>
 <p>I could see the evening sun reflecting off the bedroom window. If I left now, it would be nightfall by the time I made it back to campus. Sylphie would probably already be back at the girls&#x27; dorm. Even if I didn&#x27;t say anything to her directly, I should at least leave a note on my door, saying that I wouldn&#x27;t be there tonight. Right?</p>
-<p><em>All right, let&#x27;s do it. Let&#x27;s go right now.</em></p>
+<p>All right, let&#x27;s do it. Let&#x27;s go right now.</p>
 <p>No, wait. What if these two got themselves killed while I was gone? That wouldn&#x27;t do. I was, after all, the leader of this party.</p>
-<p><em>Just calm down,</em> I told myself. It wasn&#x27;t a big deal. As long as I explained everything afterward, Sylphie would understand. Although…wait. I&#x27;d heard something about this a long time ago. That all the instances in a relationship where you found yourself saying, &quot;Just this once&quot; tended to accumulate, ultimately leading to a rift between you and your partner. Crap. Now I had a bad feeling about this.</p>
+<p>Just calm down, I told myself. It wasn&#x27;t a big deal. As long as I explained everything afterward, Sylphie would understand. Although…wait. I&#x27;d heard something about this a long time ago. That all the instances in a relationship where you found yourself saying, &quot;Just this once&quot; tended to accumulate, ultimately leading to a rift between you and your partner. Crap. Now I had a bad feeling about this.</p>
 <p>The solution was obvious: intentionally raise my own death flag. &quot;Zanoba.&quot;</p>
 <p>&quot;Yes? What is it?&quot;</p>
 <p>&quot;I&#x27;m getting married once we finish this mission.&quot;</p>
@@ -177,7 +177,7 @@ nav_title = "Chapter 2"
 <p>Cliff inserted himself into the conversation again. &quot;Make sure you invite me and Lise.&quot;</p>
 <p>&quot;Of course. Why wouldn&#x27;t you be invited?&quot;</p>
 <p>&quot;Just making sure. It&#x27;s one thing if I&#x27;m left out, but I&#x27;d be sad to see it happen to her.&quot;</p>
-<p>Cliff really couldn&#x27;t read the room…which was probably why he was always left out of those kinds of gatherings. I&#x27;d be sure to invite him, though, and Elinalise too, of course. Anyway, I was tired of this sausage fest. I wanted to hurry up, finish this, and go home to Sylphie and her breasts—<em>No, focus</em>. I could touch her as much as I wanted to later.</p>
+<p>Cliff really couldn&#x27;t read the room…which was probably why he was always left out of those kinds of gatherings. I&#x27;d be sure to invite him, though, and Elinalise too, of course. Anyway, I was tired of this sausage fest. I wanted to hurry up, finish this, and go home to Sylphie and her breasts—No, focus. I could touch her as much as I wanted to later.</p>
 <p>Day turned to night as I busied myself with those thoughts.</p>
 <p>Meanwhile, back at the girls&#x27; dorm, Sylphie had already caught wind of the fact that Rudeus had gone house-shopping. She was currently in her bed, arms snug around her pillow, rolling around as she fantasized the possibilities.</p>
 <p><strong>Chapter 3: Things to Prepare Before Marriage (Part 2)</strong></p>

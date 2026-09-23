@@ -29,14 +29,14 @@ nav_title = "Chapter 6"
 <p>&quot;Can&#x27;t we do it inside the house?&quot;</p>
 <p>&quot;No, we can&#x27;t.&quot;</p>
 <p>&quot;We can&#x27;t, huh?&quot; I was at a loss. Intellectually, I knew that someday I&#x27;d need to venture into the world beyond. My body refused to comply, though. It still remembered too much from before.</p>
-<p>It remembered my old life. Getting beaten up by punks. Being laughed at uproariously. Experiencing tremendous heartbreak. Having no choice <em>but</em> to become a shut-in.</p>
+<p>It remembered my old life. Getting beaten up by punks. Being laughed at uproariously. Experiencing tremendous heartbreak. Having no choice but to become a shut-in.</p>
 <p>&quot;Why, what&#x27;s the matter?&quot; Roxy asked.</p>
 <p>&quot;Um, well, it&#x27;s just… there might be monsters or something out there.&quot;</p>
 <p>&quot;Oh, we certainly won&#x27;t run into any of them around these parts, long as we don&#x27;t get too close to the forests. Even if we do, they&#x27;ll be weak enough that I can take care of them. Heck, you could probably handle them yourself.&quot; Roxy frowned dubiously at all my hemming and hawing about not wanting to leave. &quot;Ah, that&#x27;s right, I remember hearing that you&#x27;ve never left home, have you, Rudy?&quot;</p>
 <p>&quot;Er… no.&quot;</p>
 <p>&quot;Is it because you&#x27;re afraid of the horse?&quot;</p>
 <p>&quot;N-no, I&#x27;m…not that scared of horses.&quot; I actually liked horses, really. I&#x27;d played Derby Stallion and everything.</p>
-<p>&quot;Hehe. Ah, so that&#x27;s all it is,&quot; Roxy said. &quot;I guess you <em>do</em> act your age sometimes.&quot;</p>
+<p>&quot;Hehe. Ah, so that&#x27;s all it is,&quot; Roxy said. &quot;I guess you do act your age sometimes.&quot;</p>
 <p>She totally had the wrong idea, but I couldn&#x27;t tell her I was afraid of leaving the house. That&#x27;d be even more humiliating than saying I was afraid of horses. And I still had my sense of pride—my minuscule, out-of-touch-with-reality sense of pride.</p>
 <p>Really, all I wanted was to not have a little girl like her make fun of me.</p>
 <p>I still didn&#x27;t move. &quot;Guess I don&#x27;t have any other choice, then,&quot; Roxy said. &quot;Hyup!&quot; With that, she picked me up and slung me right over her shoulder.</p>
@@ -85,13 +85,13 @@ nav_title = "Chapter 6"
 <p>&quot;Did we come out here where there aren&#x27;t any people because this involves secret teachings?&quot; I asked.</p>
 <p>&quot;No, we came here because the spell might hurt people or cause damage to the crops.&quot;</p>
 <p>Wow. Rain so powerful it could damage crops? This sounded incredible.</p>
-<p>&quot;Now then.&quot; Roxy raised both her hands skyward. <em>&quot;Oh, spirits of the magnificent waters, I beseech the Prince of Thunder! Grant me</em>  <em>my wish, bless me with thy savagery, and reveal to this insignificant servant a glimpse of thy power! Let fear strike the heart of man as thy divine hammer strikes its anvil and cover the land with water! Come, oh rain, and wash everything away in thy flood of destruction—Cumulonimbus!&quot;</em></p>
+<p>&quot;Now then.&quot; Roxy raised both her hands skyward. &quot;Oh, spirits of the magnificent waters, I beseech the Prince of Thunder! Grant me  my wish, bless me with thy savagery, and reveal to this insignificant servant a glimpse of thy power! Let fear strike the heart of man as thy divine hammer strikes its anvil and cover the land with water! Come, oh rain, and wash everything away in thy flood of destruction—Cumulonimbus!&quot;</p>
 <p>She chanted steadily, slowly, and purposefully. It took her just over a minute to complete her incantation.</p>
 <p>A moment later, our surroundings grew dark. For several seconds, there was nothing—then, a pelting rain began to fall. A terrific wind roared, accompanied by black clouds that flickered with lightning. Amidst the pouring sheets of rain, the sky began to rumble, and purple light shot through the clouds. With each new flash, the lightning increased in power. It was almost as if the light itself was taking on a palpable weight, growing with a swell and ready to come right—</p>
 <p>—down.</p>
 <p>The lightning struck the tree next to us. My eardrums rang, and my vision went painfully white.</p>
 <p>Roxy let out a yelp of alarm at the near miss. A mere moment later, the clouds scattered, the rain and thunder promptly letting up. &quot;Oh, no,&quot; Roxy muttered as she rushed over to the tree, her face pale.</p>
-<p>When my vision returned, I saw that the horse had collapsed, smoke rising from its body. Roxy set her hands on the horse&#x27;s body and quickly began to chant. <em>&quot;Oh, goddess of motherly affection, close up this one&#x27;s wounds and restore the vigor to his body—X-Healing!&quot;</em></p>
+<p>When my vision returned, I saw that the horse had collapsed, smoke rising from its body. Roxy set her hands on the horse&#x27;s body and quickly began to chant. &quot;Oh, goddess of motherly affection, close up this one&#x27;s wounds and restore the vigor to his body—X-Healing!&quot;</p>
 <p>Roxy&#x27;s chant had been flustered, but before long, the horse came to. It couldn&#x27;t have been that close to death, then: An Intermediate-tier Healing spell like that couldn&#x27;t restore the dead to life.</p>
 <p>The horse looked alarmed, and sweat had beaded on Roxy&#x27;s forehead. &quot;Whew! That was a close one!&quot;</p>
 <p>Yeah, I&#x27;d say it was a close one, all right. That was my family&#x27;s only horse! Paul dutifully tended to it every day and would occasionally take it out on long rides, a bright smile on his face. It didn&#x27;t have a particularly impressive pedigree or anything, but Paul and that horse had been through a lot over the years. It wasn&#x27;t a stretch to say that, after Zenith, Paul loved that horse more than anything. That&#x27;s how important it was.</p>
@@ -106,7 +106,7 @@ nav_title = "Chapter 6"
 <p>The horse still looked frightened, ready to bolt at any moment, but Roxy stepped in front of him, blocking his path with her tiny body. She certainly couldn&#x27;t physically overpower a horse, but bit by bit, the nervous creature grew more docile. Roxy held her position and muttered an incantation under her breath.</p>
 <p>Both of them were engulfed by a wall of earth, which proceeded to grow into an earthen dome not unlike an igloo. This was the Advanced-tier earth spell Earth Fortress. That ought to suffice to keep them safe from the thunderstorm.</p>
 <p>All right. It was my time to do this. I was gonna be so amazing that it&#x27;d blow Roxy&#x27;s mind.</p>
-<p>How did the incantation go again? Ah, yes. <em>&quot;Oh, spirits of the magnificent waters, I beseech the Prince of Thunder! Grant me my wish, bless me with thy savagery, and reveal to this insignificant servant a glimpse of thy power! Let fear strike the heart of man as thy divine hammer strikes its anvil and cover the land with water! Come, oh rain, and wash everything away in thy flood of destruction—Cumulonimbus!</em>&quot;</p>
+<p>How did the incantation go again? Ah, yes. &quot;Oh, spirits of the magnificent waters, I beseech the Prince of Thunder! Grant me my wish, bless me with thy savagery, and reveal to this insignificant servant a glimpse of thy power! Let fear strike the heart of man as thy divine hammer strikes its anvil and cover the land with water! Come, oh rain, and wash everything away in thy flood of destruction—Cumulonimbus!&quot;</p>
 <p>I got the words out in a single breath, and the clouds began to billow and swell.</p>
 <p>Now I understood the nature of the Cumulonimbus spell: In addition to conjuring clouds overhead, you simultaneously had to handle a complex series of motions to turn them into thunderclouds—or something to that effect. You had to continually funnel magic into the spell or the clouds would stop moving and dissipate. Leaving the magic aside, it was going to suck having to stand here with both hands raised for over an hour.</p>
 <p>Wait, no. Hold on. Magicians were creative. They wouldn&#x27;t need to hold a pose like this for an hour to pull things off. I had to remember: This was a test. I wasn&#x27;t supposed to stand still for an hour; after creating the clouds, I needed to use some form of Combined Magic to keep the spell maintained.</p>
@@ -125,7 +125,7 @@ nav_title = "Chapter 6"
 <p>&quot;Of course. This is a Water Saint-tier magic spell, and if you don&#x27;t keep your spell fueled with magic, your clouds are going to dissipate.&quot;</p>
 <p>&quot;But I already took steps to make sure they wouldn&#x27;t,&quot; I said.</p>
 <p>&quot;Huh? Oh!&quot; Roxy began rushing out of the dome as if she&#x27;d suddenly realized something. At this, the dome began to crumble.</p>
-<p><em>Hey now, remember to control your magic or you&#x27;ll bury the horse alive.</em></p>
+<p>Hey now, remember to control your magic or you&#x27;ll bury the horse alive.</p>
 <p>&quot;Whoops!&quot; Roxy hurriedly regained control of her spell, then stepped outside. She looked into the sky, astonished. &quot;I see! You created a diagonal whirlwind in order to push the clouds up!&quot;</p>
 <p>The cumulonimbus clouds I&#x27;d created were still growing, seemingly without limit.</p>
 <p>Not bad, if I said so myself.</p>
@@ -148,7 +148,7 @@ nav_title = "Chapter 6"
 <p>&quot;I appreciate the offer, but I&#x27;m afraid I can&#x27;t accept,&quot; Roxy replied. &quot;Teaching your son has made me realize how powerless I truly am, so I&#x27;m going to head out and travel the world for a while to hone my magic.&quot;</p>
 <p>She had to be a little shocked that I&#x27;d reached the same rank as her. And she&#x27;d said previously that having a pupil who exceeded her skills made her uncomfortable.</p>
 <p>&quot;I see,&quot; said Paul. &quot;I suppose it is what it is. I&#x27;m sorry that our son caused you to lose confidence in yourself.&quot;</p>
-<p><em>Hey! You didn&#x27;t have to put it like that, Dad!</em></p>
+<p>Hey! You didn&#x27;t have to put it like that, Dad!</p>
 <p>&quot;Oh, no,&quot; Roxy said. &quot;I&#x27;m grateful to be shown how conceited I&#x27;ve been.&quot;</p>
 <p>&quot;I&#x27;d hardly call you conceited when you&#x27;re able to use Water Saint-tier magic,&quot; Paul countered.</p>
 <p>&quot;Even if I couldn&#x27;t, your son&#x27;s ingenuity has shown me that I can be capable of even stronger magic.&quot; With a small grimace, Roxy put her hand on my head. &quot;Rudy, I wanted to do my best for you, but I didn&#x27;t have what it takes to teach you.&quot;</p>
@@ -160,14 +160,14 @@ nav_title = "Chapter 6"
 <p>&quot;Remember, it&#x27;s not a guarantee. Don&#x27;t be overconfident.&quot;</p>
 <p>Then, at the very, very end, Roxy flashed a little smile, and departed.</p>
 <p>Before I knew it, I was crying.</p>
-<p>She really had given me so much: wisdom, experience, technique… If I&#x27;d never met her, I&#x27;d probably still be doing what I was before, fumbling my way through with <em>A Textbook of Magic</em> in one hand.</p>
+<p>She really had given me so much: wisdom, experience, technique… If I&#x27;d never met her, I&#x27;d probably still be doing what I was before, fumbling my way through with A Textbook of Magic in one hand.</p>
 <p>More than anything, though, she took me outside.</p>
 <p>She took me outside. That was it. Such a simple thing. It was Roxy who&#x27;d done that for me. And that meant something. Roxy, who&#x27;d come to this village not even two years ago. Roxy, who looked like someone who&#x27;d never get along well with strangers. Roxy, a demon whom the villagers should have considered beneath their notice.</p>
 <p>Not Paul. Not Zenith. Roxy was the one who took me to the outside world, and that meant something.</p>
 <p>I say that she took me to the outside world, when really, all she did was take me across town. Still, the prospect of leaving home had definitely been a traumatic one for me, and she&#x27;d cured me of that just by taking me through the village. That had been enough to lift my spirits. She hadn&#x27;t been trying to rehabilitate me, but I&#x27;d still had a breakthrough because of her.</p>
 <p>Yesterday, after we&#x27;d gotten back home, soaking wet, I&#x27;d turned to look at the front gate and taken just one step beyond it. And right there was the ground. Just the ground, and nothing more. My anxieties had left me.</p>
 <p>Now, I was capable of walking outside on my own.</p>
-<p>She&#x27;d managed to do something for me that no one else ever had, not even my parents or siblings from my past life. <em>She</em> was the one who&#x27;d done it for me. I&#x27;d been given not irresponsible words, but a responsible sense of courage.</p>
+<p>She&#x27;d managed to do something for me that no one else ever had, not even my parents or siblings from my past life. She was the one who&#x27;d done it for me. I&#x27;d been given not irresponsible words, but a responsible sense of courage.</p>
 <p>That hadn&#x27;t been her aim: I knew that. She&#x27;d done it for herself, and I knew that, too. But I respected her.</p>
 <p>Young as she was, I respected her.</p>
 <p>I promised myself I wouldn&#x27;t look away until Roxy disappeared from view. In my hands, I clutched the wand and the pendant she&#x27;d given me. I still had all the things she&#x27;d taught me.</p>

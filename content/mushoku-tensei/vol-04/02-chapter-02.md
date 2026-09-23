@@ -11,16 +11,16 @@ nav_title = "Chapter 2"
 <p>I overthought things the last time the Man-God gave me advice. Just as an amateur cook adds too many ingredients to a dish, overthinking had landed me in a figurative shit pile. This time I was going to follow his advice exactly. I would brainlessly heed his instructions, buy the food he told me to, then just as brainlessly navigate my way through whatever event was going to happen in the back alley. This was roleplaying. Whatever occurred from here on would be completely unplanned. I wouldn&#x27;t overthink anything; I would act as simple-mindedly as possible. That jerk liked entertainment. He was counting on me to overthink things again. As long as I didn&#x27;t do that, he wouldn&#x27;t be entertained.</p>
 <p>Those thoughts preoccupied me as I wandered aimlessly for several minutes before suddenly realizing something. &quot;Wait, this is exactly what he&#x27;s expecting, isn&#x27;t it?&quot;</p>
 <p>I&#x27;d been deceived! He led me on with his impressive smooth talk and now I was about to do exactly what he wanted me to do. When I realized that, it pissed me off. I was dancing right in the palm of his hand.</p>
-<p><em>Remember his original intention</em>, I told myself. <em>Remember how you felt the first time you met.</em> The Man-God wasn&#x27;t someone I could trust.</p>
+<p>Remember his original intention, I told myself. Remember how you felt the first time you met. The Man-God wasn&#x27;t someone I could trust.</p>
 <p>All right then, this would be the last time I did as he told me. I would follow his advice and see how things turned out this time, but there was no way I would obey him next time. There was no way I was going to become his puppet and let him string me along! Period!</p>
 <p>***</p>
 <p>I marched down the alleyway. By myself, of course.</p>
-<p>Why did I have to be alone, anyway? That was the key part of his advice this time. It must be something that Ruijerd and Eris wouldn&#x27;t approve of. <em>No, don&#x27;t overthink it</em>, I told myself. <em>If you want to think about something, then just think about how happy you&#x27;ll be if it turns out to be something sexy.</em></p>
+<p>Why did I have to be alone, anyway? That was the key part of his advice this time. It must be something that Ruijerd and Eris wouldn&#x27;t approve of. No, don&#x27;t overthink it, I told myself. If you want to think about something, then just think about how happy you&#x27;ll be if it turns out to be something sexy.</p>
 <p>I had told Ruijerd and Eris that I would be off on my own for the day. It was dangerous to leave Eris to her own devices, so I entrusted Ruijerd with her protection. Maybe the two of them were off to see the beach right now.</p>
 <p>&quot;Wait…isn&#x27;t that a date?&quot; In my mind I saw the two of them together on the beach just before their silhouettes disappeared behind the shade of a large rock.</p>
-<p><em>No, no, no! There&#x27;s no freakin&#x27; way! J-just, just calm down, okay? This is Eris and Ruijerd we&#x27;re talking about, right? This isn&#x27;t some kind of sexual fantasy. It&#x27;s nothing more than babysitting. Baby. Sitting!</em></p>
+<p>No, no, no! There&#x27;s no freakin&#x27; way! J-just, just calm down, okay? This is Eris and Ruijerd we&#x27;re talking about, right? This isn&#x27;t some kind of sexual fantasy. It&#x27;s nothing more than babysitting. Baby. Sitting!</p>
 <p>Ah! But Ruijerd was really strong after all, and Eris seemed to respect him a lot! Lately she had been treating me like nothing more than a Kennel Master.</p>
-<p><em>No, no, what the hell are you panicking over?</em> I berated myself. <em>Deep breaths, everything is okay. Mister Ruijerd, you wouldn&#x27;t steal her away from me, right? I have nothing to worry about, right? When</em>  <em>I go back the two of you won&#x27;t have mysteriously gotten closer to one another right? I-I trust you guys, okay?!</em></p>
+<p>No, no, what the hell are you panicking over? I berated myself. Deep breaths, everything is okay. Mister Ruijerd, you wouldn&#x27;t steal her away from me, right? I have nothing to worry about, right? When  I go back the two of you won&#x27;t have mysteriously gotten closer to one another right? I-I trust you guys, okay?!</p>
 <p>In my head I simulated a fight between Ruijerd and myself. There was no way I could win in close-range combat. If I wanted to deal with him, I needed to start somewhere outside of his range of detection. Then I would have to use water to finish him off. He got in the way of our seaside fun, after all. I would attack him with water as retribution for that. If I produced a massive amount of water, I could sweep him all the way into the ocean. The end! He could drift at sea until he drowned. Mwahaha!</p>
 <p>Wait, don&#x27;t misunderstand me. I did trust Ruijerd. It was just that, well, you know that saying. Love is a battlefield, right?</p>
 <p>***</p>
@@ -40,20 +40,20 @@ nav_title = "Chapter 2"
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-04/insert-01.webp" alt="Illustration" loading="lazy" />
 </div>
-<p>&quot;Y-you…you there, what have you…?&quot; She was trembling like a fawn. &quot;Th-this man is… He&#x27;s…!&quot; She had a look of utter disbelief on her face. A look of <em>oh gosh golly mister, what have you done?!</em></p>
+<p>&quot;Y-you…you there, what have you…?&quot; She was trembling like a fawn. &quot;Th-this man is… He&#x27;s…!&quot; She had a look of utter disbelief on her face. A look of oh gosh golly mister, what have you done?!</p>
 <p>&quot;Ah, sorry. Did you know him?&quot; I asked, tilting my head. The look on that middle-aged man&#x27;s face didn&#x27;t give me the impression that he was acquainted with this kid. If I were to describe it, it was more like the look of a man past his prime getting aroused by a little girl. Look at him, ruddy face contorted into a smile even though he was unconscious. I had no doubt he&#x27;d take her home and provide a lavish meal and put her in bed, but in return he&#x27;d expect a long, hot night.</p>
 <p>&quot;My belly aches from the hunger…and this man was going to provide me with a meal.&quot; A noisy, gurgling rumble punctuated her sentence, loud enough that it could have been the foreshadowing of an earthquake. When the noise stopped, the girl&#x27;s knees gave out from beneath her and she crumpled.</p>
 <p>&quot;A-are you okay?&quot; I knelt down and lifted her into my arms. I wasn&#x27;t about to overlook a perfect opportunity to touch her. She wasn&#x27;t getting away. Don&#x27;t get me wrong, though, the only reason I was there was to follow the Man-God&#x27;s advice and save her. I wasn&#x27;t of the same ilk as that pervert from a moment ago.</p>
 <p>&quot;Guh…urgh…it&#x27;s been three hundred years since I revived. Passing out in a place like this is inconceivable. Laplace can never know about this.&quot;</p>
 <p>It felt like I&#x27;d stumbled onto the set of some mini-drama. Was this getup actually a cosplay or something?</p>
 <p>&quot;A-anyway, eat this and get some of your strength back.&quot; I crammed three of the fried skewers I&#x27;d bought into her mouth.</p>
-<p><em>Munch, munch.</em> The moment they entered her mouth, her eyes snapped open and stayed that way as she devoured the meat in seconds. Then she snatched the other skewers from me. I had a total of twelve, but in a snap of the fingers she had already eaten ten of them.</p>
+<p>Munch, munch. The moment they entered her mouth, her eyes snapped open and stayed that way as she devoured the meat in seconds. Then she snatched the other skewers from me. I had a total of twelve, but in a snap of the fingers she had already eaten ten of them.</p>
 <p>&quot;Wh-whoa! Delicious! The first thing I&#x27;ve had in a year and it&#x27;s so tasty!&quot; The girl seemed to have recovered. She leaped into the air from her prone position, making a single rotation before landing on her feet. She was unexpectedly fit.</p>
 <p>&quot;A year? I don&#x27;t know what your circumstances are, but that&#x27;s a bit extreme.&quot; It wasn&#x27;t as if she were a giant isopod that could live years without eating and not starve to death.</p>
 <p>&quot;Hm? Well, it&#x27;s not like I counted the rise and fall of the sun, but with how empty my stomach was, it should be a close estimate.&quot;</p>
 <p>Uh-huh. So she probably hadn&#x27;t eaten in two days, then.</p>
 <p>&quot;Regardless, you saved me! You! I can surely last another year on this!&quot; The young girl finally met my gaze. She had mismatched eyes, one purple and one green. This had to be another aspect of her cosplay. No, colored contacts didn&#x27;t exist in this world, so maybe that was her natural eye color.</p>
-<p>&quot;Oh?&quot; Her right eye spun around and turned blue. <em>G-gross!</em> &quot;Whoa! Whoa! What&#x27;s wrong with you, you&#x27;re horrifically disgusting! What is this, what is it?! Ahahaha! I&#x27;ve never seen this before!&quot; she shouted with far too much excitement as she looked at my face.</p>
+<p>&quot;Oh?&quot; Her right eye spun around and turned blue. G-gross! &quot;Whoa! Whoa! What&#x27;s wrong with you, you&#x27;re horrifically disgusting! What is this, what is it?! Ahahaha! I&#x27;ve never seen this before!&quot; she shouted with far too much excitement as she looked at my face.</p>
 <p>Uh yeah, needless to say that was a shock. It had been a long time since I last had someone look me in the face and call me disgusting. Then again, I&#x27;d just thought the same thing when I looked at her. So at least we were even.</p>
 <p>&quot;Could that be it? Were you a twin in the womb, but the other one died when you were born, is that it?&quot;</p>
 <p>…Huh? What the heck was she talking about? &quot;No, I don&#x27;t think anything like that happened.&quot;</p>
@@ -68,7 +68,7 @@ nav_title = "Chapter 2"
 <p>&quot;Aaaaah! What are you doing?! That&#x27;s filthy!&quot; She turned her toes inward and vigorously scrubbed her thighs together where I&#x27;d licked her, before glaring at me.</p>
 <p>Still, now I understood. The Demon World&#x27;s Great Emperor Kishirika Kishirisu was a name I&#x27;d heard before: the immortal Demon Emperor who led the demons in the Great Human-Demon War, only to meet a crushing defeat.</p>
 <p>Was she the real thing? I had come here on the Man-God&#x27;s advice, after all. There was a possibility that she really was who she claimed. Still, how could the real thing be here in a back alley of a city on the edge of the Demon Continent, on the brink of death from starvation? It just didn&#x27;t seem likely, no matter how you spun it.</p>
-<p><em>Ah, that&#x27;s probably it</em>, I realized. Children on this continent loved to pretend they were one of the great heroes of the past. The most popular of these figures was the Demon God Laplace. That was nauseating for me since I knew the truth about him, but he was popular. Even though he lost the war, he successfully subjugated all the tribes on the continent and gave the people a fixed place to call</p>
+<p>Ah, that&#x27;s probably it, I realized. Children on this continent loved to pretend they were one of the great heroes of the past. The most popular of these figures was the Demon God Laplace. That was nauseating for me since I knew the truth about him, but he was popular. Even though he lost the war, he successfully subjugated all the tribes on the continent and gave the people a fixed place to call</p>
 <p>home, thereby bringing them peace. He was regarded as one of the greatest demons in history. Children often played out his stories, particularly the episode where he fought with an immortal Demon King. That was the one I had seen numerous times on the way to Wind Port.</p>
 <p>I supposed that the Great Emperor of the Demon World, Kishirika, was another one of the great people in history, but I&#x27;d never seen any children pretending to be her before. This girl had to be one passionate fan of the Great Emperor. And she had no friends to play with, which was why she was here by herself in a back alleyway like this. That was the most logical way to interpret the situation.</p>
 <p>Hm. It was lonely, being all by yourself. I had no other choice, then. I had to play along. &quot;A-ah, yes! How rude of me, Your Majesty!&quot; I responded to her introduction with great exaggeration and took a knee as if I were one of her retainers.</p>
@@ -89,7 +89,7 @@ nav_title = "Chapter 2"
 <p>Huh? Seriously? I was just saying that as a joke. No, wait! Now it was too late to tell her that I&#x27;d only been joking. I would have to just observe as she revealed herself, and then afterward refuse by claiming that I was unworthy of Her Majesty.</p>
 <p>&quot;Ah, no, I mustn&#x27;t do this.&quot; Before I could do that, Kishirika stopped herself. &quot;I already have a fiancé. So sorry, but I can&#x27;t do this.&quot; The skin she had exposed vanished as she pulled her pants up. It felt like she&#x27;d been toying with my poor, pure heart.</p>
 <p>Anyway, so it was a no to money, no to the world, and no to her body.</p>
-<p>&quot;All right, then what <em>can</em> you do?&quot; I asked.</p>
+<p>&quot;All right, then what can you do?&quot; I asked.</p>
 <p>&quot;Fool! I am Kishirika, Great Emperor of the Demon World! It&#x27;s obvious what I can bestow upon you! Demon eyes!&quot;</p>
 <p>So that was it. Well, I wasn&#x27;t well-versed in the heroic mythology of this world. Come to think of it though, didn&#x27;t Ghislaine also have a demon eye?</p>
 <p>&quot;By &#x27;demon eyes,&#x27; do you mean eyes that can see a person&#x27;s lifeline? A line that, if cut, will kill the person with absolute certainty?&quot;</p>
@@ -138,15 +138,15 @@ nav_title = "Chapter 2"
 <p>This little girl sure didn&#x27;t get it, did she? Sure, I could see the naked body of any beautiful girl or woman who walked by on the street and it would probably turn me on. But that was it. I would get fed up with that quickly. The process of imagining them undressing was what I enjoyed, anyway. You couldn&#x27;t enjoy the way a shirt outlined those stiff protrusions on a girl&#x27;s breasts if she wasn&#x27;t wearing any clothes to begin with, right?</p>
 <p>&quot;I see, I see. All right, bring your face over here.&quot;</p>
 <p>&quot;All right.&quot;</p>
-<p>&quot;Here goes!&quot; <em>Squelch</em>. She jammed her finger into my right eye.</p>
+<p>&quot;Here goes!&quot; Squelch. She jammed her finger into my right eye.</p>
 <p>A sharp jolt of pain shot through me. &quot;Gyaaah!&quot;</p>
 <p>Instinctively I tried to retreat, but Kishirika caught hold of me. I couldn&#x27;t move. She was stronger than I expected.</p>
-<p><em>It hurts, it hurts, it hurts</em>, my brain screamed. &quot;Gaaaah! Wh-what the hell are you doing, you brat?!&quot;</p>
-<p>&quot;Oh shut up. You&#x27;re a man, aren&#x27;t you? Bear with the pain a little!&quot; She ground her fingers around in my eye socket as if she were tinkering with it, then pulled them out with a <em>pop</em>! I was left completely blind in that eye.</p>
+<p>It hurts, it hurts, it hurts, my brain screamed. &quot;Gaaaah! Wh-what the hell are you doing, you brat?!&quot;</p>
+<p>&quot;Oh shut up. You&#x27;re a man, aren&#x27;t you? Bear with the pain a little!&quot; She ground her fingers around in my eye socket as if she were tinkering with it, then pulled them out with a pop! I was left completely blind in that eye.</p>
 <p>&quot;The iris of the Eye of Foresight is a bit different than your normal color, but people won&#x27;t be able to tell the difference from afar.&quot;</p>
-<p>&quot;You absolute moron! There&#x27;s a difference between what is and what is <em>not</em> okay to do when you&#x27;re playing around!&quot;</p>
+<p>&quot;You absolute moron! There&#x27;s a difference between what is and what is not okay to do when you&#x27;re playing around!&quot;</p>
 <p>&quot;I&#x27;m the Demon World&#x27;s Great Emperor. I wouldn&#x27;t &#x27;play around&#x27; about giving you a demon eye.&quot;</p>
-<p><em>Dammit, my eye… My eye is… Aaaaaaah—wait, what?</em> I paused in confusion. I could see. Everything looked like it was doubled, though…? What the heck was going on? It was nauseating.</p>
+<p>Dammit, my eye… My eye is… Aaaaaaah—wait, what? I paused in confusion. I could see. Everything looked like it was doubled, though…? What the heck was going on? It was nauseating.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-04/insert-02.webp" alt="Illustration" loading="lazy" />
 </div>
@@ -154,7 +154,7 @@ nav_title = "Chapter 2"
 <p>&quot;Huh? What? What are you talking about?&quot;</p>
 <p>&quot;I&#x27;m saying it all depends on you.&quot; Kishirika seemed pleased with herself, no matter how confused her words left me. I saw an afterimage of her nodding, and within that afterimage was a thick shadow. What was it?</p>
 <p>&quot;Very good—so you can see it after all. Well then, I&#x27;ll be on my way. I need to search out Badigadi. Much appreciation for the food.&quot;</p>
-<p>Once she finished talking, she leaped through the air and landed on the roof above with a <em>thud</em>. &quot;Fare thee well, Rudeus! Bwahahaha! Bwahahahah—gah!&quot;</p>
+<p>Once she finished talking, she leaped through the air and landed on the roof above with a thud. &quot;Fare thee well, Rudeus! Bwahahaha! Bwahahahah—gah!&quot;</p>
 <p>There was a doppler effect as she left, the sound of her high laughter gradually fading. I listened to it in blank amazement.</p>
 <p>&quot;Wait… She was the real thing?&quot;</p>
 <p>And that was how I obtained the Eye of Foresight.</p>

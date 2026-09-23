@@ -11,7 +11,7 @@ nav_title = "Chapter 4"
 <p>I&#x27;d recently, finally, learned my parents&#x27; names. My father was Paul Greyrat. My mother was Zenith Greyrat. And my name was Rudeus Greyrat, the firstborn son of the Greyrat family.</p>
 <p>My parents didn&#x27;t refer to each other by their first names, and they called me &quot;Rudy&quot; for short, so it took some time to learn what all of our actual, formal names were.</p>
 <p>***</p>
-<p>&quot;My, Rudy really does love that book, doesn&#x27;t he?&quot; Zenith said with a smile as I puttered about with <em>A Textbook of Magic</em> in hand, as I usually did.</p>
+<p>&quot;My, Rudy really does love that book, doesn&#x27;t he?&quot; Zenith said with a smile as I puttered about with A Textbook of Magic in hand, as I usually did.</p>
 <p>My parents didn&#x27;t seem bothered by the way I always lugged the book around. Even when I was eating, I&#x27;d keep it tucked under my arm. I did, however, make a point never to read it in front of them—not because I wanted to keep my talents a secret, but simply because I wasn&#x27;t sure what this world&#x27;s views on magic were. Back in my old world, for instance, witch hunts had been a thing—you know, where they&#x27;d burn suspected magicians alive for heresy.</p>
 <p>Of course, considering that my magic textbook was something of a practical guide, magic probably wasn&#x27;t considered heresy in this world, but that didn&#x27;t mean people might not still take a dim view of it. Maybe magic was something you only did when you were grown. If nothing else, magicians risked blacking out if they used it too much; people might think it could stunt a child&#x27;s growth.</p>
 <p>With all that in mind, I decided to keep my magical aptitude a secret from my family. As it was, I&#x27;d had to practice casting spells out the window, so there was a chance I&#x27;d be found out anyway. I didn&#x27;t have much choice in that, though. Not if I wanted to test how quickly I could launch my spells.</p>
@@ -46,7 +46,7 @@ nav_title = "Chapter 4"
 <p>I mean, if it were my kid, that&#x27;s what I&#x27;d think.</p>
 <p>That&#x27;s how it went in my past life, after my younger brother was born. He was faster to grow up—faster in picking things up compared to me or my older brothers, including speaking and walking. My parents were the sort of easygoing folks who&#x27;d cheekily say, &quot;Oh, I wonder if he&#x27;s a genius,&quot; even when it was nothing that impressive.</p>
 <p>I had to keep in mind that, while I might have been a jobless high-school dropout, I also had the mental age of a person in his midthirties. I could do this!</p>
-<p>&quot;Honey, we <em>have</em> to get him a home tutor!&quot; Zenith said. &quot;I&#x27;m sure we&#x27;ll be able to find a great magic instructor in Roa!&quot; Apparently, parents were the same no matter where you were: Any time a kid shows some inkling of special talent, it&#x27;s straight to making sure they get the proper, special education for their gifts. In my old life, my parents heaped praise on my younger brother for being such a genius and gave him a whole bunch of stuff to learn.</p>
+<p>&quot;Honey, we have to get him a home tutor!&quot; Zenith said. &quot;I&#x27;m sure we&#x27;ll be able to find a great magic instructor in Roa!&quot; Apparently, parents were the same no matter where you were: Any time a kid shows some inkling of special talent, it&#x27;s straight to making sure they get the proper, special education for their gifts. In my old life, my parents heaped praise on my younger brother for being such a genius and gave him a whole bunch of stuff to learn.</p>
 <p>Paul was less enthusiastic about Zenith&#x27;s suggestion to find me a home tutor for magic. &quot;Hold up, now. Didn&#x27;t you promise that if we had a boy, we&#x27;d raise him to be a knight?&quot; So, a girl would be a magician, but a boy would be a knight? They must have agreed to that before I was born.</p>
 <p>&quot;But he can already use Intermediate magic at his age!&quot; Zenith rebutted. &quot;With the right training, he&#x27;d be an amazing magician!&quot;</p>
 <p>&quot;A promise is a promise, though!&quot;</p>
@@ -84,7 +84,7 @@ nav_title = "Chapter 4"
 <p>Roxy let out a sigh. &quot;So, where&#x27;s this student of mine?&quot; she asked, looking around.</p>
 <p>&quot;Oh, that would be our boy right here,&quot; Zenith replied, bouncing me slightly in her arms.</p>
 <p>I gave Roxy a cheeky wink. Her eyes went wide, and she sighed once more. &quot;Ugh, this happens sometimes,&quot; she muttered under her breath. &quot;Kid shows signs of growing up a little fast and the damn parents get it into their heads that he&#x27;s got a special talent.&quot;</p>
-<p><em>Hey! I heard that, Roxy!</em></p>
+<p>Hey! I heard that, Roxy!</p>
 <p>I mean, I totally agreed with her, but still.</p>
 <p>&quot;You say something?&quot; Paul asked.</p>
 <p>&quot;Oh, nothing,&quot; she replied. &quot;I&#x27;m just not sure that your son would be able to understand the principles of magic.&quot;</p>
@@ -95,14 +95,14 @@ nav_title = "Chapter 4"
 <p>&quot;Okay, so this magic textbook here… Actually. Before we get to that, how about we see how much magic you can use, Rudy?&quot;</p>
 <p>Roxy had taken me into the yard for our first lesson. I gathered that magic was something typically practiced outside. Heck, I&#x27;d already learned firsthand what could happen when you let loose with magic inside the house.</p>
 <p>People don&#x27;t want to go around blowing holes in walls or anything.</p>
-<p>&quot;First, I&#x27;ll demonstrate. <em>Let the vast and blessed waters converge where thou wilt and issue forth a single pure stream thereof— Waterball!</em>&quot; As Roxy chanted her incantation, an orb of water about the size of a basketball formed in her palm. Then, she hurtled it at high speed at one of the trees in our yard.</p>
+<p>&quot;First, I&#x27;ll demonstrate. Let the vast and blessed waters converge where thou wilt and issue forth a single pure stream thereof— Waterball!&quot; As Roxy chanted her incantation, an orb of water about the size of a basketball formed in her palm. Then, she hurtled it at high speed at one of the trees in our yard.</p>
 <p>The Waterball snapped the tree in half as if it were a mere twig and drenched the fence behind it. That must&#x27;ve been a Size 3, Speed 4, if I had to guess.</p>
 <p>&quot;Well?&quot; Roxy asked. &quot;What do you think?&quot;</p>
 <p>&quot;My mom has always loved that tree and spends a lot of time caring for it, so I think she&#x27;s gonna be pretty angry.&quot;</p>
 <p>&quot;Huh? Really?!&quot;</p>
 <p>&quot;Without a doubt.&quot; One time, when Paul was swinging his sword around, he&#x27;d accidentally lopped off one of the tree&#x27;s branches, but Zenith hadn&#x27;t been terribly mad about it.</p>
 <p>&quot;Oh, that&#x27;s not good,&quot; Roxy stammered, rushing over to the tree in a panic. &quot;I have to do something about this.&quot;</p>
-<p>With a grunt, she hefted the fallen trunk back into place. Then, red in the face and straining with exertion, she began to chant. &quot;Nngh… <em>Let this divine power be as satisfying nourishment, giving one who has lost their strength the strength to rise again—Healing!&quot;</em></p>
+<p>With a grunt, she hefted the fallen trunk back into place. Then, red in the face and straining with exertion, she began to chant. &quot;Nngh… Let this divine power be as satisfying nourishment, giving one who has lost their strength the strength to rise again—Healing!&quot;</p>
 <p>Slowly and surely, the trunk of the tree worked its way back into its original position. Okay, credit where credit is due: That was pretty amazing. &quot;Whew!&quot; Roxy breathed.</p>
 <p>&quot;You can use Healing magic, too, Miss?!&quot;</p>
 <p>&quot;Hm? Oh, yes. Anything up through Intermediate-tier spells.&quot;</p>
@@ -115,8 +115,8 @@ nav_title = "Chapter 4"
 <p>Waterball by using the incantation, and I couldn&#x27;t remember how it went. Roxy had just said it, though.</p>
 <p>Hmm. Let&#x27;s see…</p>
 <p>&quot;Um, how does it go again?&quot;</p>
-<p><em>&quot;Let the vast and blessed waters converge where thou wilt and issue forth a single pure stream thereof</em>,&quot; Roxy said matter-of-factly. She apparently figured this was well within my capabilities.</p>
-<p>She&#x27;d said it so matter-of-factly, though, that I couldn&#x27;t remember it after hearing it just the once. <em>&quot;Let the vast and blessed waters…</em>&quot; I began, before failing to recall the rest, so I cut the incantation short. I conjured a ball of water just a little smaller and a just a little slower than Roxy had; after all, if I outdid her, she might get all pouty. Hey, I like to be nice to younger girls.</p>
+<p>&quot;Let the vast and blessed waters converge where thou wilt and issue forth a single pure stream thereof,&quot; Roxy said matter-of-factly. She apparently figured this was well within my capabilities.</p>
+<p>She&#x27;d said it so matter-of-factly, though, that I couldn&#x27;t remember it after hearing it just the once. &quot;Let the vast and blessed waters…&quot; I began, before failing to recall the rest, so I cut the incantation short. I conjured a ball of water just a little smaller and a just a little slower than Roxy had; after all, if I outdid her, she might get all pouty. Hey, I like to be nice to younger girls.</p>
 <p>The basketball-sized Waterball struck its mark with a splash, the tree creaking and cracking as it fell over. Roxy fixed her gaze on this sight, her expression stiffening.</p>
 <p>&quot;You cut your incantation off, didn&#x27;t you?&quot; she asked.</p>
 <p>&quot;Yeah.&quot; Uh-oh. Was I in trouble?</p>
@@ -129,7 +129,7 @@ nav_title = "Chapter 4"
 <p>&quot;I see. Well, the size and force of your Waterball was just fine.&quot;</p>
 <p>&quot;Thank you.&quot;</p>
 <p>Finally, Roxy cracked a smile—a real one. And then she muttered to herself. &quot;Maybe it is worth training this kid.&quot;</p>
-<p><em>Again, I can still hear you.</em></p>
+<p>Again, I can still hear you.</p>
 <p>&quot;Okay, let&#x27;s move on to the next spell,&quot; Roxy said excitedly, flipping through the magic book some more.</p>
 <p>&quot;Aaaahh!&quot; From behind us, a scream split the air. Zenith had come outside to see how things were doing. She dropped the beverage-laden tray she&#x27;d been carrying and brought both hands to her mouth as she looked over at the mangled, toppled tree. Sadness filled her face.</p>
 <p>A moment later, that sadness was replaced with livid anger. She stomped over to Roxy, getting right in her face.</p>
@@ -161,7 +161,7 @@ nav_title = "Chapter 4"
 <p>Guess dads are like that in every world. I just had to grin and bear it.</p>
 <p>A young child doesn&#x27;t have the stamina to spend an entire afternoon exercising, so we&#x27;d finish up around mid-afternoon. That being the case, I decided to spend my time between then and dinner working on spells.</p>
 <p>Adjusting the size of a spell increased the amount of magical power needed to fuel it. There was the default amount of power a spell took to cast if you put no conscious effort into it when the incantation finished, and making a spell larger than that consumed an accordingly greater amount of magical power. Sort of like the law of conservation of mass.</p>
-<p>Curiously, however, making a spell <em>smaller</em> also consumed more magical power. I wasn&#x27;t quite sure of the principle at work there, but creating a ball of water the size of a fist took less magical energy than creating one the size of a raindrop. It was weird.</p>
+<p>Curiously, however, making a spell smaller also consumed more magical power. I wasn&#x27;t quite sure of the principle at work there, but creating a ball of water the size of a fist took less magical energy than creating one the size of a raindrop. It was weird.</p>
 <p>I asked Roxy about that, but she just said, &quot;Yeah, that&#x27;s how it goes.&quot;</p>
 <p>Apparently, that hadn&#x27;t been explained yet.</p>
 <p>I didn&#x27;t know the mechanisms by which magic worked, but through practice, getting a handle on the methods wasn&#x27;t so bad. My magical reserves had grown to the point that I wouldn&#x27;t burn through them unless I cast large spells. If my goal had been simply to use up my magical power, then I could&#x27;ve just keep unleashing the strongest spells I had until I was drained.</p>
@@ -189,7 +189,7 @@ nav_title = "Chapter 4"
 <p>One of her hands was inside her robes, moving about rather suggestively. I quietly crept back to my own room. Roxy was in the grip of adolescence, after all, and I had the decency to pretend that I hadn&#x27;t seen anything.</p>
 <p>Or, well, something like that. I definitely liked what I had seen, anyway.</p>
 <p>Four months later, I was able to cast Intermediate-tier spells. At that point, Roxy began to give me classroom-style lessons in the evenings.</p>
-<p>Uh, that probably makes it sound sexier than it was. This was about studying, first and foremost. She was a good teacher. She was fussy about sticking to a particular curriculum, but she&#x27;d also ramp up the content of our lessons based on how well I understood things. She was good at intuitively responding to her student. She had a book that acted as a supplement to <em>Textbook</em>, from which she&#x27;d ask me questions; if I got one right, we&#x27;d move on to the next one, and if I didn&#x27;t know something, she&#x27;d very politely explain it to me.</p>
+<p>Uh, that probably makes it sound sexier than it was. This was about studying, first and foremost. She was a good teacher. She was fussy about sticking to a particular curriculum, but she&#x27;d also ramp up the content of our lessons based on how well I understood things. She was good at intuitively responding to her student. She had a book that acted as a supplement to Textbook, from which she&#x27;d ask me questions; if I got one right, we&#x27;d move on to the next one, and if I didn&#x27;t know something, she&#x27;d very politely explain it to me.</p>
 <p>It might not sound like much, but I could feel my world opening up.</p>
 <p>In my old life, our family hired a personal tutor when my older brother was taking his entrance exams. One time, on a whim, I listened in on one of their classes, but it didn&#x27;t seem like it was anything different from what was taught at school. By comparison, Roxy&#x27;s lessons were much easier to understand and a lot more fun. Her teaching style resonated with me, and got quick results.</p>
 <p>Of course, it didn&#x27;t hurt that my teacher was a junior-high-aged girl at the budding edge of sexual maturity. That was kind of an awesome situation. In my old life, I could have gotten off to that mental image in three pumps.</p>
@@ -281,12 +281,12 @@ nav_title = "Chapter 4"
 <p>Compared to ordinary training, Advanced magic was like picking one&#x27;s nose. By which I mean there were a lot of ranged attacks and they felt pretty awkward to use. Like, what was I going to do with the ability to make it rain over a wide area?</p>
 <p>But then I remembered how, after a prolonged drought, Roxy had made it rain over the wheat fields, to the great joy of the villagers. I&#x27;d been at home at the time, so this was all stuff I&#x27;d heard from Paul.</p>
 <p>Evidently, Roxy had handled multiple requests from the townsfolk and had been solving their problems. I could almost hear it now:</p>
-<p><em>&quot;I was tilling the soil and struck a big rock buried in the ground! Help me, Roxyemon!&quot;</em></p>
-<p><em>&quot;Just leave it to me!&quot;</em></p>
-<p><em>&quot;Whoa! What kinda magic is that?&quot;</em></p>
-<p><em>&quot;I used water magic to dampen the soil around the rock and then used it in concert with earth magic to change it into mud!&quot;</em></p>
-<p><em>&quot;Wow, that&#x27;s amazing! The rock is just sinking away!&quot;</em></p>
-<p><em>&quot;Heeheehee!&quot;</em></p>
+<p>&quot;I was tilling the soil and struck a big rock buried in the ground! Help me, Roxyemon!&quot;</p>
+<p>&quot;Just leave it to me!&quot;</p>
+<p>&quot;Whoa! What kinda magic is that?&quot;</p>
+<p>&quot;I used water magic to dampen the soil around the rock and then used it in concert with earth magic to change it into mud!&quot;</p>
+<p>&quot;Wow, that&#x27;s amazing! The rock is just sinking away!&quot;</p>
+<p>&quot;Heeheehee!&quot;</p>
 <p>I was guessing that was (probably) how it went.</p>
 <p>&quot;I knew you were the sort of person who liked helping people, Miss Roxy!&quot; I said.</p>
 <p>&quot;It&#x27;s not exactly that. I&#x27;m doing this to earn money on the side.&quot;</p>

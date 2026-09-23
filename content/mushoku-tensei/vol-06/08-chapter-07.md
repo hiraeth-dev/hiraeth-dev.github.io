@@ -21,7 +21,7 @@ nav_title = "Chapter 7"
 <p>All I did was follow the Man-God&#x27;s directions. And then needlessly got myself stuck in a trap and needed help to escape it. If I still had the nerve to demand gratitude after all that, I should&#x27;ve been able to use that same nerve to accomplish more in my previous life.</p>
 <p>&quot;Please direct that gratitude to Ruijerd and Eris instead. They&#x27;re the ones who acted appropriately and led everything to a peaceful conclusion.&quot;</p>
 <p>&quot;I spoke with them a bit,&quot; she said. &quot;But they told me it was all part of your strategy—&quot;</p>
-<p>&quot;That was <em>not</em> my strategy.&quot;</p>
+<p>&quot;That was not my strategy.&quot;</p>
 <p>Lilia went quiet, then said, &quot;If that&#x27;s how you feel.&quot; She looked displeased, but it wasn&#x27;t like I was asking her to call something black when it was really white.</p>
 <p>We fell into silence for a bit after that.</p>
 <p>&quot;Does Aisha…&quot; Lilia began to ask, glancing outside the window, &quot;…sometimes say things that are offensive?&quot;</p>
@@ -45,7 +45,7 @@ nav_title = "Chapter 7"
 <p>&quot;I know that you&#x27;re a womanizer.&quot;</p>
 <p>She did? Huh, okay then. Still, unlike my former self, it seemed I felt no desire for those related to me by blood. Which was why it made me uncomfortable when Lilia presented Aisha to me as if she were a gourmet meal prepared for my consumption. Those were my true feelings, at least. &quot;She&#x27;s still only six, isn&#x27;t she? She&#x27;s at an age where she needs to be with her parents.&quot;</p>
 <p>&quot;If that&#x27;s how you truly feel,&quot; she said.</p>
-<p>Lilia looked disappointed, but I said nothing wrong. Aisha was still young. It was best for her to be with her parents, right? It was my feeling, as someone who was born Japanese, that it was best for a child to be with both of their parents while they were little. At least one, if not both, but definitely not <em>neither</em>.</p>
+<p>Lilia looked disappointed, but I said nothing wrong. Aisha was still young. It was best for her to be with her parents, right? It was my feeling, as someone who was born Japanese, that it was best for a child to be with both of their parents while they were little. At least one, if not both, but definitely not neither.</p>
 <p>&quot;I understand. It&#x27;s true that Aisha is still immature. I can&#x27;t send her off with you when she&#x27;s still so inexperienced.&quot;</p>
 <p>&quot;Uh, please don&#x27;t teach her anything too weird, okay?</p>
 <p>Like…about me being a pervert.&quot;</p>
@@ -91,7 +91,7 @@ nav_title = "Chapter 7"
 <p>&quot;Every single day, my mother tells me about how I&#x27;m going to serve my half-brother in the future.&quot;</p>
 <p>&quot;She did say that,&quot; I agreed.</p>
 <p>&quot;But!&quot; Aisha slammed her fist against the ground. &quot;I want no part of it!&quot;</p>
-<p>She <em>really</em> wanted no part of being around me. Probably because I got so aroused by underwear. <em>Sorry</em>, I apologized in my head.</p>
+<p>She really wanted no part of being around me. Probably because I got so aroused by underwear. Sorry, I apologized in my head.</p>
 <p>&quot;We talked about it the other day, right? My brother is a pervert. I understand what you were saying, Mister Kennel Master, but I just can&#x27;t bear the thought of serving someone like that.&quot;</p>
 <p>&quot;Is that right…?&quot;</p>
 <p>&quot;So please, I beg of you, save me! Just as gallantly as you did the other day, from the evil hands of a pervert!&quot;</p>
@@ -132,12 +132,12 @@ nav_title = "Chapter 7"
 <p>I felt bad for deceiving her. By the time she was older, my journey would be over and we&#x27;d probably all be living together again as a happy family.</p>
 <p>&quot;Then you&#x27;re not mad at me for calling you a pervert?&quot;</p>
 <p>&quot;No, of course no—huh?&quot;</p>
-<p><em>Wait, what did she just say?</em></p>
+<p>Wait, what did she just say?</p>
 <p>&quot;Thanks, big brother!&quot; With that, Aisha shot back up and ran off to the carriage. I sat there dumbfounded as she leaped up into it. When the carriage rolled into motion, Aisha turned back to wave at me, and Lilia bowed. &quot;See you, big brother! Let&#x27;s meet again! It&#x27;s a promise!&quot;</p>
 <p>And off they went.</p>
 <p>Eris had a completely unamused look on her face as she said, &quot;What the hell? She completely saw right through you.&quot;</p>
 <p>&quot;H-how…?&quot;</p>
 <p>Ruijerd gave the horse&#x27;s reins a tug and the carriage jerked into motion. In retrospect, there were many opportunities for her to realize the truth. I called her by her name when we first met, and</p>
 <p>when I was speaking to Eris and Ruijerd after that, I&#x27;m pretty sure they let my name slip, too.</p>
-<p>So why did she pretend not to know? <em>Think, think</em>, I told myself, and the answer came quickly. She was probably trying to determine for herself if her brother was someone who could be trusted. If I&#x27;d kept up the charade of being the Kennel Master and tried to drag her along with me, I had no doubt she would&#x27;ve turned her back on me.</p>
+<p>So why did she pretend not to know? Think, think, I told myself, and the answer came quickly. She was probably trying to determine for herself if her brother was someone who could be trusted. If I&#x27;d kept up the charade of being the Kennel Master and tried to drag her along with me, I had no doubt she would&#x27;ve turned her back on me.</p>
 <p>&quot;Haha.&quot; Once I realized that, I laughed. She truly was a brilliant, clever little girl. I looked forward to seeing her once she was older.</p>

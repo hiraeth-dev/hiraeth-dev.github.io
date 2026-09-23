@@ -17,7 +17,7 @@ nav_title = "Chapter 6"
 <p>&quot;Yes, what is it?&quot; I responded in Demon Tongue.</p>
 <p>&quot;It&#x27;s about that woman you have with you…&quot; They eyed Elinalise.</p>
 <p>Cliff took a step forward as if to shield her, but Elinalise was unfazed. &quot;What are they saying?&quot;</p>
-<p>&quot;Well?&quot; Asked one of the guards, conferring with his partner. They produced a sheet of paper and glanced between it and Elinalise. I sneaked a peek; it depicted a woman as bewitchingly beautiful as a succubus. She was tall with voluptuous breasts and wavy hair. It was in black and white, but admittedly, Elinalise did look a bit similar. <em>Still, their breast size is totally different.</em></p>
+<p>&quot;Well?&quot; Asked one of the guards, conferring with his partner. They produced a sheet of paper and glanced between it and Elinalise. I sneaked a peek; it depicted a woman as bewitchingly beautiful as a succubus. She was tall with voluptuous breasts and wavy hair. It was in black and white, but admittedly, Elinalise did look a bit similar. Still, their breast size is totally different.</p>
 <p>&quot;It&#x27;s not her.&quot;</p>
 <p>&quot;Yeah, she doesn&#x27;t match.&quot;</p>
 <p>The guards put the paper away. &quot;Sorry to keep you. Go on, then.&quot;</p>
@@ -40,11 +40,11 @@ nav_title = "Chapter 6"
 <p>&quot;Assuming Miss Elinalise didn&#x27;t do anything to get herself in trouble when she was last here, I&#x27;m sure we&#x27;ll be fine.&quot;</p>
 <p>I shot her a look. Elinalise shrugged. &quot;I haven&#x27;t done anything wrong.&quot; She refused to meet my gaze. Maybe she hadn&#x27;t done anything wrong, but she had done something dirty.</p>
 <p>The Adventurers&#x27; Guild was just the same as I remembered. The weather hadn&#x27;t been terribly kind to it, but it had been dilapidated to begin with. When we headed inside, we instantly drew everyone&#x27;s attention.</p>
-<p><em>Ah, how nostalgic.</em> The last time I was here, we put on a little show and had everyone busting a gut. The people warmed up to Ruijerd rather quickly after that.</p>
+<p>Ah, how nostalgic. The last time I was here, we put on a little show and had everyone busting a gut. The people warmed up to Ruijerd rather quickly after that.</p>
 <p>It was all for naught in the end, though.</p>
 <p>The other occupants quickly lost interest in us and turned away. A party with an elf and a bunch of humans was rare, to be sure, but it wasn&#x27;t enough to keep people&#x27;s attention for long.</p>
 <p>We headed for the receptionist and exchanged a number of Ranoan gold coins for some of the Demon Continent&#x27;s currency. We received what was nearly a hundred green ore coins in return and tossed them into our money pouches without bothering to check the amount. In the past, counting out each coin had been a daily endeavor. Things sure had changed.</p>
-<p><em>Nah, all that&#x27;s changed is that I&#x27;ve got more money now.</em></p>
+<p>Nah, all that&#x27;s changed is that I&#x27;ve got more money now.</p>
 <p>After that, we put in a request with the guild to have people search for Kishirika. &quot;She looks like a young girl with purple hair and leather clothing. She also has a maniacal laugh that you can&#x27;t miss and goes around calling herself the &#x27;Demon World&#x27;s Great Emperor.&#x27;&quot;</p>
 <p>Given the nature of our request, it was a low-ranked mission, but I added a handsome reward to it just the same. As I watched the receptionist tack it to the bulletin board, another flier in the corner caught my eye—the search and rescue for Fittoa Region survivors.</p>
 <p>The search party in Millis had disbanded, but the mission was still up. The contact information was also the same, referring people to Paul of the Holy Country of Millis. If anyone did turn up and made the trek all the way to Millis, they would be pretty devastated to find no one there to receive them. I had the receptionist change the contact information, instead directing people to Alphonse at the refugee camp. I assumed he was still accepting survivors. I could have written my address instead, but we didn&#x27;t have the means or energy to take care of any strangers that turned up.</p>
@@ -53,7 +53,7 @@ nav_title = "Chapter 6"
 <p>I wondered the same. Surely, we could do some searching ourselves. We could stay here for a week and gather information. We could also hire some people to help canvas the area thoroughly. Our request with the guild was ultimately insurance in case we couldn&#x27;t find her ourselves.</p>
 <p>&quot;Let&#x27;s begin by gathering information,&quot; I said.</p>
 <p>As I glanced around, one man started making his way toward me. He had the head of a horse.</p>
-<p><em>Oh, it&#x27;s you. I couldn&#x27;t forget you if I tried.</em></p>
+<p>Oh, it&#x27;s you. I couldn&#x27;t forget you if I tried.</p>
 <p>This was the man who&#x27;d led us into a trap. It was his fault we were driven out of Rikarisu. Well… okay, it would be an exaggeration to say that. We also broke a bunch of rules ourselves.</p>
 <p>&quot;Heya!&quot; Nokopara called out just as cheerfully as I remembered from our first encounter. This guy made it his business to greet newbies on the daily, didn&#x27;t he? Then I realized it was Elinalise he was addressing.</p>
 <p>&quot;It&#x27;s been a while, eh? You and Roxy already split up?&quot;</p>
@@ -61,7 +61,7 @@ nav_title = "Chapter 6"
 <p>&quot;…What?&quot;</p>
 <p>He was once a member of Roxy&#x27;s adventure party? What the hell?</p>
 <p>Elinalise turned toward me. &quot;Rudeus, please interpret for me. This guy is my…well, actually, he&#x27;s Roxy&#x27;s acquaintance.&quot;</p>
-<p>At her encouragement, I approached the man who had tried to make a meal out of us eight years ago. <em>So he used to be in Roxy&#x27;s party a long time ago… Does that mean he tried to do the same thing to her? She never said anything about that, though.</em></p>
+<p>At her encouragement, I approached the man who had tried to make a meal out of us eight years ago. So he used to be in Roxy&#x27;s party a long time ago… Does that mean he tried to do the same thing to her? She never said anything about that, though.</p>
 <p>Apparently, he didn&#x27;t remember me. Not that I could blame him; my appearance had changed drastically in the eight years since our last meeting. Nokopara had also…not really aged at all from what I could see. Truthfully, I had no idea how to gauge a horse&#x27;s age. In fact, maybe he had trouble telling humans apart because of our race, and that was why he didn&#x27;t recognize me.</p>
 <p>&quot;Yes, Mister Nokopara, I can speak Demon Tongue,&quot; I said.</p>
 <p>&quot;Rudeus, this guy knows a lot about this city,&quot; Elinalise cut in. &quot;Maybe you can get him to help us?&quot;</p>
@@ -73,10 +73,10 @@ nav_title = "Chapter 6"
 <p>&quot;We are looking for someone. Perhaps you could help us?&quot;</p>
 <p>He stared at me for a moment before asking, &quot;How much are you paying?&quot;</p>
 <p>That got under my skin. The first thing he brought up was money?</p>
-<p><em>No, hold on. It&#x27;s only natural for someone to ask about payment when you want them to work for you.</em></p>
+<p>No, hold on. It&#x27;s only natural for someone to ask about payment when you want them to work for you.</p>
 <p>&quot;Two green ore coins. And if you actually find her, we&#x27;ll give you two more on top of that.&quot;</p>
 <p>&quot;Four coins?!&quot; he squeaked. &quot;A-are you serious?!&quot;</p>
-<p><em>Ah, maybe I offered him a bit too much. It&#x27;s been a while, so I completely forgot the value of money here. Oh, well.</em></p>
+<p>Ah, maybe I offered him a bit too much. It&#x27;s been a while, so I completely forgot the value of money here. Oh, well.</p>
 <p>&quot;That&#x27;s how pressed for time we are. But I&#x27;ll warn you against deceiving us simply because you know we have money.&quot;</p>
 <p>&quot;Hey, come on now, I&#x27;d never scam any friend of Roxy&#x27;s. In fact, I&#x27;ll be happy to take half of what you offered.&quot; He chuckled, wiping his hand over his nose.</p>
 <p>***</p>
@@ -88,17 +88,17 @@ nav_title = "Chapter 6"
 <p>&quot;Oh, you know, a little bird told me when I was here last. They said Nokopara almost got himself killed after messing with Dead End. I don&#x27;t think Roxy knows about it, though.&quot;</p>
 <p>I couldn&#x27;t believe Elinalise knew. Well. Maybe it would be more surprising if she didn&#x27;t. A Superd being driven from the city was pretty big news.</p>
 <p>&quot;It was mostly an unfortunate accident,&quot; I said. It was partly my fault for trying to take the easy way out. True, people like Nokopara who used others for their own end gave me the creeps, but I was no saint either. I had no business judging others. If Nokopara didn&#x27;t recognize me, that was fine. &quot;I don&#x27;t plan on getting revenge or anything. Although I won&#x27;t be so forgiving if he tries to double-cross us again.&quot;</p>
-<p><em>They say if you touch Buddha&#x27;s face three times, he&#x27;ll lose his patience. Sadly for Nokopara, I&#x27;m no Buddha. Fool me once, shame on you. Fool me twice, and there won&#x27;t be a next time.</em></p>
+<p>They say if you touch Buddha&#x27;s face three times, he&#x27;ll lose his patience. Sadly for Nokopara, I&#x27;m no Buddha. Fool me once, shame on you. Fool me twice, and there won&#x27;t be a next time.</p>
 <p>&quot;By the way, what was all that about him being Roxy&#x27;s former party member?&quot;</p>
 <p>&quot;Oh, that…&quot;</p>
 <p>Hearing about their connection left me conflicted. I didn&#x27;t have the best opinion of Nokopara, but knowing he&#x27;d spent time with Roxy before I knew her made me a little jealous.</p>
-<p><em>Ah well, who knows, maybe he was a decent guy when he was a kid.</em> After all, no matter how good someone was as a child, there was no guarantee they&#x27;d grow into a good adult.</p>
+<p>Ah well, who knows, maybe he was a decent guy when he was a kid. After all, no matter how good someone was as a child, there was no guarantee they&#x27;d grow into a good adult.</p>
 <p>There was a lot left on our plate while we waited for Nokopara. First we had to find a place to stay. A great number of inns here were marketed to adventurers, from beginners to those of especially high rank. We picked one of the latter to stay in. For one thing, the more luxurious inns were safer. Besides, the exchange rate meant that even the most expensive luxuries were like pennies to me.</p>
 <p>&quot;This sure brings back memories.&quot;</p>
 <p>As we were searching for a place to stay, we passed by Wolf&#x27;s Claw Inn, where I&#x27;d stayed last time. Three young and likely lowranking adventurers emerged as we went by, chatting amongst themselves. It was a little late in the day to be picking up new quests from the guild, so maybe they were going out shopping.</p>
 <p>I thought of the other rookie party that stayed in the same inn with us way back then. I wondered how Kurt and the others were doing now. A mistake I&#x27;d made had led to one of their deaths, but I hoped the others were still doing well.</p>
-<p><em>Nah, it&#x27;s been eight years. Who knows if they&#x27;re even still alive.</em> If they were and I happened to run into them, though, it&#x27;d be nice to kick back and talk about old times.</p>
-<p><em>Hey, there&#x27;s an idea. Maybe I should see if I can&#x27;t get some help from P Hunter, too.</em></p>
+<p>Nah, it&#x27;s been eight years. Who knows if they&#x27;re even still alive. If they were and I happened to run into them, though, it&#x27;d be nice to kick back and talk about old times.</p>
+<p>Hey, there&#x27;s an idea. Maybe I should see if I can&#x27;t get some help from P Hunter, too.</p>
 <p>If memory served, their names were Jalil and Vizquel. They were small-time thugs. This time I wouldn&#x27;t be asking them to help locate a pet, but then again Kishirika was kind of like an animal. Who knows, maybe they could find her.</p>
 <p>&quot;I think I&#x27;d like to stop by a certain shop. I know the people who run the place pretty well.&quot;</p>
 <p>&quot;I would expect no less from you, Master. You are certainly wellconnected.&quot;</p>
@@ -111,13 +111,13 @@ nav_title = "Chapter 6"
 <p>Seriously? He died?</p>
 <p>&quot;What about Vizquel?&quot;</p>
 <p>&quot;Her? She left this place a year ago. Said there wasn&#x27;t any work here for her with Jalil gone.&quot;</p>
-<p><em>So she&#x27;s not here either.</em></p>
+<p>So she&#x27;s not here either.</p>
 <p>I couldn&#x27;t believe Jalil had really died. I knew the Demon Continent was a harsh place, but I was actually a bit sad to hear he was gone. Although he also betrayed Ruijerd in the end, we had worked together and were on good terms there for a time.</p>
 <p>&quot;Vizquel passed this store over to me when she left,&quot; the butcher explained. &quot;Are you a friend of theirs?&quot;</p>
 <p>&quot;Yeah, I guess you could say that.&quot;</p>
 <p>&quot;Okay, in that case, I&#x27;ll give you guys a discount.&quot;</p>
 <p>I inquired about Kishirika and bought some Great Tortoise meat from him as thanks. Unsurprisingly, it tasted absolutely terrible.</p>
-<p>We spent the rest of the day trying to gather intel, which was a very slow process. I was the only one in the group who could speak Demon Tongue, so I had to do all the asking around. <em>Maybe I really should have pushed the matter and insisted Roxy come with us.</em></p>
+<p>We spent the rest of the day trying to gather intel, which was a very slow process. I was the only one in the group who could speak Demon Tongue, so I had to do all the asking around. Maybe I really should have pushed the matter and insisted Roxy come with us.</p>
 <p>No. In reality, an additional interlocutor wouldn&#x27;t have sped things up that much. All I could do now was count on Nokopara. At least he was an expert in this field. I had all but given up hope on finding any leads myself.</p>
 <p>And then…</p>
 <p>&quot;She looks like a little girl with purple hair and leather clothes. She also has a maniacal laugh that you can&#x27;t miss and goes around calling herself the Demon World&#x27;s Great Emperor. Have you seen anyone like that?&quot;</p>
@@ -126,7 +126,7 @@ nav_title = "Chapter 6"
 <p>&quot;We hit the bullseye!&quot; Cliff declared in excitement, as though we had already found her.</p>
 <p>Elinalise shook her head. &quot;Yes, but they said they hadn&#x27;t seen her recently.&quot;</p>
 <p>Sadly, she was right. They mentioned seeing her but that was a year ago. And to make matters worse, no-one had seen her in the last six months. Perhaps she wasn&#x27;t even in this city anymore. Maybe we should have asked where she headed next. Rikarisu was located on the northeastern tip of the Demon Continent. If she was going to another village, she would have to either go south or west. There were mountains to the southwest, so I didn&#x27;t think she would go there.</p>
-<p><em>Yeah, but this is Kishirika we&#x27;re talking about.</em> Not that I knew her well, but she didn&#x27;t seem the type to use normal highways. If I was right about that, there was no telling which direction she headed off in.</p>
+<p>Yeah, but this is Kishirika we&#x27;re talking about. Not that I knew her well, but she didn&#x27;t seem the type to use normal highways. If I was right about that, there was no telling which direction she headed off in.</p>
 <p>&quot;For now, let&#x27;s wait and hear Nokopara&#x27;s report.&quot;</p>
 <p>&quot;I somehow doubt he&#x27;s got anything of note in a mere half a day&#x27;s time, though.&quot;</p>
 <p>In any case, we made our way back to the Adventurers&#x27; Guild. We planned to grab a table and eat something, but Nokopara came wandering over before we could fill our stomachs.</p>
@@ -139,9 +139,9 @@ nav_title = "Chapter 6"
 <p>Said demon king was the current resident of Old Kishirika Castle in the middle of Rikarisu. Those black armored guards scattered about the city were supposedly the private soldiers, knights, or elite bodyguards—whatever you wanted to call them—of this demon king.</p>
 <p>&quot;Does their name happen to be Badigadi?&quot; I asked.</p>
 <p>&quot;Nah, it&#x27;s not Lord Badi. It&#x27;s his older sister, Lady Atofe, a terrifying demon king.&quot;</p>
-<p><em>Huh, so Badi has a sister?</em> I wondered if she also had six arms, was super ripped, and looked like a black amazon. &quot;Terrifying, you say?&quot;</p>
+<p>Huh, so Badi has a sister? I wondered if she also had six arms, was super ripped, and looked like a black amazon. &quot;Terrifying, you say?&quot;</p>
 <p>He nodded. &quot;Yeah. She survived Laplace&#x27;s War by dint of being an aggressive demon king who solved every problem by the use of force. If you do anything she doesn&#x27;t like, she&#x27;ll immediately take your head off your shoulders.&quot;</p>
-<p>It was hard to picture that, considering how good-natured Badigadi was. But if what he claimed was true, it was probably best not to approach her. Although if she <em>was</em> related to Badigadi, she might <em>also</em> be immortal. In other words, maybe she&#x27;d been alive 7,000 years ago and might know a cure for Dryne&#x27;s Syndrome. Seeking an audience to ask her about it might not be a bad idea, though I had no idea if she&#x27;d agree to meet with us or not.</p>
+<p>It was hard to picture that, considering how good-natured Badigadi was. But if what he claimed was true, it was probably best not to approach her. Although if she was related to Badigadi, she might also be immortal. In other words, maybe she&#x27;d been alive 7,000 years ago and might know a cure for Dryne&#x27;s Syndrome. Seeking an audience to ask her about it might not be a bad idea, though I had no idea if she&#x27;d agree to meet with us or not.</p>
 <p>&quot;While we&#x27;re on that subject, has Badigadi not returned?&quot; I asked.</p>
 <p>&quot;He hasn&#x27;t… But hey, he is still a demon king. You should be using a proper title when you refer to him.&quot;</p>
 <p>&quot;Oh, my apologies.&quot;</p>
@@ -149,19 +149,19 @@ nav_title = "Chapter 6"
 <p>After speaking with Nokopara, I updated the rest on what I&#x27;d learned. Zanoba pressed a hand to his chin and said, &quot;Still, even if Lady Atofe is looking for Kirishika, the picture they had looked nothing like your description.&quot;</p>
 <p>He had a point. The Kishirika I remembered looked nothing like the woman they were searching for. The one I knew resembled a little girl. In fact, it had never occurred to me that the picture those</p>
 <p>guards had was supposed to be Kishirika. There was some resemblance, though. Maybe that was what Kishirika looked like as an adult. Perhaps she had matured in the years since I saw her?</p>
-<p><em>Nah, that can&#x27;t be. The people around town described her as a little girl, too.</em> In that case, maybe this demon king had no idea that Kishirika looked like a child right now. <em>It might be worth asking Nokopara about that.</em></p>
+<p>Nah, that can&#x27;t be. The people around town described her as a little girl, too. In that case, maybe this demon king had no idea that Kishirika looked like a child right now. It might be worth asking Nokopara about that.</p>
 <p>&quot;Hey, that sketch the guards had looked nothing like Kishirika. What do you know about that?&quot;</p>
 <p>&quot;Demon kings are fairly flippant when it comes to details. Lady Atofe probably didn&#x27;t bother to factor in the demon emperor&#x27;s current age.&quot;</p>
 <p>&quot;Ah, okay.&quot; Badigadi was pretty lackadaisical in that respect, too. It wouldn&#x27;t be surprising if Atofe were the same. &quot;I guess we should go pay Lady Atofe a visit and have a chat.&quot;</p>
 <p>I stood up and Nokopara panicked. &quot;H-hold up, wait a minute. I&#x27;m telling you, Lady Atofe is bad news. You&#x27;re better off staying away from her.&quot;</p>
 <p>&quot;No, I&#x27;m afraid this is necessary. As long as we don&#x27;t offend her, we&#x27;ll surely have no problems.&quot;</p>
 <p>We wouldn&#x27;t, would we? I certainly hoped not. If push came to shove, I could fire off magic from behind the safety of my Zanoba shield. All I had to do was hit her with a good shot like I did Badigadi then make a run for it. Once we got away, we could hunt Badigadi down and have him mediate as we begged for forgiveness.</p>
-<p><em>Yep, sounds like a plan!</em></p>
+<p>Yep, sounds like a plan!</p>
 <p>&quot;If you intend to seek an audience, I believe my title should come in handy.&quot; Zanoba stood up and chuckled.</p>
 <p>I didn&#x27;t share his confidence. Maybe he was royalty and accustomed to using his position like that, but Ariel seemed a safer bet if we were taking that route.</p>
-<p><em>Hold up, after seeing how things went down with Perugius, maybe Zanoba is the more likable of the two.</em> Ariel was desperate to make connections. Her rather transparent ulterior motives might sour the demon king&#x27;s mood.</p>
+<p>Hold up, after seeing how things went down with Perugius, maybe Zanoba is the more likable of the two. Ariel was desperate to make connections. Her rather transparent ulterior motives might sour the demon king&#x27;s mood.</p>
 <p>&quot;Is Lady Atofe knowledgeable about fine arts?&quot; I asked Nokopara.</p>
-<p>&quot;Huh? Fine arts? I have no idea. I mean, she <em>is</em> a demon king, and most of those guys have some kinda hobby like that. As for Lady Atofe…I&#x27;m not really sure if fine arts is up her alley or not.&quot;</p>
+<p>&quot;Huh? Fine arts? I have no idea. I mean, she is a demon king, and most of those guys have some kinda hobby like that. As for Lady Atofe…I&#x27;m not really sure if fine arts is up her alley or not.&quot;</p>
 <p>What about Badigadi? What was his hobby? I got the impression he didn&#x27;t really have one. Unless you counted alcohol. He did like drinking the expensive stuff. Nokopara mentioned Atofe was terrifying, but Badigadi could also be intimidating. If she wasn&#x27;t any worse than he was, I&#x27;d be fine.</p>
 <p>&quot;All right. Well, for the moment, we&#x27;ll just head on over and see.&quot;</p>
 <p>With that, Elinalise and Cliff stood up and joined us.</p>
@@ -173,7 +173,7 @@ nav_title = "Chapter 6"
 <p>&quot;Well, I also doubted if they&#x27;d even heard of my country.&quot; He frowned. Zanoba wasn&#x27;t the patriotic sort, but surely he found it insulting to have his homeland belittled like this.</p>
 <p>Cliff sighed. &quot;Hey, why don&#x27;t we rest a little bit?&quot; He was leaning against a nearby wall.</p>
 <p>I still had plenty of energy to keep going, but Zanoba had sweat beading across his forehead. &quot;Yes, I am a bit exhausted.&quot;</p>
-<p>Given his monstrous strength, it was easy to assume he had a lot of stamina, but he was more of the indoor type. Maybe a full day of exercise was taking its toll on him. We had been working nonstop. Even my mind was starting to drag. <em>Maybe we should rest.</em></p>
+<p>Given his monstrous strength, it was easy to assume he had a lot of stamina, but he was more of the indoor type. Maybe a full day of exercise was taking its toll on him. We had been working nonstop. Even my mind was starting to drag. Maybe we should rest.</p>
 <p>&quot;You all have a point,&quot; I said. &quot;How about we get a small bite to eat?&quot;</p>
 <p>There hadn&#x27;t been any time to eat lunch. The jerky we&#x27;d munched on in the meantime hadn&#x27;t been enough to fill our stomachs. I wasn&#x27;t too keen on eating since the food here was pretty disgusting, but we didn&#x27;t have much choice.</p>
 <p>&quot;Master, there appears to be a street stall over there, so why don&#x27;t we try that? Would that be all right with you, Lord Cliff?&quot;</p>
@@ -200,9 +200,9 @@ nav_title = "Chapter 6"
 <p>&quot;Think of it this way: the way she feels about them is the way you feel about dolls.&quot;</p>
 <p>As we spoke, I kept my gaze on Cliff and Elinalise. The two of them had changed a lot since I first met them. As usual, Cliff sucked at reading the atmosphere, but he did try to empathize with others in his own way. Elinalise was much the same. I still remembered when she spent all her time pursuing men. But if they got separated now, I knew they would expend every effort to find one another again.</p>
 <p>I continued watching them in silence. The customer in front of them purchased their meat, and a beggar with a tattered hood scrambled over in hopes of getting some scraps, only for said customer to kick them away. Cliff&#x27;s nose flared as he watched, but Elinalise stopped him before he could pick a fight.</p>
-<p><em>Knowing Cliff&#x27;s character, I bet he&#x27;ll buy extra for the poor beggar.</em></p>
+<p>Knowing Cliff&#x27;s character, I bet he&#x27;ll buy extra for the poor beggar.</p>
 <p>And he did just that. The beggar thanked him profusely before gobbling down the skewers. Then they started pleading with Cliff for seconds. Although exasperated, he relented them and handed them some more. The beggar took his hand, their whole body trembling with gratitude.</p>
-<p><em>Hold up a second. I&#x27;m getting déjà vu here.</em></p>
+<p>Hold up a second. I&#x27;m getting déjà vu here.</p>
 <p>Hadn&#x27;t I&#x27;d experienced this same thing a long time ago? When was it? And where? I was pretty sure it was on the Demon Continent. No, wait. Was it on the Millis Continent? I remembered sharing some of my food with a beggar…no, they weren&#x27;t a beggar, were they?</p>
 <p>No, no, more importantly, didn&#x27;t that beggar just thank Cliff in Human Tongue?</p>
 <p>Right then, the beggar grinned and began laughing maniacally. &quot;Fwahahaha!&quot;</p>
@@ -216,8 +216,8 @@ nav_title = "Chapter 6"
 <p>Cliff stared, dumbfounded. Elinalise also watched in mute amazement, her face pulled into a comically blank expression that I&#x27;d never seen her wear before. I shared their confusion, though. Even I had no idea what was happening right now.</p>
 <p>Zanoba was the only one who had kept a cool head. He put a hand to his chin and mumbled, &quot;Ah, so this is the woman that His Majesty Badi thinks so fondly of.&quot;</p>
 <p>A saying suddenly came to mind: &quot;The good you do for others is the good you do for yourself.&quot; Cliff was a prime example of that. It was easy to say you would help a person in need if you came across them, but many didn&#x27;t follow through. After all, beggars wore tattered clothes, had grime-covered skin, and rotten-looking teeth. More often than not, they also smelled foul. That discouraged people from going near them for fear of catching something. Could I see such a person, feel compassion for them, and offer them food I had just bought for myself? Maybe not. I wouldn&#x27;t kick them the way the other customer did, but I wasn&#x27;t a philanthropist, either.</p>
-<p>Cliff, however, <em>did</em> possess a charitable heart. When I first met him, I thought he was narrow-minded and petty, but now, I thought he would one day make a splendid priest. Viva Cliff!</p>
-<p><em>Okay, let&#x27;s quit lavishing Cliff with praise and get down to the more important question: why is Kishirika acting like a beggar, here of all places?</em></p>
+<p>Cliff, however, did possess a charitable heart. When I first met him, I thought he was narrow-minded and petty, but now, I thought he would one day make a splendid priest. Viva Cliff!</p>
+<p>Okay, let&#x27;s quit lavishing Cliff with praise and get down to the more important question: why is Kishirika acting like a beggar, here of all places?</p>
 <p>&quot;Come now, there&#x27;s no need to be shy! Name whatever your heart desires! And tell me your name, while you&#x27;re at it,&quot; said Kishirika.</p>
 <p>&quot;Huh? Uh, okay… M-my name is Cliff Grimor.&quot; Cliff was still in shock from her sudden declaration that she was the very individual we&#x27;d been searching for. He glanced back at me with a pleading look.</p>
 <p>Kishirika took a haughty pose as she responded, &quot;Cliff, hm? Feeding me was quite the noble achievement! After all, I haven&#x27;t had a single bite in the past six months!&quot;</p>
@@ -229,15 +229,15 @@ nav_title = "Chapter 6"
 <p>Now, with that done…</p>
 <p>&quot;It&#x27;s been a long time, Lady Kishirika,&quot; I said.</p>
 <p>&quot;Hm? And who are you?&quot; As I lowered my head, she snorted and stared me down. &quot;Mm? Oh?&quot; One of her eyes spun, switching from a normal eye to one of her demon ones. Then she slammed her fist into her palm. &quot;Aha! It&#x27;s you! You&#x27;re the human boy with the disgusting mana. Of course I remember you! I gave you one of my eyes. I think your name was, uh… Roo… Roomba? Roombaus! Yeah, that was it! It&#x27;s been a while.&quot;</p>
-<p>&quot;Rudeus Greyrat,&quot; I corrected. <em>I&#x27;m not a damn cleaning robot, thank you very much.</em></p>
+<p>&quot;Rudeus Greyrat,&quot; I corrected. I&#x27;m not a damn cleaning robot, thank you very much.</p>
 <p>&quot;Yes, Rudeus, a long time indeed. You sure have gotten much larger. Well, how did things go after we parted? Have you been doing well for yourself?&quot; She patted my thigh, going as high as she could</p>
 <p>reach. It reminded me of a section leader at an office job patting his subordinates on the shoulder.</p>
 <p>&quot;Yes, the eye you gave me before really saved my life numerous times.&quot;</p>
 <p>&quot;Fwahaha! Yes, I&#x27;m sure it did!&quot; She nodded, pleased.</p>
-<p><em>She really is way too easy to manipulate.</em></p>
+<p>She really is way too easy to manipulate.</p>
 <p>&quot;However, I will only bestow my reward upon one of you! Just one!&quot; She whipped around and thrust her finger at Cliff. &quot;You, Cliff Grimor. State your desire, whatever it is.&quot;</p>
-<p>He gulped and stared back at her. In that moment, doubt crept into my mind. <em>He wouldn&#x27;t, would he?</em></p>
-<p>It was common knowledge that Kishirika Kishirisu offered demon eyes as a reward to people, and Cliff had his own objectives. A demon eye might greatly help him create magical implements. Even I realized that. <em>Which is why I hope I&#x27;m wrong…</em></p>
+<p>He gulped and stared back at her. In that moment, doubt crept into my mind. He wouldn&#x27;t, would he?</p>
+<p>It was common knowledge that Kishirika Kishirisu offered demon eyes as a reward to people, and Cliff had his own objectives. A demon eye might greatly help him create magical implements. Even I realized that. Which is why I hope I&#x27;m wrong…</p>
 <p>&quot;I-in that case, please tell me how to cure Dryne Syndrome,&quot; Cliff said finally.</p>
 <p>&quot;Oh?&quot;</p>
 <p>&quot;An acquaintance of mine came down with it. They have managed to survive so far, but there&#x27;s no indication that they&#x27;ll recover on their own. If you know of some way to help them, please tell me.&quot;</p>
@@ -254,7 +254,7 @@ nav_title = "Chapter 6"
 <p>&quot;Just north of that city, at the tip of the Red Wyrm Mountains, lies a cave in the depths of a ravine known as the Red Wyrm&#x27;s Tail. Tucked within its deepest, darkest folds is a bountiful harvest of Sokas Grass.&quot;</p>
 <p>&quot;So we have to go to a cave in this Wyrm&#x27;s Tail place?&quot;</p>
 <p>This felt like an RPG. After coming all this way, was she really going to send us on an errand quest to retrieve the grass? And we had to go to a cave located in a place called the Wyrm&#x27;s Tail? If the name was any indication, we would probably be fighting some dragons along the way. That was a tall order.</p>
-<p><em>No, this isn&#x27;t that bad, honestly. The worst-case scenario was not finding Kishirika and spending the next several years searching.</em></p>
+<p>No, this isn&#x27;t that bad, honestly. The worst-case scenario was not finding Kishirika and spending the next several years searching.</p>
 <p>Okay, but hold up. I knew of the Red Wyrm Mountains, but I&#x27;d never heard of a place called the Red Wyrm&#x27;s Tail. &quot;So where exactly is the Wyrm&#x27;s Tail located?&quot;</p>
 <p>&quot;Wise question. You see, at the end of the second Great Human-Demon War, the Dragon God and Fighting God&#x27;s battle ended with a hole punched in the continent, wiping out the place that was once called the Wyrm&#x27;s Tail.&quot;</p>
 <p>&quot;…What?&quot;</p>
@@ -269,13 +269,13 @@ nav_title = "Chapter 6"
 <p>&quot;…&quot;</p>
 <p>So basically, what she was telling us was that every demon king had this stuff growing under their castle? And given that it was considered a luxury tea, it might be possible for us to find merchants selling it?</p>
 <p>&quot;Fwahahahaha! Did you think you would have to go fetch it yourselves? I bet you did, didn&#x27;t you? You pitiful things! It&#x27;s growing right over there in my castle! Fwahahahaha!&quot;</p>
-<p><em>No one would blame me for seeing how far I could kick this idiot, right?</em></p>
+<p>No one would blame me for seeing how far I could kick this idiot, right?</p>
 <p>Cliff seemed to have the same idea. He charged forward with his hands balled into fists. &quot;You little…!&quot;</p>
 <p>&quot;Please wait, Master Cliff! Let&#x27;s not be hasty. We need to make her spill everything she knows first.&quot;</p>
 <p>&quot;Y-yeah, you&#x27;re right.&quot;</p>
-<p><em>Whoops, maybe I shouldn&#x27;t have said that last bit out loud.</em></p>
+<p>Whoops, maybe I shouldn&#x27;t have said that last bit out loud.</p>
 <p>If there really was Sokas Grass inside the castle… there was nothing to be angry about. In fact, it was perfect. Sure, she worried us for nothing and that irked me a little, but this was a lesson on its own.</p>
-<p><em>Okay, cool your head. You can just get on your knees and beg her for it.</em></p>
+<p>Okay, cool your head. You can just get on your knees and beg her for it.</p>
 <p>&quot;All right, Lady Kishirika, then I implore you to share some of your Sokas Grass with us.&quot;</p>
 <p>&quot;Of course! There is just one small problem.&quot;</p>
 <p>&quot;What problem is that?&quot;</p>
@@ -284,7 +284,7 @@ nav_title = "Chapter 6"
 <p>&quot;Hm?&quot; I followed her gaze.</p>
 <p>Several soldiers dressed in black armor stood there. Five, six, seven…twenty in total. Worse, another group gathered in the street opposite us, and more spilled from a nearby alley. Pretty soon, we were surrounded by thirty of them. They stared us down, as if trying to intimidate us.</p>
 <p>Elinalise stepped forward, her hand hovering over the sword at her hip. A cold sweat coated her forehead. With their numbers, there was no way we could run.</p>
-<p><em>What should we do?</em></p>
+<p>What should we do?</p>
 <p>I could grab two of them—Zanoba in my right arm and Cliff in my left—and use my magic to take a flying leap. But what about Kishirika and Elinalise?</p>
 <p>The man apparently in charge of the soldiers advanced toward us. His voice was hoarse yet vibrant as he said, &quot;We are the personal guard of Immortal Demon King Atoferatofe, who rules over the Gaslow Territory.&quot; He spoke in fluent Human Tongue. &quot;By her royal order, please hand over Lady Kishirika and come with us back to the castle.&quot;</p>
 <p>Behind him, the other knights pulled out their sketches and compared them to the real-life Kishirika. Their faces filled with confusion. As Nokopara suspected, the picture didn&#x27;t look like Kishirika at all because Atofe had been loose with the details. But although she didn&#x27;t resemble the woman they were instructed to apprehend, shouting at the top of her lungs that she was the Demon World&#x27;s Great Emperor was enough to attract anyone&#x27;s attention.</p>
@@ -294,7 +294,7 @@ nav_title = "Chapter 6"
 <p>Not that I had the ability to tell a person&#x27;s strength at a glance, but even I could see these people were experienced at battle. There was a marked difference between a novice and those who had weathered many fights before, and these soldiers were undoubtedly the latter. I sensed they were far more capable than a regular band of knights.</p>
 <p>&quot;Y-you mustn&#x27;t listen to them. If you let them take you to the castle, there is no telling what may happen to you. This is Demon King Atoferatofe we&#x27;re talking about,&quot; Kishirika reasoned. &quot;She&#x27;s nothing if not a complete imbecile!&quot;</p>
 <p>My brows furrowed. She had a point. Why should we agree to let this supposed idiot apprehend us? We had no business with Atofe. We had to find some way to weasel out of this.</p>
-<p><em>Ah, but hold on a second, isn&#x27;t the grass we need beneath their castle? Maybe we can sneak inside… No, let&#x27;s be realistic, I&#x27;ve never seen this grass before so I wouldn&#x27;t even know what to look for.</em></p>
+<p>Ah, but hold on a second, isn&#x27;t the grass we need beneath their castle? Maybe we can sneak inside… No, let&#x27;s be realistic, I&#x27;ve never seen this grass before so I wouldn&#x27;t even know what to look for.</p>
 <p>As I hesitated, the leader of the knights removed his helmet.</p>
 <p>&quot;I implore you.&quot; His hair was flaming red, and his face was weathered with age. He gave us a soft smile and lowered his head. &quot;If you don&#x27;t come, I&#x27;m afraid my lady will punish us. I swear we won&#x27;t treat you unkindly, so please…&quot;</p>
 <p>The way he bowed like that was sincere enough. I used to be the kind of Japanese person who didn&#x27;t care about refusing people, but not anymore. When someone spoke so earnestly like this, it was hard not to feel obliged to humor him.</p>

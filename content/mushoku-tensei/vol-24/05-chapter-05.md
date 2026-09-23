@@ -44,8 +44,8 @@ nav_title = "Chapter 5"
 <p>&quot;Roger that. Good night.&quot;</p>
 <p>&quot;Good night!&quot; She punched me lightly on the shoulder, then went back to her own sleeping bag. Conscious that I was smiling, I threw another log on the dwindling campfire…then, with a start, I realized that another party member who should have been asleep was watching me from where he lay.</p>
 <p>&quot;Hey,&quot; he said, sitting up slowly. His long, light-colored hair was tied back at his neck. He gave me a languorous wave. Paul.</p>
-<p><em>Say what? What&#x27;s Paul doing here? He should be dead…</em></p>
-<p>No, he wasn&#x27;t dead. I couldn&#x27;t kill him off <em>that</em> easily. After rescuing Zenith from the teleportation labyrinth, he&#x27;d moved to the Asura Kingdom with her, and they were working hard to rebuild Fittoa. They&#x27;d cheerfully sent me off when I decided to become an adventurer. However, when this labyrinth exploration mission came up, Paul had butted in, saying, &quot;You kids alone? I&#x27;d be worried sick.&quot;</p>
+<p>Say what? What&#x27;s Paul doing here? He should be dead…</p>
+<p>No, he wasn&#x27;t dead. I couldn&#x27;t kill him off that easily. After rescuing Zenith from the teleportation labyrinth, he&#x27;d moved to the Asura Kingdom with her, and they were working hard to rebuild Fittoa. They&#x27;d cheerfully sent me off when I decided to become an adventurer. However, when this labyrinth exploration mission came up, Paul had butted in, saying, &quot;You kids alone? I&#x27;d be worried sick.&quot;</p>
 <p>Yeah, that was how it went. Definitely.</p>
 <p>&quot;Dad, it&#x27;s gross to snoop on people.&quot;</p>
 <p>&quot;Snoop? What&#x27;s that sleepy brain of yours talking about?&quot;</p>
@@ -56,12 +56,12 @@ nav_title = "Chapter 5"
 <p>&quot;More importantly,&quot; he went on, &quot;aren&#x27;t you forgetting something?&quot;</p>
 <p>&quot;What something?&quot;</p>
 <p>&quot;Why did you give up on yourself before you met Sara?&quot;</p>
-<p>&quot;Why? Well, that&#x27;s…&quot; <em>Wait, why was it again?</em></p>
+<p>&quot;Why? Well, that&#x27;s…&quot; Wait, why was it again?</p>
 <p>That&#x27;s right, Ruijerd had seen me as far as Fittoa, then I&#x27;d woken up and there&#x27;d been no one there… Huh? But Ruijerd—</p>
 <p>Paul scoffed. &quot;You can&#x27;t even remember a simple thing like that? And you say you&#x27;re getting married.&quot;</p>
 <p>Paul&#x27;s teasing was starting to tick me off, so I stood up and walked over to him. &quot;What&#x27;s your problem here? Did you tag along just to say that?&quot;</p>
 <p>&quot;Hey, I&#x27;m not saying it &#x27;cause I enjoy this.&quot;</p>
-<p>&quot;Then <em>what—</em>?&quot; I began, grabbing Paul by the chest of his shirt. But then I saw it.</p>
+<p>&quot;Then what—?&quot; I began, grabbing Paul by the chest of his shirt. But then I saw it.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-24/insert-04.webp" alt="Illustration" loading="lazy" />
 </div>
@@ -82,7 +82,7 @@ nav_title = "Chapter 5"
 <p>A year went by, and another, and with every encounter in class and in the cafeteria, we noticed each other a little more. Eventually, the two of them became more overtly alluring. My little guy began, slowly but surely, to respond.</p>
 <p>It was the fall of their seventh year at the university when I recovered fully. The two of them were in heat and they&#x27;d come charging into my room, unable to restrain themselves. That took me back. What a night.</p>
 <p>On graduation day, Linia and Pursena fought and Pursena won. Pursena returned to the great forest, and Linia came to live with me. Since then, we&#x27;d made a baby every autumn.</p>
-<p><em>&quot;Hissss!&quot;</em></p>
+<p>&quot;Hissss!&quot;</p>
 <p>&quot;Ow!&quot; After putting my arms around Linia, I&#x27;d started squeezing her boobs, but she grabbed my hand.</p>
 <p>&quot;Only when I&#x27;m in heat! That&#x27;s the rule, don&#x27;t you fur-get it!&quot;</p>
 <p>&quot;Come on, it&#x27;s just a hug…&quot;</p>
@@ -112,7 +112,7 @@ nav_title = "Chapter 5"
 <p>&quot;Yeah? Nothing missing, huh? Well, that&#x27;s a relief.&quot;</p>
 <p>&quot;It is.&quot;</p>
 <p>&quot;But aren&#x27;t you forgetting something?&quot; Paul asked. His voice was gentle like he was chiding a stupid child, but it sounded like an accusation. &quot;What about that job of yours, for example? Who&#x27;d you imitate to get all those students and teachers to like you?&quot;</p>
-<p>&quot;Well, that&#x27;s…&quot; <em>Who was it again?</em></p>
+<p>&quot;Well, that&#x27;s…&quot; Who was it again?</p>
 <p>I thought I saw something blue shoot in front of me and shook my head to clear it. But the discord in my mind only intensified.</p>
 <p>&quot;Someone taught you, right?&quot; he pressed me. &quot;About how to succeed in the world.&quot;</p>
 <p>&quot;What&#x27;s your problem?! Just say what you want to say!&quot; Letting my anger take hold of me, I headed over to the sofa. I went around it to face Paul, seizing the front of his shirt. Then…I froze.</p>
@@ -120,22 +120,22 @@ nav_title = "Chapter 5"
 <p>&quot;I&#x27;m already dead.&quot;</p>
 <p>Paul&#x27;s lower half was missing.</p>
 <p>***</p>
-<p>&quot;Aaagh…!&quot; I leapt out of bed, panting. My throat was dry, and my back was soaked with sweat. What a horrible dream. I&#x27;d had an unbelievable dream. What was that… What <em>was</em> that…?</p>
+<p>&quot;Aaagh…!&quot; I leapt out of bed, panting. My throat was dry, and my back was soaked with sweat. What a horrible dream. I&#x27;d had an unbelievable dream. What was that… What was that…?</p>
 <p>&quot;That was one hell of a nightmare…&quot; I muttered.</p>
 <p>&quot;Is something wrong?&quot;</p>
 <p>&quot;I just had a strange dream. Back when we were at the Magic University…Linia, that beastfolk woman, was there, right? In my dream, we were married and even had kids. I was a lecturer teaching kids nonvocalized magic.&quot;</p>
 <p>&quot;That&#x27;s a nightmare?&quot;</p>
-<p><em>Was</em> it a nightmare? Now that she said it, maybe it hadn&#x27;t been a nightmare. Linia and I spent a short period each year engaged in passionate baby-making, then the rest of the time I looked after the children while teaching magic to my pupils. It was a modest life, but a good one.</p>
+<p>Was it a nightmare? Now that she said it, maybe it hadn&#x27;t been a nightmare. Linia and I spent a short period each year engaged in passionate baby-making, then the rest of the time I looked after the children while teaching magic to my pupils. It was a modest life, but a good one.</p>
 <p>And yet—</p>
 <p>&quot;Yeah, it is,&quot; I said, watching my wife climb down from our canopy bed with sleepy eyes.</p>
-<p>She was a goddess of beauty. She was the perfect height, not too tall or too short. Her breasts were the perfect size, not too big or too small. Her butt was on the small side, but it went perfectly with her height and breasts. She was slim overall, neither scrawny nor flabby. The effect wasn&#x27;t average, it was extraordinary. Her body was the definition of &quot;well proportioned.&quot; The only thing out of place at the moment was her bedhead. Her blonde hair, usually flowing and beautiful, was a bit of a mess. It did nothing to diminish her charms. Her unruly hair gave her the allure of a grown woman. In a word, she was <em>sexy</em>. Knowing her hair was like that because of what we&#x27;d done last night made it thirty percent sexier.</p>
+<p>She was a goddess of beauty. She was the perfect height, not too tall or too short. Her breasts were the perfect size, not too big or too small. Her butt was on the small side, but it went perfectly with her height and breasts. She was slim overall, neither scrawny nor flabby. The effect wasn&#x27;t average, it was extraordinary. Her body was the definition of &quot;well proportioned.&quot; The only thing out of place at the moment was her bedhead. Her blonde hair, usually flowing and beautiful, was a bit of a mess. It did nothing to diminish her charms. Her unruly hair gave her the allure of a grown woman. In a word, she was sexy. Knowing her hair was like that because of what we&#x27;d done last night made it thirty percent sexier.</p>
 <p>&quot;I&#x27;ve married a wonderful woman and I&#x27;m in a position where I can have everything I could ever want. I couldn&#x27;t bear being a teacher in a town in the middle of nowhere.&quot;</p>
 <p>&quot;Hehe. Are you flattering me, by any chance? Good job,&quot; said my wife, Ariel Anemoi Asura.</p>
 <p>&quot;Perhaps you yearn for that kind of life,&quot; she continued. &quot;There&#x27;s been a lot of urgent government business lately, hasn&#x27;t there? The life of the royal family certainly isn&#x27;t easy. In our jobs, even the smallest things bring with them great responsibility—but there&#x27;s no guarantee that our happiness will be enough to make that responsibility worth it. One person can only experience so much happiness.&quot;</p>
 <p>&quot;You think so?&quot;</p>
 <p>&quot;I imagine that in your country town, working as a teacher, surrounded by your children, the balance between happiness and responsibility was very different from your life as royalty… Perhaps instead of a woman like me, a girl like Linia is more to your taste.&quot;</p>
 <p>That was ridiculous. Ariel was the ultimate woman. Flawless. She subtly corrected my faults and even deferred to me in public. She didn&#x27;t mention what I did with other women and let me keep concubines. On top of that, she was good at her job. Everyone relied on her. She was the ideal leader, an idol of the people.</p>
-<p>Except maybe she <em>did</em> have some faults. She was argumentative, and she valued logic too highly over emotion. Her kinks were a little unique, too. Last night… No, let&#x27;s not get into that. That couldn&#x27;t be called a fault at least, not by me.</p>
+<p>Except maybe she did have some faults. She was argumentative, and she valued logic too highly over emotion. Her kinks were a little unique, too. Last night… No, let&#x27;s not get into that. That couldn&#x27;t be called a fault at least, not by me.</p>
 <p>&quot;I&#x27;m sorry. Did I let my mouth run away with me a little?&quot; she asked.</p>
 <p>&quot;No, I was just thinking that you might actually be right.&quot;</p>
 <p>&quot;Please, tell me if you need time off. The kingdom is more stable these days, so I can spare you for a short break. You could take a trip… It might be nice to take one of your concubines.&quot;</p>
@@ -159,7 +159,7 @@ nav_title = "Chapter 5"
 <p>&quot;Your Majesty!&quot; Just then, the knight captain came running over to us. He knelt before me, then declared, &quot;The knight who went to slay the monsters in the Eastern Forest returned on the verge of death! Before he dies, he wishes to speak directly to you, Your Majesty!&quot;</p>
 <p>&quot;What?!&quot; Monsters in the Eastern Forest… Had that happened?</p>
 <p>&quot;We didn&#x27;t receive that report,&quot; Ariel remarked.</p>
-<p><em>Right, yeah</em>.</p>
+<p>Right, yeah.</p>
 <p>&quot;This knight is dying for the sake of Your Majesty! I beg of you, be with him for his final hours!&quot;</p>
 <p>&quot;You don&#x27;t need to go, dear,&quot; Ariel said, detached. It wasn&#x27;t as if I had more important things to do, though.</p>
 <p>&quot;No, I&#x27;ll go see him.&quot; The final wish of a knight who&#x27;d fought for his country. I could at least hear him out. I could remember his name.</p>
@@ -167,7 +167,7 @@ nav_title = "Chapter 5"
 <p>Our subjects were assembled in the audience chamber. Duke Notos, Duke Boreas, Duke Euros, Duke Zepeuro, and others—the who&#x27;s who, the VIPs, the all-around stars of the Asuran Nobility.</p>
 <p>They all stood around a man waiting on a red velvet carpet. He lay on a stretcher, covered by a blanket. I knew his face.</p>
 <p>&quot;Huh…?&quot; It was Paul. What was Paul doing here?</p>
-<p><em>Ah, that&#x27;s right.</em> When Paul heard I&#x27;d become king, he came straight here to pledge himself to my service. Despite not getting on with the Notos family, he even bent his knee to them. As a knight, he&#x27;d strived to protect me.</p>
+<p>Ah, that&#x27;s right. When Paul heard I&#x27;d become king, he came straight here to pledge himself to my service. Despite not getting on with the Notos family, he even bent his knee to them. As a knight, he&#x27;d strived to protect me.</p>
 <p>&quot;Hey, Rudy,&quot; he said. He raised a hand casually, as though he weren&#x27;t injured at all.</p>
 <p>&quot;Dad…&quot; I said. &quot;I heard from the captain that you drove out the monsters…&quot;</p>
 <p>&quot;Monsters? What&#x27;re you talking about?&quot;</p>
@@ -178,13 +178,13 @@ nav_title = "Chapter 5"
 <p>***</p>
 <p>&quot;Ahhh!&quot; I opened my eyes. I&#x27;d had a bad dream. A nightmare. It felt like I&#x27;d had nothing but nightmares these past few days.</p>
 <p>&quot;Love? What&#x27;s wrong?&quot; said the woman beside me, wiping the sweat from my forehead with her hand. She had ample curves and a precocious smile. My wife, Aisha.</p>
-<p>She and I had…um, how <em>did</em> we end up married again?</p>
+<p>She and I had…um, how did we end up married again?</p>
 <p>Ah, that&#x27;s right! Okay, so we were in the bath, and I couldn&#x27;t restrain myself. She was always flirting with me, and every year her body got more… But wait, what?</p>
 <p>&quot;Hey, what&#x27;s wrong?&quot; she asked. &quot;Oh, now we&#x27;re married, should I keep calling you my big brother? Too late to stop now, I guess. You are</p>
-<p><em>such</em> a pervert, Big Brother.&quot;</p>
+<p>such a pervert, Big Brother.&quot;</p>
 <p>I didn&#x27;t reply. Paul was there behind Aisha. He was sitting in a chair, and he didn&#x27;t have any legs. He watched us and shot me a flippant grin.</p>
 <p>&quot;It&#x27;s no good. I&#x27;ve already got you,&quot; he whispered. &quot;You&#x27;ve worked it out, right?&quot;</p>
-<p>Had I worked it out? <em>Oh. Okay, yeah.</em> I&#x27;d started to work it out. The reason behind this string of nightmares. This sense that something was wrong. I&#x27;d woken up over and over again, and every time it had been a dream.</p>
+<p>Had I worked it out? Oh. Okay, yeah. I&#x27;d started to work it out. The reason behind this string of nightmares. This sense that something was wrong. I&#x27;d woken up over and over again, and every time it had been a dream.</p>
 <p>This was also a dream.</p>
 <p>&quot;You finally realized? It&#x27;s all Abyssal King Vita. This farce is over.&quot;</p>
 <p>Abyssal King? Right. Abyssal King Vita. Now I remembered.</p>
@@ -213,7 +213,7 @@ nav_title = "Chapter 5"
 <p>&quot;Miss Norn is at school, and Aisha is advising at the Mercenary Band.&quot;</p>
 <p>Nothing felt wrong there. She didn&#x27;t mention my three wives because, in this world, Sylphie, Roxy and Eris didn&#x27;t exist. For some reason, I felt certain that it was that sort of world. So nothing felt wrong. It was a contradiction, perhaps, but it didn&#x27;t feel wrong. It wasn&#x27;t Lilia I was looking for.</p>
 <p>&quot;Okay, thank you,&quot; I said, then left the living room. I went to the front door, but nothing felt wrong there either. Only Roxy&#x27;s coat and Eris&#x27;s training sword were missing, but Roxy and Eris didn&#x27;t exist. That was normal.</p>
-<p><em>Hmm. Knowing what feels wrong is tricky.</em></p>
+<p>Hmm. Knowing what feels wrong is tricky.</p>
 <p>It was ultimately subjective—you wouldn&#x27;t just find a sense of wrongness lying around. I was looking carefully, but I wasn&#x27;t very good at these spot-the-difference type things. I never knew how to answer at first when Sylphie went to the hairdresser, then came home and said &quot;Rudy, do you notice anything different about me today?&quot; Admittedly, Sylphie didn&#x27;t say stuff like that very much.</p>
 <p>Anyway, it looked like I might have to get stuck in and take down notes to work out my adversary&#x27;s intention and what felt wrong here.</p>
 <p>I went to the dining room. And gasped.</p>
@@ -251,11 +251,11 @@ nav_title = "Chapter 5"
 <p>The night before the wedding, Zenith and Lilia were beside themselves with excitement. Norn and Aisha joined in on the fuss for a while, but eventually got bored and went to bed. I stayed with the two of them until Lilia fell asleep. She&#x27;d had a bit much to drink. Without anyone else to gush at, Zenith kept on chipping away at the drinks, telling me about what I&#x27;d been like as a child and things like that.</p>
 <p>Out of the blue, she said, &quot;It feels like there&#x27;s a weight off my shoulders.&quot;</p>
 <p>&quot;I was a burden on you?&quot;</p>
-<p>&quot;No, that&#x27;s not what I mean. You always looked after us after Paul died in the Teleportation Labyrinth, Rudy. I&#x27;m your mother. I shouldn&#x27;t be getting looked after, I thought. I should be looking after <em>you</em>… I wished I could.&quot;</p>
+<p>&quot;No, that&#x27;s not what I mean. You always looked after us after Paul died in the Teleportation Labyrinth, Rudy. I&#x27;m your mother. I shouldn&#x27;t be getting looked after, I thought. I should be looking after you… I wished I could.&quot;</p>
 <p>&quot;I see.&quot;</p>
 <p>&quot;Rudy, once you&#x27;re married, if your wife is ever in a bad mood or there are girl things you don&#x27;t understand, you come and ask me,&quot; Zenith said. She stroked Lilia&#x27;s hair where she slept beside her, looking a little embarrassed. &quot;I&#x27;m sure Paul would&#x27;ve been able to say it better, but I&#x27;m your mother, so I know I can give you advice too.&quot;</p>
 <p>I didn&#x27;t say anything.</p>
-<p>&quot;Rudy, hey there, what&#x27;s wrong?&quot; I realized tears were streaming from my eyes. All the dreams Vita had shown me had been happy. This one was no different. If I hadn&#x27;t <em>remembered</em>, I could have lived a happy life here.</p>
+<p>&quot;Rudy, hey there, what&#x27;s wrong?&quot; I realized tears were streaming from my eyes. All the dreams Vita had shown me had been happy. This one was no different. If I hadn&#x27;t remembered, I could have lived a happy life here.</p>
 <p>In a world with no Eris and no Sylphie, I&#x27;d still be a virgin, so I&#x27;d marry my first girlfriend. My sisters would be grossed out and Zenith would tell me off. I&#x27;d go through ups and downs…and, little by little, I&#x27;d grow. It was entirely possible I&#x27;d screw it up spectacularly and we&#x27;d get divorced, but even so…</p>
 <p>In this world, my family would all live a happy life, not wanting for anything. I knew that. I knew in my soul that that was how it would go. This had to be Vita&#x27;s final act of resistance. He was doing this on the bet that even though I knew it was a dream, I wouldn&#x27;t destroy it. And he</p>
 <p>would be certain that, so long as he took Zenith&#x27;s form, I wouldn&#x27;t destroy him.</p>
@@ -267,45 +267,45 @@ nav_title = "Chapter 5"
 <p>&quot;Thanks for everything, Mom.&quot;</p>
 <p>Then I fired a full-power Stone Cannon at her.</p>
 <p>***</p>
-<p>I felt like I&#x27;d had a devastating dream. <em>What the hell did that asshole Vita show me?</em> I thought. I didn&#x27;t feel angry. Probably because the final dream had been so kind. Instead, I felt peaceful. Strangely peaceful.</p>
+<p>I felt like I&#x27;d had a devastating dream. What the hell did that asshole Vita show me? I thought. I didn&#x27;t feel angry. Probably because the final dream had been so kind. Instead, I felt peaceful. Strangely peaceful.</p>
 <p>I looked around and saw I was in an unfamiliar room without a door. Three chairs were arranged within it. No other furniture in the room, but it felt messy somehow. The vibe reminded me of my own room. Like they&#x27;d taken the average of my room from when I was alive and my current study. I was sitting on one of the chairs. In front of me were two people. Or were they animals?</p>
 <p>The first was a skeleton. It wore a crown and was covered in black grime. The other was a slime. Probably. It was a blue lump shaped like a jelly, sitting on a chair. At least, it seemed like it was sitting.</p>
 <p>&quot;It&#x27;s a pleasure to meet you. I am Abyssal King Vita,&quot; said the slime. This translucent, blue slime was his true form.</p>
 <p>&quot;You&#x27;re Vita?&quot; I asked. All right, who was the skeleton, then? Not Paul, surely? I didn&#x27;t remember what state Paul&#x27;s bones had been in, but that crown wouldn&#x27;t suit Paul.</p>
-<p>&quot;I suppose I lost our fight,&quot; said the slime with a solemn air—I didn&#x27;t know where its face was. I had to rely on its tone of voice. <em>I lost,</em> he&#x27;d said. That meant we&#x27;d been fighting, even though <em>how</em> felt hard to pin down. What I&#x27;d done to escape from that dream was a kind of battle, I guess.</p>
+<p>&quot;I suppose I lost our fight,&quot; said the slime with a solemn air—I didn&#x27;t know where its face was. I had to rely on its tone of voice. I lost, he&#x27;d said. That meant we&#x27;d been fighting, even though how felt hard to pin down. What I&#x27;d done to escape from that dream was a kind of battle, I guess.</p>
 <p>&quot;So you used, what, some kind of illusion magic to give me visions?&quot; He&#x27;d made me dream. Incredibly happy dreams. If I hadn&#x27;t caught on, they would have gone on forever.</p>
 <p>&quot;Yes. I predicted possible futures based on your memories and blended them with your desires. It was a top-quality hallucination.&quot;</p>
 <p>Illusion magic. I suppose that had to be possible.</p>
 <p>Possible futures… For all that, there&#x27;d been a lot of holes in those illusions when I looked back on them. Worlds without Sylphie or Roxy or Eris, where Paul, who was dead, kept on popping up.</p>
 <p>&quot;You have a very strong libido, so that made it easy.&quot;</p>
-<p>&quot;I&#x27;m celibate at the moment,&quot; I admitted. Oof, that was embarrassing. I&#x27;d been with Sara <em>and</em> Linia <em>and</em> Ariel <em>and</em> Aisha. I&#x27;ll admit I <em>might</em> be lying if I said I didn&#x27;t have <em>any</em> feelings for any of them—except for Aisha! There&#x27;s nothing there! I said nothing!</p>
+<p>&quot;I&#x27;m celibate at the moment,&quot; I admitted. Oof, that was embarrassing. I&#x27;d been with Sara and Linia and Ariel and Aisha. I&#x27;ll admit I might be lying if I said I didn&#x27;t have any feelings for any of them—except for Aisha! There&#x27;s nothing there! I said nothing!</p>
 <p>&quot;My love for my wives and my memories of Paul broke through the illusion. Is that right?&quot;</p>
 <p>I&#x27;d seen this kind of illusion magic in my previous life. Or rather, I knew what I&#x27;d learned from manga. The point is, I knew the typical ways you broke through it. Maybe my subconscious mind had put that knowledge to use.</p>
 <p>There was a pause, then Vita said, &quot;No, don&#x27;t be ridiculous. You were totally taken in by the illusion. It&#x27;s true, the illusion&#x27;s hold on you was weaker due to the unique nature of your psyche…but once you&#x27;ve been taken that far in, breaking out isn&#x27;t possible.&quot;</p>
 <p>I was stumped. &quot;So why&#x27;d the illusion break?&quot; I asked.</p>
 <p>&quot;Because,&quot; Vita said, &quot;of that.&quot; He pointed at the skeleton. It sat up straight in its chair.</p>
 <p>&quot;What is it?&quot;</p>
-<p>&quot;Please, don&#x27;t play the fool… You foresaw that we would battle, that&#x27;s why you were ready from the beginning, isn&#x27;t it? With the bone ring of Raxos, my nemesis. Now I come to think of it, <em>that&#x27;s</em> why you so ostentatiously took your ring of disguise off in front of Ruijerd—to conceal the ring on your left hand…&quot;</p>
-<p>Raxos&#x27;s bone ring? I didn&#x27;t remember bringing anything like that… <em>Wait, Death God Raxos? The Death God&#x27;s ring! The one Randolph gave me! That&#x27;s right, I&#x27;d been wearing it!</em></p>
+<p>&quot;Please, don&#x27;t play the fool… You foresaw that we would battle, that&#x27;s why you were ready from the beginning, isn&#x27;t it? With the bone ring of Raxos, my nemesis. Now I come to think of it, that&#x27;s why you so ostentatiously took your ring of disguise off in front of Ruijerd—to conceal the ring on your left hand…&quot;</p>
+<p>Raxos&#x27;s bone ring? I didn&#x27;t remember bringing anything like that… Wait, Death God Raxos? The Death God&#x27;s ring! The one Randolph gave me! That&#x27;s right, I&#x27;d been wearing it!</p>
 <p>&quot;Raxos&#x27;s bone ring was crafted by Death God Raxos for the purpose of killing me. It takes the form of the deceased person most trusted by the wearer to break the illusion, then corners the illusionist by taking away their hiding places. It only activates for wearers who have such a trusted person, though…&quot;</p>
-<p><em>Trusted person</em>… In other words, Paul suddenly appearing in the dream was the doing of the bone ring. It was true, the shock of Paul&#x27;s appearance had forced me to confront the fact that none of it was real. After I realized I was dreaming, he&#x27;d given me the hints I needed to corner Vita. It wasn&#x27;t sloppy illusion magic on Vita&#x27;s part.</p>
+<p>Trusted person… In other words, Paul suddenly appearing in the dream was the doing of the bone ring. It was true, the shock of Paul&#x27;s appearance had forced me to confront the fact that none of it was real. After I realized I was dreaming, he&#x27;d given me the hints I needed to corner Vita. It wasn&#x27;t sloppy illusion magic on Vita&#x27;s part.</p>
 <p>&quot;It seems I was a little dismissive in my assessment of you. I was expecting it to go better at the end, too. Ah well. No one told me you were the sort of heartless man who&#x27;d raise a hand against his own mother.&quot;</p>
 <p>I hadn&#x27;t expected an attack like this. I hadn&#x27;t meant to conceal the ring, either. Actually, I&#x27;d been wracked with indecision. I&#x27;d wanted to spend more time with Zenith while she was healthy. I&#x27;d even gone along with an arranged marriage out of duty to her. After what she said to me at the end, I</p>
 <p>had no choice but to step away. The real Zenith would have told me to do the same. I&#x27;m sure she would.</p>
 <p>&quot;I made a mistake…&quot; Vita said. &quot;If I&#x27;d known, I&#x27;d have made Ruijerd threaten you instead.&quot;</p>
 <p>&quot;Why didn&#x27;t you?&quot;</p>
 <p>&quot;Ruijerd was considering joining you even if it meant leaving his village to die. I panicked.&quot;</p>
-<p><em>Ruijerd…</em></p>
+<p>Ruijerd…</p>
 <p>&quot;You were off your guard, so I thought everything would go smoothly. I never imagined you had a plan in place to counter me…or that you&#x27;d set a trap to ensnare me…&quot;</p>
-<p>It&#x27;d been entirely unintentional. I almost felt like I should apologize or something. Maybe Orsted or Death God Randolph <em>had</em> predicted something like this. It&#x27;d be nice if Orsted at least could have told me how to deal with it in advance. To be fair, he <em>did</em> tell me to wear the ring. So maybe he&#x27;d stayed quiet about the rest. I could imagine him thinking <em>He only has to wear the ring for it to work? Then the Abyssal King isn&#x27;t worth worrying about.</em></p>
+<p>It&#x27;d been entirely unintentional. I almost felt like I should apologize or something. Maybe Orsted or Death God Randolph had predicted something like this. It&#x27;d be nice if Orsted at least could have told me how to deal with it in advance. To be fair, he did tell me to wear the ring. So maybe he&#x27;d stayed quiet about the rest. I could imagine him thinking He only has to wear the ring for it to work? Then the Abyssal King isn&#x27;t worth worrying about.</p>
 <p>He could have explained it! What if someone else had ended up possessed?</p>
 <p>To be fair, this wasn&#x27;t the first time Orsted had failed to convey any more than the bare minimum information, nor the first time I&#x27;d failed to ask for more.</p>
 <p>&quot;Pride goes before a fall, I suppose.&quot;</p>
 <p>&quot;Indeed it does,&quot; Vita said ruefully. He shrank before my eyes, as though his strength was rapidly draining out of him. Beside him, the skeleton slowly crumbled.</p>
 <p>The dead person I trusted most… That&#x27;s who Paul was to me?</p>
 <p>&quot;After reigning for centuries as the most powerful king in the Stickies&#x27; history, I never dreamed things would end like this. Well done, Quagmire Rudeus.&quot;</p>
-<p>How was I supposed to respond to that? I hadn&#x27;t seen this coming. Should I tell him it was luck? Well, maybe not luck. I <em>had</em> gone to see Randolph of my own volition.</p>
-<p>I considered telling him <em>You can&#x27;t call</em> yourself <em>the most powerful king ever,</em> but ditched that idea. There was something I needed to ask him.</p>
+<p>How was I supposed to respond to that? I hadn&#x27;t seen this coming. Should I tell him it was luck? Well, maybe not luck. I had gone to see Randolph of my own volition.</p>
+<p>I considered telling him You can&#x27;t call yourself the most powerful king ever, but ditched that idea. There was something I needed to ask him.</p>
 <p>&quot;I have one question. Are you a disciple of the Man-God?&quot;</p>
 <p>&quot;Yes, I am. I am indebted to Him. He helped me to escape the clutches of Death God Raxos and showed me the way to Hell on the Divine Continent. I&#x27;ve only survived this long thanks to Him… But then I left, and look where it got me. I suppose it was fate.&quot;</p>
 <p>Vita shrank smaller and smaller. When we first got to this room, he&#x27;d been person-sized, but now he was only as big as a fist.</p>
@@ -325,8 +325,8 @@ nav_title = "Chapter 5"
 <p>&quot;Ruijerd?&quot; I called, but the master of the house didn&#x27;t reply. Maybe he was out. Or maybe there was another reason. For the time being, I&#x27;d survey my surroundings. I needed to see what was going on.</p>
 <p>I sat up. Right away, I found Ruijerd. He was lying on the ground on the other side of the hearth.</p>
 <p>&quot;Rui—&quot; I began, then broke off, speechless. Ruijerd&#x27;s face was gray and he was wheezing, shivering violently as he clutched at himself.</p>
-<p>Oh, this was <em>bad</em>.</p>
-<p>It reminded me of something he&#x27;d said. <em>If Abyssal King Vita dies, his offshoots die as well. The village will be engulfed by the plague again.</em></p>
+<p>Oh, this was bad.</p>
+<p>It reminded me of something he&#x27;d said. If Abyssal King Vita dies, his offshoots die as well. The village will be engulfed by the plague again.</p>
 <p>So Ruijerd was in this state because…</p>
 <p>&quot;The…the plague…&quot;</p>
 <p>Abyssal King Vita hadn&#x27;t just died quietly. Yeah, what he&#x27;d done had been more than an inadvertent suicide… It was a suicide bombing.</p>

@@ -19,7 +19,7 @@ nav_title = "Chapter 13"
 <p>&quot;No, I don&#x27;t think so. They&#x27;re fighting over there, see?&quot;</p>
 <p>Elinalise was peering at something up ahead of us, but I couldn&#x27;t make out what she was looking at. &quot;Who is it?&quot;</p>
 <p>&quot;I couldn&#x27;t say.&quot;</p>
-<p>We moved forward cautiously in the direction of the city. Soon enough, I spotted a small group of people fighting a pack of Gryphons up ahead. There were four humans and five of the monsters. Well, there <em>had</em> been six humans, but two of them were lying motionless on the ground. Of the four survivors, one was crouching down and clutching his head rather than fighting.</p>
+<p>We moved forward cautiously in the direction of the city. Soon enough, I spotted a small group of people fighting a pack of Gryphons up ahead. There were four humans and five of the monsters. Well, there had been six humans, but two of them were lying motionless on the ground. Of the four survivors, one was crouching down and clutching his head rather than fighting.</p>
 <p>In other words, it was three against five. The outnumbered humans were fending off the Gryphons with sizable broadswords. They were a well-coordinated group, but it was obvious that they were starting to get tired.</p>
 <p>&quot;Should we help them out, Elinalise?&quot;</p>
 <p>She shrugged her shoulders noncommittally. &quot;I&#x27;ll leave it up to you.&quot;</p>
@@ -59,7 +59,7 @@ nav_title = "Chapter 13"
 <p>&quot;That said, I don&#x27;t make a habit of spraying foul odors all over the place.&quot;</p>
 <p>&quot;I keep telling you, they smell really good to me.&quot;</p>
 <p>The huge man turned to his companion and chopped her on the head. &quot;Don&#x27;t be an idiot! What kind of Succubus travels with a man? You&#x27;ve got some nerve insulting them after they saved our lives!&quot;</p>
-<p>The woman whimpered pitifully in reply. &quot;Oww! But Boss! You said a girl who shows up when there&#x27;s bats around&#x27;s <em>gots</em> to be a Succubus!&quot;</p>
+<p>The woman whimpered pitifully in reply. &quot;Oww! But Boss! You said a girl who shows up when there&#x27;s bats around&#x27;s gots to be a Succubus!&quot;</p>
 <p>It took some effort to understand what she was saying. Maybe her accent was just really strong? I could make out the words, but it wasn&#x27;t easy.</p>
 <p>&quot;This is exactly why they call you Bonehead, kid.&quot;</p>
 <p>The man, on the other hand, spoke more clearly. I didn&#x27;t know if he was more fluent in Fighting-God Tongue or what, but I understood him much easier.</p>
@@ -72,11 +72,11 @@ nav_title = "Chapter 13"
 <p>&quot;She says she doesn&#x27;t mind,&quot; I added helpfully.</p>
 <p>&quot;N-no kidding? Does she not speak our language or something?&quot;</p>
 <p>&quot;Nope. I can interpret for her, though.&quot;</p>
-<p>The big man was openly staring at Elinalise now. It wasn&#x27;t hard to guess what he might be thinking—<em>that&#x27;s a fine woman there,</em> or something along those lines. Maybe <em>too bad she&#x27;s kinda flat-chested.</em> Elinalise didn&#x27;t seem to mind the ogling. If anything, she looked kind of proud to be ogled. I guess she was used to it by now.</p>
+<p>The big man was openly staring at Elinalise now. It wasn&#x27;t hard to guess what he might be thinking—that&#x27;s a fine woman there, or something along those lines. Maybe too bad she&#x27;s kinda flat-chested. Elinalise didn&#x27;t seem to mind the ogling. If anything, she looked kind of proud to be ogled. I guess she was used to it by now.</p>
 <p>Pulling his gaze away from Elinalise, the man looked over at me again. &quot;…My name&#x27;s Balibadom. Thanks again for your help, stranger.&quot;</p>
 <p>&quot;I&#x27;m Rudeus Greyrat, and this is Elinalise.&quot;</p>
 <p>&quot;Got it. Well, if you ever need anything—&quot;</p>
-<p>&quot;Hey! What&#x27;s the hold-up, you two?&quot; shouted the mustached man we&#x27;d spoken to earlier, interrupting the warrior mid-sentence. &quot;We need to find that cargo <em>now</em>!&quot;</p>
+<p>&quot;Hey! What&#x27;s the hold-up, you two?&quot; shouted the mustached man we&#x27;d spoken to earlier, interrupting the warrior mid-sentence. &quot;We need to find that cargo now!&quot;</p>
 <p>&quot;Whoops, sorry. Gotta go. I&#x27;m sure our employer will reward you later too.&quot;</p>
 <p>Balibadom and Carmelita ran over to their boss. The three of them had a brief conference, then split into two groups and ran off in different directions. They were gone in an instant.</p>
 <p>&quot;What, they&#x27;re just leaving? I expected a bit more gratitude,&quot; said Elinalise.</p>
@@ -86,10 +86,10 @@ nav_title = "Chapter 13"
 <p>&quot;This one was still awfully young, the poor thing…&quot;</p>
 <p>One of the dead was a teenage girl, maybe eighteen years old. There was a gaping hole in her forehead where a Gryphon&#x27;s sharp beak had struck her. She must have died instantly.</p>
 <p>&quot;I wonder if leaving the dead where they fell is a tradition on this Continent?&quot;</p>
-<p>&quot;No decent adventurer would <em>ever</em> do such a thing.&quot;</p>
+<p>&quot;No decent adventurer would ever do such a thing.&quot;</p>
 <p>&quot;Well, those people didn&#x27;t look like adventurers to me…&quot;</p>
 <p>Since their party had vanished, I burned the bodies with my magic and buried them myself. It did seem a little heartless, the way they&#x27;d left them here.</p>
-<p>That Balibadom guy had promised we&#x27;d be rewarded later, but we didn&#x27;t even know the name of that guy with the mustache. And how were they supposed to come find us if they didn&#x27;t know who <em>we</em> were? Did they expect us to track them down and demand payment or something?</p>
+<p>That Balibadom guy had promised we&#x27;d be rewarded later, but we didn&#x27;t even know the name of that guy with the mustache. And how were they supposed to come find us if they didn&#x27;t know who we were? Did they expect us to track them down and demand payment or something?</p>
 <p>…Well, whatever. It wasn&#x27;t like I&#x27;d intervened in the hopes of a big payoff or anything. I&#x27;d have to satisfy myself with having done my good deed for the day.</p>
 <p>&quot;Let&#x27;s get going, I guess.&quot;</p>
 <p>&quot;All right then.&quot;</p>
@@ -118,10 +118,10 @@ nav_title = "Chapter 13"
 <p>The sweet soup, spicy meat, and sour fruit made for an interesting combination. The meal seemed a little lacking in the carbs department, but once I got started, I found myself enjoying it a lot. The soup was particularly good. The mystery white chunks floating around in it turned out to be rice, rather than meat. So it was a kind of rice gruel?</p>
 <p>I hadn&#x27;t been expecting to find rice here, of all places. There couldn&#x27;t possibly be any rice paddies in this climate, so they had to be growing it in dry soil. I&#x27;d heard that was possible, although more challenging to pull off. It was definitely a pleasant surprise, and I ended up gobbling down the soup in no time at all.</p>
 <p>My love for rice had only grown stronger over the years. Just getting a cup of it in my belly made me feel invincible, like I was ready to take on the world. I&#x27;d have to see if it was possible to cultivate rice in the Northern Territories somehow. If I taught Aisha the basics of planting crops, maybe she could get a little field going in our yard…</p>
-<p>Then again, it <em>probably</em> wouldn&#x27;t be right to turn my little sister into an agricultural worker for my own pleasure.</p>
+<p>Then again, it probably wouldn&#x27;t be right to turn my little sister into an agricultural worker for my own pleasure.</p>
 <p>&quot;Oh? You&#x27;re not whining about the food for once, Rudeus. That&#x27;s unusual.&quot;</p>
 <p>I even ended up asking for seconds. I never complained about Sylphie&#x27;s cooking or anything, just to be clear…but rice definitely held a special place in my heart. If I only had some eggs and soy sauce to go with it, everything would be perfect.</p>
-<p>I could always raid a Garuda nest for the eggs, right? They <em>were</em> basically just giant chickens, after all. That just left the soy sauce. Maybe this continent would surprise me again, and I&#x27;d find some for sale in the market.</p>
+<p>I could always raid a Garuda nest for the eggs, right? They were basically just giant chickens, after all. That just left the soy sauce. Maybe this continent would surprise me again, and I&#x27;d find some for sale in the market.</p>
 <p>&quot;Let&#x27;s see if we can&#x27;t find ourselves an inn, then.&quot;</p>
 <p>But of course, we weren&#x27;t here on vacation. If we had a little extra time after saving Paul, maybe I could pursue this little side project. Now wasn&#x27;t the time.</p>
 <p>&quot;Right,&quot; said Elinalise. &quot;I think it&#x27;s best we leave finding a guide until tomorrow.&quot;</p>
@@ -141,11 +141,11 @@ nav_title = "Chapter 13"
 <p>&quot;First things first,&quot; agreed Elinalise. &quot;Tomorrow, we&#x27;ll buy the provisions we need and find ourselves a guide.&quot;</p>
 <p>We spent a few minutes quickly going over our priorities. First and foremost, we needed to exchange our money, buy provisions, confirm the route to Rapan, and hire a guide. We also took a little time to maintain our equipment. Elinalise cleaned her sword and shield, and I looked over our protective gear for any damage. This was just a part of our daily routine by now.</p>
 <p>After a few minutes, we finished up and spread out the furs we used for our bedding. But just as I was about to turn in for the night, Elinalise got to her feet. &quot;Okay then, I&#x27;ll be going out for a little while.&quot;</p>
-<p><em>What? Is she running to the convenience store or something?</em>  &quot;Uh… to do what?&quot;</p>
+<p>What? Is she running to the convenience store or something?  &quot;Uh… to do what?&quot;</p>
 <p>Elinalise smiled at the question. &quot;To pick up a man.&quot;</p>
 <p>In other words, she was going to reset the timer on her curse.</p>
 <p>&quot;You&#x27;ve still got a little more time, don&#x27;t you?&quot;</p>
-<p>Elinalise&#x27;s curse kicked into full gear every two to four weeks. Cliff&#x27;s magical implement more than doubled that deadline, so she was good for at least a month in between encounters. It had only been two weeks since we left, and it was probably beginning to have some effect on her, but it wasn&#x27;t urgent <em>yet</em>.</p>
+<p>Elinalise&#x27;s curse kicked into full gear every two to four weeks. Cliff&#x27;s magical implement more than doubled that deadline, so she was good for at least a month in between encounters. It had only been two weeks since we left, and it was probably beginning to have some effect on her, but it wasn&#x27;t urgent yet.</p>
 <p>&quot;That&#x27;s true. But I&#x27;m going to hire someone anyway, while we&#x27;re here.&quot;</p>
 <p>&quot;Right…&quot;</p>
 <p>This trip was going to last three months at the very least. Given how uncertain we were about what lay ahead of us, four months was probably a more likely estimate. Even in the best-case scenario, Elinalise would need to sleep with someone at least once in that time. There was no getting around it.</p>
@@ -167,7 +167,7 @@ nav_title = "Chapter 13"
 <p>The sellers shouted out their prices, while their prospective customers yelled back offers just as loudly. Some were exchanging currency, but many were bartering too. The market crowd seemed to stretch out all around us as far as the eye could see. Here and there, I saw scuffles or fistfights breaking out, but they seemed to be quarrels between merchants, rather than anything really dangerous.</p>
 <p>&quot;I&#x27;ve got glass bottles from Vega! I won&#x27;t be taking these any further east! Anybody need to stock up?!&quot;</p>
 <p>Glass products, in particular, seemed to be a focus of trade. I had to assume it was a major industry in this region. One merchant had shelves and shelves full of rectangular containers with intricate symbols carved into their surface; they looked a bit like fancy whisky bottles. Some were brightly colored, but they were all remarkably smooth and clear.</p>
-<p>The Central Continent had glass as well, but it tended to be thin and only semitransparent. I&#x27;d heard that the richer parts of Asura had artisans who made good glass, but this region probably produced the <em>real</em> quality stuff.</p>
+<p>The Central Continent had glass as well, but it tended to be thin and only semitransparent. I&#x27;d heard that the richer parts of Asura had artisans who made good glass, but this region probably produced the real quality stuff.</p>
 <p>Of course, even this glass wasn&#x27;t comparable to what I&#x27;d gotten used to back in Japan, but some of their pieces were obviously handcrafted with care. I found myself tempted to buy something as a souvenir.</p>
 <p>&quot;Rudeus, we didn&#x27;t come here to shop for gifts.&quot;</p>
 <p>&quot;Yeah, I know.&quot;</p>
@@ -203,9 +203,9 @@ nav_title = "Chapter 13"
 <p>&quot;That sounds like a plan. Let&#x27;s see if we can find one.&quot;</p>
 <p>Aisha had managed to reach Ranoa quickly by hitching rides with merchant caravans. There was no reason we couldn&#x27;t use the same trick. We didn&#x27;t need to rush, even. The only thing that mattered was getting to our destination safely.</p>
 <p>&quot;Sir, would you happen to know of any merchants who&#x27;re on their way to Rapan?&quot;</p>
-<p>There wouldn&#x27;t be any caravans actively looking for guards here, for the same reason that there weren&#x27;t any guides to be found. But Elinalise was an S-rank adventurer, and I was a Water Saint-tier magician. If we offered money <em>and</em> our services, we might find someone willing to bring us with them.</p>
+<p>There wouldn&#x27;t be any caravans actively looking for guards here, for the same reason that there weren&#x27;t any guides to be found. But Elinalise was an S-rank adventurer, and I was a Water Saint-tier magician. If we offered money and our services, we might find someone willing to bring us with them.</p>
 <p>Unfortunately, the man told us there weren&#x27;t many people heading to Rapan in general. Most of the traveling merchants were on their way to a place called Kinkara in the east.</p>
-<p>There was <em>some</em> traffic to the north, though. Rapan was famous for its labyrinths, which produced a steady stream of valuable magic items; if you stocked up on those, you could sell them at higher prices in other cities. Some merchants made their living that way. Most of them brought magic stones and crystals from the southwest up to Rapan, where they sold their cargo and funneled the profits into buying magic items.</p>
+<p>There was some traffic to the north, though. Rapan was famous for its labyrinths, which produced a steady stream of valuable magic items; if you stocked up on those, you could sell them at higher prices in other cities. Some merchants made their living that way. Most of them brought magic stones and crystals from the southwest up to Rapan, where they sold their cargo and funneled the profits into buying magic items.</p>
 <p>&quot;Dunno if there&#x27;s anyone like that around right now, though,&quot; the man concluded. &quot;We&#x27;ll definitely get a bunch in a few months, at least.&quot;</p>
 <p>This wasn&#x27;t too reassuring. I was starting to think we might be better off just hitching a ride to that city out east. We&#x27;d be going out of our way, but at least we&#x27;d reach a trading hub where we might find a guide.</p>
 <p>Still, I tried asking around the city for a while. Almost everyone was headed to Kinkara, and after an hour or two, I&#x27;d very nearly resigned myself to that route.</p>
@@ -220,7 +220,7 @@ nav_title = "Chapter 13"
 <p>Galban welcomed us with a warm smile as we stepped inside his tent.</p>
 <p>&quot;My apologies for yesterday, friends! We were surprised to see you&#x27;d already left by the time we got back!&quot;</p>
 <p>Apparently, they had run off to track down their camels, which had fled in the chaos—along with the valuable cargo they were carrying. They&#x27;d returned to the spot of the battle afterward, only to find that we&#x27;d buried their comrades&#x27; bodies and disappeared. Galban claimed to have spent a good deal of time trying to find us that evening.</p>
-<p><em>You could have just explained the plan before you disappeared, then…</em></p>
+<p>You could have just explained the plan before you disappeared, then…</p>
 <p>Still, maybe that was just common sense in a place like this. Your cargo comes first, and everything else can wait.</p>
 <p>&quot;It must be fate that you&#x27;ve found us like this. Would you care to join my caravan as bodyguards?&quot;</p>
 <p>He&#x27;d been looking to hire new sword-arms anyway, from the sound of things. That made sense, since he&#x27;d lost a few yesterday.</p>

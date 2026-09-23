@@ -22,19 +22,19 @@ nav_title = "Chapter 14"
 <p>&quot;You look nervous, Rudeus, but I wouldn&#x27;t worry yourself too much,&quot; said Elinalise quietly. &quot;With a magician of your skills on our side, a few bandits shouldn&#x27;t be an issue.&quot;</p>
 <p>&quot;You think so?&quot;</p>
 <p>&quot;I do. And if worse comes to worst, I&#x27;ll use a little charm on them.&quot;</p>
-<p>&quot;Uh, what? You <em>want</em> to get carried off to their base, chained up, and brutally—&quot;</p>
+<p>&quot;Uh, what? You want to get carried off to their base, chained up, and brutally—&quot;</p>
 <p>&quot;Goodness, how extreme. As long as you go along willingly, even bandits will be gentle with you.&quot;</p>
 <p>&quot;Are you speaking from experience here?&quot;</p>
 <p>&quot;We all make mistakes in our youth.&quot;</p>
 <p>Elinalise didn&#x27;t seem too concerned at all. Still, those days were long in the past, and she&#x27;d probably be less eager to do something like that now that she had Cliff in her life.</p>
-<p>Well, whatever. We <em>could</em> probably fend off an attack easily enough, as long as we weren&#x27;t outnumbered too terribly.</p>
+<p>Well, whatever. We could probably fend off an attack easily enough, as long as we weren&#x27;t outnumbered too terribly.</p>
 <p>Our party trudged through barren fields for a while, heading east.</p>
 <p>We had to fight off a lot of monsters on the way. There were Begaritt Buffalos, which charged at you in groups, and Great Tarantulas, huge spiders that scuttled around furtively. We also encountered Windmaster Eagles, flying monsters that would cast wind spells at you from above. Some of our friends from the desert made an appearance as well: mostly Cactus Treants and those killer lizards, which were apparently called Gyroraptors. There were many others, too.</p>
 <p>However, Balibadom proved capable at spotting our enemies well ahead of time, so we never found ourselves forced into serious combat. It turned out he had a Demon Eye himself, which was why he&#x27;d earned the name Hawkeye.</p>
 <p>The man was muscular and tall, and probably in his mid-forties, judging from the wrinkles in the corner of his eyes. You could tell at a glance that he was the wily survivor type. His hair was cropped short on the sides and in the back; it reminded me a little of the team captain from that old basketball anime. I kept expecting him to shout, &quot;Just tape it!&quot; or something.</p>
 <p>His Demon Eye was the same type as Ghislaine&#x27;s—it allowed him to see the flow of mana in the world around him. This was most useful as a means of detecting enemies.</p>
 <p>&quot;We&#x27;ve got monsters ahead. Ready for combat, everyone.&quot;</p>
-<p>So far, he&#x27;d perfectly predicted every approaching monster and change in the weather. It was almost like traveling with Ruijerd. He wasn&#x27;t quite as precise on the details, but he spotted enemies <em>very</em> quickly. His many years of experience was probably a factor there.</p>
+<p>So far, he&#x27;d perfectly predicted every approaching monster and change in the weather. It was almost like traveling with Ruijerd. He wasn&#x27;t quite as precise on the details, but he spotted enemies very quickly. His many years of experience was probably a factor there.</p>
 <p>&quot;This brings me back a little,&quot; said Elinalise with a smile. &quot;Ghislaine used to spot the monsters just like that, using her eye and her nose.&quot;</p>
 <p>When you had someone in your party who could detect enemies in advance, combat tended to be a lot less risky. By the time the monsters came into range, I was ready to hit them with a spell. I&#x27;d started off using Stone Cannon, but aiming it precisely started to get tedious, so I was currently blasting them into the air with wind magic and then smashing them down into the ground. That took a bit less effort.</p>
 <p>&quot;You&#x27;re using those spells awfully freely, boy. Aren&#x27;t you going to run out of mana?&quot;</p>
@@ -77,12 +77,12 @@ nav_title = "Chapter 14"
 <p>Succubi were deadly against men. Their pheromones could incapacitate even strong-willed veteran fighters. I could attest to that part personally. If two of them were to come at me at once, or if one popped up right in front of me, I wasn&#x27;t at all confident that I&#x27;d survive.</p>
 <p>Once hit by a Succubus&#x27; pheromones, men were reduced to thoughtless slaves. But a single Succubus can only bring so many victims back to her lair at once. They tend to pick out a few choice morsels, leaving any others behind. The men left behind in this manner then fight each other to the death. Once your mind is poisoned by the pheromones, every other man you see automatically becomes your enemy. It sounded a lot like the Charm status effect, honestly.</p>
 <p>To cure someone of this condition, you had to either dispel it with an Intermediate-tier Detoxification spell or let them sleep with a woman. And four hundred years ago, basically no one on this continent could use Detoxification magic.</p>
-<p>As a result, many young men who were virgins ended up losing their lives. There wasn&#x27;t much to be done—they didn&#x27;t have anyone to sleep with. They probably died wishing they&#x27;d had sex with <em>someone,</em> even the Succubus that doomed them. I could empathize…</p>
+<p>As a result, many young men who were virgins ended up losing their lives. There wasn&#x27;t much to be done—they didn&#x27;t have anyone to sleep with. They probably died wishing they&#x27;d had sex with someone, even the Succubus that doomed them. I could empathize…</p>
 <p>To jump forward a little… Over time, the warriors of the Begaritt Continent had adapted to their circumstances. Every band began to travel with a number of women. At first, these were often slaves or demon prisoners, but the warriors quickly realized that the noncombatants were slowing them down. The women had little stamina and constantly needed to be protected in battle.</p>
 <p>The warriors thought the matter over. They racked their brains for years and finally landed on a solution: they could train women to be fighters, too. Exactly the sort of solution you&#x27;d expect from a bunch of Conan the Barbarian types.</p>
 <p>And that was how the women warriors of the Begaritt Continent first came into being.</p>
 <p>At present, every group of fighters or guards on this continent contained at least a few women. When the party encountered a Succubus, they were responsible for slaying it and then sleeping with the men to break the spell. Some groups even had more women than men, since facing Succubi was safer that way. All in all, the</p>
-<p>women of this continent did <em>more</em> than their fair share of the fighting.</p>
+<p>women of this continent did more than their fair share of the fighting.</p>
 <p>Carmelita had no objections to her role. Whenever her band encountered a Succubus, she killed it and slept with the men to break its enchantment. Of course, this sometimes resulted in pregnancies, but the women warriors accepted this and would return home proudly when it happened. The baby was eventually entrusted to the people of their village, and the warrior returned to her duties. Carmelita had already given birth to one such child herself.</p>
 <p>These babies were raised by their entire village, rather than their parents. All were cared for and treated equally regardless of their heritage or race. They were taught to fight as children, and once they reached physical adolescence, they underwent a comingof-age ceremony and left their village behind. When a warrior grew too old to fight, they earned the right to return home and devote themselves to raising future generations.</p>
 <p>However, there were some who chose never to go back, preferring to spend their entire lives fighting. Balibadom was one of these.</p>
@@ -136,7 +136,7 @@ nav_title = "Chapter 14"
 <p>&quot;Run!&quot; screamed Balibadom. &quot;We&#x27;re under attack! They&#x27;re coming from the west!&quot;</p>
 <p>It finally hit me that we were in serious danger, and that we needed to flee for our lives. Elinalise released me. Galban and the camels were already sprinting desperately forward; I followed after them, running as fast as I could.</p>
 <p>There was a group of men on horseback on a hill to our left, and they were charging at us. They were mounted, and we were on foot. All of them wore an identical sandy yellow turban.</p>
-<p>&quot;Sir, we&#x27;ve <em>got</em> to leave the camels! They might let us go if we hand over everything!&quot;</p>
+<p>&quot;Sir, we&#x27;ve got to leave the camels! They might let us go if we hand over everything!&quot;</p>
 <p>&quot;Not a chance!&quot;</p>
 <p>&quot;Are you suicidal, or just an idiot?!&quot;</p>
 <p>&quot;Protect my cargo, damn it! That&#x27;s what I hired you people to do!&quot;</p>
@@ -146,7 +146,7 @@ nav_title = "Chapter 14"
 <p>&quot;Tch! They&#x27;re coming from the rear, too!&quot;</p>
 <p>Another group of horsemen was bearing down on us from behind, and the archers on the hill were readying their next volley. Most of their shots were falling short, but a few could really make their arrows fly; every now and then, one would come dangerously close to hitting us.</p>
 <p>There had to be fifty of them. No, a hundred. And that was just the ones that we could see.</p>
-<p>The word <em>bandits</em> had misled me pretty badly. This was an army we were up against.</p>
+<p>The word bandits had misled me pretty badly. This was an army we were up against.</p>
 <p>&quot;…&quot;</p>
 <p>My heart hammering in my chest, I tried to analyze the situation. We were under attack from the flank and the rear; at the very least, there weren&#x27;t any foes directly in front of us. That was where we had to flee.</p>
 <p>&quot;Rudeus!&quot; shouted Elinalise.</p>
@@ -166,12 +166,12 @@ nav_title = "Chapter 14"
 <p>It didn&#x27;t matter, though. We had the mist on our side now.</p>
 <p>&quot;Come on, run!&quot;</p>
 <p>Nodding shakily, I got moving. He wouldn&#x27;t be able to target us again. He wasn&#x27;t going to hit me. It just wasn&#x27;t possible. I was invincible!</p>
-<p><em>Damn it! I should have asked Sylphie for some lucky charm or something! Maybe I could have taken my souvenir of our first night together from the shrine…</em></p>
+<p>Damn it! I should have asked Sylphie for some lucky charm or something! Maybe I could have taken my souvenir of our first night together from the shrine…</p>
 <p>&quot;Shit, they&#x27;re catching up! Draw your sword, Carmelita!&quot;</p>
 <p>Balibadom&#x27;s shout brought me back to reality. When I listened closely, I could hear the sound of hoofbeats approaching us from behind. Some of the riders must have swerved around my quagmire. And despite the fog I&#x27;d thrown up, all they had to do was charge straight in the direction they&#x27;d been moving.</p>
 <p>We were up against mounted fighters here. Cavalry did have some weaknesses, but their speed was a deadly weapon in itself.</p>
 <p>I&#x27;d seen at least fifty riders rushing toward us; how many had made it past my spell? Twenty? Thirty? I didn&#x27;t want to try fighting a group that large at close range.</p>
-<p>&quot;I&#x27;ll slow them down! Keep running, everyone! <em>Earth Wall!</em>&quot;</p>
+<p>&quot;I&#x27;ll slow them down! Keep running, everyone! Earth Wall!&quot;</p>
 <p>I summoned up a thick, two-meter wall behind us without slowing my pace. A galloping horse couldn&#x27;t be brought to a sudden halt. In this fog, many of them would probably smash right into it.</p>
 <p>Even if they realized it was there, they&#x27;d have to slow down and go around.</p>
 <p>&quot;Haah…haah…&quot;</p>
@@ -186,7 +186,7 @@ nav_title = "Chapter 14"
 <p>&quot;Gaaah…haaah… Gweeeh…&quot;</p>
 <p>Galban collapsed to the ground, his face pale as a sheet. Even for a seasoned traveler who&#x27;d spent years on the road, running for two hours straight was a lot to ask. At least I wasn&#x27;t the only one.</p>
 <p>We&#x27;d lost only one camel in the raid. And one bodyguard, of course.</p>
-<p>Poor Tont. If I&#x27;d been able to yank that arrow out right away and take some time to cast Healing and Detoxification spells, there was a chance he might have lived. Maybe the arrow hadn&#x27;t struck him right in the heart. I probably would have <em>tried</em> to save him, if Elinalise hadn&#x27;t grabbed me by the collar. But if I&#x27;d stopped to focus on him, I wouldn&#x27;t have gotten away in time. The next arrow probably would have gotten me.</p>
+<p>Poor Tont. If I&#x27;d been able to yank that arrow out right away and take some time to cast Healing and Detoxification spells, there was a chance he might have lived. Maybe the arrow hadn&#x27;t struck him right in the heart. I probably would have tried to save him, if Elinalise hadn&#x27;t grabbed me by the collar. But if I&#x27;d stopped to focus on him, I wouldn&#x27;t have gotten away in time. The next arrow probably would have gotten me.</p>
 <p>Elinalise was right to pull me away. Her experience in battle had probably saved my life. Even if I&#x27;d only hesitated for a few seconds, it might have proven fatal.</p>
 <p>&quot;…&quot;</p>
 <p>Looking around the group, I noticed that Carmelita was glaring at me. Had I done something to upset her back there? Nothing came to mind.</p>
@@ -194,7 +194,7 @@ nav_title = "Chapter 14"
 <p>All of a sudden, she stomped up to me and grabbed me by the front of my robe. &quot;Why?! Why didn&#x27;t you kill them?! You could have! I saw your magic!&quot;</p>
 <p>&quot;Wha—&quot;</p>
 <p>What was she saying? Had she expected me to kill that entire group of bandits?</p>
-<p>It sounded crazy. But after a moment, I realized that I&#x27;d never even <em>thought</em> about trying that approach.</p>
+<p>It sounded crazy. But after a moment, I realized that I&#x27;d never even thought about trying that approach.</p>
 <p>&quot;Stop it, Bonehead!&quot;</p>
 <p>&quot;You saw it too, didn&#x27;t you? He made the horses sink into the ground! He made them run into walls! He made everything foggy!&quot;</p>
 <p>&quot;You&#x27;re not thinking this through, damn it! Use your brain for once!&quot;</p>
@@ -223,20 +223,20 @@ nav_title = "Chapter 14"
 <p>&quot;It&#x27;s just…Carmelita had a kid with Tont, you know?&quot;</p>
 <p>&quot;Huh?!&quot;</p>
 <p>&quot;So, well…I think you can understand how she feels. She&#x27;s just lashing out.&quot;</p>
-<p>Those two had a <em>child?</em></p>
+<p>Those two had a child?</p>
 <p>I&#x27;d assumed that the female warriors of this continent didn&#x27;t get emotionally attached to any one specific man, but clearly that wasn&#x27;t always the case. Maybe it was different when they had a baby with someone.</p>
 <p>As I stood there at a loss for words, Elinalise sheathed her rapier and turned around to face me. &quot;There&#x27;s no reason for you to feel down about this, Rudeus.&quot;</p>
 <p>&quot;…There isn&#x27;t?&quot;</p>
 <p>&quot;There are some adventurers out there who make a point of never killing another human being. Not many of them, granted, but they do exist. And you&#x27;re going to become a father soon. I can understand why you&#x27;d hesitate to take so many lives.&quot;</p>
 <p>Her attempts to comfort me were a little off the mark. But of course, she didn&#x27;t know what Balibadom had just said to me.</p>
-<p>To be honest, I hadn&#x27;t <em>hesitated</em> at all. The thought of killing those men just hadn&#x27;t even entered my mind, despite the mortal danger we were facing.</p>
+<p>To be honest, I hadn&#x27;t hesitated at all. The thought of killing those men just hadn&#x27;t even entered my mind, despite the mortal danger we were facing.</p>
 <p>Of course, a few riders had probably lost their lives riding headfirst into those walls I threw up in the mist. I didn&#x27;t feel any guilt about that either. But the idea of using magic to murder someone directly just made me queasy.</p>
 <p>…It was kind of pathetic, honestly.</p>
 <p>&quot;Thanks, Elinalise.&quot;</p>
 <p>Still, I thanked her for trying to cheer me up. Thinking back on it, she&#x27;d been running right at my side for the entire retreat; when I lost my balance, she&#x27;d been there to brace me. It felt like she&#x27;d positioned herself to shield me from any stray arrows too.</p>
-<p>I had a feeling she considered herself <em>my</em> bodyguard, more than anything else.</p>
+<p>I had a feeling she considered herself my bodyguard, more than anything else.</p>
 <p>&quot;No need to thank me, dear,&quot; she said, patting me on the shoulder. &quot;I&#x27;ll always look out for my grandson.&quot;</p>
-<p><em>Your grandson, huh? Hmm.</em></p>
+<p>Your grandson, huh? Hmm.</p>
 <p>By the time we got back home, Sylphie&#x27;s belly would be very big. That baby was going to be Elinalise&#x27;s great-grandchild. I&#x27;m sure she wanted its arrival to be a happy occasion. Or maybe she just didn&#x27;t want to have Sylphie tearfully asking her why she&#x27;d failed to keep me safe.</p>
 <p>Either way, the solution was simple enough. We&#x27;d just have to make it back together.</p>
 <p>&quot;Uhm, Elinalise…&quot;</p>
@@ -268,7 +268,7 @@ nav_title = "Chapter 14"
 <p>I knew how much it would hurt if Sylphie up and died on me, at least. I&#x27;d been overwhelmed with joy when I learned she was pregnant. If I lost her suddenly, the despair would be even more intense.</p>
 <p>&quot;…And I guess I&#x27;m going to regret this, aren&#x27;t I?&quot;</p>
 <p>Assuming the Man-God was being straight with me, this voyage to the Begaritt Continent was going to cost me one way or another.</p>
-<p>He&#x27;d first told me that when I met Elinalise at the age of fifteen. I&#x27;d spent some time in Ranoa, but Nanahoshi&#x27;s shortcut meant I wasn&#x27;t getting to Rapan <em>that</em> much later than I would have if I&#x27;d left when I met Elinalise. I had to assume the danger that awaited me in Rapan hadn&#x27;t changed in that time.</p>
+<p>He&#x27;d first told me that when I met Elinalise at the age of fifteen. I&#x27;d spent some time in Ranoa, but Nanahoshi&#x27;s shortcut meant I wasn&#x27;t getting to Rapan that much later than I would have if I&#x27;d left when I met Elinalise. I had to assume the danger that awaited me in Rapan hadn&#x27;t changed in that time.</p>
 <p>If that was true, though, it probably meant no harm would come to the people I&#x27;d left behind in Ranoa. After all, if I&#x27;d left for Begaritt right away, I wouldn&#x27;t have met Sylphie or gotten to know my other friends. I&#x27;d have no reason to &quot;regret&quot; some disaster taking place there.</p>
 <p>But now that I thought about it, maybe the regrets that lay ahead were different now. Things might go smoothly on my end but poorly back home. Something might happen to Sylphie, or the baby.</p>
 <p>&quot;Did you say something, Rudeus?&quot;</p>
@@ -276,8 +276,8 @@ nav_title = "Chapter 14"
 <p>I had to stop speculating about this. You could drive yourself insane thinking about all the ways things might go wrong. And a guy like me was always going to make mistakes, no matter how hard he tried.</p>
 <p>There was no telling what the future held.</p>
 <p>This was the first time I&#x27;d ever directly gone against the Man-God&#x27;s advice. Up until now, I&#x27;d done well for myself by following his lead. Did that mean this choice was going to end in disaster, no matter what I tried?</p>
-<p>Nah. I wasn&#x27;t buying that. I knew there was danger ahead, so it should be possible for me to avoid it. Still, there was a real risk someone I cared about might end up like Tont. If I wanted to prevent that, I needed to stay sharp. And if there <em>was</em> someone out there who wanted to harm my family, this time—</p>
-<p><em>Stop it. This is pointless.</em></p>
+<p>Nah. I wasn&#x27;t buying that. I knew there was danger ahead, so it should be possible for me to avoid it. Still, there was a real risk someone I cared about might end up like Tont. If I wanted to prevent that, I needed to stay sharp. And if there was someone out there who wanted to harm my family, this time—</p>
+<p>Stop it. This is pointless.</p>
 <p>I could tell myself anything I wanted, but I had no reason to believe I was even capable of murder. I&#x27;d just have to do everything I could to keep my family safe.</p>
 <p>That, at least, I could promise myself.</p>
 <p>Two weeks later, we finally reached the Labyrinth City of Rapan. We&#x27;d made it to our destination. Now it was time to get started.</p>

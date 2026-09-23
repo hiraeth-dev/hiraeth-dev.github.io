@@ -88,7 +88,7 @@ nav_title = "Appendix"
 <p>Rudeus is said to have broken the taboo after reflecting on the death of his father Paul in the Teleportation Labyrinth. Records suggest that the</p>
 <p>actual research was conducted by Silent Sevenstar, with Rudeus as her sponsor. However, for some unknown reason old merchant and noble families, along with those involved in the Millis Church, curse Rudeus as the &quot;taboo breaker.&quot;</p>
 <p><strong>Memoirs and Code</strong></p>
-<p>It is believed that the records of the research above were written in the fifty-two volumes that form the <em>Book of Rudeus</em>. Since they are written entirely in a code only used between himself and Silent Sevenstar that is yet to be fully decrypted, however, their credibility is questionable.</p>
+<p>It is believed that the records of the research above were written in the fifty-two volumes that form the Book of Rudeus. Since they are written entirely in a code only used between himself and Silent Sevenstar that is yet to be fully decrypted, however, their credibility is questionable.</p>
 <p><strong>Build and Character</strong></p>
 <p>Rudeus was approximately 175 centimeters tall and had, for a magician, a comparatively strong and muscular build. He had pale skin, and his eyes were mismatched, as used the eye of foresight right eye and the Eye of Distant Sight for his left. He is never described as handsome, but his wife Sylphiette is said to have thought, &quot;Looking at his face for just a few seconds was enough to make me weak at the knees&quot; when they met at the Magic University. His other wives, Eris Greyrat and Roxy M. Greyrat, didn&#x27;t make any comment on his looks, but we can assume he wasn&#x27;t exceptionally ugly.</p>
 <p>His preferred outfit is supposed to have been a light gray robe without a hat. He was disinterested in clothing in his youth. It is written in the remaining records that while attending university he &quot;wore a robe fraying at the hem,&quot; and in the Asura Kingdom &quot;a number of nobles looked disapprovingly at his strange appearance when he presented himself in the audience chamber.&quot; He came to pay more attention to his personal appearance after turning twenty, and around 430 Armored Dragon King Perugius commented that, &quot;he has made himself more presentable lately.&quot; While insensitive to his own appearance, he was fastidious about cleanliness, renovating a room of his home into a large bath which he is said to have used every day.</p>
@@ -98,7 +98,7 @@ nav_title = "Appendix"
 <p>&quot;At a party in the Asura Kingdom, when a noble made fun of Rudeus&#x27;s wife, Rudeus seized him by the throat and dragged him out of the party, burned a whole forest to ash before his eyes, and demanded an apology.&quot;</p>
 <p>&quot;When his great friends Linia and Pursena broke a figurine modeled on his wife, Rudeus punished them in the most humiliating way possible for beastfolk.&quot;</p>
 <p>&quot;When Perugius invited Rudeus to the floating fortress to name his child, Rudeus, misunderstood and thought Perugius intended to harm the child. He appeared fully armed and threatened Perugius that there would be war if any harm came to his child.&quot;</p>
-<p><em>\</em> It should be noted that the veracity of these anecdotes is unconfirmed.*</p>
+<p>\ It should be noted that the veracity of these anecdotes is unconfirmed.*</p>
 <p>While Rudeus is not generally well-known, the majority of the world&#x27;s most prominent figures know of him and regard him with admiration or awe.</p>
 <p>A piece of white cloth was found in his pocket after his death. His wife Roxy hurried to hide it, leading to rumors that some great secret might be concealed within it. It is unclear whether those rumors contain any shred of truth.</p>
 <p>He is said to be the origin point for the Theory of Critical Period for Mana Capacity, namely that mana capacity can be strengthened in early childhood, and is resultantly responsible for its incorporation into education.</p>
@@ -123,25 +123,25 @@ nav_title = "Appendix"
 <p>LILY GREYRAT: third daughter.</p>
 <p>CHRISTINA GREYRAT:fourth daughter.</p>
 <p><strong>OTHER ASSOCIATED INDIVIDUALS</strong></p>
-<p>ZANOBA SHIRONE: upperclassman at the Magic University. A former prince of Shirone. President of a figurine company. Blessed Child of fantastic strength. The publication of the picture book <em>The Superd&#x27;s Adventure</em> was largely thanks to his and Norn&#x27;s efforts. Zanoba respected Rudeus as his mentor, but Rudeus always said, &quot;When it comes to knowledge of figurines, Zanoba&#x27;s the best.&quot;</p>
+<p>ZANOBA SHIRONE: upperclassman at the Magic University. A former prince of Shirone. President of a figurine company. Blessed Child of fantastic strength. The publication of the picture book The Superd&#x27;s Adventure was largely thanks to his and Norn&#x27;s efforts. Zanoba respected Rudeus as his mentor, but Rudeus always said, &quot;When it comes to knowledge of figurines, Zanoba&#x27;s the best.&quot;</p>
 <p>CLIFF GRIMOR: upperclassman at the Magic University. Later became the pope of the Millis Church. He is said to have protected Rudeus, who was often in some trouble or other with the Millis Church. Rudeus reportedly relied on him and is believed to have said with conviction that &quot;I wouldn&#x27;t be here if it weren&#x27;t for Cliff.&quot;</p>
 <p>SILENT SEVENSTAR: upperclassman at the Magic University. Also known as the Witch Nanahoshi. She set up teleportation circles in nations throughout the world and collaborated with Rudeus to develop and bring about many revolutionary inventions.</p>
-<p>ARIEL ANEMOI ASURA: Queen of the Asura Kingdom. According to the <em>Chronicle of the Asura Kingdom</em>, right before her death, she told her trusted retainer Luke that, &quot;it is largely thanks to Rudeus&#x27;s efforts that the Asura Kingdom is at peace today. Be sure not to make an enemy of him after my death.&quot;</p>
+<p>ARIEL ANEMOI ASURA: Queen of the Asura Kingdom. According to the Chronicle of the Asura Kingdom, right before her death, she told her trusted retainer Luke that, &quot;it is largely thanks to Rudeus&#x27;s efforts that the Asura Kingdom is at peace today. Be sure not to make an enemy of him after my death.&quot;</p>
 <p>ALEXANDER K. RYBAK: North God Kalman III. Originally number seven of the Seven Great Powers. The &quot;left hand of the Dragon God.&quot; After Rudeus stepped down from the center stage, Alexander is believed to have gone around the nations of the world as the Dragon God&#x27;s representative in his stead.</p>
 <p>LINIANA DEDOLDIA:Leader of Ruquag&#x27;s Mercenary Band. As the leader of her beastfolk tribe, she is believed to have served as an intermediary between Rudeus and the beastfolk.</p>
 <p>PURSENA ADOLDIA: Second-in-command of Ruquag&#x27;s Mercenary Band. Like Liliana, as leader of a beastfolk tribe, she is believed to have served as an intermediary between Rudeus and the beastfolk.</p>
 <p>PERUGIUS DOLA:The Armored Dragon King, one of the Three Godslayers. A prominent figure in the Asura Kingdom and Silent Sevenstar&#x27;s mentor. There are frequent references to Rudeus in The Chronicle of the Asura Kingdom, but the nature of his relationship with Rudeus is unknown.</p>
 <p>ORSTED:The Dragon God. Number two of the Seven Great Powers. Though Rudeus&#x27;s covert activities are assumed to have been in service to Orsted&#x27;s goals, details of these activities are unknown. Orsted very rarely appeared center stage, but he attended Rudeus&#x27;s funeral and allegedly was with the family to witness Rudeus&#x27;s death.</p>
 <p><strong>Bibliography</strong></p>
-<p>The Royal Asura Historiographical Institute. <em>The Chronicle of the Asura Kingdom</em>. The Asura Kingdom, 480.</p>
-<p>Greyrat, Norn. <em>The Superd&#x27;s Adventure</em>. Zanoba Figurine Company, 427.</p>
-<p>Greyrat, Norn. <em>Aisha Greyrat: The Agonies of Genius.</em> Ruquag&#x27;s Mercenary Band, 455.</p>
-<p>Greyrat, Norn. <em>The Adventures of Rudeus the Great Magician</em>. Zanoba Figurine Company, 470.</p>
-<p>Greyrat, Norn. <em>Surrounded by Genius: an Autobiography of a Mediocrity</em>. Zanoba Figurine Company, 482.</p>
-<p>The Millis Church Archival Division. <em>Millis Church Minutes.</em> Millis Church, 460.</p>
-<p>The Royal Biheiril Historiographical Institute. <em>The History of the Biheiril Kingdom 420-430.</em> The Biheiril Kingdom, 433.</p>
-<p>Dedoldia, Liniana. <em>Activity Log of Ruquag&#x27;s Mercenary Band.</em> Ruquag&#x27;s Mercenary Band, 456.</p>
-<p>Juliette. <em>Zanoba Figurine Company Executive Committee Minutes.</em> 477.</p>
-<p>Silent Sevenstar. <em>Textbook of Magic: New Edition.</em> 442.</p>
-<p>Bradicant. <em>Great Figures and Heroes of the World.</em> Publisher unknown, 480.</p>
+<p>The Royal Asura Historiographical Institute. The Chronicle of the Asura Kingdom. The Asura Kingdom, 480.</p>
+<p>Greyrat, Norn. The Superd&#x27;s Adventure. Zanoba Figurine Company, 427.</p>
+<p>Greyrat, Norn. Aisha Greyrat: The Agonies of Genius. Ruquag&#x27;s Mercenary Band, 455.</p>
+<p>Greyrat, Norn. The Adventures of Rudeus the Great Magician. Zanoba Figurine Company, 470.</p>
+<p>Greyrat, Norn. Surrounded by Genius: an Autobiography of a Mediocrity. Zanoba Figurine Company, 482.</p>
+<p>The Millis Church Archival Division. Millis Church Minutes. Millis Church, 460.</p>
+<p>The Royal Biheiril Historiographical Institute. The History of the Biheiril Kingdom 420-430. The Biheiril Kingdom, 433.</p>
+<p>Dedoldia, Liniana. Activity Log of Ruquag&#x27;s Mercenary Band. Ruquag&#x27;s Mercenary Band, 456.</p>
+<p>Juliette. Zanoba Figurine Company Executive Committee Minutes. 477.</p>
+<p>Silent Sevenstar. Textbook of Magic: New Edition. 442.</p>
+<p>Bradicant. Great Figures and Heroes of the World. Publisher unknown, 480.</p>
 <p>&gt; —Recorded by Deputy Head Archivist Clule Elrond of the Royal Asuran Archive</p>

@@ -33,7 +33,7 @@ nav_title = "Chapter 7"
 <p>I had no idea what he meant, but I had no interest in accepting any reward. I hadn&#x27;t fallen so far that I would sell out Kishirika for compensation. Speaking of, said Demon Emperor was currently bound in so much rope she resembled a caterpillar as she lay there</p>
 <p>on the floor. She would be punished later. I didn&#x27;t know what they had in mind—a spanking? Toilet cleaning duty?—but surely it wouldn&#x27;t be too severe.</p>
 <p>That aside, I couldn&#x27;t let my guard down. We were meeting a demon king, after all. The only high-ranking demons I knew were Kishirika and Badigadi.</p>
-<p><em>The two of them are always so happy-go-lucky, but I bet if you pissed them off…huh, weird. I get the feeling it wouldn&#x27;t be that bad, actually.</em></p>
+<p>The two of them are always so happy-go-lucky, but I bet if you pissed them off…huh, weird. I get the feeling it wouldn&#x27;t be that bad, actually.</p>
 <p>&quot;Move it.&quot;</p>
 <p>A voice sounded behind me. I glanced over my shoulder and saw a woman. Of everyone I&#x27;d met, she looked the most like your stereotypical demon. Her skin was a bluish-black, her hair white, and her eyes blood red. She had wings like a bat, and a single, thick horn protruded from her head. Like the knights, she also wore black armor, although it was clear that hers had seen far more battle than theirs had. It was covered in scratches, and any decorative elements had long been ripped off. An enormous sword hung at her waist, one that looked far too large for her scrawny arms. Its sheath was far more extravagant than the other soldiers.&#x27; She wasn&#x27;t that tall, probably average height for an adult female. Taller than Ariel, but shorter than me.</p>
 <p>The most noteworthy thing about her was something else altogether. There was an aura of indescribable rage and hostility about her. If violence were a scent, she would wear it like a perfume, for it was obvious that she would use force on anyone who tried to disobey her. That reminded me of Eris. She was like a female knight—no, a knight captain, to be more accurate. It would be wise not to provoke her.</p>
@@ -52,11 +52,11 @@ nav_title = "Chapter 7"
 <p>The old knight captain drew his sword to parry her attack, but he wasn&#x27;t quick enough. His helmet went flying as he collapsed backward. The other knights in the room rushed toward him in a panic.</p>
 <p>&quot;Stop hollering in front of our guests,&quot; snapped Atofe. &quot;My old man would be rolling in his grave!&quot;</p>
 <p>The knight captain&#x27;s helmet came rolling toward me. It was cracked right down the middle.</p>
-<p><em>What incredible power.</em></p>
+<p>What incredible power.</p>
 <p>I bent down to pick it up, and found the inside coated in wet, sticky blood. &quot;Ugh!&quot;</p>
-<p><em>Wait, hold on. That means her attack actually connected with his head. Uh… Seriously? Did she actually kill him?</em></p>
+<p>Wait, hold on. That means her attack actually connected with his head. Uh… Seriously? Did she actually kill him?</p>
 <p>&quot;Very well, but I still implore you to be mindful.&quot; Despite my concerns, the old knight captain peeled himself off the floor as if he was completely fine. He bowed to Atofe, wisps of smoke rising from his forehead.</p>
-<p><em>Looks like he&#x27;s okay.</em></p>
+<p>Looks like he&#x27;s okay.</p>
 <p>Maybe he was immortal too. In fact, maybe the rest of the guards were all immortal.</p>
 <p>&quot;Glad you get it now. All right, let&#x27;s do this thing over again.&quot;</p>
 <p>&quot;As you command!&quot;</p>
@@ -66,23 +66,23 @@ nav_title = "Chapter 7"
 <p>&quot;First, allow me to thank you. We were able to catch this idiot thanks to you.&quot; Atofe turned her gaze toward Kishirika.</p>
 <p>Our demon emperor was rolled up like a burrito. She looked resigned, as if she&#x27;d completely given up hope. I almost felt bad for her. We&#x27;d essentially spat on her after she helped us and gave us the answers we sought. Still, it was a necessary evil. We had our own objectives to fulfill.</p>
 <p>&quot;We had no references for her, so our search for it dragged on. You did well to find her for us.&quot;</p>
-<p><em>Ah, so it was just as I suspected. Lady Atofe was loose with the details when she had that sketch made.</em></p>
+<p>Ah, so it was just as I suspected. Lady Atofe was loose with the details when she had that sketch made.</p>
 <p>&quot;Also…&quot; Atofe continued posing as she stared off into the distance. Her voice trailed off, and she remained completely silent. Five minutes passed with her frozen in place like that.</p>
-<p><em>Uh, did her engine give out or something?</em></p>
+<p>Uh, did her engine give out or something?</p>
 <p>&quot;Moore, what was it I was supposed to say next?&quot;</p>
 <p>&quot;A reward. You were going to give them a reward.&quot;</p>
-<p>Apparently, the old knight captain&#x27;s name was Moore. Something about that name made me picture a guy smiling maniacally. Like <em>moo-hoo-ha-ha.</em></p>
+<p>Apparently, the old knight captain&#x27;s name was Moore. Something about that name made me picture a guy smiling maniacally. Like moo-hoo-ha-ha.</p>
 <p>&quot;Hm, yes. I do need to give them a reward,&quot; Atofe mumbled to herself.</p>
 <p>&quot;No, that&#x27;s not necessary.&quot; I recited the line I&#x27;d mentally prepared after Moore&#x27;s advice. I assumed this was a formality. That was probably why he suggested I turn her down.</p>
 <p>Atofe stomped her foot. &quot;Are you saying you don&#x27;t want my reward?&quot; She glared at me, her eyes murderous.</p>
 <p>My legs began quaking. The enmity she exuded was no joke. It was on a completely different level from Linia&#x27;s and Pursena&#x27;s. It was the same animosity in Ruijerd&#x27;s eyes when he glared at me.</p>
 <p>&quot;N-no, I&#x27;d be happy to receive your reward.&quot;</p>
 <p>It was better not to defy someone like her. If she wanted to insist on giving us something, it was better to just take it.</p>
-<p><em>Yep, that&#x27;s all I can do.</em> Moore had advised against this, but if the alternative was to intentionally piss her off, it was probably better to give in.</p>
+<p>Yep, that&#x27;s all I can do. Moore had advised against this, but if the alternative was to intentionally piss her off, it was probably better to give in.</p>
 <p>I cleared my throat and asked, &quot;If you don&#x27;t mind me asking, what is it you intend to give us?&quot;</p>
 <p>Atofe&#x27;s eyes narrowed, a satisfied grin stretching across her face. &quot;Power.&quot;</p>
 <p>Power, huh? Power… Well, I would be lying if I said I didn&#x27;t want that. If that was what she was offering, it was worth taking.</p>
-<p><em>Okay, but Mister Moore told us we were better off not accepting it. Maybe I should just call the whole thing off and tell her he already agreed to give us some of those leaves in the castle&#x27;s basement so we&#x27;ll just take that and go home.</em></p>
+<p>Okay, but Mister Moore told us we were better off not accepting it. Maybe I should just call the whole thing off and tell her he already agreed to give us some of those leaves in the castle&#x27;s basement so we&#x27;ll just take that and go home.</p>
 <p>&quot;I grant you the privilege of joining my personal guard so that you can train your bodies!&quot;</p>
 <p>&quot;You what?!&quot;</p>
 <p>Huh? So she wasn&#x27;t going to just put her hand to my head and awaken some latent power in me, or grant me a demon eye like Kishirika had?</p>
@@ -90,9 +90,9 @@ nav_title = "Chapter 7"
 <p>&quot;Um, uh…&quot;</p>
 <p>&quot;That&#x27;s right, for a whole decade I will go without rest to help you temper your body. Well, what do you think? It&#x27;s a great honor, isn&#x27;t it?&quot;</p>
 <p>Ten years without any breaks?</p>
-<p><em>Uh, no, I&#x27;ve got two wives and a kid waiting for me back home, so I&#x27;d like to pass on the whole bootcamp thing if it&#x27;s all the same to you.</em></p>
+<p>Uh, no, I&#x27;ve got two wives and a kid waiting for me back home, so I&#x27;d like to pass on the whole bootcamp thing if it&#x27;s all the same to you.</p>
 <p>Sure, ten years of training surely would make me a lot stronger, but what would be the point if I had to abandon everything to do it? What would be the purpose of getting that strong? Who was I aiming to defeat? Okay, maybe I could protect my loved ones better if I were stronger, but was that worth abandoning them for a decade?</p>
-<p><em>So what do I do? No, I mean, I have no choice but to turn her down. I can&#x27;t join her personal guard.</em></p>
+<p>So what do I do? No, I mean, I have no choice but to turn her down. I can&#x27;t join her personal guard.</p>
 <p>I glanced at Moore. He shook his head, a look of resignation on his face.</p>
 <p>&quot;I&#x27;m sorry, but as great of an honor as that is, I will have to abstain.&quot;</p>
 <p>&quot;Nonsense! Now, someone, go bring him an extra suit of black armor and prepare a contract for him to sign!&quot;</p>
@@ -107,22 +107,22 @@ nav_title = "Chapter 7"
 <p>&quot;And?&quot; Veins were twitching in her forehead. She was starting to lose her temper.</p>
 <p>&quot;And I have a sick friend waiting for me. I need to find a cure for her as soon as possible and get back home. Besides, I have so many other things to do right now. I can&#x27;t just stay here and hoard power for myself—&quot;</p>
 <p>&quot;Shut up!&quot; Atofe snapped so loudly it echoed against the walls.</p>
-<p><em>Oh, boy, that was mildly terrifying. Okay, no, it was just plain terrifying. What&#x27;s wrong with her? What is she yelling at me for?</em></p>
+<p>Oh, boy, that was mildly terrifying. Okay, no, it was just plain terrifying. What&#x27;s wrong with her? What is she yelling at me for?</p>
 <p>&quot;Are you going to enter my personal guard or not?! Quit playing word games and answer!&quot;</p>
 <p>&quot;I-I&#x27;m not going to!&quot;</p>
 <p>She froze in place. Her entire face turned red as her expression contorted. &quot;Why?! Why would you refuse me?!&quot;</p>
 <p>Huh? Uh, didn&#x27;t I literally list all the reasons?</p>
 <p>&quot;Uh, um…&quot;</p>
 <p>Now was a good time to leave things to Zanoba. Or at least that was my plan, but I looked over at him, and he practically had question marks dancing above his head as he stared quizzically back at me.</p>
-<p><em>Ah, crap, that&#x27;s right. We were speaking in Demon Tongue the whole time. He had no idea what we were saying. I can&#x27;t rely on him.</em></p>
-<p>So what <em>was</em> I supposed to do? How was I going to convince her to give up?</p>
+<p>Ah, crap, that&#x27;s right. We were speaking in Demon Tongue the whole time. He had no idea what we were saying. I can&#x27;t rely on him.</p>
+<p>So what was I supposed to do? How was I going to convince her to give up?</p>
 <p>The knights had been in high spirits moments ago, but after my exchange with Atofe, the atmosphere turned hostile and tense. It was like they were a sports team who had come to play on their opponent&#x27;s home turf.</p>
 <p>&quot;I told you,&quot; Kishirika blurted. &quot;She&#x27;s a complete imbecile. You&#x27;re better off not getting involved with her. You can&#x27;t even have a proper conversation with her!&quot;</p>
 <p>&quot;Shut up! I&#x27;m not an imbecile!&quot; Atofe abruptly shouted, drawing her sword. &quot;Now I get it. You&#x27;re making fun of me! That&#x27;s why you said you wouldn&#x27;t accept my reward. You think I&#x27;m stupid, so you&#x27;re mocking me!&quot; She strode furiously toward us.</p>
-<p><em>Uh, what? Hey, hold up!</em></p>
+<p>Uh, what? Hey, hold up!</p>
 <p>&quot;Lady Atofe, please try to calm down! You&#x27;ll break something inside the castle if you keep swinging that thing around!&quot;</p>
 <p>&quot;I&#x27;m not an idiot, okay? I&#x27;m not!&quot; She brandished her sword, face contorted in anger, as she stormed toward us. Her guards tried to head her off and stop her. &quot;Move it!&quot; Atofe shoved them aside and came charging at us like a bull.</p>
-<p><em>Oh, crap. Oh, crap! Should I use my magic?! No, I might make things worse if I attack her.</em></p>
+<p>Oh, crap. Oh, crap! Should I use my magic?! No, I might make things worse if I attack her.</p>
 <p>&quot;I&#x27;ll handle this,&quot; Zanoba said. He got up and stood in front of me. &quot;Hmph!&quot; He grabbed Atofe&#x27;s arms as she lunged at us. She tried to kick him out of the way, but he did not budge, as you might expect with a Blessed Child&#x27;s power.</p>
 <p>&quot;Hm, you are pretty strong!&quot; Her eyes widened with intrigue as she stared at Zanoba, a smile curving across her lips.</p>
 <p>Oblivious to what she was saying since he didn&#x27;t speak the language, Zanoba berated her. &quot;Calm yourself! We mean you no offense. We only want the grass you have in your basement.&quot;</p>
@@ -155,9 +155,9 @@ nav_title = "Chapter 7"
 <p>&quot;I can&#x27;t believe it.&quot;</p>
 <p>Twenty or so of the black armored guards crowded us, muttering amongst themselves. I was sure they weren&#x27;t going to let us leave after what we did to their master.</p>
 <p>&quot;Khh.&quot; I lifted my staff, ready to take them on. This was my fault. If only I had listened to Moore&#x27;s warning, this never would have…</p>
-<p>Wait, was I really at fault here? <em>I kinda don&#x27;t think I am, actually.</em></p>
+<p>Wait, was I really at fault here? I kinda don&#x27;t think I am, actually.</p>
 <p>I couldn&#x27;t have known she would react like this, and even if I had turned her down from the beginning, the result would have probably been the same.</p>
-<p><em>Anyway, I can save the blame game for later. Right now I have to figure out how to get out of this situation.</em></p>
+<p>Anyway, I can save the blame game for later. Right now I have to figure out how to get out of this situation.</p>
 <p>And yet, as worrying as it was to have these knights surround us, they didn&#x27;t draw their swords. They merely stared at us.</p>
 <p>Zanoba held up his empty fists. Perhaps I should have conjured a weapon for him before we got here. Now I didn&#x27;t have the time. Perhaps there was a log somewhere in in all the debris from the broken wall.</p>
 <p>&quot;You two…&quot; Moore strode over, acting as their representative. He was speaking in Demon Tongue this time. &quot;I must ask you again, on behalf of my lady, are you sure you don&#x27;t want to join us?&quot;</p>
@@ -176,7 +176,7 @@ nav_title = "Chapter 7"
 <p>Breaking that into smaller numbers meant it was essentially one day off every five days. But why did that feel so underwhelming?</p>
 <p>&quot;The majority of her guard are here because they want to be, but there are many who were forcibly conscripted. In particular, many of the humans among us lament their fate. Even we feel sympathy for them.&quot;</p>
 <p>Several knights lowered their gazes. Apparently, many of them had faced our dilemma and been forced into a contract with Atofe. She called it a reward, but it was basically a contract of slavery.</p>
-<p><em>So that&#x27;s why he said not to accept her reward. I wish he had given me more details beforehand.</em></p>
+<p>So that&#x27;s why he said not to accept her reward. I wish he had given me more details beforehand.</p>
 <p>No, it was my fault for not asking for clarification. There I was thinking we couldn&#x27;t let our guard down, and it was me who did, in the end.</p>
 <p>&quot;S-so…&quot; I licked my lips. &quot;What happens if we win this duel?&quot;</p>
 <p>&quot;Oh, you really think you can win? In the past 5,000 years, not a single person has beaten our master outside of North God Kalman and Demon God Laplace. You really think you can best her?&quot;</p>
@@ -195,7 +195,7 @@ nav_title = "Chapter 7"
 <p>&quot;You don&#x27;t mind if I take Lady Kishirika with me, do you?&quot;</p>
 <p>&quot;…Well, our job was only to catch her the first time, so go ahead.&quot;</p>
 <p>So they were willing to turn a blind eye. Atofe hadn&#x27;t given them any new orders since they fulfilled the first one. I wondered if they would get punished for this.</p>
-<p><em>Oh, well, not my problem.</em></p>
+<p>Oh, well, not my problem.</p>
 <p>I used my magic to burn through the ropes binding Kishirika and released her.</p>
 <p>&quot;Ahh, much appreciated. You have my gratitude!&quot;</p>
 <p>After that, we fled the throne room.</p>
@@ -214,14 +214,14 @@ nav_title = "Chapter 7"
 <p>&quot;I thought about not saying anything to pay you back for betraying me,&quot; said Kishirika, &quot;but Badi destroyed that tunnel during Laplace&#x27;s War.&quot;</p>
 <p>&quot;Indeed. That man you spoke with is a turncoat. Moore is Atofe&#x27;s right-hand man, after all. He spews nothing but lies so he can rig things in Atofe&#x27;s favor. Despite what he said, he probably started plotting against you the moment you fought her.&quot;</p>
 <p>I didn&#x27;t fully trust anything she said, but she was likely right. He might have deceived us, intending to corner us when we discovered the underground tunnel was a dead end.</p>
-<p><em>Moore, you bastard… I can&#x27;t believe you betrayed us.</em></p>
-<p>But hold on, even if he <em>had</em> deceived us, at least he didn&#x27;t attack us while we were in the throne room. And although Atofe seemed to bully him as well, that didn&#x27;t automatically mean he was on our side. Plus he had provided the grass we needed a memo with instructions, so he wasn&#x27;t entirely bad. Maybe we were the ones at fault for spurning his good intentions and straining his relationship with Atofe. I should have just handed Kishirika over, flat out turned down her offer, and hurried back home. Maybe that would have soured my relationship with Atofe, but I would have taken that over what we were currently facing.</p>
+<p>Moore, you bastard… I can&#x27;t believe you betrayed us.</p>
+<p>But hold on, even if he had deceived us, at least he didn&#x27;t attack us while we were in the throne room. And although Atofe seemed to bully him as well, that didn&#x27;t automatically mean he was on our side. Plus he had provided the grass we needed a memo with instructions, so he wasn&#x27;t entirely bad. Maybe we were the ones at fault for spurning his good intentions and straining his relationship with Atofe. I should have just handed Kishirika over, flat out turned down her offer, and hurried back home. Maybe that would have soured my relationship with Atofe, but I would have taken that over what we were currently facing.</p>
 <p>&quot;If he really is as shifty as you claim, wouldn&#x27;t it have been better for him to capture us back in the throne room?&quot; I asked.</p>
 <p>&quot;This is Atofe we are talking about. She likes to chase her prey and corner them herself.&quot;</p>
-<p><em>Makes sense. So he&#x27;s setting things up for her.</em> That kind of finesse was probably important for a man in his position, serving a demon king like Atofe. Although I wondered if the other knights knew about his ulterior motives.</p>
+<p>Makes sense. So he&#x27;s setting things up for her. That kind of finesse was probably important for a man in his position, serving a demon king like Atofe. Although I wondered if the other knights knew about his ulterior motives.</p>
 <p>&quot;So what you&#x27;re saying is we should make our escape aboveground, right?&quot;</p>
 <p>&quot;Indeed. The rest of her guard should be busy with inspections right now.&quot;</p>
-<p><em>That&#x27;s right—they were conducting an inspection near the entrance when we came in.</em> Atofe&#x27;s entire personal guard would be gathered inside the castle right now, meaning the entrance was unguarded.</p>
+<p>That&#x27;s right—they were conducting an inspection near the entrance when we came in. Atofe&#x27;s entire personal guard would be gathered inside the castle right now, meaning the entrance was unguarded.</p>
 <p>&quot;But considering they let us take you, maybe they figured you would give us this information and lead us aboveground. Or perhaps, unbeknownst to you, they&#x27;ve actually repaired that underground tunnel.&quot;</p>
 <p>&quot;If you&#x27;re overthinking it that much, then it doesn&#x27;t really matter which way you pick, does it?&quot;</p>
 <p>True, it was a gamble either way, guessing which route the enemy would use to pursue us.</p>
@@ -231,16 +231,16 @@ nav_title = "Chapter 7"
 <p>&quot;Enclosed spaces are easier for me to fight in.&quot;</p>
 <p>&quot;And Cliff?&quot;</p>
 <p>&quot;I-I&#x27;d also go aboveground. I don&#x27;t like dark places.&quot;</p>
-<p><em>Awesome, we&#x27;ll go with the majority vote then.</em></p>
+<p>Awesome, we&#x27;ll go with the majority vote then.</p>
 <p>&quot;Okay, aboveground it is,&quot; I declared. &quot;Miss Elinalise, you take the front and lead us straight to the teleportation circle. Zanoba and Cliff will follow right behind you, and I&#x27;ll bring up the rear. Zanoba and I can carry all the luggage.&quot;</p>
 <p>I took the backpack and plants from Elinalise. It was better for Zanoba and I to carry these things. It was okay if I was burdened because I could just use magic, and Zanoba&#x27;s superhuman strength allowed him to bear a heavy load with ease.</p>
 <p>&quot;As for you, Your Majesty, Zanoba is carrying all that luggage anyway, so why don&#x27;t you sit on him?&quot;</p>
 <p>&quot;Very well!&quot; She obediently perched on his shoulder.</p>
-<p><em>That was supposed to be a joke… But whatever, that&#x27;s the safest place for her to be anyway.</em></p>
+<p>That was supposed to be a joke… But whatever, that&#x27;s the safest place for her to be anyway.</p>
 <p>&quot;All right, off we go!&quot;</p>
 <p>We ran for the castle exit. As soon as we slipped out of it, an angry voice erupted in the distance.</p>
 <p>&quot;Moooooore! After theeeeem!&quot;</p>
-<p><em>If I wasn&#x27;t scared before, I sure am now.</em></p>
+<p>If I wasn&#x27;t scared before, I sure am now.</p>
 <p>***</p>
 <p>Darkness hung over the town as we scrambled down the main thoroughfare. As much as I wanted to melt into the shadows, the whole area was too well-lit. Light pouring from the crater&#x27;s walls shone down on us.</p>
 <p>Picking the aboveground route had been the right choice. There wasn&#x27;t a single black armored soldier in sight, and none chasing us. Kishirika had been right on the money. Right now, the guards were probably preoccupied searching the underground tunnels.</p>
@@ -257,12 +257,12 @@ nav_title = "Chapter 7"
 <p>&quot;Hmph. You took your time getting here.&quot;</p>
 <p>Above us on the slope, right at the entrance to the teleportation circle, stood Atofe. She was joined by no less than ten of her guard. At that moment I noticed the hole in the ground near the entrance to our magic circle. Perhaps that was the exit to the tunnel that ran under the castle.</p>
 <p>&quot;Moore never fails to impress. It was just as he said. I&#x27;ll be sure to praise him later,&quot; Atofe mumbled to herself.</p>
-<p><em>He read our movements?</em></p>
+<p>He read our movements?</p>
 <p>No, that wasn&#x27;t it. They managed to head us off. It wasn&#x27;t our movements they had read, but our destination.</p>
 <p>&quot;W-well, you sure did get here awfully fast, didn&#x27;t you?&quot; I said awkwardly.</p>
 <p>&quot;Hmph. Flying here was simple. I could see you and your comrades easily from the sky.&quot; As she answered, her wings twitched behind her. &quot;It looks like Moore caught up as well.&quot;</p>
 <p>I glanced over my shoulder and a band of black armored knights were making their way toward us. They must have looped around the edge of the crater as well. While Atofe made her way here from the sky, ten of her guards had taken the underground passage, and the rest pursued us aboveground.</p>
-<p><em>So they used every route at their disposal to chase us down.</em></p>
+<p>So they used every route at their disposal to chase us down.</p>
 <p>It was obvious when you thought about it. They weren&#x27;t Inspector Zenigata, so they had to split up this way. If they knew our destination, they had every reason to check every possible escape route.</p>
 <p>Guards fanned out behind us. We were surrounded. There was nowhere for us to run. Our only way out was sealed off.</p>
 <p>&quot;Moore, you did a splendid job. Everything went the way you said it would,&quot; said Atofe.</p>
@@ -271,5 +271,5 @@ nav_title = "Chapter 7"
 <p>The demon king stepped toward us and unsheathed her own weapon. As she towered above us on the slope, she pointed her</p>
 <p>blade at me and said, &quot;Fwahahaha! I am Immortal Demon King Atoferatofe Rybak! If you best me, I will declare you a hero! If you lose, you will be my puppet until the day you breathe your last!&quot;</p>
 <p>The smile on her face was savage, and a stifling aura of bloodlust wafted off her. Despite being shorter than me, she looked like a five-meter-tall titan right now.</p>
-<p><em>Sorry, Sylphie. I might not be able to make it back home after all.</em></p>
+<p>Sorry, Sylphie. I might not be able to make it back home after all.</p>
 <p><strong>Chapter 8: Showdown with the Immortal Demon King</strong></p>

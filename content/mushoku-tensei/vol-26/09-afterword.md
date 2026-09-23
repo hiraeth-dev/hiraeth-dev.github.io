@@ -12,7 +12,7 @@ nav_title = "Afterword"
 <p>I wrote it all in Japanese, so theoretically, no one in this world should be able to read it. Still, someone with too much free time might decode it, and after I die, someone else who came from the same world as me might read it.</p>
 <p>…I&#x27;d feel pretty bad if someone actually put all the effort into decoding these when there&#x27;s nothing all that important written in them. But I mean, that&#x27;s just what diaries are like, right?</p>
 <p>Whatever purpose someone decodes it for, it won&#x27;t go out into the world until after I&#x27;m dead. I&#x27;d like to record for later generations that Dragon God Orsted wasn&#x27;t a bad person.</p>
-<p>And then there&#x27;s that <em>other</em> thing…</p>
+<p>And then there&#x27;s that other thing…</p>
 <p>Okay, so as I&#x27;ve written a few times in these diaries, I&#x27;m not originally from this world. I died in another world and was reborn here. I&#x27;ve decided not to write my name from my previous life. If the person reading this knew the person I was in my old world, they might get the wrong idea. Still, I might have a previous life, but aside from that I&#x27;m not actually special. If you&#x27;ve decoded this diary and are reading it, you&#x27;ll know that I lived an ordinary life in this world. I didn&#x27;t choose to be reborn, and in the end, I never found out what caused it. No big deal.</p>
 <p>I just lived the best life I could—so that if I died the next day, I&#x27;d have no regrets. That&#x27;s what&#x27;s important.</p>
 <p>You may scoff at that, whoever it is who&#x27;s reading this diary. Maybe you&#x27;re thinking, &quot;He was just lucky with where he was born,&quot; or, &quot;Easy for this guy to say when he was blessed with talent.&quot; Or maybe you&#x27;ve seen my portrait, so you put it down to my pretty face…</p>
@@ -43,6 +43,6 @@ nav_title = "Afterword"
 <p>Huh. I suppose if that much time has passed, you might be a historian. If so, I hope you&#x27;ll reference this extensively as an example of an ordinary family in this period. Only, I did use my knowledge from my past life to reinvent some uncommon gadgets, so don&#x27;t rely on it too much.</p>
 <p>And yeah…one more thing. Just in case whoever&#x27;s reading this is someone from the same world as me. If, unlike me, you want to go home… I&#x27;ll give you a piece of advice.</p>
 <p>&quot;There is a way to return to your old world. Follow in the footsteps of Silent Sevenstar.&quot;</p>
-<p>Oh yeah, and if you ever dream of a white space with some pixelated asshole giving you advice, <em>hard</em> pass. He&#x27;s a liar, got it?</p>
+<p>Oh yeah, and if you ever dream of a white space with some pixelated asshole giving you advice, hard pass. He&#x27;s a liar, got it?</p>
 <p>Rudeus, over and out.</p>
 <p><strong>Epilogue: Prologue Zero</strong></p>

@@ -10,7 +10,7 @@ nav_title = "Chapter 2"
 <p><strong>T</strong>he next morning, I dutifully headed over to the northern gate of the city. I wasn&#x27;t feeling too enthusiastic about this expedition, but my body moved along on autopilot. I&#x27;d actually gathered some information on the Luster Grizzlies and this Lake Cucuru place before I went to bed. The habits I&#x27;d picked up on the Demon Continent must have kicked in.</p>
 <p>I looked around the dark, quiet streets. Suzanne hadn&#x27;t specified an exact time to meet, so I&#x27;d showed up as early as I could. It didn&#x27;t look like they were here yet. It was hard to say without any clocks around, but it was probably around four in the morning. Maybe they were still asleep.</p>
 <p>Honestly, I hadn&#x27;t gotten that much rest last night. It was cold here, for one thing. And I might have been a little nervous about teaming up with a group of people I didn&#x27;t know too well. &quot;They&#x27;re taking their time…&quot;</p>
-<p>When adventurers set off on a job, the general rule was that you met up first thing in the morning. Maybe I&#x27;d come <em>too</em> early this time, but it beat showing up late. The last thing I needed was to get left behind and end up moping around by myself all day.</p>
+<p>When adventurers set off on a job, the general rule was that you met up first thing in the morning. Maybe I&#x27;d come too early this time, but it beat showing up late. The last thing I needed was to get left behind and end up moping around by myself all day.</p>
 <p>It wasn&#x27;t like I was the only one out here, either. There was another party hanging around near the gate as well. They seemed to be waiting on one last straggler.</p>
 <p>Still, it was possible that I&#x27;d gotten the wrong idea at some point. Maybe they wouldn&#x27;t be coming until noon? It might make sense to leave later if you decided to arrive at your destination at a specific time. But then again, I told them which inn I was staying at. If they&#x27;d worked out a different departure time, wouldn&#x27;t they have gotten in touch with me?</p>
 <p>&quot;Oh.&quot; Just as my thoughts were starting to spin in circles, I spotted a small group of people walking toward me through the morning mist.</p>
@@ -26,7 +26,7 @@ nav_title = "Chapter 2"
 <p>&quot;Nice to meet you.&quot;</p>
 <p>I got the feeling that Suzanne probably held the real power around here. It wasn&#x27;t necessarily a bad thing to have someone a rung below the top calling the shots, though. I mean, aren&#x27;t you supposed to put the lazy, stupid people in command or something? Not that I was calling this guy a moron, of course…</p>
 <p>Also, a strict chain of command can be kind of fragile. Once someone disobeys a single order, the whole thing just falls apart. But with a setup like this, Timothy could conceivably step in to override Suzanne if things got dicey. Or maybe Timothy decided their general strategy, and Suzanne just took care of all the details? While she put their plans into action, he could keep an eye on the big picture and course-correct if they got too far off track.</p>
-<p>In any case, the two of them had clearly found some way to work together smoothly. <em>One hell of a difference from me and Eris… Sniffle…</em></p>
+<p>In any case, the two of them had clearly found some way to work together smoothly. One hell of a difference from me and Eris… Sniffle…</p>
 <p>&quot;Huh?! Wh-what&#x27;s the matter?!&quot;</p>
 <p>&quot;Sorry. This just brought back some memories, that&#x27;s all.&quot;</p>
 <p>&quot;I see… My condolences, Rudeus. The leader of your former party must have been a wonderful person.&quot;</p>
@@ -41,7 +41,7 @@ nav_title = "Chapter 2"
 <p>Sara was notably younger than the other four members of her party. She was probably in her mid-teens—right on the verge of adulthood, by the standards of this world. I don&#x27;t know if it was her sharp expression, or the fact that her facial features were classically Asuran…but I felt like she kind of resembled Eris. At least a little.</p>
 <p>&quot;What? You have something to say?&quot;</p>
 <p>&quot;Sorry, no. It&#x27;s nothing…&quot; Her glare was getting even fiercer, so I averted my eyes.</p>
-<p>&quot;Just for your information, I&#x27;m not happy about this. I&#x27;m only putting up with you because Suzanne insisted, okay? If you screw up and get someone killed, I <em>promise</em> you&#x27;ll regret it.&quot;</p>
+<p>&quot;Just for your information, I&#x27;m not happy about this. I&#x27;m only putting up with you because Suzanne insisted, okay? If you screw up and get someone killed, I promise you&#x27;ll regret it.&quot;</p>
 <p>&quot;…Right.&quot;</p>
 <p>I didn&#x27;t bother trying to placate her. It was always better to get along with your teammates, of course. But it wasn&#x27;t like we&#x27;d be working together for very long. If she was going to be this hostile, I might as well just keep my distance.</p>
 <p>&quot;Cut it out, Sara.&quot;</p>
@@ -64,10 +64,10 @@ nav_title = "Chapter 2"
 <p>&quot;Okay then. Why don&#x27;t I help Timothy thin down their numbers after I slow them down?&quot;</p>
 <p>&quot;Magicians are supposed to keep some mana in reserve during longer battles, stupid! You just stop them in their tracks. That&#x27;s all we need from you!&quot;</p>
 <p>&quot;Uh…could I at least move forward once the enemy&#x27;s closed in on us, then?&quot;</p>
-<p>&quot;Do you <em>want</em> me to shoot you in the back, or what?&quot;</p>
+<p>&quot;Do you want me to shoot you in the back, or what?&quot;</p>
 <p>To be honest, it felt like I was fighting with my hands tied behind my back. If I joined the attack with Timothy, we could probably have wiped out most groups of monsters at long range, instead of letting them get in close enough to hurt the frontline fighters.</p>
 <p>Still, efficiency wasn&#x27;t everything. Sara was getting more practice this way, after all. I&#x27;d done something similar on the Demon Continent myself. And at the end of the day, I was only a temporary member of this party. I didn&#x27;t have much choice but to keep my mouth shut and try to learn their way of doing things. As long as I could think on my feet in an emergency, it did make sense to hold back instead of trying to do everything myself. Teamwork was a skill you had to build up through practice, after all.</p>
-<p>I wasn&#x27;t sure I <em>could</em> act quickly under pressure, though…</p>
+<p>I wasn&#x27;t sure I could act quickly under pressure, though…</p>
 <p>&quot;Look, you&#x27;re not really a member of this party, okay? Just do what you&#x27;re told and try not to make a nuisance of yourself.&quot;</p>
 <p>&quot;All right.&quot;</p>
 <p>Sara certainly didn&#x27;t seem very interested in learning to work with me, either. It sure felt like she hated my guts—maybe because I&#x27;d made such a lousy first impression. It wasn&#x27;t like I needed to make friends with her, but this open hostility brought back some memories that stung a little. When I first started as Eris&#x27; tutor, she treated me the same way for a while.</p>
@@ -92,13 +92,13 @@ nav_title = "Chapter 2"
 <p>&quot;…It hasn&#x27;t done me much good. I still lost everyone I cared about.&quot;</p>
 <p>&quot;Ah. Right. My apologies.&quot;</p>
 <p>Silent spellcasting was a helpful skill, of course, but knowing a few tricks like that didn&#x27;t make me special. What good was any of it if I couldn&#x27;t even keep a single girl happy?</p>
-<p><em>Well, I guess it might help me earn some name recognition, at least…</em> There was a chance I&#x27;d attract some unwanted attention. But Zenith knew I could cast spells silently, so it was probably worth advertising that fact.</p>
+<p>Well, I guess it might help me earn some name recognition, at least… There was a chance I&#x27;d attract some unwanted attention. But Zenith knew I could cast spells silently, so it was probably worth advertising that fact.</p>
 <p>&quot;Anyway, I&#x27;m sorry about all this, Rudeus.&quot;</p>
 <p>&quot;That&#x27;s all right…&quot;</p>
-<p>This was kind of interesting, though. Maybe the older members of the party <em>had</em> realized I was more capable than I looked, after all. I guess they&#x27;d learned how to size people up over the years. Those four were very good at fully utilizing every tool and resource at their disposal.</p>
+<p>This was kind of interesting, though. Maybe the older members of the party had realized I was more capable than I looked, after all. I guess they&#x27;d learned how to size people up over the years. Those four were very good at fully utilizing every tool and resource at their disposal.</p>
 <p>In terms of raw combat strength, they were probably comparable to highly skilled C-ranked adventurers. But through sheer efficiency and coordination, they got by just fine as a B-ranked party. Counter Arrow was more than the sum of its parts. They knew their own capabilities, and they divided tasks accordingly.</p>
 <p>That didn&#x27;t leave much room for anyone to mess around or experiment, though. When Sara told me to stick to my basic duties, they scolded her for her attitude, but didn&#x27;t actually contradict what she was saying. That was partially because they wanted her to get more practice, but it was also a reflection of their methodical, systematic approach.</p>
-<p>There was a downside there. Since we never experimented with anything other than their set strategies, they didn&#x27;t know exactly what I could and couldn&#x27;t do. That might lead to some serious problems, especially if they&#x27;d overestimated me. Timothy and the others had been keeping an eye on me, of course, but they were also trying to see how well they could deal with the monsters in this unfamiliar country. I could just <em>tell</em> them my own strengths and weaknesses, but they&#x27;d probably take my claims with a grain of salt.</p>
+<p>There was a downside there. Since we never experimented with anything other than their set strategies, they didn&#x27;t know exactly what I could and couldn&#x27;t do. That might lead to some serious problems, especially if they&#x27;d overestimated me. Timothy and the others had been keeping an eye on me, of course, but they were also trying to see how well they could deal with the monsters in this unfamiliar country. I could just tell them my own strengths and weaknesses, but they&#x27;d probably take my claims with a grain of salt.</p>
 <p>You had to wonder why they&#x27;d even brought me along, under the circumstances…but the &quot;sympathy&quot; thing was probably relevant there. People don&#x27;t always act in purely rational ways.</p>
 <p>&quot;It doesn&#x27;t really bother me.&quot; Right now, all I could really do was stick to my role as a Quagmire-casting robot and try not to overthink things.</p>
 <p>&quot;Thanks for being so understanding. We&#x27;ll be heading out once the sun sets, so try to get some rest until then.&quot;</p>
@@ -120,25 +120,25 @@ nav_title = "Chapter 2"
 <p>I wasn&#x27;t sure how quickly Luster Grizzlies could run, but we did have a positional advantage. I could slow their charge down with a well-placed Quagmire, and since we&#x27;d all gotten some rest beforehand, Timothy, Patrice, and Mimir had plenty of mana to work with.</p>
 <p>&quot;All right then,&quot; said Timothy. &quot;Let&#x27;s get started.&quot;</p>
 <p>Suddenly, everyone was laser-focused on the task at hand. Twenty Grizzlies did seem like a manageable number, but that was no reason to get overconfident. I clutched my staff tightly in my hands and stared intently into the darkness, just like the others.</p>
-<p>&quot;Let the vast and blessed flame converge at thy command! O raging fire, offer us a great and blazing gift! <em>Great Fireball!</em>&quot;</p>
+<p>&quot;Let the vast and blessed flame converge at thy command! O raging fire, offer us a great and blazing gift! Great Fireball!&quot;</p>
 <p>&quot;Quagmire!&quot;</p>
 <p>Just as Timothy finished the incantation for his intermediate-tier Fire spell, I transformed a large patch of ground into a thick, muddy bog. I tried to place it just inside Sara&#x27;s range of fire; if the Grizzlies were stopped in their tracks here, she&#x27;d be able to pick them off with ease.</p>
-<p>&quot;Let the vast and blessed flame converge at thy command! O raging fire, offer us a great and blazing gift! <em>Great Fireball!</em>&quot;</p>
+<p>&quot;Let the vast and blessed flame converge at thy command! O raging fire, offer us a great and blazing gift! Great Fireball!&quot;</p>
 <p>Timothy had already launched a second Great Fireball in quick succession. The thing had to be two meters in diameter, but it hurtled through the air with impressive speed. I watched as it struck one of the Grizzlies. Even from this distance, I could tell the monster had died instantly. I&#x27;d seen Timothy do this a number of times on our way up here, but his Great Fireball really was remarkably powerful, quick, and precise. You could tell he had a great deal of experience casting it.</p>
 <p>&quot;They&#x27;ve spotted us!&quot; One by one, the roaring, furious Luster Grizzlies began to run in our direction.</p>
 <p>Some of Timothy&#x27;s fireballs missed their targets now that the monsters were in motion, but he still managed to pick off quite a few of them as they drew closer. Everything was going smoothly so far. By the time they reached the spot where I&#x27;d placed my Quagmire, half the Grizzlies were dead. Since Sara would be taking more of them down from this point on, it seemed possible that we&#x27;d wipe the creatures out before they even got in close.</p>
-<p><em>Pretty easy for an A-ranked job, really…</em></p>
+<p>Pretty easy for an A-ranked job, really…</p>
 <p>…Or so I thought for a fraction of a second.</p>
 <p>&quot;Huh?!&quot;</p>
 <p>Just before the pack of Luster Grizzlies hit my Quagmire, one of Timothy&#x27;s fireballs briefly illuminated the area all around them. There were other shapes moving through the darkness. Many other shapes, off to the side of the bog that I&#x27;d created.</p>
 <p>Whatever they were, they were jet-black…and the same size as the Luster Grizzlies.</p>
-<p>&quot;What?! Are those <em>black</em> Grizzlies?!&quot; shouted Sara.</p>
+<p>&quot;What?! Are those black Grizzlies?!&quot; shouted Sara.</p>
 <p>When I heard those words, something clicked inside my mind.</p>
 <p>Those shapes were Luster Grizzlies, all right. They were just covered in mud. For all intents and purposes, they were wearing camouflage.</p>
 <p>Of course, it wasn&#x27;t mud from my Quagmire. There must have been another pack at the lake, sleeping in a boggy area not far from the group we&#x27;d spotted. When the pack next to them came under attack, they&#x27;d woken up and spotted us.</p>
 <p>&quot;There&#x27;s way too many of them!&quot;</p>
 <p>&quot;Retreat! Retreat!&quot; Flustered, Timothy shouted the order to fall back.</p>
-<p>It was an understandable reaction. This second pack was <em>huge</em>; there had to be more than sixty of them. And they were rushing right at us, faintly visible thanks to the small fires left behind by Timothy&#x27;s magic.</p>
+<p>It was an understandable reaction. This second pack was huge; there had to be more than sixty of them. And they were rushing right at us, faintly visible thanks to the small fires left behind by Timothy&#x27;s magic.</p>
 <p>I guess he&#x27;d made a snap judgment that we couldn&#x27;t hope to win this fight…but to be honest, it was a little late to be retreating now. Ideally, we would have noticed this pack before we attacked the other one, and decided not to risk this in the first place. It had been a serious mistake not to scout out the area during the daylight hours.</p>
 <p>&quot;We can&#x27;t fight them here!&quot; Suzanne shouted from somewhere in the darkness. &quot;Fall back to that place we found on the way!&quot;</p>
 <p>Earlier on, we&#x27;d found a natural chokepoint where we could lead the Grizzlies in case their numbers proved too much to handle. If we made it there and regrouped… But again, it was too late for that. To reach that chokepoint, we&#x27;d need far more distance between us and the monsters, and a huge Quagmire in their path to slow them down. We couldn&#x27;t hope to get away from a pack of Luster Grizzlies running at full tilt with no obstacles in their way.</p>
@@ -147,13 +147,13 @@ nav_title = "Chapter 2"
 <p>&quot;Tch! I&#x27;ll keep them busy! The rest of you make a run for it!&quot; &quot;Suzanne!&quot;</p>
 <p>Suzanne had stopped dead in her tracks. Sara spun around, her face pale and fearful. &quot;No! I&#x27;ll stay behind! This is my fault! I&#x27;m the one who didn&#x27;t notice them!&quot;</p>
 <p>&quot;You wouldn&#x27;t even slow them down, kid!&quot;</p>
-<p>&quot;Don&#x27;t be an idiot, Suzanne!&quot; said Patrice. &quot;There&#x27;s too many of them for <em>anyone</em> to hold off alone! If you&#x27;re not running, nobody is!&quot;</p>
+<p>&quot;Don&#x27;t be an idiot, Suzanne!&quot; said Patrice. &quot;There&#x27;s too many of them for anyone to hold off alone! If you&#x27;re not running, nobody is!&quot;</p>
 <p>&quot;All right! Let&#x27;s show &#x27;em what we&#x27;re made of!&quot; called Mimir.</p>
 <p>Abandoning the attempted retreat, everyone lifted their weapons and prepared to fight. The pack of Luster Grizzlies bore down on us with ferocious speed, loud and violent as an earthquake. Even in the darkness, it was a terrifying sight.</p>
 <p>Sara&#x27;s legs were trembling. She wasn&#x27;t the only one, either. Suzanne, Mimir, Patrice, and Timothy all looked like they were staring death straight in the face.</p>
 <p>But not a single one of them tried to flee.</p>
 <p>As I stared at the five of them, I felt my heart pounding in my chest. Was it because the Luster Grizzlies were closing in on us? No. Definitely not. That didn&#x27;t even feel important.</p>
-<p>For some reason, looking at them stirred something in me. My breath grew rough. I didn&#x27;t know what this emotion was exactly, but it was <em>intense</em>. Something about the way they were facing down that horde of monsters…really struck a chord with me.</p>
+<p>For some reason, looking at them stirred something in me. My breath grew rough. I didn&#x27;t know what this emotion was exactly, but it was intense. Something about the way they were facing down that horde of monsters…really struck a chord with me.</p>
 <p>&quot;Ah…&quot;</p>
 <p>At some point, I&#x27;d reached into my pocket to clutch at what I had in there.</p>
 <p>&quot;What are you doing, Rudeus?!&quot; shouted Patrice.</p>
@@ -163,7 +163,7 @@ nav_title = "Chapter 2"
 <p>And now that I remembered it…</p>
 <p>&quot;It&#x27;s all right. I&#x27;ll handle this.&quot; I spoke to them so calmly that I surprised even myself.</p>
 <p>Keeping my emotions hidden as best I could, I pointed my staff directly at the onrushing group of mud-coated Luster Grizzlies.</p>
-<p>&quot;<em>Exodus Flame.</em>&quot;</p>
+<p>&quot;Exodus Flame.&quot;</p>
 <p>An enormous wave of magical fire cut through the pack like a hot knife through butter.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-07/insert-02.webp" alt="Illustration" loading="lazy" />
@@ -175,7 +175,7 @@ nav_title = "Chapter 2"
 <p>It wasn&#x27;t just Timothy, though. Everyone else was quiet, too. Still, it wasn&#x27;t the worst kind of silence in the world. I didn&#x27;t feel any need to break it.</p>
 <p>By the time we&#x27;d skinned the Grizzlies, collected their tails and pelts, and began to burn their bodies in a pile, the sky was beginning to lighten. The air filled with the smell of sizzling meat. It was a scent I&#x27;d come to associate with the end of a successful monster-slaying job.</p>
 <p>As I watched the fire, Suzanne came to stand at my side. &quot;I guess we owe you one, huh?&quot; she said, shrugging her shoulders. &quot;If it</p>
-<p>wasn&#x27;t for you, we&#x27;d all be dead. I had the feeling there was more to you than meets the eye, but I sure as hell wasn&#x27;t expecting a performance like <em>that</em>.&quot;</p>
+<p>wasn&#x27;t for you, we&#x27;d all be dead. I had the feeling there was more to you than meets the eye, but I sure as hell wasn&#x27;t expecting a performance like that.&quot;</p>
 <p>&quot;I don&#x27;t know. If it wasn&#x27;t for me, you guys wouldn&#x27;t have taken on this job in the first place, right? You probably would have started off with a B- or even C-ranked job to get a feel for the area.&quot;</p>
 <p>&quot;Well, true enough…&quot;</p>
 <p>Suzanne scratched at her cheek with an awkward look on her face, but I meant every word sincerely. If anything, I was grateful for Counter Arrow. They helped me realize something in the middle of that battle, and I felt a little better because of it. &quot;I&#x27;m glad you brought me out here, though. Thank you again.&quot;</p>
@@ -190,16 +190,16 @@ nav_title = "Chapter 2"
 <p>I glanced over at Timothy, wondering how he&#x27;d handle this. To my surprise, I found him looking around the room with a bright smile on his face, as if the other adventurers were old friends instead of glowering, resentful strangers. &quot;Tonight, we&#x27;re celebrating my party&#x27;s arrival in Rosenburg!&quot; he shouted to the crowd. &quot;Let&#x27;s head over to the bar, everyone. I&#x27;m buying!&quot;</p>
 <p>For a moment the other adventurers were too startled to react, but they knew a good deal when they heard one. Cheers went up all around the room.</p>
 <p>&quot;Hey, the new kids in town seem friendly for once!&quot;</p>
-<p>&quot;Hahaha! I <em>like</em> you guys!&quot;</p>
+<p>&quot;Hahaha! I like you guys!&quot;</p>
 <p>&quot;Hell yeah! Free booze!&quot;</p>
 <p>I was stunned, to be honest. Was Timothy really tossing away the earnings from a seven-day job this casually?</p>
 <p>Suzanne saw the look on my face and smiled, looking over at her leader proudly. &quot;This is how Timothy always does things. If you buy everyone a couple drinks now and then, nobody&#x27;s gonna hate your guts, right? It&#x27;s a small price to pay for keeping the less friendly guys off your back.&quot;</p>
 <p>Huh. When she put it that way, it actually made sense. The more money and success you had, the more envious people grew. That was just a fact of life. Adventurers had to live off the money they earned on quests, so this definitely wasn&#x27;t something you could do</p>
-<p><em>that</em> often…but if you showed a little generosity on major paydays, it would reduce the hostility coming your way.</p>
+<p>that often…but if you showed a little generosity on major paydays, it would reduce the hostility coming your way.</p>
 <p>&quot;All right, everyone! You just remember our names, okay? We&#x27;re Counter Arrow, and he&#x27;s Rudeus Greyrat! We&#x27;re looking forward to working with you!&quot;</p>
 <p>&quot;Counter Arrow! Counter Arrow!&quot;</p>
 <p>&quot;Rudeus! Rudeus!&quot;</p>
-<p>Based on the hearty chants around us, Timothy had definitely earned us some temporary popularity. If his strategy was <em>this</em> effective, I&#x27;d have to try and follow his example. It would be nice if I could avoid pointless fights with people like Sara.</p>
+<p>Based on the hearty chants around us, Timothy had definitely earned us some temporary popularity. If his strategy was this effective, I&#x27;d have to try and follow his example. It would be nice if I could avoid pointless fights with people like Sara.</p>
 <p>With that thought, I let the crowd carry me along as it surged toward the nearest bar.</p>
 <p>***</p>
 <p>I finally made it back to my inn several hours later. The others had talked me into having a couple drinks at the bar. Unfortunately, I wasn&#x27;t used to alcohol, and the only kind they had in this city was some whiskey-like stuff with a real kick to it. I quickly got sick to my stomach and had to cast Detoxification magic on myself. That wasn&#x27;t a mistake I&#x27;d be making again.</p>
@@ -213,14 +213,14 @@ nav_title = "Chapter 2"
 <p>I&#x27;d never actually seen her in a life-and-death situation, but I knew that she&#x27;d once been an adventurer herself. When her party found itself in danger, she&#x27;d probably turned and faced it with them, just as the members of Counter Arrow had. She&#x27;d protected her friends bravely, and been protected in return. She&#x27;d survived.</p>
 <p>And then…she became my tutor. She taught me all the things she&#x27;d learned in her life as an adventurer. She taught me what it meant to be alive.</p>
 <p>But she wasn&#x27;t born knowing any of that. She figured it out for herself, in the years she spent fighting alongside others.</p>
-<p>&quot;Of <em>course</em> it matters if you die, moron…&quot; I tightly clutched the white cloth to my chest for a moment. &quot;You lost everything you cared about? Says who?!&quot;</p>
+<p>&quot;Of course it matters if you die, moron…&quot; I tightly clutched the white cloth to my chest for a moment. &quot;You lost everything you cared about? Says who?!&quot;</p>
 <p>I pressed the white cloth to my forehead so that my tears wouldn&#x27;t stain it, curled into a ball and began to sob. Before long I was blubbering, my body quivering with every painful hiccup.</p>
 <p>I hadn&#x27;t lost everything. Not by a long shot. I&#x27;d lost something that I cared about very much. That was true. But it didn&#x27;t mean that I had nothing left to live for.</p>
-<p><em>Remember when you first arrived in this world. Remember Roxy. Remember the day she showed you the outside world. You learned all sorts of things from her. She taught you so much. You can&#x27;t betray her now.</em></p>
+<p>Remember when you first arrived in this world. Remember Roxy. Remember the day she showed you the outside world. You learned all sorts of things from her. She taught you so much. You can&#x27;t betray her now.</p>
 <p>Roxy wasn&#x27;t the only one who&#x27;d given me something, either. I touched the wooden pendant I wore around my neck. It was a gift from Lilia—a gift she&#x27;d probably made by hand. Lilia had always been so kind and devoted to me. She was probably looking forward to the day we&#x27;d see each other again. And somewhere up in Millis, Paul was doing his best to reunite our family. We were very far away from each other, yes. But still, I wasn&#x27;t alone in this world.</p>
 <p>&quot;Roxy…please show me the way…&quot;</p>
 <p>I couldn&#x27;t just lie down and die out here in the middle of nowhere. Yes, I was still in pain. There was no point pretending otherwise. But I&#x27;d been through worse than this a long time ago.</p>
-<p><em>You can&#x27;t just fall to pieces now, damn it. Keep moving forward. Do the things you need to do.</em></p>
+<p>You can&#x27;t just fall to pieces now, damn it. Keep moving forward. Do the things you need to do.</p>
 <p>&quot;…All right then.&quot;</p>
 <p>I opened my luggage and took out a different piece of fabric. It was my memento of Eris—the one I&#x27;d been lugging around with me all this time, no matter how miserable it made me feel.</p>
 <p>Without a word, I tossed it into the heating stove.</p>
@@ -235,7 +235,7 @@ nav_title = "Chapter 2"
 <p>fleeing from their schools or mansions, they usually try to become adventurers.</p>
 <p>The children of the nobility are educated from a very young age. The main focus is normal stuff like reading, writing, and arithmetic, but lots of families have their kids trained in swordplay, too. Some noble houses consider magic less important, but many academies also require their students to learn beginner spells.</p>
 <p>So you have these kids who&#x27;ve picked up some basic combat skills, and then they start to learn a bit about the outside world at their academies. At that point, for whatever reason, a lot of them decide to hop off their easy ride through life. It&#x27;s particularly common in boys around Rudeus&#x27; age. I&#x27;d been on guard duty for kids like him a few times before, although none of them were brave enough to try leaving Asura. The majority only lasted for a job or two before they got scared and headed back to where they came from. Of course, every once in a while, one of them turns out to have some actual talent and becomes a real adventurer, but I&#x27;d never met one.</p>
-<p>I figured Rudeus was just another of those rich kids. And I&#x27;ve always <em>hated</em> those kids. They&#x27;re born into wealthy homes and handed excellent educations. They can live in luxury and never have to work. The thought of people like that trying to become adventurers made me furious.</p>
+<p>I figured Rudeus was just another of those rich kids. And I&#x27;ve always hated those kids. They&#x27;re born into wealthy homes and handed excellent educations. They can live in luxury and never have to work. The thought of people like that trying to become adventurers made me furious.</p>
 <p>Maybe it wouldn&#x27;t bother me so much if they were actually committed. But in my experience, they&#x27;re never ready to risk their lives the way we have to every day. When some monster takes a swipe at them, or another member of their party is in danger, the rich kids always turn tail and run.</p>
 <p>The reason for that&#x27;s simple enough: They&#x27;ve still got somewhere to run back to. When things get too ugly or scary, they can always just head back home. Even as they try to become adventurers, they&#x27;ve always got that backup plan stashed in the</p>
 <p>corner of their mind. It doesn&#x27;t even occur to them that some of us don&#x27;t have that option. They don&#x27;t even realize that some people have to spend the rest of their lives as adventurers. And they drag us along on their pointless little games, never sparing a thought for what might happen to us if we get injured badly enough to lose our livelihood.</p>
@@ -244,7 +244,7 @@ nav_title = "Chapter 2"
 <p>Instead of running for his life, he&#x27;d wiped out that massive pack of Luster Grizzlies almost single-handedly. He was clearly an Advanced- or even Saint-tier magician; for some reason, he&#x27;d hidden that from us.</p>
 <p>That only annoyed me even more. There was no denying that he&#x27;d saved our party, so I did say thanks. But I still wasn&#x27;t feeling especially grateful.</p>
 <p>&quot;Come on, Sara. How long are you going to sulk?&quot;</p>
-<p>&quot;Who says I&#x27;m sulking?!&quot; My irritation hadn&#x27;t faded even after we returned to our inn. I didn&#x27;t want to admit that this one rich kid was any different from the others. He was still an aristocrat, and I <em>hated</em> aristocrats. &quot;What is with you lately, Suzanne? Why do you keep looking out for that guy?&quot;</p>
+<p>&quot;Who says I&#x27;m sulking?!&quot; My irritation hadn&#x27;t faded even after we returned to our inn. I didn&#x27;t want to admit that this one rich kid was any different from the others. He was still an aristocrat, and I hated aristocrats. &quot;What is with you lately, Suzanne? Why do you keep looking out for that guy?&quot;</p>
 <p>&quot;Come on, Sara, what was I supposed to do? A kid that young shouldn&#x27;t be travelling all alone, right? It would&#x27;ve left a real bad</p>
 <p>taste in my mouth if he got killed or something. I mean, it seems like he can take care of himself, but still…&quot;</p>
 <p>&quot;Who cares? If he gets himself killed, it&#x27;s his own stupid fault! That story about his mom has to be bogus, anyway. He&#x27;s probably just running away from home or something.&quot;</p>
@@ -252,5 +252,5 @@ nav_title = "Chapter 2"
 <p>Suzanne wasn&#x27;t wrong. If Rudeus was lying, he wouldn&#x27;t have stood his ground with us. He wouldn&#x27;t have broken down and cried in the middle of the Adventurers&#x27; Guild. I knew that much.</p>
 <p>I knew what he said was true. He really was a victim of the Fittoa Displacement Incident. He really had spent years learning magic and making his way back home, only to find his home had vanished. He really had set out to search for his missing mother. It wasn&#x27;t just a sob story; it had actually happened. Now that I&#x27;d worked a job with the kid, I was pretty sure of all that.</p>
 <p>Still, a part of me wanted very badly to call him a fraud. I guess there was something about Rudeus I just couldn&#x27;t tolerate. Or maybe it was just too humiliating to face the fact that a rich kid had saved my life.</p>
-<p>&quot;Hmph. It didn&#x27;t seem like that job was much of a challenge for him, anyway. I&#x27;m sure he&#x27;ll turn tail and run the second he&#x27;s in any <em>real</em> danger.&quot; Pointedly ignoring Suzanne&#x27;s words, I burrowed into bed and turned my back on her.</p>
+<p>&quot;Hmph. It didn&#x27;t seem like that job was much of a challenge for him, anyway. I&#x27;m sure he&#x27;ll turn tail and run the second he&#x27;s in any real danger.&quot; Pointedly ignoring Suzanne&#x27;s words, I burrowed into bed and turned my back on her.</p>
 <p>For some reason, I felt incredibly frustrated.</p>

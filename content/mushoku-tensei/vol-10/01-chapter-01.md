@@ -7,7 +7,7 @@ badge = "CH.1"
 nav_title = "Chapter 1"
 +++
 
-<p><em>I&#x27;LL PLEDGE MY FIDELITY to Sylphie,</em> I thought as I looked at the red stain left on the bedsheets. Sylphie had given me something precious, and now it was my turn. I would do as she wished of me. This I pledged as I used a knife to cut out the stain left on the fabric.</p>
+<p>I&#x27;LL PLEDGE MY FIDELITY to Sylphie, I thought as I looked at the red stain left on the bedsheets. Sylphie had given me something precious, and now it was my turn. I would do as she wished of me. This I pledged as I used a knife to cut out the stain left on the fabric.</p>
 <p>The problem was, Sylphie rarely voiced her feelings. I could tell she wanted to be with me, but she probably wouldn&#x27;t say it explicitly. Perhaps it had something to do with her being Princess Ariel&#x27;s bodyguard. Should I talk to the Princess about it?</p>
 <p>Preoccupied with those thoughts, I took the scrap of cloth I&#x27;d excised from the bedsheets, put it into a small box I created with earth magic, and placed that inside my altar. Then I put my hands together in prayer.</p>
 <p>Finally, I felt human again.</p>
@@ -32,7 +32,7 @@ nav_title = "Chapter 1"
 <p>&quot;What should we do?&quot; Pursena asked. &quot;Looks like the Boss can&#x27;t control himself anymore.&quot;</p>
 <p>&quot;I thought he wasn&#x27;t working down there, mew?&quot;</p>
 <p>&quot;It must be my overwhelming charm. I&#x27;m such a sinful girl.&quot;</p>
-<p>&quot;Th-then <em>you</em> be his prey, Pursena, mew! Leave our village to me, mew.&quot;</p>
+<p>&quot;Th-then you be his prey, Pursena, mew! Leave our village to me, mew.&quot;</p>
 <p>&quot;No, no. Maybe it&#x27;s actually you that he&#x27;s after, Linia.&quot;</p>
 <p>&quot;B-but if you become Boss&#x27; woman, you could take control of the entire world, you know, mew? You could have a daily meat buffet, mew.&quot;</p>
 <p>&quot;…I-I guess I have no choice, then. I have to do it to protect you.&quot; Pursena steeled herself after this bizarre exchange, and approached me. She batted her eyelashes adorably and hefted her breasts to make them more prominent. &quot;Hee hee…I want you to love on me—ouch!&quot;</p>
@@ -68,24 +68,24 @@ nav_title = "Chapter 1"
 <p>&quot;Oh really? Glad to hear,&quot; he said with a strained smile. I couldn&#x27;t tell if that smile meant he was happy or not.</p>
 <p>***</p>
 <p>Even though my impotence had been cured, Nanahoshi took no notice. We didn&#x27;t converse much, so maybe she didn&#x27;t really pay attention to me.</p>
-<p>Even when we did talk, I often felt the generational gap between us. One time, I brought up the subject of a certain juniorhigh-school girl who punished people in the name of the moon. I was convinced Nanahoshi would recognize the reference, but she only tilted her head at me as if to say, <em>What the heck are you talking about?</em> Apparently, kids these days had never heard of Sailor Moon. Nanahoshi had even been quite the avid reader of manga and light novels, apparently. I asked her if she knew the show where characters gather seven dragon balls, and she said she <em>had</em> heard of that one.</p>
+<p>Even when we did talk, I often felt the generational gap between us. One time, I brought up the subject of a certain juniorhigh-school girl who punished people in the name of the moon. I was convinced Nanahoshi would recognize the reference, but she only tilted her head at me as if to say, What the heck are you talking about? Apparently, kids these days had never heard of Sailor Moon. Nanahoshi had even been quite the avid reader of manga and light novels, apparently. I asked her if she knew the show where characters gather seven dragon balls, and she said she had heard of that one.</p>
 <p>In our previous world, she had been seventeen and I&#x27;d been thirty-four. That made me twice her age. She&#x27;d also come to this world ten years after I did, so our cumulative ages were even further apart now.</p>
-<p>There was nothing I could do about it. It really was just a generation gap. As for not knowing <em>Sailor Moon,</em> that might just be a given, considering the show&#x27;s airdates on television. Still, it took me aback. Perhaps it was this lack of common ground that led the following question to slip out my mouth.</p>
+<p>There was nothing I could do about it. It really was just a generation gap. As for not knowing Sailor Moon, that might just be a given, considering the show&#x27;s airdates on television. Still, it took me aback. Perhaps it was this lack of common ground that led the following question to slip out my mouth.</p>
 <p>&quot;Miss Nanahoshi, what would you want from a person if you were to date them?&quot;</p>
 <p>Her hand slipped badly. She crumpled up the paper she&#x27;d been scribbling on and tossed it. &quot;What&#x27;s this all of a sudden? Talking about love?&quot;</p>
 <p>&quot;Something like that.&quot;</p>
 <p>&quot;In case I haven&#x27;t made this clear, I want to get home as soon as possible. Could you take this seriously? You&#x27;re always chattering. We&#x27;d get more done if you&#x27;d shut up and move your hands instead of your mouth.&quot;</p>
 <p>In spite of what she said, Nanahoshi didn&#x27;t hate idle banter. In fact, she&#x27;d been perfectly open to a little chatting here and there as we worked, as long as it was kept at a reasonable level. The fact that she&#x27;d responded like that could only mean one thing.</p>
-<p>&quot;Does that mean you&#x27;re one of <em>those</em> people? Someone with no romantic experiences?&quot;</p>
-<p>&quot;Tch!&quot; She clicked her tongue harshly. &quot;Even <em>I</em> have been in love before. Although we fought and that was the end.&quot;</p>
+<p>&quot;Does that mean you&#x27;re one of those people? Someone with no romantic experiences?&quot;</p>
+<p>&quot;Tch!&quot; She clicked her tongue harshly. &quot;Even I have been in love before. Although we fought and that was the end.&quot;</p>
 <p>Come to think of it, hadn&#x27;t she been in the midst of a lovers&#x27; quarrel when she was summoned here? I wasn&#x27;t sure whether she loved only one of her suitors, or if she was starring in her own reverse harem, but irrespective of whether she intended to apologize or continue their fight, she still had to go home.</p>
 <p>In fact, now that I thought about it, there was a high possibility that those other two had been transported here as well. But I&#x27;d heard no rumors of people like that outside of Nanahoshi, so it was</p>
-<p>equally possible they hadn&#x27;t. Then again, the likelihood of survival after being thrown into this world all alone and mana-less would be… No, I shouldn&#x27;t say that. Perhaps Nanahoshi had already made those calculations, based on how lucky she had been to make it this far…and what would happen to someone if they <em>weren&#x27;t</em> so lucky.</p>
+<p>equally possible they hadn&#x27;t. Then again, the likelihood of survival after being thrown into this world all alone and mana-less would be… No, I shouldn&#x27;t say that. Perhaps Nanahoshi had already made those calculations, based on how lucky she had been to make it this far…and what would happen to someone if they weren&#x27;t so lucky.</p>
 <p>Nanahoshi&#x27;s lips hardened into a frown as she mumbled, &quot;It&#x27;s enough if the person you like just stays by your side.&quot;</p>
 <p>It sounded like she was having a tough time. I shouldn&#x27;t have asked.</p>
 <p>***</p>
 <p>It was lunch break, but I didn&#x27;t go to the cafeteria. I had business elsewhere today—specifically, in the student council room. If I was going to be in a relationship with Sylphie for real, I had to let Luke and the Princess know. They&#x27;d worked to get the two of us together, so in a sense, they&#x27;d already approved of our relationship. Still, I wanted to make my intent clear.</p>
-<p>I made my way to the top floor of the main building, where there stood a somewhat fancy door chiseled with the words <em>Student Council Room</em>. I knocked.</p>
+<p>I made my way to the top floor of the main building, where there stood a somewhat fancy door chiseled with the words Student Council Room. I knocked.</p>
 <p>&quot;Who&#x27;s there?&quot; It was Luke&#x27;s voice.</p>
 <p>&quot;Rudeus Greyrat. I have a certain matter I&#x27;d like to discuss.&quot;</p>
 <p>After a brief silence, I could hear the panicked clamor of footsteps. Well, I hadn&#x27;t made an appointment, after all. Maybe that was my bad.</p>
@@ -114,10 +114,10 @@ nav_title = "Chapter 1"
 <p>Luke furrowed his brows. &quot;That&#x27;s because you&#x27;re a thickheaded idiot who doesn&#x27;t understand how girls feel.&quot;</p>
 <p>&quot;I won&#x27;t argue that.&quot; After all, I hadn&#x27;t even realized Sylphie was a girl for a whole year. I had nothing to say in my defense of my thickheadedness.</p>
 <p>&quot;And you&#x27;re a piece of shit who toys with girls&#x27; feelings, Luke,&quot; Sylphie said in a hushed whisper.</p>
-<p><em>That</em> was a surprise. And unexpectedly harsh of her to say. Or was it just that she only acted shy around me? Luke and Sylphie had been comrades for the past six years, which meant Luke had spent more time with her than I had. That might be why she felt comfortable enough around him to not mince her words.</p>
+<p>That was a surprise. And unexpectedly harsh of her to say. Or was it just that she only acted shy around me? Luke and Sylphie had been comrades for the past six years, which meant Luke had spent more time with her than I had. That might be why she felt comfortable enough around him to not mince her words.</p>
 <p>That made me a little jealous, to tell the truth. I wondered if she&#x27;d eventually reach that level of comfort with me.</p>
 <p>&quot;What, so even though you don&#x27;t have a shred of sex appeal, you&#x27;re going to take the girls&#x27; side?&quot; Luke demanded.</p>
-<p>&quot;I do <em>too</em> have sex appeal. Rudy thanked me, after all. Right, Rudy?&quot; she quipped back, looking to me for assistance.</p>
+<p>&quot;I do too have sex appeal. Rudy thanked me, after all. Right, Rudy?&quot; she quipped back, looking to me for assistance.</p>
 <p>I didn&#x27;t mind hopping into their comic routine long enough to say, &quot;And that&#x27;s all, folks!&quot; But I felt a little awkward about doing that in front of Princess Ariel. I glanced at her, suddenly realizing that she had breadcrumbs around her lips. She must&#x27;ve been in the middle of lunch when I arrived.</p>
 <p>&quot;Please be quiet, both of you,&quot; the Princess said.</p>
 <p>Sylphie and Luke went silent. I got the sense this was a familiar sort of exchange for them both.</p>
@@ -143,7 +143,7 @@ nav_title = "Chapter 1"
 <p>Sylphie clapped a hand over her mouth at my blunt declaration. Luke faltered, breaking his formal posture as the shock registered on his face. Even Ariel looked utterly dumbfounded. Had I said something weird again? Maybe they thought I was moving too fast.</p>
 <p>&quot;You&#x27;re going to marry Sylphie?&quot;</p>
 <p>&quot;Yes.&quot;</p>
-<p>This <em>was</em> fast, of course. I&#x27;d only recently realized that Master Fitz was actually Sylphie. Part of me felt like we should date for several months, get to know each other better first. Also, if we got married, I couldn&#x27;t take off at a moment&#x27;s notice even if I got an</p>
+<p>This was fast, of course. I&#x27;d only recently realized that Master Fitz was actually Sylphie. Part of me felt like we should date for several months, get to know each other better first. Also, if we got married, I couldn&#x27;t take off at a moment&#x27;s notice even if I got an</p>
 <p>urgent letter from Paul. Still, even taking all that into account, I meant what I said.</p>
 <p>I thought back to Eris. Sylphie might leave me, too, if I beat around the bush once more instead of being clear and honest about my feelings. I didn&#x27;t think I could take another blow like that. I was leaving nothing to chance this time.</p>
 <p>&quot;Marriage. A magnificent decision.&quot; Princess Ariel nodded in satisfaction and looked at Sylphie. &quot;Sylphiette Greyrat.&quot;</p>
@@ -161,7 +161,7 @@ nav_title = "Chapter 1"
 <p>She probably meant that since Sylphie and I would be together, people might think I was linked to the Princess. So instead of making use of my magical powers, she would make use of my reputation. The end result was about the same, but the way she framed it was entertaining.</p>
 <p>&quot;I would be fine with serving you in an official capacity, as well.&quot; I did have to reunite with Paul at some point, but that was a separate matter. I was fine with her making a definitive declaration about my loyalties—if not as a sympathizer to her cause, but rather someone connected to her through Sylphie.</p>
 <p>&quot;Unnecessary. Your power is far too great for my hands to contain.&quot;</p>
-<p><em>Not sure I&#x27;m that strong,</em> I thought doubtfully. Still, it&#x27;d be a pain to have to follow her around and run her errands. I decided to take her word for it.</p>
+<p>Not sure I&#x27;m that strong, I thought doubtfully. Still, it&#x27;d be a pain to have to follow her around and run her errands. I decided to take her word for it.</p>
 <p>&quot;And of course, if anything should happen to you, you&#x27;re free to drop my name as need be. Despite my current circumstances, the name of the Second Princess of the Asura Kingdom may prove useful to you.&quot;</p>
 <p>&quot;I appreciate that.&quot; It never hurt to have more friends in high places. Not that I was getting all this for free. I had little doubt she would hesitate to call upon my aid when she was ready to make her move, but decided not to dwell on that part for now.</p>
 <p>Sylphie took off her sunglasses, bowed her head and said, &quot;Princess Ariel, Luke…thank you for everything you&#x27;ve done for me.&quot;</p>

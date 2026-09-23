@@ -25,14 +25,14 @@ nav_title = "Chapter 9"
 <p>One had been there originally. The other was the one I&#x27;d built.</p>
 <p>&quot;I didn&#x27;t want the old bridge to collapse when I was halfway across, so I used earth magic to build a new one.&quot;</p>
 <p>&quot;Huh. Which one do we cross?&quot;</p>
-<p>&quot;This one,&quot; I said, pointing at my bridge. Right away, Galixon jumped on and set off across. Despite the height and the lack of a handrail, he marched on without hesitation. Wasn&#x27;t he scared? <em>Guess not.</em> I followed him with Sandor behind me and Dohga in the rear.</p>
-<p>&quot;Please don&#x27;t collapse,&quot; I said under my breath. If I&#x27;d crossed first and the bridge had begun to collapse, I could have saved myself, but Galixon <em>insisted</em> on being the first. He was just like Eris. Maybe Galixon was a Sword God Style fighter too.</p>
+<p>&quot;This one,&quot; I said, pointing at my bridge. Right away, Galixon jumped on and set off across. Despite the height and the lack of a handrail, he marched on without hesitation. Wasn&#x27;t he scared? Guess not. I followed him with Sandor behind me and Dohga in the rear.</p>
+<p>&quot;Please don&#x27;t collapse,&quot; I said under my breath. If I&#x27;d crossed first and the bridge had begun to collapse, I could have saved myself, but Galixon insisted on being the first. He was just like Eris. Maybe Galixon was a Sword God Style fighter too.</p>
 <p>&quot;Um, there are Earth Dragons down there…&quot; Sandor said. I turned and saw him clearing his throat, looking below us.</p>
 <p>&quot;You hail from this country, right, Sandor? Didn&#x27;t you know?&quot;</p>
 <p>&quot;I knew, but this is my first time coming here.&quot;</p>
-<p>Fair enough. People who&#x27;d seen all the famous sights in their home countries were few and far between, and this was <em>not</em> a tourist destination. He was a soldier, so he wasn&#x27;t about to go into a forest everyone was forbidden from entering.</p>
+<p>Fair enough. People who&#x27;d seen all the famous sights in their home countries were few and far between, and this was not a tourist destination. He was a soldier, so he wasn&#x27;t about to go into a forest everyone was forbidden from entering.</p>
 <p>Take Red Wyrm Mountain Range in the Asura Kingdom. Next to no one had climbed that set of peaks. It was the same thing.</p>
-<p>&quot;Master Rudeus, you introduced yourself as a follower of Dragon God Orsted…&quot; Sandor began. &quot;But have you ever <em>fought</em> an Earth Dragon?&quot;</p>
+<p>&quot;Master Rudeus, you introduced yourself as a follower of Dragon God Orsted…&quot; Sandor began. &quot;But have you ever fought an Earth Dragon?&quot;</p>
 <p>&quot;I haven&#x27;t.&quot;</p>
 <p>&quot;You did some spectacular magic on the road. If you fought one, do you think you could win?&quot; His voice was shaking. Maybe he was afraid an Earth Dragon would climb up the ravine and attack us. We couldn&#x27;t see the floor of the ravine. That made your imagination run out of control, picturing what might be lurking down there…and what might come flying out.</p>
 <p>&quot;Don&#x27;t worry,&quot; I told him. &quot;I can&#x27;t make any promises if we fall into the middle of a swarm, but I can take one or two of them.&quot;</p>
@@ -41,17 +41,17 @@ nav_title = "Chapter 9"
 <p>&quot;Once we&#x27;re across the bridge, we&#x27;ll be practically on top of the Superd village.&quot;</p>
 <p>Then the real task would begin.</p>
 <p>***</p>
-<p><em>Welcome to the Superd Village Educational Tour, guided by Rudeus Greyrat and his assistant, Dohga!</em> There were only two tourists.</p>
-<p>&quot;The Superd village has a single entrance, with two guards keeping watch to stop monsters getting inside. The Superd have a unique sensory organ, and thanks to that they never miss an intruder. They are already aware of our approach, but you have nothing to worry about. They&#x27;re a <em>very</em> friendly race.&quot;</p>
+<p>Welcome to the Superd Village Educational Tour, guided by Rudeus Greyrat and his assistant, Dohga! There were only two tourists.</p>
+<p>&quot;The Superd village has a single entrance, with two guards keeping watch to stop monsters getting inside. The Superd have a unique sensory organ, and thanks to that they never miss an intruder. They are already aware of our approach, but you have nothing to worry about. They&#x27;re a very friendly race.&quot;</p>
 <p>&quot;Why are you talking like that?&quot; Galixon asked suspiciously.</p>
-<p>&quot;I&#x27;m explaining,&quot; I replied. There was a lot you couldn&#x27;t understand just by looking, so I had to explain everything they wouldn&#x27;t pick up on. <em>That&#x27;s why your guide is here. That&#x27;s what the presentation is for.</em></p>
+<p>&quot;I&#x27;m explaining,&quot; I replied. There was a lot you couldn&#x27;t understand just by looking, so I had to explain everything they wouldn&#x27;t pick up on. That&#x27;s why your guide is here. That&#x27;s what the presentation is for.</p>
 <p>&quot;We can see the entrance now. Do you see them? Those are Superd. See how their faces are pointing this way even though we&#x27;re still inside the forest?&quot;</p>
 <p>I pointed towards the village and the two soldiers stiffened. They were Superd, really and truly.</p>
-<p>&quot;Their hair <em>is</em> green.&quot;</p>
+<p>&quot;Their hair is green.&quot;</p>
 <p>&quot;That&#x27;s right. But there&#x27;s nothing to be afraid of. You get along just fine with the ogres, with their red skin and horns. Superd hair is a little</p>
 <p>different, that&#x27;s all. On the inside, they&#x27;re just like you…although, as with any types of people, there will be some cultural differences. If you&#x27;re friendly, they&#x27;ll like you. If you&#x27;re hostile, you&#x27;ll put them off. They&#x27;re just like us. Look, please.&quot;</p>
 <p>As I spoke, one of the guards came up to us. First off, I needed them to understand that Superd weren&#x27;t devils. Say hello with a smile and get a smile back. That was the first step in good human relations. I raised a hand and greeted the guard.</p>
-<p><em>&quot;Jambo!&quot;</em></p>
+<p>&quot;Jambo!&quot;</p>
 <p>The guard stared at me doubtfully, hand half raised. He turned to look at his companion. Oops. Got a bit carried away there.</p>
 <p>&quot;Excuse me. I&#x27;m here with envoys from the Biheiril Kingdom. I want to show them around the village. Would you mind letting us pass?&quot;</p>
 <p>&quot;Go ahead. Ruijerd told us about this.&quot;</p>
@@ -113,56 +113,56 @@ nav_title = "Chapter 9"
 <p>***</p>
 <p>The next day, we decided that I&#x27;d see the soldiers back to the capital. I told them that if we stayed two or three days they&#x27;d get to see a real Invisible Wolf, but they said they had to get back right away to tell the king and get the hunting party disbanded. We set off at once. It&#x27;d really been a whirlwind trip. I really wanted to let them use the teleportation circle, but I restrained myself. Haste makes waste, as the saying goes. If I slipped up here, it&#x27;d be mortifying.</p>
 <p>I went to tell Ruijerd that I was accompanying them back, then left the village.</p>
-<p><em>The Superd should be all right now. Time to move on to Geese.</em> I wanted to know where the North God and the Ogre God were, too. Chandle&#x27;s information gathering seemed to have stalled for the time being, and they might have already fled this country for somewhere else… That could mean Sylphie was in danger. The &quot;somewhere else&quot; could be the Sword Sanctum.</p>
+<p>The Superd should be all right now. Time to move on to Geese. I wanted to know where the North God and the Ogre God were, too. Chandle&#x27;s information gathering seemed to have stalled for the time being, and they might have already fled this country for somewhere else… That could mean Sylphie was in danger. The &quot;somewhere else&quot; could be the Sword Sanctum.</p>
 <p>I wondered how Sylphie was doing. I hoped she&#x27;d safely made contact with Nina. And how was Eris? I hoped she hadn&#x27;t caused any trouble. She was probably all right so long as Roxy was with her, but Roxy slipped up herself sometimes. I couldn&#x27;t shake all my worry. As for Aisha and her group… They&#x27;d be okay, somehow or other.</p>
 <p>&quot;Are you going to return alone?&quot; Galixon asked.</p>
 <p>&quot;Huh?&quot; I was walking along, lost in thought, when he turned back and asked me.</p>
 <p>I looked around us. Galixon, Sandor, and me.</p>
-<p>&quot;That knight? He was fast asleep when we set out. Not even snoring,&quot; Sandor said, and I realized that Dohga wasn&#x27;t with us. I hadn&#x27;t noticed at all. The guy was huge, but he had no presence. More to the point, he&#x27;d <em>slept in?</em></p>
+<p>&quot;That knight? He was fast asleep when we set out. Not even snoring,&quot; Sandor said, and I realized that Dohga wasn&#x27;t with us. I hadn&#x27;t noticed at all. The guy was huge, but he had no presence. More to the point, he&#x27;d slept in?</p>
 <p>&quot;Oh, well,&quot; I said breezily, &quot;Please, don&#x27;t worry. I&#x27;ll be able to protect you just fine, even alone.&quot;</p>
 <p>The other two exchanged a look. They didn&#x27;t seem convinced. Not to worry, that wasn&#x27;t a problem. If it came down to a fight, Dohga&#x27;s presence wasn&#x27;t going to make a difference.</p>
-<p>I <em>had</em> also been told not to be alone, mind you. I could have these two wait for me in an Earth Fortress while I went and got Dohga, but we were going to meet up with Chandle in the Second City of Irel…</p>
-<p>I realized the forest had opened into a clearing. We&#x27;d reached the Earthwyrm Ravine. In front of us were two bridges. <em>Perfect.</em> Across the bridge there were hardly any Invisible Wolves, so it was relatively safe. They could wait for me once we were across to the other side.</p>
-<p>&quot;I&#x27;ll go first,&quot; Galixon said like this was the natural order. Sandor and I followed him. <em>Maybe I should have taken the rear to make sure they don&#x27;t</em></p>
-<p><em>fall,</em> I thought. I kept on alert, so I&#x27;d be ready whenever either of them fell.</p>
+<p>I had also been told not to be alone, mind you. I could have these two wait for me in an Earth Fortress while I went and got Dohga, but we were going to meet up with Chandle in the Second City of Irel…</p>
+<p>I realized the forest had opened into a clearing. We&#x27;d reached the Earthwyrm Ravine. In front of us were two bridges. Perfect. Across the bridge there were hardly any Invisible Wolves, so it was relatively safe. They could wait for me once we were across to the other side.</p>
+<p>&quot;I&#x27;ll go first,&quot; Galixon said like this was the natural order. Sandor and I followed him. Maybe I should have taken the rear to make sure they don&#x27;t</p>
+<p>fall, I thought. I kept on alert, so I&#x27;d be ready whenever either of them fell.</p>
 <p>Suddenly, Galixon stopped.</p>
 <p>&quot;What&#x27;s wrong?&quot; I asked. Galixon turned back. His face was blank. It didn&#x27;t suit his magnificent mustache.</p>
 <p>&quot;You gonna do it?&quot; The question was directed at Sandor. I turned and saw him shrug.</p>
 <p>&quot;He&#x27;s all yours. Go ahead.&quot;</p>
-<p><em>Sorry? What are they talking about?</em></p>
+<p>Sorry? What are they talking about?</p>
 <p>&quot;Guys, if you have something to discuss, can it wait until we&#x27;re across the bridge?&quot; I suggested.</p>
 <p>&quot;Eh?&quot; Galixon exhaled with something a bit like a sigh, then moved his right hand to his left wrist. While I wondered what was going on, he hooked his finger into his gauntlet and slowly pulled off his glove. &quot;I thought you&#x27;d notice,&quot; he remarked.</p>
 <p>My heart was hammering in my chest. There on his finger was a ring. A ring I recognized.</p>
-<p>&quot;When I saw Cliff Grimor with that Eye of Identification, I had my heart in my mouth! Without the gloves, he&#x27;d have got us.&quot; Turning, I saw Sandor had taken his glove off as well. He wore the same ring. The ring I recognized because it was the same as the ring on <em>my</em> finger. The magical implement from the Asura Kingdom that changed your face.</p>
+<p>&quot;When I saw Cliff Grimor with that Eye of Identification, I had my heart in my mouth! Without the gloves, he&#x27;d have got us.&quot; Turning, I saw Sandor had taken his glove off as well. He wore the same ring. The ring I recognized because it was the same as the ring on my finger. The magical implement from the Asura Kingdom that changed your face.</p>
 <p>Galixon exhaled deeply. &quot;Those stupid theatrics. My shoulders are all knotted up,&quot; he said, then took the ring off. Before my eyes, his face began to change. His mustache vanished and was replaced with the face of a middle-aged man in his forties. A face like a hungry wolf that suited his way of speaking. He was an entirely different person.</p>
 <p>&quot;I have a message from Geese: &#x27;Don&#x27;t assume any magic item&#x27;s the only one&#x27;,&quot; said Sandor. I turned back to him and found his face changed as well. He wasn&#x27;t horse-faced any more. He was now a kid with black hair and a face still round with the last traces of puppy fat. &quot;I have to say, I&#x27;m disappointed. I had such high hopes after you defeated Auber…&quot;</p>
 <p>I was speechless. My mouth was dry. Both Galixon and Sandor looked at me with murderous hostility.</p>
 <p>&quot;Geese said, &#x27;If ya get Boss into a tight place with bad footing, all his tricks will fizzle.&#x27; I didn&#x27;t expect you to wander in so obligingly, and to let yourself be flanked…&quot;</p>
-<p>&quot;Who…who <em>are you</em>?&quot; I croaked. I don&#x27;t know whether I&#x27;d guessed it then or not.</p>
+<p>&quot;Who…who are you?&quot; I croaked. I don&#x27;t know whether I&#x27;d guessed it then or not.</p>
 <p>&quot;Gall Falion, Sword God fighter.&quot;</p>
-<p>&quot;I am North God Kalman the Third, Alexander Rybak.&quot; They both spoke at once. The former Sword God, Gall Falion, and the North God Kalman the Third. They had used Geese&#x27;s name. They were enemies. These two were <em>my</em> enemies.</p>
+<p>&quot;I am North God Kalman the Third, Alexander Rybak.&quot; They both spoke at once. The former Sword God, Gall Falion, and the North God Kalman the Third. They had used Geese&#x27;s name. They were enemies. These two were my enemies.</p>
 <p>The moment I was sure of that, I reached for my waist and pressed the button to release the scroll for the Magic Armor Version One.</p>
 <p>But my arm didn&#x27;t move.</p>
-<p>I watched as my right arm fell before my eyes, hit the bridge, then plunged down into the ravine. Galixon—Gall Falion, I mean—had his sword drawn. <em>He cut my arm off</em>, I realized, way too late.</p>
+<p>I watched as my right arm fell before my eyes, hit the bridge, then plunged down into the ravine. Galixon—Gall Falion, I mean—had his sword drawn. He cut my arm off, I realized, way too late.</p>
 <p>&quot;Aaaggghhh!&quot; At last, a wave of excruciating pain raced through me. I tried to cover the stump of my right arm…my left arm wouldn&#x27;t move either.</p>
-<p>No, not &quot;wouldn&#x27;t move.&quot; It wasn&#x27;t <em>there</em>. Gone. Out of the corner of my eye, I saw my left arm fall into the ravine.</p>
+<p>No, not &quot;wouldn&#x27;t move.&quot; It wasn&#x27;t there. Gone. Out of the corner of my eye, I saw my left arm fall into the ravine.</p>
 <p>&quot;So that&#x27;s your face, eh? Not too shabby. Way prettier than that mug you had on before.&quot;</p>
 <p>Gall looked at my face and laughed. When my arm fell, the ring must have stopped working.</p>
 <p>&quot;&#x27;Boss casts magic from his hands. Cut &#x27;em off and you might just be able to scuttle him,&#x27;&quot; Sandor added. Blood poured from the stumps of both my arms. He was right. I couldn&#x27;t use magic. As though the circuits that fired my magic had been in those arms, it wouldn&#x27;t come out.</p>
 <p>&quot;We could have beaten him without all this, couldn&#x27;t we?&quot;</p>
 <p>&quot;Nah, there&#x27;s no telling what might happen when you fight fair and square. Geese was being real cautious.&quot;</p>
-<p>&quot;<em>I</em> don&#x27;t think so. When he had that bodyguard, Dohga, that was one thing. I doubt I&#x27;d lose to him alone.&quot;</p>
+<p>&quot;I don&#x27;t think so. When he had that bodyguard, Dohga, that was one thing. I doubt I&#x27;d lose to him alone.&quot;</p>
 <p>My magic wouldn&#x27;t come out of my arms. When I realized that, I started sending magical energy into the Magic Armor.</p>
 <p>&quot;Whoop—&quot;</p>
 <p>I upped the output of the leg segments, then turned. Facing Sandor, I launched. I wasn&#x27;t attacking. I was aiming past him, to slip past, and back to the Superd village—</p>
 <p>&quot;—sie!&quot;</p>
 <p>Something hit me in the back. It was a sword, I knew that. A slash that cut through the Magic Armor like butter. The Sword of Light. My torso was split in two…or was it? I&#x27;d thought it was, but then feeling an impact on my back didn&#x27;t make much sense.</p>
 <p>Suddenly, I felt weightless. I was falling.</p>
-<p>My vision was spinning, but I could make out Gall and Alexander looking down over the edge of the crumbling bridge at me. <em>Ahh,</em> I thought, <em>I kicked down with the full force of the upgraded Version Two and punched right through the bridge.</em></p>
+<p>My vision was spinning, but I could make out Gall and Alexander looking down over the edge of the crumbling bridge at me. Ahh, I thought, I kicked down with the full force of the upgraded Version Two and punched right through the bridge.</p>
 <p>I continued to fall. With both my arms gone and nothing I could do, I continued to fall. All the power had left my body. Fear rose in its place. I&#x27;d be dead in a moment.</p>
 <p>Just as I surrendered to my inevitable death, something hit my body hard and I blacked out.</p>
 <p>***</p>
-<p>Gall Falion looked down into the ravine Rudeus had just tumbled into and sighed. &quot;He <em>fell</em>?&quot;</p>
+<p>Gall Falion looked down into the ravine Rudeus had just tumbled into and sighed. &quot;He fell?&quot;</p>
 <p>Alexander peered into the ravine as well, his brows furrowed dubiously. &quot;Did you hold back at the end there, Gall? Looked almost like you didn&#x27;t cut through him.&quot;</p>
 <p>&quot;Like hell… It&#x27;s this.&quot; He held up his sword. It was snapped off at the hilt. As anyone who knew their stuff could tell, the sword was cast steel, one of those distributed to regular Biheiril soldiers. It wasn&#x27;t junk, but it wasn&#x27;t a sword made to last.</p>
 <p>&quot;That bastard&#x27;s armor was a whole lot harder than I thought…&quot;</p>
@@ -170,16 +170,16 @@ nav_title = "Chapter 9"
 <p>&quot;Should&#x27;ve brought my own sword,&quot; Gall muttered as he threw the sword into the ravine.</p>
 <p>&quot;Don&#x27;t beat yourself up about it,&quot; Alexander said, shrugging. He continued to stare down into the ravine. &quot;If we&#x27;d had our own swords, our identities would have been exposed.&quot; He also had a regular-issue Biheiril sword on his belt. It was, without question, not a fit blade for the North God.</p>
 <p>&quot;Well, what now? Do we go down there and finish the job?&quot;</p>
-<p>Alexander <em>hmmed</em> indecisively. &quot;After he lost his arms, he couldn&#x27;t use magic. So long as that wasn&#x27;t an act, I think we&#x27;re in the clear.&quot;</p>
+<p>Alexander hmmed indecisively. &quot;After he lost his arms, he couldn&#x27;t use magic. So long as that wasn&#x27;t an act, I think we&#x27;re in the clear.&quot;</p>
 <p>&quot;And it&#x27;s crawling with Earth Dragons down there.&quot;</p>
 <p>&quot;He said himself he could take one or two, but definitely not a swarm,&quot; Alexander said conclusively. He also couldn&#x27;t be bothered climbing all the way down the ravine just to check Rudeus was dead. Killing Rudeus had never been the goal.</p>
 <p>&quot;Right, that&#x27;s our biggest obstacle out of the way. We heading back now?&quot;</p>
 <p>&quot;I can&#x27;t wait for the fight with Orsted,&quot; Alexander sighed. &quot;Hey, I let you have Rudeus, so you&#x27;ll let me have Orsted, right?&quot;</p>
 <p>The two of them would go back across the crumbling bridge. Shooting the breeze like nothing of importance had happened, they would go back to the road that led to the capital of the Biheiril Kingdom.</p>
 <p>&quot;Eh? You just wanna move up the rankings in the Seven Great Powers. What&#x27;s it matter if I go first?&quot;</p>
-<p>&quot;You&#x27;re wrong. I don&#x27;t want a higher ranking. What I <em>want</em> is to be a hero. I want to be a greater hero than my father was—a greater North God than he was.&quot;</p>
+<p>&quot;You&#x27;re wrong. I don&#x27;t want a higher ranking. What I want is to be a hero. I want to be a greater hero than my father was—a greater North God than he was.&quot;</p>
 <p>&quot;Hah,&quot; Gall scoffed.</p>
-<p>No one followed them. No one was watching this place, not even a Superd with their third eye. In the aftermath of the chaos caused by the plague, their hunting parties weren&#x27;t venturing far from the village. If someone <em>had</em> been watching, the two men wouldn&#x27;t have launched their attack on the bridge.</p>
+<p>No one followed them. No one was watching this place, not even a Superd with their third eye. In the aftermath of the chaos caused by the plague, their hunting parties weren&#x27;t venturing far from the village. If someone had been watching, the two men wouldn&#x27;t have launched their attack on the bridge.</p>
 <p>&quot;No skipping your turn. Come on, let&#x27;s stick to the plan. That was one of the conditions.&quot;</p>
 <p>Gall hissed through his teeth. &quot;It&#x27;s too damn slow. And after Vita jumped the gun, who gives a rat&#x27;s ass about the plan anymore?&quot;</p>
 <p>With that, Gall Falion and Alexander Rybak melted away into the trees.</p>

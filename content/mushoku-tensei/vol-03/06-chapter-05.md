@@ -11,7 +11,7 @@ nav_title = "Chapter 5"
 <p>&quot;Good morning. Are you on guard duty again?&quot;</p>
 <p>&quot;Yes. I&#x27;ll be out here until the hunting party returns.&quot;</p>
 <p>The other men of the village still hadn&#x27;t shown up since yesterday. Had Rowin been out here all night, like some NPC guard from an RPG? That always seemed like a pretty simple job…just standing in the same place all day, never moving an inch. Still, was he seriously going to be handling this all alone until the others got back?</p>
-<p><em>Oh, I guess there&#x27;s Elder Rokkus. In a village this small, he probably has to pitch in too.</em></p>
+<p>Oh, I guess there&#x27;s Elder Rokkus. In a village this small, he probably has to pitch in too.</p>
 <p>&quot;Are you leaving already?&quot; Rowin asked.</p>
 <p>&quot;Yes. We managed to talk things through last night.&quot;</p>
 <p>&quot;Ah. I was hoping to ask you more about my daughter, but…&quot;</p>
@@ -32,14 +32,14 @@ nav_title = "Chapter 5"
 <p>&quot;In any case,&quot; Rowin said, &quot;I&#x27;m glad you showed up when I happened to be on duty.&quot;</p>
 <p>&quot;Yes. I&#x27;m very glad to have met you both as well. Roxy did so much for me, really… Hmm. Maybe I should call you Dad?&quot;</p>
 <p>&quot;Hahaha… No. Don&#x27;t.&quot;</p>
-<p><em>Ouch.</em> The man didn&#x27;t even crack a smile. His poker face reminded me a bit of Roxy&#x27;s. Made me a little nostalgic.</p>
+<p>Ouch. The man didn&#x27;t even crack a smile. His poker face reminded me a bit of Roxy&#x27;s. Made me a little nostalgic.</p>
 <p>&quot;All jokes aside, I do want you to have this,&quot; Rowin said, holding out the sword. &quot;I know Ruijerd&#x27;s with you, but you&#x27;ll sleep better if you have a weapon of your own.&quot;</p>
 <p>&quot;I&#x27;m not exactly unarmed really,&quot; I said, accepting the sword and drawing it from its sheath.</p>
 <p>The blade was wide, single-edged, and only about sixty centimeters long. It was also slightly curved, like a machete or a cutlass. A few dings suggested that it had been in use for many years, but the cutting edge itself wasn&#x27;t chipped at all. It sure looked like they&#x27;d taken good care of this thing; it was clean, beautiful even. But there was also something oddly threatening about it. Maybe it was the way the dull grey steel glowed faintly green when it caught the light.</p>
 <p>&quot;We got this from a blacksmith who wandered into the village quite some time ago. It&#x27;s a sturdy thing. Even after years of usage, the blade&#x27;s still perfect. It&#x27;s yours if you want it.&quot;</p>
 <p>&quot;Thank you very much,&quot; I said. &quot;We&#x27;ll gladly take it.&quot; This was no time to be modest. Right now, we needed all the help we could get. I could fight just fine as I was, but Eris could certainly use a weapon. She&#x27;d trained in the Sword God style after all; it&#x27;d probably make her feel less anxious to have a sword, even if she didn&#x27;t need to use it.</p>
 <p>&quot;Here&#x27;s a bit of cash as well. It&#x27;s not much, but it should cover two or three nights in a decent inn at least.&quot;</p>
-<p><em>Ooh, we got some pocket money!</em></p>
+<p>Ooh, we got some pocket money!</p>
 <p>I opened the pouch in excitement and found that it contained some coins of rough stone and a few made of dull grey metal. From what I recalled, currency on the Demon Continent consisted of green ore coins, iron coins, scrap iron coins, and stone coins. Their value was lower than the equivalent currencies elsewhere in the world; even the green ore coins, which were the most valuable, were only</p>
 <p>worth an Asuran large copper or slightly less. The iron coins were pretty close to coppers.</p>
 <p>If we said one stone coin was worth one Japanese yen, the currencies would probably look something like this:</p>
@@ -62,7 +62,7 @@ nav_title = "Chapter 5"
 <p>I could see how it&#x27;d be tough living in a little place like this without that telepathic power everyone else seemed to have. In general, you didn&#x27;t really hear the sounds of conversation in this village. Everyone was probably communicating silently using their minds. Roxy couldn&#x27;t participate in those conversations, or even overhear what others were saying to each other. It was small wonder that she ran away from home.</p>
 <p>&quot;Well, all right then. I hope we meet again someday.&quot;</p>
 <p>&quot;Sure. But if we do, try not to call me Dad, all right?&quot;</p>
-<p>&quot;Hahaha. R-right, sure.&quot; <em>I get the message, man…</em></p>
+<p>&quot;Hahaha. R-right, sure.&quot; I get the message, man…</p>
 <p>It was hard to know when or if I&#x27;d see Roxy again, but at the very least, I&#x27;d have to repay them for the money someday.</p>
 <p>***</p>
 <p>Evidently, the closest town was a three-day journey on foot.</p>
@@ -83,15 +83,15 @@ nav_title = "Chapter 5"
 <p>Still, there was always a chance something could go wrong. If Ruijerd died or somehow ended up unable to fight, Eris and I would be forced to fend for ourselves. And right now, we had no real-world combat experience to speak of. What was going to happen if we lost</p>
 <p>him while our party was traveling through a deep, dangerous forest…or in the middle of a battle with a fierce group of monsters?</p>
 <p>I didn&#x27;t like our odds of surviving in a situation like that. We needed to get some experience now, while we had the chance.</p>
-<p><em>It&#x27;d be nice if I could convince Ruijerd to teach us how to fight, but…</em></p>
+<p>It&#x27;d be nice if I could convince Ruijerd to teach us how to fight, but…</p>
 <p>No. That wasn&#x27;t the right way to think about this. This was a give-and-take relationship; we were partners on equal footing, working together to achieve our goals. All three of us needed to figure out how to fight as a party.</p>
 <p>&quot;Okay, but we&#x27;re not just children.&quot;</p>
 <p>&quot;Yes you are.&quot;</p>
-<p>&quot;Uh…look, Ruijerd.&quot; I had to be firm and clear about this. The man was still under the impression that he was our guardian; he needed to understand that wasn&#x27;t the case. &quot;We&#x27;re helping you, and you&#x27;re helping us. Our goals are different, but we&#x27;re going to fight together… So all three of us are <em>warriors</em>, right?&quot;</p>
+<p>&quot;Uh…look, Ruijerd.&quot; I had to be firm and clear about this. The man was still under the impression that he was our guardian; he needed to understand that wasn&#x27;t the case. &quot;We&#x27;re helping you, and you&#x27;re helping us. Our goals are different, but we&#x27;re going to fight together… So all three of us are warriors, right?&quot;</p>
 <p>With the sternest expression I could muster, I met Ruijerd&#x27;s gaze directly and waited for a reply.</p>
 <p>It only took ten or fifteen seconds for him to make a decision. &quot;…Very well. You&#x27;re warriors then.&quot;</p>
 <p>I can&#x27;t say the man sounded particularly convinced, but at least he was going to let us tag along from now on. That was the important thing. &quot;Hear that, Eris? You&#x27;re going to fight, too, aren&#x27;t you?&quot;</p>
-<p>Eris blinked with surprise, but managed to stammer out an &quot;Oof course!&quot; and vigorously nodded her head. <em>Good girl.</em></p>
+<p>Eris blinked with surprise, but managed to stammer out an &quot;Oof course!&quot; and vigorously nodded her head. Good girl.</p>
 <p>&quot;All right then, Ruijerd,&quot; I said, returning to my usual demeanor. &quot;Can you lead us to this monster, please?&quot; There was no point acting all aggressive anymore. You had to be forceful when you were negotiating, that was all.</p>
 <p>***</p>
 <p>The first enemy we faced as a group was a monster known as a &quot;Stone Treant.&quot;</p>
@@ -99,7 +99,7 @@ nav_title = "Chapter 5"
 <p>There were a considerable variety of specific monsters that fell into this broad category. First, you had the Lesser Treant, found all over the world. These were mutated saplings that tended to imitate ordinary trees until a target wandered into striking distance. They were weak and slow enough that an average adult with no real training could chop one apart without too much difficulty.</p>
 <p>However, if a Lesser Treant happened to absorb enough nutrients from one of the Fairy Fountains located throughout the Great Forest, it would eventually mature into an Elder Treant. The highly concentrated magical power of the Fountains granted these monsters the ability to use various water spells.</p>
 <p>There were also Old Treants, which were already massive before they mutated, and Zombie Treants, trees that transformed after they withered…among many others. Of course there were distinct differences between all these varieties, but their basic patterns of behavior were very similar. They pretended to be normal trees and attacked anyone who came too close. After some time, they produced seeds that grew into more of their kind.</p>
-<p>The Stone Treant was something of a special case, though. It actually disguised itself as a <em>rock</em>.</p>
+<p>The Stone Treant was something of a special case, though. It actually disguised itself as a rock.</p>
 <p>You might be wondering how a tree could pull off that bit of camouflage. The answer was simple actually: Stone Treants had mutated into monsters back when they were still seeds. They could stay in their seed form even as they grew enormous, and were capable of abruptly transforming into tree-monsters whenever someone got too close.</p>
 <p>In their normal form, they were completely inconspicuous. They didn&#x27;t have a distinctive shape like a sunflower seed—at a glance, they really did look like lumpy, vaguely potato-shaped boulders.</p>
 <p>&quot;Is there anything we should keep in mind while we&#x27;re fighting this thing?&quot;</p>
@@ -124,15 +124,15 @@ nav_title = "Chapter 5"
 <p>I lifted my staff and paused to think things over. Fire and water spells were out, and just looking at the thing, wind didn&#x27;t seem like it would be too effective. That left me with earth. Earth was fine by me. I&#x27;d gotten pretty good with it after all those figures I&#x27;d made.</p>
 <p>Still, this was the first time I was fighting an actual monster. Better give this my all.</p>
 <p>Closing my eyes, I drew a single, deep breath, then channeled my magical energy to and through my hands. It was something I&#x27;d done tens of thousands of times by now; at this point, I could have cast spells with both my legs cut off.</p>
-<p><em>Projectile: Bullet-shaped rock.</em></p>
-<p><em>Toughness: As hard as possible.</em></p>
-<p><em>Shape: Snub-nosed, with multiple grooves.</em></p>
-<p><em>Modifications: High-speed rotation.</em></p>
-<p><em>Size: Slightly larger than a man&#x27;s fist.</em></p>
-<p><em>Velocity: As fast as possible.</em></p>
+<p>Projectile: Bullet-shaped rock.</p>
+<p>Toughness: As hard as possible.</p>
+<p>Shape: Snub-nosed, with multiple grooves.</p>
+<p>Modifications: High-speed rotation.</p>
+<p>Size: Slightly larger than a man&#x27;s fist.</p>
+<p>Velocity: As fast as possible.</p>
 <p>&quot;Stone Cannon!&quot;</p>
 <p>As the words left my mouth, a rock shot from the end of my staff with a ferocious bang. It zipped forward in a nearly perfect horizontal line, and smashed into the camouflaged Stone Treant that lay in wait ahead of us.</p>
-<p>With an ear-splitting sound, the monster blew apart into tiny pieces. I&#x27;d killed it <em>extremely</em> dead.</p>
+<p>With an ear-splitting sound, the monster blew apart into tiny pieces. I&#x27;d killed it extremely dead.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-03/insert-03.webp" alt="Illustration" loading="lazy" />
 </div>
@@ -172,19 +172,19 @@ nav_title = "Chapter 5"
 <p>The group we fought numbered about twenty. They probably could&#x27;ve killed any run-of-the-mill adventurer, but Eris faced the challenge cheerfully, swinging her new sword to and fro as Ruijerd offered a steady stream of advice. The girl had never put her life on the line in battle before today, but she didn&#x27;t look particularly tense. All that practicing with Ghislaine had clearly imbued her with quite a bit of confidence, and it seemed like the act of killing didn&#x27;t bother her much.</p>
 <p>For my part, I just hung back and watched as Eris cut down one coyote after another. I&#x27;d been planning to step in and help if necessary, but Ruijerd was playing his supporting role so flawlessly that it might have been counterproductive. Still, doing nothing was pretty boring, and I started to feel a little left out after a while. Coming up with some way for us to fight as a group definitely needed to be my top priority.</p>
 <p>In any case…Eris really was a remarkable fighter. She&#x27;d reached the Advanced level in the Sword God style just before my birthday, right? At this point, I probably didn&#x27;t stand a chance against her unless I was using magic. Heck, even Paul was only an Advanced level swordsman…although he&#x27;d reached that rank in all three styles, and had much more real-life combat experience. Still, Ghislaine said Eris had more raw talent than Paul ever did. She&#x27;d probably leave him in the dust in no time.</p>
-<p><em>Eat it, old man.</em></p>
+<p>Eat it, old man.</p>
 <p>&quot;Rudeus! Over here!&quot;</p>
 <p>At some point, they&#x27;d finished off the last of the monsters; Ruijerd was taking out his knives as I approached. &quot;Pax Coyote pelts are valuable. We were fortunate to find such a large group. Help me skin them.&quot;</p>
 <p>But I had something else to attend to first. &quot;Hold on just a second.&quot;</p>
 <p>Walking over to Eris, I found her panting for breath…and wounded in three distinct places. Less than thirty minutes had passed since the battle began, but with Ruijerd devoting himself to his backup role, it had fallen to her to actually kill the vast majority of the monsters. Of course she&#x27;d be exhausted.</p>
-<p>Couldn&#x27;t hurt to get those injuries dealt with now at least… <em>&quot;Let this divine power be as satisfying nourishment, giving one who has lost their strength the strength to rise again—</em>Healing.<em>&quot;</em></p>
+<p>Couldn&#x27;t hurt to get those injuries dealt with now at least… &quot;Let this divine power be as satisfying nourishment, giving one who has lost their strength the strength to rise again—Healing.&quot;</p>
 <p>&quot;Thanks.&quot;</p>
 <p>&quot;Are you all right, Eris?&quot;</p>
 <p>&quot;Hah! Of course! I barely even broke a—mgh.&quot;</p>
 <p>That smug grin of hers looked a little gruesome with monster blood all over her face, so I wiped some of it off with my sleeve. The experience hadn&#x27;t shaken her in the slightest. That was…pretty impressive. Personally, I was about ready to puke just from the smell.</p>
 <p>&quot;Hmm. No sweat, huh? That was your first real battle ever, you know.&quot;</p>
 <p>&quot;So what? I know how to fight. Ghislaine taught me everything.&quot;</p>
-<p><em>Right, right. Practice like you play, and play like you practice.</em> Eris always absorbed every word of Ghislaine&#x27;s lessons. Maybe it wouldn&#x27;t be that surprising if she could apply everything she&#x27;d learned in actual battle.</p>
+<p>Right, right. Practice like you play, and play like you practice. Eris always absorbed every word of Ghislaine&#x27;s lessons. Maybe it wouldn&#x27;t be that surprising if she could apply everything she&#x27;d learned in actual battle.</p>
 <p>I mean, if you focused on fighting just like you&#x27;d been taught, what difference did it make if your enemies actually bled?</p>
 <p>&quot;Good grief…&quot; With a wry smile, I turned away and headed back over to Ruijerd, who&#x27;d been watching us the whole time.</p>
 <p>&quot;Why did you have Eris do all the fighting, Rudeus?&quot;</p>
@@ -204,13 +204,13 @@ nav_title = "Chapter 5"
 <p>For dinner, we had Great Tortoise meat. There was far too much of it to eat in one sitting, so we started off by drying most of it out for later—under Ruijerd&#x27;s direction of course.</p>
 <p>To be blunt, the stuff was somewhat vile. Its scent was overpowering and it was painfully tough to boot. Apparently the normal approach was to soften it up in a simmering stew for hours, but Ruijerd opted for the quick and easy route of roasting it over a roaring fire.</p>
 <p>At least the fire itself wasn&#x27;t too hard to get going. Stone Treants evidently dried out very quickly after they died, so we didn&#x27;t need to leave our wood sitting in the sun or anything. No wonder Ruijerd saw those things as walking lumps of lumber.</p>
-<p>&quot;…Guh.&quot; <em>Honestly, though, this meat is seriously vile. Who said this stuff was &quot;delicious&quot; anyway?</em></p>
-<p><em>Wait, that was totally you, Ruijerd. You&#x27;re so full of it! I mean…maybe if you covered up the smell with ginger, it might be sort of edible? Maybe? Man, do I ever want some beef right now. And rice…</em></p>
+<p>&quot;…Guh.&quot; Honestly, though, this meat is seriously vile. Who said this stuff was &quot;delicious&quot; anyway?</p>
+<p>Wait, that was totally you, Ruijerd. You&#x27;re so full of it! I mean…maybe if you covered up the smell with ginger, it might be sort of edible? Maybe? Man, do I ever want some beef right now. And rice…</p>
 <p>A memorable line from a certain manga floated through my mind: &quot;Grilled meat is glorious. And it&#x27;s glorious because it&#x27;s tasty.&quot; Truer words were never spoken. Meat that isn&#x27;t tasty isn&#x27;t glorious in the slightest.</p>
 <p>In retrospect, I&#x27;d eaten very well in the Kingdom of Asura. Bread may have been the staple food back there, but they usually complemented it with meat, fish, vegetables, and some sort of dessert, with all the variety of some three-star restaurant. And I&#x27;d spent most of my time there way out in the sticks; wasn&#x27;t a spoiled little princess like Eris going to have an even harder time adjusting?</p>
 <p>When I looked over, though, I found her gnawing away contentedly at her own chunk of meat.</p>
 <p>&quot;Hey, this isn&#x27;t half bad.&quot;</p>
-<p><em>Wait, seriously?!</em></p>
+<p>Wait, seriously?!</p>
 <p>Well…maybe it made sense. When you give a kid who&#x27;s only eaten healthy stuff their first taste of junk food, they always go crazy for it, right?</p>
 <p>&quot;What?&quot; Eris said as I stared at her.</p>
 <p>&quot;Uh, it&#x27;s nothing. You enjoying that?&quot;</p>
@@ -227,10 +227,10 @@ nav_title = "Chapter 5"
 <p>&quot;…Say what?&quot;</p>
 <p>&quot;The spear of a Superd is made out of their soul.&quot;</p>
 <p>Damn. I hadn&#x27;t been expecting such a…philosophical answer.</p>
-<p><em>Okay, sure. Right. So your spear is, uh, your soul. And your soul is your way of life, right? Your way of life is whatever lies in your heart…and your heart is just what you love. So basically, you love your spear passionately…or something?</em></p>
+<p>Okay, sure. Right. So your spear is, uh, your soul. And your soul is your way of life, right? Your way of life is whatever lies in your heart…and your heart is just what you love. So basically, you love your spear passionately…or something?</p>
 <p>Luckily, Ruijerd elaborated before I could get myself too tied up in knots. &quot;Every one of us is born with their own spear, you see.&quot;</p>
 <p>The Superd were born with a three-pointed tail. It grew with them until they reached a certain age, at which point it would stiffen up and fall off. Yet even when separated, it was still somehow part of their body; the more they used it, the sharper and more deadly it would grow. With enough time and effort, these tridents could become peerless weapons, virtually unbreakable and capable of piercing through pretty much anything.</p>
 <p>&quot;…And that&#x27;s why we mustn&#x27;t cast aside our spears until the day we die.&quot; Ruijerd&#x27;s face was full of bitter regret at the mistake he&#x27;d made four centuries ago.</p>
 <p>By this point, his spear was probably harder and sharper than any other Superd&#x27;s in the world. I was definitely glad we had him on our side.</p>
-<p>Still, his outlook on the world…worried me sometimes. The man was as rigid as his weapon. If you can&#x27;t bend a little sometimes, you&#x27;ll never learn to accept other people as they are. And that means they&#x27;ll never accept you either. There&#x27;s such a thing as being <em>too</em> principled, you know?</p>
+<p>Still, his outlook on the world…worried me sometimes. The man was as rigid as his weapon. If you can&#x27;t bend a little sometimes, you&#x27;ll never learn to accept other people as they are. And that means they&#x27;ll never accept you either. There&#x27;s such a thing as being too principled, you know?</p>
 <p>In any case…after three days of fighting monsters and camping under the stars, our little party managed to reach the nearest town.</p>

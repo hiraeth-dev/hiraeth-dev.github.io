@@ -47,19 +47,19 @@ nav_title = "Extra Chapter"
 <p>Derrick was a man with a more conventional mindset. In no small part, this was because the Redbats were merely mid-rank provincial nobility. They lived in an entirely different world from the decadence of the capital.</p>
 <p>One might wonder why such a young man had been granted the prestigious role of guardian mage to the second princess, but the answer was quite simple: his results in the Institute had been superb. Advanced-tier magicians of noble birth were a rare commodity.</p>
 <p>&quot;Oh, Derrick…you really ought to learn what it means to be an Asuran noble.&quot;</p>
-<p>&quot;Milady is quite right, Derrick. You&#x27;re <em>always</em> like this. If you don&#x27;t figure out how to read the room, you&#x27;ll never be popular with the ladies.&quot;</p>
+<p>&quot;Milady is quite right, Derrick. You&#x27;re always like this. If you don&#x27;t figure out how to read the room, you&#x27;ll never be popular with the ladies.&quot;</p>
 <p>As Ariel and Luke shrugged their shoulders, Derrick heaved a heavy sigh.</p>
 <p>&quot;That&#x27;s not what I meant, Lady Ariel. You may very well rule this kingdom someday, so it seems unwise to expose yourself to gossip and jealousy. You risk making enemies.&quot;</p>
-<p>This time, it was Princess Ariel&#x27;s turn to let out a long sigh. &quot;Look, Derrick. You&#x27;re always saying things like that, but you do remember that I&#x27;m the <em>second princess</em>, correct?&quot;</p>
+<p>This time, it was Princess Ariel&#x27;s turn to let out a long sigh. &quot;Look, Derrick. You&#x27;re always saying things like that, but you do remember that I&#x27;m the second princess, correct?&quot;</p>
 <p>&quot;Of course. Which means you&#x27;re high in the line of succession, and a potential candidate to succeed the throne.&quot;</p>
 <p>&quot;I have two older brothers and one older sister. It does appear that they&#x27;ve found a husband for my sister, but my brothers are wrestling ruthlessly for the throne. With them around, there isn&#x27;t the slightest chance I&#x27;ll ever become queen.&quot;</p>
 <p>&quot;That isn&#x27;t true. You&#x27;re the daughter of the queen consort. That makes you the only fully legitimate heir to the throne, and—&quot;</p>
-<p>&quot;Stop it, Derrick,&quot; Ariel interrupted sharply. &quot;What if those words reached my brothers&#x27; ears? Do you <em>want</em> them to send assassins after me? It&#x27;s bad enough that I&#x27;ve got all these nobles swearing fealty to me out of self-interest…&quot;</p>
+<p>&quot;Stop it, Derrick,&quot; Ariel interrupted sharply. &quot;What if those words reached my brothers&#x27; ears? Do you want them to send assassins after me? It&#x27;s bad enough that I&#x27;ve got all these nobles swearing fealty to me out of self-interest…&quot;</p>
 <p>&quot;If you chose to fight, Lady Ariel, I&#x27;d happily lay down my life to protect you from anyone they may send.&quot;</p>
 <p>&quot;Would you please stop saying such alarming things? That&#x27;s not too convincing anyway. I know what you really think of Luke and</p>
 <p>me… You&#x27;d probably like to get me caught up in a power struggle just so you can abandon me when the fighting starts, wouldn&#x27;t you?&quot;</p>
 <p>&quot;Wha—&quot; Derrick&#x27;s eyes went wide with shock. After a moment, his body began quivering, his face grew fierce, and he clenched his hands into fists.</p>
-<p>&quot;Look here, Derrick. I don&#x27;t care if I never take the throne. I can still drink tea in a lovely garden and live my life the way I please, and that&#x27;s enough for me. I wouldn&#x27;t stand a chance against my brothers anyway. The idea of throwing myself voluntarily into that mess is just <em>absurd</em>.&quot;</p>
+<p>&quot;Look here, Derrick. I don&#x27;t care if I never take the throne. I can still drink tea in a lovely garden and live my life the way I please, and that&#x27;s enough for me. I wouldn&#x27;t stand a chance against my brothers anyway. The idea of throwing myself voluntarily into that mess is just absurd.&quot;</p>
 <p>Ariel&#x27;s pessimism was fully justifiable. No matter how high her place in the order of succession, she was younger than her rivals and had far fewer allies. Her chances of victory were slim to none. Surely, then, it was wiser not to strive for the throne at all and simply live a life of indulgent pleasure. She was still a princess of the largest country in the world, so that option was available to her.</p>
 <p>&quot;Never mind then…&quot; Derrick&#x27;s heart was clouded with frustration, but he could find no other words to say.</p>
 <p>As he turned and left the garden, Ariel and Luke shrugged their shoulders, then resumed their discourse on the nipples of the palace&#x27;s women.</p>
@@ -70,12 +70,12 @@ nav_title = "Extra Chapter"
 <p>As he shut himself up inside the lavatory, Derrick let out a long sigh. He was mentally replaying the conversation he&#x27;d just had with Princess Ariel. Ariel insisted she had no interest whatsoever in becoming queen, but Derrick so badly wanted her to take the throne.</p>
 <p>It wasn&#x27;t that he thought her brothers, the first prince and second prince, were unworthy candidates. If either took the throne, they&#x27;d no doubt mature into a respectable, ordinary king comparable to those who&#x27;d come before.</p>
 <p>But the way Derrick saw it, that wasn&#x27;t good enough. With either prince on the throne, Asura would continue on its current path—rotten to the core, but expanding nonetheless. The nobility&#x27;s ugly, meaningless squabbling would continue unchecked, wasting money and energy that may otherwise go toward progress. And in time, Asura might grow vulnerable to foreign influence.</p>
-<p>This land had never known hunger. No matter how corrupt the nobility, no matter how severe their taxes, the people <em>never</em> went hungry. Thus, their discontent rarely festered into fury; few emerged to challenge the status quo. There had been no major rebellions or civil wars.</p>
+<p>This land had never known hunger. No matter how corrupt the nobility, no matter how severe their taxes, the people never went hungry. Thus, their discontent rarely festered into fury; few emerged to challenge the status quo. There had been no major rebellions or civil wars.</p>
 <p>As a result of this, the kingdom had stagnated.</p>
 <p>Of course, it was still making steady progress in the fields of magic and technology. But the King Dragon Realm to the south had overtaken it in technological development, and the Magic Nations to the north were making greater strides in arcane research.</p>
 <p>While Asura still had overwhelming advantages in other respects, at this rate it was hard to say where things would stand after another century…or even half a century. The King Dragon Realm in particular was watching Asura like a hawk for any sign of weakness, eager to claim some part of its bountiful land.</p>
 <p>Asura currently believed that the mountains lining its borders meant it was safe from foreign invasion, but how would it fare against an even more technologically advanced King Dragon Realm army fifty years from now? And what if the Magic Nations seized the chance to invade from the north…?</p>
-<p>&quot;Lady Ariel <em>could</em> change everything, and yet…&quot;</p>
+<p>&quot;Lady Ariel could change everything, and yet…&quot;</p>
 <p>Derrick genuinely believed that the second princess was capable of pushing Asura onto a different path.</p>
 <p>He still remembered the first time he&#x27;d met her very clearly. It was only a few years earlier, at a coming-of-age celebration held by the kingdom. At the time, Derrick had just graduated from the Institute of Magic. While he hadn&#x27;t been the top student of his class, he&#x27;d placed very highly, and he&#x27;d already secured a post with the Asuran Royal Magicians, who he&#x27;d be joining a few months later.</p>
 <p>Derrick knew he was a capable magician, but also an unremarkable one. He had no high expectations for himself. But that day, he encountered a certain charming young girl. Although Ariel was not yet of age herself, she&#x27;d been invited to the party as the guest of honor. Despite her youth, she delivered her congratulatory speech in a clear, confident style; in Derrick&#x27;s eyes, her wit and intelligence outshone the top student who&#x27;d spoken at his graduation from the Institute.</p>
@@ -85,7 +85,7 @@ nav_title = "Extra Chapter"
 <p>However, in all the years he&#x27;d spent in these places, Derrick had never heard anyone speak badly of Ariel.</p>
 <p>He had every confidence that she could become a ruler like Gaunis Freean Asura, who&#x27;d led humankind through the latter stages of the Laplace War and taken the throne in its aftermath—a ruler beloved by all her people. There were already quite a few people who would gladly give their lives for Ariel&#x27;s sake. Derrick himself was one of them; it had been painful and infuriating to hear her dismiss that loyalty so casually.</p>
 <p>&quot;To be sure, her life&#x27;s at little risk if she keeps acting in this fashion… but she&#x27;s lowering herself to the level of some corrupt nobleman…&quot;</p>
-<p>Perhaps she truly didn&#x27;t <em>want</em> to shoulder the expectations of her countrymen? Had he been chosen as mage guardian specifically because she thought he wouldn&#x27;t push her toward a more difficult</p>
+<p>Perhaps she truly didn&#x27;t want to shoulder the expectations of her countrymen? Had he been chosen as mage guardian specifically because she thought he wouldn&#x27;t push her toward a more difficult</p>
 <p>path? The princess never said as much, but perhaps she detested him…</p>
 <p>Derrick heaved another sigh.</p>
 <p>But just as he was sinking deeper into melancholy, he heard the faint sound of a human voice.</p>
@@ -132,14 +132,14 @@ nav_title = "Extra Chapter"
 <p>the Kingdom&#x27;s borders. In settlements near forests, children were often told that a boar would carry them off and eat them unless they went to bed on time, as others might be threatened with stories of the Superd.</p>
 <p>Derrick, like most of his countrymen, was familiar with the name and appearance of these monsters, and their reputation as a fearsome beast.</p>
 <p>&quot;How…?&quot;</p>
-<p>Why was there a Terminator Boar <em>here</em>? This was the royal palace, home to the ruling family of the world&#x27;s largest nation. It wasn&#x27;t a <em>safe</em> place by any means, but it was certainly the last location one would ever expect to find a wild monster. How could one possibly have appeared here?</p>
+<p>Why was there a Terminator Boar here? This was the royal palace, home to the ruling family of the world&#x27;s largest nation. It wasn&#x27;t a safe place by any means, but it was certainly the last location one would ever expect to find a wild monster. How could one possibly have appeared here?</p>
 <p>Derrick&#x27;s mind flashed to the conversation he&#x27;d just overheard. Had that noble somehow arranged this? That couldn&#x27;t be right. No mere nobleman could possibly have smuggled such a wild, enormous beast into the heart of the palace. Even the kingdom&#x27;s most powerful ministers wouldn&#x27;t be capable of such a thing.</p>
 <p>Although he had no way of knowing this, the Terminator Boar had in fact been teleported to this location only moments ago as a result of the Fittoa Displacement Incident.</p>
 <p>As Derrick&#x27;s mind struggled to process the situation, his gaze found Princess Ariel, and he let out an involuntary gasp.</p>
 <p>She was still at her table, chattering happily away with Luke about some vulgar topic. The two of them hadn&#x27;t noticed the Terminator Boar—even though it was staring right at them, its eyes glittering like a hunter sizing up its prey.</p>
 <p>Derrick broke into a run. And as he ran, he began chanting a magic incantation.</p>
 <p>However, the Terminator Boar was also on the move. Perhaps it had noticed Derrick, or sensed a threat; either way, it charged through the garden&#x27;s vegetation, heading straight for Princess Ariel.</p>
-<p><em>I won&#x27;t make it in time!</em></p>
+<p>I won&#x27;t make it in time!</p>
 <p>Derrick abandoned his incantation halfway through and shouted, &quot;Run, Lady Ariel!&quot; at the top of his lungs.</p>
 <p>With an exclamation of surprise, the princess rose to her feet just in time to notice the huge brown blur rushing at her from the side. She jumped out of its path.</p>
 <p>As Ariel hit the ground, the Terminator Boar smashed its way through a number of the garden&#x27;s delicate trees, then turned back toward its target.</p>
@@ -150,10 +150,10 @@ nav_title = "Extra Chapter"
 <p>The punch broke all his ribs and crushed several vital organs. Blood shot from his mouth as he hurtled through the air. When he finally smashed into a wall some five meters away, he felt his spine shatter as well.</p>
 <p>&quot;Ghaagh!&quot;</p>
 <p>He was only fortunate in that he didn&#x27;t lose consciousness immediately. But perhaps that wasn&#x27;t much of a blessing.</p>
-<p>Derrick&#x27;s mind was oddly clear. He knew he was done for. He could smell his own death in the air. The wounds he&#x27;d suffered were fatal ones, without a doubt. <em>I saw someone die from injuries much like these once, didn&#x27;t I…?</em></p>
+<p>Derrick&#x27;s mind was oddly clear. He knew he was done for. He could smell his own death in the air. The wounds he&#x27;d suffered were fatal ones, without a doubt. I saw someone die from injuries much like these once, didn&#x27;t I…?</p>
 <p>He felt no fear. Perhaps it had all happened so suddenly that his brain hadn&#x27;t quite caught up yet.</p>
-<p>Staring across the garden, Derrick watched Luke draw his sword and charge straight at the Terminator Boar. <em>Don&#x27;t be a fool, Luke… You can&#x27;t possibly beat that thing single-handedly… Oh, right. The door&#x27;s on that side… So you can&#x27;t just run away, can you…?</em></p>
-<p>Derrick tried looking around by moving just his eyes. <em>What about Lady Ariel? Is she safe?</em></p>
+<p>Staring across the garden, Derrick watched Luke draw his sword and charge straight at the Terminator Boar. Don&#x27;t be a fool, Luke… You can&#x27;t possibly beat that thing single-handedly… Oh, right. The door&#x27;s on that side… So you can&#x27;t just run away, can you…?</p>
+<p>Derrick tried looking around by moving just his eyes. What about Lady Ariel? Is she safe?</p>
 <p>He found her soon enough. She was rushing toward him—her face full of shock and confusion, but not terror.</p>
 <p>&quot;Derrick! Oh, this can&#x27;t be happening… We&#x27;ve got to get a healer here at once!&quot;</p>
 <p>As the princess cried out in alarm, Derrick mustered what little strength remained to him to speak. &quot;Ungh… Leave me… You have to…run away…&quot; He coughed.</p>
@@ -172,7 +172,7 @@ nav_title = "Extra Chapter"
 <p>Naturally enough, words meant nothing at all to a Terminator Boar. The beast only snuffled softly, its nostrils trembling in anticipation of a tasty meal.</p>
 <p>It took one step forward, then another.</p>
 <p>Watching helplessly from the ground, Derrick said a silent prayer. As a follower of the Millis Church, he turned to the heavens in search of aid.</p>
-<p><em>Please, God…please help us. You can take my life, but help Princess Ariel. This world still has need of her…</em></p>
+<p>Please, God…please help us. You can take my life, but help Princess Ariel. This world still has need of her…</p>
 <p>He prayed in vain of course. Derrick knew that better than anyone. Saint Millis had been a truly great man, and the savior of humanity…but you couldn&#x27;t expect him to grant you a convenient miracle every time you needed one. That was just the way things were. Even so, Derrick couldn&#x27;t help beseeching him.</p>
 <p>At last, the beast drew within striking distance of Princess Ariel. Its massive fist rose into the air.</p>
 <p>But then—the prayer was answered.</p>
@@ -180,7 +180,7 @@ nav_title = "Extra Chapter"
 <p>With an ear-splitting shriek, an angel tumbled from the heavens. It was a young, white-haired angel—wearing rather shoddy clothes.</p>
 <p>&quot;Aah! Aaaaaah!&quot;</p>
 <p>With a charming, half-crazed war cry, she stretched both hands toward the massive boar…and somehow, blew the upper half of its body apart.</p>
-<p><em>Thank you, God… Thank you so much.</em> Witnessing this, Derrick shed one final tear. <em>Please…watch over Lady Ariel.</em></p>
+<p>Thank you, God… Thank you so much. Witnessing this, Derrick shed one final tear. Please…watch over Lady Ariel.</p>
 <p>And with his heart full of peace, the guardian mage breathed his last…</p>
 <p>***</p>
 <p>The Fittoa Displacement Incident cost one young magician his life—and provided Ariel Anemoi Asura with a new and different purpose.</p>

@@ -12,7 +12,7 @@ nav_title = "Chapter 2"
 <p>&quot;Morning, Sylphie.&quot;</p>
 <p>Lucie was still only a few months old, but she seemed to be strong and healthy so far. Sylphie was doing well, too. The only difference was I felt like she&#x27;d grown more feminine somehow. Maybe it was the way she&#x27;d let her hair grow out? Or the whole &quot;new mother&quot; aura? Or just the fact that she&#x27;d gotten a little older?</p>
 <p>Whatever the case might be, she was blossoming into a Hollywood-style beauty. She could sit silently on the sofa, doing nothing in particular, and it still felt like she was posing for a portrait. Sometimes I would even hesitate to speak to her, I was so awestruck.</p>
-<p>Still, when I <em>did</em> get her attention, she was the same Sylphie I knew and loved—eager for attention and affection. That was always reassuring.</p>
+<p>Still, when I did get her attention, she was the same Sylphie I knew and loved—eager for attention and affection. That was always reassuring.</p>
 <p>&quot;Lucie&#x27;s full of energy again today,&quot; she said, smiling up at me.</p>
 <p>I looked down at our baby, who was currently sucking furiously away at my wife&#x27;s breast. She was going at it just as vigorously I did in bed. Like father, like daughter.</p>
 <p>Lucie was a healthy baby, but she was a little bit on the quiet side. She didn&#x27;t cry much at all. For a while, I was anxious that she might be sick or have some sort of physical problem. Whenever I raised the subject, though, Sylphie just smiled and called me a &quot;worrywart.&quot; I didn&#x27;t remember being so jumpy back when my</p>
@@ -21,11 +21,11 @@ nav_title = "Chapter 2"
 <p>That gave me a start, obviously. The word &quot;reincarnation&quot; flashed through my mind.</p>
 <p>I was a pretty crappy person in my previous life, to be honest. The idea made me worried. What if Lucie was the reincarnation of some good-for-nothing moron from Japan?</p>
 <p>The idea kept gnawing away at me for a while. Ultimately, I resorted to speaking to my baby daughter in Japanese and English to see if she reacted.</p>
-<p>Anyone who happened to walk by would have seen me muttering to my newborn child things like &quot;You&#x27;ve figured it out by now, right? This is a parallel universe…&quot; and <em>&quot;You are my sunshine! I am a pen!</em>&quot;</p>
+<p>Anyone who happened to walk by would have seen me muttering to my newborn child things like &quot;You&#x27;ve figured it out by now, right? This is a parallel universe…&quot; and &quot;You are my sunshine! I am a pen!&quot;</p>
 <p>I&#x27;m sure it must have been a comical sight. I remember Aisha snickering at me from the shadows.</p>
 <p>My methods weren&#x27;t exactly the best, but I came away thinking that my daughter probably wasn&#x27;t anyone&#x27;s reincarnation. When I talked to her, all she&#x27;d do was smile and babble incoherently.</p>
-<p>It was possible she was just hiding her true nature, of course, but I don&#x27;t know how many grown-ups could keep up a perfect imitation of a baby for this long. And even if that <em>was</em> the case, it was kind of cute in its own way to imagine somebody desperately pretending to be an infant.</p>
-<p>Yeah. One way or another, Lucie was <em>definitely</em> cute. I could sit next to her cradle all day without ever getting bored of watching her. All in all, I didn&#x27;t really care if she was somebody&#x27;s reincarnation. I was going to take good care of her either way. Paul had done the same for me, after all.</p>
+<p>It was possible she was just hiding her true nature, of course, but I don&#x27;t know how many grown-ups could keep up a perfect imitation of a baby for this long. And even if that was the case, it was kind of cute in its own way to imagine somebody desperately pretending to be an infant.</p>
+<p>Yeah. One way or another, Lucie was definitely cute. I could sit next to her cradle all day without ever getting bored of watching her. All in all, I didn&#x27;t really care if she was somebody&#x27;s reincarnation. I was going to take good care of her either way. Paul had done the same for me, after all.</p>
 <p>&quot;Our daughter&#x27;s as adorable as ever, I see.&quot;</p>
 <p>&quot;No kidding. Why is she so cute, anyway?&quot;</p>
 <p>&quot;Probably takes after her mom.&quot;</p>
@@ -63,7 +63,7 @@ nav_title = "Chapter 2"
 <p>She was still at the age where it was natural for a girl to be attached to her mother…or getting ready to rebel against her. Either way, it&#x27;s a period of your life where your relationship with your parents feels very important.</p>
 <p>Still, Norn understood Zenith&#x27;s condition, and she was clearly trying to put her mother&#x27;s feelings before her own. I never would have expected that kind of maturity from her a few years ago, but I guess people do change.</p>
 <p>&quot;…&quot;</p>
-<p>It was hard to know what any of it really meant on Zenith&#x27;s end, though. Did she just <em>feel</em> a connection to her daughter, on some instinctive level? Or was she slowly starting to regain pieces of her memory?</p>
+<p>It was hard to know what any of it really meant on Zenith&#x27;s end, though. Did she just feel a connection to her daughter, on some instinctive level? Or was she slowly starting to regain pieces of her memory?</p>
 <p>For the moment, it seemed best to just wait and see what happened.</p>
 <p>&quot;Okay, everyone. Let&#x27;s eat.&quot;</p>
 <p>We all ate our breakfast together. Sylphie was seated on my right, and Roxy on my left. On the other side of the table were Aisha, Lilia, and Zenith, in that order. Norn would have been sitting next to her mother, but she wasn&#x27;t here today.</p>
@@ -92,7 +92,7 @@ nav_title = "Chapter 2"
 <p>&quot;Where d&#x27;you get off dumpin&#x27; us and then pickin&#x27; up a second wife anyway? Fuckin&#x27; unfair is what it is.&quot;</p>
 <p>&quot;We&#x27;re graduating this year, ya know. Guess we gotta grab ourselves someone too.&quot;</p>
 <p>&quot;Yeah. It all comes down to this. Gotta get us a man before we head home!&quot;</p>
-<p>They seemed genuinely worked up. It felt they were envious of me—not my wives, mind you, but <em>me</em>.</p>
+<p>They seemed genuinely worked up. It felt they were envious of me—not my wives, mind you, but me.</p>
 <p>Deep down, the two of them clearly wanted to be leading a &quot;pack&quot; of their own. It was that Decepticon mindset at work again.</p>
 <p>&quot;Good luck, you two,&quot; offered Sylphie with a pleasant smile.</p>
 <p>It was the teasing response of a woman who had some confidence in her own position. I was a little surprised, honestly.</p>
@@ -116,7 +116,7 @@ nav_title = "Chapter 2"
 <p>Linia and Pursena reacted to this by sniffling loudly in exaggerated sympathy.</p>
 <p>&quot;Aw, the poor sweet kid!&quot;</p>
 <p>&quot;I&#x27;m tearin&#x27; up here! C&#x27;mon, Fitz! A quiet type like you is obviously gonna fade into the background once Boss picks up number three an&#x27; four, right? This is so sad!&quot;</p>
-<p><em>Wow. Listen to these jerks go…</em></p>
+<p>Wow. Listen to these jerks go…</p>
 <p>I wasn&#x27;t planning on adding any more wives to my family, as it happened. And even if I did, I wasn&#x27;t going to start neglecting Sylphie for any reason. She&#x27;d put her body on the line to help me out. I was never, ever going to forget that.</p>
 <p>Not that I&#x27;d repaid her too well so far, what with the Roxy thing and all.</p>
 <p>&quot;Huh? That&#x27;s not true! Um…right, Rudy?&quot;</p>
@@ -132,21 +132,21 @@ nav_title = "Chapter 2"
 <p>&quot;…That&#x27;s not really necessary. I&#x27;m all right.&quot;</p>
 <p>She was looking up at me with something like expectation in her eyes.</p>
 <p>Without any further hesitation, I embraced Roxy with my left arm, keeping Sylphie pressed against me with my right.</p>
-<p>Ah, what bliss. I had a wife on <em>both</em> sides now.</p>
+<p>Ah, what bliss. I had a wife on both sides now.</p>
 <p>&quot;I LOVE BOTH OF YOU!&quot;</p>
 <p>This time, I got a chorus of boos from some of the onlooking students. They were probably members of the Millis Church or something.</p>
-<p><em>Whatever! Your laws don&#x27;t apply to me! I</em> am <em>the law!</em></p>
+<p>Whatever! Your laws don&#x27;t apply to me! I am the law!</p>
 <p>In any case, all the public attention was getting to be a bit much for Sylphie. Her face was as red as a tomato. &quot;Oh, good grief! I&#x27;m going to meet up with Princess Ariel now, all right?&quot;</p>
 <p>&quot;Sure. See you at lunchtime, Sylphie.&quot;</p>
-<p>&quot;It&#x27;s <em>Fitz</em> when we&#x27;re at the University, remember?!&quot;</p>
+<p>&quot;It&#x27;s Fitz when we&#x27;re at the University, remember?!&quot;</p>
 <p>Oh, right. That whole bit had slipped my mind entirely.</p>
-<p>I hadn&#x27;t attended classes here in nearly a year, so I guess I&#x27;d just forgotten. To be honest, though, it didn&#x27;t feel like there was <em>that</em> much of a point in her continuing the charade. She was just too pretty these days to be convincing as a boy.</p>
+<p>I hadn&#x27;t attended classes here in nearly a year, so I guess I&#x27;d just forgotten. To be honest, though, it didn&#x27;t feel like there was that much of a point in her continuing the charade. She was just too pretty these days to be convincing as a boy.</p>
 <p>Well, whatever. She was cute either way, and it was her call how she wanted to present herself.</p>
 <p>&quot;I suppose I&#x27;ll be heading to the faculty offices myself, then,&quot; said Roxy after we watched Sylphie trot away.</p>
 <p>&quot;Oh, that reminds me. You should really call me Professor Roxy while we&#x27;re on school grounds.&quot;</p>
 <p>Hmm. True, we had to keep our personal and professional lives separate.</p>
-<p>Fine with me, of course. But more importantly… Roxy really was a <em>professor</em> today, wasn&#x27;t she? That was kind of…spicy. I found myself thinking back to last night.</p>
-<p><em>I wonder how late they let you borrow the keys for the P.E. storage shed…</em></p>
+<p>Fine with me, of course. But more importantly… Roxy really was a professor today, wasn&#x27;t she? That was kind of…spicy. I found myself thinking back to last night.</p>
+<p>I wonder how late they let you borrow the keys for the P.E. storage shed…</p>
 <p>At this point, I abruptly remembered something that felt important. &quot;Uh, Professor Roxy?&quot;</p>
 <p>&quot;Yes, Rudeus?&quot; said Roxy, looking up at me with a calm, professional smile.</p>
 <p>&quot;This is the first day of the new term, right? Doesn&#x27;t the faculty have an early meeting or anything?&quot;</p>
@@ -164,7 +164,7 @@ nav_title = "Chapter 2"
 <p>&quot;Oh yeah, that reminds me. There&#x27;s a rumor going around about you, Boss.&quot;</p>
 <p>Linia turned to face me, her ears pricking straight up. I could see the curiosity sparkling in her eyes.</p>
 <p>&quot;Really?&quot;</p>
-<p>&quot;Yep. They&#x27;re sayin&#x27; ya fought a <em>really</em> epic battle. So epic ya lost yer left hand.&quot;</p>
+<p>&quot;Yep. They&#x27;re sayin&#x27; ya fought a really epic battle. So epic ya lost yer left hand.&quot;</p>
 <p>&quot;Ah…&quot;</p>
 <p>Come to think of it, all I&#x27;d told these two was that I&#x27;d made it back from my journey, and that Roxy would be teaching at the University. Zanoba was the only friend I&#x27;d gone into any of the details with at this point.</p>
 <p>Had he spread the word around, then? Or maybe it was Cliff. He&#x27;d probably heard the whole story from Elinalise, after all.</p>
@@ -173,9 +173,9 @@ nav_title = "Chapter 2"
 <p>What? Where did the Seven Great Powers thing come from?!</p>
 <p>&quot;Yer opponent had to scuttle away in shame, am I right? Way to go!&quot;</p>
 <p>&quot;Wait. Wait! Slow down for a second, Linia!&quot;</p>
-<p>This was just bizarre. How the hell had the rumor gotten <em>this</em>  twisted around? I really didn&#x27;t appreciate it. What if it circulated</p>
-<p>enough that everyone started actually believing I&#x27;d beaten down one of the Seven Great Powers? What if one of the <em>Powers</em> heard that rumor?</p>
-<p>What if it was number two on that list? A guy by the name of <em>Orsted</em>?</p>
+<p>This was just bizarre. How the hell had the rumor gotten this  twisted around? I really didn&#x27;t appreciate it. What if it circulated</p>
+<p>enough that everyone started actually believing I&#x27;d beaten down one of the Seven Great Powers? What if one of the Powers heard that rumor?</p>
+<p>What if it was number two on that list? A guy by the name of Orsted?</p>
 <p>&quot;Well, that was th&#x27; story I just came up with now, anyway. Don&#x27;t worry, I&#x27;ll make sure ta spread it all arou—myaaa!&quot;</p>
 <p>Before Linia could finish her sentence, I&#x27;d grabbed her by the tail and given it a ferocious yank. She lashed out at me with her claws extended, but I evaded her swipes using my Demon Eye. After a few failed attempts, she pressed her hands against her butt and glared up at me with tears in her eyes. &quot;What was that for?! Don&#x27;t yank on a lady&#x27;s tail!&quot;</p>
 <p>I glared right back at her. &quot;Don&#x27;t spread any exaggerated rumors around, you got that? I&#x27;ll pull that thing right off you!&quot;</p>
@@ -216,9 +216,9 @@ nav_title = "Chapter 2"
 <p>He had a point. Maybe I had been avoiding him.</p>
 <p>There was a reason for that, though. A reason named Roxy. I had two wives now, and Cliff was a devout member of the Millis Church. He probably wasn&#x27;t going to react too favorably to the news.</p>
 <p>&quot;Is there some reason you didn&#x27;t want to see me, maybe? If so, I&#x27;d like to hear it from you personally, if you don&#x27;t mind.&quot;</p>
-<p>He was being weirdly tenacious about this today. I got the feeling Elinalise had already filled him in. Knowing her, she&#x27;d probably worked him over a little, too. I could see her saying something like <em>&quot;I know you&#x27;re passionate about your faith, Cliff, but if you forgive him for his trespasses, you&#x27;ll show everyone just how tolerant and kind you are!&quot;</em></p>
+<p>He was being weirdly tenacious about this today. I got the feeling Elinalise had already filled him in. Knowing her, she&#x27;d probably worked him over a little, too. I could see her saying something like &quot;I know you&#x27;re passionate about your faith, Cliff, but if you forgive him for his trespasses, you&#x27;ll show everyone just how tolerant and kind you are!&quot;</p>
 <p>Of course, I didn&#x27;t need Cliff&#x27;s forgiveness or permission to marry Roxy. But that didn&#x27;t mean I wanted to ruin our friendship, either. I was probably better off playing along here. I could confess the truth, let Cliff forgive me, and then compliment his openmindedness at length. He&#x27;d get his ego stroked, and we&#x27;d put the matter behind us. It was a win-win, really.</p>
-<p><em>Okay then. I guess I&#x27;ll dance on your strings, Elinalise…</em></p>
+<p>Okay then. I guess I&#x27;ll dance on your strings, Elinalise…</p>
 <p>&quot;Actually, Cliff—&quot;</p>
 <p>&quot;Pardon me.&quot;</p>
 <p>Before I could finish my sentence, though, someone had opened the door to our classroom.</p>
@@ -241,14 +241,14 @@ nav_title = "Chapter 2"
 <p>Cliff was pouting at this point.</p>
 <p>He&#x27;d probably wanted to hear the &quot;second wife&quot; thing from me directly. That way, he could have accepted the situation gracefully, and earned my gratitude. But now his plans were ruined.</p>
 <p>&quot;Um, Cliff—&quot;</p>
-<p>&quot;Hmm. A second wife, is it? Is the word <em>faithful</em> not part of your vocabulary, Rudeus?&quot;</p>
+<p>&quot;Hmm. A second wife, is it? Is the word faithful not part of your vocabulary, Rudeus?&quot;</p>
 <p>When I spoke to him, he immediately jumped into lecture mode.</p>
 <p>&quot;I know, I know. I admit I proved myself lacking in the loyalty department.&quot;</p>
 <p>&quot;I blessed your marriage to Sylphie because you told me you&#x27;d love her, and only her. You do remember that, don&#x27;t you?&quot;</p>
 <p>&quot;Of course. And I&#x27;m very grateful to you.&quot;</p>
 <p>&quot;Well, I suppose I knew from the start that you don&#x27;t share my faith. I won&#x27;t press the point any further. For what it&#x27;s worth, you have my congratulations. I hope you&#x27;re happy together.&quot;</p>
 <p>&quot;Thanks, Cliff.&quot;</p>
-<p>Cliff snorted at that. &quot;You know, I&#x27;ve run into your sister Norn in the city several times. She told me that she hoped to have a happy marriage like yours someday. Did she say anything to you when you brought your <em>second</em> wife home, I wonder?&quot;</p>
+<p>Cliff snorted at that. &quot;You know, I&#x27;ve run into your sister Norn in the city several times. She told me that she hoped to have a happy marriage like yours someday. Did she say anything to you when you brought your second wife home, I wonder?&quot;</p>
 <p>&quot;She was very upset with me.&quot;</p>
 <p>&quot;I would expect so. She&#x27;d been praying at church nearly every day for your safe return, and your father&#x27;s. Ordinarily, your homecoming should have been a joyous occasion for her.&quot;</p>
 <p>&quot;But in the end, she did forgive me.&quot;</p>
@@ -266,7 +266,7 @@ nav_title = "Chapter 2"
 <p>&quot;You&#x27;re right. I&#x27;ll be more careful.&quot;</p>
 <p>&quot;Very well then. It seems you&#x27;re appropriately repentant, so I suppose I&#x27;ll forgive you for your mistakes. Saint Millis taught us to be lenient, after all.&quot;</p>
 <p>&quot;Appreciate it, Cliff.&quot;</p>
-<p>Well, I&#x27;d been forgiven. Maybe this <em>had</em> been a confession rather than a conversation.</p>
+<p>Well, I&#x27;d been forgiven. Maybe this had been a confession rather than a conversation.</p>
 <p>Still, the man made a lot of good points. I was definitely feeling bad about how I&#x27;d treated Norn now. I&#x27;d have to be twice as kind to her from now on.</p>
 <p>&quot;It seems like we&#x27;re done with our personal discussions, yes? Let&#x27;s proceed to the notices from the University, then…&quot;</p>
 <p>With Cliff&#x27;s lecture at an end, Professor Samson delicately got homeroom underway again. Roxy had been standing at his side the whole time, looking supremely uncomfortable.</p>
@@ -281,10 +281,10 @@ nav_title = "Chapter 2"
 <p>On one particular evening, I found myself heading back with only Sylphie. We held hands as we strolled along and talked, mainly about recent events at the University of Magic. Apparently, the student council was going to be taking on a new member or two this term.</p>
 <p>&quot;You should really join too, Rudy!&quot;</p>
 <p>&quot;Don&#x27;t think I have the spare time; sorry.&quot;</p>
-<p>It wasn&#x27;t much of a conversation, but we were enjoying each other&#x27;s company. Not <em>too</em> blatantly, of course. We were in public.</p>
+<p>It wasn&#x27;t much of a conversation, but we were enjoying each other&#x27;s company. Not too blatantly, of course. We were in public.</p>
 <p>&quot;We&#x27;re home.&quot;</p>
 <p>The moment I stepped inside the door, Aisha jumped forward and threw her arms around me.</p>
-<p>&quot;Welcome back, Rudeus! Would you like dinner? Or a bath? Or maybe…<em>me?!</em>&quot;</p>
+<p>&quot;Welcome back, Rudeus! Would you like dinner? Or a bath? Or maybe…me?!&quot;</p>
 <p>Where did she learn that line? What a cliché. Oh wait, had I taught it to her? No…I remembered teaching it to Sylphie, but not my own little sister.</p>
 <p>Declaring &quot;You!&quot;, I proceeded to mercilessly tickle Aisha&#x27;s armpits until she fled, cackling with laughter, and received a chop to the head from Lilia.</p>
 <p>After this little interlude, I headed straight for the bath.</p>
@@ -297,8 +297,8 @@ nav_title = "Chapter 2"
 <p>&quot;It&#x27;s just polite.&quot;</p>
 <p>&quot;Okaaay.&quot;</p>
 <p>In this respect, at least, I was starting to wish Aisha could learn from her sister.</p>
-<p>Still, it was nice having a little sister. She liked to wriggle her way in between my legs and demand that I wash her back or rinse off her head, and it was always very cute. Good thing she was my sister and also just a scrawny little kid—or I might have ended up with <em>another</em> wife on my hands.</p>
-<p>If Sylphie or Roxy ever tried the same stunt, I was confident I&#x27;d lose my self-control within seconds. Not that I&#x27;d really <em>need</em> to control myself, in that situation.</p>
+<p>Still, it was nice having a little sister. She liked to wriggle her way in between my legs and demand that I wash her back or rinse off her head, and it was always very cute. Good thing she was my sister and also just a scrawny little kid—or I might have ended up with another wife on my hands.</p>
+<p>If Sylphie or Roxy ever tried the same stunt, I was confident I&#x27;d lose my self-control within seconds. Not that I&#x27;d really need to control myself, in that situation.</p>
 <p>Anyway. I settled in to enjoy some pleasant family bonding time with my sister. The two of us washed each other off while Aisha told me about the events of the day. These were mostly trivial little things. Lucie had done something adorable, Zenith had helped out with the weeding, Lilia had dozed off next to a window, she&#x27;d planted something new in our garden…that sort of stuff.</p>
 <p>Oh, that reminded me. I&#x27;d entrusted that seed rice I got my hands on to Aisha, and asked her to see if she could manage to grow it. She&#x27;d promised me to give it a shot once the weather got a little warmer. The kid was a genius, so I was feeling optimistic that I&#x27;d have my own private supply of rice before too long. I was really looking forward to it.</p>
 <p>By the time we got out of the bath, Roxy was just getting home, so we moved straight to dinner.</p>
@@ -319,10 +319,10 @@ nav_title = "Chapter 2"
 <p>After that, well…we enjoyed our private time.</p>
 <p>Mentally and physically fulfilled, I fell into a solid sleep with my wife in my arms.</p>
 <p>***</p>
-<p>Just a few minutes <em>before</em> that, though, I&#x27;d slipped quietly out of bed, careful not to wake Sylphie.</p>
+<p>Just a few minutes before that, though, I&#x27;d slipped quietly out of bed, careful not to wake Sylphie.</p>
 <p>I tiptoed my way down to the basement as quietly as I possibly could. Once I was there, I glanced behind me cautiously several times before opening a certain hidden door.</p>
 <p>Inside, I&#x27;d placed a small altar. My holy idols were enshrined there.</p>
 <p>To the uninitiated, they might have looked like nothing more than small bundles of cloth. But I knew that the divine spirits of Roxy and Sylphie dwelt within them.</p>
 <p>Tonight, like every other night, I offered up my prayers of gratitude.</p>
-<p><em>Legends of the University #2: The Boss can make his eyes light up.</em></p>
+<p>Legends of the University #2: The Boss can make his eyes light up.</p>
 <p><strong>Chapter 3: Training with Norn</strong></p>

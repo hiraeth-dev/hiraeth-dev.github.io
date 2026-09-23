@@ -19,7 +19,7 @@ nav_title = "Chapter 3"
 <p>&quot;No, I&#x27;d assume they&#x27;re scoping out the area. Any information you can get gives you an advantage at the starting line.&quot;</p>
 <p>&quot;But some of them probably want to get the target before the others start though, right?&quot;</p>
 <p>&quot;Perhaps, but there won&#x27;t be many. The kingdom is leading this hunt, so even if you got in first and killed the devils, you might not get paid.&quot;</p>
-<p>You had to go through the proper process. You joined the hunting party, went into the forest alongside the kingdom&#x27;s knights or whoever they were sending, uncovered the true nature of the devils, killed them, then confirmed all was well. Only after all <em>that</em> did you have a shot at receiving the reward. If you went in alongside everyone else, whether or not you got the special reward came down to a battle of luck. These guys were here scoping things out to take luck out of the equation. When the right moment came, they&#x27;d pounce and snatch the prize.</p>
+<p>You had to go through the proper process. You joined the hunting party, went into the forest alongside the kingdom&#x27;s knights or whoever they were sending, uncovered the true nature of the devils, killed them, then confirmed all was well. Only after all that did you have a shot at receiving the reward. If you went in alongside everyone else, whether or not you got the special reward came down to a battle of luck. These guys were here scoping things out to take luck out of the equation. When the right moment came, they&#x27;d pounce and snatch the prize.</p>
 <p>&quot;Nothing to do with us, then.&quot;</p>
 <p>&quot;I agree with you entirely.&quot;</p>
 <p>Smiling, Chandle headed into the village. There, we found a building that looked like an inn and a town square packed with far too many people for such a small place. I guessed everyone was raring to go.</p>
@@ -27,17 +27,17 @@ nav_title = "Chapter 3"
 <p>No sooner had that thought crossed my mind than someone yelled, &quot;Get out!&quot; An eviction order out of nowhere! Obviously, they weren&#x27;t</p>
 <p>talking to me. The voice came from a corner of the square. A few of the folks who&#x27;d come to scope out the scene slunk away, disgruntled. I saw an old woman with a cane yelling at them.</p>
 <p>&quot;Get out and back where you came from! No devil&#x27;s going to appear! It protects the People of the Forest! Anyone who&#x27;d harm the People of the Forest can clear off!&quot;</p>
-<p>She tottered forwards, leaning on her cane, but when she drew near to the crowd of men, she began hitting them with it. From where I stood, I heard the <em>crack</em> as the cane struck.</p>
+<p>She tottered forwards, leaning on her cane, but when she drew near to the crowd of men, she began hitting them with it. From where I stood, I heard the crack as the cane struck.</p>
 <p>&quot;Stupid old—&quot;</p>
 <p>&quot;Hey, cool it. If you make trouble, the ogres…&quot;</p>
 <p>The man she&#x27;d hit spat. He&#x27;d been about to draw his sword in rage but, held back by his companion, he settled for striding out of the square.</p>
 <p>The old woman didn&#x27;t chase after them. Yelling, she laid into the rest of the men there. They all backed away from her, then dispersed.</p>
 <p>What was going on? After seeing everyone else off, the old woman aw geez, she was looking at us.</p>
-<p>She headed straight for us, yelling &quot;Get back where you came from!&quot; Her cane hit my armor with a <em>clang.</em> It didn&#x27;t do any damage. That&#x27;s right, folks, with Asura-approved full armor, you&#x27;re even protected against ferocious granny attacks.</p>
+<p>She headed straight for us, yelling &quot;Get back where you came from!&quot; Her cane hit my armor with a clang. It didn&#x27;t do any damage. That&#x27;s right, folks, with Asura-approved full armor, you&#x27;re even protected against ferocious granny attacks.</p>
 <p>&quot;You mustn&#x27;t disturb the forest!&quot; She continued beating away at my armor.</p>
 <p>&quot;Whoa, there, Grandma.&quot;</p>
 <p>&quot;There&#x27;s no devil! After all he&#x27;s done for the People of the Forest! After he came seeking help, you&#x27;ll kill him? Brutes!&quot; She&#x27;d worked herself up into a frenzy and wasn&#x27;t listening to me.</p>
-<p>But one phrase caught my attention. <em>People of the Forest</em>. That was a new term. I wanted to know more about it.</p>
+<p>But one phrase caught my attention. People of the Forest. That was a new term. I wanted to know more about it.</p>
 <p>&quot;Who are the People of the Forest?&quot;</p>
 <p>&quot;When the people of the forest leave, the devils come!&quot;</p>
 <p>Did that mean the people of the forest, whoever they were, kept the devils at bay?</p>
@@ -47,7 +47,7 @@ nav_title = "Chapter 3"
 <p>&quot;I&#x27;m sane as they come, and the People of the Forest are real! When I was young, I lost my way deep in the forest, and they saved me! And long, long before that, they saved my great-grandpa too!&quot;</p>
 <p>&quot;When I was young&quot; had to mean at least twenty, even thirty years ago. This old woman looked a little over sixty. And if she was that old, the story about her great-grandpa had to be from around a century before that.</p>
 <p>Ruijerd and I had only parted ways ten years ago. Could it be that Ruijerd had nothing to do with this?</p>
-<p>But… <em>Oh</em>.</p>
+<p>But… Oh.</p>
 <p>&quot;The People of the Forest are no devils! Why can&#x27;t you all see it? Why do you try to kill them? Fools! Fools, go home! Fools…fools, all of you…&quot; After beating her stick against my armor for a while, the old woman&#x27;s breathing grew ragged and she sank to the ground.</p>
 <p>&quot;Why don&#x27;t you tell us what&#x27;s really going on?&quot; I asked.</p>
 <p>Ruijerd might not be here, but there was another possibility.</p>
@@ -62,11 +62,11 @@ nav_title = "Chapter 3"
 <p>From when they were very small, the children of the village were told to be grateful to the People of the Forest and to never speak of them to anyone.</p>
 <p>Finishing her story, the old woman said, &quot;It&#x27;s unthinkable that the People of the Forest would disturb the forest.&quot;</p>
 <p>I didn&#x27;t know if anything she was told us was true. Most folktales are just stories.</p>
-<p>Let&#x27;s assume, just for the sake of argument, that the People of the Forest <em>were</em> Superd. Superd folk had a third eye in their forehead, a kind of Demon Eye that let them sense living things. Monsters that couldn&#x27;t be seen with the naked eye would be no trouble for them. Cleverly concealing their existence, the Superd had lived in harmony with the villagers. Then, half a year ago, they&#x27;d been struck by tragedy. A plague or injury. Maybe a great</p>
-<p>horde of invisible devils had appeared, too many for the People of the Forest to fight off. After all these years of never showing themselves, the Superd had come to the village to buy medicine. No one remembered the exact merchant who&#x27;d sold it to them, but the story had spread. Something suspicious had come out of the forest in broad daylight. I&#x27;m sure the villagers were happy to accommodate him. <em>If</em> the story of seeking help was true, of course. Somehow, it had gotten twisted until it turned into the story we&#x27;d heard in the tavern yesterday.</p>
+<p>Let&#x27;s assume, just for the sake of argument, that the People of the Forest were Superd. Superd folk had a third eye in their forehead, a kind of Demon Eye that let them sense living things. Monsters that couldn&#x27;t be seen with the naked eye would be no trouble for them. Cleverly concealing their existence, the Superd had lived in harmony with the villagers. Then, half a year ago, they&#x27;d been struck by tragedy. A plague or injury. Maybe a great</p>
+<p>horde of invisible devils had appeared, too many for the People of the Forest to fight off. After all these years of never showing themselves, the Superd had come to the village to buy medicine. No one remembered the exact merchant who&#x27;d sold it to them, but the story had spread. Something suspicious had come out of the forest in broad daylight. I&#x27;m sure the villagers were happy to accommodate him. If the story of seeking help was true, of course. Somehow, it had gotten twisted until it turned into the story we&#x27;d heard in the tavern yesterday.</p>
 <p>&quot;The devils came out of the forest. They must be driven away.&quot;</p>
 <p>How had the story gotten so snarled? We were talking about events a year back, so suspecting Geese felt like jumping to conclusions, but…I wouldn&#x27;t be surprised if he were involved somehow.</p>
-<p>What mattered was that I was certain there were Superd in the depths of the forest. At the same time, new doubts bubbled up. Why hadn&#x27;t I known? I&#x27;d been searching for Ruijerd. Everyone knew I was looking. <em>Everyone</em>. That included, for example, Orsted with his supernatural foresight. If there had been Superd here for such a long time, then <em>why</em>? Why didn&#x27;t I know about them?</p>
+<p>What mattered was that I was certain there were Superd in the depths of the forest. At the same time, new doubts bubbled up. Why hadn&#x27;t I known? I&#x27;d been searching for Ruijerd. Everyone knew I was looking. Everyone. That included, for example, Orsted with his supernatural foresight. If there had been Superd here for such a long time, then why? Why didn&#x27;t I know about them?</p>
 <p>The Forest of No Return was quiet. Forests in this world were usually full of monsters. It depended on the concentration of magic, but during a day in the forest, you&#x27;d encounter at least one. Especially Treants. They were everywhere in this world, but they were particularly common in forests. Forests might as well be Treant nests, you ran into them so often. There was no sign of them in this forest, though. It was truly quiet.</p>
 <p>It was peaceful and totally silent. I could just tell that there were birds and small animals about, but that was all. It was eerie, like walking through a nightmare.</p>
 <p>&quot;This is creepy.&quot; The forest was making Chandle uneasy too.</p>
@@ -104,7 +104,7 @@ nav_title = "Chapter 3"
 <p>First, I scoped out the valley floor. I was still getting the hang of operating the Eye so I couldn&#x27;t tell how far it was to the bottom, but I saw it easily. The valley floor was covered in moss and fungi, all glowing bluewhite. Nearby, a sort of lizard with a shell like a boulder bumbled along slowly.</p>
 <p>I assumed that was an Earth Dragon. It looked more like a Great Tortoise than a dragon. Maybe with that shell, it could withstand a Red Wyrm. It could afford to not pay attention to anything above it. I focused and saw there were more Earth Dragons clinging to the cliff face. Kinda gross.</p>
 <p>Next, I used the Demon Eye to survey our surroundings. As far as I could see, there was nothing to our right. Eventually, the cliff and the forest obstructed my line of sight. On the map, the Earthwyrm Ravine was perfectly straight, but now that we were here, I could see its curvature. The map was wrong.</p>
-<p>Then I looked left. I couldn&#x27;t see anything on this side ei… <em>Wait a minute.</em></p>
+<p>Then I looked left. I couldn&#x27;t see anything on this side ei… Wait a minute.</p>
 <p>&quot;That&#x27;s a swing bridge,&quot; I said.</p>
 <p>A bridge spanned the chasm as a point where the valley narrowed.</p>
 <p>&quot;So it is!&quot; Chandle agreed. &quot;We&#x27;re going beyond, then?&quot;</p>
@@ -115,11 +115,11 @@ nav_title = "Chapter 3"
 <p>It looked very…hand-made. I didn&#x27;t have much confidence in its sturdiness.</p>
 <p>Still, it looked like a single adult carrying supplies would be all right.</p>
 <p>&quot;Shall we cross?&quot;</p>
-<p>If I tried it in the Magic Armor, I was going to fall. I couldn&#x27;t do something as stupid as falling in a place where I&#x27;d been <em>told</em> we&#x27;d be fine so long as we didn&#x27;t fall.</p>
+<p>If I tried it in the Magic Armor, I was going to fall. I couldn&#x27;t do something as stupid as falling in a place where I&#x27;d been told we&#x27;d be fine so long as we didn&#x27;t fall.</p>
 <p>&quot;I don&#x27;t like the look of this bridge.&quot;</p>
 <p>&quot;You want to go back, then?&quot;</p>
 <p>&quot;Let&#x27;s use a different bridge,&quot; I said, going to the edge of the cliff. If the bridge was too unstable for me to cross, I&#x27;d just make one myself. Magic flowed from my hand to the ground, summoning earth. I repurposed Earth Lance for the task.</p>
-<p><em>Strong enough to hold me without any issues</em>. I focused on that thought, imagining a lance big enough to reach the opposite cliff.</p>
+<p>Strong enough to hold me without any issues. I focused on that thought, imagining a lance big enough to reach the opposite cliff.</p>
 <p>&quot;Wow,&quot; Chandle breathed.</p>
 <p>I released the magic, and the Earth Lance materialized. It extended silently, then impaled the opposite side of the valley without a sound. I produced another two lances. For peace of mind, I spaced them far enough apart for two people to pass one another. Then I laid planks over the top, made from the same earth. They were sturdy, extending all the way to the far side.</p>
 <p>I finished it off by reinforcing the bridge&#x27;s foundation and underside with earth magic.</p>
@@ -130,14 +130,14 @@ nav_title = "Chapter 3"
 <p>&quot;Let&#x27;s get a rope.&quot;</p>
 <p>I fastened one to a nearby tree, then tentatively stepped out onto the bridge. I&#x27;d have looked like the king of all morons if I&#x27;d fallen then, but it held beneath me. Adding reinforcement to points that seemed structurally weak as I went, I inched across the bridge.</p>
 <p>The rope ran out along the way. I linked the rope Chandle carried, and we made it to the other side with that.</p>
-<p>Each rope was around fifty meters long, so given that two had barely been enough to get across, the bridge had to be around a hundred meters. Even here, where the ravine had narrowed, it was still a <em>long</em> way.</p>
+<p>Each rope was around fifty meters long, so given that two had barely been enough to get across, the bridge had to be around a hundred meters. Even here, where the ravine had narrowed, it was still a long way.</p>
 <p>&quot;All right.&quot; I fixed the rope to a tree, then signaled over to the other side of the ravine.</p>
 <p>Chandle and Dohga set off at a leisurely pace, holding onto the rope. Both at once. Weren&#x27;t they worried that the bridge might collapse? Maybe they trusted me. If they fell, I&#x27;d have to move fast to help them. Despite my worries, they both made it safely across.</p>
 <p>&quot;Let&#x27;s get going then, shall we?&quot; said Chandle. &quot;We&#x27;d best be on our guards from here on out.&quot; We peered into the depths of the forest. It was dark in there among the trees, and I sensed something I hadn&#x27;t in the forest we&#x27;d traversed so far—here, there were monsters.</p>
-<p>We hadn&#x27;t gone a hundred meters before we were ambushed. I heard it first: the rustling of leaves brushing against each other. There was a breeze, so it didn&#x27;t occur to me that there might be a monster nearby. It felt like something far away was drawing nearer—something <em>so</em> far away that I assumed we were safe. Next thing I knew, I heard it right next to my ear.</p>
-<p>&quot;Huwh… Huwh…&quot; A warm, rancid wetness slid over my nose. <em>Something</em> was clinging to the trunk of the tree right beside me. No sooner had I noticed it than the tree flexed and the branches rustled. A moment later, something heavy dropped down behind me.</p>
+<p>We hadn&#x27;t gone a hundred meters before we were ambushed. I heard it first: the rustling of leaves brushing against each other. There was a breeze, so it didn&#x27;t occur to me that there might be a monster nearby. It felt like something far away was drawing nearer—something so far away that I assumed we were safe. Next thing I knew, I heard it right next to my ear.</p>
+<p>&quot;Huwh… Huwh…&quot; A warm, rancid wetness slid over my nose. Something was clinging to the trunk of the tree right beside me. No sooner had I noticed it than the tree flexed and the branches rustled. A moment later, something heavy dropped down behind me.</p>
 <p>I whirled around and saw Dohga lying on his back. I didn&#x27;t see anything else. Dohga&#x27;s head was twitching uncontrollably and his hands grasped at the air as though to hold off whatever was moving his head.</p>
-<p><em>There&#x27;s something there</em>. I didn&#x27;t use magic, just punched whatever was on top of Dohga with all the strength I could muster. The supernaturally strengthened fist of the magic armor sent the assailant flying. I felt flesh and bone crush. The thing hit a tree trunk with a splatter of red blood. The color of the blood revealed its shape.</p>
+<p>There&#x27;s something there. I didn&#x27;t use magic, just punched whatever was on top of Dohga with all the strength I could muster. The supernaturally strengthened fist of the magic armor sent the assailant flying. I felt flesh and bone crush. The thing hit a tree trunk with a splatter of red blood. The color of the blood revealed its shape.</p>
 <p>It was a four-legged beast. I couldn&#x27;t make out any distinguishing features, but it had four legs. Reflexively, I blasted it with a Stone Cannon to finish it off. At basically the same moment, something slammed into my back. I turned, ready to hit back with magic.</p>
 <p>&quot;Dohga! Get up!&quot;</p>
 <p>It was Chandle. He&#x27;d positioned himself to protect my back.</p>
@@ -145,27 +145,27 @@ nav_title = "Chapter 3"
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-24/insert-02.webp" alt="Illustration" loading="lazy" />
 </div>
-<p><em>Guys, c&#x27;mon! I can&#x27;t see anything!</em></p>
-<p>&quot;The enemy is invisible, numbers unknown! Dohga, eyes are no good here—use your ears! Just deal with the enemy in front of you! Master Rudeus, you use magic! Area of effect spells to burn them all!&quot; Chandle barked, rattling off instructions. He was a quick thinker. I guess he <em>was</em> captain of a knight order, after all. I did as I was told and concentrated magic in my hands.</p>
-<p><em>Let&#x27;s go with fire magic!</em> Wait, no, this was a forest. It&#x27;d be twice the work putting out a fire. I&#x27;d use water magic—Frost Nova.</p>
+<p>Guys, c&#x27;mon! I can&#x27;t see anything!</p>
+<p>&quot;The enemy is invisible, numbers unknown! Dohga, eyes are no good here—use your ears! Just deal with the enemy in front of you! Master Rudeus, you use magic! Area of effect spells to burn them all!&quot; Chandle barked, rattling off instructions. He was a quick thinker. I guess he was captain of a knight order, after all. I did as I was told and concentrated magic in my hands.</p>
+<p>Let&#x27;s go with fire magic! Wait, no, this was a forest. It&#x27;d be twice the work putting out a fire. I&#x27;d use water magic—Frost Nova.</p>
 <p>&quot;…Oof!&quot; A fraction of a second before I could get a spell off, Dohga swung.</p>
 <p>The blade of the enormous battleax swept through the thick forest, splitting tree trunks as it went. It didn&#x27;t find its mark. Through a cloud of splinters, I sensed something slip past Dohga and come at me.</p>
 <p>The Magic Armor was heavy and hard. A monster&#x27;s fangs and talons wouldn&#x27;t leave a mark on it. Mind made up, I got ready to cast my spell…</p>
-<p>&quot;Master Rudeus!&quot; Chandle crashed into me. I didn&#x27;t even have time to think <em>What the hell?</em> before the spear shot past me. It seemed to be suspended in mid-air. Then I realized it was pinning something transparent to the ground. The spear was white—pure, chalky white. Like animal bone.</p>
+<p>&quot;Master Rudeus!&quot; Chandle crashed into me. I didn&#x27;t even have time to think What the hell? before the spear shot past me. It seemed to be suspended in mid-air. Then I realized it was pinning something transparent to the ground. The spear was white—pure, chalky white. Like animal bone.</p>
 <p>There was something evocative about it.</p>
 <p>Then a man dropped down to the ground to retrieve the spear. He had green hair and skin so pale he looked ill. He wore a folk outfit a bit like a poncho.</p>
-<p>Yeah, no question. Just from his back, I knew—<em>I&#x27;d</em> know him anywhere!</p>
+<p>Yeah, no question. Just from his back, I knew—I&#x27;d know him anywhere!</p>
 <p>&quot;Ruijerd!&quot; I called, standing up and spreading my arms. He picked up the spear, then turned to me.</p>
 <p>&quot;Hm?&quot;</p>
 <p>There was a pause. &quot;Huh?&quot;</p>
 <p>I didn&#x27;t know him. He was handsome and looked a bit like Ruijerd, but it wasn&#x27;t him. The Ruijerd I knew was more…like, there was something about his jaw…</p>
 <p>&quot;I&#x27;m sorry, my mistake,&quot; I said.</p>
-<p><em>Shit. I did anticipate that there might be other Superd around…but this isn&#x27;t the Superd I ordered!</em></p>
-<p><em>Ah, crap, I went and blurted out Ruijerd&#x27;s name. Boy, my face is red.</em></p>
+<p>Shit. I did anticipate that there might be other Superd around…but this isn&#x27;t the Superd I ordered!</p>
+<p>Ah, crap, I went and blurted out Ruijerd&#x27;s name. Boy, my face is red.</p>
 <p>&quot;…You know Ruijerd?&quot; the unknown Superd asked wonderingly.</p>
-<p><em>Oh, right. He&#x27;s a Superd, so he&#x27;ll know Ruijerd. Plus, it doesn&#x27;t matter that he&#x27;s not Ruijerd. Like…with all the trouble the Biheril Kingdom is facing lately, this being a different Superd means…absolutely nothing. Yeah? Yep.</em></p>
+<p>Oh, right. He&#x27;s a Superd, so he&#x27;ll know Ruijerd. Plus, it doesn&#x27;t matter that he&#x27;s not Ruijerd. Like…with all the trouble the Biheril Kingdom is facing lately, this being a different Superd means…absolutely nothing. Yeah? Yep.</p>
 <p>&quot;Huh? Oh, yeah. He&#x27;s an ally…no, a friend. I owe him.&quot;</p>
 <p>&quot;If you are here for him, follow me. I&#x27;ll take you to him.&quot; The man turned to leave.</p>
-<p>&quot;Um… Just a minute!&quot; I called after him, dazed. &quot;Is he <em>here</em>, then?&quot;</p>
+<p>&quot;Um… Just a minute!&quot; I called after him, dazed. &quot;Is he here, then?&quot;</p>
 <p>The Superd nodded as though it were obvious. &quot;He is.&quot;</p>
 <p><strong>Chapter 4: The Superd Village</strong></p>

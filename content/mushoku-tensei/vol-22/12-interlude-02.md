@@ -29,20 +29,20 @@ nav_title = "Interlude"
 <p>Three days later, our journey came to an end as we arrived at the Migurd village.</p>
 <p>Me, Roxy, and Lara. Eris muttered something about not wanting to get in the way and tapped out, though she did say to pass on her thanks for the sword. To think, Eris had learned tact. I could&#x27;ve teared up.</p>
 <p>***</p>
-<p>Well, not at <em>Roxy</em>, specifically. It was when she saw Roxy with a child in her arms and me standing beside her, the picture of a happily married couple, that she froze.</p>
+<p>Well, not at Roxy, specifically. It was when she saw Roxy with a child in her arms and me standing beside her, the picture of a happily married couple, that she froze.</p>
 <p>A few people in the village had stared intensely at Roxy. I&#x27;d wondered if they were sending telepathic messages, but Rokari was different. Her brain had obviously ground to a halt, and she along with it.</p>
 <p>She stayed completely still for about five seconds.</p>
 <p>Then Roxy said, &quot;I&#x27;m home, Mom,&quot; and she twitched.</p>
 <p>&quot;R-Roxy, is this…&quot; she stammered, &quot;and this child…?&quot;</p>
 <p>&quot;My husband and daughter,&quot; Roxy replied.</p>
 <p>For a moment, Rokari looked shocked, but then her expression changed to one of delight. She turned this way and that, looking all around her. Almost at once, I saw all the nearby Migurd turn towards us, so she must have yelled something with telepathy. Maybe she called Rowin, Roxy&#x27;s father.</p>
-<p><em>Oh my goodness, dear! Roxy&#x27;s brought a man home!</em></p>
+<p>Oh my goodness, dear! Roxy&#x27;s brought a man home!</p>
 <p>Something like that.</p>
 <p>Silence fell. It was uncomfortable, everyone staring without saying anything. But I was Roxy&#x27;s husband. I couldn&#x27;t let any embarrassment show. I folded my arms, planted my feet apart, and stuck out my chest. Then, I channeled Psycho Power…</p>
 <p>&quot;Mom, is Dad around?&quot; Roxy asked.</p>
 <p>&quot;Um, yes. I just called him. He&#x27;s at the elder&#x27;s house…&quot; Rokari replied. &quot;I&#x27;m sure he&#x27;ll be here soon.&quot;</p>
 <p>&quot;Could we please wait inside, then? There are too many people staring, and it&#x27;s getting to Rudy. Look at the weird pose he&#x27;s pulling.&quot;</p>
-<p><em>Say what?! This isn&#x27;t &quot;weird&quot;! This is the pose of an evil dictator of noble heritage, I&#x27;ll have you know.</em></p>
+<p>Say what?! This isn&#x27;t &quot;weird&quot;! This is the pose of an evil dictator of noble heritage, I&#x27;ll have you know.</p>
 <p>&quot;All right, Rudy. Let&#x27;s go in,&quot; Roxy said. I grunted my assent and followed her into the house.</p>
 <p>Was it the pressure of introducing myself to my in-laws after this that made my pack feel so heavy? I&#x27;d rather blame it on that than my beloved Roxy&#x27;s insults for the pose I&#x27;d tried so hard at.</p>
 <p>mother into the house, away from the prying eyes. Thinking back, the last time we were here we didn&#x27;t go into this house. Maybe I could get Roxy to show me her old room and her high school graduation photos.</p>
@@ -54,7 +54,7 @@ nav_title = "Interlude"
 <p>&quot;Oh.&quot; Rokari looked disappointed.</p>
 <p>I thought we could probably spare three or four days to stay if she wanted… But I knew Roxy didn&#x27;t much care for her hometown, so a longer stay wasn&#x27;t on the cards.</p>
 <p>&quot;Anyway, Roxy. This is very sudden, you coming back…and with such a nice man…&quot; Rokari looked back to me and, without reserve, slowly looked me over from my toes up to my head. Then she gave a little gasp of realization and bowed. &quot;How rude of me! I&#x27;m Rokari, Roxy&#x27;s mother. It&#x27;s a pleasure to meet you.&quot;</p>
-<p><em>To…</em>meet <em>me…?</em></p>
+<p>To…meet me…?</p>
 <p>She didn&#x27;t remember the time we&#x27;d met ten years earlier.</p>
 <p>&quot;My name is Rudeus Greyrat. I believe we have met once before,&quot; I replied.</p>
 <p>&quot;Have we really…?&quot;</p>
@@ -69,8 +69,8 @@ nav_title = "Interlude"
 <p>&quot;Not only is she doing very well, but she&#x27;s also constantly getting me out of trouble. She&#x27;s the most reliable person in the whole family.&quot;</p>
 <p>&quot;Well, that&#x27;s…good…&quot; Rokari said, though she still sounded doubtful.</p>
 <p>Roxy jabbed me in the side. I looked at her questioningly, and she muttered, &quot;Too much praise.&quot;</p>
-<p>I wasn&#x27;t exaggerating anything! I <em>did</em> rely on her.</p>
-<p>&quot;It&#x27;s just, you seem like such a fine young man… Are you <em>sure</em> you&#x27;re happy with our Roxy?&quot;</p>
+<p>I wasn&#x27;t exaggerating anything! I did rely on her.</p>
+<p>&quot;It&#x27;s just, you seem like such a fine young man… Are you sure you&#x27;re happy with our Roxy?&quot;</p>
 <p>The same question again. Rokari was flustered too.</p>
 <p>Roxy butted in. &quot;Rudy has two other wives. I&#x27;m more like his mistress. So even if I&#x27;m not totally satisfactory, it&#x27;s not a problem.&quot;</p>
 <p>There was nothing unsatisfactory about Roxy, and I&#x27;d never once treated her like a mistress.</p>
@@ -78,11 +78,11 @@ nav_title = "Interlude"
 <p>&quot;Mom, can you stop? You&#x27;re embarrassing me.&quot;</p>
 <p>&quot;Oh…yes. I just worry, dear. You were always so unfriendly and quiet, not to mention your manners.&quot;</p>
 <p>&quot;I&#x27;m aware of my weak points, Mom. But look, I&#x27;m fulfilling my duties as a wife. I even had a child.&quot;</p>
-<p><em>Duties? Very businesslike. But I&#x27;d still love you just as much even if you couldn&#x27;t have children. Maybe I should say something.</em></p>
+<p>Duties? Very businesslike. But I&#x27;d still love you just as much even if you couldn&#x27;t have children. Maybe I should say something.</p>
 <p>&quot;Rudeus, is that true?&quot; Rokari asked.</p>
 <p>&quot;It is. At the very least, I&#x27;ll never stop loving Roxy. I&#x27;d swear that to any god you like.&quot;</p>
-<p>My love was <em>agape</em>. It knew no limits.</p>
-<p>&quot;Is that right…?&quot; Rokari said, still troubled. Maybe showing her through actions would work better. If I just put my arm around Roxy, like so… <em>Oops, she grabbed my wrist. It&#x27;s not that, Roxy, I&#x27;m not trying to touch your butt,</em> I thought, but then I realized she was squeezing my hand. Her fingers were warm.</p>
+<p>My love was agape. It knew no limits.</p>
+<p>&quot;Is that right…?&quot; Rokari said, still troubled. Maybe showing her through actions would work better. If I just put my arm around Roxy, like so… Oops, she grabbed my wrist. It&#x27;s not that, Roxy, I&#x27;m not trying to touch your butt, I thought, but then I realized she was squeezing my hand. Her fingers were warm.</p>
 <p>Rokari seemed convinced. &quot;I suppose it is,&quot; she said. Just then, Lara, who sat beside Roxy, turned to look outside.</p>
 <p>&quot;Ah! Rowin is back,&quot; Rokari said. My father-in-law was about to make his entrance, which meant it was time to make my introductions once again. I plucked up my courage. I&#x27;d grovel on my hands and knees if I had to.</p>
 <p>***</p>
@@ -96,7 +96,7 @@ nav_title = "Interlude"
 <p>&quot;And here,&quot; Rowin went on, sounding emotional, &quot;I never thought I&#x27;d get to meet my grandchild.&quot; Even after Roxy reproached him, he picked up Lara in his arms, looking delighted. Lara, as usual, didn&#x27;t protest. She just stared at him, wide-eyed. He smiled at her.</p>
 <p>&quot;Lara, is it? Aren&#x27;t you a clever girl, already knowing how to say your name.&quot;</p>
 <p>&quot;Huh?&quot; Roxy and I exclaimed together. We hadn&#x27;t told them Lara&#x27;s name. And Lara hadn&#x27;t said anything.</p>
-<p><em>How did he…</em> I thought, but then Roxy turned to Rowin with amazement.</p>
+<p>How did he… I thought, but then Roxy turned to Rowin with amazement.</p>
 <p>&quot;Is our daughter… Can she use telepathy?&quot; she demanded.</p>
 <p>&quot;Eh? Yeah, she still stumbles a bit, but she can get across what she wants just fine,&quot; Rowin replied.</p>
 <p>I looked at Roxy. A shocking truth had been exposed. Our daughter was a psychic.</p>
@@ -108,17 +108,17 @@ nav_title = "Interlude"
 <p>She meant Zenith.</p>
 <p>&quot;Oh…&quot;</p>
 <p>It clicked for Roxy and me at the same time. This was what the Blessed Child had talked about. Zenith could read minds. And the Lara in her memories was a chatterbox. Lara was always silent and sullen, but Zenith remembered talking away happily with her. So it had been telepathy. Lara had been talking with telepathy the whole time.</p>
-<p>I felt a wave of relief. Roxy didn&#x27;t seem to be taking it the same way, though. She was frowning at the ground. I could imagine what was going through her mind: <em>Even my daughter is a telepath. Why am I the</em></p>
-<p><em>only one who isn&#x27;t?</em></p>
+<p>I felt a wave of relief. Roxy didn&#x27;t seem to be taking it the same way, though. She was frowning at the ground. I could imagine what was going through her mind: Even my daughter is a telepath. Why am I the</p>
+<p>only one who isn&#x27;t?</p>
 <p>The atmosphere in the room darkened.</p>
 <p>&quot;Is she really? Um, okay then…&quot; I stood up and went over to stroke Lara&#x27;s hair, saying, &quot;Laaara! It&#x27;s your papa!&quot;</p>
 <p>Lara didn&#x27;t smile. She just stared at me. What was she saying?</p>
 <p>&quot;She says, &#x27;I don&#x27;t understand,&#x27;&quot; Rowin translated.</p>
-<p><em>Say what? …Oh, right. That was demon tongue.</em></p>
+<p>Say what? …Oh, right. That was demon tongue.</p>
 <p>I tried again, this time in human tongue. &quot;Laaara, it&#x27;s your papa.&quot;</p>
 <p>Then I looked expectantly at Rowin.</p>
 <p>&quot;She says, &#x27;I know,&#x27;&quot; he said.</p>
-<p><em>Oh, she knows, does she?</em> Well, I supposed there was no way she wouldn&#x27;t. I did tell her all the time.</p>
+<p>Oh, she knows, does she? Well, I supposed there was no way she wouldn&#x27;t. I did tell her all the time.</p>
 <p>Still, her response was a bit cold. She could have at least indulged me with an &quot;I love you, Papa!&quot; or something. Lucie used that line just yesterday.</p>
 <p>But then, telepathy wasn&#x27;t the same as language. It probably came across differently from how it sounded out loud. Yeah, that had to be it, or she&#x27;d hardly be able to talk to Zenith.</p>
 <p>&quot;Well, that&#x27;s a relief,&quot; I said. &quot;I was worried that she had some delays.&quot;</p>
@@ -135,11 +135,11 @@ nav_title = "Interlude"
 <p>***</p>
 <p>Roxy and I ended up staying that night in the village. Perhaps in consideration of the fact that we were a married couple, her parents put us up in an empty house nearby.</p>
 <p>The house was still a bit dusty, so we did a brief spot of cleaning and then lay down to sleep, all three of us side by side. It felt a bit like a scene in a movie where the couple shows up at the hotel and there&#x27;s only one bed with the pillows side by side, something cheesy like that. But we couldn&#x27;t do anything with Lara here and besides, I was Rudeus the Celibate now. I could get through a night without touching Roxy, even with her sleeping right beside me.</p>
-<p>When I saw her lying there though, her eyes closed, I couldn&#x27;t help it. Those feelings just rose up. I started thinking, <em>Just a little touch would be all right…</em></p>
+<p>When I saw her lying there though, her eyes closed, I couldn&#x27;t help it. Those feelings just rose up. I started thinking, Just a little touch would be all right…</p>
 <p>Think about it for a second. For the time being, I&#x27;d embarked upon the path of celibacy to ensure none of my wives got pregnant. Put another way, anything was fair game so long as no one got pregnant. Just blowing off some pent-up urges wouldn&#x27;t affect anyone&#x27;s destiny. Roxy wasn&#x27;t in any danger.</p>
-<p><em>Glad we cleared that up. Now, if you&#x27;ll excuse me, I&#x27;ll—</em></p>
+<p>Glad we cleared that up. Now, if you&#x27;ll excuse me, I&#x27;ll—</p>
 <p>&quot;Rudy.&quot;</p>
-<p><em>Aiaaah! I&#x27;m sorry! It was a passing thought! I didn&#x27;t think you&#x27;d mind a little touch… But no, you&#x27;re right! I&#x27;m Rudeus the Celibate! Rudeus the Celibate would never permit such a thing!</em></p>
+<p>Aiaaah! I&#x27;m sorry! It was a passing thought! I didn&#x27;t think you&#x27;d mind a little touch… But no, you&#x27;re right! I&#x27;m Rudeus the Celibate! Rudeus the Celibate would never permit such a thing!</p>
 <p>&quot;Are you still awake?&quot; Roxy asked.</p>
 <p>&quot;Hooonk…shooo…&quot;</p>
 <p>&quot;Don&#x27;t pretend to be asleep. Our eyes just met.&quot;</p>
@@ -149,13 +149,13 @@ nav_title = "Interlude"
 <p>&quot;The truth is, I suspected this might be what was happening,&quot; Roxy explained. I didn&#x27;t have to ask what. She meant what we&#x27;d talked about today. Lara&#x27;s possession of the Migurd ability.</p>
 <p>&quot;I didn&#x27;t say anything until now, but…whenever I saw Lara and Zenith looking into each other&#x27;s eyes, I considered the possibility.&quot;</p>
 <p>&quot;It never occurred to me at all.&quot;</p>
-<p>&quot;Why would it? You&#x27;ve been so busy these past few years, running around everywhere.&quot; She may as well have said, <em>You haven&#x27;t paid any attention to your children</em>.</p>
+<p>&quot;Why would it? You&#x27;ve been so busy these past few years, running around everywhere.&quot; She may as well have said, You haven&#x27;t paid any attention to your children.</p>
 <p>When you put it that way, maybe she had a point. Maybe I only paid attention to the sweet side of my children. I didn&#x27;t help to care for them or bring them up. Honestly, I&#x27;d taken advantage of Sylphie and Roxy.</p>
 <p>&quot;Don&#x27;t make that face,&quot; Roxy said. &quot;I&#x27;m not blaming you in the slightest.&quot;</p>
 <p>It was kind of her to say so. It didn&#x27;t matter how much I agonized or repented—right now, my hands were full dealing with the Man-God. I didn&#x27;t have anything left over for looking after the kids.</p>
 <p>Roxy gently stroked Lara&#x27;s face. &quot;I just had this thought. I was born in this village, and for as long as I can remember, I felt like an outsider.&quot;</p>
 <p>When I didn&#x27;t reply, she went on. &quot;Looking back now, it was hard. When I left home, I went to a town where people used words to</p>
-<p>communicate. It wasn&#x27;t until I got to know people there and started my life as an adventurer that I really felt like I was living in <em>my</em> world.&quot;</p>
+<p>communicate. It wasn&#x27;t until I got to know people there and started my life as an adventurer that I really felt like I was living in my world.&quot;</p>
 <p>She couldn&#x27;t do what everyone else around her could. Life was simple for them, but not for her. When they asked her why she couldn&#x27;t do this thing that ought to come naturally, she had no answer. All she could do was go on being seen as a useless burden by those around her until she began to believe it herself.</p>
 <p>Just because everyone else could do it, though, that didn&#x27;t mean it came naturally. It turned out she could make do without it. The sense of freedom Roxy got when she realized that must have been incredible.</p>
 <p>&quot;What if by raising Lara this way, we end up putting her through that? I was fine once I left home, but that won&#x27;t work for her. The Migurd are the only ones with this power.&quot; Roxy looked away from me.</p>
@@ -199,6 +199,6 @@ nav_title = "Interlude"
 <p>Eris and Sylphie&#x27;s parents were all dead. Roxy wasn&#x27;t close to hers, but still. Family was family. I hoped to keep up our acquaintance for many years to come.</p>
 <p>&quot;Well, Rudy. Things are about to get busy again,&quot; Roxy said.</p>
 <p>&quot;Yeah,&quot; I replied.</p>
-<p><em>But first,</em> I thought, <em>I have to take care of the task in front of me</em>.</p>
+<p>But first, I thought, I have to take care of the task in front of me.</p>
 <p>We set off back to Rikarisu.</p>
 <p><strong>Chapter 11: Number Four</strong></p>

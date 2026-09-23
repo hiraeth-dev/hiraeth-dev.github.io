@@ -11,7 +11,7 @@ nav_title = "Chapter 13"
 <p>It had been approximately four months since I first set out. Autumn and the beastmen&#x27;s mating season had long since passed, leading into a long winter season. There was snow up to my ankles, even in the middle of the forest. If we&#x27;d gotten here even a month later, the snow would&#x27;ve been all the way up to my chest, making it difficult to travel the rest of the way to Sharia.</p>
 <p>&quot;Miss Elinalise and I will lead the way,&quot; I said.</p>
 <p>If any monsters popped up, we would defeat them all. Mana wasn&#x27;t a problem. Zenith was walking without any complaints of exhaustion. The armadillo was shivering, but it would be fine as long as I warmed it with my magic occasionally.</p>
-<p><em>Everything&#x27;s fine,</em> I thought to myself as we went.</p>
+<p>Everything&#x27;s fine, I thought to myself as we went.</p>
 <p>One evening, Elinalise and I were on lookout together.</p>
 <p>&quot;Rudeus, there&#x27;s something I want to talk to you about,&quot; she blurted out suddenly. I could already vaguely sense what the contents of that conversation would be. Roxy, no doubt.</p>
 <p>I sat directly in front of her, legs folded beneath me—the perfect posture to prostrate myself before her if she started condemning me. Elinalise took a more comfortable seat on the ground.</p>
@@ -45,7 +45,7 @@ nav_title = "Chapter 13"
 <p>&quot;Take Roxy as your wife. You love her, don&#x27;t you?&quot;</p>
 <p>I froze. &quot;Are you being serious right now?&quot;</p>
 <p>&quot;Yes, of course I am.&quot;</p>
-<p>&quot;Miss Elinalise, is that really okay for you to say? You <em>are</em> Sylphie&#x27;s grandmother. Shouldn&#x27;t you be looking out for her happiness?&quot;</p>
+<p>&quot;Miss Elinalise, is that really okay for you to say? You are Sylphie&#x27;s grandmother. Shouldn&#x27;t you be looking out for her happiness?&quot;</p>
 <p>Not that I had any right to blame her. I was the one who&#x27;d had an affair; the one who&#x27;d broken my oath to Sylphie and slept with Roxy. That fact remained unchanged, regardless of the circumstances. And yet, I found myself taking an accusatory tone.</p>
 <p>&quot;Yes, I can say it. No one else could say this but me,&quot; she said haughtily as she looked at me. &quot;I realize I shouldn&#x27;t say it like this, but before I was Sylphie&#x27;s grandmother, I was Roxy&#x27;s close friend.&quot;</p>
 <p>For a moment I didn&#x27;t understand what she meant. Then I realized she was talking about the order in which they&#x27;d met. Elinalise had met Roxy first, then encountered Sylphie later on.</p>
@@ -59,13 +59,13 @@ nav_title = "Chapter 13"
 <p>Elinalise continued, &quot;I want Roxy to be happy, even if that happiness comes with conditions.&quot;</p>
 <p>&quot;I mean, I want the same thing.&quot;</p>
 <p>&quot;Rudeus, I know you can do it. You can love Sylphie and Roxy just the same. You&#x27;re Paul&#x27;s son, after all. You should be able to do that.&quot;</p>
-<p>Could I really? Perhaps. No, definitely. I <em>did</em> love them both equally. I did and I could. But was that really okay? Was it okay to say as much—to be <em>that</em> self-serving?</p>
+<p>Could I really? Perhaps. No, definitely. I did love them both equally. I did and I could. But was that really okay? Was it okay to say as much—to be that self-serving?</p>
 <p>No. These were just the whisperings of the devil. I couldn&#x27;t listen to them.</p>
 <p>&quot;No, Sylphie is my only—&quot;</p>
 <p>&quot;I didn&#x27;t plan on saying this,&quot; Elinalise cut in, raising her voice. Her tone grew hushed again as she continued, &quot;But when we drank together in Bazaar, Roxy told me that her monthly visitor still hadn&#x27;t come.&quot;</p>
 <p>&quot;Huh?&quot; Monthly visitor…? Oh, wait! I knew what that was. Uh, but…did that mean…?</p>
 <p>&quot;Well, it&#x27;s not for certain yet,&quot; she added.</p>
-<p>We&#x27;d done the deed. It was possible. Plus, the night they&#x27;d gotten drunk, she <em>had</em> come and beaten on my chest (albeit weakly). Maybe that had been a sign?</p>
+<p>We&#x27;d done the deed. It was possible. Plus, the night they&#x27;d gotten drunk, she had come and beaten on my chest (albeit weakly). Maybe that had been a sign?</p>
 <p>Elinalise peered into my face and said, &quot;Rudeus, if Roxy really is pregnant with your child, what will you do?&quot;</p>
 <p>Her question conjured an image in my head of Paul back in the day…back when Lilia was pregnant with his child. He&#x27;d looked so pitiful. I was the one who had saved him back then, when he&#x27;d been helpless. Now, I thought he was a man deserving of respect. But that didn&#x27;t mean I wanted to make the same mistakes he had.</p>
 <p>&quot;…I&#x27;ll do what must be done.&quot;</p>
@@ -84,7 +84,7 @@ nav_title = "Chapter 13"
 <p>What was I supposed to say? Everything was happening so fast. I hadn&#x27;t come up with the words yet. No, thinking wasn&#x27;t necessary. My feelings for Roxy weren&#x27;t something I needed to think over before speaking.</p>
 <p>&quot;Um, I&#x27;ve been wanting to say this for a very, very long time,&quot; I began.</p>
 <p>&quot;Yes?&quot;</p>
-<p>&quot;I love you, Teacher. I always have, since long, long ago. And I don&#x27;t <em>just</em> love you—I respect you. You seem to be self-conscious of the fact that you can&#x27;t use magic as well as me, but that doesn&#x27;t matter to me. Your teachings have helped me numerous times. They&#x27;re the only reason I was able to make it this far.&quot;</p>
+<p>&quot;I love you, Teacher. I always have, since long, long ago. And I don&#x27;t just love you—I respect you. You seem to be self-conscious of the fact that you can&#x27;t use magic as well as me, but that doesn&#x27;t matter to me. Your teachings have helped me numerous times. They&#x27;re the only reason I was able to make it this far.&quot;</p>
 <p>Roxy&#x27;s face gradually heated up. Mine was probably tinged pink as well. Talking face to face like this was embarrassing.</p>
 <p>&quot;Well, thank you for that.&quot;</p>
 <p>&quot;But, um,&quot; I added, stammering, &quot;uh, you see, I also have a wife.&quot;</p>
@@ -102,7 +102,7 @@ nav_title = "Chapter 13"
 <p>&quot;In that case…&quot;</p>
 <p>She was going to turn me down. It seemed Roxy wanted me to choose her, and only her, after all. No sooner had that thought popped into the back of my head than…</p>
 <p>&quot;In that case, please ask me again after you&#x27;ve received her approval,&quot; Roxy said with a serious look on her face, the snow sprinkling down around us.</p>
-<p><em>Please ask me again.</em> The words echoed in my mind. I felt my body heat up as I registered the fact that she hadn&#x27;t rejected me.</p>
+<p>Please ask me again. The words echoed in my mind. I felt my body heat up as I registered the fact that she hadn&#x27;t rejected me.</p>
 <p>We drew close to the Magic City of Sharia.</p>
 <p>I talked to Lilia about Roxy as well. Her usual poker face in place, she merely said, &quot;I see, then. Very well.&quot; It didn&#x27;t sound like she judged me for it, probably because she&#x27;d been in the same position as Roxy before.</p>
 <p>No, that wasn&#x27;t it. It was because the notion of monogamous marriage only existed in Millis. Either way, it took a weight off my shoulders to have made my promise to Roxy and gained Lilia&#x27;s understanding. All that remained was to get home, explain the circumstances of the trip to Sylphie, and bow my head before her as I pleaded for Roxy&#x27;s inclusion into the family.</p>
@@ -111,18 +111,18 @@ nav_title = "Chapter 13"
 <p>Just then, anxiety reared its ugly head.</p>
 <p>Those were the Man-God&#x27;s words. He&#x27;d said I would &quot;regret&quot; something.</p>
 <p>True enough, there was Paul&#x27;s death, Zenith becoming a husk, and me losing my left hand. I&#x27;d lost a lot. Yet strangely enough, I didn&#x27;t feel regret. I could thank Roxy for that.</p>
-<p>Yes, part of me thought: <em>If only I&#x27;d been stronger, if only I&#x27;d learned how to wield the sword better, if only I&#x27;d been strong enough to defeat that hydra.</em> But another part of me felt strongly that it would&#x27;ve been impossible either way. My aptitude for battle wasn&#x27;t</p>
+<p>Yes, part of me thought: If only I&#x27;d been stronger, if only I&#x27;d learned how to wield the sword better, if only I&#x27;d been strong enough to defeat that hydra. But another part of me felt strongly that it would&#x27;ve been impossible either way. My aptitude for battle wasn&#x27;t</p>
 <p>the best. I couldn&#x27;t wrap that battle aura stuff around my body, nor did I know how to try. You had to be able to manipulate your battle aura to advance as a swordsman. Besides, the hydra had been immune to magic. Even if I had worked diligently to learn King-tier spells, they would&#x27;ve been useless. There might have been some other way, but the past was the past.</p>
 <p>That was why I had no regrets. Paul&#x27;s death had allowed me to reflect on my past. I&#x27;d worried people and caused them trouble, but ultimately, there was good that had come out of it all. What I felt wasn&#x27;t regret—it was sadness. Just sadness. Sadness was all I carried with me from the Begaritt Continent.</p>
 <p>But that was also why I felt anxious now. Perhaps the thing I would really regret was yet to come. For instance, maybe something had happened to the little sisters I left behind.</p>
-<p><em>Remember what he said.</em></p>
+<p>Remember what he said.</p>
 <p>He&#x27;d mentioned this-and-that about Linia and Pursena. Did that mean something had happened to one of them then? Was I supposed to have enlisted their help to solve some kind of problem here?</p>
 <p>Or—don&#x27;t tell me—had something happened to my pregnant wife…?</p>
 <p>Those were the only things that might leave me with regrets.</p>
 <p>Despite my apprehension, we couldn&#x27;t move any faster. The weather had worsened, and the snow was rapidly picking up. The others seemed unfazed, but Zenith was struggling. I used my earth magic to craft a seat I could hoist onto my back, and carried her. The armadillo looked half-frozen. Perhaps we should have left it behind after all, but it was already too late for that.</p>
-<p><em>I should at least give it a name so it doesn&#x27;t die without one,</em> I decided.</p>
+<p>I should at least give it a name so it doesn&#x27;t die without one, I decided.</p>
 <p>Dillo. Dillo was a good name. Do your best, Dillo!</p>
-<p>It had taken just five days to reach the ruins when we were on our way to Begaritt, but it was taking over ten on the return journey. It wasn&#x27;t <em>that</em> long, compared to all my adventures so far. And yet, somehow, it felt like the longest leg of the entire trip.</p>
+<p>It had taken just five days to reach the ruins when we were on our way to Begaritt, but it was taking over ten on the return journey. It wasn&#x27;t that long, compared to all my adventures so far. And yet, somehow, it felt like the longest leg of the entire trip.</p>
 <p>***</p>
 <p>We arrived at the Magic City of Sharia.</p>
 <p>I immediately headed for my house, feeling my pace quicken.</p>
@@ -147,7 +147,7 @@ nav_title = "Chapter 13"
 <p>I reached for the door knocker. It felt like ice on my skin, but I banged it several times anyways.</p>
 <p>&quot;Are you sure it isn&#x27;t already open?&quot; asked Elinalise from behind me.</p>
 <p>As she suggested, I tried the doorknob, turned and pulled, and it came open.</p>
-<p><em>Too careless,</em> I thought as I started to step in.</p>
+<p>Too careless, I thought as I started to step in.</p>
 <p>My eyes immediately met those of someone at the opposite end of the room, trying to open a door.</p>
 <p>&quot;Oh, big brother?!&quot;</p>
 <p>&quot;Aisha…is everyone safe?&quot;</p>

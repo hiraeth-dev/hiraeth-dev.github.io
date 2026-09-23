@@ -63,20 +63,20 @@ nav_title = "Chapter 8"
 <p>She couldn&#x27;t catch up to him.</p>
 <p>&quot;I&#x27;ll cover you!&quot; Roxy shouted.</p>
 <p>I finally returned to my senses and outstretched my staff toward the hydra. First, we had to defeat our opponent.</p>
-<p><em>I&#x27;m going to take down this monster in one hit!</em></p>
+<p>I&#x27;m going to take down this monster in one hit!</p>
 <p>I charged my Stone Cannon with the same potency that had sent even a Demon King sprawling.</p>
 <p>&quot;Silent fist of the frost giant, Ice Smash!&quot; Roxy recited an Intermediate-tier incantation and leaped into battle. A block of solid ice went plunging toward the creature, buzzing right past Paul before—</p>
-<p><em>Piiiing!</em></p>
+<p>Piiiing!</p>
 <p>A jarring sound—like nails on glass—split through the air.</p>
 <p>Roxy&#x27;s eyes went round as she gasped. &quot;What?!&quot;</p>
 <p>The hydra was completely unscathed.</p>
 <p>Was it resistant to ice? The possibility crossed my mind for a split second, but Paul was already about to arrive at the creature&#x27;s location.</p>
 <p>&quot;Stone Cannon!&quot; I released my charged shot. The perfectly polished earthen bullet whistled through the air. It passed right</p>
 <p>above Paul&#x27;s head, just as he was a few steps short of the enormous serpent.</p>
-<p><em>Piiiing!</em></p>
+<p>Piiiing!</p>
 <p>Again, that earsplitting noise.</p>
 <p>&quot;Was it deflected?!&quot; I choked out in disbelief.</p>
-<p>The creature couldn&#x27;t have evaded it. My cannon <em>had</em> to have hit. The shot was dead-on, I knew it was—I was certain.</p>
+<p>The creature couldn&#x27;t have evaded it. My cannon had to have hit. The shot was dead-on, I knew it was—I was certain.</p>
 <p>But there was the hydra, towering on high as if it hadn&#x27;t noticed a thing. Not a single scratch on it.</p>
 <p>&quot;Gruuuoaaah!&quot; Paul&#x27;s battle cry was so fierce that it reached even my ears.</p>
 <p>The hydra moved its head like a snake, lashing out at Paul as he edged close. He was sharp and precise as he evaded, moving only as much as required. In the next moment, the serpent&#x27;s heads were dancing in the air. Paul&#x27;s left-hand sword had pierced through. His speed was astonishing.</p>
@@ -84,9 +84,9 @@ nav_title = "Chapter 8"
 <p>He flipped his body, taking advantage of centrifugal force to cut through once more. One of the serpent&#x27;s wilting necks came crashing to the floor.</p>
 <p>&quot;Shaaaah!&quot;</p>
 <p>In an instant, it had lost two of them.</p>
-<p>Unfortunately, hydras had <em>many</em> heads. So the others came whipping through the air, surrounding Paul in all directions. He retreated a step to try to gain some distance, but the length of his stride wasn&#x27;t enough to escape from the hydra&#x27;s range.</p>
+<p>Unfortunately, hydras had many heads. So the others came whipping through the air, surrounding Paul in all directions. He retreated a step to try to gain some distance, but the length of his stride wasn&#x27;t enough to escape from the hydra&#x27;s range.</p>
 <p>&quot;Paul!&quot; Elinalise finally caught up with him. She braced her shield and thrust forward with her weapon. An invisible shockwave rippled through the air.</p>
-<p><em>Piiing!</em></p>
+<p>Piiing!</p>
 <p>There it was again. That sound.</p>
 <p>The hydra continued its pursuit of Paul, as if it hadn&#x27;t noticed her attack at all.</p>
 <p>&quot;Rapid muddy currents, gush forth! Flash Flood!&quot; Roxy&#x27;s incantation conjured water right in front of Paul, sweeping him to safety and out of the hydra&#x27;s range.</p>
@@ -95,12 +95,12 @@ nav_title = "Chapter 8"
 <p>What was I supposed to do?</p>
 <p>&quot;Earth Pillar!&quot; Talhand finally completed his incantation. He was using earth magic.</p>
 <p>A boulder appeared above the hydra and came plummeting down toward it.</p>
-<p><em>Piiing!</em></p>
+<p>Piiing!</p>
 <p>Once again, the same sound.</p>
 <p>Just before impact, the enormous rock shattered into dust and disappeared. And there was that sound again—that piercing, highpitched sound that nullified magic when it reverberated through the air.</p>
 <p>&quot;Does magic not work against this thing?!&quot; Talhand howled.</p>
 <p>Crap, what were we supposed to do? Keep trying? Or should we retreat for now?</p>
-<p>What was <em>I</em> supposed to do?</p>
+<p>What was I supposed to do?</p>
 <p>Roxy suddenly raised her voice from beside me, distressed. &quot;Rudy, look! It&#x27;s healing!&quot;</p>
 <p>I glanced up in time to see one of the stumps, where Paul had sliced off its head, beginning to expand, meat and muscle knitting back together. The other neck soon followed.</p>
 <p>It was regenerating.</p>
@@ -109,7 +109,7 @@ nav_title = "Chapter 8"
 <p>Paul was whooping out fierce battle cries as he single-mindedly slashed his sword at the hydra. His style was so reckless that it was putting Elinalise, who was acting as his support, in danger.</p>
 <p>&quot;Geese!&quot; Talhand cried.</p>
 <p>Geese dashed forth, darting past Talhand and sprinting up behind Paul. He gripped something in his hand and flung it at the hydra.</p>
-<p><em>Pa-pang!</em></p>
+<p>Pa-pang!</p>
 <p>An explosion rippled. Dense smoke rolled out, the hydra at its center. A smoke bomb?</p>
 <p>Geese yelled out something as he looped his arms beneath Paul&#x27;s, pinning him from behind. However, Geese alone wasn&#x27;t enough to hold Paul down. In seconds, the latter was close to shaking him off until Elinalise bonked Paul over the head with her shield.</p>
 <p>&quot;Ah…!&quot;</p>
@@ -132,7 +132,7 @@ nav_title = "Chapter 8"
 <p>&quot;That was Zenith. I&#x27;m sure of it,&quot; he said. His eyes hadn&#x27;t even registered Elinalise&#x27;s injury. Although, she was our tank, so you could say getting injured was just a part of her job. Even so…</p>
 <p>&quot;Please, calm down a bit,&quot; I urged.</p>
 <p>&quot;Yeah, that was my bad. I&#x27;m fine now.&quot; Paul&#x27;s voice was low. He was calm, but he wasn&#x27;t cool-headed. The words &quot;calm before the storm&quot; came to mind.</p>
-<p>Not much I could do. He was right—that <em>was</em> Zenith. Even from afar, I could instantly tell it was her. I was sure Paul wouldn&#x27;t be mistaken about something like this, either. The person trapped within that magically imbued crystal was certainly Zenith.</p>
+<p>Not much I could do. He was right—that was Zenith. Even from afar, I could instantly tell it was her. I was sure Paul wouldn&#x27;t be mistaken about something like this, either. The person trapped within that magically imbued crystal was certainly Zenith.</p>
 <p>But why in the world was she encased in there?</p>
 <p>No, the reason didn&#x27;t matter. There were many potential explanations. Maybe when the Displacement Incident happened, she was warped inside the crystal. It was rare for such a thing to occur, but rare just meant unlikely, not impossible.</p>
 <p>But wait, hadn&#x27;t Geese told us she&#x27;d been found by adventurers? The word he&#x27;d used was &quot;captured.&quot; Hold on. Did that mean Geese had known what kind of condition she was in…?</p>
@@ -150,7 +150,7 @@ nav_title = "Chapter 8"
 <p>But Paul just leaned his face in toward me, as if to intimidate me. &quot;Rudy. She&#x27;s there. Zenith is there—your mother! How can you be so calm?&quot;</p>
 <p>&quot;You would prefer I panic? How would me losing my composure solve anything?&quot;</p>
 <p>&quot;That&#x27;s not what I&#x27;m talking about!&quot; he barked back.</p>
-<p>I knew what he meant. True, maybe I was being a bit <em>too</em> coolheaded right now. My attitude certainly wasn&#x27;t appropriate for a child who&#x27;d found their mother after she&#x27;d been missing for six years.</p>
+<p>I knew what he meant. True, maybe I was being a bit too coolheaded right now. My attitude certainly wasn&#x27;t appropriate for a child who&#x27;d found their mother after she&#x27;d been missing for six years.</p>
 <p>But, well, I hadn&#x27;t had much contact with Zenith since I was a child. I didn&#x27;t really have a strong sense of her being my mother. If anything, she was more like a person that just happened to have lived with us. After all, I&#x27;d left their house when I was seven years old and hadn&#x27;t seen her for almost ten years.</p>
 <p>So maybe it wasn&#x27;t entirely my fault that I was having a lukewarm reaction.</p>
 <p>&quot;For now, let&#x27;s just get on the same page about our current predicament,&quot; I said.</p>
@@ -190,7 +190,7 @@ nav_title = "Chapter 8"
 <p>The hydra could regenerate, which wasn&#x27;t surprising at all to me. As far as I was concerned, that was common knowledge.</p>
 <p>&quot;We clipped its heads off and it healed &#x27;em right back to normal. How are we supposed to defeat somethin&#x27; like that?&quot;</p>
 <p>Roxy hummed ponderously along.</p>
-<p>I, however, couldn&#x27;t bring myself to consider it <em>that</em> invincible an adversary, even though I knew it could restore itself. Why, you ask? Because of my knowledge from my previous life.</p>
+<p>I, however, couldn&#x27;t bring myself to consider it that invincible an adversary, even though I knew it could restore itself. Why, you ask? Because of my knowledge from my previous life.</p>
 <p>&quot;I&#x27;ve heard that if you burn the stump where its head was cut off, it won&#x27;t be able to regenerate.&quot; I recounted the mythical tale of Hercules. He had fought a hydra. According to the stories, he used a torch to cauterize the open wounds after beheading it, preventing it from recovering.</p>
 <p>Honestly, it was just a myth—a story. It didn&#x27;t have much credibility.</p>
 <p>It didn&#x27;t matter to my party members, though. Their reaction was positive.</p>
@@ -213,7 +213,7 @@ nav_title = "Chapter 8"
 <p>That was how we split up our roles. That was how it had to be.</p>
 <p>Of course, attacks would still inevitably come my way. I was in a very precarious position.</p>
 <p>&quot;Phew…&quot; Paul expelled a breath and glanced around at all of us. &quot;Elinalise, Talhand, Geese, and Roxy…&quot; As he called their names, they all turned to look at him. &quot;You&#x27;ve all helped me out up &#x27;til now. Years have passed since the Displacement Incident. You crossed the Demon Continent for me, searched out Rudy in the Northern Territories for me, went to lengths I couldn&#x27;t even begin to dream of.&quot;</p>
-<p>All four watched him quietly, in a way that seemed to say <em>Hurry up and spit it out already.</em></p>
+<p>All four watched him quietly, in a way that seemed to say Hurry up and spit it out already.</p>
 <p>&quot;But now that&#x27;s over. We&#x27;ll either save her…or, assuming she&#x27;s not alive, at least all of my family will be accounted for. This is the end. Please lend me your strength this one last time.&quot;</p>
 <p>All four chuckled and nodded.</p>
 <p>&quot;It&#x27;s not your style to act so humble,&quot; said Elinalise. &quot;But I understand. I&#x27;ll give this all I have.&quot;</p>
@@ -229,8 +229,8 @@ nav_title = "Chapter 8"
 <p>&quot;All right,&quot; I said, matching his gaze. I could already guess what he wanted to say, more or less.</p>
 <p>&quot;Save your mother, even if it kills you,&quot; he said.</p>
 <p>This was a father talking to his son.</p>
-<p><em>Even if it kills you.</em></p>
-<p>That certainly wasn&#x27;t something a parent should say. At the very least, it would have been better if he&#x27;d said, &quot;I&#x27;ll save her even if it kills <em>me</em>.&quot;</p>
+<p>Even if it kills you.</p>
+<p>That certainly wasn&#x27;t something a parent should say. At the very least, it would have been better if he&#x27;d said, &quot;I&#x27;ll save her even if it kills me.&quot;</p>
 <p>Still, I didn&#x27;t think he was a cruel father for saying it. This was his conviction—his trust in me. Paul intended what he said—he would save her even if it cost him his life. And he thought of me as an equal. He believed in me. He saw me as an adult. That was why he said what he did.</p>
 <p>All that remained was for me to respond.</p>
 <p>We were going to save Zenith. To that end, Paul and I would share the same determination.</p>

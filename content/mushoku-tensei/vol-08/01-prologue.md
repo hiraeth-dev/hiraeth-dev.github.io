@@ -91,7 +91,7 @@ nav_title = "Prologue"
 <p>I&#x27;d seen these three on stage before, at the Adventurers&#x27; Guild. They were a C-ranked party called Big Boys Orchestra; a wonderful name that spoke to their desire for popularity. Unfortunately, their skills were a bit lacking. Despite that, they kept churning out new material, and had even quizzed me extensively about the dragon slaying quest I completed several days ago. The song they were singing right now was based on that story. Almost like a YouTuber with a song cover predictably titled &#x27;My Attempt At \_\_\_&#x27;. Wait, that&#x27;s not quite right.</p>
 <p>Music had never been my thing, even in my previous life. I&#x27;d once tried to create a song on Vocaloid, but failed miserably. Since then, I&#x27;d told people the only instrument I could play was the ass drum. And by play, I mean slapping my ass with both hands. What these troubadours were doing—creating something new based on what I&#x27;d told them, and performing it—was something I could never do. Their skills might need polishing, but I had to acknowledge their creativity.</p>
 <p>Unfortunately, the group&#x27;s lead was singing the tale of my adventure in a tone of voice that made them sound like an old village storyteller, or the narrator of a documentary. I found it interesting, but the bland tone wasn&#x27;t going down so well with the rest of the audience. Someone jeered, calling it boring and demanding they play something else.</p>
-<p><em>That&#x27;s cold, bro. Especially when the protagonist of the song is sitting right here.</em></p>
+<p>That&#x27;s cold, bro. Especially when the protagonist of the song is sitting right here.</p>
 <p>Bam!</p>
 <p>The door to the pub swung open. Freezing air came billowing in. Everyone&#x27;s gazes turned. My body shook.</p>
 <p>&quot;I&#x27;ve finally found you, Rudeus the Quagmire!&quot;</p>
@@ -104,12 +104,12 @@ nav_title = "Prologue"
 <p>&quot;You stick out like a sore thumb, just like I was told you would. I found you immediately!&quot;</p>
 <p>&quot;Wait, you said &#x27;finally&#x27; just a second ago, didn&#x27;t you?&quot;</p>
 <p>&quot;I thought you would be further east,&quot; she said, her beautiful eyes staring straight at me. For some reason, there was drool trickling from her mouth. She licked it away.</p>
-<p>What, had she fallen for me instantly? Was her mouth watering at the sight of the athletic physique I&#x27;d recently built up? Hehehe, well, I <em>had</em> been getting fit lately. Plus I was right in the middle of puberty, and starting to bulk up.</p>
+<p>What, had she fallen for me instantly? Was her mouth watering at the sight of the athletic physique I&#x27;d recently built up? Hehehe, well, I had been getting fit lately. Plus I was right in the middle of puberty, and starting to bulk up.</p>
 <p>&quot;What&#x27;s wrong?&quot;</p>
 <p>&quot;No, no, nothing at all!&quot; The elf woman cleared her throat and took a seat beside me.</p>
 <p>The pub erupted in oohs and aahs. I hear people whisper, &quot;To think Quagmire had a woman all this time!&quot;</p>
 <p>I couldn&#x27;t believe it, either. It was enough of a shock to bring tears to my eyes.</p>
-<p>&quot;Phew.&quot; She put her backpack down and noisily scooted her chair toward me. She was close. I mean <em>really</em> close. Close enough that if I were a virgin, I might&#x27;ve mistakenly thought she liked me. <em>That&#x27;s dangerous, Miss. If you fall for me, you&#x27;ll get burned.</em></p>
+<p>&quot;Phew.&quot; She put her backpack down and noisily scooted her chair toward me. She was close. I mean really close. Close enough that if I were a virgin, I might&#x27;ve mistakenly thought she liked me. That&#x27;s dangerous, Miss. If you fall for me, you&#x27;ll get burned.</p>
 <p>&quot;My name is Elinalise, Elinalise Dragonroad. I&#x27;m your father Paul&#x27;s former party member—&quot;</p>
 <p>&quot;Oh.&quot; was it. Paul&#x27;s friend, huh? So that was it. She&#x27;d probably come bearing some kind of message.</p>
 <p>&quot;—and I&#x27;m also Roxy&#x27;s friend.&quot;</p>
@@ -126,13 +126,13 @@ nav_title = "Prologue"
 <p>&quot;Huh? No, they&#x27;re not. My, my, why are you asking about that?&quot; I said. Oops. Now I was even talking like her.</p>
 <p>&quot;That&#x27;s not important.&quot; Elinalise didn&#x27;t seem bothered by my slip-up. She showed me the sheath that had been hanging from her hip. It had a pendant attached to it with the same shape as mine, albeit far more elaborately made. An amateur had made mine, while hers was clearly crafted by someone skilled, &quot;We match,&quot; she said, snuggling up against me.</p>
 <p>She&#x27;d been awfully touchy since she walked in. &quot;What&#x27;s going on here? Do you actually like me?&quot;</p>
-<p>&quot;Yes, you&#x27;re a good man. More so than I anticipated. I&#x27;m surprised. I thought you&#x27;d be more of a child, but… you&#x27;re so muscular, it&#x27;s <em>wooonderful</em>.&quot;</p>
+<p>&quot;Yes, you&#x27;re a good man. More so than I anticipated. I&#x27;m surprised. I thought you&#x27;d be more of a child, but… you&#x27;re so muscular, it&#x27;s wooonderful.&quot;</p>
 <p>She was probably just messing with me, but it kind of got my heart thumping. &quot;Uhhhm… heh, you&#x27;re quite beautiful yourself, miss.&quot;</p>
 <p>I wasn&#x27;t going to get all flustered, like some kind of virgin. I slipped my finger under her chin and tilted it up. When I did so, she softly closed her eyes, as if she were waiting for a kiss. Just I started to wonder just what kind of joke this was, her hand slipped around the back of my head.</p>
 <p>Seriously? I was definitely feeling some sexual vibes here, but, uh? Was that okay? Was I really free to give her a big sloppy smooch?</p>
 <p>The moment I thought that, her eyes flew open. &quot;Oh no, I can&#x27;t. Shame on me.&quot;</p>
 <p>&quot;Please don&#x27;t tease me like that,&quot; I complained.</p>
-<p>&quot;I do <em>not</em> tease men. But I also have no intention of becoming Paul&#x27;s daughter, and I want to continue being Roxy&#x27;s friend, too.&quot;</p>
+<p>&quot;I do not tease men. But I also have no intention of becoming Paul&#x27;s daughter, and I want to continue being Roxy&#x27;s friend, too.&quot;</p>
 <p>…what the hell? So she and the rest of the party had fought with Paul before they split up, a long time ago, and as a result, she couldn&#x27;t bring herself to date his son? Well, whatever, it didn&#x27;t matter. I had no intention of dating anyone again, anytime soon.</p>
 <p>&quot;So then, Miss Elinalise, do you have some business with me?&quot;</p>
 <p>&quot;Yes. I&#x27;ve brought you good news.&quot;</p>

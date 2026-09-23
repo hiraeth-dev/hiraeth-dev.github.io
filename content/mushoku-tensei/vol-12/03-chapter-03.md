@@ -39,12 +39,12 @@ nav_title = "Chapter 3"
 <p>That said, he wasn&#x27;t using this weapon very much. Paul generally fought with only his right hand. I wondered what the purpose of his left-hand sword was. Or was he just a nerd in his final form?</p>
 <p>&quot;Like taking candy from a baby!&quot; Not that it was relevant at all, but whenever he defeated something, Paul would glance over at me.</p>
 <p>How annoying. He probably wanted to show off how cool he was.</p>
-<p><em>Okay, okay, I get it, Dad; you look cool, but please don&#x27;t let your guard down.</em></p>
+<p>Okay, okay, I get it, Dad; you look cool, but please don&#x27;t let your guard down.</p>
 <p>&quot;Paul! Keep your head forward!&quot; And yep, there it was— Elinalise was letting him have it.</p>
 <p>&quot;C&#x27;mon, it&#x27;s fine,&quot; Paul said, &quot;we&#x27;ve done the first floor dozens of times before. I&#x27;m not going to screw up that easily.&quot;</p>
 <p>&quot;Letting your guard down like that can cost you your life,&quot; she warned.</p>
 <p>&quot;Yeah, yeah, I know already.&quot;</p>
-<p>&quot;Besides,&quot; Elinalise continued, &quot;you&#x27;ve been going too far ahead this whole time. <em>I</em> am the one in front, am I not?!&quot;</p>
+<p>&quot;Besides,&quot; Elinalise continued, &quot;you&#x27;ve been going too far ahead this whole time. I am the one in front, am I not?!&quot;</p>
 <p>&quot;It&#x27;s the first floor. Not like it&#x27;ll make that big of a difference.&quot;</p>
 <p>And so, their bickering began. I could hear Talhand behind me, expelling a sigh as he said, &quot;Blegh, there they go again.&quot;</p>
 <p>&quot;Myself aside, this is Rudeus&#x27; first time in a labyrinth, and as an adult, you should be setting a good example!&quot;</p>
@@ -86,7 +86,7 @@ nav_title = "Chapter 3"
 <p>It took about an hour to arrive at each magic circle. Since we&#x27;d already done that five times, that meant approximately five hours had passed. The last area on the first floor was a web-covered room, deep within which were two circles lined up together. Their color was a bit more intense than that of the others we&#x27;d seen, and they were bigger, too. The darker blue one led to the next floor, but it had a twin circle with the same shape right beside it.</p>
 <p>To the uninitiated, either one looked like it could be the real deal. Yet there was a rock with a circle inscribed on it placed immediately before one of the circles. This was something Geese had left behind as a signal that it was the correct one. Once we referenced the book and confirmed everything was on point, we hopped onto it.</p>
 <p>From there, we were on to the second floor.</p>
-<p>On the second floor, the skittering floor spiders disappeared and the tarantula nests were severely reduced. You could actually see the floor now. Instead of spiders, we now had an enormous steel caterpillar—the Iron Crawler—slithering around. It was a meter tall and two meters long, giving it a rather short and stout appearance. The closest thing I could compare it to were the Ohmu from <em>Nausicaä</em>. Just as their exterior suggested, the creatures were tough and sturdy, but contrary to their appearance, they were actually rather fast. Their speed reminded me less of a caterpillar and more of a centipede.</p>
+<p>On the second floor, the skittering floor spiders disappeared and the tarantula nests were severely reduced. You could actually see the floor now. Instead of spiders, we now had an enormous steel caterpillar—the Iron Crawler—slithering around. It was a meter tall and two meters long, giving it a rather short and stout appearance. The closest thing I could compare it to were the Ohmu from Nausicaä. Just as their exterior suggested, the creatures were tough and sturdy, but contrary to their appearance, they were actually rather fast. Their speed reminded me less of a caterpillar and more of a centipede.</p>
 <p>To add to that, they were buddies with the spiders, the latter of which would sling webs from the rear while using the crawlers as a shield. Once you were caught up in those webs, the heavy, one-ton crawler would trample you.</p>
 <p>Iron Crawlers were so tough that even Paul couldn&#x27;t defeat them in a single strike. That was where I came in. I could release two types of magic at the same time to strike the Death Road Tarantulas in the rear with my Blizzard Storm, then defeat the Iron Crawlers one by one with my Stone Cannon as Paul and Elinalise kept them preoccupied. Apparently, the Crawlers were tough enough to repel a normal Stone Cannon, but I didn&#x27;t experience any problems in that regard, as my cannons went right through them. Though, being bugs, if I didn&#x27;t hit them right and kill them on impact, they would start writhing in pain and thrashing about.</p>
 <p>&quot;Nothin&#x27; for me to do, eh?&quot; While I worked diligently, Talhand grumbled about being bored. He was on standby next to me, just in case. To make sure his services weren&#x27;t required, we were all— Geese included—conducting ourselves as prudently as possible. Thus, as of now, there was nothing for Talhand to do.</p>
@@ -97,7 +97,7 @@ nav_title = "Chapter 3"
 <p>Having said that, the vanguard couldn&#x27;t dodge every single one, so the two of them were covered in webs.</p>
 <p>&quot;Here, take this. But don&#x27;t go wastin&#x27; it, you hear?&quot; said Geese. I could burn my own way out, but he had brought along a liquid to dissolve the webs, which the others were diluting with water and</p>
 <p>using. He told me it was a unique medicine, popular across the Begaritt Continent, and caused no bodily harm. While it didn&#x27;t cause harm, Elinalise huffed about how it irritated her skin. Almost like detergent.</p>
-<p><em>Maybe I should take some home with me to try washing dishes with,</em> I thought.</p>
+<p>Maybe I should take some home with me to try washing dishes with, I thought.</p>
 <p>&quot;Okay, let&#x27;s take a quick break here.&quot; Geese called out to us after we finished fighting, and we plopped ourselves down where we stood. Talhand and Elinalise immediately stood to take watch.</p>
 <p>Paul immediately removed his armor and belt, then proceeded to start scrubbing off the beast blood splattered over them. He was trying to speed through his equipment check in the short time allotted for our break. Seeing how practiced his hands were reminded me that he was a pro in this field.</p>
 <p>&quot;What is it? You better hurry up too, Rudy.&quot;</p>
@@ -106,9 +106,9 @@ nav_title = "Chapter 3"
 <p>That aside, Paul was being awfully quiet. On the first floor, he&#x27;d come up to me when we took breaks, asking &quot;So what do you think?&quot; and stuff like that. I guess it was to be expected, since this was the second floor, but he&#x27;d turned serious. The &quot;cool&quot; dad.</p>
 <p>&quot;Tch, this damn stuff won&#x27;t come off.&quot; Paul started cursing as he tried desperately to scrub away at the bodily fluids—or whatever that gunk was—glued to his armor.</p>
 <p>&quot;Why don&#x27;t you try that medicine that Mister Geese was just using?&quot; I said.</p>
-<p>&quot;That&#x27;s for getting the webs off, isn&#x27;t it?&quot; Even so, he applied some to his cloth and resumed his furious scrubbing. When he did, the armor came out sparkling white, just like in those bleach commercials! Okay, not <em>white</em> white—it was armor, after all— but at least it was clean now. &quot;Oh, it came off! Thanks!&quot;</p>
+<p>&quot;That&#x27;s for getting the webs off, isn&#x27;t it?&quot; Even so, he applied some to his cloth and resumed his furious scrubbing. When he did, the armor came out sparkling white, just like in those bleach commercials! Okay, not white white—it was armor, after all— but at least it was clean now. &quot;Oh, it came off! Thanks!&quot;</p>
 <p>&quot;Not at all.&quot;</p>
-<p>So it <em>was</em> detergent. It might make Sylphie really happy if I bought a bunch before I returned. I wouldn&#x27;t mind putting it to use around the house, if possible.</p>
+<p>So it was detergent. It might make Sylphie really happy if I bought a bunch before I returned. I wouldn&#x27;t mind putting it to use around the house, if possible.</p>
 <p>Paul re-equipped his armor as soon as he finished cleaning it. He then drew his sword and strode over toward Elinalise. I debated switching off with Talhand myself, but Geese&#x27;s voice stopped me.</p>
 <p>&quot;Boss, don&#x27;t worry about lookout.&quot;</p>
 <p>&quot;Are you sure?&quot;</p>

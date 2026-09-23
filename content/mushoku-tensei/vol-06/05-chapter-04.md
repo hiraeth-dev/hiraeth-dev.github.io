@@ -9,7 +9,7 @@ nav_title = "Chapter 4"
 
 <p><strong>A</strong>isha cried for quite some time after we made our escape, big sobs that shook her whole body. She&#x27;d even peed herself. I understood how she felt. If a couple of scary men had grabbed my arm and threatened me, I&#x27;d probably be shaking, too.</p>
 <p>Not enough to pee myself, though.</p>
-<p>Those two soldiers were probably more gentlemanly than most, but it had to have been a terrifying experience for a five- or six-yearold child. Age gaps felt more pronounced the younger you were high-schoolers could be as intimidating as adults to grade-schoolers. And the soldiers actually <em>had</em> been adults.</p>
+<p>Those two soldiers were probably more gentlemanly than most, but it had to have been a terrifying experience for a five- or six-yearold child. Age gaps felt more pronounced the younger you were high-schoolers could be as intimidating as adults to grade-schoolers. And the soldiers actually had been adults.</p>
 <p>At least, I wanted to believe that was the reason she was crying and not the crack of both of my legs breaking when we landed. I quickly used healing magic to fix them up, but that definitely hurt.</p>
 <p>Currently, I was avoiding mention of her little accident while silently washing her underwear. We were back at the inn. Eris and Ruijerd were both gone when we made it back, and they&#x27;d said they were going out to hunt down information, so they probably wouldn&#x27;t return until evening.</p>
 <p>Here I was, having yet another unusual experience. Just moments ago, Aisha had peeled off her small, baggy maid outfit. Once she shed her soaked underwear, I wiped down her undeveloped nethers with a moistened towel and gave her one of the shirts I normally wore.</p>
@@ -18,7 +18,7 @@ nav_title = "Chapter 4"
 <p>Ruijerd wouldn&#x27;t save me if I broke that rule. I could use my demon eye to try and run, but Eris would be pissed for at least three days. If she did manage to punch me while I was defenseless, she&#x27;d deform my face so bad I wouldn&#x27;t be able to taste food for three days…granted I&#x27;d heal myself well before three days passed.</p>
 <p>Anyway, back to the story.</p>
 <p>The situation was such that it wouldn&#x27;t be surprising if my inner beast started howling. Yet my heart was as calm as the still surface of a lake. Forget being aroused, there wasn&#x27;t even a ripple in the water. It was as polished and motionless as a mirror. That was odd.</p>
-<p>I was troubled by Aisha&#x27;s endless sobbing, but I didn&#x27;t feel the least bit aroused. Had I become some kind of holy man while I wasn&#x27;t paying attention? Or grown so terrified of rousing Eris&#x27;s wrath that my pocket monster was now incapable of engaging in battle? Had I locked away my own memories to avoid facing my terror? No, that couldn&#x27;t be it. <em>You&#x27;re okay down there, right, little buddy?</em></p>
+<p>I was troubled by Aisha&#x27;s endless sobbing, but I didn&#x27;t feel the least bit aroused. Had I become some kind of holy man while I wasn&#x27;t paying attention? Or grown so terrified of rousing Eris&#x27;s wrath that my pocket monster was now incapable of engaging in battle? Had I locked away my own memories to avoid facing my terror? No, that couldn&#x27;t be it. You&#x27;re okay down there, right, little buddy?</p>
 <p>Those troublesome thoughts preoccupied me as I washed and dried Aisha&#x27;s plain linen panties (which weren&#x27;t sexy in the least) and maid uniform (which seemed to be made of high-quality fabric). I handed them over to Aisha, who had finally stopped crying at some point, and she happily changed into them.</p>
 <p>Even watching her do that didn&#x27;t arouse me at all. Come to think of it, I&#x27;d never been interested in Zenith&#x27;s breasts, either. I hadn&#x27;t cared much about either gender or age in my previous incarnation,</p>
 <p>but apparently my current body&#x27;s family were off-limits in this one. Life sure was a mysterious thing.</p>
@@ -34,9 +34,9 @@ nav_title = "Chapter 4"
 <p>something about Lilia giving Aisha an extra-rigorous education, hadn&#x27;t he?</p>
 <p>&quot;That&#x27;s all you need? Do you have any money?&quot;</p>
 <p>&quot;I have no money!&quot;</p>
-<p>&quot;Weren&#x27;t you taught that you need money to send letters and to buy pen and paper?&quot; It was critical to teach kids the importance of money from a young age. I doubted Lilia would skip something that important, even if there were <em>some</em> things children shouldn&#x27;t be taught until they got older.</p>
+<p>&quot;Weren&#x27;t you taught that you need money to send letters and to buy pen and paper?&quot; It was critical to teach kids the importance of money from a young age. I doubted Lilia would skip something that important, even if there were some things children shouldn&#x27;t be taught until they got older.</p>
 <p>&quot;My mother taught me that if a girl like me looks up at someone with a pleading look in my eyes and says, &#x27;I want to send a letter to my father,&#x27; then I won&#x27;t have to spend any money.&quot;</p>
-<p>Aha—Lilia, you scoundrel. Were you teaching your daughter to use her femininity as a weapon? As I realized that, Aisha&#x27;s mannerisms started to feel very staged. No, seriously, just what <em>was</em> Lilia teaching her?</p>
+<p>Aha—Lilia, you scoundrel. Were you teaching your daughter to use her femininity as a weapon? As I realized that, Aisha&#x27;s mannerisms started to feel very staged. No, seriously, just what was Lilia teaching her?</p>
 <p>&quot;I&#x27;ve been trying to contact my father for a long time, but the people in the castle tell me no and won&#x27;t let me send any letters!&quot;</p>
 <p>I&#x27;d already heard that Lilia was being detained. Now I knew that they weren&#x27;t letting her or Aisha send letters, either. Maybe things were pretty serious here. When the Man-God told me I needed to &quot;save them,&quot; I&#x27;d suspected that this was a situation where Paul was being cuckolded.</p>
 <p>&quot;Is there anyone else you could ask for help besides your father?&quot;</p>
@@ -45,7 +45,7 @@ nav_title = "Chapter 4"
 <p>Aisha furrowed her brows. She had a look of dismay on her face, but why? &quot;I have a brother, but…&quot;</p>
 <p>&quot;But?&quot;</p>
 <p>&quot;I can&#x27;t ask him for help.&quot;</p>
-<p><em>Why the heck not?! He just saved you a moment ago, didn&#x27;t he?!</em></p>
+<p>Why the heck not?! He just saved you a moment ago, didn&#x27;t he?!</p>
 <p>&quot;D-do you mind if I ask what your reasoning is?&quot;</p>
 <p>&quot;Reason! Sure! My mother told me about my brother in great detail.&quot;</p>
 <p>&quot;Okay.&quot;</p>
@@ -62,8 +62,8 @@ nav_title = "Chapter 4"
 <p>Calculations? Wait, hold on just a second here. This kid was way too smart for her age. What the heck? She was just five or six, right?</p>
 <p>&quot;Maybe you&#x27;re just miscalculating?&quot; I suggested.</p>
 <p>&quot;Nope. I gathered more information from my mother. It seems my brother would peek in on that girl while she was bathing, and he&#x27;d also watch my parents while they were getting it on. My mother was trying to cover it up, but I knew there was no mistaking it—my brother&#x27;s a pervert!&quot;</p>
-<p><em>A pervert! A pervert! A pervert! There&#x27;s no mistake, my brother&#x27;s a pervert!</em> And, just for kicks, once more: <em>A pervert!</em></p>
-<p><em>Okay, stop it!</em> I thought. <em>My mental capacity&#x27;s already at zero!</em></p>
+<p>A pervert! A pervert! A pervert! There&#x27;s no mistake, my brother&#x27;s a pervert! And, just for kicks, once more: A pervert!</p>
+<p>Okay, stop it! I thought. My mental capacity&#x27;s already at zero!</p>
 <p>&quot;O-oh, okay, so your brother is a pervert. That&#x27;s really rough, ha ha ha…&quot; I&#x27;d brought this on myself, but really, I was in shock. I&#x27;d never imagined something like this would… Damn. Now I understood. This was why the Man-God had told me not to use my real name.</p>
 <p>&quot;By the way, Mister Knight, what&#x27;s your real name?&quot;</p>
 <p>&quot;It&#x27;s a secret. On the streets, they call me the Kennel Master of Dead End,&quot; I answered, keeping a cool and composed look on my face. It was probably best for now if I held off on revealing that I was her older brother.</p>
@@ -108,9 +108,9 @@ nav_title = "Chapter 4"
 <p>&quot;Why are you being so evasive about this?&quot; Eris asked.</p>
 <p>&quot;Apparently someone has fed her some misguided information about me. I want to show her my good side so I can correct her perceptions of me.&quot;</p>
 <p>&quot;Hmm. Well, I think you&#x27;re cool just the way you are.&quot;</p>
-<p>&quot;Eris…&quot; I tried to give her a grin that read <em>thanks for saying such sweet things about me</em>, but when I did, Eris took a step back.</p>
+<p>&quot;Eris…&quot; I tried to give her a grin that read thanks for saying such sweet things about me, but when I did, Eris took a step back.</p>
 <p>&quot;Ugh…why do you get that creepy grin on your face when I compliment you?!&quot;</p>
-<p>Apparently, my trademark look was a creepy one. That was a bit of a shock. <em>Someone please give me a new face…</em></p>
+<p>Apparently, my trademark look was a creepy one. That was a bit of a shock. Someone please give me a new face…</p>
 <p>&quot;Anyway, if that&#x27;s what&#x27;s going on, then let&#x27;s attack the castle!&quot; Eris exclaimed, totally ready and willing to throw down.</p>
 <p>&quot;It&#x27;s been a while since I stormed a castle.&quot; Even Ruijerd was hefting his spear as if raring to go.</p>
 <p>I hurried to cool their jets. &quot;No, no. Let&#x27;s just wait for a reply to my letter, for now.&quot;</p>
@@ -126,7 +126,7 @@ nav_title = "Chapter 4"
 <p>&quot;Lady Roxy bids you come see her. Please accompany me to the royal palace.&quot;</p>
 <p>She mentioned nothing about the events that transpired the day before. I hadn&#x27;t hidden my face during the dust-up, but it seemed I hadn&#x27;t been identified.</p>
 <p>I hesitated. What was I supposed to do with Aisha? If I took her with me, they would know I was the one who&#x27;d attacked those soldiers with my stone cannon. I was just going to have to leave her behind. I could apologize to the soldiers once I had Roxy to help.</p>
-<p>With that decided, I told Aisha not to leave the room under any circumstance and entrusted her protection to Ruijerd and Eris. Since I was going to meet Roxy, I double-checked my appearance before I left. My hair was combed, and I was in my usual robes. <em>Oh, right,</em> I thought. <em>I should get her a box of sweets.</em> I wondered what I should buy, since I hadn&#x27;t seen her in such a long time.</p>
+<p>With that decided, I told Aisha not to leave the room under any circumstance and entrusted her protection to Ruijerd and Eris. Since I was going to meet Roxy, I double-checked my appearance before I left. My hair was combed, and I was in my usual robes. Oh, right, I thought. I should get her a box of sweets. I wondered what I should buy, since I hadn&#x27;t seen her in such a long time.</p>
 <p>It was then I happened to spot the ultra-unpopular Ruijerd figurine at the bottom of my tool bag. I recalled that in one of her letters, she&#x27;d talked about seeing a figurine of herself. It might be interesting to show her this one and tell her that I&#x27;d been the creator behind that one, too.</p>
 <p>&quot;It&#x27;s been a while since I last saw my master.&quot;</p>
 <p>&quot;…You&#x27;re going to formally introduce me to her, right?&quot;</p>
@@ -134,7 +134,7 @@ nav_title = "Chapter 4"
 <p>&quot;Are you sure you&#x27;re fine by yourself?&quot; Ruijerd asked in a worried tone. I often ran into trouble when I was left on my own, so I understood his concern.</p>
 <p>&quot;No problem. If anything comes up, I&#x27;ll fly right back here.&quot; That was just a figure of speech, of course. I was never going to take such drastic action that I broke both of my legs again.</p>
 <p>&quot;Mister Kennel Master…&quot; Aisha said.</p>
-<p>&quot;Don&#x27;t worry. Just leave this to me.&quot; She looked anxious, so I patted her on the head. She drew her lips into a line and nodded. <em>That&#x27;s a good girl</em>, I thought.</p>
+<p>&quot;Don&#x27;t worry. Just leave this to me.&quot; She looked anxious, so I patted her on the head. She drew her lips into a line and nodded. That&#x27;s a good girl, I thought.</p>
 <p>Led by the knight Ginger, I started toward the royal palace. We moved quickly along the edge of a main road, bustling with carriages going to and fro. The road had so many twists and turns and sometimes was so narrow that carriages couldn&#x27;t freely pass by one another. I assumed this was a countermeasure in case of an enemy attack. I&#x27;d heard of a town in the Mino region back in Japan that had streets like this.</p>
 <p>Ginger seemed quite taciturn, so I didn&#x27;t speak unless necessary. If I asked her a question, however, she would respond. She was always polite.</p>
 <p>&quot;Okay, up next is this one!&quot; An energetic voice boomed through the air. I turned my head in its direction. &quot;She used to be a knight from the country of Washawa. This is a battle-ready slave! She&#x27;s a bit feisty, but she&#x27;s skilled! Three gold coins!&quot;</p>
@@ -154,7 +154,7 @@ nav_title = "Chapter 4"
 <p>&quot;Lady Roxy would also hop around trying to get a look whenever there was a crowd.&quot;</p>
 <p>&quot;Really?&quot;</p>
 <p>&quot;Yes. Although she always looked conflicted when I lifted her up like this.&quot;</p>
-<p>I tried to picture it—Roxy hopping up and down while complaining, <em>&quot;I can&#x27;t really see.&quot;</em> Then I pictured Ginger, with her good intentions, unable to just stand by and watch. Then finally Roxy again, looking disheartened as she&#x27;d say, <em>&quot;Please put me down.&quot;</em></p>
+<p>I tried to picture it—Roxy hopping up and down while complaining, &quot;I can&#x27;t really see.&quot; Then I pictured Ginger, with her good intentions, unable to just stand by and watch. Then finally Roxy again, looking disheartened as she&#x27;d say, &quot;Please put me down.&quot;</p>
 <p>&quot;You&#x27;ve held her up before like this before?&quot; I asked.</p>
 <p>&quot;Yes, and she got mad and told me to put her down immediately.&quot;</p>
 <p>I knew it.</p>
@@ -177,7 +177,7 @@ nav_title = "Chapter 4"
 <p>&quot;My teacher said that?&quot; I asked.</p>
 <p>&quot;Lady Roxy bragged often about you. She said that she honestly felt like she wasn&#x27;t even qualified to teach someone of your caliber.&quot;</p>
 <p>&quot;Heh heh,&quot; I chuckled. &quot;That&#x27;s an exaggeration.&quot;</p>
-<p>We eventually reached the castle as we talked. It was quite a large one, though not as big as the Kishirisu Castle in Rikarisu or the White Palace in Millishion. It was about the same size as the one Eris and her family lived in. In other words, the country was about the size of a single region in the Asura Kingdom. <em>Way to go Asura Kingdom, you sure don&#x27;t let a man down!</em></p>
+<p>We eventually reached the castle as we talked. It was quite a large one, though not as big as the Kishirisu Castle in Rikarisu or the White Palace in Millishion. It was about the same size as the one Eris and her family lived in. In other words, the country was about the size of a single region in the Asura Kingdom. Way to go Asura Kingdom, you sure don&#x27;t let a man down!</p>
 <p>&quot;…&quot;</p>
 <p>Ginger gave a small bow to the guard at the gate. In response, he snapped stiffly to attention. &quot;Thank you for your dedicated service!&quot;</p>
 <p>&quot;Come this way.&quot; I started heading straight ahead, but Ginger guided me aside. We circled the castle and went through what looked like a back door. &quot;My apologies for this. Only nobles are allowed through the front entrance.&quot;</p>
@@ -189,15 +189,15 @@ nav_title = "Chapter 4"
 <p>&quot;Among the knights, I rank about twelfth.&quot;</p>
 <p>Twelfth? It was hard for me to tell whether that was a high or low ranking. If it included all the hundreds of knights within this country, then it probably wasn&#x27;t low.</p>
 <p>&quot;This way.&quot; Ginger led us way deeper and deeper into the palace. Her steps grew increasingly cautious as she went. She never climbed any stairs, but simply led me down one final hall and stopped outside a door deep within the core of the castle.</p>
-<p><em>This must be Roxy&#x27;s room</em>, I thought. It was located in an awfully deserted area of the palace, but that somehow seemed appropriate for her.</p>
+<p>This must be Roxy&#x27;s room, I thought. It was located in an awfully deserted area of the palace, but that somehow seemed appropriate for her.</p>
 <p>Ginger looked at what I had with me and held out her hand. &quot;Excuse me, please hand over your staff and other belongings.&quot;</p>
 <p>&quot;Oh, sure.&quot; How kind of her to even go so far as to act like a doorman.</p>
 <p>Ginger took my things and then pounded her fist against the door. &quot;It&#x27;s Ginger. I brought Lord Rudeus with me.&quot;</p>
 <p>&quot;Enter.&quot; It was a man&#x27;s voice that responded.</p>
 <p>Before I could process the doubt I felt at that, Ginger immediately opened the door and motioned me inside. Obediently, I went in.</p>
-<p>&quot;Oho…so <em>this</em> is Rudeus, huh?&quot;</p>
+<p>&quot;Oho…so this is Rudeus, huh?&quot;</p>
 <p>Seated before me, looking self-important, was a boy. He looked like a small barrel as he arrogantly reclined in his chair. Not just in terms of height; his arms and legs looked short, too. Almost like what you&#x27;d get if you combined a hafling and a dwarf. The only thing conspicuously large about him was his head, which was adult-sized. His face resembled that of an otaku, giving me a sense that the two of us were brethren. It wasn&#x27;t an attractive face, though.</p>
-<p>Standing at the boy&#x27;s side were two maids. One of them looked familiar and the other didn&#x27;t. We&#x27;ll call the latter of the two Maid A. She seemed to be in her late twenties and was fairly normal-looking. As for Maid B, her face looked exactly like Lilia&#x27;s. Actually, no…that <em>was</em> Lilia. Five years had passed, so she looked a bit older than I remembered. That was no surprise, given she was getting on in years on top of having been through the stress of the Displacement Incident.</p>
+<p>Standing at the boy&#x27;s side were two maids. One of them looked familiar and the other didn&#x27;t. We&#x27;ll call the latter of the two Maid A. She seemed to be in her late twenties and was fairly normal-looking. As for Maid B, her face looked exactly like Lilia&#x27;s. Actually, no…that was Lilia. Five years had passed, so she looked a bit older than I remembered. That was no surprise, given she was getting on in years on top of having been through the stress of the Displacement Incident.</p>
 <p>&quot;Mrgh?!&quot;</p>
 <p>Lilia was in a chair. There were ropes tied around her and her mouth was gagged. I didn&#x27;t see Roxy anywhere.</p>
 <p>&quot;Huh? What the heck is this…?&quot; Confused, I looked around. I thought Roxy was going to be here; that she was going to explain what was going on.</p>
@@ -217,7 +217,7 @@ nav_title = "Chapter 4"
 <p>Pax? Oh right, the Seventh Prince. What was he planning to do by trapping Roxy in a barrier where she couldn&#x27;t use her magic?</p>
 <p>Wait—in her letter, Roxy had described him as being similar to me. I was a gentleman. So it only stood to reason that he was going to do something very gentlemanly. A gentlemanly act of violence.</p>
 <p>&quot;Heh heh…I like that look on your face, Rudeus Greyrat.&quot; He chortled when he saw my frustration.</p>
-<p>I put on a poker face and took a deep breath. <em>Calm down</em>, I told myself, <em>just calm down.</em></p>
+<p>I put on a poker face and took a deep breath. Calm down, I told myself, just calm down.</p>
 <p>&quot;So I&#x27;ve fallen into a trap? I understand. I&#x27;ll apologize formally for attacking those soldiers yesterday. But before that, please call Roxy here. I used to be her pupil. She can confirm my identity. Then I can call my lawyer and we can have a proper trial—&quot;</p>
 <p>&quot;Roxy&#x27;s not here.&quot;</p>
 <p>Roxy wasn&#x27;t there.</p>
@@ -225,7 +225,7 @@ nav_title = "Chapter 4"
 <p>No, that couldn&#x27;t be possible. Did not the great mathematician Euler claim that God existed? Did he not receive an order from Catherine the Great and magnificently offer up proof that God was real? God did exist. I would do the same and prove that God existed myself.</p>
 <p>&quot;No. God is here.&quot;</p>
 <p>&quot;What? God?&quot; Pax had a dumbfounded look on his face.</p>
-<p><em>That&#x27;s right, God. Make no mistake—if God wasn&#x27;t here, there would be a holy war. Bring it on!</em></p>
+<p>That&#x27;s right, God. Make no mistake—if God wasn&#x27;t here, there would be a holy war. Bring it on!</p>
 <p>&quot;Hm, so you&#x27;re praying to God now? That&#x27;s the correct decision, though it&#x27;s already too late for you.&quot;</p>
 <p>&quot;That&#x27;s true.&quot; I&#x27;d calmed down by now, so it was time to dispense with the jokes. &quot;So judging by what you just said a moment ago, Roxy isn&#x27;t in this country anymore?&quot;</p>
 <p>&quot;Correct! You&#x27;re going to be the bait that lures her back here.&quot;</p>
@@ -249,14 +249,14 @@ nav_title = "Chapter 4"
 <p>&quot;You would…?&quot; Hmm. Something seemed strange here. Well, old man Sauros might try to help if he heard I&#x27;d been taken captive. But what did that have to do with Lilia?</p>
 <p>&quot;Lilia also tried sending letters numerous times! As if I would allow her to call for help!&quot;</p>
 <p>Why in the world was he not letting her write for help if the whole point was reeling Roxy in?</p>
-<p><em>Ahh, I get it</em>, I thought. <em>He&#x27;s a moron.</em></p>
+<p>Ahh, I get it, I thought. He&#x27;s a moron.</p>
 <p>&quot;Besides,&quot; he added, &quot;I can just hand that information straight to her!&quot;</p>
 <p>&quot;I&#x27;ve been searching for her for the past two years, but I haven&#x27;t found her yet! Still, one day I will! She stands out wherever she goes!&quot;</p>
 <p>Just because she stood out didn&#x27;t mean he&#x27;d ever find her. She&#x27;d written in her letters that he was similar to me. That he had talent. Did that just mean her impression of me was this bad?</p>
 <p>&quot;Heh heh. It looks like you&#x27;ve given up. I don&#x27;t care if you are a magician who can cast spells without voicing them—you stand no chance against me!&quot;</p>
 <p>There was no way I was going to lose to this guy! I glared at him.</p>
 <p>&quot;Ooh, I like the look in your eyes. Makes me shiver. I hope you&#x27;ll keep that look until the very end. Ahh, I&#x27;m looking forward to it so much. Roxy, don&#x27;t keep me waiting…&quot; He sounded like a little boy pining for attention as he mounted the stairs, disappearing through the hole in the ceiling.</p>
-<p><em>There&#x27;s no way in hell she&#x27;s coming</em>, I thought to myself.</p>
+<p>There&#x27;s no way in hell she&#x27;s coming, I thought to myself.</p>
 <p>&quot;Hey, who said you could remove Lilia&#x27;s gag?&quot;</p>
 <p>&quot;I&#x27;m sorry, but she seemed like she had something to say.&quot;</p>
 <p>&quot;That&#x27;s not your decision to make!&quot;</p>
@@ -271,7 +271,7 @@ nav_title = "Chapter 4"
 <p>&quot;According to the report, he called himself the Knight of the Shadow Moon. He&#x27;s a huge, brawny man who laughs loudly as he jumps from roof to roof like a pervert.&quot;</p>
 <p>&quot;If it&#x27;s someone who stands out that much, why haven&#x27;t you caught him yet?! Dammit, you&#x27;re all so useless!&quot;</p>
 <p>&quot;Yes, sir! My apologies!&quot;</p>
-<p><em>Hey, wait a minute! Excuse me, Mister Soldier! Please report the facts properly! Just what part of my body was brawny and muscular?</em> Wait, no—perhaps the inaccurate report had been given out of kindness. Maybe they were trying to help Aisha escape. They didn&#x27;t seem like bad people when I met them, after all. Okay, good job, Mister Soldier!</p>
+<p>Hey, wait a minute! Excuse me, Mister Soldier! Please report the facts properly! Just what part of my body was brawny and muscular? Wait, no—perhaps the inaccurate report had been given out of kindness. Maybe they were trying to help Aisha escape. They didn&#x27;t seem like bad people when I met them, after all. Okay, good job, Mister Soldier!</p>
 <p>&quot;According to the report, we did tear up the letter she wrote.&quot;</p>
 <p>&quot;And she can rewrite that letter as many times as she wants!&quot;</p>
 <p>&quot;A high-ranking noble isn&#x27;t going to take action just because of a child&#x27;s letter. Shouldn&#x27;t we just forget about her?&quot;</p>
@@ -283,13 +283,13 @@ nav_title = "Chapter 4"
 <p>&quot;Shut up! As if I&#x27;d allow you to do that!&quot;</p>
 <p>&quot;Aah!&quot;</p>
 <p>&quot;Hmph. You knew Roxy too, didn&#x27;t you? I&#x27;ll have you beheaded in front of that impudent brat as well!&quot;</p>
-<p><em>Smack!</em> I heard another dry slapping sound, followed by something being dragged across the floor.</p>
+<p>Smack! I heard another dry slapping sound, followed by something being dragged across the floor.</p>
 <p>&quot;Rudeus! I&#x27;m never going to let you go!&quot;</p>
 <p>When I followed the voice and looked up, I saw Pax&#x27;s creepy face grinning down at me. Then, a lid was slid over the hole above. Quiet settled over the room as I was left with only the faint light of the magic circle as company.</p>
 <p>&quot;Phew…&quot;</p>
 <p>I felt somewhat dumbfounded. I should&#x27;ve been angry at Lilia being hit, but strangely, I didn&#x27;t feel rage rising up within me. Perhaps it was because the entirety of our interactions prior to that had been comical. Or because the Man-God had already told me she would be saved.</p>
 <p>Then again, maybe it was because all of this was a product of Pax&#x27;s feelings for Roxy, as warped as they might have been. I might have ended up the same way, had I been cast aside by her.</p>
-<p>No, that wasn&#x27;t it. It was because he <em>did</em> resemble me—the old me, before I was reincarnated. That was why I felt confusion rather than anger.</p>
+<p>No, that wasn&#x27;t it. It was because he did resemble me—the old me, before I was reincarnated. That was why I felt confusion rather than anger.</p>
 <p>&quot;Well then…&quot;</p>
 <p>Regardless, I understood the gist of what was going on. Simply put, Pax was the one who had captured Lilia. Then he&#x27;d detained her, using whatever pretext he saw fit, such as claiming she was the spy of a foreign power. As he listened to what she had to say, he&#x27;d somehow come to the conclusion that she was associated with Roxy, which was when he devised his plan. He would use Lilia as bait, contact Roxy, and lure her back here.</p>
 <p>He kept this all secret for fear of the Greyrat family, but really, even if the Asura Kingdom found out, Lilia was nothing more than a maid. The secrecy—and the fact that they were unable to locate Roxy—was why Lilia had been detained for so long.</p>
@@ -298,7 +298,7 @@ nav_title = "Chapter 4"
 <p>And I&#x27;d landed myself perfectly in the middle of their spider web. But I did write to Roxy, just as the Man-God had instructed me to do. This was probably all part of how things were supposed to end up, right? There was no need for me to panic. Right now, I was doing exactly as I&#x27;d been told.</p>
 <p>No…wait.</p>
 <p>Had I really done things the way I was supposed to? For instance, I told the soldiers I was the Knight of the Shadow Moon. According to the Man-God&#x27;s advice, as long as I told Aisha I was the Kennel Master of Dead End, everything would be fine. But maybe I was supposed to use that name with the soldiers as well?</p>
-<p>That wasn&#x27;t my only potential misstep. The same thing happened with the letter. I thought for sure I would be fine as long as I didn&#x27;t <em>say</em> my name was Rudeus, but if I hadn&#x27;t <em>written</em> my name on that letter, maybe things wouldn&#x27;t have ended up like this? If the prince had thought I was just some acquaintance of Roxy&#x27;s, perhaps things would have proceeded more peacefully?</p>
+<p>That wasn&#x27;t my only potential misstep. The same thing happened with the letter. I thought for sure I would be fine as long as I didn&#x27;t say my name was Rudeus, but if I hadn&#x27;t written my name on that letter, maybe things wouldn&#x27;t have ended up like this? If the prince had thought I was just some acquaintance of Roxy&#x27;s, perhaps things would have proceeded more peacefully?</p>
 <p>Crap. Now I really felt like I&#x27;d screwed things up.</p>
 <p>No, it was fine. It was still fine, right? This was still within expectations, right?</p>
 <p>I was worried. For the moment, I decided, I would at least try to secure an escape route.</p>

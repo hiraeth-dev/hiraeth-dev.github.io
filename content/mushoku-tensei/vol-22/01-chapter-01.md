@@ -10,19 +10,19 @@ nav_title = "Chapter 1"
 <p><strong>I</strong> WAS AT A HOUSE on the outskirts of the magic city of Sharia. The room stretching out before me was outfitted worthy of an evil demon king&#x27;s castle. It was furnished with a luxuriant Asuran carpet and chairs crafted from mahogany and red dragon leather, overstuffed with Millis wool. The desk was light wood to match the chairs, and the ornaments all painstakingly created by the artisans of Sharia—would&#x27;ve impressed anyone. The fireplace glowed, its flames faintly crackling in a cozy way that, despite myself, put my heart at ease.</p>
 <p>You&#x27;re probably wondering what part of that sounds like an evil demon king&#x27;s castle. That was all in the unsettling aura that radiated off the glowering man glaring daggers at me from his seat. His presence made everywhere he went feel like an evil demon king&#x27;s castle or a secret society. The atmosphere of a place is all about the people in it. The furnishings or whatever are just a footnote. It&#x27;s always all about the people.</p>
 <p>&quot;Th-that&#x27;s all I have to report for this time,&quot; I said, wrapping up my report on events in the Holy Country of Millis. My speaking venue held the kind of homey atmosphere you might find in the house of a family pretending just a little too hard that a divorce wasn&#x27;t incoming.</p>
-<p>Orsted always looked like he was on the verge of going ballistic. Maybe that was why Eris, standing behind me off to one side, was so on edge. Actually, the expression he wore now wasn&#x27;t his going-ballistic face at all. <em>Hm, I see</em>. Lately, I&#x27;d gotten the hang of reading Orsted&#x27;s expressions, so I knew what this face meant.</p>
+<p>Orsted always looked like he was on the verge of going ballistic. Maybe that was why Eris, standing behind me off to one side, was so on edge. Actually, the expression he wore now wasn&#x27;t his going-ballistic face at all. Hm, I see. Lately, I&#x27;d gotten the hang of reading Orsted&#x27;s expressions, so I knew what this face meant.</p>
 <p>Right, so… It was about seventy percent doubt, and maybe thirty percent lack of interest. Not especially angry.</p>
-<p><em>So you can settle down, Eris</em>.</p>
+<p>So you can settle down, Eris.</p>
 <p>&quot;So, about this misstep… I promise I&#x27;ll clean up the mess I made here!&quot;</p>
-<p><em>Leave it to Kaijin Quag-Man to put down K\</em>men R\<em>der Geese!</em></p>
-<p>&quot;Oh, yes, obviously, you <em>will</em> be addressing that. The thing is…&quot; From Orsted&#x27;s tone, I guessed these words were coming from the seventypercent doubt part.</p>
+<p>Leave it to Kaijin Quag-Man to put down K\men R\der Geese!</p>
+<p>&quot;Oh, yes, obviously, you will be addressing that. The thing is…&quot; From Orsted&#x27;s tone, I guessed these words were coming from the seventypercent doubt part.</p>
 <p>&quot;Something troubles you, sir?&quot;</p>
 <p>&quot;You told me all that via the contact tablet,&quot; he explained. &quot;Why did you travel all the way here to say it again?&quot;</p>
 <p>&quot;I&#x27;m obligated to make my reports. Also, it looks like my plans will have to change from here out, so I thought a meeting was necessary.&quot;</p>
 <p>&quot;I see…&quot; Orsted said with a sigh. He sat back down. &quot;Well? What are you planning?&quot;</p>
 <p>&quot;I&#x27;ll keep it brief,&quot; I said, clearing my throat. &quot;As I mentioned over the contact tablet, Geese told me he&#x27;s gathering forces so that he can kill me in a head-on battle. I don&#x27;t know if he was telling the truth or not, but I plan to counter him by gathering powerful allies of my own.&quot;</p>
 <p>&quot;Hm.&quot;</p>
-<p>Did he really have to look at me like he was grumbling, <em>Exactly what you told me over the contact tablet, then?</em></p>
+<p>Did he really have to look at me like he was grumbling, Exactly what you told me over the contact tablet, then?</p>
 <p>I thought that talking in person might lead to some new developments or something, so sue me… Also, checking in is important. It&#x27;d be no good if we were each looking at the situation in different ways.</p>
 <p>&quot;First I want to claim the Death God in the King Dragon Realm, then Atofe, then after that I&#x27;ll go to the North God… Oh, do you know where the North God is?&quot;</p>
 <p>After Atofe, I wanted to go chat with the seven great powers, starting with the strongest of them:</p>
@@ -36,32 +36,32 @@ nav_title = "Chapter 1"
 <p>Both of those were far away, and naming entire continents hardly narrowed it down.</p>
 <p>&quot;Understood. Next is the Sword God, I guess.&quot;</p>
 <p>So the order was now the Death God, Atofe, then the Sword God… Honestly, I wanted to talk to a whole lot more people. The top great powers, in order, went Technique God, Dragon God, Fighting God, and Demon God.</p>
-<p><em>Apart from the Dragon God, they&#x27;re all sealed away or missing, right? Wait, hold on…</em></p>
+<p>Apart from the Dragon God, they&#x27;re all sealed away or missing, right? Wait, hold on…</p>
 <p>&quot;Speaking of,&quot; I said, &quot;do you think the Technique God would ally with me? I remember you saying that he split off from the Demon God, which means he should be willing to help me fight the Man-God. Right?&quot;</p>
 <p>&quot;You have better uses for your time.&quot;</p>
 <p>&quot;Yeah, his memories got a bit muddled, right? Okay, so what if we, like, merged him back with the Demon God Laplace to return him to his true form—ah, wait. I guess that would make Sir Perugius mad, huh? Could you maybe, like, talk to him?&quot;</p>
-<p>&quot;Enough,&quot; Orsted growled, and I shut up. &quot;I will not ally myself with <em>them</em>.&quot;</p>
-<p><em>Them</em>. Now I got what he was saying. Orsted saw Laplace and Perugius as cut from the same cloth. The same probably went for all five dragon generals.</p>
+<p>&quot;Enough,&quot; Orsted growled, and I shut up. &quot;I will not ally myself with them.&quot;</p>
+<p>Them. Now I got what he was saying. Orsted saw Laplace and Perugius as cut from the same cloth. The same probably went for all five dragon generals.</p>
 <p>&quot;But, um, don&#x27;t you think if Perugius knew something about Laplace he&#x27;d speak up?&quot;</p>
 <p>&quot;If he becomes my enemy, I will end him.&quot;</p>
 <p>&quot;…Understood.&quot;</p>
 <p>I could guess why he was being so obstinate. Perugius was unaffected by Orsted&#x27;s curse. Yet Orsted made no effort to get close to him, and now this stubborn refusal. But we didn&#x27;t have a lot of options here.</p>
 <p>Still, for some reason, I hesitated to ask. I couldn&#x27;t get the question out. It felt like this wasn&#x27;t the right time.</p>
-<p>If I asked him, <em>Are the secret treasures that lead to the Man-God the lives of the Five Dragon Generals?</em> I suspected I&#x27;d end up with either</p>
+<p>If I asked him, Are the secret treasures that lead to the Man-God the lives of the Five Dragon Generals? I suspected I&#x27;d end up with either</p>
 <p>Perugius or Orsted as an enemy. I owed a lot to them both, and I didn&#x27;t want to end up in the middle of their spat. Right now, the smart move was to pretend I was still in the dark.</p>
 <p>&quot;Got it,&quot; I said. &quot;Let&#x27;s go on to the next thing.&quot;</p>
 <p>&quot;Proceed.&quot;</p>
 <p>I changed the subject. Nothing good could come from pushing a plan Orsted had already rejected. I followed Orsted, which meant he had final say on our course of action.</p>
 <p>&quot;While I tried pursuing various avenues in Millis, I got the impression that your, er…authority, or whatever you want to call it, was a bit lacking.&quot;</p>
 <p>&quot;That is because I have none,&quot; Orsted replied.</p>
-<p><em>Don&#x27;t be silly, of course you do!</em> I wanted to reply, but thinking about it, the Seven Great Powers were essentially athletes who&#x27;d won Olympic medals. Maybe they <em>didn&#x27;t</em> have any formal authority. On the other hand, the Seven Great Powers were big names in this world. Though ordinary society tended to forget about them, people with enough status at least knew them by reputation. The Seven Great Powers included the best of the best swordsmen—the North God and the Sword God. Their disciples were employed as martial instructors and guards the world over. When you thought about how strong they were and what valuable allies they&#x27;d make to any political power, Orsted&#x27;s position as number two amongst the Seven Great Powers seemed like a fairly big deal—and I was keen to put it to good use.</p>
+<p>Don&#x27;t be silly, of course you do! I wanted to reply, but thinking about it, the Seven Great Powers were essentially athletes who&#x27;d won Olympic medals. Maybe they didn&#x27;t have any formal authority. On the other hand, the Seven Great Powers were big names in this world. Though ordinary society tended to forget about them, people with enough status at least knew them by reputation. The Seven Great Powers included the best of the best swordsmen—the North God and the Sword God. Their disciples were employed as martial instructors and guards the world over. When you thought about how strong they were and what valuable allies they&#x27;d make to any political power, Orsted&#x27;s position as number two amongst the Seven Great Powers seemed like a fairly big deal—and I was keen to put it to good use.</p>
 <p>&quot;Well, about that: I have a proposition,&quot; I said.</p>
 <p>&quot;What is it?&quot;</p>
 <p>The thing was that while Orsted was a virtual nobody, Perugius was a household name. It should be easy to impress people if they thought I was in the same class as him…even if only by title.</p>
 <p>&quot;I&#x27;ve settled into introducing myself as the &#x27;Right Arm of the Dragon God&#x27; but it&#x27;s still a bit…how should I put this? It doesn&#x27;t rattle people. Like, not many people are awed by the Dragon God, y&#x27;know? Or it doesn&#x27;t feel that way, anyway. So I was wondering if, for clarity&#x27;s sake, I could call myself the &#x27;Dragon King.&#x27; We could do Quagdragon King or something, whatever feels good—&quot;</p>
-<p><em>Wait, what?</em></p>
+<p>Wait, what?</p>
 <p>&quot;I forbid you from using the title of Dragon King.&quot; He was glaring at me. Like, really glaring. Yeah, I got it. I could read his face, even when it wore an expression I&#x27;d never seen before. This was probably his &quot;angry face&quot;.</p>
-<p><em>He&#x27;s seriously hacked off. What the hell? Man, I&#x27;m trembling.</em></p>
+<p>He&#x27;s seriously hacked off. What the hell? Man, I&#x27;m trembling.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-22/insert-01.webp" alt="Illustration" loading="lazy" />
 </div>
@@ -72,10 +72,10 @@ nav_title = "Chapter 1"
 <p>Damn. I couldn&#x27;t stop shaking.</p>
 <p>I heard a tutting sound, just as Eris moved forwards.</p>
 <p>&quot;Eris, don&#x27;t!&quot; I called her off.</p>
-<p><em>Relax. This isn&#x27;t a fight. It&#x27;s not even a falling-out. I said something that&#x27;s totally at odds with the boss&#x27;s plan for the company, and now he&#x27;s mad. So get out of that stance, and take your hand off your sword, okay?</em></p>
+<p>Relax. This isn&#x27;t a fight. It&#x27;s not even a falling-out. I said something that&#x27;s totally at odds with the boss&#x27;s plan for the company, and now he&#x27;s mad. So get out of that stance, and take your hand off your sword, okay?</p>
 <p>&quot;I went too far. My apologies,&quot; I said.</p>
 <p>&quot;No matter,&quot; Orsted replied, and I lowered my head. Orsted&#x27;s anger dissipated. Orsted always acted on the assumption he had the loops to fall back on, but some things were still non-negotiable. I&#x27;d stepped on a raw nerve without looking. Well, whatever. It didn&#x27;t matter what I called myself. I could project authority in any number of other ways. My own sense of majesty might not be so easy to tap into, but I could…well, hm. I could borrow a bit of authority from Ariel and the Kingdom of Asura, maybe?</p>
-<p><em>Right, let&#x27;s go with that</em>.</p>
+<p>Right, let&#x27;s go with that.</p>
 <p>&quot;Let&#x27;s assume I get Ariel to lend me some authority, then. Who should I try to bring on our side after the Sword God?&quot;</p>
 <p>&quot;The Biheiril Kingdom would be best. That is where the Ogre God resides. The Ore God can wait until later. If it comes to war, he will provide good-quality weapons, but he is no good in a fight.&quot; Now Orsted mentioned it, I did remember him saying the Ogre God and the Ore God should be brought in with the rest.</p>
 <p>&quot;You mean I should get the Ogre God to join us?&quot;</p>
@@ -83,14 +83,14 @@ nav_title = "Chapter 1"
 <p>The enemy of my enemy, meaning that the Ogre God was easy to turn into a disciple, and therefore we should crush him first. Okay, yeah, that made sense as a strategy—building up our own pieces while also taking out Geese&#x27;s, and taking them out one at a time so that five of them couldn&#x27;t descend on us at once. That was one way to go about it.</p>
 <p>&quot;Is there anyone else likely to be turned against us?&quot;</p>
 <p>&quot;Hmmm. No, none as significant as the Ogre God,&quot; Orsted replied. &quot;There is the Abyssal King Vita who lives in Hell, the labyrinth on the Divine Continent, and the Vile Demon King Qeblaqabla of the Demon Continent. It would be prudent to remove those two. Moving against them first would cause problems, however, so they can be left until last.&quot;</p>
-<p>&quot;I see.&quot; They all had such wild names. I wondered if I&#x27;d have to fight them just for the crime of being <em>likely</em> to be turned by the Man-God. They hadn&#x27;t done anything yet. They weren&#x27;t disciples. Would Orsted mind if I made them <em>my</em> allies first? I wasn&#x27;t totally opposed to fighting them—if it looked like things weren&#x27;t going to work, I could fight them then. When it came down to it, I wasn&#x27;t super keen on murdering people before they&#x27;d even gotten involved in any of this.</p>
+<p>&quot;I see.&quot; They all had such wild names. I wondered if I&#x27;d have to fight them just for the crime of being likely to be turned by the Man-God. They hadn&#x27;t done anything yet. They weren&#x27;t disciples. Would Orsted mind if I made them my allies first? I wasn&#x27;t totally opposed to fighting them—if it looked like things weren&#x27;t going to work, I could fight them then. When it came down to it, I wasn&#x27;t super keen on murdering people before they&#x27;d even gotten involved in any of this.</p>
 <p>&quot;All right, so the plan is I either make them my allies or neutralize them.&quot;</p>
 <p>&quot;Indeed.&quot;</p>
-<p><em>The details come later, I guess.</em></p>
+<p>The details come later, I guess.</p>
 <p>&quot;On to the next topic. About my plans to visit the King Dragon Realm…&quot;</p>
 <p>After that, Orsted gave me scraps of information about the royal family and the nobles with power in the King Dragon Realm. That was where we left things.</p>
 <p>I hadn&#x27;t expected the Dragon King thing to get under his skin that badly.</p>
-<p><em>Gotta be more careful next time.</em></p>
+<p>Gotta be more careful next time.</p>
 <p>***</p>
 <p>&quot;Whew…&quot;</p>
 <p>the boss&#x27;s room, the girl at reception stood up and bowed enthusiastically. A half-elf, half-human girl. She&#x27;d inherited the long lifespan of an elf, but she was still very young. She had been hired as Orsted&#x27;s secretary after a series of rigorous selection processes over a large number of candidates. She spent all day sitting here, never seeing Orsted because he was always shut up in the back. She acted on his orders purely via written communication, while also meticulously taking care of administrative duties. What was her name again…?</p>
@@ -101,11 +101,11 @@ nav_title = "Chapter 1"
 <p>&quot;I might have, uh, pulled the tiger&#x27;s tail this time, so to speak.&quot;</p>
 <p>&quot;Oh dear… But the CEO really does rely on you, Chairman Rudeus. He may merely hold high expectations of you.&quot;</p>
 <p>&quot;Hahaha. No, that wasn&#x27;t it.&quot;</p>
-<p>She was resistant to Orsted&#x27;s curse and considerate of others. An allaround swell lady. The only thing was, I really couldn&#x27;t remember her name. What <em>was</em> it, seriously? Faristy…or Feristaly? No, that wasn&#x27;t right. Aisha would probably know, but she was with Zenith right now in the neighboring room.</p>
+<p>She was resistant to Orsted&#x27;s curse and considerate of others. An allaround swell lady. The only thing was, I really couldn&#x27;t remember her name. What was it, seriously? Faristy…or Feristaly? No, that wasn&#x27;t right. Aisha would probably know, but she was with Zenith right now in the neighboring room.</p>
 <p>That was fine. I&#x27;d ask Aisha privately another day.</p>
 <p>&quot;I was thinking, if Orsted is the CEO and I&#x27;m the chairman, doesn&#x27;t it sort of sound like I&#x27;m more important than him?&quot;</p>
 <p>&quot;Oh… What should I call him then?&quot;</p>
-<p><em>I wonder.</em> Linia was the acting CEO, and Aisha was an advisor as well as the vice chief. If I was the company chairman, then that left…</p>
+<p>I wonder. Linia was the acting CEO, and Aisha was an advisor as well as the vice chief. If I was the company chairman, then that left…</p>
 <p>&quot;What about Commander-in-Chief?&quot;</p>
 <p>&quot;…Well, he should have final approval.&quot;</p>
 <p>&quot;True. Um, well, I guess run it by him,&quot; I said.</p>
@@ -127,7 +127,7 @@ nav_title = "Chapter 1"
 <p>&quot;Understood, Mr. Chairman.&quot;</p>
 <p>&quot;One more thing. Can you hint to the boss that the chairman looked really agonized?&quot;</p>
 <p>&quot;Of course.&quot; She chuckled. &quot;You know, I didn&#x27;t expect you to be so timid.&quot;</p>
-<p><em>Nothing surprising about it. I&#x27;ve always been like that. I&#x27;m about as brave as I am tall.</em></p>
+<p>Nothing surprising about it. I&#x27;ve always been like that. I&#x27;m about as brave as I am tall.</p>
 <p>After that conversation, I left the office.</p>
 <p>Right. Next up, I had to report back to my family about Zenith and the whole thing with Geese. There was a lot I needed to say. At least it wasn&#x27;t all bad news, but that was cold comfort.</p>
 <p><strong>Lilia</strong></p>
@@ -141,7 +141,7 @@ nav_title = "Chapter 1"
 <p>&quot;Now that we&#x27;re discussing it, I suppose I did know that.&quot;</p>
 <p>&quot;All of which is to say, you need to find someone else for Aisha. Someone charming. Someone who won&#x27;t pay her any attention unless she behaves like an adult.&quot;</p>
 <p>Miss Elinalise looked much younger than me, but she had the wisdom that came with age. I was grateful for how thoroughly she addressed my concerns.</p>
-<p>&quot;Yes. You want someone younger and a bit useless. Someone who&#x27;s got it <em>really</em> bad for grownup women.&quot;</p>
+<p>&quot;Yes. You want someone younger and a bit useless. Someone who&#x27;s got it really bad for grownup women.&quot;</p>
 <p>&quot;Really bad, you say?&quot;</p>
 <p>&quot;Exactly. Aisha should have no trouble satisfying the fantasies of a kid like that, and she can also knock some sense into that kind of boy.&quot;</p>
 <p>I knew perfectly well that Aisha wasn&#x27;t going to end up with Master Rudeus. He didn&#x27;t want her, and she wasn&#x27;t interested in him. Unfortunately, I couldn&#x27;t see any potential marriage candidates I brought home going down well, either.</p>
@@ -151,7 +151,7 @@ nav_title = "Chapter 1"
 <p>How odd. He was a clever dog, and hardly ever barked unless there was a reason. It couldn&#x27;t be that something had befallen Sylphiette?!</p>
 <p>&quot;Woof, woof!&quot; Leo wagged his tail, then looked from me to the front door and back again.</p>
 <p>Ah, never mind, then. Leo was far too happy. Besides, if something happened to Sylphiette, he would have barked urgently for someone to come to him.</p>
-<p>His gaze was fixed upon the front door. Were we to have a visitor? Leo didn&#x27;t typically wag his tail for visitors. <em>Ah, perhaps Miss Roxy has come home,</em> I thought, standing up right as the lock on the front door went <em>click</em>. I rushed over to receive the arrivals.</p>
+<p>His gaze was fixed upon the front door. Were we to have a visitor? Leo didn&#x27;t typically wag his tail for visitors. Ah, perhaps Miss Roxy has come home, I thought, standing up right as the lock on the front door went click. I rushed over to receive the arrivals.</p>
 <p>&quot;Oh, hey, Lilia. We&#x27;re back.&quot;</p>
 <p>&quot;Hey, Lilia!&quot;</p>
 <p>&quot;Welcome home, Master Rudeus! Miss Eris!&quot; I cried.</p>
@@ -162,10 +162,10 @@ nav_title = "Chapter 1"
 <p>&quot;I guess you could say that,&quot; he replied. His phrasing was deliberately vague.</p>
 <p>&quot;Was it Lady Claire?&quot; I asked. Rudeus looked surprised.</p>
 <p>&quot;No,&quot; he replied. &quot;Well, I mean, Claire and I did have a bit of a falling-out. We&#x27;re all good now, though. She&#x27;s not such a bad person, deep down.&quot;</p>
-<p>This only perplexed me further, although I felt a little relieved. For the past month and a half, I&#x27;d been beset with anxiety over not going with them. I&#x27;d thought I ought to accompany them to mediate. My worries were unfounded, according to Rudeus&#x27;s explanation. What <em>had</em> gone wrong?</p>
+<p>This only perplexed me further, although I felt a little relieved. For the past month and a half, I&#x27;d been beset with anxiety over not going with them. I&#x27;d thought I ought to accompany them to mediate. My worries were unfounded, according to Rudeus&#x27;s explanation. What had gone wrong?</p>
 <p>&quot;Then—&quot; I began, but Master Rudeus looked away with a troubled expression on his face. Beside him, Aisha looked uncomfortable. Something else must have transpired. Looking at Aisha, she may have been the subject of the conflict.</p>
 <p>&quot;Did Aisha make a nuisance of herself?&quot; As I&#x27;d just been saying to Elinalise, Aisha, despite being already fifteen years old, adamantly refused to behave like an adult. She was talented but persisted in acting like a child.</p>
-<p>I was so proud of her, long ago. <em>This girl is a gifted child,</em> I&#x27;d thought. <em>Now I can pay back Master Rudeus for his kindness</em>. But if she never stopped being a gifted <em>child</em>…</p>
+<p>I was so proud of her, long ago. This girl is a gifted child, I&#x27;d thought. Now I can pay back Master Rudeus for his kindness. But if she never stopped being a gifted child…</p>
 <p>By now, even I felt like I was prying as I opened my mouth. &quot;So why—&quot;</p>
 <p>Master Rudeus cut me off. &quot;I… Look, it&#x27;s gonna be a really long story once I get into it. Can we wait until everyone&#x27;s here?&quot;</p>
 <p>&quot;Of course. I beg your pardon, Master Rudeus.&quot;</p>
@@ -173,7 +173,7 @@ nav_title = "Chapter 1"
 <p>Aisha and Miss Zenith stayed where they were. Aisha was sulking, but I somehow sensed that Miss Zenith was in good spirits.</p>
 <p>&quot;Did you behave yourself, Aisha?&quot; I asked.</p>
 <p>&quot;I, um, did sort of screw up.&quot; Ah, so not sulking. She was depressed.</p>
-<p><em>That&#x27;s not like you,</em> I thought. Ever since she was a child Aisha hardly made any mistakes, and on the rare occasions that she did she rarely owned them. Yet now here she was, admitting one without hesitation. She might have matured a little more than I&#x27;d thought.</p>
+<p>That&#x27;s not like you, I thought. Ever since she was a child Aisha hardly made any mistakes, and on the rare occasions that she did she rarely owned them. Yet now here she was, admitting one without hesitation. She might have matured a little more than I&#x27;d thought.</p>
 <p>&quot;Was it something very bad?&quot;</p>
 <p>&quot;No, Rudeus fixed it straight away.&quot;</p>
 <p>I fell silent. What could it have been? With that look on Master Rudeus&#x27;s face…</p>
@@ -184,7 +184,7 @@ nav_title = "Chapter 1"
 <p>&quot;Let&#x27;s get things underway. First, I successfully met my objectives in Millis. Cliff worked his way into the Church too, so there&#x27;s no need to worry about him.&quot;</p>
 <p>Despite a hiccup with Lady Claire, Master Cliff had established himself in the church as he had originally planned and Ruquag&#x27;s Mercenary Band was up and running as a result. The church was now thoroughly indebted to Master Rudeus and he had recruited the Blessed Child as an ally of Orsted. It sounded like a total and unmitigated success. Miss Elinalise, hearing that Master Cliff had gotten himself a position in Millis, looked relieved. Sadly, Rudeus&#x27;s tale didn&#x27;t end there.</p>
 <p>&quot;Geese is a disciple of the Man-God,&quot; Rudeus announced.</p>
-<p><em>Geese</em>. That demon thief from Master Paul&#x27;s old party? He was behind all the trouble that Master Rudeus encountered, and in the end, he had made a declaration of war before fleeing. I&#x27;d known him for many years, from back when we crossed over to the Begaritt Continent. Even then, he was always concerned for the welfare of Master Paul and Miss Zenith. I remembered how conscientious he had been about gathering the necessary intelligence to brave the labyrinth expedition. Geese had worked tirelessly to save Miss Roxy and Miss Zenith. While Master Paul sank into depression, Geese ran around trying to recruit powerful warriors to join the party, selling maps he&#x27;d drawn up himself for next to nothing. The whole time he&#x27;d been helping Master Paul, he never let on he&#x27;d had another agenda.</p>
+<p>Geese. That demon thief from Master Paul&#x27;s old party? He was behind all the trouble that Master Rudeus encountered, and in the end, he had made a declaration of war before fleeing. I&#x27;d known him for many years, from back when we crossed over to the Begaritt Continent. Even then, he was always concerned for the welfare of Master Paul and Miss Zenith. I remembered how conscientious he had been about gathering the necessary intelligence to brave the labyrinth expedition. Geese had worked tirelessly to save Miss Roxy and Miss Zenith. While Master Paul sank into depression, Geese ran around trying to recruit powerful warriors to join the party, selling maps he&#x27;d drawn up himself for next to nothing. The whole time he&#x27;d been helping Master Paul, he never let on he&#x27;d had another agenda.</p>
 <p>I couldn&#x27;t square the Geese in my mind with the Geese Master Rudeus described—the traitor working to try and bring Master Rudeus, Miss Roxy, and the others down.</p>
 <p>&quot;Ever since your request to post wanted notices came, I&#x27;ve been wondering…&quot; Miss Roxy said. &quot;You&#x27;re sure there hasn&#x27;t been some mistake?&quot; An experienced labyrinth explorer herself, she always regarded Geese highly. According to her, there was no one more reliable in any field except combat.</p>
 <p>&quot;If only…if only I could say it was.&quot; Master Rudeus gave a sad smile, then pulled a letter from his pocket. Miss Roxy took it from him and read over the contents. Her usually sleepy expression darkened, but she nodded, accepting it at once. She passed the letter to me. When I looked at it, I understood.</p>
@@ -208,7 +208,7 @@ nav_title = "Chapter 1"
 <p>&quot;Thank you,&quot; Master Rudeus said. &quot;As I said, I likely won&#x27;t be home for a while. I think for now, though, we can call this family meeting to a close—&quot;</p>
 <p>&quot;Wait, Big Brother,&quot; Aisha cut in. &quot;You need to tell them about Zenith.&quot;</p>
 <p>&quot;Oh, yeah.&quot;</p>
-<p><em>Miss Zenith</em>. I felt my body stiffen. I remembered then that the mistake Aisha hadn&#x27;t wanted to talk about was also yet to come up and grew even more nervous. But Master Rudeus was smiling.</p>
+<p>Miss Zenith. I felt my body stiffen. I remembered then that the mistake Aisha hadn&#x27;t wanted to talk about was also yet to come up and grew even more nervous. But Master Rudeus was smiling.</p>
 <p>&quot;So actually, I found out all about the curse on Mom,&quot; he said. This had to be the good news he&#x27;d mentioned then, not Aisha&#x27;s mistake. &quot;She has a curse on her that allows her to read minds. Not that she can see everything, but…it looks like she understands all of us really well.&quot;</p>
 <p>Master Rudeus relayed all that the Blessed Child had told him and then described how Miss Zenith saw the world around her. Tears ran down my cheeks as a great wave of memories washed over me. There had been</p>
 <p>plenty of signs, now that I knew to look for them. Miss Zenith had always been one step ahead on tending to the garden, and when Miss Lucie was still small, Miss Zenith seemed to know when she would cry before it happened. Then there was…well. I wasn&#x27;t sure how to describe it. Miss Zenith knew about Paul. We all assumed she didn&#x27;t realize he&#x27;d died. We thought that, if her memories ever returned, she would be distraught. But she knew everything. Not only that, but she had accepted it and had started moving on. When that sank in, I couldn&#x27;t stop crying.</p>
@@ -223,15 +223,15 @@ nav_title = "Chapter 1"
 <p>It was time to resume development on the Version Three. Beyond that, I&#x27;d need another trick to keep up my sleeve. Geese already saw the Magic Armor, so he&#x27;d figure out some way to counter it. I wanted another secret weapon.</p>
 <p>When I explained all that, Zanoba replied confidently, &quot;I&#x27;m only too happy to help.&quot;</p>
 <p>&quot;As am I,&quot; Roxy cut in. &quot;My knowledge of magic circles has grown substantially over the past few years. I believe I can be of some assistance.&quot;</p>
-<p><em>Assistance, you say? I mean, I&#x27;m grateful, I&#x27;m just not sure that&#x27;s a good idea…</em></p>
+<p>Assistance, you say? I mean, I&#x27;m grateful, I&#x27;m just not sure that&#x27;s a good idea…</p>
 <p>The fact was, the Magic Armor was now so complex even I couldn&#x27;t do much more than assemble it and power it on.</p>
 <p>&quot;Are you sure?&quot; I said. &quot;It&#x27;s not the kinda thing you can go into lightly.&quot;</p>
 <p>Roxy pouted. &quot;Rudy, dear, you do know who you&#x27;re talking to, right?&quot;</p>
 <p>&quot;F-forgive me!&quot; I stuttered.</p>
-<p><em>I went a bit crazy for a second there! I ought to know there&#x27;s nothing Miss Roxy can&#x27;t do! I don&#x27;t know what I was thinking! I&#x27;m a buffoon! A total lost cause! I should die right here!</em></p>
-<p>&quot;I did all that study for <em>you</em>, Rudy. I went over all of Zanoba and Cliff&#x27;s research notes so I could help with maintenance and upgrades.&quot;</p>
+<p>I went a bit crazy for a second there! I ought to know there&#x27;s nothing Miss Roxy can&#x27;t do! I don&#x27;t know what I was thinking! I&#x27;m a buffoon! A total lost cause! I should die right here!</p>
+<p>&quot;I did all that study for you, Rudy. I went over all of Zanoba and Cliff&#x27;s research notes so I could help with maintenance and upgrades.&quot;</p>
 <p>&quot;Roxy…!&quot;</p>
-<p><em>That&#x27;s right, back in Shirone she could draw Fire Saint-tier magic circles…</em></p>
+<p>That&#x27;s right, back in Shirone she could draw Fire Saint-tier magic circles…</p>
 <p>It occurred to me that maybe she hadn&#x27;t always been able to do that. Maybe she&#x27;d learned that when she researched magic circles after going back to the university.</p>
 <p>&quot;Okay then,&quot; I agreed. &quot;I&#x27;m putting the Magic Armor—and my life —in your hands, Master!&quot;</p>
 <p>&quot;I accept it,&quot; she replied.</p>
@@ -239,20 +239,20 @@ nav_title = "Chapter 1"
 <p>&quot;I&#x27;m no Cliff, though, so don&#x27;t raise your expectations too high,&quot; Roxy said. She looked proud of herself despite that, presumably due to confidence in her abilities. I wondered if she didn&#x27;t already have some plans for improvements worked out.</p>
 <p>&quot;Hahaha. Now that the master&#x27;s master here, there&#x27;ll be nothing left for me to do!&quot; Zanoba said, and we all laughed.</p>
 <p>&quot;Right, Zanoba,&quot; I went on. &quot;There&#x27;s another reason I came here today.&quot;</p>
-<p>&quot;Oh? Whatever it is, it sounds serious. Mayhap you caught wind of my acquisition of a fascinating new figurine the other day? My friend, it is <em>quite</em> the specimen! Crafted from a unique material. Its limbs are quite supple—&quot;</p>
+<p>&quot;Oh? Whatever it is, it sounds serious. Mayhap you caught wind of my acquisition of a fascinating new figurine the other day? My friend, it is quite the specimen! Crafted from a unique material. Its limbs are quite supple—&quot;</p>
 <p>&quot;I&#x27;m going to the King Dragon Realm,&quot; I said, shutting Zanoba up mid-sentence, &quot;to see Randolph. You&#x27;re coming, right?&quot; Zanoba took my hand, squeezing it tightly. Thanks to the Zaliff Prosthesis it was cold, but the strength of his grasp was precisely calibrated to not crush my hand.</p>
 <p>&quot;Thank you, Master,&quot; he said.</p>
-<p><em>Yeah, yeah, enough with the thanks. Are you coming or not?</em></p>
+<p>Yeah, yeah, enough with the thanks. Are you coming or not?</p>
 <p>&quot;I&#x27;ll pack my things at once.&quot;</p>
-<p><em>That means you&#x27;re coming, yeah? All righty, then</em>.</p>
-<p>Zanoba <em>had</em> been begging to know when I would expand into the King Dragon Realm since forever ago. It made perfect sense for him to come along. He&#x27;d spent the entire time worried sick about the child Pax left behind.</p>
+<p>That means you&#x27;re coming, yeah? All righty, then.</p>
+<p>Zanoba had been begging to know when I would expand into the King Dragon Realm since forever ago. It made perfect sense for him to come along. He&#x27;d spent the entire time worried sick about the child Pax left behind.</p>
 <p>&quot;Hold your horses,&quot; I said. &quot;It&#x27;s not like I&#x27;m leaving right this second.&quot;</p>
 <p>&quot;Oh, right. I beg your pardon… Then I&#x27;ll find someone to take over the shop first. Though I hardly have any work right now!&quot; Zanoba cackled.</p>
-<p>The Zanoba Store was growing every day. The number of shopfronts and employees had increased, and these days almost everything was handled by on-site workers. As the head of the organization, Zanoba&#x27;s job was now making final decisions on major projects, interviewing for executive positions, and doing quality assurance checks on products from each location. Given that The Zanoba Store itself was a bit like a subsidiary of our Orsted Corporation, and that he didn&#x27;t have to be involved in any decision-making, well… There <em>wasn&#x27;t</em> much for him to do</p>
+<p>The Zanoba Store was growing every day. The number of shopfronts and employees had increased, and these days almost everything was handled by on-site workers. As the head of the organization, Zanoba&#x27;s job was now making final decisions on major projects, interviewing for executive positions, and doing quality assurance checks on products from each location. Given that The Zanoba Store itself was a bit like a subsidiary of our Orsted Corporation, and that he didn&#x27;t have to be involved in any decision-making, well… There wasn&#x27;t much for him to do</p>
 <p>here, if I was brutally honest.</p>
 <p>&quot;All right, just make sure you&#x27;re quick.&quot;</p>
 <p>&quot;Understood,&quot; he replied, and with that, I went on my way.</p>
-<p>We weren&#x27;t going to the King Dragon Realm because something had happened. I didn&#x27;t expect anything <em>would</em> happen. But given my track record, the chances of us getting mixed up in something were high. We might run into Geese trying to recruit Randolph, for example. Okay, that was unlikely, but I wanted to go in with appropriate caution even so.</p>
+<p>We weren&#x27;t going to the King Dragon Realm because something had happened. I didn&#x27;t expect anything would happen. But given my track record, the chances of us getting mixed up in something were high. We might run into Geese trying to recruit Randolph, for example. Okay, that was unlikely, but I wanted to go in with appropriate caution even so.</p>
 <p>***</p>
 <p>One person stayed uncharacteristically quiet on the way home.</p>
 <p>Eris stared out of the window of the carriage, apparently deep in thought. Maybe she was thinking about Geese. Whatever she might say now, Eris had taken a liking to Geese back when she met him in the Great Forest. I remembered her telling me she&#x27;d get him to teach her to cook. She didn&#x27;t gel with a lot of people, but Geese was different.</p>
@@ -264,22 +264,22 @@ nav_title = "Chapter 1"
 <p>&quot;Oh, right.&quot; That wasn&#x27;t what I meant. Hey, though, if she wasn&#x27;t bringing up the pregnancy, I could assume it was going well. This was her second child, after all. Made sense for her to be a seasoned pro by now.</p>
 <p>Still, I couldn&#x27;t get complacent. The Man-God had said something, long ago, about how people&#x27;s destinies get ambiguous when they&#x27;re pregnant, and that makes them easier to kill. Because the Man-God gave that ominous warning, I&#x27;d summoned a guardian beast on Orsted&#x27;s</p>
 <p>suggestion. I was pretty sure Sylphie would be fine, but I couldn&#x27;t shake all my anxiety. I was sure I&#x27;d done everything I could, but even so…</p>
-<p><em>Ah</em>.</p>
+<p>Ah.</p>
 <p>Unable to believe my own words as I spoke, I announced, &quot;Until I deal with Geese, I&#x27;m giving up sex.&quot;</p>
 <p>Sylphie stared. Roxy gaped. Eris narrowed her eyes at me.</p>
 <p>&quot;Um, okay. If that&#x27;s what you want, Rudy,&quot; Sylphie said. &quot;I don&#x27;t mind, I just…um…?&quot;</p>
 <p>&quot;I don&#x27;t mind either,&quot; Roxy said dubiously. &quot;Although…is this some kind of religious gesture?&quot;</p>
 <p>&quot;I told you, right? The Man-God said it&#x27;s easier to target you when you&#x27;re with child. Geese might try and use that as well, so I think we should stop for now.&quot;</p>
-<p>They all looked at me like this was the first they were hearing of it. Maybe I <em>hadn&#x27;t</em> told them. Or maybe I&#x27;d told them and they forgot. People&#x27;s memories often go hazy.</p>
+<p>They all looked at me like this was the first they were hearing of it. Maybe I hadn&#x27;t told them. Or maybe I&#x27;d told them and they forgot. People&#x27;s memories often go hazy.</p>
 <p>&quot;Guess we have no choice,&quot; Eris said tersely, turning to look out the window again. She didn&#x27;t sound happy, but she didn&#x27;t argue. &quot;Hard to imagine you sticking to a vow like that though, Rudeus.&quot;</p>
-<p><em>Harsh</em>. Apparently my nether regions were untrustworthy. I didn&#x27;t trust them, either. They were behaving themselves for now, but when you&#x27;re holding a loaded gun, your trigger finger gets itchy. That&#x27;s just what men are like. Once it&#x27;s cocked, it won&#x27;t be long till it fires.</p>
+<p>Harsh. Apparently my nether regions were untrustworthy. I didn&#x27;t trust them, either. They were behaving themselves for now, but when you&#x27;re holding a loaded gun, your trigger finger gets itchy. That&#x27;s just what men are like. Once it&#x27;s cocked, it won&#x27;t be long till it fires.</p>
 <p>&quot;No way Sylphie can go cold turkey, either,&quot; Eris added.</p>
 <p>&quot;Erm… I&#x27;ll stick to it if that&#x27;s what Rudy wants.&quot;</p>
 <p>&quot;As if. The moment Rudeus says, &#x27;Let&#x27;s just fool around a bit,&#x27; you&#x27;ll give in, like &#x27;Well, if it&#x27;s just a bit…&#x27; Right?&quot;</p>
 <p>&quot;…Yeah,&quot; Sylphie admitted.</p>
-<p>Surely touching was okay, though. Say I held her close and left the ammunition in the barrel… <em>Just a bit</em>. That kind of thinking would be the death of me.</p>
+<p>Surely touching was okay, though. Say I held her close and left the ammunition in the barrel… Just a bit. That kind of thinking would be the death of me.</p>
 <p>&quot;That&#x27;s why I&#x27;ll be at Rudeus&#x27; side at all times, ready to beat him up if he tries anything.&quot;</p>
-<p><em>Then when I wake up, all&#x27;s forgotten</em>. <em>Perfect</em>.</p>
+<p>Then when I wake up, all&#x27;s forgotten. Perfect.</p>
 <p>&quot;Thanks, Eris,&quot; I muttered.</p>
-<p><em>Right. From this day on, I&#x27;m Rudeus the Celibate. This&#x27;ll be no sweat.</em></p>
+<p>Right. From this day on, I&#x27;m Rudeus the Celibate. This&#x27;ll be no sweat.</p>
 <p><strong>Chapter 2: Randolph&#x27;s Woes</strong></p>

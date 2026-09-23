@@ -20,7 +20,7 @@ nav_title = "Chapter 8"
 <p>&quot;Yeah!&quot; Geese chimed.</p>
 <p>The door opened and a wave of hot air slapped us in the face. Flames danced violently as the blaze, bright and fierce, devoured the forest with a voracious hunger. The houses on the treetops were engulfed, threatening to crumble.</p>
 <p>&quot;This is really bad,&quot; Geese muttered.</p>
-<p><em>No kidding</em>. I nodded in agreement.</p>
+<p>No kidding. I nodded in agreement.</p>
 <p>People were probably banned from lighting fires in this forest, but no doubt some wise guy decided to sit in bed and have a smoke, thereby causing all of this. I didn&#x27;t know who he was, but we would be able to escape thanks to him, so I wasn&#x27;t going to complain.</p>
 <p>&quot;Okay, newbie, which way is Zant Port?&quot;</p>
 <p>&quot;What? How the hell would I know?&quot; he shouted at me as he looked around.</p>
@@ -82,7 +82,7 @@ nav_title = "Chapter 8"
 <p>As I got distracted, human warriors came charging at me, one after the other.</p>
 <p>&quot;Stone Cannon!&quot; I turned my hand toward them and pummeled them with my spell. One, two, three… Oh crap, not only did they have leadership now, but their numbers were overwhelming.</p>
 <p>&quot;D-dammit! Bring it on, then! I won&#x27;t let you put a hand on my boss!&quot; Geese cried out valiantly, although he was gradually retreating to the side. Useless.</p>
-<p><em>What about me? Should I fall back too?</em> I wondered.</p>
+<p>What about me? Should I fall back too? I wondered.</p>
 <p>At that very moment, a brown shadow flew in front of me. &quot;I don&#x27;t know who you are, but thank you for the help!&quot;</p>
 <p>He spoke in Beast-God tongue. He was a beastman with a bushy dog&#x27;s tail who already had his sword drawn, and he cut down one of the men coming toward us. His single stroke sliced cleanly through and sent the human&#x27;s head flying.</p>
 <p>&quot;We won&#x27;t be defeated by your ilk, now that the rain has cleaned my face and my nose is working properly!&quot;</p>
@@ -104,7 +104,7 @@ nav_title = "Chapter 8"
 <p>&quot;What?&quot; she gasped.</p>
 <p>Her confusion wasn&#x27;t just because only a fur vest covered my naked (or rather half-naked) body. I knew her. I only just found out her name, but I knew those ample breasts and skilled cooking hands. She was the one who had guarded our cell.</p>
 <p>She looked between Gimbal and me, her face turning pale. She probably remembered her poor treatment of me and realized the mistake she&#x27;d made.</p>
-<p><em>Don&#x27;t worry. I don&#x27;t really hold it against you</em>, I thought. <em>People sometimes misunderstand and make mistakes. I am Rudeus, the enlightened and compassionate!</em></p>
+<p>Don&#x27;t worry. I don&#x27;t really hold it against you, I thought. People sometimes misunderstand and make mistakes. I am Rudeus, the enlightened and compassionate!</p>
 <p>That aside, she needed to let me cast a bit of healing on her.</p>
 <p>She looked conflicted as I healed her, wondering what she should do, if she should apologize or not.</p>
 <p>Before I could finish healing her, Gimbal yelled, &quot;Laklana, you are to return and guard the Sacred Beast!&quot;</p>
@@ -145,7 +145,7 @@ nav_title = "Chapter 8"
 <p>&quot;That&#x27;s what I&#x27;d like people to believe.&quot;</p>
 <p>Negotiations had failed.</p>
 <p>Gallus kept his sword trained on the child&#x27;s neck as he stood. He cast a look around at Gimbal and his men, who were trying to surround Gallus, and chuckled. &quot;I see… Well, Kennel Master, you&#x27;ve made a mistake.&quot;</p>
-<p><em>I literally just told you I&#x27;m not the Kennel Master, I&#x27;m Ruijerd</em>, I quipped in my head.</p>
+<p>I literally just told you I&#x27;m not the Kennel Master, I&#x27;m Ruijerd, I quipped in my head.</p>
 <p>Two of Gimbal&#x27;s men slipped behind Gallus, sneaky as cats, creeping up on him.</p>
 <p>&quot;Five of you aren&#x27;t enough to defeat me.&quot;</p>
 <p>The three of them jumped on him almost instantaneously. From behind and to the right came Warrior A, slashing; and to the left, Warrior B swept in, attempting to rescue the child. Gimbal used that beat to attack Gallus from the front.</p>
@@ -154,7 +154,7 @@ nav_title = "Chapter 8"
 <p>He pulled his sword free while backing into Warrior B just as the latter fumbled his attack. At this point, Warrior B and Gimbal were both in a direct line in front of Gallus, and Gimbal&#x27;s arms were preoccupied with the child he&#x27;d recovered, so he couldn&#x27;t move. From out of nowhere, Gallus drew a short sword with his left hand and drove it deep into Warrior B&#x27;s chest. Then he used the warrior&#x27;s body as a shield and charged right at Gimbal.</p>
 <p>Gimbal slipped the child under the crook of his arm and tried to intercept Gallus, but it was already too late. Gallus unleashed his attack between the gap of his shield&#x27;s legs, piercing Gimbal. As Gimbal dropped the child and began to collapse, Gallus instantly sliced his blade clean through his opponent&#x27;s neck.</p>
 <p>Swift, precise and over in seconds. I didn&#x27;t even have a chance to help. While I stared dumbfounded, the beastfolk warriors spilled blood from their mouths before collapsing where they stood.</p>
-<p><em>Are you serious?</em> I thought in disbelief.</p>
+<p>Are you serious? I thought in disbelief.</p>
 <p>&quot;H-hey, boss, this is bad. That&#x27;s North God Style right there. And also Atofe-style. No clever tricks, just a raw fighting style that comes from being experienced in facing multiple opponents in battle.&quot;</p>
 <p>Gallus reacted to the panic in Geese&#x27;s voice with a laugh. &quot;You know your stuff, monkey man. That&#x27;s right, I&#x27;m the Cleaner, the North Saint Gallus.&quot; By the time Gallus said that, he already had his hostage back in his grasp.</p>
 <p>This was bad. I didn&#x27;t think he was as strong as Ruijerd, but at that rank, he was probably still more than I could handle. Just how much could I fight him with my Eye of Foresight?</p>
@@ -183,25 +183,25 @@ nav_title = "Chapter 8"
 <p>&quot;Boss…buy me a little bit of time.&quot;</p>
 <p>Just as I was mentally preparing myself, the newbie whispered to me. Did he have some kind of plan?</p>
 <p>&quot;Since he&#x27;s a North God Style swordsman, I think I have something that will trip him up.&quot;</p>
-<p>&quot;…Okay.&quot; I stepped out directly in front of him. So this meant I was going to face off directly with a Saint-tier swordsman? Crap, my heart was pounding furiously. <em>Calm down, just calm down</em>, I told myself.</p>
+<p>&quot;…Okay.&quot; I stepped out directly in front of him. So this meant I was going to face off directly with a Saint-tier swordsman? Crap, my heart was pounding furiously. Calm down, just calm down, I told myself.</p>
 <p>&quot;Woof!&quot; As if to instill courage in me, the ball of fur beside me barked.</p>
 <p>&quot;Graaah!&quot; And as if in response, Gallus kicked off from the ground. He sprinted toward us, and the Sacred Beast rushed to meet him.</p>
-<p><em>He&#x27;s going to cut around and launch a slashing attack at the Sacred Beast from below.</em> I could see it. If I used my stone cannon… No, the Sacred Beast was in my line of trajectory. I needed to use a different spell. What to use? The newbie told me to draw his attention, so…</p>
+<p>He&#x27;s going to cut around and launch a slashing attack at the Sacred Beast from below. I could see it. If I used my stone cannon… No, the Sacred Beast was in my line of trajectory. I needed to use a different spell. What to use? The newbie told me to draw his attention, so…</p>
 <p>&quot;Explosion!&quot;</p>
 <p>&quot;Gaaah!&quot;</p>
 <p>Just as the Sacred Beast sprang at Gallus, I conjured a small explosion right in front of his eyes.</p>
 <p>&quot;Not good enough!&quot; Gallus drove all the weight of his body to the ground and rolled. He managed to slip right out from under the Sacred Beast, and after one roll, began to stand…</p>
-<p><em>Just as he begins to stand, he&#x27;s going to slash at me from down low.</em></p>
+<p>Just as he begins to stand, he&#x27;s going to slash at me from down low.</p>
 <p>&quot;Ha!&quot;</p>
 <p>I stepped back to evade the attack. That was close. If I didn&#x27;t have the Eye of Foresight, I would&#x27;ve died instantly.</p>
 <p>&quot;Tsk, so you&#x27;re going to avoid that one!&quot; Gallus shouted as he charged forward again, whipping his blade through the air.</p>
-<p><em>He&#x27;s going to slice at my abdomen from the side, then use that momentum for a return slash.</em></p>
+<p>He&#x27;s going to slice at my abdomen from the side, then use that momentum for a return slash.</p>
 <p>If I could see it, I could dodge it. He was faster than Eris, but he didn&#x27;t have that unique rhythm of hers that was so difficult to read. There were no openings for me to launch a counterattack, but I saw the Sacred Beast getting back up in the periphery of my vision, so he could come bite Gallus from behind.</p>
-<p><em>He&#x27;s going to suddenly change his sword-wielding hand, then twist his body and leap upward.</em></p>
+<p>He&#x27;s going to suddenly change his sword-wielding hand, then twist his body and leap upward.</p>
 <p>For a moment I didn&#x27;t understand that. I didn&#x27;t understand what Gallus&#x27; movements meant.</p>
 <p>&quot;Gah…!&quot;</p>
 <p>Out of reflex, I stepped to the side instead of stepping backward. By the time I realized what was happening, his short sword came at me from straight above and drove right through the top of my foot. Even through the intense pain that shot through my body, I could see what was going to happen next.</p>
-<p><em>Gallus is brandishing his sword, ready to swing.</em></p>
+<p>Gallus is brandishing his sword, ready to swing.</p>
 <p>My brain slowly worked out just what had happened. It was his foot—he&#x27;d hurled that short sword at me with his foot. Most likely an attack built into his boot! Being able to see into the future didn&#x27;t help me at all with an opponent like this. I should have known better!</p>
 <p>&quot;It&#x27;s over, Kennel Master!&quot;</p>
 <p>&quot;Graaah!&quot; The Sacred Beast leaped in and sunk its teeth into Gallus&#x27; shoulder.</p>
@@ -210,12 +210,12 @@ nav_title = "Chapter 8"
 <p>In the lag of that moment, I channeled mana into my hand and launched a stone cannon.</p>
 <p>&quot;Tsk!&quot;</p>
 <p>My spell flew toward him at top speed, but Gallus just split it in two in mid-air. Sparks erupted from the blade as it broke free from Gallus&#x27; hand. Good, now I could use this opportunity to pry the short sword from my—</p>
-<p><em>Gallus is going to pick up the sword at his feet, and that&#x27;ll be the end of it.</em></p>
+<p>Gallus is going to pick up the sword at his feet, and that&#x27;ll be the end of it.</p>
 <p>Oh no. That&#x27;s when I realized that at some point he&#x27;d managed to back me into the place where the bodies of those beastmen were. The blade at his feet belonged to them. He&#x27;d led me here.</p>
 <p>&quot;I told you it was the end. Stop struggling, Kennel Master!&quot;</p>
 <p>I channeled mana between both my hands, betting my last hopes on this. Time seemed to slow. Gallus took a stance with his sword lowered toward his hips, about to unleash his attack. Even if I unleashed a shockwave to put distance between us, it was already too late. Instead of using stone cannon before, I would have been better off yanking the knife out of my foot or using the shockwave then. I&#x27;d made the wrong move.</p>
 <p>&quot;A North God Style original, Crying Bomb!&quot; Just then, I heard the newbie&#x27;s voice call out from behind me. Something suddenly went flying over my head—a black bag? And as it did, my vision of Gallus blurred.</p>
-<p><em>Gallus will move to cut the bag full of powder in half but then will hesitate and cover his face with both arms instead.</em></p>
+<p>Gallus will move to cut the bag full of powder in half but then will hesitate and cover his face with both arms instead.</p>
 <p>The bag plopped against Gallus&#x27; face. An ash-like substance exploded from it. Something to blind him, I guessed. But unfortunately, it failed… Wait, no, he was open!</p>
 <p>In that moment I finished my spell and triggered a fiery explosion in the space between us. My body was thrown backward at a ridiculous speed. For just a split second, my consciousness left me.</p>
 <p>I endured the pain that wracked my body and my foot alike and forced myself back up. The wound on my foot was…fine. Apparently the impact had wrenched the knife free. All of my toes were still intact. I could use healing magic to recover from this. To be honest, it hurt enough that I couldn&#x27;t walk, but this was no time to be whining. I needed to stand right now and fight. The battle still wasn&#x27;t over.</p>
@@ -225,7 +225,7 @@ nav_title = "Chapter 8"
 <p>I had no idea what that meant, but apparently those trained in the North God Style had some weird habit. Regardless, I approached Gallus with great caution.</p>
 <p>&quot;Hey, boss, be careful!&quot;</p>
 <p>Just as the newbie advised, I kept my guard up as I surveyed our unconscious opponent. I picked up his sword, which he had dropped nearby, and chucked it away. When I did, the Sacred Beast leaped into the air and caught the sword in its mouth before returning to me, tail wagging vigorously.</p>
-<p><em>Yes, yes, you&#x27;re a good boy</em>, I thought. <em>But let&#x27;s play frisbee another time, okay?</em></p>
+<p>Yes, yes, you&#x27;re a good boy, I thought. But let&#x27;s play frisbee another time, okay?</p>
 <p>&quot;Newbie, take this.&quot; I patted the pup on the head a few times before tossing the sword over to Geese. Then I picked up a stick and started to prod at Gallus with it.</p>
 <p>He didn&#x27;t move. Even prodding around his eyes didn&#x27;t get a flinch out of him. I bound his hands and legs and fastened a gag in his mouth, but his eyes remained shut. It seemed he was completely unconscious.</p>
 <p>&quot;We won.&quot; As the words tumbled out of my mouth, the Sacred Beast whined and Geese, who had removed the bag from the hostage&#x27;s head, laughed. Had we really won? I was still basking in the afterglow of victory when the hostage child woke and began sobbing. Shortly after that, the beastfolk warriors finally arrived.</p>
@@ -247,7 +247,7 @@ nav_title = "Chapter 8"
 <p>Anyway, Ruijerd&#x27;s attack proved successful. Tragically for the smugglers, he discovered their ship and captured them only after beating them all half to death. The children came shuffling out from the depths of the ship. There were at least fifty of them. Everyone was saved and it was a nice happy ending, yay! …Not.</p>
 <p>Zant Port officials claimed it was an attack on the final voyage from that port before the rainy season began. There were important goods stored on that ship and attacking it was a serious felony.</p>
 <p>Gustav, of course, protested this. The kidnapping and enslavement of beastfolk was a crime as far as the Holy Country of Millis and the tribal leaders of the Great Forest were concerned. Being punished for stopping that on their own shores seemed bizarre, he said. That only incensed the Zant Port officials. They</p>
-<p>insisted that they should have been informed ahead of time. But they&#x27;d just subdued the smugglers in the nick of time. They had no time to explain anything. Plus, there were fifty victims. Not five, not ten, <em>fifty</em> children! One or two were kidnapped from each settlement. Zant Port officials hadn&#x27;t noticed any of it. In fact, some of the officials had taken bribes to pretend they knew nothing.</p>
+<p>insisted that they should have been informed ahead of time. But they&#x27;d just subdued the smugglers in the nick of time. They had no time to explain anything. Plus, there were fifty victims. Not five, not ten, fifty children! One or two were kidnapped from each settlement. Zant Port officials hadn&#x27;t noticed any of it. In fact, some of the officials had taken bribes to pretend they knew nothing.</p>
 <p>That was a violation of the treaty. If left as-is, it would create a huge fissure in the relationship between the beastfolk and the Holy Country of Millis. In the worst-case scenario, war would ensue. That&#x27;s how dire the conversation became. At Gustav&#x27;s command, the warriors were called to Zant Port and they stood at the entrance to the city in a standoff with its garrison.</p>
 <p>In the end, Zant Port backed down. They paid the beastfolk a hefty sum in compensation. It took about a week for those negotiations to conclude and for the children to be returned to their parents. That was why I was left there for a week in that cell, to be dealt with last.</p>
 <p>Well, not like there was any other choice. In fact, I thought it was amazing they managed to accomplish that much in just a week.</p>

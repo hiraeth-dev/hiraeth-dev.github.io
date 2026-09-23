@@ -21,7 +21,7 @@ nav_title = "Epilogue"
 <p>The moment of her murder was always crystal clear.</p>
 <p>Perhaps it was instinct. Some pure animal urge within her that clung to life, that recorded the memory of her murder as something to be avoided. Alas, the result was that her whole life was blotted out by her own deaths. She no longer recalled anything else. Nothing but a chain of memories of death.</p>
 <p>Immersed in an endless stream of death, the girl made a wish. She wished with all her heart.</p>
-<p><em>I can&#x27;t bear this anymore… Somebody, help me…</em></p>
+<p>I can&#x27;t bear this anymore… Somebody, help me…</p>
 <p>In that moment, the laws of the world shifted.</p>
 <p>***</p>
 <p>Things in her next life had changed.</p>
@@ -61,7 +61,7 @@ nav_title = "Epilogue"
 <p>At first, she&#x27;d thought nothing would change. She&#x27;d thought everything was over for her. But she could dream about the stories the boy sometimes told her about his world. When the knight answered the boy&#x27;s questions, she felt her world expanding. She learned that this world was unimaginably vast and full of all sorts of people she had never known.</p>
 <p>A little while after the boy came, she realized that her food had taste. Her ears opened to the chirping of the birds when she woke in the morning and to enjoy the warmth of the sun.</p>
 <p>She felt alive. She believed her stint in hell was over. The boy had come to save her. He had come to pull her out of this long, hellish cycle. She had been born to meet him. Now, her real life would begin.</p>
-<p><em>This is fate,</em> she thought. The boy was so strong and so gentle, and such a support to her, that it seemed true.</p>
+<p>This is fate, she thought. The boy was so strong and so gentle, and such a support to her, that it seemed true.</p>
 <p>But fate betrayed her.</p>
 <p>***</p>
 <p>War engulfed the kingdom. The girl knew that every time this war came, it swept her up and she died. She knew it better than anyone. But there were things she didn&#x27;t know: that the boy had been summoned to win the war. That the kingdom&#x27;s prophet had advised that they summon a champion from another world and have him fight for them. And that after the kingdom had taken the prophet&#x27;s advice and spent ten years summoning the boy, they were now at a point of no return.</p>
@@ -71,9 +71,9 @@ nav_title = "Epilogue"
 <p>The girl embraced the boy&#x27;s corpse and tried desperately to restore him, but it was futile. Already more than a day had passed since his death, and he was beginning to rot. The girl&#x27;s power was of no use here.</p>
 <p>She wept and screamed, asking why, why must always suffer so, why was fate so cruel to her alone. She wept, but not only out of grief. She felt like fate was toying with her, laughing at her for trying when no matter what she did, she was doomed. She was overcome with a sense of powerlessness.</p>
 <p>Then, the kingdom fell. The girl was captured and, as she had every time before, died in the depths of despair.</p>
-<p>Unlike every time before, the girl made a wish. For the first time since she was first born, she wished and wished with all her heart, <em>I want to live!</em></p>
+<p>Unlike every time before, the girl made a wish. For the first time since she was first born, she wished and wished with all her heart, I want to live!</p>
 <p>Not that she didn&#x27;t want to die, or that she wanted someone to save her.</p>
-<p><em>I want to live with him…!</em></p>
+<p>I want to live with him…!</p>
 <p>The time she had spent living with the boy had not been long. But even in that short span, he had stolen her heart and usurped all the memories of death that had filled it.</p>
 <p>The boy was hope. He was the first hope the girl had known. That hope kept her head raised high and facing forward. For the first time since she was first born, she turned an eye to her own power. The moment she died, she bit her lip hard enough to draw blood, then used her power.</p>
 <p>Her power could turn back time for a single day. Or at least, it was believed to do so. Everyone had a vague sense that something was strange about her power, but the ability was so convenient that no one had bothered to investigate any further. Now, the girl forced out so much of her own might that she thought her mind would burst. She used the Power to Alter the Past.</p>
@@ -81,7 +81,7 @@ nav_title = "Epilogue"
 <p>***</p>
 <p>The girl&#x27;s power stretched back into the past to the year 400 of the Armored Dragon Era, to the Citadel of Roa in Fittoa, where the boy she loved had lost his life.</p>
 <p>A rift in spacetime opened in the sky above the town. In the depths of the rift was a being with a powerful connection to the boy. This being bore a striking resemblance to the soul of the girl who had wanted to live together with the boy. Thus, to create a future where the boy would be spared, she altered the world and opened a path for him to live. As a result, in the year 500 of the Armored Dragon Era, the boy was saved—or he should have been. Even with the girl&#x27;s great power, causing a person who was not supposed to have a future to exist in the past was impossible. It was nothing like preventing someone from being injured or contracting a disease. Though the rift in space-time remained, the being within did not come down into the world. The girl&#x27;s power became locked in a bitter stalemate with the power of the world itself.</p>
-<p>The world moved on, uncaring: 400, 401, 402, 403. But as it did, a single lost soul found its way through the rift. This soul bore no connection to the boy. When the boy was transported, before the girl&#x27;s power had been used to summon him, this soul had simply happened to be close by. But it <em>was</em> a soul, and so it managed to slip unseen through the rift, even as the world was trying to block it up. The soul wandered aimlessly for a while, until it came across an infant on the verge of death and slipped inside it. That soul belonged to the person who would be named Rudeus Greyrat.</p>
+<p>The world moved on, uncaring: 400, 401, 402, 403. But as it did, a single lost soul found its way through the rift. This soul bore no connection to the boy. When the boy was transported, before the girl&#x27;s power had been used to summon him, this soul had simply happened to be close by. But it was a soul, and so it managed to slip unseen through the rift, even as the world was trying to block it up. The soul wandered aimlessly for a while, until it came across an infant on the verge of death and slipped inside it. That soul belonged to the person who would be named Rudeus Greyrat.</p>
 <p>Rudeus Greyrat&#x27;s existence left the smallest of alterations on the world. He changed the thinking of Roxy Migurdia, he derailed the life of Sylphiette, and he imparted knowledge to Eris Boreas Greyrat. These actions weakened the world&#x27;s ability to resist, and the rift expanded outwards.</p>
 <p>In the year 417 of the Armored Dragon Era, Nanahoshi Shizuka was summoned.</p>
 <p>Rudeus Greyrat&#x27;s existence had altered the world more than the girl had hoped for. It was only supposed to have been enough change that the boy would be saved, but it did not stop there. History branched off in an unknown direction. The world changed. It is impossible to know if these changes were those that the girl wished for, as she has not yet been born. A few years after Rudeus&#x27;s death, she will be. In exchange for the loops, she will be born as an empty shell of a Blessed Child, losing all but the slightest hint of her powers. To grant her wish, she will be born into one final world. Whether she will survive to the end is a tale for another time.</p>

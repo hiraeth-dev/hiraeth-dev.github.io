@@ -19,13 +19,13 @@ nav_title = "Chapter 7"
 <p>&quot;You thought I was frail?&quot; This was news to me. I hadn&#x27;t ever been sick or anything.</p>
 <p>&quot;Because of how you never used to cry.&quot;</p>
 <p>&quot;Oh. All right. But if I&#x27;m all right now, then it&#x27;s no problem, yeah? I&#x27;ve grown up to be a healthy and charming boy! Seeeeee?&quot; I pulled my cheeks and made a funny face.</p>
-<p>Paul frowned. &quot;It&#x27;s the ways in which you <em>aren&#x27;t</em> childish that worry me more.&quot;</p>
+<p>Paul frowned. &quot;It&#x27;s the ways in which you aren&#x27;t childish that worry me more.&quot;</p>
 <p>&quot;Am I not turning out to be the firstborn son you wanted me to be?&quot;</p>
 <p>&quot;No, it&#x27;s not that.&quot;</p>
 <p>&quot;Given the look of disappointment on your face, would it be better to say that you&#x27;re hoping I become a more fitting heir to the Greyrat family?&quot; I posited.</p>
 <p>&quot;I&#x27;m not proud of it, but when I was your age, your old man was a total brat who was always going around chasing skirts.&quot;</p>
 <p>&quot;You were a skirt-chaser?&quot; So, they had those in this world, too, huh?</p>
-<p>And wait—did he just call <em>himself</em> a brat?</p>
+<p>And wait—did he just call himself a brat?</p>
 <p>&quot;If you really want to be worthy of the Greyrat family, go out there and bring home a girlfriend,&quot; he said.</p>
 <p>Wait—was that the kind of family we were? Wasn&#x27;t my dad a knight charged with protecting a frontier town in addition to being a low-ranking noble? Did we have no social standing at all? No, I guess we were just really low-ranking.</p>
 <p>&quot;Understood,&quot; I said. &quot;Then I&#x27;ll be heading off into the village to look for a skirt or two to chase after.&quot;</p>
@@ -38,7 +38,7 @@ nav_title = "Chapter 7"
 <p>&quot;I&#x27;m just joking,&quot; I said. &quot;It&#x27;s for protecting the weak, right?&quot;</p>
 <p>&quot;Yes, exactly.&quot;</p>
 <p>With that conversation concluded, I tucked my botanical encyclopedia back under one arm, slung the wand I&#x27;d received from Roxy at my hip, and headed out. Before I got far, though, I stopped and turned, remembering one last thing. &quot;Oh, by the way, Father, I think I&#x27;ll probably go out like this on occasion, but I promise I&#x27;ll always tell someone at home first, and I won&#x27;t neglect my daily magic and sword studies either. And I promise to be home before the sun goes down and it gets dark, and I won&#x27;t go anywhere dangerous.&quot; I wanted to leave him with some reassurance, after all.</p>
-<p>&quot;Ah, yeah. Sure.&quot; For some reason, Paul sounded a little out of it. <em>Look, if you&#x27;re giving me permission, just say so.</em></p>
+<p>&quot;Ah, yeah. Sure.&quot; For some reason, Paul sounded a little out of it. Look, if you&#x27;re giving me permission, just say so.</p>
 <p>&quot;Okay then,&quot; I said. &quot;I&#x27;m off.&quot;</p>
 <p>&quot;Come back safe.&quot;</p>
 <p>And then, I left home.</p>
@@ -70,14 +70,14 @@ nav_title = "Chapter 7"
 <p>&quot;Ten points if you can nail him in the head!&quot;</p>
 <p>&quot;Hngh!&quot;</p>
 <p>&quot;I got him! Didja see that?! Right in the head!&quot;</p>
-<p>Yikes. This was <em>not</em> good. This was classic bullying right here. These kids thought this other boy wasn&#x27;t good enough for them, so they could do whatever the hell they wanted. If they&#x27;d gotten their hands on an air gun, they would have turned it on this kid and opened fire. The directions always said not to point those things at people and shoot, but boys like these didn&#x27;t see their targets as people. They were abhorrent.</p>
+<p>Yikes. This was not good. This was classic bullying right here. These kids thought this other boy wasn&#x27;t good enough for them, so they could do whatever the hell they wanted. If they&#x27;d gotten their hands on an air gun, they would have turned it on this kid and opened fire. The directions always said not to point those things at people and shoot, but boys like these didn&#x27;t see their targets as people. They were abhorrent.</p>
 <p>Their target could have quickly shuffled on his way, but for some reason, he was dawdling. I looked more closely and saw that he had something like a basket clutched to his chest, which he hunched over to keep its contents safe from the balls of mud being hurled his way. It was keeping him from getting away from the bullies&#x27; onslaught.</p>
 <p>&quot;Is that his demon treasure?!&quot;</p>
 <p>&quot;I bet it&#x27;s something he stole!&quot;</p>
 <p>&quot;If you can bullseye that, it&#x27;s worth a hundred points!&quot;</p>
 <p>&quot;Let&#x27;s get that treasure!&quot;</p>
 <p>I broke into a run, heading for the boy. Along the way, I used my magic to form a ball of mud, and the instant I was in firing range, I hurled it with all my might.</p>
-<p><em>Whap</em>!</p>
+<p>Whap!</p>
 <p>&quot;What the hell?!&quot; I hit the kid who looked like their leader, a conspicuously large fellow, right in the face. &quot;Gah, it got in my eyes!&quot;</p>
 <p>His buddies all turned their attention to me at once.</p>
 <p>&quot;Who the heck&#x27;re you?&quot;</p>
@@ -114,7 +114,7 @@ nav_title = "Chapter 7"
 <p>I&#x27;d done it! For the very first time in my life, I&#x27;d beaten the bullies!</p>
 <p>Er, not to brag or anything.</p>
 <p>Whew. Arguments like that really weren&#x27;t my strong suit after all. I&#x27;m glad things hadn&#x27;t come to blows. For now, I needed to check on the kid they&#x27;d been throwing mud at. I turned to him and asked, &quot;Hey, are you all right? Are your things okay?&quot;</p>
-<p><em>Whoa…</em></p>
+<p>Whoa…</p>
 <p>The boy was so pretty it was hard to think we were around the same age. He had rather long eyelashes for someone so young, with a dainty little nose, thin lips, and a somewhat pointed jawline. His skin was porcelain white, and his features combined to give him the look of a startled rabbit, in addition to a sense of unspeakable beauty.</p>
 <p>Man, if only Paul had been the prettier sort. Maybe I&#x27;d have a face like that.</p>
 <p>No, Paul wasn&#x27;t bad-looking. And Zenith looked really good. Which meant my face was fine. Certainly compared to my face in my past life, all flabby and marked with pimples. So, yeah, I was pretty good-looking. Yeah.</p>
@@ -132,9 +132,9 @@ nav_title = "Chapter 7"
   <img src="/novels/mushoku-tensei/vol-01/insert-06.webp" alt="Illustration" loading="lazy" />
 </div>
 <p>In doing so, I could finally see his pointed, elf-like ears, as well as the emerald green hair he sported. I immediately remembered something Roxy had told me.</p>
-<p><em>&quot;If you ever see someone with emerald-green hair, make sure you don&#x27;t go anywhere near them.&quot;</em></p>
+<p>&quot;If you ever see someone with emerald-green hair, make sure you don&#x27;t go anywhere near them.&quot;</p>
 <p>Hm? Wait, hold on. That wasn&#x27;t quite right. I think it was…</p>
-<p><em>&quot;If you ever see someone with emerald-green hair and what looks like a red jewel set in their forehead, make sure you don&#x27;t go anywhere near them.&quot;</em></p>
+<p>&quot;If you ever see someone with emerald-green hair and what looks like a red jewel set in their forehead, make sure you don&#x27;t go anywhere near them.&quot;</p>
 <p>Yeah, that was it! I&#x27;d forgotten the bit about the red jewel. This kid&#x27;s forehead, however, was nothing but a smooth and pretty white.</p>
 <p>Whew. I was safe. He wasn&#x27;t one of those nasty Superds. &quot;Ththank you…&quot;</p>
 <p>The boy&#x27;s words of gratitude snapped me back into the moment. Dang. He was kinda giving me the tingles there.</p>
@@ -226,7 +226,7 @@ nav_title = "Chapter 7"
 <p>&quot;Hmm…&quot; He sounded like he didn&#x27;t quite understand, but he&#x27;d get it eventually. That was part of growing up.</p>
 <p>&quot;More importantly,&quot; Sylph said, &quot;could you teach me that thing you did earlier?&quot;</p>
 <p>&quot;What thing?&quot;</p>
-<p>Sylph&#x27;s eyes glimmered to life. He postured and waved his hands as he explained: &quot;Like when you made warm water go all <em>sploosh</em> from your hands, and when you made that nice warm wind like <em>whoosh</em>.&quot;</p>
+<p>Sylph&#x27;s eyes glimmered to life. He postured and waved his hands as he explained: &quot;Like when you made warm water go all sploosh from your hands, and when you made that nice warm wind like whoosh.&quot;</p>
 <p>&quot;Ah, yes. That.&quot; The magic I&#x27;d used to clear away the mud.</p>
 <p>&quot;Is it difficult?&quot;</p>
 <p>&quot;It&#x27;s difficult, but with training, anyone can do it. Probably.&quot; Lately, my magical reserves had grown so much I wasn&#x27;t even sure how much I was expending, to say nothing of what the baseline was for people here. But then, this was just using fire to warm water. People probably couldn&#x27;t just up and conjure hot water without an incantation, but with Combined Magic, anyone could reproduce the effects. That&#x27;s why it was probably fine. Probably.</p>
@@ -257,7 +257,7 @@ nav_title = "Chapter 7"
 <p>&quot;Because if I do, you&#x27;re just going to yell at me not to make excuses.&quot;</p>
 <p>Paul&#x27;s eyes narrowed. &quot;What?&quot;</p>
 <p>&quot;Before a kid can even say anything, you yell at them and make them apologize. Everything is so quick and easy with you adults. Must be nice.&quot;</p>
-<p><em>&quot;Rudy!&quot;</em></p>
+<p>&quot;Rudy!&quot;</p>
 <p>Whap! A hot jolt of pain shot through my cheek.</p>
 <p>He hit me.</p>
 <p>I mean, I&#x27;d expected as much. Talk shit, get hit.</p>
@@ -274,13 +274,13 @@ nav_title = "Chapter 7"
 <p>Paul&#x27;s face twisted into a frown. It seemed I was close now.</p>
 <p>&quot;Please don&#x27;t worry, Father. The next time I see three people going after someone who won&#x27;t fight back, I&#x27;ll ignore it. In fact, I&#x27;ll jump in so that it&#x27;s four on one. I&#x27;ll make sure that everyone around knows that the Greyrats take pride in bullying and ganging up on the weak. But once I grow up and leave home, I&#x27;ll never use the Greyrat name again. I&#x27;ll be too ashamed to let anyone know I belonged to a family so horrid they ignored actual violence and accepted verbal abuse.&quot;</p>
 <p>Paul fell dead silent. His face turned red, then went pale, and there was conflict in his expression. Was he going to be mad? Or had I still not pushed him over the edge?</p>
-<p><em>You should quit while you&#x27;re ahead, Paul. I know I don&#x27;t look it, but I&#x27;ve spent over twenty years talking my way out of arguments I can&#x27;t win. If you had even one solid point to make, this might end in a</em>  <em>draw, but justice is on my side this time. You don&#x27;t have any hope of winning this one.</em></p>
+<p>You should quit while you&#x27;re ahead, Paul. I know I don&#x27;t look it, but I&#x27;ve spent over twenty years talking my way out of arguments I can&#x27;t win. If you had even one solid point to make, this might end in a  draw, but justice is on my side this time. You don&#x27;t have any hope of winning this one.</p>
 <p>&quot;I&#x27;m sorry,&quot; Paul said, hanging his head. &quot;I was wrong. Tell me what happened.&quot;</p>
-<p><em>Yeah, see? Digging your heels in just makes things worse for the both of us. Remember, when you do something wrong, the first thing you do is apologize.</em></p>
+<p>Yeah, see? Digging your heels in just makes things worse for the both of us. Remember, when you do something wrong, the first thing you do is apologize.</p>
 <p>Relieved, I explained the details of the situation as objectively as I could. I was making my way up the hill when I heard voices. There were three boys in an empty field pelting mud at another boy walking along the road. I hit them with mud once or twice until they backed down, and then they left while badmouthing me. Then, I used magic to clean the mud off the one boy, and we played together.</p>
 <p>&quot;So, yeah,&quot; I said, &quot;if I&#x27;m going to apologize, this Somal kid needs to apologize to Sylph first. When you&#x27;re hurt physically, you&#x27;ll heal soon enough, but emotional hurt doesn&#x27;t go away so quickly.&quot;</p>
 <p>Paul&#x27;s shoulders drooped despondently. &quot;You&#x27;re right. I had this all wrong. I&#x27;m sorry.&quot;</p>
-<p>When I saw that, I recalled what Laws had told me earlier: &quot;<em>Talking to you makes one feel like an underqualified parent</em>.&quot; Had Paul&#x27;s attempt at scolding me been him trying to show more of his paternal side?</p>
+<p>When I saw that, I recalled what Laws had told me earlier: &quot;Talking to you makes one feel like an underqualified parent.&quot; Had Paul&#x27;s attempt at scolding me been him trying to show more of his paternal side?</p>
 <p>Well, if so, he&#x27;d lost this round.</p>
 <p>&quot;You don&#x27;t need to apologize. In the future, if you think what I&#x27;ve done is wrong, by all means, scold me as you like. All I ask is that you hear me out first. There are going to be times when words don&#x27;t cut it, or where it&#x27;s just going to sound like I&#x27;m making excuses, but if I have something to say, please just try to see my side of things.&quot;</p>
 <p>&quot;I&#x27;ll keep that in mind. I mean, I don&#x27;t expect that you&#x27;ll be in the wrong in the first place, but—&quot;</p>

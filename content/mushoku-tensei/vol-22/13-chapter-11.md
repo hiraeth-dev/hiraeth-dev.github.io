@@ -8,7 +8,7 @@ nav_title = "Chapter 11"
 +++
 
 <p><strong>W</strong>E FINISHED MAKING our introductions to all the demon kings. All of them promised to ally with me. I also had them sign contracts, just in case. Atofe&#x27;s name was really handy.</p>
-<p>Right now, everything was on track. Things were going well—there were so few hiccups that it felt like things were going a little <em>too</em> well. Geese&#x27;s continued silence was beginning to creep me out, not to mention the lack of interference from the Man-God. I returned home regularly to check on my family, but there was no indication of him meddling there, either.</p>
+<p>Right now, everything was on track. Things were going well—there were so few hiccups that it felt like things were going a little too well. Geese&#x27;s continued silence was beginning to creep me out, not to mention the lack of interference from the Man-God. I returned home regularly to check on my family, but there was no indication of him meddling there, either.</p>
 <p>I went through all the information the mercenary company had gathered from all over the world but nothing stirred my doubts. That had to mean that whatever Geese was plotting, nothing I was up to interfered with them. Maybe the letter had been a bluff, and his actual scheme was different… But what that meant in the long term, I had no idea. For the time being, I had no choice but to stay the course I&#x27;d set.</p>
 <p>Geese&#x27;s whereabouts were similarly shrouded in mystery. He was doing a good job of keeping his head down. To tell the truth, I had the feeling that, short of asking Kishirika, we wouldn&#x27;t find him. But I had been putting out wanted notices for her all over the Demon Continent. It was just a matter of time until we found her.</p>
 <p>In the meantime, I decided to make inroads with my next target. I was heading to the Sword Sanctum to see Sword God Gall Falion.</p>
@@ -43,7 +43,7 @@ nav_title = "Chapter 11"
 <p>More to the point, how come I didn&#x27;t get to be the pet? I wanted to hug and lick everyone too…</p>
 <p>&quot;You hate me…&quot; I sniffled.</p>
 <p>&quot;No, I don&#x27;t! Dada&#x27;s an amazing person! Even though he hardly ever comes home, and he can&#x27;t ever cuddle the baby, he still loves them very much! It&#x27;s not his fault!&quot;</p>
-<p><em>Amazing is all very well, but I&#x27;d rather be here, near you all. My fault or not, I want to cuddle my children too. All that love breeds warmth, and in that warmth, there&#x27;s happiness.</em></p>
+<p>Amazing is all very well, but I&#x27;d rather be here, near you all. My fault or not, I want to cuddle my children too. All that love breeds warmth, and in that warmth, there&#x27;s happiness.</p>
 <p>&quot;Um, Rudy…?&quot; A voice came from behind me. &quot;Could I have a word?&quot; I turned and saw my mother-in-law peering out of the window of the neighboring house… Ah, forget it. That&#x27;s enough of the game.</p>
 <p>&quot;Sure,&quot; I said. I went to stand up but felt a tug on my sleeve. Lucie looked up at me, anxiety on her face.</p>
 <p>&quot;Are you going back to work already, Dada?&quot;</p>
@@ -54,11 +54,11 @@ nav_title = "Chapter 11"
 <p>&quot;…I want you to stay.&quot;</p>
 <p>&quot;I&#x27;ll come back soon as we&#x27;re finished, sweetie. You play with your big sisters till then, okay?&quot;</p>
 <p>&quot;…Okay,&quot; Lucie said, her little mouth puckered as she looked down at the ground. It took all I had to tear myself away.</p>
-<p><em>If I could, I&#x27;d play house with you all day long. But my real wife&#x27;s calling me now, so I gotta go.</em></p>
+<p>If I could, I&#x27;d play house with you all day long. But my real wife&#x27;s calling me now, so I gotta go.</p>
 <p>I washed my hands, then went back to the living room and sat myself down on the couch next to Sylphie.</p>
 <p>&quot;Okay, what&#x27;s the matter?&quot;</p>
 <p>&quot;Well, it&#x27;s just… You&#x27;re busy at the moment, right, Rudy? So I don&#x27;t want to put pressure on you, but I have to ask beforehand…&quot; Sylphie scratched at her cheek, looking down in embarrassment.</p>
-<p><em>What&#x27;s with the teasing?</em></p>
+<p>What&#x27;s with the teasing?</p>
 <p>&quot;I mean, you&#x27;re about to set off to the Sword Sanctum any day now, right?&quot;</p>
 <p>&quot;Yeah, as soon as everything&#x27;s ready, so another two or three days…&quot;</p>
 <p>All that was left to do was to choose my team. Eris and one other. I wanted someone who spoke the language of the Sword God Style gang. Hey, there was a thought! Ariel had Isolde working for her as well. Isolde had trained at the Sword God&#x27;s Sanctum too, so she was a possibility.</p>
@@ -108,7 +108,7 @@ nav_title = "Chapter 11"
 <p>I shouldn&#x27;t have gotten complacent. Was it a breech birth? No, I could see the head, so that wasn&#x27;t it… Surely it couldn&#x27;t be a stillbirth…</p>
 <p>Roxy stood up, staff in hand. &quot;Healing magic?&quot; she asked.</p>
 <p>&quot;No, that won&#x27;t be necessary,&quot; said the doctor, and the birth continued. He carried on with the delivery, speaking to Sylphie only when absolutely necessary. As far as I could tell, nothing had gone wrong.</p>
-<p>&quot;…Ah, uwaaah.&quot; A baby&#x27;s cry broke the restless silence. A strong little voice. It wasn&#x27;t a stillbirth. The doctor didn&#x27;t say anything, just held the baby up. It looked fine to me. I honestly didn&#x27;t think anything was wrong. But the doctor&#x27;s face was still tense, and I knew why. I&#x27;d know as soon as I saw the baby. Why the doctor had sighed. Why he was so tense. <em>I</em> genuinely didn&#x27;t think there was any problem, but I understood why he did.</p>
+<p>&quot;…Ah, uwaaah.&quot; A baby&#x27;s cry broke the restless silence. A strong little voice. It wasn&#x27;t a stillbirth. The doctor didn&#x27;t say anything, just held the baby up. It looked fine to me. I honestly didn&#x27;t think anything was wrong. But the doctor&#x27;s face was still tense, and I knew why. I&#x27;d know as soon as I saw the baby. Why the doctor had sighed. Why he was so tense. I genuinely didn&#x27;t think there was any problem, but I understood why he did.</p>
 <p>It was the baby&#x27;s hair. When Lucie was born, her wisps of hair had been light brown. When Lara was born, she&#x27;d been bald. I wasn&#x27;t there when Arus was born, but when I saw him, his hair looked red.</p>
 <p>We all stared in silence. There was Sylphie&#x27;s second child, with a head of green hair. Yep, just like Sylphie, back in the day.</p>
 <p>&quot;No way…&quot; Sylphie had gone pale. &quot;Oh…oh no…it can&#x27;t be…&quot;</p>
@@ -131,7 +131,7 @@ nav_title = "Chapter 11"
 <p>I felt guilty. But I was also overjoyed. Sure, the baby had green hair. But that wasn&#x27;t any big deal. Nothing had changed.</p>
 <p>Here was my fourth child. And I&#x27;d made sure to think of a name.</p>
 <p>All of a sudden, I heard Eris&#x27;s voice pipe up from a corner of the room.</p>
-<p>&quot;What the <em>hell</em> are you doing here?&quot;</p>
+<p>&quot;What the hell are you doing here?&quot;</p>
 <p>She was talking to me—berating me for being so useless. Feeling like I&#x27;d been punched in the gut, I turned.</p>
 <p>At least, that&#x27;s what I thought was happening. I was wrong.</p>
 <p>&quot;Huh?&quot;</p>

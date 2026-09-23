@@ -11,28 +11,28 @@ nav_title = "Chapter 5"
 <p>Currently, I&#x27;m checking out a free apartment in the Shirone Kingdom. There&#x27;s no security deposit and no rent. It&#x27;s a one-room apartment that provides no meals and doesn&#x27;t have much in the way of natural lighting. There&#x27;s no bed provided, and the lack of a toilet means you have to resort to the old-fashioned way of pissing your pants, so living here for an extended period will no doubt result in serious illness. At least it&#x27;s free!</p>
 <p>It&#x27;s also reassuringly secure in its construction. Please see for yourself how durable the barrier is! As long as you stay inside it, magic is nullified and you&#x27;ll never be able to get out! Even if an Aranked adventurer like me hits it as hard as they can, the barrier won&#x27;t budge. It doesn&#x27;t matter if you&#x27;re a masterful escape artist there&#x27;s no easy way of getting out of this place.</p>
 <p>Okay, that&#x27;s the second time I&#x27;ve used this joke, so enough of that.</p>
-<p><em>I can&#x27;t get out of here</em>. <em>Someone save me. Ruijerd, hurry up and save me! Save meee, Rui!</em></p>
+<p>I can&#x27;t get out of here. Someone save me. Ruijerd, hurry up and save me! Save meee, Rui!</p>
 <p>I felt like Princess Peach waiting for Mario to come for me.</p>
 <p>I spent an entire day after that trying to remove the barrier. Since I couldn&#x27;t use magic while I was in it, there was basically nothing I could do. Mostly my attempts consisted of pounding on a wall I couldn&#x27;t see, trying to scrub at the circle on the floor, and trying to leap up toward the ceiling that was nearly four meters above me. I did everything I could, which basically amounted to nothing.</p>
 <p>If I&#x27;d at least had my staff, I might&#x27;ve been able to smack the ceiling with it. Sadly, I&#x27;d given all my things to Ginger before I&#x27;d entered the room.</p>
-<p>As for magic, I tried numerous spells, but they all fizzled before they could do anything. Like a shounen protagonist, I decided that if this barrier absorbed mana then I would unleash as much as I could and destroy it that way! But it didn&#x27;t seem to have any effect. I could produce mana, but it didn&#x27;t take shape. I couldn&#x27;t use my mana to trigger a change around me. It <em>seemed</em> like I could, but I couldn&#x27;t. It was like using a lighter in such strong wind that it blew out every time you clicked it. The gas was there, the spark was there, but there was no fire. Or maybe it was more like the fire appeared but was snuffed out immediately.</p>
+<p>As for magic, I tried numerous spells, but they all fizzled before they could do anything. Like a shounen protagonist, I decided that if this barrier absorbed mana then I would unleash as much as I could and destroy it that way! But it didn&#x27;t seem to have any effect. I could produce mana, but it didn&#x27;t take shape. I couldn&#x27;t use my mana to trigger a change around me. It seemed like I could, but I couldn&#x27;t. It was like using a lighter in such strong wind that it blew out every time you clicked it. The gas was there, the spark was there, but there was no fire. Or maybe it was more like the fire appeared but was snuffed out immediately.</p>
 <p>He said this was a King-tier magical barrier, right? It was incredible.</p>
 <p>My impatience grew as I realized that I couldn&#x27;t get out of here on my own. If the worst came to pass and Roxy actually came to help me, falling into Pax&#x27;s trap in the process, there was nothing I could do to save her. All I would be able to do would be to scream for her to leave me behind. If Eris was the one that got caught instead, I could do nothing to help her, either. Once again, I&#x27;d be screaming for them to leave me behind. And what if Pax changed his mind and decided that he had me, so he didn&#x27;t need other hostages, and tried to have Lilia killed?</p>
 <p>I wanted to believe that everything would be okay, but I hadn&#x27;t followed the Man-God&#x27;s advice perfectly. Maybe I was already way off track. It was the Man-God we were talking about, though. Maybe he foresaw this. But according to what he&#x27;d said, only Aisha and Lilia would be saved. He hadn&#x27;t mentioned anyone else.</p>
-<p>But no…he gave me that advice to earn my trust. It was difficult to believe he&#x27;d purposefully worded it to be deceptive. <em>Still, even</em></p>
-<p><em>then</em>… Negative thoughts kept cutting in and whirling around in my head.</p>
-<p><em>Dammit</em>, I thought. <em>I need to hurry up and get out of here.</em></p>
+<p>But no…he gave me that advice to earn my trust. It was difficult to believe he&#x27;d purposefully worded it to be deceptive. Still, even</p>
+<p>then… Negative thoughts kept cutting in and whirling around in my head.</p>
+<p>Dammit, I thought. I need to hurry up and get out of here.</p>
 <p>I wondered how much time had passed. I felt exhausted. It was the first time in a long while that I&#x27;d used so much mana.</p>
 <p>&quot;Phew…maybe I should rest for a bit.&quot;</p>
 <p>There was no clock and I couldn&#x27;t see the sun, so I had only a vague sense of time. My stomach was also empty and had been growling for a little while now. Don&#x27;t tell me that prince had forgotten about my food, too? No, maybe that was the point. Maybe he meant to reduce my food intake and whittle me down until I was as dainty and brittle as a branch. That way, it would excite him more when he showed Roxy what I&#x27;d become. Just one meal a day then, huh? That would be terribly unpleasant, given that my body was still growing.</p>
 <p>I couldn&#x27;t break out of here through strength alone. Maybe I needed to twist this around in my head some more. How did people in my previous world escape from prison? They pretended to be sick or dead, right? Maybe they would temporarily power down the barrier to let a doctor or healer inside. No—it was also possible they&#x27;d just leave me to die. They already had another hostage, after all. If I were a Hollywood star, I could just strike out as the guard came by my cell, knock them unconscious and steal their keys. Sadly, that wasn&#x27;t possible here.</p>
 <p>What other methods were left to me? Really, I just needed to get out of here. Maybe I could pretend I was willing to pledge my loyalty to Pax.</p>
-<p><em>&quot;Truth is, that Roxy&#x27;s been gettin&#x27; on my nerves for a long time now, boss. Heh heh heh! And actually, I know where her parents are! Whatdya think about doin&#x27; it in front of them, eh, boss?&quot;</em></p>
+<p>&quot;Truth is, that Roxy&#x27;s been gettin&#x27; on my nerves for a long time now, boss. Heh heh heh! And actually, I know where her parents are! Whatdya think about doin&#x27; it in front of them, eh, boss?&quot;</p>
 <p>If I said it like that, he might actually fall for it, right? He did look like a moron, after all.</p>
 <p>Nah, let&#x27;s not. That wasn&#x27;t possible, even for me. Roxy. I could abandon every last bit of my own pride, but the one thing I couldn&#x27;t do was say something bad about Roxy.</p>
-<p><em>Thump… Thump…</em></p>
+<p>Thump… Thump…</p>
 <p>As I worried over what to do, I suddenly heard something. Footsteps. They were growing closer. Probably Pax coming to see how I was doing.</p>
-<p><em>Thump…</em></p>
+<p>Thump…</p>
 <p>The footsteps stopped directly above me. Then they cut across the room and I could hear them at the top of the stairs.</p>
 <p>&quot;Aha, just as Ginger told me.&quot;</p>
 <p>The man who glided down the steps was someone I&#x27;d never seen before. I could tell with one look that he was likely part of the royal family, primarily because of how grandiose his clothing looked. It was black with gold embroidery and you could tell at once that it was expensive. He appeared to be about twenty. His face was similar to Pax&#x27;s, but oval-shaped, with glasses resting above protruding cheekbones, and he was taller and thinner. In other words, he looked like your typical book nerd anime character with opaque glasses.</p>
@@ -103,7 +103,7 @@ nav_title = "Chapter 5"
 <p>&quot;Huh?&quot; I voiced my realization. &quot;The mole under her armpit is gone.&quot;</p>
 <p>&quot;Hm?&quot; Zanoba responded, turning the Roxy figure over again. &quot;Aah, the dark spot under her arm? I thought it lowered the beauty of the figure, so I shaved it off,&quot; he said off-handedly.</p>
 <p>I froze at his words. My eyes widened and my body stilled. &quot;Yyou shaved it off?&quot;</p>
-<p>&quot;Yes, and the fact that you know about that means that you <em>do</em> know something about this figurine, don&#x27;t you?&quot;</p>
+<p>&quot;Yes, and the fact that you know about that means that you do know something about this figurine, don&#x27;t you?&quot;</p>
 <p>I ignored him. &quot;Turn the figurine around a little.&quot;</p>
 <p>&quot;Answer my question before I do.&quot;</p>
 <p>&quot;I said turn it,&quot; I barked coldly, surprising myself.</p>
@@ -126,7 +126,7 @@ nav_title = "Chapter 5"
 <p>&quot;Aaaah!&quot; Zanoba&#x27;s entire body suddenly fell to the floor, slapping against the ground. It shocked me. &quot;So you, my lord, are the one who created this figurine!&quot;</p>
 <p>And now he was groveling before me? I had no idea what was going on. The only thing I did know was how magnificent Roxy was.</p>
 <p>&quot;I would expect no less from a pupil of the Water King Magician Roxy! You made this figurine using magic, didn&#x27;t you?!&quot;</p>
-<p>How dare he use her name without a proper title. That&#x27;s <em>Miss</em> Roxy to you!</p>
+<p>How dare he use her name without a proper title. That&#x27;s Miss Roxy to you!</p>
 <p>&quot;My lord, I look at your creation every day. Every time I see it, I discover something new, and my respect for you only grows stronger. Please, allow me to call you &#x27;master&#x27;!&quot; He scurried across the floor like an insect as he spoke, trying to kiss my shoes, only be repelled with a loud cry as he smacked against the barrier instead. He looked like one of those obsessed fans vying for the newest release on the third day of summer Comiket.</p>
 <p>&quot;Gaaaah! Why is this barrier here?! Who dared to put this here?! Master! Please allow me to pay my respects to your godlike hands! Pleeeeaaaaseeaaah!&quot;</p>
 <p>I&#x27;d met people like this in my previous life. Most of them were people I&#x27;d met online—people I couldn&#x27;t quite call friends. Now I understood—this was the face those people were making behind their screens. This must have been what the Man-God foresaw happening. I was to be taken inside the castle where I&#x27;d meet this guy, we&#x27;d bond and he&#x27;d lend me his power to help me escape. All right! The ending was now in sight!</p>
@@ -166,5 +166,5 @@ nav_title = "Chapter 5"
 <p>Zanoba just laughed as he climbed back up the stairs and left.</p>
 <p>&quot;Are you kidding me…?&quot; I had the distinct feeling I&#x27;d really screwed something up. Forcing this prince—who apparently had no servants of his own—to make a move felt like the equivalent of</p>
 <p>shoving a stick in a hornet&#x27;s nest. A keen sense of foreboding came over me.</p>
-<p><em>I should have just asked him to bring me some food instead.</em></p>
+<p>I should have just asked him to bring me some food instead.</p>
 <p>However, as I would soon learn, I was completely mistaken. I had totally misread the man known as Zanoba Shirone. Looking back on what had transpired, I would come to realize that the course of events was probably decided the moment Zanoba found out I was the creator of that figurine.</p>

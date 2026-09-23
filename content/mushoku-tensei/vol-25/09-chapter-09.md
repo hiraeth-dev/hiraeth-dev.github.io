@@ -13,7 +13,7 @@ nav_title = "Chapter 9"
 <p>&quot;…All right.&quot;</p>
 <p>It wasn&#x27;t like I had any pressing requests other than the Superd. I did have to ask about Geese, but that was all.</p>
 <p>&quot;Then let&#x27;s go.&quot;</p>
-<p>I&#x27;d take a few Superd with me. We still had negotiations to go through, but if the Superd were going to keep living in the Biheiril Kingdom, they ought to reveal themselves so the citizens would accept them. Otherwise, they could end up in another situation like this. It was also possible citizens&#x27; groups who saw the Superd might stage a protest. Much as I&#x27;d <em>like</em> to have a ceremony where the Ogre God and the Superd village head shook hands…</p>
+<p>I&#x27;d take a few Superd with me. We still had negotiations to go through, but if the Superd were going to keep living in the Biheiril Kingdom, they ought to reveal themselves so the citizens would accept them. Otherwise, they could end up in another situation like this. It was also possible citizens&#x27; groups who saw the Superd might stage a protest. Much as I&#x27;d like to have a ceremony where the Ogre God and the Superd village head shook hands…</p>
 <p>Anyway, while I was musing about that, I chose my team members to take to the capital. First, in case of battle, I&#x27;d bring Eris, Atofe, Sandor, and Ruijerd. Cliff of the Millis Church would be negotiator, and Elinalise would accompany him. Finally, we&#x27;d take two Superd warriors with us. The rest</p>
 <p>would stay behind in case the village was attacked. They weren&#x27;t team members, but we&#x27;d also return the prisoners. To tell you the truth, the king hadn&#x27;t asked for their return. It was tragic, but I was a man of my word. Well, I say that, but it was always possible negotiations would break down. I&#x27;d leave one behind as a bargaining chip.</p>
 <p>With that, I went to the hut where the prisoners were staying. The two of them sat inside in dazed silence. They looked at me with suspicion in their eyes.</p>
@@ -21,15 +21,15 @@ nav_title = "Chapter 9"
 <p>For the few days they&#x27;d been here, the prisoners were free to move around the village. I made sure they were guarded, of course, and they&#x27;d surrendered their weapons. In order to check they weren&#x27;t in disguise we&#x27;d stripped them, but apart from that, they&#x27;d been met with hospitality. After I&#x27;d emphasized to the Superd that they were to look after the prisoners like guests, they&#x27;d been kind to them. We hadn&#x27;t kept them tied up or anything. They walked around the village as they pleased, and we even let them go outside the village so long as they had a Superd guard with them. I wasn&#x27;t worried about them escaping; I was worried they might get attacked by Invisible Wolves. While they were out, the Superd had hunted the Invisible Wolves for the past two days, and we&#x27;d shown the prisoners the kind of monsters they were. They got the same food the villagers ate. There was still some concern about the plague, but there was nothing else to eat, so we had to make do. For the time being, we gave them Sokas tea to drink with their meals.</p>
 <p>&quot;…I guess I realized we&#x27;d been misled by rumors.&quot; The knights had looked despairing when we captured them, but now I was pleased to see they felt at ease.</p>
 <p>I still hadn&#x27;t told them all the great things there were to know about the Superd, but they were bound to leave with a good impression regardless. I&#x27;d keep one of them here to enjoy himself for a bit longer. It was scary to think that the moment I was gone, he might pull his mask off</p>
-<p>and declare, &quot;Haha! I was the Man-God&#x27;s minion all along!&quot; To be fair, though, we&#x27;d chosen them at random, and we did a thorough physical check when we brought them back to the village. Orsted and Cliff had taken a good look at them and vouched for them, and I was leaving a few of my allies here… <em>It should be fine.</em></p>
+<p>and declare, &quot;Haha! I was the Man-God&#x27;s minion all along!&quot; To be fair, though, we&#x27;d chosen them at random, and we did a thorough physical check when we brought them back to the village. Orsted and Cliff had taken a good look at them and vouched for them, and I was leaving a few of my allies here… It should be fine.</p>
 <p>&quot;We&#x27;re going to negotiate with the kingdom, so I&#x27;m bringing one of you home with me. I&#x27;d prefer to leave the higher-ranked one of you here, if that&#x27;s all right.&quot;</p>
 <p>&quot;All right.&quot; One of the knights nodded and the other stood up. They just did what I said.</p>
 <p>It&#x27;d suck if it turned out that they had some sort of beef with each other and this guy just abandoned the other one. But the king had, in theory, accepted my conditions. There was nothing left but to meet and discuss it.</p>
 <p>With that, we set off from the Superd Village.</p>
 <p>***</p>
-<p>Another four days passed. Negotiations with the king came off without a hitch. The king of the Biheiril Kingdom had been terrified. He held himself like a king, but he watched my every word and gesture. Eris, Ruijerd, and Atofe&#x27;s presence had him jumpy. It was most obvious when he had to deal with Atofe. Hell, she made <em>me</em> jumpy. She was scary.</p>
+<p>Another four days passed. Negotiations with the king came off without a hitch. The king of the Biheiril Kingdom had been terrified. He held himself like a king, but he watched my every word and gesture. Eris, Ruijerd, and Atofe&#x27;s presence had him jumpy. It was most obvious when he had to deal with Atofe. Hell, she made me jumpy. She was scary.</p>
 <p>This is what the king said: All that had happened was that the Sword God and the North God had threatened him. He used a lot of pompous euphemisms, but that was his explanation. I had him remove all his rings and allow me to use the Stone of Absorption just in case, but it looked like Geese hadn&#x27;t changed places with him.</p>
-<p>But Geese <em>had</em> been involved. We&#x27;d been conned.</p>
+<p>But Geese had been involved. We&#x27;d been conned.</p>
 <p>In any case, after some hardball negotiating where I dropped the prisoner&#x27;s name, the king said that so long as we did something about the army on Ogre Island, he&#x27;d give full recognition to the Superd. It wasn&#x27;t like we were pressing for anything unreasonable like massive reparations or</p>
 <p>land. All we were asking was recognition for the people who&#x27;d lived in this land from the start, and who&#x27;d helped the kingdom.</p>
 <p>On top of that, launching the hunting party, which had brought about our current situation, had been Geese acting on his own authority. I guess all the king could do was sigh and accept it.</p>
@@ -51,7 +51,7 @@ nav_title = "Chapter 9"
 <p>I watched, heart in my throat. When Atofe and Sandor arrived, half of the hostages were released immediately. The Ogre God and Sandor discussed something, then the gathering broke up. What they&#x27;d talked about, I didn&#x27;t know, but the Ogre God looked dejected. The biggest obstacle with the Eye of Distant Sight was that you couldn&#x27;t hear voices.</p>
 <p>***</p>
 <p>&quot;Rudeus!&quot; I was asleep at the inn in the Third City of Heirelil when Eris&#x27;s voice woke me.</p>
-<p>&quot;…What&#x27;s up, honey? Lemme sleep a little longer.&quot; I reached out to squeeze her breasts, but my hand was knocked aside. <em>Boo, you&#x27;re so mean! Like, that&#x27;s</em> violence. <em>I&#x27;m the one who&#x27;s in the wrong, I guess… I touched, even though I&#x27;m supposed to be celibate.</em></p>
+<p>&quot;…What&#x27;s up, honey? Lemme sleep a little longer.&quot; I reached out to squeeze her breasts, but my hand was knocked aside. Boo, you&#x27;re so mean! Like, that&#x27;s violence. I&#x27;m the one who&#x27;s in the wrong, I guess… I touched, even though I&#x27;m supposed to be celibate.</p>
 <p>&quot;They&#x27;re here!&quot;</p>
 <p>&quot;They?&quot;</p>
 <p>&quot;Them!&quot; Eris yelled, then ran from the room. I wished she would stop talking with her feelings. A rational person like me could never work out what she meant from vague words.</p>
@@ -64,16 +64,16 @@ nav_title = "Chapter 9"
 <p>The Ogre God glowered at me, then in a searching tone, said, &quot;You, chief?&quot;</p>
 <p>&quot;Yes. I&#x27;m Rudeus Greyrat. I&#x27;m in charge.&quot;</p>
 <p>&quot;Me Marta.&quot; I bowed and Marta, still sitting, bowed back. &quot;Want talk.&quot;</p>
-<p>&quot;…I have some questions of my own.&quot; Copying the Ogre God, I sat down on the ground and crossed my legs. <em>He&#x27;s in the same pose, so I hope it won&#x27;t come across as rude…</em> I thought, just as a young ogre beside the Ogre God promptly knelt beside me and placed a wide, shallow cup on the ground before both me and the Ogre God. They were sake cups.</p>
+<p>&quot;…I have some questions of my own.&quot; Copying the Ogre God, I sat down on the ground and crossed my legs. He&#x27;s in the same pose, so I hope it won&#x27;t come across as rude… I thought, just as a young ogre beside the Ogre God promptly knelt beside me and placed a wide, shallow cup on the ground before both me and the Ogre God. They were sake cups.</p>
 <p>The cups were filled right away, mine with what seemed to be a local spirit. Into the Ogre God&#x27;s cup went a black liquid. That was probably soy sauce.</p>
 <p>Between the soy sauce and the miso, the culture here seemed like Japan&#x27;s.</p>
 <p>&quot;Drink,&quot; he said.</p>
 <p>&quot;Thank you.&quot; The Ogre God downed his drink, and I copied him. It might be polite to drain your glass…but it&#x27;d be bad if I got drunk, so I stopped at a mouthful.</p>
-<p><em>Now, where should I start? I suppose asking about Geese. If he&#x27;s a disciple.</em></p>
+<p>Now, where should I start? I suppose asking about Geese. If he&#x27;s a disciple.</p>
 <p>Master Ogre God didn&#x27;t look all that clever. I&#x27;d have to make my explanation of difficult matters simple, easy to understand. Gently, like when I taught something to Eris.</p>
 <p>&quot;I hear story.&quot; The Ogre God hesitated a moment, then said, &quot;Demon King attack village. Steal food. Not forgive. But no-fighters all alive.&quot; He</p>
 <p>looked at the ogres around us.</p>
-<p><em>All alive…? If there was any fighting, no matter how minor, surely there were deaths…? Oh, he must mean no noncombatants died.</em></p>
+<p>All alive…? If there was any fighting, no matter how minor, surely there were deaths…? Oh, he must mean no noncombatants died.</p>
 <p>Apparently, even Atofe was capable of that kind of judgment, although obviously Moore had been the one to strategize it that way.</p>
 <p>&quot;I break, your house. But your no-fighters, I leave. Even.&quot;</p>
 <p>I didn&#x27;t say anything.</p>
@@ -113,7 +113,7 @@ nav_title = "Chapter 9"
 <p>I didn&#x27;t say anything.</p>
 <p>&quot;I had high expectations, you know. I told him to take the King Dragon Blade and the name of North God. I wonder if that wasn&#x27;t a mistake.&quot;</p>
 <p>Alec had been caught up in fantasies of heroism to the point of obsession.</p>
-<p>&quot;At the end of the day, <em>North God</em> is only a name. He lost his way.&quot; Sandor drained his glass.</p>
+<p>&quot;At the end of the day, North God is only a name. He lost his way.&quot; Sandor drained his glass.</p>
 <p>I had nothing I could say to him. With more experience under his belt, he would have acquired what he needed to merit the North God name. I couldn&#x27;t say that to him. Alec was gone.</p>
 <p>&quot;What&#x27;s done is done. It&#x27;ll weigh on me for a while, but you needn&#x27;t worry about it, Master Rudeus. It was battle, no more than that.&quot;</p>
 <p>&quot;…Do you think so?&quot;</p>
@@ -149,19 +149,19 @@ nav_title = "Chapter 9"
 <p>The man in golden armor answered Geese&#x27;s jibe. I recognized that voice. I could never forget that laugh.</p>
 <p>&quot;Lord Badi…&quot; I said.</p>
 <p>It was Badigadi.</p>
-<p><em>Why is he here? Why&#x27;s he wearing that? Why&#x27;s he with Geese? Did the Ogre God betray us? Did Sandor call them? Surely not, but…come on…</em> <em>what?</em></p>
+<p>Why is he here? Why&#x27;s he wearing that? Why&#x27;s he with Geese? Did the Ogre God betray us? Did Sandor call them? Surely not, but…come on… what?</p>
 <p>A million different thoughts raced about my mind but couldn&#x27;t coalesce into words. An unfathomable tremor rose from deep within my body. That golden armor was bad news. I didn&#x27;t know in precisely what way, but I could tell it was sinister. This was an opponent who&#x27;d kill me in an instant if I fought as I was.</p>
 <p>&quot;It&#x27;s been too long, Rudeus! You too, Alex!&quot;</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-25/insert-07.webp" alt="Illustration" loading="lazy" />
 </div>
-<p>Sandor was staring blankly, but his brow glistened with sweat. I got the sense that he felt he had to attack <em>now</em>, but he couldn&#x27;t move.</p>
+<p>Sandor was staring blankly, but his brow glistened with sweat. I got the sense that he felt he had to attack now, but he couldn&#x27;t move.</p>
 <p>&quot;Uncle. What brings you here?&quot;</p>
 <p>&quot;What else? I am a disciple of the Man-God!&quot; Badigadi declared. Without hesitation, with his head held high, he said that he was the final disciple.</p>
 <p>&quot;…Right.&quot;</p>
 <p>So that was it. It made sense. Hadn&#x27;t everyone else implied as much? Both Orsted and Kishirika had told me there was a good chance that Badi was a disciple. The one who had brought Ruijerd to the Superd Village was none other than Badigadi. How had I forgotten? I felt the last piece fit into place.</p>
 <p>&quot;At the Man-God&#x27;s request, I delivered Ruijerd to the Superd Village. Then, in preparation for battle, I went to get this armor from where it had sunk in the middle of the ocean. You have nowhere to run! And so Abyssal King Vita, the Sword God, the North God, and the Ogre God, and I, with our powers combined, will defeat you and Dragon King Orsted—&quot;</p>
-<p>&quot;Whoa, whoa, <em>buddy</em>!&quot;</p>
+<p>&quot;Whoa, whoa, buddy!&quot;</p>
 <p>&quot;Whassat now? Just when I was getting into my stride…&quot;</p>
 <p>&quot;Too much chatter. There ain&#x27;t no need to tell &#x27;em that much.&quot;</p>
 <p>&quot;Blegh, you&#x27;re no fun. What point is there in having a plan for if not to gloat over revealing it at the end?&quot;</p>
@@ -175,13 +175,13 @@ nav_title = "Chapter 9"
 <p>At the word &quot;legend,&quot; Badi leaned back with a swagger.</p>
 <p>&quot;Four thousand and two hundred years ago, I, the strongest of the demon kings, took Demonic Dragon King Laplace down with me…&quot;</p>
 <p>I gulped. Badi&#x27;s armor, as though to make its presence known, began to glow. &quot;I am Fighting God Badigadi. I can take you by myself.&quot;</p>
-<p>Of course. Of <em>course</em>. That was the Fighting God armor. His whole body radiated an unnatural aura. It was like the chill I&#x27;d felt facing down Orsted when he was fighting in earnest. I instinctively knew I couldn&#x27;t win.</p>
+<p>Of course. Of course. That was the Fighting God armor. His whole body radiated an unnatural aura. It was like the chill I&#x27;d felt facing down Orsted when he was fighting in earnest. I instinctively knew I couldn&#x27;t win.</p>
 <p>Just then, Badigadi unfolded his arms and spread them wide. &quot;I am Fighting God Badigadi! Servant of the Dragon God, Rudeus &#x27;Quagmi—&#x27;!&quot;</p>
 <p>&quot;I am Alex Kalman Rybak, North God Kalman II! Immortal Demon King Badigadi, I challenge you to single combat! On the honor of the immortal demons, I trust you will honor my challenge!&quot;</p>
 <p>Badi froze. Then, he looked at Geese beside him with a conflicted expression.</p>
-<p>&quot;Hrmm… I <em>was</em> going to challenge Rudeus to a duel.&quot;</p>
+<p>&quot;Hrmm… I was going to challenge Rudeus to a duel.&quot;</p>
 <p>&quot;Just turn him down.&quot;</p>
-<p>&quot;I can&#x27;t do <em>that</em>. It is an age-old rule that a demon king cannot turn down a challenge.&quot;</p>
+<p>&quot;I can&#x27;t do that. It is an age-old rule that a demon king cannot turn down a challenge.&quot;</p>
 <p>Geese looked like he couldn&#x27;t believe his ears.</p>
 <p>Who knew how much control the Man-God had over Badi, but Geese at least didn&#x27;t have Badi fully under his thumb. Not that I had any</p>
 <p>confidence I could control the likes of Badigadi and Atofe.</p>

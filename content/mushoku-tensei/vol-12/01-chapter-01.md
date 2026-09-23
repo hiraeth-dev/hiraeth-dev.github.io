@@ -11,20 +11,20 @@ nav_title = "Chapter 1"
 <p>Rapan sat in the midst of a vast desert, trapped within a peculiar, enormous white cage. An inquisitive person who approached would find this cage was actually constructed of bones those of some long-dead behemoth. The ribs alone were large enough to encase the entire city.</p>
 <p>At one point, the city had been nothing more than a small oasis. The remains of the behemoth had transformed it, and it was now surrounded by a shocking number of labyrinths, making it an alluring destination for countless adventurers. Thanks to these adventurers streaming in from all over the world, looking to get rich quick, the city had become a stage where both happy endings and tragedies were acted out.</p>
 <p>This city, wrapped in a whirlwind of chaos, is currently one of the largest and most prominent of the Begaritt Continent.</p>
-<p>—Excerpt from <em>Wandering the World</em> by Adventurer and Author Bloody Kant</p>
+<p>—Excerpt from Wandering the World by Adventurer and Author Bloody Kant</p>
 <p>***</p>
-<p>I had a dim recollection of the information contained in <em>Wandering the World</em>. Rapan was a large, earth-colored city, nestled in the midst of its characteristic twelve white pillars, with buildings made of mud and materials obtained from regional beasts. I&#x27;d seen a lot of cities with the same aesthetic on the Demon Continent.</p>
+<p>I had a dim recollection of the information contained in Wandering the World. Rapan was a large, earth-colored city, nestled in the midst of its characteristic twelve white pillars, with buildings made of mud and materials obtained from regional beasts. I&#x27;d seen a lot of cities with the same aesthetic on the Demon Continent.</p>
 <p>That said, this place was unexpectedly verdant, perhaps thanks to the oasis by the bone pillars. Even from afar, I could see a line of</p>
 <p>what looked like palm trees. The atmosphere was unique, too. There was something like a crude smell in the air, not unlike the crowded slave markets.</p>
 <p>&quot;Surprised? Those pillars are actually a behemoth&#x27;s ribs.&quot;</p>
 <p>We were still walking along as I surveyed the area when Galban called out to me boastfully. Thanks to the current formation of our group, I&#x27;d been talking to him a lot lately. The man loved to brag. His stories were always incredible and self-flattering, with questionable veracity, but easy to enjoy if you suspended disbelief.</p>
 <p>&quot;When the great hero, second-generation North God Kalman, visited this land, he and his companions defeated a behemoth that was rampaging through the desert. They feasted on some of its meat and left the rest of its remains to rot, leaving what you see now bones that refuse to decay, standing testament to the passage of time.&quot;</p>
 <p>&quot;Wow.&quot;</p>
-<p>So this land had some connection to the North God Kalman, huh? I knew some of the tales about him, but I&#x27;d never heard anything about him slaying a behemoth before. I had seen one behemoth myself as we traveled, but it had been way too large to even consider taking on. You&#x27;d have to be insane to even try. I wondered how he&#x27;d managed it. Well, the North God <em>had</em> apparently bested an immortal Demon King and an enormous dragon, so maybe he just made a hobby of defeating monsters with colossal amounts of HP.</p>
+<p>So this land had some connection to the North God Kalman, huh? I knew some of the tales about him, but I&#x27;d never heard anything about him slaying a behemoth before. I had seen one behemoth myself as we traveled, but it had been way too large to even consider taking on. You&#x27;d have to be insane to even try. I wondered how he&#x27;d managed it. Well, the North God had apparently bested an immortal Demon King and an enormous dragon, so maybe he just made a hobby of defeating monsters with colossal amounts of HP.</p>
 <p>&quot;Ants were among the numerous monsters that feasted on the fallen behemoth&#x27;s flesh, and they are the cause of the city&#x27;s numerous labyrinths. When monsters devour other monsters that are stronger than they are, they give birth to powerful offspring in turn. Those mutant ants dug countless nests, and the nests all turned into labyrinths.&quot;</p>
 <p>&quot;Oh, I see.&quot;</p>
 <p>When the behemoth died, bugs swarmed to it. Then they began to reproduce and create nests. Over the course of many years, those insects began to die, the nests began to mutate, and thus the labyrinths were born.</p>
-<p><em>So that&#x27;s how it happened,</em> I thought.</p>
+<p>So that&#x27;s how it happened, I thought.</p>
 <p>The bit about eating strong monsters and giving birth to powerful offspring, though… That had to be a folktale, no more believable than the tales of how eating a mermaid&#x27;s flesh would give you immortality. If it were true, then the people of the Demon Continent, who consumed monster meat on a daily basis, should have been much stronger than they were. Monsters might be a special exception to the rule, but I didn&#x27;t buy it.</p>
 <p>Wait. Actually, could this explain the higher rate of strong people, such as Badigadi and Kishirika, being born there? Monsters themselves were just mutated versions of normal animals. It would make a certain amount of sense if people could also give birth to such mutants…</p>
 <p>Oh, crap. I&#x27;d eaten quite a bit of monster meat myself. What would I going to do if my child with Sylphie was born and suddenly declared, &quot;I am the Emperor of the Demon World!&quot;? I might find sudden kinship with the birds who hatched their eggs only to find a cuckoo&#x27;s offspring hidden amongst them.</p>
@@ -42,7 +42,7 @@ nav_title = "Chapter 1"
 <p>&quot;Got it.&quot;</p>
 <p>I would have preferred to drop our luggage off first, but oh well, this worked. I did want to stay at the same inn as Geese and Paul if possible, anyway.</p>
 <p>When we inquired about the location of the guild, we were pointed to the center of the city, the usual location for such things. The people navigating the streets were primarily merchants. Most wore the same garb as Galban: a turban; simple, flowing fabric that wrapped around their entire body; and full beards. They walked the streets, pulling camels along with them, spreading their wares out for sale by the roadside. Many were so thoroughly swathed that none of their skin was visible.</p>
-<p>Among those erecting eaves of cloth was one individual in particular who wore an outfit straight out of <em>Aladdin</em>. Their shop was a general store, selling lamps made of metal and pots with curious patterns drawn on them. It was all very Arabian in flavor. I bet if you played a flute, a red snake would poke its head out of a vase to take a look.</p>
+<p>Among those erecting eaves of cloth was one individual in particular who wore an outfit straight out of Aladdin. Their shop was a general store, selling lamps made of metal and pots with curious patterns drawn on them. It was all very Arabian in flavor. I bet if you played a flute, a red snake would poke its head out of a vase to take a look.</p>
 <p>As we approached the Adventurers&#x27; Guild, I saw a number of people dressed in familiar adventurer&#x27;s garb. There had to be a lot of people in this area who were originally from the Central Continent. They all had battle-worn faces; probably S-rank adventurers who specialized in labyrinth diving. Most wore pretty light clothing. It was dangerous to go out into the blinding sunlight without ample coverage to protect your skin, but it was probably fine as long as they didn&#x27;t venture out for extended periods.</p>
 <p>The building for the Adventurers&#x27; Guild was carved out of an enormous boulder, most likely through magic. I could tell immediately because it resembled something I could have made myself, though the complexity of its construction surpassed my capabilities. There was an exquisite relief carved into the entrance, and the interior, once you stepped inside, was well-ventilated enough to feel refreshingly cool.</p>
 <p>The vibe within the guild was about the same as the rest of the city, but being the kind of city it was, there were no newbie adventurers to be seen. Everyone looked powerful. The ones who particularly caught my eye had scarred face and bodies. They all seemed to have checkered pasts. Not me, though. I&#x27;d led a sheltered life—no checks, no stripes, no spots.</p>
@@ -98,7 +98,7 @@ nav_title = "Chapter 1"
 <p>Still, I could tell he was at his wits&#x27; end. I was glad we&#x27;d come. Seeing the condition he was in told me it had been the right decision.</p>
 <p>&quot;Rudy…?&quot;</p>
 <p>&quot;Father. It&#x27;s been a while.&quot;</p>
-<p>He stared at me, eyes dazed and unfocused. Almost as if he wasn&#x27;t entirely awake. No, maybe he <em>had</em> been sleeping. Dozing in and out of unconsciousness as he lay slumped across the table.</p>
+<p>He stared at me, eyes dazed and unfocused. Almost as if he wasn&#x27;t entirely awake. No, maybe he had been sleeping. Dozing in and out of unconsciousness as he lay slumped across the table.</p>
 <p>It had been so long since we last saw each other. Last time, he&#x27;d yelled and rebuked me. Even though he&#x27;d felt cornered at the time, I&#x27;d still returned his strong words in kind, and it had turned into a fight.</p>
 <p>Not today. Today I was the Buddha Rudeus.</p>
 <p>&quot;Huh? That&#x27;s weird, I can see Rudy. Ha ha, what&#x27;s up, Rudy? It&#x27;s been so long. You look like you&#x27;re doing well. How are Norn and Aisha?&quot; he asked, his face dark and overcast.</p>
@@ -111,7 +111,7 @@ nav_title = "Chapter 1"
 <p>Seriously? This was what Paul had become?</p>
 <p>&quot;Rudy…&quot; Paul took to his feet and tottered around the edge of the table toward me. Then he pulled me into a tight hug. &quot;I&#x27;m…a hopeless bastard.&quot;</p>
 <p>I just silently returned the embrace.</p>
-<p>Maybe he <em>was</em> hopeless. Maybe he would never return to the way he was. I could hardly believe it, not when he had a grandchild on the way. But everything would be fine now that I was here. I would do something to fix this. It was the whole reason I&#x27;d come.</p>
+<p>Maybe he was hopeless. Maybe he would never return to the way he was. I could hardly believe it, not when he had a grandchild on the way. But everything would be fine now that I was here. I would do something to fix this. It was the whole reason I&#x27;d come.</p>
 <p>&quot;I can&#x27;t save your mother. I can&#x27;t even keep the promises I made. I&#x27;ve completely failed you as a father too. I really am a hopeless bastard.&quot;</p>
 <p>&quot;Please don&#x27;t worry. I&#x27;m here now. Things are going to be okay.&quot;</p>
 <p>&quot;Urgh… Rudy, you really have gotten big, haven&#x27;t you?&quot; He squeezed my shoulders tight. It hurt a little bit, but I wouldn&#x27;t complain.</p>
@@ -128,7 +128,7 @@ nav_title = "Chapter 1"
 <p>&quot;Oh, it&#x27;s you, Lilia. How long did I sleep?&quot;</p>
 <p>&quot;Since Lord Talhand left to go shopping, so about an hour.&quot;</p>
 <p>&quot;Okay, guess I was still only half-awake.&quot; He shook his head and stretched his body.</p>
-<p><em>Ah-ha, so he was just half-asleep</em>, I thought. He wasn&#x27;t a husk after all. Good. I was too young to be stuck looking after my old man.</p>
+<p>Ah-ha, so he was just half-asleep, I thought. He wasn&#x27;t a husk after all. Good. I was too young to be stuck looking after my old man.</p>
 <p>Paul retook his seat and turned toward me. Then, as if we were redoing the whole reunion, he asked, &quot;Rudy, why are you here?&quot;</p>
 <p>&quot;I already told you. I came to help.&quot;</p>
 <p>&quot;No, that&#x27;s not what I mean.&quot;</p>
@@ -144,7 +144,7 @@ nav_title = "Chapter 1"
 <p>Paul forced a smile. &quot;Hurried is an understatement.&quot;</p>
 <p>A month and a half. From Paul&#x27;s perspective, just over six months had passed since they&#x27;d sent their letter. That was considered fast? I supposed it was. Ordinarily, it would have taken us another year to get here. Paul had probably figured they had another ten months to wait.</p>
 <p>He suddenly put a hand to his chin, clearly racking his brain. He looked nervous as he asked, his voice slow and purposeful, &quot;So, you did just say something about having a kid?&quot;</p>
-<p>Oh yeah, I had. It wasn&#x27;t something I intended to keep from him, but perhaps he was angry with me, thinking, <em>Why are you having such a good time while I&#x27;m over here struggling?</em></p>
+<p>Oh yeah, I had. It wasn&#x27;t something I intended to keep from him, but perhaps he was angry with me, thinking, Why are you having such a good time while I&#x27;m over here struggling?</p>
 <p>I constructed my response carefully. &quot;Well, the truth is, I got married while I was attending the University of Magic.&quot;</p>
 <p>&quot;Married?&quot; Paul&#x27;s brows furrowed. &quot;With who? Ah, maybe Eris?&quot;</p>
 <p>&quot;No, Sylphie,&quot; I corrected. &quot;We met up again at the university.&quot;</p>
@@ -163,7 +163,7 @@ nav_title = "Chapter 1"
 <p>&quot;I meant to wait until we&#x27;d saved Zenith. I really am pathetic.&quot; Paul lowered his eyes, looking as if he might cry again. He was so fragile. Like porcelain.</p>
 <p>Lilia suddenly cut in, &quot;We were attacked by a succubus. We had no choice.&quot;</p>
 <p>&quot;Even so, you… Ahh, fuck.&quot; Paul cradled his head in his hands as the memories came flooding back.</p>
-<p>A succubus, huh? In that case, it really wasn&#x27;t his fault. I&#x27;d encountered them myself, and there really was no resisting them. They exposed the darkest corners of your heart…though their attacks <em>could</em> be nullified by detoxification magic. Paul had a healer in his party who should&#x27;ve been able to do that.</p>
+<p>A succubus, huh? In that case, it really wasn&#x27;t his fault. I&#x27;d encountered them myself, and there really was no resisting them. They exposed the darkest corners of your heart…though their attacks could be nullified by detoxification magic. Paul had a healer in his party who should&#x27;ve been able to do that.</p>
 <p>I turned my head toward Shierra, who panicked the moment she felt my eyes on her. &quot;I-I am terribly sorry. It&#x27;s just… I was so terrified of the captain. I couldn&#x27;t do anything.&quot;</p>
 <p>&quot;Rudy, please don&#x27;t blame her. I&#x27;m the one at fault.&quot;</p>
 <p>When Paul was aroused, he probably went right at whatever women were around him. It had to have been frightening to see a man like him overcome with lust—especially considering that Paul was the main damage dealer of their party. Detoxification magic couldn&#x27;t be performed unless you physically touched a person. It wasn&#x27;t surprising they&#x27;d been unable to pin him down long enough to use it. Lilia must have stepped forward to use her body to resolve the matter.</p>
@@ -190,9 +190,9 @@ nav_title = "Chapter 1"
 <p>Paul gradually took to his feet. Then he gingerly walked toward Elinalise. She watched, hands balled into fists, and stood as well.</p>
 <p>&quot;She&#x27;s worried about us as well. I know there must have been a lot that happened in the past, but out of consideration for me, could you please let that all be water under the bridge now?&quot;</p>
 <p>Elinalise glared down at Paul, a solid head taller than him. The air was thick with tension. &quot;Volatile&quot; was the word that came to mind.</p>
-<p>Perhaps they&#x27;d end up punching each other. No, maybe they&#x27;d try to kill each other! Crap, was their relationship really <em>that</em> bad?</p>
+<p>Perhaps they&#x27;d end up punching each other. No, maybe they&#x27;d try to kill each other! Crap, was their relationship really that bad?</p>
 <p>&quot;Geese…&quot; I looked to him for help, but the jerk just gave a helpless shrug and an infuriating grin.</p>
-<p><em>That man really is worthless,</em> I thought.</p>
+<p>That man really is worthless, I thought.</p>
 <p>&quot;Elinalise?&quot;</p>
 <p>&quot;Yes, what is it?&quot;</p>
 <p>Paul peered back at me, then at Lilia and Shierra. There seemed to be some meaning behind his gaze, but I couldn&#x27;t figure it out.</p>
@@ -219,16 +219,16 @@ nav_title = "Chapter 1"
 <p>&quot;Certainly not. I made it this far thanks to Cliff&#x27;s magical implement.&quot;</p>
 <p>Paul tilted his head. &quot;Cliff? Who&#x27;s that?&quot;</p>
 <p>&quot;My husband.&quot;</p>
-<p>&quot;Your what?!&quot; Paul&#x27;s eyes went wide. Then his voice grew loud with surprise. &quot;So you have a husband? The man must have some strange tastes, then! What kind of a joke is this? Are you <em>sure</em> this man really agreed to marry you? Hey, Rudy, do you know this guy? This &#x27;Cliff&#x27;?&quot; He laughed as he glanced over to me.</p>
+<p>&quot;Your what?!&quot; Paul&#x27;s eyes went wide. Then his voice grew loud with surprise. &quot;So you have a husband? The man must have some strange tastes, then! What kind of a joke is this? Are you sure this man really agreed to marry you? Hey, Rudy, do you know this guy? This &#x27;Cliff&#x27;?&quot; He laughed as he glanced over to me.</p>
 <p>I kept a straight face as I nodded, mostly because Elinalise looked ready to kill. &quot;Father, you&#x27;ve gone a bit too far. Yes, I do think Cliff has some odd tastes, but he&#x27;s a very respectable man.&quot; Cliff had trouble reading the room sometimes, but he was honest, and unashamed about proclaiming his love. He was an amazing individual.</p>
-<p>&quot;Seriously? Well, he <em>must</em> be pretty incredible for you to say that.&quot; Paul was shocked by what he heard. He looked awkward as he dipped his head. &quot;Okay, that was my bad then. Be sure to introduce me when we get back.&quot;</p>
+<p>&quot;Seriously? Well, he must be pretty incredible for you to say that.&quot; Paul was shocked by what he heard. He looked awkward as he dipped his head. &quot;Okay, that was my bad then. Be sure to introduce me when we get back.&quot;</p>
 <p>&quot;Yes, you should be sorry,&quot; Elinalise huffed. &quot;He&#x27;s a far more amazing man than you.&quot;</p>
 <p>Paul forced a smile and bowed his head once more. &quot;All that aside… Rudeus, Elinalise, thank you both for coming.&quot;</p>
 <p>&quot;We&#x27;re just getting started,&quot; she quipped.</p>
 <p>&quot;Of course I came,&quot; I said. &quot;We&#x27;re family.&quot; Now then, it was about time for us to get to the heart of the matter. &quot;Father, please explain what&#x27;s going on.&quot;</p>
 <p>Paul began by explaining the details of how he got here, though I already knew the gist of it. Roxy and Talhand met up with him in Millishion, then collected what information they could and crossed the sea to the Begaritt Continent. Thanks to their party&#x27;s numbers, they were able to make their way to Rapan. It was there that they reunited with Geese and figured out where Zenith was located.</p>
 <p>&quot;According to Geese&#x27;s information, your mother is about a day north of here, captured in a labyrinth.&quot;</p>
-<p>That was vague. By &quot;captured,&quot; did he mean someone was holding her there? Or was it the labyrinth <em>itself</em> keeping her? Did labyrinths that captured people even exist?</p>
+<p>That was vague. By &quot;captured,&quot; did he mean someone was holding her there? Or was it the labyrinth itself keeping her? Did labyrinths that captured people even exist?</p>
 <p>&quot;For six whole years?&quot; I asked in disbelief.</p>
 <p>Paul shook his head. &quot;I don&#x27;t know.&quot;</p>
 <p>&quot;And she&#x27;s still alive?&quot;</p>
@@ -264,14 +264,14 @@ nav_title = "Chapter 1"
 <p>&quot;Hold on a moment,&quot; I interjected. &quot;What about Master Roxy?&quot;</p>
 <p>Paul&#x27;s face grew dark when I asked. And it wasn&#x27;t just him, either. Everyone else wore the same look, save for Elinalise. The long-eared beauty seemed to realize what that meant, and her eyes went wide. &quot;What? It can&#x27;t be…&quot;</p>
 <p>The moment I heard her say that, a single word popped up into the back of my mind. The worst one imaginable.</p>
-<p><em>Death.</em></p>
+<p>Death.</p>
 <p>&quot;A month ago, Roxy got caught by one of the traps in the labyrinth.&quot;</p>
 <p>I could feel my heart pound. I didn&#x27;t want to hear this. Not that blue-haired little girl. It couldn&#x27;t be. I didn&#x27;t want to hear them say it. I mean, she was a competent adventurer, one who&#x27;d traipsed into a labyrinth on her own before. She couldn&#x27;t use voiceless magic, but she&#x27;d successfully shortened her incantations. She was a King-tier water magician. My savior.</p>
 <p>I didn&#x27;t want to hear any more. Even so, I asked reluctantly, &quot;Sshe&#x27;s not dead…is she?&quot;</p>
 <p>At some point, Elinalise had risen from her seat and moved behind me, placing her hands on both my shoulders.</p>
 <p>&quot;No,&quot; Paul said. &quot;She stepped on a teleportation circle and disappeared. We haven&#x27;t confirmed her death. It&#x27;s highly likely she&#x27;s still alive out there in the labyrinth.&quot;</p>
 <p>That was enough, at least for the moment. I felt the tension leave me. But my face soon stiffened again at Geese&#x27;s ensuing protest.</p>
-<p>&quot;Come on, Paul. It just isn&#x27;t possible. I get that it&#x27;s Roxy we&#x27;re talkin&#x27; about, but that isn&#x27;t the kinda place a magician can survive on their own. Sure, <em>maybe</em> she&#x27;s still alive, but the chances of that are— &quot;</p>
+<p>&quot;Come on, Paul. It just isn&#x27;t possible. I get that it&#x27;s Roxy we&#x27;re talkin&#x27; about, but that isn&#x27;t the kinda place a magician can survive on their own. Sure, maybe she&#x27;s still alive, but the chances of that are— &quot;</p>
 <p>Talhand interrupted, &quot;No, Roxy&#x27;s not your average magician. There&#x27;s a good chance she&#x27;s still kickin&#x27;.&quot;</p>
 <p>&quot;You say that, but we&#x27;ve been lookin&#x27; all month and haven&#x27;t found her!&quot; Geese exclaimed. &quot;We&#x27;ve gone in five times, and nothin&#x27;!&quot;</p>
 <p>&quot;Geese,&quot; Paul said tersely. &quot;How long are you going to keep this up?!&quot;</p>
@@ -281,5 +281,5 @@ nav_title = "Chapter 1"
 <p>Ugh. I was even more shocked by this news than when I&#x27;d heard that Zenith might be dead.</p>
 <p>&quot;Sorry I interrupted the conversation. Let&#x27;s get back to where we were. What kind of place is this labyrinth?&quot; I asked.</p>
 <p>The three of them exchanged glances. It was as if they were conferring to see who would be the one to relay the information. Paul finally opened his mouth. &quot;A teleportation labyrinth.&quot;</p>
-<p>The moment he said those words, it was as if I could hear a book rustling inside my bags. As if the book had heard someone call its name. The one titled <em>An Exploratory Account of the Teleportation Labyrinth</em>.</p>
+<p>The moment he said those words, it was as if I could hear a book rustling inside my bags. As if the book had heard someone call its name. The one titled An Exploratory Account of the Teleportation Labyrinth.</p>
 <p><strong>Chapter 2: Confirming the Situation</strong></p>

@@ -60,16 +60,16 @@ nav_title = "Extra Chapter"
 <p>Despite that, Bigott said to Markien, &quot;Do not worry, for tales of us shall be passed on. We will live on as the heroes that led this country to victory during one of its great battles, just like the legendary Twin Gods Migus and Gumis. Is that not an honor by itself?&quot; Bigott took on this duty, seeing the similarity between himself and the legendary heroes of 400 years ago who died in battle against Laplace.</p>
 <p>He had ten men under his command. Three were Intermediatetier North God Style swordfighters, while the other seven were mercenaries unassociated with the three sword styles. Bigott himself was an Advanced-tier Sword God Style swordsman, but their group had no healer and none among them were particularly skilled.</p>
 <p>In these parts, magicians were valuable assets to parties, but since they were preparing for the final battle Markien couldn&#x27;t afford to assign any to a team of throwaway pawns. True victory meant the country had to both trigger warfare between its enemies then capitalize on that opportunity and come out triumphant.</p>
-<p><em>Hmph, never thought I would be doing something like this,</em> Bigott thought, laughing in self-derision.</p>
+<p>Hmph, never thought I would be doing something like this, Bigott thought, laughing in self-derision.</p>
 <p>Bigott was destined to be a mercenary. He was born into a mercenary band. His father died in battle while his mother was pregnant with him, and his mother died in battle not long after he was born. He was sold as a slave and bought by what would eventually become the Markien Mercenary Company. That was where he learned about swordplay and battle. Ever since then he had lived only for money and survival. He never dreamed that at the end of it all, he would be battling for honor.</p>
-<p><em>As if I&#x27;m a knight from some kingdom,</em> he thought. Everyone knew knights were the only ones who died for honor. But then it occurred to Bigott. <em>Maybe I am a knight. A knight of Markien.</em></p>
+<p>As if I&#x27;m a knight from some kingdom, he thought. Everyone knew knights were the only ones who died for honor. But then it occurred to Bigott. Maybe I am a knight. A knight of Markien.</p>
 <p>It made him proud to think that way. For the longest time, he hadn&#x27;t belonged anywhere. It was only through great hardship that he had come to be able to call Markien his home. Now he would fight to protect it. He&#x27;d mocked those ideals in the past for being sappy, but now that he was in a similar position, they didn&#x27;t seem so bad after all.</p>
 <p>&quot;Commander, just a little farther.&quot;</p>
 <p>&quot;Don&#x27;t let your guard down. Now that we&#x27;ve come this far, we don&#x27;t want to be killed by humans.&quot;</p>
 <p>&quot;Haha, true enough.&quot;</p>
 <p>Until that point, they had encountered few monsters. They had been walking the entire day and only had two run-ins. It was like a miracle.</p>
 <p>Despite that, he had lost one of his men. They had been moving as carefully as possible, but hidden in the overgrowth was a Red Leaf Tiger. It attacked, unseen, and one soldier died. But the beast was already heavily injured and seemed to be running from someone. The Red Leaf Tiger was the most fearsome of the beasts in this forest. Just who in the world could have done that?</p>
-<p><em>Could it be the person who rules over this forest?</em> Bigott wondered.</p>
+<p>Could it be the person who rules over this forest? Bigott wondered.</p>
 <p>He had heard rumors of the forest&#x27;s ruler before. Karentosaurus, an A-class beast with a giant, lizard-like body over five meters in length. He didn&#x27;t know if it really existed or not, but if it did, it would surely be capable of leaving a B-class Red Leaf Tiger in critical condition.</p>
 <p>That also meant that if they were attacked by such a creature, neither he nor his nine remaining men would get out unscathed. So he pressed on even more cautiously than before.</p>
 <p>Fortunately, he had experience maneuvering through a forest, enough to avoid encountering any monsters. If he happened to encounter any, he at least had the strength to kill it before it called for help. So long as they managed that, they would be fine.</p>
@@ -95,7 +95,7 @@ nav_title = "Extra Chapter"
 <p>&quot;Cease your resistance and surrender, then you may at least have your lives!&quot;</p>
 <p>Bigott panicked. There was no way they could surrender. If they were caught and investigated, they would be exposed as pretenders. Markien would fall. After that, the Broze Empire and Dikuto Kingdom would fight. He didn&#x27;t know who would win, but either way the country he had such fond memories of would disappear.</p>
 <p>On the other hand, he had no other options. They were clearly outmatched, and if this continued any longer, their destruction would be inevitable.</p>
-<p><em>I&#x27;m sorry, Markien.</em> Bigott apologized to the comrades he held in esteem within his heart. That was when it happened.</p>
+<p>I&#x27;m sorry, Markien. Bigott apologized to the comrades he held in esteem within his heart. That was when it happened.</p>
 <p>&quot;Graaaagghhh!&quot;</p>
 <p>A gigantic lizard came flying at them. Its body, all five meters of it, was a vivid green, and its majestic form was riddled with open wounds, blood pouring out of them. Red bubbles came foaming out of its mouth as it moved between the two opposing groups and collapsed. Then, just a moment after that…</p>
 <p>&quot;Aaah!&quot;</p>
@@ -124,7 +124,7 @@ nav_title = "Extra Chapter"
 <p>It was looking their way. Reason had fled from its eyes. Eyes that now fixated on Bigott and his men, full of bloodlust, amplifying their fear. The clothes it wore were revealing, but terror overwhelmed any sense of attraction they may have felt.</p>
 <p>That was right—this beast was a woman. It had a woman&#x27;s form. As soon as he realized that, the gears turned in the back of Bigott&#x27;s mind.</p>
 <p>It was the story of the Sword Saint that taught him swordplay. That Sword Saint was a just and honorable warrior of the Sword God Style who had trained in the Holy Land of Swords. They wouldn&#x27;t tell him why they decided to become a mercenary, but they did talk about their prior training experience.</p>
-<p><em>One of the other people there was violent, wouldn&#x27;t listen to anyone. She was almost like a mad dog. She surpassed me and became a Sword King, but she wasn&#x27;t a bad person. Just an idiot. Everyone hated her because she lost control in extreme situations and went mad, attacking everyone, whether they be friend or foe.</em></p>
+<p>One of the other people there was violent, wouldn&#x27;t listen to anyone. She was almost like a mad dog. She surpassed me and became a Sword King, but she wasn&#x27;t a bad person. Just an idiot. Everyone hated her because she lost control in extreme situations and went mad, attacking everyone, whether they be friend or foe.</p>
 <p>The swordfighter in that tale was the woman in front of him now. That description fit exactly.</p>
 <p>&quot;By any chance,&quot; he called out to her as he slipped into the God Sword Style bow his teacher had taught him, bending to one knee and tucking his head forward, showing respect and submission. &quot;Are you the Sword King, Lady Ghislaine Dedoldia?!&quot;</p>
 <p>The moment he said that the beast stilled. After a short time, Ghislaine regained her sense of reason.</p>
@@ -146,7 +146,7 @@ nav_title = "Extra Chapter"
 <p>&quot;&#x27;What about it&#x27;? I mean, what are you planning to do?&quot;</p>
 <p>&quot;Anyone who gets in my way gets cut down. That&#x27;s all.&quot; There was a ferocity in her eyes that made him doubt if she was still in possession of reason. Bigott had no words. Just what had her so stirred up?</p>
 <p>&quot;Hopefully Rudeus is with Lady Eris, but there&#x27;s a chance they were both transported somewhere else just like I was. I have to hurry.&quot;</p>
-<p>After hearing that, he understood. <em>We&#x27;re not that different,</em> he thought. Those two children, particularly the red-haired girl, were</p>
+<p>After hearing that, he understood. We&#x27;re not that different, he thought. Those two children, particularly the red-haired girl, were</p>
 <p>more important than anything to the Sword King. She was desperate to protect that which was precious to her.</p>
 <p>&quot;In that case, why don&#x27;t we travel part of the way together? We also have something to take care of in that direction.&quot;</p>
 <p>&quot;Very well.&quot;</p>

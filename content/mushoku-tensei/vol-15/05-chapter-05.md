@@ -24,12 +24,12 @@ nav_title = "Chapter 5"
 <p>With a firm shake of her head, Nina jabbed a finger into the air.</p>
 <p>&quot;Look, it&#x27;s not like you&#x27;re going to find dressy clothes like that around here, anyway. You do remember where we are, right? If you really want some frilly outfit, you&#x27;ll just have to buy one in the city.&quot;</p>
 <p>&quot;Yeah, true enough,&quot; said Eris with a little nod.</p>
-<p>From all appearances, the matter was now settled. But this was the <em>fifth time today</em> they&#x27;d basically had this exact conversation.</p>
+<p>From all appearances, the matter was now settled. But this was the fifth time today they&#x27;d basically had this exact conversation.</p>
 <p>&quot;Anyway, I don&#x27;t know why you&#x27;re obsessing about your outfit right now. No matter how fast you go, it&#x27;ll be a good month on the road before you reach Sharia.&quot;</p>
 <p>&quot;…&quot;</p>
 <p>&quot;I&#x27;d worry less about the clothes and more about making sure you&#x27;re clean and presentable when you see him. Make sure you take a bath, comb your hair, and put on a little perfume… Uh, you do know men don&#x27;t like stinky women, yes?&quot;</p>
 <p>&quot;Rudeus does. He never seemed to mind when I got all sweaty.&quot;</p>
-<p>&quot;Well, I suppose he&#x27;d have to be understanding, if he found <em>you</em> attractive…&quot;</p>
+<p>&quot;Well, I suppose he&#x27;d have to be understanding, if he found you attractive…&quot;</p>
 <p>&quot;Actually, I even caught him sniffing my sweaty old underwear a couple times. He seemed to be enjoying it.&quot;</p>
 <p>&quot;What?! The man&#x27;s a pervert!&quot;</p>
 <p>Eris scowled slightly at this remark. &quot;Rudeus isn&#x27;t a pervert. He&#x27;s just a little…naughty.&quot;</p>
@@ -42,7 +42,7 @@ nav_title = "Chapter 5"
 <p>&quot;Ghislaine&#x27;s sure taking her time,&quot; muttered Eris.</p>
 <p>&quot;I suppose the students might be squabbling about who gets to come along.&quot;</p>
 <p>Eris nodded vaguely. &quot;Yeah, maybe.&quot;</p>
-<p>&quot;…You know, Eris, I <em>have</em> heard a few rumors about your boyfriend now and then.&quot;</p>
+<p>&quot;…You know, Eris, I have heard a few rumors about your boyfriend now and then.&quot;</p>
 <p>&quot;What kind of rumors?&quot;</p>
 <p>&quot;They say Rudeus Greyrat can make his own eyes pop out.&quot;</p>
 <p>&quot;I wouldn&#x27;t be surprised!&quot;</p>
@@ -103,10 +103,10 @@ nav_title = "Chapter 5"
 <p>&quot;Fine! Where do I sign?&quot;</p>
 <p>&quot;Ah, right. Hold on just a moment, please…&quot;</p>
 <p>The man reached into his bag and pulled out a pen and some sort of form, which he handed to Eris. She paused for a few seconds, clearly attempting to remember the letters of her name, then scribbled it in a barely comprehensible scrawl.</p>
-<p>The man studied these characters for a long moment, and eventually managed to identify the letters <em>Eris.</em></p>
+<p>The man studied these characters for a long moment, and eventually managed to identify the letters Eris.</p>
 <p>&quot;Okay then. Thank you kindly… Boy, I wish every job paid this well…&quot;</p>
 <p>He tucked the receipt back into his bag and headed back up the path in high spirits. Eris barely spared a glance in his direction as she got to work on the envelope. She was about to tear the thing open with her hands—but then she saw the words &#x27;Miss Eris Boreas Greyrat&#x27; on the front of it, in what was clearly Rudeus&#x27; handwriting.</p>
-<p><em>Heh. He must have been in a real hurry! I haven&#x27;t used the name Boreas in years… Oh, wait. Maybe he doesn&#x27;t know that?</em></p>
+<p>Heh. He must have been in a real hurry! I haven&#x27;t used the name Boreas in years… Oh, wait. Maybe he doesn&#x27;t know that?</p>
 <p>She flipped the envelope around and studied the name written on its back: &quot;Rudeus Greyrat.&quot; His handwriting hadn&#x27;t changed at all. The letters were carefully shaped, but always looked a little off somehow. A long time ago, she&#x27;d spent hours every day staring at this handwriting as Rudeus tried to teach her how to read. The memory made her smile.</p>
 <p>In order to preserve the envelope as best she could, Eris decided to open it at the top with her fingernails. Her first attempt had no effect. Neither did her second. After her third try, she reached for one of the swords at her waist. Tossing the letter into the air, she drew her blade.</p>
 <p>&quot;Hah!&quot;</p>
@@ -119,38 +119,38 @@ nav_title = "Chapter 5"
 <p>&quot;You do it, Nina!&quot;</p>
 <p>&quot;What? Uh, I can&#x27;t read myself, you know?&quot;</p>
 <p>&quot;Seriously?! That&#x27;s gonna come back to bite you some day!&quot;</p>
-<p>&quot;Why are <em>you</em> lecturing me about this? You can&#x27;t read it either!&quot;</p>
+<p>&quot;Why are you lecturing me about this? You can&#x27;t read it either!&quot;</p>
 <p>As the two of them began to squabble, Isolde hopped down from her horse with a sigh. &quot;Calm down, you two. I&#x27;ll read it instead.&quot;</p>
 <p>&quot;Oh, okay,&quot; said Eris, handing the letter over. &quot;Thanks.&quot;</p>
 <p>Isolde began to read it slowly and carefully. At first, her expression was neutral, but as time passed, it began to grow stormier and stormier. And once she was finished, she cried out in a voice full of anger.</p>
-<p>&quot;What is the <em>matter</em> with this man?!&quot;</p>
+<p>&quot;What is the matter with this man?!&quot;</p>
 <p>&quot;Huh?&quot; said Eris nervously. &quot;What? What does it say?&quot;</p>
-<p>&quot;Oh, Eris… You were training so hard all these years for <em>him?</em>  You poor, poor thing. Saint Millis, take pity on this girl…&quot;</p>
+<p>&quot;Oh, Eris… You were training so hard all these years for him?  You poor, poor thing. Saint Millis, take pity on this girl…&quot;</p>
 <p>Isolde folded her hands and looked beseechingly to the heavens for a moment, then looked over at Eris with eyes full of sympathy.</p>
-<p>&quot;Eris, you really ought to forget all about this man. Why don&#x27;t you come along with me to Asura instead? It would be <em>such</em> a waste to give yourself to a scoundrel like this.&quot;</p>
-<p>&quot;Look, will you just tell me what the letter says?!&quot; hissed Eris, reaching for the swords at her waist. &quot;Do you <em>want</em> me to chop you in half?!&quot;</p>
+<p>&quot;Eris, you really ought to forget all about this man. Why don&#x27;t you come along with me to Asura instead? It would be such a waste to give yourself to a scoundrel like this.&quot;</p>
+<p>&quot;Look, will you just tell me what the letter says?!&quot; hissed Eris, reaching for the swords at her waist. &quot;Do you want me to chop you in half?!&quot;</p>
 <p>&quot;Very well then. Here it is.&quot;</p>
 <p>Clearing her throat, Isolde began to read the letter in a voice that rang with righteous outrage.</p>
-<p><em>It&#x27;s been quite some time, hasn&#x27;t it? This is Rudeus Greyrat.</em></p>
-<p><em>Somehow, it seems five years have passed since we went our separate ways.</em></p>
-<p><em>Do you still remember me? I certainly hope so. I know I haven&#x27;t forgotten you, or the time we spent in each other&#x27;s company.</em></p>
-<p><em>During our first night together, I swore to myself that I would stay with you forever. I fully intended to stand at your side for the rest of my days, supporting you through anything life sent your way.</em></p>
-<p><em>But when I woke up in the morning, I found myself alone in bed. You were already gone.</em></p>
-<p><em>Devastated by your disappearance, I sank into a deep depression. The next three years of my life were bitter, lonely ones. Nothing I did felt meaningful. I felt as if I was wandering through a heavy fog.</em></p>
-<p><em>Of course, I don&#x27;t blame you for any of this now. But I hope you can at least understand how miserable I was at the time. As for the reason I&#x27;m writing you this letter, well… let&#x27;s just say a certain someone recently mentioned you to me.</em></p>
-<p><em>Up until now, I was convinced that you&#x27;d abandoned me to travel the world on your own. But this individual claimed I had misunderstood your feelings completely—that you&#x27;d never stopped caring for me, or thinking of me.</em></p>
-<p><em>I have two wives now.</em></p>
-<p><em>Both of them pulled me out of my despair in moments when it might have crushed me. While I may have misinterpreted your actions, that didn&#x27;t make my pain any less real. And they were there for me when I needed them most.</em></p>
-<p><em>However, if it&#x27;s true that your heart remains unchanged—if you truly want to be reunited with me, and spend your life with me—I&#x27;m prepared to accept your feelings. I have no intention of leaving my two existing wives, so you would become my third.</em></p>
-<p><em>I understand you might find this proposal unacceptable, or perhaps even infuriating. If so, you have every right to punch me to your heart&#x27;s content. I&#x27;d appreciate it if you let me off with two or three good swings, though.</em></p>
-<p><em>Of course, my hope is that it won&#x27;t come to that. Even if you&#x27;re not willing to join my family, I hope we can at least become good friends.</em></p>
-<p><em>Sincerely,</em></p>
-<p><em>Rudeus Greyrat.&quot;</em></p>
+<p>It&#x27;s been quite some time, hasn&#x27;t it? This is Rudeus Greyrat.</p>
+<p>Somehow, it seems five years have passed since we went our separate ways.</p>
+<p>Do you still remember me? I certainly hope so. I know I haven&#x27;t forgotten you, or the time we spent in each other&#x27;s company.</p>
+<p>During our first night together, I swore to myself that I would stay with you forever. I fully intended to stand at your side for the rest of my days, supporting you through anything life sent your way.</p>
+<p>But when I woke up in the morning, I found myself alone in bed. You were already gone.</p>
+<p>Devastated by your disappearance, I sank into a deep depression. The next three years of my life were bitter, lonely ones. Nothing I did felt meaningful. I felt as if I was wandering through a heavy fog.</p>
+<p>Of course, I don&#x27;t blame you for any of this now. But I hope you can at least understand how miserable I was at the time. As for the reason I&#x27;m writing you this letter, well… let&#x27;s just say a certain someone recently mentioned you to me.</p>
+<p>Up until now, I was convinced that you&#x27;d abandoned me to travel the world on your own. But this individual claimed I had misunderstood your feelings completely—that you&#x27;d never stopped caring for me, or thinking of me.</p>
+<p>I have two wives now.</p>
+<p>Both of them pulled me out of my despair in moments when it might have crushed me. While I may have misinterpreted your actions, that didn&#x27;t make my pain any less real. And they were there for me when I needed them most.</p>
+<p>However, if it&#x27;s true that your heart remains unchanged—if you truly want to be reunited with me, and spend your life with me—I&#x27;m prepared to accept your feelings. I have no intention of leaving my two existing wives, so you would become my third.</p>
+<p>I understand you might find this proposal unacceptable, or perhaps even infuriating. If so, you have every right to punch me to your heart&#x27;s content. I&#x27;d appreciate it if you let me off with two or three good swings, though.</p>
+<p>Of course, my hope is that it won&#x27;t come to that. Even if you&#x27;re not willing to join my family, I hope we can at least become good friends.</p>
+<p>Sincerely,</p>
+<p>Rudeus Greyrat.&quot;</p>
 <p>&quot;…&quot;</p>
 <p>Eris wasn&#x27;t saying anything. She wasn&#x27;t moving, either. From all appearances, she&#x27;d been turned to stone.</p>
-<p>Isolde took one look at her and promptly resumed her earlier tirade. &quot;Well, there you have it. Isn&#x27;t he <em>awful</em>? Having two wives is bad enough, and now he&#x27;s casually offering to make you number <em>three!</em> The man clearly has no respect for women whatsoever!&quot;</p>
+<p>Isolde took one look at her and promptly resumed her earlier tirade. &quot;Well, there you have it. Isn&#x27;t he awful? Having two wives is bad enough, and now he&#x27;s casually offering to make you number three! The man clearly has no respect for women whatsoever!&quot;</p>
 <p>&quot;I don&#x27;t know,&quot; said Nina, peering at the letter with a thoughtful frown. &quot;It sounded like he was trying pretty hard to be considerate…&quot;</p>
-<p>&quot;Considerate?! It&#x27;s the first letter he wrote her in years, and he didn&#x27;t even bother to say <em>I love you!</em> He seems to think he&#x27;d be doing her a <em>favor</em> by marrying her! No, I&#x27;m sorry. I don&#x27;t like this Rudeus Greyrat one bit!&quot;</p>
+<p>&quot;Considerate?! It&#x27;s the first letter he wrote her in years, and he didn&#x27;t even bother to say I love you! He seems to think he&#x27;d be doing her a favor by marrying her! No, I&#x27;m sorry. I don&#x27;t like this Rudeus Greyrat one bit!&quot;</p>
 <p>&quot;Look, he thought Eris had dumped him, right? And he spent three whole years moping about it, too! Isn&#x27;t it partially her fault for wandering off like that?&quot;</p>
 <p>&quot;Oh, please! He probably made all that up to make her feel guilty. He just wants her because she&#x27;s a master swordsman with a nice body!&quot;</p>
 <p>&quot;Uhhh… I don&#x27;t know about that. Would you really risk keeping Eris around just to have a sexy bodyguard…?&quot;</p>
@@ -158,8 +158,8 @@ nav_title = "Chapter 5"
 <p>&quot;Hm? Oh, there&#x27;s one more piece of paper in here…&quot;</p>
 <p>It was at this point that Isolde realized she hadn&#x27;t read the entire letter yet. Retrieving the final sheet of paper, she began to read.</p>
 <p>&quot;Let&#x27;s see… Ahem.&quot;</p>
-<p><em>&quot;P.S.</em></p>
-<p><em>As I write these words, I&#x27;m preparing to fight the Dragon God Orsted to the death. I have no idea if I can win. It&#x27;s possible I won&#x27;t even be alive by the time this letter reaches you. But if I do make it back alive, let&#x27;s talk things out.&quot;</em></p>
+<p>&quot;P.S.</p>
+<p>As I write these words, I&#x27;m preparing to fight the Dragon God Orsted to the death. I have no idea if I can win. It&#x27;s possible I won&#x27;t even be alive by the time this letter reaches you. But if I do make it back alive, let&#x27;s talk things out.&quot;</p>
 <p>By the time she finished reading out these words, Isolde&#x27;s face had visibly stiffened. That went for Nina as well. Her expression was one of fear and awe. The mere idea of challenging the Dragon God himself to a duel had turned her spine to ice.</p>
 <p>But on Eris&#x27; face, and hers alone, there was a grin. Her eyes were alive again—burning with passion and determination.</p>
 <p>&quot;All right!&quot; she cried, leaping back up onto her horse. &quot;We&#x27;ve gotta hurry if we&#x27;re gonna make it there in time! Let&#x27;s move, Ghislaine!&quot;</p>

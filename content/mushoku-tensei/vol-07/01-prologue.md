@@ -13,14 +13,14 @@ nav_title = "Prologue"
 <p>The leader of this small caravan was one such man. He was a trader by the name of Bruno, an up-and-coming merchant who&#x27;d made something of a name for himself in the last year, and had only just joined a major Asuran trading company. Bruno&#x27;s current task was to bring two carriages stuffed with goods from the Kingdom of Asura to the Northern Territories. This was a sizable, valuable shipment. Losing it would mean the end of his career, and possibly his life. There was a good chance he&#x27;d face attacks from monsters, bandits, or both.</p>
 <p>Before joining his current company, Bruno had been a simple traveling merchant, accountable to no one but himself. In those days, he&#x27;d relied on his own sword and instincts to protect his cargo. But now that he&#x27;d come up in the world, he was facing far greater</p>
 <p>dangers and much more serious consequences for failure. He could no longer do everything by himself.</p>
-<p>Fortunately, he <em>could</em> afford the services of professional guards.</p>
+<p>Fortunately, he could afford the services of professional guards.</p>
 <p>The third carriage in Bruno&#x27;s caravan was occupied by a group of adventurers he&#x27;d hired to defend it, in addition to a handful of paid passengers.</p>
 <p>The guards were the five members of the B-ranked party Counter Arrow, which had been active in the Kingdom of Asura for some time. The passengers numbered three: two swordsmen-intraining heading north to hone their skills, and one gloomy young magician in a dark gray robe. While they weren&#x27;t technically guards, Bruno expected they&#x27;d fight to defend the caravan if necessary, given that their lives would be on the line.</p>
 <p>Incidentally, the gloomy young magician went by the name Rudeus Greyrat. At that moment, he was in the back of the swaying carriage, blankly looking skyward. He had eyes like a dead fish and his mouth hung half open. He wasn&#x27;t sitting so much as he was slumped against the wall.</p>
 <p>The boy was totally hollow. There was nothing but a void within him. When you glanced at his miserable face, you could almost hear his thoughts out loud:</p>
-<p><em>Everything&#x27;s meaningless. What&#x27;s the point of being alive? Why do any of us even bother?</em></p>
-<p><em>I don&#x27;t know. The only thing I know is that I&#x27;m empty inside.</em></p>
-<p><em>I&#x27;m nothingness. I&#x27;m zero. I&#x27;m the Heart of Space…</em></p>
+<p>Everything&#x27;s meaningless. What&#x27;s the point of being alive? Why do any of us even bother?</p>
+<p>I don&#x27;t know. The only thing I know is that I&#x27;m empty inside.</p>
+<p>I&#x27;m nothingness. I&#x27;m zero. I&#x27;m the Heart of Space…</p>
 <p>The boy let out a weak, lifeless sigh.</p>
 <p>Thanks entirely to his presence, the carriage felt about as cheerful as a morgue. &quot;You&#x27;ve been doing a lot of sighing lately, kid,&quot; said one of the boy&#x27;s fellow passengers. &quot;What&#x27;s the matter?&quot;</p>
 <p>The woman who&#x27;d spoken, a member of the B-ranked party Counter Arrow, was dark-skinned with dreadlocks pulled into a bun. She wore a chest protector and gauntlets—relatively light armor, but a bit more than what a typical swordswoman would go for. Her professional class was most likely a Warrior.</p>
@@ -48,7 +48,7 @@ nav_title = "Prologue"
 <p>&quot;How are you planning to search for her, though? The Northern Territories are huge.&quot; To everyone&#x27;s surprise, Suzanne chose to press forward. She knew the young magician was going to find this annoying, but she didn&#x27;t want to spend the rest of this trip sitting around in awkward, dreary silence.</p>
 <p>Exasperation flashed across the boy&#x27;s face, but he put on another artificial smile and turned back toward Suzanne. &quot;…Yes, I suppose you&#x27;re right. I&#x27;ll just have to take it one step at a time.&quot;</p>
 <p>&quot;Okay, but do you have any idea where to start? Some sort of lead, or someone you know up there? Traveling alone isn&#x27;t easy, you know?&quot;</p>
-<p>What thoughts were running through the boy&#x27;s head in this moment? Perhaps something like <em>Is she going to keep talking to me for the rest of this trip?</em> Or perhaps <em>I don&#x27;t really want this to drag on much longer. But if I shoot her down again, that girl might get angry at me.</em></p>
+<p>What thoughts were running through the boy&#x27;s head in this moment? Perhaps something like Is she going to keep talking to me for the rest of this trip? Or perhaps I don&#x27;t really want this to drag on much longer. But if I shoot her down again, that girl might get angry at me.</p>
 <p>&quot;If you want, I could give you a quick primer on the Northern Territories. Better to know a few things about the place than nothing at all, right?&quot;</p>
 <p>The boy hesitated for a moment, then let out a little sigh. &quot;Um, sure. Please do.&quot; His expression didn&#x27;t suggest any interest or curiosity whatsoever.</p>
 <p>Suzanne, apparently, was fine with that. She chose to take his answer at face value. &quot;All right, then. Pick the wax out of your ears and listen up, kid.&quot;</p>

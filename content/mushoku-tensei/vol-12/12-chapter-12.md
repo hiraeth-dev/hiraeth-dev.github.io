@@ -103,7 +103,7 @@ nav_title = "Chapter 12"
 <p>So how would it look—feel—to cast her aside once everything was over? Wasn&#x27;t that horribly disrespectful?</p>
 <p>No. Enough. No more self-appeasement. Talking about manners or how she&#x27;d saved me—they were all excuses. I loved Roxy. That&#x27;s right, I loved her. If you asked me which I loved more between her and Sylphie, I couldn&#x27;t give you an answer. My love for each of them was different but equal.</p>
 <p>That&#x27;s why I was wavering right here, in this moment. A moment where I loved Sylphie, but loved Roxy, too. But it was Sylphie to whom I&#x27;d sworn my fidelity. While I had broken that oath, a promise was still a promise, even if it was one that had been broken once before.</p>
-<p>Yes, okay, Sylphie had said, &quot;I don&#x27;t mind if you bring a second woman home.&quot; But <em>I</em> was the one who&#x27;d dismissed those words, swearing I would only be with her. Sylphie had been so happy when I said that, beyond a shadow of a doubt. I couldn&#x27;t betray her.</p>
+<p>Yes, okay, Sylphie had said, &quot;I don&#x27;t mind if you bring a second woman home.&quot; But I was the one who&#x27;d dismissed those words, swearing I would only be with her. Sylphie had been so happy when I said that, beyond a shadow of a doubt. I couldn&#x27;t betray her.</p>
 <p>&quot;Um, you see…the truth is, I&#x27;m actually married and will be having a child soon. So, I feel bad saying this, but could you stop doing things for me like you&#x27;re my lover?&quot;</p>
 <p>Her shoulder gave a jolt. Then she muttered, &quot;I already knew you were married. I heard from Miss Elinalise.&quot;</p>
 <p>&quot;Oh, you did?&quot;</p>
@@ -128,7 +128,7 @@ nav_title = "Chapter 12"
 <p>&quot;With who?&quot;</p>
 <p>&quot;Huh?&quot; Roxy was just as confused at my question.</p>
 <p>&quot;Don&#x27;t tell me you fell in love with my father?&quot;</p>
-<p>&quot;No, not at all! With <em>you</em>, Rudy, when you saved me back in that labyrinth.&quot;</p>
+<p>&quot;No, not at all! With you, Rudy, when you saved me back in that labyrinth.&quot;</p>
 <p>When we reunited? Back then, she&#x27;d treated me like such a complete stranger that I couldn&#x27;t even keep a lid on my nausea. I&#x27;d hugged her out of nowhere, then barfed. I didn&#x27;t see anything worth falling for there. I figured her feelings had developed after that.</p>
 <p>&quot;You can hardly blame me,&quot; she said. &quot;I was on death&#x27;s door, about to abandon all hope, and this handsome, dashing young man appeared and saved me. Anyone would&#x27;ve been shaken by that.&quot;</p>
 <p>&quot;I&#x27;m handsome?&quot;</p>
@@ -141,12 +141,12 @@ nav_title = "Chapter 12"
 <p>&quot;I figured it was impossible,&quot; she said. &quot;Miss Elinalise and the others were talking at the pub. &#x27;What&#x27;s Rudy going to do after what happened with Paul&#x27;—that kind of thing. Miss Elinalise and Mister Geese said you&#x27;d be fine, that you could stand back up on your own. But I recalled our time together in Buena Village.&quot;</p>
 <p>Her words kept coming. &quot;I remembered watching you and Mister Paul enjoy your sword training together. The two of you got along so well back then. And then I suddenly remembered something else: the first time you rode a horse. Back then, you were so terrified. Your body was so tense, and you couldn&#x27;t move at all. I thought to myself, ahh, this kid is so mature and has so much talent, but he&#x27;s actually really weak.</p>
 <p>&quot;Then I remembered all your interactions with Paul. From when you trained together in the past, to your banter in the labyrinth. And I saw you how depressed you were, how listless, and I remembered that you&#x27;re much weaker than you appear. It felt like Paul meant far more to you than anyone had realized. Now that you&#x27;d lost him, I was afraid you might sink so far into depression that you couldn&#x27;t get back up on your own.</p>
-<p>&quot;Of course, I didn&#x27;t think <em>I&#x27;d</em> be the one to help you get back up. I heard you had someone you loved. I was sure that person would have the power to put you back together again if you felt broken. But you needed them more than ever before right then, and they weren&#x27;t here. I felt like <em>someone</em> had to save you. But Miss Elinalise and Mister Geese just planned to leave you be, and Miss Lilia was too busy attending to Miss Zenith. So I thought: <em>I&#x27;m the only one who can do this.</em></p>
+<p>&quot;Of course, I didn&#x27;t think I&#x27;d be the one to help you get back up. I heard you had someone you loved. I was sure that person would have the power to put you back together again if you felt broken. But you needed them more than ever before right then, and they weren&#x27;t here. I felt like someone had to save you. But Miss Elinalise and Mister Geese just planned to leave you be, and Miss Lilia was too busy attending to Miss Zenith. So I thought: I&#x27;m the only one who can do this.</p>
 <p>&quot;I&#x27;m sure that must sound like an excuse, but I didn&#x27;t intend for it to go that far at first. I did get the feeling that you respected me, but I&#x27;m tiny and unattractive. I have no idea who your partner is, but I&#x27;m sure she must be a beauty if she&#x27;s related to Miss Elinalise. I never thought there&#x27;d be a chance you&#x27;d look at me the same way, but I ignored that, thinking it would be fine as long as I did something that could help.</p>
 <p>&quot;But then when you suddenly grabbed me and I saw your face up close… I just, I couldn&#x27;t help thinking, maybe I have a chance. Miss Elinalise and the others had just talked about how sex could cheer men up when they were down. So, I just thought, maybe even I can do this. I couldn&#x27;t help it. I love you.&quot;</p>
 <p>Roxy&#x27;s tears started falling one after the other. The moment I saw them, pain shot through my chest like my heart was being gouged out.</p>
 <p>&quot;It was cruel,&quot; she choked out. &quot;My feelings for you were obvious, but no one told me about you being married until way after the fact. It wasn&#x27;t fair.&quot;</p>
-<p>I wondered at whom those words were directed. <em>Not me</em>, I thought, so perhaps Elinalise? It was true that I hadn&#x27;t told her about my marriage, though. There was no special reason for that—it just hadn&#x27;t come up. If she was going to blame anyone, I was equally accountable.</p>
+<p>I wondered at whom those words were directed. Not me, I thought, so perhaps Elinalise? It was true that I hadn&#x27;t told her about my marriage, though. There was no special reason for that—it just hadn&#x27;t come up. If she was going to blame anyone, I was equally accountable.</p>
 <p>Still, if our roles were reversed…if I&#x27;d reunited with Sylphie, she&#x27;d saved me, and I&#x27;d fallen in love with her, then proceeded to make romantic overtures only to discover she already had another partner… Well, I&#x27;d surely be shocked. No, there was no doubt about it. I definitely would be.</p>
 <p>&quot;Um, Teacher?&quot;</p>
 <p>I wanted Roxy to be rewarded for what she&#x27;d done. She should be rewarded.</p>
@@ -157,7 +157,7 @@ nav_title = "Chapter 12"
 <p>A long pause and then, &quot;That&#x27;s…an incredibly appealing idea.&quot; Roxy squeezed my arm tight. Then, lightly, she tapped her hand against my cheek. &quot;But please stop with all that. You don&#x27;t have to do anything.&quot;</p>
 <p>&quot;…All right.&quot;</p>
 <p>I didn&#x27;t have to do anything. If Roxy was fine with that, then I would do as she asked. I&#x27;d done everything she&#x27;d told me to do until now, and I would continue to do so.</p>
-<p><em>That&#x27;s what you want, right, Teacher?</em></p>
+<p>That&#x27;s what you want, right, Teacher?</p>
 <p>***</p>
 <p>We arrived at Bazaar in a little over a month.</p>
 <p>Once there, we bought some souvenirs, such as glasswork, for Sylphie and the others. One such piece was a glass bottle with an interesting shape, and a red glass hair accessory with a tribal crest on it. I prayed they wouldn&#x27;t break on the journey home.</p>
@@ -176,10 +176,10 @@ nav_title = "Chapter 12"
 <p>plenty of occasions where I failed to correctly identify the ridges, probably partly due to my lack of experience.</p>
 <p>Succubi attacked us too, but we dispensed with them easily, since our party was comprised mostly of women. Geese and I were both done in by their pheromones, but at least we had Detoxification magic to counter it. My true feelings did slip forth at one point, making me try to go after Roxy…but it was otherwise uneventful.</p>
 <p>What shocked me the most was that Talhand was entirely unaffected by them. He snorted and said, &quot;&#x27;Course it doesn&#x27;t work on me.&quot;</p>
-<p><em>I guess a sound body leads to a sound mind after all. Incredible!</em></p>
+<p>I guess a sound body leads to a sound mind after all. Incredible!</p>
 <p>We arrived at the ruins. Just as we&#x27;d planned, everyone besides Elinalise was blindfolded outside. Shierra fussed a bit about it, but Vierra persuaded her and we were able to proceed without issue. The blindfolds themselves were for little more than peace of mind, but as long as they didn&#x27;t see the circles, they wouldn&#x27;t know what had happened.</p>
 <p>As for the wagon, we left it behind. It couldn&#x27;t make it past the entrance. Surely Zenith could make the next week on foot. Now that we&#x27;d made it this far, I didn&#x27;t even mind if the last leg of our journey took us a little longer.</p>
-<p>The armadillo <em>was</em> able to make it through the entrance, so we brought it along with us. I had no idea if the climate back home would agree with it, but it had to be better than leaving it here for other monsters to feast on.</p>
+<p>The armadillo was able to make it through the entrance, so we brought it along with us. I had no idea if the climate back home would agree with it, but it had to be better than leaving it here for other monsters to feast on.</p>
 <p>Geese and the others were surprised once they removed their blindfolds and discovered the scenery around them had changed completely. We went from being surrounded by a desert to being smack dab in the middle of a forest. Their shock was understandable. I warned them strictly to never talk about how we&#x27;d arrived here, even if they managed to guess how we&#x27;d done it.</p>
 <p>That was how we left the Begaritt Continent. Just a bit further and I would be home.</p>
 <p><strong>Chapter 13: Return</strong></p>

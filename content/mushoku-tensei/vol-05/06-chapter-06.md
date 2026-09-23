@@ -11,13 +11,13 @@ nav_title = "Chapter 6"
 <p>The HQ itself was a perfectly ordinary two-story building. It didn&#x27;t take long for me to find my father. He was hard at work in what seemed to be a conference room, discussing something or other with roughly a dozen other men. I could make out snatches of the conversation from outside; it seemed they were preparing for a large operation of some kind.</p>
 <p>From the way Paul looked the other day, I&#x27;d assumed he spent every day in Millishion either getting drunk or nursing a hangover, but maybe my timing had just been bad. Right now, he was the picture of a focused, competent leader. I was impressed despite myself…at least, until someone alluded to the fact that he&#x27;d skipped a month&#x27;s worth of meetings while on a massive bender. From the sound of things, it was only yesterday that he&#x27;d abruptly gotten motivated again.</p>
 <p>It was most likely because Paul wanted to show me his better side. In other words, he&#x27;d gotten back to work because of me.</p>
-<p><em>Goodness gracious. The boys do love showing off for me…</em></p>
+<p>Goodness gracious. The boys do love showing off for me…</p>
 <p>With a theatrical sigh, I decided to wait for Paul to find a little free time.</p>
 <p>Sitting around in the room outside might get boring, so I opted to wander around the building for a while. After a few minutes of exploration, I came across my little sister Norn at play. She was in a room that seemed to be serving as a nursery, playing blocks with a bunch of other kids around her age.</p>
 <p>&quot;Hey there,&quot; I said, raising a hand in greeting as her eyes met mine.</p>
 <p>Norn started in surprise, then scowled and hurled the wooden block in her hand, which I managed to catch. &quot;Go away!&quot;</p>
 <p>This didn&#x27;t strike me as the friendliest way to say hello. Hmm. Had I done anything to make her upset with me? The only thing that came to mind was that time I beat the crap out of Paul before her eyes.</p>
-<p>Yeah, that <em>probably</em> had something to do with it.</p>
+<p>Yeah, that probably had something to do with it.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-05/insert-06.webp" alt="Illustration" loading="lazy" />
 </div>
@@ -31,10 +31,10 @@ nav_title = "Chapter 6"
 <p>&quot;Good morning,&quot; she replied with a smile and a small tilt of her head. &quot;Did you need something from us today?&quot;</p>
 <p>&quot;Yes. I&#x27;m here to see my father, um…&quot; What was this lady&#x27;s name again? I felt like Paul hadn&#x27;t told me. &quot;Ah, pardon me. I haven&#x27;t introduced myself, have I? My name is Rudeus Greyrat, miss.&quot; Rising to my feet, I put one hand to my chest and offered an aristocratic bow.</p>
 <p>&quot;Uh, oh…m-my name&#x27;s Vierra,&quot; replied the bikini-armor lady, her hands fluttering anxiously in the air. &quot;I&#x27;m a member of Captain Paul&#x27;s squad.&quot; She proceeded to return my bow, offering me a truly irresistible view of her cleavage.</p>
-<p>The girl really was a sight for sore eyes. Or even non-sore eyes, honestly. I&#x27;d only just resolved to cut back on my perverted behavior, so I didn&#x27;t <em>want</em> to stare. But I couldn&#x27;t seem to look away. All my good intentions were meaningless in the face of her chest&#x27;s gravitational pull.</p>
+<p>The girl really was a sight for sore eyes. Or even non-sore eyes, honestly. I&#x27;d only just resolved to cut back on my perverted behavior, so I didn&#x27;t want to stare. But I couldn&#x27;t seem to look away. All my good intentions were meaningless in the face of her chest&#x27;s gravitational pull.</p>
 <p>That outfit was just unfair.</p>
 <p>&quot;I&#x27;m very sorry I was so rude the other day. My father&#x27;s something of a womanizer, so I&#x27;m afraid I got the wrong idea.&quot;</p>
-<p>&quot;No, no! It&#x27;s all right. I can understand why you&#x27;d think that, given how I was dressed.&quot; Vierra emphasized her words by shaking her head vigorously. Certain other parts of her body also moved as a result. That bikini armor did seem to be fixed in place to some degree, but it wasn&#x27;t enough to keep her from jiggling when she made sudden movements. Those things were <em>big</em>, after all.</p>
+<p>&quot;No, no! It&#x27;s all right. I can understand why you&#x27;d think that, given how I was dressed.&quot; Vierra emphasized her words by shaking her head vigorously. Certain other parts of her body also moved as a result. That bikini armor did seem to be fixed in place to some degree, but it wasn&#x27;t enough to keep her from jiggling when she made sudden movements. Those things were big, after all.</p>
 <p>Whoops. I was doing it again.</p>
 <p>With an effort of will, I managed to tear my eyes away. &quot;I&#x27;m not sure it&#x27;s a great idea to hang around a bunch of men in that armor if you can help it, miss. I&#x27;d imagine some people might find it a bit distracting. Maybe you could put on a cloak over it, at least?&quot;</p>
 <p>Vierra smiled awkwardly. &quot;I&#x27;m sorry, but there&#x27;s a reason that I wear this.&quot;</p>
@@ -47,7 +47,7 @@ nav_title = "Chapter 6"
 <p>With that, Vierra pattered off somewhere or other. A few minutes later, she returned with a familiar robed healer.</p>
 <p>When the girl saw I was looking at her, she let out a little gasp and stepped behind Vierra before saying anything. &quot;The captain&#x27;s schedule is jam-packed at the moment, but he has some free time in the evening four days from now. Would you care to have dinner with him then?&quot;</p>
 <p>&quot;Um, it&#x27;s all right if he&#x27;s too busy, you know.&quot;</p>
-<p>&quot;When he talks to you, the captain&#x27;s full of life and energy. He <em>is</em>  very busy, but I hope you&#x27;ll come anyway.&quot;</p>
+<p>&quot;When he talks to you, the captain&#x27;s full of life and energy. He is  very busy, but I hope you&#x27;ll come anyway.&quot;</p>
 <p>Shierra&#x27;s voice sounded composed enough, considering she was still hiding behind Vierra. This girl really seemed to hate me. Or maybe even fear me. That was kind of regrettable, but…oh well.</p>
 <p>&quot;Four days from now, right? Okay then. Should I meet him at his inn?&quot;</p>
 <p>&quot;I&#x27;ll make you a reservation at a restaurant our squad frequently visits. Please head directly over there instead.&quot;</p>
@@ -75,7 +75,7 @@ nav_title = "Chapter 6"
 <p>In that case, maybe we could try working outside of it.</p>
 <p>With that thought in mind, I snatched up a B-ranked task the Guild had only just put up on the board. Apparently, a rampaging monster in a local village needed killing. The location was near enough that we could easily make a day trip of it.</p>
 <p>Our target this time was a Leaf Tiger. This was a monster native to the southern regions of the Great Forest, but for whatever reason this one had wandered south to take up residence in this area.</p>
-<p>Leaf Tigers had coats of spotted green overlaid with a brown pattern. This allowed them to blend into the forest perfectly. Because they were hard to see and often moved in small packs, they were considered to be B-ranked monsters. However, the one we were after was on its own, and its camouflage was useless in these open grasslands. It was probably less of a threat than your average Acid Wolf. I&#x27;d have placed it at Rank D, at most. Back when we were on the Demon Continent, I would have jumped for joy to find a job <em>this</em> easy on the board.</p>
+<p>Leaf Tigers had coats of spotted green overlaid with a brown pattern. This allowed them to blend into the forest perfectly. Because they were hard to see and often moved in small packs, they were considered to be B-ranked monsters. However, the one we were after was on its own, and its camouflage was useless in these open grasslands. It was probably less of a threat than your average Acid Wolf. I&#x27;d have placed it at Rank D, at most. Back when we were on the Demon Continent, I would have jumped for joy to find a job this easy on the board.</p>
 <p>The three of us headed over right away. And just as we arrived, a big green cat happened to be sauntering out of the village with a chicken in its mouth.</p>
 <p>It noticed us and dropped its prize to growl in our direction, but Eris just said, &quot;I&#x27;ll take this one,&quot; ran up to it, and cut the thing clean in half.</p>
 <p>Mission complete! Huh, that was quick.</p>
@@ -97,17 +97,17 @@ nav_title = "Chapter 6"
 <p>Yes indeed. I was practically a royal artisan at this point!</p>
 <p>&quot;This position is no good at all, though.&quot;</p>
 <p>&quot;Yeah, the stance is all wrong. You&#x27;d have to crouch much lower…&quot;</p>
-<p><em>Sad trombone noise.</em></p>
+<p>Sad trombone noise.</p>
 <p>Those two really knew how to burst a guy&#x27;s bubble.</p>
 <p>Three days later—the day before my dinner appointment with Paul—I realized that I didn&#x27;t have anything to wear to the restaurant.</p>
 <p>There wasn&#x27;t a dress code, and this was just a family gettogether. Still, the clothes I&#x27;d bought back in the Demon Continent looked a bit shabby on the streets of Millishion, so I headed out with Eris to do a little shopping.</p>
 <p>This probably qualified as a date, although it wasn&#x27;t a particularly exciting one. Eris was never too motivated about buying clothes and tended to think everything looked &quot;fine.&quot; I figured I should take this chance to get her a few new outfits as well. From this point on, we&#x27;d be traveling in humankind&#x27;s territory, and they say first impressions are all about how you present yourself. At the very least, I wanted us dressed well enough that people wouldn&#x27;t treat us rudely.</p>
-<p>I kind of wished I could turn to a friend who knew <em>something</em> about fashion for advice. But the only people I could even call &quot;acquaintances&quot; in this city were that monkey-faced newbie and Vierra. I had no idea where Geese was, and I wasn&#x27;t friendly enough with Vierra to ask her for a personal favor.</p>
+<p>I kind of wished I could turn to a friend who knew something about fashion for advice. But the only people I could even call &quot;acquaintances&quot; in this city were that monkey-faced newbie and Vierra. I had no idea where Geese was, and I wasn&#x27;t friendly enough with Vierra to ask her for a personal favor.</p>
 <p>Ultimately, I decided to study people going by until I had a feel for things. Eris and I sat by a street and engaged in a bit of idle crowd-watching.</p>
 <p>After a while, I noticed that blue clothing seemed somewhat popular at the moment. Also, some people had cloaks or jackets on, but many others didn&#x27;t bother. The climate here was nice enough that most outerwear was on the lighter side.</p>
 <p>&quot;Looks like blue&#x27;s in style right now, doesn&#x27;t it?&quot;</p>
 <p>&quot;Blue doesn&#x27;t work at all for you, Rudeus.&quot;</p>
-<p><em>Wow, blunt.</em> Fortunately, I really didn&#x27;t care that much about the trends of the hour. &quot;What does work for me, then?&quot;</p>
+<p>Wow, blunt. Fortunately, I really didn&#x27;t care that much about the trends of the hour. &quot;What does work for me, then?&quot;</p>
 <p>&quot;You&#x27;ve got that thing Geese gave you, right? Just go with that.&quot;</p>
 <p>She was talking about that fur vest, right? That thing was a little big on me, though. It was long enough to look more like a coat. That said, it wasn&#x27;t uncomfortable at all, so I did wear it sometimes. Mostly on colder days.</p>
 <p>&quot;That one&#x27;s not bad, but I feel like it&#x27;s a bit too long for me.&quot;</p>
@@ -131,12 +131,12 @@ nav_title = "Chapter 6"
 <p>If that was the only issue, I might have brought her with me and tried to get the two of them on better terms. But this dinner was going to be our first meal as a family in many years, you know? And I hadn&#x27;t patched things up with Norn yet, either. Also, I did say that I&#x27;d be coming to the restaurant alone.</p>
 <p>&quot;Would you mind staying here instead, Eris?&quot;</p>
 <p>All things considered, I wanted Eris to show a little self-restraint here. Carrying a bomb into the middle of a raging forest fire didn&#x27;t strike me as the best of ideas. Formally introducing her to the family could wait until the two of us got a little more intimate than we were right now.</p>
-<p>&quot;Yes, I <em>would</em> mind! I&#x27;m coming too, got it?!&quot;</p>
+<p>&quot;Yes, I would mind! I&#x27;m coming too, got it?!&quot;</p>
 <p>Silly me. The word &quot;self-restraint&quot; wasn&#x27;t part of Eris&#x27; vocabulary.</p>
 <p>&quot;Ruijerd, could you say something here?&quot;</p>
 <p>When I turned back to Ruijerd in search of help, I found him holding a hand to his chin in thought. His intense gaze moved from my face to Eris&#x27;, and then back again. &quot;You&#x27;ve made up with your</p>
 <p>father, haven&#x27;t you? It shouldn&#x27;t be a problem, then. Let her come along.&quot;</p>
-<p><em>Wow! Stabbed in the back!</em> Was this the same guy who&#x27;d punched Eris to stop her from intervening last time?</p>
+<p>Wow! Stabbed in the back! Was this the same guy who&#x27;d punched Eris to stop her from intervening last time?</p>
 <p>Oh well. I guess I&#x27;d have to let the majority rule on this one. &quot;Well, if you say so, Ruijerd…&quot;</p>
 <p>&quot;Hmph! What did you expect?&quot;</p>
 <p>&quot;Just one thing, Eris. I want to stay on good terms with my father, so please be polite to him, okay?&quot;</p>
@@ -144,7 +144,7 @@ nav_title = "Chapter 6"
 <p>Judging from her tone of voice, she had no intention of actually keeping that promise. Not exactly reassuring.</p>
 <p>Afterwards, I went upstairs to put on my brand-new clothes, then headed over to the restaurant as a brand-new me (a.k.a. Newdeus). Eris tagged along in the black dress we&#x27;d bought the other day.</p>
 <p>I did my best to avoid the narrower side streets. There were lots of kidnappers lurking in those dark alleys, and they could get a little violent in some places. No reason to risk our new clothes getting messed up.</p>
-<p>The main avenues had their dangers too, of course. Since it was around dinner time, quite a few people were buying something like yakitori from the outdoor stalls. If I bumped into one of those guys, the result would no doubt be tragic. And if one of them walked into <em>Eris</em>, her Boreas Punch would probably leave both of us drenched in their blood.</p>
+<p>The main avenues had their dangers too, of course. Since it was around dinner time, quite a few people were buying something like yakitori from the outdoor stalls. If I bumped into one of those guys, the result would no doubt be tragic. And if one of them walked into Eris, her Boreas Punch would probably leave both of us drenched in their blood.</p>
 <p>As a precautionary measure, I kept my Eye of Foresight active. By constantly looking one second into the future, I was able to navigate us safely through the crowds. I felt a bit bad for using such a powerful ability for something this mundane, but at least we reached our destination without incident.</p>
 <p>That whole thing with the &quot;reservations&quot; had gotten me a little nervous. As it turned out, though, Lazy Millis was a perfectly ordinary place. It was a stand-alone bar and restaurant, not part of an inn; most of the clientele seemed to be relatively respectable locals. When I gave my name to the waiter up front, he brought me and Eris over to our table immediately. The fact that there were two of us went unremarked on. Paul was already sitting at the table with an awkward smile on his face, along with a very grumpy-looking Norn.</p>
 <p>&quot;Sorry, am I a bit late?&quot;</p>
@@ -174,14 +174,14 @@ nav_title = "Chapter 6"
 <p>&quot;Uh, anyway…the two of us are friends again now, Norn. Why don&#x27;t you make up with your big brother too?&quot;</p>
 <p>&quot;No way!&quot;</p>
 <p>Paul patted Norn on the head as she pouted. That golden hair of hers really was pretty, though. It reminded me of Zenith. Come to think of it, she used to sulk up a storm just like this whenever something ticked her off. Maybe Norn had inherited that habit from her mother?</p>
-<p>After submitting to Paul&#x27;s petting for a little while, the kid abruptly turned to glare at me. She had to tilt her head back just to look me in the face, so the overall effect was more adorable than intimidating. &quot;Daddy&#x27;s trying <em>really</em> hard.&quot;</p>
+<p>After submitting to Paul&#x27;s petting for a little while, the kid abruptly turned to glare at me. She had to tilt her head back just to look me in the face, so the overall effect was more adorable than intimidating. &quot;Daddy&#x27;s trying really hard.&quot;</p>
 <p>Since this comment seemed to be directed at me, I responded as gently as possible. &quot;Yeah. I know he is.&quot;</p>
 <p>&quot;He doesn&#x27;t kiss any girls or anything!&quot;</p>
 <p>&quot;So I&#x27;ve heard. I&#x27;m sorry to have doubted him.&quot;</p>
-<p>&quot;He&#x27;s always really nice to me, too!&quot; Norn&#x27;s little eyes were filling up with tears. <em>Crap, did I say something mean? Please don&#x27;t start bawling, kid…</em> &quot;Daddy always looks like he wants to cry!&quot;</p>
+<p>&quot;He&#x27;s always really nice to me, too!&quot; Norn&#x27;s little eyes were filling up with tears. Crap, did I say something mean? Please don&#x27;t start bawling, kid… &quot;Daddy always looks like he wants to cry!&quot;</p>
 <p>Flustered by Norn&#x27;s obvious distress, Paul and I looked at each other uncertainly. &quot;Wait, really?&quot;</p>
 <p>&quot;Uh, well, I got a little—&quot;</p>
-<p>&quot;I feel so <em>sorry</em> for him!&quot;</p>
+<p>&quot;I feel so sorry for him!&quot;</p>
 <p>Neither of us had anything to say to that.</p>
 <p>&quot;How could you beat him up like that? You&#x27;re so mean!&quot;</p>
 <p>Looking at Norn&#x27;s face, I had to fight the urge to heave a long, heavy sigh. Paul and Norn had been teleported together. I knew all about that now. She&#x27;d gotten very sick during their journey back to Fittoa and was nearly attacked by monsters several times along the way. And it was her father who&#x27;d protected her from all those dangers.</p>
@@ -225,7 +225,7 @@ nav_title = "Chapter 6"
 <p>&quot;Uh, I think that would probably backfire…&quot;</p>
 <p>&quot;Yeah, you&#x27;re right.&quot; I could try to act like a sweet little tyke for them, but my true nature would most likely reveal itself in time. It wasn&#x27;t worth the risk.</p>
 <p>Not long after this exchange, the waiter finally brought our food out to the table. &quot;Okay, let&#x27;s dig in,&quot; said Paul, his fork hovering theatrically in the air. &quot;Hmm, what first…?&quot;</p>
-<p>&quot;This does look appetizing,&quot; murmured Eris, studying the spread with shining eyes. She seemed more like Paul&#x27;s child than I was, honestly. Then again, Paul and Philip <em>were</em> cousins, so maybe that wasn&#x27;t too bizarre.</p>
+<p>&quot;This does look appetizing,&quot; murmured Eris, studying the spread with shining eyes. She seemed more like Paul&#x27;s child than I was, honestly. Then again, Paul and Philip were cousins, so maybe that wasn&#x27;t too bizarre.</p>
 <p>In any case, this seemed like a golden opportunity to improve Norn&#x27;s image of me slightly. &quot;Father, your manners are—&quot;</p>
 <p>&quot;Cut it out, Daddy! You&#x27;ve got to pray before you eat!&quot;</p>
 <p>The two of us had spoken almost simultaneously. Norn looked over at me in surprise, but turned away sulkily a second later.</p>
@@ -266,7 +266,7 @@ nav_title = "Chapter 6"
 <p>And just like that, our party left the city of Millishion behind.</p>
 <p>### <strong>Paul</strong></p>
 <p><strong>J</strong>ust like that, Rudeus was back on the road again.</p>
-<p>The kid was as impressive as ever. He figured out his plans in no time, then put them into action immediately. Elinalise once told me I was &quot;rushing through my life,&quot; didn&#x27;t she? You had to wonder what she&#x27;d think if she got a look at <em>him</em>.</p>
+<p>The kid was as impressive as ever. He figured out his plans in no time, then put them into action immediately. Elinalise once told me I was &quot;rushing through my life,&quot; didn&#x27;t she? You had to wonder what she&#x27;d think if she got a look at him.</p>
 <p>It might be fun to get the two of them to meet sometime, but…maybe that wasn&#x27;t such a great idea. Yeah. The last thing I wanted was to end up as that woman&#x27;s father-in-law.</p>
 <p>Just as I&#x27;d reached this conclusion, someone slapped me on the shoulder. I turned to find a monkey-faced man grinning at me. &quot;Hey there, Paul. You done sayin&#x27; goodbye to your son?&quot;</p>
 <p>&quot;Geese…&quot; I was grateful to this jerk; more grateful than I could express in words. If it wasn&#x27;t for him, I probably never would have made up with Rudeus. &quot;I seriously owe you one, man.&quot;</p>

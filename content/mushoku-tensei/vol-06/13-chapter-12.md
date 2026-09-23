@@ -10,7 +10,7 @@ nav_title = "Chapter 12"
 <p><strong>T</strong>he refugee camp was quiet, and the size of a village. If this were the Demon Continent, it would be just large enough to be considered a city, but it had no life to it. Silence permeated the air, and the camp&#x27;s occupants were few relative to its size. I could sense people within the hurriedly constructed log houses, so the place was definitely inhabited, but there was no spirit left in its residents.</p>
 <p>I headed into the middle of the refugee camp, where a building that resembled an Adventurers&#x27; Guild stood. This was the headquarters of the refugee camp, according to the note that was written on the entrance. When I went in, I found it was just as melancholy.</p>
 <p>I had a bad feeling about this.</p>
-<p>&quot;Rudeus, that&#x27;s…&quot; Eris pointed at a sheet of paper. At the very top of the page was the name &quot;Fittoa Liege Lord James Boreas Greyrat,&quot; and beside it, <em>&quot;Seeking Status Information, Deceased or Missing.&quot;</em> Beneath that were the names of those who&#x27;d gone missing after the incident, listed alphabetically by village and city.</p>
+<p>&quot;Rudeus, that&#x27;s…&quot; Eris pointed at a sheet of paper. At the very top of the page was the name &quot;Fittoa Liege Lord James Boreas Greyrat,&quot; and beside it, &quot;Seeking Status Information, Deceased or Missing.&quot; Beneath that were the names of those who&#x27;d gone missing after the incident, listed alphabetically by village and city.</p>
 <p>&quot;Let&#x27;s look at that later,&quot; I said.</p>
 <p>&quot;Yeah.&quot;</p>
 <p>The list of the deceased was incredibly long. Also, the Liege Lord named at the head of the document wasn&#x27;t Sauros. Both of those things made me anxious as we headed deeper within the building.</p>
@@ -20,7 +20,7 @@ nav_title = "Chapter 12"
 <p>I was happy, too. I hadn&#x27;t heard any news of Ghislaine this whole time, but she looked well. Perhaps the reason Paul hadn&#x27;t heard anything about her was just a gap in the information stream.</p>
 <p>Ghislaine looked at Eris&#x27; face and broke into a wide grin. &quot;Eris, no, Lady Eris, I&#x27;m glad you made it safely—&quot;</p>
 <p>&quot;…It&#x27;s fine, you can just call me Eris.&quot;</p>
-<p>Ghislaine looked happy for a moment, but soon enough, her expression clouded over. Even Alphonse was gazing at her sympathetically. <em>It can&#x27;t be…</em> I thought as a sense of unease welled up within me.</p>
+<p>Ghislaine looked happy for a moment, but soon enough, her expression clouded over. Even Alphonse was gazing at her sympathetically. It can&#x27;t be… I thought as a sense of unease welled up within me.</p>
 <p>&quot;Eris…let&#x27;s talk further in.&quot; Ghislaine&#x27;s voice was hard. Her tail was standing straight up. Her expression wasn&#x27;t that of someone who was simply happy at Eris&#x27; return. She was nervous.</p>
 <p>&quot;Yeah, okay.&quot; Eris saw the look on Ghislaine&#x27;s face and seemed to understand. She followed Ghislaine deeper into the building.</p>
 <p>When I tried to follow them, Alphonse stopped me and said, &quot;Master Rudeus, please wait outside.&quot;</p>
@@ -35,7 +35,7 @@ nav_title = "Chapter 12"
 <p>&quot;About that…&quot; Alphonse&#x27;s response was evasive.</p>
 <p>Judging by his manner, Sauros was likely dead. Eris was a grandpa&#x27;s girl. She mimicked every single one of his mannerisms. If he was dead, it would hurt her greatly.</p>
 <p>Alphonse forced the words out with great effort. &quot;Lord Sauros, Lord Philip, and Lady Hilda… All three of them are deceased.&quot;</p>
-<p>The second we heard those words, her fingers crushed my hand. Pain shot up my arm, but it was Alphonse&#x27;s words, rather than the pain, that left me dazed. It had to be a mistake, right? It hadn&#x27;t been that long. It hadn&#x27;t even been three years yet. Or perhaps it&#x27;d be more correct to say it would soon be three <em>whole</em> years.</p>
+<p>The second we heard those words, her fingers crushed my hand. Pain shot up my arm, but it was Alphonse&#x27;s words, rather than the pain, that left me dazed. It had to be a mistake, right? It hadn&#x27;t been that long. It hadn&#x27;t even been three years yet. Or perhaps it&#x27;d be more correct to say it would soon be three whole years.</p>
 <p>&quot;There&#x27;s…no mistake about that, right?&quot; There was a tremor in Eris&#x27; voice when she asked the question.</p>
 <p>Alphonse nodded. &quot;Lord Philip and Lady Hilda were teleported together and passed away in the Conflict Zone. Ghislaine confirmed this.&quot;</p>
 <p>Ghislaine bobbed her head.</p>
@@ -52,12 +52,12 @@ nav_title = "Chapter 12"
 <p>No. In truth, I understood. Even if there was no forewarning, even if it couldn&#x27;t have been prevented, people had died. Fields and crops had disappeared. The losses were immeasurable. The people were steeped in discontent and they needed a scapegoat. Even in my previous life in Japan, the Prime Minister would take responsibility by immediately resigning if something shameful happened.</p>
 <p>By dying, Sauros had taken the people&#x27;s discontent with him. Someone capable could take his place. At least then, people might find some relief.</p>
 <p>It wasn&#x27;t just that, though. I was sure that some power struggle between the nobles was involved. I had no idea just how much the old man Sauros had possessed in terms of authority, but it must&#x27;ve been enough for his downfall to warrant being killed.</p>
-<p>I could rationalize it. I <em>could</em>. But then, that just brought us to our current situation. To a refugee camp blanketed in silence. To a practically deserted headquarters. There were no signs that the country was serious about reestablishing the Fittoa Region. If Sauros were still alive, perhaps he would&#x27;ve taken more active measures. That old man was useful precisely in these kinds of situations.</p>
-<p>But no—that was only a front. Eris&#x27; feelings were what I cared about. I couldn&#x27;t stay calm when I thought about how she must be feeling to hear she had no family left. I had no idea when Philip and Hilda&#x27;s deaths were reported. It could have been before or after Sauros&#x27; death. But Sauros at least <em>had</em> been alive—&quot;had&quot; being the keyword. There&#x27;d been no need to kill him.</p>
+<p>I could rationalize it. I could. But then, that just brought us to our current situation. To a refugee camp blanketed in silence. To a practically deserted headquarters. There were no signs that the country was serious about reestablishing the Fittoa Region. If Sauros were still alive, perhaps he would&#x27;ve taken more active measures. That old man was useful precisely in these kinds of situations.</p>
+<p>But no—that was only a front. Eris&#x27; feelings were what I cared about. I couldn&#x27;t stay calm when I thought about how she must be feeling to hear she had no family left. I had no idea when Philip and Hilda&#x27;s deaths were reported. It could have been before or after Sauros&#x27; death. But Sauros at least had been alive—&quot;had&quot; being the keyword. There&#x27;d been no need to kill him.</p>
 <p>Just how many did they think had died in this disaster—in the Displacement Incident? Hundreds of thousands, an uncountable number, and yet they purposefully killed a man who had returned alive? Eris had come all this way to return home just to learn that?</p>
 <p>Ah, crap. I couldn&#x27;t think straight. My hand hurt.</p>
 <p>&quot;Master Rudeus, I understand how you feel, but…this is the current state of the Asura Kingdom.&quot;</p>
-<p><em>Alphonse, the master you served was killed! Ghislaine, the man who saved your life was killed!</em> I thought. Those were the things I wanted to say to them.</p>
+<p>Alphonse, the master you served was killed! Ghislaine, the man who saved your life was killed! I thought. Those were the things I wanted to say to them.</p>
 <p>Yet…nothing came out.</p>
 <p>Mostly because Eris didn&#x27;t say anything. There was no point in me shouting and crying. Even though they&#x27;d taken care of me, and we were related, Sauros had still been a stranger to me. If his family wasn&#x27;t going to say anything, what point was there in me complaining?</p>
 <p>&quot;…So, what am I supposed to do?&quot; In an uncharacteristic show of quietness, Eris neither lashed out nor yelled.</p>
@@ -81,12 +81,12 @@ nav_title = "Chapter 12"
 <p>&quot;Okay, I…understand.&quot; My shoulders drooped as I watched Eris turn her back toward me. The second I left the room and closed the doors, I swore I could hear a sob.</p>
 <p>***</p>
 <p>Alphonse had prepared rooms for us. There were four of them, narrow and located in a house near the headquarters, probably intended for the refugees. I carried my luggage into one of them and stowed Eris&#x27; in the room neighboring mine. I changed out of my travel clothes and into ones for going around town. I discarded my misshapen, patched-up robe on the bed and left the room.</p>
-<p>I returned to the headquarters. I wanted to try talking to Alphonse and Ghislaine some more, but I didn&#x27;t see them. I didn&#x27;t have the willpower to search for them, so I gazed at the notice board instead. Paul&#x27;s message was pinned there, the one I&#x27;d seen numerous times in the past few months. <em>Search the Central Continent or the northern region</em>, it said. Written when I was still about, what, ten years of age? I&#x27;d soon be thirteen. Time sure had passed quickly.</p>
+<p>I returned to the headquarters. I wanted to try talking to Alphonse and Ghislaine some more, but I didn&#x27;t see them. I didn&#x27;t have the willpower to search for them, so I gazed at the notice board instead. Paul&#x27;s message was pinned there, the one I&#x27;d seen numerous times in the past few months. Search the Central Continent or the northern region, it said. Written when I was still about, what, ten years of age? I&#x27;d soon be thirteen. Time sure had passed quickly.</p>
 <p>My eyes scanned over the list of dead and missing. They landed on the section titled &quot;Buena Village.&quot; The names of people I knew were listed in a row on the missing persons list. Over half had a line slashed through them. A glimpse at the column of the dead revealed that the same names had been written over there. Apparently, as their deaths had been confirmed, their names were crossed out and they were added to the list of dead. There were slightly more names in the missing column than the dead, but the list of dead were densely packed together.</p>
 <p>I saw Laws&#x27; name written in the missing persons column with a line run through it, and my brows furrowed. I&#x27;d heard from Paul that Laws was dead. I hadn&#x27;t heard the details of how he died, though.</p>
 <p>Then, just below that, I saw it. There, in the missing persons column, was Sylphie&#x27;s name. And a line was drawn through it.</p>
-<p><em>Ba-thump</em>. My heart drummed loudly.</p>
-<p><em>It can&#x27;t be</em>, I thought as I looked at the column of the dead. I didn&#x27;t see her name near Laws&#x27;. I started at the top and scanned down to the end, but her name wasn&#x27;t there at all.</p>
+<p>Ba-thump. My heart drummed loudly.</p>
+<p>It can&#x27;t be, I thought as I looked at the column of the dead. I didn&#x27;t see her name near Laws&#x27;. I started at the top and scanned down to the end, but her name wasn&#x27;t there at all.</p>
 <p>&quot;Um, this, there&#x27;s a line drawn through this name, but it&#x27;s not in the list of the dead…?&quot; I asked one of the staff, voicing my doubt.</p>
 <p>&quot;Yes, that&#x27;s one of the people who was confirmed to be a survivor.&quot;</p>
 <p>When I heard those words, something inside my chest dropped with a thud. It was like my heart had fallen straight through my stomach and right through my guts. That&#x27;s how relieved I felt at the revelation that Sylphie was alive.</p>
@@ -104,7 +104,7 @@ nav_title = "Chapter 12"
 <p>For the moment, I took it upon myself to cross Lilia&#x27;s and Aisha&#x27;s names off the missing list. There was already a line through my name. They had heard that Eris was on her way here, so they probably knew about me as well.</p>
 <p>Among Paul&#x27;s family, the only name that remained was Zenith Greyrat, meaning she still hadn&#x27;t been found, after all. Perhaps I&#x27;d ask the Man-God the next time he appeared in my dreams.</p>
 <p>When I finished looking over the bulletin board, Eris still hadn&#x27;t come out of the room. She was normally so quick to recover. This was the first time I&#x27;d seen her this troubled over something. But we&#x27;d journeyed so far to get here, and now that she&#x27;d arrived home, there was no family or warm house to welcome her. Perhaps that was enough to overwhelm even someone as strong as Eris.</p>
-<p><em>Maybe I should go back and comfort her after all</em>, I thought. <em>No, let&#x27;s wait a little bit longer.</em></p>
+<p>Maybe I should go back and comfort her after all, I thought. No, let&#x27;s wait a little bit longer.</p>
 <p>I decided to return to the building where I&#x27;d left our luggage. I figured I&#x27;d find something to preoccupy myself, though I didn&#x27;t have any ideas as to what. Perhaps I&#x27;d just rest a little instead.</p>
 <p>***</p>
 <p>Alphonse called to me as I moved to leave. He brought me to a room located in the refugee camp&#x27;s headquarters and took a seat in front of me. To my right sat Ghislaine. The only reason the two of</p>
@@ -147,7 +147,7 @@ nav_title = "Chapter 12"
 <p>&quot;Yes, about him trying to curry favor with High Minister Darius, who has rapidly been gaining political power as of late.&quot;</p>
 <p>Why was that troubling? Wasn&#x27;t it normal for powerful people to curry favor with those who possessed more influence than them?</p>
 <p>&quot;Lord Darius has been gaining power for the past few decades, and supports the First Prince&#x27;s ascension to the throne. He&#x27;s also primarily responsible for driving the Second Princess out of the country.&quot;</p>
-<p><em>I have no idea what you&#x27;re talking about when you suddenly bring up First-this and Second-that</em>, I thought.</p>
+<p>I have no idea what you&#x27;re talking about when you suddenly bring up First-this and Second-that, I thought.</p>
 <p>&quot;Lord Pilemon was once amongst a group of those supporting the Second Princess, but…&quot;</p>
 <p>&quot;But when she was driven out of the country, his group lost all of its power?&quot; I guessed.</p>
 <p>&quot;Precisely.&quot;</p>
@@ -166,7 +166,7 @@ nav_title = "Chapter 12"
 <p>&quot;If Lord Pilemon were to take Lady Eris as his concubine, he would probably find some excuse to offer her to Lord Darius.&quot;</p>
 <p>Hmm, so Darius had been the perverted noble all this time. Apparently, there were a lot of those in the Asura Kingdom. Granted, he had good taste if he fancied Eris, though that taste was the only non-terrible thing about him.</p>
 <p>&quot;Well, we&#x27;re rejecting that idea, right?&quot;</p>
-<p>&quot;Not quite. While I can&#x27;t help but grimace at the idea of the man himself, Lord Darius has the most influence in the capital right now. Lady Eris won&#x27;t like him, but it <em>would</em> guarantee her status and the comfort of her living conditions.&quot;</p>
+<p>&quot;Not quite. While I can&#x27;t help but grimace at the idea of the man himself, Lord Darius has the most influence in the capital right now. Lady Eris won&#x27;t like him, but it would guarantee her status and the comfort of her living conditions.&quot;</p>
 <p>&quot;But still…&quot;</p>
 <p>&quot;And if she were to make a bit of a selfish request, he would surely listen to her. For example, if she requested the development of a village in the Fittoa Region for its people.&quot;</p>
 <p>Now I understood. If she became a powerful woman herself, then she&#x27;d be able to tap into his money and influence. Even so, I</p>
@@ -185,7 +185,7 @@ nav_title = "Chapter 12"
 <p>&quot;And then what happens to the Fittoa Region?&quot; Alphonse snapped.</p>
 <p>&quot;You deal with it.&quot; Ghislaine retorted coldly. Perhaps she and Alphonse just fundamentally did not get along.</p>
 <p>&quot;Would it not be the realization of our dearest wish, if Lady Eris were to take control over the land that Lord Sauros so loved?&quot;</p>
-<p>&quot;That&#x27;s <em>your</em> greatest wish. Don&#x27;t lump me in with you. I just want Lady Eris to be happy.&quot;</p>
+<p>&quot;That&#x27;s your greatest wish. Don&#x27;t lump me in with you. I just want Lady Eris to be happy.&quot;</p>
 <p>&quot;And you think she&#x27;ll be happy if she runs away with Lord Rudeus?&quot;</p>
 <p>&quot;Happier than if she&#x27;s forced to marry Pilemon,&quot; Ghislaine argued.</p>
 <p>&quot;And what about the people of the region?&quot;</p>

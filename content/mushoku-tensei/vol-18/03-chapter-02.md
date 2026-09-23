@@ -13,45 +13,45 @@ nav_title = "Chapter 2"
 <p>Pham wasn&#x27;t alone out there, either. She had her apothecary friend Angie with her, and this Angie person was more dangerous than I&#x27;d imagined. She was far too sexy. Bewitching, even. If I hadn&#x27;t watched myself properly, I might have given in right there and had my way with her. Fortunately, I avoided death by temptation only thanks to the replica of my holy idol. Ordinarily, such divine rituals should never be performed in sight of others, but I had no other choice. I had to get a grip on myself and convince the woman to abandon her advances.</p>
 <p>&quot;Phew.&quot;</p>
 <p>Now all that was out of the way, it was time to hurry home, pat my kids on the head, enjoy Aisha&#x27;s excellent rice dinner, then indulge in some carnal pleasures with one of my wives. That was basically my whole reason for living. You could say it was my only motivation for getting through each mission alive.</p>
-<p>I arrived home, still preoccupied with such thoughts. As I approached the front entrance, Byt, who was twisted around the entryway like a morning glory, swung the door open for me. <em>When did he become our automatic doorman?</em> Not that it mattered, since it was convenient.</p>
+<p>I arrived home, still preoccupied with such thoughts. As I approached the front entrance, Byt, who was twisted around the entryway like a morning glory, swung the door open for me. When did he become our automatic doorman? Not that it mattered, since it was convenient.</p>
 <p>I saw that Dillo, our armadillo, wasn&#x27;t in his doghouse, which meant Roxy was still at work. Zenith was spacing out in the garden while Lilia hung the laundry, so I waved to them. Lilia bowed her head in greeting, and I slipped into the house.</p>
 <p>&quot;I&#x27;m home!&quot;</p>
 <p>&quot;Oh, that&#x27;s Big Brother&#x27;s voice! Welcome home, welcome home! Sadly, your baby sister is a little preoccupied right now, but I am saying &#x27;welcome home&#x27;!&quot; Aisha&#x27;s voice bellowed from the basement.</p>
-<p>&quot;Yep, I can hear you!&quot; <em>Wonder what she&#x27;s doing? Maybe sorting out the fertilizer?</em></p>
+<p>&quot;Yep, I can hear you!&quot; Wonder what she&#x27;s doing? Maybe sorting out the fertilizer?</p>
 <p>&quot;Welcome home, Rudy,&quot; Sylphie said, hurrying out from the living room. Lucie followed close behind, like a little duckling.</p>
 <p>&quot;Glad to be home, Sylphie. I&#x27;m exhausted.&quot;</p>
 <p>&quot;Make sure to rest after this then.&quot; Sylphie helpfully peeled off my robe, dusting it off before hanging it up. I had already taken off the magic armor I had been wearing beneath it and left it at the office.</p>
 <p>I stood by the large mirror near the entrance and what stared back was an ordinary man you could find just about anywhere in the world. Except today in particular I looked utterly fatigued, like a perpetually exhausted salaryman.</p>
 <p>&quot;Daddy! Wall-come home!&quot;</p>
 <p>While I was busy studying my reflection, Lucie came up and greeted me. She had light brown hair and stoic yet dignified features. She was only three, but looked like a beautiful little elf boy. Her ears were admittedly shorter than Sylphie&#x27;s, but otherwise she looked exactly like her mother at that age. And here she was, standing quietly in front of me, welcoming me home.</p>
-<p><em>Aaah! Did you hear that?! &quot;Daddy! Welcome home!&quot; Aaaah!</em></p>
+<p>Aaah! Did you hear that?! &quot;Daddy! Welcome home!&quot; Aaaah!</p>
 <p>&quot;That&#x27;s right! I&#x27;m home, Lucie!&quot; Filled with emotion, I reached down to pick her up, but Lucie promptly retreated behind Sylphie and hid from my view. She glanced at me warily once she was safely out of my reach.</p>
-<p>The shock hit me like a fist to the gut. <em>Oh no. Now what? I</em></p>
-<p><em>think I might actually cry.</em></p>
+<p>The shock hit me like a fist to the gut. Oh no. Now what? I</p>
+<p>think I might actually cry.</p>
 <p>&quot;Hey, Lucie!&quot; Sylphie scolded.</p>
 <p>&quot;Nooo!&quot;</p>
 <p>Sylphie grabbed her daughter and held her toward me. I wasted no time taking her. She was so light and warm. The same could be said about Sylphie; both she and Lucie had much higher body temperature than I. Perhaps it was because of their low body fat? Or was it a special characteristic of their race? Well, whatever the case…</p>
-<p><em>Lucie-Luce! Haah haah… Lots of kisses and cheek rubs, oh yes, missy! Mwahaha!</em></p>
+<p>Lucie-Luce! Haah haah… Lots of kisses and cheek rubs, oh yes, missy! Mwahaha!</p>
 <p>&quot;Nooo! Pricklies!&quot; Lucie voiced her complaints as I rained down kisses upon her.</p>
 <p>Come to think of it, I hadn&#x27;t shaved at all while on the job. Whiskers or not though, if she didn&#x27;t like it, it was best to stop. It wasn&#x27;t right to do something against her consent. I didn&#x27;t want her to hate me. I put her down, and she scrambled toward the dining room to escape me.</p>
-<p><em>Does she really hate me that much?</em> My shoulders slumped in dejection.</p>
+<p>Does she really hate me that much? My shoulders slumped in dejection.</p>
 <p>&quot;Oh, honestly, Lucie,&quot; Sylphie grumbled, hands on her hips as she sighed.</p>
 <p>At least Lucie was a lot fonder of me now than she used to be. She did call me &quot;Daddy&quot; and no longer looked at me as if she had no idea who I was. There was still some distance between us, sure, but…that couldn&#x27;t really be helped.</p>
 <p>&quot;Ah!&quot;</p>
 <p>In order to replace the warmth I had just lost, I wrapped my arms around Sylphie. I made sure to get a nice survey of her butt as I planted a kiss on her.</p>
 <p>&quot;Really, Rudy…&quot;</p>
-<p><em>Oh boy, now I&#x27;m starting to get all hot and bothered. Maybe I should carry her off to the bedroom? But the kids are still awake right now…</em></p>
+<p>Oh boy, now I&#x27;m starting to get all hot and bothered. Maybe I should carry her off to the bedroom? But the kids are still awake right now…</p>
 <p>&quot;Absolutely not. Save it for later,&quot; Sylphie said.</p>
 <p>&quot;Yes, ma&#x27;am.&quot; I obediently released her. In truth, as long as I had her love, I wouldn&#x27;t be swayed by any other woman.</p>
 <p>&quot;Where are Roxy and Lara?&quot; I asked.</p>
 <p>&quot;Roxy&#x27;s still at the school. Lara&#x27;s in the living room.&quot;</p>
 <p>With that information in hand, I accompanied Sylphie to said living room. My second daughter, Lara Greyrat, was fast asleep in her cradle. She had beautiful blue hair and still had a brazen look on her face, like she was surveying the surroundings of her bed with utmost conviction. It didn&#x27;t help that Leo was curled up at the base of her bed, making her look even more self-important.</p>
 <p>&quot;Lara, I&#x27;m home.&quot;</p>
-<p>&quot;Aauuh,&quot; she babbled back. She was capable of responding even at this tender age. She was not yet a year old. <em>Could it be that my daughter is a genius?</em> Or perhaps, like me, she&#x27;d reincarnated here</p>
+<p>&quot;Aauuh,&quot; she babbled back. She was capable of responding even at this tender age. She was not yet a year old. Could it be that my daughter is a genius? Or perhaps, like me, she&#x27;d reincarnated here</p>
 <p>from another world. That said, she didn&#x27;t respond at all to my attempts at using English or Japanese with her.</p>
 <p>Perhaps it was the cheeky expression she wore, but I felt like I could hear her say, &quot;That was splendid work out there. I bid you take some time for yourself and rest now.&quot; It made me wonder she&#x27;d really grow up to sound as impertinent as she looked.</p>
 <p>&quot;Lara sure doesn&#x27;t cry much. And she doesn&#x27;t smile, either. It kind of worries me,&quot; Sylphie mumbled. Apparently she was concerned for a very different reason than I was.</p>
-<p>I didn&#x27;t see the big issue, personally. <em>I mean look at her, she looks super conceited.</em> You could tell by her face that she was gonna be a hotshot someday. No doubt about it.</p>
+<p>I didn&#x27;t see the big issue, personally. I mean look at her, she looks super conceited. You could tell by her face that she was gonna be a hotshot someday. No doubt about it.</p>
 <p>Still, I could understand what Sylphie was getting at. There were so many different ailments out there in the world, and being even a little different was more than enough ammunition for other kids to bully you.</p>
 <p>&quot;Well, even assuming there is something wrong, as family, we&#x27;ll be there to back her up,&quot; I said.</p>
 <p>Sylphie nodded. &quot;I agree with you, but I fear Roxy will feel responsible for anything that happens.&quot;</p>
@@ -73,9 +73,9 @@ nav_title = "Chapter 2"
 <p>&quot;What&#x27;s going on?&quot;</p>
 <p>Aisha whipped around to face me. &quot;Oh, Big Brother. You have to hear this! Miss Eris seems to have brought home a cat and it&#x27;s been a nuisance meowing all morning.&quot;</p>
 <p>&quot;A cat?&quot;</p>
-<p><em>A cat, hm?</em> Not surprising, since Eris did like animals. I didn&#x27;t care much for them since they never seemed to take a liking to me. Leo was a different story though, so I guess if anything you could call me a dog-lover. Anyone on the receiving end of such affection can&#x27;t help but want to return it.</p>
+<p>A cat, hm? Not surprising, since Eris did like animals. I didn&#x27;t care much for them since they never seemed to take a liking to me. Leo was a different story though, so I guess if anything you could call me a dog-lover. Anyone on the receiving end of such affection can&#x27;t help but want to return it.</p>
 <p>&quot;It&#x27;s not like I hate cats, you see, but we already have three other pets, right? I told her to at least get your permission first before she decides to keep it, but she won&#x27;t listen to me,&quot; Aisha explained.</p>
-<p>So she felt like my permission was necessary, huh? <em>Well, I guess I am the head of the household.</em></p>
+<p>So she felt like my permission was necessary, huh? Well, I guess I am the head of the household.</p>
 <p>&quot;I don&#x27;t see a problem with her keeping it,&quot; I said.</p>
 <p>&quot;Really?!&quot; A happy albeit muffled voice called out from behind the door.</p>
 <p>It&#x27;s not healthy to indulge every desire, but since Eris was pregnant she was probably dealing with a bunch of stress. Letting her keep a cat or two was a small price to pay if it would help relieve some of that.</p>
@@ -94,16 +94,16 @@ nav_title = "Chapter 2"
 <p>Unfortunately, that wasn&#x27;t the only thing I noticed. The first thing that captured my attention were its breasts. Huge honkers about the size of Eris&#x27;s. Although the clothes it wore were in tatters, they at least covered its breasts and groin. Those thick, muscular thighs were coated not in fur but sun-kissed flesh, smooth as the skin of a pear.</p>
 <p>&quot;Ah! Boss, it&#x27;s been furr-ever! You really saved my tail. I purromise I won&#x27;t furget this debt fur the rest of my life!&quot;</p>
 <p>&quot;I found her during my morning walk and brought her home,&quot; Eris explained. &quot;Her name is Linia!&quot;</p>
-<p>Linia Dedoldia. Previously an upperclassman, this beastwoman had graduated from the University of Magic several years ago with top grades. Oh yes, I <em>definitely</em> remembered her. Mmhmm. <em>Well, this settles it.</em></p>
+<p>Linia Dedoldia. Previously an upperclassman, this beastwoman had graduated from the University of Magic several years ago with top grades. Oh yes, I definitely remembered her. Mmhmm. Well, this settles it.</p>
 <p>&quot;Throw her out,&quot; I said.</p>
 <p>&quot;No way!&quot; Eris slammed the door in my face.</p>
 <p>***</p>
 <p>It took nearly an hour to coax Eris to open up again. We moved to the living room to discuss the situation. It turned out that Eris had discovered Linia in the course of her routine walk with Leo. Five months pregnant, her morning sickness had finally faded, so she&#x27;d resumed going out with Leo again.</p>
-<p><em>So her first return to exercise was a walk, huh?</em> I suspected it had to do with a strong sense of territory. Whatever the case, a moderate degree of exercise was good for a pregnancy.</p>
+<p>So her first return to exercise was a walk, huh? I suspected it had to do with a strong sense of territory. Whatever the case, a moderate degree of exercise was good for a pregnancy.</p>
 <p>At any rate, it was during this walk that she passed by the slave market and an incident occurred. Linia burst out of the shadows, with some shady-looking men in pursuit. Tragically, they grabbed her by the tail and captured her. Eris, having witnessed all of this, made a split-second decision. She whipped out her sword, cut the sorry bastards down, stole off with her prize (Linia), and made her triumphant return home.</p>
 <p>&quot;I saved her, so she&#x27;s mine! We&#x27;re keeping her!&quot; Eris insisted, sounding more like a brigand than a lady.</p>
 <p>&quot;R-right. I&#x27;m Lady Eris&#x27;s kitty now, mew,&quot; Linia said from Eris&#x27;s lap, where the latter was playing with her ears. Her entire body trembled in fear the whole time. Among beasts, the unspoken rule was to roll over for whoever was strongest.</p>
-<p><em>Well, that&#x27;s all fine and good, but…</em></p>
+<p>Well, that&#x27;s all fine and good, but…</p>
 <p>&quot;I want to know what you&#x27;re even doing in the city, Linia. And why are you in those rags?&quot; I recalled that she left school dressed in fine attire, setting off from the city claiming she was going to become a merchant. Now, she wore threadbare rags covered in grime. And, if we were being frank, she stunk.</p>
 <p>&quot;So glad you asked, mew. Thinking back, it was such a long, grueling and tragic tale, sure to bring tears—&quot;</p>
 <p>&quot;Give me the short version,&quot; I said, interrupting.</p>
@@ -116,7 +116,7 @@ nav_title = "Chapter 2"
 <p>While the badge was fake, the promissory note she wrote was the real thing. Instead of reducing what she owed, she was instead a further twenty gold coins in debt. And Asura gold coins were the most valuable currency in the entire world. A loan of twenty coins meant exorbitant interest. Linia was already in hot water because of all the interest from her other loans, so there was no way she could pay this one off, either. They confiscated her wagon and goods before apprehending her as well.</p>
 <p>&quot;They totally took me for a ride then made me into a slave to boot, mew.&quot;</p>
 <p>You&#x27;d think it would be more profitable to have someone paying the interest forever, so I had to assume this person had devised some way to make good money off turning her into a slave.</p>
-<p><em>Well, we&#x27;ll leave that aside for now.</em></p>
+<p>Well, we&#x27;ll leave that aside for now.</p>
 <p>Honestly, it was partly her own fault that she became a slave. Of course, a scam was a scam, meaning the person responsible was awful for what they&#x27;d done, but half the responsibility for her situation was still her own.</p>
 <p>&quot;Hm.&quot;</p>
 <p>Nevertheless, I wished Eris hadn&#x27;t cut down one of the slave traders&#x27; crew. We had two underage girls in our house, and babies too. We couldn&#x27;t have a bunch of lowlifes on our tail.</p>
@@ -134,9 +134,9 @@ nav_title = "Chapter 2"
 <p>&quot;That sure was rude, mew! I&#x27;ll have you know, I&#x27;m an untouched virgin, mew! Dunno why, but they said I&#x27;d be more valuable that way, so they didn&#x27;t bother, mew!&quot;</p>
 <p>&quot;Oh yeah? That&#x27;s a relief.&quot;</p>
 <p>Why did I even ask that question to begin with? It just occurred to me and I wanted to check. I didn&#x27;t consider the question would only make her relive the trauma if she had been assaulted. I needed to be more considerate.</p>
-<p><em>Anyway, they said she&#x27;d be more valuable like this, huh? Guess even this world treasures virginity. I mean, there&#x27;s even a unicorn in the Great Forest that&#x27;s totally obsessed with girls&#x27; &quot;purity.&quot;</em> I got to my feet. My nose ached from being punched, and when I pressed my fingers to my nostril, they came away coated in blood. Sylphie hurriedly used some of her healing magic on me.</p>
+<p>Anyway, they said she&#x27;d be more valuable like this, huh? Guess even this world treasures virginity. I mean, there&#x27;s even a unicorn in the Great Forest that&#x27;s totally obsessed with girls&#x27; &quot;purity.&quot; I got to my feet. My nose ached from being punched, and when I pressed my fingers to my nostril, they came away coated in blood. Sylphie hurriedly used some of her healing magic on me.</p>
 <p>&quot;Well, anyhow, this is troubling,&quot; I said again.</p>
-<p>Eris had already killed some of the slave traders&#x27; people. They probably already knew what she looked like and might return for revenge. We had to do something to stop that. <em>Should we return Linia and try to smooth things over? Or should we make an enemy out of these slave traders and destroy them completely?</em> If we chose that path and they somehow kidnapped Norn, I&#x27;d be incredibly unhappy.</p>
+<p>Eris had already killed some of the slave traders&#x27; people. They probably already knew what she looked like and might return for revenge. We had to do something to stop that. Should we return Linia and try to smooth things over? Or should we make an enemy out of these slave traders and destroy them completely? If we chose that path and they somehow kidnapped Norn, I&#x27;d be incredibly unhappy.</p>
 <p>Though I wouldn&#x27;t be able to sleep soundly at night if I abandoned Linia, either. She was a friend, after all. Hmm.</p>
 <p>&quot;Excuse us!&quot; called a voice from the front entrance, interrupting my thoughts. I didn&#x27;t recognize it, but Linia flinched the moment she heard it and leaped up, scrambling to hide behind the couch.</p>
 <p>&quot;I-It&#x27;s them!&quot;</p>
@@ -151,7 +151,7 @@ nav_title = "Chapter 2"
 <p>&quot;Whoa! Hold up, hold up!&quot;</p>
 <p>…nothing, because the shorter man latched onto his arm and stopped him. &quot;Don&#x27;t put your hands on her. Don&#x27;t you dare! That&#x27;s the one thing I can&#x27;t permit!&quot;</p>
 <p>&quot;Boss, what&#x27;s the problem? We always do this kinda—&quot;</p>
-<p>&quot;Are you an imbecile?! That maid right there is <em>the</em> Rudeus Greyrat&#x27;s wet nurse and the mother of one of his sisters! If you leave a mark on her, your entire family will be annihilated for it, I warn you!&quot;</p>
+<p>&quot;Are you an imbecile?! That maid right there is the Rudeus Greyrat&#x27;s wet nurse and the mother of one of his sisters! If you leave a mark on her, your entire family will be annihilated for it, I warn you!&quot;</p>
 <p>The bald man&#x27;s face twitched in fear as he glanced at Lilia. &quot;Then why&#x27;dja have us come along then?&quot;</p>
 <p>&quot;Obviously because if things go awry and the Berserker Sword King suddenly appears, I expect you to be my shield…&quot;</p>
 <p>&quot;That&#x27;s cruel of ya.&quot;</p>
@@ -165,17 +165,17 @@ nav_title = "Chapter 2"
 <p>&quot;Yes, well, you see, Mister Rudeus… One of our slaves recently ran away.&quot;</p>
 <p>&quot;Oh? What kind of slave?&quot; I asked.</p>
 <p>&quot;A Dedoldian girl. One with great combat skills and some mastery over magic as well. A top-quality slave.&quot;</p>
-<p><em>Oho! Did you hear that, Linia? He called you top-quality. He thinks pretty highly of you!</em></p>
+<p>Oho! Did you hear that, Linia? He called you top-quality. He thinks pretty highly of you!</p>
 <p>&quot;And see, some employees of ours gave chase, only to meet a grim end. They were all cleanly cut in half.&quot;</p>
 <p>&quot;Interesting.&quot;</p>
 <p>Definitely Eris&#x27;s work. I did feel a bit guilty about that. Those slave traders were just doing their job. It would have been one thing if they were killed by their own slave, but instead they were murdered by someone completely unrelated to the situation. That did kind of suck.</p>
 <p>&quot;Well, no need to dwell on that,&quot; the little man continued. &quot;All a part of the job. People lose their lives every day to violence in this line of work. I can hardly hold that against you. Especially given</p>
 <p>you&#x27;re the underling of the Dragon God, the second strongest of the Seven Great Powers, and a close acquaintance of Asura Kingdom&#x27;s next king.&quot;</p>
 <p>&quot;I appreciate you being so understanding.&quot;</p>
-<p>So he was terrified of both Orsted and Ariel. <em>Connections really do mean everything no matter what world you&#x27;re in. Thank you, CEO Orsted and Section Chief Ariel!</em> With their influence in play, these negotiations were looking pretty promising. That said, I wasn&#x27;t very public about my working relationship with Orsted. I guess those rumors had spread from somewhere.</p>
+<p>So he was terrified of both Orsted and Ariel. Connections really do mean everything no matter what world you&#x27;re in. Thank you, CEO Orsted and Section Chief Ariel! With their influence in play, these negotiations were looking pretty promising. That said, I wasn&#x27;t very public about my working relationship with Orsted. I guess those rumors had spread from somewhere.</p>
 <p>&quot;But, you see…Mister Rudeus…&quot;</p>
 <p>&quot;Yes?&quot;</p>
-<p>&quot;This, uh, slave of ours is just a <em>wee bit</em> valuable, you see.&quot;</p>
+<p>&quot;This, uh, slave of ours is just a wee bit valuable, you see.&quot;</p>
 <p>I nodded. &quot;Yes, you did say this slave is of &#x27;top quality,&#x27; as I recall.&quot;</p>
 <p>Personally, no matter how strong she was, Linia was still a hopeless idiot, so I didn&#x27;t see her being of much real use. Not that I had any right to judge others by their intelligence, or lack thereof.</p>
 <p>&quot;If this was just your average slave, we&#x27;d be happy to offer her to you, no strings attached, and invite you to visit our establishment again in the future. Hehe, but sadly, we can&#x27;t part with this one so easily. She&#x27;s already got a buyer, see.&quot;</p>
@@ -189,19 +189,19 @@ nav_title = "Chapter 2"
 <p>&quot;A slave worth this much is rare indeed. We can&#x27;t quietly let her go without lifting a finger.&quot;</p>
 <p>&quot;I can see your point,&quot; I said.</p>
 <p>&quot;Yes, yes, I hope you can understand. Even if we wanted to back down, we simply can&#x27;t. Getting our hands on her cost us a pretty penny in the first place.&quot;</p>
-<p>I stared silently at him. <em>Hm, acquiring her cost them too, huh? Well, it&#x27;s true if they lose too much because of this, they&#x27;ll have to shut down.</em> Not that it affected me at all if they went under, but I wasn&#x27;t eager to make them resent me for it, either.</p>
+<p>I stared silently at him. Hm, acquiring her cost them too, huh? Well, it&#x27;s true if they lose too much because of this, they&#x27;ll have to shut down. Not that it affected me at all if they went under, but I wasn&#x27;t eager to make them resent me for it, either.</p>
 <p>&quot;Come to think of it, Mister Rudeus…&quot; As I was lost in thought, Kincho flashed a huge smile at me. &quot;As I remember, you have a younger sister and a wife going to the University of Magic here, yes? It would be a shame if things got uncomfortable for them…&quot;</p>
-<p>&quot;Hold on,&quot; I interrupted. &quot;Are you threatening to do something to Norn and Roxy?&quot; <em>If you put your hands on them, I won&#x27;t show any mercy. I&#x27;ll destroy all of Ranoa Kingdom if that&#x27;s what it takes to hunt you down.</em></p>
+<p>&quot;Hold on,&quot; I interrupted. &quot;Are you threatening to do something to Norn and Roxy?&quot; If you put your hands on them, I won&#x27;t show any mercy. I&#x27;ll destroy all of Ranoa Kingdom if that&#x27;s what it takes to hunt you down.</p>
 <p>&quot;Uh, erm, forget what I said! Forget I said anything! Of course, you realize, Mister Rudeus, I have no desire to make an enemy out of you. I&#x27;m all about love and peace! I want us to be on good terms, I promise!&quot;</p>
 <p>&quot;Yes, I would like the same, which is precisely why I am standing here talking to you.&quot;</p>
 <p>&quot;Right, of course. Which is why I&#x27;d appreciate it if you would return that slave. We have no intention of putting our lives at risk by messing with you. But, well, you understand my dilemma, don&#x27;t you? If we can&#x27;t get her back, it&#x27;ll be our heads on the chopping block. If we are doomed to die either way, we might as well try fighting, yes?&quot;</p>
 <p>I understood what he was getting at, and I was just as flummoxed as he was. Any goodwill his company had would be lost if they canceled an order after getting three hundred Asuran gold coins as an advance payment. And based on the size of the deposit, they might have forked a considerable sum over to secure her for sale. If they lost her, that money was sure to bankrupt them. Faced with their business crumbling, they&#x27;d probably resort to anything to save it, no matter how grim their chances. There was nothing more frightening than a cornered animal.</p>
 <p>&quot;Hm…&quot;</p>
-<p><em>Well, not much I can do I guess.</em> It was Linia&#x27;s own stupid mistakes that had landed her in this mess. She&#x27;d borrowed more than she could pay back, let her loans bloat with interest, and then fallen for a ridiculously obvious scam. She&#x27;d made her own bed. Probably best for her to go to the Boreas household and consider it like a prison sentence. At least none of the beast maids I saw during Sauros&#x27;s time seemed to be suffering. There&#x27;d be no backbreaking labor, either. Sure, she&#x27;d probably be subjected to some sexual stuff, but at least the masters of the house were handsome, like Philip and Eris. They would probably even pamper her, given their penchant for beastfolk. If I requested that they treat her well, that would probably work.</p>
-<p><em>Yep, sounds good. Let&#x27;s go with that.</em></p>
+<p>Well, not much I can do I guess. It was Linia&#x27;s own stupid mistakes that had landed her in this mess. She&#x27;d borrowed more than she could pay back, let her loans bloat with interest, and then fallen for a ridiculously obvious scam. She&#x27;d made her own bed. Probably best for her to go to the Boreas household and consider it like a prison sentence. At least none of the beast maids I saw during Sauros&#x27;s time seemed to be suffering. There&#x27;d be no backbreaking labor, either. Sure, she&#x27;d probably be subjected to some sexual stuff, but at least the masters of the house were handsome, like Philip and Eris. They would probably even pamper her, given their penchant for beastfolk. If I requested that they treat her well, that would probably work.</p>
+<p>Yep, sounds good. Let&#x27;s go with that.</p>
 <p>&quot;Very well, I understand,&quot; I said.</p>
 <p>&quot;Do you truly?&quot;</p>
-<p>&quot;Yes. I&#x27;ll immediately…&quot; <em>…go get Linia for you,</em> was what I had wanted to say, but I swallowed the words the moment I turned around. My eyes met someone else&#x27;s at the top of the stairs. Lucie, my beloved daughter, was peeking through the railing above, worriedly watching us from the shadows.</p>
+<p>&quot;Yes. I&#x27;ll immediately…&quot; …go get Linia for you, was what I had wanted to say, but I swallowed the words the moment I turned around. My eyes met someone else&#x27;s at the top of the stairs. Lucie, my beloved daughter, was peeking through the railing above, worriedly watching us from the shadows.</p>
 <p>After a very, very long pause, I finally breathed out, &quot;Miss Lilia?&quot;</p>
 <p>&quot;Yes, what may I do for you, my lord?&quot;</p>
 <p>Was it right to bend to their intimidation, bow my head and obediently hand Linia over? My little girl was watching, the anxiety plain on her face. As her father, could I really hand over the terrified, trembling kitty that had turned to us for protection?</p>
@@ -220,7 +220,7 @@ nav_title = "Chapter 2"
 <p>Well, it was worth asking, but apparently Linia and Pursena really had parted ways. While the former tried her cards at being a traveling merchant, the latter had probably returned home to be the chief of their people. So they wouldn&#x27;t have been caught together. Pursena was probably safely home in the Great Forest.</p>
 <p>&quot;If you say so. In that case, keep that in exchange for Linia,&quot; I said.</p>
 <p>&quot;Wh-what?! All three bags?!&quot;</p>
-<p>&quot;Not enough for you? Shall I add another one? Or would you rather a magic item instead?&quot; I reached for another tiny bag. <em>I&#x27;ll give you two thousand gold coins&#x27; worth of jewels if that&#x27;s what it takes. I&#x27;ll show you how much money I&#x27;ve earned this past year, if that&#x27;s what you want.</em></p>
+<p>&quot;Not enough for you? Shall I add another one? Or would you rather a magic item instead?&quot; I reached for another tiny bag. I&#x27;ll give you two thousand gold coins&#x27; worth of jewels if that&#x27;s what it takes. I&#x27;ll show you how much money I&#x27;ve earned this past year, if that&#x27;s what you want.</p>
 <p>&quot;N-no, th-this is more than enough!&quot;</p>
 <p>&quot;No need to be bashful. I&#x27;m often away from home, and I&#x27;d hate for anything to happen to my family while I&#x27;m not around. You understand that, don&#x27;t you?&quot;</p>
 <p>&quot;Y-yes, I do…&quot;</p>
@@ -229,18 +229,18 @@ nav_title = "Chapter 2"
 <p>&quot;Hm, should I throw in a magic item after all? I have a hat with a gem near the band that glows and can act as a flashlight.&quot;</p>
 <p>Kincho&#x27;s entire body trembled, face contorted in fear as he lowered his head. &quot;I-I understand! We&#x27;ll sell her to you! You&#x27;ve more than compensated us. We have no intention of making an enemy out of you. So please, no more threats!&quot;</p>
 <p>&quot;Pleased we could reach an agreement.&quot;</p>
-<p><em>I won! A victory bought with coins—or gems, in this case!</em></p>
+<p>I won! A victory bought with coins—or gems, in this case!</p>
 <p>Pleased as I was, I didn&#x27;t want any bad blood between us. Or with the Boreas family, either. &quot;I&#x27;ll pen a letter to the Boreas family for you. Return here in a few days for it, and you can bring me a receipt while you&#x27;re at it.&quot;</p>
 <p>&quot;Yes. Th-that would be…a big help.&quot;</p>
 <p>The moment he finished speaking, Kincho sped off, dragging his two muscleheads with him.</p>
 <p>&quot;Phew.&quot;</p>
-<p><em>Ahaha, oh boy… I got a little too worked up and blew through a ridiculous amount of money. One thousand five hundred coins&#x27; worth of magic stones?</em> I could only imagine the reason Lilia had said nothing thus far was because she was exasperated.</p>
+<p>Ahaha, oh boy… I got a little too worked up and blew through a ridiculous amount of money. One thousand five hundred coins&#x27; worth of magic stones? I could only imagine the reason Lilia had said nothing thus far was because she was exasperated.</p>
 <p>&quot;My lord.&quot;</p>
 <p>&quot;Miss Lilia?&quot;</p>
 <p>&quot;That was splendid work.&quot;</p>
 <p>&quot;Thank you.&quot;</p>
-<p>She smiled slightly and bowed. So she was willing to forgive my overspending, but I wasn&#x27;t sure if Aisha would. <em>Maybe I should try to convince Orsted it was a necessary work expense and that I need compensation.</em></p>
-<p>At any rate, that matter was settled. <em>Did you see that just now, little Lucie? Daddy&#x27;s perfectly capable of being assertive with people when he needs to be! So if you ever find yourself in a tight spot, I&#x27;ll jump in to save you like I did for Linia. You needn&#x27;t worry at all. Just fly right into Daddy&#x27;s arms!</em></p>
+<p>She smiled slightly and bowed. So she was willing to forgive my overspending, but I wasn&#x27;t sure if Aisha would. Maybe I should try to convince Orsted it was a necessary work expense and that I need compensation.</p>
+<p>At any rate, that matter was settled. Did you see that just now, little Lucie? Daddy&#x27;s perfectly capable of being assertive with people when he needs to be! So if you ever find yourself in a tight spot, I&#x27;ll jump in to save you like I did for Linia. You needn&#x27;t worry at all. Just fly right into Daddy&#x27;s arms!</p>
 <p>&quot;Eh?&quot;</p>
 <p>When I turned around, no one was there. Lucie had disappeared from her spot at the top of the stairs. My entire body slumped with disappointment.</p>
 <p>Regardless of my personal feelings, I had managed to save Linia, and she would be living with us from now on…as a slave.</p>

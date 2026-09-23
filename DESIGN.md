@@ -94,3 +94,4 @@ bloom; base grid untouched.
 - Keyboard: focus rings visible; menus Esc-closable.
 - `prefers-reduced-motion`: static grid, no spotlight, no typewriter.
 - Mobile 390px: no horizontal overflow.
+

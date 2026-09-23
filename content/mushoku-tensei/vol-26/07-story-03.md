@@ -17,13 +17,13 @@ nav_title = "Story 3"
 <p>&quot;I thought if you saw that you might cut me a bit of slack.&quot;</p>
 <p>&quot;Lost that bet, huh?&quot;</p>
 <p>&quot;Whatever. I was doomed anyway.&quot;</p>
-<p>I wasn&#x27;t so weak-willed that I&#x27;d give up on everything I&#x27;d worked for just because of one dream. Though admittedly, I might have if it <em>hadn&#x27;t</em> been in the form of a dream.</p>
+<p>I wasn&#x27;t so weak-willed that I&#x27;d give up on everything I&#x27;d worked for just because of one dream. Though admittedly, I might have if it hadn&#x27;t been in the form of a dream.</p>
 <p>&quot;That was what you looked like, huh,&quot; he said.</p>
 <p>I looked at myself. The big, blubbery body…was gone. At some point, my appearance had changed. I was in pretty good shape—you could see muscle definition, and my abs were trim and toned. It was the kind of body that looked like it could float like a butterfly. It was the body I&#x27;d grown used to in this world… The body of Rudeus Greyrat. I couldn&#x27;t see my own face, but I didn&#x27;t feel like it was very old.</p>
 <p>&quot;You didn&#x27;t know?&quot;</p>
 <p>&quot;No. My eyes see straight to the soul. I knew there was something different between your body and your soul, but this is the first time I&#x27;ve actually seen you.&quot;</p>
 <p>He was really dropping some hot new information on me now! Then again, I didn&#x27;t know what the Man-God looked like either. Technically, we were even.</p>
-<p><em>How come my body&#x27;s only just changed to look like this now? Actually, never mind. I don&#x27;t need an answer.</em></p>
+<p>How come my body&#x27;s only just changed to look like this now? Actually, never mind. I don&#x27;t need an answer.</p>
 <p>&quot;Anyhow. This is the end of the line for you,&quot; said the Man-God.</p>
 <p>&quot;Yeah,&quot; I replied at length.</p>
 <p>I&#x27;d died, at seventy-four years old. It was hazy, but I remembered my final moments. I was surrounded by my children and my grandchildren. I think I was happy at the end. At the very least, it was a world away from the final moments in my previous life. When I compared it to that lonely, powerless, pathetic, pitiful end…</p>
@@ -33,7 +33,7 @@ nav_title = "Story 3"
 <p>&quot;You still haven&#x27;t quit, huh?&quot;</p>
 <p>The Man-God&#x27;s mood changed. Now he was angry.</p>
 <p>&quot;Obviously,&quot; he said. &quot;Would you give up if you knew that future was coming? Always alone, unable to do anything, see anything—and spending ten or even a hundred thousand years like that. I know I couldn&#x27;t live like that. How could I give up?&quot;</p>
-<p><em>Okay, fair enough. Can&#x27;t imagine it turning into such an epic thing, though.</em></p>
+<p>Okay, fair enough. Can&#x27;t imagine it turning into such an epic thing, though.</p>
 <p>Still, I understood a little of what he felt. If you knew that something was going to happen to you, the sort of future that awaited you, and that you&#x27;d regret it unless you acted now, you wouldn&#x27;t be able to sit back and let it happen.</p>
 <p>&quot;Yeah, I guess you can&#x27;t quit.&quot;</p>
 <p>&quot;What&#x27;re you acting so ambivalent for? Think you&#x27;ve already won or something?&quot;</p>
@@ -57,7 +57,7 @@ nav_title = "Story 3"
 <p>&quot;I don&#x27;t think I actually hated you that much.&quot;</p>
 <p>I think the Man-God looked sour.</p>
 <p>Sure, maybe I only thought it because right at that moment, I was winning. Sylphie and Roxy were still alive, and our children were all healthy. Eris had died before me, but she&#x27;d reached the end of her life—it hadn&#x27;t been the Man-God&#x27;s fault. If some little thing had gone differently, I could have ended up hating the Man-God with every fiber of my being. I might have turned into a machine whose only purpose was killing the Man-God, like the me from the future. I doubt he was able to die feeling as peaceful as I did now. The person I was now was a result of how things had happened to turn out, nothing more.</p>
-<p>&quot;What are you <em>talking</em> about?&quot; the Man-God said.</p>
+<p>&quot;What are you talking about?&quot; the Man-God said.</p>
 <p>&quot;I don&#x27;t really know myself. But I think it&#x27;s thanks to you I&#x27;m able to feel so peaceful. If I hadn&#x27;t had such a clear enemy, I don&#x27;t think I&#x27;d be so content now.&quot;</p>
 <p>Right. That was it. If not for the Man-God, I&#x27;d probably have started getting lazy around when I turned twenty.</p>
 <p>I&#x27;d have married Sylphie, worked reasonably hard, and tried a reasonable amount. I&#x27;d have come to the end of a reasonable life, feeling reasonably content, and then died. That would&#x27;ve been that. A life like that wouldn&#x27;t have been bad, in and of itself, but there&#x27;s no way it would have brought me the contentment I felt now. Even if I didn&#x27;t actually regret anything before I died, I might have wanted another chance, or to do something over, or to go back to some point in the past.</p>

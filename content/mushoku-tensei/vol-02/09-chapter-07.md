@@ -12,19 +12,19 @@ nav_title = "Chapter 7"
 <p>The languages in this world weren&#x27;t that difficult. Once you learned one, you could use it as a basis for learning the others. Probably a side-effect of all the warring between the races.</p>
 <p>However, there was no literature in either the Sky God tongue or the Sea God tongue, nor any people who used those languages around here, so I was unable to learn them. Oh well, speaking four languages was more than enough for me.</p>
 <p>As for swordplay, my skills were approaching the Intermediate tier. In just two years Eris had gone from Intermediate-tier to Advanced-tier, so I was no longer any match for her. You could really feel the gap in our abilities.</p>
-<p><em>Ah well,</em> I thought. <em>It seems she spent her days off training really hard, so that&#x27;s how it goes.</em> While I spent my free time learning languages, she spent hers with the sword. The gap between us was only natural.</p>
+<p>Ah well, I thought. It seems she spent her days off training really hard, so that&#x27;s how it goes. While I spent my free time learning languages, she spent hers with the sword. The gap between us was only natural.</p>
 <p>As for magic, I only practiced through making figurines. I was able to make them more and more detailed, which probably meant I was improving. It was true that I had hit a wall though. Of course, that would be solved once I began learning at the Magic University. There was no use in being impatient.</p>
 <p>Ten years had passed since I came into this world, huh? The thought made me a bit emotional.</p>
 <p>***</p>
 <p>As my birthday was about a month away, the people in the manor began growing restless, Eris especially so.</p>
-<p><em>What is it,</em> I wondered. Was someone important supposed to be coming? Like someone else from the Greyrat family, or perhaps Eris&#x27;s fiancée? No way, it couldn&#x27;t be. Eris with a fiancée? I felt like a fit of strange laughter might burst out of me. But the restlessness made me anxious, so I decided to investigate.</p>
+<p>What is it, I wondered. Was someone important supposed to be coming? Like someone else from the Greyrat family, or perhaps Eris&#x27;s fiancée? No way, it couldn&#x27;t be. Eris with a fiancée? I felt like a fit of strange laughter might burst out of me. But the restlessness made me anxious, so I decided to investigate.</p>
 <p>After doing a magnificent job of tailing Eris, I spotted her chatting happily with a maid in the kitchen. Ghislaine was there too, but she hadn&#x27;t noticed me. The brawny, animal-eared swordswoman was distracted by the meat that had been set out for our next meal.</p>
 <p>&quot;I can&#x27;t wait to see the look of surprise on Rudeus&#x27;s face! He might even weep with joy!&quot;</p>
 <p>&quot;I&#x27;m not certain about that. It is Lord Rudeus we&#x27;re talking about. Even if he felt surprised, he might not let it show.&quot;</p>
 <p>&quot;But you do think he&#x27;ll be happy, right?&quot; Eris asked.</p>
 <p>&quot;Yes, of course. As part of the branch family, I&#x27;m sure he&#x27;s had a rough time of it.&quot;</p>
 <p>I hadn&#x27;t really had a rough time of anything. But what exactly were they talking about? Were people gossiping about me? I was fairly confident I had done a fine job of being good, but perhaps I was the only one who thought so and the other people of this house actually found me unpleasant.</p>
-<p>If that were the case, I was confident I <em>would</em> weep. Specifically, confident I would create more work for the maids by using my pillow as a tissue to soak up all my tears.</p>
+<p>If that were the case, I was confident I would weep. Specifically, confident I would create more work for the maids by using my pillow as a tissue to soak up all my tears.</p>
 <p>&quot;I have to make sure it&#x27;s ready in time!&quot; Eris said.</p>
 <p>&quot;Being impatient won&#x27;t make things go well.&quot;</p>
 <p>&quot;If I can&#x27;t make it well, you think he won&#x27;t eat it?&quot;</p>
@@ -36,10 +36,10 @@ nav_title = "Chapter 7"
 <p>Now that I knew what the conversation was about, I decided to take my leave.</p>
 <p>It turned out that I was someone who had to be kept from the public eye. In the past, I might have thought they wanted to hide me because of who my father was, but now I knew it wasn&#x27;t that.</p>
 <p>This was something I had learned in the past couple of years. Paul&#x27;s real name was Paul Notos Greyrat. Notos was the name of Paul&#x27;s noble family. A long, long time ago, Paul was disowned by the Notos household, and his cousin or younger brother became the head of the household in his place.</p>
-<p>That was fine, it was the past. Except that there were those who wouldn&#x27;t, or rather, <em>didn&#x27;t</em>, want to leave things in the past. Those in power were full of paranoia. Worst case scenario, they might send assassins after me. That was why it was necessary to hide me.</p>
+<p>That was fine, it was the past. Except that there were those who wouldn&#x27;t, or rather, didn&#x27;t, want to leave things in the past. Those in power were full of paranoia. Worst case scenario, they might send assassins after me. That was why it was necessary to hide me.</p>
 <p>Ordinarily, I should have been treated as more important than Eris since I was a boy, but instead I was being treated like a servant. Even the tenth birthday celebration, one of the most important noble customs, had to be limited in scale for me. That&#x27;s why everyone kept saying, &quot;Poor thing, how awful.&quot;</p>
 <p>That was why Eris had gone to her grandfather for the first time in a long while to request a secret party for me. One just for the people in the manor. A modest home party especially for me.</p>
-<p>Still, that was close. I was glad I eavesdropped, because although I knew about the customs here, a tenth birthday was nothing special to me. In fact, my own idea of a party <em>was</em> a house party, not that gigantic celebration that Eris had for her birthday. If someone had told me they were going to throw me a birthday party, my reaction would be pretty flat. Like, &quot;Oh, really? Thanks,&quot; or similar.</p>
+<p>Still, that was close. I was glad I eavesdropped, because although I knew about the customs here, a tenth birthday was nothing special to me. In fact, my own idea of a party was a house party, not that gigantic celebration that Eris had for her birthday. If someone had told me they were going to throw me a birthday party, my reaction would be pretty flat. Like, &quot;Oh, really? Thanks,&quot; or similar.</p>
 <p>But this was Eris&#x27;s idea. I was the only one her age around here, so this was the first time she&#x27;d done something like this. If I didn&#x27;t act excited about it, she would be disappointed.</p>
 <p>I decided to practice making fake tears with water magic. Because I was a man who knew how to read the situation.</p>
 <p>***</p>
@@ -52,7 +52,7 @@ nav_title = "Chapter 7"
 <p>&quot;What? Just what kind of magic is it?&quot;</p>
 <p>&quot;Saint-tier water magic involves gale force winds and a lightning storm. If I try hard enough, I can probably submerge the entire city.&quot;</p>
 <p>&quot;That&#x27;s amazing… I would like you to show me that next time then.&quot; She was oddly excited about it. That must have been part of the plan.</p>
-<p><em>All right then, let&#x27;s tease her a little.</em></p>
+<p>All right then, let&#x27;s tease her a little.</p>
 <p>&quot;If you&#x27;re that interested, let&#x27;s do it. If we ride out about two hours, we should get a safe distance away. Let&#x27;s leave now.&quot;</p>
 <p>Her cheek twitched. &quot;Two hours?! N-no, wait. If we leave now, we&#x27;ll get back late. Monsters come out at night. Even the plains aren&#x27;t safe.&quot;</p>
 <p>&quot;Really? But we should be fine so long as you&#x27;re there. You said before that beastfolk are sensitive to sound, so you&#x27;re just as vigilant at night as you are during the day, right?&quot;</p>
@@ -69,15 +69,15 @@ nav_title = "Chapter 7"
 <p>Ghislaine let out a small breath as she looked at it. &quot;Is this me? You&#x27;ve gotten pretty good at this. You did a nice job before when you were making one of Lady Eris, but this one is… Hm? There&#x27;s no tail.&quot;</p>
 <p>&quot;Unfortunately, I only have a vague understanding about tails. I usually create these from my imagination, but this time I&#x27;m being very picky because I want it to look as close to the real thing as possible.&quot;</p>
 <p>&quot;Hm.&quot; Her tail twitched as if she were deep in thought.</p>
-<p><em>Heh, I&#x27;m looking forward to seeing just what kind of face you&#x27;ll make,</em> I thought.</p>
+<p>Heh, I&#x27;m looking forward to seeing just what kind of face you&#x27;ll make, I thought.</p>
 <p>&quot;Would you let me see yours? The base of your tail that is.&quot;</p>
 <p>&quot;No problem,&quot; she said. She turned around and pulled her pants off. She didn&#x27;t even hesitate. Right in front of me was her firm, muscular behind and the base where her tail attached.</p>
-<p><em>Amazing! I knew it would be! She&#x27;s so fearless! There&#x27;s no winning against her,</em> I silently gushed.</p>
+<p>Amazing! I knew it would be! She&#x27;s so fearless! There&#x27;s no winning against her, I silently gushed.</p>
 <p>No! I couldn&#x27;t falter, not here. Ghislaine always had her guard up, but right now my curiosity overcame me. &quot;C-could I touch it for just a moment?&quot;</p>
 <p>&quot;Sure. Go ahead.&quot;</p>
-<p><em>It&#x27;s hard,</em> I thought. <em>Huh?! Wait a second, this is her ass, right? Right?</em></p>
+<p>It&#x27;s hard, I thought. Huh?! Wait a second, this is her ass, right? Right?</p>
 <p>It was as hard as steel. Yet at the same time, there was a certain softness to it. The ideal balance, the perfect amount of muscle. A perfect marriage of the properties of both red and white muscle! Any man, no matter who he was, would admire this. It was a little bit difficult to find this sexy though.</p>
-<p><em>Lord of Muscles, God of Sex, how grateful I am for your existence, however much the polar opposite of me you are,</em> I thought. <em>So grateful, so grateful. Please, bless unto me muscles such as these.</em></p>
+<p>Lord of Muscles, God of Sex, how grateful I am for your existence, however much the polar opposite of me you are, I thought. So grateful, so grateful. Please, bless unto me muscles such as these.</p>
 <p>&quot;All right, that&#x27;s enough.&quot; I lifted my hands away from her butt, feeling mentally battered.</p>
 <p>Ghislaine adjusted her pants then turned back to face me. &quot;I once saw an artist painting a portrait of Lady Eris. Seeing that made me want something similar, something that could capture the current state of my body. I look forward to seeing the finished product.&quot; She looked genuinely happy as she confided this to me.</p>
 <p>It felt like I had lost as a man in a battle of masculinity. Was there no way I could win against someone as handsome as Ghislaine?</p>
@@ -92,11 +92,11 @@ nav_title = "Chapter 7"
 <p>&quot;Rudeus! Happy birthday!&quot; Eris wore a bright red dress and had a large bouquet of flowers in her arms.</p>
 <p>I kept the dumbfounded look on my face as I accepted them from her. &quot;Oh, that&#x27;s right. I turn ten today.&quot; I recited the lines just as I had practiced them, as if I had only just realized it was my birthday.</p>
 <p>Then, just as I had planned, I scrunched my face up and covered my eyes with my sleeve. At the same time, I used water magic to make tears well from my eyes. After a few moments I sniffed.</p>
-<p>&quot;I-I&#x27;m sorry. I-I just, this is… This is the first time since I came here… I kept thinking I couldn&#x27;t screw up, that I wasn&#x27;t welcome here… That if I screwed up, it would just cause issues for my father… I never thought you all would celebrate like this for me. <em>Sniff…</em>&quot;</p>
+<p>&quot;I-I&#x27;m sorry. I-I just, this is… This is the first time since I came here… I kept thinking I couldn&#x27;t screw up, that I wasn&#x27;t welcome here… That if I screwed up, it would just cause issues for my father… I never thought you all would celebrate like this for me. Sniff…&quot;</p>
 <p>I lifted my sleeve to check out their reactions, only to see Eris looking gobsmacked. Philip and Sauros and all the others in the room had ceased clapping. They all stood with their mouths agape.</p>
-<p><em>Crap. Was my acting too corny,</em> I wondered.</p>
-<p>No, that wasn&#x27;t it. It was the opposite. It was <em>too</em> good.</p>
-<p>I screwed up, I should have acted with moderation. <em>Sigh.</em> I really was a terrible adult for concocting this plan in the first place. Ah well, too late, best to continue as I had planned.</p>
+<p>Crap. Was my acting too corny, I wondered.</p>
+<p>No, that wasn&#x27;t it. It was the opposite. It was too good.</p>
+<p>I screwed up, I should have acted with moderation. Sigh. I really was a terrible adult for concocting this plan in the first place. Ah well, too late, best to continue as I had planned.</p>
 <p>Flustered, Eris turned to the butler asking, &quot;What should I do??&quot;</p>
 <p>Were my tears that big a deal? Her reaction was so cute that I put my arms around her. Then, in a nasally voice, I whispered words of gratitude in her ear. &quot;Eris, thank you.&quot;</p>
 <p>&quot;N-no big deal! Y-you&#x27;re family after all! It&#x27;s obvious I&#x27;d do this! Th-this is nothing to the Greyrat family, r-right, father! Grandfather!&quot;</p>
@@ -121,10 +121,10 @@ nav_title = "Chapter 7"
 <p>&quot;M-Mister Paul…couldn&#x27;t come because monsters have become more active in the forest lately, he said. B-but he said you didn&#x27;t need him here anyway. As for Miss Zenith, she said the two young ones suddenly fell ill with a fever so she couldn&#x27;t come either.&quot; Eris gave a choppy explanation.</p>
 <p>Ahh. So, they did invite them. Well, it couldn&#x27;t be helped. The village relied on Paul quite a bit, and if both the girls were sick, Zenith couldn&#x27;t leave their care solely to Lilia. It would have been nice to see them again, since it had been so long, but oh well.</p>
 <p>&quot;U-uh, um, Rudeus. You know, um…&quot; Eris started stumbling over her words again. It was cute, like a cat that got itself into trouble after acting so tough all the time.</p>
-<p><em>But don&#x27;t worry,</em> I thought. <em>It&#x27;s better if Paul&#x27;s not here.</em></p>
+<p>But don&#x27;t worry, I thought. It&#x27;s better if Paul&#x27;s not here.</p>
 <p>&quot;Oh, I see. So my father and mother didn&#x27;t come then.&quot; I meant to sound like I didn&#x27;t mind, but since I had just stopped crying, my voice was all nasally. I probably sounded completely dejected instead.</p>
 <p>One of the maids sniffled.</p>
-<p>I&#x27;d screwed up big time. I hadn&#x27;t meant to make the atmosphere so glum. <em>Sorry, guys, looks like I can&#x27;t read the atmosphere after all.</em></p>
+<p>I&#x27;d screwed up big time. I hadn&#x27;t meant to make the atmosphere so glum. Sorry, guys, looks like I can&#x27;t read the atmosphere after all.</p>
 <p>Just as I thought that, Hilda dashed over and took me in her arms. I dropped the bouquet of flowers I was holding by accident. &quot;Argh!&quot;</p>
 <p>I barely spoke with Hilda. She had the same red hair as Eris and had the aura of a widow still at the prime of her youth, radiating raw sexuality. Someone who might appear in an erotic game with &quot;young wife&quot; or &quot;widow&quot; in the title. Of course, she wasn&#x27;t a widow so long as Philip was alive.</p>
 <p>She shouted as she squeezed me tightly. &quot;It&#x27;s all right, Rudeus, you can calm down. You&#x27;re part of our family now!&quot;</p>
@@ -144,12 +144,12 @@ nav_title = "Chapter 7"
 <p>Eris folded her arms, puffed out her chest, and stuck out her chin. It had been a while since I last saw this pose.</p>
 <p>&quot;Hmph! Alphonse! Bring it here!&quot; She snapped her fingers as if to make a sharp, assertive sound, but it came out dull and flat. Her</p>
 <p>cheeks flushed, but Alphonse seemed unperturbed as he produced a staff from the shadows of a sculpture.</p>
-<p>A staff, the same one that Roxy had used. A magician&#x27;s staff. One made of gnarled, knobby wood. At its tip was a large, costlylooking magical crystal. The moment I saw it I knew. That staff was <em>expensive</em>. I knew because I had made two wands myself.</p>
+<p>A staff, the same one that Roxy had used. A magician&#x27;s staff. One made of gnarled, knobby wood. At its tip was a large, costlylooking magical crystal. The moment I saw it I knew. That staff was expensive. I knew because I had made two wands myself.</p>
 <p>The rank of a staff was determined by the wood and the stone at its tip. Each type of magic had a certain affinity with different types of wood. Fire and earth spells matched best with persimmon wood, while water and wind matched best with pagoda wood.</p>
 <p>But even if the affinities didn&#x27;t match, it didn&#x27;t mean the power of a spell was diminished. The important thing wasn&#x27;t the wood, but the magical crystal. Channeling magic through the crystal increased the potency of a spell. There were many grades of crystal, but the larger and more transparent, the more effective it was. A crystal&#x27;s price increased astronomically with its effectiveness.</p>
 <p>The crystals I used to make Eris and Ghislaine&#x27;s wands were worth a silver coin apiece. There were cheaper ones, but I remembered the approximate size of the wand Roxy gave me and selected something similar. They were about as big as the tip of my smallest finger.</p>
 <p>This one was as big as a fist and was easily worth over a hundred gold coins. Especially with its ultramarine hue. A crystal with color to it greatly increased the potency of its magic.</p>
-<p><em>Just how much did she spend on that thing?</em> I wondered.</p>
+<p>Just how much did she spend on that thing? I wondered.</p>
 <p>Incidentally, the magic-imbued crystals found in labyrinths didn&#x27;t have an amplifying effect. Instead, they carried magic power of their own, so they were either used in magical items or used to supplement a person&#x27;s mana cost when using a powerful spell.</p>
 <p>&quot;It seems you&#x27;ve taken a liking to it!&quot; Eris said with a nod of satisfaction as I examined it. &quot;Alphonse, explain!&quot;</p>
 <p>&quot;Yes, my lady. The wood for this cane comes from the branch of a living elder treant in the eastern part of the great forest on the Millis Continent. I&#x27;m sure you are already aware of this from your extensive learning, Lord Rudeus, but it is said that an elder treant is a higher subspecies of the lesser treant, born from the nourishment of the fairy spring. It&#x27;s an A-rank magical creature that can manipulate water magic. The crystal comes from the northern part of the Begaritt Continent, from a wayward sea dragon. Another A-rank item. The crafter is Chein Procyon, the greatest staff craftsman, the Rod Director in the Asuran Royal Palace&#x27;s Mage Guild.&quot;</p>
@@ -170,7 +170,7 @@ nav_title = "Chapter 7"
 <p>***</p>
 <p>Once the party started, Eris&#x27;s mouth went off like a machine gun, talking about the cooking and the staff. I gave short responses as I listened, but midway through her words began to slow. Perhaps it was the exhaustion. She spoke less and less, beginning to mumble until she finally dozed off.</p>
 <p>I wasn&#x27;t sure if it was because she was exhausted from the excitement, or because her nervousness had finally lifted. Either way, Ghislaine carried Eris off like a princess so she could sleep in her own room.</p>
-<p><em>Sleep well,</em> I thought.</p>
+<p>Sleep well, I thought.</p>
 <p>Sauros and Hilda returned partway through the party. Sauros turned sullen after Philip intervened when he tried giving me alcohol. Hilda poured the old man some instead, and eventually he got utterly smashed. He left for his own room with a drunken smile and red tinge to his cheeks, laughing merrily.</p>
 <p>Hilda leaned over and gave me a final kiss goodnight before retiring to her own quarters. Most of the food had been polished off by that point. The maids cleared the last of the empty plates with sleepy looks on their faces.</p>
 <p>That left only Philip and me. For a while Philip just quietly knocked back his drink. Wine, I guessed. I learned during Eris&#x27;s birthday that each region of the Asura Kingdom had its own form of alcohol. In this area it was largely made from wheat, but wine from grapes would be prepared for special occasions.</p>
@@ -218,7 +218,7 @@ nav_title = "Chapter 7"
 <p>&quot;Found a way? Of course not. Even I thought Eris was hopeless. I thought she had no future as a member of a noble family. That was why I hired Ghislaine to teach her swordplay so that she might at least become an adventurer.&quot; After he said that, Philip recounted several of his past episodes with Eris, every single one painful to listen to.</p>
 <p>&quot;So how about it? Will you marry Eris and help me seize control of the Boreas family? If so, I&#x27;ll tie her hands and put her in your bed right now.&quot;</p>
 <p>That was a tantalizing offer… My mind conjured the image of getting a pop-up screen like in a game, saying, &quot;Are you sure you sure you want to dispose of this (your virginity)? Once it&#x27;s gone, it will be gone forever!&quot;</p>
-<p><em>No, no, wait, wait, wait! This is no joke. Read the previous line again,</em> I commanded myself. <em>Seize control of the Boreas family?</em></p>
+<p>No, no, wait, wait, wait! This is no joke. Read the previous line again, I commanded myself. Seize control of the Boreas family?</p>
 <p>&quot;What are you trying to make me do? I&#x27;m ten!&quot;</p>
 <p>&quot;You&#x27;re also Paul&#x27;s child, are you not?&quot;</p>
 <p>&quot;I&#x27;m not talking about that!&quot;</p>
@@ -249,7 +249,7 @@ nav_title = "Chapter 7"
 <p>Or so I thought, but then I received an unlikely response.</p>
 <p>&quot;Y-you can do it. J-just a little bit!&quot;</p>
 <p>Seriously?!</p>
-<p><em>You&#x27;re really being bold today, Eris! You&#x27;re really being bold today, Eris! How&#x27;s an old man like me supposed to resist when you put it like that? What to do</em>…</p>
+<p>You&#x27;re really being bold today, Eris! You&#x27;re really being bold today, Eris! How&#x27;s an old man like me supposed to resist when you put it like that? What to do…</p>
 <p>I debated internally and finally decided to take her up on her offer. Just a little.</p>
 <p>&quot;…&quot;</p>
 <p>I sat beside her. The bed let out a small creak. If I were still my previous self, it would&#x27;ve surely let out a much larger groan, effectively killing the mood.</p>
@@ -257,18 +257,18 @@ nav_title = "Chapter 7"
 <p>&quot;You&#x27;re stuttering,&quot; I said.</p>
 <p>&quot;Th-that&#x27;s just your imagination.&quot;</p>
 <p>&quot;Really?&quot;</p>
-<p>I petted her head. Her hair was so smooth. Even though this was a high noble family, there was no bath in the manor, so it wasn&#x27;t as if you could wash your hair every day. Her hair was normally coarse and rough from spending every day outside practicing swordplay from morning until dusk. She must have cleaned it up today for me. For <em>me</em>.</p>
+<p>I petted her head. Her hair was so smooth. Even though this was a high noble family, there was no bath in the manor, so it wasn&#x27;t as if you could wash your hair every day. Her hair was normally coarse and rough from spending every day outside practicing swordplay from morning until dusk. She must have cleaned it up today for me. For me.</p>
 <p>&quot;You look so cute.&quot;</p>
 <p>&quot;Wh-what are you talking about all of a sudden?&quot;</p>
 <p>She looked away, her face red to her ears. I wrapped my arms around her shoulders and planted a kiss on her cheek.</p>
 <p>&quot;Hngh!&quot; Her body went stiff, but she didn&#x27;t try to run.</p>
-<p><em>Ah, so she really is okay with this</em>? I thought. She was definitely the type to run if she didn&#x27;t like something.</p>
+<p>Ah, so she really is okay with this? I thought. She was definitely the type to run if she didn&#x27;t like something.</p>
 <p>&quot;I&#x27;m going to touch you now.&quot; Unable to hold myself back, I reached for her chest. The lumps were still small, but they were definitely breasts. Being able to touch these was proof she had given me permission. Not like all the times before when I had reached out in trepidation, fully prepared to be punched as I groped them. It was through a layer of clothing, but there was no doubt that I had true loli breasts in my small hands right now.</p>
 <p>&quot;Mm…&quot;</p>
 <p>It wasn&#x27;t pleasure that made her hum, I was sure. She was just realizing how embarrassing what we were doing really was. I knew that. She was watching me with her lips clamped tightly together, tears in her eyes as she struggled to tamp down her embarrassment and confusion.</p>
 <p>I stroked her back comfortingly. Thanks to all her sword training, it was firm with muscle. Not as much as Ghislaine&#x27;s, of course, but well-toned and smooth.</p>
 <p>Eris snapped her eyes shut and grabbed my shoulders like she was clinging to me. Did this, perhaps, mean she was giving me the okay? She was, right? If so, I was going to go the whole way. Right now.</p>
-<p><em>O-okay, let&#x27;s d-do it then</em>, I thought.</p>
+<p>O-okay, let&#x27;s d-do it then, I thought.</p>
 <p>I reached my hand toward the inside of her thigh. This would be my first time ever touching a girl there. It was warm and soft, of course, but firm with muscle.</p>
 <p>&quot;Nooo!&quot;</p>
 <p>She shoved me away. Then slapped me across the cheek, loud and hard. I landed on the floor with a thump after being kicked. She continued her attack, the sounds of her blows filling the room.</p>
@@ -280,7 +280,7 @@ nav_title = "Chapter 7"
 <p>I was filled with self-loathing. I completely misread the atmosphere. I went way too fast. Halfway through, I forgot that she was still a child.</p>
 <p>I completely forgot myself.</p>
 <p>&quot;Ah, dammit, what were you thinking?!&quot;</p>
-<p>After playing so many erotic games, I thought maybe I understood how the heroines felt. In my previous life I used to watch thickheaded protagonists be oblivious, and I would think to myself, <em>Just hurry up and make your move, then it&#x27;ll be over.</em></p>
+<p>After playing so many erotic games, I thought maybe I understood how the heroines felt. In my previous life I used to watch thickheaded protagonists be oblivious, and I would think to myself, Just hurry up and make your move, then it&#x27;ll be over.</p>
 <p>What I&#x27;d just done was the result of that thinking. As a player, you could see the heroine&#x27;s internal dialogue. The protagonist, meanwhile, had no idea what she was thinking. That was why most protagonists were aware something like this could happen, even if they knew the other person liked them. So they took their time and slowly developed the relationship instead.</p>
 <p>I was being completely short-sighted compared to them. Especially after I&#x27;d had that conversation with Philip. What was I thinking, saying I would pretend he only said all that because he was drunk? The things I said and the things I did were in complete contradiction.</p>
 <p>I knew what would happen if I had sex with Eris. We would sleep together, she would get pregnant, we would get married. A grand series of events that would make me an official member of the Boreas household. Or, after all that, would I come to hate the ugly power struggle that followed so much that I would run away? Would I plan not to take responsibility for my actions? Was I just going to pass it off as a one-night stand?</p>
@@ -289,7 +289,7 @@ nav_title = "Chapter 7"
 <p>&quot;Ah!&quot; The staff standing in the corner of the room caught my eye.</p>
 <p>I couldn&#x27;t forget Eris&#x27;s feelings either. The money may have come from Philip and Sauros, but she was the one who planned the party for me and came up with the idea of giving me that staff. She was the one who worried over our conversation at the party and came here to comfort me tonight before I fell asleep. She thought about me all day long today.</p>
 <p>Yet a moment ago, I&#x27;d been about to violate her out of lust. There was a girl who genuinely considered my feelings as a person, and I tried to have my way with her.</p>
-<p><em>Remember how happy she looked when she was talking with that maid before? You just tried to trample all over that.</em></p>
+<p>Remember how happy she looked when she was talking with that maid before? You just tried to trample all over that.</p>
 <p>&quot;Haha…&quot;</p>
 <p>I was a piece of crap. I had no right to judge Paul. I had no right to lecture anyone. I was a piece of crap in my previous life and nothing had changed in coming to another world. Tomorrow I would gather my things and leave. I would go die on the roadside like the garbage I was.</p>
 <p>&quot;Ah!&quot;</p>
@@ -302,14 +302,14 @@ nav_title = "Chapter 7"
 <p>Sh-she forgave me!</p>
 <p>&quot;Besides, I already know you&#x27;re a pervert.&quot;</p>
 <p>Who the hell told her that!</p>
-<p>No, it was true though. I was the one. I was the pervert. It was my fault. <em>Everyone look over here. It&#x27;s me, the pervert</em>.</p>
-<p>&quot;But, i-it&#x27;s still too early for us to do <em>that</em>, so…five years! In five years, once you&#x27;ve grown up properly, then…<em>mumblemumble</em>…b-but until then, hold it in!&quot;</p>
+<p>No, it was true though. I was the one. I was the pervert. It was my fault. Everyone look over here. It&#x27;s me, the pervert.</p>
+<p>&quot;But, i-it&#x27;s still too early for us to do that, so…five years! In five years, once you&#x27;ve grown up properly, then…mumblemumble…b-but until then, hold it in!&quot;</p>
 <p>&quot;Hahah!&quot; I slumped forward.</p>
 <p>&quot;W-well then, I&#x27;m going back to bed. Bye, Rudeus. Good night. I&#x27;ll see you again tomorrow.&quot; After that choppy, disordered farewell, Eris vanished from view. I could hear the rhythm of her footsteps as she took off.</p>
 <p>I waited until the sound faded completely before I shut the door. &quot;Pheeeeeew.&quot; I slumped against the door and slid down. &quot;Thank God!&quot;</p>
 <p>I was glad today was my birthday. I was glad today was a special day. I was glad I didn&#x27;t do something worse than what I did.</p>
 <p>&quot;And yeeeees!&quot;</p>
-<p>Five years from now. A definite promise! From Eris! A promise! <em>All right, no more insincere advances until then,</em> I told myself.</p>
+<p>Five years from now. A definite promise! From Eris! A promise! All right, no more insincere advances until then, I told myself.</p>
 <p>Five years. I would be fifteen. It was still a long time away, but I could hold out. If there was a guaranteed prize at the end, I could work hard. Until then, I would be a gentleman. Not a pervert, but a gentleman. I would stop all the sexual advances.</p>
 <p>Wine only had a depth to its taste after you let it sit for years. A charged attack had more power behind it the longer let it build up after all. I would become the kind of man that wouldn&#x27;t yield no matter what kind of temptation I encountered. This time, I would aim to be that thick-headed protagonist. I would hold down the A button and not release it until those five years had passed. That was the promise I made to myself.</p>
 <p>Lolita good, touching bad.</p>

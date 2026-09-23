@@ -13,7 +13,7 @@ nav_title = "Chapter 12"
 <p>&quot;Yeah.&quot; Ruijerd also narrowed his eyes and lifted the edges of his mouth. Just the way I remembered.</p>
 <p>&quot;First of all, I guess I should say thank you for escorting my little sisters here.&quot;</p>
 <p>&quot;No thanks needed. Protecting children is only natural.&quot;</p>
-<p>Right—that was Ruijerd for you. I remembered jokingly calling him a lolicon when we were traveling together. Still, I was surprised to see the person Paul mentioned in his letter <em>was</em> Ruijerd, after all. I&#x27;d considered the possibility that it might be Ghislaine, but given that the task was escorting children, Ruijerd was the best man for the job. So much so, in fact, that I would have hired him on to be Aisha and Norn&#x27;s bodyguards for life, if that were possible.</p>
+<p>Right—that was Ruijerd for you. I remembered jokingly calling him a lolicon when we were traveling together. Still, I was surprised to see the person Paul mentioned in his letter was Ruijerd, after all. I&#x27;d considered the possibility that it might be Ghislaine, but given that the task was escorting children, Ruijerd was the best man for the job. So much so, in fact, that I would have hired him on to be Aisha and Norn&#x27;s bodyguards for life, if that were possible.</p>
 <p>At any rate, it had been a long time since the two of us had talked. What had we even talked about, back then? Ruijerd was quiet, not the kind who went in for small talk.</p>
 <p>&quot;By the way, what happened to Eris?&quot; Ruijerd asked, bluntly. It was a question I didn&#x27;t really want to answer, but he deserved to know.</p>
 <p>&quot;A lot of things. Let me start from the beginning.&quot;</p>
@@ -25,10 +25,10 @@ nav_title = "Chapter 12"
 <p>&quot;I have no idea whether she meant those words literally, or if you just misunderstood her meaning.&quot;</p>
 <p>&quot;Misunderstood?&quot;</p>
 <p>&quot;Yes. Eris was never very good with words.&quot; Ruijerd would know—he wasn&#x27;t, either. &quot;At the very least, she liked you when we were traveling together. If you have the opportunity to meet again, keep a cool head and talk to her about it.&quot;</p>
-<p>Had I gotten it all wrong? When she said we weren&#x27;t wellbalanced, did she just mean that she wasn&#x27;t at my level? Had she left to get stronger, so she could achieve that balance and then return? In which case, maybe her meaning had been, <em>Wait for me</em>.</p>
+<p>Had I gotten it all wrong? When she said we weren&#x27;t wellbalanced, did she just mean that she wasn&#x27;t at my level? Had she left to get stronger, so she could achieve that balance and then return? In which case, maybe her meaning had been, Wait for me.</p>
 <p>Even so, it was too late to be told that now. No matter what she&#x27;d meant, I&#x27;d still spent three years suffering. Three years in which I hadn&#x27;t heard a peep from her. The person who finally saved me was Sylphie, not Eris. What was I supposed to do now, toss Sylphie aside and make up with Eris? There was no way.</p>
 <p>Besides, honestly, I was still a little terrified by the thought of meeting Eris again. It wasn&#x27;t as if I didn&#x27;t trust what Ruijerd was saying, but there was the possibility that she really had just gotten fed up with me. It would be a real blow to my feelings if I approached her with the intention of reconciling, only for her to punch me and refuse to look me in the eyes.</p>
-<p><em>Let&#x27;s stop thinking about it,</em> I told myself. Whatever the truth was, I couldn&#x27;t change the past. Dwelling on it wouldn&#x27;t help.</p>
+<p>Let&#x27;s stop thinking about it, I told myself. Whatever the truth was, I couldn&#x27;t change the past. Dwelling on it wouldn&#x27;t help.</p>
 <p>I changed the topic. &quot;What have you been doing all this time, Mister Ruijerd?&quot;</p>
 <p>&quot;Ah, yeah.&quot; He looked like he still had something he wanted to say, but still nodded. &quot;After I parted ways with you two, I headed for the forest area in the southern region.&quot;</p>
 <p>Apparently Ruijerd had guessed that the Superd Tribe hiding in the Central Continent would be in a forest. He made his way to the dense forest to the south of the King Dragon Mountains, where he conducted an exhaustive search for two years. Ultimately, he found no trace of the Superd, though he did find several items belonging to people believed to have died during the Displacement Incident. He delivered those to the closest town.</p>
@@ -59,7 +59,7 @@ nav_title = "Chapter 12"
 <p>&quot;It&#x27;s just a funny story.&quot; As usual, Ruijerd was soft when it came to children. But even if he didn&#x27;t mind it, we couldn&#x27;t raise Aisha to be the kind of person that ordered people around. I&#x27;d have to give her a piece of my mind later.</p>
 <p>&quot;But she just slept like a log while you worked nonstop, didn&#x27;t she?&quot; I argued.</p>
 <p>&quot;She wasn&#x27;t sleeping. She was constantly calculating our route, planning for us to travel in the most efficient way possible.&quot;</p>
-<p>Hm. Okay, so she hadn&#x27;t been making Ruijerd do <em>all</em> the work. If that was the case, then I couldn&#x27;t fault her.</p>
+<p>Hm. Okay, so she hadn&#x27;t been making Ruijerd do all the work. If that was the case, then I couldn&#x27;t fault her.</p>
 <p>&quot;She&#x27;s still a child, though,&quot; he added.</p>
 <p>Aisha&#x27;s gleeful no-breaks plan apparently didn&#x27;t account for their stamina. Partway through the journey, she and Norn both collapsed from exhaustion. According to Aisha&#x27;s internal schedule, she planned for them to arrive before winter, when the weather would make it difficult for them to travel. That was how they made it here faster than the letter suggested.</p>
 <p>&quot;Miss Ginger must have had a rough time of it as well. How was she?&quot;</p>
@@ -105,7 +105,7 @@ nav_title = "Chapter 12"
 <p>&quot;If you&#x27;re sure that&#x27;s all it is.&quot; Sylphie had a slightly wounded look.</p>
 <p>&quot;Let&#x27;s go to bed, okay?&quot;</p>
 <p>&quot;Okay.&quot;</p>
-<p>I&#x27;d skipped dinner that night, but I wasn&#x27;t even hungry. <em>Oh, I should&#x27;ve at least provided Ruijerd something to snack on,</em> I thought as I put out the fireplace and checked the lock on the front door. We already had the most useful security system in the house, but I still wanted to be safe.</p>
+<p>I&#x27;d skipped dinner that night, but I wasn&#x27;t even hungry. Oh, I should&#x27;ve at least provided Ruijerd something to snack on, I thought as I put out the fireplace and checked the lock on the front door. We already had the most useful security system in the house, but I still wanted to be safe.</p>
 <p>After turning off the lights, Sylphie and I headed up to the second floor together. Then we slipped into bed.</p>
 <p>There, Sylphie said, &quot;Let&#x27;s, um, just skip today, okay?&quot;</p>
 <p>&quot;Huh? Oh, yeah, sure.&quot;</p>

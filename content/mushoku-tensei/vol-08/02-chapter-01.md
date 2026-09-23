@@ -12,7 +12,7 @@ nav_title = "Chapter 1"
 <p>And so, I was staying put for the time being. Besides, according to Elinalise, Zenith was having a merry old time going dungeondiving. I suspected she was just saying that to reassure me, but she had said there was no need for me to hurry, and that Paul and Roxy were already headed that way. Paul didn&#x27;t inspire much confidence, but if Roxy was headed to my mother, then I could relax for the moment. Better to wait for winter to end before I made a move.</p>
 <p>&quot;Alright, let&#x27;s do some more training today.&quot;</p>
 <p>And so, I started the day with my usual workout routine. Snow or no snow, I could still do my weight training. I&#x27;d never stuck with exercise for very long in my previous life, but for whatever reason, my current body was keeping up well.</p>
-<p><em>No point in overthinking it. I should just be grateful I can train like this everyday</em>, I told myself as I changed and headed out to start running.</p>
+<p>No point in overthinking it. I should just be grateful I can train like this everyday, I told myself as I changed and headed out to start running.</p>
 <p>Today was a holiday, so I&#x27;d set myself a slightly difficult course. First, I did a lap around the city. The compacted snow was slippery, raising the risk of slipping and twisting my leg; this would be important adventurer training. Once I finished my lap around the city I headed for the outer wall, a stone construct about four to five meters high, which I used magic to climb. Adventurers sometimes needed to get to higher ground quickly, so I was training for that contingency, too.</p>
 <p>I spotted one of the soldiers on lookout. &quot;Oh, good morning!&quot;</p>
 <p>&quot;Whoa?! Oh, it&#x27;s you, Quagmire. Hard at work, I see! You have the day off today, then?&quot;</p>
@@ -46,7 +46,7 @@ nav_title = "Chapter 1"
 <p>&quot;Oh!&quot;</p>
 <p>&quot;Oh.&quot;</p>
 <p>I ran into Elinalise, who&#x27;d just finished her business. The person with his arm wrapped around her shoulder was the same one I&#x27;d been working alongside these past few years—Soldat. He immediately went pale the moment he saw my face. &quot;No, it&#x27;s not what you think, Rudeus… I had no intention of putting my hands on your woman.&quot;</p>
-<p>&quot;No, it&#x27;s not what <em>you</em> think, Soldat. She is absolutely not my woman. Besides, you know that mine isn&#x27;t in working condition, right?&quot;</p>
+<p>&quot;No, it&#x27;s not what you think, Soldat. She is absolutely not my woman. Besides, you know that mine isn&#x27;t in working condition, right?&quot;</p>
 <p>&quot;Oh, yeah, that&#x27;s right, uh… sorry, for rubbin&#x27; salt in your wounds, then. I didn&#x27;t mean to start somethin&#x27;. Besides, you made me a lot of money not too long ago.&quot;</p>
 <p>&quot;It&#x27;s fine,&quot; I assured him. &quot;By the way, was it good?&quot;</p>
 <p>&quot;Yeah, it was the best,&quot; he said, face melting into an expression of bliss.</p>
@@ -74,23 +74,23 @@ nav_title = "Chapter 1"
 <p>&quot;Mister Soldat, you can&#x27;t do that. Rudeus is watching.&quot;</p>
 <p>&quot;Come on, can&#x27;t I? Just a little.&quot;</p>
 <p>&quot;My, my, such a naughty boy…&quot;</p>
-<p>Currently, she was getting all lovey-dovey with Soldat in front of me. Why were we even eating at the same table? I bet she just wanted to show off. <em>Dammit, it&#x27;s not like I&#x27;m envious or anything!</em></p>
+<p>Currently, she was getting all lovey-dovey with Soldat in front of me. Why were we even eating at the same table? I bet she just wanted to show off. Dammit, it&#x27;s not like I&#x27;m envious or anything!</p>
 <p>Soldat was sweet and caring with Elinalise, as were the rest of his party members. With a reverse harem like that, how was she possibly avoiding any drama? Not that I cared, as long as none of the pitchforks were pointed my way. I kind of wanted to get to the bottom of this before things went sour, but I had very little experience being in this kind of position, and it felt like it would be kicking the hornet&#x27;s nest to try.</p>
 <p>&quot;Alright then, here you are,&quot; Elinalise said to Soldat. &quot;The money I promised.&quot;</p>
 <p>&quot;Gotcha. I have to say, I&#x27;m sorry about this—I enjoy our time together so much that getting money for it just feels kinda…&quot;</p>
 <p>&quot;Just make sure you don&#x27;t get serious about me, and we&#x27;ll call it even,&quot; she replied, handing the money over.</p>
-<p><em>So that&#x27;s her secret. Almost like a kind of reverse prostitution,</em> I thought. Well, in that case, there shouldn&#x27;t be any problems.</p>
+<p>So that&#x27;s her secret. Almost like a kind of reverse prostitution, I thought. Well, in that case, there shouldn&#x27;t be any problems.</p>
 <p>…right?</p>
 <p>***</p>
-<p>Our lives continued like that for another month. Then, one day, a letter arrived for me. Written on the firmly sealed envelope were the words <em>Ranoa University of Magic</em>.</p>
-<p><em>What the heck is this?</em> I thought to myself as I broke the seal and peeked at the contents.</p>
-<p><em>To Lord Rudeus Greyrat,</em></p>
-<p><em>Greetings. I am Jenius, the Vice Principal of Ranoa University of Magic.</em></p>
-<p><em>Recently, the name of Rudeus the Quagmire has gained prominence in the Kingdom of Ranoa. I hear you&#x27;re a highly skilled adventure who can cast spells without incantations. On further investigation, I also discovered that you seem to be a pupil of the Water King Magician Roxy.</em></p>
-<p><em>Have you any desire to polish your incredible magical skills? I&#x27;ve made preparations to welcome you as a special student at Ranoa University. As a special student, you would be exempt from tuition as well as class attendance requirements, while having access to the main school library and facilities, to support you conducting your own research.</em></p>
-<p><em>If you are able to complete one research project within seven years (by the time you graduate), and transfer the rights to your findings over to the University or the Magicians&#x27; Guild, you will be enrolled in the Magicians&#x27; Guild as a C-ranked member. Of course, even if your research bears no significant fruits, you will still be registered as a D-ranked Guild member with the rest of the graduates.</em></p>
-<p><em>I would deeply appreciate an opportunity to introduce myself to you. I apologize for the abruptness of this request, but ask that you consider my offer.</em></p>
-<p>&gt; <em>Thank you for your time and consideration, Jenius Halphas, Vice Principal of Ranoa University of Magic</em></p>
+<p>Our lives continued like that for another month. Then, one day, a letter arrived for me. Written on the firmly sealed envelope were the words Ranoa University of Magic.</p>
+<p>What the heck is this? I thought to myself as I broke the seal and peeked at the contents.</p>
+<p>To Lord Rudeus Greyrat,</p>
+<p>Greetings. I am Jenius, the Vice Principal of Ranoa University of Magic.</p>
+<p>Recently, the name of Rudeus the Quagmire has gained prominence in the Kingdom of Ranoa. I hear you&#x27;re a highly skilled adventure who can cast spells without incantations. On further investigation, I also discovered that you seem to be a pupil of the Water King Magician Roxy.</p>
+<p>Have you any desire to polish your incredible magical skills? I&#x27;ve made preparations to welcome you as a special student at Ranoa University. As a special student, you would be exempt from tuition as well as class attendance requirements, while having access to the main school library and facilities, to support you conducting your own research.</p>
+<p>If you are able to complete one research project within seven years (by the time you graduate), and transfer the rights to your findings over to the University or the Magicians&#x27; Guild, you will be enrolled in the Magicians&#x27; Guild as a C-ranked member. Of course, even if your research bears no significant fruits, you will still be registered as a D-ranked Guild member with the rest of the graduates.</p>
+<p>I would deeply appreciate an opportunity to introduce myself to you. I apologize for the abruptness of this request, but ask that you consider my offer.</p>
+<p>&gt; Thank you for your time and consideration, Jenius Halphas, Vice Principal of Ranoa University of Magic</p>
 <p>A special student… in other words, on scholarship? I knew that a Magicians&#x27; Guild existed in this world, but had no idea what they did.</p>
 <p>I did know, however, of a Thieves&#x27; Guild that sold items on the black market and traded in slaves. Based on that, I assumed the Magicians&#x27; Guild was probably involved with the buying and selling of books on magic and magical research.</p>
 <p>But why were they only sending me this letter now? I suppose that even if I did feel like I was at an impasse when it came to my magic, I was more than powerful enough to make it as an adventurer, and had even beaten a Red Wyrm straggler essentially on my own. It might have been weakened, but that didn&#x27;t change the fact that I beat it. And winners were the ones who wrote history, after all.</p>
@@ -143,9 +143,9 @@ nav_title = "Chapter 1"
 <p>&quot;Well, what does the Magicians&#x27; Guild do?&quot;</p>
 <p>&quot;They sell scrolls, support the creation of magical implements and stuff. I don&#x27;t really know all the details. I mean, I&#x27;m a member, but only F-ranked.&quot;</p>
 <p>&quot;Ah, that&#x27;s right. Don&#x27;t they say you&#x27;ll receive D-ranked membership if you graduate?&quot;</p>
-<p>&quot;Sure, <em>if</em> you graduate,&quot; he said.</p>
+<p>&quot;Sure, if you graduate,&quot; he said.</p>
 <p>The Magicians&#x27; Guild generally supported all activities that related to magic. You qualified for membership if you could at least use beginner magic. The lowest tier of membership was F-rank, and your influence within the guild increased with your rank, allowing you to seek various forms of aid.</p>
-<p>Most magic schools made you an E-ranked member of the guild once you graduated. The Magic University was a bit special in that it gave you a <em>D</em>-ranked membership, largely because the University was the heart of the guild itself. Not to mention the possibility of graduating with a C-ranked membership if your research was fruitful.</p>
+<p>Most magic schools made you an E-ranked member of the guild once you graduated. The Magic University was a bit special in that it gave you a D-ranked membership, largely because the University was the heart of the guild itself. Not to mention the possibility of graduating with a C-ranked membership if your research was fruitful.</p>
 <p>&quot;What does being C-ranked allow you to do?&quot; I asked.</p>
 <p>&quot;Beats me. Fastest way to find out would be to ask the guild yourself, but they don&#x27;t have a branch in this town.&quot;</p>
 <p>It seemed you weren&#x27;t really eligible for the Magicians&#x27; Guild&#x27;s aid if you were only F-ranked. The guidelines for advancing through the ranks weren&#x27;t as clear as the Adventurers&#x27; Guild&#x27;s were, either, meaning that it was mostly rich people or skilled brown-nosers who quickly got promoted.</p>
@@ -161,7 +161,7 @@ nav_title = "Chapter 1"
 <p>By the time I realized what was happening, tears were rolling down my cheeks. &quot;H-huh…?&quot;</p>
 <p>&quot;Ah… sorry, shouldn&#x27;t have asked, everyone has their reasons.&quot;</p>
 <p>I&#x27;d made him uncomfortable. I meant to forget Eris, but each time something like this happened, I&#x27;d be hit by the memories. It was about time I moved on, surely. Eris was quick to get over things. She&#x27;d probably forgotten about me long ago. There was no point clinging to those feelings. It&#x27;d been so easy for me to cut off my feelings for Sara, so why couldn&#x27;t I forget Eris?</p>
-<p><em>No, just stop thinking about it</em>, I told myself.</p>
+<p>No, just stop thinking about it, I told myself.</p>
 <p>&quot;Well, anyway, since they went out of their way to welcome you, isn&#x27;t it worth going and seeing what they&#x27;ve got to offer?&quot;</p>
 <p>When Conrad said that, I remembered being Eris&#x27;s tutor. Back then, I&#x27;d thought I was doing it to save up for attending the University of Magic alongside Sylphie. Boy, that was a trip down memory lane. Sylphie was getting bullied at the time, and I&#x27;d been teaching her magic, although at the same time, I felt like my own magical abilities had hit a wall. Back then, all I thought about was honing my skills in pursuit of that goal, and I was still well aware of the importance of improving my abilities. I planned to keep doing so from here on out. Becoming a member of the Magicians&#x27; Guild surely had its benefits. But I still had my family to think about, and I knew from these past couple of years that my current abilities were more than enough for my daily purposes. Unlike a few years ago, I didn&#x27;t feel the same urgency to learn anything new. Granted, there was the possibility I&#x27;d suddenly run into someone like Orsted again…though he was hardly an opponent you could defeat with just a bit of training. He&#x27;d disposed of Ruijerd, who&#x27;d lived for several hundred years, with just one hand. If we did cross paths again, I&#x27;d be better off avoiding fighting him at all.</p>
 <p>&quot;Rather than tagging along behind someone like Paul, why don&#x27;t you try doing something for your own sake? Like going to school? You&#x27;re old enough to be independent, right?&quot; Elinalise was suddenly standing beside me.</p>
@@ -178,37 +178,37 @@ nav_title = "Chapter 1"
 <p>&quot;Isn&#x27;t it about time you introduced me to the pretty lady?&quot; He looked at her with a thirsty gaze.</p>
 <p>Why was this woman so popular? Well, at any rate, I&#x27;d made a decision about the University. It was an attractive proposal, but I was going to pass on enrolling for now.</p>
 <p>***</p>
-<p>As I dreamed that same night, I found myself in a pure white room. It was him—<em>that guy</em> again. The mosaic one, from two years ago.</p>
+<p>As I dreamed that same night, I found myself in a pure white room. It was him—that guy again. The mosaic one, from two years ago.</p>
 <p>&quot;Yeah, it&#x27;s been a while.&quot;</p>
-<p><em>Yeah, I knew it. Man-God.</em></p>
+<p>Yeah, I knew it. Man-God.</p>
 <p>&quot;What&#x27;s that supposed to mean?&quot;</p>
-<p><em>Nothing. Don&#x27;t worry about it.</em></p>
+<p>Nothing. Don&#x27;t worry about it.</p>
 <p>&quot;I&#x27;m not. I&#x27;m used to you saying strange things, after all.&quot;</p>
-<p><em>Is that so? Well, it&#x27;s been a while since I had this dream, but I don&#x27;t feel as disgusted as usual.</em></p>
+<p>Is that so? Well, it&#x27;s been a while since I had this dream, but I don&#x27;t feel as disgusted as usual.</p>
 <p>&quot;You must&#x27;ve gotten used to it, right?&quot;</p>
-<p><em>Dunno. More importantly, I called to you over and over while I was searching for Zenith, you know? Couldn&#x27;t you have come to me even once?</em></p>
+<p>Dunno. More importantly, I called to you over and over while I was searching for Zenith, you know? Couldn&#x27;t you have come to me even once?</p>
 <p>&quot;There was a lot happening on my end.&quot;</p>
-<p><em>That so? Well, we found her in the end, anyway. Just feels like I lost a whole two years over it.</em></p>
+<p>That so? Well, we found her in the end, anyway. Just feels like I lost a whole two years over it.</p>
 <p>&quot;I&#x27;m glad that you found your mother, though.&quot;</p>
-<p><em>Yeah. I never dreamed Roxy would be looking for her.</em></p>
+<p>Yeah. I never dreamed Roxy would be looking for her.</p>
 <p>&quot;She is a hard worker, after all.&quot;</p>
-<p><em>She really is. I&#x27;m proud of my master. It seems she&#x27;s headed for the Begaritt Continent, too. I can&#x27;t wait to see her.</em></p>
+<p>She really is. I&#x27;m proud of my master. It seems she&#x27;s headed for the Begaritt Continent, too. I can&#x27;t wait to see her.</p>
 <p>&quot;Are you sure? You really want the master you&#x27;re so proud of to see how pathetic you look right now?&quot;</p>
-<p><em>Pathetic? Me? Right now?</em></p>
+<p>Pathetic? Me? Right now?</p>
 <p>&quot;Don&#x27;t you agree? After Eris ran off, you went through all that trouble to make it with that girl Sara, and then your nether regions wouldn&#x27;t play ball. Your magic may have improved a bit, but it&#x27;s hit a dead end these past few years. Even your swordsmanship hasn&#x27;t gotten much better, despite practicing every day. The only thing that&#x27;s really gotten stronger is your body, but is that something you want to brag about? &#x27;See what an amazing pupil I&#x27;ve become&#x27;?&quot;</p>
-<p><em>Grrr, you&#x27;re really laying into me, aren&#x27;t you? Okay, so what are you trying to say?</em></p>
+<p>Grrr, you&#x27;re really laying into me, aren&#x27;t you? Okay, so what are you trying to say?</p>
 <p>&quot;Isn&#x27;t it important for you to hone your abilities right now? Go to the University of Magic, and you&#x27;ll learn so much that your time as an adventurer will pale in comparison.&quot;</p>
-<p><em>What the hell? You running a cram school or something? …wait. Is this what I think it is? Your usual advice?</em></p>
+<p>What the hell? You running a cram school or something? …wait. Is this what I think it is? Your usual advice?</p>
 <p>&quot;Yeah, something like that.&quot;</p>
-<p><em>As always, you beat around the bush and make everything sound fishy.</em></p>
+<p>As always, you beat around the bush and make everything sound fishy.</p>
 <p>&quot;Really? But you should listen to what I&#x27;m telling you this time. If you go to the Begaritt Continent, you will definitely regret it.&quot;</p>
-<p><em>Regret it? Why?</em></p>
+<p>Regret it? Why?</p>
 <p>&quot;I can&#x27;t tell you.&quot;</p>
-<p><em>Yeah, sure. Well, it&#x27;s not like this is the first time you&#x27;ve concealed something from me. You should know your reasoning sounds weak. I want to take things slow too, but only after my family has all been found and gathered in one place.</em></p>
+<p>Yeah, sure. Well, it&#x27;s not like this is the first time you&#x27;ve concealed something from me. You should know your reasoning sounds weak. I want to take things slow too, but only after my family has all been found and gathered in one place.</p>
 <p>&quot;That&#x27;s why my actual advice is what I&#x27;m about to say.&quot;</p>
-<p><em>That&#x27;s what I&#x27;ve been waiting for. Let&#x27;s hear it.</em></p>
+<p>That&#x27;s what I&#x27;ve been waiting for. Let&#x27;s hear it.</p>
 <p>&quot;Rudeus, go forth and enroll at the Ranoa University of Magic. There, you must investigate the Displacement Incident in the Fittoa Region. If you do this, you will be able to regain your abilities and confidence as a man.&quot;</p>
-<p><em>Huh? Seriously? Man-God, are you saying that my erectile dysfunction can be cured at the University?! That&#x27;s what you mean, right? Right… Right…</em></p>
+<p>Huh? Seriously? Man-God, are you saying that my erectile dysfunction can be cured at the University?! That&#x27;s what you mean, right? Right… Right…</p>
 <p>My words left only an echo as my consciousness faded.</p>
 <p>***</p>
 <p>I opened my eyes to find Elinalise&#x27;s face right beside mine. Dumbfounded, I stared at her in amazement as I recalled the events of the previous night. In a rare turn of events, her manhunting had</p>

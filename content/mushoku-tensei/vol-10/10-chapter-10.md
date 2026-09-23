@@ -29,7 +29,7 @@ nav_title = "Chapter 10"
 <p>I wasn&#x27;t sure if that word was directed at me or not. Perhaps it was more of a plea to God.</p>
 <p>I began pouring my mana into the circle, placing my hands on the edge of the paper. A current rippled through the circle and it began emitting a glow. I could feel my mana being sucked right out through my arms.</p>
 <p>But it was strange. Something didn&#x27;t feel right. It seemed like the path the light was traveling on was obstructed. As if one part wasn&#x27;t lighting up.</p>
-<p><em>Pssht!</em></p>
+<p>Pssht!</p>
 <p>There was a soft zap and suddenly the mana stopped flowing. The light emitted by the circle faded.</p>
 <p>It was over. There was no further reaction from the circle. I looked at it closely and found a tear on part of the paper. Maybe it had short-circuited and the safety kicked in? Regardless, this was a failure.</p>
 <p>&quot;Well?&quot;</p>
@@ -52,13 +52,13 @@ nav_title = "Chapter 10"
 <p>&quot;I can&#x27;t go home, I can&#x27;t go home, I can&#x27;t go home.&quot; Nanahoshi&#x27;s eyes looked vacant as she mumbled those words. All of the muscles in her body went tense, as if she were preparing to go berserk again. &quot;I can&#x27;t go home, I can&#x27;t go home, I can&#x27;t—aaaaaaah!&quot;</p>
 <p>She went into a writhing frenzy, fighting as hard as she could to break out of my grip. But her strength was only that of a high-school girl, and a shut-in at that. Extremely weak. There was no way she could tear herself away. Before long, her body went limp. When I released her, she just weakly sank to the floor.</p>
 <p>&quot;Hey, are you okay?&quot; I got a distinct sense that she was very much not. She was white as a sheet, with vacant eyes and dark circles. Her lips had lost all color and were dry and cracked. This was the face of someone who was in a very bad state, mentally. She might just hurt herself.</p>
-<p>I couldn&#x27;t leave her alone like this. What should I do? The person who could help most in a situation like this was…Sylphie! That&#x27;s right, Sylphie. She might be able to do something about this. And fortituously, she had no night duty today. <em>Okay. I&#x27;m going to take Nanahoshi back to our place for tonight, then</em>.</p>
+<p>I couldn&#x27;t leave her alone like this. What should I do? The person who could help most in a situation like this was…Sylphie! That&#x27;s right, Sylphie. She might be able to do something about this. And fortituously, she had no night duty today. Okay. I&#x27;m going to take Nanahoshi back to our place for tonight, then.</p>
 <p>Wait…before that, I should probably find somewhere for her to calm down. &quot;Are you okay?&quot; I asked.</p>
 <p>&quot;…&quot;</p>
 <p>&quot;You overdid it a bit. Let&#x27;s rest for today, okay?&quot;</p>
 <p>Nanahoshi didn&#x27;t respond.</p>
 <p>I put my arm around her shoulder and practically dragged her to her feet. Then I hauled her out of the research room.</p>
-<p><em>Maybe we should lock it.</em> I paused to consider. <em>Nah, we&#x27;ll worry about that later. It should be fine for one day. Probably.</em></p>
+<p>Maybe we should lock it. I paused to consider. Nah, we&#x27;ll worry about that later. It should be fine for one day. Probably.</p>
 <p>I guided us toward the fifth-year classrooms where Sylphie should be. Should I ask someone to get her for me? Or should I go into the class and get her myself? People stared as we passed, Nanahoshi leaning on me for support. This was annoying. We were so conspicuous right now, and Nanahoshi didn&#x27;t have her mask on. It was probably best to keep a low profile. But how?</p>
 <p>&quot;Master!&quot;</p>
 <p>Someone called out to me. I turned to find Zanoba behind me. &quot;Master, what&#x27;s happened?!&quot;</p>
@@ -75,7 +75,7 @@ nav_title = "Chapter 10"
 <p>In the infirmary, we let Nanahoshi rest on one of the beds. Her face was vacant. What a terrible expression. It almost looked as if the shadow of death were upon her. We informed the resident healer</p>
 <p>that it was nothing serious. Psychological problems couldn&#x27;t be solved by healing magic, after all.</p>
 <p>Just as my gaze began to drift to my feet, Julie grabbed the hem of my shirt. &quot;Grandmaster, your face…it looks awful.&quot;</p>
-<p>I instinctively touched my face. <em>Just what kind of expression do I have right now?</em></p>
+<p>I instinctively touched my face. Just what kind of expression do I have right now?</p>
 <p>Oh no. It seemed I was pretty shaken myself. I needed to calm down a little.</p>
 <p>&quot;That&#x27;s just &#x27;cause I&#x27;m no beauty.&quot; I patted her on the head. I couldn&#x27;t believe I&#x27;d made such a young girl worry over me.</p>
 <p>&quot;Here, Master.&quot; A cup was suddenly thrust at me from the side. Zanoba was the one holding it.</p>
@@ -91,7 +91,7 @@ nav_title = "Chapter 10"
 <p>***</p>
 <p>After a while, Nanahoshi closed her eyes and fell asleep. Sylphie arrived around the same time. Ariel wasn&#x27;t with her. &quot;People were saying that you and Zanoba carried a female student to the medical office,&quot; she said.</p>
 <p>What kind of rumors were they spreading now? Did the whole school think I&#x27;d knocked out a female student and carried her off to the medical office, where I was probably doing something awful to her?</p>
-<p><em>Man, that&#x27;s cold,</em> I thought. <em>Why doesn&#x27;t anyone trust me? Because I&#x27;m &quot;the Boss&quot;?</em> Well, it was not like I&#x27;d done much to earn their trust in the first place. Whatever.</p>
+<p>Man, that&#x27;s cold, I thought. Why doesn&#x27;t anyone trust me? Because I&#x27;m &quot;the Boss&quot;? Well, it was not like I&#x27;d done much to earn their trust in the first place. Whatever.</p>
 <p>I told Sylphie what had transpired.</p>
 <p>&quot;I can&#x27;t believe something like that happened.&quot; Sylphie wore a solemn expression as she peered over at Nanahoshi.</p>
 <p>&quot;It might be dangerous to leave her alone, so I was thinking of letting her rest at our house today.&quot;</p>

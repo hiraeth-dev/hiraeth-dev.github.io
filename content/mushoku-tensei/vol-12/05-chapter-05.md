@@ -22,7 +22,7 @@ nav_title = "Chapter 5"
 <p>It was a short conversation, but hearing her voice for the first time in a long while filled me with such joy that I could have flown right up to heaven.</p>
 <p>Our inn-sitting group rejoiced upon Roxy&#x27;s return, likely because this was the first happy news they&#x27;d had since they began searching the labyrinth. Granted, we&#x27;d only filled in the hole they&#x27;d dug themselves, but I wasn&#x27;t going to say that. Regardless of the circumstances, this was a happy occasion.</p>
 <p>Lilia immediately coaxed Roxy off to the bath. Hoping that there might be something I could do for her in the meanwhile, I hovered outside her room, but then Vierra shooed me away. She said it was rude to approach a girl&#x27;s room while she was bathing. Of course, I didn&#x27;t have any ulterior motives. I just wanted to do whatever I could for her.</p>
-<p>I mean it. <em>Really</em>.</p>
+<p>I mean it. Really.</p>
 <p>Okay, yes, I did have a previous offense. But this time was completely innocent!</p>
 <p>I thought about defending my case, but decided to drop it. This was fine. It was me, after all. If I suddenly glanced to my side and saw her clothes sitting there, there was no guarantee that my hand wouldn&#x27;t slip and pocket the small white fabric nestled on top. I</p>
 <p>couldn&#x27;t give my perverted side the opportunity. Right now, my feelings were still innocent. So really, it was fine.</p>
@@ -48,7 +48,7 @@ nav_title = "Chapter 5"
 <p>It was my name. The way she&#x27;d called my name. She was calling me &quot;Mister,&quot; as if I were some kind of stranger.</p>
 <p>&quot;Don&#x27;t worry about it,&quot; I said. &quot;I only did what anyone would have. More importantly, please just call me Rudy.&quot;</p>
 <p>Roxy looked down and mumbled, &quot;B-but doesn&#x27;t it sound like I&#x27;m being overly familiar if I call you that?&quot;</p>
-<p>&quot;What? But we <em>are</em> close. If I&#x27;m going to have my own teacher call me &#x27;Mister Rudeus,&#x27; then I may as well make my father do the same.&quot;</p>
+<p>&quot;What? But we are close. If I&#x27;m going to have my own teacher call me &#x27;Mister Rudeus,&#x27; then I may as well make my father do the same.&quot;</p>
 <p>&quot;Hey now, why the hell would I do that?&quot;</p>
 <p>I ignored Paul&#x27;s protest. &quot;I&#x27;d like you to call me &#x27;Rudy,&#x27; just as affectionately as you once did. No matter how many years pass… I will always revere you, Roxy Migurdia, as my teacher.&quot;</p>
 <p>Roxy blinked several times. For some reason her cheeks were red. Did she have a fever or something? She suddenly slapped her cheeks. &quot;Yes. You&#x27;re right… Rudy.&quot;</p>
@@ -62,12 +62,12 @@ nav_title = "Chapter 5"
 <p>&quot;Which spell are you referring to?&quot; I asked, though I was pretty sure I hadn&#x27;t used anything Emperor-tier.</p>
 <p>&quot;The magic you used when you saved me. That power, that speed, and the range. It was incredible magic. That was the Emperortier magic I&#x27;ve heard about, Absolute Zero, right?&quot;</p>
 <p>Nope. That was just a simple Frost Nova. We had been traversing the second floor when Talhand told me about the magic Roxy had been using, and how effective it was. I&#x27;d simply mimicked it.</p>
-<p>But now Roxy had a look on her face that seemed to say <em>Well? I&#x27;m right, aren&#x27;t I?</em> I hesitated on whether to correct her or not. She was a water magic specialist. It might shame her to discover she&#x27;d misinterpreted my spell. Perhaps a little white lie was appropriate here?</p>
+<p>But now Roxy had a look on her face that seemed to say Well? I&#x27;m right, aren&#x27;t I? I hesitated on whether to correct her or not. She was a water magic specialist. It might shame her to discover she&#x27;d misinterpreted my spell. Perhaps a little white lie was appropriate here?</p>
 <p>Granted, I&#x27;d be exposed immediately. Maybe the wisest course of action was to say yes and then relay the truth afterward, in secret. But what if I did that and she reacted negatively? My Stone Cannon apparently had the same level of power as an Emperor-tier spell, but it was magic of a much lower level.</p>
 <p>Hmm, how should I answer?</p>
 <p>&quot;Nah, that was a Frost Nova. It just had more power behind it than the one you use.&quot; As I hesitated, Talhand took the opportunity to respond in my place. How unwarranted. I&#x27;d better follow up with something or else—</p>
 <p>&quot;Oh, so that&#x27;s it. My apologies.&quot;</p>
-<p>&quot;Honestly, Roxy, you haven&#x27;t changed at all. Though I do agree with you, it wouldn&#x27;t strike me as strange in the least for Rudeus to use Emperor-tier magic.&quot; Elinalise jumped in without a moment&#x27;s delay to back Roxy up. &quot;After all, he <em>is</em> considered the most powerful magician at the University of Magic.&quot;</p>
+<p>&quot;Honestly, Roxy, you haven&#x27;t changed at all. Though I do agree with you, it wouldn&#x27;t strike me as strange in the least for Rudeus to use Emperor-tier magic.&quot; Elinalise jumped in without a moment&#x27;s delay to back Roxy up. &quot;After all, he is considered the most powerful magician at the University of Magic.&quot;</p>
 <p>Though that last comment was unnecessary.</p>
 <p>Everyone&#x27;s eyes gathered on me. Okay, this was my chance!</p>
 <p>&quot;My current abilities are all thanks to my teacher&#x27;s guidance,&quot; I said confidently.</p>
@@ -115,15 +115,15 @@ nav_title = "Chapter 5"
 <p>&quot;Rudy brought it with him. It&#x27;s got notes from a guy who traveled almost to the very depths of the Teleportation Labyrinth. You should read it, too.&quot; Geese passed the book in question over to her.</p>
 <p>&quot;Oh, I didn&#x27;t realize such a thing existed. Understood. I&#x27;ll go over it carefully tomorrow.&quot;</p>
 <p>So Roxy planned to spend tomorrow reading. In that case, I would stay at the inn. I wanted to talk to her some more, though I wasn&#x27;t sure what about. If she was going to read the book, maybe we could discuss its contents? She could ask me questions, and I&#x27;d do my best to answer them.</p>
-<p><em>Yeah, that sounds good. Great. Absolutely perfect!</em></p>
+<p>Yeah, that sounds good. Great. Absolutely perfect!</p>
 <p>&quot;Now then, &#x27;bout our formation,&quot; Geese started. &quot;Let&#x27;s shake things up a bit. Talhand?&quot;</p>
 <p>As I was preoccupied with my thoughts, the conversation moved to the next topic. Talhand cleared his throat. As the man most often all the way in back, who thus observed the most, he was in charge of deciding our formation. &quot;Hmph, leave it to me.&quot;</p>
-<p>But he reeked of alcohol. He <em>always</em> reeked of alcohol. Geese also showered himself in liquor at night, but Talhand was tipping tankards back through the noon hours. At least he did go completely sober the moment we began our dive into a labyrinth. He had an impressive ability to switch his drinking on and off.</p>
+<p>But he reeked of alcohol. He always reeked of alcohol. Geese also showered himself in liquor at night, but Talhand was tipping tankards back through the noon hours. At least he did go completely sober the moment we began our dive into a labyrinth. He had an impressive ability to switch his drinking on and off.</p>
 <p>&quot;It&#x27;ll be &#x27;bout the same as before.&quot; There was a paper on the table with two lines drawn on it, along with small stones of different colors. Talhand placed the blue stone down first. &quot;First, just like before, Roxy will take up the rear.&quot;</p>
 <p>&quot;Understood.&quot; Roxy nodded.</p>
 <p>Then he put a gray stone beside the previous one. &quot;Rudeus will act as Roxy&#x27;s support. She&#x27;s the type to slip up when somethin&#x27; unexpected happens, but Rudeus&#x27; got that Eye of Foresight. He&#x27;s also pretty calm for his age, so maybe he can stop somethin&#x27; before it goes wrong.&quot;</p>
 <p>&quot;All right.&quot;</p>
-<p>He made it sound as if Roxy was lacking in composure. I wanted to protest, but it <em>was</em> true that she&#x27;d slipped and stepped on a teleportation trap. I&#x27;d just be stirring up trouble if I tried. Although, if you thought about it, the Eye of Foresight could only predict things I could see. That meant I&#x27;d have a good excuse to keep my eyes on Roxy the entire time we were in the labyrinth.</p>
+<p>He made it sound as if Roxy was lacking in composure. I wanted to protest, but it was true that she&#x27;d slipped and stepped on a teleportation trap. I&#x27;d just be stirring up trouble if I tried. Although, if you thought about it, the Eye of Foresight could only predict things I could see. That meant I&#x27;d have a good excuse to keep my eyes on Roxy the entire time we were in the labyrinth.</p>
 <p>Put that way, it didn&#x27;t sound so bad. I was just happy to be able to look at her.</p>
 <p>&quot;Let&#x27;s try switchin&#x27; out Elinalise and Paul. Paul, you go in front. Elinalise, you go behind him,&quot; Talhand said as he moved the red stone representing Paul forward and the yellow one representing Elinalise back. They were still basically side by side. This was likely just a change in roles. Before, Elinalise had been the tank while Paul had been the support, but this time it would be the opposite. Paul would be our main tank and Elinalise would be supporting him.</p>
 <p>&quot;Geese, you&#x27;ll be where you were before.&quot; He placed the brown stone far in front of the rest of the pack. Finally, he put his own stone in the middle. &quot;Doubt we&#x27;ll need it, but there&#x27;ll be more monsters on the third floor. I&#x27;ll act as a shield for those in back.&quot;</p>
@@ -139,7 +139,7 @@ nav_title = "Chapter 5"
 <p>&quot;All right then. I look forward to working with you, Teacher.&quot;</p>
 <p>&quot;Yes, and I as well. I&#x27;ll do my best not to hold you back.&quot;</p>
 <p>Just the opposite. I was the one more likely to be holding her back.</p>
-<p><em>I wish she&#x27;d be more confident.</em></p>
+<p>I wish she&#x27;d be more confident.</p>
 <p>True, I might beat her when it came to mana capacity and spell usage, but the strength of a person&#x27;s stats wasn&#x27;t the sum of their worth. It was only with experience that one gained true power, and I felt like Roxy was ahead of me in that regard. She&#x27;d spent a whole month trapped and fighting in the Teleportation Labyrinth. And just days after being rescued, she was recovered enough to go right back in as if nothing had ever happened.</p>
 <p>If that were me—if I were to experience something so horrific— I&#x27;d probably swear to myself to never enter that labyrinth again. As the Japanese proverb stated, a wise man stays away from danger. You could call me a chicken if you wanted; I knew I was a coward.</p>
 <p>&quot;Okay then, we&#x27;re all done with that. Next is the waiting party.&quot; After that, Geese promptly gave his orders to the waiting party. He handed Vierra a list of supplies to purchase, then consulted Shierra about Roxy&#x27;s condition. He also advised her to prepare whatever</p>
@@ -151,12 +151,12 @@ nav_title = "Chapter 5"
 <p>&quot;Yes?! What is it, Teacher?!&quot;</p>
 <p>&quot;You shuffling about like that is distracting,&quot; she said with a forced smile.</p>
 <p>&quot;My apologies.&quot; I hung my head and decided to leave.</p>
-<p><em>So that&#x27;s it. I&#x27;m distracting her. That makes sense. I&#x27;m just getting in the way of her reading.</em></p>
+<p>So that&#x27;s it. I&#x27;m distracting her. That makes sense. I&#x27;m just getting in the way of her reading.</p>
 <p>I couldn&#x27;t cause her trouble. That wasn&#x27;t my intention—I just wanted to be of assistance. But if I was a distraction, then it couldn&#x27;t be helped. Maybe I should just go elsewhere. Yeah, maybe I would go to some deserted tavern somewhere. It was good to drink alone occasionally.</p>
-<p><em>Yeah, that&#x27;s what I&#x27;ll do.</em></p>
+<p>Yeah, that&#x27;s what I&#x27;ll do.</p>
 <p>&quot;Rudy,&quot; a voice called out to me from behind. &quot;If you have enough time to shuffle about, there&#x27;s some things in this book I&#x27;m not clear on that I&#x27;d like you to—&quot;</p>
 <p>&quot;Okay!&quot; I immediately plopped down next to her. I think I broke a record for the fastest sit. If I were a dog and had a tail, it would&#x27;ve been whipping through the air like a propeller right now. &quot;Where is it? Please feel free to ask me anything.&quot;</p>
-<p>Ahh, Roxy sure was tiny, though I was sure that was partly because <em>I&#x27;d</em> grown so much. If I put her on my lap, I could easily wrap my arms around her. Though I was sure she&#x27;d be pissed at me if I tried.</p>
+<p>Ahh, Roxy sure was tiny, though I was sure that was partly because I&#x27;d grown so much. If I put her on my lap, I could easily wrap my arms around her. Though I was sure she&#x27;d be pissed at me if I tried.</p>
 <p>As I looked over at her, Roxy glanced up at me from the side.</p>
 <p>&quot;What&#x27;s wrong?&quot; I asked.</p>
 <p>She quickly shifted her gaze back to the book. &quot;No, it&#x27;s nothing. It&#x27;s this part right here…&quot;</p>

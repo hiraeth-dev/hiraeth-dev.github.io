@@ -19,10 +19,10 @@ nav_title = "Extra Chapter"
 <p>He succumbed to the fear and unleashed all of his mana. It was wind. He was unleashing wind. It felt as though it were striking him from directly below. Who was it that taught him that a bird rides the wind to fly in the sky? He couldn&#x27;t remember.</p>
 <p>The speed of his fall slowed momentarily, then quickly returned to its previous pace. Wind magic wasn&#x27;t going to cut it. Birds may have ridden wind to fly in the sky, but no matter how much wind you put under humans, they could not fly. Someone taught him that. Who? He couldn&#x27;t remember that, either.</p>
 <p>What was he supposed to do in a situation like this? His teacher had told him something. His teacher taught him a lot of things. What was it that his teacher had said?</p>
-<p><em>Think, think</em>, he chanted to himself.</p>
+<p>Think, think, he chanted to himself.</p>
 <p>His teacher said something about…how to fly? That&#x27;s right, about how it was impossible. You couldn&#x27;t fly—humans couldn&#x27;t fly. You had to use something in order to fly. His teacher had tried to fly before. Tried, failed, and put something on the ground, something soft to fall on.</p>
 <p>That was it! Something to soften the fall. Something soft. Something soft to wrap around himself. But just how soft was it supposed to be? How was he supposed to make it?</p>
-<p><em>I don&#x27;t know, I don&#x27;t know, I don&#x27;t know!</em> he screamed in his head. <em>What do I do, what do I do, what do I do?!</em></p>
+<p>I don&#x27;t know, I don&#x27;t know, I don&#x27;t know! he screamed in his head. What do I do, what do I do, what do I do?!</p>
 <p>He conjured water and tried to wrap it around himself. It didn&#x27;t work. It scattered immediately. He conjured wind and tried to boost himself again. It failed. That wasn&#x27;t going to work. He conjured earth…but he wasn&#x27;t sure how to use it! He conjured fire and…the wind…water? Earth? He didn&#x27;t know! He just didn&#x27;t know anymore!</p>
 <p>&quot;Aaah!&quot;</p>
 <p>He fell headfirst.</p>
@@ -85,7 +85,7 @@ nav_title = "Extra Chapter"
 <p>&quot;Indeed, nothing seems to make them happier than seeing a womanizer like Luke stepping in so valiantly to look after the boy.&quot;</p>
 <p>&quot;They&#x27;re corrupting the morals of the imperial court.&quot;</p>
 <p>&quot;Not that the court particularly had any.&quot;</p>
-<p><em>Hahaha</em>, the nobles laughed.</p>
+<p>Hahaha, the nobles laughed.</p>
 <p>Fitz was always following Ariel around, and you could tell the boy was handsome beneath those sunglasses. So seeing him, Ariel, and Luke together encouraged many to dream up wild fantasies.</p>
 <p>&quot;I realize they&#x27;re both boys, but there&#x27;s something odd.&quot;</p>
 <p>&quot;Oh? What&#x27;s odd?&quot;</p>
@@ -96,10 +96,10 @@ nav_title = "Extra Chapter"
 <p>Homosexuality was not considered unusual to Asuran nobles. There were those with far stranger sexual preferences, so boys who fell in love with other beautiful boys did not warrant any surprise.</p>
 <p>&quot;But just where in the world did the princess find that boy?&quot;</p>
 <p>&quot;Who&#x27;s to say? But for Princess Ariel to offer such support makes me wonder. Perhaps he&#x27;s the illegitimate child of some highranking nobleman.&quot;</p>
-<p>&quot;Oh, so you <em>do</em> have an idea about where he&#x27;s from, then?&quot;</p>
+<p>&quot;Oh, so you do have an idea about where he&#x27;s from, then?&quot;</p>
 <p>&quot;Indeed. Several years ago I went to visit my cousin in the Fittoa Region. That cousin had attended the birthday ceremony for Lord Sauros&#x27; ten-year-old granddaughter.&quot;</p>
 <p>&quot;Oh, Lord Sauros&#x27; granddaughter… You mean the Boreas&#x27; redhaired monkey princess?&quot;</p>
-<p>&quot;Yes, the one with the reputation for going to school and beating up other children her age. The one who neglected her studies so much she couldn&#x27;t even greet people properly. <em>That</em> monkey princess.&quot;</p>
+<p>&quot;Yes, the one with the reputation for going to school and beating up other children her age. The one who neglected her studies so much she couldn&#x27;t even greet people properly. That monkey princess.&quot;</p>
 <p>&quot;And what does that have to do with this?&quot;</p>
 <p>&quot;Yes, well, according to my cousin&#x27;s story, that monkey princess had changed quite a bit. She greeted people politely, behaved in a ladylike manner, and danced magnificently.&quot;</p>
 <p>&quot;I&#x27;m sure the rumors have just been embellished. Perhaps it&#x27;s just that the monkey princess didn&#x27;t behave as a monkey for once?&quot;</p>
@@ -274,7 +274,7 @@ nav_title = "Extra Chapter"
 <p>&quot;Phew…&quot;</p>
 <p>The feeling that he&#x27;d killed someone hadn&#x27;t sunk in yet.</p>
 <p>&quot;Oh…Princess Ariel, are you all right?&quot; He hurried back into the room to confirm she was safe. Midway there, his legs turned into noodles. &quot;H-huh?&quot; The tips of his toes went numb and he collapsed on the spot, his body giving out from beneath him.</p>
-<p><em>Poison…!</em> It was already too late by the time he realized, and his whole body began to shake as his consciousness grew dim. <em>Detoxification magic…!</em> If Fitz had been an ordinary magician, or if he hadn&#x27;t been able to execute his spell without chanting, then he probably would have died instantly.</p>
+<p>Poison…! It was already too late by the time he realized, and his whole body began to shake as his consciousness grew dim. Detoxification magic…! If Fitz had been an ordinary magician, or if he hadn&#x27;t been able to execute his spell without chanting, then he probably would have died instantly.</p>
 <p>Even as his consciousness was consumed by darkness, he managed to cast the detoxification magic. Then he looked at his surroundings. Ariel was safe, and although he&#x27;d arrived late, Luke was there too.</p>
 <p>&quot;Luke, the assassin! Fitz defeated him, but he&#x27;s been poisoned! Call the doctor immediately! And the Imperial Guard. I think the assassin&#x27;s body fell down below.&quot;</p>
 <p>&quot;Understood!&quot; Luke nodded and rushed down the stairs as he called for the guard.</p>

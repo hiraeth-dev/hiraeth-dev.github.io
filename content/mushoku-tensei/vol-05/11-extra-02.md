@@ -41,7 +41,7 @@ nav_title = "Extra Chapter II"
 <p>I was a man who&#x27;d graduated from a prestigious aristocratic academy in the capital. My talents were clearly being wasted in this backwater…or so I sincerely believed, at the time.</p>
 <p>Princess Ariel&#x27;s party arrived at about noon, as I recall.</p>
 <p>At first, all I saw was a luxurious two-seater carriage accompanied by seven guards on foot. Counting the driver up front and the two potential passengers inside, it seemed to be a group of ten in total.</p>
-<p>My initial thought was that an aristocrat was engaging in some sort of sightseeing expedition. However, this was the border of the Kingdom. Beyond this checkpoint lay only the dangerous foreign lands known as the Northern Territories, plagued by snow and monsters. Nobles did sometimes pass through on their way to far-off places, but they would <em>always</em> bring at least three carriages and twenty guards or more. Perhaps you could make do with less if you hired an elite band of adventurers, but this party didn&#x27;t strike me as a group of battle-hardened warriors. All of them were dressed for the road, but some were clearly not accustomed to long journeys, and others looked rather scrawny for bodyguards.</p>
+<p>My initial thought was that an aristocrat was engaging in some sort of sightseeing expedition. However, this was the border of the Kingdom. Beyond this checkpoint lay only the dangerous foreign lands known as the Northern Territories, plagued by snow and monsters. Nobles did sometimes pass through on their way to far-off places, but they would always bring at least three carriages and twenty guards or more. Perhaps you could make do with less if you hired an elite band of adventurers, but this party didn&#x27;t strike me as a group of battle-hardened warriors. All of them were dressed for the road, but some were clearly not accustomed to long journeys, and others looked rather scrawny for bodyguards.</p>
 <p>Perhaps it wasn&#x27;t a sightseeing trip, then. Was it possible they had some business at this checkpoint itself? You could never discount the possibility of an incognito inspection from some highranked lord.</p>
 <p>For the time being, I decided to proceed as usual. &quot;May I see your pass, please?&quot;</p>
 <p>&quot;Here you are.&quot;</p>
@@ -52,12 +52,12 @@ nav_title = "Extra Chapter II"
 <p>In any case, I made it a professional habit to detain anyone who seemed vaguely familiar to me. Most of the faces I&#x27;d recently committed to memory came from depictions of wanted criminals, after all. &quot;My apologies, but may I take a look at the inside of your carriage?&quot;</p>
 <p>At my words, a number of soldiers who&#x27;d been standing around the checkpoint moved to block off the exits. We weren&#x27;t on the friendliest of terms, true, but they always performed their duties at times like these. Several of the guards around the carriage grew visibly tense at this development. I stiffened slightly myself, wondering if I really was dealing with some gang of bandits.</p>
 <p>The handsome young man shook his head slowly. &quot;Due to certain extraordinary circumstances, the passenger within must have complete privacy.&quot;</p>
-<p>There was no way <em>that</em> was going to fly, of course.</p>
+<p>There was no way that was going to fly, of course.</p>
 <p>When I repeated my demand in somewhat harsher terms, the young man&#x27;s face contorted into a bitter grimace. A number of his companions—the ones who seemed more accustomed to travel, specifically—also glared at me and put their hands on the swords they carried. Their movements weren&#x27;t as quick as those of master warriors, but I had the feeling they&#x27;d experienced their fair share of combat.</p>
-<p>In particular, the white-haired, short-statured boy who stood right behind the handsome leader was actually <em>quite</em> intimidating. The only weapon he carried was a small rod of the sort beginners used to practice basic magic, but something about the way he held himself suggested that he was a truly lethal fighter with the wariness of a seasoned veteran. I suppose he must have been that &quot;Silent Fitz&quot; character. I don&#x27;t think I&#x27;ve ever been so frightened of a boy less than half my age.</p>
+<p>In particular, the white-haired, short-statured boy who stood right behind the handsome leader was actually quite intimidating. The only weapon he carried was a small rod of the sort beginners used to practice basic magic, but something about the way he held himself suggested that he was a truly lethal fighter with the wariness of a seasoned veteran. I suppose he must have been that &quot;Silent Fitz&quot; character. I don&#x27;t think I&#x27;ve ever been so frightened of a boy less than half my age.</p>
 <p>My experience told me that a group like this could cause significant harm to our garrison. Should I order the soldiers to seize them now, or was there some other option?</p>
 <p>As I hesitated, someone spoke from within the carriage. &quot;Stop this, Luke.&quot;</p>
-<p>It was a voice like gold. The sound of it turned my brain to mush. There was something almost hypnotic about it, I believe. In that moment, I truly wanted to listen to it <em>forever</em>.</p>
+<p>It was a voice like gold. The sound of it turned my brain to mush. There was something almost hypnotic about it, I believe. In that moment, I truly wanted to listen to it forever.</p>
 <p>It was a voice I&#x27;d heard once before—a voice I recognized.</p>
 <p>I&#x27;d heard it ten years earlier, at my academy&#x27;s graduation ceremony in the capital, as a certain personage offered a speech of congratulations to our valedictorian. Brief as that address had been, I&#x27;d never forgotten it. Never. Back then, I think nearly every single graduate in that room had cursed themselves for not having studied harder.</p>
 <p>&quot;These men are simply being diligent in their duties.&quot;</p>
@@ -72,14 +72,14 @@ nav_title = "Extra Chapter II"
 <p>With those words, the princess stepped out of her carriage.</p>
 <p>Nearly all of the soldiers around us had followed my example and gone down on one knee. But as Princess Ariel pointed out,</p>
 <p>barring some sort of special circumstances, no one on duty here was ever expected to kneel. I don&#x27;t know exactly why, but it&#x27;s been that way for many, many years. Since starting at this place, I&#x27;ve never kneeled to anyone, no matter what their rank. This was also the first time I&#x27;d seen any of the soldiers do so. And no one had ever rebuked or challenged us on that.</p>
-<p>But of course, the fact that it wasn&#x27;t <em>required</em> didn&#x27;t mean it was <em>forbidden</em>. We stayed as we were, and bowed our heads toward Ariel. It simply felt like what we ought to do.</p>
+<p>But of course, the fact that it wasn&#x27;t required didn&#x27;t mean it was forbidden. We stayed as we were, and bowed our heads toward Ariel. It simply felt like what we ought to do.</p>
 <p>&quot;P-Princess Ariel, I…feel it is my duty to ask…why you&#x27;ve come to a border crossing such as this with such a small retinue.&quot;</p>
 <p>&quot;You weren&#x27;t told anything in advance?&quot;</p>
 <p>I knew there had to be something strange going on here, of course, and when I searched my memory based on what Ariel said, an event from about a month before this flashed through my mind.</p>
 <p>The individual in overall command of this checkpoint was not myself, of course, nor was it my direct superior, the Senior Border Control Officer. It was a noble who also served as the mayor of a nearby town, the closest place where travelers could find lodgings. The man could go months without showing his face here, but he&#x27;d ride over to give us a few orders when he felt the need.</p>
 <p>On his last visit, he&#x27;d told us: &quot;Within the next few months, a certain very noble personage may pay us a visit here.&quot; Based on the phrase &quot;noble personage,&quot; I&#x27;d imagined this would involve dozens of carriages surrounded by swarms of attendants, so I hadn&#x27;t even remembered the incident until I actually saw the princess.</p>
 <p>&quot;I was told that a very noble personage might be coming, yes…&quot;</p>
-<p>&quot;And was that <em>all</em> you were told?&quot;</p>
+<p>&quot;And was that all you were told?&quot;</p>
 <p>Her question brought my memory of that moment into clearer focus. The man had, in fact, continued: &quot;This personage will most likely be seeking to cross the border and flee to the north. However, you mustn&#x27;t allow this. Find a reason to hold their party back, and keep them waiting in town for several days.&quot;</p>
 <p>I&#x27;d been ordered not to let her through. To stop her here.</p>
 <p>In other words, to ensure her death.</p>
@@ -126,7 +126,7 @@ nav_title = "Extra Chapter II"
 <p>And after I realized this…strangely enough, I actually started to feel some pride in my work.</p>
 <p>Ever since that day, I&#x27;ve been on good terms with the soldiers here, and my job has brought me actual pleasure.</p>
 <p>It&#x27;s all thanks to Princess Ariel, without a doubt. Simply by gracing this checkpoint with her presence, she made it a far happier place.</p>
-<p><em>After this, Officer Gatlin went on a long monologue about the depth of his adoration for Princess Ariel, which I&#x27;ve opted to omit.</em></p>
+<p>After this, Officer Gatlin went on a long monologue about the depth of his adoration for Princess Ariel, which I&#x27;ve opted to omit.</p>
 <p>***</p>
 <p>Now then. As much as I enjoyed hearing Officer Gatlin praise Princess Ariel to the high heavens, it wasn&#x27;t the exact reason I was talking to him. &quot;Did a group of black-clad men pass through this checkpoint in pursuit of her?&quot;</p>
 <p>At this question, the man&#x27;s expression took a sudden turn for the gloomy. &quot;They weren&#x27;t…exactly in pursuit of her, I believe.&quot;</p>
@@ -149,7 +149,7 @@ nav_title = "Extra Chapter II"
 <p>Right, right. I was coming down through the Wyrm&#x27;s Whiskers. It was just me and my buddy Robinson.</p>
 <p>Hm? You wanna know where he is? Heh. Out in the stables. They don&#x27;t serve donkeys in here, I&#x27;m afraid. Anyway, the two of us were making decent time. I was in a good mood, as I recall. Business was going smoothly, and I&#x27;d almost saved up enough dosh to buy myself a cart. Even those little ones for donkeys let you move a lot more stuff at once, you know? That was a real exciting prospect.</p>
 <p>But then I heard the sound of clashing metal coming from somewhere up ahead, and my mood sank real fast.</p>
-<p>It wasn&#x27;t just the sound. I could <em>smell</em> something fishy in the air. I&#x27;ve been making my living as a solo merchant for a while, right? I&#x27;ve got a damn good nose for danger by now.</p>
+<p>It wasn&#x27;t just the sound. I could smell something fishy in the air. I&#x27;ve been making my living as a solo merchant for a while, right? I&#x27;ve got a damn good nose for danger by now.</p>
 <p>It&#x27;s always best to steer well clear of trouble, of course. But like I said, there&#x27;s only one path through the Whiskers, and I couldn&#x27;t just turn back. I decided to head out into the woods with Robinson and slip by along the side of the road. I knew it would be smarter to just leave the donkey behind, but Robinson&#x27;s my beloved business partner, right? Couldn&#x27;t risk him getting eaten by a monster or something.</p>
 <p>So anyway, me and him started moving along through the forest, making sure we stayed hidden. The sound of clashing metal got louder as we went, and I could make out people shouting, too. Robinson was a little freaked out, but he had me with him, so he stayed nice and quiet. The two of us have been through thick and thin together, you know?</p>
 <p>What&#x27;s that? &quot;Enough about the donkey, just tell me what you saw?&quot; Man, you&#x27;re one impatient guy… But sure, whatever.</p>
@@ -160,7 +160,7 @@ nav_title = "Extra Chapter II"
 <p>kind of morons had sent a bunch of clumsy amateurs to do a job like this.</p>
 <p>I had the wrong idea, though. When I looked a little more carefully, I realized the guys in black weren&#x27;t bad at all. If anything, they were more skilled than the guards. In a clean one-on-one swordfight, those guys would have won every single time.</p>
 <p>Huh? You want to know how I could tell? Try paying more attention. Like I said, I&#x27;m a better swordsman than y&#x27;might think. When I see someone fighting, I can tell how strong they are.</p>
-<p>Anyway, this all struck me as awful strange, so I ended up stopping to watch the battle. And after a few seconds, I realized that this one guy on the guards&#x27; side was <em>seriously</em> slick. This was a kid with white hair, right? Pretty scrawny, and his only weapon was a beginner&#x27;s magic rod. But for some reason, he was on a totally different level from the rest.</p>
+<p>Anyway, this all struck me as awful strange, so I ended up stopping to watch the battle. And after a few seconds, I realized that this one guy on the guards&#x27; side was seriously slick. This was a kid with white hair, right? Pretty scrawny, and his only weapon was a beginner&#x27;s magic rod. But for some reason, he was on a totally different level from the rest.</p>
 <p>Back in the Sword Sanctum, I saw a few guys who were on their way to becoming Sword Saints or Kings. And let me tell you, it felt like time moved ten times slower for them. They weren&#x27;t just quick on their feet; they could make snap judgments in the blink of an eye. This kid wasn&#x27;t quite that good, but I could tell right away that his battlefield awareness was absolutely top-class. Whenever one of his buddies was in danger, he&#x27;d send a spell flying at the perfect moment and save their butt.</p>
 <p>The guy was mostly just using Beginner-tier spells, too. I think he must have been carefully preserving his mana. He was putting in some seriously godly work, man. Your average magician couldn&#x27;t have pulled this off in a million years. You&#x27;d have to be very welltrained in a specific way to manage anything of the sort.</p>
 <p>From where I was, I couldn&#x27;t hear him doing any chanting, either. I think it&#x27;s possible he was silent spellcasting…you know, using magic without the incantations. Never seen it before myself, but I guess there are people out there who can pull it off.</p>
@@ -169,14 +169,14 @@ nav_title = "Extra Chapter II"
 <p>Up till that point, they&#x27;d been going with a straightforward twoon-one approach against the three frontline guards, with their extra man acting as a roaming wildcard. Now all seven of them peeled off and made a beeline for the white-haired kid.</p>
 <p>The three swordsmen couldn&#x27;t react in time. But the kid could. Somehow keeping his focus, he instantly set off a wide-range spell that took out two of them at once.</p>
 <p>At that point, the guys in black scattered. Two of them kept heading for the white-haired boy, and the other three rushed right at the girls over by the carriage. They&#x27;d found the opportunity they needed to break through the guards&#x27; line.</p>
-<p>The white-haired mage <em>still</em> managed to react. Without even looking at the two assassins bearing down on him, he whipped his wand over at the ones going for the women. Unbelievable, right? Normally, you&#x27;d be more worried about the guys about to kill you.</p>
+<p>The white-haired mage still managed to react. Without even looking at the two assassins bearing down on him, he whipped his wand over at the ones going for the women. Unbelievable, right? Normally, you&#x27;d be more worried about the guys about to kill you.</p>
 <p>In the next instant, a whole bunch of things happened at once.</p>
 <p>First, the white-haired kid let off a nasty spell that killed two of the assassins charging at the girls.</p>
 <p>Second, two of the guards rushed in to intercept the two guys in black who were coming for the kid. All four of &#x27;em went down together.</p>
 <p>And finally, the last of the men in black pulled one of the frozen, trembling girls from the group and cut her pretty little head off.</p>
 <p>Just a moment too late, the last of the swordsmen stabbed him from behind. Proudly holding up the severed head of his victim, the man died with a look of satisfaction on his face.</p>
 <p>I&#x27;m guessing that must have been the young lady who the guards had been fighting so hard to protect.</p>
-<p>The five survivors just stood there in silence, totally stunned. Understandable, right? I mean, they&#x27;d lost most of their pals <em>and</em> the girl they were trying to defend.</p>
+<p>The five survivors just stood there in silence, totally stunned. Understandable, right? I mean, they&#x27;d lost most of their pals and the girl they were trying to defend.</p>
 <p>Now that the show was over, I quietly moved along through the woods. There was a chance the smell of blood might draw some monsters to the area, for one thing. And I didn&#x27;t really want to deal with them asking me for help. Robinson and I made ourselves scarce in no time.</p>
 <p>***</p>
 <p>That was all there was to Bruno&#x27;s story.</p>
@@ -185,7 +185,7 @@ nav_title = "Extra Chapter II"
 <p>Still, there were a few mysteries remaining.</p>
 <p>For example, what had become of the survivors? From what Bruno told me, five members of the party had made it through that fight. The status of Luke Notos Greyrat was unclear, but at the very least, Silent Fitz was still alive. That guy really stood out in a crowd, and I hadn&#x27;t heard a single word about him heading back home to the capital.</p>
 <p>There was a chance he&#x27;d taken some roundabout route instead of the one I followed here, but that would still have entailed crossing back over the border first. Nobody at the checkpoint had mentioned him returning, so I had to think he&#x27;d kept on moving north instead.</p>
-<p>That didn&#x27;t strike me as <em>too</em> strange, though. It would take some guts to slink back home in disgrace after letting Princess Ariel get killed. Maybe he&#x27;d decided it was smarter to flee to the Northern Territories instead.</p>
+<p>That didn&#x27;t strike me as too strange, though. It would take some guts to slink back home in disgrace after letting Princess Ariel get killed. Maybe he&#x27;d decided it was smarter to flee to the Northern Territories instead.</p>
 <p>It wouldn&#x27;t have been too hard to find out if that was what happened if I crossed the border and headed up there for a while, of course…but sadly, my field of expertise is &quot;anything that takes place inside Asura&#x27;s borders.&quot; I don&#x27;t deal with international affairs.</p>
 <p>Besides, my job here was to determine the whereabouts of Second Princess Ariel Anemoi Asura. Her guards were outside the scope of that assignment, so I decided to head back to the royal capital. I&#x27;m a city boy at heart, you know? I&#x27;m never too comfortable out in the sticks.</p>
 <p>Still, I did manage to buy some rare booze from the Northern Territories off my new buddy Bruno. Once this job was all wrapped up, I was going to have myself a little party.</p>
@@ -197,13 +197,13 @@ nav_title = "Extra Chapter II"
 <p>When I focused carefully, I could hear every conversation taking place in here at once. This was one of the more useful of my many skills. If you want to make it as a top-class information broker, you can&#x27;t let any tidbit of news slip past you.</p>
 <p>&quot;So I hear there was a rumor going around that Princess Ariel got killed up north, huh?&quot;</p>
 <p>&quot;Yeah. It&#x27;s a real shame. I was a big fan…&quot;</p>
-<p>&quot;Come on, don&#x27;t tell me you <em>believe</em> that crap.&quot;</p>
+<p>&quot;Come on, don&#x27;t tell me you believe that crap.&quot;</p>
 <p>&quot;I mean, it&#x27;s not like I want to, but…&quot;</p>
 <p>Someone was talking about the topic of the hour, so I glanced in that direction. A sturdy-looking guy was drinking with a significantly older man. Clearly, neither of them knew the truth. They were just clueless puppets, dancing whichever way the latest rumors pulled them.</p>
 <p>The thought put me in an even better mood. Sometimes it feels really good to be a man who&#x27;s in the know.</p>
 <p>&quot;Look, I&#x27;m stationed at the checkpoint up by the border, you know?&quot;</p>
 <p>&quot;Of course I know that, Uncle. You just hit twenty years on the job, right? That&#x27;s why they gave you this extended leave.&quot;</p>
-<p>&quot;What a know-it-all. D&#x27;you know what I <em>do</em> in that checkpoint too? Hm?&quot;</p>
+<p>&quot;What a know-it-all. D&#x27;you know what I do in that checkpoint too? Hm?&quot;</p>
 <p>&quot;Uh, no…&quot;</p>
 <p>The topic seemed to be drifting away from Ariel, so I found myself losing interest. I could see the barkeep putting the finishing touches on my order. The case was closed anyway, right? My next job was to find the best way to enjoy this booze.</p>
 <p>&quot;I work up on the lookout tower.&quot;</p>
@@ -213,9 +213,9 @@ nav_title = "Extra Chapter II"
 <p>&quot;Anyway, word got around real quick after Princess Ariel went through the gates down below. All of my boys in the lookout crew were dying to at least get a glimpse of her, so we stared out there until our eyes were bloodshot.&quot;</p>
 <p>&quot;S-so what happened? Did you see her exiting the forest?&quot;</p>
 <p>&quot;Sure did. It was Princess Ariel, no doubt about it.&quot;</p>
-<p><em>That can&#x27;t be right</em>, I thought to myself. Was this old soldier lying? Could <em>Bruno</em> have lied, for some reason?</p>
+<p>That can&#x27;t be right, I thought to myself. Was this old soldier lying? Could Bruno have lied, for some reason?</p>
 <p>It didn&#x27;t seem likely…but it was possible Bruno had gotten the wrong idea. Maybe the girl that last assassin killed wasn&#x27;t really Princess Ariel. From what I&#x27;d heard, the Asuran royal family owned some fancy magic implements that could turn someone into a perfect body double. She&#x27;d likely used one to survive the attack.</p>
-<p>I&#x27;d jumped to the wrong conclusion. I&#x27;d delivered faulty information. This was <em>not</em> good. I needed to get firm confirmation of this story, then tell my client the truth…</p>
+<p>I&#x27;d jumped to the wrong conclusion. I&#x27;d delivered faulty information. This was not good. I needed to get firm confirmation of this story, then tell my client the truth…</p>
 <p>&quot;Enjoy, bud.&quot; The barkeep dropped my food off at my table.</p>
 <p>There was a plate of steaming hot grub in front of me, and next to it, a bottle of rare booze you almost never saw in Ars.</p>
 <p>&quot;…Ah, to hell with it.&quot; I&#x27;d half-risen from my seat, but chose to plop back down into it. If the princess was actually alive and enrolled at the Ranoa University of Magic, the truth would get around sooner or later. The last thing I needed was some stuck-up noble asking me for a refund, so I&#x27;d just have to leave the capital in a bit.</p>
