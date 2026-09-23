@@ -3,9 +3,10 @@
   var btn = document.getElementById('theme-btn');
   if (!btn) return;
   var VALID = ['amber', 'mallow', 'slick', 'safelight', 'tungsten'];
-  var current = html.getAttribute('data-theme') || 'safelight';
+  var DEF = (window.matchMedia && window.matchMedia('(max-width: 768px)').matches) ? 'safelight' : 'amber';
+  var current = html.getAttribute('data-theme') || DEF;
   if (VALID.indexOf(current) < 0) {
-    current = 'safelight';
+    current = DEF;
     html.setAttribute('data-theme', current);
     try { localStorage.setItem('theme', current); } catch (e) {}
   }

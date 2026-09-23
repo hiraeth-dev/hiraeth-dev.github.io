@@ -16,11 +16,16 @@ Base palette per theme — every theme **must** define all of these:
 | Glass system (global, auto-derived) | `--glass-bg` (panel 62%), `--glass-bg-strong` (panel 82%), `--glass-blur` (= per-theme `--blur`), `--glass-hi` (fg 14%), `--glass-shadow(-hover)` |
 
 Fonts switch via `html[data-font]`, which also bumps root `font-size`
-(maple/space 110%, iosevka 115%). Default theme is `safelight`, default font
+(maple/space 110%, iosevka 115%). Default theme is `amber` desktop / `safelight` mobile, default font
 `space`; boot script in `templates/base.html` sets `data-theme`/`data-font`
 pre-paint from `?theme=`/`?font=` params, else `localStorage`, else defaults.
 
-Solid gradient backgrounds (no wallpaper layer); panels run 45% glass (amber 25% desaturated neutral), tungsten lifted silvery (`--bg` #23262C), amber accent shifted yellow (`#FFD166`).
+Each theme layers its own `static/wallpaper-<theme>.webp` (~200KB) fixed
+behind the grid canvas (`body::after`, z-index -3, desktop only via
+`min-width: 769px`) at 0.12 opacity + 30px blur, brightened and desaturated;
+`--grid-fade` is `transparent` so `grid.js` skips the edge fill. Amber panels
+run desaturated neutral at 25% opacity, other themes use their own
+`--bg-panel` at 25% (strong/nav 40%). Mobile never sees any of this.
 
 ### Glass tokens (global, auto-derived — work in every theme)
 

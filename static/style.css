@@ -60,48 +60,60 @@
   box-sizing: border-box;
 }
 
-/* ── Base: safelight (fallback when JS disabled, matches default theme) ── */
+/* ── Base: amber (fallback when JS disabled, matches default theme) ── */
 :root {
-  --bg: #130609;
-  --bg-elev: #1D0A10;
-  --bg-panel: #1D0A10;
-  --bg-panel-alt: #2C151D;
-  --border: rgba(255, 110, 135, .17);
-  --border-strong: rgba(255, 140, 160, .46);
-  --fg: #F2D9DC;
-  --fg-dim: #9A6B72;
-  --fg-muted: #6B4A50;
-  --accent: #FF4D6A;
-  --accent-2: #C9285C;
-  --accent-bright: #FF9DAD;
-  --accent-soft: #C9285C;
-  --accent-dim: #8A1F3D;
-  --link: #C9285C;
-  --link-hover: #FF4D6A;
-  --focus-ring: #FF4D6A;
-  --grid-fade: #130609;
-  --grid-line: rgba(255, 100, 125, .09);
-  --grid-dot: rgba(255, 77, 106, .30);
-  --bg-glow: #1D0A10;
-  --bg-core: #0B0406;
-  --bar-a: #FF4D6A;
-  --bar-b: #C9285C;
-  --bar-c: #FF9DAD;
-  --orange: #C9285C;
-  --orange-deep: #7A1F3D;
+  --bg: #0B0906;
+  --bg-elev: #14100A;
+  --bg-panel: #14100A;
+  --bg-panel-alt: #251A0E;
+  --border: rgba(255, 176, 84, .22);
+  --border-strong: rgba(255, 196, 120, .5);
+  --fg: #F2E3CC;
+  --fg-dim: #9C876A;
+  --fg-muted: #6E5B40;
+  --accent: #FFB454;
+  --accent-2: #FF7A3D;
+  --accent-bright: #FFD9A0;
+  --accent-soft: #FF8A4D;
+  --accent-dim: #B25A1E;
+  --link: #FF7A3D;
+  --link-hover: #FFB454;
+  --focus-ring: #FFB454;
+  --grid-fade: #0B0906;
+  --grid-line: rgba(255, 176, 84, .09);
+  --grid-dot: rgba(255, 180, 84, .30);
+  --bg-glow: #14100A;
+  --bg-core: #060503;
+  --bar-a: #FFB454;
+  --bar-b: #FF7A3D;
+  --bar-c: #FFD9A0;
+  --orange: #FF8A4D;
+  --orange-deep: #8A3D16;
   --red: #FF6B6B;
   --red-deep: #C44545;
-  --cyan: #FF4D6A;
-  --cyan-deep: #8A1F3D;
-  --yellow: #FFB3C0;
+  --cyan: #FFB454;
+  --cyan-deep: #B25A1E;
+  --yellow: #FFD9A0;
+  --font-mono: "Maple Mono NF", monospace;
+  --font-read: "Maple Mono NF", monospace;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.8125rem;
+  --text-2xl: 2.5625rem;
+  --content-w: 720px;
+  --content-w-wide: 1100px;
+  --content-w-list: 960px;
+}
 
 /* ── Glass tokens: auto-derived from the active theme, so all 8 themes
    stay in sync with zero per-theme tuning. Surfaces stay legible over
    the animated grid in every theme (all themes are dark). ── */
 :root {
-  --glass-bg: color-mix(in srgb, var(--bg-panel) 45%, transparent);
-  --glass-bg-strong: color-mix(in srgb, var(--bg-panel) 65%, transparent);
-  --glass-blur: 15px;
+  --glass-bg: color-mix(in srgb, var(--bg-panel) 62%, transparent);
+  --glass-bg-strong: color-mix(in srgb, var(--bg-panel) 82%, transparent);
+  --glass-blur: var(--blur, 16px);
   --glass-hi: color-mix(in srgb, var(--fg) 14%, transparent);
   --glass-shadow: 0 12px 32px rgba(0, 0, 0, 0.38);
   --glass-shadow-hover: 0 18px 48px rgba(0, 0, 0, 0.50);
@@ -132,52 +144,49 @@ html[data-font="space"] {
 }
 /* ── amberglass — DEC VT220 phosphor behind smoked glass. Warm, low-glare, easy at 2am. ── */
 html[data-theme="amber"] {
-  --bg: #221809;
-  --bg-elev: #2C1F0E;
+  --bg: #0B0906;
+  --bg-elev: #14100A;
   --fg: #F2E3CC;
   --fg-dim: #9C876A;
-  --accent: #FFD166;
+  --accent: #FFB454;
   --accent-2: #FF7A3D;
   --glass: rgba(38, 27, 12, .45);
   --glass-hi: rgba(52, 36, 14, .62);
-  --line: rgba(255, 205, 100, .16);
-  --line-hi: rgba(255, 212, 130, .44);
-  --sheen: rgba(255, 232, 190, .07);
-  --glass-blur: 15px;
-  --glass-bg: transparent;
-  --glass-bg-strong: transparent;
+  --line: rgba(255, 176, 84, .16);
+  --line-hi: rgba(255, 196, 120, .44);
+  --sheen: rgba(255, 222, 176, .07);
   --grid: rgba(255, 176, 84, .07);
-  --glow: rgba(255, 205, 102, .30);
-  --halo-a: rgba(255, 190, 80, .16);
+  --glow: rgba(255, 180, 84, .30);
+  --halo-a: rgba(255, 160, 40, .16);
   --halo-b: rgba(210, 80, 20, .13);
   --blur: 14px;
   --sat: 140%;
-  --bg-panel: #2C1F0E;
-  --bg-panel-alt: #3A2B15;
-  --bg-glow: #2C1F0E;
-  --bg-core: #150E05;
+  --bg-panel: #14100A;
+  --bg-panel-alt: #251A0E;
+  --bg-glow: #14100A;
+  --bg-core: #060503;
   --fg-muted: #6E5B40;
   --border: var(--line);
   --border-strong: var(--line-hi);
-  --accent-bright: #FFE3A8;
+  --accent-bright: #FFD9A0;
   --accent-soft: #FF8A4D;
   --accent-dim: #B25A1E;
   --link: #FF7A3D;
   --link-hover: #FFB454;
   --focus-ring: #FFB454;
-  --grid-fade: #221809;
-  --grid-line: rgba(255, 200, 100, .09);
-  --grid-dot: rgba(255, 205, 102, .30);
-  --bar-a: #FFD166;
+  --grid-fade: #0B0906;
+  --grid-line: rgba(255, 176, 84, .09);
+  --grid-dot: rgba(255, 180, 84, .30);
+  --bar-a: #FFB454;
   --bar-b: #FF7A3D;
   --bar-c: #FFD9A0;
   --orange: #FF8A4D;
   --orange-deep: #8A3D16;
   --red: #FF6B6B;
   --red-deep: #C44545;
-  --cyan: #FFD166;
+  --cyan: #FFB454;
   --cyan-deep: #B25A1E;
-  --yellow: #FFE3A8;
+  --yellow: #FFD9A0;
   --cat-dark: #5C3410;
   --cat-mid: #9A5A1C;
   --cat-base: #FFB454;
@@ -185,8 +194,8 @@ html[data-theme="amber"] {
 }
 /* ── mallow — Dusk, not neon — indigo base, orchid and rose. The softest edge of the three. ── */
 html[data-theme="mallow"] {
-  --bg: #100A1A;
-  --bg-elev: #181026;
+  --bg: #0A0712;
+  --bg-elev: #120C1E;
   --fg: #E7DDF6;
   --fg-dim: #9184A8;
   --accent: #C89BFF;
@@ -202,10 +211,10 @@ html[data-theme="mallow"] {
   --halo-b: rgba(255, 110, 170, .11);
   --blur: 16px;
   --sat: 140%;
-  --bg-panel: #181026;
-  --bg-panel-alt: #261B3D;
-  --bg-glow: #181026;
-  --bg-core: #090614;
+  --bg-panel: #120C1E;
+  --bg-panel-alt: #1E1430;
+  --bg-glow: #120C1E;
+  --bg-core: #05030A;
   --fg-muted: #5F5478;
   --border: var(--line);
   --border-strong: var(--line-hi);
@@ -215,7 +224,7 @@ html[data-theme="mallow"] {
   --link: #FF84C0;
   --link-hover: #C89BFF;
   --focus-ring: #C89BFF;
-  --grid-fade: #100A1A;
+  --grid-fade: #0A0712;
   --grid-line: rgba(190, 150, 255, .09);
   --grid-dot: rgba(200, 155, 255, .30);
   --bar-a: #C89BFF;
@@ -237,8 +246,8 @@ html[data-theme="mallow"] {
 
 /* ── slick — An oil film on wet asphalt. Thin panes, wide blur, two hues bleeding through. ── */
 html[data-theme="slick"] {
-  --bg: #081018;
-  --bg-elev: #101A25;
+  --bg: #04080B;
+  --bg-elev: #0A1219;
   --fg: #DCEAF0;
   --fg-dim: #7B8F9C;
   --accent: #5EEAD4;
@@ -254,10 +263,10 @@ html[data-theme="slick"] {
   --halo-b: rgba(150, 70, 255, .24);
   --blur: 24px;
   --sat: 200%;
-  --bg-panel: #101A25;
-  --bg-panel-alt: #142437;
-  --bg-glow: #101A25;
-  --bg-core: #050B0F;
+  --bg-panel: #0A1219;
+  --bg-panel-alt: #0E1A26;
+  --bg-glow: #0A1219;
+  --bg-core: #020507;
   --fg-muted: #4E616C;
   --border: var(--line);
   --border-strong: var(--line-hi);
@@ -267,7 +276,7 @@ html[data-theme="slick"] {
   --link: #E879C7;
   --link-hover: #5EEAD4;
   --focus-ring: #5EEAD4;
-  --grid-fade: #081018;
+  --grid-fade: #04080B;
   --grid-line: rgba(150, 220, 235, .09);
   --grid-dot: rgba(94, 234, 212, .30);
   --bar-a: #5EEAD4;
@@ -288,8 +297,8 @@ html[data-theme="slick"] {
 
 /* ── safelight — Darkroom red. Almost no blue light in it, and the dimmest of the six. ── */
 html[data-theme="safelight"] {
-  --bg: #130609;
-  --bg-elev: #1D0A10;
+  --bg: #0B0406;
+  --bg-elev: #15070B;
   --fg: #F2D9DC;
   --fg-dim: #9A6B72;
   --accent: #FF4D6A;
@@ -305,10 +314,10 @@ html[data-theme="safelight"] {
   --halo-b: rgba(150, 15, 70, .14);
   --blur: 15px;
   --sat: 155%;
-  --bg-panel: #1D0A10;
-  --bg-panel-alt: #2C151D;
-  --bg-glow: #1D0A10;
-  --bg-core: #0B0406;
+  --bg-panel: #15070B;
+  --bg-panel-alt: #221016;
+  --bg-glow: #15070B;
+  --bg-core: #060203;
   --fg-muted: #6B4A50;
   --border: var(--line);
   --border-strong: var(--line-hi);
@@ -318,7 +327,7 @@ html[data-theme="safelight"] {
   --link: #C9285C;
   --link-hover: #FF4D6A;
   --focus-ring: #FF4D6A;
-  --grid-fade: #130609;
+  --grid-fade: #0B0406;
   --grid-line: rgba(255, 100, 125, .09);
   --grid-dot: rgba(255, 77, 106, .30);
   --bar-a: #FF4D6A;
@@ -620,7 +629,59 @@ body:has(#grid-canvas)::before {
 html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 
 
-/* ── Terminal window ── */.terminal {
+/* ── Theme wallpapers (desktop only) ──
+   Fixed photo behind the grid canvas (z-index -3: rearmost layer), same
+   recipe per theme: 0.12 leak, 30px blur, brighter, desaturated. The
+   transparent --grid-fade makes grid.js skip its edge fill so the photo
+   shows through everywhere. Mobile never sees any of this. */
+@media (min-width: 769px) {
+  html[data-theme="amber"], html[data-theme="slick"], html[data-theme="mallow"],
+  html[data-theme="safelight"], html[data-theme="tungsten"] {
+    --grid-fade: transparent;
+  }
+  html[data-theme="amber"] {
+    --blur: 20px;
+    --glass-bg: color-mix(in srgb, #211C16 25%, transparent);
+    --glass-bg-strong: color-mix(in srgb, #211C16 40%, transparent);
+  }
+  html[data-theme="slick"], html[data-theme="mallow"],
+  html[data-theme="safelight"], html[data-theme="tungsten"] {
+    --glass-bg: color-mix(in srgb, var(--bg-panel) 25%, transparent);
+    --glass-bg-strong: color-mix(in srgb, var(--bg-panel) 40%, transparent);
+  }
+  html[data-theme="amber"] body:has(#grid-canvas)::after,
+  html[data-theme="slick"] body:has(#grid-canvas)::after,
+  html[data-theme="mallow"] body:has(#grid-canvas)::after,
+  html[data-theme="safelight"] body:has(#grid-canvas)::after,
+  html[data-theme="tungsten"] body:has(#grid-canvas)::after {
+    content: ""; position: fixed; inset: 0;
+    z-index: -3; pointer-events: none;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.12;
+    filter: blur(30px) brightness(1.15) saturate(0.7);
+    transform: scale(1.05);
+  }
+  html[data-theme="amber"] body:has(#grid-canvas)::after {
+    background-image: url("/wallpaper-amber.webp");
+  }
+  html[data-theme="slick"] body:has(#grid-canvas)::after {
+    background-image: url("/wallpaper-slick.webp");
+  }
+  html[data-theme="mallow"] body:has(#grid-canvas)::after {
+    background-image: url("/wallpaper-mallow.webp");
+  }
+  html[data-theme="safelight"] body:has(#grid-canvas)::after {
+    background-image: url("/wallpaper-safelight.webp");
+  }
+  html[data-theme="tungsten"] body:has(#grid-canvas)::after {
+    background-image: url("/wallpaper-tungsten.webp");
+  }
+}
+
+/* ── Terminal window ── */
+.terminal {
   background: var(--glass-bg);
   backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
   -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
