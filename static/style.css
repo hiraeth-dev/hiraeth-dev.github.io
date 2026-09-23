@@ -629,57 +629,6 @@ body:has(#grid-canvas)::before {
 html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 
 
-/* ── Theme wallpapers (desktop only) ──
-   Fixed photo behind the grid canvas (z-index -3: rearmost layer), same
-   recipe per theme: 0.12 leak, 30px blur, brighter, desaturated. The
-   transparent --grid-fade makes grid.js skip its edge fill so the photo
-   shows through everywhere. Mobile never sees any of this. */
-@media (min-width: 769px) {
-  html[data-theme="amber"], html[data-theme="slick"], html[data-theme="mallow"],
-  html[data-theme="safelight"], html[data-theme="tungsten"] {
-    --grid-fade: transparent;
-  }
-  html[data-theme="amber"] {
-    --blur: 20px;
-    --glass-bg: color-mix(in srgb, #211C16 25%, transparent);
-    --glass-bg-strong: color-mix(in srgb, #211C16 40%, transparent);
-  }
-  html[data-theme="slick"], html[data-theme="mallow"],
-  html[data-theme="safelight"], html[data-theme="tungsten"] {
-    --glass-bg: color-mix(in srgb, var(--bg-panel) 25%, transparent);
-    --glass-bg-strong: color-mix(in srgb, var(--bg-panel) 40%, transparent);
-  }
-  html[data-theme="amber"] body:has(#grid-canvas)::after,
-  html[data-theme="slick"] body:has(#grid-canvas)::after,
-  html[data-theme="mallow"] body:has(#grid-canvas)::after,
-  html[data-theme="safelight"] body:has(#grid-canvas)::after,
-  html[data-theme="tungsten"] body:has(#grid-canvas)::after {
-    content: ""; position: fixed; inset: 0;
-    z-index: -3; pointer-events: none;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    opacity: 0.12;
-    filter: blur(30px) brightness(1.15) saturate(0.7);
-    transform: scale(1.05);
-  }
-  html[data-theme="amber"] body:has(#grid-canvas)::after {
-    background-image: url("/wallpaper-amber.webp");
-  }
-  html[data-theme="slick"] body:has(#grid-canvas)::after {
-    background-image: url("/wallpaper-slick.webp");
-  }
-  html[data-theme="mallow"] body:has(#grid-canvas)::after {
-    background-image: url("/wallpaper-mallow.webp");
-  }
-  html[data-theme="safelight"] body:has(#grid-canvas)::after {
-    background-image: url("/wallpaper-safelight.webp");
-  }
-  html[data-theme="tungsten"] body:has(#grid-canvas)::after {
-    background-image: url("/wallpaper-tungsten.webp");
-  }
-}
-
 /* ── Terminal window ── */
 .terminal {
   background: var(--glass-bg);
