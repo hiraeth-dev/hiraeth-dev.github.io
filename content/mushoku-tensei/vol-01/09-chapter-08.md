@@ -33,20 +33,20 @@ nav_title = "Chapter 8"
 <p>Incidentally, I didn&#x27;t have any opposition schools myself, due to my comfortable upbringing.</p>
 <p>You didn&#x27;t really need fire to create warm water or a warm breeze, but since trying to explain that concept was a pain, I had Sylph practice with fire as well. He had nothing to lose by being able to use it whenever he needed. For example, heat could be used to eradicate salmonella, so if you didn&#x27;t want to die of food poisoning, you needed to use a bit of fire. Though I guessed even Beginner-tier detoxification magic could neutralize most poisons.</p>
 <p>Despite his struggles, Sylph didn&#x27;t complain as he went through his training, probably because he wanted to back up his claims of not being afraid. He looked so cute with my wand (the one I&#x27;d gotten from Roxy) in one hand and my magic textbook (the one I brought from home) in the other, his face steeled in concentration as he chanted. And if a boy like me was thinking that, he was sure to be super-hot once he grew up.</p>
-<p>A father&#x27;s heart is a jealous heart…</p>
+<p><em>A father&#x27;s heart is a jealous heart…</em></p>
 <p>The words rang clearly in my head as if they&#x27;d been said aloud, but I quickly shook my head and banished the thought. This wasn&#x27;t a matter of jealousy. Besides, his being good-looking was part of my plan: Operation Hot Friend Bait.</p>
 <p>&quot;Hey, Rudy?&quot; Sylph asked. &quot;What&#x27;s this word here?&quot;</p>
-<p>His voice banished the song from my head. He was gazing up at me, pointing at one of the pages in A Textbook of Magic. And that look he was giving me was a powerful one. I wanted to just wrap my arms around him and pull him into a kiss. But I managed to resist the urge.</p>
+<p>His voice banished the song from my head. He was gazing up at me, pointing at one of the pages in <em>A Textbook of Magic</em>. And that look he was giving me was a powerful one. I wanted to just wrap my arms around him and pull him into a kiss. But I managed to resist the urge.</p>
 <p>&quot;That says &#x27;avalanche.&#x27;&quot;</p>
 <p>&quot;What does it mean?&quot;</p>
 <p>&quot;When tremendous amounts of snow build up on a mountain, it can&#x27;t bear its own weight, and it all comes collapsing down. You know how when snow builds up on your roof it sometimes comes flumping off? It&#x27;s like a way bigger version of that.&quot;</p>
 <p>&quot;Oh, wow. That sounds incredible. Have you ever seen one?&quot;</p>
 <p>&quot;An avalanche? Of course I…haven&#x27;t.&quot; Not outside of TV, anyway.</p>
-<p>Sylph had me read from A Textbook of Magic. This was also part of teaching him how to read and write. No harm in learning literacy. There was no spell in this world that could do that for you. The lower the literacy rate, the more valuable being able to read was.</p>
+<p>Sylph had me read from <em>A Textbook of Magic</em>. This was also part of teaching him how to read and write. No harm in learning literacy. There was no spell in this world that could do that for you. The lower the literacy rate, the more valuable being able to read was.</p>
 <p>&quot;I did it!&quot; Sylph cheered. He&#x27;d managed to cast the Intermediate-tier water spell Ice Pillar. A shaft of water sprang from the ground, glinting brightly in the sunlight.</p>
 <p>&quot;Hey, you&#x27;re getting pretty good,&quot; I said.</p>
 <p>&quot;Uh-huh!&quot; Sylph replied, and then he tilted his head. &quot;But there&#x27;s stuff you do that isn&#x27;t written in here, huh?&quot;</p>
-<p>&quot;Huh?&quot; It took me a few moments to realize he was talking about that thing I&#x27;d done with the warm water. I flipped briskly through A Textbook of Magic, then pointed at two entries. &quot;No, it&#x27;s written in here. Waterfall and Heat Hand.&quot;</p>
+<p>&quot;Huh?&quot; It took me a few moments to realize he was talking about that thing I&#x27;d done with the warm water. I flipped briskly through <em>A Textbook of Magic</em>, then pointed at two entries. &quot;No, it&#x27;s written in here. Waterfall and Heat Hand.&quot;</p>
 <p>&quot;Hm?&quot;</p>
 <p>&quot;I used both at the same time.&quot;</p>
 <p>&quot;Huh?&quot; Sylph inclined his head even further. &quot;How can you chant two things at the same time?&quot;</p>
@@ -98,9 +98,9 @@ nav_title = "Chapter 8"
   <img src="/novels/mushoku-tensei/vol-01/insert-07.webp" alt="Illustration" loading="lazy" />
 </div>
 <p>Sylph shrieked. A moment later, he squatted and curled up into himself to hide his body from sight—but in that moment, what flashed before my eyes was not the pure short sword to which I&#x27;d grown recently accustomed; nor, naturally, was it a dark blade bearing ominous sigils.</p>
-<p>No, what was there—rather, what wasn&#x27;t there—was, well, replaced by something that shouldn&#x27;t have been there. It was something I&#x27;d seen many times over in my past life, on my computer monitor. Sometimes it was covered with a pixelated mosaic; other times it was uncensored. I&#x27;d stare, always thinking about how much I wanted to lick and be inside the real thing someday, my dark lust inevitable causing my white cannon to hit the mark on a handful of tissues.</p>
+<p>No, what was there—rather, what <em>wasn&#x27;t</em> there—was, well, replaced by something that <em>shouldn&#x27;t</em> have been there. It was something I&#x27;d seen many times over in my past life, on my computer monitor. Sometimes it was covered with a pixelated mosaic; other times it was uncensored. I&#x27;d stare, always thinking about how much I wanted to lick and be inside the real thing someday, my dark lust inevitable causing my white cannon to hit the mark on a handful of tissues.</p>
 <p>One of those. That&#x27;s what Sylph had.</p>
-<p>He…was a she.</p>
+<p>He…was a <em>she</em>.</p>
 <p>My vision went white. What I&#x27;d just done was not okay at all.</p>
 <p>***</p>
 <p>&quot;Rudeus, what are you doing?&quot;</p>
@@ -153,11 +153,11 @@ nav_title = "Chapter 8"
 <p>For today, I told myself, that would be good enough.</p>
 <p>***</p>
 <p>My skills, according to this world&#x27;s standards, were as follows:</p>
-<p>Swordplay</p>
+<p><em>Swordplay</em></p>
 <p>Sword God Style: Beginner; Water God Style: Beginner</p>
-<p>Attack Magic</p>
+<p><em>Attack Magic</em></p>
 <p>Fire: Advanced; Water: Saint; Wind: Advanced; Earth: Advanced</p>
-<p>Healing Magic</p>
+<p><em>Healing Magic</em></p>
 <p>Healing: Intermediate; Detoxification: Beginner</p>
 <p>Healing magic was divided into the same seven ranks as usual, and comprised four schools: Healing, Protection, Detoxification, and Divine Strike. But these schools didn&#x27;t come with cool-sounding titles like Fire Saint or Water Saint; you were simply called a Saint-tier Healing caster, or a Saint-tier Detoxification caster.</p>
 <p>Healing magic, as the name implied, was used to heal injuries. Beginners would expend most of their effort simply to close up wounds, but it was said that people at the Imperial level could regrow lost limbs. But not even someone at the Divine level could bring a dead creature back to life.</p>
@@ -178,10 +178,10 @@ nav_title = "Chapter 8"
 <p>&quot;Hehehe. What&#x27;s the matter, Rudy?&quot; he asked. &quot;Feeling down because Sylphiette doesn&#x27;t like you?&quot;</p>
 <p>That wasn&#x27;t what I&#x27;d sighed about, though. Granted, Sylphie was one of the things weighing on my mind.</p>
 <p>&quot;Well, yeah. Sword practice isn&#x27;t going so well, Sylphie is mad at me—yeah, I sighed.&quot;</p>
-<p>Paul grinned again and thrust his wooden practice sword into the ground. He leaned against it and looked directly at me. Oh, please tell me he&#x27;s not about to make fun of me…</p>
+<p>Paul grinned again and thrust his wooden practice sword into the ground. He leaned against it and looked directly at me. <em>Oh, please tell me he&#x27;s not about to make fun of me…</em></p>
 <p>&quot;Want some advice from your dad?&quot;</p>
 <p>I hadn&#x27;t expected that. I thought about it some. Paul— my dad—was a popular guy with the ladies. Zenith was definitely what you&#x27;d call beautiful, plus there was the whole thing with Mrs. Eto. Sometimes he&#x27;d touch Lilia&#x27;s butt, and the look on her face</p>
-<p>suggested she didn&#x27;t mind at all. He had to have something: some way to keep girls from hating you.</p>
+<p>suggested she didn&#x27;t mind at all. He had to have something: <em>some</em> way to keep girls from hating you.</p>
 <p>Granted, Paul was more the kind of person who acted on intuition, so I wasn&#x27;t sure I&#x27;d understand him, but if nothing else, it&#x27;d be food for thought. &quot;Yes, please,&quot; I told him.</p>
 <p>&quot;Hmm. How to put this…?&quot;</p>
 <p>&quot;Should I go and lick her boots?&quot;</p>
@@ -210,7 +210,7 @@ nav_title = "Chapter 8"
 <p>&quot;Good luck!&quot; Paul said, with a wave of his hand.</p>
 <p>Unable to wait any longer, I dashed off. As I left, I could&#x27;ve sworn I heard him say one final thing.</p>
 <p>I got to our spot under the tree earlier than usual, so Sylphie hadn&#x27;t shown up yet. I&#x27;d brought my wooden practice sword, as always, but I hadn&#x27;t cleaned up before heading out like I usually did, so I was all sweaty.</p>
-<p>What should I do? There was nothing to be done, really. Times like this, I just had to do mental exercises. I swung my sword around as I ran through some simulations in my head. I&#x27;d shown her my strengths. Now I had to show my weaknesses. Weakness. How was I supposed to do that again? Ah, right—let her see that I was feeling down. But how? When was the right time? Should I just come out with it right away? That seemed like it&#x27;d be weird. Should I try to work it into the flow of the conversation? Could I do that, though? No—I would.</p>
+<p>What should I do? There was nothing to be done, really. Times like this, I just had to do mental exercises. I swung my sword around as I ran through some simulations in my head. I&#x27;d shown her my strengths. Now I had to show my weaknesses. Weakness. How was I supposed to do that again? Ah, right—let her see that I was feeling down. But how? When was the right time? Should I just come out with it right away? That seemed like it&#x27;d be weird. Should I try to work it into the flow of the conversation? Could I do that, though? No—I <em>would</em>.</p>
 <p>Caught up with thinking about this while idly swinging my sword, I must have loosened my grip, because the sword slipped right out of my hand. &quot;Whoops!&quot; I followed its path as it skittered along the ground, landing right at Sylphie&#x27;s feet.</p>
 <p>My mind went completely blank. Crap! What should I do? What should I say?!</p>
 <p>&quot;What&#x27;s the matter, Rudy?&quot; Sylphie was staring at me, her eyes wide. What was the matter? Was it because I&#x27;d shown up super early?</p>

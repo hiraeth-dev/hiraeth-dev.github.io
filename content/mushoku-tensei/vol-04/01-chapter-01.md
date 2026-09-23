@@ -29,7 +29,7 @@ nav_title = "Chapter 1"
 <p>I did want to see how sexy her body had gotten now that she was thirteen, but that desire was destined to remain unfulfilled. Namely because there was an important component missing from this equation.</p>
 <p>&quot;You don&#x27;t have a swimsuit, do you?&quot; I asked.</p>
 <p>&quot;What the heck is a swimsuit? I don&#x27;t need one!&quot;</p>
-<p>Her response was so shocking I couldn&#x27;t hide my confusion. What the heck is a swimsuit, I don&#x27;t need one, she said. So she meant to swim totally naked…? No, no way, that couldn&#x27;t be it. Most likely she meant to swim in her underwear. I pictured her clad in nothing but her underwear, water pouring over her. The damp fabric would cling to her body, and through the sheer material I would be able to</p>
+<p>Her response was so shocking I couldn&#x27;t hide my confusion. <em>What the heck is a swimsuit, I don&#x27;t need one</em>, she said. So she meant to swim totally naked…? No, no way, that couldn&#x27;t be it. Most likely she meant to swim in her underwear. I pictured her clad in nothing but her underwear, water pouring over her. The damp fabric would cling to her body, and through the sheer material I would be able to</p>
 <p>see the color of her skin, as well as the slight protrusions on her chest.</p>
 <p>Why didn&#x27;t I ever join them when she went to play in the water back in Fittoa? Oh yes, because I was busy. Even on my days off I was preoccupied with something. Still, I should have gone with her just one time at least.</p>
 <p>No, now wasn&#x27;t the time to think about that. I needed to focus on the city right before me. Live in the now. That&#x27;s right, live in the now! Woo-hoo, the ocean!</p>
@@ -38,10 +38,10 @@ nav_title = "Chapter 1"
 <p>&quot;There&#x27;s a lot of monsters in there.&quot;</p>
 <p>A red jewel embedded in Ruijerd&#x27;s forehead provided him with a sixth sense. It acted as a radar that could detect the presence of every living creature within several hundred meters of its bearer. With such a convenient ability, it was easy to think we could swiftly dispatch all those creatures in the ocean, but maybe it wasn&#x27;t as allpowerful as I thought. Maybe those murky depths were impenetrable.</p>
 <p>Nah. Even so, we should still be able to swim for a little bit, right? Swimming in the harbor might be too dangerous, but I could at least use earth magic on a nearby beach to make our own little pool.</p>
-<p>No…there was still a chance it could be dangerous. There were beasts out there with powers of their own. Some of them might be able to jump over my barrier. It might be a sexy encounter if it were an octopus, but if it were a shark, we&#x27;d be in a real-life reenactment of Jaws.</p>
+<p>No…there was still a chance it could be dangerous. There were beasts out there with powers of their own. Some of them might be able to jump over my barrier. It might be a sexy encounter if it were an octopus, but if it were a shark, we&#x27;d be in a real-life reenactment of <em>Jaws</em>.</p>
 <p>There was little choice. Probably best to give up the idea of a swim in the ocean. There really was nothing else we could do. &quot;There&#x27;ll be no sea bathing this time. Let&#x27;s go find our inn and then hit up the Adventurers&#x27; Guild.&quot;</p>
 <p>&quot;Okay…&quot; Eris looked dejected.</p>
-<p>Hmm. I was still very much interested in seeing how toned her body was. We hadn&#x27;t much opportunity to check out each other&#x27;s growth in the last year. It was difficult to gauge anything through her clothes, but maybe if we were out on the open beach, I could see a little more. Yeah, that&#x27;s right, we should do that.</p>
+<p>Hmm. I was still very much interested in seeing how toned her body was. We hadn&#x27;t much opportunity to check out each other&#x27;s growth in the last year. It was difficult to gauge anything through her clothes, but maybe if we were out on the open beach, I could see a little more. <em>Yeah, that&#x27;s right, we should do that.</em></p>
 <p>&quot;Even if we can&#x27;t go in the water, we could at least play on the beach, right?&quot;</p>
 <p>&quot;The beach?&quot;</p>
 <p>&quot;There&#x27;s something called sand by the ocean. At the water&#x27;s edge, that sand stretches out pretty far,&quot; I explained.</p>
@@ -66,7 +66,7 @@ nav_title = "Chapter 1"
 <p>Digressions aside, we were adventurers primarily interested in earning money, so if going to Millis Continent was the fastest way to do that, boarding a ship immediately was in our best interest.</p>
 <p>&quot;By the way, where do the boats leave from?&quot; I asked.</p>
 <p>&quot;The harbor, of course.&quot;</p>
-<p>&quot;Yes, but where in the harbor?&quot;</p>
+<p>&quot;Yes, but <em>where</em> in the harbor?&quot;</p>
 <p>&quot;Ask someone,&quot; Ruijerd said.</p>
 <p>&quot;Yes, sir.&quot;</p>
 <p>I moved to the counter. Standing behind it was a human woman. In fact, most personnel tended to be women, and for some reason they tended to be generously endowed, probably for aesthetic purposes.</p>
@@ -96,7 +96,7 @@ nav_title = "Chapter 1"
 <p>&quot;Dead End… You mean that demon from the Superd race…?&quot;</p>
 <p>&quot;Idiot! The party name. Those fakes all the rumors have been about lately!&quot;</p>
 <p>&quot;I&#x27;ve heard rumors about the real thing, too.&quot;</p>
-<p>Oh?</p>
+<p><em>Oh?</em></p>
 <p>&quot;I heard they&#x27;re brutal, but he&#x27;s not a bad guy at heart.&quot;</p>
 <p>&quot;So he&#x27;s brutal but he&#x27;s nice? C&#x27;mon, that&#x27;s a contradiction.&quot;</p>
 <p>&quot;No, I meant not all of them are brutal.&quot;</p>
@@ -111,7 +111,7 @@ nav_title = "Chapter 1"
 <p>&quot;I heard the Kennel Master is the nastiest one of all.&quot;</p>
 <p>&quot;Yeah, all he&#x27;s done is awful things.&quot;</p>
 <p>What in the world!!</p>
-<p>Not only was the nickname different than I&#x27;d imagined, they didn&#x27;t even remember my name! No, wait, but it was true that I used Ruijerd&#x27;s name all the time, right? Still, whenever I did anything good, I would always proclaim, &quot;I&#x27;m Ruijerd of Dead End, and don&#x27;t you forget it!&quot; Meanwhile, every time I did something bad, I would cackle loudly and say, &quot;My name is Rudeus, bwahahaha!&quot; So they shouldn&#x27;t have gotten the two mixed up, right?</p>
+<p>Not only was the nickname different than I&#x27;d imagined, they didn&#x27;t even remember my name! No, wait, but it <em>was</em> true that I used Ruijerd&#x27;s name all the time, right? Still, whenever I did anything good, I would always proclaim, &quot;I&#x27;m Ruijerd of Dead End, and don&#x27;t you forget it!&quot; Meanwhile, every time I did something bad, I would cackle loudly and say, &quot;My name is Rudeus, bwahahaha!&quot; So they shouldn&#x27;t have gotten the two mixed up, right?</p>
 <p>Hmm. After a whole year of laborious work, it was a bit of shock to discover people remembered everyone&#x27;s name but mine. Oh well. It seemed I had a negative image attached to me, but at least people weren&#x27;t using my real name. Besides, Kennel Master wasn&#x27;t such a bad title. I&#x27;d love to put a collar on Eris and lead her around.</p>
 <p>&quot;But he&#x27;s pretty small.&quot;</p>
 <p>&quot;Bet he&#x27;s small down there too, since he&#x27;s a kid and all!&quot;</p>
@@ -122,7 +122,7 @@ nav_title = "Chapter 1"
 <p>stealing glances at me with her cheeks flushed bright red. Aww, how adorable.</p>
 <p>&quot;Eris, what&#x27;s wrong?&quot;</p>
 <p>&quot;I-It&#x27;s nothing!&quot;</p>
-<p>Heh heh heh. If you&#x27;re that interested, then why don&#x27;t you take a look while I&#x27;m showering tonight? Don&#x27;t worry, I&#x27;ll explain everything to Ruijerd. If you want, we can even get in together. Of course, a hand, leg, body, or even a tongue might slip in the process…</p>
+<p><em>Heh heh heh. If you&#x27;re that interested, then why don&#x27;t you take a look while I&#x27;m showering tonight? Don&#x27;t worry, I&#x27;ll explain everything to Ruijerd. If you want, we can even get in together. Of course, a hand, leg, body, or even a tongue might slip in the process</em>…</p>
 <p>Anyway, enough joking around. It was time for us to move on to the checkpoint. I would leave here with every bit of dignity expected of a &quot;Kennel Master.&quot;</p>
 <p>&quot;Miss Eris, Mister Ruijerdoria! Let&#x27;s be on our way!&quot;</p>
 <p>&quot;Why do you screw up my name like that…?&quot;</p>
@@ -139,7 +139,7 @@ nav_title = "Chapter 1"
 <p>Of course I knew it! I had traveled with Ruijerd for the past year, how wouldn&#x27;t I know? There was such contempt toward the Superd tribe that all its members were groundlessly persecuted. Even so, this fee was too high.</p>
 <p>&quot;But why such an impossibly high sum?&quot;</p>
 <p>&quot;Don&#x27;t ask me. Ask the person who decided on it.&quot;</p>
-<p>I pressed on. &quot;Well, why do you think it&#x27;s so high?&quot;</p>
+<p>I pressed on. &quot;Well, why do <em>you</em> think it&#x27;s so high?&quot;</p>
 <p>&quot;Uh, well, to prevent terrorism, I&#x27;m sure, in case someone brings one along as a slave and sets them loose on the Millis Continent.&quot; At least, that was his interpretation. In other words, they were treating the Superd as if they were a ticking time bomb.</p>
 <p>&quot;You&#x27;re those guys, Dead End, right? The fake Superd. When you board, they&#x27;ll check what subrace you are. Don&#x27;t act tough and waste two hundred green ore coins here when they&#x27;ll figure you out anyway.&quot;</p>
 <p>The official&#x27;s words of caution were a blessing in disguise. This meant we wouldn&#x27;t be able to pretend Ruijerd was from the Migurd tribe because we&#x27;d be discovered anyway.</p>
@@ -150,7 +150,7 @@ nav_title = "Chapter 1"
 <p>&quot;This is so good!&quot; Eris said happily as she chewed, her cheeks stuffed with food.</p>
 <p>In this past year she had entirely forgotten the Asura Kingdom&#x27;s customary table manners. She cut her food with the knife in her right hand, then stabbed it and put it straight in her mouth. At least she wasn&#x27;t shoveling it in with her fists, but there was nothing graceful or refined about it. Edna, her etiquette tutor, would surely be reduced to tears if she could see Eris now. This was also my responsibility.</p>
 <p>&quot;Eris, your table manners are awful!&quot;</p>
-<p>Munch, munch. &quot;Who the hell&#x27;s worried about manners?&quot;</p>
+<p><em>Munch, munch.</em> &quot;Who the hell&#x27;s worried about manners?&quot;</p>
 <p>In comparison, Ruijerd&#x27;s manners were much better, although they had no elegance to them, either. He didn&#x27;t use his knife at all, but used his fork both to cut the food and eat. He slid his fork through the fish as easily as if it were butter. The skills of an expert, no doubt.</p>
 <p>&quot;Well, I realize we&#x27;re still in the midst of our meal, but let&#x27;s start our strategy meeting.&quot;</p>
 <p>&quot;Rudeus, talking during a meal is poor manners,&quot; Eris said, suddenly wearing the expression of a prim and proper lady on her face.</p>
@@ -171,7 +171,7 @@ nav_title = "Chapter 1"
 <p>&quot;Ah.&quot;</p>
 <p>&quot;Amazing, there&#x27;s three whole options?&quot; Eris asked.</p>
 <p>&quot;Heh heh!&quot; I laughed.</p>
-<p>Now just hold on, I thought. I haven&#x27;t thought through all of them yet. Let&#x27;s see…</p>
+<p><em>Now just hold on</em>, I thought. <em>I haven&#x27;t thought through all of them yet. Let&#x27;s see…</em></p>
 <p>&quot;The first option is a frontal attack: we stay here, earn money, and travel to Millis Continent by paying the fee.&quot;</p>
 <p>&quot;But if we do that…&quot;</p>
 <p>&quot;Yes, it will take way too much time,&quot; I agreed.</p>
@@ -197,31 +197,31 @@ nav_title = "Chapter 1"
 <p>***</p>
 <p>That night, a divine message came to me.</p>
 <p>The Man-God told me, &quot;Buy some food at a street stall and search the alleyways by yourself.&quot;</p>
-<p>Sounds like a real pain in the ass. But since I have no other options, I&#x27;ll try to be optimistic and give it a shot.</p>
+<p><em>Sounds like a real pain in the ass</em>. <em>But since I have no other options, I&#x27;ll try to be optimistic and give it a shot.</em></p>
 <p>&quot;So you&#x27;re doing it because you have no other choice?&quot;</p>
-<p>Nah, I just already know what&#x27;s going to happen since you said the words &quot;food&quot; and &quot;back alleyway&quot;.</p>
+<p><em>Nah, I just already know what&#x27;s going to happen since you said the words &quot;food&quot; and &quot;back alleyway&quot;.</em></p>
 <p>&quot;Do you?&quot;</p>
-<p>Yeah, pretty cliché, right? Let me guess, I&#x27;m going to find some hungry kid that got lost. And she&#x27;s going to have some weird guy trying to pick her up. How&#x27;s that?</p>
+<p><em>Yeah, pretty cliché, right? Let me guess, I&#x27;m going to find some hungry kid that got lost. And she&#x27;s going to have some weird guy trying to pick her up. How&#x27;s that?</em></p>
 <p>&quot;You&#x27;re exactly right. Incredible!&quot;</p>
-<p>Then that kid turns out to be the grandchild of the leader of the Shipwrights&#x27; Guild or something like that, right?</p>
+<p><em>Then that kid turns out to be the grandchild of the leader of the Shipwrights&#x27; Guild or something like that, right?</em></p>
 <p>&quot;Heh heh heh. Save the surprise for tomorrow.&quot;</p>
-<p>What surprise? There hasn&#x27;t been a single enjoyable surprise this entire time. Besides, dude! What the heck? It&#x27;s been a whole year since you did this. I even thought I&#x27;d never have to see your face again!</p>
+<p><em>What surprise? There hasn&#x27;t been a single enjoyable surprise this entire time. Besides, dude! What the heck? It&#x27;s been a whole year since you did this. I even thought I&#x27;d never have to see your face again!</em></p>
 <p>&quot;Ah, you see, last time my advice didn&#x27;t turn out so well for you, did it? So it was a bit hard for me to show myself again.&quot;</p>
-<p>Huh! So the Man-God has a little shame after all, I guess. But don&#x27;t get the wrong idea, okay? That was my mistake the last time. That said, what was the correct choice I should have made?</p>
+<p><em>Huh! So the Man-God has a little shame after all, I guess. But don&#x27;t get the wrong idea, okay? That was my mistake the last time. That said, what was the correct choice I should have made?</em></p>
 <p>&quot;Well, if you want to use the term &#x27;correct&#x27;, that&#x27;s on you. The &#x27;normal&#x27; choice would have been to turn that lot into the guards, thereby solidifying your friendship with Ruijerd.&quot;</p>
-<p>What? You&#x27;re telling me the solution was that simple?</p>
+<p><em>What? You&#x27;re telling me the solution was that simple?</em></p>
 <p>&quot;That&#x27;s right. I never dreamed you would make them your allies and earn the attention of those conniving small fries in the Adventurers&#x27; Guild. What an entertaining watch it was for me.&quot;</p>
-<p>Yeah, and I didn&#x27;t have the least bit of fun.</p>
+<p><em>Yeah, and I didn&#x27;t have the least bit of fun.</em></p>
 <p>&quot;But thanks to that, you managed to get this far in a year.&quot;</p>
-<p>So you&#x27;re saying the ends justify the means?</p>
+<p><em>So you&#x27;re saying the ends justify the means?</em></p>
 <p>&quot;Results mean everything.&quot;</p>
-<p>Tch, I don&#x27;t like that.</p>
+<p><em>Tch, I don&#x27;t like that.</em></p>
 <p>&quot;You don&#x27;t, eh? Well, that&#x27;s up to you. Anyway, you seem to be in a foul mood, so I&#x27;ll be off.&quot;</p>
-<p>Wait just a second! There&#x27;s one thing I want to confirm.</p>
+<p><em>Wait just a second! There&#x27;s one thing I want to confirm.</em></p>
 <p>&quot;And that is?&quot;</p>
-<p>If I don&#x27;t think too hard about the advice you give me, does that mean things will go well?</p>
+<p><em>If I don&#x27;t think too hard about the advice you give me, does that mean things will go well?</em></p>
 <p>&quot;It&#x27;s more entertaining for me if you give it a lot of thought.&quot;</p>
-<p>Aha, so that&#x27;s it! That&#x27;s your game. Now I get it. Thanks for the tip. Next time it won&#x27;t be so entertaining for you.</p>
+<p><em>Aha, so that&#x27;s it! That&#x27;s your game. Now I get it. Thanks for the tip. Next time it won&#x27;t be so entertaining for you.</em></p>
 <p>&quot;Heh heh. I look forward to that, too.&quot;</p>
-<p>Yeah, yeah, yeah. Of course you do.</p>
+<p><em>Yeah, yeah, yeah. Of course you do.</em></p>
 <p>My consciousness faded as those final words echoed in my head.</p>

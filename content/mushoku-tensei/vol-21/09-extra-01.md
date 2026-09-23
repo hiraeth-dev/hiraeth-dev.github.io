@@ -15,14 +15,14 @@ nav_title = "Extra Chapter"
 <p>Also present, standing behind Therese like she was trying to hide in her shadow, was the Blessed Child. She fidgeted, rubbing her knees together and trying to look smaller.</p>
 <p>Oh, yeah, and there were also a bunch of guys in blue armor standing around the three women, I guess. Think of them as scenery.</p>
 <p>&quot;Come now, Blessed Child,&quot; Therese said gently to the Blessed Child behind her. &quot;Look! It&#x27;s Lady Eris! Rudeus made time especially for her to see you.&quot; But the Blessed Child just curled further in on herself and kept fidgeting.</p>
-<p>&quot;C-come on, now… It&#x27;s Eris,&quot; Therese tried again.</p>
+<p>&quot;C-come on, now… It&#x27;s <em>Eris</em>,&quot; Therese tried again.</p>
 <p>Eris was her hero. Stretching back into her earliest memories, the Blessed Child had been shut up in her white room. When something bad happened, she was brought out, sat before some grown-up who also didn&#x27;t want to be there, and made to sift through their unsavory thoughts.</p>
 <p>That was her entire world. No room for freedom. No hope.</p>
 <p>Then one day, as she was escorted from some place to another, she and her guards were ambushed. Surrounded by assassins, she was sure her life was about to end. But she didn&#x27;t feel especially frightened or concerned for her own life. She quietly welcomed her fate.</p>
 <p>And then, Eris arrived.</p>
 <p>Her movements were all so direct, yet none of the attackers could keep up with her. All they saw was an afterimage of red hair burned into their minds.</p>
 <p>She was brilliant. From the first fraction of a moment she laid her eyes on Eris, the Blessed Child saw a divine, righteous beast.</p>
-<p>&quot;I&#x27;m glad the child&#x27;s unharmed,&quot; she had said. It wasn&#x27;t until they returned to the church that the Blessed Child realized that the glorious warrior meant her. She realized that she&#x27;d been saved. Then, she remembered that she&#x27;d seen the woman&#x27;s eyes, and therefore knew her name. Eris. Her name was Eris. Eris Boreas Greyrat.</p>
+<p>&quot;I&#x27;m glad the child&#x27;s unharmed,&quot; she had said. It wasn&#x27;t until they returned to the church that the Blessed Child realized that the glorious warrior meant <em>her</em>. She realized that she&#x27;d been saved. Then, she remembered that she&#x27;d seen the woman&#x27;s eyes, and therefore knew her name. <em>Eris</em>. Her name was Eris. Eris Boreas Greyrat.</p>
 <p>The Blessed Child said it out loud, replaying the memory in her mind. From that moment on, she idolized the Eris in her memory.</p>
 <p>She started to imitate Eris. She reacted to things with wild exclamations, and she roared her decisions. She shoveled down mountains of food.</p>
 <p>All this endeared her to her guards, the Keepers of Anastasia, which only encouraged the Blessed Child to love Eris even more. A long time had passed since she first started to model herself after Eris. Her own personality and the ideal woman in her mind were perfectly enmeshed with one another. She wore it like a second skin.</p>
@@ -33,7 +33,7 @@ nav_title = "Extra Chapter"
 <p>Eris stood there, her arms folded. She&#x27;d already introduced herself as Rudeus&#x27;s wife and a Sword King. After that, Therese introduced herself, then offered her thanks for Eris&#x27;s past assistance. That was about five minutes ago.</p>
 <p>&quot;Hey, we don&#x27;t have much time, you know,&quot; Therese said.</p>
 <p>Eris stood still on her best behavior. It didn&#x27;t come naturally to her, but Rudeus had given her strict instructions, so she kept her impatience in check.</p>
-<p>&quot;She really helped me out, so try to be polite,&quot; he&#x27;d said. &quot;She might come across as a bit stuck-up, but under no circumstances are you to punch her, okay?&quot;</p>
+<p>&quot;She really helped me out, so try to be polite,&quot; he&#x27;d said. &quot;She might come across as a bit stuck-up, but under <em>no circumstances</em> are you to punch her, okay?&quot;</p>
 <p>Eris would do as he said. Still, she was starting to get irritated. She was not into waiting around.</p>
 <p>&quot;Can we hurry this up?&quot; she said.</p>
 <p>That was all she said, but it was enough to make the Blessed Child squeak, &quot;O-of course!&quot; and jump out from behind Therese. Fear that she was making Eris angry won out over embarrassment.</p>
@@ -41,9 +41,9 @@ nav_title = "Extra Chapter"
 <p>&quot;What…? Don&#x27;t recall that!&quot; Eris declared.</p>
 <p>&quot;You don&#x27;t?&quot;</p>
 <p>Eris said it so loudly and directly that the Blessed Child, on instinct, looked into her eyes. &quot;…Oh,&quot; she said. When she looked, she saw no trace of herself at all. Her face fell.</p>
-<p>Well, what did you expect? she told herself. You knew, you knew there was no way she remembered. Even so, all this time she&#x27;d held on to hope that just maybe Eris might remember her. That she might say something like, Oh, right, the kid from back then! You&#x27;ve grown up! The Blessed Child was smitten with her, after all.</p>
+<p><em>Well, what did you expect?</em> she told herself. <em>You knew, you knew there was no way she remembered.</em> Even so, all this time she&#x27;d held on to hope that just maybe Eris might remember her. That she might say something like, <em>Oh, right, the kid from back then! You&#x27;ve grown up!</em> The Blessed Child was smitten with her, after all.</p>
 <p>But Eris had seen her face and been told what had happened, and she didn&#x27;t remember her at all.</p>
-<p>Maybe if I looked for longer, I might find a memory stowed away in a corner somewhere…</p>
+<p><em>Maybe if I looked for longer, I might find a memory stowed away in a corner somewhere…</em></p>
 <p>But when Eris thought of long ago, the only memories the Blessed Child found were of Therese dangling Rudeus on her knees.</p>
 <p>She was the Blessed Child of Memory. She knew that memories were fallible and easily forgotten. That did nothing to lessen her disappointment.</p>
 <p>&quot;But Rudeus said you saved him, right?&quot; Eris went on animatedly. &quot;Thanks for that!&quot;</p>
@@ -52,9 +52,9 @@ nav_title = "Extra Chapter"
 <p>It didn&#x27;t matter if Eris didn&#x27;t remember her. She still loved her and was still grateful to her.</p>
 <p>&quot;By the way,&quot; Eris pressed on, &quot;what&#x27;s your name, anyway? Rudeus said he&#x27;s going to be working with you in the future, so I want to make sure I remember!&quot;</p>
 <p>&quot;My what…?&quot;</p>
-<p>Name? I don&#x27;t have a name, she thought. Up until now, it had never felt like an impediment. But now here was Eris, saying she wanted to remember it, and the Blessed Child had no answer. She was lacking something important. That missing thing struck her, suddenly, as a profound loss.</p>
+<p><em>Name? I don&#x27;t have a name,</em> she thought. Up until now, it had never felt like an impediment. But now here was Eris, saying she wanted to remember it, and the Blessed Child had no answer. She was lacking something important. That missing thing struck her, suddenly, as a profound loss.</p>
 <p>&quot;Erm…I don&#x27;t…&quot;</p>
-<p>&quot;A Blessed Child is just like, you know, like what Zanoba is, isn&#x27;t it? It&#x27;s not your name, right?&quot; Eris forged on.</p>
+<p>&quot;A Blessed Child is just like, you know, like what Zanoba is, isn&#x27;t it? It&#x27;s not your <em>name</em>, right?&quot; Eris forged on.</p>
 <p>When she said &quot;Zanoba,&quot; the Blessed Child looked into her eyes again. There was another Blessed Child from another land who apparently possessed a name. Eris didn&#x27;t care much about him, though, so she didn&#x27;t remember anything apart from the name. It was a shock.</p>
 <p>The set dressing started piping up.</p>
 <p>&quot;How dare you!&quot;</p>
@@ -69,7 +69,7 @@ nav_title = "Extra Chapter"
 <p>Eris exhaled through her nose, then said, &quot;Names, pah! Who needs &#x27;em anyway?&quot;</p>
 <p>The Blessed Child was relieved. In all her life, this was the most she&#x27;d ever agonized over whether to look into someone&#x27;s eyes.</p>
 <p>&quot;It was rather surprising to hear you were here, though,&quot; she remarked. &quot;I didn&#x27;t think you were in the country.&quot;</p>
-<p>&quot;Yeah, Rudeus&#x27;s jimmies are still rustled, so I came running…uh, real fast!&quot;</p>
+<p>&quot;Yeah, Rudeus&#x27;s jimmies are still rustled, so I came running…uh, <em>real</em> fast!&quot;</p>
 <p>Eris knew that the teleportation circles had to be kept secret. But the Blessed Child, who was well aware of their existence, giggled.</p>
 <p>&quot;Ah, did you really?&quot; she said. &quot;You are quite incredible, Lady Eris.&quot;</p>
 <p>&quot;Heh, damn right!&quot; Eris replied. She looked pleased now, and the atmosphere of the whole garden relaxed. Sensing this, the Blessed Child decided she would flatter Eris more, which could only make the exchange more pleasant. Normally, it wouldn&#x27;t even occur to her to push the conversation one way or another.</p>
@@ -88,10 +88,10 @@ nav_title = "Extra Chapter"
 <p>When Eris was done tidying up the twigs, she was left with a staff about a meter long.</p>
 <p>&quot;There you go,&quot; she said, holding it out to the Blessed Child.</p>
 <p>&quot;Um…?&quot; The Blessed Child stared at her, wide-eyed with confusion.</p>
-<p>Eris turned side face, gripped her sword in both hands, raised it above her head—then swung down. A holy whoosh so loud, it might banish evil, shattered the silence of the garden. The Blessed Child&#x27;s ears rang.</p>
+<p>Eris turned side face, gripped her sword in both hands, raised it above her head—then swung down. A holy <em>whoosh</em> so loud, it might banish evil, shattered the silence of the garden. The Blessed Child&#x27;s ears rang.</p>
 <p>&quot;Your turn,&quot; said Eris.</p>
 <p>&quot;U…uh? Um, yes, ma&#x27;am.&quot;</p>
-<p>She lifted the staff above her head like Eris had done. Then, with a little &quot;Hi-yah!&quot; she took a swing. But her &quot;weapon&quot; was an unruly, unbalanced meter-long stick, heavy and still green and supple off the tree, so the force of the swing pulled The Blessed Child along with it. She stumbled forward. The scenery cried out, &quot;Ohh!&quot; but didn&#x27;t mobilize.</p>
+<p>She lifted the staff above her head like Eris had done. Then, with a little &quot;Hi-<em>yah</em>!&quot; she took a swing. But her &quot;weapon&quot; was an unruly, unbalanced meter-long stick, heavy and still green and supple off the tree, so the force of the swing pulled The Blessed Child along with it. She stumbled forward. The scenery cried out, &quot;Ohh!&quot; but didn&#x27;t mobilize.</p>
 <p>&quot;Er, how do I—&quot;</p>
 <p>&quot;Lower your body more,&quot; Eris said, &quot;then relax your elbows and try to swing with your back. Try again.&quot;</p>
 <p>&quot;Y-yes, ma&#x27;am!&quot;</p>
@@ -105,14 +105,14 @@ nav_title = "Extra Chapter"
   <img src="/novels/mushoku-tensei/vol-21/insert-06.webp" alt="Illustration" loading="lazy" />
 </div>
 <p>&quot;Yeah? Okay, that&#x27;s enough then. You can stop,&quot; Eris said. The Blessed Child dropped the staff as instructed. The fatigue spread from her shoulders down to her wrists, almost like her whole upper torso was falling asleep. She felt a twinging sensation, like little cracks were spreading down her arms. She raised them up to her ears and swore she heard her muscles creak.</p>
-<p>&quot;U-um…&quot; she said, looking up at Eris, worried. Why had she been swinging that staff? She felt like she&#x27;d been tested. Was she a failure? Was Eris disgusted with her? Ha! You thought you could be like me?</p>
+<p>&quot;U-um…&quot; she said, looking up at Eris, worried. Why had she been swinging that staff? She felt like she&#x27;d been tested. Was she a failure? Was Eris disgusted with her? <em>Ha! You thought</em> you <em>could be like</em> me<em>?</em></p>
 <p>The thought made her feel miserable.</p>
 <p>&quot;You&#x27;re to do that every day, starting tomorrow,&quot; Eris said. &quot;Also, start running. Around this garden will do.&quot;</p>
 <p>&quot;Huh?&quot;</p>
 <p>&quot;If you don&#x27;t know what to do, ask one of these guys,&quot; said Eris.</p>
 <p>She was looking right at the Blessed Child. Feeling as though Eris&#x27;s eyes were drawing her in, the Blessed Child looked into her memories.</p>
 <p>She saw the hard life Eris had led training in the Sword Sanctum. She saw her swinging her sword without food or drink, running through the snow, screaming, fighting, honing her skills. It was a simple memory. A mere sequence of events, showing how Eris had gone from who she was long ago to who she was now. There had been hardships and suffering, but that honed Eris into the person she was today.</p>
-<p>&quot;You can be like me,&quot; Eris said. Her voice was clear and certain. Had Rudeus been there, he might have cut in with a snide remark, like Yeah, I don&#x27;t think that&#x27;s happening… But he wasn&#x27;t. There was no one around to tell her it was impossible.</p>
+<p>&quot;You <em>can</em> be like me,&quot; Eris said. Her voice was clear and certain. Had Rudeus been there, he might have cut in with a snide remark, like <em>Yeah, I don&#x27;t think that&#x27;s happening</em>… But he wasn&#x27;t. There was no one around to tell her it was impossible.</p>
 <p>&quot;Um…&quot; came a voice from behind her.</p>
 <p>The Blessed Child turned and found herself looking into Therese&#x27;s eyes. She saw Therese&#x27;s own memories of her training.</p>
 <p>Therese practiced with her sword in secret, then trained together with the men, all while her mother sniped at her. At times she was happy, and at times she was sad. One thing was constant: she never put down her sword.</p>
@@ -132,9 +132,9 @@ nav_title = "Extra Chapter"
 <p>Eris reached out, slow as anything. The silver owl didn&#x27;t move. It watched her with nervous eyes and huffed a little, but it seemed to respect its mistress&#x27;s wishes and didn&#x27;t pull away. Her fingertips reached its feathers. Its wing feathers looked fairly stiff from a distance, but now she felt how soft they were and her heart leapt with excitement. She wanted to grab it and bury her face in its feathers, but she sensed that was overkill. It&#x27;d definitely flap away if she tried it. The same went for Leo, and for Linia and Pursena too.</p>
 <p>She could live with that. Eris went on stroking the silver owl. The owl froze like an impala caught in a lion&#x27;s jaws, but none of the humans noticed.</p>
 <p>&quot;Do you like my owl?&quot;</p>
-<p>&quot;Turns out birds are great too,&quot; said Eris. She luxuriated in the owl&#x27;s softness for a time, then stood up, her cheeks flushed. Fur was nice enough, but feathers, she thought, were on a whole other level.</p>
+<p>&quot;Turns out birds are great too,&quot; said Eris. She luxuriated in the owl&#x27;s softness for a time, then stood up, her cheeks flushed. Fur was nice enough, but <em>feathers</em>, she thought, were on a whole other level.</p>
 <p>A question suddenly occurred to her. &quot;What&#x27;s its name, anyway?&quot;</p>
-<p>&quot;Its…its name?&quot; repeated the Blessed Child, looking confused, and thinking, oh dear, names again.</p>
+<p>&quot;Its…its name?&quot; repeated the Blessed Child, looking confused, and thinking, <em>oh dear, names again.</em></p>
 <p>&quot;When you get a pet, you give it a name. That&#x27;s plain old common sense,&quot; Eris said.</p>
 <p>&quot;Is it really?&quot;</p>
 <p>&quot;Yup, Rudeus said so,&quot; said Eris.</p>
@@ -146,14 +146,14 @@ nav_title = "Extra Chapter"
 <p>&quot;Fools! The Blessed Child must decide for herself.&quot;</p>
 <p>Just then, a man appeared in the garden. An intruder on their private meeting.</p>
 <p>&quot;Hey, Eris, I&#x27;m all done now,&quot; said Rudeus.</p>
-<p>Our hero, returned from his farewell with Cliff, and feeling a touch sentimental, was…no, hold on, strike that, like I had time to wallow around feeling sentimental—I was getting ready for battle. I had to be a robot, a sentinel.</p>
+<p>Our hero, returned from his farewell with Cliff, and feeling a touch sentimental, was…no, hold on, strike that, like I had time to wallow around feeling sentimental—I was getting ready for battle. I had to be a robot, a <em>sentinel.</em></p>
 <p>Anyway, there&#x27;s a little insight into how Rudeus was feeling as he entered the garden, his face set.</p>
 <p>Seeing the rest of them, he asked, &quot;Um, what happened?&quot;</p>
 <p>&quot;She&#x27;s picking a name.&quot;</p>
 <p>&quot;A name…?&quot; He looked around the garden. The Blessed Child looked troubled, and the otaku watched her nervously. The newly appointed captain looked as though she had no idea what was going on. Therese&#x27;s smile was strained.</p>
 <p>That told him all he needed to know.</p>
-<p>Oof, that&#x27;s a tricky one. I&#x27;m sure Eris wasn&#x27;t trying to be mean, though.</p>
-<p>Then the Blessed Child piped up, saying, &quot;Oh! Would you choose a name for me, Rudeus? I&#x27;d be so grateful.&quot; She couldn&#x27;t choose one herself, but she was sure it would be a piece of cake for Rudeus.</p>
+<p><em>Oof, that&#x27;s a tricky one. I&#x27;m sure Eris wasn&#x27;t trying to be mean, though.</em></p>
+<p>Then the Blessed Child piped up, saying, &quot;Oh! Would <em>you</em> choose a name for me, Rudeus? I&#x27;d be so grateful.&quot; She couldn&#x27;t choose one herself, but she was sure it would be a piece of cake for Rudeus.</p>
 <p>&quot;Wait, me? Are you sure?&quot;</p>
 <p>&quot;Incredibly so,&quot; she replied.</p>
 <p>Rudeus frowned, looking between Eris and the Blessed Child. He had to make a good choice, but he&#x27;d shown up mere seconds ago and his brain was stalling. His thoughts ran around and around in circles like a hamster wheel, then ground to a halt. That hamster was pooped.</p>
@@ -168,9 +168,9 @@ nav_title = "Extra Chapter"
 <p>&quot;Yes, ma&#x27;am!&quot;</p>
 <p>Eris was satisfied too. She got to stroke the owl. That was more than enough for her.</p>
 <p>The same went for the scenery. Eris gave them a bit of a scare when she pulled out her sword, but if the Blessed Child was happy, they were happy.</p>
-<p>Starting tomorrow, all of them thought, I&#x27;ll be there to give her footholds and handholds and whatever else she needs for her training.</p>
-<p>Rudeus alone stood sweating, thinking, Ah, crap, as he kept his face down.</p>
-<p>Therese was the only one who noticed. Just who did you think you were naming, hmmm? she thought. She didn&#x27;t say anything, though. She just smirked.</p>
+<p><em>Starting tomorrow,</em> all of them thought, <em>I&#x27;ll be there to give her footholds and handholds and whatever else she needs for her training</em>.</p>
+<p>Rudeus alone stood sweating, thinking, <em>Ah, crap</em>, as he kept his face down.</p>
+<p>Therese was the only one who noticed. <em>Just who did you think you were naming, hmmm?</em> she thought. She didn&#x27;t say anything, though. She just smirked.</p>
 <p>Nurse watched them all, its head cocked to one side.</p>
-<p>And so, Eris got herself another apprentice. Starting the next day, the Blessed Child started to lose weight, which made the Temple Knights treat her even more like a pop idol… But that&#x27;s a story for another time.</p>
+<p>And so, Eris got herself another apprentice. Starting the next day, the Blessed Child started to lose weight, which made the Temple Knights treat her even <em>more</em> like a pop idol… But that&#x27;s a story for another time.</p>
 <p><strong>Extra Chapter: Therese Looks for a Husband</strong></p>

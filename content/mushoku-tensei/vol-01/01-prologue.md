@@ -62,7 +62,7 @@ nav_title = "Prologue"
 <p>We certainly didn&#x27;t have a bad relationship. We&#x27;d known each other since we were little, so we were able to talk to each other pretty openly. I don&#x27;t think she ever had a thing for me, but if I&#x27;d</p>
 <p>studied harder and gotten into the same high school she did, or if I&#x27;d joined the track team and gotten admission that way, it might have sent the right signals. Then, if I&#x27;d told her how I felt, maybe we might have wound up dating.</p>
 <p>Anyway, we&#x27;d get into fights on the way home, just like these three kids here. Or, if things went well, we&#x27;d hook up and do naughty things in some abandoned classroom after school.</p>
-<p>(Shit, this sounds like the plot of some adult game I must&#x27;ve played.)</p>
+<p><em>(Shit, this sounds like the plot of some adult game I must&#x27;ve played.)</em></p>
 <p>And then, I noticed something: There was a truck speeding right toward the group of three students. The driver was slumped over, asleep at the wheel.</p>
 <p>The kids hadn&#x27;t noticed yet.</p>
 <p>&quot;Ah, h-hey, look…look out!&quot; I shouted—or tried to, anyway. I&#x27;d barely spoken aloud in over a decade, and my already-weak vocal cords had further tightened due to the pain in my ribs and the chill of the rain. All I could muster was a pathetic, wavering squeak that was lost in the din of the downpour.</p>

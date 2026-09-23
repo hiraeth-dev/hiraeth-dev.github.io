@@ -8,71 +8,71 @@ nav_title = "Chapter 10"
 +++
 
 <p>Before I realized what was happening, I was in a pure white room. Emotion welled from the depths of my body. It was such a familiar sensation that I could easily describe it.</p>
-<p>So damn disgusting.</p>
+<p><em>So damn disgusting.</em></p>
 <p>&quot;Already resorting to foul language? Just as crass as ever, I see.&quot;</p>
 <p>Standing before me was an indistinct, person-shaped mosaic: the Man-God.</p>
-<p>Tch, acting like you know me. Can&#x27;t believe you&#x27;re showing up again, just when I&#x27;d finally started to forget about you.</p>
+<p><em>Tch, acting like you know me. Can&#x27;t believe you&#x27;re showing up again, just when I&#x27;d finally started to forget about you.</em></p>
 <p>&quot;Yes, it&#x27;s been a whole year.&quot;</p>
-<p>Yes, a whole year. Such a long time. Tell me, do you only show up once a year? If so, that would put my heart at ease.</p>
+<p><em>Yes, a whole year. Such a long time. Tell me, do you only show up once a year? If so, that would put my heart at ease.</em></p>
 <p>&quot;No, that&#x27;s not the case at all.&quot;</p>
-<p>I figured as much. After the first time you appeared, you showed yourself again just a week later.</p>
+<p><em>I figured as much. After the first time you appeared, you showed yourself again just a week later.</em></p>
 <p>&quot;That aside, you&#x27;re as cold to me as ever. It&#x27;s all thanks to me that you got that demon eye, you know.&quot;</p>
-<p>Yeah, well, I&#x27;m grateful for that…but if you&#x27;d told me more, I wouldn&#x27;t have ended up in that cell, and I wouldn&#x27;t have missed important information that led to my fight with Paul. Ah, dammit, I  bet you found the whole thing really entertaining: Paul and I butting heads because I didn&#x27;t know my family was missing, me being all depressed afterward and Eris cheering me up…even managing to make up with Paul in the end.</p>
+<p><em>Yeah, well, I&#x27;m grateful for that…but if you&#x27;d told me more, I wouldn&#x27;t have ended up in that cell, and I wouldn&#x27;t have missed important information that led to my fight with Paul. Ah, dammit, I</em>  <em>bet you found the whole thing really entertaining: Paul and I butting heads because I didn&#x27;t know my family was missing, me being all depressed afterward and Eris cheering me up…even managing to make up with Paul in the end.</em></p>
 <p>&quot;Well, yes, that was entertaining. But are you sure about that?&quot;</p>
-<p>Sure about what?</p>
+<p><em>Sure about what?</em></p>
 <p>&quot;Sure that it&#x27;s all my fault?&quot;</p>
-<p>Tch… Dammit. Being in this room takes me back to the past. Back to when I used to blame everything on other people. I&#x27;ve reflected on my mistakes. Reflected… Argh, dammit, I can&#x27;t remember what kind of reflection I did. Why can&#x27;t I… Dammit, dammit!</p>
+<p><em>Tch… Dammit. Being in this room takes me back to the past. Back to when I used to blame everything on other people. I&#x27;ve reflected on my mistakes. Reflected… Argh, dammit, I can&#x27;t remember what kind of reflection I did. Why can&#x27;t I… Dammit, dammit!</em></p>
 <p>&quot;Well, that&#x27;s part of your charm. But a little reflection won&#x27;t be enough for you to move forward.&quot;</p>
-<p>Whatever. It&#x27;s just that I can&#x27;t remember right now. But I will when I wake up. I can recognize my mistakes. So, let&#x27;s restart our conversation. I&#x27;ve decided to listen to you.</p>
-<p>&quot;Listen? Hmm, now this is different. You&#x27;re honestly going to listen to what I have to say?&quot;</p>
-<p>Yeah, that&#x27;s right. But there&#x27;s one thing I want you to tell me.</p>
+<p><em>Whatever. It&#x27;s just that I can&#x27;t remember right now. But I will when I wake up. I can recognize my mistakes. So, let&#x27;s restart our conversation. I&#x27;ve decided to listen to you.</em></p>
+<p>&quot;Listen? Hmm, now this <em>is</em> different. You&#x27;re honestly going to listen to what I have to say?&quot;</p>
+<p><em>Yeah, that&#x27;s right. But there&#x27;s one thing I want you to tell me.</em></p>
 <p>&quot;What&#x27;s that? I don&#x27;t mind answering if it&#x27;s something I have knowledge about.&quot;</p>
-<p>Tell me where my family is.</p>
+<p><em>Tell me where my family is.</em></p>
 <p>&quot;I thought your family was in another world?&quot;</p>
-<p>Don&#x27;t play games with me. Zenith, Lilia and Aisha. If possible, Sylphie, Ghislaine, Philip, and Sauros, too.</p>
+<p><em>Don&#x27;t play games with me. Zenith, Lilia and Aisha. If possible, Sylphie, Ghislaine, Philip, and Sauros, too.</em></p>
 <p>&quot;Hmm.&quot;</p>
-<p>What? I&#x27;m asking sincerely.</p>
+<p><em>What? I&#x27;m asking sincerely.</em></p>
 <p>&quot;I don&#x27;t know if I should tell you…&quot;</p>
-<p>You&#x27;re just a voyeur who spies on people&#x27;s lives! Are you only going to tell me things that are convenient for you? You can arrange for me to meet up with the World&#x27;s Greatest Demon Emperor, but you can&#x27;t tell me where my family is?</p>
+<p><em>You&#x27;re just a voyeur who spies on people&#x27;s lives! Are you only going to tell me things that are convenient for you? You can arrange for me to meet up with the World&#x27;s Greatest Demon Emperor, but you can&#x27;t tell me where my family is?</em></p>
 <p>&quot;Okay, okay, I&#x27;m sorry. I got a little carried away.&quot;</p>
-<p>Good, as long as you know what you did.</p>
+<p><em>Good, as long as you know what you did.</em></p>
 <p>&quot;But are you sure? I might lie to you this time.&quot;</p>
-<p>What! Lie?! So, you finally admit it! That&#x27;s right, you are the type to lie, aren&#x27;t you?</p>
+<p><em>What! Lie?! So, you finally admit it! That&#x27;s right, you are the type to lie, aren&#x27;t you?</em></p>
 <p>&quot;I&#x27;m asking whether you can trust what I say.&quot;</p>
-<p>No, I can&#x27;t trust you. This is an emergency, so I&#x27;ll do as you say, but if it turns out you&#x27;re lying to me, I&#x27;ll never listen to your advice again. Got it?</p>
+<p><em>No, I can&#x27;t trust you. This is an emergency, so I&#x27;ll do as you say, but if it turns out you&#x27;re lying to me, I&#x27;ll never listen to your advice again. Got it?</em></p>
 <p>&quot;Then I want you to promise me something.&quot;</p>
-<p>Promise you what?</p>
+<p><em>Promise you what?</em></p>
 <p>&quot;If my advice allows you to reunite with your family, then I want you to trust me from now on.&quot;</p>
-<p>Are you telling me to be your little puppet? Be your yes-man and obey your every command?</p>
+<p><em>Are you telling me to be your little puppet? Be your yes-man and obey your every command?</em></p>
 <p>&quot;No, no, I&#x27;m not asking you to go that far. But it&#x27;s going to get exhausting if you&#x27;re this hostile every time we talk, you know?&quot;</p>
-<p>It&#x27;ll be exhausting even if I&#x27;m not. Do you even know what it&#x27;s like? To be haunted by a past you want to forget? To feel like the memories of your repentance and growth have been erased? To be overwhelmed by self-loathing the moment you wake up in the morning?</p>
+<p><em>It&#x27;ll be exhausting even if I&#x27;m not. Do you even know what it&#x27;s like? To be haunted by a past you want to forget? To feel like the memories of your repentance and growth have been erased? To be overwhelmed by self-loathing the moment you wake up in the morning?</em></p>
 <p>&quot;I see. I&#x27;ve wronged you. All right, then why don&#x27;t we decide on some rules? Like me telling you ahead of time when I&#x27;ll next drop in to give you advice?&quot;</p>
-<p>Yes, that&#x27;s a wonderful idea! How about coming to see me again in a hundred years?</p>
+<p><em>Yes, that&#x27;s a wonderful idea! How about coming to see me again in a hundred years?</em></p>
 <p>&quot;But you&#x27;ll be dead by then, no?&quot;</p>
-<p>I&#x27;m telling you to never show your face again.</p>
+<p><em>I&#x27;m telling you to never show your face again.</em></p>
 <p>&quot;Sigh… Well, I figured you&#x27;d say that. Are you sure you don&#x27;t want any advice from me this time?&quot;</p>
-<p>…No. Hold on a sec. I&#x27;m sorry. I&#x27;ll compromise. If you can give me advice this time that will reunite me with a member of my family, then I&#x27;ll stop being so hostile when we talk.</p>
+<p><em>…No. Hold on a sec. I&#x27;m sorry. I&#x27;ll compromise. If you can give me advice this time that will reunite me with a member of my family, then I&#x27;ll stop being so hostile when we talk.</em></p>
 <p>&quot;And you&#x27;ll trust me?&quot;</p>
-<p>Nope, I&#x27;m not willing to go that far. But I&#x27;ll at least stop having these meaningless exchanges about whether or not I&#x27;m going to listen.</p>
+<p><em>Nope, I&#x27;m not willing to go that far. But I&#x27;ll at least stop having these meaningless exchanges about whether or not I&#x27;m going to listen.</em></p>
 <p>&quot;Well, that&#x27;s optimistic.&quot;</p>
-<p>So, you compromise, too. Stop showing up out of nowhere like you did this time. Give me some prior warning. Or show up in someone else&#x27;s dreams and use them to pass on a message to me.</p>
+<p><em>So, you compromise, too. Stop showing up out of nowhere like you did this time. Give me some prior warning. Or show up in someone else&#x27;s dreams and use them to pass on a message to me.</em></p>
 <p>&quot;That would be difficult. There&#x27;s actually a condition that must be met for me to be able to appear in someone&#x27;s dreams.&quot;</p>
-<p>A condition? So that means you can&#x27;t just show your face whenever you want?</p>
+<p><em>A condition? So that means you can&#x27;t just show your face whenever you want?</em></p>
 <p>&quot;Exactly. In addition to that, I can only show up in the dreams of someone who is on the same wavelength as I am. There aren&#x27;t many who can receive my advice with such fortuitous timing. You&#x27;re quite lucky.&quot;</p>
-<p>I could weep for joy. Anyway, there&#x27;s a condition, huh? What is it?</p>
+<p><em>I could weep for joy. Anyway, there&#x27;s a condition, huh? What is it?</em></p>
 <p>&quot;Who knows? I&#x27;m not even sure myself. All I know is that there&#x27;ll be a sudden &#x27;aha!&#x27; moment where I&#x27;m like, &#x27;This guy&#x27;s the one, today is the time.&#x27; And that&#x27;s when I&#x27;m able to link up.&quot;</p>
-<p>Yeah? So that means you can&#x27;t completely control it, either. Forget the prior warning, then. Let&#x27;s see…I&#x27;d like you to be more detailed in your advice. If all you say is &quot;go here&quot; or &quot;go there,&quot; it just  leaves me confused as to what I&#x27;m supposed to do. It makes me feel like you&#x27;re playing me.</p>
+<p><em>Yeah? So that means you can&#x27;t completely control it, either. Forget the prior warning, then. Let&#x27;s see…I&#x27;d like you to be more detailed in your advice. If all you say is &quot;go here&quot; or &quot;go there,&quot; it just</em>  <em>leaves me confused as to what I&#x27;m supposed to do. It makes me feel like you&#x27;re playing me.</em></p>
 <p>&quot;All right, more details. Got it.&quot;</p>
-<p>Okay. Go ahead, then.</p>
+<p><em>Okay. Go ahead, then.</em></p>
 <p>&quot;Ahem. Well, this is my advice this time.&quot;</p>
 <p>A vision suddenly appeared in my demon eye.</p>
-<p>A back alley in some country somewhere. There&#x27;s a lone girl, and someone violently grabs her hand. The person who seized her is a soldier. There&#x27;re two soldiers. The other one is tearing a piece of paper he&#x27;d snatched from her into pieces. The girl watches him, screaming something.</p>
+<p><em>A back alley in some country somewhere. There&#x27;s a lone girl, and someone violently grabs her hand. The person who seized her is a soldier. There&#x27;re two soldiers. The other one is tearing a piece of paper he&#x27;d snatched from her into pieces. The girl watches him, screaming something.</em></p>
 <p>The vision suddenly ended there.</p>
 <p>&quot;Rudeus. Listen to me closely. Her name is Aisha Greyrat. She is currently being detained in the Shirone Kingdom. You&#x27;ll be there when the events from your vision transpire, and you&#x27;ll meet her and save her. You absolutely must not let your name be known. Call yourself the Kennel Master of Dead End and ask her for the details of her situation. Then send a letter to your acquaintance in the Shirone Royal Palace. If you do that, both Lilia and Aisha will be rescued from that place.&quot;</p>
-<p>Huh? Wait, what? No—wait, why? Acquaintance? A letter?</p>
+<p><em>Huh? Wait, what? No—wait, why? Acquaintance? A letter?</em></p>
 <p>&quot;Was that a little too much detail? If I tell you too much, it&#x27;ll spoil my fun, so that&#x27;ll have to do. Now then, I wonder which one you&#x27;ll get along with…&quot;</p>
-<p>What? Lilia and Aisha are both in the Shirone Kingdom? Why? If that&#x27;s where they were, they should have been found by now. And what do you mean, which one am I going to get along with? Does that mean I&#x27;m going to clash with the other?</p>
-<p>Luck…luck…luck…</p>
+<p><em>What? Lilia and Aisha are both in the Shirone Kingdom? Why? If that&#x27;s where they were, they should have been found by now. And what do you mean, which one am I going to get along with? Does that mean I&#x27;m going to clash with the other?</em></p>
+<p><em>Luck…luck…luck…</em></p>
 <p>As the word echoed in my mind, my consciousness faded.</p>
 <p>***</p>
 <p>I woke with a start.</p>
@@ -92,11 +92,11 @@ nav_title = "Chapter 10"
 <p>It was true that I&#x27;d eventually defeated Gallus using the eye, but I felt like I could have managed that on my own if I&#x27;d had to. To me, there was no greater meaning behind my acquisition of the demon eye, but perhaps there was to the Man-God. Perhaps the whole reason he&#x27;d arranged for me to meet the Great Demon Emperor was so he could use the eye to show me the future. It sure did feel like he was making careful preparations for something.</p>
 <p>My anxiety reared its ugly head, and for the first time, I feared the Man-God. I got the impression that this being, this creature with undefined form and incredible power, was trying to use me for something. It sent a chill through me.</p>
 <p>&quot;Rudeus, you look pale. Are you sure you&#x27;re okay?&quot; Ruijerd asked again, looking concerned.</p>
-<p>I almost blurted out my anxieties. The truth is that ever since I met you, the Man-God has been monitoring me. I&#x27;ve been following his advice and doing what he tells me.</p>
-<p>But in that moment, I realized something. Ever since I met you.  That was it. The first time we came into contact was right before I met Ruijerd. Back then, the god had also advised me to help Ruijerd out.</p>
+<p>I almost blurted out my anxieties. <em>The truth is that ever since I met you, the Man-God has been monitoring me. I&#x27;ve been following his advice and doing what he tells me.</em></p>
+<p>But in that moment, I realized something. <em>Ever since I met you.</em>  That was it. The first time we came into contact was right before I met Ruijerd. Back then, the god had also advised me to help Ruijerd out.</p>
 <p>Now, that was strange. Why didn&#x27;t he contact me before that? Why did he only contact me right after the Displacement Incident? Why advise me to help Ruijerd rather than just rely on him?</p>
-<p>I felt like all of these things were connected. I had no proof of this, but despite that, a thought occurred to me. Maybe the Man-God plans to make Ruijerd do something.</p>
-<p>The Man-God said he could only appear in my dreams if a certain condition were met. Perhaps he was bound by that condition so he couldn&#x27;t manipulate Ruijerd directly. So he triggered the Displacement Incident to transport me—someone who did fit that criteria— to the Demon Continent, and guided me to Ruijerd, thereby getting him to accompany us to the Central Continent.</p>
+<p>I felt like all of these things were connected. I had no proof of this, but despite that, a thought occurred to me. <em>Maybe the Man-God plans to make Ruijerd do something.</em></p>
+<p>The Man-God said he could only appear in my dreams if a certain condition were met. Perhaps he was bound by that condition so he couldn&#x27;t manipulate Ruijerd directly. So he triggered the Displacement Incident to transport me—someone who <em>did</em> fit that criteria— to the Demon Continent, and guided me to Ruijerd, thereby getting him to accompany us to the Central Continent.</p>
 <p>But if that were the case, why help me acquire the demon eye or give me advice on how to save Aisha? I didn&#x27;t know. I didn&#x27;t know what he was thinking. Nor was I sure if I should say anything to Ruijerd.</p>
 <p>&quot;…&quot;</p>
 <p>I wanted to confide in someone, but I didn&#x27;t think it was right to put more on Ruijerd&#x27;s shoulders. Maybe telling him would even fulfill the Man-God&#x27;s unknown conditions, and the god would be able to talk directly to Ruijerd. Honestly, Ruijerd would probably be easily taken in by whatever the Man-God said to him. I wasn&#x27;t even entirely convinced he was telling me the truth, but at least my hostility made it difficult for him to deceive me. I wanted to believe that as long as I kept that up, nothing too terrible would happen.</p>
@@ -121,10 +121,10 @@ nav_title = "Chapter 10"
 <p>Ruijerd probably had his own theories after seeing me last night. He&#x27;d probably already realized that I was hiding something—though it was entirely possible he just thought I was hiding some kind of illness. Not entirely incorrect, given that the Man-God was like a plague bearer.</p>
 <p>&quot;Shirone—you mean that place where your master&#x27;s at, right?&quot;</p>
 <p>As Eris said it, the image of a certain young girl came to mind: Roxy Migurdia. That was right. She was supposed to be in Shirone. The Man-God had said to send a letter to my acquaintance. He must have meant for me to plead with Roxy for her assistance.</p>
-<p>&quot;That&#x27;s right. Someone I really respect. My…teacher.&quot; I&#x27;d almost said the word &quot;master,&quot; but caught myself in time. Come to think of it, Roxy forbade me from calling her my master. Though &quot;master&quot; was exactly the term I&#x27;d used when telling everyone how wonderful she was lately… Oh, well.</p>
+<p>&quot;That&#x27;s right. Someone I really respect. My…teacher.&quot; I&#x27;d almost said the word &quot;master,&quot; but caught myself in time. <em>Come to think of it, Roxy forbade me from calling her my master</em>. Though &quot;master&quot; was exactly the term I&#x27;d used when telling everyone how wonderful she was lately… Oh, well.</p>
 <p>&quot;We should stop by and meet them. They might be able to help us somehow.&quot; Eris nodded to herself in satisfaction.</p>
 <p>Someone as incredible as Roxy would surely be of great help to us. I was certain of it. She was also, however, a magician at the royal palace, and had to be busy. I didn&#x27;t want to trouble her too much she&#x27;d already done so much for me.</p>
-<p>Regardless of the Displacement Incident or the search for my family, I still wanted to see her. I also wanted to thank her for her Dictionary of Demonkind. If she hadn&#x27;t given me that book, I might still be on the Demon Continent right now. I regretted losing it in the incident—it deserved to be copied and sold worldwide.</p>
+<p>Regardless of the Displacement Incident or the search for my family, I still wanted to see her. I also wanted to thank her for her <em>Dictionary of Demonkind</em>. If she hadn&#x27;t given me that book, I might still be on the Demon Continent right now. I regretted losing it in the incident—it deserved to be copied and sold worldwide.</p>
 <p>&quot;I want to see your teacher,&quot; Eris said.</p>
 <p>&quot;Hm. I&#x27;m interested in meeting them, too.&quot;</p>
 <p>Both Eris and Ruijerd seemed intrigued, probably because I invoked Roxy&#x27;s name with praise every now and then. I was so proud to call her my teacher, and so I mentioned her everywhere I went. That was a given.</p>
@@ -154,7 +154,7 @@ nav_title = "Chapter 10"
 <p>&quot;It smells really good. Good job, Rudeus.&quot;</p>
 <p>&quot;No, I need to taste it first,&quot; I said, pinching a bit of rice between my fingers and popping it into my mouth. &quot;Hmm…I&#x27;d give it a fortyfive out of one hundred.&quot;</p>
 <p>It was nowhere near as good as the two types of Japanese rice that stood out in my memory: Koshihikari and Sasanishiki. Even if I compared it to all the modern types of Japanese rice, it wouldn&#x27;t even be C-ranked. It was dry, had a kind of bitterness to it, and was still faintly yellow in color. My poor cooking methods were partly to blame, but the ingredients themselves were inferior too, perhaps because rice wasn&#x27;t a staple in this country. You couldn&#x27;t even call this white rice.</p>
-<p>In truth I should have given it only thirty points, which would have been a failing grade. But tasting rice at all evoked such nostalgia that I couldn&#x27;t. With a bit of seasoning, it could earn fifteen more points. Ah, I really am too kind, I mused inwardly.</p>
+<p>In truth I should have given it only thirty points, which would have been a failing grade. But tasting rice at all evoked such nostalgia that I couldn&#x27;t. With a bit of seasoning, it could earn fifteen more points. <em>Ah, I really am too kind</em>, I mused inwardly.</p>
 <p>&quot;We ate this before, right? What kind of experiment was this?&quot;</p>
 <p>&quot;This is just the beginning.&quot;</p>
 <p>I heaped the rice into an earthen bowl I&#x27;d made. Then I took a scrambled raw egg, which I&#x27;d cast detoxification magic on just in case, and created a hole in the middle of the rice before pouring in the mixture. I sprinkled salt all over the top, took the chopsticks I&#x27;d also made with my magic, and put both hands together.</p>
@@ -166,12 +166,12 @@ nav_title = "Chapter 10"
 <p>&quot;Does it taste good?&quot;</p>
 <p>Since Eris had asked, I used my earth magic to make another bowl. I spooned in some rice, added some salt and offered it to her. I also passed her a spoon I&#x27;d made—this would be beginner-friendly, no chopsticks.</p>
 <p>&quot;Hey…is this really all there is to it?&quot;</p>
-<p>Gulp!</p>
+<p><em>Gulp!</em></p>
 <p>I nodded quietly. Though I wasn&#x27;t proud of it, there had been a point in my former life when I subsisted solely on rice for meals and rice balls for snacks.</p>
 <p>&quot;Hmm…&quot; Eris chewed slowly, mixed emotions on her face. Her tastes were still that of a child. Once I broke an egg over it, she did</p>
 <p>say, &quot;This is better than before,&quot; and filled her cheeks with rice as she ate it all.</p>
 <p>Raw egg mixed with rice really was the best meal ever—and perfectly balanced, too. As we said that, we finished our food, gobbling down the last of the crunchy, burnt rice on the bottom.</p>
-<p>Ruijerd was the only one who didn&#x27;t get to share the meal, but he made no complaints. He&#x27;s the real adult, I thought. Still, I did feel a little guilty. Next time, I&#x27;d make sure he got a share.</p>
+<p>Ruijerd was the only one who didn&#x27;t get to share the meal, but he made no complaints. <em>He&#x27;s the real adult</em>, I thought. Still, I did feel a little guilty. Next time, I&#x27;d make sure he got a share.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-06/insert-01.webp" alt="Illustration" loading="lazy" />
 </div>
@@ -182,7 +182,7 @@ nav_title = "Chapter 10"
 <p>&quot;What&#x27;s wrong?&quot; I asked finally.</p>
 <p>&quot;I thought you were the type that didn&#x27;t really eat much, Rudeus.&quot;</p>
 <p>I&#x27;d never been a light eater in my previous life, where I always came back for another helping as long as there was still food on the table. The only reason I&#x27;d been practicing moderation since being reborn was because this world&#x27;s food didn&#x27;t suit my palate. Leaving aside the tough meat that was a staple of most of our meals on the Demon Continent, even the bread-heavy meals of the Asura Kingdom felt a bit lacking to me. Zenith&#x27;s cooking wasn&#x27;t bad, but I couldn&#x27;t help my longing for rice.</p>
-<p>Ahh, yes. Rice is so wonderful, I thought.</p>
+<p><em>Ahh, yes. Rice is so wonderful</em>, I thought.</p>
 <p>Food wasn&#x27;t the only thing I spent my time on. I popped in at the Adventurers&#x27; Guild, too. Unsuprisingly, given that this was the Central Continent, invoking the name &quot;Dead End&quot; didn&#x27;t elicit the least bit of shock. Just because someone was famous in America, for example, didn&#x27;t mean their popularity extended to Japan. Or how there were a lot of children who knew about Superman, but didn&#x27;t know who Captain America was.</p>
 <p>They were adventurers, so they&#x27;d probably heard the name Dead End before. But no one kicked up much of a fuss. Even if they knew what the Superd were, the Superd&#x27;s most recognizable trait was their hair color. Just like a track team girl wasn&#x27;t really a track team girl to a modern-day Japanese otaku unless she had a black ponytail, Ruijerd wasn&#x27;t really a Superd without the green hair.</p>
 <p>That said, A-ranked adventurers seemed to be more observant than the rest.</p>
@@ -206,12 +206,12 @@ nav_title = "Chapter 10"
 <p>For her own part, Eris had also come to understand the adventurers&#x27; style of humor. Even if someone said something offensive to her, she was now calm enough to realize that she&#x27;d heard it before. She&#x27;d answer their quip with an appropriate response, the other person would laugh, and then&#x27;d she&#x27;d grin back at them. She really had become just like an adventurer.</p>
 <p>That said, she was always still game if someone wanted to pick a fight with her. Some people, most of them C-ranked and young themselves, would deliberately approach her after seeing that she was A-ranked despite her youth. They&#x27;d come up and say something like, &quot;I bet you don&#x27;t have any skills yourself. You just had those guys in your party carry you the whole way, right?&quot;</p>
 <p>This invariably resulted in a one-punch knockout. Somehow, morons like this seemed to be in just about every Adventurers&#x27; Guild we went to.</p>
-<p>As for me, I would just off-handedly respond, &quot;That&#x27;s right! The master of our party is so incredible, we&#x27;re living the high life!&quot; I had no pride. Besides, it was true that we&#x27;d relied on Ruijerd a lot to advance to such a high rank. Eris didn&#x27;t seem to like my attitude, but there was no way we could have gotten this far by ourselves. Let&#x27;s at least show some modesty, I thought.</p>
+<p>As for me, I would just off-handedly respond, &quot;That&#x27;s right! The master of our party is so incredible, we&#x27;re living the high life!&quot; I had no pride. Besides, it was true that we&#x27;d relied on Ruijerd a lot to advance to such a high rank. Eris didn&#x27;t seem to like my attitude, but there was no way we could have gotten this far by ourselves. <em>Let&#x27;s at least show some modesty</em>, I thought.</p>
 <p>The cultivation of a flower that resembled field mustard was widespread in the Kikka Kingdom. From the highway, we saw endless fields of white flowers in bloom. Definitely a flourishing industry, but also one the kingdom had been compelled to invest in by the King Dragon Realm. The abundant rice paddies in the Sanakia Kingdom had also been planted on the Realm&#x27;s command. Being a vassal state was rough.</p>
 <p>Rice was a staple in this country&#x27;s cuisine, too. Upon testing it, I realized that the further north you went, the better the quality of the rice. Perhaps the day when I would experience love at first bite with rice this world wasn&#x27;t far. Unfortunately, the northern part of the Central Continent was currently split into a bunch of tiny countries engaged in continuous minor conflicts. There was no way they could cultivate delicious rice under those circumstances. Truly a pity.</p>
-<p>There was a dish called Nanahoshiyaki that was popular all the way from the King Dragon Realm to the Kikka Kingdom. It was meat covered in rice flour and wheat flour, and fried in oil at a high temperature. In other words, karaage—Japanese fried chicken. Apparently, the dish was developed in the Asura Kingdom and gained huge popularity there before making it all the way here. It required an abundance of cooking oil to make, but since a neighboring country produced vast amounts of the dish, there were plenty of opportunities to eat it in this region.</p>
+<p>There was a dish called Nanahoshiyaki that was popular all the way from the King Dragon Realm to the Kikka Kingdom. It was meat covered in rice flour and wheat flour, and fried in oil at a high temperature. In other words, <em>karaage</em>—Japanese fried chicken. Apparently, the dish was developed in the Asura Kingdom and gained huge popularity there before making it all the way here. It required an abundance of cooking oil to make, but since a neighboring country produced vast amounts of the dish, there were plenty of opportunities to eat it in this region.</p>
 <p>Unfortunately, this &quot;fried chicken&quot; didn&#x27;t taste so good, either. The meat used was mostly sheep, pig, or horse. There was no set temperature for the frying, so sometimes the dish came out hard and other times it came out gooey. It also wasn&#x27;t properly seasoned, even though you could use salt, dried herbs, or the sauce that was unique to the area to change the flavor. The food we&#x27;d had in East Port suddenly didn&#x27;t seem so bad by comparison. Quite the opposite, in fact.</p>
-<p>Being a bit of a gourmand, I understood that the cooks in this country were trying their best. Still, what they delivered wasn&#x27;t what I longed for. The lack of soy sauce was impossible to overlook. If I only had soy sauce, garlic, and ginger for seasoning, then I could make something salty and sweet.</p>
+<p>Being a bit of a gourmand, I understood that the cooks in this country were trying their best. Still, what they delivered wasn&#x27;t what I longed for. The lack of soy sauce was impossible to overlook. If I only had soy sauce, garlic, and ginger for seasoning, then I could make something salty <em>and</em> sweet.</p>
 <p>&quot;Lately, you get this troubled look on your face whenever we eat, Rudeus.&quot;</p>
 <p>&quot;He&#x27;s picky about flavor,&quot; Ruijerd chimed in. &quot;He&#x27;s probably got some opinions about it.&quot;</p>
 <p>&quot;I think it&#x27;s pretty good,&quot; Eris responded.</p>
@@ -233,23 +233,23 @@ nav_title = "Chapter 10"
 <p>We passed through those walls and made our way into the city, where we parked our carriage at a stable. There were many labyrinths in the vicinity of the city, so there were plenty of toughlooking adventurers around, many of whom engaged primarily in dungeon diving. That had been Paul and Ghislaine&#x27;s life in the past, and even Roxy had done it for a while. I was pretty sure it was Paul who&#x27;d said dungeon divers were incredibly skilled.</p>
 <p>There were many labyrinths scattered throughout Shirone, and you could make a ridiculous amount of money just by exploring their topmost levels. There were probably a handful of S-ranked adventurers among the dungeon divers who were aiming for the most lucrative loot, and we mingled with that crowd as we traveled the main road and selected a random inn to stay at. As usual, it was one tailored to D-ranked adventurers. Even the low-ranked inns in this town were a bit pricey, perhaps because there were so many high-ranking adventurers around.</p>
 <p>Compared to the D-ranked accommodations on the Demon Continent, the quality of the lodgings on the Central Continent wasn&#x27;t bad at all. It was actually good enough that we would have been fine with rooms aimed at lower-ranked adventurers, but we had enough money not to worry about that. Quite the opposite. In fact, we could have afforded even better accommodations if we wanted.</p>
-<p>I would like to stay in a better room, I thought to myself at one point, but even though we had the extra coin, it felt like a waste. Maybe I really was a penny pincher.</p>
+<p><em>I would like to stay in a better room</em>, I thought to myself at one point, but even though we had the extra coin, it felt like a waste. Maybe I really was a penny pincher.</p>
 <p>&quot;All right! Now that we&#x27;ve arrived in the Shirone Kingdom, let&#x27;s conduct our strategy meeting,&quot; I announced to the two standing in front of me. Their apathetic applause told me they&#x27;d gotten quite used to this setup. &quot;Now, what should we start with?&quot;</p>
 <p>&quot;We&#x27;re going to meet your teacher, right?&quot;</p>
-<p>Eris&#x27; question reminded me of what the Man-God had said. &quot;Her name is Aisha Greyrat. Currently, she is being detained in the Shirone Kingdom. You&#x27;ll be there when the events from your vision transpire, and you&#x27;ll meet her and save her. You absolutely must not let your name be known. Call yourself the Kennel Master of Dead End and ask her for details on her situation. Then send a letter to your acquaintance in the Shirone Royal Palace. If you do that, both Lilia</p>
-<p>and Aisha will be saved from that palace.&quot; Something along those lines.</p>
+<p>Eris&#x27; question reminded me of what the Man-God had said. &quot;<em>Her name is Aisha Greyrat. Currently, she is being detained in the Shirone Kingdom. You&#x27;ll be there when the events from your vision transpire, and you&#x27;ll meet her and save her. You absolutely must not let your name be known. Call yourself the Kennel Master of Dead End and ask her for details on her situation. Then send a letter to your acquaintance in the Shirone Royal Palace. If you do that, both Lilia</em></p>
+<p><em>and Aisha will be saved from that palace.&quot;</em> Something along those lines.</p>
 <p>If I trusted his advice in its entirety, then I just had to walk down the alleyway I saw in the vision to trigger that event. I figured I should probably take Eris and Ruijerd along as well. After all, the Man-God said nothing about going alone this time.</p>
 <p>I continued to think. If I believed the Man-God, then Lilia and Aisha were being detained at the Shirone Royal Palace. But in my vision, I&#x27;d met Aisha outside. That meant she&#x27;d somehow managed to escape the palace. I remembered the look of the two men who came after her in my dream. I&#x27;d seen their getup numerous times in the city; it was a normal soldier&#x27;s attire.</p>
 <p>In other words, Aisha would be pursued and then caught by palace soldiers. That was when I would come in. If I took the most obvious approach to save her, I&#x27;d risk making an enemy of the palace, which had to be why the Man-God had said not to use my name. It might be best if I hid my face, too.</p>
 <p>While the knights were busy tracking my fake identity, I could send a letter to my acquaintance in the palace (Roxy) and ask her for help. If she was a court magician, then her words should hold some power. I already owed her so much. I didn&#x27;t want to show up barefoot and dirty-soled at her doorstep, like a stray child—though I would happily wash her feet if our positions were reversed.</p>
-<p>This was the Man-God we were talking about, though. It was possible he was up to something. If I tell you too much, it&#x27;ll spoil my fun, he&#x27;d said. In other words, he was hoping for something interesting to happen, and there was probably nothing I could do to avoid it.</p>
-<p>However, he&#x27;d also said, I hope you&#x27;ll trust me next time.  Hopefully, even if there were unpleasant surprises lying in store for me, they wouldn&#x27;t involve such things as serious injury or the death of someone close to me.</p>
+<p>This was the Man-God we were talking about, though. It was possible he was up to something. <em>If I tell you too much, it&#x27;ll spoil my fun,</em> he&#x27;d said. In other words, he was hoping for something interesting to happen, and there was probably nothing I could do to avoid it.</p>
+<p>However, he&#x27;d also said, <em>I hope you&#x27;ll trust me next time.</em>  Hopefully, even if there were unpleasant surprises lying in store for me, they wouldn&#x27;t involve such things as serious injury or the death of someone close to me.</p>
 <p>But this was all assuming I trusted the jerk. He might just be trying to deceive me this time, with no care for what happened after. Even so, there was no point in putting up needless resistance that might make everything catastrophically worse. I disliked feeling like I was playing into his hands again, but it seemed I had no choice but to listen.</p>
 <p>My main goals were now to search for Aisha, to falsify my name, and to send a letter to Roxy. That said, how was I going to convince my companions? The letter wasn&#x27;t a problem, but I still needed a good reason for searching the back alleys while using a fake name. Ever since we&#x27;d set out from Millishion, they&#x27;d made sure one of them was always by my side, even on our free days. Apparently, they were still concerned by how depressed I&#x27;d gotten after my encounter with Paul.</p>
 <p>I felt bad about having worried them, but there was a high probability we&#x27;d end up facing off with some soldiers in our quest to find Aisha. Neither Eris nor Ruijerd was any good at acting. No matter who I took, it seemed likely they&#x27;d do something that would come back to bite us in the butt. Karma had a way of doing that.</p>
 <p>Now then…what to do?</p>
 <p>&quot;Rudeus, what are you worrying about?&quot;</p>
-<p>Hm…well, it&#x27;s like they say, better to act now and worry later, I reasoned with myself.</p>
+<p><em>Hm…well, it&#x27;s like they say, better to act now and worry later</em>, I reasoned with myself.</p>
 <p>&quot;Actually, I&#x27;d like for us to conceal our names while we&#x27;re here.&quot;</p>
 <p>&quot;We&#x27;re going to be pretending again? Why?&quot;</p>
 <p>&quot;Umm…&quot; Even if I had to keep mum about the Man-God, there was no reason I had to hide the rest of the story. &quot;Actually, I heard from a source that members of my family have been taken captive somewhere in this country.&quot;</p>
@@ -279,7 +279,7 @@ nav_title = "Chapter 10"
 <p>&quot;They don&#x27;t know our names or our faces. It might confuse them if we give them a fake, flashy name to go off of,&quot; I said, quoting a line from some super old anime I&#x27;d seen a long time ago. To be totally honest, it didn&#x27;t really matter as long as the names were fake.</p>
 <p>A cool name, huh? &quot;All right then. I&#x27;ll call myself the Knight of the Shadow Moon.&quot;</p>
 <p>&quot;Knight of the Shadow Moon?!&quot; Eris&#x27; cheeks flushed and her eyes sparkled.</p>
-<p>That was a character from Kamen Rider who loved haikus and wore what looked like a tacky lunch lady uniform. If someone like that appeared in front of Eris, she&#x27;d probably clobber them.</p>
+<p>That was a character from <em>Kamen Rider</em> who loved haikus and wore what looked like a tacky lunch lady uniform. If someone like that appeared in front of Eris, she&#x27;d probably clobber them.</p>
 <p>&quot;I&#x27;ll do the same one! Wait, but we can&#x27;t be the same, um…&quot;</p>
 <p>Did she really like it that much? In that case, might as well stick with the knight theme. &quot;Okay then. Eris, you can be the Sword of the Shadow Moon and Ruijerd can be the Lance of the Shadow Moon. Then we all match.&quot;</p>
 <p>&quot;Very nice, we match! Let&#x27;s use those!&quot;</p>
@@ -291,7 +291,7 @@ nav_title = "Chapter 10"
 <p>&quot;For now, I&#x27;ll send a letter to Roxy at the royal palace. We&#x27;ll spend our time gathering information until I get a reply,&quot; I declared.</p>
 <p>***</p>
 <p>I went to the market the next day, purchased some stationery and an envelope, and started penning my letter to Roxy. I started off with seasonal greetings, asked after her well-being, and then informed her that, although I&#x27;d been teleported, I was safe. I told her that I was now in Shirone&#x27;s capital and wanted to meet her. Hoping to rouse her concern and anxiety, I casually mentioned how everyone from Buena Village was missing, and how none of them had been found despite the ongoing search. Then I broached the topic of our maid, Lilia, and closed by emphasizing one final time (because this was important) how worried I was about my family. I also structured the letter so that the first letter of each line, if read vertically, would read &quot;HELP ME.&quot; With all that I had included in my letter, I was sure Roxy would understand what I was implying.</p>
-<p>I sealed it with wax that I pressed an imprint of Roxy&#x27;s pendant into. I briefly considered sending it under a fake name, but I&#x27;d be in trouble if she threw it away thinking, &quot;Who the hell is that?&quot; So I signed it, Your Beloved Pupil Rudeus Greyrat, Who Just Wants to Watch Over You.</p>
+<p>I sealed it with wax that I pressed an imprint of Roxy&#x27;s pendant into. I briefly considered sending it under a fake name, but I&#x27;d be in trouble if she threw it away thinking, &quot;Who the hell is that?&quot; So I signed it, <em>Your Beloved Pupil Rudeus Greyrat, Who Just Wants to Watch Over You.</em></p>
 <p>Honestly, Roxy would probably recognize my handwriting even if I did use a fake name, but it was also just like her to get careless when it came to something important. I wouldn&#x27;t know if the letter would make it to her until she actually had it in her hands. Schrödinger&#x27;s Roxy. I pictured Roxy sitting in a box that said &quot;please pick me up.&quot; Aww. For God&#x27;s (Roxy&#x27;s) sake—you&#x27;re supposed to flip the box over and hide inside of it.</p>
 <p>Anyway. That aside, there was no harm in making sure she would read the contents by leaving my real name on the envelope.</p>
 <p>&quot;All right, I&#x27;m going to go send this letter off.&quot;</p>
@@ -304,11 +304,11 @@ nav_title = "Chapter 10"
 <p>&quot;All right, then. I&#x27;ll make sure to hunt down some information too, once I&#x27;m done sending this letter off.&quot; With that, I left the two of them behind.</p>
 <p>I went to the Adventurers&#x27; Guild to post the letter. I intended to start searching for information afterward, but mere minutes later, I realized I was being tailed. At first I thought it was Ruijerd monitoring me, probably thinking I might get in trouble if left to my own devices. That didn&#x27;t make sense after what had happened in the last few months, though. He would have joined me rather than tail me in secret. Besides, his ability to tail people was second to none. If it were truly him following me, there was no way I would have noticed.</p>
 <p>I figured it wasn&#x27;t Eris, either. She was terrible at shadowing people. I would have noticed her the second I stepped out of the inn, and she&#x27;d prefer to silently stick right behind me rather than skulk in the shadows, anyway.</p>
-<p>So, who was it? Was there someone in this country who had a grudge against me…? I couldn&#x27;t think of a soul. Besides, I&#x27;d only just arrived yesterday. It was likely I would stir up trouble in the future, but I hadn&#x27;t bothered anyone yet.</p>
+<p>So, who was it? Was there someone in this country who had a grudge against me…? I couldn&#x27;t think of a soul. Besides, I&#x27;d only just arrived yesterday. It was likely I would stir up trouble in the future, but I hadn&#x27;t bothered anyone <em>yet</em>.</p>
 <p>Was this connected to something I did on the Demon Continent? Would someone really follow me all the way here for revenge? Unlikely. But maybe they were a survivor from the Zant Port smuggling group who&#x27;d spotted me by chance. Maybe they were planning to seize the opportunity to finish me off.</p>
 <p>No, the most likely explanation was that they had absolutely no connection to me at all.</p>
 <p>When I turned the corner, I caught a glimpse of a small figure ducking into the shadows. It was a child. Maybe one of the neighborhood children had decided to pretend I was a bad guy and tail me. Or maybe it was an orphan who was planning to swipe my wallet. If I hid somewhere, they might panic and pursue me, and I could jump out and scare them.</p>
-<p>No, wait. This world had races like haflings, who only looked small. I couldn&#x27;t let my guard down.</p>
+<p>No, wait. This world had races like haflings, who only <em>looked</em> small. I couldn&#x27;t let my guard down.</p>
 <p>I decided that I would give them the slip. With that in mind, I took a right at two intersections and then entered a slightly narrow alleyway.</p>
 <p>&quot;Hm…?&quot;</p>
 <p>I got the sudden feeling that something was wrong, a sensation like something rising from the depths of my throat.</p>
@@ -327,7 +327,7 @@ nav_title = "Chapter 10"
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-06/insert-02.webp" alt="Illustration" loading="lazy" />
 </div>
-<p>The soldiers had been glaring at her with obscene looks on their faces. Wait, no. That wasn&#x27;t right. They looked like they pitied her. Were they doing this out of duty, rather than because they wanted to?</p>
+<p>The soldiers had been glaring at her with obscene looks on their faces. Wait, no. That wasn&#x27;t right. They looked like they <em>pitied</em> her. Were they doing this out of duty, rather than because they wanted to?</p>
 <p>&quot;Who are you?! State your name!&quot;</p>
 <p>&quot;I&#x27;m that girl&#x27;s…&quot; I almost said &quot;brother,&quot; but stopped myself. I wasn&#x27;t supposed to give away my real name. &quot;Uh…I am the Knight of the Shadow Moon!&quot;</p>
 <p>&quot;What part of you is a knight? You&#x27;re obviously a magician.&quot;</p>
@@ -337,26 +337,26 @@ nav_title = "Chapter 10"
 <p>They clearly considered me nothing more than a mischievous child. I was sure they were lying about their intentions, but there was a troubled look on the other soldier&#x27;s face as he regarded Aisha, who was still sobbing. Whatever was going on at the palace to result in Lilia and Aisha being detained, it didn&#x27;t necessarily mean the soldiers in the rank-and-file were bad guys, too. Maybe I should just try to talk to them?</p>
 <p>&quot;But you guys tore up the letter she was holding.&quot;</p>
 <p>&quot;Ahh…that&#x27;s, well, how to explain it? Adults have their reasons.&quot;</p>
-<p>Uh-huh. Adults had lots of reasons.</p>
+<p>Uh-huh. Adults had <em>lots</em> of reasons.</p>
 <p>&quot;Ah!&quot;</p>
 <p>Aisha found an opening and smacked the soldier&#x27;s hand away. She hid herself behind me and clung to my waist, her face covered in tears and snot. &quot;P-please &#x27;elp!&quot;</p>
 <p>Looking at her helpless expression and frantic demeanor, I suddenly didn&#x27;t care if I made enemies of this kingdom or not.</p>
 <p>&quot;Doseguhs dook muhledder and dore iddub!&quot;</p>
-<p>I had absolutely no idea what she was saying through her sobbing, but I could tell she was desperate. Okay. Let&#x27;s put an end to this. I was an adult on the inside. I couldn&#x27;t keep up the charade of a child playing at being a hero.</p>
+<p>I had absolutely no idea what she was saying through her sobbing, but I could tell she was desperate. <em>Okay. Let&#x27;s put an end to this</em>. I was an adult on the inside. I couldn&#x27;t keep up the charade of a child playing at being a hero.</p>
 <p>Without warning, I lifted my hand and silently sent a stone cannon flying at the soliders.</p>
 <p>&quot;Mnh!&quot; The man I&#x27;d aimed it at instantly whipped out his sword and intercepted the cannon.</p>
 <p>Whoa! That was some reaction speed! Water God Style, huh? That was going to make things difficult. But Stone Cannon wasn&#x27;t the only spell I knew. As long as I had some distance, this would be easy.</p>
-<p>Even though you&#x27;re the first person to ever avoid my stone cannon, I thought.</p>
+<p><em>Even though you&#x27;re the first person to ever avoid my stone cannon</em>, I thought.</p>
 <p>&quot;A magician who can use magic without incantations?!&quot;</p>
 <p>&quot;Then—could he be the one?!&quot;</p>
 <p>&quot;Call for backup!&quot;</p>
 <p>&quot;Oka—aaah!&quot;</p>
-<p>I created a pit beneath the feet of the soldier who was about to try to run away. Whoosh! At the same time, I fired stone cannons in rapid succession to divert the other soldier&#x27;s attention. As I did that, I told Aisha, &quot;We&#x27;re going to run. Can you do it?&quot;</p>
+<p>I created a pit beneath the feet of the soldier who was about to try to run away. <em>Whoosh!</em> At the same time, I fired stone cannons in rapid succession to divert the other soldier&#x27;s attention. As I did that, I told Aisha, &quot;We&#x27;re going to run. Can you do it?&quot;</p>
 <p>&quot;Ngh, wah…yeah…!&quot; She nodded, even through her sobbing.</p>
 <p>Very good, very good. All I had to do was knock this one unconscious, and we could make our escape.</p>
-<p>Tweeeeee!</p>
+<p><em>Tweeeeee!</em></p>
 <p>No sooner had I thought that than a high-pitched noise like a bird&#x27;s cry echoed around me. It came from the hole I&#x27;d opened up. A whistle! That other soldier was blowing an alarm whistle!</p>
-<p>Moments later, from all around—both close by and far away other whistles joined the chorus. Tweee, tweeeeeet!!</p>
+<p>Moments later, from all around—both close by and far away other whistles joined the chorus. <em>Tweee, tweeeeeet!!</em></p>
 <p>Each one sounded slightly different, probably to let people identify their exact locations. Once my opponent saw that I had stopped launching stone cannons at him, he yelled, &quot;We&#x27;ve created a blockade around this area! More soldiers will be here in a moment. Cease your futile struggle and hand over the girl! We won&#x27;t hurt you!&quot;</p>
 <p>This area was about to be swarmed. However, I still had a card up my sleeve. &quot;Aisha! Hold on tight!&quot;</p>
 <p>&quot;Huh?!&quot;</p>
@@ -364,11 +364,11 @@ nav_title = "Chapter 10"
 <p>Despite her confusion, Aisha wrapped her arms around my waist and squeezed. I grabbed her shirt with my left hand and channeled mana into my right. Then, I conjured an earth lance with a flattened tip at my feet and used it like a catapult to launch us into the sky.</p>
 <p>&quot;Wh-whaat?!&quot;</p>
 <p>&quot;Aaaaaaah!&quot;</p>
-<p>Ah ha ha! See you later, losers!</p>
-<p>Incidentally, I broke both my legs when we landed. I was definitely never doing that again.</p>
+<p><em>Ah ha ha! See you later, losers!</em></p>
+<p>Incidentally, I broke both my legs when we landed. I was definitely <em>never</em> doing that again.</p>
 <p><strong>A</strong>isha cried for quite some time after we made our escape, big sobs that shook her whole body. She&#x27;d even peed herself. I understood how she felt. If a couple of scary men had grabbed my arm and threatened me, I&#x27;d probably be shaking, too.</p>
 <p>Not enough to pee myself, though.</p>
-<p>Those two soldiers were probably more gentlemanly than most, but it had to have been a terrifying experience for a five- or six-yearold child. Age gaps felt more pronounced the younger you were high-schoolers could be as intimidating as adults to grade-schoolers. And the soldiers actually had been adults.</p>
+<p>Those two soldiers were probably more gentlemanly than most, but it had to have been a terrifying experience for a five- or six-yearold child. Age gaps felt more pronounced the younger you were high-schoolers could be as intimidating as adults to grade-schoolers. And the soldiers actually <em>had</em> been adults.</p>
 <p>At least, I wanted to believe that was the reason she was crying and not the crack of both of my legs breaking when we landed. I quickly used healing magic to fix them up, but that definitely hurt.</p>
 <p>Currently, I was avoiding mention of her little accident while silently washing her underwear. We were back at the inn. Eris and Ruijerd were both gone when we made it back, and they&#x27;d said they were going out to hunt down information, so they probably wouldn&#x27;t return until evening.</p>
 <p>Here I was, having yet another unusual experience. Just moments ago, Aisha had peeled off her small, baggy maid outfit. Once she shed her soaked underwear, I wiped down her undeveloped nethers with a moistened towel and gave her one of the shirts I normally wore.</p>
@@ -377,7 +377,7 @@ nav_title = "Chapter 10"
 <p>Ruijerd wouldn&#x27;t save me if I broke that rule. I could use my demon eye to try and run, but Eris would be pissed for at least three days. If she did manage to punch me while I was defenseless, she&#x27;d deform my face so bad I wouldn&#x27;t be able to taste food for three days…granted I&#x27;d heal myself well before three days passed.</p>
 <p>Anyway, back to the story.</p>
 <p>The situation was such that it wouldn&#x27;t be surprising if my inner beast started howling. Yet my heart was as calm as the still surface of a lake. Forget being aroused, there wasn&#x27;t even a ripple in the water. It was as polished and motionless as a mirror. That was odd.</p>
-<p>I was troubled by Aisha&#x27;s endless sobbing, but I didn&#x27;t feel the least bit aroused. Had I become some kind of holy man while I wasn&#x27;t paying attention? Or grown so terrified of rousing Eris&#x27;s wrath that my pocket monster was now incapable of engaging in battle? Had I locked away my own memories to avoid facing my terror? No, that couldn&#x27;t be it. You&#x27;re okay down there, right, little buddy?</p>
+<p>I was troubled by Aisha&#x27;s endless sobbing, but I didn&#x27;t feel the least bit aroused. Had I become some kind of holy man while I wasn&#x27;t paying attention? Or grown so terrified of rousing Eris&#x27;s wrath that my pocket monster was now incapable of engaging in battle? Had I locked away my own memories to avoid facing my terror? No, that couldn&#x27;t be it. <em>You&#x27;re okay down there, right, little buddy?</em></p>
 <p>Those troublesome thoughts preoccupied me as I washed and dried Aisha&#x27;s plain linen panties (which weren&#x27;t sexy in the least) and maid uniform (which seemed to be made of high-quality fabric). I handed them over to Aisha, who had finally stopped crying at some point, and she happily changed into them.</p>
 <p>Even watching her do that didn&#x27;t arouse me at all. Come to think of it, I&#x27;d never been interested in Zenith&#x27;s breasts, either. I hadn&#x27;t cared much about either gender or age in my previous incarnation,</p>
 <p>but apparently my current body&#x27;s family were off-limits in this one. Life sure was a mysterious thing.</p>
@@ -393,9 +393,9 @@ nav_title = "Chapter 10"
 <p>something about Lilia giving Aisha an extra-rigorous education, hadn&#x27;t he?</p>
 <p>&quot;That&#x27;s all you need? Do you have any money?&quot;</p>
 <p>&quot;I have no money!&quot;</p>
-<p>&quot;Weren&#x27;t you taught that you need money to send letters and to buy pen and paper?&quot; It was critical to teach kids the importance of money from a young age. I doubted Lilia would skip something that important, even if there were some things children shouldn&#x27;t be taught until they got older.</p>
+<p>&quot;Weren&#x27;t you taught that you need money to send letters and to buy pen and paper?&quot; It was critical to teach kids the importance of money from a young age. I doubted Lilia would skip something that important, even if there were <em>some</em> things children shouldn&#x27;t be taught until they got older.</p>
 <p>&quot;My mother taught me that if a girl like me looks up at someone with a pleading look in my eyes and says, &#x27;I want to send a letter to my father,&#x27; then I won&#x27;t have to spend any money.&quot;</p>
-<p>Aha—Lilia, you scoundrel. Were you teaching your daughter to use her femininity as a weapon? As I realized that, Aisha&#x27;s mannerisms started to feel very staged. No, seriously, just what was Lilia teaching her?</p>
+<p>Aha—Lilia, you scoundrel. Were you teaching your daughter to use her femininity as a weapon? As I realized that, Aisha&#x27;s mannerisms started to feel very staged. No, seriously, just what <em>was</em> Lilia teaching her?</p>
 <p>&quot;I&#x27;ve been trying to contact my father for a long time, but the people in the castle tell me no and won&#x27;t let me send any letters!&quot;</p>
 <p>I&#x27;d already heard that Lilia was being detained. Now I knew that they weren&#x27;t letting her or Aisha send letters, either. Maybe things were pretty serious here. When the Man-God told me I needed to &quot;save them,&quot; I&#x27;d suspected that this was a situation where Paul was being cuckolded.</p>
 <p>&quot;Is there anyone else you could ask for help besides your father?&quot;</p>
@@ -404,7 +404,7 @@ nav_title = "Chapter 10"
 <p>Aisha furrowed her brows. She had a look of dismay on her face, but why? &quot;I have a brother, but…&quot;</p>
 <p>&quot;But?&quot;</p>
 <p>&quot;I can&#x27;t ask him for help.&quot;</p>
-<p>Why the heck not?! He just saved you a moment ago, didn&#x27;t he?!</p>
+<p><em>Why the heck not?! He just saved you a moment ago, didn&#x27;t he?!</em></p>
 <p>&quot;D-do you mind if I ask what your reasoning is?&quot;</p>
 <p>&quot;Reason! Sure! My mother told me about my brother in great detail.&quot;</p>
 <p>&quot;Okay.&quot;</p>
@@ -421,8 +421,8 @@ nav_title = "Chapter 10"
 <p>Calculations? Wait, hold on just a second here. This kid was way too smart for her age. What the heck? She was just five or six, right?</p>
 <p>&quot;Maybe you&#x27;re just miscalculating?&quot; I suggested.</p>
 <p>&quot;Nope. I gathered more information from my mother. It seems my brother would peek in on that girl while she was bathing, and he&#x27;d also watch my parents while they were getting it on. My mother was trying to cover it up, but I knew there was no mistaking it—my brother&#x27;s a pervert!&quot;</p>
-<p>A pervert! A pervert! A pervert! There&#x27;s no mistake, my brother&#x27;s a pervert! And, just for kicks, once more: A pervert!</p>
-<p>Okay, stop it! I thought. My mental capacity&#x27;s already at zero!</p>
+<p><em>A pervert! A pervert! A pervert! There&#x27;s no mistake, my brother&#x27;s a pervert!</em> And, just for kicks, once more: <em>A pervert!</em></p>
+<p><em>Okay, stop it!</em> I thought. <em>My mental capacity&#x27;s already at zero!</em></p>
 <p>&quot;O-oh, okay, so your brother is a pervert. That&#x27;s really rough, ha ha ha…&quot; I&#x27;d brought this on myself, but really, I was in shock. I&#x27;d never imagined something like this would… Damn. Now I understood. This was why the Man-God had told me not to use my real name.</p>
 <p>&quot;By the way, Mister Knight, what&#x27;s your real name?&quot;</p>
 <p>&quot;It&#x27;s a secret. On the streets, they call me the Kennel Master of Dead End,&quot; I answered, keeping a cool and composed look on my face. It was probably best for now if I held off on revealing that I was her older brother.</p>
@@ -467,9 +467,9 @@ nav_title = "Chapter 10"
 <p>&quot;Why are you being so evasive about this?&quot; Eris asked.</p>
 <p>&quot;Apparently someone has fed her some misguided information about me. I want to show her my good side so I can correct her perceptions of me.&quot;</p>
 <p>&quot;Hmm. Well, I think you&#x27;re cool just the way you are.&quot;</p>
-<p>&quot;Eris…&quot; I tried to give her a grin that read thanks for saying such sweet things about me, but when I did, Eris took a step back.</p>
+<p>&quot;Eris…&quot; I tried to give her a grin that read <em>thanks for saying such sweet things about me</em>, but when I did, Eris took a step back.</p>
 <p>&quot;Ugh…why do you get that creepy grin on your face when I compliment you?!&quot;</p>
-<p>Apparently, my trademark look was a creepy one. That was a bit of a shock. Someone please give me a new face…</p>
+<p>Apparently, my trademark look was a creepy one. That was a bit of a shock. <em>Someone please give me a new face…</em></p>
 <p>&quot;Anyway, if that&#x27;s what&#x27;s going on, then let&#x27;s attack the castle!&quot; Eris exclaimed, totally ready and willing to throw down.</p>
 <p>&quot;It&#x27;s been a while since I stormed a castle.&quot; Even Ruijerd was hefting his spear as if raring to go.</p>
 <p>I hurried to cool their jets. &quot;No, no. Let&#x27;s just wait for a reply to my letter, for now.&quot;</p>
@@ -485,7 +485,7 @@ nav_title = "Chapter 10"
 <p>&quot;Lady Roxy bids you come see her. Please accompany me to the royal palace.&quot;</p>
 <p>She mentioned nothing about the events that transpired the day before. I hadn&#x27;t hidden my face during the dust-up, but it seemed I hadn&#x27;t been identified.</p>
 <p>I hesitated. What was I supposed to do with Aisha? If I took her with me, they would know I was the one who&#x27;d attacked those soldiers with my stone cannon. I was just going to have to leave her behind. I could apologize to the soldiers once I had Roxy to help.</p>
-<p>With that decided, I told Aisha not to leave the room under any circumstance and entrusted her protection to Ruijerd and Eris. Since I was going to meet Roxy, I double-checked my appearance before I left. My hair was combed, and I was in my usual robes. Oh, right, I thought. I should get her a box of sweets. I wondered what I should buy, since I hadn&#x27;t seen her in such a long time.</p>
+<p>With that decided, I told Aisha not to leave the room under any circumstance and entrusted her protection to Ruijerd and Eris. Since I was going to meet Roxy, I double-checked my appearance before I left. My hair was combed, and I was in my usual robes. <em>Oh, right,</em> I thought. <em>I should get her a box of sweets.</em> I wondered what I should buy, since I hadn&#x27;t seen her in such a long time.</p>
 <p>It was then I happened to spot the ultra-unpopular Ruijerd figurine at the bottom of my tool bag. I recalled that in one of her letters, she&#x27;d talked about seeing a figurine of herself. It might be interesting to show her this one and tell her that I&#x27;d been the creator behind that one, too.</p>
 <p>&quot;It&#x27;s been a while since I last saw my master.&quot;</p>
 <p>&quot;…You&#x27;re going to formally introduce me to her, right?&quot;</p>
@@ -493,7 +493,7 @@ nav_title = "Chapter 10"
 <p>&quot;Are you sure you&#x27;re fine by yourself?&quot; Ruijerd asked in a worried tone. I often ran into trouble when I was left on my own, so I understood his concern.</p>
 <p>&quot;No problem. If anything comes up, I&#x27;ll fly right back here.&quot; That was just a figure of speech, of course. I was never going to take such drastic action that I broke both of my legs again.</p>
 <p>&quot;Mister Kennel Master…&quot; Aisha said.</p>
-<p>&quot;Don&#x27;t worry. Just leave this to me.&quot; She looked anxious, so I patted her on the head. She drew her lips into a line and nodded. That&#x27;s a good girl, I thought.</p>
+<p>&quot;Don&#x27;t worry. Just leave this to me.&quot; She looked anxious, so I patted her on the head. She drew her lips into a line and nodded. <em>That&#x27;s a good girl</em>, I thought.</p>
 <p>Led by the knight Ginger, I started toward the royal palace. We moved quickly along the edge of a main road, bustling with carriages going to and fro. The road had so many twists and turns and sometimes was so narrow that carriages couldn&#x27;t freely pass by one another. I assumed this was a countermeasure in case of an enemy attack. I&#x27;d heard of a town in the Mino region back in Japan that had streets like this.</p>
 <p>Ginger seemed quite taciturn, so I didn&#x27;t speak unless necessary. If I asked her a question, however, she would respond. She was always polite.</p>
 <p>&quot;Okay, up next is this one!&quot; An energetic voice boomed through the air. I turned my head in its direction. &quot;She used to be a knight from the country of Washawa. This is a battle-ready slave! She&#x27;s a bit feisty, but she&#x27;s skilled! Three gold coins!&quot;</p>
@@ -513,7 +513,7 @@ nav_title = "Chapter 10"
 <p>&quot;Lady Roxy would also hop around trying to get a look whenever there was a crowd.&quot;</p>
 <p>&quot;Really?&quot;</p>
 <p>&quot;Yes. Although she always looked conflicted when I lifted her up like this.&quot;</p>
-<p>I tried to picture it—Roxy hopping up and down while complaining, &quot;I can&#x27;t really see.&quot; Then I pictured Ginger, with her good intentions, unable to just stand by and watch. Then finally Roxy again, looking disheartened as she&#x27;d say, &quot;Please put me down.&quot;</p>
+<p>I tried to picture it—Roxy hopping up and down while complaining, <em>&quot;I can&#x27;t really see.&quot;</em> Then I pictured Ginger, with her good intentions, unable to just stand by and watch. Then finally Roxy again, looking disheartened as she&#x27;d say, <em>&quot;Please put me down.&quot;</em></p>
 <p>&quot;You&#x27;ve held her up before like this before?&quot; I asked.</p>
 <p>&quot;Yes, and she got mad and told me to put her down immediately.&quot;</p>
 <p>I knew it.</p>
@@ -536,7 +536,7 @@ nav_title = "Chapter 10"
 <p>&quot;My teacher said that?&quot; I asked.</p>
 <p>&quot;Lady Roxy bragged often about you. She said that she honestly felt like she wasn&#x27;t even qualified to teach someone of your caliber.&quot;</p>
 <p>&quot;Heh heh,&quot; I chuckled. &quot;That&#x27;s an exaggeration.&quot;</p>
-<p>We eventually reached the castle as we talked. It was quite a large one, though not as big as the Kishirisu Castle in Rikarisu or the White Palace in Millishion. It was about the same size as the one Eris and her family lived in. In other words, the country was about the size of a single region in the Asura Kingdom. Way to go Asura Kingdom, you sure don&#x27;t let a man down!</p>
+<p>We eventually reached the castle as we talked. It was quite a large one, though not as big as the Kishirisu Castle in Rikarisu or the White Palace in Millishion. It was about the same size as the one Eris and her family lived in. In other words, the country was about the size of a single region in the Asura Kingdom. <em>Way to go Asura Kingdom, you sure don&#x27;t let a man down!</em></p>
 <p>&quot;…&quot;</p>
 <p>Ginger gave a small bow to the guard at the gate. In response, he snapped stiffly to attention. &quot;Thank you for your dedicated service!&quot;</p>
 <p>&quot;Come this way.&quot; I started heading straight ahead, but Ginger guided me aside. We circled the castle and went through what looked like a back door. &quot;My apologies for this. Only nobles are allowed through the front entrance.&quot;</p>
@@ -548,15 +548,15 @@ nav_title = "Chapter 10"
 <p>&quot;Among the knights, I rank about twelfth.&quot;</p>
 <p>Twelfth? It was hard for me to tell whether that was a high or low ranking. If it included all the hundreds of knights within this country, then it probably wasn&#x27;t low.</p>
 <p>&quot;This way.&quot; Ginger led us way deeper and deeper into the palace. Her steps grew increasingly cautious as she went. She never climbed any stairs, but simply led me down one final hall and stopped outside a door deep within the core of the castle.</p>
-<p>This must be Roxy&#x27;s room, I thought. It was located in an awfully deserted area of the palace, but that somehow seemed appropriate for her.</p>
+<p><em>This must be Roxy&#x27;s room</em>, I thought. It was located in an awfully deserted area of the palace, but that somehow seemed appropriate for her.</p>
 <p>Ginger looked at what I had with me and held out her hand. &quot;Excuse me, please hand over your staff and other belongings.&quot;</p>
 <p>&quot;Oh, sure.&quot; How kind of her to even go so far as to act like a doorman.</p>
 <p>Ginger took my things and then pounded her fist against the door. &quot;It&#x27;s Ginger. I brought Lord Rudeus with me.&quot;</p>
 <p>&quot;Enter.&quot; It was a man&#x27;s voice that responded.</p>
 <p>Before I could process the doubt I felt at that, Ginger immediately opened the door and motioned me inside. Obediently, I went in.</p>
-<p>&quot;Oho…so this is Rudeus, huh?&quot;</p>
+<p>&quot;Oho…so <em>this</em> is Rudeus, huh?&quot;</p>
 <p>Seated before me, looking self-important, was a boy. He looked like a small barrel as he arrogantly reclined in his chair. Not just in terms of height; his arms and legs looked short, too. Almost like what you&#x27;d get if you combined a hafling and a dwarf. The only thing conspicuously large about him was his head, which was adult-sized. His face resembled that of an otaku, giving me a sense that the two of us were brethren. It wasn&#x27;t an attractive face, though.</p>
-<p>Standing at the boy&#x27;s side were two maids. One of them looked familiar and the other didn&#x27;t. We&#x27;ll call the latter of the two Maid A. She seemed to be in her late twenties and was fairly normal-looking. As for Maid B, her face looked exactly like Lilia&#x27;s. Actually, no…that was Lilia. Five years had passed, so she looked a bit older than I remembered. That was no surprise, given she was getting on in years on top of having been through the stress of the Displacement Incident.</p>
+<p>Standing at the boy&#x27;s side were two maids. One of them looked familiar and the other didn&#x27;t. We&#x27;ll call the latter of the two Maid A. She seemed to be in her late twenties and was fairly normal-looking. As for Maid B, her face looked exactly like Lilia&#x27;s. Actually, no…that <em>was</em> Lilia. Five years had passed, so she looked a bit older than I remembered. That was no surprise, given she was getting on in years on top of having been through the stress of the Displacement Incident.</p>
 <p>&quot;Mrgh?!&quot;</p>
 <p>Lilia was in a chair. There were ropes tied around her and her mouth was gagged. I didn&#x27;t see Roxy anywhere.</p>
 <p>&quot;Huh? What the heck is this…?&quot; Confused, I looked around. I thought Roxy was going to be here; that she was going to explain what was going on.</p>
@@ -576,7 +576,7 @@ nav_title = "Chapter 10"
 <p>Pax? Oh right, the Seventh Prince. What was he planning to do by trapping Roxy in a barrier where she couldn&#x27;t use her magic?</p>
 <p>Wait—in her letter, Roxy had described him as being similar to me. I was a gentleman. So it only stood to reason that he was going to do something very gentlemanly. A gentlemanly act of violence.</p>
 <p>&quot;Heh heh…I like that look on your face, Rudeus Greyrat.&quot; He chortled when he saw my frustration.</p>
-<p>I put on a poker face and took a deep breath. Calm down, I told myself, just calm down.</p>
+<p>I put on a poker face and took a deep breath. <em>Calm down</em>, I told myself, <em>just calm down.</em></p>
 <p>&quot;So I&#x27;ve fallen into a trap? I understand. I&#x27;ll apologize formally for attacking those soldiers yesterday. But before that, please call Roxy here. I used to be her pupil. She can confirm my identity. Then I can call my lawyer and we can have a proper trial—&quot;</p>
 <p>&quot;Roxy&#x27;s not here.&quot;</p>
 <p>Roxy wasn&#x27;t there.</p>
@@ -584,7 +584,7 @@ nav_title = "Chapter 10"
 <p>No, that couldn&#x27;t be possible. Did not the great mathematician Euler claim that God existed? Did he not receive an order from Catherine the Great and magnificently offer up proof that God was real? God did exist. I would do the same and prove that God existed myself.</p>
 <p>&quot;No. God is here.&quot;</p>
 <p>&quot;What? God?&quot; Pax had a dumbfounded look on his face.</p>
-<p>That&#x27;s right, God. Make no mistake—if God wasn&#x27;t here, there would be a holy war. Bring it on!</p>
+<p><em>That&#x27;s right, God. Make no mistake—if God wasn&#x27;t here, there would be a holy war. Bring it on!</em></p>
 <p>&quot;Hm, so you&#x27;re praying to God now? That&#x27;s the correct decision, though it&#x27;s already too late for you.&quot;</p>
 <p>&quot;That&#x27;s true.&quot; I&#x27;d calmed down by now, so it was time to dispense with the jokes. &quot;So judging by what you just said a moment ago, Roxy isn&#x27;t in this country anymore?&quot;</p>
 <p>&quot;Correct! You&#x27;re going to be the bait that lures her back here.&quot;</p>
@@ -608,14 +608,14 @@ nav_title = "Chapter 10"
 <p>&quot;You would…?&quot; Hmm. Something seemed strange here. Well, old man Sauros might try to help if he heard I&#x27;d been taken captive. But what did that have to do with Lilia?</p>
 <p>&quot;Lilia also tried sending letters numerous times! As if I would allow her to call for help!&quot;</p>
 <p>Why in the world was he not letting her write for help if the whole point was reeling Roxy in?</p>
-<p>Ahh, I get it, I thought. He&#x27;s a moron.</p>
+<p><em>Ahh, I get it</em>, I thought. <em>He&#x27;s a moron.</em></p>
 <p>&quot;Besides,&quot; he added, &quot;I can just hand that information straight to her!&quot;</p>
 <p>&quot;I&#x27;ve been searching for her for the past two years, but I haven&#x27;t found her yet! Still, one day I will! She stands out wherever she goes!&quot;</p>
 <p>Just because she stood out didn&#x27;t mean he&#x27;d ever find her. She&#x27;d written in her letters that he was similar to me. That he had talent. Did that just mean her impression of me was this bad?</p>
 <p>&quot;Heh heh. It looks like you&#x27;ve given up. I don&#x27;t care if you are a magician who can cast spells without voicing them—you stand no chance against me!&quot;</p>
 <p>There was no way I was going to lose to this guy! I glared at him.</p>
 <p>&quot;Ooh, I like the look in your eyes. Makes me shiver. I hope you&#x27;ll keep that look until the very end. Ahh, I&#x27;m looking forward to it so much. Roxy, don&#x27;t keep me waiting…&quot; He sounded like a little boy pining for attention as he mounted the stairs, disappearing through the hole in the ceiling.</p>
-<p>There&#x27;s no way in hell she&#x27;s coming, I thought to myself.</p>
+<p><em>There&#x27;s no way in hell she&#x27;s coming</em>, I thought to myself.</p>
 <p>&quot;Hey, who said you could remove Lilia&#x27;s gag?&quot;</p>
 <p>&quot;I&#x27;m sorry, but she seemed like she had something to say.&quot;</p>
 <p>&quot;That&#x27;s not your decision to make!&quot;</p>
@@ -630,7 +630,7 @@ nav_title = "Chapter 10"
 <p>&quot;According to the report, he called himself the Knight of the Shadow Moon. He&#x27;s a huge, brawny man who laughs loudly as he jumps from roof to roof like a pervert.&quot;</p>
 <p>&quot;If it&#x27;s someone who stands out that much, why haven&#x27;t you caught him yet?! Dammit, you&#x27;re all so useless!&quot;</p>
 <p>&quot;Yes, sir! My apologies!&quot;</p>
-<p>Hey, wait a minute! Excuse me, Mister Soldier! Please report the facts properly! Just what part of my body was brawny and muscular? Wait, no—perhaps the inaccurate report had been given out of kindness. Maybe they were trying to help Aisha escape. They didn&#x27;t seem like bad people when I met them, after all. Okay, good job, Mister Soldier!</p>
+<p><em>Hey, wait a minute! Excuse me, Mister Soldier! Please report the facts properly! Just what part of my body was brawny and muscular?</em> Wait, no—perhaps the inaccurate report had been given out of kindness. Maybe they were trying to help Aisha escape. They didn&#x27;t seem like bad people when I met them, after all. Okay, good job, Mister Soldier!</p>
 <p>&quot;According to the report, we did tear up the letter she wrote.&quot;</p>
 <p>&quot;And she can rewrite that letter as many times as she wants!&quot;</p>
 <p>&quot;A high-ranking noble isn&#x27;t going to take action just because of a child&#x27;s letter. Shouldn&#x27;t we just forget about her?&quot;</p>
@@ -642,13 +642,13 @@ nav_title = "Chapter 10"
 <p>&quot;Shut up! As if I&#x27;d allow you to do that!&quot;</p>
 <p>&quot;Aah!&quot;</p>
 <p>&quot;Hmph. You knew Roxy too, didn&#x27;t you? I&#x27;ll have you beheaded in front of that impudent brat as well!&quot;</p>
-<p>Smack! I heard another dry slapping sound, followed by something being dragged across the floor.</p>
+<p><em>Smack!</em> I heard another dry slapping sound, followed by something being dragged across the floor.</p>
 <p>&quot;Rudeus! I&#x27;m never going to let you go!&quot;</p>
 <p>When I followed the voice and looked up, I saw Pax&#x27;s creepy face grinning down at me. Then, a lid was slid over the hole above. Quiet settled over the room as I was left with only the faint light of the magic circle as company.</p>
 <p>&quot;Phew…&quot;</p>
 <p>I felt somewhat dumbfounded. I should&#x27;ve been angry at Lilia being hit, but strangely, I didn&#x27;t feel rage rising up within me. Perhaps it was because the entirety of our interactions prior to that had been comical. Or because the Man-God had already told me she would be saved.</p>
 <p>Then again, maybe it was because all of this was a product of Pax&#x27;s feelings for Roxy, as warped as they might have been. I might have ended up the same way, had I been cast aside by her.</p>
-<p>No, that wasn&#x27;t it. It was because he did resemble me—the old me, before I was reincarnated. That was why I felt confusion rather than anger.</p>
+<p>No, that wasn&#x27;t it. It was because he <em>did</em> resemble me—the old me, before I was reincarnated. That was why I felt confusion rather than anger.</p>
 <p>&quot;Well then…&quot;</p>
 <p>Regardless, I understood the gist of what was going on. Simply put, Pax was the one who had captured Lilia. Then he&#x27;d detained her, using whatever pretext he saw fit, such as claiming she was the spy of a foreign power. As he listened to what she had to say, he&#x27;d somehow come to the conclusion that she was associated with Roxy, which was when he devised his plan. He would use Lilia as bait, contact Roxy, and lure her back here.</p>
 <p>He kept this all secret for fear of the Greyrat family, but really, even if the Asura Kingdom found out, Lilia was nothing more than a maid. The secrecy—and the fact that they were unable to locate Roxy—was why Lilia had been detained for so long.</p>
@@ -657,7 +657,7 @@ nav_title = "Chapter 10"
 <p>And I&#x27;d landed myself perfectly in the middle of their spider web. But I did write to Roxy, just as the Man-God had instructed me to do. This was probably all part of how things were supposed to end up, right? There was no need for me to panic. Right now, I was doing exactly as I&#x27;d been told.</p>
 <p>No…wait.</p>
 <p>Had I really done things the way I was supposed to? For instance, I told the soldiers I was the Knight of the Shadow Moon. According to the Man-God&#x27;s advice, as long as I told Aisha I was the Kennel Master of Dead End, everything would be fine. But maybe I was supposed to use that name with the soldiers as well?</p>
-<p>That wasn&#x27;t my only potential misstep. The same thing happened with the letter. I thought for sure I would be fine as long as I didn&#x27;t say my name was Rudeus, but if I hadn&#x27;t written my name on that letter, maybe things wouldn&#x27;t have ended up like this? If the prince had thought I was just some acquaintance of Roxy&#x27;s, perhaps things would have proceeded more peacefully?</p>
+<p>That wasn&#x27;t my only potential misstep. The same thing happened with the letter. I thought for sure I would be fine as long as I didn&#x27;t <em>say</em> my name was Rudeus, but if I hadn&#x27;t <em>written</em> my name on that letter, maybe things wouldn&#x27;t have ended up like this? If the prince had thought I was just some acquaintance of Roxy&#x27;s, perhaps things would have proceeded more peacefully?</p>
 <p>Crap. Now I really felt like I&#x27;d screwed things up.</p>
 <p>No, it was fine. It was still fine, right? This was still within expectations, right?</p>
 <p>I was worried. For the moment, I decided, I would at least try to secure an escape route.</p>
@@ -665,28 +665,28 @@ nav_title = "Chapter 10"
 <p>Currently, I&#x27;m checking out a free apartment in the Shirone Kingdom. There&#x27;s no security deposit and no rent. It&#x27;s a one-room apartment that provides no meals and doesn&#x27;t have much in the way of natural lighting. There&#x27;s no bed provided, and the lack of a toilet means you have to resort to the old-fashioned way of pissing your pants, so living here for an extended period will no doubt result in serious illness. At least it&#x27;s free!</p>
 <p>It&#x27;s also reassuringly secure in its construction. Please see for yourself how durable the barrier is! As long as you stay inside it, magic is nullified and you&#x27;ll never be able to get out! Even if an Aranked adventurer like me hits it as hard as they can, the barrier won&#x27;t budge. It doesn&#x27;t matter if you&#x27;re a masterful escape artist there&#x27;s no easy way of getting out of this place.</p>
 <p>Okay, that&#x27;s the second time I&#x27;ve used this joke, so enough of that.</p>
-<p>I can&#x27;t get out of here. Someone save me. Ruijerd, hurry up and save me! Save meee, Rui!</p>
+<p><em>I can&#x27;t get out of here</em>. <em>Someone save me. Ruijerd, hurry up and save me! Save meee, Rui!</em></p>
 <p>I felt like Princess Peach waiting for Mario to come for me.</p>
 <p>I spent an entire day after that trying to remove the barrier. Since I couldn&#x27;t use magic while I was in it, there was basically nothing I could do. Mostly my attempts consisted of pounding on a wall I couldn&#x27;t see, trying to scrub at the circle on the floor, and trying to leap up toward the ceiling that was nearly four meters above me. I did everything I could, which basically amounted to nothing.</p>
 <p>If I&#x27;d at least had my staff, I might&#x27;ve been able to smack the ceiling with it. Sadly, I&#x27;d given all my things to Ginger before I&#x27;d entered the room.</p>
-<p>As for magic, I tried numerous spells, but they all fizzled before they could do anything. Like a shounen protagonist, I decided that if this barrier absorbed mana then I would unleash as much as I could and destroy it that way! But it didn&#x27;t seem to have any effect. I could produce mana, but it didn&#x27;t take shape. I couldn&#x27;t use my mana to trigger a change around me. It seemed like I could, but I couldn&#x27;t. It was like using a lighter in such strong wind that it blew out every time you clicked it. The gas was there, the spark was there, but there was no fire. Or maybe it was more like the fire appeared but was snuffed out immediately.</p>
+<p>As for magic, I tried numerous spells, but they all fizzled before they could do anything. Like a shounen protagonist, I decided that if this barrier absorbed mana then I would unleash as much as I could and destroy it that way! But it didn&#x27;t seem to have any effect. I could produce mana, but it didn&#x27;t take shape. I couldn&#x27;t use my mana to trigger a change around me. It <em>seemed</em> like I could, but I couldn&#x27;t. It was like using a lighter in such strong wind that it blew out every time you clicked it. The gas was there, the spark was there, but there was no fire. Or maybe it was more like the fire appeared but was snuffed out immediately.</p>
 <p>He said this was a King-tier magical barrier, right? It was incredible.</p>
 <p>My impatience grew as I realized that I couldn&#x27;t get out of here on my own. If the worst came to pass and Roxy actually came to help me, falling into Pax&#x27;s trap in the process, there was nothing I could do to save her. All I would be able to do would be to scream for her to leave me behind. If Eris was the one that got caught instead, I could do nothing to help her, either. Once again, I&#x27;d be screaming for them to leave me behind. And what if Pax changed his mind and decided that he had me, so he didn&#x27;t need other hostages, and tried to have Lilia killed?</p>
 <p>I wanted to believe that everything would be okay, but I hadn&#x27;t followed the Man-God&#x27;s advice perfectly. Maybe I was already way off track. It was the Man-God we were talking about, though. Maybe he foresaw this. But according to what he&#x27;d said, only Aisha and Lilia would be saved. He hadn&#x27;t mentioned anyone else.</p>
-<p>But no…he gave me that advice to earn my trust. It was difficult to believe he&#x27;d purposefully worded it to be deceptive. Still, even</p>
-<p>then… Negative thoughts kept cutting in and whirling around in my head.</p>
-<p>Dammit, I thought. I need to hurry up and get out of here.</p>
+<p>But no…he gave me that advice to earn my trust. It was difficult to believe he&#x27;d purposefully worded it to be deceptive. <em>Still, even</em></p>
+<p><em>then</em>… Negative thoughts kept cutting in and whirling around in my head.</p>
+<p><em>Dammit</em>, I thought. <em>I need to hurry up and get out of here.</em></p>
 <p>I wondered how much time had passed. I felt exhausted. It was the first time in a long while that I&#x27;d used so much mana.</p>
 <p>&quot;Phew…maybe I should rest for a bit.&quot;</p>
 <p>There was no clock and I couldn&#x27;t see the sun, so I had only a vague sense of time. My stomach was also empty and had been growling for a little while now. Don&#x27;t tell me that prince had forgotten about my food, too? No, maybe that was the point. Maybe he meant to reduce my food intake and whittle me down until I was as dainty and brittle as a branch. That way, it would excite him more when he showed Roxy what I&#x27;d become. Just one meal a day then, huh? That would be terribly unpleasant, given that my body was still growing.</p>
 <p>I couldn&#x27;t break out of here through strength alone. Maybe I needed to twist this around in my head some more. How did people in my previous world escape from prison? They pretended to be sick or dead, right? Maybe they would temporarily power down the barrier to let a doctor or healer inside. No—it was also possible they&#x27;d just leave me to die. They already had another hostage, after all. If I were a Hollywood star, I could just strike out as the guard came by my cell, knock them unconscious and steal their keys. Sadly, that wasn&#x27;t possible here.</p>
 <p>What other methods were left to me? Really, I just needed to get out of here. Maybe I could pretend I was willing to pledge my loyalty to Pax.</p>
-<p>&quot;Truth is, that Roxy&#x27;s been gettin&#x27; on my nerves for a long time now, boss. Heh heh heh! And actually, I know where her parents are! Whatdya think about doin&#x27; it in front of them, eh, boss?&quot;</p>
+<p><em>&quot;Truth is, that Roxy&#x27;s been gettin&#x27; on my nerves for a long time now, boss. Heh heh heh! And actually, I know where her parents are! Whatdya think about doin&#x27; it in front of them, eh, boss?&quot;</em></p>
 <p>If I said it like that, he might actually fall for it, right? He did look like a moron, after all.</p>
 <p>Nah, let&#x27;s not. That wasn&#x27;t possible, even for me. Roxy. I could abandon every last bit of my own pride, but the one thing I couldn&#x27;t do was say something bad about Roxy.</p>
-<p>Thump… Thump…</p>
+<p><em>Thump… Thump…</em></p>
 <p>As I worried over what to do, I suddenly heard something. Footsteps. They were growing closer. Probably Pax coming to see how I was doing.</p>
-<p>Thump…</p>
+<p><em>Thump…</em></p>
 <p>The footsteps stopped directly above me. Then they cut across the room and I could hear them at the top of the stairs.</p>
 <p>&quot;Aha, just as Ginger told me.&quot;</p>
 <p>The man who glided down the steps was someone I&#x27;d never seen before. I could tell with one look that he was likely part of the royal family, primarily because of how grandiose his clothing looked. It was black with gold embroidery and you could tell at once that it was expensive. He appeared to be about twenty. His face was similar to Pax&#x27;s, but oval-shaped, with glasses resting above protruding cheekbones, and he was taller and thinner. In other words, he looked like your typical book nerd anime character with opaque glasses.</p>
@@ -757,7 +757,7 @@ nav_title = "Chapter 10"
 <p>&quot;Huh?&quot; I voiced my realization. &quot;The mole under her armpit is gone.&quot;</p>
 <p>&quot;Hm?&quot; Zanoba responded, turning the Roxy figure over again. &quot;Aah, the dark spot under her arm? I thought it lowered the beauty of the figure, so I shaved it off,&quot; he said off-handedly.</p>
 <p>I froze at his words. My eyes widened and my body stilled. &quot;Yyou shaved it off?&quot;</p>
-<p>&quot;Yes, and the fact that you know about that means that you do know something about this figurine, don&#x27;t you?&quot;</p>
+<p>&quot;Yes, and the fact that you know about that means that you <em>do</em> know something about this figurine, don&#x27;t you?&quot;</p>
 <p>I ignored him. &quot;Turn the figurine around a little.&quot;</p>
 <p>&quot;Answer my question before I do.&quot;</p>
 <p>&quot;I said turn it,&quot; I barked coldly, surprising myself.</p>
@@ -780,7 +780,7 @@ nav_title = "Chapter 10"
 <p>&quot;Aaaah!&quot; Zanoba&#x27;s entire body suddenly fell to the floor, slapping against the ground. It shocked me. &quot;So you, my lord, are the one who created this figurine!&quot;</p>
 <p>And now he was groveling before me? I had no idea what was going on. The only thing I did know was how magnificent Roxy was.</p>
 <p>&quot;I would expect no less from a pupil of the Water King Magician Roxy! You made this figurine using magic, didn&#x27;t you?!&quot;</p>
-<p>How dare he use her name without a proper title. That&#x27;s Miss Roxy to you!</p>
+<p>How dare he use her name without a proper title. That&#x27;s <em>Miss</em> Roxy to you!</p>
 <p>&quot;My lord, I look at your creation every day. Every time I see it, I discover something new, and my respect for you only grows stronger. Please, allow me to call you &#x27;master&#x27;!&quot; He scurried across the floor like an insect as he spoke, trying to kiss my shoes, only be repelled with a loud cry as he smacked against the barrier instead. He looked like one of those obsessed fans vying for the newest release on the third day of summer Comiket.</p>
 <p>&quot;Gaaaah! Why is this barrier here?! Who dared to put this here?! Master! Please allow me to pay my respects to your godlike hands! Pleeeeaaaaseeaaah!&quot;</p>
 <p>I&#x27;d met people like this in my previous life. Most of them were people I&#x27;d met online—people I couldn&#x27;t quite call friends. Now I understood—this was the face those people were making behind their screens. This must have been what the Man-God foresaw happening. I was to be taken inside the castle where I&#x27;d meet this guy, we&#x27;d bond and he&#x27;d lend me his power to help me escape. All right! The ending was now in sight!</p>
@@ -820,9 +820,9 @@ nav_title = "Chapter 10"
 <p>Zanoba just laughed as he climbed back up the stairs and left.</p>
 <p>&quot;Are you kidding me…?&quot; I had the distinct feeling I&#x27;d really screwed something up. Forcing this prince—who apparently had no servants of his own—to make a move felt like the equivalent of</p>
 <p>shoving a stick in a hornet&#x27;s nest. A keen sense of foreboding came over me.</p>
-<p>I should have just asked him to bring me some food instead.</p>
+<p><em>I should have just asked him to bring me some food instead.</em></p>
 <p>However, as I would soon learn, I was completely mistaken. I had totally misread the man known as Zanoba Shirone. Looking back on what had transpired, I would come to realize that the course of events was probably decided the moment Zanoba found out I was the creator of that figurine.</p>
-<p><strong>B</strong>efore I talk about how things resolved themselves, there&#x27;s one factor I&#x27;d like to discuss. There was a child born into this world with an abnormality. The word abnormality probably makes you think of a physical condition, but most children like this looked normal by all accounts. The opposite was in fact true: the only thing normal about him was his appearance.</p>
+<p><strong>B</strong>efore I talk about how things resolved themselves, there&#x27;s one factor I&#x27;d like to discuss. There was a child born into this world with an abnormality. The word <em>abnormality</em> probably makes you think of a physical condition, but most children like this looked normal by all accounts. The opposite was in fact true: the only thing normal about him <em>was</em> his appearance.</p>
 <p>This child possessed a unique ability when he was born. You see, there were children who could run abnormally fast, had superhuman strength, had enhanced hearing, had a body lighter than a feather or were conversely incredibly heavy, could freeze anything they touched, could breathe fire, had poison-tipped fingers, could teleport short distances, could shoot laser beams from their eyes, could nullify any and every poison, could spend an entire day awake without feeling tired, or could have sex with hundreds of women at the same time without going soft… Such a child, who was possessed of superhuman abilities when they were born, was called a Blessed Child. If they possessed an ability that wasn&#x27;t particularly useful, or even unfavorable, then they were deemed a Cursed Child, but we&#x27;ll leave that aside for now.</p>
 <p>Now that we have taken into account the existence of Blessed Children, let&#x27;s talk about the Shirone Royal Palace. Currently, there were seven princes in the palace. The oldest was thirty-two, and the youngest was…well, the youngest didn&#x27;t really matter.</p>
 <p>In this country, when a prince was born, he was put in command of a number of imperial guards. The guards under a prince&#x27;s command would be his eyes and ears, so to speak, and would teach him how to influence people. If he played his cards right, the numbers of his guards would increase, and if he did something bad, they would decrease. When a king passed away, the prince with the</p>
@@ -868,12 +868,12 @@ nav_title = "Chapter 10"
 <p>&quot;Oooow!&quot;</p>
 <p>&quot;Lord Rudeus is a wonderfully skilled, unsurpassable figurine maker. I cannot forgive someone like that being used as a pawn in Pax&#x27;s revenge scheme!&quot;</p>
 <p>&quot;Aaaaah! My head&#x27;s gonna split open! It&#x27;s gonna split! Gonna spliiiit!&quot; Pax&#x27;s wail of pain reverberated throughout the room.</p>
-<p>&quot;Elder brother, if you decide to take Pax&#x27;s side in this, I will act out.&quot;</p>
+<p>&quot;Elder brother, if you decide to take Pax&#x27;s side in this, I <em>will</em> act out.&quot;</p>
 <p>The three knights and two princes went deathly pale. I wanted to jump in and say, &quot;You&#x27;re already doing the &#x27;acting out&#x27; part just fine!&quot; but the chill in the air told me that his definition of &quot;act out&quot; was on another level from what he&#x27;d already done.</p>
 <p>&quot;I&#x27;m not asking for anything difficult,&quot; Zanoba said. &quot;I just want to save this figurine maker and Pax&#x27;s bad behavior is inhibiting my ability to do that.&quot;</p>
 <p>&quot;But without Pax, the slave market is—&quot;</p>
 <p>&quot;Elder brother, please don&#x27;t make me say it again. Your younger brother&#x27;s head is about to be torn off.&quot; Zanoba wasn&#x27;t smiling anymore.</p>
-<p>I had no idea what was going on. I was just confused, wondering if the words &quot;torn off&quot; were a metaphor. The one thing I did know was that the person in command of this situation was Zanoba. Go on, my pupil, you can do it! Even though you&#x27;re still scary as hell!</p>
+<p>I had no idea what was going on. I was just confused, wondering if the words &quot;torn off&quot; were a metaphor. The one thing I did know was that the person in command of this situation was Zanoba. <em>Go on, my pupil, you can do it! Even though you&#x27;re still scary as hell!</em></p>
 <p>&quot;Nooooo, no! Stop it! Let go! Gingerrr! Save me! Don&#x27;t you care what—what happens to your family!&quot;</p>
 <p>&quot;My family? They were all saved by Master Ruijerd last night,&quot; she answered.</p>
 <p>&quot;Whaat?!&quot; Pax struggled in his brother&#x27;s grasp as Ginger coolly refused him.</p>
@@ -882,7 +882,7 @@ nav_title = "Chapter 10"
 <p>With this, one of the two (whom I assumed were the First and Second Princes) finally broke. &quot;O-okay, fine! We&#x27;ll do what you ask!&quot;</p>
 <p>&quot;Be sure you look into this thoroughly, yes? Also, that girl who created all that fuss two years ago, Lilia, is being held captive somewhere in this castle. I&#x27;d like you to secure her as well.&quot;</p>
 <p>&quot;Yes, of course. I&#x27;ll be sure to let Father know, too.&quot;</p>
-<p>At that time, I didn&#x27;t know that Zanoba was a Blessed Child. I just thought he had a ridiculous amount of confidence for someone so gangly. It&#x27;s dangerous to overestimate your own strength like that, I thought, though it struck me as seriously odd how the two princes seemed so intent on defending Pax.</p>
+<p>At that time, I didn&#x27;t know that Zanoba was a Blessed Child. I just thought he had a ridiculous amount of confidence for someone so gangly. <em>It&#x27;s dangerous to overestimate your own strength like that</em>, I thought, though it struck me as seriously odd how the two princes seemed so intent on defending Pax.</p>
 <p>But as it turned out, I was mistaken. They were just terrified of Zanoba, the kind of terror you felt when faced with a bomb that was seconds from exploding. Even as I was released from the barrier, I still didn&#x27;t understand. Dumbstruck, I watched as Pax was carried off, Lilia was released, and the whole issue came to a close.</p>
 <p>***</p>
 <p>Several days passed before I finally learned everything that had happened. Let&#x27;s start with how Lilia wound up being detained in the first place.</p>
@@ -891,7 +891,7 @@ nav_title = "Chapter 10"
 <p>When Roxy fled, Pax established contacts in the slave market. Through them, he hired his own private army, then took some of his father&#x27;s soldiers&#x27; families hostage to force their obedience. Those soldiers searched the slums in secret, and found where the hostages were being kept, but rescuing them proved difficult because they were heavily guarded. Frustratingly, they had to wait, and the days slipped by.</p>
 <p>It was during that time that Aisha made her escape and the prince gave orders to pursue her. Reluctantly, the soldiers did as they were told and managed to track her down. That was when I appeared and made a magnificent show of carrying her off. Once the soldiers saw how I was trying to help Aisha, plus how I could cast spells without chanting, they realized I was Roxy&#x27;s pupil. That was when they began to devise their plan.</p>
 <p>First, they started a fight in the slave market to throw it into chaos. Then, they used the fact that Aisha had been kidnapped by a mysterious man to get Pax&#x27;s private army moving. After that, they&#x27;d planned to explain their circumstances to me and ask for my assistance in rescuing the hostages. I would help them attack the place where the hostages were being held now that its security was weakened, and in return, they would find a way to save Lilia for me.</p>
-<p>But before any of that could happen, I sent my letter to the palace, mistakenly thinking Roxy was still in the country, and was then lured in and confined by Pax. If I had just waited another day before sending my letter, I could have listened to the soldiers&#x27; story and been the one to lure Pax into a trap, instead. Perhaps the Man-God had intended for me to save Aisha and then write my letter, not the other way around.</p>
+<p>But before any of that could happen, I sent my letter to the palace, mistakenly thinking Roxy was still in the country, and was then lured in and confined by Pax. If I had just waited another day before sending my letter, I could have listened to the soldiers&#x27; story and been the one to lure Pax into a trap, instead. Perhaps the Man-God had intended for me to save Aisha and <em>then</em> write my letter, not the other way around.</p>
 <p>My capture should have been a setback for the soldiers, but when they went to the inn to find me, they found Ruijerd instead. He listened to what they had to say, got all riled up, and soon enough, he&#x27;d rescued all the hostages. Once the hostages were safely returned to their families, Ruijerd intended to charge the castle. The soldiers tried to tell him they would do it themselves, but he wouldn&#x27;t listen.</p>
 <p>Ginger, meanwhile, wasn&#x27;t made aware of any of this. The soldiers had left her out of it because they worried it would be dangerous to involve someone under Pax&#x27;s command. Poor thing. However, when the hostages were released, Ginger&#x27;s family was spotted among them, so the soldiers took them into protective custody as well.</p>
 <p>Ginger, thinking this was a good opportunity for her to make a move, passed on my Ruijerd figurine to Zanoba—the man with the most brute strength in this country. She&#x27;d calculated that he smight see me as a valuable source of information and ally himself with me, but was also motivated by the fact that she&#x27;d sworn allegiance to Zanoba. Why would someone like Ginger remain loyal to someone who had traded her off in exchange for a figurine? There had to be a story there.</p>
@@ -919,7 +919,7 @@ nav_title = "Chapter 10"
 <p>&quot;O-oh noooo!&quot; Zanoba screeched. &quot;Ginger! Healing magic!!&quot;</p>
 <p>&quot;Yes, sir!&quot; Ginger chanted a healing spell and my wounds closed. Zanoba, who had nearly killed me, was now pale and flustered. He looked relieved when I rose back up, healthy again. I seriously considered excommunicating him right then and there, then reconsidered quickly. I didn&#x27;t want him to rip my head off.</p>
 <p>&quot;All right, Master. Stay safe! I don&#x27;t know where I&#x27;ll be shipped off to, but I have a feeling I&#x27;ll eventually run into you again!&quot;</p>
-<p>&quot;Cough… yeah, you too.&quot;</p>
+<p>&quot;<em>Cough…</em> yeah, you too.&quot;</p>
 <p>Zanoba continued sobbing as he nodded, watching me go. Ginger watched the two of us with tears running down her cheeks as well.</p>
 <p>And that was how matters in the Shirone Kingdom came to a close. Lilia and Aisha had been saved and sent off to Paul. Pax was banished from the country. I gained a pupil in the form of Zanoba. Some parts didn&#x27;t go as smoothly as they could have, since I didn&#x27;t follow the Man-God&#x27;s advice perfectly. Still, everything ended in the best way possible.</p>
 <p>It still felt like I was dancing right into the palm of the god&#x27;s hand. It felt like I was watching a terrible play unfold.</p>
@@ -940,7 +940,7 @@ nav_title = "Chapter 10"
 <p>All I did was follow the Man-God&#x27;s directions. And then needlessly got myself stuck in a trap and needed help to escape it. If I still had the nerve to demand gratitude after all that, I should&#x27;ve been able to use that same nerve to accomplish more in my previous life.</p>
 <p>&quot;Please direct that gratitude to Ruijerd and Eris instead. They&#x27;re the ones who acted appropriately and led everything to a peaceful conclusion.&quot;</p>
 <p>&quot;I spoke with them a bit,&quot; she said. &quot;But they told me it was all part of your strategy—&quot;</p>
-<p>&quot;That was not my strategy.&quot;</p>
+<p>&quot;That was <em>not</em> my strategy.&quot;</p>
 <p>Lilia went quiet, then said, &quot;If that&#x27;s how you feel.&quot; She looked displeased, but it wasn&#x27;t like I was asking her to call something black when it was really white.</p>
 <p>We fell into silence for a bit after that.</p>
 <p>&quot;Does Aisha…&quot; Lilia began to ask, glancing outside the window, &quot;…sometimes say things that are offensive?&quot;</p>
@@ -964,7 +964,7 @@ nav_title = "Chapter 10"
 <p>&quot;I know that you&#x27;re a womanizer.&quot;</p>
 <p>She did? Huh, okay then. Still, unlike my former self, it seemed I felt no desire for those related to me by blood. Which was why it made me uncomfortable when Lilia presented Aisha to me as if she were a gourmet meal prepared for my consumption. Those were my true feelings, at least. &quot;She&#x27;s still only six, isn&#x27;t she? She&#x27;s at an age where she needs to be with her parents.&quot;</p>
 <p>&quot;If that&#x27;s how you truly feel,&quot; she said.</p>
-<p>Lilia looked disappointed, but I said nothing wrong. Aisha was still young. It was best for her to be with her parents, right? It was my feeling, as someone who was born Japanese, that it was best for a child to be with both of their parents while they were little. At least one, if not both, but definitely not neither.</p>
+<p>Lilia looked disappointed, but I said nothing wrong. Aisha was still young. It was best for her to be with her parents, right? It was my feeling, as someone who was born Japanese, that it was best for a child to be with both of their parents while they were little. At least one, if not both, but definitely not <em>neither</em>.</p>
 <p>&quot;I understand. It&#x27;s true that Aisha is still immature. I can&#x27;t send her off with you when she&#x27;s still so inexperienced.&quot;</p>
 <p>&quot;Uh, please don&#x27;t teach her anything too weird, okay?</p>
 <p>Like…about me being a pervert.&quot;</p>
@@ -1010,7 +1010,7 @@ nav_title = "Chapter 10"
 <p>&quot;Every single day, my mother tells me about how I&#x27;m going to serve my half-brother in the future.&quot;</p>
 <p>&quot;She did say that,&quot; I agreed.</p>
 <p>&quot;But!&quot; Aisha slammed her fist against the ground. &quot;I want no part of it!&quot;</p>
-<p>She really wanted no part of being around me. Probably because I got so aroused by underwear. Sorry, I apologized in my head.</p>
+<p>She <em>really</em> wanted no part of being around me. Probably because I got so aroused by underwear. <em>Sorry</em>, I apologized in my head.</p>
 <p>&quot;We talked about it the other day, right? My brother is a pervert. I understand what you were saying, Mister Kennel Master, but I just can&#x27;t bear the thought of serving someone like that.&quot;</p>
 <p>&quot;Is that right…?&quot;</p>
 <p>&quot;So please, I beg of you, save me! Just as gallantly as you did the other day, from the evil hands of a pervert!&quot;</p>
@@ -1051,14 +1051,14 @@ nav_title = "Chapter 10"
 <p>I felt bad for deceiving her. By the time she was older, my journey would be over and we&#x27;d probably all be living together again as a happy family.</p>
 <p>&quot;Then you&#x27;re not mad at me for calling you a pervert?&quot;</p>
 <p>&quot;No, of course no—huh?&quot;</p>
-<p>Wait, what did she just say?</p>
+<p><em>Wait, what did she just say?</em></p>
 <p>&quot;Thanks, big brother!&quot; With that, Aisha shot back up and ran off to the carriage. I sat there dumbfounded as she leaped up into it. When the carriage rolled into motion, Aisha turned back to wave at me, and Lilia bowed. &quot;See you, big brother! Let&#x27;s meet again! It&#x27;s a promise!&quot;</p>
 <p>And off they went.</p>
 <p>Eris had a completely unamused look on her face as she said, &quot;What the hell? She completely saw right through you.&quot;</p>
 <p>&quot;H-how…?&quot;</p>
 <p>Ruijerd gave the horse&#x27;s reins a tug and the carriage jerked into motion. In retrospect, there were many opportunities for her to realize the truth. I called her by her name when we first met, and</p>
 <p>when I was speaking to Eris and Ruijerd after that, I&#x27;m pretty sure they let my name slip, too.</p>
-<p>So why did she pretend not to know? Think, think, I told myself, and the answer came quickly. She was probably trying to determine for herself if her brother was someone who could be trusted. If I&#x27;d kept up the charade of being the Kennel Master and tried to drag her along with me, I had no doubt she would&#x27;ve turned her back on me.</p>
+<p>So why did she pretend not to know? <em>Think, think</em>, I told myself, and the answer came quickly. She was probably trying to determine for herself if her brother was someone who could be trusted. If I&#x27;d kept up the charade of being the Kennel Master and tried to drag her along with me, I had no doubt she would&#x27;ve turned her back on me.</p>
 <p>&quot;Haha.&quot; Once I realized that, I laughed. She truly was a brilliant, clever little girl. I looked forward to seeing her once she was older.</p>
 <p><strong>W</strong>e left Shirone Kingdom and traveled far, far westward. Our destination was the Asura Kingdom. The road leading to said country was flat and the weather just warm enough to make you drowsy. On either side of the highway were fields of grass as far as the eye could see, and directly ahead was the faint outline of the Red Wyrm Mountains. Above them, you could see slowly circling shadows. It was tranquil.</p>
 <p>On occasion, bandits who totally couldn&#x27;t read the situation would approach and demand we drop our coin and leave. Eris would kindly grant them their wish by offering her iron fist, sending them scuttling off into the distance. Ruijerd wanted to slaughter them all at first, but once we heard how they were simply hurting for food, he decided to let them go for now. But just this once.</p>
@@ -1085,7 +1085,7 @@ nav_title = "Chapter 10"
 <p>&quot;Uh, well, there were about five others who were Advanced-tier swordfighters with her, she said.&quot;</p>
 <p>&quot;And how many of them died?&quot; I pressed on.</p>
 <p>&quot;Two,&quot; Eris replied.</p>
-<p>You moron, I thought. That meant their group took a 40% loss. What in the world made her think I could defeat one of those creatures?</p>
+<p><em>You moron</em>, I thought. That meant their group took a 40% loss. What in the world made her think I could defeat one of those creatures?</p>
 <p>&quot;Besides,&quot; I said, &quot;there&#x27;s a difference in strength between stragglers and the ones here in these mountains. After all, these ones are in the air, you know?&quot;</p>
 <p>Flight gave wyrms at a huge advantage against humans. This wasn&#x27;t a video game where having a flying trait made you weak to bows and arrows. Plus, they moved in swarms. It was one thing to face off against the King Dragons, whose groups consisted of only a few wyrms, or the Black Wyrms, which didn&#x27;t form flocks at all. With the way Red Wyrms swarmed in the hundreds, there was no way you could hope to pick them off one by one. &quot;Am I right, Mister Ruijerd?&quot;</p>
 <p>&quot;Yes. You don&#x27;t have a hope of standing against a Red Wyrm horde. If there was anyone that could, they would be the mightiest champion amongst the Seven Great Powers. Even the North God and Sword God would likely turn back halfway through.&quot;</p>
@@ -1096,19 +1096,19 @@ nav_title = "Chapter 10"
 <p>&quot;But I&#x27;d still like to hunt one of them someday…&quot; Once again, Eris was voicing her usual dangerous ideas. I was sure I&#x27;d be enlisted to help her when that &quot;someday&quot; came.</p>
 <p>***</p>
 <p>Another tranquil day. Just a few more and we&#x27;d arrive at the Red Wyrm&#x27;s Lower Jaw.</p>
-<p>I was thinking about the Man-God while I prepped a meal for the party. More specifically, about what happened in the Shirone Kingdom a few days ago. To be perfectly honest, it felt like things were going a little too well for me. Perhaps the Man-God, his premonition notwithstanding, also had the power to change the future.</p>
+<p>I was thinking about the Man-God while I prepped a meal for the party. More specifically, about what happened in the Shirone Kingdom a few days ago. To be perfectly honest, it felt like things were going a little <em>too</em> well for me. Perhaps the Man-God, his premonition notwithstanding, also had the power to change the future.</p>
 <p>No. Even if I hadn&#x27;t been carrying that figurine with me, I had a feeling Ginger would have lured Zanoba into meeting me anyway. And he would still have brought his Roxy figurine, still have given the same speech, and I would have still pointed out the mole he&#x27;d removed.</p>
 <p>What if I had actually used my real name with Aisha? Alone at an inn with her perverted brother… If I were her, I&#x27;d have feared for my chastity. Aisha was a clever girl. She was trying to get a letter sent, so she might have stolen my money and made a run for it.</p>
 <p>I was sure I would&#x27;ve searched for her if that had happened. As soon as I knew she was missing, I would lose all composure and, without any thought for the consequences, blast my magic into the air to make contact with Ruijerd. I&#x27;d tell him that I&#x27;d found my sister but she ran away, and he&#x27;d help me search for her. He was kind to children. I was sure she&#x27;d trust him.</p>
 <p>The more I considered it, the more I started to think that the Man-God&#x27;s advice was meant to ensure things turned out more or less the same way no matter what I did. It was probably happening right now. Even if we hadn&#x27;t decided to accept Ruijerd&#x27;s help, he would somehow have ended up traveling with us, anyway. No matter which eye I selected from Kishirika&#x27;s arsenal when I met her, I would&#x27;ve still been captured by the Doldia tribe in the Great Forest.</p>
-<p>The Man-God was taking a lot into consideration as he gave me advice. Perhaps I could trust him. However, just as before, I couldn&#x27;t fathom his motives. If I could just figure out what he wanted, then I could be more honest with him.</p>
+<p>The Man-God was taking a lot into consideration as he gave me advice. Perhaps I <em>could</em> trust him. However, just as before, I couldn&#x27;t fathom his motives. If I could just figure out what he wanted, then I could be more honest with him.</p>
 <p>As I mulled over my conversations with the Man-God, Eris and Ruijerd were sparring together as usual. Lately, Eris had gotten so strong it was a real eye-opener. Just a year ago, I could&#x27;ve beaten her easily by using my demon eye. I might even have been able to pull her panties down in the midst of combat. Now, that was impossible. I would probably still come out on top if I used my demon eye and all of my mana, but even then, it would be close. I&#x27;d certainly win if we started the battle with some distance between us, but a longdistance battle would rob me of the possibility of physical contact during the heat of battle, so you couldn&#x27;t really call that a victory.</p>
 <p>Back to the conversation about talent. I thought I worked pretty hard, but Eris went above and beyond. The quality and quantity of her hard work put mine to shame. My body just couldn&#x27;t keep up. My stamina was pretty average by Japanese standards, but by the standards of this world, I was mediocre.</p>
 <p>As I was preoccupied with those thoughts, the day&#x27;s training came to an end. &quot;We&#x27;re done.&quot;</p>
 <p>&quot;Haa, haa… yeah…&quot;</p>
 <p>Lately Ruijerd had stopped asking Eris if she understood their training or not. It didn&#x27;t need to be said anymore. Eris was naturally soaking it up.</p>
 <p>&quot;Eris,&quot; Ruijerd suddenly said, as she came over to where I was standing.</p>
-<p>&quot;What?&quot; Eris took the wet rag I&#x27;d wrung out and handed to her. She slipped it inside her clothes, wiping away at the sweat. She used to strip down to just her bra and wipe it off, but I got too turned on by that, so now she kept her clothes on, even though it probably felt gross having all that sweat on her body. Sorry, I apologized internally.</p>
+<p>&quot;What?&quot; Eris took the wet rag I&#x27;d wrung out and handed to her. She slipped it inside her clothes, wiping away at the sweat. She used to strip down to just her bra and wipe it off, but I got too turned on by that, so now she kept her clothes on, even though it probably felt gross having all that sweat on her body. <em>Sorry</em>, I apologized internally.</p>
 <p>&quot;From this day on, you can call yourself a warrior,&quot; Ruijerd said as he sat himself down.</p>
 <p>A warrior, huh? Not a swordfighter, but a warrior? Why was he…? Ah. I finally understood what he meant.</p>
 <p>Eris slipped her hand under her armpit to wipe away the sweat, then stopped. &quot;Does that mean…?&quot;</p>
@@ -1120,7 +1120,7 @@ nav_title = "Chapter 10"
 <p>&quot;You won&#x27;t punch me if I do?&quot;</p>
 <p>&quot;I won&#x27;t punch you.&quot;</p>
 <p>Since I had her word, I reached out and pinched her nipple between my fingers. Gently, of course. Or maybe sexily is more the word in this case?</p>
-<p>Eris&#x27; fist, on the other hand, was not gentle. &quot;Where the hell are you pinching?!&quot;</p>
+<p>Eris&#x27; fist, on the other hand, was <em>not</em> gentle. &quot;Where the hell are you pinching?!&quot;</p>
 <p>&quot;Sorry…but it&#x27;s not a dream. If it was, this wouldn&#x27;t hurt so bad,&quot; I said, face turning pale as I clutched my jaw. In contrast, Eris&#x27; face was bright red as she covered her chest with her arms.</p>
 <p>&quot;That&#x27;s right, a warrior…&quot; She looked down at the palm of her hand as if she could finally feel the power that was held there.</p>
 <p>&quot;But don&#x27;t get a big head. That means I&#x27;m not going to treat you like a child anymore. Got it?&quot; Ruijerd sounded more like a parent warning their child.</p>
@@ -1128,7 +1128,7 @@ nav_title = "Chapter 10"
 <p>Our meal today looked even more delicious than usual.</p>
 <p>That night, just as Eris was settling down to sleep, something was bothering me. I called to Ruijerd, who was on lookout with his eyes closed. &quot;Why did you say that to Eris?&quot;</p>
 <p>He cracked his eyes open slightly and looked at me. &quot;Because no matter how much time passes, you keep treating her like she&#x27;s a child.&quot;</p>
-<p>…Okay, let&#x27;s think about this. Was Eris a child or not? She was twenty years younger than I&#x27;d been when I died in my previous life. I&#x27;d also been her incredibly patient tutor since she was little, even as she&#x27;d used me as her personal punching bag. What was wrong with me seeing her as a child?</p>
+<p><em>…Okay, let&#x27;s think about this</em>. Was Eris a child or not? She was twenty years younger than I&#x27;d been when I died in my previous life. I&#x27;d also been her incredibly patient tutor since she was little, even as she&#x27;d used me as her personal punching bag. What was wrong with me seeing her as a child?</p>
 <p>Sure, Eris had grown more and more mature of late, and not just in terms of how her body had developed. Slowly but surely, she had started to learn right from wrong. She rarely ever went on a rampage without thought for the consequences anymore. Her wild instincts hadn&#x27;t completely gone away, but the frequency of her outbursts had decreased. You could say she was in the process of going from a child to adult. Or so I liked to think, as if I were better than her, not that you could call me a shining example of an adult, even as a form of flattery.</p>
 <p>&quot;Hmm…&quot;</p>
 <p>Ruijerd quietly shut his eyes. &quot;Ah well, it&#x27;s all right if you don&#x27;t understand.&quot;</p>
@@ -1143,7 +1143,7 @@ nav_title = "Chapter 10"
 <p>A few days later, we finally reached the entrance to the Asura Kingdom: the Red Wyrm&#x27;s Lower Jaw. Four months had passed since we set out from the Shirone Kingdom.</p>
 <p>When things happened, they happened quickly. Specifically, bad things happened when you least expected them. In my old life, my parents had died suddenly. My siblings coming at me had been sudden, too. Paul had shipped me off to be a tutor without warning. Being transported to the Demon Continent had also been abrupt.</p>
 <p>There was something else I had yet to realize, and it was how harsh this world really was. How easily people died. No matter who a person was, death could come in an instant. There were no exceptions to that.</p>
-<p>It would take me a long time, but eventually, I would come to understand death as a phenomenon that abruptly robbed me of those closest to me. If I&#x27;d known this back then, I wouldn&#x27;t need to lament so deeply now. If only I&#x27;d been more serious about getting stronger—strong enough that I wouldn&#x27;t be defeated by anyone.</p>
+<p>It would take me a long time, but eventually, I would come to understand death as a phenomenon that abruptly robbed me of those closest to me. If I&#x27;d known this back then, I wouldn&#x27;t need to lament so deeply now<em>. If only I&#x27;d been more serious about getting stronger—strong enough that I wouldn&#x27;t be defeated by anyone.</em></p>
 <p>After what happened, I couldn&#x27;t but be consumed by regrets, wishing I&#x27;d walked a slightly different path.</p>
 <p>There was one thing I could say, though.</p>
 <p>Eris never failed to impress me.</p>
@@ -1155,7 +1155,7 @@ nav_title = "Chapter 10"
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-06/insert-04.webp" alt="Illustration" loading="lazy" />
 </div>
-<p>Since I was so captivated by this girl&#x27;s appearance—well, not that captivated—I didn&#x27;t notice Ruijerd sitting in the driver&#x27;s seat, his face white as a sheet. Eris was the same way. With each step the man took, bringing him closer, her face hardened and her grip on the hilt of her sword grew so tight that her hands turned white.</p>
+<p>Since I was so captivated by this girl&#x27;s appearance—well, not <em>that</em> captivated—I didn&#x27;t notice Ruijerd sitting in the driver&#x27;s seat, his face white as a sheet. Eris was the same way. With each step the man took, bringing him closer, her face hardened and her grip on the hilt of her sword grew so tight that her hands turned white.</p>
 <p>When the man noticed us, he gave a curious tilt of the head.</p>
 <p>&quot;Hm…? You…could you be a Superd?&quot;</p>
 <p>Doubt crept in when I saw his eyes, with their small irises, narrow. Ruijerd had shaved off all his hair and the jewel in his forehead was hidden. How did the man know? Did Ruijerd exude some kind of smell that gave him away? As I considered the possibility, I turned to look at Ruijerd.</p>
@@ -1165,11 +1165,11 @@ nav_title = "Chapter 10"
 <p>I still had no idea what was going on, but I nodded wordlessly. Eris&#x27; face flushed bright red and she looked like she might leap forward at any moment. Her arms and legs were trembling. Had the two of them met this man at some point, when I wasn&#x27;t aware of it?</p>
 <p>&quot;Hm? That voice… You must be Ruijerd Superdia? I didn&#x27;t recognize you at first without your hair. What are you doing here?&quot;</p>
 <p>The man casually approached us. Ruijerd readied the spear in his hand. On a whim, I decided to use my demon eye.</p>
-<p>&quot;The man&#x27;s body splinters into multiple images.&quot;</p>
+<p><em>&quot;The man&#x27;s body splinters into multiple images.&quot;</em></p>
 <p>There were so many of them I couldn&#x27;t see the exact outline of his body. What the heck was going on?</p>
 <p>&quot;Hm? The one with the red hair… Eris Boreas Greyrat, huh? And the other…who are you? Not a face I know… Oh, well. I see what&#x27;s going on, Ruijerd Superdia. You love children, so these two must be ones who were teleported to the Demon Continent during the incident. You brought them all the way here.&quot; He had an all-knowing look on his face as he nodded.</p>
 <p>Eris was shocked and shouted back, &quot;H-how do you know my name?!&quot;</p>
-<p>I felt even more confused by her words. So this was the first time they&#x27;d met? I mean, this was Eris we were talking about, so it wouldn&#x27;t have been surprising if she&#x27;d simply forgotten. But this man wasn&#x27;t exactly forgettable, with his silver hair and the way the whites of his eyes showed around his irises. Then there was the matter of the abnormal reaction that he evoked in both Eris and Ruijerd. If she&#x27;d met him before, there was no way she would have forgotten.</p>
+<p>I felt even more confused by her words. So this <em>was</em> the first time they&#x27;d met? I mean, this <em>was</em> Eris we were talking about, so it wouldn&#x27;t have been surprising if she&#x27;d simply forgotten. But this man wasn&#x27;t exactly forgettable, with his silver hair and the way the whites of his eyes showed around his irises. Then there was the matter of the abnormal reaction that he evoked in both Eris and Ruijerd. If she&#x27;d met him before, there was no way she would have forgotten.</p>
 <p>&quot;Who the hell are you?! And why do you know my name?!&quot; Ruijerd thrust his spear out toward the man. Apparently, he didn&#x27;t know this guy, either. What the heck was going on…?</p>
 <p>Ruijerd was famous. He wasn&#x27;t well-known on the Central Continent, but if you went to the Demon Continent, there were many who knew his name and his face. I wasn&#x27;t so sure about Eris, but if you&#x27;d heard her described as a young red-haired swordswoman, then you could make a rough guess as to who she was.</p>
 <p>There was more to this strangeness. There was the man&#x27;s attitude…or rather, the difference between that and their reactions. He came across as friendly. His voice was flat, but—and I didn&#x27;t know where it stemmed from—there was a quality to it that made him sound happy, like he&#x27;d been reunited with old friends.</p>
@@ -1182,13 +1182,13 @@ nav_title = "Chapter 10"
 <p>&quot;I&#x27;ll stay out of your way.&quot; The man walked slowly over to the side. The black-haired woman followed him.</p>
 <p>Ruijerd kept his eyes trained on the man. And of course, so did Eris.</p>
 <p>&quot;You&#x27;ll know who I am…eventually,&quot; the man said, his words measured and meaningful.</p>
-<p>Intuitively I felt that this man knew something. I felt a vibe from this man that was the same as the Man-God&#x27;s. I had to get him to tell me what it was.</p>
+<p>Intuitively I felt that this man knew <em>something</em>. I felt a vibe from this man that was the same as the Man-God&#x27;s. I had to get him to tell me what it was.</p>
 <p>&quot;Please, wait!&quot; Before I realized it, I&#x27;d called the man to a halt.</p>
 <p>He looked back, face etched with surprise. Ruijerd and Eris also looked at me with shock on their faces.</p>
 <p>&quot;What is it? What do you want?&quot;</p>
 <p>&quot;Ah, greetings. My name is Rudeus Greyrat.&quot;</p>
 <p>&quot;Never heard of you.&quot;</p>
-<p>Well, it was our first time meeting, after all.</p>
+<p>Well, it <em>was</em> our first time meeting, after all.</p>
 <p>&quot;Wait, Greyrat, is it? What are your parents&#x27; names?&quot;</p>
 <p>&quot;Before we get to that, uh, what&#x27;s your name?&quot; I asked.</p>
 <p>Orsted? Not a name I was familiar with. The only character with a similar name that I knew of was the one who died and kept spouting apologies from the other side. I glanced at Ruijerd and realized he didn&#x27;t seem to recognize the name, either. &quot;Are the two of you acquainted?&quot;</p>
@@ -1213,7 +1213,7 @@ nav_title = "Chapter 10"
 <p>Part of the problem was that I&#x27;d let my guard down, thinking that our conversation was already over. Another part was that I&#x27;d purposefully avoided saying anything about the Man-God to anyone, and now suddenly someone had spoken the god&#x27;s name, particularly a person who so thoroughly confused me. So, naturally, thinking that this was knowledge we both shared that would continue the conversation, I reacted to it without thinking.</p>
 <p>I replied ever so casually, &quot;I do. He&#x27;s appeared in my dream—&quot;</p>
 <p>Suddenly, my vision changed.</p>
-<p>&quot;Orsted&#x27;s hand is going to spear right through my chest.&quot;</p>
+<p><em>&quot;Orsted&#x27;s hand is going to spear right through my chest.&quot;</em></p>
 <p>It was so fast, as if he were teleporting. I couldn&#x27;t avoid it. A second was just far too short.</p>
 <p>&quot;Rudeus!&quot;</p>
 <p>The vision suddenly disappeared and Ruijerd wedged himself in front of me. He blocked Orsted&#x27;s attack and I was sent reeling</p>
@@ -1246,12 +1246,12 @@ nav_title = "Chapter 10"
 <p>Six of my ribs were fractured simultaneously. There was an impact, but it was different from the kind that sent you flying. In the same instant, I felt the pressure of another attack hit me from behind. The damage accumulated inside my body. My lungs were crushed.</p>
 <p>&quot;Uughhh!&quot; In a split-second, blood gushed up through my throat and I was vomiting red.</p>
 <p>&quot;It&#x27;s best to collapse a magician&#x27;s lungs,&quot; he said nonchalantly as I sank to my knees.</p>
-<p>I experienced an aha! moment of acceptance somewhere within me as I watched my lifeblood pool on the ground below. Crushing a magician&#x27;s lungs was the best course of action because then they couldn&#x27;t chant a spell. This meant I&#x27;d lost my ability to use healing magic. And of course, with my lungs destroyed, I couldn&#x27;t stay alive.</p>
+<p>I experienced an <em>aha!</em> moment of acceptance somewhere within me as I watched my lifeblood pool on the ground below. Crushing a magician&#x27;s lungs was the best course of action because then they couldn&#x27;t chant a spell. This meant I&#x27;d lost my ability to use healing magic. And of course, with my lungs destroyed, I couldn&#x27;t stay alive.</p>
 <p>&quot;When you die, be sure to deliver a message to the Man-God for me. Tell him that the Dragon God Orsted will be the one to kill him.&quot; The Dragon God. Number two on the list of the Seven Great Powers.</p>
 <p>Orsted gave me a glance as I curled up on the ground, hands at my chest, and turned on his heel to leave. I realized he&#x27;d let his guard down. Since I&#x27;d already received a fatal wound, I hadn&#x27;t just been defeated—I was at death&#x27;s door. I didn&#x27;t know why, even in that state, I was still thinking about trying to fight back. Perhaps it was because, on the edge of my vision, I could see Eris trying to stand up. More likely, it was because I thought that now that this man was sure I was going to die, he was going to finish off the other two as well.</p>
 <p>Regardless, I launched a stone cannon at him. Why didn&#x27;t I use more powerful magic? After all, I had Advanced-tier magic at my disposal if I wanted to use it. Even later, I never figured out the answer. In that moment, I was most likely just using the magic I was most familiar with.</p>
 <p>I launched the hardest rock I could, at the fastest speed with the quickest spin. That stone cannon was so powerful, even I was surprised. The rock burned red-hot as it flew the short distance from me to him.</p>
-<p>&quot;Orsted is going to look back and smash my stone cannon with his fist.&quot;</p>
+<p><em>&quot;Orsted is going to look back and smash my stone cannon with his fist.&quot;</em></p>
 <p>And so he did. With the sound of clinking metal, it crumbled and fell to the ground in pieces.</p>
 <p>Orsted look at his fist. &quot;That was a stone cannon just now, wasn&#x27;t it? That had some incredible power to it. For you to be able to injure me with such magic is impressive.&quot; The skin of his fist was peeled slightly. I&#x27;d barely grazed him.</p>
 <p>It was no good. I couldn&#x27;t damage him with my stone cannon.</p>
@@ -1266,19 +1266,19 @@ nav_title = "Chapter 10"
 <p>I ignored the window and focused on launching the fiercest fire attack against him that I could manage. What I pictured in my mind was an enormous flame. A mushroom cloud. A nuclear explosion. I channeled my magic as simply and straightforwardly as possible, as if powering up for a punch. I didn&#x27;t even think about the fact that Eris and Ruijerd might be caught up in it. I&#x27;d already lost the ability to think.</p>
 <p>&quot;Open, Front Wyrmgate!&quot; As Orsted spat out the words, the window opened up.</p>
 <p>In the same instant, the mana coalescing in my left hand was swallowed. The window frame cracked and splintered. An explosion was simultaneously triggered close to Orsted. It was far less powerful than I&#x27;d expected, and he easily avoided it.</p>
-<p>&quot;What incredible mana capacity. A Front Wyrmgate at this size couldn&#x27;t contain it. It&#x27;s almost as if you&#x27;re on the same level as Laplace… Well, you are the Man-God&#x27;s apostle, after all. Why have you still not healed your lungs? Are you trying to lull me into letting my guard down?&quot;</p>
+<p>&quot;What incredible mana capacity. A Front Wyrmgate at this size couldn&#x27;t contain it. It&#x27;s almost as if you&#x27;re on the same level as Laplace… Well, you <em>are</em> the Man-God&#x27;s apostle, after all. Why have you still not healed your lungs? Are you trying to lull me into letting my guard down?&quot;</p>
 <p>That was right before my consciousness cut out completely. I didn&#x27;t have the ability to discern what was happening anymore.</p>
 <p>The man was still observing me. Our eyes met. &quot;Is that it?&quot; In a split second, he closed in on me. There was nothing left I could do. &quot;You can&#x27;t do anything besides magic?&quot;</p>
 <p>My magic was sealed, and my legs were frozen, so I couldn&#x27;t move. I was helpless in the face of his overwhelming murderous intent. In the edge of my vision, I could see the window pane dissipating, but there was nothing I could do.</p>
 <p>&quot;Guhugh!&quot; I tried to use the roar I&#x27;d learned in the Doldia Village, the one that didn&#x27;t resemble theirs in the least. Orsted readied himself, but of course, all I was able to do was spit out blood to no effect.</p>
 <p>&quot;…Just mana? What are you trying to do?&quot;</p>
-<p>There was already nothing I could do. My magic was sealed, and nothing indicated I could beat him with physical attacks. The only thing I could do now was prostrate myself. But Orsted wouldn&#x27;t even allow me to do that. &quot;Well, no matter. Die.&quot;</p>
+<p>There was already nothing I <em>could</em> do. My magic was sealed, and nothing indicated I could beat him with physical attacks. The only thing I could do now was prostrate myself. But Orsted wouldn&#x27;t even allow me to do that. &quot;Well, no matter. Die.&quot;</p>
 <p>&quot;Aagh…!&quot;</p>
 <p>His hand speared right through my body at super-speed. Straight through my heart. An absolutely fatal wound. One my healing magic would be never be effective on.</p>
 <p>&quot;How disappointing, Man-God. Now you&#x27;re using pawns that can&#x27;t even coat themselves in a Battle Aura? Just what are you planning?&quot; His hand was coated thickly in my blood when he extracted it. I tried to stand, but my body wouldn&#x27;t listen. It betrayed me by crumbling to the ground. At the edge of my vision I could see Eris lifting her head, could see the stunned look on her face as she gazed over at me. Our eyes met.</p>
 <p>&quot;A-aah… R-Rudeu… Rudeus…!&quot;</p>
-<p>Ah, this sucks. I don&#x27;t want to die. I still hadn&#x27;t fulfilled my promise to Eris. Just two more years, I just wanted to hold on two more years. If I could do that, then I could die without reservations.</p>
-<p>Let me just gather my mana. It&#x27;s just one wound. I&#x27;ll heal it, I told myself. I couldn&#x27;t chant the words because there was a hole in my lungs. Still, I could do it. I just needed to slowly focus the mana. It would heal. It would heal. I couldn&#x27;t die yet.</p>
+<p><em>Ah, this sucks. I don&#x27;t want to die.</em> I still hadn&#x27;t fulfilled my promise to Eris. Just two more years, I just wanted to hold on two more years. If I could do that, then I could die without reservations.</p>
+<p><em>Let me just gather my mana. It&#x27;s just one wound. I&#x27;ll heal it</em>, I told myself. I couldn&#x27;t chant the words because there was a hole in my lungs. Still, I could do it. I just needed to slowly focus the mana. It would heal. It <em>would</em> heal. I couldn&#x27;t die yet.</p>
 <p>&quot;Waaaaaaaaaaaaah!&quot; Eris let out a wail.</p>
 <p>&quot;Was he important to you? I&#x27;m sorry, Eris Boreas Greyrat. But one day you will understand. Let&#x27;s go, Nanahoshi.&quot;</p>
 <p>&quot;Y-yes…&quot;</p>
@@ -1291,81 +1291,81 @@ nav_title = "Chapter 10"
 <p>Just before my consciousness cut off completely, I felt like I heard someone say those words.</p>
 <p><strong>B</strong>efore I realized what was happening, I was in a completely white room. A completely white space where nothing existed.</p>
 <p>Normally, this was the point where I started to feel disgusted. I would return to being that hideous thing I&#x27;d gotten used to for thirtyfour years, and memories from my previous life would flash before me. Regret, conflict, vulgarity, and thoughts of entitlement. The memories I&#x27;d formed in the last twelve years would grow distant and dejection would well up. I would be consumed with the sense that I&#x27;d been caught in a long dream, and a sense of unease would fill my chest, as if chipping away at me.</p>
-<p>This time, however, was different. The usual feelings of selfcontempt didn&#x27;t rise up. Instead, I experienced a sense of loss, as if I had a gaping hole in my chest. I looked down to find there was indeed a large opening there. Ah, I knew it. I really did die…</p>
+<p>This time, however, was different. The usual feelings of selfcontempt didn&#x27;t rise up. Instead, I experienced a sense of loss, as if I had a gaping hole in my chest. I looked down to find there was indeed a large opening there. <em>Ah, I knew it. I really did die…</em></p>
 <p>&quot;Welp.&quot;</p>
 <p>The Man-God was standing there all of a sudden; I hadn&#x27;t noticed him before. He had his usual irritating smile on his face, but for some reason, it didn&#x27;t annoy me today. I wondered why. Maybe because of the hole that had opened up in my chest. Or maybe I&#x27;d decided earlier to stop being so hostile toward him.</p>
 <p>&quot;Well, what can I say, it&#x27;s unfortunate.&quot;</p>
-<p>Yes, it really is unfortunate.</p>
+<p><em>Yes, it really is unfortunate.</em></p>
 <p>&quot;You&#x27;re different than usual. Are you okay? Not feeling good?&quot;</p>
-<p>As you can see, I&#x27;ve got a hole in my chest. Hey, do you mind if I ask you one thing?</p>
-<p>That guy, the one named Orsted. He attacked me the second he heard your name. Why&#x27;s that?</p>
+<p><em>As you can see, I&#x27;ve got a hole in my chest. Hey, do you mind if I ask you one thing?</em></p>
+<p><em>That guy, the one named Orsted. He attacked me the second he heard your name. Why&#x27;s that?</em></p>
 <p>&quot;Because he&#x27;s a terrible Dragon God. Despite how virtuous I am, he holds great enmity toward me.&quot;</p>
-<p>Virtuous, huh…? Well, you are an easy one to hold enmity toward. But if that were the case, shouldn&#x27;t you have told me this beforehand? You can see all kinds of things, can&#x27;t you? You knew that I was going to run into Orsted then, right? If you had at least said something to me about not mentioning you if Orsted asked, I would&#x27;ve—</p>
+<p><em>Virtuous, huh…? Well, you are an easy one to hold enmity toward. But if that were the case, shouldn&#x27;t you have told me this beforehand? You can see all kinds of things, can&#x27;t you? You knew that I was going to run into Orsted then, right? If you had at least said something to me about not mentioning you if Orsted asked, I would&#x27;ve—</em></p>
 <p>&quot;No, sorry. The truth is I can&#x27;t see anything that has to do with the Dragon God. Not the future or the present. I had no idea you were going to run into him.&quot;</p>
-<p>Oh, so that&#x27;s it… But why?</p>
+<p><em>Oh, so that&#x27;s it… But why?</em></p>
 <p>&quot;He&#x27;s got a curse on him that makes me unable to see him.&quot;</p>
-<p>Curse? So those actually do exist?</p>
+<p><em>Curse? So those actually do exist?</em></p>
 <p>&quot;Yes. You didn&#x27;t have them in your world? Someone who was born possessing an unusual power thanks to an abnormality triggered by mana?&quot;</p>
-<p>We don&#x27;t even have the concept of magic in the world I&#x27;m from. There were some who said they had the ability to sense the supernatural, but to be honest, they lacked any credibility.</p>
+<p><em>We don&#x27;t even have the concept of magic in the world I&#x27;m from. There were some who said they had the ability to sense the supernatural, but to be honest, they lacked any credibility.</em></p>
 <p>&quot;Aha, I see then. Well we have them here—Cursed Children we call them—odd ones. Orsted is one such example. Well, he&#x27;s got about three other curses as well.&quot;</p>
-<p>So four, huh? That is pretty incredible. Oh yeah, I&#x27;ve actually heard about that. Blessed Children and Cursed Children, was it?</p>
+<p><em>So four, huh? That is pretty incredible. Oh yeah, I&#x27;ve actually heard about that. Blessed Children and Cursed Children, was it?</em></p>
 <p>&quot;Yeah, that&#x27;s it. They&#x27;re the same thing, actually. Humans just like binaries.&quot;</p>
-<p>So that&#x27;s it. So, what kind of curses does he have?</p>
+<p><em>So that&#x27;s it. So, what kind of curses does he have?</em></p>
 <p>&quot;Well, you saw how Ruijerd and Eris were terrified of him, right? That&#x27;s one of his curses. Every living thing in this world either hates or fears him.&quot;</p>
-<p>Everyone hates him? Well that&#x27;s…kind of unpleasant. My spirit would break instantly if that were me. I understand how it feels to be hated.</p>
+<p><em>Everyone hates him? Well that&#x27;s…kind of unpleasant. My spirit would break instantly if that were me. I understand how it feels to be hated.</em></p>
 <p>&quot;Hold on, you don&#x27;t need to sympathize with him. He was born that way. He&#x27;s an evil being who&#x27;s trying to destroy the world.&quot;</p>
-<p>Come on, don&#x27;t say that. Anyone who was constantly surrounded by people who hated them would end up wanting to destroy the world. I had the same kind of thoughts in my previous life. I often grumbled about it on the Internet, saying how I wished everyone would just die.</p>
+<p><em>Come on, don&#x27;t say that. Anyone who was constantly surrounded by people who hated them would end up wanting to destroy the world. I had the same kind of thoughts in my previous life. I often grumbled about it on the Internet, saying how I wished everyone would just die.</em></p>
 <p>&quot;Hmm, you think so? I hate him, and I don&#x27;t really care how he feels.&quot;</p>
-<p>Hm? Does that mean you&#x27;re affected by the curse, too? The fact that you can&#x27;t see him is because of one of the curses placed on him? So he&#x27;s got a curse that makes him be hated, a curse where you can&#x27;t see him… What else?</p>
+<p><em>Hm? Does that mean you&#x27;re affected by the curse, too? The fact that you can&#x27;t see him is because of one of the curses placed on him? So he&#x27;s got a curse that makes him be hated, a curse where you can&#x27;t see him… What else?</em></p>
 <p>&quot;Who knows. I can&#x27;t see him, so I don&#x27;t know.&quot;</p>
-<p>Okay… But if he&#x27;s that dangerous, then it&#x27;s all the more reason I wish you&#x27;d told me that someone like that existed.</p>
+<p><em>Okay… But if he&#x27;s that dangerous, then it&#x27;s all the more reason I wish you&#x27;d told me that someone like that existed.</em></p>
 <p>&quot;I never dreamed the two of you would ever meet. Walking about a world as vast as this one, the chances of running into him would be…&quot;</p>
-<p>Like finding a needle in a haystack, right? Come to think of it, I actually didn&#x27;t feel any hatred or fear toward him. Why is that?</p>
+<p><em>Like finding a needle in a haystack, right? Come to think of it, I actually didn&#x27;t feel any hatred or fear toward him. Why is that?</em></p>
 <p>&quot;Isn&#x27;t that because you came from another world?&quot;</p>
-<p>So those from another world aren&#x27;t affected by the curse?</p>
+<p><em>So those from another world aren&#x27;t affected by the curse?</em></p>
 <p>&quot;That&#x27;s what it looks like. The same thing happened when you met Ruijerd, right?&quot;</p>
-<p>…Huh? Hold up just a sec, what are you talking about? Is Ruijerd one of those Cursed Children, too?</p>
+<p><em>…Huh? Hold up just a sec, what are you talking about? Is Ruijerd one of those Cursed Children, too?</em></p>
 <p>&quot;Nope, that&#x27;s just the curse of Laplace&#x27;s lance. Laplace also had a curse of fear on him, but he transferred it to his spear and passed it to the Superd tribe instead. He made their green hair the key to its effectiveness.&quot;</p>
-<p>Curse? He passed it off…? Hey, what&#x27;s going on? You knew about this from the beginning? You knew about it and that&#x27;s why you made him help him? You made me waste my time and effort?</p>
+<p><em>Curse? He passed it off…? Hey, what&#x27;s going on? You knew about this from the beginning? You knew about it and that&#x27;s why you made him help him? You made me waste my time and effort?</em></p>
 <p>&quot;No, don&#x27;t get the wrong idea. The curse on the entire Superd tribe will gradually fade away with time. A bit of it remains with Ruijerd, but since he cut his hair, that immediately reduced its effectiveness.&quot;</p>
-<p>Now that you mention it, Sylphie was bulled about her hair, but I didn&#x27;t get the impression she was feared. That aside, why the hair? Because it&#x27;s the source of their mana?</p>
+<p><em>Now that you mention it, Sylphie was bulled about her hair, but I didn&#x27;t get the impression she was feared. That aside, why the hair? Because it&#x27;s the source of their mana?</em></p>
 <p>&quot;Because Laplace&#x27;s hair was also green.&quot;</p>
-<p>Ahh, now I get it. There was something similar to that in my world, too. Using points of commonality and wordplay to put curses on people or remove them.</p>
+<p><em>Ahh, now I get it. There was something similar to that in my world, too. Using points of commonality and wordplay to put curses on people or remove them.</em></p>
 <p>&quot;At any rate, thanks to his involvement with you, his curse is fading. There&#x27;s still a deep-rooted sense of discrimination that remains, but with time, and Ruijerd&#x27;s own efforts, maybe he can do something to change that.&quot;</p>
-<p>So it wasn&#x27;t a total waste after all? I&#x27;m glad to hear that, then. I guess you do put some thought into your actions.</p>
+<p><em>So it wasn&#x27;t a total waste after all? I&#x27;m glad to hear that, then. I guess you do put some thought into your actions.</em></p>
 <p>&quot;Well, it&#x27;ll be difficult for you to completely erase all the prejudice against the Superd.&quot;</p>
-<p>It is a complicated matter, after all. Still, yeah… At any rate, that&#x27;s great.</p>
+<p><em>It is a complicated matter, after all. Still, yeah… At any rate, that&#x27;s great.</em></p>
 <p>&quot;Yes, great indeed. Looks like it was worth introducing the two of you to each other.&quot;</p>
-<p>That&#x27;s the reason you introduced us? If that&#x27;s the case, shouldn&#x27;t you have just told me that?</p>
+<p><em>That&#x27;s the reason you introduced us? If that&#x27;s the case, shouldn&#x27;t you have just told me that?</em></p>
 <p>&quot;You had no intention of listening to what I had to say at first, did you? I didn&#x27;t get the chance.&quot;</p>
-<p>…Well, guess that&#x27;s true. I was pretty hostile when I turned you away. Can&#x27;t deny that. That aside, even Ruijerd was easily bested by Orsted. I never imagined he&#x27;d be that easily defeated.</p>
+<p><em>…Well, guess that&#x27;s true. I was pretty hostile when I turned you away. Can&#x27;t deny that. That aside, even Ruijerd was easily bested by Orsted. I never imagined he&#x27;d be that easily defeated.</em></p>
 <p>&quot;Given his opponent, of course Ruijerd would lose.&quot;</p>
-<p>Yeah, he is one of the Seven Great Powers, after all. How could you defeat him?</p>
+<p><em>Yeah, he is one of the Seven Great Powers, after all. How could you defeat him?</em></p>
 <p>&quot;You can&#x27;t.&quot;</p>
-<p>You can&#x27;t? I guess there really is that great of a difference in ability?</p>
+<p><em>You can&#x27;t? I guess there really is that great of a difference in ability?</em></p>
 <p>&quot;He&#x27;s the strongest person in this world, even as restricted as he is by all of those curses.&quot;</p>
-<p>The strongest? But the Dragon God is only second on the Seven Great Powers list! What about first?</p>
+<p><em>The strongest? But the Dragon God is only second on the Seven Great Powers list! What about first?</em></p>
 <p>&quot;The Technique God is strong, too. But if Orsted actually went all-out, he&#x27;d be the victor. Orsted can use all of the skills and techniques that currently exist in this world, and on top of that, he can also use his own unique magic that&#x27;s specific to the Dragon God.&quot;</p>
-<p>All of the skills and techniques, huh? Sounds like a certain postapocalyptic savior I know.</p>
+<p><em>All of the skills and techniques, huh? Sounds like a certain postapocalyptic savior I know.</em></p>
 <p>&quot;Oh? You have someone like that in your world too?&quot;</p>
-<p>They can copy all of the techniques of every opponent they&#x27;ve ever fought. Although they&#x27;re plenty strong even without that ability. Enough to destroy their opponent with the tip of one finger.</p>
+<p><em>They can copy all of the techniques of every opponent they&#x27;ve ever fought. Although they&#x27;re plenty strong even without that ability. Enough to destroy their opponent with the tip of one finger.</em></p>
 <p>&quot;With just the tip of one finger? That is incredible. But so is Orsted. If he got serious, he could destroy this entire world.&quot;</p>
-<p>Just calling him strong seems a bit vague. How strong are we talking? Abnormally? Disastrously?</p>
+<p><em>Just calling him strong seems a bit vague. How strong are we talking? Abnormally? Disastrously?</em></p>
 <p>&quot;Either way, he can&#x27;t unleash his real power thanks to a curse.&quot;</p>
-<p>So that&#x27;s the problem. Those curses sure are a pain. By the way, can I ask something?</p>
+<p><em>So that&#x27;s the problem. Those curses sure are a pain. By the way, can I ask something?</em></p>
 <p>&quot;What is it?&quot;</p>
-<p>Just a second ago, you said you didn&#x27;t know about his curses, right? You said you didn&#x27;t know about them other than the one where he&#x27;s hated and the one where you can&#x27;t see anything to do with him, so why do you know that he can&#x27;t unleash his real power because of a curse?</p>
+<p><em>Just a second ago, you said you didn&#x27;t know about his curses, right? You said you didn&#x27;t know about them other than the one where he&#x27;s hated and the one where you can&#x27;t see anything to do with him, so why do you know that he can&#x27;t unleash his real power because of a curse?</em></p>
 <p>&quot;Uhh…&quot;</p>
-<p>It&#x27;s fine. This is the end, so let&#x27;s just get along. I won&#x27;t make a fuss, no matter what it is you&#x27;re hiding from me. I understand you cared about Ruijerd after all. And it was also thanks to you that Lilia and Aisha were saved. I&#x27;m not going to quibble over these little lies you&#x27;ve told. No matter what your plans were for me in the future, they ended up being short-lived, anyway.</p>
-<p>To be honest, there&#x27;s a lot of other things I&#x27;d like to ask you, though. Such as why you introduced me to the Demon World&#x27;s Greatest Emperor and stuff. Or where some of the other missing people are located. Or what your real objective even is in the first place. All things that are a bit too late to be asking now.</p>
-<p>Well, what can I say? We&#x27;re both failures, so let&#x27;s be friends. Let&#x27;s drop the formalities and have a blast together. We can dance naked, show our hidden talents, and of course, I don&#x27;t mind if we draw faces on our bellies to talk to each other, either.</p>
+<p><em>It&#x27;s fine. This is the end, so let&#x27;s just get along. I won&#x27;t make a fuss, no matter what it is you&#x27;re hiding from me. I understand you cared about Ruijerd after all. And it was also thanks to you that Lilia and Aisha were saved. I&#x27;m not going to quibble over these little lies you&#x27;ve told. No matter what your plans were for me in the future, they ended up being short-lived, anyway.</em></p>
+<p><em>To be honest, there&#x27;s a lot of other things I&#x27;d like to ask you, though. Such as why you introduced me to the Demon World&#x27;s Greatest Emperor and stuff. Or where some of the other missing people are located. Or what your real objective even is in the first place. All things that are a bit too late to be asking now.</em></p>
+<p><em>Well, what can I say? We&#x27;re both failures, so let&#x27;s be friends. Let&#x27;s drop the formalities and have a blast together. We can dance naked, show our hidden talents, and of course, I don&#x27;t mind if we draw faces on our bellies to talk to each other, either.</em></p>
 <p>&quot;The end?&quot;</p>
-<p>Yes, this is the end. I mean, isn&#x27;t it? I died, after all.</p>
+<p><em>Yes, this is the end. I mean, isn&#x27;t it? I died, after all.</em></p>
 <p>&quot;Oh, I see. You&#x27;ve lost all hope and given up…the complete opposite of how you were when we first met, no?&quot;</p>
-<p>Back then, I died without knowing what the heck was going on. This time, well, there&#x27;s nothing I can do about it. Besides, I more or less knew that when I died, I&#x27;d wind up here. I have no idea where people go when they die, but I thought you&#x27;d come talk to me when it happened.</p>
-<p>…Ah, looks like my consciousness here is fading. Looks like it&#x27;s about time for us to part ways. I&#x27;m glad we were able to have a calm conversation here at the end, at least.</p>
+<p><em>Back then, I died without knowing what the heck was going on. This time, well, there&#x27;s nothing I can do about it. Besides, I more or less knew that when I died, I&#x27;d wind up here. I have no idea where people go when they die, but I thought you&#x27;d come talk to me when it happened.</em></p>
+<p><em>…Ah, looks like my consciousness here is fading. Looks like it&#x27;s about time for us to part ways. I&#x27;m glad we were able to have a calm conversation here at the end, at least.</em></p>
 <p>&quot;So that&#x27;s what this is about… Well, then I have good news for you.&quot;</p>
-<p>Hm?</p>
+<p><em>Hm?</em></p>
 <p>&quot;You&#x27;re not dead.&quot;</p>
 <p>Before I knew what was happening, the hole in my chest had disappeared.</p>
 <p>***</p>
@@ -1375,7 +1375,7 @@ nav_title = "Chapter 10"
 <p>&quot;Gghh…gack…!&quot; I stopped coughing up blood, only to start choking violently.</p>
 <p>Eris stroked my back. &quot;Are you okay?&quot;</p>
 <p>I saw the look of confusion on her face and tilted my head. &quot;Why am I…alive…?&quot;</p>
-<p>The wound in my chest had closed up completely. Well, the word &quot;completely&quot; might have been a little misleading. There was a gaping hole in the center of my robe, and beneath it a scar, as if someone had welded me shut. Holy crap, this is weird, I thought. My right hand didn&#x27;t have an alien parasite attached to it, though.</p>
+<p>The wound in my chest had closed up completely. Well, the word &quot;completely&quot; might have been a little misleading. There was a gaping hole in the center of my robe, and beneath it a scar, as if someone had welded me shut. <em>Holy crap, this is weird</em>, I thought. My right hand didn&#x27;t have an alien parasite attached to it, though.</p>
 <p>&quot;Just a moment ago when that girl said something, uh, Orsted or whatever his name was, used magic to heal you…&quot; My question had been mostly rhetorical, but Eris incoherently fumbled out a response for me.</p>
 <p>&quot;Girl?&quot;</p>
 <p>&quot;He called her Nanahoshi.&quot;</p>
@@ -1384,7 +1384,7 @@ nav_title = "Chapter 10"
 <p>What was he thinking? I was sure he&#x27;d pierced my heart. Severe damage to an internal organ couldn&#x27;t be fixed with Intermediate healing magic. That meant he must have used Advanced-tier magic, or something even more powerful. Orsted must have possessed healing magic of such power that it could instantly save someone who had sustained a fatal injury. It seemed the Man-God hadn&#x27;t quite been lying when he said that Orsted could use any skill or technique in the world.</p>
 <p>&quot;I was utterly defeated.&quot;</p>
 <p>Even if he was on a completely different level from me, it was still an accurate statement. He ranked second among the world&#x27;s</p>
-<p>Seven Great Powers. According to the Man-God, he was actually the strongest. Clearly, the title wasn&#x27;t just for show.</p>
+<p>Seven Great Powers. According to the Man-God, he was actually <em>the</em> strongest. Clearly, the title wasn&#x27;t just for show.</p>
 <p>&quot;What about Ruijerd?&quot;</p>
 <p>&quot;He hasn&#x27;t woken up yet.&quot;</p>
 <p>Upon further inspection, I realized Ruijerd was sleeping on the edge of the road. The carriage had also been pulled aside, and a fire was crackling. Had Eris done all of that by herself?</p>
@@ -1397,6 +1397,6 @@ nav_title = "Chapter 10"
 <p>&quot;Hmm, I feel kind of like…everything just seems to be overflowing.&quot; More than usual, anyway. No doubt because of that man, Orsted. Or because I&#x27;d had that dream with the Man-God. I&#x27;m repeating myself here, but there was no doubt that I&#x27;d felt unusually energetic since I woke up.</p>
 <p>&quot;Then I&#x27;m fine to hit you, right?&quot; There was a tremor in Eris&#x27; voice as it floated toward me. An angry one, by the sound of it. Oh well, not like I could blame her. She&#x27;d been so worried for me, and I&#x27;d taken the opportunity to sexually harass her. I&#x27;d be pissed off in her position, too.</p>
 <p>&quot;Sure, go ahead.&quot;</p>
-<p>She punched me. Thud.</p>
+<p>She punched me. <em>Thud</em>.</p>
 <p>Then she pulled me toward her chest and wrapped her arms tightly around my head. Her chest was soft against my cheek. I could hear the pounding of her heart deep within, and from above came the faint sound of her sobs. She was quietly crying. &quot;Thank God…&quot; she whispered.</p>
 <p>I languidly reached up and patted her back.</p>

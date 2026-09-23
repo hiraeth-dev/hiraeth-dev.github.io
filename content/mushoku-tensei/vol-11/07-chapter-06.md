@@ -27,7 +27,7 @@ nav_title = "Chapter 6"
 <p>&quot;Yeah, I&#x27;m never going to forget that one. Talk about a tearjerker.&quot;</p>
 <p>&quot;Absolutely… I do hope he manages to realize his goal eventually.&quot;</p>
 <p>&quot;…Same here.&quot;</p>
-<p>It was about time that I moved that particular project forward, wasn&#x27;t it?</p>
+<p>It <em>was</em> about time that I moved that particular project forward, wasn&#x27;t it?</p>
 <p>The general plan was to manufacture figurines of a Superd warrior and sell them bundled with a book. I hadn&#x27;t given up on it by any means, but Julie was still inexperienced and didn&#x27;t have much mana, so mass-producing figures wasn&#x27;t an option at present.</p>
 <p>Still, that didn&#x27;t mean I couldn&#x27;t get to work on a prototype, at least.</p>
 <p>The book was another matter. The main issue there had been finding the time to write. I&#x27;d spent many hours over the last few months learning Advanced Healing and Intermediate Detoxification magic. I was good at the brute memorization those subjects required, but they&#x27;d still kept me very busy.</p>
@@ -48,22 +48,22 @@ nav_title = "Chapter 6"
 <p>The main issue was that I didn&#x27;t know where to start the actual story, or how to tell it. I still remembered Ruijerd&#x27;s tales of his people&#x27;s actions in the Laplace War, and I knew the basic story of their persecution afterward. Still, it had been several years since I heard these stories, so I was a little fuzzy on some of the fine details. In hindsight, I really should have taken some notes at the time.</p>
 <p>&quot;W-would you mind letting me help out?&quot; asked Norn tentatively.</p>
 <p>It was a very unexpected offer. But apparently, Ruijerd had made a habit of sitting my sister on his lap every night, patting her on the head, and telling her stories from his past.</p>
-<p>Not fair. I never got to sit on Ruijerd&#x27;s lap! Okay, wait. Let&#x27;s try to be an adult about this.</p>
+<p><em>Not fair. I never got to sit on Ruijerd&#x27;s lap! Okay, wait. Let&#x27;s try to be an adult about this.</em></p>
 <p>&quot;That would be a huge help, Norn. Just make sure you don&#x27;t neglect your studies, okay?&quot;</p>
-<p>From that day on, Norn and I started working on the project together. When she had a little extra time in between her lessons and her study sessions, she would use it to write down Ruijerd&#x27;s stories. Her writing was a little childish at times, and always had some rough spots. But for some reason, reading it made me remember Ruijerd so vividly that I often caught myself tearing up. It had a punch to it.</p>
+<p>From that day on, Norn and I started working on the project together. When she had a little extra time in between her lessons and her study sessions, she would use it to write down Ruijerd&#x27;s stories. Her writing was a little childish at times, and always had some rough spots. But for some reason, reading it made me remember Ruijerd so vividly that I often caught myself tearing up. It had a <em>punch</em> to it.</p>
 <p>The more I read of her writing, the more I started to feel like she might have some talent in this area. Again, I wasn&#x27;t exactly an unbiased observer—but you do tend to improve faster when you&#x27;re doing something you enjoy. If she kept at it long enough, maybe she&#x27;d blossom into a brilliant author someday.</p>
 <p>For the moment, though, I focused on fixing her minor mistakes and clumsy sentences. I was basically the team editor now.</p>
 <p>I had a feeling the book was going to turn out a lot better this way than if I tried to write it myself.</p>
-<p>While my relationship with Norn was beginning to improve, there had been a small development with Aisha too. For once, it had nothing to do with Norn. The two of them still weren&#x27;t especially friendly with each other, though Aisha was being careful not to insult her sister ever since I scolded her for it. She was always at least superficially polite when her sister came to visit.</p>
+<p>While my relationship with Norn was beginning to improve, there had been a small development with Aisha too. For once, it had nothing to do with Norn. The two of them still weren&#x27;t especially friendly with each other, though Aisha <em>was</em> being careful not to insult her sister ever since I scolded her for it. She was always at least superficially polite when her sister came to visit.</p>
 <p>That actually concerned me a little bit. I didn&#x27;t want her to feel like she couldn&#x27;t express her real thoughts at all. I was happy that Norn was starting to warm up to me, but that didn&#x27;t mean I could neglect my relationship with Aisha either. And so I decided to give her permission to speak her mind.</p>
 <p>&quot;You know, Aisha…if there&#x27;s something you want to say, you don&#x27;t have to bottle it up inside.&quot;</p>
 <p>&quot;Well, I don&#x27;t know. I&#x27;ve been spending a lot of time with Norn lately, right? Maybe you&#x27;re feeling a little attention-starved or something? Maybe you&#x27;ve been working too hard and need a vacation? Maybe you want to spend the whole day in bed?&quot;</p>
 <p>Putting a finger to her chin, Aisha tilted her head to the side in puzzlement. Too cute. &quot;You&#x27;re giving me permission to be selfish, then?&quot;</p>
 <p>&quot;That&#x27;s right. You can be a little selfish around me. There&#x27;s no need to hold back.&quot;</p>
-<p>&quot;Hmm…well! One thing does come to mind.&quot;</p>
+<p>&quot;Hmm…well! One thing <em>does</em> come to mind.&quot;</p>
 <p>That mischievous smile on her face was setting off some alarm bells. What was she planning to demand? Hopefully not my body, even as a joke. I&#x27;d have to make up some excuse to refuse, and then she&#x27;d probably be sulky for a week.</p>
 <p>&quot;I&#x27;d like a salary, please!&quot;</p>
-<p>Well, that wasn&#x27;t what I&#x27;d been expecting.</p>
+<p>Well, <em>that</em> wasn&#x27;t what I&#x27;d been expecting.</p>
 <p>&quot;A salary…?&quot;</p>
 <p>Now that I thought about it, though, Aisha had been working diligently as our maid for some time now. If anything, it was strange that we weren&#x27;t paying her. But then again, we were family, right? She wasn&#x27;t an employee.</p>
 <p>Maybe we could think of it like an allowance, then. She was helping out around the house all day, so she wanted some extra pocket money. Fair enough.</p>
@@ -72,11 +72,11 @@ nav_title = "Chapter 6"
 <p>In the end, we settled on a number we could all agree on.</p>
 <p>&quot;Can I ask why you brought this up, though? Is there something you want to buy?&quot; I had to admit I was curious about what had prompted this request. Aisha could buy whatever she wanted, of course, but it couldn&#x27;t hurt to know what that was.</p>
 <p>&quot;Well, a girl has her needs.&quot;</p>
-<p>Wow, that really clears things up. I was sort of hoping to hear what those needs are, kid…</p>
+<p><em>Wow, that really clears things up. I was sort of hoping to hear what those needs are, kid…</em></p>
 <p>&quot;Are you that curious, brother dear? All right, then. Why don&#x27;t you come along on my next shopping trip?&quot;</p>
 <p>Ooh. That sounded like a date. A date with my little sister! What a lovely concept.</p>
 <p>I did let Sylphie know about our plans in advance. Unfortunately, she was going to be working that day. I felt slightly guilty about running around town with another girl while my wife was at the office, but it&#x27;s not cheating when it&#x27;s your little sister.</p>
-<p>What was Aisha planning to buy, though? Hopefully it wouldn&#x27;t be a muscular slave or something. I didn&#x27;t want some sweaty macho guy hanging around in my living room all the time, to be honest. It was bad enough having a giant six-armed monster randomly drop in for dinner… Not that he&#x27;d stopped by in months.</p>
+<p>What <em>was</em> Aisha planning to buy, though? Hopefully it wouldn&#x27;t be a muscular slave or something. I didn&#x27;t want some sweaty macho guy hanging around in my living room all the time, to be honest. It was bad enough having a giant six-armed monster randomly drop in for dinner… Not that he&#x27;d stopped by in months.</p>
 <p>On the day of our date, Aisha led me to the market and headed straight for a general goods store that sold all sorts of miscellaneous everyday products. The shelves were stuffed with knick-knacks, but there were no other customers to be seen. From the looks of things, they mainly sold secondhand goods.</p>
 <p>After browsing a little, Aisha bought three small flowerpots there.</p>
 <p>&quot;What are you going to do with those?&quot; I asked. &quot;Drop them on the heads of any Demon Kings who happen to be passing by?&quot;</p>
@@ -96,31 +96,31 @@ nav_title = "Chapter 6"
 <p>The two of us puttered around in the store for a little longer, chatting about Aisha&#x27;s plans. I picked out a pair of earrings for Sylphie before we left—shaped like teardrops, with little blue stones in the center. These would definitely look good on her.</p>
 <p>&quot;Is that a present for Sylphie?&quot;</p>
 <p>&quot;Yep. I&#x27;m the kind of man who doesn&#x27;t take his wife for granted.&quot;</p>
-<p>&quot;Sylphie is a lucky woman, all right. But when she&#x27;s busy, brother dear, maybe you could spare me a little love as well.&quot;</p>
+<p>&quot;Sylphie is a lucky woman, all right. But when she&#x27;s busy, brother dear, maybe you could spare <em>me</em> a little love as well.&quot;</p>
 <p>Oh, the upturned eyes again. As always, there was only one possible reply.</p>
 <p>&quot;Not happening. The old man would beat me senseless.&quot;</p>
 <p>&quot;Darn…&quot;</p>
 <p>We paid for our purchases and left the little store behind.</p>
 <p>Our next stop was a place that specialized in the sale of fabrics and furnishings. There were big rolls of handwoven cloth hanging all over the place. Princess Ariel had actually recommended this store to me a while ago, back when I was buying rugs for the house. They sold good-quality stuff at a wide range of prices and seemed to attract a broad clientele. I didn&#x27;t know how my sister had learned about it, though.</p>
 <p>Inside the store, Aisha quickly picked out some curtains. They were pink and frilly and were definitely the expensive side.</p>
-<p>When she took them up to the counter, though, she proceeded to haggle ruthlessly with the clerk. She dropped my name and Princess Ariel&#x27;s and used every single card she had to play. By the</p>
+<p>When she took them up to the counter, though, she proceeded to haggle ruthlessly with the clerk. She dropped my name <em>and</em> Princess Ariel&#x27;s and used every single card she had to play. By the</p>
 <p>end, she&#x27;d managed to talk them down to an only moderately pricey figure.</p>
 <p>&quot;Do you have enough to pay for those, Aisha? I can chip in a little if you want.&quot;</p>
 <p>&quot;That&#x27;s okay! I&#x27;ve got exactly enough.&quot;</p>
 <p>Handing over the remainder of her allowance, Aisha completed her purchase. She&#x27;d used every coin of the money I&#x27;d given her. The girl had a real way with money. It was a little frightening, to be honest.</p>
 <p>&quot;It&#x27;s a good idea to save a little bit of your pocket money for later, you know,&quot; I warned as we left the store. &quot;Unexpected expenses can pop out of nowhere.&quot;</p>
-<p>Hell, you might get teleported to the Demon Continent for no apparent reason.</p>
+<p><em>Hell, you might get teleported to the Demon Continent for no apparent reason.</em></p>
 <p>Ever since that incident, I&#x27;d made a habit of hiding cash inside my clothes at all times. I even had a few bills in the soles of my shoes.</p>
 <p>&quot;Okay! I&#x27;ll save a little next time!&quot;</p>
 <p>Still, flowerpots and frilly pink curtains, huh? I really had taken Aisha for a little brainiac so far, but she clearly had a girly side.</p>
 <p>&quot;I&#x27;ve always wanted a few cute things like these, you know,&quot; she said.</p>
 <p>&quot;What, Lilia wouldn&#x27;t buy them for you?&quot;</p>
-<p>&quot;Mom always said no. She thinks it&#x27;s wrong for a maid to decorate based on her personal tastes. I hope you don&#x27;t mind, Rudeus…&quot;</p>
+<p>&quot;Mom always said no. She thinks it&#x27;s wrong for a maid to decorate based on her personal tastes. I hope <em>you</em> don&#x27;t mind, Rudeus…&quot;</p>
 <p>The girl wasn&#x27;t just clever; she was good at playing with your emotions. Not only had she wrapped her arms around my waist, she was looking up at me with Bambi eyes. I knew it was all an act, of course, but it was so cute, I couldn&#x27;t bring myself to care.</p>
 <p>There was only one possible reply, anyway.</p>
 <p>&quot;It&#x27;s totally fine, Aisha.&quot;</p>
 <p>Good thing I wasn&#x27;t a creepy old man or anything. I might have kidnapped her on the spot.</p>
-<p>In the weeks following this little date, Aisha&#x27;s room grew steadily more girly. She seemed to like cute, tiny things and kept finding small pots to plant small flowers in and lining up fist-sized dolls on her shelves. At some point, she even embroidered charming little designs on the hem of her apron. I was starting to get a little worried she might evolve into a gyaru if this kept going.</p>
+<p>In the weeks following this little date, Aisha&#x27;s room grew steadily more girly. She seemed to like cute, tiny things and kept finding small pots to plant small flowers in and lining up fist-sized dolls on her shelves. At some point, she even embroidered charming little designs on the hem of her apron. I was starting to get a little worried she might evolve into a <em>gyaru</em> if this kept going.</p>
 <p>Still, both of my sisters were doing well. I was content.</p>
 <p>Although she wasn&#x27;t my sister, Nanahoshi was finally getting her groove back too. In our last experiment, she&#x27;d managed to summon a plastic bottle. That bottle was currently sitting on the windowsill in her laboratory, serving as a vase for a single flower. With that success under our belts, we&#x27;d moved onto the second phase of her plan.</p>
 <p>&quot;From this point on, we&#x27;ll be trying to summon organic matter from our old world,&quot; she declared to me one afternoon.</p>
@@ -136,18 +136,18 @@ nav_title = "Chapter 6"
 <p>&quot;Hmm. Is that step with the specific criteria really that important?&quot;</p>
 <p>&quot;Well, I&#x27;d say so. When I&#x27;m teleporting myself back home, I don&#x27;t want to pop back out in a foreign country or something.&quot;</p>
 <p>Basically, she wanted to get closer and closer to summoning something as complex as a human being and, at the very end, teleport herself back to Japan with pinpoint accuracy. Every step of the experiment was building up to that specific goal.</p>
-<p>At our current stage, she was already capable of setting some conditions on what she summoned, but these were fairly broad. The individual results would vary widely. For example, if she tried to summon a cat, she might get a tortoiseshell female house cat, a spotted tomcat, a tiger, or a panther.</p>
-<p>Her research right now was focused on finding ways to make her spells more precise. She wanted to be able to summon a house cat, not just a feline—and even specify the exact kind of house cat that she wanted.</p>
+<p>At our current stage, she was already capable of setting some conditions on <em>what</em> she summoned, but these were fairly broad. The individual results would vary widely. For example, if she tried to summon a cat, she might get a tortoiseshell female house cat, a spotted tomcat, a tiger, or a panther.</p>
+<p>Her research right now was focused on finding ways to make her spells more precise. She wanted to be able to summon a house cat, not just a feline—and even specify the exact <em>kind</em> of house cat that she wanted.</p>
 <p>&quot;Defining the conditions is quite tricky, though,&quot; she muttered, more to herself than me. &quot;I suppose I&#x27;ll have to go see the old man again at some point.&quot;</p>
 <p>This old man was presumably the authority on summoning magic who she&#x27;d mentioned once or twice before.</p>
 <p>&quot;Does this guy know a lot about this, uh, conditional summoning?&quot;</p>
 <p>&quot;Well…&quot;</p>
-<p>Nanahoshi put her hand to her chin and thought for a moment, then nodded to herself and began to explain. &quot;Let me elaborate a little. In this world, summoning magic is generally divided between fiend summoning and spirit summoning.&quot;</p>
+<p>Nanahoshi put her hand to her chin and thought for a moment, then nodded to herself and began to explain. &quot;Let me elaborate a little. In this world, summoning magic is generally divided between <em>fiend</em> summoning and <em>spirit</em> summoning.&quot;</p>
 <p>&quot;Really?&quot;</p>
 <p>Fiend summoning apparently referred to calling forth specific monsters. You&#x27;d summon an intelligent creature using a complex set of magic circles, pay it some form of compensation, and set it to work for you. This was the kind of summoning that people generally thought of when they used the word.</p>
-<p>Usually, this meant summoning garden-variety monsters of the kind you might encounter in the wild. It was also possible, however, to summon legendary beasts believed to reside in other worlds. Nor was fiend summoning limited to living things—it was possible to target inanimate objects, too. Nanahoshi producing that plastic bottle would technically be categorized as a fiend summoning spell.</p>
+<p>Usually, this meant summoning garden-variety monsters of the kind you might encounter in the wild. It <em>was</em> also possible, however, to summon legendary beasts believed to reside in other worlds. Nor was fiend summoning limited to living things—it was possible to target inanimate objects, too. Nanahoshi producing that plastic bottle would technically be categorized as a fiend summoning spell.</p>
 <p>If I mastered this, I might be able to summon the panties Master Roxy was wearing!</p>
-<p>Spirit summoning, on the other hand, was a very different kind of technique. This actually involved creating artificial entities out of mana. Designing these spells was apparently similar to programming, in a way.</p>
+<p>Spirit summoning, on the other hand, was a very different kind of technique. This actually involved <em>creating</em> artificial entities out of mana. Designing these spells was apparently similar to programming, in a way.</p>
 <p>&quot;Just so you know, it&#x27;s best we don&#x27;t discuss that part openly,&quot; she said.</p>
 <p>&quot;Why?&quot;</p>
 <p>&quot;Most people think that spirits are living things that reside in the Barren World, and we&#x27;re just calling them to ours.&quot;</p>
@@ -163,7 +163,7 @@ nav_title = "Chapter 6"
 <p>&quot;Huh? Really?&quot;</p>
 <p>When I heard it was a limited-edition product, though, it suddenly seemed a lot more exciting. I guess I was still Japanese at heart.</p>
 <p>&quot;Yeah. And I&#x27;ll get you something more impressive next time, okay? I promise.&quot;</p>
-<p>Nanahoshi pressed her hands together in a pleading gesture. I hadn&#x27;t seen anyone do that in a long time. It made me a little nostalgic.</p>
+<p>Nanahoshi pressed her hands together in a pleading gesture. I hadn&#x27;t seen anyone do that in a <em>long</em> time. It made me a little nostalgic.</p>
 <p>&quot;I think you should be able to use your earth magic to make a template of that design,&quot; she said. &quot;That way, you can print a whole bunch of copies. I&#x27;m sure the Magicians&#x27; Guild would pay handsomely for them.&quot;</p>
 <p>&quot;You&#x27;re okay with me selling copies? Won&#x27;t the guy who made it get upset?&quot;</p>
 <p>&quot;Trust me, he&#x27;s got bigger things on his mind. I doubt he&#x27;d even care.&quot;</p>
@@ -176,12 +176,12 @@ nav_title = "Chapter 6"
 <p>It seemed like a decent idea on the face of it, but Nanahoshi shook her head. &quot;At this stage, I&#x27;m only capable of summoning</p>
 <p>simple objects composed of a single consistent substance. Although I suppose that does give us a fairly wide range of possibilities.&quot;</p>
 <p>A single consistent substance, huh? That explained why the plastic bottle hadn&#x27;t come with a cap or label. But if she got better at setting her conditions, maybe we could summon complex objects piece by piece and then put them back together.</p>
-<p>&quot;Also, it&#x27;s not a great idea to pull too many things that belong in our old world into this one. I think I mentioned this before, didn&#x27;t I?&quot;</p>
+<p>&quot;Also, it&#x27;s not a great idea to pull <em>too</em> many things that belong in our old world into this one. I think I mentioned this before, didn&#x27;t I?&quot;</p>
 <p>Oh, was she still worried about that whole &quot;messing with the timeline&quot; thing?</p>
 <p>&quot;I feel like you&#x27;re being a little too paranoid about that,</p>
 <p>honestly…&quot; I said.</p>
-<p>&quot;You&#x27;re welcome to test that theory after I&#x27;m safely back home. I&#x27;d rather not take any chances.&quot;</p>
-<p>Wow. Cold!</p>
+<p>&quot;You&#x27;re welcome to test that theory <em>after</em> I&#x27;m safely back home. I&#x27;d rather not take any chances.&quot;</p>
+<p><em>Wow. Cold!</em></p>
 <p>Zanoba, meanwhile, had finally managed to finish up his red wyrm figurine the other day. It didn&#x27;t look exactly like the one I&#x27;d seen, what with the horns on its forehead and all…but it looked cool, and that was the most important thing.</p>
 <p>Julie was very happy with her belated present. She wasn&#x27;t the sort of kid who smiled a lot, but she spent quite some time holding the figurine up, oohing and aahing as she examined it from different angles.</p>
 <p>&quot;Thank you very much, Master! Thank you, Grandmaster!&quot;</p>
@@ -197,9 +197,9 @@ nav_title = "Chapter 6"
 <p>Ginger nodded at my abrupt question, looking rather pleased. &quot;The prince&#x27;s mother asked me personally to take care of him. And I swore, in that moment, to devote myself to his service.&quot;</p>
 <p>&quot;Hmm. Well, that&#x27;s nice. Go on.&quot;</p>
 <p>&quot;What do you mean? That&#x27;s the story.&quot;</p>
-<p>Wait, that&#x27;s it? That was enough to make you put up with all of this?!</p>
+<p><em>Wait, that&#x27;s it? That was enough to make you put up with all of this?!</em></p>
 <p>Then again, swearing an oath of fealty was probably serious business. If you were going to break that promise when you were treated poorly, you probably wouldn&#x27;t make it in the first place. I&#x27;d once read in some manga that feudal society was composed of a few natural-born sadists and a great number of masochists. Maybe Ginger just fell in that second category.</p>
-<p>When I thought of it that way, it made a little bit more sense…although the reality was probably something not quite as crude.</p>
+<p>When I thought of it that way, it made a <em>little</em> bit more sense…although the reality was probably something not quite as crude.</p>
 <p>Cliff was making progress with his research too. He&#x27;d recently completed his first prototype of a magical tool to suppress the symptoms of Elinalise&#x27;s curse. He announced this to me personally one day, looking even prouder of himself than usual.</p>
 <p>&quot;Essentially, it forces in external mana to counteract the flow of internal mana. It&#x27;s not enough to eliminate the curse, but it slows it down.&quot;</p>
 <p>He went on to explain the details in complex, technical language. A lot of it dealt with how he &quot;aligned&quot; the external mana with the &quot;frequency&quot; of the curse&#x27;s mana in a very specific way. He also spent a lot of time emphasizing his own brilliance, though, so I think I&#x27;ll omit that part.</p>
@@ -210,7 +210,7 @@ nav_title = "Chapter 6"
 <p>&quot;Indeed. I couldn&#x27;t ask Lise to walk around wearing this thing, of course.&quot;</p>
 <p>The two of them had actually gotten into a fight about it—and they almost never fought. Elinalise had actually said she didn&#x27;t care how it looked, but Cliff stubbornly refused to give in. I guess he was too proud to bear the idea of making his girlfriend look ridiculous.</p>
 <p>They&#x27;d made up over the course of a single passionate night, incidentally. Their love was as nauseating as ever.</p>
-<p>&quot;Zanoba and Silent volunteered to help me out, and we&#x27;ve developed a plan to miniaturize the device. I&#x27;d like to make it significantly more effective too. But I am a genius, so I&#x27;m sure it&#x27;s only a matter of time.&quot;</p>
+<p>&quot;Zanoba and Silent volunteered to help me out, and we&#x27;ve developed a plan to miniaturize the device. I&#x27;d like to make it significantly more effective too. But I <em>am</em> a genius, so I&#x27;m sure it&#x27;s only a matter of time.&quot;</p>
 <p>His ultimate goal was to make a device no larger than an ordinary pair of panties. It was hard to say if that was feasible, but if he did pull it off, maybe we could make a pair of gloves for Zanoba, too. It might give him a chance to make figurines with his own hands.</p>
 <p>Then again, I had a feeling he might just be naturally clumsy even without the super strength.</p>
 <p>&quot;So, what&#x27;s the other problem you mentioned?&quot;</p>

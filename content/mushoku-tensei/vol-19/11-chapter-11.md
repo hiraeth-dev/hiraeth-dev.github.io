@@ -30,11 +30,11 @@ nav_title = "Chapter 11"
 <p>Randolph grinned. &quot;You had me cornered before I even had a chance to use it.&quot;</p>
 <p>&quot;Sorry?&quot;</p>
 <p>&quot;Your synchronized attack left me pretty battered, and the last of my mana was pretty much drained getting rid of those Stone Cannons you launched at me,&quot; he explained, as if trying to comfort me.</p>
-<p>In other words, perhaps his real Enthralling Blade had been him pretending he still had plenty of fight left. My own cowardice convinced me not to press the attack, but if I had, we could have won. That&#x27;s what it sounded like, anyway, but who knew if his words now were genuine.</p>
-<p>No, either way… I started to say to myself, unable to do anything but sigh. I guess not fighting was the best option anyway. Win or lose, it wouldn&#x27;t have mattered. And now I only feel more exhausted from thinking about it.</p>
+<p>In other words, perhaps his <em>real</em> Enthralling Blade had been him pretending he still had plenty of fight left. My own cowardice convinced me not to press the attack, but if I had, we could have won. That&#x27;s what it sounded like, anyway, but who knew if his words now were genuine.</p>
+<p><em>No, either way…</em> I started to say to myself, unable to do anything but sigh. <em>I guess not fighting was the best option anyway. Win or lose, it wouldn&#x27;t have mattered. And now I only feel more exhausted from thinking about it.</em></p>
 <p>&quot;By the way, Sir Randolph, you said you knew about the Man-God, right?&quot; I decided to ask the question while it was on my mind. It was a rare thing for anyone to know of the Man-God, and after all my efforts here, I&#x27;d let Pax die anyway. It would be pathetic to walk away from this with nothing to show for all my trouble.</p>
 <p>&quot;Yeah, not that I know much of anything about him,&quot; Randolph answered.</p>
-<p>&quot;Well, would you mind telling me what you do know?&quot;</p>
+<p>&quot;Well, would you mind telling me what you <em>do</em> know?&quot;</p>
 <p>&quot;Sure, I guess. All I heard was that a relative borrowed his power long ago to face an extremely powerful foe.&quot;</p>
 <p>I furrowed my brows. &quot;An extremely powerful foe, you say?&quot;</p>
 <p>&quot;He did it to protect his fiancée. At the Man-God&#x27;s suggestion, he stole the Fighting God&#x27;s armor, wore it himself, and went into battle with the Dragon God Laplace—who, at the time, was said to be the strongest in the world. Poor sod wasn&#x27;t able to protect his betrothed in the end, though, and the battle nearly took them both out.&quot; There was a brief pause as he finished before he chuckled and tacked on, &quot;Who knows if any of it&#x27;s even true.&quot;</p>
@@ -46,7 +46,7 @@ nav_title = "Chapter 11"
 <p>Oh. Uh, hmm. Maybe it was complete fiction then. The Badigadi I knew was heroic, if not a bit half-hearted at times. I could imagine someone making up such a story about him. Not that I thought Orsted was lying about the story at all, but people often claimed other people&#x27;s valorous deeds for their own.</p>
 <p>&quot;Thank you,&quot; I said, voice trailing off at the end.</p>
 <p>After all was said and done, I was totally wiped. I didn&#x27;t even have the energy to say anything else. To think I&#x27;d been on the edge all this time over nothing.</p>
-<p>Sigh.</p>
+<p><em>Sigh.</em></p>
 <p>I didn&#x27;t want to think anymore. I just wanted to go home and crash. I had not slept for an entire day, to be fair.</p>
 <p>&quot;Randolph, what do you plan to do now?&quot; Zanoba asked.</p>
 <p>&quot;I plan to return to the King Dragon Realm.&quot;</p>
@@ -78,7 +78,7 @@ nav_title = "Chapter 11"
 <p>Pax&#x27;s remains were put on display in the city&#x27;s main plaza. The rebels declined to show him any decency, having stripped him of all his clothes. For some reason, there was an ugly cut on his shoulder, and he was covered in dirt. That, too, was the work of the rebels, who presumably wanted to present his death as though they had orchestrated it.</p>
 <p>General Jade had made his proclamation: &quot;Pax was an irrational tyrant. My nephew is the true king!&quot;</p>
 <p>Typical propaganda. Without an education in politics, I couldn&#x27;t really say if Pax had been truly a tyrant. The label probably would have fit him years ago, but the man I&#x27;d met in recent days seemed neither irrational nor a tyrant. Sure, if you focused on the part where he massacred the entirety of the royal family, you could argue that he was a despot.</p>
-<p>But even with these disgraceful rumors circulating, only a tiny group could be seen slinging stones at the former king&#x27;s corpse. People hadn&#x27;t loved him, but neither had they hated him. He had spent too long abroad and ruled for far too short of a period. If anything, most people probably thought, So who the hell was that guy, anyway? In other words, most were indifferent to his death. That was the impression I got.</p>
+<p>But even with these disgraceful rumors circulating, only a tiny group could be seen slinging stones at the former king&#x27;s corpse. People hadn&#x27;t loved him, but neither had they hated him. He had spent too long abroad and ruled for far too short of a period. If anything, most people probably thought, <em>So who the hell was that guy, anyway?</em> In other words, most were indifferent to his death. That was the impression I got.</p>
 <p>Zanoba trembled as he watched. His eyes stayed wide open, fists shaking at his sides. Even I could feel bile rise in my throat. Perhaps it would have been better for us to cremate him after all. Maybe handing his body over to the rebel army wasn&#x27;t the best idea. They probably knew they&#x27;d secured victory the moment they took control of the palace.</p>
 <p>In fact, before all of that—I could have probably saved Pax from his fate. I could not have anticipated that he would leap from the balcony, but I could have sailed over the edge with him and deployed my magic from midair. Maybe then I—</p>
 <p>No. It was no good entertaining such thoughts.</p>
@@ -89,7 +89,7 @@ nav_title = "Chapter 11"
 <p>I couldn&#x27;t remember the name of this supposed thirteenth prince, but if I remembered right, he was only three. There was no way he could have incited all of this. General Jade must have been the instigator. I understood</p>
 <p>why he did it, but that didn&#x27;t mean I liked it.</p>
 <p>I wondered if General Jade had actually been the Man-God&#x27;s disciple. Was I supposed to kill him then? But if his whole aim had been to kill Pax, those cows had already left the barn. Everything was already over. It was possible the Man-God had already withdrawn from here.</p>
-<p>Best to leave things be, I decided.</p>
+<p><em>Best to leave things be,</em> I decided.</p>
 <p>There was no use spinning my wheels here. Whatever I did seemed unlikely to help our overarching goal. In fact, I&#x27;d lost all confidence in my own decision-making. The best thing to do would be returning home for further orders from Orsted. I needed to inform him about Pax&#x27;s untimely demise…but I couldn&#x27;t leave without Zanoba.</p>
 <p>&quot;Zanoba, I&#x27;m thinking about going back to Sharia as soon as tomorrow. What about you? Do you plan to stick around a bit longer?&quot; I asked.</p>
 <p>&quot;I intend to go back with you, but before we do, could we wait here for Ginger? I suspect she&#x27;s already headed this way,&quot; he said.</p>
@@ -109,7 +109,7 @@ nav_title = "Chapter 11"
 <p>&quot;Hey, um, Roxy…&quot;</p>
 <p>The conversation died there as usual. Everything I could think of saying to her seemed so cliché and insensitive. I couldn&#x27;t bring myself to force the words out, even if they could assuage whatever guilt she felt.</p>
 <p>&quot;It&#x27;s true,&quot; she murmured, speaking for the first time. &quot;I did sigh at him back then.&quot;</p>
-<p>Roxy didn&#x27;t look at me as she spoke, but I could tell she was speaking to me. Her lament didn&#x27;t stop there.</p>
+<p>Roxy didn&#x27;t look <em>at</em> me as she spoke, but I could tell she was speaking <em>to</em> me. Her lament didn&#x27;t stop there.</p>
 <p>&quot;I mean, the day that Prince Pax mastered that intermediate spell. He was so elated when he came to show me, and I just sighed at him. I may have even muttered to myself, &#x27;It sure took you long enough.&#x27;&quot;</p>
 <p>&quot;That would be hurtful,&quot; I acknowledged.</p>
 <p>Roxy clutched tightly at the hem of her robe. &quot;Honestly, I think when I was teaching him, I kept comparing his progress to yours. I found myself thinking things like, &#x27;Rudy could have grasped this instantly,&#x27; or, &#x27;Rudy would have learned this at the snap of my fingers.&#x27; And because of that, I saw him as being beneath you. Maybe I really did look down on him.&quot;</p>
@@ -143,7 +143,7 @@ nav_title = "Chapter 11"
 <p>She shook her head. &quot;You&#x27;re being overdramatic. I&#x27;m sure that&#x27;s because it was so long ago, and you&#x27;ve convinced yourself it&#x27;s a bigger deal than it really was.&quot;</p>
 <p>&quot;True, maybe I am exaggerating a bit. But one thing is for certain: every time I failed, I remembered how you would keep moving forward even when you didn&#x27;t succeed. That gave me strength,&quot; I said earnestly.</p>
 <p>Yes, maybe having Roxy as a teacher did lead one of her students to choose the wrong path in life. I could have told her that she wasn&#x27;t the only factor that led to his demise, but since she already felt personally responsible, as far as she was concerned, she may as well have pushed him over that balcony herself.</p>
-<p>However, I could argue that there were other students who were still alive because she&#x27;d been their teacher. I was certainly one such example. She wasn&#x27;t the only one who had kept me going, sure, but she had definitely been an important influence.</p>
+<p>However, I <em>could</em> argue that there were other students who were still alive because she&#x27;d been their teacher. I was certainly one such example. She wasn&#x27;t the only one who had kept me going, sure, but she had definitely been an important influence.</p>
 <p>&quot;I have no intention of telling you to just forget what happened,&quot; I said. &quot;If anything, I think it&#x27;s better if you don&#x27;t. But at the same time, I don&#x27;t want you to overlook the fact that there are other students whose lives you have saved, like mine.&quot;</p>
 <p>I knew I sounded pompous saying that, but that was genuinely how I felt. I didn&#x27;t want Roxy to dismiss her career as a teacher.</p>
 <p>Roxy&#x27;s jaw dropped as she stared at me. She seemed to be having some kind of epiphany. Her body trembled, and thanks to all the sobbing she&#x27;d done, snot was now trailing down her upper lip. In a panic, she buried her face back into the folds of her robe.</p>
@@ -167,7 +167,7 @@ nav_title = "Chapter 11"
 <p>I was relieved, honestly. I&#x27;d managed to achieve my initial objective keeping Zanoba alive. Yet as I gazed at his face, my stomach twisted.</p>
 <p>&quot;Ginger,&quot; he said, face firm with resolve. It was the same look of determination he&#x27;d worn when he first set off on this journey to Shirone. &quot;I am considering…abandoning my country.&quot;</p>
 <p>&quot;Abandoning your country?&quot; Ginger repeated, confused. &quot;Oh, you mean defecting? A fine idea. Ranoa Kingdom would surely welcome you with open arms. Perhaps if Lord Rudeus were to put in a good word, Asura Kingdom might even—&quot;</p>
-<p>Zanoba shook his head. &quot;No, I don&#x27;t mean defecting.&quot; He gazed down at her as she continued kneeling before him and said, &quot;I am considering relinquishing my status as royalty. We&#x27;ll let people think I died in the course of this rebellion, and I will return to Sharia not as Third Prince Zanoba Shirone of Shirone Kingdom, but simply as Zanoba. And that, I believe, is how I shall spend the rest of my days.&quot;</p>
+<p>Zanoba shook his head. &quot;No, I don&#x27;t mean defecting.&quot; He gazed down at her as she continued kneeling before him and said, &quot;I am considering relinquishing my status as royalty. We&#x27;ll let people think I died in the course of this rebellion, and I will return to Sharia not as Third Prince Zanoba Shirone of Shirone Kingdom, but simply as <em>Zanoba</em>. And that, I believe, is how I shall spend the rest of my days.&quot;</p>
 <p>Ginger&#x27;s face clouded over. She probably disapproved. I had no idea what it really meant to discard your status like that, since I&#x27;d never possessed that kind of status to begin with.</p>
 <p>After another short pause, she finally said, &quot;I think that is also a fine idea.&quot;</p>
 <p>To my surprise, she didn&#x27;t oppose him.</p>
@@ -175,7 +175,7 @@ nav_title = "Chapter 11"
 <p>&quot;Indeed,&quot; Zanoba said. &quot;Ginger, you have been a faithful retainer.&quot;</p>
 <p>&quot;You honor me with those words.&quot;</p>
 <p>Zanoba nodded, looking pleased with himself. For her part, Ginger seemed relieved.</p>
-<p>&quot;Having said all that, what do you plan to do now?&quot; he asked her.</p>
+<p>&quot;Having said all that, what do <em>you</em> plan to do now?&quot; he asked her.</p>
 <p>She stared back at him. &quot;Why, I plan to continue serving you the way I always have.&quot;</p>
 <p>His brow furrowed. &quot;You may be my personal guard, but you are a knight of Shirone. If I&#x27;m no longer part of the royal family, then you have no reason to serve me any longer.&quot;</p>
 <p>&quot;For me, it&#x27;s hardly relevant whether you&#x27;re part of the royal family or not.&quot;</p>
@@ -183,11 +183,11 @@ nav_title = "Chapter 11"
 <p>&quot;They have all since grown and become independent. There&#x27;s no one I need to financially support anymore,&quot; she answered.</p>
 <p>The sharpness in Zanoba&#x27;s tone dulled as they continued arguing back and forth.</p>
 <p>&quot;You also realize that if you remain in my services for much longer, your chances of finding a suitable partner for marriage will wane, don&#x27;t you?&quot;</p>
-<p>Come to think of it, how old is Ginger anyway? I&#x27;m pretty sure she&#x27;s already missed the prime marriage age, at least as far as this world is concerned.</p>
+<p><em>Come to think of it, how old is Ginger anyway? I&#x27;m pretty sure she&#x27;s already missed the prime marriage age, at least as far as this world is concerned.</em></p>
 <p>&quot;Marriage?!&quot; Ginger snapped, losing her patience. Her chin rose as she lifted herself so that she was on both knees, then she threw her arms open wide. At first I wondered what she was doing, but then she threw herself forward, slamming her fists against the ground. It looked like she was prostrating herself. Perhaps this was the biggest sign of respect one could show in Shirone. It would make sense, given that Zanoba often did the same thing.</p>
-<p>&quot;Lady Minerva made a direct request that I look after you! It doesn&#x27;t matter whether you&#x27;re royalty or not. Nor do I care if I stay at your side in the capacity of a mistress instead of a knight. But I beg of you! If you&#x27;re truly concerned for me, please, keep me with you!&quot;</p>
+<p>&quot;Lady Minerva made a direct request that I look after you! It doesn&#x27;t matter whether you&#x27;re royalty or not. Nor do I care if I stay at your side in the capacity of a mistress instead of a knight. But I beg of you! If you&#x27;re truly concerned for me, <em>please</em>, keep me with you!&quot;</p>
 <p>Her declaration was so sudden that I couldn&#x27;t hide my confusion.</p>
-<p>Minerva…if I remember right, that&#x27;s the name of Zanoba&#x27;s mother.</p>
+<p><em>Minerva…if I remember right, that&#x27;s the name of Zanoba&#x27;s mother.</em></p>
 <p>&quot;Hm.&quot; Zanoba cupped his chin, as if considering her plea. He slowly crouched down and responded, &quot;I hear you, Ginger. Lift your head.&quot;</p>
 <p>tears.</p>
 <p>&quot;If you&#x27;re truly that insistent, I will not push you away against your will. However, I will also not treat you as a knight or even a retainer. From now on, you will be my supporter. Understood?&quot;</p>

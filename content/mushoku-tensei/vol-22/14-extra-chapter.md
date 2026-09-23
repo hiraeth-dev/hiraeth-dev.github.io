@@ -14,47 +14,47 @@ nav_title = "Extra Chapter"
 <p>And did I achieve great things in the end? Nope, not a one. The only skills I picked up were things anyone could do—cooking, washing, cleaning… Yeah, I could draw a map, or negotiate, or disable a trap, but if you asked how I compared to an actual pro, well. Best not to dwell on it.</p>
 <p>If I weren&#x27;t such a pushover, maybe even I could&#x27;ve believed in myself, but the fact remained that I couldn&#x27;t fight to save my life. My only purpose was to tag along after strong, amazing types and cover their weak points. You know how goldfish poop clings to them while they swim? That was me. All I had going for me were cheap tricks and a quick tongue.</p>
 <p>When I was in this room, the fact that that same moron—that is to say, me—was somehow still kicking really hit home. But I wasn&#x27;t gonna let it end like this. I was gonna achieve something big. Something that&#x27;d let me face myself in the mirror.</p>
-<p>&quot;Oh, yes. Of course, you can&#x27;t let it end like this, I know just how you feel,&quot; said a weirdly blurry figure. The Man-God.</p>
+<p>&quot;Oh, yes. Of course, you can&#x27;t let it end like this, I know <em>just</em> how you feel,&quot; said a weirdly blurry figure. The Man-God.</p>
 <p>It was spooky how your eye just slipped off of Him, how He was always popping up when I least expected Him. But He was also a strangely comforting presence for me. Ever since I was back languishing in my tiny village, He&#x27;d come to me in my dreams to give me advice. He was my holy Man-God.</p>
 <p>I going to get an explanation any time soon?&quot;</p>
-<p>An explanation? What for?</p>
+<p><em>An explanation? What for?</em></p>
 <p>&quot;I am angry. You do know that only bad things will come if you don&#x27;t stop avoiding my questions?&quot;</p>
-<p>Whoa there, don&#x27;t get mad. If it&#x27;s an explanation you want, ya gotta tell me what you wanna know.</p>
+<p><em>Whoa there, don&#x27;t get mad. If it&#x27;s an explanation you want, ya gotta tell me what you wanna know.</em></p>
 <p>&quot;What possessed you to write that letter to Rudeus in Millis? Did we not discuss that your presence there was for the purpose of confirming how he fights?&quot;</p>
-<p>Ohhh, that old thing. That little letter where I declared war on him so as he&#x27;d know I&#x27;m a disciple of the Man-God. But see, the reasoning for that is a little tricky to put into words.</p>
+<p><em>Ohhh, that old thing</em>. <em>That little letter where I declared war on him so as he&#x27;d know I&#x27;m a disciple of the Man-God. But see, the reasoning for that is a little tricky to put into words.</em></p>
 <p>&quot;I don&#x27;t care how difficult it is. You will explain. Depending on what you say, I may have no choice but to unleash my divine wrath upon you.&quot;</p>
-<p>Haha. Your divine wrath, eh? You already did that once. Pretty sure I don&#x27;t have enough left to lose that much again, y&#x27;know?</p>
-<p>Ah, whatever. I&#x27;ll explain. I thought a whole lot about why I did it recently, so I&#x27;ve got an answer all drafted &#x27;n ready to go.</p>
+<p><em>Haha. Your divine wrath, eh? You already did that once. Pretty sure I don&#x27;t have enough left to lose that much again, y&#x27;know?</em></p>
+<p><em>Ah, whatever. I&#x27;ll explain. I thought a whole lot about why I did it recently, so I&#x27;ve got an answer all drafted &#x27;n ready to go.</em></p>
 <p>&quot;How very commendable of you.&quot;</p>
-<p>Right?</p>
+<p><em>Right?</em></p>
 <p>&quot;Now get to the point.&quot;</p>
-<p>Okey-doke. Well, first of all, I made it through life with lies and deception. So I&#x27;ve got kind of a sense for when the game is about to be up. There&#x27;s a fuse on this kinda thing; an expiration date. I can just tell when a lie&#x27;s about to be exposed.</p>
-<p>It&#x27;s safer to just get it over and done with, then do a runner… y&#x27;know? Better than being around in the moment when Boss twigged to it.</p>
+<p><em>Okey-doke. Well, first of all, I made it through life with lies and deception. So I&#x27;ve got kind of a sense for when the game is about to be up. There&#x27;s a fuse on this kinda thing; an expiration date. I can just tell when a lie&#x27;s about to be exposed.</em></p>
+<p><em>It&#x27;s safer to just get it over and done with, then do a runner… y&#x27;know? Better than being around in the moment when Boss twigged to it.</em></p>
 <p>The Man-God made a thoughtful noise.</p>
-<p>That was reason number two, though.</p>
+<p><em>That was reason number two, though.</em></p>
 <p>&quot;Reason number two? Then what was reason number one?&quot;</p>
-<p>That was about being true to myself. You could also call it committing myself to this. See, in the end, however I talk, I&#x27;m scared. I reckon if I had to go up against Rudeus, along the way I&#x27;d get cold feet. So I&#x27;d leave myself an escape route. Then, if the plan went belly-up, I&#x27;d have an out to say I was never a disciple, and I could talk my way out. If the odds were against us, when the time came, I could turn traitor and go back to Boss&#x27;s side.</p>
-<p>If was ready to back out at any moment, that&#x27;d be enough to turn a winning position into a losing one. Don&#x27;t ya think? I do. Unfortunately, I can&#x27;t fight for nothing. But time and time again, I&#x27;ve seen folks dive in knowing they might never come back out. Paul and Ghislaine were like that, even Elinalise sometimes.</p>
-<p>That&#x27;s the only way you win. And you can&#x27;t do it if you get cold feet &#x27;cause you&#x27;re afraid to die. A strike only becomes a killing blow when you&#x27;re ready to die when you throw yourself into it. That&#x27;s how you bring down mighty enemies, far as I see it. So I wanted to force myself to be like that too.</p>
+<p><em>That was about being true to myself. You could also call it committing myself to this. See, in the end, however I talk, I&#x27;m scared. I reckon if I had to go up against Rudeus, along the way I&#x27;d get cold feet. So</em> <em>I&#x27;d leave myself an escape route. Then, if the plan went belly-up, I&#x27;d have an out to say I was never a disciple, and I could talk my way out. If the odds were against us, when the time came, I could turn traitor and go back to Boss&#x27;s side.</em></p>
+<p><em>If was ready to back out at any moment, that&#x27;d be enough to turn a winning position into a losing one. Don&#x27;t ya think? I do. Unfortunately, I can&#x27;t fight for nothing. But time and time again, I&#x27;ve seen folks dive in knowing they might never come back out. Paul and Ghislaine were like that, even Elinalise sometimes.</em></p>
+<p><em>That&#x27;s the only way you win. And you can&#x27;t do it if you get cold feet &#x27;cause you&#x27;re afraid to die. A strike only becomes a killing blow when you&#x27;re ready to die when you throw yourself into it. That&#x27;s how you bring down mighty enemies, far as I see it. So I wanted to force myself to be like that too.</em></p>
 <p>&quot;Hm. And so that&#x27;s why you went to the trouble of leaving him a letter?&quot;</p>
-<p>Pretty much.</p>
+<p><em>Pretty much.</em></p>
 <p>&quot;I can&#x27;t say I understand…but no matter. From my vantage point, I must question whether your willingness to die affects the bigger picture. It concerns me.&quot;</p>
-<p>Whoa there, look who&#x27;s talking! Who&#x27;s the one who came sniveling to me like, &quot;I can&#x27;t win, help meee&quot;?</p>
+<p><em>Whoa there, look who&#x27;s talking! Who&#x27;s the one who came sniveling to me like, &quot;I can&#x27;t win, help meee&quot;?</em></p>
 <p>&quot;Yes, and it&#x27;s precisely because of that that I am being so careful. I am relying on you.&quot;</p>
-<p>Uh huh, and just like you wanted, I&#x27;m getting more and more people on our side to bump off Rudeus and Orsted. I&#x27;m all in.</p>
+<p><em>Uh huh, and just like you wanted, I&#x27;m getting more and more people on our side to bump off Rudeus and Orsted. I&#x27;m all in.</em></p>
 <p>&quot;True. You do have a perfect recruitment rate so far. Even if it is only because I told you their weak points. From their childhoods to their desires, to the right time to approach them…&quot;</p>
-<p>I mean, okay, it hurts a bit when you put it like that… But hey, I&#x27;m still the one doing the talking, at the end of the day. A teensy bit more trust would be appreciated.</p>
+<p><em>I mean, okay, it hurts a bit when you put it like that… But hey, I&#x27;m still the one doing the talking, at the end of the day. A teensy bit more trust would be appreciated.</em></p>
 <p>&quot;Understandably so. I do trust you. But we are running out of time.&quot;</p>
-<p>I get that. It&#x27;s important we do it on the right day, yeah?</p>
+<p><em>I get that. It&#x27;s important we do it on the right day, yeah?</em></p>
 <p>him. I have no doubt that it&#x27;ll work.&quot;</p>
-<p>Yeah? I wonder… No plan&#x27;s ever guaranteed to succeed, y&#x27;know.</p>
+<p><em>Yeah? I wonder… No plan&#x27;s ever guaranteed to succeed, y&#x27;know.</em></p>
 <p>&quot;I&#x27;m well aware of that. Ever since Orsted got involved, all of my plans have gone awry. I&#x27;m sick of it.&quot;</p>
-<p>Even so, I&#x27;d rather get as many as we can on our side beforehand. Especially the next guy. He&#x27;s a big one. Maybe on the same level as the first guy, or even stronger.</p>
+<p><em>Even so, I&#x27;d rather get as many as we can on our side beforehand. Especially the next guy. He&#x27;s a big one. Maybe on the same level as the first guy, or even stronger.</em></p>
 <p>&quot;Do you think you can do it?&quot;</p>
-<p>Come on, I rustle up some reasons for him to fight, get him worked up, then sneak around a bit setting things up behind the scenes. Before ya know it, you&#x27;ve got one reliable ally ready to go. Just like all the others, right?</p>
+<p><em>Come on, I rustle up some reasons for him to fight, get him worked up, then sneak around a bit setting things up behind the scenes. Before ya know it, you&#x27;ve got one reliable ally ready to go. Just like all the others, right?</em></p>
 <p>&quot;Good, good. I don&#x27;t know what I&#x27;d do without you.&quot;</p>
-<p>Heh. Keep flattering me like you mean it.</p>
-<p>Anyway, where am I going tomorrow and how do I get there? You&#x27;d better have something good in store, here. I&#x27;m countin&#x27; on ya.</p>
+<p><em>Heh. Keep flattering me like you mean it.</em></p>
+<p><em>Anyway, where am I going tomorrow and how do I get there? You&#x27;d better have something good in store, here. I&#x27;m countin&#x27; on ya.</em></p>
 <p>&quot;Yes, of course. Tomorrow, when you wake, travel due west, then wait in the shadow of a boulder. You may sleep there if you like. Then, move off due west again when the sun sets. You will arrive at a village at daybreak. Go to the only tavern in the village. If you do so, you will surely find him…surely…&quot;</p>
 <p>With the Man-God&#x27;s words echoing in my ears, I blacked out.</p>
 <p>***</p>
@@ -64,14 +64,14 @@ nav_title = "Extra Chapter"
 <p>After that, I worked out what direction I was facing. My daily routine. Can&#x27;t start the day without it.</p>
 <p>&quot;All righty,&quot; I said.</p>
 <p>Desert stretched out before me, as far as the eye could see. This was the Begaritt Continent, the second most dangerous place in the world after the Demon Continent. This place was swarming with monsters just as vicious as any on the Demon Continent, and the environment was unforgiving.</p>
-<p>I&#x27;d been raised on the Demon Continent and even I found myself thinking, the second most dangerous?</p>
+<p>I&#x27;d been raised on the Demon Continent and even I found myself thinking, <em>the</em> second <em>most dangerous?</em></p>
 <p>I mean, I got why. There&#x27;s fewer monsters overall here, plus the eastern and northern regions are pretty safe. Stuff like that tricks you into thinking that the Begaritt Continent&#x27;s not so bad. Meanwhile, you could drop into the heart of any region of the Demon Continent and it&#x27;d be packed full of danger. There&#x27;s not a safe corner in the whole place. &#x27;Course, there&#x27;s no denying either place was habitable for the truly determined.</p>
 <p>&quot;Let&#x27;s get going.&quot; I packed up my things, then set off west.</p>
 <p>The desert was empty, but that was just on the surface. Beneath the sand lay swarms of worms that could swallow you whole and scorpions with poison in their tails that&#x27;d slowly melt you into soup. But wait, there&#x27;s more! Then there were the monsters that preyed on those guys. Those were even more fearsome. You&#x27;d have to have the chops of an A-rank adventurer or higher to fight your way through them all.</p>
 <p>Although knowledge of the local monsters would do the trick too. Different sorts of monsters all behave differently. Some are territorial, some build nests, some rove about looking for prey. Then there&#x27;s some that rely on sight, while others rely on sound… If you&#x27;ve got knowledge of their behavior, avoiding them as you travel is…well, it&#x27;s tough, but not impossible.</p>
 <p>The problem is that people can&#x27;t beat a monster&#x27;s sharp senses. Monsters that rely on sight see through most camouflage in an instant, and monsters that rely on sound pick up on the smallest noise. Monsters that lie in wait in their nests make sure you don&#x27;t twig to their location, and monsters that rove about looking for prey have the stamina to chase you for days without rest.</p>
 <p>&#x27;Course, what makes us strong is how we each have some of the different skills you need to get past monsters. Plus, I had the Man-God&#x27;s protection. I could head due west without getting noticed by any monsters. Nothing to it.</p>
-<p>Whoa there, don&#x27;t let your guard down.</p>
+<p><em>Whoa there, don&#x27;t let your guard down</em>.</p>
 <p>&quot;Not like I&#x27;ve got enough tricks that I can afford to relax,&quot; I muttered to myself. &quot;Gotta be real careful, eh?&quot;</p>
 <p>I kept heading west, never changing course. I&#x27;d wanted to buy a horse or a camel or something, but apparently, that&#x27;d bring the monsters down on me. This time I&#x27;d go on foot or not at all.</p>
 <p>I was parched. I sipped a few drops from my canteen to rehydrate.</p>
@@ -113,7 +113,7 @@ nav_title = "Extra Chapter"
 <p>Bet you&#x27;re pondering why I went with a Millis coin instead of money from these parts. Fact is that the teleportation circle plonked me down out here in the middle of nowhere, so I didn&#x27;t have time to go change my cash.</p>
 <p>I left the tavern and headed for the dimly glowing boulder. The closer I got, the better I could appreciate its ginormous size. There was a scaffold platform and a ladder, but the boulder was so big that wasn&#x27;t</p>
 <p>much comfort. It looked like it might come to pieces when I was halfway up.</p>
-<p>&quot;Hey, I really gotta climb this thing?&quot; I said. No one was around to answer me. Which meant the answer was, Shut up and climb.</p>
+<p>&quot;Hey, I really gotta climb this thing?&quot; I said. No one was around to answer me. Which meant the answer was, <em>Shut up and climb</em>.</p>
 <p>Contrary to what I&#x27;d expected, the ladder was sturdy and there was no wind. The only thing making it difficult was the darkness, but I managed to make it to the top without my feet slipping.</p>
 <p>The flat top of the boulder was studded with daggers stabbed into the rock, adorned with scraps of red cloth. There were mystical letters written on the surface, a bit like a magic circle. I&#x27;d seen this kinda place before. If my hunch was right, this was where the village&#x27;s youths came for their coming-of-age ritual. Or maybe they took the daggers of dead folks, tied a scrap of their clothing to the handle, and stuck them up here. My village had a ritual like that, too. Not that I&#x27;d ever done it.</p>
 <p>I looked up. &quot;Well, ain&#x27;t that a view?&quot; I said to myself.</p>
@@ -136,7 +136,7 @@ nav_title = "Extra Chapter"
 <p>Okay, nix that.</p>
 <p>&quot;It was only ever a legend. I don&#x27;t even know if this &#x27;Master&#x27; really exists.&quot;</p>
 <p>&quot;What&#x27;s got you sitting in a place like this, then?&quot;</p>
-<p>&quot;Because it might be today.&quot;</p>
+<p>&quot;Because it <em>might</em> be today.&quot;</p>
 <p>Only real obsessive types talked like that.</p>
 <p>&quot;See, the Master passed this way once several hundred years ago, and since then, it hasn&#x27;t returned. So it might well be today, get it? It didn&#x27;t come yesterday or the day before. Several hundred years later might be today. Right?&quot;</p>
 <p>&quot;You&#x27;re not wrong.&quot; His eyes said he was serious. He really thought that tomorrow could be the day the Master happened by this big old boulder.</p>
@@ -145,20 +145,20 @@ nav_title = "Extra Chapter"
 <p>&quot;What&#x27;s got you hunting the Master anyway? It kill your folks or something?&quot;</p>
 <p>&quot;That&#x27;s pretty much it, actually.&quot;</p>
 <p>&quot;Liar.&quot;</p>
-<p>He laughed. &quot;You&#x27;re calling a stranger a liar? Hahaha! Well. I suppose it was a lie.&quot;</p>
-<p>Is it that funny? I thought as the kid cackled. But okay, maybe to him it was pretty funny. I asked him what he wanted to fight the Master for, he told me, then I&#x27;d called him a liar.</p>
+<p>He laughed. &quot;You&#x27;re calling a stranger a liar? Hahaha! Well. I suppose it <em>was</em> a lie.&quot;</p>
+<p><em>Is it</em> that <em>funny?</em> I thought as the kid cackled. But okay, maybe to him it was pretty funny. I asked him what he wanted to fight the Master for, he told me, then I&#x27;d called him a liar.</p>
 <p>As it happened, I knew just how his parents were doing. Sure, his mom was dead, but his old man was practically too healthy for his own good. His grandma was pretty sprightly too, if you&#x27;re interested. Actually, I knew a whole bunch more than that. I knew when he&#x27;d get to see the Master, why he wanted to kill it, what he wanted to do afterward, and how things would go for him after that. Every bit of it. Not that I was gonna rattle that off for him. This kid was the type to get surly if I blurted it all out, which meant I had to get him to bring it up first. You gotta get these types in a good mood and talking your ear off.</p>
 <p>&quot;So why are you here?&quot; I asked.</p>
 <p>&quot;Hm. Have you ever seen someone great, and wanted to become greater still?&quot;</p>
 <p>&quot;A few times, I guess.&quot;</p>
 <p>&quot;There is a great hero I hope to one day surpass, so that I may become the greatest hero who ever lived.&quot;</p>
 <p>&quot;What, and hunting the Master out here in the middle of nowhere is the ritual that&#x27;ll turn you into this super awesome hero?&quot;</p>
-<p>&quot;No, that&#x27;s not it. I want to surpass this great hero, right? But then the problem becomes how I surpass him…y&#x27;see?&quot;</p>
+<p>&quot;No, that&#x27;s not it. I want to surpass this great hero, right? But then the problem becomes <em>how</em> I surpass him…y&#x27;see?&quot;</p>
 <p>&quot;Don&#x27;t you have a duel with this great hero-dude and beat him?&quot;</p>
 <p>&quot;Yes, there&#x27;s a logic to that. But that&#x27;s not the way for me.&quot;</p>
 <p>&quot;It&#x27;s not?&quot;</p>
 <p>&quot;People can&#x27;t always stay in their prime. Battles are swayed by conditions and luck. Winning a fight won&#x27;t do me any good if people say I only won by chance, or that I scored a lucky hit.&quot;</p>
-<p>Okaaay…</p>
+<p><em>Okaaay…</em></p>
 <p>&quot;Personally, I would never discount a victory won by chance or with a lucky hit. But the rest of the world isn&#x27;t so forgiving. You truly become great when other people call you great—not a second sooner.&quot;</p>
 <p>&quot;Cool, so how d&#x27;ya get folks to call you great?&quot; I asked.</p>
 <p>&quot;That&#x27;s easy. You do something a great person did. Right?&quot;</p>
@@ -170,15 +170,15 @@ nav_title = "Extra Chapter"
 <p>Now here he was, waiting for the Behemoth with no idea when it might arrive, on top of a boulder in a backwater village in the middle of nowhere.</p>
 <p>&quot;That right, huh? Makes sense, since you want to be a hero.&quot;</p>
 <p>To entice this knucklehead with his heroic aspirations, all I needed were words. He wanted to be the subject of a heroic epic? Awesome. I&#x27;d play the sage in the story who gives the hero his next test. Time to get into character.</p>
-<p>&quot;All right, I&#x27;ll tell you why I&#x27;m here,&quot; I said.</p>
+<p>&quot;All right, I&#x27;ll tell you why <em>I&#x27;m</em> here,&quot; I said.</p>
 <p>&quot;Oh? You didn&#x27;t just happen to be passing by?&quot;</p>
 <p>party. What&#x27;s a pipsqueak adventurer like me doin&#x27;, coming to a place like this?&quot;</p>
 <p>&quot;Huh… Then you&#x27;re saying…&quot;</p>
-<p>In my best prophet voice, I intoned, &quot;Set forth at daybreak with your back to the sun and walk half a day hence.&quot;</p>
+<p>In my best prophet voice, I intoned, <em>&quot;Set forth at daybreak with your back to the sun and walk half a day hence</em>.<em>&quot;</em></p>
 <p>A heavy silence fell. The kid&#x27;s eyes were gleaming with undisguised interest in my sudden prophecy. Instead of replying, he turned around, lay a hand on the boulder, and stared at me. He even cracked a smile.</p>
 <p>&quot;If you win,&quot; I added, &quot;come back here. I&#x27;ll tell you something even better.&quot; Then I turned to leave.</p>
 <p>&quot;Wait!&quot; he called after me. &quot;What does that mean?&quot; I didn&#x27;t turn back or answer him. Couldn&#x27;t break character. Now, to make a quick exit…</p>
-<p>Oops, that&#x27;s right—we&#x27;re on top of a giant boulder… Rats, I can&#x27;t just jump down.</p>
+<p><em>Oops, that&#x27;s right—we&#x27;re on top of a giant boulder… Rats, I can&#x27;t just jump down.</em></p>
 <p>I took hold of the ladder and set off down. The kid didn&#x27;t come after me, but as I descended I caught him watching me. There was a look in his eyes that set my hair on end.</p>
 <p>My act had gotten a bit rough at the end there, but that was fine. Good enough, I assumed.</p>
 <p>I woke the next morning to a loud rumbling.</p>
@@ -187,7 +187,7 @@ nav_title = "Extra Chapter"
 <p>I pushed my way through the crowd, muttering, &quot;&#x27;Scuse me, coming through,&quot; until I reached a place where I could see where the sound was coming from.</p>
 <p>The scene that emerged could&#x27;ve come straight out of a myth. First, there was the giant beast. It was the weirdest thing I&#x27;d ever seen, and it had too many legs sprouting out of its body. Even at this distance, it was gargantuan—too big for me to even conceive of its actual size. It had to be five hundred meters long, at least. It made the dragon from yesterday look like a baby.</p>
 <p>It was a Behemoth, and it was writhing in agony. It twisted and lashed out, sending up veritable tidal waves of sand every time it rolled over. The only reason we could still see it with all that dust in the air was because of how friggin&#x27; big it was. If you saw a kitten rolling around like the Behemoth was, you&#x27;d assume it was shaking off a fly. This was different. The Behemoth was covered in blood. What&#x27;s more, something was running around on its back. Every time it moved, a new gash appeared in the huge beastie&#x27;s hide, spurting blood.</p>
-<p>They were fighting. Someone was fighting that giant beast.</p>
+<p>They were fighting. <em>Someone</em> was fighting that giant beast.</p>
 <p>&quot;Mommy,&quot; whimpered a scared kid, clinging to his mother. The old warriors hardly seemed to breathe as they watched the fight.</p>
 <p>The fight stretched on for a while. The writhing beast made no sound, just continued to thrash. No one could miss the desperation in its movements. It was fighting for its life.</p>
 <p>The battle ended right after midday, as the sun began to turn toward the horizon. The Behemoth&#x27;s flailing grew more lethargic as it drew closer to death. Even as it bled out, it kept on writhing where it lay, refusing to yield. Its defiance didn&#x27;t last long. All of a sudden, it stopped fighting. It stood up and walked, slowly, like it was trying to get away. It was way too late for that, but I guessed the Behemoth hadn&#x27;t worked that out.</p>
@@ -204,12 +204,12 @@ nav_title = "Extra Chapter"
 <p>&quot;That wasn&#x27;t the Master,&quot; he said.</p>
 <p>&quot;Yeah?&quot;</p>
 <p>&quot;The Master is even bigger than that.&quot;</p>
-<p>Ooh, there&#x27;s a scary thought. So that was a runt? You&#x27;re gonna mess up my sense of perspective.</p>
-<p>He was right. It wasn&#x27;t the Master. When this guy fought the Master, or so I heard, the battle would rage on for ten days, with our hero wavering on the border between life and death.</p>
+<p><em>Ooh, there&#x27;s a scary thought. So that was a runt? You&#x27;re gonna mess up my sense of perspective.</em></p>
+<p>He was right. It <em>wasn&#x27;t</em> the Master. When this guy fought the Master, or so I heard, the battle would rage on for ten days, with our hero wavering on the border between life and death.</p>
 <p>&quot;Still, I thank you. Your advice allowed me to slay a Behemoth.&quot;</p>
 <p>&quot;You&#x27;re very welcome.&quot;</p>
 <p>&quot;Now,&quot; he said, his gaze sharpening, &quot;what was the &#x27;even better&#x27; story you had for me?&quot; He&#x27;d had the courtesy to take an interest in what I had to say. We could finally have a real talk.</p>
-<p>Sorry, though, mate. Prophecy time is over. I&#x27;m a bit busy to tag along while you play hero.</p>
+<p><em>Sorry, though, mate. Prophecy time is over. I&#x27;m a bit busy to tag along while you play hero.</em></p>
 <p>&quot;Yeah, about that. You wanna be a hero, right, kid? You wanna be even greater than this other great hero?&quot;</p>
 <p>&quot;Then, jeez! Don&#x27;t ya think you&#x27;re going about it all wrong?&quot;</p>
 <p>&quot;What do you mean, &#x27;all wrong?&#x27;&quot;</p>
@@ -241,16 +241,16 @@ nav_title = "Extra Chapter"
 <p>The kid&#x27;s eyes went wide.</p>
 <p>&quot;You&#x27;re getting handed an opportunity. The chance for renown beyond what anyone&#x27;s ever had before. You might never get it again.&quot;</p>
 <p>The kid&#x27;s mouth was shut tight. He watched me closely.</p>
-<p>Yeah, I get it. You gotta know even better than me, right? You looked up to him ever since you were little, you heard all about him from your mom and dad, and then when that wasn&#x27;t enough, you went all round the world collecting legends of him. All so you could be even better.</p>
-<p>Guess what, kid? If you beat Orsted, you sure as hell will be.</p>
-<p>&quot;Impossible,&quot; he said. &quot;For years now, no one has known the whereabouts of the Technique God or the Dragon God or the Demon God or the Fighting God. No one knows where Orsted is.&quot;</p>
-<p>Ha, I thought ya might say that.</p>
+<p><em>Yeah, I get it. You gotta know even better than me, right? You looked up to him ever since you were little, you heard all about him from your mom and dad, and then when that wasn&#x27;t enough, you went all round the world collecting legends of him. All so you could be even better.</em></p>
+<p><em>Guess what, kid? If you beat Orsted, you sure as hell will be.</em></p>
+<p>&quot;Impossible,&quot; he said. &quot;For years now, no one has known the whereabouts of the Technique God or the Dragon God or the Demon God <em>or</em> the Fighting God. No one knows where Orsted is.&quot;</p>
+<p><em>Ha, I thought ya might say that.</em></p>
 <p>&quot;True that. But I knew exactly where the Behemoth was.&quot;</p>
 <p>&quot;It wasn&#x27;t the Master.&quot;</p>
 <p>&quot;Hey, what d&#x27;ya want from me? The Master isn&#x27;t gonna show up here for another eighty years.&quot;</p>
 <p>&quot;Is that right? Thank you for telling me. Eighty years from now, I&#x27;ll be back.&quot;</p>
 <p>&quot;Well, eighty years from now is eighty years from now… Don&#x27;t ya want to try your skills against Orsted? He&#x27;s certified as the world&#x27;s strongest. Way stronger than the Technique God— if that guy&#x27;s even still kicking. He&#x27;s been crushing the competition since the Laplace War, and you get to challenge him.&quot;</p>
-<p>He stared at me. No way would this guy have ever looked at me if I weren&#x27;t working for the Man-God. We could have crossed paths at the Adventurers&#x27; Guild and he&#x27;d have ignored me like you would a patch of weeds. I&#x27;m not the shy type, but I wouldn&#x27;t have had the guts to strike up a conversation with a guy like this. He&#x27;s one of the world&#x27;s few SS-rank adventurers, and he was on another level even among them. It&#x27;d be fair to call him the very best of the best. That&#x27;s who this guy was. Even I looked up to him. Back when I started adventuring, I&#x27;d wanted to be like the guy he was trying to surpass now. One day, I swore to myself, I&#x27;m gonna accomplish great things like him.</p>
+<p>He stared at me. No way would this guy have ever looked at me if I weren&#x27;t working for the Man-God. We could have crossed paths at the Adventurers&#x27; Guild and he&#x27;d have ignored me like you would a patch of weeds. I&#x27;m not the shy type, but I wouldn&#x27;t have had the guts to strike up a conversation with a guy like this. He&#x27;s one of the world&#x27;s few SS-rank adventurers, and he was on another level even among them. It&#x27;d be fair to call him the very best of the best. <em>That&#x27;s</em> who this guy was. Even I looked up to him. Back when I started adventuring, I&#x27;d wanted to be like the guy he was trying to surpass now. One day, I swore to myself, <em>I&#x27;m gonna accomplish great things like him</em>.</p>
 <p>Then reality came and kicked me up the ass. I never accomplished so much as one great thing. I was an adventurer for a long time, and I saw things that you&#x27;d want to boast about back home. Problem was, I never did anything except watch. I fixed meals for the ones who accomplished great deeds, got everything set up for them, but when push came to shove, all I did was watch. It was like that with Paul, too. In the fight with the Hydra, I never got near the front line.</p>
 <p>&quot;All right,&quot; he said. &quot;So where is Orsted?&quot;</p>
 <p>&quot;I&#x27;ll tell you, but there&#x27;s a condition.&quot;</p>
@@ -264,12 +264,12 @@ nav_title = "Extra Chapter"
 <p>&quot;Haven&#x27;t you dreamed of him? This real mysterious guy who gives you advice?&quot; I asked.</p>
 <p>&quot;Yes,&quot; he murmured, &quot;I think I did have a dream like that, long ago… You follow his advice?&quot;</p>
 <p>&quot;Well, y&#x27;know.&quot;</p>
-<p>The kid made a face that said he sure as hell wouldn&#x27;t follow any advice from a guy like that and shrugged. But I knew that weren&#x27;t true not when I was here on the Man-God&#x27;s orders to bring him in. See, the Man-God only chooses folks He&#x27;s certain of. The Man-God&#x27;s a coward, you see; real cautious. If anyone blabbed at this stage of the plan, the whole thing would fall apart.</p>
+<p>The kid made a face that said <em>he</em> sure as hell wouldn&#x27;t follow any advice from a guy like that and shrugged. But I knew that weren&#x27;t true not when I was here on the Man-God&#x27;s orders to bring him in. See, the Man-God only chooses folks He&#x27;s certain of. The Man-God&#x27;s a coward, you see; real cautious. If anyone blabbed at this stage of the plan, the whole thing would fall apart.</p>
 <p>&quot;Well? What&#x27;ll it be? I want a yes or no.&quot;</p>
 <p>&quot;Yes, obviously,&quot; he said. He made his decision, just like that. I liked that.</p>
 <p>&quot;I don&#x27;t like the idea of killing innocents, but, as they say, sometimes you&#x27;ve got to get your hands dirty.&quot;</p>
 <p>&quot;&#x27;They&#x27; say, huh? I&#x27;ll take your word for it.&quot; Personally, I didn&#x27;t like the idea of anyone accepting a mission to kill all those guiltless Superd without question, but hey.</p>
-<p>I remembered back when I&#x27;d just barely started adventuring. Back when I almost died, and Ruijerd saved my life. Yeah, all right, I was just following the Man-God&#x27;s instructions back then, too. But look, in my heart, I like to think of myself as an ally to the Superd Clan. I didn&#x27;t have any nasty prejudices against them, certainly. But I&#x27;ve come this far. There&#x27;s nothing for me to do but keep falling and steel myself for the final splat.</p>
+<p>I remembered back when I&#x27;d just barely started adventuring. Back when I almost died, and Ruijerd saved my life. Yeah, all right, I was just following the Man-God&#x27;s instructions back then, too. But look, in my heart, I like to think of myself as an ally to the Superd Clan. I didn&#x27;t have any nasty prejudices against them, certainly. But I&#x27;ve come this far. There&#x27;s nothing for me to do but keep falling and steel myself for the final <em>splat</em>.</p>
 <p>&quot;Right, that&#x27;s all,&quot; I said. &quot;Try and hurry, all right?&quot;</p>
 <p>&quot;Very well. I&#x27;ll set off at once,&quot; he said, then started walking.</p>
 <p>The old desert warriors tried to stop him, but he paid them no mind. He hadn&#x27;t in any way prepared for a journey, but he strode off into the desert like you&#x27;d go for a walk in the park. They don&#x27;t waste time once they make a decision, these guys.</p>

@@ -9,7 +9,7 @@ nav_title = "Epilogue"
 
 <p><strong>A</strong>ccompanying Soldat, I spent about a year bouncing from town to town. We started at the third largest city of the Duchy of Neris; went to the capital, Gyuranza, where Thunderbolt&#x27;s headquarters were located; and then to the city of Caerleon at the very edge of the Ranoa Kingdom.</p>
 <p>As we moved throughout the Three Magic Nations, I began working on my own, independent of Soldat. I was basically doing the same stuff I did back in Rosenburg: joining adventurers on a temporary basis to get my name out there. I didn&#x27;t think I&#x27;d have as much leeway to bend the rules here as I&#x27;d had in Rosenburg, so I only participated in B- to S-ranked missions. I would help Soldat and his party with missions, too. We moved quickly from town to town, switching locations every two to three months.</p>
-<p>The members of Stepped Leader never treated me like a nuisance. In fact, it was just the opposite: They welcomed me, albeit with expressions that seemed to say Oh boy, what has Soldat dragged in this time? Several of them had been brought into the fold by Soldat under similar circumstances. They understood my objective and maintained a respectable distance.</p>
+<p>The members of Stepped Leader never treated me like a nuisance. In fact, it was just the opposite: They welcomed me, albeit with expressions that seemed to say <em>Oh boy, what has Soldat dragged in this time?</em> Several of them had been brought into the fold by Soldat under similar circumstances. They understood my objective and maintained a respectable distance.</p>
 <p>I had no idea what had happened to the members of Counter Arrow. I hadn&#x27;t heard anything about them since that day. Maybe they found some new members, or maybe the jobs got too tough and they decided to return to the Asura Kingdom. Honestly, now that things had calmed down, I wished I&#x27;d tried talking to Sara again.</p>
 <p>Ultimately, though, this was probably for the best. My relationship with Sara and the other members of Counter Arrow had not been part of my original objective, and diddling around in Rosenburg kept me from moving on. I had some lingering regrets</p>
 <p>about not saying anything to them before I left the city, but it wasn&#x27;t worth the stress of reconciliation, either.</p>
@@ -61,7 +61,7 @@ nav_title = "Epilogue"
 <p>&quot;Of course not. I have to pay you for your information. We&#x27;re off to your room. Unless you prefer doing it outside?&quot;</p>
 <p>&quot;Heh, heh… What kind of pervert are you?&quot;</p>
 <p>&quot;You as well, sir. Come along.&quot;</p>
-<p>The two men took her to their inn. No—perhaps it would be more accurate to say that she took them. After all, she was the one most bent on having sex.</p>
+<p>The two men took her to their inn. No—perhaps it would be more accurate to say that <em>she</em> took <em>them</em>. After all, she was the one most bent on having sex.</p>
 <p>The men, for their part, would spend some time wondering if the events of that day been a dream. Unable to forget the night they spent with her, they would linger in that country, searching until war was upon them.</p>
 <p>That, however, is a tale for a different time.</p>
 <p>&quot;Just a bit further.&quot;</p>

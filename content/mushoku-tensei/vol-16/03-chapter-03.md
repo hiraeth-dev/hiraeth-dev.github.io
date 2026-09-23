@@ -11,44 +11,44 @@ nav_title = "Chapter 3"
 <p>When I woke in the morning, he&#x27;d be waiting at the front entrance as Eris and I came out to train in the yard. He would continue to stand at the entrance like a sentry until it was time to go for a walk.</p>
 <p>Once we returned home, he would come into the house and watch over everyone. Leo periodically made rounds of the house to ensure nothing was amiss. If it was, he did his utmost to remedy it. If Lucie was crying, he would comfort her. If Aisha went out shopping, he would accompany her. When asked, he would even walk with Norn to school.</p>
 <p>It was really as though we had our own home security system.</p>
-<p>Leo was incredibly intelligent, heeded whatever my family told him, and was perfectly toilet-trained. As for tricks, he knew wait, down, paw, and beg, and even more complicated things such as spinning three times and barking, plus somersaulting like a cat.</p>
+<p>Leo was incredibly intelligent, heeded whatever my family told him, and was perfectly toilet-trained. As for tricks, he knew <em>wait</em>, <em>down</em>, <em>paw</em>, and <em>beg</em>, and even more complicated things such as spinning three times and barking, plus somersaulting like a cat.</p>
 <p>He was also really submissive toward my family. When Aisha or Norn nervously reached up to pet him, he would wag his tail so hard it was like a helicopter rotor. He was particularly fond of Roxy and acted like a loyal knight around her. His attitude toward her was markedly different from his interactions with everyone else. When Roxy woke up, he would circle around her while wagging his tail and try to shove his head between her legs. The first time he did that, I scolded him, saying, &quot;I&#x27;m the only one who gets to lick her there.&quot; He acted dejected and gave up, but the very next day, he was back at it.</p>
 <p>Roxy normally commuted to work on Dillo&#x27;s back, but I noticed Leo barking at him, as if trying to tell him something. I had no way of deciphering his words or knowing if Dillo was heeding them, but the armadillo seemed to flinch nervously away from Leo. I also spotted Leo hovering at the bottom of the stairs when Roxy climbed them, staring up at her as if worried she might slip and fall. His overprotectiveness almost made me feel like a pathetic husband for not fussing over her as much.</p>
 <p>I wondered why he was so focused on Roxy and Roxy alone, but maybe it was because he was a dog. Perhaps he could sniff out which of our family members was the most impressive.</p>
-<p>Come to think of it, Linia and Pursena seemed to have the same ability.</p>
+<p><em>Come to think of it, Linia and Pursena seemed to have the same ability.</em></p>
 <p>Despite acting as the perfect servant with Roxy, Leo and Eris weren&#x27;t the most compatible. Or rather, Leo seemed put off by Eris. She, on the other hand, absolutely adored animals. She loved nothing more than burying her face in their soft fur and giving them a squeeze. Perhaps she had cornered him and done just that without me knowing. The Mad Sword King&#x27;s power was no joke. I had experienced it myself. When she embraced someone with all her strength, it was like being crushed to death by a bear. Your life flashed before your eyes.</p>
 <p>I didn&#x27;t mind her hugging me like that, but I could understand why Leo might keep a wide berth. He only approached her when it was time to go for a walk, whereupon the two of them would check the house&#x27;s perimeter before setting off.</p>
 <p>I had a feeling this had to do with her stamina. A walk for him wasn&#x27;t a stroll around the block; I suspected he was circling the entire city on his little outings. To accomplish that so quickly required impressive speed, and the only person in our household who could match such a pace was Eris. Sylphie might be able to keep up if she tried, but just barely. In any case, Leo typically chose Eris as his</p>
 <p>partner when going for walks. Maybe he considered her a fellow security guard.</p>
 <p>Incidentally, Leo&#x27;s territory encompassed a two-kilometer radius around our house. He wouldn&#x27;t let so much as a stray cat into his territory. From the look of things, he was making good on his mission to protect our family. This whole Guardian Beast business had given me more peace of mind than I expected.</p>
-<p>A dog was definitely a good pick.</p>
+<p><em>A dog was definitely a good pick.</em></p>
 <p>The only issue was that said dog also happened to be the protector god of the beastfolk tribe. When Ghislaine came over to check in on Eris, she was gobsmacked to find Leo here.</p>
 <p>&quot;I can&#x27;t understand him when he speaks,&quot; she said. &quot;But it seems to me that he came here of his own volition, in which case the Doldia Tribe should have no complaints.&quot;</p>
-<p>So I should be fine.</p>
+<p><em>So I should be fine.</em></p>
 <p>It was time for me to move on to the next step of the plan. And, just on time, Luke showed up at our house.</p>
 <p>I had gone out on a short errand that only took about twenty minutes. When I got home, Luke was standing at our front gate.</p>
-<p>I immediately hid in the shadows to keep an eye on him, remembering what Orsted had told me about the Man-God being able to manipulate people. I also recalled the entry in my diary which mentioned Luke being used by the Man-God to bring Sylphie down. My future self was admittedly a bit paranoid, so his word might not be the most reliable, but if the Man-God did want to take down Sylphie or Ariel, Luke would prove an effective puppet. Sylphie did rely on him, after all, regardless of what she said about him.</p>
+<p>I immediately hid in the shadows to keep an eye on him, remembering what Orsted had told me about the Man-God being able to manipulate people. I also recalled the entry in my diary which mentioned Luke being used by the Man-God to bring Sylphie down. My future self was admittedly a bit paranoid, so his word might not be the most reliable, but if the Man-God <em>did</em> want to take down Sylphie or Ariel, Luke would prove an effective puppet. Sylphie did rely on him, after all, regardless of what she said about him.</p>
 <p>In other words, Luke had the highest probability of being chosen as one of the Man-God&#x27;s apostles. If we were going to war with him,</p>
 <p>it would be paramount to locate his followers and suss out their motives. With that in mind, I kept a close eye on him as I darted from shadow to shadow until I was close enough to hear his voice.</p>
 <p>&quot;I never knew someone as amazing as you had come to this city! You&#x27;re wonderful—adorable. Your eyes are so beautiful and full of determination, and your hair is soft as silk. You&#x27;re like an angel—no, like a goddess of beauty come to grace this world with your presence! It took but a single glance for my heart to be stolen!&quot;</p>
 <p>His words made my head ache.</p>
-<p>What a bunch of overused cliches.</p>
+<p><em>What a bunch of overused cliches.</em></p>
 <p>Even I would never say something so sappy and exaggerated. But maybe such things were perfectly normal in this world? If I said something like that to Sylphie, she&#x27;d probably go red as a tomato. I could just imagine her smiling shyly and saying, &quot;You don&#x27;t need to work so hard to butter me up. I&#x27;m already all yours, Rudy. Ehehe.&quot;</p>
 <p>&quot;Oh, pardon my manners,&quot; said Luke. &quot;I haven&#x27;t even introduced myself. I am Luke Notos Greyrat, and the second son of my household. The Notos Greyrats preside over one of the four major regions of Asura Kingdom.&quot;</p>
 <p>If he really was one of the Man-God&#x27;s flunkies, it made sense that he&#x27;d lay it on thick when flirting with a girl, especially if it was at the Man-God&#x27;s command. It would be weird for him to go to such lengths if not. Luke had no shortage of women flocking to him. Based on what Sylphie had told me, he saw girls as little more than disposable sex toys.</p>
-<p>More importantly, who in the heck was he trying to talk up right now? I couldn&#x27;t get a good look from where I was hiding. If he was likening his target to an angel, the first person that came to mind was Sylphie, but he wouldn&#x27;t dare talk to her like that. The word goddess immediately brought Roxy to mind—since that was precisely what she was to me—but it couldn&#x27;t be her, either. So then…Aisha maybe? No, she was more like a little devil than an angel.</p>
+<p>More importantly, who in the heck was he trying to talk up right now? I couldn&#x27;t get a good look from where I was hiding. If he was likening his target to an angel, the first person that came to mind was Sylphie, but he wouldn&#x27;t dare talk to her like that. The word <em>goddess</em> immediately brought Roxy to mind—since that was precisely what she was to me—but it couldn&#x27;t be her, either. So then…Aisha maybe? No, she was more like a little devil than an angel.</p>
 <p>&quot;If I might be so bold, would you honor me with your name? Of course, I understand if you don&#x27;t wish to tell me your last name. But I beseech you, o beautiful one, to at least share your first name as consolation, that I might engrave it into my heart.&quot;</p>
 <p>At least I&#x27;d be able to hear the name of the target of his affections soon. Who was he trying to win over? Once I knew the answer, I could figure out who the Man-God was aiming for. Of course, this assumed that Luke really was one of the Man-God&#x27;s apostles. I couldn&#x27;t discount the possibility that he&#x27;d just fallen in love with one of my family members at first sight.</p>
-<p>Although if it&#x27;s the latter, I am little better than a peeping tom.</p>
+<p><em>Although if it&#x27;s the latter, I am little better than a peeping tom.</em></p>
 <p>&quot;Ah, I see you refuse to share your name with me. Then at the very least, I beg of you to give me the honor of kissing your hand. That alone will be enough to console me.&quot; He bent forward, stretching a hand toward the other person.</p>
 <p>His head jerked momentarily. Then his entire body froze.</p>
-<p>What happened?</p>
+<p><em>What happened?</em></p>
 <p>Clearly something was up. Had the Man-God attacked him? Or was he being controlled right this very minute?</p>
 <p>As I contemplated such questions, Luke suddenly sank to his knees and collapsed. He didn&#x27;t even twitch. He&#x27;d completely lost consciousness. What on earth had happened?</p>
-<p>Wait, I&#x27;m pretty sure I&#x27;ve witnessed this before. The jerking, the collapsing, and the losing of consciousness… Oh, god, it makes my own head pound.</p>
+<p><em>Wait, I&#x27;m pretty sure I&#x27;ve witnessed this before. The jerking, the collapsing, and the losing of consciousness… Oh, god, it makes my own head pound.</em></p>
 <p>&quot;Hmph.&quot;</p>
 <p>After Luke slumped over, a woman stepped out of our gate and stared down at him. She slammed her foot into his unconscious head.</p>
-<p>Eris. Eris is the one who knocked him out.</p>
+<p><em>Eris. Eris is the one who knocked him out.</em></p>
 <p>&quot;What&#x27;s your problem? Appearing out of nowhere and babbling like a lunatic!&quot; She wrinkled her nose, kicking him again to shove him off the walkway. Then she marched back into the house as if nothing had happened.</p>
 <p>I slipped from the shadows and went over to Luke. He was still out cold, the whites of his eyes showing. She&#x27;d KO-ed him real good. I had to question his morals for daring to hit on one of my wives…but come to think of it, though I had reported to Ariel and Luke when I made it home, I hadn&#x27;t yet told them about my marriage. In fact, this was his first time meeting Eris.</p>
 <p>Still, I was shocked he&#x27;d tried to make a pass at her like that. Maybe the original timeline where the two of them got together had some influence over him. Or perhaps it was proof that he really was in league with the Man-God. It was difficult to be sure, either way.</p>
@@ -57,12 +57,12 @@ nav_title = "Chapter 3"
 <p>Eris was there to greet me, though she was silent at first. Her face lit up when she saw me, but the moment she spotted Luke, she knitted her brows and crossed her arms.</p>
 <p>&quot;You know this guy?&quot; she asked.</p>
 <p>&quot;Yeah. Well, I guess you could say he&#x27;s Sylphie&#x27;s colleague, to be more precise.&quot;</p>
-<p>Oh? She&#x27;s being awfully meek.</p>
+<p><em>Oh? She&#x27;s being awfully meek.</em></p>
 <p>I shook my head. &quot;It&#x27;s fine. I bet it was his own fault for saying something inappropriate.&quot;</p>
 <p>&quot;It was,&quot; she agreed.</p>
 <p>&quot;Well, then he has only himself to blame.&quot;</p>
 <p>He got his just desserts for trying to lay his grimy hands on my Eris. All the same, I was going to lay him down somewhere so he could rest.</p>
-<p>Hm, he&#x27;d be in the way if I put him in the living room. Maybe I should just throw him in one of the empty rooms on the first floor.</p>
+<p><em>Hm, he&#x27;d be in the way if I put him in the living room. Maybe I should just throw him in one of the empty rooms on the first floor.</em></p>
 <p>&quot;Hey, Rudeus,&quot; Eris called after me.</p>
 <p>&quot;Yes?&quot;</p>
 <p>&quot;Do you also want to kiss my hand?&quot;</p>
@@ -70,23 +70,23 @@ nav_title = "Chapter 3"
 <p>&quot;I&#x27;d rather kiss your lips than your hand.&quot;</p>
 <p>That earned me a swift punch to the gut. She didn&#x27;t pack much power behind it, but her aim was so accurate that she caught me right in the liver.</p>
 <p>&quot;That&#x27;s off limits until night time,&quot; Eris huffed, her face going bright red as she stomped toward the living room.</p>
-<p>Ah, okay. So I&#x27;m free to claim them at night, then. Looking forward to it.</p>
+<p><em>Ah, okay. So I&#x27;m free to claim them at night, then. Looking forward to it.</em></p>
 <p>That aside… What should I do now? Personally, I wanted to consult Sylphie quickly so I could convey my wish to aid Ariel. That way, the lot of us could work together to persuade Perugius to join her side. Alas, I had no idea what had motivated Luke to travel here. If he&#x27;d come to cause problems on behalf of the Man-God, I certainly couldn&#x27;t let that fly.</p>
-<p>I guess I&#x27;ll wait &#x27;til Luke wakes up.</p>
+<p><em>I guess I&#x27;ll wait &#x27;til Luke wakes up.</em></p>
 <p>***</p>
 <p>While Luke remained unconscious, I went to check in on Sylphie and the others. I would be heartbroken if something awful were to happen to the rest of my family members while I was preoccupied with Luke. Though that was probably unlikely, given that Eris was here.</p>
 <p>Leo was at the top of the stairwell on the second floor, sitting obediently with an alert expression. I passed him and checked several of the rooms. Roxy&#x27;s room was littered with clothes but otherwise unoccupied. Considering Dillo was absent as well, it was probably safe to bet she&#x27;d already left for the academy.</p>
 <p>Sylphie and Aisha were cooking in the kitchen. I beat a hasty retreat, not wanting to interrupt them. I found Zenith tucked in her bed, asleep, with Lilia reading a book at her side. Nothing amiss there.</p>
 <p>I found Eris playing with Lucie in the living room. Lucie had grabbed Eris&#x27;s hands and climbed on top of the sofa, while Eris nervously supported her and looked on. It was a heartwarming sight, but I could only savor it for a few moments. I then returned to the empty room where I&#x27;d left Luke.</p>
 <p>He had already regained consciousness by the time I got back. &quot;I had a dream about a red-haired angel. She was beautiful and sweet, but she was also so strong. My ideal woman. But when I tried to kiss her hand, I woke up.&quot; He was sitting up, his eyes vacant as he mumbled incomprehensibly to himself.</p>
-<p>He&#x27;s probably got some brain damage from Eris&#x27;s punch. Wait, that can&#x27;t be it. He was saying that angel crap before she smacked him.</p>
+<p><em>He&#x27;s probably got some brain damage from Eris&#x27;s punch. Wait, that can&#x27;t be it. He was saying that angel crap before she smacked him.</em></p>
 <p>&quot;Please calm down, Master Luke. There is no red-haired angel.&quot;</p>
 <p>&quot;Oh, it&#x27;s you, Rudeus…&quot; He glanced at me absently. &quot;Wait, what are you doing here? Huh? Where am… I&#x27;m in your house? Just a moment ago, I was at the front gate, and this angel… What&#x27;s going on?&quot;</p>
 <p>His memories were all muddled. At least it didn&#x27;t seem like he&#x27;d met the Man-God during his brief lapse of consciousness.</p>
 <p>&quot;Aah!&quot; Luke glanced behind me and screamed.</p>
 <p>I looked back and Eris was there. She&#x27;d shoved the door open and was staring in.</p>
 <p>&quot;Hmph!&quot; She took one glance at Luke, huffed, and marched back toward the living room. Apparently, she had been at least a little worried about him.</p>
-<p>My fragile maiden&#x27;s heart was pounding with worry. Don&#x27;t tell me she&#x27;s already started developing some feelings for him? That can&#x27;t be, right?</p>
+<p>My fragile maiden&#x27;s heart was pounding with worry. <em>Don&#x27;t tell me she&#x27;s already started developing some feelings for him? That can&#x27;t be, right?</em></p>
 <p>&quot;Ah, wait! Your name—please at least give me your name! If you could also give me your address and tell me your favorite flower, I would be forever grateful! Oh, and I&#x27;d be delighted if you could tell me what kind of man you like!&quot;</p>
 <p>&quot;Please calm yourself,&quot; I said. &quot;This is her address. She lives here.&quot;</p>
 <p>I managed to restrain Luke from following her out of the room, but he grabbed me by the shoulders and brought his face close.</p>
@@ -112,11 +112,11 @@ nav_title = "Chapter 3"
 <p>The timing was far too convenient. It was reasonable to think he was the Man-God&#x27;s lackey, trying to change the course of history. I couldn&#x27;t shake that suspicion, but I would hear him out either way. I assumed he would try to find some way to lead me toward my own destruction or otherwise try to impede Ariel&#x27;s ascension to the throne.</p>
 <p>&quot;Would you lend us…that is, would you lend Princess Ariel your aid?&quot;</p>
 <p>I couldn&#x27;t believe my ears.</p>
-<p>What the heck is going on? He&#x27;s asking for my aid? Shouldn&#x27;t he be asking for the opposite?</p>
+<p><em>What the heck is going on? He&#x27;s asking for my aid? Shouldn&#x27;t he be asking for the opposite?</em></p>
 <p>No, I had made it perfectly clear that I would assist her if needed. He wasn&#x27;t approaching me with such a request out of the blue.</p>
 <p>&quot;Of course. I would be more than happy to, but why are you asking this when I&#x27;ve already said I would help?&quot;</p>
 <p>&quot;Your skills with magic and ability to befriend people with difficult personalities is astounding. On top of that, you demonstrated your fighting capabilities by returning home alive from a battle with the Dragon God. He even took you on as his subordinate. Truly, such feats are impressive beyond words.&quot;</p>
-<p>Okay, it makes me a little uneasy when you go out of your way to compliment me like that.</p>
+<p><em>Okay, it makes me a little uneasy when you go out of your way to compliment me like that.</em></p>
 <p>&quot;However, we feared involving you would disrupt Sylphie&#x27;s happiness.&quot; Luke lifted his head. &quot;That is why we never explicitly requested your assistance until now. We couldn&#x27;t. Neither Princess Ariel nor I wish to involve Sylphie in this power struggle any more than we already have.&quot;</p>
 <p>He&#x27;d said as much earlier, when the two of us dueled.</p>
 <p>&quot;But…&quot; Luke dropped his gaze.</p>
@@ -141,19 +141,19 @@ nav_title = "Chapter 3"
 <p>&quot;Great or not, you&#x27;re a reliable fighter, and you have connections. You&#x27;re acquainted with Lord Perugius, the Dragon God, a demon king, the grandson of the Millis pope, the entire Doldia tribe, and Silent Sevenstar. Your contacts alone are impressive—and we&#x27;re not even asking you to use those contacts. It&#x27;s the fact that you&#x27;re so well-connected that proves you possess something special. I wish only that you might share a bit of that with Princess Ariel.&quot;</p>
 <p>I kept silent.</p>
 <p>Perhaps I&#x27;d suspected an ulterior motive behind Luke&#x27;s compliments because I hadn&#x27;t spoken with him much. Still, I wondered… Was he really the Man-God&#x27;s puppet or not? Orsted had already ordered me to assist Ariel, so I would have helped whether or not Luke requested it. However, the fact that he beat me to the punch made me question if he was doing it of his own volition.</p>
-<p>Maybe I should try some trick questions and see what he says.</p>
+<p><em>Maybe I should try some trick questions and see what he says.</em></p>
 <p>&quot;Who ordered you to come see me?&quot; I asked.</p>
 <p>&quot;Ordered me? If you mean Her Highness, she made no such request.&quot;</p>
 <p>&quot;Which means someone else advised you to come to me?&quot;</p>
 <p>Luke shook his head. &quot;I decided to come here on my own.&quot;</p>
 <p>&quot;Man-God? I remember hearing that name when we were visiting Lord Perugius. Who exactly is that?&quot;</p>
-<p>Well, if he was in league with the Man-God, he wouldn&#x27;t show his hand that easily. The Man-God never told me to keep our association hush-hush, but there was nothing to say he wouldn&#x27;t forbid anyone else from speaking about him.</p>
+<p>Well, if he <em>was</em> in league with the Man-God, he wouldn&#x27;t show his hand that easily. The Man-God never told me to keep our association hush-hush, but there was nothing to say he wouldn&#x27;t forbid anyone else from speaking about him.</p>
 <p>Luke eyed me, baffled by my question, but after a few moments, he scratched the back of his head and said, &quot;I guess it does sound as if I&#x27;m contradicting myself. We do wish for Sylphie&#x27;s happiness, and it is possible we might rob her of that by involving her in our conflict with the kingdom. If they label us as insurgents, even the Magic Nations won&#x27;t be able to shield us.&quot;</p>
 <p>That part scared me as well. There was no telling what might happen if we made an enemy of Asura. According to my journal from the future, Sylphie had died as a result, and the Holy Kingdom of Millis had managed to kill Zanoba. Sure, I could fight decently enough. If I unleashed my magic at its maximum potential, I could even wipe out an enormous number of enemies at once. I would even be fearsome in close combat once we had my Magic Armor repaired. Orsted had admitted he couldn&#x27;t hold back when facing me in that armor.</p>
 <p>That being said, it was naive to expect to win every battle you fought head-on. Not even an idiot would fight a pro wrestler barehanded. To defeat someone like that, you might stab them in the back, poison them, or use money to pressure them into submission. If you couldn&#x27;t beat someone with power alone, you just had to use some other means.</p>
 <p>My future self had fortified his defenses by forging a strong relationship with the kingdom of Asura. Enough that they didn&#x27;t come after him, at least. Better yet, they even valued him enough to refuse the Holy Kingdom&#x27;s request to hand him over.</p>
 <p>How would things go this time? With Leo in our house, would the other countries hold back, not wanting to strain their relationship with the beast tribe? How good of a protector would he prove to be? Orsted had assured me I would be fine as long as I had my Guardian Beast. According to him, Leo would be perfectly capable of keeping my family safe, since he had his own strong destiny.</p>
-<p>But can that little pup really guard my family all by himself?</p>
+<p><em>But can that little pup really guard my family all by himself?</em></p>
 <p>&quot;However,&quot; said Luke, &quot;since you have the Dragon God backing you, I think it won&#x27;t taint all Sylphie&#x27;s joy if we get her involved now.&quot;</p>
 <p>I wasn&#x27;t so sure about that. There were places where Orsted&#x27;s influence had no power. The people of this world might have heard of the Seven Great Powers, but they didn&#x27;t seem to realize how strong they were, or how far beyond human their abilities were.</p>
 <p>&quot;Having the Dragon God&#x27;s support doesn&#x27;t mean my life wouldn&#x27;t be at risk,&quot; I said.</p>
@@ -170,7 +170,7 @@ nav_title = "Chapter 3"
 <p>Luke smiled, despite looking like he wanted to cry. Apparently, he thought this was my way of turning him down. He got to his feet, and after a long pause, said, &quot;All right. Sorry to bother you.&quot;</p>
 <p>&quot;Not at all. I will give you my official answer in a couple of days. I promise.&quot;</p>
 <p>His shoulders slumped as he shuffled out of the room. I followed him, intending to see him out. We made our way through the hall and toward the front door. Leo was standing at the top of the stairwell as he had been earlier, peering down at us. He let out a low growl, as if to let Luke know he wouldn&#x27;t get past him to the second floor.</p>
-<p>Does this mean Luke really is suspicious? Though I have no idea if Leo can sniff out the Man-God&#x27;s puppets with his nose alone.</p>
+<p><em>Does this mean Luke really is suspicious? Though I have no idea if Leo can sniff out the Man-God&#x27;s puppets with his nose alone.</em></p>
 <p>&quot;Oh…&quot; Eris peeked out of the living room, having heard the growling.</p>
 <p>Luke immediately put a hand to his chest and bowed. &quot;Missus, I realize I was ignorant of your identity before, but I still apologize for my rude behavior. I do hope we will meet again someday.&quot;</p>
 <p>Eris reached down to grab her skirt for a curtsey, only to belatedly realize she was wearing pants. She scowled, feeling awkward, and crossed her arms over her chest. &quot;I&#x27;ll be sure to entertain you properly next time.&quot;</p>

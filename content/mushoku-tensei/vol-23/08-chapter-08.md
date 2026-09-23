@@ -10,7 +10,7 @@ nav_title = "Chapter 8"
 <p><strong>Chapter 8: A North God, an Adventurer, and More…</strong></p>
 <p><strong>N</strong>ORTH GOD KALMAN was one of the three heroes who cooperated to slay the Demon God Laplace during the Laplace War. That said, North God Kalman the First—so-called to distinguish him from his successors was rather boring when compared to his fellow heroes, Armored Dragon King Perugius and Dragon God Urupen. Naturally, he was also less famous. If an exam required students to name the Three Godslayers, no doubt the one the student would struggle to remember would be North God Kalman.</p>
 <p>It wasn&#x27;t until North God Kalman the Second that the name became famous. The holder of that title was Alex Rybak. He traveled throughout the world, leaving tales of his heroic deeds in his wake. These stories were later recounted by troubadours and novelists who spread the legend even farther. With so many people telling them, the stories took on a sort of life of their own. Point being, the North God was only famous because of the second guy to bear the title.</p>
-<p>North God Kalman the First made an appearance in Legend of Perugius, but he was still more of a supporting character than anything else. In it, North God Kalman was portrayed as a swordsman with incredible techniques. How incredible? He was able to defeat Demon King Atoferatofe single-handedly. Those sword skills saved Perugius on multiple occasions. He and his seven companions triumphed on their dangerous journey and survived the Laplace War.</p>
+<p>North God Kalman the First made an appearance in <em>Legend of Perugius</em>, but he was still more of a supporting character than anything else. In it, North God Kalman was portrayed as a swordsman with incredible techniques. How incredible? He was able to defeat Demon King Atoferatofe single-handedly. Those sword skills saved Perugius on multiple occasions. He and his seven companions triumphed on their dangerous journey and survived the Laplace War.</p>
 <p>Sure, North God Kalman was impressive in his own right, but he couldn&#x27;t manipulate an entire floating fortress like Perugius. He didn&#x27;t encroach on Laplace&#x27;s territory with twelve subordinates, face Laplace one-on-one like Dragon God Urupen, or have any other notable episodes to make him memorable. Instead, his subtle strength supported the two more renowned members of their trio from the shadows.</p>
 <p>There was more to his story than just that, however.</p>
 <p>In the wake of the Laplace War, the Demon God&#x27;s remaining forces continued to resist across the lands their master had conquered. That was when North God Kalman went on all by himself to face Demon King Atofe. After a protracted battle, he at last claimed victory over her. None</p>
@@ -23,7 +23,7 @@ nav_title = "Chapter 8"
 <p>North God Kalman the Third seemed the most likely candidate for becoming another of the Man-God&#x27;s disciples. According to Orsted, the chances were quite high, if not certain, and so he was the next on my list to locate. I was hoping to add the man to our roster of allies before he joined the Man-God. If he already had, then it was my duty to dispose of him.</p>
 <p>Judging by what Orsted had told me, Kalman the Third was likely on the Central Continent in the Conflict Zone. He was also, without a doubt, more powerful than me. I would need to carefully assess the</p>
 <p>situation to confirm whether he was an enemy and discover a foolproof plan for defeating him if that was the case.</p>
-<p>Gonna have to really brace myself for this one.</p>
+<p><em>Gonna have to really brace myself for this one.</em></p>
 <p>***</p>
 <p>Anyway, that was how I wound up bringing Eris with me once more. We set out for the southern part of the Central Continent where the Conflict Zone was located.</p>
 <p>The name of this region by itself was unsettling. The place was dotted with countries, settlements, and tribes that couldn&#x27;t quite be classified as sovereign nations, and all of them were locked in neverending warfare with one another. It was like this world&#x27;s version of Japan&#x27;s Warring States period.</p>
@@ -32,7 +32,7 @@ nav_title = "Chapter 8"
 <p>For a while, there was no strife between them, but as each realm gained more power and their borders became established, they clashed. The situation changed. It began with small skirmishes that ballooned, pulling in every nearby nation. This was the opening act of the Period of Conflict.</p>
 <p>The King Dragon Realm was the first nation to extricate itself from the chaos of war in that period. Its capital was planted in the bowels of the continent&#x27;s southern region—a less-than-ideal location. Real-estate value aside, its borders encroached on the lair of the King Dragons from which the realm derived its name. The King Dragon Realm formed an execution squad to drive the King Dragons out and successfully claimed the mountain where they had resided. This allowed the Realm to get its hands</p>
 <p>on mineral resources, and in an instant, they became the strongest of the countries in the southern region.</p>
-<p>Like the Oda Nobunaga of the southern provinces, I thought.</p>
+<p><em>Like the Oda Nobunaga of the southern provinces,</em> I thought.</p>
 <p>At any rate, the King Dragon Realm hoped to use that momentum to claim the territories in the south and began invading its neighbors. They occupied a number of countries along the coast, their names now lost to history, and claimed Sanakia Kingdom, Kikka Kingdom, and Shirone Kingdom as vassal states. Using Shirone Kingdom as a foothold, the King Dragon Realm was poised to move in on the Conflict Zone and conquer the entire area to add to its expansive territories.</p>
 <p>Their plans were thwarted by two countries who intervened: the Asura Kingdom and the Holy Kingdom of Millis. They pressured the King Dragon Realm, warning them that if they invaded the Conflict Zone, Asura and Millis would not stand by and watch it happen. All three signed a pact, agreeing they would not interfere with the Conflict Zone.</p>
 <p>Each of these three powers desperately wanted the land in the center of the Central Continent, of course. Each independently came up with the same idea: they would pull the strings of a chosen ruler within the region. Someday, one of the countries would unite the Conflict Zone, and if their chosen champion sat at the helm, they&#x27;d make that country their vassal state.</p>
@@ -45,32 +45,32 @@ nav_title = "Chapter 8"
 <p>The backing of a power like Asura or Millis in the Conflict Zone wasn&#x27;t a surefire asset here like it was elsewhere. That was why I had decided to pass myself off as a simple adventurer for this trip. Eris and I made up a two-man squad—a swordsman and a magician. An A-rank duo who had come out this way to adventure into some labyrinths. That was our cover story. North God Kalman the Third was also an adventurer, from what I understood, so it was the perfect excuse for making contact with him.</p>
 <p>With all that decided, Eris and I made our way to Gardenia Kingdom&#x27;s town of Kide. It was a beautiful place, blessed by the fertile soil so common to the Central Continent. Beautiful Gardenia was only one of many countries nestled in the Conflict Zone.</p>
 <p>The architecture here was far more primitive than what you would find in either Asura or the King Dragon Realm. The town lacked an underground sewer system, so the smell of excrement hung heavy in the streets. Meanwhile, the townspeople milling about had a dead look in their eyes, and a group of men in unusually heavy armor kept an inordinately sharp eye out as they went on their guard&#x27;s rounds. It wasn&#x27;t somewhere I wanted to stay for very long.</p>
-<p>According to Orsted, North God Kalman the Third kept a headquarters around this area at the moment. Why would he choose such a dangerous place? I wondered. The man aspired to be a hero. Perhaps so he enjoyed staying in such volatile places, where things were liable to take a sudden, violent turn.</p>
+<p>According to Orsted, North God Kalman the Third kept a headquarters around this area at the moment. <em>Why would he choose such a dangerous place?</em> I wondered. The man aspired to be a hero. Perhaps so he enjoyed staying in such volatile places, where things were liable to take a sudden, violent turn.</p>
 <p>world who could count themselves among the SS-rank, and he was one of them. That was the pinnacle of the Adventurers&#x27; Guild. Despite all of his success, North God Kalman the Third didn&#x27;t have the humility of a master. He boasted and stuck his nose where it didn&#x27;t belong. Like, what was he, the protagonist of a light novel or something?</p>
 <p>Thankfully, that meant it ought to be fairly easy to get information on him if I visited the local Adventurers&#x27; Guild.</p>
 <p>***</p>
 <p>Kide&#x27;s Adventurers&#x27; Guild was a tired, shabby place. The building itself was old, with noticeable signs of repair throughout, and it was filthy. It made no attempt to varnish the fact that it sat at the center of war and death. To me, it looked like an isolated figure in a desolate waste, almost too tired to carry on.</p>
 <p>&quot;That&#x27;s why I&#x27;m saying we should get moving now while we&#x27;ve got the chance!&quot;</p>
-<p>Once we passed through the rickety old door to the entrance, a woman&#x27;s voice suddenly boomed around us. It was uncannily familiar. I was sure I had forgotten it, but the moment it hit my ears, it came with a rush of nostalgia. Yes, that&#x27;s right. That&#x27;s what she sounded like.</p>
+<p>Once we passed through the rickety old door to the entrance, a woman&#x27;s voice suddenly boomed around us. It was uncannily familiar. I was sure I had forgotten it, but the moment it hit my ears, it came with a rush of nostalgia. <em>Yes, that&#x27;s right. That&#x27;s what she sounded like.</em></p>
 <p>This was more laid-back than I recalled her being, and despite her shouting, there was something more rational about the way she spoke.</p>
 <p>&quot;There&#x27;s no way. The front lines are too close. We&#x27;ll get swept up in it.&quot;</p>
 <p>&quot;But you understand the reality of it, don&#x27;t you?&quot;</p>
-<p>When I followed the sound of the voice, I found a familiar face to match. Her blonde hair had grown down to her shoulders, and she was a little taller, too. Wait, actually, maybe she&#x27;s the same height? Her face certainly looked more mature than I remembered. She had become an adult woman. Her attire looked more expensive and more practical, but her armor was covered in scratches. A bow and quiver—a rare weapon for any adventurer to choose—hung at her back. At first, I thought it was the same primitive one she&#x27;d used in the past, but closer inspection revealed it was an impressive composite bow.</p>
+<p>When I followed the sound of the voice, I found a familiar face to match. Her blonde hair had grown down to her shoulders, and she was a little taller, too. <em>Wait, actually, maybe she&#x27;s the same height?</em> Her face certainly looked more mature than I remembered. She had become an adult woman. Her attire looked more expensive and more practical, but her armor was covered in scratches. A bow and quiver—a rare weapon for any adventurer to choose—hung at her back. At first, I thought it was the same primitive one she&#x27;d used in the past, but closer inspection revealed it was an impressive composite bow.</p>
 <p>brusque facade so that nobody would speak down to her. Our second chance meeting was in the Magic City of Sharia, where she&#x27;d accepted a job as Ariel&#x27;s bodyguard—the two of us had just happened to bump into one another. Back then, she&#x27;d struck me as the backbone of her party.</p>
 <p>&quot;If we move right now, the army&#x27;s definitely gonna find us at the border. Whether that&#x27;s Gardenia&#x27;s army or Nekrina&#x27;s, the outcome is the same. I shouldn&#x27;t have to spell it out. You know what&#x27;ll happen to us, don&#x27;t you?&quot;</p>
 <p>&quot;But if we don&#x27;t move, then Nekrina&#x27;s army may storm this town!&quot;</p>
 <p>&quot;Or maybe not.&quot;</p>
 <p>&quot;Same could be said for us making a move now. They might not find us, either!&quot;</p>
 <p>This woman looked much more like a veteran after all this time. She was trading opinions with a woman I presumed to be the party leader. Sure, the words sounded argumentative, but her voice was too steady for it to be a serious fight. The other people around them—I assumed other party members—didn&#x27;t strike me as overconfident. They weren&#x27;t deathly pale and overcome with despair, either. They were simply standing there, waiting for their leader to come to a final decision. Each of them were calmly listening, assessing the circumstances and how best to overcome them.</p>
-<p>I had seen a party like this once before. Pretty sure it was an S-rank party discussing stuff before heading into a labyrinth. Perhaps Fangs of the Black Wolf had been the same way. Not that Paul was anywhere near as laid-back as the members of this party.</p>
+<p>I had seen a party like this once before. <em>Pretty sure it was an S-rank party discussing stuff before heading into a labyrinth.</em> Perhaps Fangs of the Black Wolf had been the same way. Not that Paul was anywhere near as laid-back as the members of this party.</p>
 <p>Parties that reached S-rank weren&#x27;t anything like those cobbled together haphazardly; these people had a choice, and it forged a sense of solidarity.</p>
 <p>&quot;Ah.&quot;</p>
-<p>While I was lost in my reverie, one of the members turned her gaze this way, twirling a strand of hair in her fingers. She was a mage, and she wore pigtails. Did I know her? Pretty sure her name was Alisa or something? She was really attached to Roxy, I remembered. It was hard to forget someone who liked Roxy that much.</p>
+<p>While I was lost in my reverie, one of the members turned her gaze this way, twirling a strand of hair in her fingers. She was a mage, and she wore pigtails. Did I know her? <em>Pretty sure her name was Alisa or something?</em> She was really attached to Roxy, I remembered. It was hard to forget someone who liked Roxy that much.</p>
 <p>Alisa was about fifteen years old when I met her. She&#x27;d called all of the members of her party &quot;Elder Sister,&quot; if I recall right. There was</p>
 <p>nothing childish about her anymore. She, too, had a veteran air about her, even as she simply sat in a chair. No longer was her clothing youthful and cutesy. This was a seasoned mage. If you stood the two of us side-by-side and asked which of us seemed the more reliable choice, she&#x27;d be the safer bet.</p>
-<p>Maybe that&#x27;s only natural. It has been five years.</p>
+<p><em>Maybe that&#x27;s only natural. It has been five years.</em></p>
 <p>&quot;It&#x27;s Sara&#x27;s old fling,&quot; Alisa blurted out.</p>
-<p>Her abrupt exclamation jolted the other women into looking up at me. I had gotten used to women looking at me like that. Wonder why? I guess my wives glared at me a few times a day. This went double for the one immediately behind me, who was standing with her legs spread out shoulder-width beneath her. Eris, please don&#x27;t glare daggers at me. I&#x27;m not the same man I was back then, and we didn&#x27;t even go all the way. In fact, my &quot;old fling,&quot; if I have one, is you.</p>
+<p>Her abrupt exclamation jolted the other women into looking up at me. I had gotten used to women looking at me like that. <em>Wonder why?</em> I guess my wives glared at me a few times a day. This went double for the one immediately behind me, who was standing with her legs spread out shoulder-width beneath her. <em>Eris, please don&#x27;t glare daggers at me. I&#x27;m not the same man I was back then, and we didn&#x27;t even go all the way. In fact, my &quot;old fling,&quot; if I have one, is you.</em></p>
 <p>&quot;Rudeus?!&quot; Sara gasped.</p>
 <p>In my younger years—or, to be more specific, the years when I was suffering from erectile dysfunction after Eris left me—there had been an archer in the adventuring party who&#x27;d looked out for me. Her name was Sara.</p>
 <p>&quot;It&#x27;s been a while,&quot; I said.</p>
@@ -93,39 +93,39 @@ nav_title = "Chapter 8"
 <p>&quot;I don&#x27;t need your coin anyway. You can pay me another way.&quot; I flashed a mischievous smile at them, and every woman&#x27;s face instantly hardened. Even Sara was giving me an intimidating look. However, after a moment, her grimace crumbled and gave way to a strained smile.</p>
 <p>&quot;Fine. But there&#x27;s a lotta girls in our party who&#x27;ve got a real hatred for men, so…make do with just me, okay? Though, who knows if you&#x27;ll even be able to get it up for me.&quot;</p>
 <p>&quot;No, that wasn&#x27;t what I meant! I want information, okay! Why&#x27;re you all looking at me like that?!&quot;</p>
-<p>I guess my mischievous smile had been more of a leer. And here I thought I&#x27;d gotten better at it.</p>
+<p>I guess my mischievous smile had been more of a leer. <em>And here I thought I&#x27;d gotten better at it.</em></p>
 <p>&quot;I&#x27;ve got three loving wives, thank you. I don&#x27;t need any more women!&quot;</p>
-<p>&quot;Oh? Too bad. I was thinking we could finally have a do-over of that day,&quot; teased Sara. She was the only one who seemed to understand I&#x27;d been joking. Not that I&#x27;d intended it as a joke.</p>
+<p>&quot;Oh? Too bad. I was thinking we could finally have a do-over of that day,&quot; teased Sara. She was the only one who seemed to understand I&#x27;d been joking. <em>Not that I&#x27;d intended it as a joke.</em></p>
 <p>&quot;Don&#x27;t tease like that, least of all in front of my wife,&quot; I said. &quot;Right, Eris?&quot; I glanced back at her to find her in her usual pose.</p>
-<p>Eris grunted. &quot;Rudeus won&#x27;t even touch my breasts right now. There&#x27;s no way he would mean it that way!&quot;</p>
-<p>Ah ha! See, this is the kind of trust you build by being an all-around decent guy. Eris was exactly right, too. I wasn&#x27;t exactly short on willing women. If I needed to, I could wait until bedtime, feel up Eris&#x27;s breasts all I wanted, and wake up the next morning relieved and refreshed. Wait… would that mean she&#x27;d lose her faith in me again?</p>
+<p>Eris grunted. &quot;Rudeus won&#x27;t even touch <em>my</em> breasts right now. There&#x27;s no way he would mean it that way!&quot;</p>
+<p><em>Ah ha! See, this is the kind of trust you build by being an all-around decent guy.</em> Eris was exactly right, too. I wasn&#x27;t exactly short on willing women. If I needed to, I could wait until bedtime, feel up Eris&#x27;s breasts all I wanted, and wake up the next morning relieved and refreshed. <em>Wait… would that mean she&#x27;d lose her faith in me again?</em></p>
 <p>Having heard what Eris had to say, the women of the Amazons looked very relieved. That settled one problem…and another immediately cropped up.</p>
 <p>Sara&#x27;s face had grown dark. &quot;Eris?&quot; she asked.</p>
 <p>&quot;What?&quot; Eris snapped at her.</p>
 <p>&quot;Eris, as in the woman who abandoned Rudeus?&quot;</p>
-<p>Uh-oh.</p>
+<p><em>Uh-oh.</em></p>
 <p>&quot;I didn&#x27;t abandon him.&quot;</p>
 <p>&quot;Oh, yeah? Rudeus said you did, though. I guess he forgave you for it and let you marry him, then?&quot;</p>
-<p>That hostility was obvious enough that both me and Eris picked up on it. Eris&#x27;s face scrunched, annoyed at the other woman&#x27;s audacity. This really, really isn&#x27;t good. You&#x27;d better knock it off, Sara. This is the one person you seriously don&#x27;t wanna pick a fight with. She&#x27;s not gonna let you play this off as a joke.</p>
+<p>That hostility was obvious enough that both me and Eris picked up on it. Eris&#x27;s face scrunched, annoyed at the other woman&#x27;s audacity. <em>This really, really isn&#x27;t good. You&#x27;d better knock it off, Sara. This is the one person you seriously don&#x27;t wanna pick a fight with. She&#x27;s not gonna let you play this off as a joke.</em></p>
 <p>&quot;Sara, drop it,&quot; Alisa said with a teasing tone. &quot;Bickering with the wife isn&#x27;t how you win a man back.&quot;</p>
 <p>&quot;No! That&#x27;s not what I&#x27;m after!&quot;</p>
 <p>This elicited a light chuckle from the crowd. The tension broke, and I let out the breath I was holding.</p>
 <p>&quot;So, um, Sara, about that whole thing… There&#x27;s some pretty delicate circumstances involved,&quot; I tried to explain. &quot;The two of us had a sort of misunderstanding, or to be more precise, I got the wrong idea…&quot;</p>
 <p>&quot;Yeah, I figured. If there weren&#x27;t some extenuating circumstances, your other scary bodyguard wife would never have gone back to you.</p>
-<p>Other scary wife? Ah, she must be referring to Sylphie. Sara did have a point there. Sylphie had forgiven me for marrying other women, yes, but she was also very picky about who she was willing to accept into our family. She had allowed Roxy and Eris in, but whatever rigid criteria she kept had ruled Nanahoshi out. I was equally remorseful for how I&#x27;d handled things, but grateful for her graciousness through the whole situation.</p>
-<p>&quot;Well, I&#x27;ll let you fill me in on the delicate details later. Now what info is it you&#x27;re wanting?&quot; Sara asked.</p>
+<p>Other scary wife? <em>Ah, she must be referring to Sylphie.</em> Sara did have a point there. Sylphie had forgiven me for marrying other women, yes, but she was also very picky about who she was willing to accept into our family. She had allowed Roxy and Eris in, but whatever rigid criteria she kept had ruled Nanahoshi out. I was equally remorseful for how I&#x27;d handled things, but grateful for her graciousness through the whole situation.</p>
+<p>&quot;Well, I&#x27;ll let you fill me in on the <em>delicate</em> details later. Now what info is it you&#x27;re wanting?&quot; Sara asked.</p>
 <p>Finally, she let us get to our actual business here. This whole situation had been tying my stomach in knots, and I hoped the subject wouldn&#x27;t come up again.</p>
 <p>moment. We heard he was using this area as his base of operations.&quot;</p>
 <p>&quot;North God Kalman?!&quot; cried an unfamiliar girl as she leapt to her feet. She looked about eighteen years old, with chestnut-brown hair and an energetic air about her. There was a sword hanging at her hip, suggesting she was either a swordsman or warrior. A frontline fighter, certainly. She wasn&#x27;t part of the Amazons the last time I saw them. &quot;Oh, oh! I know about him! I&#x27;m a big fan!&quot;</p>
-<p>&quot;So you are!&quot; I said. He&#x27;s got himself some fans, huh? Guess that&#x27;s to be expected. He is an SS-rank adventurer.</p>
+<p>&quot;So you are!&quot; I said. <em>He&#x27;s got himself some fans, huh? Guess that&#x27;s to be expected. He is an SS-rank adventurer.</em></p>
 <p>&quot;He was in this area about three years ago. I&#x27;ve heard rumors that he&#x27;s moved to Hammerpolka!&quot;</p>
-<p>Three years ago? Awfully old info for someone who considers themselves a fan, but I guess that&#x27;s how it goes. Unlike my previous world, this one didn&#x27;t have the benefit of the Internet to track your favorite celebs.</p>
+<p><em>Three years ago? Awfully old info for someone who considers themselves a fan, but I guess that&#x27;s how it goes.</em> Unlike my previous world, this one didn&#x27;t have the benefit of the Internet to track your favorite celebs.</p>
 <p>&quot;Hammerpolka is in the Markien Mercenary Country! That&#x27;s directly south from here. Oh! Can you believe it? That&#x27;s in the exact opposite direction of Nekrina Kingdom! And we just happen to want to cross the border and head to the safer southern region! This is practically a godsend, isn&#x27;t it?! Don&#x27;t you think, Mr. Sub-Leader&#x27;s-Old-Fling?!&quot;</p>
-<p>She was awfully glib, not that I minded. She reminded me of Aisha, actually. I worried she wasn&#x27;t a fan of North God Kalman at all and was telling me this to help them get out of their jam. Whatever. I&#x27;ll just keep an eye out for info to verify what she&#x27;s telling me.</p>
+<p>She was awfully glib, not that I minded. She reminded me of Aisha, actually. I worried she wasn&#x27;t a fan of North God Kalman at all and was telling me this to help them get out of their jam. <em>Whatever. I&#x27;ll just keep an eye out for info to verify what she&#x27;s telling me.</em></p>
 <p>&quot;Even if he were in the complete opposite direction of where you guys want to go, I still plan to see you off,&quot; I said.</p>
 <p>&quot;Really?! I guess I should have expected such compassion from the sub leader&#x27;s former fling! You&#x27;re a real peach! Wish we could swap ya with Sara…she&#x27;s just got a real tummy pooch!&quot;</p>
 <p>My eyes wandered instinctively to Sara&#x27;s stomach, which she promptly hid with her arms.</p>
-<p>&quot;It is not a &#x27;pooch!&#x27;&quot; Her voice was the most menacing I&#x27;d heard all day. I almost ducked behind Eris in fear.</p>
+<p>&quot;It is <em>not</em> a &#x27;pooch!&#x27;&quot; Her voice was the most menacing I&#x27;d heard all day. I almost ducked behind Eris in fear.</p>
 <p>I mean, she was a little thicker, but I was not in a position to judge considering how I&#x27;d looked in a previous life. That was for certain.</p>
 <p>&quot;Anyway, how about we start heading for Hammerpolka then?&quot; I offered.</p>
 <p>With that, the Amazons joined up with Eris and me, and our little party set out to bypass the country&#x27;s border.</p>
@@ -144,25 +144,25 @@ nav_title = "Chapter 8"
 <p>&quot;We received a report of a group of people holding a passage permit from Millis. Are we correct in assuming you are that party?&quot;</p>
 <p>I nodded. &quot;Yes, that would be us.&quot;</p>
 <p>&quot;We have received no contact from the top informing us about you and your party. We will need to inspect your permit.&quot;</p>
-<p>Holy crap. It&#x27;s only been an hour or so since we used that passage permit and crossed the border. Isn&#x27;t this a little fast? Are you telling me the Missionary Knights are everywhere? Scary.</p>
+<p><em>Holy crap. It&#x27;s only been an hour or so since we used that passage permit and crossed the border. Isn&#x27;t this a little fast? Are you telling me the Missionary Knights are everywhere? Scary.</em></p>
 <p>&quot;Perfectly understandable. Please have a look.&quot; I quickly showed the permit to them.</p>
 <p>One of the knights snatched it out of my hand and began carefully scrutinizing it. He quickly lifted the visor on his helmet as if shocked, then glanced between my face and the permit in his hand and whispered to one of his comrades. His compatriot produced a mage&#x27;s beginner wand, which he used to prod the permit. The jewel capping the wand gave off a pale glow. The men traded glances between each other, nodded, and dismounted from their horses. Soon after their feet hit the ground, they knelt in front of us. The man who&#x27;d taken my permit reverently offered the permit back to me, cupping it in his hands.</p>
 <p>&quot;Our sincere apologies for such impertinence! We had no idea you were the Lady Blessed Child&#x27;s envoy.&quot;</p>
-<p>Thank goodness. Looks like we&#x27;re cleared of suspicion.</p>
+<p><em>Thank goodness. Looks like we&#x27;re cleared of suspicion.</em></p>
 <p>&quot;Not at all. Thank you men for your diligent work,&quot; I said politely, retrieving my permit. To my eyes, all I could see were a number of Millis emblems stamped across the front of the permit, but apparently something about it indicated that it came from the Blessed Child. I guess they&#x27;d done more than a routine counterfeit check.</p>
 <p>It was a strange feeling, having a group of highly distinguished knights take a knee in front of me like this. Like something out of a period drama.</p>
 <p>&quot;I must ask, however, what brings Her Holiness&#x27;s envoy out to these parts?&quot;</p>
 <p>&quot;Might we ask who?&quot;</p>
 <p>&quot;North God Kalman. Do you know of him?&quot;</p>
 <p>The knight nodded. &quot;Yes, but the North God is no longer in this area. We have heard rumors that he left quite a while ago for Hammerpolka. It seems he has recently left that area as well, so his current whereabouts are unknown.&quot;</p>
-<p>Crap, really? If he&#x27;d already left this area three years ago, it did kind of make sense for him to have already moved on from the new town he&#x27;d taken lodgings in.</p>
+<p><em>Crap, really?</em> If he&#x27;d already left this area three years ago, it did kind of make sense for him to have already moved on from the new town he&#x27;d taken lodgings in.</p>
 <p>&quot;I&#x27;m also searching for a demon with the face of a monkey. Guy named Geese.&quot;</p>
 <p>&quot;A demonfolk? To what end?&quot; The knight&#x27;s eyes gleamed with enmity, sending a chill down my spine.</p>
 <p>&quot;Well…he&#x27;s my enemy. I want to know where he is so I can defeat him,&quot; I said.</p>
 <p>&quot;Aha, so that is your aim! I am unaware of the man&#x27;s name, but a demon with a monkey face has been spotted recently in Hammerpolka.&quot;</p>
-<p>Hey, that is some helpful information. Then again, I didn&#x27;t think Geese would be that easy to locate. It could easily be someone else. There was still a possibility that we might bump into him here by sheer coincidence. He was probably moving his pieces on the board, same as I was.</p>
+<p><em>Hey, that</em> is <em>some helpful information.</em> Then again, I didn&#x27;t think Geese would be that easy to locate. It could easily be someone else. There was still a possibility that we might bump into him here by sheer coincidence. He was probably moving his pieces on the board, same as I was.</p>
 <p>&quot;Should you require it, we could send our fastest rider there to apprehend the man,&quot; offered the knight.</p>
-<p>Hm, should I take him up on it? If it was Geese and he realized I was the one having him captured, he&#x27;d probably try to escape, wouldn&#x27;t he? Hmm.</p>
+<p><em>Hm, should I take him up on it?</em> If it was Geese and he realized I was the one having him captured, he&#x27;d probably try to escape, wouldn&#x27;t he? <em>Hmm.</em></p>
 <p>&quot;How many Missionary Knights do you have at your disposal?&quot; I asked.</p>
 <p>&quot;In Hammerpolka, ten.&quot;</p>
 <p>&quot;I see. Please capture the man.&quot;</p>
@@ -180,7 +180,7 @@ nav_title = "Chapter 8"
 <p>The man sucked in a sharp breath. &quot;Yes, as you say, sir! My humblest apologies!&quot;</p>
 <p>There were many men in Asura Kingdom who were gay, after all. Beautiful men who surrounded themselves with those of the same sex to form a gay harem. So really, the gender of your party didn&#x27;t matter, did it? Fortunately, Millis wasn&#x27;t so closed-minded as to forbid homosexuality. Harems were a total no-go, though, for any sex or orientation. At least they were egalitarian about that.</p>
 <p>&quot;Please excuse us then!&quot;</p>
-<p>The two knights climbed on their mounts and left, looking surprisingly pleased with the answer I had given them. I was simply glad I had managed to dodge any further trouble. At least if they did later discover I wasn&#x27;t a follower of Millis, I hadn&#x27;t lied to them about that. This shouldn&#x27;t cause any problems down the line at least. I hope.</p>
+<p>The two knights climbed on their mounts and left, looking surprisingly pleased with the answer I had given them. I was simply glad I had managed to dodge any further trouble. At least if they did later discover I wasn&#x27;t a follower of Millis, I hadn&#x27;t lied to them about that. <em>This shouldn&#x27;t cause any problems down the line at least. I hope.</em></p>
 <p>&quot;What?&quot; I asked, noticing the look Sara was giving me.</p>
 <p>&quot;Nothing. Just…it was real after all.&quot;</p>
 <p>&quot;What, you thought I would use a counterfeit and expose everyone to danger?&quot;</p>
@@ -188,44 +188,44 @@ nav_title = "Chapter 8"
 <p>&quot;Well, I&#x27;m in the line of work where this is typical.&quot;</p>
 <p>The Orsted Corporation was nothing if not focused on the future. Thus, to protect the well-being of his employees, our CEO had established some impressive connections.</p>
 <p>&quot;Yeah? Guess you&#x27;ve moved up in the world since I met you. A real big shot.&quot;</p>
-<p>I don&#x27;t think I&#x27;m a big shot, honestly.</p>
+<p><em>I don&#x27;t think I&#x27;m a big shot, honestly.</em></p>
 <p>***</p>
 <p>That evening, we made camp by the roadside. We started two bonfires and assigned someone to guard each one. That wasn&#x27;t a suggestion anyone made, either—it was something the Amazons did habitually. I figured, given Sara&#x27;s mention that some of the girls really hated men, it was an attempt to get what distance from me they could when they slept.</p>
 <p>I wasn&#x27;t bothered by it. I wasn&#x27;t like those old men who frequented hostess bars and got huffy when the girl they had their eye on wouldn&#x27;t stop by their seats. Eris slept beside me, and that was more than enough. If I got truly desperate, I had a little memento from Roxy tucked in my pocket as well.</p>
 <p>It wasn&#x27;t as though I trusted all the members of Amazons, either. There was a possibility one of the Man-God&#x27;s disciples could be hidden among them. For that reason, I decided Eris and I would take turns on our own lookout duty rather than leave it entirely to the Amazons.</p>
 <p>Eris planted herself on the ground, back against a tree, her sword cradled in her arms as she drifted off to sleep. Ruijerd used to sleep like that, in that same cool heroic pose. I wondered when she&#x27;d picked up that habit. Her face was surprisingly relaxed as she slept. I was used to seeing</p>
 <p>her disciplined expression even when she was fast asleep, but for some reason she was all smiles tonight.</p>
-<p>Maybe she&#x27;s having a really good dream. The Eris I knew now was standoffish and didn&#x27;t really share her emotions, but at her core, she was no different from before. As heartening as it was to see her mature, it was a bit sad, too.</p>
+<p><em>Maybe she&#x27;s having a really good dream.</em> The Eris I knew now was standoffish and didn&#x27;t really share her emotions, but at her core, she was no different from before. As heartening as it was to see her mature, it was a bit sad, too.</p>
 <p>It was about time for me to tap out and let her stand watch. I almost didn&#x27;t have the heart to wake her.</p>
 <p>&quot;You&#x27;re doing a good job staying awake,&quot; Sara commented as she plopped down beside me. She had two mugs in her hands with towers of steam rising from them. She held one of them out toward me, grunting as if that would be enough for me to understand that I should take it.</p>
 
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-23/insert-04.webp" alt="Illustration" loading="lazy" />
 </div>
-<p>&quot;Thanks,&quot; I said, deciding to oblige her. Inside the mug was a relatively opaque red liquid. I&#x27;d never seen anything like it before. It didn&#x27;t look like tomato soup. When I took a whiff, the smell nearly burned my nostrils. Whatever it was, I suspected it was spicy. &quot;What is this exactly?&quot;</p>
+<p>&quot;Thanks,&quot; I said, deciding to oblige her. Inside the mug was a relatively opaque red liquid. I&#x27;d never seen anything like it before. It didn&#x27;t look like tomato soup. When I took a whiff, the smell nearly burned my nostrils. Whatever it was, I suspected it was spicy. &quot;What <em>is</em> this exactly?&quot;</p>
 <p>&quot;Alisa&#x27;s special soup to ward off drowsiness.&quot;</p>
-<p>Uh-huh, some kinda anti-sleep tonic… There&#x27;s no poison in this, is there?</p>
+<p><em>Uh-huh, some kinda anti-sleep tonic… There&#x27;s no poison in this, is there?</em></p>
 <p>&quot;Well,&quot; I said, &quot;I&#x27;ll gladly have some, then.&quot;</p>
 <p>I couldn&#x27;t very well perform detoxification magic right in front of her. She&#x27;d really be disgusted with me if I did. Instead, I decided to sip gingerly and test it.</p>
 <p>I let only the smallest amount drip over my tongue, which was just enough for the savory flavor to spread through my mouth. It was only after I had swallowed it down that a belated tingling sensation lingered. I had imagined something fiery hot, but surprisingly, it wasn&#x27;t all that spicy. Several seconds later, I felt a warm sensation in my stomach and throat like the gentle burn of ginger tea.</p>
 <p>&quot;It&#x27;s delicious.&quot;</p>
 <p>Sara grinned. &quot;Right?&quot; She began sipping on her soup as well.</p>
-<p>Yes, ma&#x27;am. But don&#x27;t you think you&#x27;re sitting a mite close? If either of us were to lean ever so slightly closer, our shoulders might brush against one another. …Nah. I was probably being too self-conscious.</p>
+<p><em>Yes, ma&#x27;am. But don&#x27;t you think you&#x27;re sitting a mite close? If either of us were to lean ever so slightly closer, our shoulders might brush against one another.</em> …Nah. I was probably being too self-conscious.</p>
 <p>&quot;Say, Rudeus…&quot; Sara began. &quot;What&#x27;re you doing right now?&quot;</p>
 <p>&quot;What do you mean?&quot;</p>
-<p>At the moment, I was experiencing heart palpitations because I was sitting super close to a girl. Okay, come on, get it together. Yes, I had three wives already. I fully understood how inappropriate it would be to commit adultery. I was also trying to keep a vow of celibacy at the moment. Could anyone genuinely blame me for feeling a little flustered over a beautiful woman sitting so close? I shoved my hand in my pocket, squeezing the fabric inside as I prayed. God, give me strength!</p>
+<p>At the moment, I was experiencing heart palpitations because I was sitting super close to a girl. <em>Okay, come on, get it together.</em> Yes, I had three wives already. I fully understood how inappropriate it would be to commit adultery. I was also trying to keep a vow of celibacy at the moment. Could anyone genuinely blame me for feeling a little flustered over a beautiful woman sitting so close? I shoved my hand in my pocket, squeezing the fabric inside as I prayed. <em>God, give me strength!</em></p>
 <p>&quot;I mean, I figured you were still in Sharia doing research with the Magicians&#x27; Guild or something like that. Or that you were working as a professor, teaching people magic.&quot;</p>
 <p>&quot;You were good at teaching magic, remember?&quot;</p>
 <p>Was I? Had I taught Sara any magic? I couldn&#x27;t remember.</p>
 <p>Sara went on, &quot;Or I figured maybe you were in Asura Kingdom, working as Princess Ariel&#x27;s bodyguard alongside your wife. Wait, I guess she took the crown a couple of years ago, huh? I wasn&#x27;t in Asura for all of that, so I&#x27;ve got no idea.&quot;</p>
 <p>&quot;Yes. I did help her succeed the throne.&quot;</p>
 <p>&quot;So, you did help… But it&#x27;s not like you&#x27;re serving directly under her or anything.&quot;</p>
-<p>Ohh. So that&#x27;s what she meant when she asked what I&#x27;m doing right now.</p>
+<p><em>Ohh. So that&#x27;s what she meant when she asked what I&#x27;m doing right now.</em></p>
 <p>&quot;I&#x27;m serving under someone else,&quot; I said.</p>
 <p>&quot;Someone else?&quot;</p>
 <p>&quot;Dragon God Orsted.&quot;</p>
 <p>&quot;Dragon God…? One of the Seven Great Powers?&quot;</p>
-<p>Oh, I guess she knows about them. They&#x27;re not all that famous among adventurers, in my experience… That&#x27;s surprising.</p>
+<p><em>Oh, I guess she knows about them. They&#x27;re not all that famous among adventurers, in my experience… That&#x27;s surprising.</em></p>
 <p>I nodded. &quot;That&#x27;s right. I work as his underling, supporting his goals around the world.&quot;</p>
 <p>&quot;So you&#x27;re his servant? How in the world did you wind up in that kind of position? Did you submit an application or something and win him over? Like, &#x27;I swear I&#x27;ll be of use to you, so please make me your subordinate!&#x27; Something like that?&quot;</p>
 <p>&quot;It&#x27;s a long story.&quot;</p>
@@ -249,13 +249,13 @@ nav_title = "Chapter 8"
 <p>I frowned. &quot;I mean it, he really does. Everyone hates him because of his curse, too.&quot;</p>
 <p>&quot;Bwahaha!&quot;</p>
 <p>Sara must have found this truly hilarious because for the next few minutes she continued cackling, arms wrapped around her stomach. The only reason she stifled it at all was to avoid waking those who were fast asleep around us.</p>
-<p>&quot;Oh, man,&quot; she said at last when she&#x27;d calmed down.</p>
+<p>&quot;Oh, <em>man</em>,&quot; she said at last when she&#x27;d calmed down.</p>
 <p>&quot;The whole reason I was able to patch things up with Eris was thanks to my fight with Orsted. In a way, Sir Orsted&#x27;s kind of like my own personal cupid.&quot;</p>
 <p>Sara quirked a brow at me. &quot;A cupid with a scary face?&quot;</p>
 <p>&quot;You got it.&quot;</p>
-<p>Sara was racked by another fit of giggles that left her choking and coughing. Is it that funny? I don&#x27;t understand these kids and their newfangled humor.</p>
+<p>Sara was racked by another fit of giggles that left her choking and coughing. <em>Is it</em> that <em>funny? I don&#x27;t understand these kids and their newfangled humor.</em></p>
 <p>&quot;Phew,&quot; she breathed out at last, having recomposed herself. She turned her gaze toward me. Perhaps it was only the light of the bonfire dancing on her cheeks, but it looked as if she was blushing.</p>
-<p>Maybe she&#x27;s about to admit to having feelings for me… If she does, I&#x27;ll have to let her down. Suavely, of course, like a proper man. I already have two wives and a husband, after all. Despite cracking jokes to myself to ease my tension, my whole body froze up in anticipation.</p>
+<p><em>Maybe she&#x27;s about to admit to having feelings for me… If she does, I&#x27;ll have to let her down. Suavely, of course, like a proper man. I already have two wives and a husband, after all.</em> Despite cracking jokes to myself to ease my tension, my whole body froze up in anticipation.</p>
 <p>&quot;You sure have changed, Rudeus,&quot; Sara went on. &quot;Even more than since you were the princess&#x27;s bodyguard.&quot;</p>
 <p>Her eyes misted over. Wow, she was bewitching. My breathing quickened, beads of sweat trickling down my forehead. I shoved my hand into my pocket again, clenching the holy relic within in a tight fist.</p>
 <p>&quot;Oh, would you look at the time?&quot; Sara said suddenly, interrupting the moment. &quot;Looks like we got lost in conversation. It&#x27;s about time for me to tag out with the next watch.&quot;</p>
@@ -268,9 +268,9 @@ nav_title = "Chapter 8"
 <p>&quot;Since you said that stuff about Orsted being cupid.&quot;</p>
 <p>&quot;What would you think, if he really had been our matchmaker?&quot;</p>
 <p>&quot;Gross.&quot;</p>
-<p>Oof, that was blunt. But maybe it was a given for someone under the effects of Orsted&#x27;s curse.</p>
+<p><em>Oof, that was blunt.</em> But maybe it was a given for someone under the effects of Orsted&#x27;s curse.</p>
 <p>&quot;But if he&#x27;s why we got together, then…I-I guess I could be grateful to him,&quot; she admitted reluctantly, leaning her head against my shoulder.</p>
-<p>Ahh, I can feel the love.</p>
+<p><em>Ahh, I can feel the love.</em></p>
 <p>&quot;Eris?&quot;</p>
 <p>&quot;What.&quot; It sounded more like a statement than a question. Typical Eris.</p>
 <p>&quot;Let me rest my head in your lap.&quot;</p>
@@ -278,16 +278,16 @@ nav_title = "Chapter 8"
 <p>I adjusted my position, placing my head on top of her thighs. The stiffness I&#x27;d felt in my body moments earlier disappeared. I was no longer covered in a cold sweat, either. Maybe Eris had sensed I was being driven into a corner and swooped in to rescue me.</p>
 <p>&quot;I&#x27;ll keep watch until morning. You can sleep until then,&quot; Eris said.</p>
 <p>&quot;Mm. Thanks.&quot;</p>
-<p>Eris&#x27;s thighs were a little firm to make a good pillow, but they brought me comfort. My little man down south seemed to sense the danger had passed and eagerly lifted his head, but danger or not, he wasn&#x27;t going to see any action. Behave yourself, I scolded him, as if he weren&#x27;t me.</p>
+<p>Eris&#x27;s thighs were a little firm to make a good pillow, but they brought me comfort. My little man down south seemed to sense the danger had passed and eagerly lifted his head, but danger or not, he wasn&#x27;t going to see any action. <em>Behave yourself,</em> I scolded him, as if he weren&#x27;t me.</p>
 <p>With that, I fell fast asleep.</p>
 <p>As we made our way down the highway the next morning, we spotted a monolith jutting up into the sky, large enough we could see it even from a distance. As we grew closer, the smoke that curled up from the base of it came into focus. A town. This was Hammerpolka, which lay on the edge of the Markien Mercenary Country.</p>
-<p>When we approached the entrance, we spotted a metal sign standing beside it. It read: Hammerpolka, the Smithing Town. Indeed, Hammerpolka&#x27;s smithing industry was thriving. Beneath the towering monolith lay deposits of top-quality minerals, which the townspeople processed into ore. With this, they did a healthy trade with other countries.</p>
+<p>When we approached the entrance, we spotted a metal sign standing beside it. It read: <em>Hammerpolka, the Smithing Town</em>. Indeed, Hammerpolka&#x27;s smithing industry was thriving. Beneath the towering monolith lay deposits of top-quality minerals, which the townspeople processed into ore. With this, they did a healthy trade with other countries.</p>
 <p>As we entered the town, the banging of metal echoed all around us, much like you&#x27;d find in a dwarven settlement. Despite this, few referred to this place as a smithing town in practice. They called it Hammerpolka, the Mercenary Town.</p>
 <p>If it wasn&#x27;t obvious from the name, an enormous mercenary band founded this nation. They&#x27;d worked as merchants of death, selling their services to (or practicing them on) their neighbors.</p>
 <p>In this economy, Hammerpolka was responsible for the production of military equipment. It was a great place for the mercenaries of the country to get suited up. Eventually, foreign mercenaries also came here for the same purpose. Almost all of the world&#x27;s most famous mercenary bands made their headquarters here.</p>
 <p>Ruquag&#x27;s Mercenary Band was an exception to that rule, as you might expect. What, you think we have a way to go before we&#x27;re world famous? Well, maybe. But with Aisha handling it and subcontracting work out, we would get there eventually.</p>
 <p>As expected of a town that outfitted mercenaries, a bunch of roughlooking people walked its streets. The atmosphere wasn&#x27;t nearly as oppressive as the Sword Sanctum, though, perhaps because this was a relatively safe area. Or it could be because I considered mercenaries to be more level-headed.</p>
-<p>Not to say I think Sword God-style swordsmen incapable of basic human conversation, just so we&#x27;re clear. It&#x27;s just…they have a tendency to use their swords before their words.</p>
+<p><em>Not to say I think Sword God-style swordsmen incapable of basic human conversation, just so we&#x27;re clear. It&#x27;s just…they have a tendency to use their swords before their words.</em></p>
 <p>Many of the men we saw on the street stole glances at Eris. She would glare back at them, but rather than interpret that as a challenge and pick a fight with her, they would smirk and walk off. We were safe for the moment, but there was no telling when someone would be stupid enough to provoke her. I was terrified we&#x27;d have a massacre on our hands if that happened.</p>
 <p>&quot;I was worried you were too confident about how smoothly our trip would go, but it looks like we&#x27;re here safe and sound.&quot; Sara stopped walking suddenly. &quot;You&#x27;ve brought us far enough. You know, you really saved our asses.&quot;</p>
 <p>&quot;You sure this is as far as you need me to take you? I could see you out of the Conflict Zone if you want.&quot;</p>
@@ -300,7 +300,7 @@ nav_title = "Chapter 8"
 <p>&quot;We&#x27;re not children. We can take it from here,&quot; Sara assured me.</p>
 <p>&quot;All right.&quot;</p>
 <p>&quot;Besides, seems like you&#x27;ve got your own stuff to worry about. We&#x27;ll excuse ourselves here, so we don&#x27;t get in your way.&quot;</p>
-<p>Get in my way, huh… True, if Geese were in this town, there&#x27;d be a battle. I couldn&#x27;t risk getting Sara and the rest of her party wrapped up in that.</p>
+<p><em>Get in my way, huh…</em> True, if Geese were in this town, there&#x27;d be a battle. I couldn&#x27;t risk getting Sara and the rest of her party wrapped up in that.</p>
 <p>&quot;Even if I did wanna hire you as a bodyguard, my body wouldn&#x27;t be enough for you anyway,&quot; Sara said.</p>
 <p>I wanted to reassure her that wasn&#x27;t true, but judging by what happened last night, she was probably right. Her body wouldn&#x27;t work as payment.</p>
 <p>&quot;Then this is it,&quot; I said.</p>

@@ -11,7 +11,7 @@ nav_title = "Chapter 6"
 <p>We planned to hold the wedding reception in the afternoon, since it fell on a holiday. Jenius declined our invitation, as did Soldat, on account of being busy with meetings. I figured Badigadi would be too busy to come as well, but surprisingly, he was free and indicated he would attend. The other eleven invitations we&#x27;d sent out were all accepted. Yes, even Nanahoshi&#x27;s.</p>
 <p>On the day of the reception, Sylphie was all fired up from the very moment she woke. &quot;This is a wife&#x27;s job, so just leave it to me!&quot; she said as she bustled around the house. We&#x27;d prepped an empty room on the second floor for the occasion, by which I meant we&#x27;d furnished it with a modest bed, closet, and table, plus a water pitcher in case someone happened to get sick and needed it.</p>
 <p>Linia and Pursena were the first to show up, right in the midst of our steadily progressing preparations. They had arrived two hours early.</p>
-<p>Don&#x27;t tell me they got the time wrong, I thought.</p>
+<p><em>Don&#x27;t tell me they got the time wrong,</em> I thought.</p>
 <p>&quot;It&#x27;s customary in our culture for those attending to arrive early and bring their own kill, mew.&quot;</p>
 <p>&quot;That&#x27;s right. We got here first. A show of our loyalty.&quot;</p>
 <p>A giant boar sat atop the snow sled they&#x27;d dragged behind them. Apparently it was beastfolk tradition, when attending a wedding, to go hunting in the morning and offer their kill to the host. How early one went out to hunt, make a kill and return with it were all a measure of your respect for the host.</p>
@@ -28,7 +28,7 @@ nav_title = "Chapter 6"
 <p>&quot;What makes sense?&quot; I asked as I served them warm tea.</p>
 <p>&quot;That you have a preference for flat chests,&quot; Pursena said.</p>
 <p>&quot;Even though the stench of arousal is just oozing out of you, the reason you didn&#x27;t attack us was because we&#x27;re not your type, mew.&quot;</p>
-<p>They spoke as if I were some kind of pervert that indiscriminately attacked any woman I saw. Honestly, how rude of them. Maybe I should thoroughly grope them in retaliation—but no. I&#x27;d already sated myself with Sylphie the day before. All of my desire rested within her now. Today I was a sage.</p>
+<p>They spoke as if I were some kind of pervert that indiscriminately attacked any woman I saw. Honestly, how rude of them. Maybe I <em>should</em> thoroughly grope them in retaliation—but no. I&#x27;d already sated myself with Sylphie the day before. All of my desire rested within her now. Today I was a sage.</p>
 <p>The next to arrive were, surprisingly, Zanoba and Julie. They came about an hour before the party. &quot;Pardon. I spied an interesting figurine on the way here, and it distracted me. I would have been in trouble if Julie hadn&#x27;t been with me,&quot; he said.</p>
 <p>Julie was wearing her uniform as well. It was dwarf-sized, and fit her so perfectly she looked cute as a button. &quot;Grandmaster, thank you for inviting us today,&quot; she said as she lifted the edge of her skirt slightly in a polite greeting. Aww, how cute.</p>
 <p>Zanoba bowed again when I glanced his way. Then, in a deeply respectful tone, he said, &quot;Master Rudeus Greyrat. I am deeply grateful for your invitation.&quot;</p>
@@ -37,7 +37,7 @@ nav_title = "Chapter 6"
 <p>&quot;Oh, Master. There&#x27;s no need to show me such courtesy. I know it&#x27;s just for appearance&#x27;s sake, anyway. I&#x27;d much prefer you be rude to me, like you usually are.&quot;</p>
 <p>&quot;Oh, okay. Well, then go hang out in that room.&quot;</p>
 <p>&quot;Ha ha, very well. Come then, Julie, let us be off.&quot;</p>
-<p>What the heck? And there I was, trying to be serious. What a waste, I thought as I prepared more tea. I was still the host and he was still a guest, even if I treated him rudely. While thusly preoccupied, I heard Linia&#x27;s and Pursena&#x27;s boastful voices drifting from the living room. They were bragging about how they&#x27;d gotten here first. I could hear the frustration in Zanoba&#x27;s replies, but I was just glad they were enjoying themselves.</p>
+<p><em>What the heck? And there I was, trying to be serious. What a waste,</em> I thought as I prepared more tea. I was still the host and he was still a guest, even if I treated him rudely. While thusly preoccupied, I heard Linia&#x27;s and Pursena&#x27;s boastful voices drifting from the living room. They were bragging about how they&#x27;d gotten here first. I could hear the frustration in Zanoba&#x27;s replies, but I was just glad they were enjoying themselves.</p>
 <p>Third to arrive was Ariel and her group, thirty minutes before the start of the party. There was Ariel, Luke, and two other female students I&#x27;d seen somewhere before. So these two were the Princess&#x27; attendants? Which meant they were also Sylphie&#x27;s comrades in battle. I couldn&#x27;t afford to ignore them.</p>
 <p>&quot;I am most grateful for your invitation today. Unfortunately, I am a bit unfamiliar with the etiquette of common people, so I pray you will forgive me for any discourtesies,&quot; Ariel said as she bowed. I&#x27;d assume Luke or the attendants would be the ones to bow, but perhaps she was trying to be polite.</p>
 <p>&quot;There are guests of many different races gathered here, so please don&#x27;t worry about etiquette,&quot; I said. &quot;In fact, I&#x27;m more concerned that you&#x27;ll be the one shown discourtesy.&quot;</p>
@@ -73,7 +73,7 @@ nav_title = "Chapter 6"
 <p>&quot;Pleased to meet you. I am Elinalise Dragonroad. That&#x27;s an incredible mask.&quot;</p>
 <p>&quot;A pleasure. Your hairstyle is amazing, too,&quot; Nanahoshi replied in a completely flat tone. Watching how she interacted with them</p>
 <p>made me nervous. Still, she surely wouldn&#x27;t start anything, since she wanted to avoid trouble.</p>
-<p>Honestly, I hadn&#x27;t thought she&#x27;d come. I&#x27;d sent her an invitation just in case, which she&#x27;d accepted. But even then, I hadn&#x27;t thought she would actually attend. She&#x27;d just responded, in a voice devoid of emotion, &quot;Marriage? I guess you really are serious about living here in this world.&quot;</p>
+<p>Honestly, I hadn&#x27;t thought she&#x27;d come. I&#x27;d sent her an invitation just in case, which she&#x27;d accepted. But even then, I hadn&#x27;t thought she would <em>actually</em> attend. She&#x27;d just responded, in a voice devoid of emotion, &quot;Marriage? I guess you really are serious about living here in this world.&quot;</p>
 <p>&quot;This is rare,&quot; I said to her in a low voice. &quot;Seeing you outside that room.&quot;</p>
 <p>&quot;You&#x27;re the one who invited me, aren&#x27;t you?&quot;</p>
 <p>&quot;True enough. Well, just relax today. We made potato chips for you.&quot;</p>
@@ -90,28 +90,28 @@ nav_title = "Chapter 6"
 <p>The party was a cocktail-style buffet. We&#x27;d decided to do away with assigned seating, but fortunately, the room was spacious enough that people could move about even with the table in the middle. We did leave some chairs at the edge of the room in case anyone got tired of standing. The menu was all food that could easily be eaten while standing, and we started by offering everyone a cup of alcohol. Nanahoshi turned down the liquor, so we gave her fruit juice instead.</p>
 <p>I was in charge of the speech for our toast. Sylphie and I stood beside each other, the center of attention. Eleven pairs of eyes gazed expectantly at us. There was nothing unpleasant about their gazes, but I still felt nervous even though I had a speech prepared.</p>
 <p>Sylphie squeezed my hand. She gave me a toothy grin and whispered, &quot;You can do it.&quot;</p>
-<p>Ah, she makes me want to carry her off to the bedroom right now, I thought.</p>
+<p><em>Ah, she makes me want to carry her off to the bedroom right now,</em> I thought.</p>
 <p>&quot;My, my, Rudeus&#x27; face is bright red. Heh heh.&quot;</p>
 <p>Elinalise laughed and, for once, Cliff actually read the room. &quot;Lise, be quiet.&quot;</p>
-<p>Okay then, here goes.</p>
+<p><em>Okay then, here goes.</em></p>
 <p>&quot;Ahem. Thank you for making room in your busy schedules to be with us today. Allow me to make this declaration once again. Sylphie and I are—&quot;</p>
-<p>&quot;Bwahaha! And now I enter with a ba-bang!&quot;</p>
+<p>&quot;Bwahaha! And now I enter with a <em>ba-bang</em>!&quot;</p>
 <p>I thought my heart was going to punch right through my chest from surprise. I looked behind me, and there he was. That black body and tall figure. The six arms, all stuffed into a school uniform bursting at the seams. The Immortal Demon King Badigadi had entered with a bang…through the back door in the kitchen.</p>
 <p>His arrival left everyone speechless, even Cliff. I, too, had no idea what to say.</p>
 <p>&quot;Badgadi, you&#x27;re late,&quot; Elinalise cleverly cut in.</p>
 <p>But Badigadi wasn&#x27;t the least bit concerned. &quot;Hmph. It&#x27;s true I am late, but in my tribe, when a Demon King attends a party, they must wait for the perfect moment to astonish and disrupt the occasion with their entrance. Such is our way.&quot;</p>
 <p>&quot;You&#x27;re kidding, right?&quot;</p>
 <p>&quot;Not at all. Though Kishirika did make up that particular custom on a whim, so I agree it&#x27;s ridiculous!&quot;</p>
-<p>And yet he still did it? What an irrational person. This was why you guys&#x27;ve been eradicated by the humans so many times…</p>
+<p>And yet he still did it? What an irrational person. <em>This was why you guys&#x27;ve been eradicated by the humans so many times…</em></p>
 <p>&quot;I even went out of my way to enter through the back door. Be grateful! Bwahaha!&quot;</p>
-<p>You bastard, I started to think, then stopped myself. No, calm down. This is just how he is. You already knew that, didn&#x27;t you?</p>
+<p><em>You bastard,</em> I started to think, then stopped myself. <em>No, calm down. This is just how he is. You already knew that, didn&#x27;t you?</em></p>
 <p>&quot;Ha ha ha, all right then. Thank you.&quot;</p>
 <p>&quot;No need for thanks. Now then, carry on and marry yourselves before me. Few get to marry in the presence of a Demon King. I don&#x27;t provide those kinds of services, after all!&quot; Badigadi said, before plunking himself on the ground.</p>
-<p>We have chairs, I protested inwardly. But many among the demon folk preferred sitting on the floor, so I guessed it was fine.</p>
+<p><em>We have chairs</em>, I protested inwardly. But many among the demon folk preferred sitting on the floor, so I guessed it was fine.</p>
 <p>&quot;Well then, returning to our previous order of business…&quot; I cleared my throat. &quot;Thank you for making time in your busy schedules to be with us today. Allow me to make this declaration once again. Sylphie and I are getting married. I realize the two of us are still young and lacking in many aspects, but I hope we will have a fruitful life together. Uh, all twelve of you gathered here have been especially close to us within these past couple of years. We&#x27;ve spent less time with some of you than others, but somehow, we were all able to get along, and I consider you friends. Should you ever find yourselves in trouble, I hope to be there to support you, as your friend. Should you ever experience discord amongst yourselves, I hope you&#x27;ll remember us and try to be the bigger person and let things go. Um…&quot;</p>
 <p>Oh crap, this speech was way too stiff. They all had questionable looks on their faces.</p>
 <p>Just then Badigadi gave me a soft pat on the shoulder. &quot;No need for such formality. You two love each other and you want everyone here to recognize that, yes?&quot;</p>
-<p>Oh! Yes, exactly. That was it. Okay! &quot;Well, how to put it? Sylphie and I will be moving forward with our relationship. I hope you&#x27;ll be there for us if we need you. Thank you, everyone.&quot;</p>
+<p><em>Oh! Yes, exactly. That was it. Okay!</em> &quot;Well, how to put it? Sylphie and I will be moving forward with our relationship. I hope you&#x27;ll be there for us if we need you. Thank you, everyone.&quot;</p>
 <p>&quot;Okay, now let us toast to the future of the young couple!&quot;</p>
 <p>&quot;Cheers!&quot;</p>
 <p>Badigadi raised a wine cup that he&#x27;d swiped at some point without me noticing. Everyone joined him by raising theirs. A bit of alcohol was spilled as the party began.</p>
@@ -153,10 +153,10 @@ nav_title = "Chapter 6"
 <p>&quot;I misunderstood, since he spoke the same language as me,&quot; Nanahoshi said. Well, that decided it.</p>
 <p>Last to approach us were Cliff and Elinalise. Cliff had us line up, and then he cut a cross-like shape through the air with one hand, offering a simple prayer. &quot;The two of you aren&#x27;t followers of Millis, but this is the only blessing I know.&quot;</p>
 <p>I was happy for the sentiment, at least. After all, it was extremely common for people to celebrate Christmas but not partake in Mass. I had a god I believed in, but she wouldn&#x27;t mind if I accepted the blessings of another religion.</p>
-<p>&quot;Rudeus, I&#x27;m happy for your recovery,&quot; Elinalise said, with a slightly pouty look on her face. That&#x27;s right. I hadn&#x27;t told her that my impotence had been cured until now. &quot;You know you could have told me a little sooner.&quot;</p>
+<p>&quot;Rudeus, I&#x27;m happy for your recovery,&quot; Elinalise said, with a slightly pouty look on her face. That&#x27;s right. I hadn&#x27;t told her that my impotence had been cured until now. &quot;You know you <em>could</em> have told me a little sooner.&quot;</p>
 <p>&quot;And if I had told you, you would&#x27;ve made a move on me. &#x27;Let me see for myself if that&#x27;s true,&#x27; etc. etc.&quot;</p>
 <p>&quot;I&#x27;d never. I told you before, didn&#x27;t I? I have no intention of becoming Paul&#x27;s daughter.&quot;</p>
-<p>So that was how it was. Maybe I should have told her sooner. Among this lot, she was the one I&#x27;d known the longest. Granted, it was only by six months or so.</p>
+<p>So that was how it was. Maybe I <em>should</em> have told her sooner. Among this lot, she was the one I&#x27;d known the longest. Granted, it was only by six months or so.</p>
 <p>&quot;But then again, if Cliff wasn&#x27;t with me, I might have entertained the idea of doing it with you once.&quot;</p>
 <p>&quot;I might have felt the same way if I didn&#x27;t have Sylphie.&quot;</p>
 <p>&quot;Well, that&#x27;s unfortunate, isn&#x27;t it? Since it wasn&#x27;t in the cards for us, let&#x27;s just continue being friends, then.&quot;</p>
@@ -193,6 +193,6 @@ nav_title = "Chapter 6"
 <p>Elinalise smiled weakly. &quot;Heh, Rudeus. You really do say some entertaining things sometimes.&quot;</p>
 <p>I relaxed a little. She probably just needed to calm down a bit. &quot;You can take your time and talk to Sylphie, just the two of you, a bit later.&quot;</p>
 <p>&quot;Yes. I appreciate you being so considerate.&quot;</p>
-<p>After that Cliff guided Elinalise off and they retreated upstairs. Time to step it up, Cliff. Do a good job comforting her, I thought.</p>
+<p>After that Cliff guided Elinalise off and they retreated upstairs. <em>Time to step it up, Cliff. Do a good job comforting her,</em> I thought.</p>
 <p>Badigadi never came over to congratulate us. He set himself in one corner of the room, bellowing out his usual &quot;Bwahaha!&quot; laugh, and kept the mood boisterous. I was grateful for his presence.</p>
 <p><strong>Chapter 7: End of the Wedding Reception</strong></p>

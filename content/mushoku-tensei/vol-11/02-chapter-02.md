@@ -13,16 +13,16 @@ nav_title = "Chapter 2"
 <p>The Kingdom of Ranoa had some fundamental cultural differences from Millis. I was pretty sure the curriculum they taught their children was at least a little different. And yet, Aisha had scored perfectly on the first test she&#x27;d ever taken in this country.</p>
 <p>I had to admit I was impressed. Jenius, likewise, had been so shocked to see a ten-year-old perform so well that he&#x27;d offered to admit her in as a special student, under certain conditions. But, of course, that wasn&#x27;t what I&#x27;d promised my sister.</p>
 <p>&quot;All right, then. I held up my end of the bargain!&quot; Aisha announced triumphantly as we entered the house. &quot;I&#x27;m now officially your servant, Rudeus!&quot;</p>
-<p>&quot;You really want to become the family maid, then? Even though you&#x27;re a part of the family?&quot;</p>
-<p>&quot;No, no. I&#x27;m your maid, not the family&#x27;s!&quot;</p>
+<p>&quot;You really want to become the family maid, then? Even though you&#x27;re a <em>part</em> of the family?&quot;</p>
+<p>&quot;No, no. I&#x27;m <em>your</em> maid, not the family&#x27;s!&quot;</p>
 <p>So her goal was…to be her brother&#x27;s personal servant. That struck me as a little bizarre, but I couldn&#x27;t exactly back out of the bargain now.</p>
 <p>&quot;Well, all right. In that case, uh… make sure you do what I tell you from now on, okay?&quot;</p>
 <p>&quot;But of course! I&#x27;m at your disposal, Master!&quot;</p>
 <p>It was kind of nice to hear a girl calling me that for once, rather than Zanoba. If it wasn&#x27;t my little sister saying it, I&#x27;d probably have gotten excited.</p>
 <p>Let&#x27;s just put aside the fact that I was currently a married man.</p>
 <p>&quot;That said, let&#x27;s keep an open mind about your future,&quot; I said. &quot;If you end up wanting to study something, just let me know.&quot;</p>
-<p>&quot;Well, I&#x27;m sure there are a few things I still need to learn. Perhaps you&#x27;d be so kind as to teach me personally, young master…&quot; Putting a finger to her lips, Aisha fluttered her eyes at me.</p>
-<p>I caught her drift, but decided it was easiest to play dumb. If the kid ever came out and asked me to teach her how to make babies, I&#x27;d have to sit her down and give her a thorough sex ed lecture. Without any hands-on demonstrations, of course.</p>
+<p>&quot;Well, I&#x27;m sure there are a few things I still need to learn. Perhaps you&#x27;d be so kind as to teach me <em>personally</em>, young master…&quot; Putting a finger to her lips, Aisha fluttered her eyes at me.</p>
+<p>I caught her drift, but decided it was easiest to play dumb. If the kid ever came out and asked me to teach her how to make babies, I&#x27;d have to sit her down and give her a thorough sex ed lecture. <em>Without</em> any hands-on demonstrations, of course.</p>
 <p>&quot;By the way, is there a reason you&#x27;re calling me &#x27;master&#x27; all of a sudden?&quot;</p>
 <p>&quot;Well, I&#x27;m going to be your servant from now on, sir. It&#x27;s only natural that I address you appropriately.&quot;</p>
 <p>Oh, great. Now she was back to the ridiculous formal language.</p>
@@ -32,14 +32,14 @@ nav_title = "Chapter 2"
 <p>No point in pushing the issue for now. Sylphie might look at me a little funny for a while, but I felt like Aisha had earned the right to do what she wanted. &quot;Okay, then. Make sure you consult Sylphie before you take on any jobs for yourself, got it?&quot;</p>
 <p>&quot;Of course. My mother taught me all about the duties of a maid, I assure you. Leave everything to me.&quot;</p>
 <p>Folding her hands in front of her, Aisha bowed deeply to me. Apparently, I now had a little sister maid. I had to admit, the words had a strangely powerful ring to them…</p>
-<p>They sounded better than housekeeper or dropout, anyway. Which is probably what they would have called her back in Japan.</p>
+<p>They sounded better than <em>housekeeper</em> or <em>dropout</em>, anyway. Which is probably what they would have called her back in Japan.</p>
 <p>Norn&#x27;s results had been completely ordinary.</p>
 <p>From what Jenius told me, she&#x27;d scored slightly below average for her age. To be fair, the kid had spent a solid year traveling to this city, and then I&#x27;d thrown a test at her before she even had time to get her bearings. She&#x27;d probably have done much better if I&#x27;d arranged for a few tutoring sessions first. In other words, she&#x27;d performed just fine…except in comparison to Aisha.</p>
 <p>I didn&#x27;t see the need to read too much into this. We&#x27;d just have to help her improve bit by bit. She might never be at the very top of her class, but what did that matter? As long as she learned the basic skills she needed to function in society, that was good enough for me. You don&#x27;t have to stand out from the crowd to live a happy, fulfilling life.</p>
 <p>&quot;Do you have any thoughts on what you&#x27;d like to study, Norn?&quot; I asked.</p>
 <p>My sister didn&#x27;t respond. She was hanging her head again, pouting slightly as she avoided my gaze. It didn&#x27;t seem like she was warming up to me at all. I&#x27;d been hoping to break the ice between us, but I had no idea where to start.</p>
 <p>&quot;I don&#x27;t know all the options that well off the top of my head, I guess,&quot; I said. &quot;But I think you usually start off with two or three years of general classes before you have to pick a department, anyway. The University has a lot of interesting introductory courses, so maybe you can try a bunch and see if there&#x27;s a subject you like? Oh, and if nothing particularly interests you, you could always go with healing magic. Our mom used to be a healer too, remember? There aren&#x27;t many healers in these parts, so you could land a job easily once you graduate.&quot;</p>
-<p>Norn wasn&#x27;t responding to anything I said, so I ended up prattling on for quite a while in this vein. Eventually, I noticed that she was looking at me with an expression that suggested she wanted to speak. I shut my mouth and waited.</p>
+<p>Norn wasn&#x27;t responding to anything I said, so I ended up prattling on for quite a while in this vein. Eventually, I noticed that she was looking at me with an expression that suggested she <em>wanted</em> to speak. I shut my mouth and waited.</p>
 <p>&quot;I think I want to try living in the dorms there.&quot;</p>
 <p>Her voice was tense and anxious, but she&#x27;d managed to get the words out. I took a moment to think over what she&#x27;d said.</p>
 <p>&quot;The dorms, huh…?&quot;</p>
@@ -56,9 +56,9 @@ nav_title = "Chapter 2"
 <p>In the worst-case scenario, I could go so far as to imagine Norn running away from home someday. And I knew how badly that might turn out, especially for a young girl. Some sick bastard might take her in and start demanding favors or something. Compared to that, she&#x27;d be much better off moving into a safe dorm room now.</p>
 <p>Sylphie spent a lot of time in those dorms too. She did come back to stay here every third night, but in between those visits, she stayed with Princess Ariel. If something came up, she&#x27;d be right there to help Norn out, and fortunately, Norn seemed to like her. Maybe they&#x27;d opened up to each other in the bath that first night or something.</p>
 <p>The more I thought about this, the more it sounded like a decent idea.</p>
-<p>Ten was a young age to be living in a dorm… but the experience might be good for her. She&#x27;d have to learn how to socialize and cooperate with other kids around her age.</p>
+<p>Ten <em>was</em> a young age to be living in a dorm… but the experience might be good for her. She&#x27;d have to learn how to socialize and cooperate with other kids around her age.</p>
 <p>&quot;Okay, Norn. If that&#x27;s what you want, I think I can arrange it. I&#x27;ll submit the application for you.&quot;</p>
-<p>&quot;Wait, what?!&quot; shouted Aisha, her mouth gaping in disbelief. &quot;Why are you letting her do what she wants? She didn&#x27;t even get a good score!&quot;</p>
+<p>&quot;Wait, what?!&quot; shouted Aisha, her mouth gaping in disbelief. &quot;Why are you letting her do what <em>she</em> wants? She didn&#x27;t even get a good score!&quot;</p>
 <p>So much for all that talk about professionalism. It must have slipped her mind at some point in the last five minutes.</p>
 <p>&quot;Aisha, I—&quot;</p>
 <p>&quot;I worked really hard for this, Rudeus! It isn&#x27;t fair!&quot;</p>
@@ -79,7 +79,7 @@ nav_title = "Chapter 2"
 <p>&quot;…&quot;</p>
 <p>Now it was Aisha&#x27;s turn to hang her head in sullen silence. For some reason, there were tears in her eyes.</p>
 <p>&quot;Are you being nicer to her because my mom&#x27;s just the mistress?&quot; she said.</p>
-<p>The question took me completely by surprise. The instant I heard the word mistress, though, I knew we were in some dangerous territory.</p>
+<p>The question took me completely by surprise. The instant I heard the word <em>mistress,</em> though, I knew we were in some dangerous territory.</p>
 <p>&quot;Lilia isn&#x27;t a mistress, Aisha. Who told you she was? Was it Dad? I hope it wasn&#x27;t Norn.&quot;</p>
 <p>&quot;Mom said it herself! And…Norn&#x27;s grandma said it, too…&quot; The tears were rolling down her face now.</p>
 <p>Lilia and Norn&#x27;s grandma… So Zenith&#x27;s family, then.</p>
@@ -88,11 +88,11 @@ nav_title = "Chapter 2"
 <p>Logically, it was hard for me to blame them or Lilia for their actions.</p>
 <p>&quot;Do you like her better…because I&#x27;m just your half-sister…? Hic…&quot; Aisha was sobbing now, rubbing her fists against her crumpled face.</p>
 <p>But whatever their reasons, they&#x27;d still hurt an innocent child.</p>
-<p>I&#x27;d been operating under some mistaken assumptions here. Neither of my sisters was going to be easy to take care of.</p>
+<p>I&#x27;d been operating under some mistaken assumptions here. <em>Neither</em> of my sisters was going to be easy to take care of.</p>
 <p>&quot;Aisha, I&#x27;ve never thought of Lilia as my Dad&#x27;s mistress. And as far as I&#x27;m concerned, you and Norn are both my sisters, plain and simple.&quot;</p>
 <p>&quot;But I…I studied so hard for that test… I tried so hard…and Norn just…just gets to…&quot;</p>
 <p>In between sniffles, Aisha stammered out more complaints.</p>
-<p>So she had crammed secretly for the test. That must have been…stressful. I&#x27;d only given her a week&#x27;s warning, after all. She&#x27;d obviously earned that perfect score.</p>
+<p>So she <em>had</em> crammed secretly for the test. That must have been…stressful. I&#x27;d only given her a week&#x27;s warning, after all. She&#x27;d obviously earned that perfect score.</p>
 <p>&quot;Listen, Aisha.&quot;</p>
 <p>&quot;Wh-what?&quot;</p>
 <p>&quot;It might be hard for me to explain this, but I do understand. I know you worked really hard, and I&#x27;m proud of you. That&#x27;s why I agreed to let you do what you wanted.&quot;</p>
@@ -126,7 +126,7 @@ nav_title = "Chapter 2"
 <p>Aisha had jumped at the chance to lavish her hospitality on our guest. She&#x27;d drawn a bath for Nanahoshi, prepared her a change of clothes, and even helped her wash up in there.</p>
 <p>Nanahoshi had seemed distinctly aggravated by all the attention. When she left, she&#x27;d grumbled something at me about what a &quot;monster&quot; I was for &quot;working my own little sister to the bone.&quot;</p>
 <p>I think she preferred her baths to be peaceful, quiet, and solitary. I&#x27;d have to remember to ask Aisha to give her some privacy in there next time.</p>
-<p>The girl didn&#x27;t even relax after dinner. When I settled down in the living room, she&#x27;d bustle around keeping the fire roaring or bringing me warm drinks. To be honest, it felt kind of weird to have my own sister acting like my personal servant. But Aisha seemed happy with the arrangement, so I was willing to let things continue like this for a while. I didn&#x27;t want to force her to do anything she didn&#x27;t want to.</p>
+<p>The girl didn&#x27;t even relax after dinner. When I settled down in the living room, she&#x27;d bustle around keeping the fire roaring or bringing me warm drinks. To be honest, it felt kind of weird to have my own sister acting like my personal servant. But Aisha seemed happy with the arrangement, so I was willing to let things continue like this for a while. I didn&#x27;t want to <em>force</em> her to do anything she didn&#x27;t want to.</p>
 <p>After reaching this conclusion, though, I remembered my theory that your mana capacity is partially determined by how much you use magic as a child. If Aisha wasn&#x27;t going to attend school, I could at least give her a little training in magic. At the age of ten, her mana capacity probably wasn&#x27;t going to change that much, but it wasn&#x27;t set in stone either. And she&#x27;d be better off knowing at least Intermediate-tier offensive magic too. The Beginner spells were enough for an ordinary person living a peaceful life, but the Intermediate ones were more useful if you ever needed to defend yourself.</p>
 <p>&quot;Aisha, come over here. Let&#x27;s practice magic for a while.&quot;</p>
 <p>&quot;Ooh! Are you going to teach me, Rudeus?! Really?!&quot;</p>
@@ -146,7 +146,7 @@ nav_title = "Chapter 2"
 <p>Without a word of complaint, I pulled back the covers and made room for her.</p>
 <p>Aisha was smaller than Sylphie, of course, but also warmer. In a cold climate like this, it never hurt to have another heated, huggable pillow in your bed.</p>
 <p>Of course, this was all purely innocent. Apart from the fact that she was my sister, she was also just a kid. She seemed to have learned a few double entendres at some point, but she probably didn&#x27;t really understand them. There was no reason to feel too awkward about any of it.</p>
-<p>If Aisha did eventually develop some sort of a crush on me, I&#x27;d just have to convince her to give it up. I don&#x27;t know if sister-kissing was inherently immoral or anything, but I liked my family the way it was.</p>
+<p>If Aisha <em>did</em> eventually develop some sort of a crush on me, I&#x27;d just have to convince her to give it up. I don&#x27;t know if sister-kissing was inherently immoral or anything, but I liked my family the way it was.</p>
 <p>And that was how things generally went on the nights Sylphie was away.</p>
 <p>The real problem arose on the next night my wife was around. Specifically, when we got into bed together.</p>
 <p>Now that my little sisters were living with us, I&#x27;d decided to hold off on our intimate activities for a while. But when I had a beautiful woman lying next to me, it proved impossible to resist.</p>
@@ -156,18 +156,18 @@ nav_title = "Chapter 2"
 <p>The idea of holding back seemed ridiculous. So I didn&#x27;t.</p>
 <p>&quot;Phew…&quot;</p>
 <p>I ended up going a little overboard, though. I&#x27;d locked the door beforehand and used some basic earth magic to muffle the sounds, but…hopefully Aisha hadn&#x27;t peeked in through the keyhole or anything.</p>
-<p>&quot;Wow, you were…really something today, Rudy…&quot;</p>
+<p>&quot;Wow, you were…<em>really</em> something today, Rudy…&quot;</p>
 <p>By the time it was over, Sylphie was exhausted. She was drenched in sweat, and her hair was all messed up in a very alluring way.</p>
 <p>After a few minutes of pillow talk, we wiped ourselves down with towels, put on our usual nightclothes, and sat down on the bed together.</p>
 <p>Our nightclothes were made of a soft, comfortable fabric, but they were a bit plain-looking—more like sweatsuits than pajamas. Sylphie seemed to think hers wasn&#x27;t too flattering, but I personally disagreed. When I looked at her sitting on the bed, it felt like I&#x27;d coaxed a girl from the track team into my room or something. The lack of explicit sexiness only made it more exciting.</p>
-<p>You wouldn&#x27;t get this effect with flashy red lingerie, like the set Eris had. Or with a curvier girl like Linia or Pursena. Plainer clothes just worked on Sylphie, for some reason.</p>
+<p>You wouldn&#x27;t get this effect with flashy red lingerie, like the set Eris had. Or with a curvier girl like Linia or Pursena. Plainer clothes just <em>worked</em> on Sylphie, for some reason.</p>
 <p>&quot;Hm? What&#x27;s up, Rudy?&quot;</p>
 <p>At some point while I was thinking all this, I&#x27;d started running my hands along my wife&#x27;s slender body from behind.</p>
 <p>I was very fond of her body. Sylphie wasn&#x27;t the most curvaceous, but she wasn&#x27;t flat either. There was almost no fat on her, but she was still soft to the touch. Just touching her like this was enough to get my lightning rod pointing toward the heavens.</p>
-<p>&quot;Uh…do you want more?&quot;</p>
+<p>&quot;Uh…do you want <em>more</em>?&quot;</p>
 <p>&quot;No, no. You&#x27;ve got, uh, work tomorrow and everything. I&#x27;ll be good! Just let me…rub your chest in the morning? Please? I&#x27;ll be okay.&quot;</p>
 <p>&quot;Don&#x27;t be silly. There&#x27;s no need to hold back.&quot; Sylphie lay back on the bed, opened her legs, and smiled shyly up at me. &quot;C&#x27;mere, Rudy.&quot;</p>
-<p>My self-control instantly collapsed into its component parts and disappeared into the wind. The word restraint no longer held any meaning for me. Ripping off my clothes roughly, I pressed my hands together and executed a beautiful swan dive toward my waiting wife.</p>
+<p>My self-control instantly collapsed into its component parts and disappeared into the wind. The word <em>restraint</em> no longer held any meaning for me. Ripping off my clothes roughly, I pressed my hands together and executed a beautiful swan dive toward my waiting wife.</p>
 <p>Moving on, then…</p>
 <p>Norn had been rather docile for the last few days as we prepared for her move to the school dorms. She didn&#x27;t say much of anything to me, but it wasn&#x27;t like she was being hostile either. She came when I called for her, and she listened when I asked her to do something. But it sure didn&#x27;t feel like we were getting any closer.</p>
 <p>I was still hoping to improve our relationship, of course. I&#x27;d actually tried inviting her to take a bath with me the other day, thinking it might be a decent way to break the ice. Unfortunately, she just grimaced and said, &quot;No.&quot;</p>
@@ -180,7 +180,7 @@ nav_title = "Chapter 2"
 <p>I did try to introduce myself to Marissa, by the way. But when I approached her with a smile, she flinched in fear and ran for her life. I didn&#x27;t even get to say a word to her. Given that reaction, it was probably best if Norn didn&#x27;t mention she was related to me at school. Lots of people seemed to think I was the boss of some sort of gang. The last thing I wanted was for my reputation to scare kids away from making friends with her.</p>
 <p>No point in worrying about that now, anyway. Trying to fix all Norn&#x27;s problems for her would be way too overbearing. If I needed to, I could always turn to Sylphie, Luke, and Ariel. They were incredibly popular and always seemed to draw a crowd wherever they went. Spending time with them might help Norn learn some social skills.</p>
 <p>Then again…there was a chance their fans would just get jealous of her. But maybe that was the kind of adversity she needed to learn how to face…</p>
-<p>Hrrm. Why does this stuff have to be so damn complicated, anyway?</p>
+<p><em>Hrrm. Why does this stuff have to be so damn complicated, anyway?</em></p>
 <p>At the end of the day, Norn needed to face up to this herself. It was best for me to keep out of it until something actually went wrong. For now, my job was to watch quietly.</p>
 <p>I was still nervous as hell about it, though.</p>
 <p>Soon enough, the day of Norn&#x27;s departure arrived. When I saw her that morning, she was already wearing her new uniform and carrying her bag.</p>
@@ -194,8 +194,8 @@ nav_title = "Chapter 2"
 <p>&quot;Right.&quot;</p>
 <p>&quot;Don&#x27;t forget to do your homework either.&quot;</p>
 <p>&quot;…Sure.&quot;</p>
-<p>Let&#x27;s see, what else… Oh, right!</p>
+<p><em>Let&#x27;s see, what else… Oh, right!</em></p>
 <p>&quot;Try not to catch any colds.&quot;</p>
 <p>&quot;…&quot;</p>
-<p>Well, now she was glaring at me. That was something, at least.</p>
+<p>Well, now she was <em>glaring</em> at me. That was something, at least.</p>
 <p><strong>Interlude: Master/Servant Relations</strong></p>

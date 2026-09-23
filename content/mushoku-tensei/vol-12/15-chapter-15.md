@@ -29,13 +29,13 @@ nav_title = "Chapter 15"
 <p>&quot;…&quot;</p>
 <p>&quot;Every day she said, &#x27;I hope Rudy is okay,&#x27; and &#x27;I miss Rudy,&#x27; and &#x27;I wonder if Rudy&#x27;s eating right now.&#x27; Do you know how lonely she looked—how lonely she sounded the whole time?!&quot;</p>
 <p>I didn&#x27;t know. I didn&#x27;t know at all, but I could imagine it. The expression on her face as she waited for me. How lonely she sounded. How she might sit in a chair with nothing else to do but tap her foot as she waited.</p>
-<p>&quot;I figured I couldn&#x27;t blame you for not being able to save Father. If things were so rough you even lost your left hand, then there was nothing anyone could do. So it seemed wrong to blame you for it. But now you&#x27;re telling me you had enough composure during all of that to have sex with another woman? And now you want to make her your wife?!&quot;</p>
+<p>&quot;I figured I couldn&#x27;t blame you for not being able to save Father. If things were so rough you even lost your left hand, then there was nothing anyone could do. So it seemed wrong to blame you for it. But now you&#x27;re telling me you had enough composure during all of that to have sex with another woman? And now you want to make her your <em>wife</em>?!&quot;</p>
 <p>&quot;No! I wasn&#x27;t composed at all. I was depressed! That&#x27;s why Roxy put her own feelings on the line to save me!&quot;</p>
 <p>&quot;Miss Sylphie would&#x27;ve done the same thing for you if she&#x27;d been there!&quot; Norn snapped back.</p>
 <p>Of course Sylphie would&#x27;ve saved me had she been there. She&#x27;d cured my impotence, after all. But the one who actually saved me was Roxy. Even though she had feelings for me; even though she knew I already had someone. She&#x27;d resolved to do it, even knowing she might be tossed aside afterward.</p>
 <p>&quot;Norn, you should understand how it feels, locking yourself in your room, feeling like you&#x27;re so deep inside a hole you can&#x27;t see the light at the end of the tunnel. How are you supposed to cast aside the person who saved you from that?&quot; I argued.</p>
-<p>&quot;I do know! I&#x27;m grateful to you for helping me through that, but this is a totally separate matter! Lord Millis would never permit someone taking a second wife!&quot;</p>
-<p>Oh, that&#x27;s right. Norn was a follower of Millis. No—her religion wasn&#x27;t the issue here. Maybe it was just me. Maybe I was doing</p>
+<p>&quot;I <em>do</em> know! I&#x27;m grateful to you for helping me through that, but this is a totally separate matter! Lord Millis would never permit someone taking a second wife!&quot;</p>
+<p>Oh, that&#x27;s right. Norn was a follower of Millis. No—her religion wasn&#x27;t the issue here. Maybe it was just me. Maybe I <em>was</em> doing</p>
 <p>something wrong, and trying to strong-arm my way into being in the right.</p>
 <p>&quot;Besides, why that tiny girl?! She&#x27;s not any different from me!&quot; Norn glared at Roxy.</p>
 <p>Roxy returned the younger girl&#x27;s gaze with her usual poker face. She was taller than Norn, but barely so, maybe even less than centimeters&#x27; worth. In the face of my younger sister&#x27;s hostile gaze, Roxy remained unfazed as she muttered, &quot;I may be small, but I&#x27;m still an adult.&quot;</p>
@@ -52,7 +52,7 @@ nav_title = "Chapter 15"
 <p>I couldn&#x27;t even stop her. I knew we&#x27;d face resistance—knew not to underestimate how difficult it would be for everyone to accept this—but I&#x27;d thought I could convince them. That had been naïve. Now here we were, and Roxy had been lambasted for her part. She probably felt like she was walking on a bed of nails, and things might keep being that painful for her if she stayed here.</p>
 <p>No one would choose to stay with that possibility in mind. Even I would race for the door, unable to withstand it.</p>
 <p>I couldn&#x27;t let her leave here with such a bitter taste in her mouth. That wasn&#x27;t how I wanted this to end. I wanted to repay her for everything she&#x27;d done, not bring her here just so she could be dragged through the mud. I brought her here so I could make her happy.</p>
-<p>And yet, no matter how I felt, I couldn&#x27;t stop her. I couldn&#x27;t hold her back. Maybe I couldn&#x27;t make her happy?</p>
+<p>And yet, no matter how I felt, I couldn&#x27;t stop her. I couldn&#x27;t hold her back. Maybe I <em>couldn&#x27;t</em> make her happy?</p>
 <p>No, think! Roxy would be out the door any second now. I at least needed to stop her! Even if it meant slapping Norn, even if it meant making my little sister hate me, I—</p>
 <p>&quot;Wait!&quot; a voice called out from behind. &quot;Miss Roxy, please wait!&quot;</p>
 <p>It was Sylphie. She took to her feet and hurried over, grabbing Roxy by the hand. Roxy glanced back, her eyes welling up with tears.</p>
@@ -62,24 +62,24 @@ nav_title = "Chapter 15"
 <p>Norn froze, at a loss for words.</p>
 <p>&quot;Please, sit,&quot; Sylphie said, turning her back on Norn in favor of guiding Roxy to a place on the sofa. Roxy perched herself atop it willingly with no signs of resistance. Then Sylphie took a place beside her. &quot;I was a little confused at first… So it seems you&#x27;re the one who saved Rudy, Miss Roxy?&quot;</p>
 <p>Roxy tentatively nodded. &quot;…Yes. But I did have an ulterior motive, and I don&#x27;t intend to make any excuses for that.&quot;</p>
-<p>&quot;Yes,&quot; agreed Sylphie. &quot;Well, Rudy is really handsome. I wouldn&#x27;t have believed you if you&#x27;d said you didn&#x27;t have any ulterior motives.&quot;</p>
+<p>&quot;Yes,&quot; agreed Sylphie. &quot;Well, Rudy is really handsome. I wouldn&#x27;t have believed you if you&#x27;d said you <em>didn&#x27;t</em> have any ulterior motives.&quot;</p>
 <p>&quot;…&quot;</p>
 <p>&quot;I think if I had been in your place, I&#x27;d have done the exact same thing.&quot; Sylphie smiled at Roxy, a gentle expression on her face. Roxy&#x27;s was stiff in contrast. Sylphie kept smiling as she continued. &quot;To be honest, I figured it was just a matter of time.&quot;</p>
 <p>&quot;Um, what was a matter of time?&quot; Roxy asked, confused.</p>
 <p>&quot;Rudy bringing home another woman.&quot;</p>
-<p>Just a matter of time before I brought another girl? …Hm? Wait, did this mean she actually didn&#x27;t trust me?</p>
-<p>&quot;You know Rudy&#x27;s a pervert, right? I figured he&#x27;d do it with someone else if I wasn&#x27;t around. But he&#x27;s loyal, so I figured if he did do it with someone else, he would want to bring her into our family, just like he did with me. I didn&#x27;t think I&#x27;d be able to have him all to myself forever.&quot;</p>
+<p>Just a matter of time before I brought another girl? …Hm? Wait, did this mean she actually <em>didn&#x27;t</em> trust me?</p>
+<p>&quot;You know Rudy&#x27;s a pervert, right? I figured he&#x27;d do it with someone else if I wasn&#x27;t around. But he&#x27;s loyal, so I figured if he <em>did</em> do it with someone else, he would want to bring her into our family, just like he did with me. I didn&#x27;t think I&#x27;d be able to have him all to myself forever.&quot;</p>
 <p>I wanted to protest, but she&#x27;d completely hit the bullseye. I had no right to say anything.</p>
 <p>&quot;Honestly, I figured if he was going to bring anyone home it would be Linia, Pursena or Miss Nanahoshi.&quot;</p>
 <p>Roxy commented, &quot;I&#x27;ve not heard those names, except for Miss Nanahoshi.&quot;</p>
 <p>&quot;They&#x27;re his friends at school. They&#x27;re all very sexy, with huge breasts.&quot;</p>
-<p>Well, Nanahoshi isn&#x27;t necessarily that sexy, I protested inwardly. Wait, that doesn&#x27;t matter right now.</p>
+<p><em>Well, Nanahoshi isn&#x27;t necessarily that sexy,</em> I protested inwardly. <em>Wait, that doesn&#x27;t matter right now.</em></p>
 <p>&quot;Truthfully, what I heard of your trip sounded brutal, and there was Paul&#x27;s death as well. I completely forgot the possibility he might&#x27;ve hooked up with someone else. That&#x27;s why I was so surprised when I heard…&quot; Sylphie paused. &quot;But it does make sense.&quot;</p>
 <p>&quot;What does?&quot; Roxy asked.</p>
 <p>&quot;Ever since you got here, you&#x27;ve been staring over at him with an anxious look on your face. I wondered what that was all about. At first, I thought it was because you were nervous about him announcing Paul&#x27;s death. But this is what it was actually all about.&quot;</p>
 <p>&quot;…&quot;</p>
 <p>Sylphie continued, &quot;You had the eyes of a woman in love, Miss Roxy.&quot;</p>
-<p>The eyes of a woman in love. When Roxy heard that, her face heated up. &quot;I&#x27;m sorry for making you witness something so unpleasant.&quot; She lowered her head, cheeks still red as a tomato.</p>
+<p><em>The eyes of a woman in love.</em> When Roxy heard that, her face heated up. &quot;I&#x27;m sorry for making you witness something so unpleasant.&quot; She lowered her head, cheeks still red as a tomato.</p>
 <p>From a wife&#x27;s point of view, it couldn&#x27;t be pleasant to watch another woman look lovingly at her husband. I could understand Roxy thinking that way.</p>
 <p>But Sylphie merely shook her head. &quot;It wasn&#x27;t unpleasant.&quot;</p>
 <p>&quot;But…&quot; Roxy began to protest.</p>
@@ -144,18 +144,18 @@ nav_title = "Chapter 15"
 <p>&quot;All right,&quot; I said. &quot;I&#x27;ll make time to teach you after school or something.&quot;</p>
 <p>&quot;Please do.&quot; Once she said that, Norn was off to her bedroom on the second floor.</p>
 <p>In the end, I&#x27;d been absolutely helpless. Sylphie had rescued me with her generosity.</p>
-<p>&quot;Big Brother,&quot; Aisha called to me. &quot;You look really pathetic right now, you know?&quot;</p>
+<p>&quot;Big Brother,&quot; Aisha called to me. &quot;You look <em>really</em> pathetic right now, you know?&quot;</p>
 <p>Unable to say anything in my defense, I just nodded.</p>
 <p>After that, the three of us (Sylphie, Roxy, and I) began talking about how things would work from now on, such as the order in which we&#x27;d spend our nights together, and how we&#x27;d negotiate quality time. The discussion was frank enough that Aisha took her leave.</p>
 <p>&quot;Well then, Miss Roxy, I look forward to living together,&quot; said Aisha.</p>
 <p>&quot;Yes, me too.&quot;</p>
 <p>Aisha grumbled under her breath as she went, but she was smiling even as she did so.</p>
-<p>What was up with her? Well, whatever. Sylphie, Roxy and I had the future to discuss. Some people might be aghast we could discuss such things when Paul had just died, but that was precisely why I wanted a more cheerful topic of conversation.</p>
+<p>What was up with her? Well, whatever. Sylphie, Roxy and I had the future to discuss. Some people might be aghast we could discuss such things when Paul had just died, but that was precisely <em>why</em> I wanted a more cheerful topic of conversation.</p>
 <p>&quot;Please make Sylphie your main priority, Rudy. Just a little bit of your attention when you have the free time is enough for me,&quot; said Roxy.</p>
 <p>&quot;Nonsense. We must be fair,&quot; Sylphie insisted.</p>
 <p>&quot;But—&quot;</p>
 <p>&quot;He may yet take on more wives, so let&#x27;s not be bashful.&quot;</p>
-<p>More? I could tell how little faith she had in my lower half from that word alone.</p>
+<p><em>More</em>? I could tell how little faith she had in my lower half from that word alone.</p>
 <p>&quot;Honestly, right now I just feel overwhelmed with guilt about this whole thing. I&#x27;ll just stay on the sidelines until your baby is born,&quot; said Roxy.</p>
 <p>&quot;So that&#x27;s how you feel.&quot; Sylphie nodded thoughtfully. &quot;Well, there is only a little more than a month until the delivery. You don&#x27;t mind if I take all that time for myself?&quot;</p>
 <p>&quot;I don&#x27;t. Then let&#x27;s wait until next month for me to officially become your wife, Rudy.&quot;</p>
@@ -166,7 +166,7 @@ nav_title = "Chapter 15"
 <p>As those fantasies solidified in my head, both women turned their gazes toward me.</p>
 <p>&quot;Um, Rudy?&quot; Sylphie called over to me. &quot;If you absolutely can&#x27;t wait, let me know, okay? We&#x27;ll do something about it.&quot;</p>
 <p>&quot;Oh, no, I&#x27;ll take care of it myself.&quot;</p>
-<p>No matter how much of a horn dog I was, I wasn&#x27;t going to cheat any more than I already had. I wanted her to trust that I, Rudeus Greyrat, would not falter again. The only reason I had wavered was because of the unique situation I&#x27;d been in, and because my partner was Roxy. As long as I never wound up in a depressive spiral and had a woman of Roxy&#x27;s caliber appear before me, I&#x27;d never cheat again. Ever.</p>
+<p>No matter how much of a horn dog I was, I wasn&#x27;t going to cheat any more than I already had. I wanted her to trust that I, Rudeus Greyrat, would not falter again. The only reason I had wavered was because of the unique situation I&#x27;d been in, and because my partner was Roxy. As long as I never wound up in a depressive spiral and had a woman of Roxy&#x27;s caliber appear before me, I&#x27;d never cheat again. <em>Ever.</em></p>
 <p>&quot;Oh, but you said Roxy is pregnant as well? In that case, if we wait a month, you won&#x27;t be able to have sex with her, either. What&#x27;ll we do then?&quot; Sylphie wondered anxiously.</p>
 <p>Roxy, looking ashamed, said, &quot;Um, about what Rudy said regarding that…I think he was lying. I didn&#x27;t get the opportunity to say as much, but I&#x27;m not actually pregnant.&quot;</p>
 <p>&quot;Huh?&quot; I blurted out.</p>
@@ -187,9 +187,9 @@ nav_title = "Chapter 15"
 <p>&quot;What&#x27;s that?&quot; I asked.</p>
 <p>&quot;I thought you might tell me that you couldn&#x27;t love me anymore and you wanted me to leave.&quot;</p>
 <p>&quot;I would never say that!&quot;</p>
-<p>What kind of sleazebag would say something like that?!</p>
+<p><em>What kind of sleazebag would say something like that?!</em></p>
 <p>&quot;Yeah, I know.&quot; Sylphie rustled around. I could feel something press against the stump where my left hand had once been. Sylphie&#x27;s fingers—she was stroking it. &quot;But I was still anxious. I don&#x27;t know why. I just got the feeling you weren&#x27;t going to come back to me.&quot;</p>
-<p>A sense of foreboding? Well, this had been quite the close call. It wouldn&#x27;t have been surprising if I had died.</p>
+<p>A sense of foreboding? Well, this <em>had</em> been quite the close call. It wouldn&#x27;t have been surprising if I had died.</p>
 <p>I glanced at Sylphie. &quot;Did I worry you?&quot;</p>
 <p>&quot;It&#x27;s okay now.&quot; I stroked her head with my right hand. Her eyes crinkled as she leaned into my touch. Her hair was a beautiful, pale color. It had grown while I was gone. &quot;Your hair is getting longer.&quot;</p>
 <p>&quot;Because you said you like long hair.&quot;</p>
@@ -207,7 +207,7 @@ nav_title = "Chapter 15"
 <p>&quot;…&quot;</p>
 <p>Normally this was the prelude for our lovemaking, but we&#x27;d stop here for today. I couldn&#x27;t push her body, not when it was heavy with child.</p>
 <p>But just then, I felt something wriggle against my lower abdomen.</p>
-<p>&quot;Come on, Sylphie, we can&#x27;t do that. If you start touching me down there, I&#x27;m not going to be able to hold off. I mean, I am interested in pregnancy sex, but…&quot;</p>
+<p>&quot;Come on, Sylphie, we can&#x27;t do that. If you start touching me down there, I&#x27;m not going to be able to hold off. I mean, I <em>am</em> interested in pregnancy sex, but…&quot;</p>
 <p>&quot;No, we can&#x27;t, Rudy,&quot; she said at the same time. &quot;It wouldn&#x27;t be good for the baby.&quot;</p>
 <p>&quot;Hm?&quot;</p>
 <p>&quot;Huh?&quot;</p>

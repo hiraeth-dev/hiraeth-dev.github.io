@@ -21,7 +21,7 @@ nav_title = "Chapter 4"
 <p>There were two types of barriers, those proofing against magic and those proofing against physical objects. Once a person was Saint-tier and above, they could create barriers that combined both aspects. There were also various other uses, such as a barrier to protect oneself and a barrier to lock something inside.</p>
 <p>My old teacher Roxy had also taught me about barriers, but at the time, I&#x27;d been satisfied just with the knowledge that they existed and more or less tuned out the rest of what she said. So it was informative to review and have someone re-explain them for me.</p>
 <p>I returned to the library once class was over. There, I spent my time researching teleportation until it became dark outside. I did technically go hunting through the literature, but as a result of</p>
-<p>teleportation magic being labeled a forbidden art, there wasn&#x27;t anything listed in detail. The book that Master Fitz had told me about, An Account of the Exploration of the Teleportation Labyrinth, might be the most extensive written information out there.</p>
+<p>teleportation magic being labeled a forbidden art, there wasn&#x27;t anything listed in detail. The book that Master Fitz had told me about, <em>An Account of the Exploration of the Teleportation Labyrinth</em>, might be the most extensive written information out there.</p>
 <p>After that I returned home to the dorm, ate dinner, and then, after working on the figurine a little, went to bed. My lifestyle had found a rhythm and I was beginning to feel relaxed, but my little man&#x27;s appetite, or rather lack thereof, remained unchanged. The healing magic class never touched on any subject related to ED, of course, and there were no books on how to cure such a condition in the library, either.</p>
 <p>There was no sign I&#x27;d recover.</p>
 <p>***</p>
@@ -63,7 +63,7 @@ nav_title = "Chapter 4"
 <p>After that, I gathered what I&#x27;d researched for the day and headed home. By the time we left the library it was already growing dark outside. Master Fitz and I shared small talk as we walked back to the dorms. Between being the Princess&#x27;s bodyguard and doing chores for her, he was kept busy daily, but once every ten days he got some free time in the evening.</p>
 <p>&quot;By the way, I saw you at noon. You were amazing.&quot;</p>
 <p>Noon? I tilted my head at the word. What was I even doing then?</p>
-<p>&quot;I was shocked to see the Zanoba Shirone following after you like a little puppy.&quot;</p>
+<p>&quot;I was shocked to see <em>the</em> Zanoba Shirone following after you like a little puppy.&quot;</p>
 <p>&quot;…hah.&quot; By noon he meant when we were eating at our instacafe terrace, bathed in the attention of surrounding students.</p>
 <p>&quot;You might not know this, but when he first enrolled he was a violent troublemaker that just fought with everyone.&quot;</p>
 <p>I laughed bitterly upon hearing the &quot;troublemaker&quot; part. I should&#x27;ve guessed as much. It seemed he wasn&#x27;t being bullied after all. Which made sense: someone who could pull off a person&#x27;s head with their bare hands wouldn&#x27;t be bullied so easily.</p>
@@ -111,7 +111,7 @@ nav_title = "Chapter 4"
 <p>&quot;Actually, your last name wouldn&#x27;t happen to be Ryback, would it?&quot; I asked.</p>
 <p>&quot;Huh? Ryback? Isn&#x27;t that the last name of the second North God? No way, not at all. Besides, I don&#x27;t even have a surname. I&#x27;m not a noble or anything.&quot;</p>
 <p>&quot;There you go being all humble. Be honest, you&#x27;re actually an extremely good cook, aren&#x27;t you?&quot;</p>
-<p>&quot;Uh, I can cook, but… what does that have to do with anything?&quot; He didn&#x27;t get my joke. And yet he did chuckle, though I wasn&#x27;t sure what it was he found funny. That&#x27;s right, the man of mystery, Fitz, was laughing.</p>
+<p>&quot;Uh, I <em>can</em> cook, but… what does that have to do with anything?&quot; He didn&#x27;t get my joke. And yet he did chuckle, though I wasn&#x27;t sure what it was he found funny. That&#x27;s right, <em>the</em> man of mystery, Fitz, was laughing.</p>
 <p>It was also a mystery why he was helping me. Still, I wasn&#x27;t fussed about unravelling that. If Fitz was being coy with his intentions—whatever they were—there had to be a reason for it. I had no intention being as ungrateful as to pry into the secrets of someone who had helped me out.</p>
 <p>I would be lying if I said I wasn&#x27;t curious, though. Still, I kept the Man-God&#x27;s advice in mind. When I followed it, the person I met was Master Fitz. Judging by my experience with the Man-God up &#x27;til now, things would wind up the same no matter what actions I took. In other words, by associating with Master Fitz I would eventually find out how to cure my illness. There was no need to rush.</p>
 <p><strong>Chapter 5: An Unreachable Power (Part 1)</strong></p>

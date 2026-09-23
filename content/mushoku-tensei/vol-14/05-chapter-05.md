@@ -12,7 +12,7 @@ nav_title = "Chapter 5"
 <p>Or at least it would be if she was holed up in some castle somewhere like Perugius. Sadly, Kishirika tended to wander the continent, so it was down to luck if we could find her. I had no idea how long that would take.</p>
 <p>The situation wasn&#x27;t all bad, at least. Perugius said he would make a teleportation circle that would take us to one of the Demon Continent&#x27;s central hubs. Simply put, we could teleport instantly to most of the towns in The Demon Continent from this castle. I&#x27;d been most anxious about travel time, so that worry was out of the picture at least. With any luck, we might be able to find Kishirika within the week.</p>
 <p>Teleportation circles were a bit terrifying, though. Their power let us instantaneously travel from this castle in the sky to any town in the world. That meant, as a tool of war, they could let armies bypass any terrain or defenses. Not that anyone would try to invade this fortress. Still, I could understand why it was considered forbidden magic and why Orsted and Perugius only used it in secret.</p>
-<p>No, I&#x27;m sure they&#x27;re not the only ones using it. No doubt there were other spells and tools that people used in secret despite it being forbidden. Such was the way of the world.</p>
+<p><em>No, I&#x27;m sure they&#x27;re not the only ones using it.</em> No doubt there were other spells and tools that people used in secret despite it being forbidden. Such was the way of the world.</p>
 <p>I had no qualms cheating and using such magic to speed up my search for Kishirika. We would be using Roxy&#x27;s strategy when she came to the Demon Continent looking for me: we would visit each</p>
 <p>city individually and search them thoroughly before moving on. I wasn&#x27;t sure how long that would take, but I guessed we&#x27;d be done in maybe a year. After all, travel would only take a day.</p>
 <p>The only issue we faced was potentially passing each other by as we moved to the next town and Kishirika rolled into the one we&#x27;d just vacated. To counter that, I would take a page from Roxy&#x27;s book and put in requests at each Adventurers&#x27; Guild we passed to reduce the chances of that happening. It would be a Kishirika treasure hunt, so to speak. We&#x27;d pay a handsome reward to anyone who managed to find and capture the Great Demon Emperor. With the stipulation that they leave her unharmed, of course.</p>
@@ -31,7 +31,7 @@ nav_title = "Chapter 5"
 <p>&quot;Please, take me along! I want to do something for Nanahoshi, too!&quot;</p>
 <p>His research would constitute doing something for her, but he wanted to be more proactive. That was understandable. Doing the same research he always did wouldn&#x27;t give the same sense of accomplishment.</p>
 <p>Cliff continued, &quot;I implore you, Rudeus. I understand the feeling of wanting to go back home.&quot;</p>
-<p>Now that I thought about it, Cliff had been away from his home for quite a while. He was fairly short for his age, so he only looked about fifteen, but in reality, he was already nineteen. I think he said he left the Holy Country of Millis about six or seven years ago.</p>
+<p>Now that I thought about it, Cliff had been away from his home for quite a while. He was fairly short for his age, so he only looked about fifteen, but in reality, he was already nineteen. <em>I think he said he left the Holy Country of Millis about six or seven years ago.</em></p>
 <p>Cliff&#x27;s desire to go home wasn&#x27;t exactly the same as Nanahoshi&#x27;s, given she was from an entirely different world, but he could empathize with her on some level at least.</p>
 <p>&quot;All right,&quot; I said finally.</p>
 <p>&quot;Seriously?!&quot;</p>
@@ -75,22 +75,22 @@ nav_title = "Chapter 5"
 <p>Teleportation circles only operated so long as both sides were connected. By linking his circle to one that had come decoupled, he could restore its functionality. The circle in question was probably one of many that had met such a fate.</p>
 <p>&quot;And Lord Perugius knows of all the teleportation circles out there?&quot;</p>
 <p>&quot;He is powerful and great,&quot; Sylvaril answered proudly.</p>
-<p>Honestly, it would be useful to set up a bunch of new teleportation circles linking to those old ones. Granted, such magic was forbidden in the first place, and I was sure he wouldn&#x27;t teach it to me. Plus, fiddling with such things for selfish reasons would only net me more enemies, and that&#x27;s a terrifying thought. No need to be greedy.</p>
+<p>Honestly, it would be useful to set up a bunch of new teleportation circles linking to those old ones. Granted, such magic was forbidden in the first place, and I was sure he wouldn&#x27;t teach it to me. <em>Plus, fiddling with such things for selfish reasons would only net me more enemies, and that&#x27;s a terrifying thought. No need to be greedy.</em></p>
 <p>Besides, I couldn&#x27;t forget that anyone could use those circles not just me. It was always possible a fearsome monster could stumble onto one of those circles. If I created a bunch without regard for the consequences, it could lead to the destruction of an entire village. I wouldn&#x27;t be able to sleep at night if that happened.</p>
 <p>&quot;Lord Perugius said this circle will lead you to a place that is close to the Great Demon Emperor,&quot; said Sylvaril.</p>
 <p>&quot;Wait, so he knows where she is?&quot;</p>
 <p>&quot;Of course.&quot;</p>
-<p>Oh, okay. That&#x27;s a surprise. I figured he&#x27;d just send us to a big city and we&#x27;d have to do everything on our own.</p>
+<p><em>Oh, okay. That&#x27;s a surprise. I figured he&#x27;d just send us to a big city and we&#x27;d have to do everything on our own.</em></p>
 <p>&quot;That said, there is a possibility his calculations are off.&quot;</p>
 <p>&quot;Yeah, that&#x27;s not surprising,&quot; I muttered. The Demon Emperor I knew was rather unpredictable, after all. Just when you thought you&#x27;d find her in one place, she would wander somewhere else. Her fiancé was the same in that regard.</p>
-<p>Oh, that&#x27;s right. I forgot about Badigadi.</p>
+<p><em>Oh, that&#x27;s right. I forgot about Badigadi.</em></p>
 <p>I hadn&#x27;t seen him in a while. Maybe he already returned to his own territory. It seemed he had also lived a long time, so asking him about the syndrome might not be a bad idea either.</p>
 <p>&quot;All right,&quot; I said. &quot;We&#x27;ll check it out anyway.&quot;</p>
 <p>&quot;We haven&#x27;t checked your destination. There is a possibility that the circle on the other end is located in a place with no exit. Please be cautious.&quot;</p>
 <p>&quot;You mean you think it&#x27;s closed off?&quot;</p>
 <p>&quot;Possibly. In order to conceal its location, someone may have sealed the entrance.&quot;</p>
 <p>Well, she had a good point there. If there was no entrance to the place, no one would ever discover it. There were people out there who searched for hidden doors, but few who went around brandishing a pickaxe at walls. The only people who dug that persistently when they found some old ruins were Egyptologists.</p>
-<p>Who knows, maybe there are grave robbers and archaeologists here that go pilfering teleportation ruins and I just don&#x27;t know about it.</p>
+<p><em>Who knows, maybe there are grave robbers and archaeologists here that go pilfering teleportation ruins and I just don&#x27;t know about it.</em></p>
 <p>I shrugged. &quot;Well, if it looks like we can&#x27;t get through at all, we&#x27;ll just come back here.&quot;</p>
 <p>&quot;I wish you good fortune.&quot;</p>
 <p>Sylvaril remained in the room as our party jumped onto the magic circle and teleported away.</p>
@@ -98,16 +98,16 @@ nav_title = "Chapter 5"
 <p>How many times had I teleported like this now? Once during the Displacement Incident, twice going to and from Begaritt, and then once using magical implements to visit Perugius&#x27;s castle. This excursion was jaunt number five. I was finally getting accustomed to the sensation, which was like waking up from a dream.</p>
 <p>&quot;Phew.&quot;</p>
 <p>The place we teleported to was a dark room. The stench of mold and dust hung heavy in the air. Whatever this place was, it had long been abandoned. There was no light and no candles we could use. It really was like an old ruin.</p>
-<p>Come to think of it, I forgot to ask where exactly the circle was going to take us.</p>
+<p><em>Come to think of it, I forgot to ask where exactly the circle was going to take us.</em></p>
 <p>&quot;Achoo!&quot; Cliff sneezed behind me.</p>
 <p>I glanced back as the other three stepped out of the circle. Elinalise was entirely unfazed. Zanoba also strode confidently. Cliff was the only one who seemed intrigued by the teleportation process.</p>
 <p>&quot;The air here sure is stale. Let us leave this place quickly.&quot; Zanoba kickstarted our search for a way out.</p>
 <p>&quot;Hm.&quot; I scanned the walls. There were no doors, stairs, or holes in the ceiling we could crawl out of. To my chagrin, studying the floor also turned up nothing. We were in a locked room.</p>
-<p>So this was what she meant by &#x27;closed off.&#x27; Sylvaril was right on the money.</p>
+<p><em>So this was what she meant by &#x27;closed off.&#x27; Sylvaril was right on the money.</em></p>
 <p>&quot;Hey. So, uh, how do you figure we get out of here?&quot; I asked.</p>
 <p>&quot;Hm.&quot;</p>
 <p>Our group split up and began searching for ways out. We looked up, down, left, right, left, right, from B to A… Basically, we looked everywhere and then some.</p>
-<p>&quot;This is it,&quot; Elinalise announced after minutes of searching. She had found a wall adjacent to another room. She&#x27;d knocked on it and heard the echo, meaning it led somewhere. The walls were so thick that I couldn&#x27;t hear anything. Guess it&#x27;s no surprise that elves have superior hearing.</p>
+<p>&quot;This is it,&quot; Elinalise announced after minutes of searching. She had found a wall adjacent to another room. She&#x27;d knocked on it and heard the echo, meaning it led somewhere. The walls were so thick that I couldn&#x27;t hear anything. <em>Guess it&#x27;s no surprise that elves have superior hearing.</em></p>
 <p>&quot;Okay! It&#x27;s punching time, Zanoba!&quot;</p>
 <p>&quot;Hmph!&quot; He slammed his fist into the wall. Despite being about 50 centimeters thick, it still gave way, leaving a small opening. Zanoba continued to widen it, jabbing his fist through the wall with the same ease as a child toppling a sandcastle. Once it was wide enough for someone to slip through, Elinalise stepped through. &quot;I&#x27;ll take the lead.&quot;</p>
 <p>This new opening led to another open space, also pitch-black. That was expected, given this structure was made entirely of stone, but there was little else we knew about the place. We had no idea whether we were above ground or below it.</p>
@@ -116,7 +116,7 @@ nav_title = "Chapter 5"
 <p>&quot;Ugh…&quot; Cliff groaned as he glanced around. Shadows danced across a number of bleached white bones on the floor. As we were on the Demon Continent, it was perhaps unsurprising that the skeletons varied in shape and size, making them seem almost artificial.</p>
 <p>&quot;It appears this place was once a prison,&quot; said Elinalise after examining the remains. Indeed, there were rusted metal cuffs on the skeletons&#x27; hands.</p>
 <p>Cliff&#x27;s expression turned sorrowful as he clasped his hands. &quot;Khh… May Lord Millis grant them salvation in death.&quot;</p>
-<p>I followed his example, placing my own hands together. Hail to Amitābhā Buddha, hail to Amitābhā Buddha. Rest in peace. I&#x27;m afraid we will disturb you for the moment, but we will leave as soon as we can.</p>
+<p>I followed his example, placing my own hands together. <em>Hail to Amitābhā Buddha, hail to Amitābhā Buddha. Rest in peace. I&#x27;m afraid we will disturb you for the moment, but we will leave as soon as we can.</em></p>
 <p>&quot;All right, let&#x27;s be off.&quot;</p>
 <p>This place was covered in bones. Just how many people had they locked up in here? I bet none of them realized that just on the other side of that wall, there was a teleportation circle. Wait, but Perugius mentioned that the circle wasn&#x27;t connected to anything anymore. Maybe these people were teleported here and sealed in with magic. If that were the case, whoever did it was awfully cruel.</p>
 <p>&quot;I found some stairs,&quot; said Elinalise. &quot;We can go up from there.&quot;</p>

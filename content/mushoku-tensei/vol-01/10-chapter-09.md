@@ -15,20 +15,20 @@ nav_title = "Chapter 9"
 <p>***</p>
 <p>Our maid, Lilia, had discovered that she was pregnant, as well.</p>
 <p>&quot;I&#x27;m so sorry,&quot; she announced matter-of-factly to the family as we sat at the table. &quot;I&#x27;m pregnant.&quot;</p>
-<p>In that instant, the Greyrat family froze. Who was the father?  But, given the circumstances, nobody could bring themselves to ask.</p>
+<p>In that instant, the Greyrat family froze. <em>Who was the father?</em>  But, given the circumstances, nobody could bring themselves to ask.</p>
 <p>Everyone had realized it on some level at least. Lilia was our maid. She sent almost all of her pay back home to her family. Unlike Paul, who frequently headed into town to help settle problems, or Zenith, who helped out at the local clinic at certain times, Lilia almost never left the house unless it was on work-related duties, and nobody had heard rumors about her developing an especially close relationship with anyone. Perhaps it had been a casual fling?</p>
 <p>I knew the truth, though.</p>
 <p>Ever since Zenith had gotten pregnant, Paul had been forced to go without sex. And he was an especially lustful man who&#x27;d been sneaking into Lilia&#x27;s room in the middle of the night. If I&#x27;d been an actual kid, I would have thought they were just playing cards or something.</p>
 <p>Unfortunately, I knew all too well what was really going on. They weren&#x27;t playing any game of Old Maid; there was playing around, and there was a maid involved, but this was no mere round of cards.</p>
 <p>Still, I wish they&#x27;d been more careful. Which is probably what both of them were thinking, too.</p>
-<p>Hello, boys and girls! The phrase of the day is &quot;You can do it!&quot; Today we&#x27;ll be learning all about the importance of contraception!</p>
+<p><em>Hello, boys and girls! The phrase of the day is &quot;You can do it!&quot; Today we&#x27;ll be learning all about the importance of contraception!</em></p>
 <p>Part of me wanted to say that to Paul with a completely deadpan face, but I wasn&#x27;t sure if the concept of contraception was even a thing in this world. And obviously it wasn&#x27;t like I wanted to tear the whole family apart by spilling the beans. Also, if I messed with the maid, I was pretty sure she&#x27;d never forgive me.</p>
 <p>Besides, I owed Paul for helping me through that incident with Sylphie. I&#x27;d let this one slide. Being a guy who all the chicks were hot for seemed tough. If they suspected him, I&#x27;d cover for him. Heck, I&#x27;d lie to give him an alibi if I had to.</p>
 <p>Having come to that decision, I looked over at Paul, letting him know with my eyes that he had nothing to worry about.</p>
 <p>At the same time, however, Zenith shot a look right over at Paul, her shocked assumption plain on her face.</p>
 <p>Conveniently enough, our gazes both fell upon Paul as one, bearing down on him.</p>
 <p>&quot;Uh, sorry,&quot; he blurted. &quot;This child is, uh…probably mine.&quot;</p>
-<p>Good grief. Really? Well, no; I suppose I should commend the man for being honest. Seeing as how he constantly told me to &quot;be honest&quot; and &quot;be a real man&quot; and &quot;be sure to protect women&quot; and &quot;never impugn your sense of honor&quot; and other high-and-mighty stuff like that day in and day out, the least he could do was practice what he preached.</p>
+<p><em>Good grief.</em> Really? Well, no; I suppose I should commend the man for being honest. Seeing as how he constantly told me to &quot;be honest&quot; and &quot;be a real man&quot; and &quot;be sure to protect women&quot; and &quot;never impugn your sense of honor&quot; and other high-and-mighty stuff like that day in and day out, the least he could do was practice what he preached.</p>
 <p>Well, whatever. I couldn&#x27;t say I hated him for it.</p>
 <p>Anyway, this really was the worst-case scenario. That sentiment solidified as I watched Zenith draw herself up to her full height, her face livid, her hand rising into the air.</p>
 <p>And thus was convened an emergency family meeting, with Lilia included.</p>
@@ -57,7 +57,7 @@ nav_title = "Chapter 9"
 <p>He shrank like a scolded child. This was definitely one instance where he had no right to speak. Paul was useless here.</p>
 <p>Zenith chewed on her nails with a look of consternation. She was clearly conflicted as well. She didn&#x27;t want Lilia to suffer; on the contrary, the two were quite good friends. Considering how they&#x27;d spent the last six years running this household together, it was probably fair to say they were best friends.</p>
 <p>Well, except for the part about how Lilia was now carrying Paul&#x27;s child.</p>
-<p>If Lilia had gotten pregnant because she was raped in some back alley, Zenith would have unquestionably sheltered her, and allowed her to—no, she would have insisted she raise the child in our home.</p>
+<p>If Lilia had gotten pregnant because she was raped in some back alley, Zenith would have unquestionably sheltered her, and allowed her to—no, she would have <em>insisted</em> she raise the child in our home.</p>
 <p>Based on the conversation, I surmised that abortion wasn&#x27;t easily accessible in this world.</p>
 <p>Zenith appeared to be grappling with two separate emotions: her fondness for Lilia and her feelings of betrayal. Considering the circumstances, I thought Zenith was pretty incredible for being able to set aside her emotions about the latter. If I were her, I&#x27;d have given in to jealousy.</p>
 <p>The fact that Zenith was able to keep her cool seemed connected to Lilia&#x27;s own attitude; she hadn&#x27;t tried to talk her way out of anything, and had taken full responsibility for betraying a household she&#x27;d served for so long.</p>
@@ -83,7 +83,7 @@ nav_title = "Chapter 9"
 <p>That evening, I braced myself for the inevitable family meeting—except it never came. I spent the long night shuddering fearfully in my futon, but even when morning came, there was nothing. She hadn&#x27;t told anyone.</p>
 <p>I owed it to her to repay that debt.</p>
 <p>&quot;Mother?&quot; I asked, keeping my tone as childlike as I could. &quot;How come everyone&#x27;s acting so glum about how I&#x27;m going to have two new siblings at once?&quot;</p>
-<p>I wanted to give off the naïve impression of: Hey, if Lilia&#x27;s pregnant, that means our family&#x27;s getting even bigger! Hooray! Why&#x27;s everyone so upset about that?</p>
+<p>I wanted to give off the naïve impression of: <em>Hey, if Lilia&#x27;s pregnant, that means our family&#x27;s getting even bigger! Hooray! Why&#x27;s everyone so upset about that?</em></p>
 <p>&quot;Because your father and Lilia did something they shouldn&#x27;t have,&quot; Zenith said with a sigh, an unfathomable rage mixed in with those words. But it wasn&#x27;t directed at Lilia; Zenith knew full well who bore the brunt of the blame here.</p>
 <p>&quot;Oh, I see,&quot; I said. &quot;But is Lilia allowed to go against Father&#x27;s wishes?&quot;</p>
 <p>&quot;What do you mean by that?&quot; Zenith asked.</p>
@@ -107,7 +107,7 @@ nav_title = "Chapter 9"
 <p>&quot;I…suppose, yes.&quot;</p>
 <p>&quot;And besides, Mother, they&#x27;d both be little brothers or sisters to me!&quot;</p>
 <p>&quot;All right, Rudy. I get it. You win.&quot; Zenith let out a heavy sigh.</p>
-<p>Jeez, way to give me a hard time about it, Mom.</p>
+<p><em>Jeez, way to give me a hard time about it, Mom.</em></p>
 <p>&quot;Lilia, I insist you stay with us,&quot; Zenith pronounced. &quot;You&#x27;re family at this point! I am not letting you do something as foolish as leave!&quot;</p>
 <p>And that seemed to be the final word on the matter. Paul&#x27;s eyes went wide; Lilia brought her hand to her mouth, holding back her tears.</p>
 <div class="chapter-illustration">
@@ -164,7 +164,7 @@ nav_title = "Chapter 9"
 <p>&quot;Next time, Mother might move back in with her family without saying a word, you know.&quot;</p>
 <p>Was this guy hoping to build himself a harem? To have some secret retirement out in the sticks, where he had a beautiful wife, a maid he could get handsy with whenever he wanted, and a son to train in the way of the sword?</p>
 <p>Huh. That made me kind of jealous. That was probably the best ending from his perspective. It&#x27;d be like winding up with both Louise and Siesta at the end of that one light novel series. Maybe, rather than being oblivious, I should try to learn from his example?</p>
-<p>No, calm down. I remembered the look in Zenith&#x27;s eyes when that family meeting of ours came to a close. Did I want someone to give me that look? One wife would be plenty, thanks.</p>
+<p>No, calm down. I remembered the look in Zenith&#x27;s eyes when that family meeting of ours came to a close. Did I want someone to give <em>me</em> that look? One wife would be plenty, thanks.</p>
 <p>&quot;I mean, you&#x27;re a guy,&quot; Paul said. &quot;You know how it is.&quot; He was still refusing to back down.</p>
 <p>I knew what he meant, but that didn&#x27;t mean I agreed with him. &quot;What would a six-year-old boy know?&quot;</p>
 <p>&quot;Well, take Sylphie; you&#x27;re into her, aren&#x27;t you? She&#x27;s going to be gorgeous when she grows up.&quot;</p>
@@ -187,7 +187,7 @@ nav_title = "Chapter 9"
 <p>Not right now, anyway.</p>
 <p>&quot;All right, Father. We&#x27;re going to head out,&quot; I said.</p>
 <p>&quot;Don&#x27;t go rolling around in the hay out there, okay?&quot;</p>
-<p>Oh, come on! As if I would! This is me we&#x27;re talking about, not you.</p>
+<p><em>Oh, come on! As if I would! This is me we&#x27;re talking about, not you.</em></p>
 <p>&quot;Mother!&quot; I started to call. &quot;Father is—&quot;</p>
 <p>&quot;Gah! No, stop!&quot;</p>
 <p>And so, today our house would be a peaceful one yet again.</p>

@@ -18,7 +18,7 @@ nav_title = "Chapter 8"
 <p>&quot;Oh? Then allow me to ask you once more.&quot; Perugius put his elbow on his armrest, leaning his cheek against his fist as he tilted his head and said, &quot;What is the most important thing a king must possess?&quot;</p>
 <p>Ariel lifted her chin. &quot;The most important thing a king must possess is…&quot;</p>
 <p>I hadn&#x27;t heard her answer yet. Ariel said she knew it, but there was no guarantee it was the right answer. Of course, even if she had told me what it was, I wouldn&#x27;t have known if it was correct, either. Still, I wish she&#x27;d discussed it with me beforehand, just to be on the safe side.</p>
-<p>No, no. Let&#x27;s have a little faith in her. She&#x27;s got this much confidence in herself, so her answer can&#x27;t be too far off the mark, surely.</p>
+<p><em>No, no. Let&#x27;s have a little faith in her. She&#x27;s got this much confidence in herself, so her answer can&#x27;t be too far off the mark, surely.</em></p>
 <p>&quot;…determination,&quot; Ariel said. &quot;Determination to carry on the will of those that came before them.&quot;</p>
 <p>Her words echoed in the otherwise quiet chamber. It was so quiet aside from her voice that it was hard to believe seventeen people were present.</p>
 <p>&quot;Oh?&quot; Perugius exhaled. His expression was still unreadable, giving no hint whether she&#x27;d hit the mark or missed it entirely.</p>
@@ -71,11 +71,11 @@ nav_title = "Chapter 8"
 <p>&quot;Yes? What is it?&quot;</p>
 <p>&quot;Why did you not mention Orsted in all of this? I hate that man, but his presence is not one I can ignore. Didn&#x27;t you consider that things might go more smoothly if you brought him up?&quot;</p>
 <p>Orsted had already told me that Perugius had refused him. Knowing that, I couldn&#x27;t see how bringing Orsted into this would have improved the outcome at all. Was he testing me?</p>
-<p>You want some kind of clever retort?</p>
+<p><em>You want some kind of clever retort?</em></p>
 <p>&quot;Neither Orsted nor I are the ones seeking kingship,&quot; I said.</p>
 <p>&quot;But Orsted does wish to see Ariel become king, yes? And you have aligned yourself with him, if I&#x27;m not mistaken? In which case, should you not have capitalized on his influence to further your aims?&quot;</p>
 <p>&quot;Even if that sped things along, Princess Ariel would still be the one taking the throne, and she needs your help to do it. No matter how much help we provide, we are still outsiders. Unnecessarily using Orsted&#x27;s name to force compliance will only breed enmity.&quot;</p>
-<p>Hehe, that was a pretty badass answer, if I do say so myself.</p>
+<p><em>Hehe, that was a pretty badass answer, if I do say so myself.</em></p>
 <p>Yep, as far as I was concerned, those getting involved here needed to chip in of their own volition. Once Ariel was king, she would have to run the country on her own. While I couldn&#x27;t speak for Orsted, not knowing his plans, I had no demands to make of Ariel after this was over. Since I had no stakes in this, I shouldn&#x27;t get too deeply involved.</p>
 <p>&quot;That&#x27;s a weak way of thinking,&quot; Perugius spat, before leaving the room. His twelve servants remained behind, and I could barely breathe under the weight of all their gazes. I hurried toward the door, unable to bear it.</p>
 <p>Holy crap. That was embarrassing. I guess that means halfhearted answers are a no-go with him.</p>

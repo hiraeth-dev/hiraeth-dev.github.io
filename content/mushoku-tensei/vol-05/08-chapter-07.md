@@ -12,7 +12,7 @@ nav_title = "Chapter 7"
 <p>While it couldn&#x27;t compare to Millishion&#x27;s Commercial District, a number of enterprises had their headquarters here, and the city&#x27;s streets were packed with their subsidiary shops and businesses.</p>
 <p>Now that we&#x27;d made it this far, it was time to say goodbye to our horse and carriage.</p>
 <p>In this world, there were no ferries that would carry land vehicles across bodies of water for you. Just like when we left the Demon Continent, we needed to sell off our means of transportation here and then buy a new one on the other side.</p>
-<p>Unlike that charming lizard, I hadn&#x27;t gotten too attached to our horse, so I decided to give it a name at the very end. Farewell, faithful Landbiscuit.</p>
+<p>Unlike that charming lizard, I hadn&#x27;t gotten too attached to our horse, so I decided to give it a name at the very end. <em>Farewell, faithful Landbiscuit.</em></p>
 <p>Once we&#x27;d sold off our friend, we headed straight over to the checkpoint. This proved to be a very large building, unlike the one in Wind Port. There were even soldiers in helmets and armor standing outside the entrance.</p>
 <p>Fully armored knights had been a pretty common sight in the streets of Millishion as well. At a glance, their equipment appeared to be very sturdy, but when I thought about what Eris or Ruijerd could do, I wondered if it would serve much purpose. The people and monsters of this world tended to pack some serious firepower. One hit might be enough to smash off your fancy suit of armor and leave</p>
 <p>you in your boxer shorts. Hell, the knockback might even send you falling down a pit for an instant game over…</p>
@@ -43,17 +43,17 @@ nav_title = "Chapter 7"
 <p>I had an extremely bad feeling about this.</p>
 <p>&quot;I am Duke Bakshiel von Wieser, director of the Millis Continental Customs Office.&quot;</p>
 <p>This hog bore a strong resemblance to a pig.</p>
-<p>Whoops, my mistake. This man bore a strong resemblance to a pig.</p>
+<p>Whoops, my mistake. This <em>man</em> bore a strong resemblance to a pig.</p>
 <p>His neck was so enormously fat that his chin had disappeared completely. His light blond hair was plastered to his forehead, and there were huge bags underneath his eyes. He had the face of a crafty, nasty old man.</p>
 <p>He was also scowling at us with open hostility.</p>
 <p>I&#x27;d seen a guy a lot like this way back in the day…every time I looked into the mirror.</p>
 <p>&quot;Hmph. To think some filthy demon would be brazen enough to bring me a letter like this…&quot;</p>
 <p>Duke Bakshiel was seated in a luxurious leather chair, which he didn&#x27;t seem inclined to leave. It squeaked underneath him as he tapped the piece of paper in his hand with a pen. There were countless pieces of paper on his expensive-looking desk. Among them, I spotted a familiar envelope, now torn open. Presumably, he was holding its contents.</p>
-<p>&quot;You certainly chose an impressive name, I&#x27;ll give you that. And that seal looked very real, as well. But I wasn&#x27;t born yesterday, my friends! This is obviously a fake!&quot;</p>
+<p>&quot;You certainly chose an impressive name, I&#x27;ll give you that. And that seal looked <em>very</em> real, as well. But I wasn&#x27;t born yesterday, my friends! This is obviously a fake!&quot;</p>
 <p>Bakshiel tossed the letter carelessly over at us. I reached out on reflex and caught it.</p>
 <p>***</p>
-<p>This man is of the Superd. Nonetheless, I owe him a great debt. He is a man of few words, but noble in character.</p>
-<p>Waive all customary fees and see him safely to the Central Continent.</p>
+<p><em>This man is of the Superd. Nonetheless, I owe him a great debt. He is a man of few words, but noble in character.</em></p>
+<p><em>Waive all customary fees and see him safely to the Central Continent.</em></p>
 <p>&gt; —Galgard Nash Vennik, Commander of the Missionary Knights</p>
 <p>***</p>
 <p>One look at the name at the bottom left my head spinning. What happened to Gash Broche? Who was this Galgard Nash Vennik guy?</p>
@@ -61,11 +61,11 @@ nav_title = "Chapter 7"
 <p>More importantly, though… &quot;Commander of the Missionary Knights&quot;?! Was he seriously the leader of one of the three holy military orders?! This was giving me a serious headache. Why would Ruijerd&#x27;s old acquaintance be such a major figure?</p>
 <p>It did make sense, though, in some ways. The commander of the Missionary Knights had to be pretty high-ranking in the Millis hierarchy, right? It might not go over well if everyone knew a guy like that was friends with a Superd. Maybe that was why he&#x27;d used a false name.</p>
 <p>Of course, there were simpler explanations for that too. It had been forty years since Ruijerd first met the man. Maybe he&#x27;d married into a powerful family and changed his name or something.</p>
-<p>&quot;In the first place, there&#x27;s not a chance that close-mouthed man would write a letter like this. I know him well, and I know that he detests putting pen to paper, even when it&#x27;s simply necessary. Do you really expect me to believe he wrote this on behalf of some lowly demon? What a farce.&quot;</p>
+<p>&quot;In the first place, there&#x27;s not a chance that close-mouthed man would write a letter like this. I know him well, and I know that he <em>detests</em> putting pen to paper, even when it&#x27;s simply necessary. Do you really expect me to believe he wrote this on behalf of some lowly demon? What a farce.&quot;</p>
 <p>Ruijerd listened to all this silently with a conflicted expression on his face. This man was asserting flat-out that his letter was a fake simply because he was a Superd—or so it likely seemed to him. And he might not be entirely wrong about that, to be honest. Paul had warned me that this Duke Bakshiel was famous for his hatred of all demonkind.</p>
 <p>Surely this Gash, or Galgard, was aware of that as well, right? If he knew what Bakshiel was like, he really should have written a slightly more thorough explanation.</p>
 <p>Was the man not really who he claimed to be, then?</p>
-<p>No, no. Remember what Ruijerd told you.</p>
+<p><em>No, no. Remember what Ruijerd told you.</em></p>
 <p>He&#x27;d met Gash in a building big enough that he compared it to Kishirisu Castle. That would be very large for a home or mansion, but what if it was the headquarters of the Missionary Knights? That would likely be a large building, with many knights inside it at all times…and if Gash was the commander, all of those knights would be his subordinates. That would explain why Ruijerd said he had &quot;many men.&quot;</p>
 <p>Of course, figuring all that out wasn&#x27;t particularly helpful at the moment. Duke Bakshiel had already made up his mind that this letter was a fake. Since things had come this far, saying &quot;Yes, it&#x27;s a fake! Sorry about that!&quot; wasn&#x27;t going to end well for us.</p>
 <p>I took a step forward. &quot;In other words, you believe this letter to be a forgery, sir?&quot;</p>
@@ -91,8 +91,8 @@ nav_title = "Chapter 7"
 <p>&quot;The young lady may be dressed as an adventurer at the moment, but that&#x27;s solely because we didn&#x27;t want any ruffians realizing that she&#x27;s of noble birth. I&#x27;m sure you can understand the potential dangers, Duke Bakshiel.&quot;</p>
 <p>&quot;I see,&quot; said Bakshiel, the expression on his face still sour. &quot;So that&#x27;s how it is. You&#x27;re in league with that &#x27;Fittoa Search and Rescue Squad&#x27; that&#x27;s been causing no end of trouble in Millishion recently, are you?&quot;</p>
 <p>&quot;Uh…what? No, no. What are you talking about, sir?&quot;</p>
-<p>&quot;I&#x27;ve never heard the name Eris Boreas Greyrat before,&quot; said Bakshiel with a distinctly swine-like snort. &quot;However, I am familiar with a certain Paul Greyrat—a thuggish little man who&#x27;s supposedly taken to stealing slaves by force.&quot;</p>
-<p>Oh, lovely. Daddy&#x27;s got a real reputation.</p>
+<p>&quot;I&#x27;ve never heard the name Eris Boreas Greyrat before,&quot; said Bakshiel with a distinctly swine-like snort. &quot;However, I <em>am</em> familiar with a certain Paul Greyrat—a thuggish little man who&#x27;s supposedly taken to stealing slaves by force.&quot;</p>
+<p><em>Oh, lovely. Daddy&#x27;s got a real reputation.</em></p>
 <p>&quot;Let me make sure I understand you, Duke Bakshiel. You believe that Sir Galgard&#x27;s letter is a forgery and Lady Eris is not truly a member of the Asuran nobility, yes? And you take us for mere lackeys of this worthless lecher Paul Greyrat, who drinks all day, lashes out at his own son, has smelly feet, and causes his poor daughter no end of worry?&quot;</p>
 <p>&quot;Indeed.&quot;</p>
 <p>Honestly now, what a terrible thing to say. Paul was trying his best out there. To be sure, he had his flaws, and some of his methods might be less than perfect. But to dismiss him as &quot;worthless&quot;? Now that was just offensive!</p>
@@ -103,7 +103,7 @@ nav_title = "Chapter 7"
 <p>I glanced over at Eris, who&#x27;d assumed her usual cross-armed pose. While her arms weren&#x27;t marked by any scars, they were tanned and more tightly muscular than your average young adventurer&#x27;s. Not exactly what you&#x27;d expect from a sheltered little princess, to be sure.</p>
 <p>&quot;Ah,&quot; I said with a small snort of laughter. &quot;It appears you&#x27;re not familiar with Sir Sauros, then.&quot;</p>
 <p>&quot;Sauros? You mean the lord of the Fittoa Region?&quot;</p>
-<p>Apparently he recognized that name, at least. Good. &quot;I do. He&#x27;s also Eris&#x27; grandfather, and the man who chose to nurture her talents with the sword from a young age.&quot;</p>
+<p>Apparently he recognized <em>that</em> name, at least. Good. &quot;I do. He&#x27;s also Eris&#x27; grandfather, and the man who chose to nurture her talents with the sword from a young age.&quot;</p>
 <p>&quot;What? Why would he do such a thing?&quot;</p>
 <p>&quot;This is something of a family secret, but…it was decided some time ago that Lady Eris would marry into the Notos family. And Sir Sauros detests the current head of that house.&quot;</p>
 <p>&quot;I see.&quot;</p>
@@ -113,7 +113,7 @@ nav_title = "Chapter 7"
 <p>&quot;Hmph. If you want me to believe all this, then show me some sort of proof.&quot;</p>
 <p>&quot;Sir Galgard&#x27;s letter is surely proof enough.&quot;</p>
 <p>&quot;This is absurd. You&#x27;re arguing in circles.&quot;</p>
-<p>&quot;So what if I am? Look, Duke Bakshiel, do you really want to make an enemy of the Asuran Greyrat family?&quot; Crap. I don&#x27;t even know what I&#x27;m saying anymore.</p>
+<p>&quot;So what if I am? Look, Duke Bakshiel, do you really want to make an enemy of the Asuran Greyrat family?&quot; <em>Crap. I don&#x27;t even know what I&#x27;m saying anymore.</em></p>
 <p>Fortunately, the threat I&#x27;d blurted out did seem to have some sort of an effect, judging from how sharply Duke Bakshiel was glaring at me.</p>
 <p>&quot;Very well then. I&#x27;ll permit you and the young lady to book passage, then.&quot;</p>
 <p>&quot;But our guard—&quot;</p>
@@ -125,14 +125,14 @@ nav_title = "Chapter 7"
 <p>The person outside didn&#x27;t wait for permission to enter. The door swung open, and a blond woman in blue armor stepped into the room.</p>
 <p>&quot;Pardon me. I was told that a certain &#x27;Dead End Ruijerd&#x27; was in here.&quot;</p>
 <p>&quot;…Mother?&quot;</p>
-<p>It was Zenith.</p>
+<p>It was <em>Zenith</em>.</p>
 <p>&quot;Huh?!&quot;</p>
 <p>Everyone else in the room turned in unison to look at her.</p>
 <p>The woman stared down at me, looking somewhat miffed. &quot;I&#x27;m a single woman. I don&#x27;t have any children, let alone one as old as you.&quot;</p>
-<p>Say what? Come on now, Mom. Did you lose your memory since the last time I saw you? Oh, maybe she just got sick of Paul&#x27;s nonsense…</p>
+<p><em>Say what? Come on now, Mom. Did you lose your memory since the last time I saw you? Oh, maybe she just got sick of Paul&#x27;s nonsense…</em></p>
 <p>As I looked more closely at the woman, though, I began to notice a few details in which she differed from my mother. After years apart, I couldn&#x27;t remember Zenith perfectly…but the shape of this woman&#x27;s face and the color of her hair were very subtly different. It wasn&#x27;t her after all. &quot;I&#x27;m sorry. My mother&#x27;s missing, and you look a great deal like her.&quot;</p>
 <p>&quot;…I see.&quot;</p>
-<p>Great. Now she was looking at me with pity in her eyes. Maybe she&#x27;d pegged me as a lonely lost child or something. People didn&#x27;t treat me like a kid too often these days, but I still looked like one, at least.</p>
+<p>Great. Now she was looking at me with pity in her eyes. Maybe she&#x27;d pegged me as a lonely lost child or something. People didn&#x27;t treat me like a kid too often these days, but I still <em>looked</em> like one, at least.</p>
 <p>With a snort, Duke Bakshiel glared at the armored woman. &quot;Well, if it isn&#x27;t our freshly-demoted Temple Knight. Did you need something from me?&quot;</p>
 <p>&quot;A Superd has appeared in Millis territory. Any diligent member of my order would come running at that news.&quot;</p>
 <p>&quot;You don&#x27;t assume your post here for another ten days. Don&#x27;t stick your nose where it doesn&#x27;t belong.&quot;</p>
@@ -141,7 +141,7 @@ nav_title = "Chapter 7"
 <p>&quot;A team of two leaders should oversee the defense of every customs post. That is an ironclad rule established by the Millis Church, Duke Bakshiel. Surely you don&#x27;t intend to defy it?&quot;</p>
 <p>&quot;Of course not. I only thought… Well, you&#x27;ve only just arrived here. Why not take a few days to relax and grow accustomed to the city?&quot;</p>
 <p>&quot;That won&#x27;t be necessary.&quot;</p>
-<p>From the look on Duke Piggy&#x27;s face, you might have thought he was in line to be slaughtered. I was really going to enjoy the next time I got to eat some pork.</p>
+<p>From the look on Duke Piggy&#x27;s face, you might have thought he was in line to be slaughtered. I was <em>really</em> going to enjoy the next time I got to eat some pork.</p>
 <p>&quot;Now then. Could you explain what was being discussed here?&quot;</p>
 <p>All in all, it seemed like this lady knight was on equal footing with Bakshiel here. Normally a duke would be at the very top of the aristocratic pecking order, but in the Holy Country of Millis, the Church was extremely powerful in its own right. That system probably had something to do with this.</p>
 <p>&quot;Well, as it happens…&quot;</p>
@@ -155,23 +155,23 @@ nav_title = "Chapter 7"
 <p>&quot;And your father&#x27;s?&quot;</p>
 <p>I glanced over at Bakshiel. Man, this was going to be awkward…</p>
 <p>&quot;Paul Greyrat.&quot;</p>
-<p>Understandably enough, the duke&#x27;s eyes went wide. I&#x27;d just have to insist that my father was a totally different person, not that scumbag back in Millishion. My daddy was basically a saint. He&#x27;d even give you money if you punched him a few times.</p>
+<p>Understandably enough, the duke&#x27;s eyes went wide. I&#x27;d just have to insist that my father was a totally different person, not that scumbag back in Millishion. <em>My</em> daddy was basically a saint. He&#x27;d even give you money if you punched him a few times.</p>
 <p>&quot;I see,&quot; murmured the knight. And then, for some reason, she squatted down and wrapped her arms around me.</p>
 <p>&quot;Huh?!&quot; This came as something of a surprise, to say the least.</p>
 <p>&quot;I can&#x27;t imagine what you&#x27;ve been through…&quot; Not only was she hugging me, now she was stroking my head as well.</p>
 <p>This wasn&#x27;t the softest of embraces, thanks to that thick armor she had on, but at least I was getting a nice whiff of feminine fragrance. Naturally, my little buddy downstairs…didn&#x27;t even twitch. Huh.</p>
-<p>What&#x27;s the matter, my boy? I thought you loved the smell of a slightly sweaty woman. Why, just the other day it only took one whiff of Eris to get you going…</p>
+<p><em>What&#x27;s the matter, my boy? I thought you loved the smell of a slightly sweaty woman. Why, just the other day it only took one whiff of Eris to get you going…</em></p>
 <p>Glancing over at the young lady in question, I found her staring at us with her eyes wide open and her hands clenched into fists. Talk about terrifying.</p>
 <p>&quot;Um…miss?&quot;</p>
 <p>After patting me on the head a few times, the knight rose to her feet once again. And instead of looking in my direction, she turned back to face Duke Bakshiel. &quot;I&#x27;ll take these three under my personal protection.&quot;</p>
-<p>&quot;What?!&quot; sputtered Bakshiel. &quot;One of them is a demon, woman!&quot;</p>
+<p>&quot;What?!&quot; sputtered Bakshiel. &quot;One of them is a <em>demon</em>, woman!&quot;</p>
 <p>Keeping him in the corner of her eye, the knight snatched Ruijerd&#x27;s letter from my hands and quickly looked it over. &quot;This letter is authentic, incidentally. I recognize Sir Galgard&#x27;s handwriting when I see it.&quot;</p>
 <p>&quot;Would you ignore the teachings of the Millis Church completely? What sort of Temple Knight are you?&quot;</p>
 <p>At this point, Eris let out a little &quot;Oh!&quot; The lady knight turned toward her for a moment and winked.</p>
 <p>…I was starting to feel completely lost.</p>
 <p>&quot;I&#x27;m a captain of the Shield Company. And I&#x27;m quite serious about this.&quot;</p>
 <p>&quot;Pah! A captain demoted for losing her entire unit!&quot;</p>
-<p>&quot;Hmph. Aren&#x27;t your own circumstances somewhat similar? No, my mistake. I at least completed my mission, whereas you simply abandoned your duty.&quot;</p>
+<p>&quot;Hmph. Aren&#x27;t your own circumstances <em>somewhat</em> similar? No, my mistake. I at least completed my mission, whereas you simply abandoned your duty.&quot;</p>
 <p>Duke Bakshiel ground his teeth together and growled. From the sound of things, he&#x27;d been sent here as some sort of punishment as</p>
 <p>well. Once you knew that little detail, his grand title actually seemed more pathetic than intimidating. There was something like real hatred in his eyes now.</p>
 <p>&quot;Look, woman. I don&#x27;t care how powerful your family is. This sort of insolence will not—&quot;</p>
@@ -181,7 +181,7 @@ nav_title = "Chapter 7"
 <p>&quot;Personal significance?&quot;</p>
 <p>&quot;Yes,&quot; said the knight, with a small nod to her dubious colleague. She then dropped a hand onto my shoulder.</p>
 <p>&quot;This boy is my nephew, you see.&quot;</p>
-<p>Pardon?!</p>
+<p><em>Pardon?!</em></p>
 <p>***</p>
 <p>Therese Latria was the fourth-born daughter of the Latria family, a cornerstone of the Millis nobility. She was also a highly promising knight who&#x27;d won the rank of captain in the Temple Knights at a remarkably young age.</p>
 <p>Count Latria was her father. And Zenith Greyrat was her sister.</p>
@@ -190,7 +190,7 @@ nav_title = "Chapter 7"
 <p>Only Eris, Therese, and myself were in the room at the moment. Perhaps sensing it might make things awkward if he stayed, Ruijerd had slipped away for the moment. &quot;You know, Rudeus, my sister told me all about you in her letters.&quot;</p>
 <p>&quot;Did she really? What did she say about me?&quot;</p>
 <p>&quot;That you&#x27;re adorable, mainly. I can&#x27;t say that was the first word that came to mind when I saw you in that office, but now I get it. You&#x27;re cute as a button, all right!&quot; Even as she spoke, Therese was nuzzling her face affectionately against the back of my neck.</p>
-<p>This was a bit of an unusual experience for me. Over the last thirteen years, quite a few people had described me as &quot;creepy,&quot; &quot;impudent,&quot; or &quot;suspicious,&quot; but Zenith had to be the only one who&#x27;d ever called me cute.</p>
+<p>This was a bit of an unusual experience for me. Over the last thirteen years, quite a few people had described me as &quot;creepy,&quot; &quot;impudent,&quot; or &quot;suspicious,&quot; but Zenith had to be the only one who&#x27;d ever called me <em>cute</em>.</p>
 <p>In any case…despite the fact that I was currently being embraced by a beautiful woman with large breasts, for some strange reason the railgun between my legs wasn&#x27;t ready to fire off any coins.</p>
 <p>Now that I thought about it, my Victory never did &#x27;Stand Up&#x27; for Zenith, either. And I&#x27;d never felt any interest in getting more friendly than necessary with Norn. Was that just because they were my relatives?</p>
 <p>&quot;Therese, can you let go of Rudeus already?&quot;</p>
@@ -198,25 +198,25 @@ nav_title = "Chapter 7"
 <p>&quot;I can understand how you feel, Miss Eris, but there&#x27;s no telling when I&#x27;ll see Rudeus again. And by the time we&#x27;re reunited, he&#x27;ll most likely have lost all vestiges of the cuteness he now possesses. My sincerest apologies, but I&#x27;d like to make some memories with him while I can.&quot; Therese proceeded to nuzzle me even more vigorously than before, showing no signs of contrition whatsoever.</p>
 <p>&quot;Can I ask why you&#x27;re speaking so politely to Eris?&quot;</p>
 <p>&quot;Because I owe her my life.&quot;</p>
-<p>Now that piqued my interest.</p>
+<p>Now <em>that</em> piqued my interest.</p>
 <p>On the day Eris went out to hunt Goblins near Millishion, she&#x27;d apparently rescued Therese from a group of assassins who&#x27;d surrounded her. Therese had been on duty defending a certain &quot;important personage&quot; at the time; if Eris hadn&#x27;t shown up when she did, both Therese and her charge would have lost their lives.</p>
 <p>This was all news to me. When I looked over at Eris, she had a slightly embarrassed expression on her face. &quot;Sorry. I forgot to tell you about any of this…&quot;</p>
 <p>From what Eris told me, once she got back to the inn and saw how depressed I was, she&#x27;d forgotten all about everything else that had taken place that day. It was basically my fault, huh? In that case, I couldn&#x27;t really complain.</p>
 <p>Therese was still groping me like crazy, incidentally. Since she was sitting behind me it was hard to say for sure, but I&#x27;d bet the woman had a pretty blissful expression on her face. This didn&#x27;t nauseate me or anything, but it was definitely kind of awkward. I mean, I had a lady pressing her breasts against me and playing with my body, and I wasn&#x27;t remotely excited. It was a very…unfamiliar feeling.</p>
-<p>&quot;Seriously, though. You are just too cute, Rudeus. I could just eat you up!&quot;</p>
+<p>&quot;Seriously, though. You are just <em>too</em> cute, Rudeus. I could just eat you up!&quot;</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-05/insert-08.webp" alt="Illustration" loading="lazy" />
 </div>
 <p>&quot;Sorry, does that mean you want to sleep with me?&quot;</p>
 <p>Therese&#x27;s response to this modest attempt at humor was to cover my mouth with her hand. &quot;You&#x27;re definitely cuter when you stay quiet. Hearing you talk brings Paul Greyrat to mind.&quot;</p>
 <p>It seemed as if my aunt wasn&#x27;t a big fan of my dad. Petting me like a puppy, she went ahead and changed the subject.</p>
-<p>&quot;Anyway…Commander Gash never changes, huh? He must have known how Duke Bakshiel would react to a letter like that, but he went ahead and wrote it anyway.&quot;</p>
+<p>&quot;Anyway…Commander Gash never changes, huh? He <em>must</em> have known how Duke Bakshiel would react to a letter like that, but he went ahead and wrote it anyway.&quot;</p>
 <p>Galgard Nash Vennik was, in fact, the man in command of the Missionary Knights of Millis. This order was essentially a mercenary force that dispatched young knights to turbulent regions of the world, where they could gain real combat experience while also spreading the teachings of the Millis Church. At present, they were in between campaigns, and had returned to Millis to bolster their ranks with new recruits.</p>
 <p>Ruijerd&#x27;s buddy Gash, a.k.a. Galgard, had been their leader for some time now. He&#x27;d survived a disastrous expedition to the Demon Continent as a young knight, and in the decades since, he&#x27;d reshaped his order into the strongest force it had ever been. He was a brusque and quiet man who rarely so much as smiled, but he was also known for his fairness and impartiality towards even the worst of villains.</p>
 <p>In Millis, no one was considered to be a full-fledged knight until they&#x27;d experienced at least one expedition with the Missionary Knights. These campaigns were often highly dangerous. But with Gash in charge, more than ninety percent of the young knights dispatched now returned alive. This was the reason many hailed him as the greatest commander the order had ever known. Every knight in the three holy military orders respected Gash deeply. Many even owed him their lives.</p>
 <p>On the battlefield, he would snap off orders quickly and precisely, but at most other times he was too apathetic to even return an officer&#x27;s greeting. He almost never wrote letters of any kind, and merely rubber-stamped reports that others wrote. So few people had ever seen his handwriting that fake documents routinely circulated in his name.</p>
 <p>Ruijerd had described him as a talkative and passionate man. But of course, Ruijerd was pretty close-mouthed himself. Maybe his standards for &quot;talkative&quot; differed from ours…or maybe Gash just acted differently around him.</p>
-<p>&quot;Okay, look,&quot; interrupted Eris. &quot;Are you ever going to let go of him?&quot;</p>
+<p>&quot;Okay, look,&quot; interrupted Eris. &quot;Are you <em>ever</em> going to let go of him?&quot;</p>
 <p>I could see the girl was about five seconds from snapping at this point, so I finally slipped out of Therese&#x27;s grasp.</p>
 <p>&quot;Aww…my nice warm Rudeus…&quot; My aunt looked mildly heartbroken, but I wasn&#x27;t her body pillow. And it&#x27;s not like I was really enjoying the experience, anyway.</p>
 <p>&quot;Come here, Rudeus!&quot;</p>
@@ -247,11 +247,11 @@ nav_title = "Chapter 7"
 <p>One of the sailors did take the opportunity to tease us, though. &quot;Hey there, lovebirds! You two getting hitched in the King Dragon Realm or what?&quot;</p>
 <p>&quot;You bet,&quot; I said, putting an arm around Eris&#x27; shoulders with a grin. &quot;It&#x27;s going to be one crazy wedding.&quot;</p>
 <p>At this point, Eris punched me in the face. &quot;I-It&#x27;s way too early for us to get married, stupid!&quot;</p>
-<p>Despite the violence, she didn&#x27;t seem too displeased by the idea itself, judging from the way she fidgeted around afterward. The &quot;public teasing&quot; part was probably the main issue.</p>
+<p>Despite the violence, she didn&#x27;t seem <em>too</em> displeased by the idea itself, judging from the way she fidgeted around afterward. The &quot;public teasing&quot; part was probably the main issue.</p>
 <p>If I wanted to bring up this subject, it should be in a nice, quiet place, with just the two of us, and only once the right mood had been established. Eris was a monster of a swordswoman by now, but she was still an innocent maiden when it came to romance.</p>
-<p>### Still…marriage, huh?</p>
+<p>### <em>Still…marriage, huh?</em></p>
 <p>Philip and the others had certainly tried to push the two of us together. But now, nobody even knew where they were. Paul did say not to be too optimistic…</p>
-<p>It wasn&#x27;t just Philip, Sauros, and company, of course. Zenith, Lilia, and little Aisha were still missing, too. There was no news of Sylphie, either. Heck, we didn&#x27;t even know if Ghislaine was still alive. There were so many reasons to be anxious.</p>
+<p>It wasn&#x27;t just Philip, Sauros, and company, of course. Zenith, Lilia, and little Aisha were still missing, too. There was no news of Sylphie, either. Heck, we didn&#x27;t even know if <em>Ghislaine</em> was still alive. There were so many reasons to be anxious.</p>
 <p>Still, I couldn&#x27;t let myself sink into pessimism. By the time we got back to Fittoa, maybe everyone would be waiting for us there, safe and sound.</p>
 <p>I knew the idea was absurd. I knew it wasn&#x27;t remotely likely. But at the same time, tearing my hair out with worry wasn&#x27;t going to do any good at the moment. That was what I told myself, at least.</p>
 <p>For better or worse, we&#x27;d put the Millis Continent behind us.</p>

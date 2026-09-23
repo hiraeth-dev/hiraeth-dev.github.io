@@ -294,7 +294,7 @@ nav_title = "Chapter 9"
 <p>&quot;Really? He has a curse like that?&quot;</p>
 <p>&quot;Yes. That is the whole reason I lost to him. I assume it must have been the same for you, Zanoba?&quot; I asked, turning to him.</p>
 <p>&quot;It did seem as though I had been defeated out of nowhere. I couldn&#x27;t understand what had happened. Now that you mention it, I got the sense that my body wasn&#x27;t moving the way it normally does.&quot;</p>
-<p>Yeah, that&#x27;s just your imagination…but I&#x27;ll keep that to myself.</p>
+<p><em>Yeah, that&#x27;s just your imagination…but I&#x27;ll keep that to myself.</em></p>
 <p>Cliff nodded. &quot;I see, well, a curse like that would be bothersome indeed…&quot;</p>
 <p>&quot;Yes, extremely bothersome,&quot; I agreed. &quot;And for that very reason, I would like you to see if you can&#x27;t do something about this curse of his.&quot;</p>
 <p>&quot;But all my research has been centered specifically on Elinalise. I have no idea if it would work for Orsted…&quot;</p>

@@ -26,15 +26,15 @@ nav_title = "Chapter 2"
 <p>granddaughter, and she must have seen how her grandfather intimidated the servants and Philip. Children loved to imitate what they saw, especially if it was something bad.</p>
 <p>&quot;Shut up already, you damn brat!&quot; The door banged open and in came a man, probably because of her screaming.</p>
 <p>His clothes were all ragged and a foul stench clung to him. He was bald and his face unshaven. I wouldn&#x27;t have been surprised if he&#x27;d pulled out a business card that said, &quot;Hi, I&#x27;m a bandit!&quot;</p>
-<p>Nice choice, I thought. Now she would never figure out that we staged everything.</p>
+<p><em>Nice choice,</em> I thought. Now she would never figure out that we staged everything.</p>
 <p>&quot;Eww! You stink! Don&#x27;t you dare come close to me! You smell awful! Who the hell do you think I am?! Any minute now, Ghislaine is going to come in here and split you in two—gah!&quot;</p>
-<p>Whack! She was sent flying with an audible whoosh. A loud cry left her mouth as she smacked into the wall.</p>
+<p><em>Whack!</em> She was sent flying with an audible <em>whoosh</em>. A loud cry left her mouth as she smacked into the wall.</p>
 <p>&quot;Damn brat! Think you can mouth off to me, huh?! We already know you&#x27;re the liege lord&#x27;s grandchildren!&quot; The man didn&#x27;t hold anything back as he began stomping on the Young Mistress, whose hands were still tied behind her back.</p>
-<p>Th-that&#x27;s going a little far, isn&#x27;t it?</p>
+<p><em>Th-that&#x27;s going a little far, isn&#x27;t it?</em></p>
 <p>&quot;Th-that hurts… Stop—guh! Stop, agh… Stop it…&quot;</p>
 <p>&quot;Puh!&quot; He continued kicking her for a while. When he finished, he spat on her face and glared at me. I turned my head to avoid his gaze, and a kick came flying at my face.</p>
 <p>&quot;…Argh!&quot;</p>
-<p>That hurt! We were supposed to be putting on an act, but he could have showed a little restraint. I did tell them that I could use healing magic, but…</p>
+<p><em>That hurt!</em> We were supposed to be putting on an act, but he could have showed a little restraint. I did tell them that I could use healing magic, but…</p>
 <p>&quot;Tsk! That&#x27;s for looking so damn happy!&quot;</p>
 <p>&quot;Did they shut up?&quot;</p>
 <p>&quot;Yeah.&quot;</p>
@@ -56,10 +56,10 @@ nav_title = "Chapter 2"
 <p>&quot;Ghislaine! Ghislaine, help! They&#x27;re going to kill me! Save me, hurry!&quot; Her bellowing voice echoed through the room.</p>
 <p>I immediately hid the rope that had bound my hands beneath my clothes, scurried to the corner of the room and hid my hands between my back and the wall, pretending I was still restrained.</p>
 <p>The power of the Young Mistress&#x27;s voice was enough to draw the man back, and the door banged open viciously. &quot;Shut the hell up!&quot; This time he kicked her even harder than before.</p>
-<p>She really doesn&#x27;t learn, I thought.</p>
+<p><em>She really doesn&#x27;t learn,</em> I thought.</p>
 <p>&quot;Little shit, next time you fuss, I&#x27;ll kill you!&quot;</p>
 <p>And of course, I got kicked a second time too.</p>
-<p>I didn&#x27;t do anything, why did you have to kick me?! Now I feel like crying, I thought as I returned to the Young Mistress&#x27;s side.</p>
+<p><em>I didn&#x27;t do anything, why did you have to kick me?! Now I feel like crying,</em> I thought as I returned to the Young Mistress&#x27;s side.</p>
 <p>&quot;Guhuh, guhuh…&quot;</p>
 <p>It was bad. I wasn&#x27;t sure if it was a broken rib, but she was vomiting blood. One of her internal organs had probably ruptured. Her arms and legs were broken too. I didn&#x27;t know much about medical treatment, but these wounds looked serious enough that she might die if I just left her like this.</p>
 <p>&quot;Let this divine power be as satisfying nourishment, giving one who has lost their strength the strength to rise again—Healing!&quot; For now, I decided to use a basic healing spell for a slight recovery.</p>
@@ -82,11 +82,11 @@ nav_title = "Chapter 2"
 <p>&quot;All right.&quot; What to do?</p>
 <p>I could smash the door and subdue our kidnappers with magic. Maybe if she saw me defeat the people who had beat her senseless, the Young Mistress would learn to respect…</p>
 <p>No, that was unlikely. She was the type to think she could have done the same if they hadn&#x27;t beat her up. Plus, that would just show her that violence brings results. I needed to teach her that violence earned you nothing, otherwise she would just keep punching me. I didn&#x27;t want her to feel like she had that power.</p>
-<p>There&#x27;s also no guarantee you&#x27;d be able to beat those kidnappers, I realized. If they were as strong as Paul or Ghislaine, I was positive I would lose. And if I lost, they would definitely kill me.</p>
-<p>All right, then let&#x27;s get out of here without messing with the kidnappers.</p>
-<p>I glanced back to check on the Young Mistress. Yikes. She was glaring at me, eyes full of anger.</p>
+<p><em>There&#x27;s also no guarantee you&#x27;d be able to beat those kidnappers,</em> I realized. If they were as strong as Paul or Ghislaine, I was positive I would lose. And if I lost, they would definitely kill me.</p>
+<p><em>All right, then let&#x27;s get out of here without messing with the kidnappers</em>.</p>
+<p>I glanced back to check on the Young Mistress. <em>Yikes.</em> She was glaring at me, eyes full of anger.</p>
 <p>Hmmm.</p>
-<p>Let&#x27;s just get started with the plan.</p>
+<p><em>Let&#x27;s just get started with the plan</em>.</p>
 <p>First, I used earth and fire magic to fill the cracks in the door. Then I melted the door knob so the handle couldn&#x27;t be turned. Now it was just a door that couldn&#x27;t be opened. Of course, that meant nothing if they smashed through it. Still, it would buy us some time.</p>
 <p>Next, the window. It was a small hole with metal bars set in it. I considered focusing my fire magic on one spot to burn through the iron, but that would need temperatures too high to be practical. In the end, I used water magic to loosen the bricks framing the iron bars. Once I successfully pried them out, what was left was a hole just large enough for a single child to fit through.</p>
 <p>Now we had an escape route.</p>
@@ -96,7 +96,7 @@ nav_title = "Chapter 2"
 <p>&quot;I don&#x27;t want to die so…goodbye.&quot;</p>
 <p>I grabbed the ledge of the empty window frame and hoisted myself up. At the same time, a voice came through the door.</p>
 <p>&quot;Hey, this won&#x27;t open! What the hell is goin&#x27; on!&quot;</p>
-<p>Bang, bang! They pounded on the door.</p>
+<p><em>Bang, bang!</em> They pounded on the door.</p>
 <p>The Young Mistress eyed me and the door in despair. &quot;Ddon&#x27;t…leave me behind… Help.&quot;</p>
 <p>Oh wow. She caved quicker than I thought. I guess this situation was terrifying even for her.</p>
 <p>I dropped to the floor, got close to her, and whispered, &quot;Can you promise to listen to everything I say until we get back to the house?&quot;</p>
@@ -104,15 +104,15 @@ nav_title = "Chapter 2"
 <p>&quot;Can you also promise you won&#x27;t yell? Ghislaine isn&#x27;t here, okay?&quot;</p>
 <p>She nodded vigorously. &quot;I-I&#x27;ll promise. So just hurry up…or they&#x27;ll come… They&#x27;ll come!&quot;</p>
 <p>Her demeanor had changed completely from when she punched me. She was filled with fear and unease. Good, now she understood.</p>
-<p>I tried to sound calm and cool. &quot;If you break your promise, I will leave you behind.&quot;</p>
+<p>I tried to sound calm and cool. &quot;If you break your promise, I <em>will</em> leave you behind.&quot;</p>
 <p>I reinforced the door with earth magic. Then I used fire to remove her bindings and healing to restore her to full health.</p>
 <p>Finally, I slipped out the window and pulled the Young Mistress out with me.</p>
 <p>***</p>
 <p>Once we escaped the storehouse, we were greeted by an unfamiliar town. There were no castle walls. This wasn&#x27;t Roa. It wasn&#x27;t small enough to be a village, but it was a very small town. I had to think fast, or they were going to find us.</p>
 <p>&quot;Hmph, this is far enough!&quot; The Young Mistress declared loudly. She seemed to think we had already outrun our enemy.</p>
 <p>&quot;You promised you wouldn&#x27;t shout until we got home.&quot;</p>
-<p>&quot;Hmph! Why do I have to keep any promises to you?&quot; she said, as if it were the most obvious thing in the world.</p>
-<p>This little brat!</p>
+<p>&quot;Hmph! Why do <em>I</em> have to keep any promises to you?&quot; she said, as if it were the most obvious thing in the world.</p>
+<p><em>This little brat!</em></p>
 <p>&quot;Oh really? Then this is where we part. Goodbye.&quot;</p>
 <p>&quot;Hmph!&quot; She flared her nostrils and began walking away, but then we heard distant, angry shouts.</p>
 <p>&quot;Those damn brats! Where the hell did they go?!&quot;</p>
@@ -128,7 +128,7 @@ nav_title = "Chapter 2"
 <p>&quot;I-I won&#x27;t break my promise, so…I demand—no, I mean…help me.&quot;</p>
 <p>&quot;You can come with me, as long as you keep your promise not to shout and listen to what I say.&quot;</p>
 <p>&quot;G-got it.&quot; She nodded meekly.</p>
-<p>Very good, I thought. Now let&#x27;s move on to the next step.</p>
+<p><em>Very good,</em> I thought. <em>Now let&#x27;s move on to the next step.</em></p>
 <p>First, I retrieved the five large copper coins I&#x27;d tucked into my underwear. This was all the money I owned. Ten large copper coins made up one silver coin, so this wasn&#x27;t much money, but it would be enough for our purposes.</p>
 <p>&quot;Now come with me please.&quot;</p>
 <p>We headed toward the town entrance, away from the distant sound of angry shouting. A sleepy guard stood on duty. I passed him one of my coins. &quot;If anyone asks if you&#x27;ve seen us, please tell them that we left the city.&quot;</p>
@@ -140,17 +140,17 @@ nav_title = "Chapter 2"
 <p>Keeping to her promise, she replied in a hushed voice, &quot;How can you tell?&quot;</p>
 <p>&quot;It&#x27;s written right there.&quot;</p>
 <p>&quot;I can&#x27;t read it.&quot;</p>
-<p>Here we go, I thought.</p>
+<p><em>Here we go,</em> I thought.</p>
 <p>&quot;Being able to read is really beneficial. The way the stagecoach works is also written here.&quot;</p>
 <p>Still, it was amazing that they&#x27;d managed to bring us this far in just a day&#x27;s time. It made me nervous being in a city I didn&#x27;t know, almost like I was reliving a previous trauma.</p>
-<p>No, no, I thought. This is completely different from that time when I didn&#x27;t know how to find the location for Hello Work.</p>
+<p><em>No, no,</em> I thought. <em>This is completely different from that time when I didn&#x27;t know how to find the location for Hello Work.</em></p>
 <p>As I was lost in thought, the sound of shouting drew close. &quot;Shit! Where the hell are they hiding?! Get out here!&quot;</p>
 <p>&quot;Hide!&quot; I grabbed the Young Mistress and ducked into the bathroom, locking the door behind us. Outside came the clamor of heavy footsteps.</p>
 <p>&quot;Where the hell are they?!&quot;</p>
 <p>&quot;Don&#x27;t you dare think you got away from us!&quot;</p>
 <p>Whoa, scary.</p>
-<p>Oh, just knock it off already. Acting all pissed off as you try to hunt us down… You could at least speak in a sweet voice like an</p>
-<p>owner trying to draw out their cat. Maybe you would have some chance of deceiving us into coming out. It wouldn&#x27;t work, of course, but at least you&#x27;d have a chance.</p>
+<p><em>Oh, just knock it off already. Acting all pissed off as you try to hunt us down… You could at least speak in a sweet voice like an</em></p>
+<p><em>owner trying to draw out their cat. Maybe you would have some chance of deceiving us into coming out. It wouldn&#x27;t work, of course, but at least you&#x27;d have a chance</em>.</p>
 <p>&quot;Dammit, they&#x27;re not here!&quot;</p>
 <p>Before long, their voices grew distant. We had a moment to relax a bit, though it was too soon to let our guard down. After all, when people were in a panic, they tended to circle around and search the same area repeatedly.</p>
 <p>&quot;A-are we okay?&quot; She held a trembling hand over her mouth.</p>
@@ -164,7 +164,7 @@ nav_title = "Chapter 2"
 <p>&quot;Only five stagecoaches leave here daily, one every two hours starting at eight in the morning. It&#x27;s the same for every city. And it takes three hours to get to the next city from here. If we leave right now, we&#x27;ll be on the fourth stagecoach for the day. In other words…&quot;</p>
 <p>&quot;In other words…?&quot;</p>
 <p>&quot;By the time we reach the neighboring city, the last stagecoach there will already have left for Roa. So we will have to spend one night in that town before we can leave.&quot;</p>
-<p>&quot;No wa… O-oh, I see. Hm.&quot; She looked like she was about the shout there for a moment, but she held herself back. Yeah, please try to restrain that loud voice of yours.</p>
+<p>&quot;No wa… O-oh, I see. Hm.&quot; She looked like she was about the shout there for a moment, but she held herself back. <em>Yeah, please try to restrain that loud voice of yours.</em></p>
 <p>&quot;I have four large copper coins left, but we have to go to the neighboring city, stay a night, then go to Roa. We&#x27;ll be cutting it close.&quot;</p>
 <p>&quot;Cutting it close… But it will be enough, right?&quot;</p>
 <p>&quot;It will.&quot;</p>
@@ -197,7 +197,7 @@ nav_title = "Chapter 2"
 <p>I quickly used an earth spell to create a wall. The magic leapt from my fingertips and a barrier sprang up in front of them. Their pathway was cut off so suddenly that the men couldn&#x27;t stop themselves in time.</p>
 <p>&quot;What the?!&quot;</p>
 <p>&quot;Nggh!&quot; The Young Mistress bit down on her gag, tears beading in her eyes.</p>
-<p>Amazing… They managed to gag her in just a few seconds? They must be well-practiced, I thought. It also looked like they had punched her, because her cheek was swollen and red.</p>
+<p><em>Amazing… They managed to gag her in just a few seconds? They must be well-practiced,</em> I thought. It also looked like they had punched her, because her cheek was swollen and red.</p>
 <p>My opponents were the two who had kidnapped us. One of them was the violent one who kicked me, and the other was probably the man I heard talking outside the storehouse. They both looked like bandits, and each had a sword sheathed at their side.</p>
 <p>&quot;Aha, so it&#x27;s that brat. You know you coulda gone back home safely if you woulda just kept your nose out of this.&quot; Despite being caught off guard by the sudden appearance of my dirt wall, they grinned when they saw I was their opponent.</p>
 <p>The violent one came toward me, his guard down. The other was carrying the Young Mistress. I wondered if they had any other comrades around. Regardless, I conjured a small ball of fire at my fingertips to intimidate him.</p>
@@ -218,18 +218,18 @@ nav_title = "Chapter 2"
 <p>&quot;That magic you just used and how calm you&#x27;re acting? It&#x27;s obvious. I know there are demons out there like that. I bet you&#x27;ve been given a hard time because of your appearance, right? So you understand how important money is, don&#x27;t ya?&quot;</p>
 <p>&quot;I see.&quot;</p>
 <p>So that was what I looked like from an outside perspective? Well, it was certainly true that I was over forty.</p>
-<p>Ta-da! Congratulations, you guessed correctly! Good job.</p>
+<p><em>Ta-da! Congratulations, you guessed correctly! Good job</em>.</p>
 <p>&quot;You&#x27;re right. After living as long as I have, you get a good sense of the importance of money. I know what it&#x27;s like to be thrown out into a world you don&#x27;t know much about with no money and only the clothes on your back.&quot;</p>
 <p>&quot;Heh, yeah, you get us, right?&quot;</p>
 <p>Very much so, because until this point, I had never worried about money at all. Instead I&#x27;d spent almost twenty years as a shutin. Half of my life had been spent on nothing but erotic sims and online games. I&#x27;d learned something thanks to all of that. I knew what it would mean if I betrayed her right here, as well as what would happen if I helped her.</p>
 <p>&quot;It&#x27;s exactly why I know there are things more important than money.&quot;</p>
 <p>&quot;Don&#x27;t start spitting pretty words at us!&quot;</p>
-<p>&quot;They&#x27;re not pretty words. You can&#x27;t buy &#x27;dere&#x27; with money.&quot; Crap, my inner nerd had slipped out. It wasn&#x27;t like these men knew what tsundere meant.</p>
-<p>&quot;Dere? What the heck is that?&quot; The violent man looked dumbfounded, but at least he understood that our negotiation had broken down. His creepy smile was replaced by a grim look as he put his sword to the Young Mistress&#x27;s neck.</p>
+<p>&quot;They&#x27;re not pretty words. You can&#x27;t buy &#x27;dere&#x27; with money.&quot; Crap, my inner nerd had slipped out. It wasn&#x27;t like these men knew what <em>tsundere</em> meant.</p>
+<p>&quot;<em>Dere</em>? What the heck is that?&quot; The violent man looked dumbfounded, but at least he understood that our negotiation had broken down. His creepy smile was replaced by a grim look as he put his sword to the Young Mistress&#x27;s neck.</p>
 <p>&quot;Then she&#x27;ll be our hostage! First, launch that fire ball into the air.&quot;</p>
 <p>&quot;You want me to fire it into the air?&quot;</p>
 <p>&quot;That&#x27;s right. You better not aim it at us, not even on accident. No matter how fast you are, we&#x27;ll slit this little brat&#x27;s throat and use her as a human shield faster than you can hit us.&quot;</p>
-<p>Wouldn&#x27;t you ask someone to disperse their magic instead? Wait, maybe he doesn&#x27;t know. It did make sense: a chanted spell would keep going until it was released. If you didn&#x27;t learn magic properly, you probably wouldn&#x27;t understand the difference between using a chant and not using one.</p>
+<p><em>Wouldn&#x27;t you ask someone to disperse their magic instead? Wait, maybe he doesn&#x27;t know</em>. It did make sense: a chanted spell would keep going until it was released. If you didn&#x27;t learn magic properly, you probably wouldn&#x27;t understand the difference between using a chant and not using one.</p>
 <p>&quot;Roger that.&quot; Before I discharged the Fireball at my fingertip, I used magic to insert another special Fireball inside it. Then I launched it into the air.</p>
 <p>It made a ridiculous noise as it raced upward. A huge explosion flashed above us.</p>
 <p>&quot;Huh!</p>
@@ -251,12 +251,12 @@ nav_title = "Chapter 2"
 <p>&quot;Is that all you&#x27;ve got!&quot; He studied its trajectory, then readied his sword to counter it. While he was waiting for the Fireball to reach him, I used water and earth magic to turn the ground beneath him into a swirling mass of mud.</p>
 <p>When he tried to cut through my Fireball, he sank up to his knees in thick, sticky mud. Now he couldn&#x27;t move.</p>
 <p>&quot;What?!&quot;</p>
-<p>Yes, I won! I had, I was sure of it. He couldn&#x27;t run now. He may have deflected my Fireball, but we were already beyond his attack range. With the Young Mistress in my arms, all I had to do was disappear into the confusion of the crowds and we would be safe. Or, if I needed to, I could yell for help.</p>
+<p><em>Yes, I won!</em> I had, I was sure of it. He couldn&#x27;t run now. He may have deflected my Fireball, but we were already beyond his attack range. With the Young Mistress in my arms, all I had to do was disappear into the confusion of the crowds and we would be safe. Or, if I needed to, I could yell for help.</p>
 <p>### Just as I thought that…</p>
 <p>&quot;You think I&#x27;m gonna let you get away!&quot; He launched his sword at us.</p>
 <p>It was then that I remembered what Paul had taught me. In the North God Style of swordplay, even if you cut off the opponent&#x27;s leg, they still had a technique for throwing their sword at you.</p>
 <p>The blade flew toward me at a tremendous speed, but I watched it as if in slow motion. It was aimed right at my head.</p>
-<p>Death.</p>
+<p><em>Death.</em></p>
 <p>Right as that word popped into my mind, there was a brown blur in front of me. I heard a sound like porcelain shattering, then the sword fell.</p>
 <p>&quot;Huh?&quot;</p>
 <p>Someone had come between me and the bandits. They stood with their broad, sturdy back to me. I recognized the ears on the back of their head. It was Ghislaine Dedoldia. She glanced back at me and nodded.</p>
@@ -268,17 +268,17 @@ nav_title = "Chapter 2"
 <p>The head of the man knee-deep in mud fell from his neck. This was despite the considerable distance between him and Ghislaine, too far for a sword&#x27;s reach.</p>
 <p>&quot;Hey, where the hell did you—&quot;</p>
 <p>Her tail flicked and in the next moment, the other man&#x27;s head fell. I imagined I heard it thump as it hit the ground.</p>
-<p>My brain couldn&#x27;t catch up with what was happening. All I could do was watch, dumbfounded, as the two bodies crumbled to the ground meters away from where we were standing. It didn&#x27;t seem real. I had no idea what just happened. Huh? They&#x27;re dead? was all that came into my mind.</p>
+<p>My brain couldn&#x27;t catch up with what was happening. All I could do was watch, dumbfounded, as the two bodies crumbled to the ground meters away from where we were standing. It didn&#x27;t seem real. I had no idea what just happened. <em>Huh? They&#x27;re dead?</em> was all that came into my mind.</p>
 <p>&quot;Hm. Rudeus, were those two our only enemies?&quot;</p>
 <p>I snapped back to the moment. &quot;Uh, yeah. Thank you.</p>
 <p>Miss…Ghislaine?&quot;</p>
 <p>&quot;Drop the miss, just call me Ghislaine.&quot; She looked back and nodded. &quot;I saw a sudden explosion in the sky, so I came to check things out. Looks like I made the right choice.&quot;</p>
-<p>&quot;Y-yeah, you were really fast. I mean, you defeated them in seconds.&quot; Only a minute had passed since my first spell. She got here way too fast, no matter how you cut it.</p>
+<p>&quot;Y-yeah, you were really fast. I mean, you defeated them in seconds.&quot; Only a minute had passed since my first spell. She got here <em>way</em> too fast, no matter how you cut it.</p>
 <p>&quot;I was close by. Plus, it wasn&#x27;t that fast. Any warrior from the Dedoldia family can kill a person in seconds. By the way, Rudeus, was that your first time fighting with someone using the North God Style?&quot;</p>
 <p>&quot;It was my first time being in a life-or-death battle,&quot; I said.</p>
 <p>&quot;Then let me tell you, those kinds of people don&#x27;t give up until one side is dead. Be careful.&quot;</p>
-<p>Until one side is dead…</p>
-<p>That was right, I almost died. I trembled as I remembered how the bandit&#x27;s sword had come flying at me. It was a life-or-death battle. A real life-or-death battle.</p>
+<p><em>Until one side is dead…</em></p>
+<p>That was right, I almost died. I trembled as I remembered how the bandit&#x27;s sword had come flying at me. It was a life-or-death battle. A <em>real</em> life-or-death battle.</p>
 <p>&quot;L-Let&#x27;s go home.&quot;</p>
 <p>If I had made even one mistake, I would have died. This really was a different world. A world with magic and swords.</p>
 <p>What would happen if I died this time?</p>
@@ -293,7 +293,7 @@ nav_title = "Chapter 2"
 <p>&quot;I will grant you the special privilege of calling me by my name, Eris!&quot;</p>
 <p>Her words took me by surprise. &quot;Huh?&quot;</p>
 <p>&quot;Not just anybody gets to do that, okay?!&quot;</p>
-<p>So, did that mean…I passed? That I could work here as her tutor? Oh, oh wow! Seriously? S-so, I succeeded?! Yes!</p>
+<p>So, did that mean…I passed? That I could work here as her tutor? <em>Oh, oh wow! Seriously? S-so, I succeeded?! Yes!</em></p>
 <p>&quot;Thank you! Mistress Eris!&quot;</p>
 <p>&quot;Drop the Mistress! Just call me Eris!&quot; She was imitating Ghislaine. As soon as she finished, she collapsed.</p>
 <p>That was how I became the tutor for Eris Boreas Greyrat.</p>

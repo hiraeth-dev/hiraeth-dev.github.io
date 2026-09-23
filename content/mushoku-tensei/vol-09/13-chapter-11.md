@@ -39,12 +39,12 @@ nav_title = "Chapter 11"
 <p>&quot;Wait, what?&quot;</p>
 <p>&quot;Huh? Uh, you know. He was looking for a way to cure his, uh, impotence.&quot;</p>
 <p>&quot;I see. Pardon me. I was a little startled, that&#x27;s all.&quot;</p>
-<p>Princess Ariel had pressed a hand to her mouth, a disbelieving expression on her face. I could tell what she was thinking: I&#x27;d heard the rumors, but never thought they might be true. Why would you enroll at the University of Magic for such a reason? This is a place to learn magic, not a medical facility.</p>
+<p>Princess Ariel had pressed a hand to her mouth, a disbelieving expression on her face. I could tell what she was thinking: <em>I&#x27;d heard the rumors, but never thought they might be true. Why would you enroll at the University of Magic for such a reason? This is a place to learn magic, not a medical facility.</em></p>
 <p>&quot;I must say, I&#x27;m a bit disappointed in this Rudeus. A man&#x27;s got to perform when it counts, doesn&#x27;t he? I thought he was oblivious, but I hadn&#x27;t expected him to embarrass a lady in this way. Especially one who was brave enough to make the first move.&quot;</p>
 <p>Princess Ariel&#x27;s words were harsh, but she was probably just trying to keep herself cool and in control. She knew I&#x27;d get angry; once I did, she could slip into a soothing, apologetic tone, and move the conversation forward without revealing her confusion. It was a trick she used very frequently.</p>
 <p>But to my surprise, Luke stepped in to object before I could say a word. &quot;Princess Ariel, I think you&#x27;re being quite unfair. At times, a man simply can&#x27;t help these things; Rudeus didn&#x27;t make a conscious choice to spurn Sylphie. In fact, I think this explains why he&#x27;s been so hesitant up until now.&quot;</p>
 <p>&quot;L-Luke…?&quot;</p>
-<p>&quot;I&#x27;d wondered why he always looked so insecure. Poor man. He must have come here out of sheer desperation, with no idea where to turn for help…&quot;</p>
+<p>&quot;I&#x27;d <em>wondered</em> why he always looked so insecure. Poor man. He must have come here out of sheer desperation, with no idea where to turn for help…&quot;</p>
 <p>Luke could be frivolous and even rude sometimes, but he almost never talked back to Princess Ariel. Sometimes he offered her his advice, but he wasn&#x27;t the type to flatly dismiss his liege&#x27;s opinions in this way. I couldn&#x27;t remember him ever speaking to her this firmly before, in fact.</p>
 <p>The princess seemed a little taken aback. &quot;…My apologies. I suppose I went a bit too far.&quot;</p>
 <p>&quot;It&#x27;s all right, Princess Ariel. I wouldn&#x27;t expect a woman to understand these things.&quot; With a small nod, Luke turned to face me. &quot;Sylphie, do you want to cure Rudeus&#x27; condition?&quot;</p>
@@ -65,7 +65,7 @@ nav_title = "Chapter 11"
 <p>Princess Ariel went on to list a number of specific methods for seducing men. Rather than physically curing impotence, most of her tips seemed to be about arousing an otherwise disinterested target. Still, I didn&#x27;t doubt they&#x27;d be effective. The royal family of Asura made sure its members were well-educated in all sorts of things.</p>
 <p>&quot;…after that, you say you&#x27;re feeling hot, and slip your dress down your shoulder just a little.&quot;</p>
 <p>&quot;Would that really work?&quot;</p>
-<p>&quot;Oh, I imagine it would. You&#x27;re extremely cute, after all. Once the mood&#x27;s right, all you really need is a good finishing line…&quot;</p>
+<p>&quot;Oh, I imagine it would. You&#x27;re <em>extremely</em> cute, after all. Once the mood&#x27;s right, all you really need is a good finishing line…&quot;</p>
 <p>By the time Luke returned, we&#x27;d worked out the general outlines of a plan. He listened to us talk for a few seconds in silence, then abruptly interrupted. &quot;What sort of a fool complains about the heat in this frigid weather? Your whole approach is misguided, anyway. Sylphie&#x27;s not curvy enough to tempt a man with her body.&quot;</p>
 <p>&quot;Ah…&quot;</p>
 <p>I found myself at a loss for words, and Princess Ariel shot Luke a reproachful look. &quot;Did you have to put it so bluntly, Luke? The poor girl&#x27;s worried sick about this.&quot;</p>
@@ -99,24 +99,24 @@ nav_title = "Chapter 11"
 <p>&quot;Thank you both so much! I&#x27;m going to do this!&quot;</p>
 <p>Energized for the long battle ahead, I walked confidently out of the student council room. I was heading for Sharia&#x27;s Commerce district. For a liquor store, to be precise.</p>
 <p>***</p>
-<p>Night had fallen, and I was standing in a hallway with two bottles of pricey liquor in my bag. To be perfectly honest, I didn&#x27;t know much about alcohol. I&#x27;d never even drunk the stuff before, for one thing. And I had no idea what Rudy liked. However, I felt confident that stuff this expensive couldn&#x27;t be too bad.</p>
+<p>Night had fallen, and I was standing in a hallway with two bottles of pricey liquor in my bag. To be perfectly honest, I didn&#x27;t know much about alcohol. I&#x27;d never even drunk the stuff before, for one thing. And I had no idea what Rudy liked. However, I felt confident that stuff this expensive couldn&#x27;t be <em>too</em> bad.</p>
 <p>I&#x27;d also changed into a new set of underwear before coming over. I was wearing the set that Princess Ariel had picked out for me a little while ago. It felt like a good time to give my Steelsilk Bustier the night off.</p>
 <p>Of course, I also had a certain small bottle in the pocket of my uniform.</p>
 <p>&quot;Okay…&quot; Everything was ready. I was going to be fine.</p>
-<p>Still, I had to give myself a minute to take a few long, deep breaths. Mom and Dad… give me your blessing, please. I&#x27;m going to become a woman tonight…</p>
+<p>Still, I had to give myself a minute to take a few long, deep breaths. <em>Mom and Dad… give me your blessing, please. I&#x27;m going to become a woman tonight…</em></p>
 <p>Once I&#x27;d finally steeled my nerves, I reached out and knocked on the door in front of me. Was there any chance that Rudy would be off with Zanoba at this time of night? No, no, this was going to be fine. He&#x27;d said he was going to rest up tonight.</p>
 <p>&quot;Yes…? Oh, Syl— Master Fitz. Come on in.&quot;</p>
 <p>When Rudy opened the door, he looked surprised to find me standing there. At his invitation, I stepped into his room. I also took the liberty of closing and locking the door behind me.</p>
 <p>&quot;What&#x27;s the matter?&quot; Rudy asked, his voice gentle.</p>
 <p>We&#x27;d both agreed it would be best to take a night to recover from our trip, but here I was anyway. &quot;Uhm… I came to spend the night, actually.&quot;</p>
 <p>&quot;…Oh. O-Okay! Well, why don&#x27;t you sit down, then?&quot;</p>
-<p>I got the impression Rudy wanted to make a comment about this, but he kept it to himself and just offered me a chair instead. His expression actually looked a little…discouraged. I wasn&#x27;t interrupting anything, was I? This was going to work, right?</p>
+<p>I got the impression Rudy wanted to make a comment about this, but he kept it to himself and just offered me a chair instead. His expression actually looked a little…discouraged. I wasn&#x27;t interrupting anything, was I? This <em>was</em> going to work, right?</p>
 <p>I sat down slowly, took off my sunglasses, and took the two bottles of liquor out of my bag. I set them down on the table along with a little snack I&#x27;d made—some mixed nuts with spicy flavoring. I&#x27;d also picked up some smoked meat in case Rudy didn&#x27;t care for them.</p>
 <p>&quot;What&#x27;s all this?&quot;</p>
 <p>&quot;Well, I thought we could… celebrate our reunion or something, you know?&quot;</p>
 <p>&quot;…Right, of course. Yeah, we really should commemorate the occasion, huh?&quot; Scratching at his cheek, Rudy sat down as well.</p>
 <p>At this point, I realized we didn&#x27;t have any cups. That was kind of a problem, unless we were going to start guzzling it straight out of the bottle. Did I need to go back and get some?</p>
-<p>&quot;Don&#x27;t worry, I&#x27;ve got cups. I do have some possessions, you know.&quot; Somehow reading my mind, Rudy stood up with a wry smile and took a pair of cups from a shelf at the side of the room.</p>
+<p>&quot;Don&#x27;t worry, I&#x27;ve got cups. I do have <em>some</em> possessions, you know.&quot; Somehow reading my mind, Rudy stood up with a wry smile and took a pair of cups from a shelf at the side of the room.</p>
 <p>They were grey and had a perfectly smooth surface. Were these made of some sort of rock, maybe? They felt a little heavy in your hand. Apart from the weight, though, they looked like something an Asuran noble might have owned. &quot;These look expensive.&quot;</p>
 <p>&quot;I made them myself with Earth magic, actually. Guess that makes them priceless.&quot;</p>
 <p>&quot;No kidding? Wow, that&#x27;s incredible.&quot; It made sense, though. He really was good at this sort of thing, wasn&#x27;t he?</p>
@@ -131,7 +131,7 @@ nav_title = "Chapter 11"
 <p>&quot;Ch-Cheers!&quot;</p>
 <p>O-Our future together…? Honestly, sometimes Rudy said the most embarrassing things out of nowhere. Feeling myself blushing again, I took a big gulp from my cup—</p>
 <p>And promptly choked on it.</p>
-<p>What was this stuff? My throat was on fire!</p>
+<p>What <em>was</em> this stuff? My throat was on fire!</p>
 <p>&quot;Are you all right? Maybe we should have watered it down after all.&quot;</p>
 <p>&quot;Watered…it down…?&quot;</p>
 <p>&quot;When you&#x27;re drinking something this strong, people usually dilute it a little bit to make it easier to drink.&quot;</p>
@@ -145,7 +145,7 @@ nav_title = "Chapter 11"
 <p>&quot;Oh, right. Wow, that brings back some memories…&quot;</p>
 <p>&quot;Yeah.&quot;</p>
 <p>That got us started reminiscing about the good old days. My memories of Buena Village were beginning to grow a little fuzzy, but when we started talking about the subject, lots of things came back to me.</p>
-<p>We could never go back to that period of our lives again. For one thing, Buena Village was gone for good. That hill we&#x27;d played on was still there, but the tree had disappeared. They had been good times, though. I spent my days playing and practicing magic without a care in the world, and the progress I made day by day always left me overjoyed. I still got excited when I managed to improve my skills or learned something new, though these days, I was usually thinking about how I could put a spell to use in battle.</p>
+<p>We could never go back to that period of our lives again. For one thing, Buena Village was gone for good. That hill we&#x27;d played on was still there, but the tree had disappeared. They <em>had</em> been good times, though. I spent my days playing and practicing magic without a care in the world, and the progress I made day by day always left me overjoyed. I still got excited when I managed to improve my skills or learned something new, though these days, I was usually thinking about how I could put a spell to use in battle.</p>
 <p>&quot;I really miss those days…&quot; The longer we talked, the more mellow I felt. Was this what it felt like to get drunk? Hmm. &quot;Oh! Wait. Before I forget…&quot;</p>
 <p>Snapping out of my nostalgic haze, I took the little bottle out of my breast pocket and slowly placed it on the table.</p>
 <p>Rudy tilted his head quizzically. &quot;What&#x27;s this?&quot;</p>
@@ -161,7 +161,7 @@ nav_title = "Chapter 11"
 <p>Rudy&#x27;s eyebrows twitched at that. His gaze was fixed on my upper body. It was kind of embarrassing when he stared at me this openly. But I guess I was… seducing him, wasn&#x27;t I? Hopefully I wasn&#x27;t coming off as totally shameless… It was going to be okay, right? He wouldn&#x27;t mind, would he?</p>
 <p>I felt like I was getting more nervous than he was. I&#x27;d been hoping that the alcohol would give me a little more courage than this, honestly.</p>
 <p>Maybe I needed to commit myself more fully.</p>
-<p>…O-Okay then. With a small nod, I reached out for the little bottle of aphrodisiac.</p>
+<p><em>…O-Okay then.</em> With a small nod, I reached out for the little bottle of aphrodisiac.</p>
 <p>&quot;What? Are you taking some too, Sylphie?&quot; Rudy asked, understandably confused.</p>
 <p>Instead of answering, I drained all the pink liquid that remained inside. It was thick and slightly bitter, but I washed it down with a little alcohol and swallowed hard.</p>
 <p>Almost instantly, I could feel a strange warmth growing down around the pit of my stomach. Trying to distract myself, I reached out for the bowl of nuts. After eating three handfuls, I took another swig of liquor. My first glass was empty now.</p>
@@ -172,19 +172,19 @@ nav_title = "Chapter 11"
 <p>For a while after that, the two of us ate and drank in silence. The smoked meat turned out to be too salty and not particularly good, but for some reason I couldn&#x27;t stop nibbling at it. After a while, my whole body started to get hot. The area just above my thighs, in</p>
 <p>particular, was practically throbbing. The stuff sure seemed to be working.</p>
 <p>Was it doing anything for Rudy, though?</p>
-<p>He looked the same as ever. Just as handsome as always. Maybe more handsome than always, in fact.</p>
+<p>He looked the same as ever. Just as handsome as always. Maybe <em>more</em> handsome than always, in fact.</p>
 <p>My eyes kept finding parts of him I didn&#x27;t usually pay much attention to. His neck, his mouth… I was starting to get in a kind of naughty mood. Was it just my imagination, or was Rudy&#x27;s face getting redder?</p>
 <p>Our eyes met. Rudy was staring straight at me. It was an intense stare, too. He hadn&#x27;t looked away from my eyes for a while now. I could hear him breathing roughly.</p>
 <p>Wait, no. That was me, wasn&#x27;t it? How embarrassing. But it wasn&#x27;t exactly my fault, was it? I&#x27;d taken that aphrodisiac, and my head was spinning from the liquor. That meant it wasn&#x27;t my fault.</p>
 <p>Yeah. Not my fault.</p>
-<p>I felt so hot.</p>
+<p>I felt so <em>hot.</em></p>
 <p>I undid the top button of my shirt, exposing more skin to the air. I&#x27;d thought it was kind of chilly in here at first, but now I was burning up. Rudy was staring at my breasts now, but I didn&#x27;t feel embarrassed anymore.</p>
 <p>I took another swig from my cup. Hot liquid slid down into my stomach, spreading even more warmth throughout my body. I was all done with my second glass. I reached out for the bottle…only to be intercepted.</p>
 <p>&quot;Oh…&quot; Rudy had reached out and grabbed my hand. His grip was strong enough that I knew he wasn&#x27;t planning to let go. Not that I had any intention of running from him, of course. &quot;Sylphie…&quot;</p>
 <p>Staring at me with bloodshot eyes, Rudy rose to his feet. He circled around the table to come beside me, still grasping my hand. And then, a little hesitantly, he tugged me upward. I let him pull me up out of my chair, making no effort to resist.</p>
 <p>&quot;You, uh… can&#x27;t contain yourself, huh?&quot;</p>
 <p>Rudy nodded silently. He slipped a hand around my waist and caressed my bottom, then pulled my body tightly to his. Something very hard was pressing up against me.</p>
-<p>It worked. Oh wow. It worked.</p>
+<p><em>It worked. Oh wow. It worked.</em></p>
 <p>The moment had finally come. It was time to break out the closing line I&#x27;d worked out in advance with Princess Ariel. &quot;O-Okay then. Go ahead and eat me up, Rudy…&quot;</p>
 <p>The instant those words left my mouth, he pushed me onto the bed.</p>
 <p>And then—</p>
@@ -197,8 +197,8 @@ nav_title = "Chapter 11"
 <p>…Oh, right. It was that aphrodisiac I&#x27;d seen a merchant selling in the city of Roa, wasn&#x27;t it?</p>
 <p>This was the first time I&#x27;d ever tried the stuff, but it was incredibly potent. My little man had popped out of his room in a frenzy to go on a total rampage. By the time the madness finally ended, I was so drained I felt like I might melt into a puddle. Clearly, there was a reason that stuff had been going for ten gold coins back then.</p>
 <p>As impressed as I was, though, I also found myself struggling to hold back a wave of fear and anxiety. I&#x27;d acted like a madman last night, yes. But I did remember everything I&#x27;d done. To be honest, I&#x27;d been really rough with Sylphie. She&#x27;d tried very hard to keep up with me, but she&#x27;d obviously been in some pain. It was her first time, after all.</p>
-<p>She never complained or even asked me to slow down, though. It was obvious she was pushing herself, but she just kept saying I&#x27;m fine, I love you, and it feels good on a running loop. I hadn&#x27;t paid any attention to her body language. I hadn&#x27;t spared a thought for how she was feeling. The way she&#x27;d whispered in my ear just got me more excited. I hadn&#x27;t taken it easy on her at all.</p>
-<p>This was only the second time in my long life that I&#x27;d slept with someone. I wasn&#x27;t at all confident that I&#x27;d done a good job. In fact, I was convinced I&#x27;d behaved even worse than I did on my first time. Even worse than I&#x27;d behaved on that night.</p>
+<p>She never complained or even asked me to slow down, though. It was obvious she was pushing herself, but she just kept saying <em>I&#x27;m fine</em>, <em>I love you</em>, and <em>it feels good</em> on a running loop. I hadn&#x27;t paid any attention to her body language. I hadn&#x27;t spared a thought for how she was feeling. The way she&#x27;d whispered in my ear just got me more excited. I hadn&#x27;t taken it easy on her at <em>all.</em></p>
+<p>This was only the second time in my long life that I&#x27;d slept with someone. I wasn&#x27;t at all confident that I&#x27;d done a good job. In fact, I was convinced I&#x27;d behaved even worse than I did on my first time. Even worse than I&#x27;d behaved on <em>that</em> night.</p>
 <p>And the morning after that… Eris wasn&#x27;t lying next to me in bed.</p>
 <p>Slowly, I looked over to the side. My eyes met someone else&#x27;s.</p>
 <p>&quot;Good morning, Rudy.&quot;</p>

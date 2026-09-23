@@ -32,7 +32,7 @@ nav_title = "Chapter 10"
 <p>I wondered what they&#x27;d thought of me just before they died. Did they consider me nothing more than a shameless shut-in? Were they vexed by how I&#x27;d turned out? Ashamed? I had no idea how they truly felt. My mother would still pop in to see me occasionally, but at some point, my father had stopped saying anything to me.</p>
 <p>Did I even cross their mind when they died, I wondered?</p>
 <p>What about me? When they died, I didn&#x27;t even go to their funeral. What was I doing? I didn&#x27;t pick their bones from the ash after cremation, like a child should have done. What the hell was I doing? Why didn&#x27;t I even go to their funeral?</p>
-<p>I&#x27;d been scared of the way people would look at me when they saw I wasn&#x27;t even trying to be sad. Of the way they would look at a piece of shit like me, a shut-in. Their hostility. Their contempt. But that wasn&#x27;t the whole story, of course. I wasn&#x27;t an honorable human being. At the time, I didn&#x27;t feel even an ounce of sadness that my parents had passed. I didn&#x27;t love them enough to grieve their absence. I was less worried about losing them and more concerned by thoughts of Oh shit, now what am I going to do? I couldn&#x27;t even look directly at my own future.</p>
+<p>I&#x27;d been scared of the way people would look at me when they saw I wasn&#x27;t even trying to be sad. Of the way they would look at a piece of shit like me, a shut-in. Their hostility. Their contempt. But that wasn&#x27;t the whole story, of course. I wasn&#x27;t an honorable human being. At the time, I didn&#x27;t feel even an ounce of sadness that my parents had passed. I didn&#x27;t love them enough to grieve their absence. I was less worried about losing them and more concerned by thoughts of <em>Oh shit, now what am I going to do?</em> I couldn&#x27;t even look directly at my own future.</p>
 <p>I didn&#x27;t mean to justify my behavior, of course. But I also couldn&#x27;t help it. Imagine being backed into a corner, losing the last source of salvation you have. Being suddenly plunged into a vast ocean before you&#x27;d even had a chance to fill your lungs with air. Anyone placed in that situation would look for a way to escape from reality. Sure, I regretted not doing more, but I could only blame myself so much.</p>
 <p>Still, if nothing else, shouldn&#x27;t I have at least attended their funeral? I had no idea what I&#x27;d been thinking back then, but shouldn&#x27;t I have at least looked at their faces after they&#x27;d passed? Shouldn&#x27;t I have at least picked up their bones?</p>
 <p>How had Paul looked after he passed? It hadn&#x27;t been satisfaction written on his face, but I did see the edges of his lips curl in a smile of relief. What was it he&#x27;d tried to say there at the end?</p>
@@ -43,7 +43,7 @@ nav_title = "Chapter 10"
 <p>When she spotted me, Lilia stared in amazement. &quot;Lord Rudeus, you&#x27;ve recovered already?&quot;</p>
 <p>&quot;…Yeah, for the moment. I can&#x27;t be the only one to take it easy, right?&quot;</p>
 <p>&quot;I&#x27;m certain no one would complain if you were to rest a bit more.&quot;</p>
-<p>Honestly, I did want to crawl back into bed as she suggested, but the sense that I had to do something—had to move—was even stronger.</p>
+<p>Honestly, I <em>did</em> want to crawl back into bed as she suggested, but the sense that I had to do something—had to <em>move</em>—was even stronger.</p>
 <p>&quot;Please, let me stay here.&quot;</p>
 <p>&quot;All right,&quot; she said, &quot;I understand. Feel free to sit.&quot;</p>
 <p>In the end, I stayed there and the two of us watched over Zenith together. She&#x27;d been sleeping for days by now. It had taken three days to leave the labyrinth, a day to get back to town, and even now, she didn&#x27;t wake. Her outward appearance suggested nothing unusual. She merely looked like she was sleeping. And though she&#x27;d been bedridden for days, there was no sign that she was losing weight. She looked perfectly healthy.</p>
@@ -89,7 +89,7 @@ nav_title = "Chapter 10"
 <p>And my heart shattered.</p>
 <p>***</p>
 <p>How many days passed after that? I had only a vague sense of time. I woke, slept. Woke, slept. Repeated the process countless times.</p>
-<p>When I slept, my dreams replayed the moment of Paul&#x27;s death. I saw him slash at the hydra, saw it swing its neck. Felt him shove me aside, pushing me out of the way. Then watched him move again, watched the hydra move again, but I couldn&#x27;t move. Paul kicked me out of the way, and I watched as the hydra&#x27;s head came plummeting down in front of me.</p>
+<p>When I slept, my dreams replayed the moment of Paul&#x27;s death. I saw him slash at the hydra, saw it swing its neck. Felt him shove me aside, pushing me out of the way. Then watched him move again, watched the hydra move again, but <em>I</em> couldn&#x27;t move. Paul kicked me out of the way, and I watched as the hydra&#x27;s head came plummeting down in front of me.</p>
 <p>Then I jolted awake, checked to make sure it was just a dream, and huddled back into bed. I didn&#x27;t have the willpower to get up. All I could do was think about Paul.</p>
 <p>Paul was… He…</p>
 <p>Sure, okay, he wasn&#x27;t a praiseworthy human. He was terrible with women and a total show-off. He was weak in the face of adversity and looked to alcohol for an escape. He hadn&#x27;t even bothered to say anything fatherly before we went into battle. By most standards, he was a complete failure as a father.</p>
@@ -97,33 +97,33 @@ nav_title = "Chapter 10"
 <p>It wasn&#x27;t quite the same as the parent-and-child love Paul felt for me. To me, Paul was more like a partner in crime. Strictly speaking, I was mentally older, but he had more physical years on me. Even when it came to life experience, he was probably well ahead of me when you considered the decades I&#x27;d spent as a shut-in.</p>
 <p>None of that really mattered. Age was pointless. When I talked to Paul, I felt like the two of us were on an even footing. I couldn&#x27;t see him as a father, and I&#x27;d probably never really thought of myself as his child.</p>
 <p>But Paul was different. He&#x27;d seen me as his child from the very beginning. Me, who&#x27;d been a piece of shit thirty-something recluse on the inside at the time. Me, whose actions thus far had to have</p>
-<p>been bizarre from an outside perspective. Still, he regarded me as family, never turning his eyes away. There were areas where he failed as a father, but he never faltered in considering me family. Never once did he treat me like a stranger. I was always, always his son. Despite my abnormal abilities, he still saw me as his son. He faced me head-on.</p>
+<p>been bizarre from an outside perspective. Still, he regarded me as family, never turning his eyes away. There were areas where he failed as a father, but he never faltered in considering me family. Never once did he treat me like a stranger. I was always, <em>always</em> his son. Despite my abnormal abilities, he still saw me as his son. He faced me head-on.</p>
 <p>He was a father. He always had been. Even as he carried burdens far too heavy for him, he acted as a father and continued to do things for the sake of our family. At the end, he&#x27;d even shielded me—used his body, as a father, to protect me. His son.</p>
 <p>He&#x27;d bravely put his life on the line, as if it were the most natural thing in the world. And he died.</p>
 <p>It was strange.</p>
 <p>I wasn&#x27;t even his child, but Paul was still my father.</p>
-<p>Paul had two real children. Not fakes like me—actual, honest-to-God, real children. Two sweet, genuine daughters. Norn and Aisha. If he were going to shield anyone, it should&#x27;ve been them.</p>
+<p>Paul had two real children. Not fakes like me—actual, honest-to-God, <em>real</em> children. Two sweet, genuine daughters. Norn and Aisha. If he were going to shield anyone, it should&#x27;ve been them.</p>
 <p>Plus, he had two wives, right? He&#x27;d spent years desperately searching for one of them—Zenith. The other, Lilia, had been there to support him until then. Two wives and two daughters. Four people in total.</p>
-<p>What the hell are you doing leaving them behind, huh, Paul? I thought angrily. Weren&#x27;t they important to you?</p>
+<p><em>What the hell are you doing leaving them behind, huh, Paul?</em> I thought angrily. <em>Weren&#x27;t they important to you?</em></p>
 <p>But maybe I was just as important to him, too. Two wives, two daughters and one son. Maybe they were all equally important to him.</p>
 <p>I&#x27;d never seen him as a father, but he&#x27;d thought of me as one of the most important people in his life.</p>
 <p>Ah, fuck. Why, Paul? Give me a break. You said it so many times: &quot;Rudy, I see you as an adult now. I see you as a man.&quot;</p>
-<p>I got married, bought a house, took guardianship of my sisters of course I felt like an adult. I came to help you, worked hard in that labyrinth. I saw myself as an adult. You did too, didn&#x27;t you? That was why you said what you did at the end, right? &quot;Save her, even if it kills you.&quot;</p>
+<p>I got married, bought a house, took guardianship of my sisters of course I felt like an adult. I came to help you, worked hard in that labyrinth. <em>I</em> saw myself as an adult. You did too, didn&#x27;t you? That was why you said what you did at the end, right? &quot;Save her, even if it kills you.&quot;</p>
 <p>So, explain to me: Why? Why…? Why did you shield me, if I&#x27;m an adult?</p>
 <p>What am I supposed to say to Norn and Aisha when I go home? How am I supposed to explain what happened? What am I supposed to do with Zenith, the way she is now? What am I supposed to do from here on out?</p>
 <p>Tell me, Paul. You were supposed to decide this, weren&#x27;t you?</p>
 <p>Dammit. Why did you have to go and die? Ah, fuck.</p>
 <p>At least if I had died, it would be him here anguishing over what to do instead. Or better yet, if neither of us had died, no one would have to suffer.</p>
-<p>Ah, I can&#x27;t do it.</p>
+<p><em>Ah, I can&#x27;t do it.</em></p>
 <p>Sadness bubbled up with me. I couldn&#x27;t stop the tears that came flooding out.</p>
-<p>In my life—my previous one, that is—I didn&#x27;t even cry when my mother and father had died. I hadn&#x27;t even felt sad. Now that Paul was dead, the tears came naturally. I was sad. I couldn&#x27;t believe it. The one person who had to be here—was supposed to be here—was now gone.</p>
-<p>Paul was a father. Paul was my father. I&#x27;d never thought of him as one, and yet, he was every bit a parent to me as the ones from my previous life.</p>
+<p>In my life—my previous one, that is—I didn&#x27;t even cry when my mother and father had died. I hadn&#x27;t even felt sad. Now that Paul was dead, the tears came naturally. I was sad. I couldn&#x27;t believe it. The one person who <em>had</em> to be here—was <em>supposed</em> to be here—was now gone.</p>
+<p>Paul was a father. Paul was <em>my</em> father. I&#x27;d never thought of him as one, and yet, he was every bit a parent to me as the ones from my previous life.</p>
 <p>I thought and thought, cried and cried, until I was exhausted.</p>
-<p>I don&#x27;t want to do anything.</p>
+<p><em>I don&#x27;t want to do anything.</em></p>
 <p>I lounged lazily about my room. There were things I needed to do, I knew, but I couldn&#x27;t find the will to do them. I didn&#x27;t even have the strength to leave this room. I slept, woke, sat up, adjusted my posture, and let time just slip by.</p>
 <p>Elinalise and Lilia came to visit in the midst of this. They said something to me, but I wasn&#x27;t sure what. It was almost as if they were speaking a foreign language and my brain couldn&#x27;t comprehend the words. Not that it mattered. I wouldn&#x27;t have been able to reply even if I did.</p>
 <p>I had nothing to say, no words to speak to them.</p>
-<p>If, just maybe, if I had been able to wield a sword a little better, then I could have chopped off the hydra&#x27;s head. Maybe then, Paul wouldn&#x27;t have died. The two of us could have worked on chopping while Roxy roasted the open wounds. We could have defeated it easily if we had done that, right?</p>
+<p>If, just <em>maybe</em>, if I had been able to wield a sword a little better, then I could have chopped off the hydra&#x27;s head. Maybe then, Paul wouldn&#x27;t have died. The two of us could have worked on chopping while Roxy roasted the open wounds. We could have defeated it easily if we had done that, right?</p>
 <p>If only I could wrap a battle aura around myself. If only I could move a little faster. Then Paul wouldn&#x27;t have had to shield me. I could have dodged the attack all on my own.</p>
 <p>But I couldn&#x27;t, and that&#x27;s why things had ended up this way.</p>
 <p>It wasn&#x27;t like I hadn&#x27;t tried.</p>

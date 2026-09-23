@@ -40,7 +40,7 @@ nav_title = "Chapter 7"
 <p>Honestly, Lienhard knew nothing about what he was saying. He hadn&#x27;t read the picture book, but the items seemed to be effective at least.</p>
 <p>&quot;Lienhard!&quot; Princess Gertrude shouted at her hero. &quot;Now, do it!&quot;</p>
 <p>&quot;Raaaahh!&quot; Lienhard grabbed up his sword once more and flung himself at the evil magician. Ruquag Mire raised his limp right hand to try to stop the attack, but he was already too late. The blade buried itself deep, deep inside his ches—wait, no, it didn&#x27;t. There was a noisy clang as it glanced off something beneath the robe.</p>
-<p>Urgh! This still isn&#x27;t enough? Lienhard was on the cusp of giving up, but then…</p>
+<p><em>Urgh! This still isn&#x27;t enough?</em> Lienhard was on the cusp of giving up, but then…</p>
 <p>&quot;Gwaaaaaah!&quot; Ruquag Mire let out an earsplitting cry as light poured from his body, flinging him directly toward the balcony. He slammed into the railing, let out a pathetic grunt, and tumbled over the edge.</p>
 <p>This tower was three stories high, but that wasn&#x27;t enough to kill a mage like him. Convinced of that, Lienhard made his way to the balcony and peered over the edge. In that instant, an enormous explosion erupted from below. The wind from the blast caressed Lienhard&#x27;s cheeks, ruffling his hair.</p>
 <p>&quot;Whoa!&quot; he gasped.</p>
@@ -75,7 +75,7 @@ nav_title = "Chapter 7"
 <p>It brought such relief to be surrounded by family like this. When I lived in Japan, my father would return from business trips looking ragged but somehow at peace. Perhaps this was how he&#x27;d felt.</p>
 <p>Since Norn was supposed to come back home today, I figured I&#x27;d lounge on the living room couch and relax while waiting for her and Roxy. As I sank into the cushions, a realization hit me.</p>
 <p>&quot;Huh? I don&#x27;t see Aisha anywhere. Is she out shopping?&quot;</p>
-<p>The moment I asked, Lilia&#x27;s expression shifted, eyes narrowed and lips pursed. Sylphie also pulled a face, looking troubled. Eris, however, looked the same as ever. An uncomfortable mood hung in the air. Oh boy, what could be the cause of this? I wondered.</p>
+<p>The moment I asked, Lilia&#x27;s expression shifted, eyes narrowed and lips pursed. Sylphie also pulled a face, looking troubled. Eris, however, looked the same as ever. An uncomfortable mood hung in the air. <em>Oh boy, what could be the cause of this?</em> I wondered.</p>
 <p>&quot;You see,&quot; Lilia started, looking apologetic, &quot;Aisha has been out of the house a lot lately…&quot;</p>
 <p>Out of the house… Oh, right. I almost forgot. I asked her to do a job for me, didn&#x27;t I?</p>
 <p>&quot;You mean she&#x27;s doing the work I entrusted her with, right?&quot; I asked.</p>
@@ -83,7 +83,7 @@ nav_title = "Chapter 7"
 <p>Questionable characters, huh? The first image that popped in my mind was a bunch of guys with mohawk haircuts and shoulder pads. The type who&#x27;d drive extremely fuel-inefficient motorbikes despite the environmental effects, all the while cackling, &quot;Gyahaha!&quot; Whoever they really were, I could only guess they were people that Linia had recruited.</p>
 <p>&quot;Um, you see, Rudy,&quot; Sylphie said, &quot;there have been some really strange-looking people showing up in the city lately. They&#x27;re dressed in all black, and it seems like Aisha has been with them a lot.&quot;</p>
 <p>It had only been a month since I entrusted that work to Aisha and Linia. It was difficult for me to believe they&#x27;d managed to draw in enough people you could regularly spot them on the streets.</p>
-<p>Wearing all black, huh? Hm… Aisha was already fourteen. She was going through puberty, which meant she was in that rebellious, edgy phase. Teens her age often lashed out against family and acted too big for their britches. Perhaps it was because I forced her to interact more with the outside world that she got swept up with a bad crowd like that.</p>
+<p><em>Wearing all black, huh? Hm…</em> Aisha was already fourteen. She was going through puberty, which meant she was in that rebellious, edgy phase. Teens her age often lashed out against family and acted too big for their britches. Perhaps it was because I forced her to interact more with the outside world that she got swept up with a bad crowd like that.</p>
 <p>&quot;My deepest apologies, Lord Rudeus,&quot; said Lilia. &quot;I never dreamed Aisha would do something like this. She will be home later tonight, and I will be sure to scold her for it then.&quot;</p>
 <p>Oh. So she wasn&#x27;t coming back in the wee hours of the morning then? That was a relief at least.</p>
 <p>As I thought that, Sylphie blurted out something strange. &quot;You know, Aisha said she had your permission to do all of this.&quot;</p>
@@ -92,13 +92,13 @@ nav_title = "Chapter 7"
 <p>Crap. I really screwed up. Linia and Aisha were both beautiful, yet I was thoughtless enough to ask them to assemble a group of shady people. I basically threw fresh meat into an ocean full of sharks! Although—just so we&#x27;re clear—I didn&#x27;t specifically ask them to gather a bunch of thugs!</p>
 <p>&quot;Eris… Eris, you didn&#x27;t stop her?&quot; I asked, feeling a lump in my throat.</p>
 <p>&quot;…Huh? What for?&quot; Eris tilted her head.</p>
-<p>Ah, right. Perhaps Eris has no interest in Aisha at all.</p>
+<p><em>Ah, right. Perhaps Eris has no interest in Aisha at all.</em></p>
 <p>&quot;Those were all small fries anyway.&quot;</p>
 <p>Or not. This was Eris we were talking about. To her, there was no real difference between a kitten and a lion. Even if these guys were suspicious enough to worry Lilia and Sylphie, they were little more than mild delinquents as far as Eris was concerned.</p>
-<p>No, I shouldn&#x27;t be relying on Eris anyway. She&#x27;s pregnant right now. Plus, I was the one who started all of this. I need to be the one to handle it.</p>
+<p><em>No, I shouldn&#x27;t be relying on Eris anyway. She&#x27;s pregnant right now. Plus, I was the one who started all of this. I need to be the one to handle it.</em></p>
 <p>&quot;All right,&quot; I said after giving it some thought. &quot;I&#x27;ll go take care of it.&quot;</p>
 <p>I had no intention of dictating who Aisha could and couldn&#x27;t hang out with. Sometimes, the people society deemed unsavory weren&#x27;t that bad once you got to talking with them. There were still boundaries, though. Aisha wasn&#x27;t an adult yet. If these guys were trying to make use of her with little regard for the consequences, then I, her older brother, would shoulder the burden of stepping in to save her. No doubt Paul would do the same.</p>
-<p>Actually, Paul would probably be classified as a shady character himself.</p>
+<p><em>Actually, Paul would probably be classified as a shady character himself.</em></p>
 <p>&quot;Do you know where their hangout is?&quot; I asked.</p>
 <p>&quot;I can lead you there,&quot; Eris said, without missing a beat. But she was pregnant. Should I really let her come with me? She&#x27;d probably</p>
 <p>try to jump in and fight if things took a violent turn. I couldn&#x27;t risk that.</p>
@@ -111,22 +111,22 @@ nav_title = "Chapter 7"
 <p>&quot;&#x27;Kay boys, here we go! Whoo!&quot;</p>
 <p>&quot;Yeaaaah!&quot;</p>
 <p>They pumped each other up as they walked past me, heading for the main road.</p>
-<p>That was unsettling. They were like a bunch of crazed sports fans heading out to cheer at a baseball game. No doubt they&#x27;d been convinced tigers were more powerful than any lion and were headed</p>
-<p>out to brawl with some lions as combat practice. Now that&#x27;s just plain terrifying. Am I gonna be okay?</p>
+<p><em>That was unsettling.</em> They were like a bunch of crazed sports fans heading out to cheer at a baseball game. No doubt they&#x27;d been convinced tigers were more powerful than any lion and were headed</p>
+<p>out to brawl with some lions as combat practice. <em>Now that&#x27;s just plain terrifying. Am I gonna be okay?</em></p>
 <p>Thanks to Orsted&#x27;s training, I had become even stronger. I&#x27;d even stopped by the office to equip my magic armor for this occasion, just in case. I would be fine, surely. No way was I gonna lose to a couple of low-ranking thugs. And anyway, I couldn&#x27;t back down simply because they were scary. My adorable little sister Aisha was hanging around these ruffians. No matter how clever she was, she would be powerless in a fight. At least they let her go home at night, but there was no telling what they&#x27;d been doing to her during the day. I had to save her, no matter how many enemies came at me.</p>
 <p>This would all work out. I already knew what tactics I should use when faced with overwhelming numbers. Land three punches, then spin around for a second and throw one fist at the air, and turn back and punch three more times. Just like in Final Fight—interrupting the combo so you could start it from the beginning and knock out your opponent. That&#x27;d be enough to take them out.</p>
 <p>&quot;P-pardon the intrusion…&quot; I nudged the door open and stepped inside.</p>
 <p>Something akin to a lobby spread out before me: a wide space dotted with barrels at certain intervals. Why barrels? Because they were serving as makeshift tables. There were several people sitting around them with liquor bottles in hand, merrily chugging away. Exactly like a pub. One thing set it apart, however: each person here had the same black coat with the tiger emblazoned on the back.</p>
-<p>Oh crap. Now I&#x27;m shaking in my boots.</p>
+<p><em>Oh crap. Now I&#x27;m shaking in my boots.</em></p>
 <p>&quot;You got some business here?&quot; One of them—a beastman with the face of a lion—noticed me and strolled over. He was taller than me, and bulkier. His coat barely fit over what was bound to be some impressive musculature. Unfortunately for him, bulk didn&#x27;t correlate to fighting capability. Neither Orsted nor Ruijerd looked like ripped macho types, but they were ridiculously powerful all the same.</p>
 <p>&quot;Um, well, you see…&quot; I mumbled. &quot;My sister. I came to see her. Could you perhaps tell me if she&#x27;s here?&quot;</p>
 <p>It was important to be well-mannered. Even if my power dwarfed this guy completely, there was still protocol to be followed. Part of the secret to my success in making it in this world was being polite to everyone I met for the first time. It most certainly was not because I was intimidated. No, sir.</p>
 <p>&quot;Your sister, huh?&quot; Suspicious, the man scrutinized me for a moment before scanning the lobby.</p>
 <p>Now that I had calmed down a bit and could look around, I noticed that there were a large number of women, even among those dressed in all black. They didn&#x27;t necessarily look shady, but they all looked like warriors with a past. If nothing else, they&#x27;d lived far tougher lives than the students attending the University of Magic. I guess that made them somewhat shady. Even so, Aisha was not among them.</p>
 <p>&quot;&#x27;Scuse me for a sec,&quot; said the man as he leaned toward me.</p>
-<p>What? You want a piece of me, huh? Who do you think you are? J-just so you know, I&#x27;m good friends with Orsted! I tensed up, ready for this to get ugly, but the guy just sniffed the air around me. Apparently he was checking my smell. That&#x27;s kinda embarrassing. I tilted my head, confused.</p>
+<p><em>What? You want a piece of me, huh? Who do you think you are? J-just so you know, I&#x27;m good friends with Orsted!</em> I tensed up, ready for this to get ugly, but the guy just sniffed the air around me. Apparently he was checking my smell. <em>That&#x27;s kinda embarrassing.</em> I tilted my head, confused.</p>
 <p>Midway through, his brow furrowed. He froze and studied my face for a moment, then retreated a couple of steps.</p>
-<p>Crap. Do I really stink that badly? I guess I did barely get home, so I haven&#x27;t had a chance to hop in the bath yet.</p>
+<p><em>Crap. Do I really stink that badly? I guess I did barely get home, so I haven&#x27;t had a chance to hop in the bath yet.</em></p>
 <p>&quot;Sorry, but uh, are you…Miss Aisha&#x27;s brother?&quot; he asked. Apparently he was able to figure that out from the sweaty stench of my unwashed body.</p>
 <p>&quot;Um, yes, that&#x27;s correct. My name is Rudeus Greyrat. Is my…I mean, is Aisha present?&quot;</p>
 <p>Of course. It was important to do introductions. The first step of proper communication was giving your name and letting the other person know who you were affiliated with. I was quite famous around the city, so introducing myself was a good way of discouraging people from doing anything unsavory.</p>
@@ -134,14 +134,14 @@ nav_title = "Chapter 7"
 <p>&quot;Greyrat, he said.&quot;</p>
 <p>&quot;So that guy there is…&quot;</p>
 <p>&quot;I knew I&#x27;d eventually see him for myself one day, but to think today would be that day…&quot;</p>
-<p>I felt very, very out of my element. This can&#x27;t be good. There was something familiar about this. As I recalled, Eris had once gone berserk in the past, and I had to go apologize to the group she beat up—a group like this one. The atmosphere right now felt the same.</p>
-<p>Perhaps Eris had already roughed these guys up? Wait, that&#x27;d be strange. In that case, why hadn&#x27;t Aisha come back to us? Maybe Aisha had talked Eris down? Okay, but hold up. Then that would mean she&#x27;s here of her own volition, right? Impossible. These guys had to be threatening her.</p>
+<p>I felt very, <em>very</em> out of my element. <em>This can&#x27;t be good.</em> There was something familiar about this. As I recalled, Eris had once gone berserk in the past, and I had to go apologize to the group she beat up—a group like this one. The atmosphere right now felt the same.</p>
+<p>Perhaps Eris had already roughed these guys up? <em>Wait, that&#x27;d be strange.</em> In that case, why hadn&#x27;t Aisha come back to us? Maybe Aisha had talked Eris down? <em>Okay, but hold up. Then that would mean she&#x27;s here of her own volition, right?</em> Impossible. These guys had to be threatening her.</p>
 <p>Ugh. Maybe I shouldn&#x27;t have given them my real name. It might have been better to give them my alias, Ruquag Mire instead. It was too late for regrets, though.</p>
 <p>&quot;…that means you&#x27;re the chairman!&quot;</p>
 <p>&quot;He&#x27;s our chairman!&quot;</p>
 <p>&quot;Chairman Rudeus!&quot;</p>
 <p>For some reason, all the people in the room started bowing. No normal bow, mind you; they all stood at attention and did the fortyfive-degree bow, as was proper Japanese etiquette. What made it more odd was that they all did it in unison.</p>
-<p>&quot;Uh?&quot; I blinked slowly. What the heck is going on here?</p>
+<p>&quot;Uh?&quot; I blinked slowly. <em>What the heck is going on here?</em></p>
 <p>The man in front of me had bent low enough for me to see the top of his head. &quot;My deepest apologies for not recognizing you right away, Chairman,&quot; he said.</p>
 <p>&quot;Sorry?&quot; I blurted.</p>
 <p>&quot;The advisor is this way. I&#x27;ll guide you there.&quot;</p>
@@ -169,7 +169,7 @@ nav_title = "Chapter 7"
 <p>Yes, indeed. The two figures in sunglasses before me were, in fact, Linia and Aisha.</p>
 <p>The girls welcomed me and motioned for me to sit, so I plopped myself down on a couch while they took their seats opposite of me.</p>
 <p>&quot;What is this? What is going on?&quot;</p>
-<p>I decided I&#x27;d better get a feel for the situation before talking about anything else. After all, I did order the two to assemble a group of people. I did not, however, rent out this building or tell them to make everyone dress in black. There were also way more people here than I imagined.</p>
+<p>I decided I&#x27;d better get a feel for the situation before talking about anything else. After all, I <em>did</em> order the two to assemble a group of people. I did not, however, rent out this building or tell them to make everyone dress in black. There were also way more people here than I imagined.</p>
 <p>&quot;Well, you see, Big Brother… We did as you told us to. We gathered people and did some business with them,&quot; said Aisha.</p>
 <p>I nodded. &quot;Uh-huh. Give me details.&quot;</p>
 <p>Aisha gave me the lowdown. After I&#x27;d left on my assignment, Linia and Aisha immediately set about recruiting people. They mainly focused on students still attending the university, graduates, and people from the Adventurers&#x27; Guild. Before they knew it, they had</p>
@@ -183,7 +183,7 @@ nav_title = "Chapter 7"
 <p>Nanahoshi&#x27;s suggestions were uniforms, and proper manners. By having everyone wear the same clothes, it heightened their sense of solidarity so they wouldn&#x27;t jump ship so easily, even if they didn&#x27;t have a clear direction. On top of that, teaching them military customs and courtesies would increase clients&#x27; trust.</p>
 <p>Aisha took Nanahoshi&#x27;s advice to heart and bought some cheap, overstocked clothes from one of her acquaintances&#x27; clothing stores. That&#x27;s what resulted in the gloomy black coats. Even Aisha realized that pure black outfits would be a bad look, so she bought some overstock yellow fabric from the same store using her own pocket money, and then sewed rat emblems onto each coat.</p>
 <p>Yes, rat emblems. She took inspiration from our Greyrat name. Since it was yellow on black, I thought for sure they were supposed to be tigers.</p>
-<p>Phew, dodged a bullet there. Good thing I didn&#x27;t tell her how cool I thought the tiger emblems were.</p>
+<p><em>Phew, dodged a bullet there. Good thing I didn&#x27;t tell her how cool I thought the tiger emblems were.</em></p>
 <p>Once they were all in the same outfits, Aisha started teaching them proper manners, such as how to properly bow. The perfect forty-five-degree bow is what we call &quot;ojigi&quot; in Japanese. It was easy enough for anyone to pick up, and people would understand at a glance that the person was trying to be respectful.</p>
 <p>Anyway, that was how it all came together—an organization of people wearing all black and bowing their heads super low.</p>
 <p>With that out of the way, Aisha started to consider what they could make these new employees do. The majority of them were beastfolk that Linia had recruited. They didn&#x27;t really have any talents outside of fighting. We&#x27;re talking jock types addicted to benchpressing, who couldn&#x27;t even read numbers, let alone letters. There were some bright minds among them, but for every smart person there were at least five more who were meatheads.</p>
@@ -196,7 +196,7 @@ nav_title = "Chapter 7"
 <p>If we didn&#x27;t watch our step, the mercenary band could become a faction of its own, but that was why Aisha thought it best to accept requests from anyone without discrimination, in order to maintain that neutrality.</p>
 <p>&quot;We have been setting aside some of what we earn as company fees, but even then we&#x27;ve still raked in way more than I ever imagined,&quot; said Aisha.</p>
 <p>&quot;You got that right, mew. Everyone pays us way more in fees than we even thought they would. They&#x27;re honest people, the lot of &#x27;em, mew.&quot;</p>
-<p>So they made a bodyguard organization that&#x27;s slightly different from the Adventurers&#x27; Guild. They&#x27;d also turned over a pretty decent profit in the process, making for a smooth start to our business. Of course, the total amount of revenue was nothing big; it would still take a very, very long time before Linia could repay all that she owed. But even so, if we expanded our business or changed our services after filling our coffers, she might be able to repay it pretty quickly. In fact, I didn&#x27;t mind writing off the rest of what she owed once she&#x27;d returned at least half of it. I wasn&#x27;t really after money anyway.</p>
+<p><em>So they made a bodyguard organization that&#x27;s slightly different from the Adventurers&#x27; Guild.</em> They&#x27;d also turned over a pretty decent profit in the process, making for a smooth start to our business. Of course, the total amount of revenue was nothing big; it would still take a very, very long time before Linia could repay all that she owed. But even so, if we expanded our business or changed our services after filling our coffers, she might be able to repay it pretty quickly. In fact, I didn&#x27;t mind writing off the rest of what she owed once she&#x27;d returned at least half of it. I wasn&#x27;t really after money anyway.</p>
 <p>I pursed my lips.</p>
 <p>Honestly, this was completely different from what I had pictured in my head. No, maybe that didn&#x27;t matter. If things were going smoothly, then that was good enough. I never dreamed things would work out this well. I suspected Aisha&#x27;s skillful touch was responsible for this venture&#x27;s success. She was a genius, and if she hadn&#x27;t been serious about doing this, it would have taken much longer for the business to get off the ground. I never thought she would be this dedicated.</p>
 <p>&quot;I didn&#x27;t realize you loved money this much, Aisha,&quot; I said with a sigh.</p>
@@ -204,7 +204,7 @@ nav_title = "Chapter 7"
 <p>&quot;Aisha…&quot;</p>
 <p>Her eyes glimmered as she looked at me. Gosh, she was so cute. If only she wasn&#x27;t my sister, then I might be tempted.</p>
 <p>&quot;Also, it&#x27;d be a big pain if this cat came back to the house,&quot; Aisha added.</p>
-<p>Ah, that&#x27;s probably the real reason. I thought they seemed to be getting along so well, but I guess maybe I was mistaken, huh? Nah, that&#x27;s one thing. This is another.</p>
+<p><em>Ah, that&#x27;s probably the real reason. I thought they seemed to be getting along so well, but I guess maybe I was mistaken, huh? Nah, that&#x27;s one thing. This is another.</em></p>
 <p>&quot;Well, whatever the case, you did a good job,&quot; I said, patting her on the head.</p>
 <p>Aisha broke out into a grin. &quot;Ehehe, thank you!&quot;</p>
 <p>Circumstances aside, at least we&#x27;d found a way for Linia to start repaying her debt. There had to be some promising talents at the office too, considering how many they had gathered. Surely one of them would have a knack for trade. Maybe I could find someone to work at Orsted&#x27;s company as well as someone to hire as our store clerk to help us sell Ruijerd figures.</p>
@@ -222,7 +222,7 @@ nav_title = "Chapter 7"
 <p>Huh. From the Great Forest? Written by Pursena, I assumed.</p>
 <p>Linia passed it to me. I noticed it was addressed to her, and she&#x27;d already opened it and read the contents. There was no name to indicate who&#x27;d sent it, which made me wonder how she knew it came from the Great Forest. Perhaps the scent? Without wasting any time, I pulled out the letter tucked inside and glanced over the contents.</p>
 <p>My breath caught in my throat.</p>
-<p>The writer wasted no time with seasonal greetings or anything of the sort. Their message was simple and short, penned in the Beast Tongue: Big trouble! The Sacred Beast has gone missing! Calling for an emergency search and rescue!</p>
+<p>The writer wasted no time with seasonal greetings or anything of the sort. Their message was simple and short, penned in the Beast Tongue: <em>Big trouble! The Sacred Beast has gone missing! Calling for an emergency search and rescue!</em></p>
 <p>&quot;For his part, the Sacred Beast said to leave it and not worry about it, so it&#x27;s probably no big deal, mew.&quot; Linia threaded her fingers behind her head and chuckled.</p>
 <p>Silently, I resolved to visit the Great Forest. It&#x27;d probably be a good idea to take a gift along as well, as a form of apology.</p>
 <p><strong>Ruquag&#x27;s Mercenary Band</strong></p>

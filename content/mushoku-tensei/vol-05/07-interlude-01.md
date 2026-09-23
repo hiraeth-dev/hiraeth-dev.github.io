@@ -14,11 +14,11 @@ nav_title = "Interlude"
 <p>In a word, Cliff was a prodigy.</p>
 <p>Everyone around the boy showered him with praise; everyone told him that he would one day make his mark on the world.</p>
 <p>In these respects, his early years were similar to those of Rudeus. But unlike Rudeus, who had the memories of his previous life to keep him humble, Cliff grew arrogant. The kid was full of himself, quite frankly. Very much so.</p>
-<p>In a sense, it was hard to blame him. Even among his instructors, there was no one who could use such a wide variety of magic as proficiently as him. Some could cast Saint-tier Healing spells, true; others had mastered Saint-tier Detoxification spells. However, only Cliff was Advanced in four distinct disciplines. The sheer breadth of</p>
+<p>In a sense, it was hard to blame him. Even among his instructors, there was no one who could use such a wide variety of magic as proficiently as him. Some could cast Saint-tier Healing spells, true; others had mastered Saint-tier Detoxification spells. However, only Cliff was Advanced in <em>four</em> distinct disciplines. The sheer breadth of</p>
 <p>his skills was such that some said he was a sage in the making. The boy&#x27;s ego grew larger by the day. Gradually, he stopped listening to his tutors entirely.</p>
 <p>Some day in the future, Cliff would be expected to succeed his foster father and take a position in the Millis Church. Cliff was aware of this, of course. But at present, he longed to be an adventurer.</p>
 <p>Why an adventurer, you might ask?</p>
-<p>The cause lay in his early years back at the orphanage. Many of those raised in this facility went on to become adventurers. Those children who were not adopted by their tenth birthday were sent to a school operated by the Millis Church, where they underwent five years of training in the practical combat arts of swordplay and magic. After graduating, they took on jobs suited to their particular talents. Those who produced superb results in academics, swordplay, and magic sometimes became knights, but the majority of these graduates ended up as adventurers.</p>
+<p>The cause lay in his early years back at the orphanage. Many of those raised in this facility went on to become adventurers. Those children who were not adopted by their tenth birthday were sent to a school operated by the Millis Church, where they underwent five years of training in the practical combat arts of swordplay and magic. After graduating, they took on jobs suited to their particular talents. Those who produced superb results in academics, swordplay, <em>and</em> magic sometimes became knights, but the majority of these graduates ended up as adventurers.</p>
 <p>These young men and women would frequently stop by to visit their old home. They relished the chance to catch up with their old teachers—and to tell exciting stories of their adventures to the children living there. Many of the orphans, captivated by these tales, dreamed of following in their footsteps, and Cliff was no exception.</p>
 <p>Of course, he didn&#x27;t believe his dream would ever come true. Despite what his heart wanted, he understood his present circumstances clearly. A child adopted from an orphanage couldn&#x27;t hope to choose his own destiny.</p>
 <p>He could accept that…at least at first. But the dull routine of his daily life wore on Cliff, and the constant praise he received swelled his head. And so, one day, he hit on the idea of fleeing his home to register as an adventurer.</p>
@@ -70,7 +70,7 @@ nav_title = "Interlude"
 <p>One day, she walked over to the little group and demanded they let her join the conversation, which somehow led to a fight in which she brutally beat all three of them. She was expelled from her school, but soon met Ghislaine, whose stories only intensified her yearning for a life of adventure.</p>
 <p>After meeting Rudeus, she constantly daydreamed about becoming an adventurer with him. In her imagination, they formed a party of two: Eris the swordswoman and Rudeus the mage. Together, they challenged unknown labyrinths in search of treasure.</p>
 <p>When she actually found herself stranded on the Demon Continent with him, however, things played out very differently from her fantasies. In particular, Rudeus turned out to be very businesslike about the whole thing. He kept the party far away from labyrinths and their unknown dangers. If Eris had proposed they go slay some Goblins, he would probably have raised an eyebrow and said &quot;Why would we bother doing that?&quot;</p>
-<p>To be sure, Eris wasn&#x27;t a rookie anymore. She&#x27;d fought her way through the dangers of the Demon Continent, and she knew there was no real point in taking this job now. But even if it was pointless, slaying Goblins had always been at the very top of her &quot;Things I want to do once I become an adventurer&quot; list. She wanted the experience, if nothing else.</p>
+<p>To be sure, Eris wasn&#x27;t a rookie anymore. She&#x27;d fought her way through the dangers of the Demon Continent, and she knew there was no real <em>point</em> in taking this job now. But even if it was pointless, slaying Goblins had always been at the very top of her &quot;Things I want to do once I become an adventurer&quot; list. She wanted the experience, if nothing else.</p>
 <p>That was her first reason. The second one…was a secret.</p>
 <p>&quot;I wonder if I can make it back before the sun goes down…&quot;</p>
 <p>Studying the task she&#x27;d spotted on the board, Eris tried to figure out how long the round-trip journey would take. She was going to be traveling on foot for this one. It was still morning, but it was best to have a comfortable margin for error.</p>
@@ -95,16 +95,16 @@ nav_title = "Interlude"
 <p>&quot;All you fools know is how to swing a sword. I wouldn&#x27;t get too cocky if I were you!&quot;</p>
 <p>&quot;You little shit…&quot;</p>
 <p>One of the adventurers grabbed the boy by his shirt. His face stayed calm, but Eris could see that his legs were trembling slightly.</p>
-<p>Striding over to the little group, she stepped in to intervene. &quot;Stop it. You&#x27;re being childish.&quot; If Rudeus had been there, his jaw would likely have hit the floor at this point. This wasn&#x27;t the sort of line you&#x27;d ever expect to hear from Eris, of all people.</p>
+<p>Striding over to the little group, she stepped in to intervene. &quot;Stop it. You&#x27;re being childish.&quot; If Rudeus had been there, his jaw would likely have hit the floor at this point. This wasn&#x27;t the sort of line you&#x27;d ever expect to hear from <em>Eris,</em> of all people.</p>
 <p>Honestly, Eris found this whole thing kind of thrilling. As an Aranked adventurer, she was a cut above any of these people. She was the calm veteran, stepping in to protect the newbie from a bunch of bullies! Very cool, if she did say so herself.</p>
-<p>Of course, Ruijerd frequently had to intervene like this to keep her from punching some hapless idiot in the face, but this inconvenient fact had slipped her mind entirely.</p>
+<p>Of course, Ruijerd frequently had to intervene like this to keep <em>her</em> from punching some hapless idiot in the face, but this inconvenient fact had slipped her mind entirely.</p>
 <p>&quot;…Tch. Yeah, I guess you&#x27;re right. I wasn&#x27;t actin&#x27; too mature.&quot;</p>
 <p>To her surprise, the man backed down immediately. She&#x27;d been expecting this to turn into a fight, so it felt kind of anti-climactic.</p>
 <p>&quot;Come on, guys. Let&#x27;s go.&quot; The men walked off, leaving the boy magician behind. Eris waited for him to thank her with a little smile on her face. In her imagination, it would go something like this:</p>
-<p>Boy: Thank you for helping me, miss. Who are you?</p>
-<p>Eris: Oh, no one special.</p>
-<p>Boy: Please! At least tell me your name!</p>
-<p>Eris: Hmm. All right…you can call me Dead End Ruijerd, then.</p>
+<p><em>Boy: Thank you for helping me, miss. Who are you?</em></p>
+<p><em>Eris: Oh, no one special.</em></p>
+<p><em>Boy: Please! At least tell me your name!</em></p>
+<p><em>Eris: Hmm. All right…you can call me Dead End Ruijerd, then.</em></p>
 <p>Rudeus liked to use that last line sometimes. She&#x27;d been meaning to try it out.</p>
 <p>&quot;Who asked for your help, huh?!&quot;</p>
 <p>Eris&#x27; proud expression froze in place as the boy shouted at her.</p>
@@ -127,31 +127,31 @@ nav_title = "Interlude"
 <p>&quot;More like a budding priest, you creepy little virgin!&quot; to himself, at least.</p>
 <p>Eris didn&#x27;t say anything so crude. She did, however, idly wonder how &quot;useful&quot; the boy might prove if she chopped him up for composting.</p>
 <p>&quot;I&#x27;m sure you&#x27;ve never seen a spellcaster as amazing as me before, Eris,&quot; said Cliff with a confident grin. &quot;I&#x27;m even better than your average A-ranked magician, as it happens!&quot;</p>
-<p>This remark ticked Eris off a little. As far as she was concerned, the most amazing magician in the world was clearly Rudeus Greyrat. Even Ruijerd acknowledged his skills. While he was an A-ranked adventurer, there was nothing &quot;average&quot; about him.</p>
+<p>This remark ticked Eris off a little. As far as she was concerned, the most amazing magician in the world was clearly Rudeus Greyrat. Even <em>Ruijerd</em> acknowledged his skills. While he was an A-ranked adventurer, there was nothing &quot;average&quot; about him.</p>
 <p>&quot;You really owe it to yourself to at least see what I can do!&quot;</p>
-<p>All right then, Eris found herself thinking. Let&#x27;s see if you&#x27;re all talk. &quot;Fine, all right. Follow me.&quot;</p>
+<p><em>All right then</em>, Eris found herself thinking. <em>Let&#x27;s see if you&#x27;re all talk.</em> &quot;Fine, all right. Follow me.&quot;</p>
 <p>&quot;Of course!&quot;</p>
 <p>And so, Eris and the young magician Cliff set out to slay some monsters.</p>
 <p>***</p>
 <p>In an instant, a great wave of flame consumed seven Goblins at once.</p>
-<p>&quot;How do you like that? Pretty amazing, right?&quot; said Cliff, surveying the monsters&#x27; corpses with a look of great satisfaction on his face. &quot;Your average magician could never pull that one off!&quot;</p>
+<p>&quot;How do you like that? Pretty amazing, right?&quot; said Cliff, surveying the monsters&#x27; corpses with a look of great satisfaction on his face. &quot;Your average magician could never pull <em>that</em> one off!&quot;</p>
 <p>Eris looked at the remains as well. All of the creatures had been burnt to ashes, meaning there were no ears left to collect.</p>
-<p>&quot;You think? I can&#x27;t say I&#x27;m impressed.&quot; That really was her honest opinion. She couldn&#x27;t have been much less impressed, in fact. Cliff had used an Advanced-rank Fire spell called &quot;Exodus Flame.&quot; Eris had seen Rudeus cast that one as well. But unlike Cliff, he hadn&#x27;t rattled off some lengthy incantation first, and his flames had also been more powerful. Of course, Rudeus wouldn&#x27;t have used a spell like that on that pack of Goblins in the first place. He would have killed them without damaging their ears.</p>
-<p>What&#x27;s more, Eris had kept the monsters occupied until Cliff finished his incantation, giving him a chance to show what he could do; but as he hadn&#x27;t warned her when he finished, she&#x27;d nearly been caught in the radius of his spell. Rudeus never would have made such a dangerous blunder.</p>
+<p>&quot;You think? I can&#x27;t say I&#x27;m impressed.&quot; That really was her honest opinion. She couldn&#x27;t have been much <em>less</em> impressed, in fact. Cliff had used an Advanced-rank Fire spell called &quot;Exodus Flame.&quot; Eris had seen Rudeus cast that one as well. But unlike Cliff, he hadn&#x27;t rattled off some lengthy incantation first, and his flames had also been more powerful. Of course, Rudeus wouldn&#x27;t have used a spell like that on that pack of Goblins in the first place. He would have killed them without damaging their ears.</p>
+<p>What&#x27;s more, Eris had kept the monsters occupied until Cliff finished his incantation, giving him a chance to show what he could do; but as he hadn&#x27;t warned her when he finished, she&#x27;d nearly been caught in the radius of his spell. Rudeus <em>never</em> would have made such a dangerous blunder.</p>
 <p>&quot;Ah, it seems you don&#x27;t know very much about magic, Eris. You see, there are many different kinds of spells, and…&quot;</p>
 <p>Cliff proceeded to give her a lengthy lecture about the various ranks of spells, explaining that the magic he&#x27;d just used was an Advanced-tier spell, so complex that even most adults were incapable of casting it.</p>
 <p>Eris already knew all of this, of course. She&#x27;d learned about it in her lessons with Rudeus. And compared to Cliff&#x27;s rambling explanations, Rudeus&#x27; classes had been ten times easier to understand.</p>
-<p>&quot;So? Now do you understand just how amazing I am?&quot;</p>
+<p>&quot;So? <em>Now</em> do you understand just how amazing I am?&quot;</p>
 <p>Eris badly wanted to punch this little jerk in the face. He was really putting a damper on her long-awaited day of Goblin-slaying. With her arms still folded, she coldly delivered her verdict. &quot;Okay, I&#x27;ve seen enough. You&#x27;re not going to be much help, so you can leave now.&quot;</p>
 <p>Had Rudeus been in Cliff&#x27;s shoes at this moment, he likely would have chosen to beat a tactical retreat. But Cliff was oblivious to the</p>
 <p>hostility in Eris&#x27; eyes. &quot;Are you serious?! I can&#x27;t leave you out here alone! You were struggling to kill a handful of Goblins!&quot;</p>
 <p>As soon as the words left his mouth, Eris hit him. Hard.</p>
 <p>Cliff staggered back and clapped a hand to his face. There was blood gushing from his nose. He quickly cast a basic Healing spell on himself to stop the flow. &quot;Hey, what was that for?!&quot;</p>
 <p>Eris clicked her tongue in irritation. She&#x27;d gone a little easy on him this time, since leaving him unconscious in the middle of an open field wasn&#x27;t really an option. Apparently, he needed a little more punishment before he learned his lesson.</p>
-<p>Just as she clenched her fist for a follow-up attack, however, Cliff finally seemed to figure out the situation. &quot;Wait, no! I get it! You&#x27;re obviously very strong, Eris. How about we head over to the forest for a while, then? I can&#x27;t really demonstrate my real value as a mage against a bunch of Goblins, after all.&quot;</p>
+<p>Just as she clenched her fist for a follow-up attack, however, Cliff finally seemed to figure out the situation. &quot;Wait, no! I get it! You&#x27;re obviously <em>very</em> strong, Eris. How about we head over to the forest for a while, then? I can&#x27;t really demonstrate my real value as a mage against a bunch of Goblins, after all.&quot;</p>
 <p>There were no sinister motives behind this proposal. Cliff just wanted to show off in front of Eris. It wasn&#x27;t that he had a crush on her, or even wanted to impress her; he was simply eager to revel in his own power.</p>
 <p>&quot;Forests are dangerous,&quot; said Eris curtly. This was something Rudeus was always saying, and Ruijerd agreed with him. She trusted their judgement completely.</p>
-<p>&quot;Surely you&#x27;re not scared, Eris?&quot;</p>
+<p>&quot;Surely you&#x27;re not <em>scared,</em> Eris?&quot;</p>
 <p>&quot;Of course not!&quot;</p>
 <p>But of course, Eris was a simple girl. When you challenged her pride, she&#x27;d take the bait every single time. No self-respecting member of the Boreas family would let some novice adventurer talk down to them, after all. &quot;The forest, right? Fine! Let&#x27;s go!&quot;</p>
 <p>And so, the two of them took a detour to a dark and gloomy wood nearby.</p>
@@ -173,13 +173,13 @@ nav_title = "Interlude"
 <p>&quot;Rudeus? Who the heck is Rudeus?&quot;</p>
 <p>&quot;He&#x27;s my tutor.&quot;</p>
 <p>&quot;What?!&quot;</p>
-<p>Eris let out a small sigh. There was no point getting into an argument right now. What should she be doing in a situation like this? Hadn&#x27;t Ghislaine taught her what to do if she got lost?</p>
+<p>Eris let out a small sigh. There was no point getting into an argument right now. What <em>should</em> she be doing in a situation like this? Hadn&#x27;t Ghislaine taught her what to do if she got lost?</p>
 <p>Yeah. You were supposed to gather lots of branches and start a fire, right? The smoke would be visible from a long distance away. But who would see the signal? Ruijerd and Rudeus both had other business to take care of today. They weren&#x27;t out looking for her.</p>
-<p>Eris folded her arms and begun to scowl. She closed her eyes and tried to think carefully. Ghislaine always said that it was critical to stay calm, especially when you felt anxious, and so Eris never allowed herself to panic.</p>
+<p>Eris folded her arms and begun to scowl. She closed her eyes and tried to think carefully. Ghislaine always said that it was critical to stay calm, <em>especially</em> when you felt anxious, and so Eris never allowed herself to panic.</p>
 <p>&quot;Wh-what do we do, Eris?&quot;</p>
 <p>&quot;There are probably a few other adventurers in this forest, right?&quot;</p>
 <p>&quot;Oh, of course! We can just ask for help… Let&#x27;s try to find some!&quot;</p>
-<p>Cliff started to run off immediately, but Eris didn&#x27;t budge. Ruijerd had told her that it was better not to move in this sort of situation. He&#x27;d taught her to stay still and consciously sharpen her senses. Eris didn&#x27;t have that convenient third eye of his, but she had her ears and her nose. And she could feel the flow of magic energy in the area. She was still inexperienced in many ways, but she trained every single day.</p>
+<p>Cliff started to run off immediately, but Eris didn&#x27;t budge. Ruijerd had told her that it was better <em>not</em> to move in this sort of situation. He&#x27;d taught her to stay still and consciously sharpen her senses. Eris didn&#x27;t have that convenient third eye of his, but she had her ears and her nose. And she could feel the flow of magic energy in the area. She was still inexperienced in many ways, but she trained every single day.</p>
 <p>&quot;Uh, Eris…?&quot;</p>
 <p>&quot;Be quiet!&quot;</p>
 <p>Her eyes still closed, Eris drew a deep breath and emptied her mind. She listened to the forest. She could hear rustling branches, monsters on the move, the buzz of flying insects…and somewhere in the distance, the faint sounds of combat.</p>
@@ -219,7 +219,7 @@ nav_title = "Interlude"
 <p>&quot;Eris! No!&quot;</p>
 <p>Drawing her sword, Eris leapt forward at the assassins.</p>
 <p>The black-clad men immediately scattered, but… &quot;Too slow!&quot;</p>
-<p>Eris moved far more quickly than they had anticipated. Her lead attack was the Advanced-tier Sword God Style technique &quot;Silent</p>
+<p>Eris moved <em>far</em> more quickly than they had anticipated. Her lead attack was the Advanced-tier Sword God Style technique &quot;Silent</p>
 <p>Sword&quot;—a move of less complexity than the &quot;Sword of Light,&quot; but deadly in its own right. Her sword whipped through the air without the slightest sound.</p>
 <p>In the course of her training with Ghislaine and Ruijerd, her swordplay skills had been polished to a remarkable degree. Her blade took one of the men at the shoulder, sliced diagonally through his ribcage, and cut him in two.</p>
 <p>Although this was the first time Eris had killed anyone, she didn&#x27;t falter even for an instant. Her focus had already shifted to her next target. The black-clad men were moving quickly to surround her, but Eris was a step faster than any of them. Ruijerd had lectured her about the proper way to move when surrounded by multiple enemies. Many monsters hunted in packs; your goal was to pick them off rapidly before they could encircle you.</p>
@@ -259,10 +259,10 @@ nav_title = "Interlude"
 <p>At the time of Cliff&#x27;s birth, various factions within the church were engaged in a vicious power struggle. The violence cost both of his parents their lives. In order to keep Cliff at a safe distance from the conflict, his grandfather—the prelate—temporarily left him with the orphanage in Millishion. He proceeded to triumph over his enemies, take the papacy for his own, and bring Cliff back into his household.</p>
 <p>In other words, Cliff Grimoire was the true grandson of the current Pope of Millis…although few, even within the Church, were aware of that fact.</p>
 <p>Because of this, Cliff knew perfectly well why that carriage had been attacked. That Blessed Child, said to possess miraculous powers, was the most powerful tool in the arsenal of a certain archbishop. And that archbishop&#x27;s faction was currently in active conflict with Cliff&#x27;s grandfather.</p>
-<p>Cliff had met the girl before, in fact. He had no idea what she&#x27;d been doing out by that forest; but he was familiar with the black-clad assassins who&#x27;d attacked her. Those men were among his instructors. He&#x27;d known for some time now that they carried out these sorts of jobs for his grandfather. He also knew just how powerful they were. He had sparred against them many times, but never once come close to winning. And yet, they hadn&#x27;t stood a chance against Eris.</p>
+<p>Cliff had met the girl before, in fact. He had no idea what she&#x27;d been doing out by that forest; but he <em>was</em> familiar with the black-clad assassins who&#x27;d attacked her. Those men were among his instructors. He&#x27;d known for some time now that they carried out these sorts of jobs for his grandfather. He also knew just how powerful they were. He had sparred against them many times, but never once come close to winning. And yet, they hadn&#x27;t stood a chance against Eris.</p>
 <p>In reality, the fight had been a very close call indeed. But the way Cliff saw it, this girl had totally overpowered a group of men he never could have bested in a million years. As they walked back to</p>
 <p>down, he found himself staring at her weary face with deep and genuine admiration.</p>
-<p>This girl was going to be someone before too long.</p>
+<p>This girl was going to be <em>someone</em> before too long.</p>
 <p>With that thought firmly cemented in his mind, Cliff blurted out an impulsive offer. &quot;Eris, will you marry me?!&quot;</p>
 <p>&quot;What?! Not a chance!&quot; She shot him down instantly. With an awful grimace on her face, no less.</p>
 <p>It seemed bizarre to Cliff that any girl would turn down a proposal from someone as profoundly talented as himself, so he began to search for an explanation. He thought back over all their conversations. After a moment, he recalled her mentioning a certain &quot;teacher&quot; several times. What was he called again? Ru… Ru…</p>
@@ -272,7 +272,7 @@ nav_title = "Interlude"
 <p>Within minutes, Cliff would come to curse himself for ever asking this question. He&#x27;d gotten the impression that Eris wasn&#x27;t very talkative, but that clearly wasn&#x27;t the case. Once you got her started on this Rudeus person, she would proudly babble on indefinitely. She kept going all the way from the plains outside Millishion to the Adventurers&#x27; Guild. Everything she said was an effusive compliment, and the expression on her face made the intensity of her feelings very plain. It was more than enough to make Cliff deeply jealous.</p>
 <p>&quot;I&#x27;m going to head back home now,&quot; he finally interrupted, aware that his expression was probably rather sullen at the moment.</p>
 <p>Eris had seemed ready to keep talking for another hour or two, but now she just waved her hand in a vague, disinterested gesture. &quot;Oh, okay. Bye.&quot; It was hard to believe she was the same girl who&#x27;d been speaking so passionately about her tutor only seconds earlier.</p>
-<p>Cliff silently watched her walk off until she disappeared from view. Who was this &quot;Rudeus&quot; who&#x27;d so totally enchanted that powerful, beautiful, and flawless girl?</p>
+<p>Cliff silently watched her walk off until she disappeared from view. Who <em>was</em> this &quot;Rudeus&quot; who&#x27;d so totally enchanted that powerful, beautiful, and flawless girl?</p>
 <p>With visions of a mysterious rival floating through his mind, the young mage returned to the headquarters of the Millis Church, where he received a harsh talking-to from the people who&#x27;d been searching for him.</p>
 <p>Incidentally, the power struggle inside the Church quickly intensified in the aftermath of the incident with the Blessed Child. The Pope soon decided it was too dangerous for his grandson to remain in Millishion, so Cliff was sent off to live in a foreign land. But of course, none of this had anything to do with Eris.</p>
 <p>As for Eris herself, she basically forgot about the whole encounter the moment she returned to the inn and saw Rudeus sitting miserably on his bed. But that, too, would be an entirely separate story.</p>

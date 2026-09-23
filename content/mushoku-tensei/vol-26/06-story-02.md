@@ -17,7 +17,7 @@ nav_title = "Story 2"
 <p>But looking past the girl holding the bracelet, I saw a brush resting on the bedside table. That definitely hadn&#x27;t been there before I fell asleep.</p>
 <p>&quot;Were you going to draw it?&quot;</p>
 <p>&quot;…I&#x27;m sorry.&quot;</p>
-<p>She was driven enough to try and turn a lie into reality. Should I praise her, or scold her? Okay, no, this was a scolding situation. It&#x27;s a father&#x27;s responsibility to educate his daughter, so… Yeah.</p>
+<p>She was driven enough to try and turn a lie into reality. Should I praise her, or scold her? Okay, no, this was a scolding situation. <em>It&#x27;s a father&#x27;s responsibility to educate his daughter, so… Yeah.</em></p>
 <p>&quot;Lara, you mustn&#x27;t tell lies. Go say sorry to your sister.&quot;</p>
 <p>&quot;Okay…&quot;</p>
 <p>I patted her on the head, and she left the room, dejected. After she left, I caught sight of a big ball of white fur. Leo must have been keeping watch outside the door. I was about to put the bracelet back on, but then the brush caught my eye. I used it to paint the Migurd crest on my arm, then got out of bed.</p>
@@ -46,7 +46,7 @@ nav_title = "Story 2"
 <p>Around midday on that day, I went out. On the outskirts of town, on top of a small hill, there stood rows of rounded stones. It was a graveyard.</p>
 <p>&quot;Hello. I really appreciate all this.&quot; At the entrance, I said a word of thanks to the grave keeper, as I always did. Over the past ten years, the number of graves here had increased. People come into the world and leave it, but gravestones don&#x27;t thin out much. In other graveyards, sometimes gravestones can be torn down when a whole family dies or something, but this graveyard was for nobles. Unless the line ended, the gravestones would remain—especially since the Ranoa Kingdom and the Magic City of Sharia were growing ever more powerful. As their might swelled, so did the number of nobles, and the number of gravestones soared with them.</p>
 <p>I stopped in front of one grave.</p>
-<p>On the rounded stone was written Paul Greyrat. It was much more worn than it had been when it was first built. Using the gear I&#x27;d brought, I tidied the area around the grave and polished the stone. After that, I put out some alcohol as an offering, then put my hands together.</p>
+<p>On the rounded stone was written <em>Paul Greyrat</em>. It was much more worn than it had been when it was first built. Using the gear I&#x27;d brought, I tidied the area around the grave and polished the stone. After that, I put out some alcohol as an offering, then put my hands together.</p>
 <p>I hadn&#x27;t come here for a long time. Long ago, any time anything had happened I&#x27;d come to report it, but lately, my visits had grown less</p>
 <p>frequent. We still came once a year with the whole family…but that wasn&#x27;t the same, somehow. That annual visit, it seemed to me, was more of a custom than a visit to see Paul. There wasn&#x27;t enough gratitude in it.</p>
 <p>&quot;Hey, Dad. Everyone&#x27;s doing great.&quot;</p>

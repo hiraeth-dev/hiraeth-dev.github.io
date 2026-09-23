@@ -16,7 +16,7 @@ nav_title = "Chapter 4"
 <p>I also suggested having Cliff try to remove his curse. Orsted seemed willing to give it a shot. Under this arrangement, Cliff would come to the cottage every few days to work on developing a magical implement that could combat his curse. Since we had no idea when we would see the fruits of Cliff&#x27;s labors, I told Orsted that I would keep up the guise that he was holding my family hostage in the meantime. He kept a poker face through my explanation, then merely nodded. &quot;All right.&quot;</p>
 <p>When I admitted that I hadn&#x27;t yet reached out to Ariel, he reprimanded me. I could have told him that I was worried about Eris and Leo or that I was waiting for a good opportunity to introduce Ghislaine to Ariel, since it would be perfect for getting close to her, but those would simply be excuses. I had taken the month&#x27;s leeway we had for granted. I could admit I&#x27;d been negligent.</p>
 <p>Orsted had gone to meet with Perugius while I was taking my sweet time. He requested that Perugius support Ariel&#x27;s bid for the crown, but had been refused. Perugius stubbornly insisted that he would not change his stance until he was certain she was fit for the position.</p>
-<p>You have some serious balls, Lord Perugius. You seemed pretty terrified of Orsted, but you still rebuffed him in no uncertain terms. Gotta admire you for that.</p>
+<p><em>You have some serious balls, Lord Perugius. You seemed pretty terrified of Orsted, but you still rebuffed him in no uncertain terms. Gotta admire you for that.</em></p>
 <p>That aside, I told Orsted about Luke&#x27;s visit. I also mentioned that his plea for help could be on the Man-God&#x27;s behalf and brought up how worried I was about helping Ariel out. Finally, I asked him if he had any intention of changing his original plan.</p>
 <p>Undaunted, Orsted said, &quot;No. We will make Ariel king.&quot;</p>
 <p>He dismissed the possibility that the Man-God wanted this outcome. Ariel being on the throne was of paramount importance to him. When I asked how we should deal with Luke, Orsted didn&#x27;t have an immediate answer.</p>
@@ -24,20 +24,20 @@ nav_title = "Chapter 4"
 <p>I gaped. Those were terrifying words to just say casually.</p>
 <p>&quot;You&#x27;re going to kill him?&quot;</p>
 <p>Orsted was silent, but the look on his face was terrifying.</p>
-<p>Wait, no. That&#x27;s just how he always looks.</p>
+<p><em>Wait, no. That&#x27;s just how he always looks.</em></p>
 <p>He dropped his gaze to the table and stared—or glared, as far as I was concerned—at one specific spot.</p>
-<p>Yep, I changed my mind. He&#x27;s definitely making a scary face.</p>
+<p><em>Yep, I changed my mind. He&#x27;s definitely making a scary face.</em></p>
 <p>&quot;There&#x27;s no telling what one of the Man-God&#x27;s apostles might do. Killing him would be the best way to eradicate any uncertainty,&quot; said Orsted.</p>
 <p>&quot;I…guess so…&quot;</p>
 <p>Kill Luke? I should have already steeled myself to do whatever was necessary, but I couldn&#x27;t stop my stomach from knotting in anxiety. Luke was working so hard to help Ariel, and we were going to kill him? Despite everything I had achieved and done, I had never killed anyone before. Sure, a bunch of bandits got caught in my spell back when we were in Begaritt and some of them probably died, but I hadn&#x27;t looked them in the eyes as I did it.</p>
 <p>So my first kill was going to be Luke? This was going to be my introduction to murder? The thought made my blood run cold. At the same time, part of me felt like I had no other choice. If he was going to be an enemy and pose a threat to my family and I, it was best to get rid of him. I couldn&#x27;t let my emotions get in the way. It might come back later to bite me in the butt.</p>
-<p>But can I really justify taking someone&#x27;s life simply because I &quot;had no other choice&quot;?</p>
+<p><em>But can I really justify taking someone&#x27;s life simply because I &quot;had no other choice&quot;?</em></p>
 <p>I wasn&#x27;t trying to preach morality here, but the idea didn&#x27;t sit right with me. I was clearly more opposed to the idea of killing than I even realized, considering how much I recoiled at the thought.</p>
 <p>&quot;We&#x27;re not sure that he&#x27;s one of the Man-God&#x27;s apostles yet, right?&quot; I said, my voice straining with empty hope.</p>
 <p>Orsted shook his head. &quot;No. Given the timing of Luke&#x27;s actions, there can be no doubt that he is.&quot;</p>
 <p>&quot;What do you mean by that?&quot;</p>
 <p>&quot;Their attempts to negotiate with Perugius have not completely fallen through yet, and news about the king falling sick has yet to reach them. Yet Luke chose this particular moment to seek you out. It&#x27;s clearly the Man-God&#x27;s doing.&quot; Orsted spat the last words with disgust.</p>
-<p>He really does despise the Man-God with every fiber of his being.</p>
+<p><em>He really does despise the Man-God with every fiber of his being.</em></p>
 <p>&quot;In that case, why would he ask me to help Ariel?&quot; I asked. &quot;Shouldn&#x27;t he be doing the opposite? If he doesn&#x27;t want Ariel to be king, then he should be trying to keep me away from her.&quot;</p>
 <p>&quot;He likely seeks to control someone from Asura Kingdom in order to lead us into a trap. Right now, the Man-God cannot see you directly, which is why he&#x27;s using Luke. It&#x27;s his way of keeping an eye on you. Think of it like someone putting their ear to a wall to hear what&#x27;s happening on the other side.&quot;</p>
 <p>&quot;So Luke is monitoring me?&quot;</p>
@@ -58,25 +58,25 @@ nav_title = "Chapter 4"
 <p>Perhaps having sensed that, Orsted quietly replied, &quot;All right. We&#x27;ll do as you advise, then.&quot;</p>
 <p>&quot;Thank you.&quot;</p>
 <p>I&#x27;d dodged a bullet there, but we might still have to kill Luke in the end. If it came down to that, Sylphie might resent me for it. It might even lead to a divorce. That thought made my stomach knot up. Even so, I had to steel myself, just in case I had to cross that bridge eventually.</p>
-<p>Anyway, that takes care of the business with Luke.</p>
+<p><em>Anyway, that takes care of the business with Luke.</em></p>
 <p>While I was on the subject, there were some other questions on my mind too. &quot;You mentioned before that the Man-God can&#x27;t control a bunch of people at once, right?&quot; I asked. &quot;About how many can he control at once, then?&quot;</p>
-<p>Orsted had briefly mentioned in passing that the Man-God couldn&#x27;t control a whole crowd at once, but that meant he could control more than one, right?</p>
+<p>Orsted had briefly mentioned in passing that the Man-God couldn&#x27;t control a whole crowd at once, but that meant he <em>could</em> control more than one, right?</p>
 <p>&quot;I cannot give you a precise number, but it&#x27;s most likely around three people.&quot;</p>
-<p>Only three, huh? Less than I expected.</p>
+<p><em>Only three, huh? Less than I expected.</em></p>
 <p>&quot;And what are the odds that he can control more than that?&quot; I asked.</p>
 <p>&quot;Not impossible, but when he attempted to kill me, he only employed three people to do so. None of the others came directly after me. We are probably safe to assume it&#x27;s just three.&quot;</p>
 <p>&quot;Which three were these?&quot;</p>
 <p>&quot;The Sword God, the North God, and a Demon King.&quot;</p>
 <p>And apparently, Orsted had turned the tables on all of them.</p>
-<p>A Demon King in addition to two of the Seven Great Powers, huh? If even that kind of firepower wasn&#x27;t enough to get rid of Orsted, it&#x27;s no wonder the Man-God gave up on that route.</p>
+<p><em>A Demon King in addition to two of the Seven Great Powers, huh? If even that kind of firepower wasn&#x27;t enough to get rid of Orsted, it&#x27;s no wonder the Man-God gave up on that route.</em></p>
 <p>If he sicced those kinds of people on me, I probably wouldn&#x27;t stand a chance. Although if he could have, he probably already would have. I suspected he was instead slowly altering people&#x27;s destinies over long periods, as he did with me.</p>
-<p>He&#x27;d probably be a big fan of Rube Goldberg machine videos.</p>
+<p><em>He&#x27;d probably be a big fan of Rube Goldberg machine videos.</em></p>
 <p>&quot;I wonder why he can only take control of three…&quot; I muttered.</p>
 <p>&quot;Because that&#x27;s the limit of his foresight abilities.&quot;</p>
 <p>&quot;You mean he can only look into three people&#x27;s futures at any time, and any more than that is impossible?&quot;</p>
 <p>&quot;Correct.&quot;</p>
 <p>I wondered if that meant he might be able to control four people, assuming he didn&#x27;t look into their futures.</p>
-<p>Nah, someone who can cheat and look into the future would never gamble by giving up that specific power. It was reasonable to assume he would only control three people and no more.</p>
+<p><em>Nah, someone who can cheat and look into the future would never gamble by giving up that specific power.</em> It was reasonable to assume he would only control three people and no more.</p>
 <p>&quot;So if Luke is one of those three, that means he&#x27;s got two others under his control,&quot; I surmised.</p>
 <p>&quot;There&#x27;s no evidence at all that he is controlling three people right now.&quot;</p>
 <p>I shrugged. &quot;You may be right, but I think there&#x27;s a good chance that he&#x27;s got at least one person under his thumb in the Asura Kingdom.&quot;</p>
@@ -88,21 +88,21 @@ nav_title = "Chapter 4"
 <p>&quot;With the Sacred Beast serving as your family&#x27;s guardian, the Man-God cannot readily go after them. That creature has enough power that you needn&#x27;t worry about that.&quot;</p>
 <p>I stared at him. &quot;More than Arumanfi?&quot;</p>
 <p>Orsted snorted. &quot;Perugius&#x27;s spirits don&#x27;t even begin to compare.&quot;</p>
-<p>It was hard to believe what he was saying when Leo had yet to prove himself, but this was the Dragon God speaking. Surely, I could trust what he was saying. Honestly, I had no way of knowing either way.</p>
+<p>It was hard to believe what he was saying when Leo had yet to prove himself, but this was <em>the</em> Dragon God speaking. Surely, I could trust what he was saying. Honestly, I had no way of knowing either way.</p>
 <p>&quot;I digress,&quot; said Orsted. &quot;You are likely right about the Man-God having a puppet in the kingdom.&quot;</p>
 <p>I nodded. &quot;Then the key to victory will be sniffing this person out, I assume?&quot;</p>
 <p>&quot;Indeed. I know nothing of his third apostle, assuming he even has one. It could be that this person is operating separately and is unrelated to the Asuran throne. Keep your guard up.&quot;</p>
-<p>In order to achieve victory against the Man-God, we had to identify his three puppets, defeat them, and accomplish our own objectives in the process. We would probably have to repeat this</p>
+<p>In order to achieve victory against the Man-God, we had to identify his three puppets, defeat them, <em>and</em> accomplish our own objectives in the process. We would probably have to repeat this</p>
 <p>process again and again. Our current goal was getting Ariel on the throne. Although it wasn&#x27;t confirmed, Luke was most likely one of his lackeys. The identities of the other two remained a mystery.</p>
 <p>&quot;Is there anyone you know with absolute certainty is not on his side?&quot;</p>
 <p>I asked this knowing I was asking for the impossible. It didn&#x27;t really matter who the Man-God&#x27;s puppets were; our objectives wouldn&#x27;t change. Still, if he assumed control over Zanoba or Cliff and Orsted tasked me with killing them, I wouldn&#x27;t know what to do. I&#x27;d be devastated.</p>
 <p>&quot;Your family is safe from his influence. In addition to the bracelet you wear, they are also under the Guardian Beast&#x27;s protection.&quot;</p>
 <p>&quot;And what about Cliff and Zanoba?&quot;</p>
 <p>After a pause, he said, &quot;They could be possible targets. Be careful around them.&quot;</p>
-<p>Seriously? That was not the answer I wanted to hear.</p>
+<p><em>Seriously? That was not the answer I wanted to hear.</em></p>
 <p>&quot;Is there anything we can do to make sure they don&#x27;t fall into his grasp?&quot; I asked.</p>
 <p>Orsted shook his head. &quot;No. If you find it necessary, you could warn them against heeding the words of someone who calls themselves the Man-God. Though I doubt it would do you any good.&quot;</p>
-<p>No good, huh? Well, that puts me in a pickle.</p>
+<p><em>No good, huh? Well, that puts me in a pickle.</em></p>
 <p>It was a problem of chance. The Man-God didn&#x27;t attach himself to anyone and everyone. All I could do was pray—to a different god—that Zanoba and Cliff wouldn&#x27;t become one of his targets.</p>
 <p>&quot;For the moment,&quot; I said, changing the subject, &quot;I should work on getting Perugius&#x27;s support to help Ariel on the path to kingship, right? That plan hasn&#x27;t changed?&quot;</p>
 <p>&quot;Correct. Though you should remain wary of the Man-God&#x27;s apostle. If he starts proposing something, inform me immediately.&quot;</p>
@@ -114,19 +114,19 @@ nav_title = "Chapter 4"
 <p>&quot;Ah, yes. How very like Perugius to ask such a question.&quot;</p>
 <p>&quot;Do you…happen to know the answer?&quot; I asked.</p>
 <p>Orsted glared at me.</p>
-<p>Eep! You don&#x27;t have to give me the evil eye. I get it. This is a hurdle she needs to overcome if she wants to be king, right?</p>
+<p><em>Eep! You don&#x27;t have to give me the evil eye. I get it. This is a hurdle she needs to overcome if she wants to be king, right?</em></p>
 <p>&quot;I have no idea,&quot; he said. &quot;However, the only person Perugius ever supported for the throne was Gaunis Freean Asura. If you research him, you should be able to find a clue to lead you in the right direction.&quot;</p>
-<p>Wait, so you don&#x27;t know either? Well, I guess you gave me a hint at least.</p>
+<p><em>Wait, so you don&#x27;t know either? Well, I guess you gave me a hint at least.</em></p>
 <p>&quot;All right. Then I shall be off to see it done.&quot; It was the trump card I would use to get in contact with Ariel.</p>
-<p>Before I left, Orsted lent me one of his magical items. I say lend because he called it a gift, but I thought of it as equipment for work. It was a robe, and conveniently gray, even though I had no part in its creation. It was a little darker than the one I had been wearing.</p>
+<p>Before I left, Orsted lent me one of his magical items. I say <em>lend</em> because he called it a gift, but I thought of it as equipment for work. It was a robe, and conveniently gray, even though I had no part in its creation. It was a little darker than the one I had been wearing.</p>
 <p>&quot;That robe was worn by the great sage Titiana a millennium ago,&quot; said Orsted. &quot;It&#x27;s made from a Death Adder Rat&#x27;s skin, woven with magically imbued thread. It has high magic resistance and is stab-proof. It likely became a magical item after being left in a labyrinth for an extended period, where it developed the ability to reduce the wearer&#x27;s weight by half, meaning one can move like the wind if needed. Since you cannot use Battle Aura, it should prove useful.&quot;</p>
 <p>If his words were to be believed, it was quite the incredible item.</p>
 <p>&quot;So…&quot; I licked my lips. &quot;What kind of price would something like this fetch?&quot;</p>
 <p>&quot;I took this from the Dragonfolk&#x27;s Repository in the past few days since we last met. It would net you a decent amount if you sold it, but I am giving it to you so that you can protect yourself. Wear it.&quot;</p>
-<p>Oof. He read me like a book.</p>
+<p><em>Oof. He read me like a book.</em></p>
 <p>I wondered what the Dragonfolk&#x27;s Repository was. Did they have a bunch of items like this stored in there? They probably did. I could just picture it—boots that could open any treasure chest they kicked, a trumpet that could uncover hidden rooms…</p>
 <p>At any rate, this robe would increase my combat proficiency. It was certainly a huge step down from my Magic Armor, but I could bridge that gap with my own knowledge and courage.</p>
-<p>Wait, but I have neither of those things. Oh, well, guess I&#x27;ll just have to try my best anyway.</p>
+<p><em>Wait, but I have neither of those things. Oh, well, guess I&#x27;ll just have to try my best anyway.</em></p>
 <p>That night, I summoned Sylphie to my room. If I was going to help Ariel, I needed to speak with my wife first. Sylphie must have sensed it was a serious matter because when she showed up, she was in her normal clothes rather than pajamas. That was fine with me, considering the topic I was about to broach.</p>
 <p>&quot;Well, Rudy, what is it you wanted to talk about?&quot; Sylphie asked, her expression guarded.</p>
 <p>I could hardly blame her for being wary. The last few times I formally called her here, it had been to relay what she must have thought was crazy talk.</p>
@@ -145,11 +145,11 @@ nav_title = "Chapter 4"
 <p>This was merely groundwork. It was hard to explain, but making Ariel king now would allow him to reap the benefits in another hundred years. Orsted had an overall picture of how the future was supposed to play out. I had no idea how he would eventually make use of Ariel or if he would even utilize her at all. What I did know, based on what I&#x27;d read in my future self&#x27;s journal, was that Ariel becoming king would inconvenience the Man-God. Thus, we would place her on the throne. Sure, part of this was to get under the Man-God&#x27;s skin, but it was also a basic tenet of war not to let your opponent have their way.</p>
 <p>The whole plan meant far more to Orsted than me. In fact, it meant almost nothing to me. As far as I was concerned, the minuses outweighed the pluses. If I helped Ariel assume the throne, everyone would label me as one of her supporters, and that meant getting pulled into the sticky, corrupt mess that was aristocratic politics. Personally, getting a foot in the kingdom&#x27;s door wasn&#x27;t worth getting wrapped up in that.</p>
 <p>No, my desire to help Ariel was purely personal. She had been there for me a lot, and it was time to repay her for that. Perhaps it was better not to think of pros and cons but instead look at it in simpler terms. Ariel would be overjoyed if she became king. Sylphie would be overjoyed if her close friend managed to achieve her goal. And if we managed to stop the Man-God from having his way, Orsted would be satisfied. I stood to benefit too; Sylphie&#x27;s love for me would deepen, and Orsted would be convinced of my usefulness.</p>
-<p>Yeah, that&#x27;s the best way to think of it.</p>
+<p><em>Yeah, that&#x27;s the best way to think of it.</em></p>
 <p>&quot;Well, Orsted&#x27;s future demands aside, at this point, I think Princess Ariel only stands to benefit,&quot; I said.</p>
 <p>&quot;Hmm…&quot; Sylphie put a hand to her chin. &quot;Well, yes, I guess you&#x27;re right. There are many unsavory characters in Asura Kingdom, and if we think of it as pitting villains against villains, it&#x27;s not a bad move.&quot;</p>
 <p>Yikes. Sylphie wasn&#x27;t pulling any punches. I wondered what she really thought of Orsted. I could admit he looked like a bad guy, but did he look even more menacing and untrustworthy than I thought? Did he seem like the type of person who might kill someone upon first meeting them?</p>
-<p>Okay, I can&#x27;t really argue that last one.</p>
+<p><em>Okay, I can&#x27;t really argue that last one.</em></p>
 <p>&quot;Princess Ariel should be the one to decide if we should accept his aid or not,&quot; she said, narrowing her eyes. &quot;Personally, I want a guarantee that he won&#x27;t betray us.&quot;</p>
 <p>&quot;A guarantee?&quot;</p>
 <p>&quot;Yes. Why do you seem so sure he won&#x27;t stab us in the back?&quot;</p>
@@ -187,7 +187,7 @@ nav_title = "Chapter 4"
 <p>&quot;In that case, I&#x27;ll keep my guard up,&quot; Sylphie said.</p>
 <p>&quot;Especially at night.&quot;</p>
 <p>Sylphie giggled. &quot;The only person in this town who would try to go after me at night is you, Rudy.&quot;</p>
-<p>Hahaha, well, she&#x27;s got me there. Maybe I should do just that tonight.</p>
+<p><em>Hahaha, well, she&#x27;s got me there. Maybe I should do just that tonight.</em></p>
 <p>In any case, at least we managed to work out a plan for me to meet Ariel.</p>
 <p>&quot;So, Rudy…&quot;</p>
 <p>I thought the conversation was over, but Sylphie continued. &quot;If you&#x27;re going to help Her Highness, that means you&#x27;ll be going to Asura Kingdom as well, right?&quot;</p>

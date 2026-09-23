@@ -25,10 +25,10 @@ nav_title = "Chapter 2"
 <p>Right. While we&#x27;re in transit, let&#x27;s reacquaint ourselves with my other two companions, shall we?</p>
 <p>First, there&#x27;s Chandle von Grandour, captain of the Golden Knights of Asura. He used to be a traveling mercenary. After spending a long time in the conflict zone, he went to Asura for Ariel&#x27;s coronation. Enchanted by her voice and her beauty, he tried all kinds of tactics to become her servant until at last she took notice of him, and he got a chance to give her his elevator pitch. That was how he obtained his current position. It sounded like he was just good at sucking up to authority, but Ariel wouldn&#x27;t appoint a knight captain whose only talent was flattery. Something else must have caught her eye.</p>
 <p>When I asked her for more information about him, she replied that he was upstanding and trustworthy, but didn&#x27;t tell me anything about his true</p>
-<p>identity. I could practically hear her laughing at me: What, you don&#x27;t know? Tee-hee, then I&#x27;m not telling!</p>
+<p>identity. I could practically hear her laughing at me: <em>What, you don&#x27;t know? Tee-hee, then I&#x27;m not telling!</em></p>
 <p>For now, his claim of being Ariel&#x27;s knight wasn&#x27;t fraudulent. That was good enough for me.</p>
 <p>For a Golden Knight, his armor sure was dull. It looked sort of like gold in the right light, so maybe it just needed a polish? It was more yellow than golden. How about &quot;The Yellow Knights&quot;? That sounded impressive. Like Yellow 14 or something.</p>
-<p>&quot;But was there an order of Golden Knights in Asura?&quot;</p>
+<p>&quot;But <em>was</em> there an order of Golden Knights in Asura?&quot;</p>
 <p>I remembered white and black knights, but I didn&#x27;t remember gold.</p>
 <p>&quot;The order was created after Her Majesty&#x27;s coronation,&quot; Chandle explained. &quot;Our official duty is to serve as Queen Ariel&#x27;s bodyguards, but we go anywhere and undertake any task Her Majesty gives us. We use the forbidden teleportation circles when we must.&quot;</p>
 <p>Basically, they were Ariel&#x27;s minions.</p>
@@ -37,7 +37,7 @@ nav_title = "Chapter 2"
 <p>So Ariel had set them up for us. She had a strong sense of duty. A little frightening! What would she demand from me down the track? It&#x27;d be fine so long as Orsted handled it, but still…</p>
 <p>&quot;We&#x27;re a newly established order and don&#x27;t have many members yet, but we&#x27;re elite. I might not look it, but I&#x27;ve dabbled in North God Style,&quot; Chandle said, smiling.</p>
 <p>&quot;In that case, I&#x27;d have thought that you&#x27;d carry a sword,&quot; I said.</p>
-<p>&quot;I thought this would be more effective.&quot; He twirled his golden metal staff. It looked a bit like an iron pipe. A staff fighter, then. Sword fighting was unusually advanced in this world. I think it was the influence of the Superd clan that made martial weapons with reach less popular. I&#x27;d never seen a staff fighter in this world until now. If he could handle North God Style, he&#x27;d be able to fight anything. There were even warriors a bit like ninja amongst the North God&#x27;s followers—they weren&#x27;t sword fighters either.</p>
+<p>&quot;I thought <em>this</em> would be more effective.&quot; He twirled his golden metal staff. It looked a bit like an iron pipe. A staff fighter, then. Sword fighting was unusually advanced in this world. I think it was the influence of the Superd clan that made martial weapons with reach less popular. I&#x27;d never seen a staff fighter in this world until now. If he could handle North God Style, he&#x27;d be able to fight anything. There were even warriors a bit like ninja amongst the North God&#x27;s followers—they weren&#x27;t sword fighters either.</p>
 <p>&quot;A longer weapon gives you a great reach, huh?&quot; I said.</p>
 <p>&quot;Right. Absolutely. Sword God Style fighters attack from impossible distances, and Water God Style fighters parry attacks from any distance. That&#x27;s what makes them strong. Why get hung up on swords? You might as well start off with a long-reaching weapon.&quot;</p>
 <p>A simple argument. In the world of my old life, that idea had gone unchallenged. Weapon ranges had extended further and further. This world wasn&#x27;t like that, though. If people started buying it, then the sword fighters who made up the majority of the warrior class would lose their respect. The strength of a sword fighter was that, in a world where healing magic could repair wounds instantly and was wielded by the difficult-to-kill creatures who roamed the wilds, they could cut down an enemy in a single blow.</p>
@@ -47,12 +47,12 @@ nav_title = "Chapter 2"
 <p>Dohga didn&#x27;t have a surname. He was from the Donati region of the Asura Kingdom. He&#x27;d started off as a soldier in the Asuran army, guarding the gates of the capital city. Chandle, by then appointed as captain of the Golden Knights, had seen his potential and recruited him.</p>
 <p>&quot;You&#x27;re in charge of recruitment, then,&quot; I said.</p>
 <p>&quot;Making the Golden Knights into the perfect knight order is all part of my job as captain. I&#x27;m still looking for strong, capable new members to welcome into our ranks.&quot;</p>
-<p>Part of the job, huh? I remembered the Blessed Child&#x27;s personal guard. Their captain, Therese, had been the weakest of them too. I guessed there was no requirement that the leader of an organization be the strongest. A talent for leadership was more important.</p>
+<p><em>Part of the job, huh?</em> I remembered the Blessed Child&#x27;s personal guard. Their captain, Therese, had been the weakest of them too. I guessed there was no requirement that the leader of an organization be the strongest. A talent for leadership was more important.</p>
 <p>&quot;But considering you&#x27;re called the Golden Knights, Dohga&#x27;s armor isn&#x27;t very golden.&quot;</p>
 <p>&quot;Hahaha! Well, what do you expect? What kind of idiots would wear such obvious armor outside of official ceremonies?&quot;</p>
 <p>&quot;Both of you stood out in the Asuran Palace.&quot;</p>
 <p>&quot;Going to Her Majesty&#x27;s chambers is an appropriate occasion for that kind of finery. The Royal Knights are part of the queen&#x27;s symbolic authority. If she had some chump in drab armor guarding her chambers, it&#x27;d be scandalous. People would whisper that all the pomp and splendor of the Asura Kingdom is just surface level, that behind closed doors we&#x27;re just some thugs in rags. Shady characters. It&#x27;s imperative that the monarch be surrounded by glamor.&quot;</p>
-<p>Quite right. I&#x27;d been remiss in always showing up to see the queen in question in shabby robes. Except…what was I supposed to do? Her Majesty might look dazzling, but behind closed doors, she was consorting with shady characters—the rogues&#x27; gallery of the Orsted Corporation.</p>
+<p>Quite right. I&#x27;d been remiss in always showing up to see the queen in question in shabby robes. Except…what was I supposed to do? Her Majesty might look dazzling, but behind closed doors, she <em>was</em> consorting with shady characters—the rogues&#x27; gallery of the Orsted Corporation.</p>
 <p>&quot;I&#x27;d better wear my best when I go to see her next, so no one thinks I&#x27;m shady,&quot; I said.</p>
 <p>&quot;Oh, no, if you showed up in formalwear we&#x27;d wonder who died. Outside of official occasions, you should feel free to show up looking like a mess.&quot;</p>
 <p>&quot;What&#x27;s that supposed to mean?&quot; I retorted, but Chandle only laughed at me. I&#x27;ll admit he didn&#x27;t seem like a bad guy, but being a disciple of the Man-God didn&#x27;t have anything to do with good or bad. Orsted and Ariel might say he was all right, but I was going to keep an eye on him.</p>
@@ -79,8 +79,8 @@ nav_title = "Chapter 2"
 <p>***</p>
 <p>At first glance, the Second City of Irelil looked like any other city. It was surrounded by a wall, with merchant stalls lined up around its entrance. This world&#x27;s favorite layout. I suppose it was notable that there were more wooden buildings here than in the Magic City of Sharia. The wooden structures, with their sharply angled roofs, were built to leave gaps between each building in case of fire. It made sense for a country surrounded by forests to be awash in timber.</p>
 <p>We left the cart at a stable and walked along the street that led to our lodgings. I noticed that there weren&#x27;t as many merchant stalls as I&#x27;d expected. Maybe there weren&#x27;t enough customers to draw merchants. That would be the most logical explanation, but there were plenty of adventurers around to sell to. We&#x27;d passed plenty of armored warriors and robed magicians. The number of merchant stalls didn&#x27;t match the number of adventurers. Was there a reason for that, or was it just ordinary deviation?</p>
-<p>&quot;Oops…&quot; I&#x27;d been looking around me as I walked and almost crashed into another passerby. &quot;Whoa…&quot; The guy was big. Close to three meters tall. Even bundled up in my armor, I had to look up at him. If this world had half-giants, I&#x27;d bet they looked exactly like this.</p>
-<p>His skin was a reddish brown, and his hair was reddish black. He was heavily muscled, and his arms, legs, and neck were thick as tree trunks. Of particular note was his head. It was enormous. His unusually large lower jaw jutted out, with two fangs protruding up from it. Two horns sprouted up from his messy hair. This must be an ogre.</p>
+<p>&quot;Oops…&quot; I&#x27;d been looking around me as I walked and almost crashed into another passerby. &quot;Whoa…&quot; The guy was <em>big</em>. Close to three meters tall. Even bundled up in my armor, I had to look up at him. If this world had half-giants, I&#x27;d bet they looked exactly like this.</p>
+<p>His skin was a reddish brown, and his hair was reddish black. He was heavily muscled, and his arms, legs, and neck were thick as tree trunks. Of particular note was his head. It was enormous. His unusually large lower jaw jutted out, with two fangs protruding up from it. Two horns sprouted up from his messy hair. <em>This must be an ogre.</em></p>
 <p>&quot;Watch yerself,&quot; the ogre said as we almost collided. He continued on his way with barely a glance. He was carrying a massive load on his back, but it looked light compared with the bulk of its bearer. I&#x27;d never seen an ogre up close before. Formidable guys.</p>
 <p>Here in the Biheiril Kingdom, ogres were free to roam as they pleased. The people of the kingdom didn&#x27;t seem to find it unusual. People treating another race as accepted countrymen wasn&#x27;t something I&#x27;d seen much in other places.</p>
 <p>&quot;Cray, don&#x27;t stare so much. You&#x27;re not some hick.&quot;</p>
@@ -93,7 +93,7 @@ nav_title = "Chapter 2"
 <p>&quot;Yeah.&quot;</p>
 <p>&quot;…Uh-huh.&quot;</p>
 <p>Dohga was the same as he&#x27;d been in the cart, but Chandle was in full role-play mode, as we&#x27;d discussed. Having Chandle act as leader also helped to conceal my presence.</p>
-<p>Okay. I&#x27;m his sidekick, Cray. Occupation: soldier.</p>
+<p><em>Okay. I&#x27;m his sidekick, Cray. Occupation: soldier.</em></p>
 <p>&quot;A drink to our arrival, Chandle? Once lodging&#x27;s sorted, what do you say we head to the tavern and cut loose?&quot;</p>
 <p>&quot;Ha! Just when I think you&#x27;re a real good-for-nothing, you come up with some damn fine ideas. You could learn from him, Dohga.&quot;</p>
 <p>&quot;…Uh-huh.&quot;</p>
@@ -138,14 +138,14 @@ nav_title = "Chapter 2"
 <p>&quot;Just old wives&#x27; tales to scare children. As you can guess from the name, there are Earth Dragons living in the Earthwyrm Ravine. If some dumb adventurers went into the forest and messed with their dens, we could end up with a whole flock of angry, vicious Earth Dragons razing the country… I reckon that&#x27;s why it&#x27;s forbidden.&quot; The man frowned, seeming to remember something. &quot;I say that, but not so long ago—well, it was about a year ago now, but there were rumors that devils emerged from the Forest of No Return.&quot;</p>
 <p>&quot;Oh?&quot;</p>
 <p>&quot;The chief of this town formed a survey team and sent them into the forest. Only, they didn&#x27;t come back. Not even after the survey was supposed to have ended. There were all kinds of rumors. Some said the invisible devils got &#x27;em, others said they&#x27;d stumbled into the Earth Dragon&#x27;s nest. Others said no way, they&#x27;d just been eaten by ordinary monsters. It turned out they weren&#x27;t all dead. Right when the Chief gave up the first survey team for dead and sent in another team, one of them turned up out of the blue.&quot; Here, the man leaned forward and fixed me with a deadly serious expression.</p>
-<p>Dude, this feels like a horror story, I thought. What&#x27;re you looking at me for? Look at Chandle.</p>
+<p><em>Dude, this feels like a horror story,</em> I thought. <em>What&#x27;re you looking at me for? Look at Chandle.</em></p>
 <p>&quot;He was out of his mind, poor chump. He must have seen something that really scared him. The chief asked what had happened, but he only stared into space, muttering &#x27;The devils, the devils…&#x27; They say the chief was so frightened, he gave up on sending any more survey teams. He announced that the survey team was eaten by Earth Dragons and put a gag order on the whole business, so we&#x27;re forbidden from speaking about it… The truth&#x27;s shrouded in darkness to this day, shelved as an unsolved mystery. That was…about six months back.&quot;</p>
 <p>Our breath hitched in our chests as the man continued with his tale. &quot;Well, if only it had ended there. Recently, the story reached the ears of the king. His Majesty was outraged. &#x27;There&#x27;s a village nearby!&#x27; he cried. &#x27;How can you abandon them without finding out what happened?&#x27; He said he&#x27;d send a hunting party. Even as we speak, they&#x27;re assembling folks who know how to fight in the capital.&quot; The man looked up. &quot;And it&#x27;s no secret why. There&#x27;s a special reward of ten Biheiril gold pieces for whoever uncovers the truth about the devils and kills them. Sounds like there might be a job in there for you, doesn&#x27;t it?&quot;</p>
 <p>Okay, invisible devils. That wasn&#x27;t quite the same as what I&#x27;d heard about the Ruijerd sighting… Maybe the truth was something like this: first, Ruijerd had gone to the village for some reason, and they&#x27;d labeled him as a devil. Someone started saying &quot;A devil appeared near the Forest of No Return,&quot; and that got mixed up with the rumor that invisible devils lived in the Forest of No Return and turned into &quot;Invisible devils came out of the Forest of No Return.&quot; As the rumor picked up embellishments along the way, the original information had gotten twisted. Luckily, the Mercenary Band&#x27;s information network had gotten the story before it got jumbled. It probably helped that they&#x27;d been on the lookout for something specific.</p>
 <p>Of course, it could also have happened in the opposite order. Something like &quot;An invisible devil really appeared.&quot; &quot;Devils? That sounds like the Superd Clan.&quot; &quot;Now that you mention it, the guy who appeared had green hair.&quot;</p>
 <p>Actually, never mind. That wouldn&#x27;t explain the part about him buying medicine. I mean, there wasn&#x27;t any rhyme or reason to how rumors garbled information. Anyway, medicine hadn&#x27;t figured in this stranger&#x27;s story. Could Ruijerd really have wiped out a whole survey team without arousing suspicions, though? Why would he do such a thing? Was there something in the forest he didn&#x27;t want people to see or know about?</p>
 <p>&quot;That so…&quot; Chandle said thoughtfully. &quot;A fine story. Right, Cray? Don&#x27;t you think?&quot;</p>
-<p>&quot;Yeah, devils, huh…? That is interesting. I like the sound of ten gold pieces too.&quot; I answered vaguely, my head full of other things. I needed to go to that forest. With all this information coming out, I couldn&#x27;t believe Ruijerd wasn&#x27;t involved. &quot;You said whoever kills the devils gets the reward,</p>
+<p>&quot;Yeah, devils, huh…? That <em>is</em> interesting. I like the sound of ten gold pieces too.&quot; I answered vaguely, my head full of other things. I needed to go to that forest. With all this information coming out, I couldn&#x27;t believe Ruijerd wasn&#x27;t involved. &quot;You said whoever kills the devils gets the reward,</p>
 <p>so that means whoever gets in first wins, right? Everyone&#x27;ll be going for it in parties, but we&#x27;re not adventurers. We&#x27;ll want support if we go for it.&quot;</p>
 <p>&quot;Good point.&quot; Chandle gave me a conspiratorial look. &quot;Maybe he can find us someone… All right, my well-informed friend. Here&#x27;s the fee for your next job.&quot; He put another stack of copper coins in front of the man. &quot;Find us a thief. I want someone with a lot of adventuring skills: the more skilled at digging up information, the better. Doesn&#x27;t matter if they&#x27;re not much of a fighter; we&#x27;ve got that covered. The pay… Let&#x27;s see. Ah, screw it. If you find someone, send them our way and we&#x27;ll hash out the details.&quot;</p>
 <p>&quot;You on a deadline?&quot;</p>
@@ -153,12 +153,12 @@ nav_title = "Chapter 2"
 <p>&quot;A month away.&quot;</p>
 <p>&quot;All right, let&#x27;s say ten days from now, in this tavern. That work for you?&quot;</p>
 <p>&quot;You&#x27;ve got yourself a deal.&quot; The man took the coins and quickly emptied them into his pocket. Then he rose abruptly and a moment later he was gone, melted away into the crowded tavern.</p>
-<p>Not bad, Chandle.</p>
+<p><em>Not bad, Chandle.</em></p>
 <p>We&#x27;d learned about the forest and got a lead on hunting for Geese. Okay, we didn&#x27;t get to ask about the North God, but it hadn&#x27;t fit naturally into the conversation. I&#x27;d like to learn how to do that myself a bit more.</p>
 <p>&quot;You&#x27;re good at this,&quot; I told him.</p>
 <p>&quot;My wife has a talent for this sort of negotiation. I picked it up naturally by watching her.&quot;</p>
 <p>A married man. I really had to make sure I got him home safe, then.</p>
-<p>Crap, stay in character.</p>
+<p><em>Crap, stay in character</em>.</p>
 <p>I cleared my throat. &quot;So, what now?&quot;</p>
 <p>&quot;We have to wait for him to come back, but I don&#x27;t just want to sit around for ten days… Shall we go on a little excursion? Oy, Dohga, anywhere you want to go?&quot;</p>
 <p>&quot;Well, then. Shall we do a little scouting and stop off at the village to the south?&quot; Chandle suggested. We acted like we were deciding here and now, but we&#x27;d already decided to go to the village to the south. We had ten days. The village was only a day or so away. Tomorrow morning I&#x27;d set up a teleportation circle and a contact tablet, then we&#x27;d head to the village. Tomorrow or the next day, we&#x27;d go into the forest, then spend five or six days searching. After that, we&#x27;d come back, meet our informant, and hear what he had on Geese. Then we&#x27;d report back the results of our investigation via the tablet.</p>
@@ -172,10 +172,10 @@ nav_title = "Chapter 2"
 <p>&quot;Whoa!&quot;</p>
 <p>The people around us turned to look as Dohga coughed, face down on the table. Frantically, I put a hand on his back and murmured a detoxification spell. Dogha only stared at the ground, a string of drool dangling from his mouth.</p>
 <p>&quot;Hey, hang in there!&quot;</p>
-<p>Shit, what did they make him drink?! Poison?! I knew it, I felt something off, I knew there was something wrong! Even if I&#x27;m still not totally sure what it is…! Will the detoxification work? Stay calm, the first thing you do in these situations is to stay calm. First, I need to know what kind of poison he drank…</p>
+<p><em>Shit, what did they make him drink?! Poison?! I knew it, I felt something off, I knew there was something wrong! Even if I&#x27;m still not totally sure what it is…! Will the detoxification work? Stay calm, the first</em> <em>thing you do in these situations is to stay calm. First, I need to know what kind of poison he drank…</em></p>
 <p>&quot;What the hell did you give him?!&quot; Chandle demanded, rounding on the server.</p>
 <p>&quot;I&#x27;m so sorry!&quot; she gasped.</p>
-<p>Forcing myself to stay cool, I reached for Dohga&#x27;s cup and—Huh? Don&#x27;t I know that smell?</p>
+<p>Forcing myself to stay cool, I reached for Dohga&#x27;s cup and—<em>Huh? Don&#x27;t I know that smell?</em></p>
 <p>&quot;Your friend is a human? From his size, I just assumed he was an ogre. I&#x27;m very sorry.&quot;</p>
 <p>&quot;Just tell me what the hell you gave him!&quot;</p>
 <p>I dipped a finger into the liquid, then licked it. Oh yeah, I knew that flavor all right.</p>
@@ -185,6 +185,6 @@ nav_title = "Chapter 2"
 <p>&quot;Damnit! Dohga! Hey, Dohga! Can you hear me?&quot;</p>
 <p>Chandle was worked up, but I had fully regained my composure. Now I thought about it, this was the smell that had been hanging about the tavern since we came in. It was probably in the fish stew, too. This was what felt off. I knew what the drink was. It was true, it was poisonous if you drank too much, but Dohga had only had a mouthful, and he&#x27;d spat most of it out. He might not feel great afterward, but there wouldn&#x27;t be any lasting consequences.</p>
 <p>I dipped my finger into the liquid and licked it off again.</p>
-<p>Yep. That&#x27;s it, for sure. I&#x27;d know it anywhere.</p>
-<p>This is soy sauce.</p>
+<p><em>Yep</em>. <em>That&#x27;s it, for sure. I&#x27;d know it anywhere.</em></p>
+<p><em>This is soy sauce.</em></p>
 <p><strong>Chapter 3: A Sought-After Person</strong></p>

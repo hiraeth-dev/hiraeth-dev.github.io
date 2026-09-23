@@ -38,7 +38,7 @@ nav_title = "Chapter 11"
 <p>I just figured that we might be able to come up with something as a group that Nanahoshi hadn&#x27;t been able to on her own. In fact, it was precisely because we were all experts in such different fields that we might be able to come up with an alternative approach.</p>
 <p>&quot;Anyway, please look at this section. This is apparently where the circle disconnected. See?&quot; I pointed to the tear in the paper that appeared during the experiment.</p>
 <p>&quot;Huh? Oh. This is where it&#x27;s disconnected? I didn&#x27;t even notice. This circle is incomplete then, huh? Umm, so the part that should connect to it is…here?&quot;</p>
-<p>Cliff was surprised. Despite being a self-proclaimed genius, he apparently hadn&#x27;t noticed that right away. Well, that&#x27;s just how things go, I thought. &quot;Do you have any ideas for how to connect this circuit?&quot;</p>
+<p>Cliff was surprised. Despite being a self-proclaimed genius, he apparently hadn&#x27;t noticed that right away. <em>Well, that&#x27;s just how things go,</em> I thought. &quot;Do you have any ideas for how to connect this circuit?&quot;</p>
 <p>Cliff folded his arms and fell into thought. He started mumbling &quot;here&quot; and &quot;there&quot; to himself. He produced a memo pad from his breast pocket and started scribbling down various things. &quot;This is a challenging problem. Maybe if you redrew the whole—no, but then… It&#x27;s impossible.&quot;</p>
 <p>&quot;Wouldn&#x27;t it work if you used a multi-level structure?&quot; Zanoba interjected.</p>
 <p>Cliff looked doubtful. &quot;A multi-level structure? What are you talking about?&quot;</p>
@@ -52,14 +52,14 @@ nav_title = "Chapter 11"
 <p>&quot;I don&#x27;t know all the details yet myself, but, according to the book, this circle apparently controls the movement of the elbow.&quot; Zanoba answered Cliff&#x27;s question so casually that the latter looked as if he might burst into tears.</p>
 <p>Elinalise rushed over immediately and pulled his head into her breasts, stroking his hair. &quot;There, there, you&#x27;re a genius yourself, Cliff. You would be just as knowledgable had you researched the matter yourself.&quot;</p>
 <p>&quot;I-I know that!&quot; His face went red as he regained his composure.</p>
-<p>Perfect, Elinalise. I knew I could count on you. But can you save the bedroom stuff for later? We&#x27;re kind of busy right now.</p>
+<p><em>Perfect, Elinalise. I knew I could count on you. But can you save the bedroom stuff for later? We&#x27;re kind of busy right now</em>.</p>
 <p>&quot;Master Cliff. If we used the same technique that was used for the doll, do you think it would solve Silent&#x27;s problem with her circle?&quot;</p>
 <p>&quot;No clue. But it&#x27;s worth a shot.&quot;</p>
 <p>It was a lead, at least. Nanahoshi had only ever drawn her circles on a single flat surface. Perhaps she&#x27;d never thought about layering them or folding them. Then again, maybe there was a reason she hadn&#x27;t tried that yet. I prayed it was the former, and that it would be enough to motivate her once again.</p>
 <p>***</p>
 <p>The next day I took Nanahoshi with me to her research room. I&#x27;d spent the previous day putting the unkempt room in order, and it was in those premises, clean and yet still disorganized somehow, that Zanoba and Cliff awaited us. The two of them were looking through the research data that Nanahoshi had collected over the years.</p>
 <p>Seeing them, Nanahoshi just snorted derisively. &quot;What&#x27;s this? Did you bring me here so you could all ravish me?&quot;</p>
-<p>Really? Just how far down the path of self-destruction had she gone? All because she&#x27;d failed once? Well, I guess it did only take a single big failure to disrupt a person&#x27;s entire life.</p>
+<p>Really? Just how far down the path of self-destruction had she gone? All because she&#x27;d failed once? Well, I guess it <em>did</em> only take a single big failure to disrupt a person&#x27;s entire life.</p>
 <p>&quot;How dare you?! I&#x27;m a devout follower of Millis!&quot; Cliff was indignant. The Millis faith&#x27;s tenets regarding chastity were similar to those of Christianity&#x27;s. Monogamy, no adultery, etc. etc. Very austere.</p>
 <p>&quot;If you say so.&quot; Nanahoshi just drifted unstably and took a seat. Then she slumped back in her chair.</p>
 <p>&quot;Master Cliff, Zanoba, let&#x27;s just talk about what we came up with yesterday.&quot;</p>
@@ -67,7 +67,7 @@ nav_title = "Chapter 11"
 <p>Then our gazes met. It wasn&#x27;t that she was disinterested. She was just expressionless, concentrating.</p>
 <p>&quot;Ah.&quot; Nanahoshi suddenly spoke. &quot;It might work,&quot; she mumbled. Then she leaped out of her seat. &quot;So that&#x27;s it, that&#x27;s what it is. There was no reason for me to get so caught up in drawing on a flat surface. That makes sense, of course. Putting it on paper will provide depth. If I layer those papers, I can make as big of a magic circle as I want. Why couldn&#x27;t I think of such a simple thing so much sooner?!&quot;</p>
 <p>Nanahoshi anxiously paced around the room three or four times. She took pen and paper from her desk and began to draw. She would write something that looked like a formula, quickly erase it, then start again. &quot;Urgh, no! This isn&#x27;t it!&quot;</p>
-<p>&quot;Hey, isn&#x27;t this what you mean?&quot; There went Cliff, blissfully unaware, inserting his head into the cage of the bear that was Nanahoshi. He&#x27;d produced a red pen out of nowhere and annotated her memo. That&#x27;s our Cliff, I thought sarcastically. The air in the room changed for the better and he, of course, still can&#x27;t read it.</p>
+<p>&quot;Hey, isn&#x27;t this what you mean?&quot; There went Cliff, blissfully unaware, inserting his head into the cage of the bear that was Nanahoshi. He&#x27;d produced a red pen out of nowhere and annotated her memo. <em>That&#x27;s our Cliff,</em> I thought sarcastically. <em>The air in the room changed for the better and he, of course, still can&#x27;t read it.</em></p>
 <p>&quot;Oh, so that&#x27;s it. You&#x27;re pretty clever,&quot; she commended.</p>
 <p>&quot;Of course I am. I&#x27;m a genius.&quot;</p>
 <p>&quot;Then how about this? What should I do here? I&#x27;ve been unsure about this part for a while.&quot;</p>
@@ -114,7 +114,7 @@ nav_title = "Chapter 11"
 <p>The pub we selected was one of Badigadi&#x27;s favorites. Despite the early afternoon hour, there were other patrons present. Nanahoshi didn&#x27;t pay that any mind, however. She went to the counter and slammed down her bagful of gold. &quot;Reserve the whole place for us,&quot; she said.</p>
 <p>&quot;Huh? Are you serious?&quot;</p>
 <p>Seeing the barkeep looking flustered, Badigadi cut in. &quot;Hold on there.&quot; He took out a bag of gold from his own pocket and slammed it down. Now there was twice the amount. &quot;It&#x27;s a day of celebration! Let all those who come this day enjoy their alcohol free of charge!&quot; he declared. The man sure had a dignified presence about him. Just as one would expect of a king.</p>
-<p>He&#x27;s my idol! I want to be him! I thought inwardly, mimicking the lines of a certain pair that idolized an infamous, immortal blond vampire from a popular manga series.</p>
+<p><em>He&#x27;s my idol! I want to be him!</em> I thought inwardly, mimicking the lines of a certain pair that idolized an infamous, immortal blond vampire from a popular manga series.</p>
 <p>Acting as if it were the most natural thing in the world, Badigadi planted himself at the biggest table in the pub. There he demanded, &quot;Bring all the food you have on your menu!&quot;</p>
 <p>Once in my life, I wanted to try using that line myself. Since I wasn&#x27;t the one paying, I was fine with him ordering whatever he wanted, but were the twelve of us really going to be able to eat all that food? Ah well. I was sure it&#x27;d be fine.</p>
 <p>When the first of the food was delivered, the Demon King stood and said, &quot;Now then, what are we celebrating today?&quot;</p>
@@ -125,7 +125,7 @@ nav_title = "Chapter 11"
 <p>&quot;Cheers!&quot;</p>
 <p>And thus the celebration began, not unlike that of the wedding celebration we&#x27;d had not so long ago.</p>
 <p>***</p>
-<p>It was an enjoyable party. When good things happened, people made merry and drank. I&#x27;d never participated in a gathering like this in my previous life, not even once. Even in this world, I&#x27;d only done it a couple of times. When I was an adventurer, I did occasionally drink alongside the parties I worked with, but I always had a sense of cynicism about it. I thought only fools got drunk, noisy and wild. I would tut inwardly at their lack of consideration for those around them. But now that I was in the fray myself, I finally understood how those people felt. Sometimes, I thought, you just needed to let loose and have fun.</p>
+<p>It was an enjoyable party. When good things happened, people made merry and drank. I&#x27;d never participated in a gathering like this in my previous life, not even once. Even in this world, I&#x27;d only done it a couple of times. When I was an adventurer, I did occasionally drink alongside the parties I worked with, but I always had a sense of cynicism about it. I thought only fools got drunk, noisy and wild. I would tut inwardly at their lack of consideration for those around them. But now that I was in the fray myself, I finally understood how those people felt. <em>Sometimes,</em> I thought, <em>you just needed to let loose and have fun.</em></p>
 <p>My belief in that felt especially justified as I looked at Nanahoshi, who was stroking Linia&#x27;s ears as she sang anime theme songs in Japanese. If you didn&#x27;t occasionally cut loose and forget your troubles, you wouldn&#x27;t be able to go on. Life was full of pain, after all. If you didn&#x27;t try to find the good where you could, you&#x27;d crumble. Elinalise and Badigadi probably knew that better than any of us, given how long they&#x27;d lived.</p>
 <p>Sylphie and I were going to drink to our hearts&#x27; content today. We never drank at home; it just wasn&#x27;t something either of us was used to. And—although it had nothing to do with why we didn&#x27;t drink at home—I finally understood just how bad a drunk Sylphie really was.</p>
 <p>No, it wasn&#x27;t that she was bad. She wasn&#x27;t bad at all. She was just the clingy type of drunk.</p>
@@ -135,7 +135,7 @@ nav_title = "Chapter 11"
 <p>&quot;Don&#x27;t mind if I do.&quot;</p>
 <p>&quot;Ha ha, that tickles.&quot;</p>
 <p>When drunk, she turned into an unbelievably adorable creature. It was phenomenal. I was going to have to approach her about drinking more often. Ah, but her behavior made me worry about her drinking by herself. Maybe I should tell her not to drink outside our house, but then I wondered if that would be too controlling of me.</p>
-<p>No, that doesn&#x27;t matter, I decided. She was mine. What was wrong with doing whatever I wanted to something that belonged to me?</p>
+<p><em>No, that doesn&#x27;t matter,</em> I decided. She was mine. What was wrong with doing whatever I wanted to something that belonged to me?</p>
 <p>&quot;Rudy, hug me?&quot;</p>
 <p>&quot;Yes, yes, I&#x27;m going to hug your hips tight.&quot;</p>
 <p>&quot;Hee hee. I&#x27;m so happy.&quot; The way she laughed sounded so naughty somehow. Ahh, just thinking about going home with her and making love to her made me feel like I understood why the world was so full of love songs.</p>
@@ -145,7 +145,7 @@ nav_title = "Chapter 11"
 <p>&quot;Yeah, but I just really look up to him. Please try not to let it get to you.&quot;</p>
 <p>&quot;I don&#x27;t like it. I only want you to only pay attention to me!&quot;</p>
 <p>That wasn&#x27;t what she&#x27;d said when I told her about Ruijerd. This must be how she really felt. I always thought it was scary how she seemed to accept everything with such perfect equanimity, but maybe it only seemed that way because she worked hard to make it so.</p>
-<p>Just as I pulled Sylphie onto my lap and the two of us started to fool around, Nanahoshi came over. She was drunk and trying to pick a fight. &quot;So sweet I could puke. Knock it off already. Do you even know how many years I&#x27;ve been without my boyfriend?&quot;</p>
+<p>Just as I pulled Sylphie onto my lap and the two of us started to fool around, Nanahoshi came over. She was drunk and trying to pick a fight. &quot;So sweet I could puke. Knock it off already. Do you even know how many years I&#x27;ve been without <em>my</em> boyfriend?&quot;</p>
 <p>Was she already done singing? I&#x27;d be happy to sing a duet with her. As long as she picked a fairly mainstream song, I would probably be familiar with it. Then again, it might be that generational gap all over again.</p>
 <p>&quot;At least go somewhere people won&#x27;t have to look at you if you&#x27;re going to make out.&quot;</p>
 <p>&quot;C&#x27;mon, don&#x27;t be like that. They&#x27;ve got alcohol here. Let&#x27;s have some fun together.&quot;</p>
@@ -158,7 +158,7 @@ nav_title = "Chapter 11"
 <p>&quot;I was just leading into what I really wanted to say!&quot; Nanahoshi barked in protest.</p>
 <p>She probably wanted to express her gratitude. Still, I only did what anyone would do for a friend in trouble. She didn&#x27;t need to thank me. Besides, she had to have quite the social status to warrant being kidnapped by a Demon King. It was almost as if she were the princess of some kingdom. That is, if said princess had been carried off to a pub instead of a cell. And there was always a stage in a pub.</p>
 <p>After a bit, Nanahoshi began singing. An accompaniment joined in belatedly. At first, I thought maybe a troubadour was here, but it turned out to be Badigadi holding the instrument. I didn&#x27;t know he could play. Also, he&#x27;d asked her to sing for him and yet he was performing alongside her? I definitely didn&#x27;t understand him.</p>
-<p>All that aside, it was a familiar song. I couldn&#x27;t quite place where it came from…ah, that&#x27;s what it was. &quot;Gandhara,&quot; the ending theme to the TV series Monkey. That definitely wasn&#x27;t something I&#x27;d expect her generation to know. Then again, it was pretty famous, though.</p>
+<p>All that aside, it was a familiar song. I couldn&#x27;t quite place where it came from…ah, that&#x27;s what it was. &quot;Gandhara,&quot; the ending theme to the TV series <em>Monkey</em>. That definitely wasn&#x27;t something I&#x27;d expect her generation to know. Then again, it was pretty famous, though.</p>
 <p>That said, she sucked. Badly. Horribly. Maybe it was because she wasn&#x27;t syncing with the accompaniment. Nah, they both sucked and that was why they couldn&#x27;t even sync up with one another.</p>
 <p>Still, they seemed to be enjoying themselves. Besides, Nanahoshi was the star of our group today. It was fine if she was terrible. Even though her song was awful, it still conveyed her feelings.</p>
 <p>Did she really want to go home that badly? That was something I couldn&#x27;t understand. My country of love was right here.</p>

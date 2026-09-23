@@ -43,12 +43,12 @@ nav_title = "Side Story"
 <p>&quot;You may refer to me as Auber, the Peacock Blade,&quot; he said. &quot;I see that you are a student of the Sword God Style. Might I request that you guide me to meet with the Sword God—&quot;</p>
 <p>&quot;I told you to move.&quot; Irritated, Eris took another step forward.</p>
 <p>She was telling him to get out of her way. However, those words didn&#x27;t register with the man called Auber. The only thing that did was Eris&#x27; murderous intent. That and the realization that talking was pointless. With that, Auber—with one sword in his right hand reached for the shorter sword at his waist with his left. However, he wielded his weapon in reverse, brandishing the flat side of the blade at her.</p>
-<p>At striking distance, Eris decided she would remove the obstacle in her path by force. Shkt! Her blade whizzed through the air. She was using Sword of Light, an ability honed through all of her practice. A normal opponent had no hope of countering the Sword God Style&#x27;s most lethal technique.</p>
+<p>At striking distance, Eris decided she would remove the obstacle in her path by force. <em>Shkt!</em> Her blade whizzed through the air. She was using Sword of Light, an ability honed through all of her practice. A normal opponent had no hope of countering the Sword God Style&#x27;s most lethal technique.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-10/insert-07.webp" alt="Illustration" loading="lazy" />
 </div>
 <p>&quot;Hmph!&quot;</p>
-<p>That was only if they were a normal opponent, however. Auber gripped both swords in his hands and used them to brush off the attack. Eris had perceptively anticipated his reaction and was now swinging her blade back in the opposite direction.</p>
+<p>That was only <em>if</em> they were a normal opponent, however. Auber gripped both swords in his hands and used them to brush off the attack. Eris had perceptively anticipated his reaction and was now swinging her blade back in the opposite direction.</p>
 <p>&quot;Ah…!&quot;</p>
 <p>Eris&#x27; sword was stopped by the one in Auber&#x27;s left hand. She was using two hands to wield hers, where he was using only one, but he easily deflected her attack. Her blade slid off to the side, merely clipping the edge of his hair. Eris&#x27; body followed the momentum of her blade, causing her to stumble on her pivoting foot. At that exact second, Auber&#x27;s right hand flew toward her exposed neck.</p>
 <p>&quot;Tch!&quot; Eris discarded her sword and dropped to the ground in a crouch. Auber&#x27;s weapon plowed through the empty space where she&#x27;d just been. Eris moved like a cat, flipping herself back over. She was trying to retrieve her sword.</p>
@@ -83,7 +83,7 @@ nav_title = "Side Story"
 <p>&quot;…&quot;</p>
 <p>&quot;You used to be like a starved tiger, but now you&#x27;re like a kitten that&#x27;s lost its fangs. If you&#x27;d have stayed the way you were, you&#x27;d be a Sword Emperor by now.&quot;</p>
 <p>Ghislaine swallowed hard at his words. She did feel she&#x27;d gotten weaker recently, though she didn&#x27;t think it was all bad. It was true that her growth with the sword had stagnated. Still, she&#x27;d gained important things in exchange: intelligence and wisdom. Things she wouldn&#x27;t have been able to get from mastering the sword.</p>
-<p>&quot;I&#x27;m not going to let Eris lose her fangs too.&quot; Gall put his sword away as if to say, Now you understand, don&#x27;t you?</p>
+<p>&quot;I&#x27;m not going to let Eris lose her fangs too.&quot; Gall put his sword away as if to say, <em>Now you understand, don&#x27;t you</em>?</p>
 <p>Ghislaine sulked as she responded, &quot;I don&#x27;t understand. Why won&#x27;t you have her train?&quot;</p>
 <p>The Sword God heaved a sigh, recalling that Ghislaine was the kind of child who needed thorough explanations to understand. &quot;Listen. If someone wants to get better than me, they gotta be able to figure stuff out for themselves. That was how I got to where I am, after all. Of course, they&#x27;ll need the requisite amount of talent and hard work to deserve the title &#x27;Sword God,&#x27; but let&#x27;s leave that aside. Eris&#x27; objective is the Dragon God Orsted. His existence defies logic. He&#x27;s a monster beyond imagination. She cannot beat him with my teachings alone.&quot;</p>
 <p>The man had a nostalgic look on his face as he finished speaking. He had actually fought the Dragon God himself, back before he was</p>
@@ -91,7 +91,7 @@ nav_title = "Side Story"
 <p>Having had his ego beat out of him, he&#x27;d made surpassing Orsted his goal, and had trained to that effect ever since. That was how he became the Sword God. That was also exactly why he didn&#x27;t want anyone else butting their head into this matter.</p>
 <p>&quot;Hey, Ghislaine, doing drills isn&#x27;t the same thing as training, you know? Especially if you have something you&#x27;re aiming for. There&#x27;s no point in acting like an obedient dog and doing whatever someone else tells you. You get it?&quot;</p>
 <p>&quot;Master, you always say such complicated things. I don&#x27;t understand.&quot;</p>
-<p>&quot;Hah.&quot; He snorted in laughter at her response. That&#x27;s right, this idiot won&#x27;t understand if I don&#x27;t explain it all clearly. &quot;In other words, it means just learning from me won&#x27;t do her any good. That&#x27;s why I&#x27;ve prepared a bunch of stuff for her, beginning with him.&quot;</p>
+<p>&quot;Hah.&quot; He snorted in laughter at her response. <em>That&#x27;s right</em>, <em>this idiot won&#x27;t understand if I don&#x27;t explain it all clearly</em>. &quot;In other words, it means just learning from me won&#x27;t do her any good. That&#x27;s why I&#x27;ve prepared a bunch of stuff for her, beginning with him.&quot;</p>
 <p>The Sword God gestured at Auber, who in turn dipped his chin in greeting. &quot;I am North Emperor Auber Corbett. On the streets, they refer to me as the Peacock Blade.&quot;</p>
 <p>Ghislaine screwed up her face. There was an indescribable stench wafting off of the man. It wasn&#x27;t body odor, but something powerfully citrus-y. Most likely cologne. An unpleasant scent for beastfolk like Ghislaine. &quot;And what is someone from the North God Style doing here?&quot;</p>
 <p>&quot;Responding to the Sword God&#x27;s request that I instruct one of his pupils.&quot;</p>

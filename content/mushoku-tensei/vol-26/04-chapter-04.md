@@ -14,11 +14,11 @@ nav_title = "Chapter 4"
 <p>&quot;Yeah, no problem.&quot; I was working alongside them to rebuild the Superd Village. I cleared trees with magic. Then, I used earth magic to build foundations for houses and a road from the village to the Earthwyrm Ravine. There was lots to be done.</p>
 <p>I&#x27;m sure you&#x27;re burning to know why Aisha and the Ruquag Mercenary Band were wandering around here, and why, when Alec showed up, no one was to be found except Orsted.</p>
 <p>I guess I&#x27;d better explain.</p>
-<p>It&#x27;s a short story: it was all Aisha&#x27;s scheme. Okay, well, scheme sounds like she was getting up to mischief, so let&#x27;s call it work—it was all Aisha&#x27;s work. When the teleportation circles and communication tablets stopped working, she and the mercenary company had been thrown into chaos. With their lines of contact with far-off nations cut off, unease, then panic set in. Not for Aisha, though. She stayed calm and coolly assessed the situation. They were close to the border. If the fighting had already begun, they wouldn&#x27;t get there in time, and there wouldn&#x27;t be much they could do. She concluded that, as there was a strong possibility that Geese might flee the scene, they would work on getting the teleportation circles running again—in other words, restoring infrastructure.</p>
-<p>The trouble was that in addition to the teleportation circles, all the magic circles back at the office that corresponded to the spare magic circles she had on her had been destroyed. There was nothing she could do. I&#x27;d have given up there, in her shoes. I mean, I did give up. But see, Aisha had a brainwave. Her genius brain remembered that a certain individual had a secret technique. This technique allowed one to draw a new magic circle corresponding to a teleportation circle whose pair had been destroyed, and thereby travel to where you wanted to go.</p>
+<p>It&#x27;s a short story: it was all Aisha&#x27;s scheme. Okay, well, <em>scheme</em> sounds like she was getting up to mischief, so let&#x27;s call it <em>work</em>—it was all Aisha&#x27;s work. When the teleportation circles and communication tablets stopped working, she and the mercenary company had been thrown into chaos. With their lines of contact with far-off nations cut off, unease, then panic set in. Not for Aisha, though. She stayed calm and coolly assessed the situation. They were close to the border. If the fighting had already begun, they wouldn&#x27;t get there in time, and there wouldn&#x27;t be much they could do. She concluded that, as there was a strong possibility that Geese might flee the scene, they would work on getting the teleportation circles running again—in other words, restoring infrastructure.</p>
+<p>The trouble was that in addition to the teleportation circles, all the magic circles back at the office that corresponded to the spare magic circles she had on her had been destroyed. There was nothing she could do. I&#x27;d have given up there, in her shoes. I mean, I <em>did</em> give up. But see, Aisha had a brainwave. Her genius brain remembered that a certain individual had a secret technique. This technique allowed one to draw a new magic circle corresponding to a teleportation circle whose pair had been destroyed, and thereby travel to where you wanted to go.</p>
 <p>The individual in question…c&#x27;mon, you know the answer. It was none other than Armored Dragon King Perugius Dola.</p>
 <p>To request his aid, Aisha had hunted down a monument to the Seven Great Powers that stood near the border. When she found it, she used Perugius&#x27;s flute to travel to the floating fortress. Perugius, knowing that we wanted to help demons, was reluctant, but something about Aisha convinced him.</p>
-<p>&quot;I&#x27;ll link up one for you,&quot; he said.</p>
+<p>&quot;I&#x27;ll link up <em>one</em> for you,&quot; he said.</p>
 <p>Aisha chose to link the magic circle near the border with the teleportation circle that led to the Superd Village.</p>
 <p>And so, here we were.</p>
 <p>&quot;I&#x27;m impressed you got Lord Perugius to agree.&quot;</p>
@@ -90,7 +90,7 @@ nav_title = "Chapter 4"
 <p>I really had received a lot help this time. Take Cliff: without him, the Superd might have been wiped out by the plague. Without Sandor and Dohga, I wouldn&#x27;t be standing here. Atofe&#x27;s timing had been utterly godly. First the Atofe Hand, then that perfectly timed attack on Ogre Island. You could say I owed my life to her as well.</p>
 <p>Leaving her missing felt so ungrateful that, once things had settled down, I wanted to go out to sea and search for her.</p>
 <p>The fight ended, and everyone went home. It was an empty feeling, like when a big event wraps up and everyone drifts away from it.</p>
-<p>&quot;All right.&quot; I&#x27;d finished clearing the trees during my musing. Before me spread a pristine stretch of land. After pulling the trees out by their roots, I&#x27;d piled them up neatly using earth magic. A job well done, if I do say so myself.</p>
+<p>&quot;All right.&quot; I&#x27;d finished clearing the trees during my musing. Before me spread a pristine stretch of land. After pulling the trees out by their roots, I&#x27;d piled them up neatly using earth magic. <em>A job well done, if I do say so myself.</em></p>
 <p>&quot;Cool, so now Aisha will… Oh?&quot; I turned around just as Ruijerd and Norn came walking up.</p>
 <p>&quot;There you are, Big Brother.&quot;</p>
 <p>&quot;Norn! Perfect timing. Could I get you to go and tell Aisha that I&#x27;m done clearing the trees?&quot;</p>
@@ -109,7 +109,7 @@ nav_title = "Chapter 4"
 <p>&quot;You could become one right now if you wanted. One punch from you, Ruijerd, and I&#x27;m down. One punch.&quot;</p>
 <p>&quot;Don&#x27;t joke.&quot;</p>
 <p>&quot;Still, it&#x27;s a fact that I didn&#x27;t get here through my own strength alone.&quot;</p>
-<p>&quot;Perhaps that is your strength.&quot;</p>
+<p>&quot;Perhaps that <em>is</em> your strength.&quot;</p>
 <p>&quot;Maybe so.&quot;</p>
 <p>After watching me for a little while, Ruijerd smiled. He took the pendant that hung around his neck and held it out to me. It was Roxy&#x27;s pendant.</p>
 <p>&quot;It&#x27;s time for me to return this.&quot;</p>
@@ -137,7 +137,7 @@ nav_title = "Chapter 4"
 <p>Orsted apparently trusted Alec, for he didn&#x27;t say anything about letting him stay close. I, meanwhile, had the feeling Alec was going to knife me in the back one day. Put plainly, he scared me. Even knowing that he wasn&#x27;t the sharpest tool in the box, scary&#x27;s still scary.</p>
 <p>&quot;So, uh, if you ever find yourself thinking, &#x27;Gee, I really want to be in the Seven Great Powers again,&#x27; let me know? I&#x27;ll give it back any time.&quot;</p>
 <p>&quot;Oh! About that, once I believe I&#x27;ve gained sufficient experience, I will ask you again.&quot;</p>
-<p>&quot;You will ask me, right? Sneak attacks from behind are against the rules.&quot;</p>
+<p>&quot;You will <em>ask</em> me, right? Sneak attacks from behind are against the rules.&quot;</p>
 <p>&quot;It may be that I challenge the Sword God and not you, Master Rudeus. Though rest assured that if I do challenge you, I shall do it with honor!&quot;</p>
 <p>&quot;And no sharp edges, okay? I don&#x27;t want to fight to the death.&quot;</p>
 <p>&quot;Understood!&quot;</p>
@@ -172,7 +172,7 @@ nav_title = "Chapter 4"
 <p>Oh. Him.</p>
 <p>&quot;I&#x27;ll accompany you,&quot; I said.</p>
 <p>***</p>
-<p>That night, Orsted and I went to the Ravine of the Earthwyrm—to the bottom of the ravine. We went down the level path surrounded by blue mushrooms and lichen, to a little hole carved so it was concealed in the wall. It was about a meter tall; due to its slight curvature, it looked from the outside like it ran straight into a dead end. If you followed it ten meters or so down, it let out into a large cavern. In the cavern was a vast, glowing magic circle with a sword at its center. Maybe vast was overstating it. It was five meters in radius at most. Within it lay a reclining man.</p>
+<p>That night, Orsted and I went to the Ravine of the Earthwyrm—to the bottom of the ravine. We went down the level path surrounded by blue mushrooms and lichen, to a little hole carved so it was concealed in the wall. It was about a meter tall; due to its slight curvature, it looked from the outside like it ran straight into a dead end. If you followed it ten meters or so down, it let out into a large cavern. In the cavern was a vast, glowing magic circle with a sword at its center. Maybe <em>vast</em> was overstating it. It was five meters in radius at most. Within it lay a reclining man.</p>
 <p>&quot;So, you have come.&quot;</p>
 <p>It was Fighting God Badigadi. His body had been split into five pieces, each of which was sealed in a different location in the ravine. His main body was here. This barrier couldn&#x27;t be broken unless the other four seals were broken first. It operated using the mana from Badigadi&#x27;s own</p>
 <p>body and was amplified—and therefore, sustained—by the King Dragon Blade and the Fighting God Armor. It would go on operating almost in perpetuity. It was a custom-made barrier magic circle, a Perugius specialty. It was Divine-tier barrier magic, created to seal the Demon God. The sealed subject served as the medium and the magical implements as vectors, and the more powerful each were, the stronger the barrier became. This one used both the Fighting God Armor and the King Dragon Blade, meaning the barrier it generated was so powerful that even Orsted would be helpless to escape it. Using two Divine-tier pieces of equipment as one part of a barrier might have been overdoing it a tad. But that equipment was far more formidable in the hands of our enemies than used by us. Given that just the other day our enemies had used our teleportation circles against us, this wasn&#x27;t out of proportion to the threat. As long as the seal on Badigadi remained intact, it effectively rendered the Magic Armor and King Dragon Blade sealed as well.</p>
@@ -184,7 +184,7 @@ nav_title = "Chapter 4"
 <p>&quot;I am cramped,&quot; Badigadi said pompously as he lay there like a reclining Buddha. &quot;I should like a little more freedom of movement.&quot;</p>
 <p>I had my own relationship with jail cells, but I think even I would have found the sealed barrier cramped. Having said that, I hated the idea of killing him. Kishirika had also asked us not to.</p>
 <p>&quot;I really am sorry, but this is as much as I can do.&quot;</p>
-<p>&quot;Humph. Then so it must be!&quot; Badigadi said, adding a little fwahaha of laughter.</p>
+<p>&quot;Humph. Then so it must be!&quot; Badigadi said, adding a little <em>fwahaha</em> of laughter.</p>
 <p>He had two arms, and his body was smaller than it had been before. That was the result of the seal.</p>
 <p>&quot;Now! What brings you here, pray tell? I assume you have not come to drink and make merry while basking in my sultry allure?&quot;</p>
 <p>&quot;Sir Orsted has something to speak with you about,&quot; I said, then stepped aside for Orsted.</p>
@@ -199,7 +199,7 @@ nav_title = "Chapter 4"
 <p>&quot;Alec, do not misunderstand. That is not a rule across all of immortal demonkind. It is an Atofe rule.&quot;</p>
 <p>&quot;&quot;Have you pledged your loyalty to the Man-God then, Great-Uncle?&quot;</p>
 <p>&quot;I have not.&quot; Badigadi sat up and shook his head. Then he folded his only pair of arms and crossed his legs. &quot;I was not one for fighting, originally. What I liked was to travel, to drink and be merry, seducing passing women, bedding them, on occasion. Taking a beating from a jilted fiancé, making friends and drinking, laughing, and singing, then looking around at the worn-out faces, sleeping and satisfied. The Man-God came to me, head bowed, and asked me to fight, and so I did. That is all it was. &#x27;I want you to kill Dragon God Orsted and Rudeus Greyrat, no matter what,&#x27; he said. &#x27;Who do you have to thank that you and Kishirika are alive in the same era?&#x27; he said. And he asked me to remember four thousand two hundred years back and repay the debt I owed him. As a result, I agreed to help him this one time.&quot; He paused for a moment. &quot;That one time has passed. Now, I ally myself to no one! If my choice is to fight or to be sealed in this place, then I choose to remain sealed.&quot;</p>
-<p>That made me think that maybe we could let him go. Though he was still a disciple of the Man-God, so we couldn&#x27;t just blindly let him loose after nothing more than a bout of smooth talk.</p>
+<p>That made me think that maybe we could let him go. Though he <em>was</em> still a disciple of the Man-God, so we couldn&#x27;t just blindly let him loose after nothing more than a bout of smooth talk.</p>
 <p>&quot;Either way,&quot; Badigadi went on, grinning at me as I pondered, &quot;You&#x27;ll release me when your fight against the Man-God concludes, will you not?&quot;</p>
 <p>&quot;Yes,&quot; Orsted said. I looked at him, and that&#x27;s when I realized.</p>
 <p>It wouldn&#x27;t happen during my lifetime, but if Orsted won his battle with the Man-God, there&#x27;d be no need to keep Badigadi chained up any longer.</p>
@@ -273,7 +273,7 @@ nav_title = "Chapter 4"
 <p>My name was Rudeus Greyrat, son of Paul Greyrat, which meant treachery from below my belt was part of my DNA. I&#x27;d put Rudeus Jr. through a long period of hardship and endurance. That was what had enabled me to do my best. As the first Rudeus, it was my duty to see he was repaid. He&#x27;d fulfilled his side of the contract.</p>
 <p>Before the sun had risen, I got out of bed, went downstairs, and headed for the front door. There, I found Leo and Eris.</p>
 <p>&quot;Rudeus! You&#x27;re up early today.&quot;</p>
-<p>&quot;Morning, Eris. Where is everyone?&quot;</p>
+<p>&quot;Morning, Eris. Where <em>is</em> everyone?&quot;</p>
 <p>&quot;All safe.&quot;</p>
 <p>&quot;Not that. I mean what are they doing?&quot;</p>
 <p>Eris thought for a moment. &quot;Lilia and Sylphie are making breakfast, and Roxy and the children and your mother are still asleep. I just finished training, so I was about to go for a run.&quot;</p>
@@ -282,14 +282,14 @@ nav_title = "Chapter 4"
 <p>&quot;R-right! Okay!&quot; The way she said &quot;okay&quot; sounded like she&#x27;d guessed exactly what I had in mind. Maybe it showed on my face.</p>
 <p>She was right on the money.</p>
 <p>&quot;Sorry, Leo, but no walk for now.&quot;</p>
-<p>&quot;Ruff.&quot; Leo looked a bit disappointed, but he gave my hand a little lick, then went back into the house.</p>
+<p><em>&quot;Ruff.&quot;</em> Leo looked a bit disappointed, but he gave my hand a little lick, then went back into the house.</p>
 <p>I followed him inside, still holding Eris&#x27;s hand, and headed for the kitchen. Lilia and Sylphie stood beside each other cooking.</p>
 <p>&quot;Sylphie,&quot; I said.</p>
 <p>&quot;Oh, good morning, Rudy. You&#x27;re up early.&quot;</p>
 <p>&quot;Good morning, Master.&quot; Both women smiled at me like they always did. I turned to Sylphie then, with a smile so natural I surprised myself, said, &quot;Sylphie, let&#x27;s take today off.&quot;</p>
 <p>&quot;What? I don&#x27;t mind, but when you say &#x27;day off&#x27;…&quot; She looked at me quizzically. But Lilia seemed to catch on right away.</p>
 <p>&quot;Very well. I&#x27;ll finish up breakfast, Miss Sylphie.&quot;</p>
-<p>&quot;Oh…&quot; Sylphie said, her face going red. &quot;That&#x27;s what you mean.&quot; She smiled shyly, then took the hand Eris wasn&#x27;t holding. Maybe it was because she&#x27;d wet her hands while cooking, but her fingers were a little cold.</p>
+<p>&quot;Oh…&quot; Sylphie said, her face going red. &quot;<em>That&#x27;s</em> what you mean.&quot; She smiled shyly, then took the hand Eris wasn&#x27;t holding. Maybe it was because she&#x27;d wet her hands while cooking, but her fingers were a little cold.</p>
 <p>&quot;When you said it, Rudy, the look on your face was so normal that I didn&#x27;t realize. Did you see it straight away, Eris?&quot;</p>
 <p>&quot;I just sort of knew!&quot;</p>
 <p>As the other two chatted, I turned to Lilia. &quot;Lilia, please watch the children until lunchtime. Oh, and let&#x27;s all go out to eat tonight.&quot;</p>

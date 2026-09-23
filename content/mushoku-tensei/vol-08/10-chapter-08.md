@@ -25,7 +25,7 @@ nav_title = "Chapter 8"
 <p>It was then that I suddenly thought of something. I had two high school girls with animal ears bound before me, their clothes disheveled, completely unable to move. It was insanely stimulating. Perhaps it could cure my condition?</p>
 <p>I&#x27;d heard Asura&#x27;s noblemen were prone to perverted fetishes. It was possible that losing my virginity had awakened something similar in me. I certainly hadn&#x27;t had anything against this kind of thing in my previous life, though it wasn&#x27;t what I would&#x27;ve called a fetish, either.</p>
 <p>My mind made up, I decided to test it out. I wiggled my fingers as I reached toward the enormous mountain range on Pursena&#x27;s chest. She snapped her eyes tightly shut, a terrible look on her face, like she was being tortured. Like I was doing something horrifyingly cruel to her.</p>
-<p>You know, there are women out there in the world that do the same thing to mens&#x27; chests without showing any restraint, I thought.</p>
+<p><em>You know, there are women out there in the world that do the same thing to mens&#x27; chests without showing any restraint</em>, I thought.</p>
 <p>That aside, her breasts felt amazing in my hands. They really were huge, after all. But I only felt a faint sense of arousal. No cries of joy from my little man, no signs that he might be waking from his long slumber.</p>
 <p>When I released my hold on her, the arousal dimmed instantly and only that suffocating sense of loneliness remained. The same sensation I always felt. I guess this wasn&#x27;t going to do the trick, either.</p>
 <p>Pursena looked confused when I released her. She sniffed the air again and her expression turned to one of relief, before a conflicted look came over her face.</p>
@@ -57,7 +57,7 @@ nav_title = "Chapter 8"
 <p>&quot;Pursena&#x27;s the one who said, &#x27;You don&#x27;t need something like this, it&#x27;s creepy,&#x27; mew!&quot;</p>
 <p>&quot;But you&#x27;re the one who stepped on it!&quot;</p>
 <p>&quot;My foot slipped, mew. Besides, you also kicked it up in the air at the end, mew! And you giggled when you saw Zanoba searching for the fragments all the way into the night, mew!&quot;</p>
-<p>So he&#x27;d searched for the fragments all night—some of them, like the shattered ankle, were as small as the tip of my little finger. Zanoba, my pupil. My affection for him increased threefold. He was headed straight down my romance route. Way to go, Zanoba!</p>
+<p>So he&#x27;d searched for the fragments all night—some of them, like the shattered ankle, were as small as the tip of my little finger. <em>Zanoba, my pupil.</em> My affection for him increased threefold. He was headed straight down my romance route. Way to go, Zanoba!</p>
 <p>Anyway. Back to business.</p>
 <p>&quot;Shut up! You are both equally responsible.&quot; First, I put an end to their disgraceful attempts to throw each other under the bus. Then, I declared judgment. &quot;Heretics must be punished. That said, my religion is newly established, so I haven&#x27;t yet decided on the punishment in these cases. How would such a crime be punished in your village?&quot;</p>
 <p>&quot;I-If you do something weird to us, my father and grandfather will have your head, mew! They&#x27;re the two strongest warriors in the Great Forest, so… ah…&quot; Linia paused, seeming to remember that I knew Gyes and Gustav, too. This made me remember my punishment back in the Great Forest.</p>
@@ -79,10 +79,10 @@ nav_title = "Chapter 8"
 <p>&quot;If you want me to forgive you, put my figurine back together the way it was!&quot;</p>
 <p>R-o-x-y, R-o-x-y!</p>
 <p>&quot;That&#x27;s right! Even Master is incapable of restoring it to its former glory!&quot; Zanoba chastised them.</p>
-<p>But Zanoba, my pupil, that isn&#x27;t true…</p>
+<p><em>But Zanoba, my pupil, that isn&#x27;t true…</em></p>
 <p>The pieces were all there, and the most important part, the staff, was completely unharmed. My skills had also improved since I first created it. I could now make figures smoother, without any noticeable lines where the segments joined together.</p>
 <p>Wait.</p>
-<p>That&#x27;s right! I could fix it. It wasn&#x27;t as if it was beyond repair.</p>
+<p>That&#x27;s right! I <em>could</em> fix it. It wasn&#x27;t as if it was beyond repair.</p>
 <p>&quot;…&quot;</p>
 <p>As soon as I realized that, my anger quickly dissipated. They&#x27;d apologized, and were reflecting on their actions. Maybe I should forgive them? In fact, what I was doing right now was a crime. If word of this got out, I might be the one in hot water. Such as, for example, if a certain spear-wielding baldy were to happen upon this spectacle…</p>
 <p>No! That wasn&#x27;t the problem here! The issue was that these two had no compunction about destroying something that was precious to someone else. And if I were to show them kindness here, they&#x27;d surely just do the same thing again! I needed to drill this lesson into them so that they understood! Upon my name as a follower of Roxy!</p>
@@ -95,7 +95,7 @@ nav_title = "Chapter 8"
 <p>…now he wanted to start a war with the beastfolk? This was going a bit too far.</p>
 <p>&quot;That might be difficult, considering the family you mentioned is on the brink of destruction right now,&quot; I said.</p>
 <p>On that note, I wondered how the Boreas family was currently doing? I hadn&#x27;t heard much about them since I&#x27;d been in the Northern Territories. They were in a bad position. It seemed only a matter of time before the whole family was wiped out.</p>
-<p>&quot;Listen to me, Zanoba. Jokes aside, they are princesses. We need to choose something with a low impact, or we&#x27;ll suffer the consequences later.&quot;</p>
+<p>&quot;Listen to me, Zanoba. Jokes aside, they <em>are</em> princesses. We need to choose something with a low impact, or we&#x27;ll suffer the consequences later.&quot;</p>
 <p>&quot;You never cease to amaze me, Master. Even as angry as you are, you still have the mind to think of self-preservation.&quot;</p>
 <p>Hmm. What to do with them? I wouldn&#x27;t feel satisfied just releasing them as-is. In fact, it might be better to just keep them like this forever as a feast for the eyes. They weren&#x27;t really my type, but they were still beautiful women.</p>
 <p>No, no, no. I might have already gotten myself into trouble by kidnapping them in the first place. I couldn&#x27;t hold them here for long. I could restore the figurine, and they did seem to be reflecting on their actions.</p>
@@ -105,14 +105,14 @@ nav_title = "Chapter 8"
 <p>&quot;W-wait just a second. So they&#x27;re being held in your room right now?&quot;</p>
 <p>&quot;Yes, they are. Don&#x27;t be alarmed, though, I&#x27;ve already informed their teachers that they won&#x27;t be attending classes today.&quot;</p>
 <p>&quot;Um, so you&#x27;re saying you captured them and, uh, confined them, with Zanoba&#x27;s help?&quot;</p>
-<p>That sounded about right. I&#x27;d imprisoned two animal-eared beauties. It sounded like something I&#x27;d have put on my bucket list in my previous life. Granted, it would have been for what came after the confinement, but that was something I was unable to accomplish in my current state.</p>
+<p>That sounded about right. I&#x27;d imprisoned two animal-eared beauties. It sounded like something I&#x27;d have put on my bucket list in my previous life. Granted, it would have been for what came <em>after</em> the confinement, but that was something I was unable to accomplish in my current state.</p>
 <p>&quot;Rudeus, um, uh, since you imprisoned them, did you…?&quot; Master Fitz&#x27;s face was bright red as he looked at me, eyes filled with disapproval.</p>
 <p>Oh no, it seemed he&#x27;d misunderstood. &quot;No, no, I haven&#x27;t done anything perverted to them.&quot;</p>
 <p>&quot;R-really?&quot; Master Fitz asked.</p>
 <p>&quot;The worst I did was grope their chests,&quot; I assured.</p>
 <p>&quot;S-so you did touch their chests…!&quot;</p>
 <p>&quot;I wanted to test something.&quot;</p>
-<p>&quot;Huh..? So you didn&#x27;t touch them for other reasons?&quot;</p>
+<p>&quot;Huh..? So you didn&#x27;t touch them for <em>other</em> reasons?&quot;</p>
 <p>Other reasons? He was probably asking whether I&#x27;d touched them with sexual intent. I suppose you could say that I had, broadly speaking, but from my perspective, it was really an attempt to treat my condition. Just a single experiment. &quot;No, it wasn&#x27;t for other reasons.&quot;</p>
 <p>Master Fitz&#x27;s expression relaxed slightly. &quot;A-alright then. But there is one problem. Despite how they behave, they are still descendants of tribal leaders.&quot;</p>
 <p>&quot;Don&#x27;t worry. I&#x27;m acquainted with the Tribal Chief and Warrior Leader.&quot;</p>
@@ -121,7 +121,7 @@ nav_title = "Chapter 8"
 <p>&quot;J-just how did you get to know the Tribal Chief? The Doldia are so aloof toward other races… It&#x27;s exceedingly rare to ever meet someone like the Tribal Chief.&quot;</p>
 <p>I told Master Fitz the story of my time in the Great Forest. I realized as I talked about it that it was quite a pathetic episode for me. I&#x27;d tried to rescue children, only to be captured, then spent every day since my release playing with a dog and creating figurines.</p>
 <p>&quot;Wow, you really are amazing, Rudeus.&quot; It was a pitiful story, and yet, Master Fitz let out a breath of astonishment as I finished. What part was he impressed by? &quot;For the Sacred Beast to take such a liking to you… That&#x27;s amazing.&quot;</p>
-<p>Oh, that part. Now that I thought about it, why had the Sacred Beast come to see me all the time? Surely, it wasn&#x27;t just because it liked me.</p>
+<p>Oh, that part. Now that I thought about it, why <em>had</em> the Sacred Beast come to see me all the time? Surely, it wasn&#x27;t just because it liked me.</p>
 <p>&quot;I suppose even a mutt can tell when someone is their savior.&quot;</p>
 <p>&quot;You better not use that word in front of the beastfolk,&quot; Master Fitz warned.</p>
 <p>Of course not. I&#x27;d be furious if someone mocked Roxy in front of me by calling her a disgusting demon, after all. I knew some lines shouldn&#x27;t be crossed. &#x27;Mutt&#x27; was a term of endearment between the Sacred Beast and I, not a term of condescension.</p>
@@ -191,7 +191,7 @@ nav_title = "Chapter 8"
 <p>It would raise questions if the girls were seen walking down the halls, so they left through the window. We were on the second floor, but they were more than equal to the task of climbing down—or at least, I assumed so.</p>
 <p>Before they left, Linia turned to me as if she&#x27;d just thought of something. &quot;Boss, you were able to predict our movements, even though you&#x27;re just a magician. What kind of training did you do for that?&quot;</p>
 <p>&quot;Nothing special. I followed my master&#x27;s teachings and moved accordingly, that&#x27;s all.&quot;</p>
-<p>Most likely, it was proof that my training with Eris had been productive. I&#x27;d always thought of myself as weak. In contrast to how fast Eris grew, I felt like I wasn&#x27;t growing at all. But maybe it was just that we were growing at different speeds, and I had gotten stronger in my own right, after all.</p>
+<p>Most likely, it was proof that my training with Eris had been productive. I&#x27;d always thought of myself as weak. In contrast to how fast Eris grew, I felt like I wasn&#x27;t growing at all. But maybe it was just that we were growing at different speeds, and I <em>had</em> gotten stronger in my own right, after all.</p>
 <p>&quot;Uh, that&#x27;d be Ghislaine, I guess.&quot;</p>
 <p>&quot;Ghislaine? Do you mean Ghislaine of the Doldia tribe, mew? The Sword King Ghislaine?&quot;</p>
 <p>&quot;The very same.&quot; That was right—since Linia was Gyes&#x27;s daughter, that made Ghislaine her aunt.</p>
@@ -215,7 +215,7 @@ nav_title = "Chapter 8"
 <p>Master Fitz put the pillow down and settled upon on the bed. &quot;This is a good pillow.&quot;</p>
 <p>&quot;You&#x27;re the only one who&#x27;s ever said that.&quot; Admittedly, the only other person who&#x27;d tried it out was Elinalise, who said, &quot;I&#x27;d prefer a man&#x27;s arm over a pillow.&quot;</p>
 <p>Fitz kept his sunglasses on even as he lay on the bed. He must be particular about them. I wondered if eventually he&#x27;d let me see his face some day. Unless those sunglasses were just a part of him. I wondered…what would happen if I reached out and took them off?</p>
-<p>No—he&#x27;d said there was a reason he kept them on. Maybe he had a complex about his looks, for example. Let&#x27;s just forget about it, I thought. I didn&#x27;t want him to hate me.</p>
+<p>No—he&#x27;d said there was a reason he kept them on. Maybe he had a complex about his looks, for example. <em>Let&#x27;s just forget about it</em>, I thought. I didn&#x27;t want him to hate me.</p>
 <p>Silence fell between us for a while. Realizing that I was looking at him, Master Fitz lifted himself up. For some reason, I thought that his cheeks looked red, but it was probably just my imagination.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-08/insert-06.webp" alt="Illustration" loading="lazy" />
@@ -245,6 +245,6 @@ nav_title = "Chapter 8"
 <p>The next day, we showed Zanoba the graffiti we&#x27;d left on the two before erasing it. The expression on his face said that wasn&#x27;t enough to mollify him, but I chided, &quot;It&#x27;s not like you really helped out this time, did you?&quot; Then I applied some emergency repairs to the Roxy figurine, whereupon he immediately broke into a smile and forgave the girls.</p>
 <p>I also apologized to them for keeping them tied up for more than a day, but…</p>
 <p>&quot;It&#x27;s no big deal, mew! Nothing happened, mew, we just lost and he took us back to his room and drew on our faces, that&#x27;s all, mew!&quot;</p>
-<p>&quot;What she said. Nothing happened. Really, nothing. Brrrrr…&quot;</p>
+<p>&quot;What she said. Nothing happened. Really, nothing. <em>Brrrrr</em>…&quot;</p>
 <p>If that was the version of the story they wanted to tell, so be it. A happy ending for all.</p>
 <p><strong>Side Story: Sylphiette (Part 2)</strong></p>

@@ -12,29 +12,29 @@ nav_title = "Chapter 5"
 <p>Paul had two wives at this point, but that apparently hadn&#x27;t translated into twice the &quot;fun.&quot; Zenith and Lilia had had some secret discussions and worked out an agreement. As a general rule, Paul was expected to keep his hands off Lilia. The one exception would be if Zenith were to get pregnant for the third time, but in that case Paul would be required to get her approval beforehand.</p>
 <p>Zenith was still a bit conflicted about their arrangement, but I guess she&#x27;d mostly come to terms with it. That was certainly very convenient for my father. I was a little envious, to be honest.</p>
 <p>&quot;So, do you think I had a third little sister on the way?&quot;</p>
-<p>&quot;Nah. For some reason, it wasn&#x27;t happening for us… I dunno why. We made you on our first try.&quot;</p>
+<p>&quot;Nah. For some reason, it wasn&#x27;t happening for us… I dunno why. We made <em>you</em> on our first try.&quot;</p>
 <p>&quot;You took one shot at it and got yourself a son this perfect? What a lucky man you are, Father.&quot;</p>
 <p>&quot;You really think you&#x27;re funny, don&#x27;t you?&quot;</p>
 <p>This didn&#x27;t seem like the sort of conversation an eleven-year-old should be having with his father, but we were both enjoying it anyway.</p>
-<p>One thing we didn&#x27;t discuss was whether Zenith and Lilia were even still alive. It was the elephant in the room, but we both knew bringing it up would only put us in a miserable mood.</p>
+<p>One thing we <em>didn&#x27;t</em> discuss was whether Zenith and Lilia were even still alive. It was the elephant in the room, but we both knew bringing it up would only put us in a miserable mood.</p>
 <p>&quot;Was Sylphie managing all right without me?&quot;</p>
 <p>&quot;Oh yeah. That girl&#x27;s amazing, Rudy. I guess you&#x27;ve got some talent as a teacher.&quot;</p>
 <p>From the sound of things, Sylphie had been doing well. She spent her mornings running and practicing basic magical techniques, and in the afternoons, she usually worked on her healing spells with Zenith.</p>
 <p>Incidentally, little Aisha had also started getting lessons from Lilia after a few years, although those mostly covered stuff like etiquette rather than spellcasting.</p>
-<p>&quot;Anyway, that kid&#x27;s definitely…uh, I guess earnest is the word. She was always coming over to our place to do something or other in your room.&quot;</p>
+<p>&quot;Anyway, that kid&#x27;s definitely…uh, I guess <em>earnest</em> is the word. She was always coming over to our place to do something or other in your room.&quot;</p>
 <p>&quot;…Do you know if Sylphie happened to find anything in there?&quot;</p>
 <p>&quot;What? Was there something hidden away you didn&#x27;t want her seeing?&quot;</p>
 <p>&quot;No, no! Of course not. Don&#x27;t be ridiculous, Father.&quot;</p>
-<p>Ha ha. What a preposterous suggestion.</p>
+<p><em>Ha ha. What a preposterous suggestion.</em></p>
 <p>&quot;Well, it&#x27;s all gone now either way, I guess.&quot;</p>
 <p>From what Paul told me, virtually every object in the Fittoa Region had disappeared in the disaster. That included everything from small things like quill pens and ink bottles to large structures like buildings and bridges. The only exceptions were the items people had on their person in the moment they were teleported.</p>
 <p>&quot;Oh. I see…&quot;</p>
-<p>That was a pity. I couldn&#x27;t quite remember why it was a pity, but I felt a definite twinge of melancholy anyway.</p>
+<p>That was a pity. I couldn&#x27;t quite remember <em>why</em> it was a pity, but I felt a definite twinge of melancholy anyway.</p>
 <p>&quot;So what were you up to back then, Rudy?&quot;</p>
 <p>&quot;Oh, you mean in Roa?&quot;</p>
 <p>I obligingly launched into a quick summary of my time as a tutor.</p>
 <p>The story began with my first day on the job, when Eris punched me and I nearly gave up entirely, then moved on to our &quot;unfortunate&quot; kidnapping. I explained that Eris warmed up to me a bit after I got us out of that predicament, but still refused to take my lessons seriously.</p>
-<p>Next, I described how I&#x27;d gone crying to Ghislaine for help, and how she&#x27;d convinced the little lady to pay attention in class. And after that, I covered how my relationship with Eris had gradually improved, our dance lessons, and the events of my tenth birthday.</p>
+<p>Next, I described how I&#x27;d gone crying to Ghislaine for help, and how she&#x27;d convinced the little lady to pay attention in class. And after <em>that</em>, I covered how my relationship with Eris had gradually improved, our dance lessons, and the events of my tenth birthday.</p>
 <p>&quot;Ah, right. Your birthday. Sorry about that, kid…&quot;</p>
 <p>&quot;Why are you apologizing?&quot;</p>
 <p>&quot;Well, I couldn&#x27;t even be there, you know?&quot;</p>
@@ -47,12 +47,12 @@ nav_title = "Chapter 5"
 <p>&quot;Oh, didn&#x27;t they give you one other gift, Rudy? I heard all about it from Alphonse.&quot;</p>
 <p>&quot;Another gift?&quot; Hmm. Now what would that be? Wisdom, courage, and unlimited power? I felt like I was still a little lacking on all those fronts, though…</p>
 <p>&quot;C&#x27;mon, I&#x27;m talking about Philip&#x27;s daughter. Today was the first time I&#x27;d ever seen her, but she&#x27;s one cute kid. And so devoted, too! That was downright heartwarming, the way she protected you…&quot;</p>
-<p>Nobody really gave Eris to me, though.</p>
+<p>Nobody really <em>gave</em> Eris to me, though.</p>
 <p>I mean, Philip did say I had his permission to make a move, but I hadn&#x27;t actually done much of anything yet. I cared about Eris, and I didn&#x27;t want to rush things. Just yesterday, she&#x27;d been there for me when I needed her most. I&#x27;d never had anyone hug me and stroke my head until I fell asleep like that before. There was no way I&#x27;d ever betray her trust. She&#x27;d promised me that we could take the next step when I turn fifteen. But even then, I&#x27;d hold back if she wasn&#x27;t ready yet.</p>
-<p>Of course, I did have a slightly overactive sex drive, which might be even stronger in four years. There was a chance I wouldn&#x27;t be able to control myself…but, for the moment, I was planning to try.</p>
+<p>Of course, I did have a <em>slightly</em> overactive sex drive, which might be even stronger in four years. There was a chance I wouldn&#x27;t be able to control myself…but, for the moment, I was planning to try.</p>
 <p>&quot;Eris is important to me, yes. I&#x27;d rather not talk about her like she&#x27;s some object I received from her parents, though.&quot;</p>
 <p>&quot;Well, I guess you&#x27;re marrying into their family, so it&#x27;s more like they&#x27;re receiving you.&quot;</p>
-<p>&quot;Wha—?&quot; Who&#x27;s marrying into what?</p>
+<p>&quot;Wha—?&quot; <em>Who&#x27;s marrying into what?</em></p>
 <p>&quot;You&#x27;re going to join the nobility with Philip&#x27;s support, right?&quot;</p>
 <p>&quot;What are you talking about? When did anyone say anything about that?&quot;</p>
 <p>&quot;Huh? It was a year or so before the disaster, I think. Philip sent me a letter saying you and Eris were really hitting it off, so he wanted you to marry into his family. If you ask me, the Asuran nobility are a bunch of rotten scumbags, but I said you could do what you wanted…&quot;</p>
@@ -65,18 +65,18 @@ nav_title = "Chapter 5"
 <p>&quot;Either way, it seems like you&#x27;re pretty friendly with the little lady. Does that mean Sylphie&#x27;s…&quot; Paul hesitated mid-sentence. &quot;Uh, sorry. Forget I said anything.&quot;</p>
 <p>Sylphie remained among the missing, as far as either of us knew. Still, I found myself considering the question Paul had begun to ask.</p>
 <p>I did care about Sylphie, but what I felt for her wasn&#x27;t quite the same as what I felt for Eris. She was more like a little sister to me, or maybe even a daughter. It upset me when I saw her getting picked on, and I wanted to help her grow up strong and happy, but we&#x27;d parted before those feelings could develop into anything more.</p>
-<p>It wasn&#x27;t that different from what I had with Eris, but these days she was supporting me as much I was helping her. If you asked me which of them I was more interested in right now, the answer would have to be Eris.</p>
+<p>It wasn&#x27;t <em>that</em> different from what I had with Eris, but these days she was supporting me as much I was helping her. If you asked me which of them I was more interested in right now, the answer would have to be Eris.</p>
 <p>But of course, it wasn&#x27;t like I&#x27;d done a thorough side-by-side comparison. It was all about the amount of time we&#x27;d spent together, really. Eris had been a part of my life for years now. People love writing stories about guys reuniting with their childhood friends, but it&#x27;s easier to fall for someone when you&#x27;ve spent a long time at their side. By now, I&#x27;d been with Eris for twice as long as I&#x27;d been with Sylphie. And our years together had been eventful, to say the least.</p>
 <p>Of course, that didn&#x27;t mean I wasn&#x27;t worried about my missing friend.</p>
 <p>&quot;I hope Sylphie&#x27;s all right…&quot;</p>
 <p>&quot;Well, the girl isn&#x27;t quite on your level, but she&#x27;d been working her butt off. I mean, she can use healing magic without incantations, you know? That&#x27;s enough to make a living anywhere you go. Healers are real valuable, at least outside the Millis Continent.&quot;</p>
-<p>&quot;Oh. Right…&quot; Huh? Wait. Did he just say what I think he said?  &quot;Hold on. Sylphie can cast healing spells silently?&quot;</p>
+<p>&quot;Oh. Right…&quot; <em>Huh? Wait. Did he just say what I think he said?</em>  &quot;Hold on. Sylphie can cast healing spells silently?&quot;</p>
 <p>&quot;Hm? Yeah. Zenith was shocked at first. But you can do that too, can&#x27;t you?&quot;</p>
 <p>&quot;Not with healing magic, no.&quot; I didn&#x27;t understand the underlying principles behind those spells, so I&#x27;d never managed to cast them silently. No matter how many times I used them, I couldn&#x27;t figure out the mechanisms by which they healed the body.</p>
 <p>&quot;No kidding?&quot;</p>
 <p>&quot;Nope. I can only cast those spells if I use the incantations.&quot;</p>
 <p>&quot;Well, I&#x27;m not gonna pretend I know much about magic, but they say everyone&#x27;s naturally better with some kinds than others, right? I guess Sylphie&#x27;s just got a knack for healing.&quot;</p>
-<p>Maybe Sylphie had gotten way stronger than me since we were separated. Now I was a little afraid of seeing her again. What if she took one look at my magic and said &quot;You haven&#x27;t improved at all, Rudy&quot;…?</p>
+<p>Maybe Sylphie had gotten <em>way</em> stronger than me since we were separated. Now I was a little afraid of seeing her again. What if she took one look at my magic and said &quot;You haven&#x27;t improved at all, Rudy&quot;…?</p>
 <p>Paul and I kept on talking for a while. By the end of our conversation, the chasm that had opened up between us disappeared entirely.</p>
 <p>In the early evening, two of Paul&#x27;s comrades came over to fetch him.</p>
 <p>Specifically, it was the bikini-armor lady and her magician pal. The former was wearing drab, ordinary clothes today, for whatever reason. It was a dramatic change from that getup she had on yesterday. She had been one of the causes of our fight, though… Maybe she was trying to be considerate?</p>
@@ -93,9 +93,9 @@ nav_title = "Chapter 5"
 <p>&quot;I can&#x27;t think of anyone better suited for the job. And you&#x27;ve already earned her trust, obviously.&quot;</p>
 <p>Evidently Paul had a lot of faith in me. Maybe too much faith, honestly. I felt like he tended to overestimate my capabilities. It didn&#x27;t really matter, though. Whatever he thought of me, I was going to try and live up to his expectations this time.</p>
 <p>&quot;Of course,&quot; said Paul with a smirk, &quot;I could always assign her a couple bodyguards if you&#x27;d rather stay here in Millishion instead.&quot;</p>
-<p>### Oh, please.</p>
+<p>### <em>Oh, please.</em></p>
 <p>In purely rational terms, splitting up from Eris here was a valid option. Not that I&#x27;d stay in Millishion in that event—I could just go off and search another part of the world for my family. Returning to the Demon Continent might be a reasonable approach, for example.</p>
-<p>But that was only true on a purely rational level. I couldn&#x27;t just abandon Eris for my own benefit. I had to get her back home safe.</p>
+<p>But that was only true on a purely rational level. I couldn&#x27;t just abandon Eris for my own benefit. I <em>had</em> to get her back home safe.</p>
 <p>Also, the idea of leaving my job half-done so I could work on something else brought back a few unpleasant memories. In my previous life, I&#x27;d never really finished anything I started. I didn&#x27;t want to fall back into that destructive habit. Knowing me, it would probably end up with Eris failing to reach Fittoa safely, and my solo search of the Demon Continent turning up absolutely nothing.</p>
 <p>Better to focus on one thing at a time, then. There was also the whole Ruijerd issue to consider, after all. It was hard to imagine our stubborn friend getting along with some random members of the Search and Rescue Squad, and he&#x27;d probably be furious if I tried to</p>
 <p>drop out of our party now. In his book, that would qualify as conduct unbefitting of a warrior.</p>
@@ -117,8 +117,8 @@ nav_title = "Chapter 5"
 <p>Okay, so maybe my initial reaction was a little too gleeful. Can you really blame me, though? For the last year and a half, I&#x27;d been obsessing over every coin we spent, and now they&#x27;d dropped a cool million in my lap out of nowhere.</p>
 <p>&quot;Seriously, though?! With that kind of money, you could spend your whole life messing around!&quot;</p>
 <p>&quot;Well, you could probably build yourself a house in the south with that much, I guess. But it&#x27;s not gonna last you a lifetime.&quot;</p>
-<p>What? But it&#x27;s a million, man! One million yen! That&#x27;s like…what, a thousand green ore coins?! You could even buy a Superd passage on a boat with that!</p>
-<p>Oh, that reminds me.</p>
+<p><em>What? But it&#x27;s a million, man! One million yen! That&#x27;s like…what, a thousand green ore coins?! You could even buy a Superd passage on a boat with that!</em></p>
+<p><em>Oh, that reminds me.</em></p>
 <p>&quot;Hm. There&#x27;s still one other problem we&#x27;ll have to deal with, actually.&quot;</p>
 <p>&quot;Seriously? What&#x27;s that?&quot;</p>
 <p>&quot;Back in Wind Port, they wanted a ridiculous amount of money to let a Superd on the boat to Millis. I&#x27;m not sure how things are in West Port, but I&#x27;m assuming they&#x27;ll demand some huge fare as well. I don&#x27;t know if even twenty king&#x27;s coins will be enough…&quot;</p>
@@ -154,14 +154,14 @@ nav_title = "Chapter 5"
 <p>&quot;Once you&#x27;ve worked out your plans, get in touch with me. We should least have dinner with Norn before you hit the road.&quot;</p>
 <p>&quot;Sounds good to me.&quot;</p>
 <p>With that, Paul sauntered out of the bar, the two young women following closely in his wake.</p>
-<p>He really did look like a dirty old man sometimes, didn&#x27;t he?</p>
+<p>He really did <em>look</em> like a dirty old man sometimes, didn&#x27;t he?</p>
 <p>***</p>
 <p>Not long after Paul left, Eris and Ruijerd came back into the bar. Eris was sporting a black eye, and Ruijerd had a distinctly unhappy expression on his face.</p>
 <p>&quot;What happened, you two?&quot;</p>
 <p>&quot;Nothing,&quot; said Eris, folding her arms with an irritated little snort. &quot;How did things go with that man?&quot;</p>
 <p>&quot;We made up with each other.&quot;</p>
 <p>As soon as those words left my mouth, Eris&#x27; eyebrows creased sharply together.&quot;What?! Why?!&quot; She punctuated her question by slamming her fist down on the table so hard that it loudly broke apart.</p>
-<p>My goodness, what a powerful young lady…</p>
+<p><em>My goodness, what a powerful young lady…</em></p>
 <p>&quot;I see,&quot; said Ruijerd calmly. &quot;I&#x27;m glad to hear that.&quot;</p>
 <p>&quot;Rudeus!&quot; Eris grabbed me forcefully by the shoulders. And I do mean forcefully. The girl&#x27;s grip was really something else. &quot;Why would you do that?!&quot;</p>
 <p>&quot;What do you mean, why?&quot; I asked, somewhat taken aback.</p>
@@ -169,7 +169,7 @@ nav_title = "Chapter 5"
 <p>&quot;Well, of course. And I appreciate what you did for me. That hug really calmed me down.&quot;</p>
 <p>It was only thanks to Eris that I&#x27;d managed to look Paul in the face today. If she hadn&#x27;t been there to comfort me, I might have stayed shut up in my room for days.</p>
 <p>&quot;That&#x27;s not what I&#x27;m talking about! That man didn&#x27;t even show up for your tenth birthday, Rudeus. And the way he treated you yesterday was unbelievable! You had to travel all the way across the Demon Continent! You got locked up in a jail cell in the Great Forest, for crying out loud! But when you finally, finally made it back to him, he basically told you to get lost! How can you just forgive that jerk?!&quot;</p>
-<p>Wow. That was quite a rant.</p>
+<p><em>Wow. That was quite a rant.</em></p>
 <p>I understood where Eris was coming from. When you put it in those terms, Paul did sound like a really crappy father. I could even have believed that he hated my guts. If I was an ordinary child, his actions would have been unforgivable.</p>
 <p>But the way I saw things, it was inevitable that he&#x27;d make a few mistakes trying to deal with a son like me. I was reincarnated with my memories intact, and I took full advantage of that from the very start. How could anyone be expected to be a &quot;normal&quot; dad to a kid that weird? Paul had had a hard time figuring out how to interact with me, let alone how to raise me. And to be honest, I don&#x27;t think</p>
 <p>he really knew what it meant to be a good father in the first place…not that I did either, of course.</p>
@@ -206,11 +206,11 @@ nav_title = "Chapter 5"
 <p>&quot;Nobody knows where Ghislaine is either, so it&#x27;s possible—&quot;</p>
 <p>&quot;Listen, Rudeus,&quot; said Eris, folding her arms and sticking her chin into the air. &quot;I was always expecting things to be at least this bad.&quot;</p>
 <p>Her gaze was steady. Her expression was as intense and arrogant as ever. There was no hint of doubt or uncertainty in her eyes.</p>
-<p>Eris hadn&#x27;t forgotten about Fittoa. She&#x27;d been ready to face the worst.</p>
+<p>Eris hadn&#x27;t forgotten about Fittoa. She&#x27;d <em>been</em> ready to face the worst.</p>
 <p>With a small snort, she continued. &quot;I&#x27;d bet Ghislaine is still out there somewhere, but I knew there was a good chance Father and Grandfather were dead.&quot;</p>
 <p>The two of us had been stranded in the middle of the Demon Continent, after all. I guess she&#x27;d realized that many others might have landed in equally dangerous situations. Of course, there was a chance she was just putting on a brave face right now. With Eris, it was hard to tell the difference between actual confidence and bluster.</p>
 <p>&quot;Oh, and I knew you were trying to hide all this from me, by the way.&quot;</p>
-<p>I wasn&#x27;t clear on exactly what she thought I&#x27;d been &quot;hiding.&quot; From the sound of it, though, this wasn&#x27;t just an act. Eris had been thinking things through in her own way. In other words, I was the only one who&#x27;d forgotten entirely about the Fittoa Region.</p>
+<p>I wasn&#x27;t clear on exactly what she thought I&#x27;d been &quot;hiding.&quot; From the sound of it, though, this wasn&#x27;t just an act. Eris <em>had</em> been thinking things through in her own way. In other words, I was the only one who&#x27;d forgotten entirely about the Fittoa Region.</p>
 <p>That was kind of embarrassing.</p>
 <p>&quot;I see. Well, all right then.&quot;</p>
 <p>Eris really was one impressive young lady. Having reached that conclusion, I decided to move on to our next topic.</p>
@@ -218,7 +218,7 @@ nav_title = "Chapter 5"
 <p>&quot;Are you sure?&quot; asked Ruijerd.</p>
 <p>&quot;Why wouldn&#x27;t I be?&quot;</p>
 <p>&quot;Once we leave, you might never see your father again.&quot;</p>
-<p>&quot;Well, that&#x27;s a little ominous…&quot; Coming from Ruijerd, those words carried some real weight. But it wasn&#x27;t like I was heading out to the frontlines of some war. &quot;The thing is, I&#x27;ve also got a few other family members I might never see again. Right now, I think I&#x27;ll worry about finding them.&quot;</p>
+<p>&quot;Well, <em>that&#x27;s</em> a little ominous…&quot; Coming from Ruijerd, those words carried some real weight. But it wasn&#x27;t like I was heading out to the frontlines of some war. &quot;The thing is, I&#x27;ve also got a few other family members I might never see again. Right now, I think I&#x27;ll worry about finding them.&quot;</p>
 <p>&quot;I see. That&#x27;s true enough.&quot;</p>
 <p>Since Ruijerd seemed convinced on that point, I moved on to the meat of the matter. &quot;For the rest of our journey, I&#x27;d like to prioritize information gathering.&quot;</p>
 <p>We&#x27;d still be staying for about a week at every major town we reached. But instead of focusing on earning money, we&#x27;d primarily use that time to collect rumors and local gossip.</p>
@@ -242,7 +242,7 @@ nav_title = "Chapter 5"
 <p>I wanted to take a peek at the letter inside, honestly. But as I recalled, breaking this sort of seal would invalidate its contents.</p>
 <p>&quot;Sounds like this Gash guy is probably some sort of noble, huh?&quot;</p>
 <p>&quot;I couldn&#x27;t say, but he did have many men.&quot;</p>
-<p>Whatever that meant. Was he talking about servants or something? The word &quot;many&quot; was really vague, too…</p>
+<p>Whatever <em>that</em> meant. Was he talking about servants or something? The word &quot;many&quot; was really vague, too…</p>
 <p>Well, in any case, the man was a friend of Ruijerd&#x27;s. I wouldn&#x27;t be too surprised if he turned out to be a kindhearted contender for the role of Mamodo King. &quot;Were you at his house?&quot;</p>
 <p>&quot;Yes.&quot;</p>
 <p>&quot;Was it large?&quot;</p>

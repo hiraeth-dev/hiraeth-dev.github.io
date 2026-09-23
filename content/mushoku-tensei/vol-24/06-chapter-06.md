@@ -9,7 +9,7 @@ nav_title = "Chapter 6"
 
 <p><strong>R</strong>UIJERD HAD SAID TO ME that if Vita died, the plague would start to advance again. I hadn&#x27;t imagined it would be so immediate.</p>
 <p>Maybe Vita hadn&#x27;t slowed the disease. He could have simply numbed them to it. Then he&#x27;d possessed me and died, so the offshoots had died too. The symptoms had all thundered to the surface at once…or something.</p>
-<p>Hey, I didn&#x27;t take Vita out. It was suicide. As much as a relief it was to know there were Rudeus-level blockheads on the Man-God side, I couldn&#x27;t rest easy knowing he was dead. Ruijerd was suffering and there was nothing I could do for him. Not one thing.</p>
+<p><em>Hey, I didn&#x27;t take Vita out. It was suicide.</em> As much as a relief it was to know there were Rudeus-level blockheads on the Man-God side, I couldn&#x27;t rest easy knowing he was dead. Ruijerd was suffering and there was nothing I could do for him. Not one thing.</p>
 <p>I stormed out of the house just as Chandle came running over.</p>
 <p>&quot;Master Rudeus!&quot; he greeted me.</p>
 <p>&quot;Chandle!&quot;</p>
@@ -17,7 +17,7 @@ nav_title = "Chapter 6"
 <p>&quot;Abyssal King Vita died, and now the plague is active again.&quot;</p>
 <p>&quot;What?! When? How did you kill him?!&quot;</p>
 <p>&quot;He just…died, okay?!&quot;</p>
-<p>Killed, died, either works.</p>
+<p><em>Killed, died, either works.</em></p>
 <p>&quot;I&#x27;d like a full explanation!&quot;</p>
 <p>&quot;Um…&quot;</p>
 <p>An explanation. He wanted to know what Ruijerd had told me the previous night. How Vita had slid down my throat through mouth-to-mouth contact and made me hallucinate, and how the Death God&#x27;s ring killed him.</p>
@@ -35,8 +35,8 @@ nav_title = "Chapter 6"
 <p>&quot;My…plan?&quot; Words escaped me. What was I supposed to do at a time like this? The village was in the grip of the plague. We needed to cure it. That meant detoxification magic. But earlier, I&#x27;d tried detoxification magic on Ruijerd to no effect.</p>
 <p>I hadn&#x27;t been able to try every kind of healing magic, but it seemed likely that detoxification magic wasn&#x27;t effective here. There were plenty of diseases and sicknesses like that. If detoxification magic wouldn&#x27;t work, the best thing to do was leave it to an expert on diseases. What experts were there? Would Ariel send me a doctor if I asked?</p>
 <p>No one in the world knew more about diseases than Orsted. Except when it came to the Superd, he&#x27;d… No. Never mind that. I&#x27;d see what I could do.</p>
-<p>Communication came first. It was three days back to the magic circle I&#x27;d set up… Wait! I&#x27;d already set up a backup teleportation circle in the</p>
-<p>basement of the office just in case something like this happened. I could put a magic circle and contact tablet in this village. I&#x27;d go back to the office and explain what was going on to Orsted. Then, from the CEO&#x27;s office, I&#x27;d tell all our allies about the current crisis. I&#x27;ve got this.</p>
+<p>Communication came first. It was three days back to the magic circle I&#x27;d set up… <em>Wait!</em> I&#x27;d already set up a backup teleportation circle in the</p>
+<p>basement of the office just in case something like this happened. I could put a magic circle and contact tablet in this village. I&#x27;d go back to the office and explain what was going on to Orsted. Then, from the CEO&#x27;s office, I&#x27;d tell all our allies about the current crisis. <em>I&#x27;ve got this.</em></p>
 <p>&quot;We&#x27;ll set up a teleportation circle in the back of the village, go back to the office, then send word to everyone asking for someone who can diagnose this.&quot;</p>
 <p>&quot;Understood. Then I&#x27;ll work on defending the village and nursing the sick.&quot;</p>
 <p>&quot;Thank you.&quot; We wrapped up the meeting quickly, then I rushed off to the edge of the village. In the middle of this deep forest, we had a high concentration of magical energy. I could probably set up a teleportation circle here without even using magic crystals. I&#x27;d bring the spare tablets from the office as a precaution, then set up the circle.</p>
@@ -47,19 +47,19 @@ nav_title = "Chapter 6"
 <p>&quot;Let&#x27;s try you out,&quot; I said, pouring magic into it. It filled up with magic, then produced a faint glow.</p>
 <p>&quot;Fantastic.&quot; I immediately jumped onto the circle.</p>
 <p>After a moment of unconsciousness, I arrived beneath the offices. I quickly confirmed that the magic circle was operating normally, then ran out of the room.</p>
-<p>I didn&#x27;t need the sign that read This Way for Inquiries for Orsted and Rudeus. I just headed for the surface. I left the basement room full of teleportation circles, climbed the stairs, and there I was in the lobby.</p>
+<p>I didn&#x27;t need the sign that read <em>This Way for Inquiries for Orsted and Rudeus.</em> I just headed for the surface. I left the basement room full of teleportation circles, climbed the stairs, and there I was in the lobby.</p>
 <p>&quot;Oh, Chairman, welcome ba—&quot;</p>
 <p>&quot;Where&#x27;s the CEO?!&quot; I demanded. When she saw my fierce expression, the reception girl&#x27;s ears twitched, then flattened in apprehension.</p>
 <p>&quot;H-he&#x27;s here,&quot; she said. I didn&#x27;t wait for her to finish. I was already opening the door to the corridor that led to the CEO&#x27;s office.</p>
 <p>I covered the distance of the short corridor and opened the door. I didn&#x27;t break it down, but I did forget to knock. Maybe that was why Orsted hadn&#x27;t put on his helmet.</p>
-<p>&quot;Sir Orsted,&quot; I said. He didn&#x27;t reply. Maybe it was my imagination, but he looked uncomfortable, as though he knew something. He didn&#x27;t look away, though. He stared straight back at me. After a few seconds of looking, something in his face seemed to ask Is there a problem? I felt anger bubbling up within me. I knew that wouldn&#x27;t help right then, but when I spoke, I could hear the frustration in my voice.</p>
+<p>&quot;Sir Orsted,&quot; I said. He didn&#x27;t reply. Maybe it was my imagination, but he looked uncomfortable, as though he knew something. He didn&#x27;t look away, though. He stared straight back at me. After a few seconds of looking, something in his face seemed to ask <em>Is there a problem?</em> I felt anger bubbling up within me. I knew that wouldn&#x27;t help right then, but when I spoke, I could hear the frustration in my voice.</p>
 <p>&quot;You knew about the Superd&#x27;s sickness, didn&#x27;t you?&quot; I demanded.</p>
 <p>&quot;I did.&quot;</p>
 <p>&quot;And the cure?&quot;</p>
 <p>&quot;There isn&#x27;t one,&quot; he said. He said it unequivocally. Not &quot;I don&#x27;t know,&quot; but &quot;There isn&#x27;t one.&quot;</p>
-<p>&quot;If you&#x27;d only told me earlier,&quot; I said, &quot;I could have at least searched for a way to treat it. Why didn&#x27;t you tell me?&quot;</p>
+<p>&quot;If you&#x27;d only told me earlier,&quot; I said, &quot;I could have at least searched for a way to treat it. <em>Why</em> didn&#x27;t you <em>tell</em> me?&quot;</p>
 <p>Orsted shook his head. &quot;The Superd were supposed to have died out before you became my follower.&quot;</p>
-<p>&quot;Supposed to… You mean it was always like that in the loops?&quot;</p>
+<p>&quot;<em>Supposed</em> to… You mean it was always like that in the loops?&quot;</p>
 <p>&quot;Correct. And Ruijerd Superdia never met the surviving Superd.&quot;</p>
 <p>Orsted hadn&#x27;t said anything because they were supposed to already be dead. In the other loops, that hadn&#x27;t affected Ruijerd. He&#x27;d clung on to that vain hope.</p>
 <p>&quot;But you went to see them a few years back, right?&quot;</p>
@@ -77,7 +77,7 @@ nav_title = "Chapter 6"
 <p>If nothing else, I couldn&#x27;t have achieved any of the things I&#x27;d done in the past year. I couldn&#x27;t have reached out to Atofe or Randolph or the other demon kings. I might not even have made it to Millis. I might still be unaware that Geese was a disciple of the Man-God.</p>
 <p>&quot;But perhaps,&quot; Orsted said hesitantly, &quot;the decision of whether it is a waste of time…was not…mine…to make…&quot;</p>
 <p>I understood his reasoning, but my heart couldn&#x27;t keep up. No excuses came to me. Orsted hadn&#x27;t forgotten to tell me. He&#x27;d decided to keep it from me. He&#x27;d deliberately plotted to stop me from going to the aid of the Superd. I understood his reasoning, but I could never, ever forgive him. I owed my life to Ruijerd, and Orsted had left him to die. Usually, at this point, I&#x27;d tell myself that Orsted was like this, or like that, and I couldn&#x27;t expect anything more from him. But this time, I couldn&#x27;t forgive him.</p>
-<p>Crap. At this rate, Orsted was going to start feeling like my enemy. Just when all our plans were in motion, and the enemy and everyone else was in the Biheiril Kingdom…</p>
+<p><em>Crap.</em> At this rate, Orsted was going to start feeling like my enemy. Just when all our plans were in motion, and the enemy and everyone else was in the Biheiril Kingdom…</p>
 <p>I had to think of an excuse for him. Something that would allow me to forgive him.</p>
 <p>The question that came to me was &quot;Will Ruijerd get in the way of your plans?&quot; It was a departure from the flow of the conversation. What was I going to do if he said yes?</p>
 <p>&quot;He will not get in the way,&quot; Orsted said. &quot;His daughter will be a crucial piece in the battle against Laplace.&quot;</p>
@@ -97,9 +97,9 @@ nav_title = "Chapter 6"
 <p>That meant this had to be the Man-God laying another bit of groundwork.</p>
 <p>I saw it now. It&#x27;d been part of the plan to wipe them out, and he&#x27;d worked getting rid of me into the bargain. Two birds with one stone. Typical Man-God.</p>
 <p>&quot;Sir Orsted, I think the Man-God has been manipulating us again,&quot; I said. Orsted didn&#x27;t reply. &quot;The extinction of the Superd Clan and the plague —these aren&#x27;t natural phenomena, they&#x27;re the Man-God&#x27;s work. Apparently, the Man-God would prefer Demon God Laplace to live.&quot;</p>
-<p>There was no downside for the Man-God in having Demon Dragon King Laplace around—Demon God Laplace would be even better. He&#x27;d probably forgotten about the Man-God, after all. Not only that, but he&#x27;d also be intent on wiping out every living soul.</p>
+<p>There was no downside for the Man-God in having Demon Dragon King Laplace around—<em>Demon God</em> Laplace would be even better. He&#x27;d probably forgotten about the Man-God, after all. Not only that, but he&#x27;d also be intent on wiping out every living soul.</p>
 <p>Maybe, against all expectations, the Man-God had been manipulating Laplace ever since the Laplace War. I was sure he couldn&#x27;t directly control anyone from the Dragon Tribe, so it would be via a disciple.</p>
-<p>I let out a deep breath. I&#x27;d found clarity in an unexpected place. Orsted hadn&#x27;t told me about the Superd and, yeah, I still had some unresolved anger, but flying off the handle at him here wouldn&#x27;t solve anything. In the end, it&#x27;d just give the Man-God a victory. All according to plan, he&#x27;d say glibly.</p>
+<p>I let out a deep breath. I&#x27;d found clarity in an unexpected place. Orsted hadn&#x27;t told me about the Superd and, yeah, I still had some unresolved anger, but flying off the handle at him here wouldn&#x27;t solve anything. In the end, it&#x27;d just give the Man-God a victory. <em>All according to plan,</em> he&#x27;d say glibly.</p>
 <p>Maybe because I&#x27;d cleared my head, it came to me now. The excuse that hadn&#x27;t occurred to me before. Orsted had left the Superd to their fate because, without knowing the way to cure them, he&#x27;d thought they were as good as dead. At first, the extinction of the Superd and Ruijerd&#x27;s life were unconnected in his mind. He probably thought that Ruijerd was living his life somewhere else.</p>
 <p>But, on the off chance, he&#x27;d gone to see the Superd and found Ruijerd was there. Not only there, but infected. Orsted didn&#x27;t know how to tell me. Maybe he thought it was better not to say anything. Or was that it at all? Was he that kind? Ugh. Thinking like this was getting me nowhere.</p>
 <p>&quot;How were you planning on defeating Laplace without the Superd, Sir Orsted?&quot;</p>
@@ -124,31 +124,31 @@ nav_title = "Chapter 6"
 <p>&quot;Very well,&quot; Orsted said. &quot;I will go with you to the village.&quot;</p>
 <p>***</p>
 <p>After that, I went on to my report on Abyssal King Vita. When I told Orsted that Vita had killed himself with the Death God&#x27;s ring, he made a scary face that concealed his surprise. Based on that reaction, he hadn&#x27;t known that Vita was possessing Ruijerd. The ring really had just been insurance.</p>
-<p>Next, I sent word to everyone via the contact tablets, informing them of the Superd&#x27;s sickness and requesting arrangements for a doctor. There were so many contact tablets that it took forever to contact everyone. My kingdom for a CC function!</p>
+<p>Next, I sent word to everyone via the contact tablets, informing them of the Superd&#x27;s sickness and requesting arrangements for a doctor. There were so many contact tablets that it took forever to contact everyone. <em>My kingdom for a CC function!</em></p>
 <p>While I waited for replies to my messages, I drew up more backup teleportation circles. There was a necessary process to go through when setting one up. I started out by drawing two circles, then, after checking they were operational, noted down the circle design for one of them and erased it. There was no rush to replenish them, but if we were going to use them, I would have to be the one to draw it.</p>
 <p>We had the reception girl stand by in the CEO&#x27;s office to answer messages and look after anyone who showed up via teleportation circle in Orsted&#x27;s absence. The circles had grown so numerous lately that it was hard to keep track of what was connected to where. It was bad enough for Orsted and me to navigate; a first-time visitor would need a map. That map should probably say where you were in the village you teleported to.</p>
 <p>Oh, yeah, it looked like Sylphie had already set off for the Sword Sanctum with Ghislaine and Isolde. Ariel had dropped by at the time and talked to Sylphie. Neither Orsted nor the reception girl had heard the contents of their conversation, but given there were no messages passed on, I assumed Ariel had just come to say hi.</p>
 <p>After that dream, coming face-to-face with Ariel might have made me a bit self-conscious. I really didn&#x27;t want Sylphie to be there to see me turn bright red when I saw Ariel.</p>
 <p>Next, I checked that all our other guys spread throughout the Biheiril Kingdom had successfully set up their teleportation circles and contact tablets. Everything was chugging along well.</p>
 <p>There were incoming messages. Aisha and the Mercenary Company were all okay. From Zanoba came a report that the hunting party was gathering in the capital. Roxy wrote that she was going to scout out the whereabouts of the Ogre God.</p>
-<p>I sent messages about the current situation back to all of them. At the end, I added the line I&#x27;ll find a way to sort it out, so concentrate on your mission. Otherwise, Eris would probably come running.</p>
-<p>Next up, a lot of confirmations of receipt. Most of them said We will look through past texts for information on the disease. The Asura Kingdom said they&#x27;d send a doctor as soon as the following day.</p>
-<p>But from the Holy Country of Millis, the only reply was to the message about reinforcements I&#x27;d sent last time. Sending in Knight Orders by teleportation circle was infeasible, apparently. Fairly unfavorable.</p>
+<p>I sent messages about the current situation back to all of them. At the end, I added the line <em>I&#x27;ll find a way to sort it out, so concentrate on your mission.</em> Otherwise, Eris would probably come running.</p>
+<p>Next up, a lot of confirmations of receipt. Most of them said <em>We will look through past texts for information on the disease.</em> The Asura Kingdom said they&#x27;d send a doctor as soon as the following day.</p>
+<p>But from the Holy Country of Millis, the only reply was to the message about reinforcements I&#x27;d sent last time. Sending in Knight Orders by teleportation circle was infeasible, apparently. Fairly <em>un</em>favorable.</p>
 <p>Millis really was taking its time to reply. I put it out of my mind and returned to the village with Orsted.</p>
 <p>Orsted was now examining each of the Superd who&#x27;d collapsed. He likely had more medical knowledge than their doctors, but he hadn&#x27;t understood it before, so there was no way he&#x27;d understand it now.</p>
 <p>He wasn&#x27;t a doctor in the first place. Maybe he&#x27;d tried to cure someone&#x27;s sickness in past loops, but that wasn&#x27;t the same as practicing medicine. It was more like fulfilling an errand quest in an RPG. Something like:</p>
-<p>On XX-day the XXth of XX, Rudeus gets sick. Rudeus will die on XXday the XXth of XX, so you have to cure him before then. You don&#x27;t know the cure, but after a few rounds, you learn that Sylphiette has the same disease. Then Miss Roxy uses an item to heal her. Orsted can use Miss Roxy&#x27;s item on Rudeus next round.</p>
+<p><em>On XX-day the XXth of XX, Rudeus gets sick. Rudeus will die on XXday the XXth of XX, so you have to cure him before then. You don&#x27;t know the cure, but after a few rounds, you learn that Sylphiette has the same disease. Then Miss Roxy uses an item to heal her. Orsted can use Miss Roxy&#x27;s item on Rudeus next round.</em></p>
 <p>Maybe the way to deal with this was to compare past cases to present cases to look for a cure. I wasn&#x27;t a doctor either, so I couldn&#x27;t say for sure.</p>
 <p>The thing about Orsted was that he didn&#x27;t handle unexpected contingencies well.</p>
 <p>&quot;As I thought, I don&#x27;t know,&quot; he said when he was done examining all of them, shaking his head in defeat.</p>
 <p>&quot;Although the presentation seems a little different from other plagues I know…&quot; he continued.</p>
 <p>&quot;Different in what way?&quot;</p>
 <p>&quot;I&#x27;ve never seen anything get this severe this quickly.&quot;</p>
-<p>&quot;So Vita probably was masking the symptoms, and now they&#x27;ve come to the surface.&quot;</p>
+<p>&quot;So Vita probably <em>was</em> masking the symptoms, and now they&#x27;ve come to the surface.&quot;</p>
 <p>&quot;If the Man-God is behind this, then it&#x27;s possible.&quot;</p>
 <p>It sounded like the Man-God&#x27;s style. He&#x27;d pretend to keep the disease from progressing while actually doing nothing.</p>
 <p>&quot;What about you? Did you learn anything?&quot;</p>
-<p>&quot;No,&quot; I said. While Orsted was investigating the disease, I&#x27;d asked the people providing medical care about how they treated the sick. They said they were cooking medicinal herbs popular on the Central Continent with nutritious vegetables to make a thick stew that they gave the patients. I wasn&#x27;t an expert on medicinal herbs or the nutritional value of vegetables, but I doubted it could do any harm. This course of treatment wasn&#x27;t doing any good, though. We needed to come at it from a different angle.</p>
+<p>&quot;No,&quot; I said. While Orsted was investigating the disease, I&#x27;d asked the people providing medical care about how they treated the sick. They said they were cooking medicinal herbs popular on the Central Continent with nutritious vegetables to make a thick stew that they gave the patients. I wasn&#x27;t an expert on medicinal herbs or the nutritional value of vegetables, but I doubted it could do any harm. This course of treatment wasn&#x27;t doing any <em>good</em>, though. We needed to come at it from a different angle.</p>
 <p>For example… Okay, under normal circumstances the plague would have spread through the village earlier. That meant the Man-God could control the plague. So maybe it was poison, or a virus that the Man-God had brought in from somewhere. On the other hand, maybe the displacement incident had upset the timing of the Superd contracting the disease. The Man-God was only trying to use that… You know what? Screw the &quot;why.&quot; What did that even matter?</p>
 <p>The important thing at that moment wasn&#x27;t what the Man-God was up to. It was finding a cure for this disease.</p>
 <p>The more I thought, the more my mind went around in circles. It felt like maybe there really wasn&#x27;t anything we could do. I didn&#x27;t enjoy the helplessness.</p>
@@ -162,13 +162,13 @@ nav_title = "Chapter 6"
 <p>&quot;We&#x27;ll keep watching the patients just in case, but I wouldn&#x27;t hold out hope,&quot; said the doctor. They were continuing with treatment for now. As little as I&#x27;d expected from this, it was crushing having someone say it straight to my face.</p>
 <p>I sighed, looking around the hall where a few dozen Superd lay prone. Some moaned. Some were limp and unmoving, and some you couldn&#x27;t tell if they were unconscious or asleep. Some were being fed. Seeing all of them lying there while the others nursed them was like looking at a battlefield hospital. The death count was still zero, but so many patients suffered from severe symptoms. It was only a matter of time.</p>
 <p>Ruijerd was among the most severe cases. He was unconscious now, in a coma. Every now and then his eyes would snap open and he&#x27;d cough violently. He didn&#x27;t have long.</p>
-<p>Sitting at his bedside, I thought I want to do anything I can to cure him. I had no moves left. I couldn&#x27;t think of a plan to break out. The hours slipped by while I just sat there.</p>
+<p>Sitting at his bedside, I thought <em>I want to do anything I can to cure him</em>. I had no moves left. I couldn&#x27;t think of a plan to break out. The hours slipped by while I just sat there.</p>
 <p>Even if doctors arrived from Millis or the King Dragon Realm, their chances of finding a cure were dismal based on the way this was going.</p>
-<p>If they didn&#x27;t find a cure, what then? Who would know? What should I do? What could I do?</p>
+<p>If they didn&#x27;t find a cure, what then? Who would know? What should I do? What <em>could</em> I do?</p>
 <p>&quot;Master Rudeus.&quot; I realized Chandle was standing in front of me.</p>
 <p>&quot;What is it?&quot;</p>
 <p>&quot;I&#x27;m sorry to bring it up, given the circumstances, but…what do you want to do about the informant?&quot;</p>
-<p>The informant? Who was that again?</p>
+<p><em>The informant? Who was that again?</em></p>
 <p>The memory came back. The guy we&#x27;d met back in the Second City of Irelil and asked to search for Geese.</p>
 <p>&quot;How many days until we agreed to meet him again?&quot; I asked.</p>
 <p>&quot;It was a day from the city to the town, then two days to reach here. You slept for a day, then there was yesterday, and today is almost over. I suppose we have four days left. If we&#x27;re a day or so late I&#x27;m sure that can be smoothed over, though.&quot;</p>
@@ -196,7 +196,7 @@ nav_title = "Chapter 6"
 <p>I woke to someone shaking me. A pretty girl swam into focus in front of my eyes. She had silky blonde hair with bangs cut to just above her</p>
 <p>eyebrows. I knew exactly who this was.</p>
 <p>&quot;Rudeus, wake up! Rudeus…!&quot;</p>
-<p>It was Norn. Ah, another dream. Another illusion. This time Norn was my wife. I supposed Vita was still alive. I hoped that meant the Superd&#x27;s condition had been a dream too.</p>
+<p>It was Norn. <em>Ah, another dream. Another illusion.</em> This time <em>Norn</em> was my wife. I supposed Vita was still alive. I hoped that meant the Superd&#x27;s condition had been a dream too.</p>
 <p>&quot;Vita needs better material…&quot; I mumbled.</p>
 <p>&quot;Vita? Are you still half asleep?! I need you to concentrate!&quot;</p>
 <p>Norn was cross. She hadn&#x27;t gotten like this so much lately, but back in the day, it felt like she never stopped being angry at me. It really took me back, seeing her all in a huff.</p>
@@ -206,7 +206,7 @@ nav_title = "Chapter 6"
 <p>&quot;Yeah, I&#x27;m sorry…&quot; I said, but then a question occurred to me. Why was Norn here? She was supposed to be busy now.</p>
 <p>&quot;Norn, um, maybe this isn&#x27;t a good time to ask, but didn&#x27;t you have a school event…?&quot;</p>
 <p>&quot;That finished ages ago!&quot;</p>
-<p>What?! Did that mean graduation was over too? It couldn&#x27;t be…</p>
+<p><em>What?!</em> Did that mean graduation was over too? It couldn&#x27;t be…</p>
 <p>What about me at the graduation ceremony, dabbing my eyes with a hankie? No—never mind. That wasn&#x27;t important right now.</p>
 <p>&quot;…How did you get here?&quot;</p>
 <p>&quot;Cliff! He told me everything, then brought me with him!&quot; Norn said. Hiccupping, she turned to look behind her. There, framed in the entrance, stood two figures, shadows against the backlight. One cut a more slender silhouette. The light caught on her blonde hair, making it sparkle. Her slim elven figure was bewitching. The other was a man. He was shorter than</p>
@@ -218,9 +218,9 @@ nav_title = "Chapter 6"
 <p>He&#x27;d come. He&#x27;d read the message I sent him on the contact tablet and immediately tried to get here for me.</p>
 <p>&quot;Now that I&#x27;m here,&quot; he went on, &quot;it&#x27;s going to be okay. Times like this are why I studied healing magic.&quot;</p>
 <p>&quot;But Cliff…&quot;</p>
-<p>&quot;Yes, I know. They told me everything. But I have this,&quot; he said, tapping the eye beneath his eyepatch. It was the Demon Eye he got from Kishirika. The Eye of Identification.</p>
+<p>&quot;Yes, I know. They told me everything. But I have <em>this</em>,&quot; he said, tapping the eye beneath his eyepatch. It was the Demon Eye he got from Kishirika. The Eye of Identification.</p>
 <p>&quot;This can be sorted out with a Demon Eye?&quot;</p>
-<p>&quot;A Demon Eye might not be enough. Just remember, the one using it is me,&quot; Cliff said, &quot;and I&#x27;m a genius.&quot;</p>
+<p>&quot;A Demon Eye might not be enough. Just remember, the one using it is <em>me</em>,&quot; Cliff said, &quot;and I&#x27;m a genius.&quot;</p>
 <p>Maybe he said it to reassure Norn, who was crying her eyes out. Maybe he said it to reassure me in my exhaustion. He might have been nervous, needing a rallying cry for himself. Whatever it was, Cliff seemed to stand taller after those words. That he could talk so confidently at a time like this—he was a giant. Had Cliff ever looked this tall on any day before today? He had to be twice my height already. Cliff was here! Cliff, who could even break curses!</p>
 <p>&quot;Nothing is impossible for a genius,&quot; he said. &quot;Leave it to me.&quot;</p>
 <p>He was going to handle it. I didn&#x27;t doubt him for a second, even though I knew neither of us had a reason to believe he could help.</p>

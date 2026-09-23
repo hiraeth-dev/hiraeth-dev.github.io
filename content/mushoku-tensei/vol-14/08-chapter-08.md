@@ -20,28 +20,28 @@ nav_title = "Chapter 8"
 <p>&quot;Go on. Try it again. This time, I&#x27;ll shake it off.&quot;</p>
 <p>She seemed confident.</p>
 <p>I had a feeling she would evade our attacks. The Water God style allowed a person to counter magical attacks. I didn&#x27;t know all that much about the North God style, but then again, she was a demon king. I was sure my magic wouldn&#x27;t have much effect on her this time.</p>
-<p>I&#x27;ve activated my demon eye, but will seeing a second into the future really do me any good against an opponent like her?</p>
+<p><em>I&#x27;ve activated my demon eye, but will seeing a second into the future really do me any good against an opponent like her?</em></p>
 <p>As I debated how to handle this, I decided that creating an opening was my best bet.</p>
-<p>But what do I do after that? And even if I do create an opening, will my magic work against her?</p>
+<p><em>But what do I do after that? And even if I do create an opening, will my magic work against her?</em></p>
 <p>Even the most powerful Stone Cannon I could muster wasn&#x27;t enough to fully kill Badigadi. Plus, Atofe was prepared for my attack. If she defended, my magic wouldn&#x27;t—</p>
 <p>&quot;Rudeus.&quot; Elinalise suddenly whispered into my ear. &quot;Let&#x27;s at least sneak Cliff through so he can teleport out of here.&quot;</p>
 <p>I glanced over at Cliff. He was bravely staring Atofe down, but his legs were trembling. He would be useless in battle.</p>
 <p>&quot;If we send him off with the tea leaves, plants, and memo, he should have enough to save Nanahoshi,&quot; Elinalise continued.</p>
 <p>&quot;Yeah, you have a point.&quot;</p>
 <p>She was right. This was our best option. We had to save Nanahoshi. That was the whole reason we&#x27;d come here. Nothing was more important than achieving our objective. Even so, I still wanted to make it home alive.</p>
-<p>No, even if I&#x27;m defeated, I probably won&#x27;t die. I just won&#x27;t be able to see my family for at least a decade, and I sure don&#x27;t want that.</p>
+<p><em>No, even if I&#x27;m defeated, I probably won&#x27;t die. I just won&#x27;t be able to see my family for at least a decade, and I sure don&#x27;t want that.</em></p>
 <p>&quot;We could also call in reinforcements. I am sure Perugius has had dealings with Atofe in the past. Surely he would help us.&quot;</p>
 <p>Perugius and his twelve familiars—now that was a thought. Maybe we could get him to back us up. Considering how arrogantly he acted, surely he had enough power to fight Atofe.</p>
 <p>&quot;All right,&quot; I said, &quot;let&#x27;s do that. Think you can convince Cliff?&quot;</p>
 <p>&quot;I&#x27;ll give it a shot.&quot; Elinalise slipped toward him.</p>
 <p>The three of us—Zanoba, Elinalise, and me—could create an opening for Cliff to slip through and teleport back to the fortress. While he persuaded Perugius to come save us, we would have to hold out against Atofe. Assuming Cliff succeeded, Perugius would then come to our rescue.</p>
 <p>But would that work? Could we really hold out that long? And could Cliff actually sway Perugius into helping? If Cliff took too much time, we might lose and be forced into a contract anyway. Still, if Cliff went back, at least Nanahoshi would be saved. That was the whole reason for our endeavor. But I also wanted to go home.</p>
-<p>Ah, crap. I&#x27;m just spinning my wheels at this point.</p>
-<p>I took a breath and told myself, Calm down.</p>
+<p><em>Ah, crap. I&#x27;m just spinning my wheels at this point.</em></p>
+<p>I took a breath and told myself, <em>Calm down.</em></p>
 <p>First, we needed to immobilize Atofe for a short time. During that window I would disperse the other knights with my magic so Cliff could escape. Depending on how things worked out, the rest of us might even be able to flee with him.</p>
-<p>All right, let&#x27;s do it then.</p>
+<p><em>All right, let&#x27;s do it then.</em></p>
 <p>We might not be able to beat Atofe, but we could absolutely beat her personal guard.</p>
-<p>Let&#x27;s do it. Let&#x27;s smash them to bits, murder them all. If that&#x27;s what it takes for me to get home, I&#x27;ll do it. Okay, you can do this, Rudeus! This time you&#x27;re not going to be all talk and no action. Got it?</p>
+<p><em>Let&#x27;s do it. Let&#x27;s smash them to bits, murder them all. If that&#x27;s what it takes for me to get home, I&#x27;ll do it. Okay, you can do this, Rudeus! This time you&#x27;re not going to be all talk and no action. Got it?</em></p>
 <p>&quot;Fear not, Master. Even at the cost of my life, I will hold Demon King Atofe in place.&quot; Zanoba had nerves of steel, and he was perfectly calm. That was reassuring. Why did he always manage to sound so heroic at these times? Was this some kind of stage play or something? If I were a woman, he&#x27;d sweep me right off my feet.</p>
 <p>Nearby, Cliff and Elinalise were whispering.</p>
 <p>&quot;The problem is, I don&#x27;t know if I can outrun them. My legs aren&#x27;t terribly fast, especially if I have to carry all of that with me…&quot;</p>
@@ -63,15 +63,15 @@ nav_title = "Chapter 8"
 <p>since it was King-tier magic with the best firepower when facing a single opponent, but at this distance, we might get caught in the spell. I wanted to avoid being a total idiot and wiping us out with my own magic.</p>
 <p>&quot;Phew…&quot; I exhaled before concentrating my mana into the staff.</p>
 <p>Atofe stood still. She already knew that I could use magic without reciting any incantations, but she made no move to interrupt me. That worked out perfectly for me.</p>
-<p>My Eye of Foresight read her movements: Atofe will deflect my Stone Cannon with her sword. People said my Stone Cannon was at an insanely high level of magic, but even that wasn&#x27;t going to work against Atofe.</p>
-<p>Maybe Electric would work better? But can I really use a spell she&#x27;s most on guard for?</p>
+<p>My Eye of Foresight read her movements: <em>Atofe will deflect my Stone Cannon with her sword.</em> People said my Stone Cannon was at an insanely high level of magic, but even that wasn&#x27;t going to work against Atofe.</p>
+<p><em>Maybe Electric would work better? But can I really use a spell she&#x27;s most on guard for?</em></p>
 <p>&quot;Master, I swear I will follow up whatever attack you unleash, so please have faith in me.&quot; Zanoba stared straight at me, eyes brimming with confidence.</p>
 <p>&quot;…Yeah.&quot; It was reassuring to hear him say that. Clearly, he had some kind of plan. In that case, I&#x27;d just follow his lead. &quot;All right, then here we go!&quot;</p>
 <p>&quot;Yes, Master!&quot;</p>
 <p>I unleashed my Stone Cannon after packing all the mana I could into it. A high-pitched sound split the air as it raced toward Atofe.</p>
 <p>&quot;I see right through your attack!&quot;</p>
 <p>She left an afterimage behind as she reacted. Although calling it an afterimage was an exaggeration; she barely moved her arm, changing her sword&#x27;s direction ever so slightly. In that instant, my Stone Cannon connected with her weapon, sending sparks everywhere. My attack was deflected, whipping past Atofe and slamming into a boulder on the slope. Huge plumes of sand shot up.</p>
-<p>I knew it. That spell is no good against her.</p>
+<p><em>I knew it. That spell is no good against her.</em></p>
 <p>&quot;Graaaaaaah!&quot;</p>
 <p>Zanoba flung something at Atofe.</p>
 <p>&quot;Gwaaaahaa!&quot;</p>
@@ -85,7 +85,7 @@ nav_title = "Chapter 8"
 <p>Atofe didn&#x27;t let Kishirika finish. She peeled the potent-smelling demon emperor off her face and hurled her into the air. Kishirika went tumbling, landing in a heap on the ground just outside our fighting radius.</p>
 <p>&quot;Disgusting. What were you thinking, throwing something like that at—wha?!&quot;</p>
 <p>As Atofe yelled in exasperation, Zanoba clenched his fist and charged at her. Elinalise slipped behind him, hiding in his shadow.</p>
-<p>Crap.</p>
+<p><em>Crap.</em></p>
 <p>I could see where this was going.</p>
 <p>&quot;So you slipped past my defenses. I like your spirit!&quot;</p>
 <p>&quot;Haaaaah!&quot; Zanoba threw his fist. The strength behind it was enough to make my hair stand on end. His punch cut straight</p>
@@ -110,7 +110,7 @@ nav_title = "Chapter 8"
 <p>&quot;Your footwork is impressive, I&#x27;ll give you that,&quot; said Atofe. &quot;If you train under me, you might…&quot;</p>
 <p>&quot;Graaaaaah!&quot; Zanoba leaped up, throwing his arms open as he charged at Atofe. &quot;Aaaah!&quot; He wrapped his arms around her from the front, binding her in place, then lifted her up until her feet no longer touched the ground.</p>
 <p>&quot;Hmph, you bastard, have you no shame? Putting your arms around me like…guh!&quot;</p>
-<p>His arms were like a vice squeezing her. Black blood came gushing out of Atofe&#x27;s mouth. Apparently, this kind of attack was effective! Well, she was still an immortal demon king. Whatever damage she sustained would surely be temporary.</p>
+<p>His arms were like a vice squeezing her. Black blood came gushing out of Atofe&#x27;s mouth. Apparently, this kind of attack <em>was</em> effective! Well, she was still an immortal demon king. Whatever damage she sustained would surely be temporary.</p>
 <p>&quot;Master, now!&quot;</p>
 <p>&quot;…!&quot;</p>
 <p>His words brought me back to reality. He had Atofe restrained. This was our chance.</p>
@@ -124,33 +124,33 @@ nav_title = "Chapter 8"
 <p>While confusion overtook them, my spell locked their feet in place. Our victory was assured. I had caught them all off guard; they had no opportunity to shake off my attack.</p>
 <p>Or so I thought. A voice sounded out:&quot;…raging flames consume my body. Burn In Place!&quot;</p>
 <p>A wave of heat spilled from one man, enveloping the others. That warmth began to counter my Frost Nova. The man who had cast the spell had steam pouring out of his arms as he defrosted the ice.</p>
-<p>So it was Moore…</p>
+<p><em>So it was Moore…</em></p>
 <p>The old knight captain had started his chant the moment I lifted my staff, allowing him to counter my spell only seconds later. I was shocked at the amount of magical power he possessed, as well as how quickly he finished his incantation. I hadn&#x27;t pulled my punches with that spell. However, his magic only managed to free him and the two guards closest to him. The others were completely</p>
 <p>encapsulated in ice. There was still a great difference in our magical power, and I&#x27;d won that battle.</p>
-<p>And now I&#x27;ve killed for the first time.</p>
+<p><em>And now I&#x27;ve killed for the first time.</em></p>
 <p>&quot;I&#x27;m impressed at how much magical power you possess, being able to freeze all of us. Everyone, recite the incantation for Burn In Place!&quot;</p>
 <p>&quot;As you command! Fire Spirit who presides over all things between heaven and earth…&quot;</p>
 <p>As Moore shouted, the other shoulders began to chant the spell from within the ice they were trapped in.</p>
-<p>They&#x27;re not dead. None of them died.</p>
+<p><em>They&#x27;re not dead. None of them died.</em></p>
 <p>It had to be the armor. Perhaps it gave them natural resistance to water magic.</p>
-<p>Well, crap.</p>
+<p><em>Well, crap.</em></p>
 <p>&quot;Grrr…&quot; Atofe snarled as Cliff slipped past her.&quot;Moore, don&#x27;t let him get away!&quot;</p>
 <p>&quot;Understood!&quot;</p>
 <p>At Atofe&#x27;s command, Moore sprang into action. A few seconds later, the two other knights closest to him managed to defrost their icy prisons and rush after him.</p>
 <p>&quot;As if I&#x27;d let you get past!&quot; Elinalise darted out in front of the two, cutting off their path. &quot;Rudeus! You take him!&quot;</p>
 <p>Moore chased after Cliff without a single glance backward. He moved quickly for a man in armor. Meanwhile, Cliff was shouldering a huge load. There were only about seven steps between them.</p>
 <p>I turned my staff toward Moore. &quot;Stone Cannon!&quot;</p>
-<p>Moore will use Earth Wall to try to block my Stone Cannon.</p>
+<p><em>Moore will use Earth Wall to try to block my Stone Cannon.</em></p>
 <p>No problem. I could still do this. I poured all the mana I could into my staff and unleashed my spell.</p>
 <p>&quot;Earth&#x27;s…gah!&quot;</p>
 <p>As Moore continued running, he threw his hand toward me as he tried to recite his incantation, but my Stone Cannon blasted right through his arm like some kind of laser. His appendage, along with the armor that covered it, went spinning through the air. The loss of that limb did cause him to stumble, but he didn&#x27;t give up his pursuit.</p>
 <p>&quot;Bestow upon me thy power, Water Spirits! Deep Mist!&quot; Moore recited another spell, creating a mist that wrapped all around him. He intended to use that as a smokescreen to dodge my Stone Cannon, apparently.</p>
-<p>Still, he can pull off those incantations pretty quick. He&#x27;s learned to reduce his chants considerably, much like Roxy.</p>
+<p><em>Still, he can pull off those incantations pretty quick. He&#x27;s learned to reduce his chants considerably, much like Roxy.</em></p>
 <p>&quot;Wind Blast!&quot;</p>
 <p>The gust I unleashed dispersed the mist, but Moore remained undeterred. He showed no signs of losing his focus as he pursued Cliff. Perhaps that black armor of his also provided resistance against wind spells, too.</p>
 <p>Now what? There was only a short distance separating him from Cliff. I didn&#x27;t have many more chances left.</p>
 <p>As I was wracking my brain for ideas, my Eye of Foresight told me what was going to happen next.</p>
-<p>Moore is going to start chanting a spell as he continues running after Cliff.</p>
+<p><em>Moore is going to start chanting a spell as he continues running after Cliff.</em></p>
 <p>&quot;Spirits of the barren lands, answer my call and deliver unto me—&quot;</p>
 <p>&quot;Disturb Magic!&quot; I&#x27;d practiced this with Sylphie innumerable times. The magic shot straight toward Moore and interrupted the spell he&#x27;d been trying to cast.</p>
 <p>&quot;Impossible! Disturb Magic?!&quot; Surprised, Moore dropped his gaze to his hand. Even so, he kept running. There were only five steps between him and Cliff now.</p>
@@ -161,18 +161,18 @@ nav_title = "Chapter 8"
 <p>&quot;Unknown God, answer my call and raise the earth up toward the heavens! Earth Lance!&quot; Moore launched a spell at his feet. A block of land rose up, and he used it as a kickoff point to fly over my Quagmire.</p>
 <p>&quot;Khh!&quot;</p>
 <p>He wouldn&#x27;t stop. He just kept moving. Everything I threw at him, he countered or resisted.</p>
-<p>So these are the abilities of a veteran mage…</p>
+<p><em>So these are the abilities of a veteran mage…</em></p>
 <p>&quot;Rudeus, help Cliff! Hurry!&quot; Elinalise called from behind me.</p>
 <p>&quot;I know!&quot; I shot her a brief glance. She was locked in battle with the soldiers that had been standing next to Moore. It was two against one. She wasn&#x27;t their target, but it was all Elinalise could do to keep them preoccupied.</p>
 <p>&quot;Release me, dammit! Right now! Don&#x27;t you have any shame as a man? Stop clinging to me! Let&#x27;s at least trade fists!&quot; Atofe roared.</p>
 <p>Atofe had already headbutted him. He kept a vice grip on her even as blood poured from his forehead.</p>
 <p>Meanwhile, the other knights were slowly defrosting themselves. Steam was filling the area.</p>
 <p>&quot;Khh…&quot;</p>
-<p>What could I do to throw Moore off his pursuit? He was strong, and he had way more experience in battling with magic. Normal spells hadn&#x27;t worked against him. Should I launch something more powerful at him?</p>
+<p>What could I do to throw Moore off his pursuit? He was strong, and he had way more experience in battling with magic. Normal spells hadn&#x27;t worked against him. <em>Should I launch something more powerful at him?</em></p>
 <p>No. Even if a powerful spell stopped Moore, it would be pointless if Cliff got caught in the blast. Plus, Moore was insanely good at responding to whatever I threw at him, and he had that stupid armor, too…</p>
 <p>&quot;…!&quot;</p>
 <p>That was when I realized that the ground beneath me was wet, a result of the Frost Nova I had used moments ago. The soldiers had used Burn In Place to melt the ice I&#x27;d made, and now the ground was puddled with it. Moore was no exception, having been the first to defrost himself. Of course, Elinalise and I also had water at our feet.</p>
-<p>If Atofe had never seen that type of magic before, then surely Moore hadn&#x27;t either. No matter how experienced he was, he wouldn&#x27;t be able to counter a spell he had never seen before. Although if I used it, all of us—Elinalise, Zanoba, and myself included—would get hit by it. Only Cliff would remain unscathed. He was outside my spell&#x27;s radius. He would be fine.</p>
+<p>If Atofe had never seen <em>that</em> type of magic before, then surely Moore hadn&#x27;t either. No matter how experienced he was, he wouldn&#x27;t be able to counter a spell he had never seen before. Although if I used it, all of us—Elinalise, Zanoba, and myself included—would get hit by it. Only Cliff would remain unscathed. He was outside my spell&#x27;s radius. He would be fine.</p>
 <p>I made my choice in that instant. No hesitation.</p>
 <p>&quot;Electric!&quot;</p>
 <p>I poured enough mana into the spell to stun everyone without killing them.</p>
@@ -188,10 +188,10 @@ nav_title = "Chapter 8"
 <p>It went right through my body, shooting down my spine and joints. Every part of me seemed to bend in the wrong direction. I hadn&#x27;t used enough mana to kill, so I knew I&#x27;d make it out of this alive. But that didn&#x27;t stop the darkness from swallowing my vision as I lost consciousness.</p>
 <p>***</p>
 <p>When I came to, I was sprawled on the ground. I remembered fainting, but it hadn&#x27;t lasted more than two seconds. My entire body was paralyzed. At least I had my vision.</p>
-<p>What happened to Cliff?</p>
+<p><em>What happened to Cliff?</em></p>
 <p>I lifted my head.</p>
 <p>Moore was on his knees, smoking rising from the cracks of his armor. He had one hand stretched toward Cliff, and I could faintly hear him mumbling what I assumed was an incantation.</p>
-<p>I need to use Disturb Magic… No, I won&#x27;t make it in time.</p>
+<p><em>I need to use Disturb Magic… No, I won&#x27;t make it in time.</em></p>
 <p>I concentrated mana into my left arm. Even if my right one was numb from the shock, my prosthetic hand could still move. I unfurled my fingers and launched a spell from my palm.</p>
 <p>&quot;Wind Bind!&quot; Moore grunted.</p>
 <p>The air whip that Moore conjured disappeared in an instant.</p>
@@ -205,18 +205,18 @@ nav_title = "Chapter 8"
 <p>This…was the end.</p>
 <p>&quot;…&quot;</p>
 <p>I looked at Elinalise. Her whole body was trembling as she tried to get to her feet. She had probably taken the same amount of damage as me, but she wasn&#x27;t going to let that stop her. She hadn&#x27;t given up yet.</p>
-<p>Once you give up, it&#x27;s all over. The white-haired coach in Slam Dunk said that too.</p>
+<p><em>Once you give up, it&#x27;s all over. The white-haired coach in Slam Dunk said that too.</em></p>
 <p>With a little effort, I could do the same.</p>
 <p>And when I did get home, hm…maybe I would have a little sexy time with Sylphie. And Roxy too, of course. I also wanted to hug little Lucie. Plus, I promised to teach Norn swordsmanship and magic, and I was looking forward to eating Aisha&#x27;s rice. Lilia had a huge burden on her shoulders, looking after my mother. Surely Zenith would get her memory back eventually, though. When she did, we could go visit Father&#x27;s grave together.</p>
-<p>Yeah, that&#x27;s right. We&#x27;ll keep smiling together, just like we always have.</p>
+<p><em>Yeah, that&#x27;s right. We&#x27;ll keep smiling together, just like we always have.</em></p>
 <p>My life in this world was so insanely enjoyable. I had to protect it. I had to.</p>
-<p>Okay, I can do this. Move, Rudeus. I don&#x27;t care if it&#x27;s just your arm; you can at least use magic.</p>
+<p><em>Okay, I can do this. Move, Rudeus. I don&#x27;t care if it&#x27;s just your arm; you can at least use magic.</em></p>
 <p>What about my staff? Where did it go? I needed that to use my spells.</p>
-<p>Ah, there it is.</p>
+<p><em>Ah, there it is.</em></p>
 <p>As it turned out, I had been lying on top of it.</p>
-<p>Sorry about that, Aqua Heartia. I&#x27;m sure I must have been heavy.</p>
+<p><em>Sorry about that, Aqua Heartia. I&#x27;m sure I must have been heavy.</em></p>
 <p>Anyway, I could do this. I just had to hold out until help came. That was all. There was no need to win.</p>
-<p>Please, Master Cliff. I know you probably hate Perugius&#x27;s guts, but I beg of you, please persuade him. I don&#x27;t care if you can&#x27;t do it immediately, but if you could at least send some backup within the year, that would be awesome.</p>
+<p><em>Please, Master Cliff. I know you probably hate Perugius&#x27;s guts, but I beg of you, please persuade him. I don&#x27;t care if you can&#x27;t do it immediately, but if you could at least send some backup within the year, that would be awesome.</em></p>
 <p>&quot;Wha?&quot; Elinalise let out a strangled gasp.</p>
 <p>My head jerked up, and I followed her gaze. Cliff had just arrived at the entrance to the underground ruins, where he ran into one of the black armored soldiers.</p>
 <p>&quot;No way.&quot;</p>
@@ -233,7 +233,7 @@ nav_title = "Chapter 8"
 <p>&quot;Immortal Demon King Atoferatofe, hm?&quot; The man who appeared at the entrance to the ruins spoke fluent Demon Tongue. &quot;I would never have expected you to be here. Though I did consider something like this might happen when I connected my teleportation circle to the one here by Rikarisu.&quot;</p>
 <p>A number of people tailed him. Two that I recognized were Arumanfi the Bright and Sylvaril of the Void. I had yet to learn the names of the others, but there were six of them in total.</p>
 <p>&quot;Your filthy soldiers have sullied my fortress with their blood.&quot;</p>
-<p>Ah, that makes sense. Atofe made it here before we did. She must have found the entrance to the ruins and ordered her soldiers to go in and search. Those who found the teleportation circle would have no doubt entered to see what was on the other side. Thus, demons entered Perugius&#x27;s floating fortress.</p>
+<p><em>Ah, that makes sense. Atofe made it here before we did. She must have found the entrance to the ruins and ordered her soldiers to go in and search. Those who found the teleportation circle would have no doubt entered to see what was on the other side. Thus, demons entered Perugius&#x27;s floating fortress.</em></p>
 <p>&quot;Peeerugiuuuus!&quot; Atofe howled.</p>
 <p>The Armored Dragon King himself stood before us.</p>
 <p>***</p>
@@ -259,13 +259,13 @@ nav_title = "Chapter 8"
 <p>By the time I realized what was happening, Atofe was surrounded by two gates, blocking her off from the rest of us. Both had minutely detailed dragons carved into them and were very ornate. One was silver, while the other was gold. They came rising out of the ground as Perugius continued his incantation.</p>
 <p>&quot;Open, Rear Wyrmgate. Beckon forth, Front Wyrmgate.&quot;</p>
 <p>As he commanded, they burst open. Something came pouring out of the right one and filtering into the left. It wasn&#x27;t wind. It was something that couldn&#x27;t be seen with the naked eye—something I knew well.</p>
-<p>Mana. He summoned those gates to absorb mana.</p>
+<p><em>Mana. He summoned those gates to absorb mana.</em></p>
 <p>My own magical power was being sucked out of me. It wasn&#x27;t the same experience I had with Orsted. The drain was faster this time, more intense as it sapped my stamina.</p>
 <p>&quot;No, Lady Atofe, please run…&quot; Moore, who had been crawling toward us, collapsed completely.</p>
 <p>Atofe&#x27;s legs were still trembling violently under her as she pinned Perugius with a glare. &quot;Perugiuuuus!&quot;</p>
 <p>Her body looked smaller than it had before. Perhaps those gates were absorbing the Battle Aura she had wrapped around her.</p>
 <p>&quot;Do you seriously intend to break your oath?!&quot;</p>
-<p>&quot;I won&#x27;t break it. However, this is an exceedingly rare opportunity that I cannot afford to pass up.&quot; Perugius lifted his right hand. It had turned white, radiating with light so bright that it bathed the entire area. &quot;Armored Dragon Strike, First Slash.&quot;</p>
+<p>&quot;I won&#x27;t break it. However, this <em>is</em> an exceedingly rare opportunity that I cannot afford to pass up.&quot; Perugius lifted his right hand. It had turned white, radiating with light so bright that it bathed the entire area. &quot;Armored Dragon Strike, First Slash.&quot;</p>
 <p>He dropped his hand. All of the light pierced straight through Atofe.</p>
 <p>&quot;I won&#x27;t forget this, Perugiuuuus!&quot; Her entire body froze in place. Time seemed to lag for a second, and then she was hurled back through the air. Her body split in half as she went tumbling out of view.</p>
 <p>&quot;Hmph. It&#x27;s not as if that will kill you, anyway,&quot; Perugius muttered to himself. Having lost interest, he turned on his heel to leave. &quot;Sylvaril, collect the other four and tend to their wounds.&quot;</p>
@@ -273,12 +273,12 @@ nav_title = "Chapter 8"
 <p>&quot;Leave them.&quot;</p>
 <p>&quot;I see the Demon World&#x27;s Great Emperor Kishirika is among them as well.&quot;</p>
 <p>In the corner of my vision, Kishirika was toppled on the ground. The moment Sylvaril mentioned her, she twitched in place. Apparently, she&#x27;d been hit by my electric attack as well.</p>
-<p>Sorry about that.</p>
+<p><em>Sorry about that.</em></p>
 <p>&quot;Leave her as well.&quot;</p>
 <p>&quot;As you command.&quot;</p>
 <p>Apparently, he was going to overlook Kishirika. Thank goodness.</p>
 <p>&quot;Phew.&quot; As Sylvaril and the others approached, I breathed a sigh of relief.</p>
-<p>We&#x27;re saved.</p>
+<p><em>We&#x27;re saved.</em></p>
 <p>***</p>
 <p>After that, Perugius&#x27;s familiars helped us back to the teleportation circle. All of us had to use their shoulders for support as we walked—except for Cliff, of course. He spoke to Kishirika while the familiars tended to us. By the time I looked in their direction, Kishirika was cackling to herself as she disappeared into the distance, free again. The next time we saw her, I hoped we would have an easier time finding her…but that wasn&#x27;t really important right now.</p>
 <p>After we had all teleported back to the fortress, Sylvaril severed the connection between their circle and the one near Rikarisu. There was no longer a path back to the Demon Continent.</p>

@@ -9,26 +9,26 @@ nav_title = "Chapter 6"
 
 <p><strong>I</strong> BOOTED UP THE VERSION ONE, then went after the North God. I devoted myself to the chase. Running through the forest, dodging past trees. As I ran, I dug deep for all the magic left in my body. I&#x27;d consumed a decent portion in the fight with the North God, but at that level, I shouldn&#x27;t have even used ten percent. I still had magic to spare.</p>
 <p>Only, since earlier, the thundering that had gone on without a break the whole time we were fighting the North God had stopped. No matter how well-matched Zanoba and Dohga were to fight him, maybe downing a God-tier opponent had always been out of the question.</p>
-<p>I hope they&#x27;re okay.</p>
+<p><em>I hope they&#x27;re okay.</em></p>
 <p>What if they weren&#x27;t? Then we&#x27;d have both the North God and the Ogre God to deal with. Would my magic hold out? Or would it cut out partway through like it had in the fight with Orsted?</p>
-<p>No, the real fight comes now. Stop worrying about what comes next. Start with what&#x27;s in front of you, one thing at a time.</p>
+<p><em>No, the real fight comes now. Stop worrying about what comes next. Start with what&#x27;s in front of you, one thing at a time.</em></p>
 <p>First up was my number one goal: North God Kalman III.</p>
 <p>***</p>
 <p>By the time I arrived on the scene, Sandor had already lost. He was on his butt with his back against a tree, limp, face down. There was no weapon in his hand. That staff of his was bent and lying on the ground nearby.</p>
 <p>Alexander looked down at him. North God Kalman III had conquered his predecessor.</p>
 <p>&quot;How long are you going to keep playing this game, Dad? You know by now, don&#x27;t you? You don&#x27;t have a hope of beating me. Not without a magic sword-class weapon.&quot;</p>
-<p>Sandor didn&#x27;t answer. Maybe he was already unconscious. Surely he wasn&#x27;t dead.</p>
+<p>Sandor didn&#x27;t answer. Maybe he was already unconscious. Surely he wasn&#x27;t <em>dead</em>.</p>
 <p>&quot;Or is this another strategy? Playing dead. The eccentrics are all good at that, aren&#x27;t they? Doing whatever it takes to win and achieve their goal. I admire that approach. Though if I&#x27;m honest, I think Auber and the others went too far… You taught them that, Dad. Why do you reject me?&quot;</p>
 <p>Sandor didn&#x27;t reply. He just sat there, in silence.</p>
 <p>&quot;Well, it&#x27;s about time I was going,&quot; Alec said and turned—toward me.</p>
-<p>&quot;…What?!&quot; He looked like he&#x27;d seen a bear or something. I imagined what was going through his mind. I wasn&#x27;t expecting this encounter. There&#x27;s no way this guy can be here. That Magic Armor, how? It was broken. That was the sort of face he made.</p>
+<p>&quot;…What?!&quot; He looked like he&#x27;d seen a bear or something. I imagined what was going through his mind. <em>I wasn&#x27;t expecting this encounter. There&#x27;s no way this guy can be here. That Magic Armor, how? It was broken.</em> That was the sort of face he made.</p>
 <p>&quot;Listen here, my son, and I&#x27;ll answer that for you.&quot; Only a few seconds had passed. As Alec stood there frozen, Sandor stood up.</p>
 <p>&quot;Playtime is over. You&#x27;re right, without a magic sword I cannot defeat you. That&#x27;s why I borrowed one from Eris. Only, it really is the bare minimum. With just a magic sword, I wouldn&#x27;t have much of a chance. So I waited. I held on and on, played dead, and waited. So that I could be sure of victory.&quot; As he spoke, Sandor drew a sword from behind him.</p>
 <p>It was Eris&#x27; s second sword. The Magic Sword Eminence.</p>
 <p>&quot;You want to know why I refuse to accept you? You want to be a hero, but in that pursuit you sully yourself with deeds unworthy of heroism. If you want to be a hero, act like it. Don&#x27;t steal victory through underhanded tactics! Don&#x27;t buy fame by beating down the weak. Find an opponent greater than yourself, against whom you have no chance of success. Challenge them, win, and claim your glory. Not as I did, but as the first North God Kalman did.&quot;</p>
 <p>Sandor drew his sword from its scabbard with an air of lofty detachment and held it ready.</p>
 <p>The Magic Sword Eminence was short. Wielding it, Sandor looked as mighty as befitted the name of North God.</p>
-<p>&quot;So that&#x27;s it. You were waiting for backup… Geese did tell me not to let Rudeus get into the Magic Armor. All he meant was not to let an opponent get into peak condition. You can&#x27;t seriously think you can win with just two of you against me and the King Dragon Blade?&quot;</p>
+<p>&quot;So that&#x27;s it. You were waiting for backup… Geese did tell me not to let Rudeus get into the Magic Armor. All he meant was not to let an opponent get into peak condition. You can&#x27;t seriously think you can win with just two of you against me <em>and</em> the King Dragon Blade?&quot;</p>
 <p>&quot;Who said there were two of us?&quot; Sandor said. As if in answer, the bushes behind him rustled, and out stepped a man and a woman. The woman had red hair, and the man green. It was Eris and Ruijerd. They must have regained consciousness while I was off getting the Magic Armor. They still had some visible injuries, but both were way tougher than me. Their injuries wouldn&#x27;t hinder them in a fight.</p>
 <p>Eris glanced my way. The look she gave me was strong and loaded with meaning. It said she trusted me to have her back. Ruijerd gave me the same look. He hadn&#x27;t seen the Magic Armor before, but his third eye must have shown him it was me. He unflinchingly trusted me to support him.</p>
 <p>And I would do exactly that. I&#x27;d support all three of them, including Sandor.</p>
@@ -37,7 +37,7 @@ nav_title = "Chapter 6"
 <p>&quot;Bring it.&quot; At Sandor&#x27;s words, our second round with the North God began.</p>
 <p>***</p>
 <p>The first to attack was Eris. She struck at her typical top speed along the shortest possible arc toward Alexander.</p>
-<p>Alec parried it. As the attacks continued, too fast for my eyes to follow, he parried them without breaking a sweat, from time to time throwing out a counter strike. There were no breaks between Eris&#x27;s attacks, but that was because I couldn&#x27;t keep up—there were openings.</p>
+<p>Alec parried it. As the attacks continued, too fast for my eyes to follow, he parried them without breaking a sweat, from time to time throwing out a counter strike. There were no breaks between Eris&#x27;s attacks, but that was because I couldn&#x27;t keep up—there <em>were</em> openings.</p>
 <p>He countered, but all his counters were rebuffed. That was Ruijerd. Every time Alec tried to exploit a hole in Eris&#x27;s defense, Ruijerd swung his spear and stole his chance. Ruijerd had become Eris&#x27;s shadow. No matter what misstep she made, so long as Ruijerd was there she had no weakness.</p>
 <p>Except for how Alec sometimes ignored gravity. Just when you thought you had him off balance, he&#x27;d make some bizarre contortion leading straight into an unpredictable move. Immediately after doing a big, acrobatic maneuver to evade, he&#x27;d suddenly plummet back to the ground and be back on the offensive.</p>
 <p>Even Ruijerd couldn&#x27;t keep up with moves like that. Those were the ones that Sandor blocked—Sandor, or the North God Kalman II, who was more familiar than anyone with gravity manipulation.</p>
@@ -55,19 +55,19 @@ nav_title = "Chapter 6"
 <p>Hold on… Alexander was still the North God. Even if he couldn&#x27;t control gravity, he&#x27;d still have the skill to fight. Duh. Gravity control wasn&#x27;t the core of his power. Even if, by shutting it down, I brought him down a rank, I was still two, or three, or maybe even more ranks lower than Sandor in close combat. Even with the Demon Eye of Foresight I couldn&#x27;t follow all Alec&#x27;s movements. I might end up placing a massive burden on Ruijerd and Eris. They were already starting to take minor wounds. The difference of a fingertip, a hair&#x27;s breadth, could lead to a severed artery.</p>
 <p>Eris was fighting at full pelt. Since early on she&#x27;d been attacking without pause, and yet every strike went wide. Alec was just that good. It was possible she was tired from her fight with the Sword God, or that Alec&#x27;s ultimate attack from earlier had injured her somewhere, but as far as I could tell, Eris was giving the best performance of her life.</p>
 <p>Only, I didn&#x27;t know how long she could keep it up. Ruijerd had only just recovered from the plague. I knew he&#x27;d been bedridden until only a few days earlier. His form was good now, but it was possible he&#x27;d suddenly collapse.</p>
-<p>What should I do? We won&#x27;t lose, carrying on like this, but we can&#x27;t win, either. I&#x27;ve got my magic, but Sandor&#x27;s going to hit his limit some time. What should I do? How can I do this?</p>
-<p>I agonized. Do I deploy a max-power Stone of Absorption and risk going on the frontline? Or should I try and break the deadlock with a different spell? Reset the board?</p>
+<p><em>What should I do? We won&#x27;t lose, carrying on like this, but we can&#x27;t win, either. I&#x27;ve got my magic, but Sandor&#x27;s going to hit his limit some time. What should I do? How can I do this?</em></p>
+<p>I agonized. <em>Do I deploy a max-power Stone of Absorption and risk going on the frontline? Or should I try and break the deadlock with a different spell? Reset the board?</em></p>
 <p>Just then, Alexander&#x27;s target shifted from Eris to Sandor. Because he wasn&#x27;t blocking Eris&#x27;s blows as much, cuts striped across Alexander&#x27;s body. But of course, none of them could be a decisive blow.</p>
 <p>I could see what he was after. He&#x27;d picked up on it too. If he took out Sandor, that would break the balance. If he just paid less attention to Eris and focused on bringing down Sandor, he could wrest victory from inevitable defeat.</p>
 <p>Something chilling ran down my spine. Sandor would die. Then, Eris would die. Then Ruijerd and then, in a one-on-one fight, he&#x27;d kill me too.</p>
 <p>We&#x27;d lose.</p>
-<p>You should probably win this quick, then, don&#x27;t you think?</p>
+<p><em>You should probably win this quick, then, don&#x27;t you think?</em></p>
 <p>Panic flooded me, which I simply couldn&#x27;t afford right now. Anxiety made me doubt my actions and misjudge things. I started making little errors. Ruijerd managed to cover for me all the same. I was obviously a burden on him. This wasn&#x27;t working. I needed something, one decisive play.</p>
 <p>Right as I thought that, it happened. The decisive blow came, right out of the depths of the forest.</p>
 <p>First came a lump of gray iron. It came hurtling out, rolled like a ball, then crashed into a tree and stopped. The hunk of iron soon moved—its helmet was askew, its heavy armor was dented. Blood ran from its head and poured unceasingly from its nose. Its face was dazed. Still, it kept hold of its weapons, scrunched up its simple and honest face with all its might, and glared at the opponent that had thrown it.</p>
 <p>It was Dohga. The next one to come hurtling along was a slim figure. He&#x27;d already lost his armor and was naked from the waist up. His scrawny frame looked like it might come to pieces the way he came hurtling by. He crashed into Dohga.</p>
 <p>Zanoba.</p>
-<p>Then came the decisive blow. It had red skin and long fangs and was close to three meters tall, a mountain of muscle that dropped down from above like a monkey. A weird sound, neither bam nor thud nor crash, resounded when the musclebound brute hit the ground nearby.</p>
+<p>Then came the decisive blow. It had red skin and long fangs and was close to three meters tall, a mountain of muscle that dropped down from above like a monkey. A weird sound, neither <em>bam</em> nor <em>thud</em> nor <em>crash</em>, resounded when the musclebound brute hit the ground nearby.</p>
 <p>It was Ogre God Marta. The second I saw him, my whole body froze and a shudder ran through me. Disordered thoughts whizzed through my skull.</p>
 <p>We were in a delicate balance. Why were they here? Could we win? Were we doomed? Should we fall back? Or should we attack?</p>
 <p>&quot;Hey there, Ogre God!&quot; Alexander looked thrilled with this turn of luck. As soon as he laid eyes on the Ogre God, a beaming smile spread across his face. Seeing it made me wonder if he&#x27;d been panicking the way I had.</p>
@@ -80,35 +80,35 @@ nav_title = "Chapter 6"
 <p>We no longer had any power to spare. I had to provide support against two targets now, so I was constantly running around the battlefield. I caught an opening and managed to heal Dohga and Zanoba. Both of them had been losing against the Ogre God. He moved with unbelievable speed for his huge frame, and every attack sent one of them flying. Zanoba ripped up a nearby tree and threw it at him, but the ogre came back and tossed him away like it hadn&#x27;t done any damage at all. Dohga attacked with his giant</p>
 <p>axe. He might as well have been a mosquito for all the marks it left, then the Ogre God punched him back and he went sailing into the air as well. Dohga and Zanoba weren&#x27;t powerless, and yet he brushed them off like dust. His power was overwhelming.</p>
 <p>Alexander kept his attack up without change. Sandor was eking out the very last of his strength to keep going, but somehow, he was holding his ground.</p>
-<p>Okay, not &quot;somehow.&quot; Sandor wasn&#x27;t giving ground, but Ruijerd was getting tired. He was pushing himself too hard. This was bad. Real bad. We weren&#x27;t looking for a way to break the deadlock anymore. In a few more minutes, our line was going to collapse. We had to retreat. There was nothing behind us. We&#x27;d end up taking the fight to Orsted. Orsted wouldn&#x27;t die, of course. He could swat them like bugs…this time.</p>
-<p>Are you sure, though? Are you sure about this? That means you lose. Are you really okay with that?</p>
-<p>Was there really no way to improve the situation? I had to stop one of them at least. Think, Rudeus. There had to be something. If I used every trick I had, I had to be able to fight back.</p>
+<p>Okay, not &quot;somehow.&quot; Sandor wasn&#x27;t giving ground, but Ruijerd was getting tired. He was pushing himself too hard. This was bad. <em>Real</em> bad. We weren&#x27;t looking for a way to break the deadlock anymore. In a few more minutes, our line was going to collapse. We had to retreat. There was nothing behind us. We&#x27;d end up taking the fight to Orsted. Orsted wouldn&#x27;t die, of course. He could swat them like bugs…this time.</p>
+<p><em>Are you sure, though? Are you sure about this? That means you</em> lose<em>. Are you really okay with that?</em></p>
+<p>Was there really no way to improve the situation? I had to stop one of them at least. <em>Think, Rudeus.</em> There had to be something. If I used every trick I had, I had to be able to fight back.</p>
 <p>After losing almost all my scrolls, I&#x27;d managed to get the Version One back. I had its gatling gun, its bulk, its speed, its power. Wasn&#x27;t there something I could do? Something, anything?</p>
-<p>Anything…!</p>
+<p><em>Anything…!</em></p>
 <p>&quot;Ugh!&quot; Finally, Sandor fell to his knees. I stared at the Ogre God in despair. This guy was a runaway train. We would be doomed if I didn&#x27;t stop him here. I wanted one more idea. Just one more. We&#x27;d had a small and precarious advantage, now we were being pushed into a precarious disadvantage, but I could still turn it around. If I could do something about the Ogre God, Zanoba and Dohga could change out with Sandor, and we could bring him back to the backline to let him recover.</p>
-<p>I just needed one idea. Just one.</p>
+<p>I just needed one idea. Just <em>one.</em></p>
 <p>&quot;Aaaahahahahahaaa!&quot;</p>
 <p>Just then, a voice echoed around us, and at the same time, my shoulder grew hot.</p>
 <p>Both Alec and Sandor&#x27;s heads shot up and they looked around, like they recognized the voice.</p>
 <p>&quot;Things are getting pretty interesting here, huh?&quot; the voice said. A second later, something black leapt from the undergrowth. The figure, clad in black armor and with a sword in one hand, faced the Ogre God head on.</p>
-<p>&quot;Graaaaah!&quot; They swung at the Ogre God. There was incredible noise, somewhere between a clang and a crack, and the sword broke. Blood gushed from the arm the Ogre God had used to guard against the blow and he tottered back a few steps.</p>
+<p>&quot;Graaaaah!&quot; They swung at the Ogre God. There was incredible noise, somewhere between a <em>clang</em> and a <em>crack</em>, and the sword broke. Blood gushed from the arm the Ogre God had used to guard against the blow and he tottered back a few steps.</p>
 <p>&quot;Haaa!&quot; The black figure didn&#x27;t pay any attention to their broken sword. They closed in and threw a straight, sharp punch into the Ogre God&#x27;s gut.</p>
 <p>&quot;Oof…&quot; The Ogre God doubled over for a second and the figure threw a left hook. His head snapped around and he stumbled, but he didn&#x27;t fall. Raising his uninjured arm, he punched the black figure. They went flying a few meters back, then spread their wings in midair, and landed lightly on the ground.</p>
-<p>&quot;Fwaaahahahaha! Good, good! I like that!&quot; That was demon tongue, coming out of that black figure. I gulped.</p>
+<p>&quot;Fwaaahahahaha! Good, good! I <em>like</em> that!&quot; That was demon tongue, coming out of that black figure. I gulped.</p>
 <p>&quot;Lady Atofe…!&quot;</p>
 <p>It was Immortal Demon King Atofe. The most feared being on the Demon Continent was here in front of me.</p>
 <p>&quot;Why…&quot;</p>
 <p>She looked around at me and her face contorted into a savage grin.</p>
 <p>&quot;Heheheh. I smelt you were in trouble through my offshoot, so I thought the big fight must be close! I got here fast as I could! I&#x27;ve got no idea what&#x27;s going on at all, but I made it in time! The Ogre God and Alec… Heheheh, fwaha…ha, fwaaahahahaha!&quot; Atofe cackled so hard you had to wonder what was so funny. Her unsettling laughter echoed around the forest and left Alexander stunned.</p>
-<p>Offshoot? What offshoot…?</p>
+<p><em>Offshoot? What offshoot…?</em></p>
 <p>Oh, right. She was talking about the arm. Apparently, it hadn&#x27;t accurately conveyed the situation to her, but still, she&#x27;d made it. Atofe was here. We had all the firepower we needed.</p>
 <p>We could win this!</p>
 <p>&quot;I, Immortal Demon King Atofe, will wipe every last one of you from the face of the earth!&quot;</p>
-<p>Not every one of us, please! Ah, crap. Moore isn&#x27;t around.</p>
-<p>What about the rest of her personal guard? There&#x27;s no one to rein her in! She&#x27;s on the loose!</p>
-<p>&quot;Or, that&#x27;s what I&#x27;d like to do…&quot; she muttered. She faced off against the Ogre God. He was close to twice her size. Atofe was tall for a woman, but the Ogre God was huge in every dimension.</p>
+<p><em>Not every one of us, please! Ah, crap. Moore isn&#x27;t around.</em></p>
+<p>What about the rest of her personal guard? <em>There&#x27;s no one to rein her in! She&#x27;s on the loose!</em></p>
+<p>&quot;Or, that&#x27;s what I&#x27;d <em>like</em> to do…&quot; she muttered. She faced off against the Ogre God. He was close to twice her size. Atofe was tall for a woman, but the Ogre God was <em>huge</em> in every dimension.</p>
 <p>&quot;Ogre God Marta!&quot; Atofe cried.</p>
-<p>&quot;Am I to fight you next, then?&quot; the Ogre God replied in fluent demon tongue. He spoke with a dignified air that didn&#x27;t match his exterior. That&#x27;s God-tier for you, I guess.</p>
+<p>&quot;Am I to fight you next, then?&quot; the Ogre God replied in fluent demon tongue. He spoke with a dignified air that didn&#x27;t match his exterior. <em>That&#x27;s God-tier for you, I guess.</em></p>
 <p>&quot;My personal guard has conquered your puny Ogre Island! Leave here quietly, or we slaughter them all!&quot;</p>
 <p>The Ogre God stared at Atofe in shock. He was trying to work out the truth. Was she lying? There was one thing I knew. There was no way Atofe was smart enough to lie.</p>
 <p>&quot;Me, I&#x27;m happy to kill them all! In fact, I like that way best! Yes! Killing them all is best! Now fight me!&quot;</p>
@@ -125,9 +125,9 @@ nav_title = "Chapter 6"
 <p>His dad was his enemy, and his grandma couldn&#x27;t be reasoned with. You couldn&#x27;t help but feel a bit sorry for him in this situation, standing there, dumbfounded. He looked lost.</p>
 <p>There was one person here who wasn&#x27;t sensitive enough to pick up on that sort of thing.</p>
 <p>&quot;Gaaah!&quot; Eris saw an opening and struck Alec with all her strength.</p>
-<p>&quot;Ngh!&quot; Alec guarded. He guarded. He didn&#x27;t evade or deflect, he tried to guard. He tried to guard against the Sword God Style&#x27;s ultimate attack, the Sword of Light. He tried to guard against an ultimate attack that was impossible to guard against.</p>
+<p>&quot;Ngh!&quot; Alec guarded. He <em>guarded</em>. He didn&#x27;t evade or deflect, he tried to guard. He tried to guard against the Sword God Style&#x27;s ultimate attack, the Sword of Light. He tried to guard against an ultimate attack that was impossible to guard against.</p>
 <p>Before I knew it, Alexander&#x27;s left hand was flying, spraying up blood. Around and around it went.</p>
-<p>&quot;Oh.&quot; The arm landed with a thud on the ground. That became the sign for the fight to recommence, the decisive move. There was hardly any structure to the fight as it started again.</p>
+<p>&quot;Oh.&quot; The arm landed with a <em>thud</em> on the ground. That became the sign for the fight to recommence, the decisive move. There was hardly any structure to the fight as it started again.</p>
 <p>If Alexander had had both arms, maybe he could have turned this around somehow. But alas! The hand holding all his cards had been cut off and sent flying. Without a left hand, this high-level, precariously balanced conflict wouldn&#x27;t even be a fight anymore. And it wasn&#x27;t. It only took five minutes. Alec, covered in wounds, went running pathetically away.</p>
 <p>&quot;Hah…hah…&quot;</p>
 <p>It wasn&#x27;t a tactical retreat. With fear and ragged breathing, he fled as if from death itself.</p>
@@ -144,17 +144,17 @@ nav_title = "Chapter 6"
 <p>&quot;That&#x27;s right! Now accept your death quietly!&quot;</p>
 <p>&quot;Mother, I&#x27;m talking to Alec right now, so be quiet a minute, okay?&quot;</p>
 <p>&quot;Hrmm…oh…&quot;</p>
-<p>She shut up at a word from Sandor. Atofe did what he said. Watching them, I was reminded again that these guys were family. Even if there was zero resemblance.</p>
+<p>She shut up at a word from Sandor. <em>Atofe</em> did what he said. Watching them, I was reminded again that these guys were family. Even if there was zero resemblance.</p>
 <p>&quot;Ahem… When you got your arm cut off after keeping your power in reserve to fight Orsted, you lost. I told you long ago to never, ever underestimate your opponent.&quot;</p>
 <p>He was defeated. He held back, and that was a mistake he couldn&#x27;t recover from. It happens a lot, y&#x27;know. Especially when you underestimate someone.</p>
 <p>&quot;Throw down your sword and surrender yourself. As your father, I will see you don&#x27;t come to harm.&quot;</p>
-<p>Kind words from Sandor. As your father. These past few years, I&#x27;d gotten weak to those words. Really, I couldn&#x27;t let it slide that this guy had attempted to slaughter all the Superd. He wasn&#x27;t a direct disciple to the Man-God, more like a disciple of Geese&#x27;s, and it was only attempted slaughter… If little Alec gives a tearful apology, then I guess… Though, hm. Even then…</p>
+<p>Kind words from Sandor. <em>As your father</em>. These past few years, I&#x27;d gotten weak to those words. Really, I couldn&#x27;t let it slide that this guy had attempted to slaughter all the Superd. He wasn&#x27;t a direct disciple to the Man-God, more like a disciple of Geese&#x27;s, and it was only <em>attempted</em> slaughter… <em>If little Alec gives a tearful apology, then I guess…</em> Though, hm. Even then…</p>
 <p>He looked young. Just like Paul had been young. I didn&#x27;t know his actual age, but he had to be far younger than Paul was when I was born.</p>
 <p>You could even call him a child.</p>
 <p>Maybe…maybe if he applied himself to learn to be better from now on…</p>
 <p>Then it hit me. Was a child like that going to quietly listen to someone talking down to him?</p>
 <p>&quot;I won&#x27;t!&quot;</p>
-<p>Yeah, thought not.</p>
+<p><em>Yeah, thought not.</em></p>
 <p>&quot;I didn&#x27;t even fight with my full strength! The thing with my left hand was just luck! If the Ogre God hadn&#x27;t run, this would never have happened!&quot;</p>
 <p>&quot;That&#x27;s why you lost.&quot;</p>
 <p>&quot;What, so I shouldn&#x27;t rely on my allies?! You&#x27;re one to talk, fighting in a group like that!&quot;</p>
@@ -175,14 +175,14 @@ nav_title = "Chapter 6"
 <p>&quot;Raaaaaa!&quot; Next second, Alec swung his sword. All five of us, including me, scattered, leaping back.</p>
 <p>Alec wasn&#x27;t aiming at any of us.</p>
 <p>&quot;Gah!&quot;</p>
-<p>His target was the ground. He struck the earth with the greatblade and broke it. An eruption of dust filled my vision for a second. Is he going to attack from behind the smokescreen? I wondered, bracing myself. Then, the Eye of Distant Sight caught a gap in the dust.</p>
+<p>His target was the ground. He struck the earth with the greatblade and broke it. An eruption of dust filled my vision for a second. <em>Is he going to attack from behind the smokescreen?</em> I wondered, bracing myself. Then, the Eye of Distant Sight caught a gap in the dust.</p>
 <p>I saw Alexander falling backward, into the ravine…</p>
-<p>No way, did he self-KO? Did he push himself into the ravine with his own attack…?</p>
+<p><em>No way, did he self-KO? Did he push himself into the ravine with his own attack…?</em></p>
 <p>That wasn&#x27;t it. There was a smile on Alec&#x27;s face. A nasty smile. A victorious smile.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-25/insert-05.webp" alt="Illustration" loading="lazy" />
 </div>
-<p>Oh…right.</p>
+<p><em>Oh…right.</em></p>
 <p>Alec had fallen off the bridge, but he&#x27;d be back. The King Dragon Blade&#x27;s power was gravity manipulation. Even if he fell all the way to the bottom of the ravine, he&#x27;d have no trouble getting back up.</p>
 <p>The next second, I jumped.</p>
 <p>I jumped after Alec, into the ravine.</p>

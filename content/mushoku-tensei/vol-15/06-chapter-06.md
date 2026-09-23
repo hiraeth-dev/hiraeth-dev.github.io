@@ -35,75 +35,75 @@ nav_title = "Chapter 6"
 <p>All things considered, barraging him with wide area attacks from a great distance seemed like the smartest approach. The damage would add up eventually. And if I stayed far enough away that he couldn&#x27;t perceive me, he wouldn&#x27;t be able to interrupt me with Disturb Magic.</p>
 <p>There was also a chance that I could catch him unawares and smash through his defenses when his guard was down. Setting up a trap might not be a bad idea. I could lure him to a deserted area, where he&#x27;d find something that would catch his attention…something that would explode the moment he picked it up. I could use that as my signal to fire magic at him from a distance.</p>
 <p>The more I thought about it, the more it seemed like the right approach. The question was: how would I go about luring him to this location? Maybe I could take Nanahoshi as a &quot;hostage&quot;, or send him a message from the Man-God. Both seemed like they might work.</p>
-<p>That said, I wasn&#x27;t optimistic enough to think that my initial long-range attacks would be enough to take him down. There was a chance it might work, but I needed to assume otherwise. Once he found his way to me, it would come down to a close-range fight in my Magic Armor. I wasn&#x27;t sure how well my mind could keep up with an ultra-high-speed battle…but there was no point worrying about that until I&#x27;d actually taken the Magic Armor for a spin.</p>
+<p>That said, I wasn&#x27;t optimistic enough to think that my initial long-range attacks would be enough to take him down. There was a <em>chance</em> it might work, but I needed to assume otherwise. Once he found his way to me, it would come down to a close-range fight in my Magic Armor. I wasn&#x27;t sure how well my mind could keep up with an ultra-high-speed battle…but there was no point worrying about that until I&#x27;d actually taken the Magic Armor for a spin.</p>
 <p>As I thought all this over, I found myself remembering my childhood in this world. For a while, I spent a lot of time working on a plan to beat Paul in a fight. I&#x27;d been hoping to surpass him while he was still in his prime. In the end, though, I never defeated him even once.</p>
 <p>Still, the tactics I&#x27;d worked out back then were deeply rooted in my mind. I knew how to use my magic in coordination with the movements of my body. I knew how to move in three dimensions. No matter how overwhelming my opponent might be, my basic approach wasn&#x27;t going to change. I needed to keep him at a distance, blasting him with attacks while he tried to catch me. I needed to keep the pressure up, and force him to make disadvantageous decisions.</p>
 <p>That was how I fought when I was at my best.</p>
 <p>Of course, Orsted had Disturb Magic and his Wyrmgates. There were no doubt other tricks up his sleeve, as well. It felt safe to say that this would never go according to plan. The trap and the ambush were a good start. What else did I need to beat him? It was crucial for me to really think this through. I had to consider every possibility, then focus on the more promising ideas.</p>
 <p>In all honesty, I knew my mind wasn&#x27;t functioning too well right now. I was impatient, and scared, and increasingly obsessed with my task. It would probably have been wiser to take things more slowly, and try out some of my ideas on an experimental basis.</p>
-<p>The single best plan would probably have involved cornering Orsted slowly and methodically, over a period of ten years or so. But if I were that lackadaisical about this, the Man-God might change his mind, and I might come home to find I&#x27;d lost someone I loved. More than anything else, I was terrified of that.</p>
+<p>The single <em>best</em> plan would probably have involved cornering Orsted slowly and methodically, over a period of ten years or so. But if I were that lackadaisical about this, the Man-God might change his mind, and I might come home to find I&#x27;d lost someone I loved. More than anything else, I was terrified of that.</p>
 <p>And one night, as my preparations were proceeding, he came to me again.</p>
 <p>***</p>
 <p>I found myself in a white space. Presumably, I was at the center of the barren world.</p>
 <p>&quot;Hey there! Looks like things are coming along nicely, huh?&quot;</p>
-<p>Yeah. I&#x27;ll fight Orsted, just like you asked me to.</p>
-<p>&quot;Now, now, I didn&#x27;t ask you to fight him. I just asked you to kill him!&quot;</p>
-<p>You sure look like you&#x27;re in a good mood today. Are you that happy to have me dancing on your strings?</p>
+<p><em>Yeah. I&#x27;ll fight Orsted, just like you asked me to.</em></p>
+<p>&quot;Now, now, I didn&#x27;t ask you to <em>fight</em> him. I just asked you to kill him!&quot;</p>
+<p><em>You sure look like you&#x27;re in a good mood today. Are you that happy to have me dancing on your strings?</em></p>
 <p>&quot;C&#x27;mon, this is exciting stuff! Even I don&#x27;t know what&#x27;s gonna happen next!&quot;</p>
-<p>Glad you&#x27;re enjoying yourself. I wasn&#x27;t expecting to see you again so soon, though. Does this mean you just made up that stuff about wavelengths aligning or whatever?</p>
+<p><em>Glad you&#x27;re enjoying yourself. I wasn&#x27;t expecting to see you again so soon, though. Does this mean you just made up that stuff about wavelengths aligning or whatever?</em></p>
 <p>&quot;Oh, yeah. Total nonsense.&quot;</p>
-<p>You could at least pretend to feel a little shame… So I&#x27;m guessing the part about &#x27;I can only appear to certain people&#x27; was a lie too?</p>
-<p>&quot;Yep, pure fiction. But hey, it must have been a nice ego boost to hear you were the chosen one, right?&quot;</p>
-<p>Tch… Well, whatever. Within the next few days, I&#x27;ll tell Sylphie and Roxy that I&#x27;m planning to fight Orsted. If he does ends up killing me, my kids will grow up knowing he&#x27;s the man who murdered their father. That should be plenty of reason for them to hate him, so—</p>
+<p><em>You could at least pretend to feel a little shame… So I&#x27;m guessing the part about &#x27;I can only appear to certain people&#x27; was a lie too?</em></p>
+<p>&quot;Yep, pure fiction. But hey, it must have been a nice ego boost to hear you were <em>the chosen one</em>, right?&quot;</p>
+<p><em>Tch… Well, whatever. Within the next few days, I&#x27;ll tell Sylphie and Roxy that I&#x27;m planning to fight Orsted. If he does ends up killing me, my kids will grow up knowing he&#x27;s the man who murdered their father. That should be plenty of reason for them to hate him, so—</em></p>
 <p>&quot;Sorry. That&#x27;s not going to be enough to knock destiny off track. You need to kill him, or I&#x27;ll erase your descendants—no matter how long it takes.&quot;</p>
-<p>Ugh. Do you have to phrase it like that? Well, whatever. In any case, it&#x27;s going to take me a while to complete the Magic Armor. We&#x27;re breaking new ground here, and Cliff&#x27;s struggling with some of the theories involved. I&#x27;m trying to push things along as fast as I can, but I think it&#x27;ll be another six months or so…</p>
+<p><em>Ugh. Do you have to phrase it like that? Well, whatever. In any case, it&#x27;s going to take me a while to complete the Magic Armor. We&#x27;re breaking new ground here, and Cliff&#x27;s struggling with some of the theories involved. I&#x27;m trying to push things along as fast as I can, but I think it&#x27;ll be another six months or so…</em></p>
 <p>&quot;Cliff should already be capable of designing magic circles to strengthen the rocks. You should focus solely on making the joints and the external shell, since that needs to be as tough as possible. Also, when you&#x27;re designing the magic circles for the torso, make sure you use the Alistair Method rather than the Wind System. That should help you past the tough parts.&quot;</p>
-<p>Uh… no kidding?</p>
+<p><em>Uh… no kidding?</em></p>
 <p>&quot;Tell Zanoba you want the thing to be a bit more on the bulky side, as well. You&#x27;ll burn more mana that way, but it&#x27;ll let you layer more magic circles underneath the main ones. Design the circles on the lower layer to repair the more important ones if they get damaged. That should allow you to keep moving, even if the thing&#x27;s half-destroyed.&quot;</p>
-<p>Huh? Wait. I didn&#x27;t know you were an expert on this stuff.</p>
+<p><em>Huh? Wait. I didn&#x27;t know you were an expert on this stuff.</em></p>
 <p>&quot;Well, I am the Man-God, you know. I&#x27;m familiar enough with the Fighting God&#x27;s armor to give you a few pointers.&quot;</p>
-<p>You know, that reminds me… Don&#x27;t the people of the world call you the God of Men instead? Is there any significance to that?</p>
+<p><em>You know, that reminds me… Don&#x27;t the people of the world call you the God of Men instead? Is there any significance to that?</em></p>
 <p>&quot;The God of Men is something like a nickname of mine, I suppose. It just caught on for some reason, I guess! Man-God is my proper name.&quot;</p>
-<p>Why do I feel like you&#x27;re lying to me yet again? Not that I really care that much about your name…More importantly, do you think I</p>
-<p>can win? Let&#x27;s say I build the Magic Armor, set a trap, and launch a sneak attack. Do I have a chance?</p>
+<p><em>Why do I feel like you&#x27;re lying to me yet again? Not that I really care that much about your name…More importantly, do you think I</em></p>
+<p><em>can win? Let&#x27;s say I build the Magic Armor, set a trap, and launch a sneak attack. Do I have a chance?</em></p>
 <p>&quot;Ooh, good question… I mean, you&#x27;ve got as much mana as Laplace to work with, right? If you go all-out, I bet you&#x27;ll put up a good fight.&quot;</p>
-<p>That&#x27;s not super reassuring. Mind being less vague? I wouldn&#x27;t mind if you dropped me a few more hints on strategy…</p>
-<p>&quot;All right then. Get yourself some magical implements—the kind that fire off an offensive spell when you feed them mana. Shouldn&#x27;t be too hard to find those in Sharia, right? They&#x27;re designed to only consume a little bit of juice, so ordinary folks can use them, but it&#x27;s easy enough to modify them so they use more mana…just like that Zaliff Prosthesis of yours. Make yourself a few really high-powered ones, the sort only you could use. You&#x27;ll get some new attacks for your arsenal, and a way to work around Disturb Magic.&quot;</p>
-<p>Oh. Wow. Gotta say, you&#x27;re giving me some really detailed advice for a change.</p>
-<p>&quot;Well, you&#x27;re throwing yourself into this more enthusiastically than I expected. Why wouldn&#x27;t I help out? I really do want Orsted dead, you know.&quot;</p>
-<p>…Can&#x27;t shake the feeling there&#x27;s something more to this. For all I know, if I design the Magic Armor according to your instructions, it&#x27;ll explode the moment I try to activate it.</p>
+<p><em>That&#x27;s not super reassuring. Mind being less vague? I wouldn&#x27;t mind if you dropped me a few more hints on strategy…</em></p>
+<p>&quot;All right then. Get yourself some magical implements—the kind that fire off an offensive spell when you feed them mana. Shouldn&#x27;t be too hard to find those in Sharia, right? They&#x27;re designed to only consume a little bit of juice, so ordinary folks can use them, but it&#x27;s easy enough to modify them so they use more mana…just like that Zaliff Prosthesis of yours. Make yourself a few <em>really</em> high-powered ones, the sort only you could use. You&#x27;ll get some new attacks for your arsenal, and a way to work around Disturb Magic.&quot;</p>
+<p><em>Oh. Wow. Gotta say, you&#x27;re giving me some really detailed advice for a change.</em></p>
+<p>&quot;Well, you&#x27;re throwing yourself into this more enthusiastically than I expected. Why wouldn&#x27;t I help out? I really <em>do</em> want Orsted dead, you know.&quot;</p>
+<p><em>…Can&#x27;t shake the feeling there&#x27;s something more to this. For all I know, if I design the Magic Armor according to your instructions, it&#x27;ll explode the moment I try to activate it.</em></p>
 <p>&quot;…Whose life would you like to bet on that intriguing theory? Go on, pick: Aisha, Norn, Lilia, or Zenith?&quot;</p>
-<p>Tch…</p>
+<p><em>Tch…</em></p>
 <p>&quot;Like I&#x27;ve told you, I can&#x27;t see Orsted&#x27;s future. That means I can&#x27;t see the outcome of your battle, either. I don&#x27;t know what&#x27;s going to happen to you.&quot;</p>
-<p>Okay. And that means you don&#x27;t know for sure that I&#x27;m going to lose. Correct?</p>
+<p><em>Okay. And that means you don&#x27;t know for sure that I&#x27;m going to lose. Correct?</em></p>
 <p>&quot;Exactly.&quot;</p>
-<p>By the way… if you can&#x27;t see Orsted&#x27;s future, how do you know that he&#x27;s going to join forces with my descendants in the future?</p>
-<p>&quot;I can&#x27;t see the man himself, but I can certainly see my own future. It involves your descendants, some man I don&#x27;t recognize, and Orsted surrounding me.&quot;</p>
-<p>You can see anything you&#x27;re going to experience personally, huh? So what happens after they show up? They just beat you to a pulp or what?</p>
+<p><em>By the way… if you can&#x27;t see Orsted&#x27;s future, how do you know that he&#x27;s going to join forces with my descendants in the future?</em></p>
+<p>&quot;I can&#x27;t see the man himself, but I can certainly see my <em>own</em> future. It involves your descendants, some man I don&#x27;t recognize, and Orsted surrounding me.&quot;</p>
+<p><em>You can see anything you&#x27;re going to experience personally, huh? So what happens after they show up? They just beat you to a pulp or what?</em></p>
 <p>&quot;Yep. They kill me rather brutally. I don&#x27;t put up much of a fight.&quot;</p>
-<p>Hmm… Look, why is Orsted after you, anyway? You sure you didn&#x27;t do anything unspeakably cruel to him?</p>
+<p><em>Hmm… Look, why is Orsted after you, anyway? You sure you didn&#x27;t do anything unspeakably cruel to him?</em></p>
 <p>&quot;Oh, who knows. I don&#x27;t recall doing anything to the man himself, at the very least.&quot;</p>
-<p>Either you don&#x27;t want to tell me, or you genuinely don&#x27;t know. I guess it doesn&#x27;t matter which. It&#x27;s not like I can trust anything you tell me, anyway. You lie constantly.</p>
-<p>&quot;Now that&#x27;s a little harsh. The only malicious lie I ever told you was that little fib about the basement, you know?&quot;</p>
-<p>All your advice up until then was just laying the groundwork for that moment, right?</p>
-<p>&quot;Yeah, true! But you know, if you hadn&#x27;t gone and gotten Roxy pregnant, I wouldn&#x27;t have needed to do that.&quot;</p>
-<p>Why the hell couldn&#x27;t you have just told me not to have a kid with her, then?! Why did you have to make this so complicated?!</p>
+<p><em>Either you don&#x27;t want to tell me, or you genuinely don&#x27;t know. I guess it doesn&#x27;t matter which. It&#x27;s not like I can trust anything you tell me, anyway. You lie constantly.</em></p>
+<p>&quot;Now that&#x27;s a little harsh. The only <em>malicious</em> lie I ever told you was that little fib about the basement, you know?&quot;</p>
+<p><em>All your advice up until then was just laying the groundwork for that moment, right?</em></p>
+<p>&quot;Yeah, true! But you know, if you hadn&#x27;t gone and gotten Roxy pregnant, I wouldn&#x27;t have <em>needed</em> to do that.&quot;</p>
+<p><em>Why the hell couldn&#x27;t you have just told me not to have a kid with her, then?! Why did you have to make this so complicated?!</em></p>
 <p>&quot;It wouldn&#x27;t have worked. No matter what I said, you would have knocked her up. That&#x27;s just the way it had to be, I guess. No matter how many times I tweaked and prodded at the future, it just didn&#x27;t want to change…&quot;</p>
-<p>Maybe so, but you could have at least— Agh. Never mind. Sorry for yelling at you. In the end, I did marry Roxy, and I did get her pregnant. Now that I think about it, some of the things I did to end up here felt a little strange to me. Out of character, even. I guess that&#x27;s how this destiny thing works. And I get why you want to change it.</p>
-<p>I&#x27;ll do what you want, Man-God. I&#x27;ll follow your orders. I&#x27;ll kill Orsted. But before I do that, there&#x27;s something I need to say to you.</p>
+<p><em>Maybe so, but you could have at least— Agh. Never mind. Sorry for yelling at you. In the end, I did marry Roxy, and I did get her pregnant. Now that I think about it, some of the things I did to end up here felt a little strange to me. Out of character, even. I guess that&#x27;s how this destiny thing works. And I get why you want to change it.</em></p>
+<p><em>I&#x27;ll do what you want, Man-God. I&#x27;ll follow your orders. I&#x27;ll kill Orsted. But before I do that, there&#x27;s something I need to say to you.</em></p>
 <p>&quot;What&#x27;s that?&quot;</p>
-<p>Once Orsted is dead, I want you to leave me alone for the rest of my life. Don&#x27;t meddle with my family, either. Please. I want you to promise me that.</p>
+<p><em>Once Orsted is dead, I want you to leave me alone for the rest of my life. Don&#x27;t meddle with my family, either. Please. I want you to promise me that.</em></p>
 <p>&quot;What&#x27;s this? Hmm. And here I thought you didn&#x27;t trust my promises anymore.&quot;</p>
-<p>I don&#x27;t. Of course I don&#x27;t… but I have to believe you&#x27;re not lying about this one thing. If you&#x27;re not going to let me off the hook no matter what, maybe I&#x27;ll just join up with Orsted and start working against you.</p>
-<p>&quot;Oh, go right ahead. I can&#x27;t kill you, sure, and I can&#x27;t kill him either. But you don&#x27;t want to see what I can do. You&#x27;ll find out exactly what it means to make an enemy out of me.&quot;</p>
-<p>You might be bluffing right now. Maybe threatening me is the best you&#x27;ve got. I mean, you had to manipulate me for years before you could get me to make one little mistake… For all I know, you might be talking tough because you&#x27;re terrified to have me as an enemy.</p>
+<p><em>I don&#x27;t. Of course I don&#x27;t… but I have to believe you&#x27;re not lying about this one thing. If you&#x27;re not going to let me off the hook no matter what, maybe I&#x27;ll just join up with Orsted and start working against you.</em></p>
+<p>&quot;Oh, go right ahead. I can&#x27;t kill you, sure, and I can&#x27;t kill him either. But you don&#x27;t want to see what I <em>can</em> do. You&#x27;ll find out exactly what it means to make an enemy out of me.&quot;</p>
+<p><em>You might be bluffing right now. Maybe threatening me is the best you&#x27;ve got. I mean, you had to manipulate me for years before you could get me to make one little mistake… For all I know, you might be talking tough because you&#x27;re terrified to have me as an enemy.</em></p>
 <p>&quot;Please. You&#x27;ve got a very strong destiny, so I was just trying to nip things in the bud as subtly as possible… Oh, forget it. It&#x27;s not like you&#x27;re going to believe anything I say, right? Go ahead, underestimate me all you want. Bye now! You might live to regret this.&quot;</p>
-<p>Uh… no. Sorry. I take it back. Give me a minute here. Look, all I want is a little reassurance. You say you&#x27;re going to kill my family if I</p>
-<p>lose to Orsted. But even if I win, it feels very possible that you&#x27;ll turn around and kill them anyway. That&#x27;s not great for my motivation, you know? I need to know there&#x27;s some point in me doing this.</p>
+<p><em>Uh… no. Sorry. I take it back. Give me a minute here. Look, all I want is a little reassurance. You say you&#x27;re going to kill my family if I</em></p>
+<p><em>lose to Orsted. But even if I win, it feels very possible that you&#x27;ll turn around and kill them anyway. That&#x27;s not great for my motivation, you know? I need to know there&#x27;s some point in me doing this.</em></p>
 <p>&quot;…Sigh. I suppose you&#x27;re right. Here goes, then: In the name of the Man-God, I swear to honor my promise. Once you defeat Orsted, I won&#x27;t have anything to worry about. That means I won&#x27;t need to bother you ever again. I won&#x27;t speak to, harass, or attempt to harm you, your wives, your mother, your sisters, your descendants, or your pets.&quot;</p>
-<p>You really mean that, right? I&#x27;m going to hold you to it.</p>
+<p><em>You really mean that, right? I&#x27;m going to hold you to it.</em></p>
 <p>&quot;Sure. If you&#x27;d like, I&#x27;m even willing to offer a little helpful advice if your family ever finds itself in a crisis.&quot;</p>
-<p>…I&#x27;ve had enough of your advice for one lifetime, thanks.</p>
+<p><em>…I&#x27;ve had enough of your advice for one lifetime, thanks.</em></p>
 <p>&quot;Oh yeah? Well then, good luck with Orsted.&quot;</p>
 <p>With those final words echoing in my ears, I felt myself sink into unconsciousness.</p>
 <p>***</p>
@@ -131,7 +131,7 @@ nav_title = "Chapter 6"
 <p>I was just trying to be reassuring, of course. It didn&#x27;t work. Roxy narrowed her eyes and pouted in displeasure. &quot;You used to be such an honest, sweet kid, Rudy. But lately all you do is lie and hide things from me.&quot;</p>
 <p>The words stung quite a bit. In all fairness, though, I&#x27;d done plenty of lying and deceiving even when I was a kid.</p>
 <p>&quot;Sorry, Roxy…&quot;</p>
-<p>&quot;Oh, that&#x27;s all right. I&#x27;m hiding something from you too, after all. But you know, Rudy… I am at least discussing that matter with people I can trust. I&#x27;m not saying it has to be me, but I hope you&#x27;re confiding in someone. You&#x27;re not trying to face this all alone, are you?&quot;</p>
+<p>&quot;Oh, that&#x27;s all right. I&#x27;m hiding something from you too, after all. But you know, Rudy… I am at least discussing that matter with people I can trust. I&#x27;m not saying it has to be me, but I hope you&#x27;re confiding in <em>someone.</em> You&#x27;re not trying to face this all alone, are you?&quot;</p>
 <p>&quot;Nah. Don&#x27;t worry. I&#x27;ll be okay.&quot;</p>
 <p>I had a good idea as to what Roxy&#x27;s secret was. Lately, she hadn&#x27;t been letting me do anything too… active in the bedroom. It was partially because I wasn&#x27;t asking, but I noticed she was actively steering me away from making the suggestion. Given what I&#x27;d read in the diary, she was probably starting to suspect that she was pregnant. She wasn&#x27;t getting morning sickness yet as far as I knew, but I&#x27;d noticed that her sense of taste seemed to be changing.</p>
 <p>When was she planning to break the news? Maybe she was waiting for the second trimester… or maybe she was planning to keep quiet until I dealt with my current mission.</p>
@@ -165,20 +165,20 @@ nav_title = "Chapter 6"
 <p>&quot;I&#x27;d almost rather not say…but I did decide to help you, I suppose.&quot;</p>
 <p>&quot;Right…&quot;</p>
 <p>Nanahoshi swallowed loudly before continuing. &quot;Poisoning him might work as well.&quot;</p>
-<p>Poison, huh…</p>
+<p><em>Poison, huh…</em></p>
 <p>Detoxification magic could deal with a wide range of toxins, but there were certain diseases and poisons which no known spell could counteract. It was hard to know how effective most of them would be against a monster like Orsted, of course… but there had to be something out there that could harm him. Maybe Ariel could hook me up with something suitable. I had a feeling that everyone in the Asuran royal family was well-versed in this kind of thing.</p>
 <p>&quot;Okay. So I set a trap, poison him, and then attack from a distance… Ah, right. Nanahoshi, could I use you as a hostage?&quot;</p>
 <p>&quot;A hostage…? I suppose so. I&#x27;m not sure how concerned Orsted would be with my safety, though.&quot;</p>
 <p>&quot;Yeah, that&#x27;s a good point… We don&#x27;t want him figuring out you&#x27;re working with me, either. No reason to put your neck on the line too…&quot;</p>
 <p>&quot;O-Oh. Right. I hadn&#x27;t even thought of that.&quot;</p>
-<p>Hmm, yeah. Let&#x27;s not do the hostage thing.</p>
-<p>The Man-God was using my family as hostages at the moment. I knew it was a highly effective way to manipulate someone. But it was also a great way to get them furious and highly motivated. That could seriously backfire on you in battle.</p>
+<p><em>Hmm, yeah. Let&#x27;s not do the hostage thing.</em></p>
+<p>The Man-God was using my family as hostages at the moment. I knew it was a highly effective way to manipulate someone. But it was <em>also</em> a great way to get them furious and highly motivated. That could seriously backfire on you in battle.</p>
 <p>&quot;Any other ideas, Nanahoshi?&quot;</p>
 <p>&quot;Hmm, I don&#x27;t know… Did you read a lot of manga back in Japan? There were plenty of powerful enemies in those, right?&quot;</p>
 <p>&quot;I don&#x27;t think those strategies are going to be too helpful here…&quot;</p>
 <p>The two of us talked it through for a while longer, managing to think up a few somewhat promising ideas. Without exception, they</p>
 <p>were sneaky, underhanded tricks. It was hard to imagine them doing much against someone as formidable as Orsted.</p>
-<p>Then again, even the deadliest techniques are just a combination of devious little maneuvers. I had to believe I&#x27;d get some results from all of this.</p>
+<p>Then again, even the deadliest techniques are just a combination of devious little maneuvers. I had to believe I&#x27;d get <em>some</em> results from all of this.</p>
 <p>&quot;Well then, uhm… good luck, Rudeus.&quot;</p>
 <p>&quot;Thanks.&quot;</p>
 <p>&quot;Try to come back alive, will you? I don&#x27;t think I&#x27;ll ever get home without your help.&quot;</p>
@@ -196,14 +196,14 @@ nav_title = "Chapter 6"
 <p>&quot;I&#x27;ll take everything you&#x27;ve got.&quot;</p>
 <p>&quot;Uh, everything? Now, I&#x27;m not complaining, but that&#x27;s gonna get a little pricey…&quot;</p>
 <p>&quot;That&#x27;s fine by me.&quot;</p>
-<p>&quot;Whoo. Okay then! Guess you really want someone dead… Oh, what about that love drug? You want that one too?&quot;</p>
+<p>&quot;Whoo. Okay then! Guess you <em>really</em> want someone dead… Oh, what about that love drug? You want that one too?&quot;</p>
 <p>&quot;Well…&quot;</p>
-<p>A thought flitted through my mind: What if Orsted&#x27;s immune to poisons?</p>
+<p>A thought flitted through my mind: <em>What if Orsted&#x27;s immune to poisons?</em></p>
 <p>Killing him with a poison no spell could cure was a simple enough idea. Anyone could have thought of it. And Orsted was cursed to be hated by everyone he encountered. It seemed likely he had some countermeasures in place against this sort of thing. Maybe he was naturally resistant…or maybe he had some kind of miracle potion that could purge any toxins from his system.</p>
 <p>&quot;Yeah, I&#x27;ll take that too.&quot;</p>
 <p>&quot;Heh heh heh! Sure thing. You wanna see that cool, collected beauty of yours melt into a puddle, huh?&quot;</p>
 <p>&quot;My wife&#x27;s sweet as a kitten in bed, actually.&quot;</p>
-<p>&quot;No kidding? This is Silent Fitz we&#x27;re talking about, right? Kinda hard to believe, honestly!&quot;</p>
+<p>&quot;No kidding? This <em>is</em> Silent Fitz we&#x27;re talking about, right? Kinda hard to believe, honestly!&quot;</p>
 <p>I had no real reason to believe an aphrodisiac would work on Orsted if poison didn&#x27;t, but it couldn&#x27;t hurt to try. Anything that could affect him or distract him was worth a shot.</p>
 <p>With that thought in mind, I bought everything the man had to offer.</p>
 <p>In between all of my other preparations, I also took the time to scout out potential battlefields.</p>

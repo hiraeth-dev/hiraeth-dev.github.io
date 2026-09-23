@@ -25,7 +25,7 @@ nav_title = "Epilogue"
 <p>Once again, she clutched firmly at a sliver of hope.</p>
 <p>***</p>
 <p>The refugee camp comprised numerous wooden buildings and was roughly the size of a village. A great number of people bustled about. They were anything but carefree; a dark, heavy mood hung over them.</p>
-<p>I never thought I would see something like this in Asura Kingdom, Roxy thought.</p>
+<p><em>I never thought I would see something like this in Asura Kingdom,</em> Roxy thought.</p>
 <p>The Asura Kingdom Roxy knew was the wealthiest country in the world. The people there had faces full of optimism, and there were smiles everywhere you looked. Food was plentiful and monsters were few. It was the easiest place to live.</p>
 <p>The settlement didn&#x27;t seem to lack for food. This was a fairly bountiful area. They wouldn&#x27;t starve, not so long as they could pull up the grass and eat it. As long as they weren&#x27;t in danger of starving, they should have been smiling. Even if a disaster had taken place, things weren&#x27;t nearly as dire as they were on the Demon Continent. Or so she thought, but she couldn&#x27;t help frowning at the sight before her.</p>
 <p>The refugee camp had a temporary adventurer&#x27;s guild. It was there, in front of the bulletin board that normally had various requests pinned to it, that the melancholy dwelled the thickest.</p>
@@ -36,13 +36,13 @@ nav_title = "Epilogue"
 <p>&quot;I-If I live?! Do you seriously believe that? Dammit, I-I lost something more important than…than my own life! Please, just…let me die! Dammit, dammit, dammit!&quot; The man squatted and began crying, his face contorted in despair. His entire body trembled.</p>
 <p>This was a horrible place. Everyone&#x27;s faces were grief-stricken.</p>
 <p>Roxy had never known a place so dominated by sadness before. She had watched many people die, had even escaped scenes of carnage herself numerous times. This was the first time she had ever seen a place of such pure anguish.</p>
-<p>This might be a pointless endeavor, she thought.</p>
+<p><em>This might be a pointless endeavor,</em> she thought.</p>
 <p>Pulled in by the heavy atmosphere, she felt close to tears, but she pressed on and began her hunt for information.</p>
 <p>***</p>
 <p>An hour passed.</p>
 <p>Roxy learned the gist of what happened. After the sky turned strange, a large-scale mana calamity occurred over the Fittoa Region.</p>
 <p>It was not an explosion exactly, but it did spread far and wide. Everything in the Fittoa Region was enveloped by it and teleported randomly to locations all over the world. The buildings and trees disappeared entirely, scattering only the people that had been there. Some of them had managed to return to the region, but realized nothing was left of their hometowns and lost all hope.</p>
-<p>&quot;Truly terrible,&quot; Roxy muttered as she looked at the bulletin board. There were rows of names listed as either deceased or missing. Posted beside them were messages to family members and requests such as, If you see this person in your travels, please bring them here.</p>
+<p>&quot;Truly terrible,&quot; Roxy muttered as she looked at the bulletin board. There were rows of names listed as either deceased or missing. Posted beside them were messages to family members and requests such as, <em>If you see this person in your travels, please bring them here</em>.</p>
 <p>The most eye-catching part of the notice board was a request that was pinned under the name of Fittoa&#x27;s liege lord, asking for information on the missing and deceased, an unprecedented number of people.</p>
 <p>As an adventurer, Roxy had done her fair share of work. Never in her life had she seen a bulletin board this full of requests, nor one that was so desperate and so heart-wrenching. It was clear just how widespread the damage of this calamity really was.</p>
 <p>Perhaps she had run across someone on the list of the deceased and the missing on the way here. She heard rumors about people suddenly reappearing. Of course she hadn&#x27;t paid it any mind at the time; there was always idle gossip like that. If only she could remember something, she might be of some help to the people here.</p>
@@ -59,26 +59,26 @@ nav_title = "Epilogue"
 <p>Roxy wondered if her own parents were doing well back home. Quite some time had passed since she fought with them and left her village. Until recently, she hadn&#x27;t paid much attention to the flow of time, in part because she was a member of the Migurd race. The months passed quickly. Perhaps she should at least send a letter.</p>
 <p>&quot;That&#x27;s…&quot;</p>
 <p>She found a message on the board. The writer was Paul Greyrat.</p>
-<p>To Rudeus,</p>
-<p>Zenith, Lilia and Aisha are missing. Norn is safe in my custody. I don&#x27;t know where you are right now, but I&#x27;m sure that even if you&#x27;re alone, you&#x27;ll make it back here. So I&#x27;ll search for you last.</p>
-<p>For now, I&#x27;m headed to Millis Continent. That&#x27;s where Zenith was born and raised. I&#x27;ve sent a message to Lilia&#x27;s hometown and house as well. I want you to search the northern part of the Central Continent. If you find any of them, contact me with the info below.</p>
-<p>Zenith, Lilia, if either of you see this, please contact me as well.</p>
-<p>For anyone that might know me or my family, or former members of the Fang of the Black Wolf, please help me search. I&#x27;m sure the members of the Fang of the Black Wolf may have mixed feelings about me. I won&#x27;t ask you to sweep it under the rug. You can scream at me all you want. If you ask me to lick your boots, I&#x27;ll do it. All my assets are gone, so I can&#x27;t pay you, but please. Help me search for my family.</p>
-<p>Contact information:</p>
-<p>Millis Continent, Holy Country of Millis&#x27;s Capital Millishion, Adventurer&#x27;s Guild. Party Name: Search Squadron for Buena Village Residents. Clan Name: Roa Region&#x27;s Search for Missing Persons Association.</p>
-<p>—From Paul Greyrat</p>
+<p><em>To Rudeus,</em></p>
+<p><em>Zenith, Lilia and Aisha are missing. Norn is safe in my custody. I don&#x27;t know where you are right now, but I&#x27;m sure that even if you&#x27;re alone, you&#x27;ll make it back here. So I&#x27;ll search for you last.</em></p>
+<p><em>For now, I&#x27;m headed to Millis Continent. That&#x27;s where Zenith was born and raised. I&#x27;ve sent a message to Lilia&#x27;s hometown and house as well. I want you to search the northern part of the Central Continent. If you find any of them, contact me with the info below.</em></p>
+<p><em>Zenith, Lilia, if either of you see this, please contact me as well.</em></p>
+<p><em>For anyone that might know me or my family, or former members of the Fang of the Black Wolf, please help me search. I&#x27;m sure the members of the Fang of the Black Wolf may have mixed feelings about me. I won&#x27;t ask you to sweep it under the rug. You can scream at me all you want. If you ask me to lick your boots, I&#x27;ll do it. All my assets are gone, so I can&#x27;t pay you, but please. Help me search for my family.</em></p>
+<p><em>Contact information:</em></p>
+<p><em>Millis Continent, Holy Country of Millis&#x27;s Capital Millishion, Adventurer&#x27;s Guild. Party Name: Search Squadron for Buena Village Residents. Clan Name: Roa Region&#x27;s Search for Missing Persons Association.</em></p>
+<p><em>—From Paul Greyrat</em></p>
 <p>Paul was alive. Knowing that brought her relief. Rudeus had griped about Paul in his letters, but it seemed Paul was especially reliable in situations like this.</p>
 <p>Roxy stopped to think. The best course of action would be to help with the search. She was indebted to their family after all. Even now she thought fondly of the two years she spent with them, for many reasons. She was more than willing to help.</p>
-<p>All right, let&#x27;s do this, she decided. The moment she made up her mind, her thoughts started churning. But who should I search for, and how?</p>
+<p><em>All right, let&#x27;s do this,</em> she decided. The moment she made up her mind, her thoughts started churning. <em>But who should I search for, and how?</em></p>
 <p>Fang of the Black Wolf was likely the name of Paul&#x27;s adventuring party. Those people probably weren&#x27;t acquainted with Rudeus, or Lilia, for that matter. But since Paul had left Rudeus for last, she decided to search for him instead. It seemed Paul thought Rudeus would return to Fittoa, but that boy was highly adaptable. It was just as likely that he would settle in whatever place he had been teleported off to. If that were the case, she needed to tell him what had happened and bring him back.</p>
-<p>I&#x27;ll search for Rudeus then. Now, where to start?</p>
+<p><em>I&#x27;ll search for Rudeus then. Now, where to start?</em></p>
 <p>Paul had gone to the capital of the Holy Millis Country. That meant he probably left similar messages along the way, specifically in three places: the Asura Kingdom&#x27;s borders, the Dragon King Kingdom&#x27;s eastern port, and the Holy Country of Millis&#x27;s western port.</p>
 <p>In that case, she should search beyond those places. That would be the northern part of the Central Continent, the Begaritt Continent, and the Demon Continent. One of those three. She had never been to Begaritt before, but she heard it was full of labyrinths and monsters. And while she had some familiarity with the geography of the Demon Continent, it was dangerous to journey there alone.</p>
 <p>If she wanted a safe route, then the northern region would be the best. But that was exactly why she had to go to one of the other two. She could find a party and journey to one of those two regions instead.</p>
 <p>Good. Now that she had made up her mind, there was no point in lingering here. She would head for the Dragon King&#x27;s eastern port. From there, she would look for a party heading for either the Begaritt Continent or the Demon Continent.</p>
 <p>Once that was settled Roxy moved swiftly. She finished the preparations for her journey and set out from the refugee camp.</p>
 <p>Strangely, just getting a move on was enough to lift the veil of sadness. Not just that, but her belief that Rudeus was still alive strengthened with each step.</p>
-<p>I want to sit at the table with all of them again, even just once more, she thought as her feet took her south.</p>
+<p><em>I want to sit at the table with all of them again, even just once more,</em> she thought as her feet took her south.</p>
 <p>That was the beginning of Roxy Migurdia&#x27;s long journey.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-02/insert-10.webp" alt="Illustration" loading="lazy" />

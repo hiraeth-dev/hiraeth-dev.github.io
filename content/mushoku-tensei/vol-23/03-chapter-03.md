@@ -10,7 +10,7 @@ nav_title = "Chapter 3"
 <p><strong>Chapter 3: Aluce, City of the Divine Continent</strong></p>
 <p><strong>S</strong>O THERE we were.</p>
 <p>As we got our bearings after stepping out of the box, a wide, open plain spread out before us. Maybe it was the cold, or maybe it was the thin air, but there wasn&#x27;t so much as a single tree growing. The ground was covered in nothing but short grass and shrubbery.</p>
-<p>Well, we were three thousand meters above sea level. Our breaths turned white in the chill. Fortunately, there wasn&#x27;t any snow, and the land was smooth and flat. It wouldn&#x27;t be too hard to travel. It was looking like we&#x27;d make good time and reach Aluce within a day.</p>
+<p>Well, we <em>were</em> three thousand meters above sea level. Our breaths turned white in the chill. Fortunately, there wasn&#x27;t any snow, and the land was smooth and flat. It wouldn&#x27;t be too hard to travel. It was looking like we&#x27;d make good time and reach Aluce within a day.</p>
 <p>For now, though, the moon was high in the sky. The stars twinkled brightly down upon us, possibly because we were that much closer to them. The night hid plenty of monsters, and it was easy to get lost in the dark.</p>
 <p>For now, we set up camp.</p>
 <p>We decided to eat the goats we&#x27;d hunted earlier. We made a campfire, heated up some water in a pot I made with earth magic, and tossed in some goat bones to make the stock. We added the meat once the water was boiling as well as some spices we brought along. Voilà, goat soup.</p>
@@ -18,7 +18,7 @@ nav_title = "Chapter 3"
 <p>Anyway, it was cold out, so I moved the box onto the continent&#x27;s shelf. We&#x27;d all huddle together and sleep inside of it. There wasn&#x27;t any firewood lying around, but I&#x27;d brought a night&#x27;s worth of our own stock just in case. We moved the campfire into the box, crafted a chimney in the roof, and slept in a warmed room.</p>
 <p>The adults here had done enough traveling to not mind a little cold, but we had to consider Sylphie&#x27;s body and Sieg. Sieg&#x27;s cheeks were bright red, but it didn&#x27;t seem like he had a fever. He was doing fine. Just as Orsted&#x27;d said, his body was built tough. Still, infants could easily get sick, so I had to keep an eye out.</p>
 <p>While the box we were in was sturdy, there was always the possibility that some boar-like monster could charge at us from across the plain and knock the whole thing clean off the cliff. We took shifts standing guard one at a time while the other three slept.</p>
-<p>Snuggling up with the ladies caused my little lad (the one not named Sieg or Arus) to spring wide awake, but I controlled myself. Sorry, Sieg, a new baby brother or sister will have to wait a while.</p>
+<p>Snuggling up with the ladies caused my little lad (the one <em>not</em> named Sieg or Arus) to spring wide awake, but I controlled myself. Sorry, Sieg, a new baby brother or sister will have to wait a while.</p>
 <p>***</p>
 <p>The next day, we trekked onward.</p>
 <p>The city of Aluce was northeast of our current location, with nothing but wide, empty plains in between. It didn&#x27;t look like there was a landmark in sight…at first.</p>
@@ -26,11 +26,11 @@ nav_title = "Chapter 3"
 <p>Incidentally, that hero went by the name of &quot;Perugius.&quot;</p>
 <p>Given that the land here had short grass and few trees, the markers stood out pretty blatantly. All we had to do was glance around once morning came, and what do you know? One was right over there.</p>
 <p>As we approached, we found that the landmarks were pillars. They were about a meter and a half tall, likely made from earth magic. They were just thick enough for you to wrap your arms around. The upper part of the pillar was scuffed and worn down by time. If you took a cross section, you could see that the pillar wasn&#x27;t cylindrical, but instead shaped like a drop. The tapered tip of that drop pointed toward the city.</p>
-<p>So it was written in The Legend of Perugius. This landmark doubtless only made sense to the people who read that book. As I&#x27;d expect from a trial given by Perugius himself, his book held plenty of hints. Not that I thought he wrote the thing himself.</p>
+<p>So it was written in <em>The Legend of Perugius</em>. This landmark doubtless only made sense to the people who read that book. As I&#x27;d expect from a trial given by Perugius himself, his book held plenty of hints. Not that I thought he wrote the thing himself.</p>
 <p>A few hours passed as we traveled.</p>
 <p>Maybe it was because we were on a plain and not a highway, but there were a lot of monsters around. They mostly fell into one of three types: the Winged Goats that first appeared at around two thousand meters up, the Heaven&#x27;s Mustelas that looked like four-meter-long weasels, and the giant, bipedal birds of prey known as Nidhogg Ostriches. There didn&#x27;t seem to be many amphibian or insect monsters, assumedly because it was cold all year round up here. In terms of strength, I&#x27;d put them on the same level as the monsters in the northern part of the Central Continent. They weren&#x27;t as weak as those found near Asura Kingdom or Millis, but they also weren&#x27;t as strong as those on the Demon Continent or the Begaritt Continent. The only monsters that made flocks numbering in the double digits were the Winged Goats, with the Heaven&#x27;s Mustelas and Nidhogg Ostriches roaming either alone or in the occasional pair.</p>
 <p>I&#x27;d put the Winged Goats at D rank, and the other two in the C range. They were all capable of flight, however, so I&#x27;d have to bump them up a rank if they appeared in the Central Continent. People have a psychological weakness against things that can fly.</p>
-<p>For adventurers like us, it goes without saying they posed almost no threat. Eris diverted the Winged Goats&#x27; attention while Roxy hung back to launch a high-rank spell to wipe them out. Eris could finish the other two kinds by herself without thinking about it. They couldn&#x27;t reach me, much less Sieg or Sylphie. Ah, I was so grateful to the man of the house for protecting us!</p>
+<p>For adventurers like us, it goes without saying they posed almost no threat. Eris diverted the Winged Goats&#x27; attention while Roxy hung back to launch a high-rank spell to wipe them out. Eris could finish the other two kinds by herself without thinking about it. They couldn&#x27;t reach <em>me</em>, much less Sieg or Sylphie. Ah, I was so grateful to the man of the house for protecting us!</p>
 <p>We kept our guard up anyhow. The Divine Continent for sure held greater challenges than that. Even if we didn&#x27;t pass through them on our trip, the forests, mountains, or at minimum the labyrinths would have stronger monsters than these.</p>
 <p>The Divine Continent labyrinth known as Hell housed hordes of the world&#x27;s nastiest monsters, with its innermost sanctum guarded by a vicious slime called Vita. The mention of a slime reminded me of the Demon King one back in the Library Labyrinth. According to Orsted, this one was on another level. We didn&#x27;t want to go near it.</p>
 <p>I wasn&#x27;t going to breathe a word of this to Eris. She&#x27;d want to go if she knew. Or, wait—Eris was a mature adult, now. She was far more logical and accommodating than she was in her spoiled princess days. She might want to go deep down, but she wouldn&#x27;t demand it. Right?</p>
@@ -56,7 +56,7 @@ nav_title = "Chapter 3"
 <p>Roxy wasn&#x27;t kidding. All we saw across the plain was a series of houses built from rock, soil, and bone, all surrounded by a rather low fence. There were no fortified ramparts—a rarity for towns in this world. But maybe they had the right idea. A wall of any height wouldn&#x27;t do much to stop monsters that could fly. Still, was it wise to have no line of defense for your city?</p>
 <p>I had my doubts as I approached the fence, but as I did… How to describe it? I felt as though a film had been placed over the town. It was like looking at the town through a sheet of glass.</p>
 <p>&quot;Looks like a barrier. A big one, at that.&quot;</p>
-<p>Upon hearing Roxy&#x27;s words, my understanding finally caught up with how the town was actually protected. Of course. There was no way it&#x27;d be left completely defenseless.</p>
+<p>Upon hearing Roxy&#x27;s words, my understanding finally caught up with how the town was <em>actually</em> protected. Of course. There was no way it&#x27;d be left <em>completely</em> defenseless.</p>
 <p>&quot;Think they&#x27;ll let us in?&quot; Sylphie asked.</p>
 <p>&quot;Hard to say,&quot; I answered, approaching the barrier. &quot;Orsted didn&#x27;t say anything about this.&quot;</p>
 <p>Then again, not many of my acquaintances knew much about the skyfolk to begin with. You didn&#x27;t see skyfolk on other continents, so I had no idea what they were like. Were they exclusionary, or were they friendly toward other races?</p>
@@ -69,16 +69,16 @@ nav_title = "Chapter 3"
 <p>&quot;Wait, Eris! Be careful about touching that! What if that thing zaps you?!&quot;</p>
 <p>&quot;Huh?! I-I know that…&quot;</p>
 <p>A shudder ran down Eris&#x27;s spine. Talk about reckless, coming to who-knows-where and putting her hands all over who-knows-what.</p>
-<p>&quot;So, what do we do?&quot;</p>
+<p>&quot;So, what <em>do</em> we do?&quot;</p>
 <p>&quot;That&#x27;s…a good question.&quot;</p>
 <p>If we raised our voices from outside the barrier, would it reach anyone inside the town? From what we could see, the inside of the fence was just farmland.</p>
-<p>Hold on, did skyfolk even make farms? Well, I guess they did. It&#x27;s not like people with wings didn&#x27;t need to eat. Even that telepathic race that lived deep in the Demon Continent still farmed. Farming is key to life.</p>
+<p>Hold on, did skyfolk even <em>make</em> farms? Well, I guess they did. It&#x27;s not like people with wings didn&#x27;t need to eat. Even that telepathic race that lived deep in the Demon Continent still farmed. Farming is key to life.</p>
 <p>Never mind agriculture right now—how were we supposed to get in? My gut feeling would be to walk around the fence until we saw something that looked like an entrance, but there was no gap as far as I could see. There was nothing that seemed like a road either, so no clues there.</p>
 <p>Actually, did a race of people who could fly even have the concept of making gaps like a gate to serve as an entrance? If you didn&#x27;t walk on the ground, you wouldn&#x27;t need to make roads. Did that mean we should have been looking for an entrance in the sky? I didn&#x27;t prepare a way for us to fly… Hmm. Destroying the barrier was starting to look like a better idea. We&#x27;d repair it later, of course, but we wouldn&#x27;t get anywhere until we got in.</p>
 <p>&quot;All right, let&#x27;s break it.&quot;</p>
 <p>&quot;Thought you&#x27;d never ask.&quot;</p>
 <p>&quot;Sorry to cut in,&quot; said Roxy, who was looking through the barrier. &quot;But it looks like we have company.&quot;</p>
-<p>We followed her gaze to see birds flying toward us from within the town. Even as far off in the distance as they were, I could tell they were pretty large. Probably about the size of people… Wait. Those were people. People with wings. Skyfolk.</p>
+<p>We followed her gaze to see birds flying toward us from within the town. Even as far off in the distance as they were, I could tell they were pretty large. Probably about the size of people… Wait. Those <em>were</em> people. People with wings. Skyfolk.</p>
 <p>&quot;Did they get suspicious because we knocked on their barrier?&quot; Sylphie asked.</p>
 <p>She might have been right. The best response to monsters appearing outside of your city was to exterminate them, even if they were still outside of a barrier.</p>
 <p>Well, whatever the case, first impressions were important. Time to brush off those customer service skills that work had been drilling into me.</p>
@@ -89,7 +89,7 @@ nav_title = "Chapter 3"
 <p>&quot;…&quot;</p>
 <p>I opened by speaking in Human Tongue, but they responded in a language that I didn&#x27;t understand. I looked to my wives for help, while the skyfolk speaker looked to his two companions.</p>
 <p>&quot;Yes, that&#x27;s Sky God Tongue,&quot; said Roxy. &quot;What should we do?&quot;</p>
-<p>That made sense. The Divine Continent&#x27;s default language was Sky God Tongue. Crap, I&#x27;m completely ignorant…is something that would have tripped up the old Rudeus. But now, I was Orsted&#x27;s subordinate. I was hardly unprepared for a little obstacle like this.</p>
+<p>That made sense. The Divine Continent&#x27;s default language was Sky God Tongue. <em>Crap, I&#x27;m completely ignorant</em>…is something that would have tripped up the <em>old</em> Rudeus. But now, I was Orsted&#x27;s subordinate. I was hardly unprepared for a little obstacle like this.</p>
 <p>I simply spoke in Human Tongue to start us talking. Even if my words couldn&#x27;t get across, my intention to converse would. Our interaction should have quickly communicated that we had no hostility.</p>
 <p>&quot;Ahem.&quot;</p>
 <p>I cleared my throat. While I had certainly prepared, I didn&#x27;t quite have the time to study the nuances of Sky God Tongue. This called for a signboard. I took out the bundle of paper from within my jacket, flipped to a specific page, and showed it to our receptionists. On it was a transcription of what I&#x27;d just said in Sky God Tongue. All that was left was to trust in their literacy skills…</p>
@@ -118,6 +118,6 @@ nav_title = "Chapter 3"
 <p>&quot;Ah, yeah, they didn&#x27;t.&quot;</p>
 <p>War. Their isolation on the Divine Continent allowed them to be the one race to escape Laplace&#x27;s invasion. Of course they wouldn&#x27;t fear the Superd. That was why the warrior people of the village still used spears, and why they didn&#x27;t show any reaction to Sieg&#x27;s or Roxy&#x27;s hair colors.</p>
 <p>According to Orsted, long ago…as in, over four thousand years ago during the time of the second Human-Demon War, they despised demons. No matter how long-lived your race is, though, four thousand years is a lot of time. Generations and generations. That hatred must have withered away.</p>
-<p>Wait… No, it was possible that hearing the word Perugius had made them careful not to show overt hostility.</p>
+<p>Wait… No, it was possible that hearing the word <em>Perugius</em> had made them careful not to show overt hostility.</p>
 <p>&quot;If only everyone could be like them,&quot; said Sylphie. I saw her lips draw into a smile that looked almost forced.</p>
 <p><strong>Chapter 4: Christening</strong></p>

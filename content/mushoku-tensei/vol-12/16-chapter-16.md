@@ -14,9 +14,9 @@ nav_title = "Chapter 16"
 <p>It was probably best to consider her treatment a long-term endeavor. I had no idea what her family back in the Holy Country of Millis would say about this, either. Everything remained uncertain.</p>
 <p>Sylphie&#x27;s progress was right on schedule. When I tried to grope at her swollen breasts, she got pretty angry with me. Apparently, it hurt if I grabbed too hard. The way she implored me to be gentle made me want to jump her bones. I&#x27;d bought into her temptations many times before and had my way with her, but she was pregnant this time, so I couldn&#x27;t let my desires go unfiltered. I couldn&#x27;t help wanting to touch her just the same, but I was cautious—gentle—as I caressed her.</p>
 <p>Pregnancy brought changes to the body; her breasts were no longer the ones I was accustomed to fondling. And when I considered how I had been the one to bring about this change to her body, I felt indescribable joy. This was probably what people meant when they talked about a &quot;sense of domination.&quot;</p>
-<p>Ahh, Sylphie&#x27;s all mine.</p>
+<p><em>Ahh, Sylphie&#x27;s all mine.</em></p>
 <p>But, as you might have guessed, having no left hand sucked. I thought longingly of the days I could grope her chest with both hands. Now that I was missing one, my satisfaction was halved.</p>
-<p>Soon her breasts would begin to produce milk. I suspected she&#x27;d be cross with me if I asked to taste test. Maybe she&#x27;d even scorn me. But it might be worth asking, even if the odds were against me. It was probably in my best interest to keep the question to myself, but just once couldn&#x27;t hurt, right?</p>
+<p>Soon her breasts would begin to produce milk. I suspected she&#x27;d be cross with me if I asked to taste test. Maybe she&#x27;d even scorn me. But it might be worth asking, even if the odds were against me. It was probably in my best interest to keep the question to myself, but <em>just once</em> couldn&#x27;t hurt, right?</p>
 <p>&quot;You sure do love my breasts,&quot; Sylphie said.</p>
 <p>&quot;Yeah, I do. They&#x27;re tiny, but they&#x27;re the best in the world.&quot;</p>
 <p>&quot;Best in the world…&quot; she muttered. &quot;Can you really say that after you&#x27;ve groped Roxy&#x27;s?&quot;</p>
@@ -41,7 +41,7 @@ nav_title = "Chapter 16"
 <p>Just as the room seemed to relax, the first wave came.</p>
 <p>&quot;Mistress Sylphie, we&#x27;re ready now. Push!&quot;</p>
 <p>&quot;Nnnngh…&quot;</p>
-<p>I watched quietly as she struggled. The only thing I could say was, &quot;You can do this.&quot; I felt like there was something I should be doing, too, but there wasn&#x27;t anything I could do.</p>
+<p>I watched quietly as she struggled. The only thing I could say was, &quot;You can do this.&quot; I felt like there was something I <em>should</em> be doing, too, but there wasn&#x27;t anything I <em>could</em> do.</p>
 <p>Sylphie matched Lilia&#x27;s calls to push, her face clenching each time, until…</p>
 <p>The baby was born.</p>
 <p>She let forth a fierce cry as she was delivered safely into our world. A little girl—an adorable one with the same hair color as me. Lilia lifted her up and handed her to Sylphie, who held the newborn tight and sighed with relief.</p>
@@ -71,10 +71,10 @@ nav_title = "Chapter 16"
 <p>&quot;…I&#x27;ll be giving birth like that too eventually, won&#x27;t I?&quot;</p>
 <p>When I glanced her way, I found Roxy peering up at me, her face burning red. I slipped off my shoes and folded my legs under me on the couch, sitting as stiffly as I could. &quot;Yes, I hope I can ask you to do that for me.&quot;</p>
 <p>Now that Sylphie&#x27;s baby had been born, it meant that Roxy and I would be starting the baby-making process next. Honestly, I was looking forward to it, even though Sylphie&#x27;s baby had only just been delivered. I really was hopeless. Not that I hated myself for it—I couldn&#x27;t, not when I considered that Paul had probably felt the same way in the past.</p>
-<p>I can&#x27;t wait, I thought with a laugh, and Roxy flushed a bright shade, wrapping her arms around her body.</p>
+<p><em>I can&#x27;t wait,</em> I thought with a laugh, and Roxy flushed a bright shade, wrapping her arms around her body.</p>
 <p>&quot;Rudy, you&#x27;ve got a seriously dirty look on your face.&quot;</p>
 <p>&quot;I was born with it.&quot;</p>
-<p>That&#x27;s right—I was born with it. It was something I&#x27;d had ever since I came into this world, or perhaps even before that.</p>
+<p>That&#x27;s right—I <em>was</em> born with it. It was something I&#x27;d had ever since I came into this world, or perhaps even before that.</p>
 <p>&quot;…&quot;</p>
 <p>Oh, that&#x27;s right. Before I began that routine with Roxy, I needed to announce the birth of my baby.</p>
 <p>The following day, I made my way alone to the outskirts of the city, where a graveyard for nobles was nestled on a low hill. This was where we&#x27;d put Paul to rest. He might fuss over being lumped in</p>

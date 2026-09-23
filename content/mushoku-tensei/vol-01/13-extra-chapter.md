@@ -19,7 +19,7 @@ nav_title = "Extra Chapter"
 <p>As a result, I was convinced I could make it on my own anywhere I went.</p>
 <p>I really was hopelessly naïve.</p>
 <p>A dishonest group of people spotted me almost immediately, as I awkwardly tried to navigate the unfamiliar process of taking a room at an inn. Claiming they&#x27;d been looking for a healer, they pulled me into their party, taking advantage of my total ignorance. The pay they offered was lower than what Beginner-tier magicians earned, but they insisted it was higher than the going rate.</p>
-<p>Being a complete fool, I took their superficial kindness at face value. I actually remember thinking, I suppose the world does have some decent people in it.</p>
+<p>Being a complete fool, I took their superficial kindness at face value. I actually remember thinking, <em>I suppose the world does have some decent people in it.</em></p>
 <p>I&#x27;m sure they would have mistreated me further if I had stayed with them. They were probably planning to use me as a human shield in battle or force me to cast magic until I fainted. Maybe even to demand sexual favors.</p>
 <p>But they didn&#x27;t get the chance, thanks to a young swordsman named Paul Greyrat.</p>
 <p>After beating down my new &quot;friends,&quot; he rather forcefully dragged me into his own travelling party. Until Elinalise—one of his companions—explained, I was convinced I&#x27;d been kidnapped by a violent thug.</p>
@@ -65,11 +65,11 @@ nav_title = "Extra Chapter"
 <p>If not for Rudy, things wouldn&#x27;t have worked out that way.</p>
 <p>&quot;Ooh, you&#x27;re such a cutie pie, Norn. You&#x27;re gonna be real pretty, just like Mommy, yeah?&quot;</p>
 <p>And now, here he was playing with Norn&#x27;s little hands and smiling happily. My ever-serious little son was soothing his sister with silly baby talk.</p>
-<p>He&#x27;s so…reliable.</p>
+<p><em>He&#x27;s so…reliable.</em></p>
 <p>I&#x27;d been a bit in awe of Rudy&#x27;s talents for quite some time, but lately I was starting to appreciate his dependability as well. Things had been truly hectic after Aisha and Norn were born. Our two new daughters cried at all hours of the night, puked up half the milk we fed them, and routinely pooped when we were bathing them. Lilia told me all of this was perfectly natural, that it was only to be expected, but in no time, I was utterly exhausted. For days and days, I barely got a wink of sleep.</p>
 <p>But then Rudy stepped in and started to handle all sorts of things for us…without even being asked.</p>
 <p>He was oddly skillful with the babies. It almost seemed as if he&#x27;d cared for one before, although that couldn&#x27;t possibly be the case. I suppose he must have picked up a few things from watching Lilia.</p>
-<p>That&#x27;s our Rudy for you.</p>
+<p><em>That&#x27;s our Rudy for you.</em></p>
 <p>I wasn&#x27;t particularly happy that my son was better at soothing my own child than I was, but it was still an enormous help. I&#x27;d never seen a boy his age so helpful and reliable, or even capable of looking after newborn babies the way he did.</p>
 <p>Watching him work sometimes reminded me of my brother, who presumably still lived back in the Holy Country. Like Rudy, he was serious, diligent, and talented; my father always told us to learn from his example. But he was also cold to his family, and ignored his little sisters almost completely. As nobles went, he was a good and honest man, but I didn&#x27;t think much of him as a brother. Rudy was obviously going to be different. He was going to be a good big brother. The kind who earned his sisters&#x27; admiration.</p>
 <p>That certainly seemed to be his intention, at least. He&#x27;d actually announced &quot;I&#x27;m going to try to be the coolest, most perfect big brother ever,&quot; to Paul while they looked down at Norn and Aisha. I was already eager to see what the three of them would be like in a few years&#x27; time.</p>
@@ -108,8 +108,8 @@ nav_title = "Extra Chapter"
 <p>It always made me feel a bit melancholy to see him acting all grown-up like this.</p>
 <p>I turned my attention back to Norn, who&#x27;d had her fill. After patting her on the back until she let out a little burp, I gently placed her back in her crib.</p>
 <p>As I wiped off my breast with a cloth, I realized Rudy was staring at me again.</p>
-<p>Whoever does marry him might have a tough time of it. Sylphie seems like the leading candidate at the moment… and that girl tends to do anything Rudy tells her to. She might not be able to say no, even when she wants to…</p>
-<p>All right, then. If worst comes to worst, I&#x27;ll just have to set him straight.</p>
+<p><em>Whoever does marry him might have a tough time of it. Sylphie seems like the leading candidate at the moment… and that girl tends to do anything Rudy tells her to. She might not be able to say no, even when she wants to…</em></p>
+<p><em>All right, then. If worst comes to worst, I&#x27;ll just have to set him straight.</em></p>
 <p>I was Rudy&#x27;s mother, after all. Paul might teach him how to seduce women, but I&#x27;d teach him how to treat them right.</p>
 <p>&quot;Goo…&quot;</p>
 <p>Norn looked quite satisfied now she that had something in her stomach. It didn&#x27;t take long for her to start nodding off in her crib.</p>
@@ -169,7 +169,7 @@ nav_title = "Extra Chapter"
 <p>&quot;Me too,&quot; Rudy murmured with a nod.</p>
 <p>I suppose he also found this little domestic scene pleasantly tranquil. But it was only thanks to him that I could feel the same.</p>
 <p>If he hadn&#x27;t intervened… as a pious member of the Millis Church reduced to one wife of two, I would probably have stormed out of this house with Norn, cursing my misfortune. Or stayed behind, perhaps to take out my resentment on Lilia and Aisha.</p>
-<p>Thank goodness for Rudy.</p>
+<p><em>Thank goodness for Rudy.</em></p>
 <p>If he wasn&#x27;t such a wise and clever little boy, I never would have experienced this blissful moment.</p>
 <p>&quot;Rudy…&quot;</p>
 <p>&quot;Yes, Mother?&quot;</p>

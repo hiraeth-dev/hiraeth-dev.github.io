@@ -7,10 +7,10 @@ badge = "CH.10"
 nav_title = "Chapter 10"
 +++
 
-<p><strong>I</strong>N THE MAGIC CITY of Sharia, in an office on the outskirts of the city, a young elf woman was copying words written on a contact tablet onto paper. Her name was Fariastia—Fari or Tia to her friends. A certain executive at the company still couldn&#x27;t remember her name.</p>
+<p><strong>I</strong>N THE MAGIC CITY of Sharia, in an office on the outskirts of the city, a young elf woman was copying words written on a contact tablet onto paper. Her name was Fariastia—Fari or Tia to her friends. A certain executive at the company <em>still</em> couldn&#x27;t remember her name.</p>
 <p>Unbeknownst to Rudeus, Fariastia was the real name of Little Miss Elf, the receptionist. She was in charge while the CEO was out of the office.</p>
-<p>&quot;Right, from Sylphiette… Nina is pregnant, so she won&#x27;t be able to support us. I&#x27;m heading to the Biheiril Kingdom now. I guess I should forward this?&quot;</p>
-<p>Her job was to take all the information that everyone sent in and copy it out on paper for Rudeus and Orsted when they came back. When the message was urgent, however, she was permitted to use her own discretion to forward it to another tablet. The thing was, these communications were full of words like god and king, so it was hard for an ordinary, middle-class girl to decide what was important.</p>
+<p>&quot;Right, from Sylphiette… <em>Nina is pregnant, so she won&#x27;t be able to support us. I&#x27;m heading to the Biheiril Kingdom now.</em> I guess I should forward this?&quot;</p>
+<p>Her job was to take all the information that everyone sent in and copy it out on paper for Rudeus and Orsted when they came back. When the message was urgent, however, she was permitted to use her own discretion to forward it to another tablet. The thing was, these communications were full of words like <em>god</em> and <em>king,</em> so it was hard for an ordinary, middle-class girl to decide what was important.</p>
 <p>&quot;Okay, let&#x27;s forward it.&quot;</p>
 <p>It was Aisha who&#x27;d picked her for the job. Aisha had hired her based on stringent criteria through a rigorous selection process. You might think anyone could do Orsted&#x27;s paperwork, but her position handled large volumes of information that couldn&#x27;t be allowed to leak.</p>
 <p>Faria had been born in the capital of the Kingdom of Ranoa. Her father was an elf who&#x27;d been a roaming adventurer. Her mother was a human, the daughter of wealthy merchants. She was the youngest of three siblings. Because she was a girl, she wasn&#x27;t taught how to be a merchant, and so she&#x27;d never aspired to it—however, running around a merchant house since infancy meant she&#x27;d grown up watching crafty merchants. That background would come in handy later on. When she started at the University of Magic, she took a class taught by an intelligence agent on a whim and got excellent grades. That was the feature that caught Aisha&#x27;s</p>
@@ -21,7 +21,7 @@ nav_title = "Chapter 10"
 <p>Before her was a body like a steel drum with two arms as thick as tree trunks sprouting from it. She saw bright red skin, massive horns, and a jaw like a cooking pot from which two long tusks protruded.</p>
 <p>An ogre.</p>
 <p>&quot;Orsted&#x27;s…woman?&quot; the ogre grunted.</p>
-<p>&quot;Sorry?&quot; When Faria hesitated, the ogre swung its arm out. Crash. The contact tablet went flying. It, and the wall of the CEO&#x27;s office.</p>
+<p>&quot;Sorry?&quot; When Faria hesitated, the ogre swung its arm out. <em>Crash.</em> The contact tablet went flying. It, and the wall of the CEO&#x27;s office.</p>
 <p>&quot;You enemy? Fight me?&quot;</p>
 <p>&quot;Ah… Um…&quot; The ogre clenched its fist, then hurled it at Faria. The fist filled her vision; it was enormous, twice the size of her head. Hair grew from the back of its coarse hand and fingers. The callouses around its knuckles implied a long history of violence. After seeing the wall behind her pulverized, she knew what would happen if that fist hit her.</p>
 <p>&quot;I-I&#x27;m—I&#x27;m not!&quot; Faria cried at last as she crumpled to the ground. All the strength had gone from her legs, as though they&#x27;d been pulverized too. She couldn&#x27;t flee. The only thought in her mind was that she didn&#x27;t want to die.</p>
@@ -56,7 +56,7 @@ nav_title = "Chapter 10"
 <p>&quot;You never let that drop, do you, Eris?&quot;</p>
 <p>&quot;I just want to see Ruijerd already! I&#x27;ll introduce him to you!&quot;</p>
 <p>&quot;Um, I have actually met him once before.&quot;</p>
-<p>Ah, that&#x27;s where the dread is coming from, Roxy thought with a wry smile. Rudeus and Eris weren&#x27;t afraid of the Superd at all. She knew intellectually that the Superd were not the devils they were said to be—but no matter what she did, she still stiffened at the mention of them. She&#x27;d</p>
+<p><em>Ah, that&#x27;s where the dread is coming from,</em> Roxy thought with a wry smile. Rudeus and Eris weren&#x27;t afraid of the Superd at all. She knew intellectually that the Superd were not the devils they were said to be—but no matter what she did, she still stiffened at the mention of them. She&#x27;d</p>
 <p>been told the old story about them ever since she could remember. Even so, she was going to have to meet them. Rudeus and Eris were indebted to Ruijerd. He was their old companion. She ought to introduce herself to him, but she still couldn&#x27;t stop her heart from quailing. If she just met him, talked to him, spent time with him, that would surely change…but what if it didn&#x27;t? That thought had to be where the dread was coming from.</p>
 <p>&quot;Maybe you&#x27;re right. It might be a good idea to go to the Second City while we have the chance to pin down Ogre God Marta. He might head elsewhere before long.&quot;</p>
 <p>They&#x27;d learned all they could in the Third City for the moment. Maybe it wouldn&#x27;t hurt to leave their post for a little while and pay a visit to the Superd village.</p>
@@ -70,7 +70,7 @@ nav_title = "Chapter 10"
 <p>Roxy stood there at a loss. &quot;What could possibly have caused this?&quot; she said to the air. This was wrong. The teleportation circle was one thing, but Orsted had made the contact tablet. She&#x27;d helped to replicate them. It was inconceivable that they could be faulty. They wouldn&#x27;t stop working just like that…</p>
 <p>&quot;That&#x27;s obvious,&quot; Eris said. She wasn&#x27;t confused. Did she know what had caused this, then? Roxy looked at her questioningly.</p>
 <p>Eris folded her arms. Looking down at the contact tablet, she announced, &quot;Something happened!&quot;</p>
-<p>&quot;Yes, that&#x27;s… If nothing had happened, this wouldn&#x27;t…&quot; Roxy began saying, then it hit her. Something had happened. Where? Not here. There were no signs that anyone had been here. The entrance was perfectly concealed. Neither man nor beast had come into the cave. It must have been somewhere else, then. Both the teleportation circles and the contact tablets needed a counterpart in order to function. If you lost one, the other would automatically stop working.</p>
+<p>&quot;Yes, that&#x27;s… If nothing had happened, this wouldn&#x27;t…&quot; Roxy began saying, then it hit her. <em>Something</em> had happened. Where? Not here. There were no signs that anyone had been here. The entrance was perfectly concealed. Neither man nor beast had come into the cave. It must have been somewhere else, then. Both the teleportation circles and the contact tablets needed a counterpart in order to function. If you lost one, the other would automatically stop working.</p>
 <p>There was nothing wrong with the ones they had here. What about the ones they connected to?</p>
 <p>&quot;Something happened in Sharia…?&quot; Lara&#x27;s face appeared in Roxy&#x27;s mind, followed by all the other children. Lucie, Arus, Sieg—and Lilia and Zenith, who were looking after them.</p>
 <p>If something was wrong in Sharia, all of them were…</p>
@@ -88,19 +88,19 @@ nav_title = "Chapter 10"
 <p>&quot;The house will be fine! Sylphie&#x27;s there!&quot; she said.</p>
 <p>&quot;Huh?&quot; Roxy stared at her. &quot;Sylphie went to the Sword Sanctum…&quot;</p>
 <p>&quot;Sylphie said that when Rudeus is away, she&#x27;ll protect the house! So it&#x27;s fine!&quot;</p>
-<p>Roxy didn&#x27;t reply. That&#x27;s absurd, she thought. She can&#x27;t seriously think… But then she thought again. They didn&#x27;t know when the teleportation circle had been deactivated. Sylphie wasn&#x27;t using a teleportation circle at the office. She&#x27;d used the old teleportation ruins. Even if she couldn&#x27;t join them in the Biheiril Kingdom, she could get back to Sharia. All they could do was leave it to her.</p>
+<p>Roxy didn&#x27;t reply. <em>That&#x27;s absurd,</em> she thought. <em>She can&#x27;t seriously think…</em> But then she thought again. They didn&#x27;t know when the teleportation circle had been deactivated. Sylphie wasn&#x27;t using a teleportation circle at the office. She&#x27;d used the old teleportation ruins. Even if she couldn&#x27;t join them in the Biheiril Kingdom, she could get back to Sharia. All they could do was leave it to her.</p>
 <p>&quot;You&#x27;re right,&quot; she said. There was also Perugius. Roxy was a demon, so he was cold to her, but he was close to Rudeus. He&#x27;d even given Sieg a name of his own design. She couldn&#x27;t guess what he&#x27;d do, but there was a whistle back at the house to call his servants. If something happened, Lilia would use it. That wasn&#x27;t all. Rudeus had summoned Leo in case something like this happened. If he didn&#x27;t do anything now, what was the point of having him? There were plenty of safety measures in place. The Mercenary Band was still there, and so were the crafters at the Zanoba Store. If it came down to it, the teachers at the University of Magic would help, too.</p>
 <p>All that made her feel a little better. They just had to keep going. She and Eris could do that right now.</p>
 <p>&quot;Right, let&#x27;s go!&quot; Eris said.</p>
-<p>&quot;Yes, let&#x27;s go.&quot; There was nothing else they could do here. Roxy didn&#x27;t need anyone to tell her what it was they could do. They had to get the information they had to the people who needed it. She was afraid for their children back in Sharia—that was only natural. If it were possible, she and Eris both would have scrambled to get home.</p>
+<p>&quot;Yes, let&#x27;s go.&quot; There was nothing else they could do here. Roxy didn&#x27;t need anyone to tell her what it was they <em>could</em> do. They had to get the information they had to the people who needed it. She was afraid for their children back in Sharia—that was only natural. If it were possible, she and Eris both would have scrambled to get home.</p>
 <p>Both of them fought that urge, and they got moving. They hurried to where Rudeus was. To the Superd village.</p>
 <p>***</p>
 <p>Zanoba was panicking. Rudeus hadn&#x27;t come back. The hunting party was getting ready to march, and the day of its departure drew near.</p>
-<p>Rudeus had set off in high spirits for the Superd village. Rudeus. Zanoba knew he&#x27;d use all the tricks he had to bring the soldiers around, and they&#x27;d all make peace.</p>
-<p>Had negotiations broken down? The message on the contact tablet had said I was successful in persuading them. Yes, it had been signed by Orsted, but Zanoba couldn&#x27;t start suspecting him at this late stage.</p>
+<p>Rudeus had set off in high spirits for the Superd village. <em>Rudeus.</em> Zanoba knew he&#x27;d use all the tricks he had to bring the soldiers around, and they&#x27;d all make peace.</p>
+<p>Had negotiations broken down? The message on the contact tablet had said <em>I was successful in persuading them</em>. Yes, it had been signed by Orsted, but Zanoba couldn&#x27;t start suspecting him at this late stage.</p>
 <p>What was happening? Maybe they&#x27;d been attacked by assassins on the way. Or they could have run into some other trouble on the road that held them up. Surely he hadn&#x27;t felt so at ease that he&#x27;d stopped to see the sights in the Second City? No, that was absurd.</p>
 <p>The fact remained that if nothing changed, the hunting party would set off in ten days&#x27; time.</p>
-<p>Should I wait? Or should I act? Zanoba thought. Eventually, he decided to act. He&#x27;d teleport to the Superd village and find out what was really going on. Having made up his mind, he didn&#x27;t delay. He took Ginger and Julie and left the inn. Clutching their luggage, they hurried to the hut where they&#x27;d set up the teleportation circle.</p>
+<p><em>Should I wait? Or should I act?</em> Zanoba thought. Eventually, he decided to act. He&#x27;d teleport to the Superd village and find out what was really going on. Having made up his mind, he didn&#x27;t delay. He took Ginger and Julie and left the inn. Clutching their luggage, they hurried to the hut where they&#x27;d set up the teleportation circle.</p>
 <p>&quot;Hrm… This isn&#x27;t good…&quot;</p>
 <p>The light of both the teleportation circle and the contact tablet had gone out. Zanoba understood right away. Something was wrong at the office. After a few seconds of thought, he reached his conclusion.</p>
 <p>&quot;Ginger!&quot;</p>
@@ -109,7 +109,7 @@ nav_title = "Chapter 10"
 <p>&quot;We&#x27;re not going through it. If our enemies are here, that&#x27;s where they&#x27;ll be.&quot;</p>
 <p>Zanoba exited the hut, then reached into his pocket to pull something out. It was a whistle. A gold whistle in the shape of a dragon. Without hesitation, he blew it. It emitted a comforting trill.</p>
 <p>Nothing happened. No one came.</p>
-<p>&quot;Drat, we are too far away. Ginger! Julie! Was there a monument to the Seven Great Powers nearby?&quot;</p>
+<p>&quot;Drat, we <em>are</em> too far away. Ginger! Julie! Was there a monument to the Seven Great Powers nearby?&quot;</p>
 <p>&quot;Not that I remember.&quot;</p>
 <p>&quot;I didn&#x27;t see one!&quot;</p>
 <p>There was more than one person who could operate teleportation circles. Zanoba had thought he&#x27;d call Perugius and ask him for help, but it hadn&#x27;t worked.</p>

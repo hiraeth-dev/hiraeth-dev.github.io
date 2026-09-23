@@ -32,9 +32,9 @@ nav_title = "Chapter 5"
 <p>Given that background, the art of the blade was far more advanced in this world than it was in my old one. A master swordsman could cleave a boulder in a single stroke, or unleash a flash of the blade to strike a distant foe.</p>
 <p>Paul had enough skill to accomplish the first one. I wanted to know the principles behind it, so he demonstrated it several times while praising and encouraging me. He probably felt pretty good having his young, Advanced-magic-using son clapping and cheering for him.</p>
 <p>Still, no matter how many times he showed me the trick, I couldn&#x27;t tell how he did it. So I asked for an explanation.</p>
-<p>&quot;Take a step forward, like hngh, and then fwam!&quot;</p>
+<p>&quot;Take a step forward, like <em>hngh</em>, and then <em>fwam</em>!&quot;</p>
 <p>&quot;Like this?&quot;</p>
-<p>&quot;No, you dolt! That was a step forward like hmph, and then a wham! I said hngh and then fwam! Stay lighter on your feet!&quot;</p>
+<p>&quot;No, you dolt! That was a step forward like <em>hmph</em>, and then a wham! I said <em>hngh</em> and then <em>fwam</em>! Stay lighter on your feet!&quot;</p>
 <p>And so it went.</p>
 <p>This was just conjecture on my part, but it seemed to me that, in this world, magic was woven into the art of swordplay. It was visibly different from the flashy magical effects created by spellcraft, and instead worked by improving one&#x27;s physical prowess and strengthening the metal of the sword itself. How else would it be possible to move at such blinding speeds or slice a huge rock in two?</p>
 <p>Paul wasn&#x27;t using magic consciously. That was why he couldn&#x27;t explain how he did what he did. It meant that once I was able to reproduce what he did, I&#x27;d be able to use magic to give myself a physical boost. I had to stick with it.</p>
@@ -74,7 +74,7 @@ nav_title = "Chapter 5"
 <p>&quot;Correct. And how would you go about clearing up that mist?&quot;</p>
 <p>&quot;Umm…cast Heat Island again and heat up the ground?&quot;</p>
 <p>&quot;Exactly. Now, please demonstrate, if you would.&quot;</p>
-<p>By using spells from different schools in succession, it was possible to create other phenomena. This was known as Combined Magic. A Textbook of Magic included a spell for making rain, but had nothing about creating mist. Therefore, magicians had to use spells from multiple schools in sequence. This allowed for the reproduction of various natural phenomena.</p>
+<p>By using spells from different schools in succession, it was possible to create other phenomena. This was known as Combined Magic. <em>A Textbook of Magic</em> included a spell for making rain, but had nothing about creating mist. Therefore, magicians had to use spells from multiple schools in sequence. This allowed for the reproduction of various natural phenomena.</p>
 <p>This was a world without microscopes. They probably hadn&#x27;t discovered all of the principles that governed the natural world. Combined Magic contained all the creative genius of the great wizards of old.</p>
 <p>Well, I didn&#x27;t need to bother with that kind of nonsense. If I wanted to create a cloud, I&#x27;d just use a spell that made rain fall and cast it as close to the ground as possible. The idea of intentionally creating a natural phenomenon was simple enough to understand. With a little outside-the-box thinking, you could do all sorts of things.</p>
 <p>For me, personally, that was a bit easier said than done.</p>

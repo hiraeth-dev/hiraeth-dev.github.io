@@ -24,14 +24,14 @@ nav_title = "Chapter 8"
 <p>&quot;Yes, you did. But I—&quot;</p>
 <p>&quot;You know, there&#x27;s still a chance Geese just jumped to conclusions.&quot;</p>
 <p>&quot;What do you mean?&quot;</p>
-<p>&quot;You know the man, Rudeus. He rarely thinks anything through before he acts. It&#x27;s all hunches and intuition with him.&quot;</p>
+<p>&quot;You know the man, Rudeus. He rarely thinks <em>anything</em> through before he acts. It&#x27;s all hunches and intuition with him.&quot;</p>
 <p>Well, she wasn&#x27;t wrong about that. Geese liked to keep the facts to himself too, and he wasn&#x27;t above manipulating people.</p>
 <p>&quot;The letter might be one of those cases,&quot; Elinalise continued. &quot;For all we know, there&#x27;s already another letter on its way to us, saying, &#x27;Disregard last message, Zenith is safe,&#x27; or something of the sort.&quot;</p>
 <p>&quot;Yeah. The thought did occur to me.&quot;</p>
-<p>There was a chance we&#x27;d head out there to find that Paul had already rescued my mother. We might even miss each other on the road. It was possible, but…</p>
+<p>There was a chance we&#x27;d head out there to find that Paul had already rescued my mother. We might even miss each other on the road. It was <em>possible</em>, but…</p>
 <p>&quot;Think about it for a second,&quot; I said. &quot;Isn&#x27;t it odd that Geese knew where to find me?&quot;</p>
 <p>&quot;…What?&quot;</p>
-<p>&quot;I sent a letter to Paul a year and a half ago, telling him where I was living. Geese was in the Begaritt Continent as of six months ago, at least. When did he learn we were in this city now? How did he send us those letters?&quot;</p>
+<p>&quot;I sent a letter to Paul a year and a half ago, telling him where I was living. Geese was in the Begaritt Continent as of six months ago, at least. When did <em>he</em> learn we were in this city now? How did he send us those letters?&quot;</p>
 <p>Getting to Begaritt would take a traveler about a year, and even letters didn&#x27;t move that quickly. It wasn&#x27;t like texting on your phone. You were looking at six months minimum, even with an express delivery service. The dates didn&#x27;t line up.</p>
 <p>&quot;The only way Geese could know my location is if he&#x27;d met up with my dad and the others. They must have told him where we were.&quot;</p>
 <p>&quot;Then why was it Geese who wrote to us, instead of Paul?&quot;</p>
@@ -60,7 +60,7 @@ nav_title = "Chapter 8"
 <p>We couldn&#x27;t carry everything we might want. A carriage could have solved this problem, but Begaritt was apparently covered in deserts, and wagon wheels aren&#x27;t much good on sand. We&#x27;d likely have to buy a steed like the lizard I&#x27;d used in the Demon Continent. Maybe they had camels or something.</p>
 <p>&quot;I think you can leave those details to me, though. I have more experience in this field,&quot; she said.</p>
 <p>&quot;Old age does have its benefits, huh?&quot;</p>
-<p>&quot;Don&#x27;t provoke me, please.&quot;</p>
+<p>&quot;<em>Don&#x27;t</em> provoke me, please.&quot;</p>
 <p>I&#x27;d spent five years as an adventurer, but compared to a veteran like Elinalise, I was still a fledgling. I ended up leaving a lot of the tough calls in her hands.</p>
 <p>&quot;Fortunately, we&#x27;re both in reasonably good shape,&quot; Elinalise said. &quot;We should be able to push ourselves hard when necessary.&quot;</p>
 <p>&quot;Yeah, I guess so…&quot; I was confident Elinalise could march all day long through the desert, but not quite as certain I&#x27;d be able to keep up with her. I&#x27;d kept up my training, but there was a chance I&#x27;d slow her down a little.</p>
@@ -76,7 +76,7 @@ nav_title = "Chapter 8"
 <p>&quot;Oh. Right.&quot;</p>
 <p>Unless she slept with men on a regular basis, Elinalise would literally die. On a casual journey, that posed no issue—she could satisfy her needs in whatever town she wandered into. On longer trips, she often joined a party and found a willing partner. But on a rapid-paced expedition like this, there would be times when none of those methods worked.</p>
 <p>Both of us fell silent for a moment.</p>
-<p>There was a simple answer, of course. I could sleep with her when necessary. My performance problems were a thing of the past. If a random woman walked up to me asked me to have sex with her, I could probably manage just fine.</p>
+<p>There was a simple answer, of course. I could sleep with her when necessary. My performance problems were a thing of the past. If a random woman walked up to me asked me to have sex with her, I <em>could</em> probably manage just fine.</p>
 <p>But I didn&#x27;t want to betray Sylphie.</p>
 <p>&quot;Yes, that wouldn&#x27;t be a good idea.&quot;</p>
 <p>&quot;I guess we&#x27;ll have to stop by brothels or something on our way.&quot;</p>
@@ -139,7 +139,7 @@ nav_title = "Chapter 8"
 <p>&quot;That&#x27;s quite all right. The special student system is designed to be as accommodating as possible, after all.&quot;</p>
 <p>&quot;In that case, could you also put Elinalise Dragonroad&#x27;s enrollment on hold…as a favor to me? She&#x27;s not a special student, but she&#x27;s going to be accompanying me as a bodyguard.&quot;</p>
 <p>&quot;Ah, I see. All right, I&#x27;ll figure something out.&quot;</p>
-<p>Well, that was easy. It&#x27;s nice to have a friend in the bureaucracy.</p>
+<p><em>Well, that was easy. It&#x27;s nice to have a friend in the bureaucracy.</em></p>
 <p>Thanking Jenius once again, I left the faculty building behind.</p>
 <p>A few minutes later, I spotted Linia and Pursena outside. The two of them waved at me from across the courtyard and trotted over. I took the opportunity to explain the situation to them as well.</p>
 <p>&quot;No kidding? Man, it&#x27;s gonna be boring without you around, Boss.&quot;</p>
@@ -149,7 +149,7 @@ nav_title = "Chapter 8"
 <p>&quot;I guess you&#x27;re right. That&#x27;s a shame…&quot;</p>
 <p>Come to think of it, the Man-God had encouraged me to &quot;begin a relationship&quot; with one of these two. If I&#x27;d chosen to hang around here until the mating season started in two months, things might have taken a turn in that direction.</p>
 <p>&quot;What&#x27;s up, Boss? Do I have something on my face?&quot;</p>
-<p>Linia was an attractive girl. Those twitchy cat ears, swaying tail, and healthy thighs were her most distinctive features, but she had big breasts too. What was she, an E cup? All the beastfolk girls were on the well-endowed side, so that was probably about average. That cocky attitude would probably make her fun in bed too.</p>
+<p>Linia <em>was</em> an attractive girl. Those twitchy cat ears, swaying tail, and healthy thighs were her most distinctive features, but she had big breasts too. What was she, an E cup? All the beastfolk girls were on the well-endowed side, so that was probably about average. That cocky attitude would probably make her fun in bed too.</p>
 <p>&quot;Sniff sniff…whoa! Thinking about goin&#x27; a round with us before ya leave, Boss?&quot;</p>
 <p>Pursena had her charms, too. Those soft, floppy dog ears and her voluptuous body were her most notable assets. Dog-type beastfolk seemed to have particularly big breasts for some reason; she had to be a G cup. I&#x27;d groped those things a few times, so I knew how soft they were. How good would it feel to bury your face in them? Hmm…</p>
 <p>&quot;Uh, sorry,&quot; I said. &quot;Someone recently advised me to make a move on you two once the mating season comes around. I was just remembering what they said.&quot;</p>
@@ -157,8 +157,8 @@ nav_title = "Chapter 8"
 <p>&quot;Ya never really flirted back, so we figured we weren&#x27;t your type.&quot;</p>
 <p>The two of them seemed surprised, but also more than a little amused.</p>
 <p>Of course, sleeping with them would have meant cheating on my wife. But from what the Man-God said, it sounded like Sylphie wouldn&#x27;t have kicked me out of the house over it. Would she really just forgive me for messing around while she was pregnant? Maybe there&#x27;d be an ugly fight before things calmed down? Hard to say. Either way, it would supposedly lead to &quot;greater happiness&quot; in the end.</p>
-<p>I loved my wife, but I was also a man. The idea of a harem had a certain appeal. I found myself picturing a foursome with Linia, Pursena, and Sylphie. In some alternate reality, could that have been my future?</p>
-<p>…Nah, probably not. It was never a real possibility.</p>
+<p>I loved my wife, but I was also a man. The idea of a harem had a certain appeal. I found myself picturing a foursome with Linia, Pursena, <em>and</em> Sylphie. In some alternate reality, could that have been my future?</p>
+<p>…Nah, probably not. It was never a <em>real</em> possibility.</p>
 <p>&quot;Linia, Pursena…&quot;</p>
 <p>&quot;Yeah?&quot;</p>
 <p>&quot;What&#x27;s up, Boss?&quot;</p>
@@ -166,16 +166,16 @@ nav_title = "Chapter 8"
 <p>&quot;Let&#x27;s stay friends,&quot; I said.</p>
 <p>The two of them instantly relaxed and shrugged their shoulders.</p>
 <p>&quot;Well, if you insist,&quot; said Linia, elbowing me in the side. &quot;A guy like you could use a few.&quot;</p>
-<p>&quot;Friends it is,&quot; said Pursena, elbowing me in the other side. &quot;Make sure you keep in touch.&quot;</p>
+<p>&quot;Friends it is,&quot; said Pursena, elbowing me in the <em>other</em> side. &quot;Make sure you keep in touch.&quot;</p>
 <p>We ended up exchanging handshakes before we parted probably a first for us, actually. Some people like to say it&#x27;s impossible for men and women to really be friends, but that isn&#x27;t true. You can be friends with someone you&#x27;re attracted to; it&#x27;s a just a matter of setting the right boundaries.</p>
 <p>&quot;Let&#x27;s meet again someday, all right?&quot; I said. &quot;Even if it&#x27;s ten or twenty years from now.&quot;</p>
 <p>&quot;Sounds good, Boss. We&#x27;ll both be big shots ten years from now, so you can bow down before us and kiss our shoes!&quot;</p>
-<p>&quot;We&#x27;re gonna conquer the Great Forest, man.&quot;</p>
+<p>&quot;We&#x27;re gonna <em>conquer</em> the Great Forest, man.&quot;</p>
 <p>I had to smile. Good to know they had ambitions, at least. &quot;Well, I hope you don&#x27;t take revenge on me or anything.&quot;</p>
 <p>And so we went our separate ways. If we were lucky, maybe we&#x27;d see each other again sooner or later.</p>
 <p>A little later, I found myself standing in front of Nanahoshi&#x27;s laboratory.</p>
 <p>I wasn&#x27;t sure how to break the news to her. Nanahoshi was a lonely girl at heart. For all her outward hostility, I got the sense she was desperate for company. And more importantly, my absence was going to disrupt her research. Her plan to return home would be delayed significantly.</p>
-<p>I had to imagine she was going to try to convince me not to go. She might even blackmail me somehow. What was I supposed to do if she threatened to murder Sylphie if I left? Not that I expected her to go that nuts…</p>
+<p>I had to imagine she was going to try to convince me not to go. She might even blackmail me somehow. What was I supposed to do if she threatened to murder Sylphie if I left? Not that I expected her to go <em>that</em> nuts…</p>
 <p>Letting out a small sigh, I knocked on the front door and waited. The &quot;come in&quot; came a moment later.</p>
 <p>Nanahoshi looked up from her desk as I stepped into the room. &quot;What is it? This isn&#x27;t your usual time…&quot;</p>
 <p>&quot;I&#x27;m afraid I&#x27;ve got some unfortunate news, actually.&quot;</p>
@@ -184,7 +184,7 @@ nav_title = "Chapter 8"
 <p>&quot;I&#x27;m going on a lengthy journey. My parents are in danger, and I need to help them. They&#x27;re in the Labyrinth City of Rapan in the Begaritt Continent. It&#x27;s going to be about two years before I&#x27;m back.&quot;</p>
 <p>&quot;…What?&quot;</p>
 <p>After a moment of silence, Nanahoshi jumped to her feet, knocking her chair backward with a clatter. She pressed her hands down on her desk and stared at me, looking more stunned than anything.</p>
-<p>&quot;Rapan? Begaritt? Did you say…two years?&quot;</p>
+<p>&quot;Rapan? <em>Begaritt?</em> Did you say…<em>two years</em>?&quot;</p>
 <p>She repeated the words slowly, as if trying to make sense of them.</p>
 <p>&quot;I know I said I&#x27;d help you with your experiments, and I do feel terrible about leaving now. But I really need to go.&quot;</p>
 <p>Nanahoshi&#x27;s eyes opened wide, and she took a great gulping breath…but instead of shouting, she dropped back into her chair and looked up at the ceiling.</p>
@@ -206,7 +206,7 @@ nav_title = "Chapter 8"
 <p>&quot;…&quot;</p>
 <p>Nanahoshi was obviously hesitant to explain. But after a few moments, she spoke up.</p>
 <p>&quot;It&#x27;s a map of ancient ruins that contain teleportation circles. They can be found all across the world.&quot;</p>
-<p>Teleportation circles?</p>
+<p><em>Teleportation circles?</em></p>
 <p>&quot;Huh?&quot;</p>
 <p>Once again, I peered at the map. At the characters B3 specifically. Could that mean—</p>
 <p>&quot;That right there is a teleporter that will take you to the Begaritt Continent.&quot;</p>
@@ -218,7 +218,7 @@ nav_title = "Chapter 8"
 <p>&quot;But you said…you didn&#x27;t remember where they were!&quot;</p>
 <p>I remembered that part clearly. She&#x27;d told me she had no idea where to find them.</p>
 <p>&quot;Orsted swore me to secrecy at the start. This is forbidden magic, after all. I agreed readily enough, since I figured I wouldn&#x27;t be able to remember them anyway.&quot;</p>
-<p>After a while, though, she&#x27;d started making some notes on the teleporters&#x27; locations, just in case she ever had to use them. Then she began secretly buying maps or roughly sketching her own. Sometimes she casually asked Orsted where they were or noted the names of nearby cities…and then wrote it all down, instead of trying to memorize it.</p>
+<p>After a while, though, she&#x27;d started making some notes on the teleporters&#x27; locations, just in case she ever had to use them. Then she began secretly buying maps or roughly sketching her own. Sometimes she casually asked Orsted where they were or noted the names of nearby cities…and then wrote it all down, instead of trying to memorize it<em>.</em></p>
 <p>Stunned, I flipped through the journal.</p>
 <p>It was a rough and incomplete record. There were times when she couldn&#x27;t procure a map, or they hadn&#x27;t even visited a town, so she&#x27;d penned notes like &quot;Mountains to the left. Roughly three days travel east to reach the river, then two more to reach them.&quot;</p>
 <p>The letter part of her marks indicated the continent, and the number seemed to be the order in which they&#x27;d been accessed. N was the northern region of the Central Continent. S was the southern region, and W the western. DE was the Demon Continent. M was the Millis Continent. They hadn&#x27;t visited the Divine Continent, apparently…but there were a few Bs for Begaritt.</p>
@@ -226,9 +226,9 @@ nav_title = "Chapter 8"
 <p>&quot;I&#x27;ve heard about this Rapan place you mentioned,&quot; she said. &quot;I remember where it is too. There&#x27;s a place called Bazaar close to this teleporter, and Rapan is about a month&#x27;s journey to the north from there. I&#x27;m positive.&quot;</p>
 <p>I flipped back to the page Nanahoshi had shown me first. It covered the area from the city of Sharia to the southwestern forest. The scale was a bit unclear, but it looked like a journey of ten days or so. Maybe even less. And the teleportation circle here would bring us to the point marked B3.</p>
 <p>I flipped back to the relevant page. From the B3 teleporter, it looked to be about a week&#x27;s journey to the closest town. So if Rapan was only a month away from there…</p>
-<p>We were looking at forty-seven days or so, and a ninety-four– day round trip. We could get there and back in just three months. Even if we took a month to rescue Zenith, we&#x27;d be back home in four.</p>
+<p>We were looking at forty-seven days or so, and a ninety-four– day round trip. We could get there and back in just <em>three months</em>. Even if we took a month to rescue Zenith, we&#x27;d be back home in four.</p>
 <p>I could make it back in time. I could be here for the birth of my child.</p>
-<p>I&#x27;d still miss out on the mating season thing, but that really didn&#x27;t matter.</p>
+<p>I&#x27;d still miss out on the mating season thing, but that <em>really</em> didn&#x27;t matter.</p>
 <p>&quot;Are you sure about this?&quot; I asked. &quot;Didn&#x27;t Orsted tell you to keep this a secret?&quot;</p>
 <p>&quot;I won&#x27;t deny I&#x27;m a bit conflicted, but I owe you a lot after last time. Just don&#x27;t share this information with anyone, all right? Teleportation magic is a forbidden art. If word gets around, the ruins will be destroyed by local governments.&quot;</p>
 <p>And that would make life less convenient for Orsted. He&#x27;d probably get mad at both of us. Just thinking about that guy made me tremble a little. I was going to keep my mouth shut, that much was for sure.</p>
@@ -246,10 +246,10 @@ nav_title = "Chapter 8"
 <p>Elinalise was lounging around wearing nothing but a blanket. And she&#x27;d apparently lost her nerve completely.</p>
 <p>Her slim, elegant limbs and tastefully draped bosom definitely had a certain classical appeal, but I felt no urge to display her in a museum. I&#x27;d never been a big art appreciation guy in the first place. It did occur to me that she&#x27;d make a pretty sexy figurine, though.</p>
 <p>Cliff was sitting slumped in a corner of the room, looking a bit like an Egyptian mummy. There was a big smile on his face, but he was obviously passed out. He actually looked more like a</p>
-<p>masterpiece than his girlfriend. What would you title a statue like this? Blissful Demise?</p>
+<p>masterpiece than his girlfriend. What would you title a statue like this? <em>Blissful Demise</em>?</p>
 <p>&quot;I can&#x27;t bear to be parted from Cliff for two whole years!&quot; yelped Elinalise. &quot;I know it&#x27;s horrible of me, but I simply won&#x27;t do it!&quot;</p>
-<p>Hmm. Well. People do say women are more guided by their emotions, don&#x27;t they?</p>
-<p>&quot;I mean, if you&#x27;re going, then there&#x27;s hardly any need for me to tag along too,&quot; she babbled. &quot;Your father and I aren&#x27;t even on good terms. He probably wouldn&#x27;t want to see my face! Shouldn&#x27;t I stick around to protect my pregnant granddaughter, in any case?&quot;</p>
+<p><em>Hmm. Well. People do say women are more guided by their emotions, don&#x27;t they?</em></p>
+<p>&quot;I mean, if <em>you&#x27;re</em> going, then there&#x27;s hardly any need for me to tag along too,&quot; she babbled. &quot;Your father and I aren&#x27;t even on good terms. He probably wouldn&#x27;t want to see my face! Shouldn&#x27;t I stick around to protect my pregnant granddaughter, in any case?&quot;</p>
 <p>&quot;…&quot;</p>
 <p>It was hard to remember this was the same woman who&#x27;d sternly told me that I should wait here while she took care of everything. I tried my best not to judge her too harshly. She was just returning to reality after a stint in paradise, that was all.</p>
 <p>&quot;Well, okay, Elinalise. The thing is, I just found a way that could get us there and back in only three months, but…&quot;</p>
@@ -261,18 +261,18 @@ nav_title = "Chapter 8"
 <p>&quot;Can you actually pay attention, please?&quot;</p>
 <p>&quot;I-I was only joking, dear.&quot;</p>
 <p>I showed Elinalise the journal and gave her a quick explanation, making sure to emphasize that Nanahoshi had sworn us to secrecy. She flipped through it a few times, unable to hide her astonishment.</p>
-<p>&quot;Can we really make it there that quickly…?&quot;</p>
+<p>&quot;Can we really make it there <em>that</em> quickly…?&quot;</p>
 <p>&quot;That&#x27;s right. If we do it this way, I might even make it back in time to see my child born.&quot;</p>
 <p>&quot;…This could work.&quot;</p>
 <p>A six-week journey wasn&#x27;t nearly such a long trip. Elinalise seemed to have snapped back into planning mode, judging from how seriously she was scrutinizing the journal.</p>
 <p>&quot;Oh, all right, then,&quot; she said after a moment. &quot;I&#x27;ll come along after all.&quot;</p>
-<p>Another sudden change of heart, huh?</p>
-<p>I did understand where she was coming from, though. Two years was a really long time.</p>
+<p><em>Another sudden change of heart, huh?</em></p>
+<p>I <em>did</em> understand where she was coming from, though. Two years was a really long time.</p>
 <p>&quot;Considering how much quicker this route is, we could bring Cliff with us,&quot; I said.</p>
 <p>&quot;…No, we&#x27;re leaving him behind.&quot;</p>
 <p>&quot;You sure?&quot;</p>
 <p>&quot;I doubt he could keep it to himself if he learned about these teleportation circles.&quot;</p>
-<p>Really? Cliff was a reasonably trustworthy guy, wasn&#x27;t he? Then again…he was probably the type to let secrets slip without even meaning to. Yeah, it was probably better to keep as few people in the know as possible. The more people we brought into the fold, the more likely word would get out.</p>
+<p>Really? Cliff was a reasonably trustworthy guy, wasn&#x27;t he? Then again…he <em>was</em> probably the type to let secrets slip without even meaning to. Yeah, it was probably better to keep as few people in the know as possible. The more people we brought into the fold, the more likely word would get out.</p>
 <p>Besides, there was trouble waiting for us in Rapan. We wanted to show up with a small, elite group of experienced people.</p>
 <p>If I were going to take anyone else along, I&#x27;d have preferred someone like Ruijerd. He was both a powerful fighter and as tightlipped as they come. Badigadi came to mind too. He&#x27;d been alive for thousands of years, so it was very possible he already knew about the teleportation circles. And he seemed to be familiar with Orsted, so it would be easy to explain the situation to him.</p>
 <p>Unfortunately, I hadn&#x27;t seen either of those two in some time. No one else came to mind as a likely candidate. Zanoba might be strong in a brawl, but he definitely wasn&#x27;t a seasoned traveler.</p>
@@ -291,7 +291,7 @@ nav_title = "Chapter 8"
 <p>No matter what she said, she was obviously struggling with this. It made my heart hurt just to look at her. &quot;Uhm, how long do you think you&#x27;ll be gone? About two years, right?&quot;</p>
 <p>&quot;No. Nanahoshi showed me a way to get there using a teleportation circle. I think I should be back before the baby comes.&quot;</p>
 <p>I&#x27;d already made the decision to tell her about the teleportation thing. If I couldn&#x27;t trust Sylphie to keep a secret, I couldn&#x27;t trust anyone.</p>
-<p>&quot;Huh?! You&#x27;re going to teleport there? Is that safe?&quot;</p>
+<p>&quot;Huh?! You&#x27;re going to <em>teleport</em> there? Is that safe?&quot;</p>
 <p>She was obviously startled. The anxiety was visible on her face once again.</p>
 <p>It made sense that she&#x27;d be worried, of course. Both of us had lost a great deal because of the Displacement Incident.</p>
 <p>&quot;I can&#x27;t say for sure just yet,&quot; I said. &quot;But Nanahoshi seems to have used these circles personally in the past, so I think it&#x27;s going to be all right.&quot;</p>
@@ -313,7 +313,7 @@ nav_title = "Chapter 8"
 <p>&quot;Of course!&quot;</p>
 <p>&quot;And try to keep up with your studies while I&#x27;m gone too.&quot;</p>
 <p>&quot;I&#x27;ll do my best!&quot;</p>
-<p>Norn seemed to be very determined to play her role in this properly. Hopefully that wouldn&#x27;t get her butting heads with Aisha or anything.</p>
+<p>Norn seemed to be <em>very</em> determined to play her role in this properly. Hopefully that wouldn&#x27;t get her butting heads with Aisha or anything.</p>
 <p>Well, then. What did that leave? Was there anything else I needed to say to them?</p>
 <p>&quot;…Oh, right. Maybe we should decide on a name for the kid before I go.&quot;</p>
 <p>I was planning to make it back in time, but you never knew what might happen. It couldn&#x27;t hurt to get this settled beforehand.</p>
@@ -321,7 +321,7 @@ nav_title = "Chapter 8"
 <p>Nah, this wasn&#x27;t a video game.</p>
 <p>Our names were Rudeus and Sylphie, so we could sort of combine parts of them. Maybe something like Sirius if it was a boy, or Lucie for a girl. That was kind of cliché, though… Maybe I should just ask Paul for advice.</p>
 <p>After thinking all this over for a few seconds, I finally noticed everyone was looking at me with strange expressions on their faces.</p>
-<p>&quot;R-Rudy…you want to name the baby?&quot;</p>
+<p>&quot;R-Rudy…you want to <em>name</em> the baby?&quot;</p>
 <p>&quot;Why would you say something like that?&quot;</p>
 <p>&quot;Rudeus…&quot;</p>
 <p>They seemed genuinely shocked. Aisha even had tears welling up in her eyes. Was the idea that odd? I didn&#x27;t remember any rules about not naming kids before their birth.</p>
@@ -337,13 +337,13 @@ nav_title = "Chapter 8"
 <p>Still, this was my first-born child we were talking about. That didn&#x27;t feel completely real yet, but I wanted to at least participate in choosing a name.</p>
 <p>&quot;Ahem.&quot;</p>
 <p>Aisha cleared her throat meaningfully. She&#x27;d clearly come up with some sort of proposal.</p>
-<p>&quot;How about this, brother dear? If the child is born before you make it back, we&#x27;ll call them Rudeus Junior temporarily. Once you&#x27;re back home, you&#x27;ll pick a proper name. We can make the Rudeus into his middle name, like the famous North God Kalman.&quot;</p>
+<p>&quot;How about this, brother dear? If the child is born before you make it back, we&#x27;ll call them Rudeus Junior <em>temporarily</em>. Once you&#x27;re back home, you&#x27;ll pick a proper name. We can make the Rudeus into his middle name, like the famous North God Kalman.&quot;</p>
 <p>Rudeus Junior, huh? Well, it wasn&#x27;t too unusual to give a child their parent&#x27;s name in this world. And if we ended up going with Lucie, it would turn into something like Lucie Rudeus Greyrat…</p>
-<p>That didn&#x27;t sound too bad to me. It did feel a little embarrassing, since I still associated names like that with wealthy aristocrats, but it seemed more common here.</p>
-<p>Hm? Wait a second, though.</p>
+<p>That didn&#x27;t sound too bad to me. It <em>did</em> feel a little embarrassing, since I still associated names like that with wealthy aristocrats, but it seemed more common here.</p>
+<p><em>Hm? Wait a second, though.</em></p>
 <p>What if it was a girl, and I never made it back? Would she be stuck with Rudeus Junior forever? What if she got picked on? What if she turned into a furious little monster who had to beat everyone senseless to defend her stupid name?!</p>
 <p>I tried to convince myself that was unlikely. The world didn&#x27;t need another &quot;Mad Dog.&quot;</p>
-<p>…Well, whatever. Just another reason to make it back home safely.</p>
+<p><em>…Well, whatever. Just another reason to make it back home safely.</em></p>
 <p>&quot;That sounds good to me, I guess. Sylphie…?&quot;</p>
 <p>&quot;Yes?&quot;</p>
 <p>&quot;Uhm…&quot;</p>

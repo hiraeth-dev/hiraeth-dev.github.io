@@ -19,9 +19,9 @@ nav_title = "Chapter 3"
 <p>Her eyes still closed, Sylphie smiled happily and rubbed her head against my hand. I guess she was half-awake. It was pretty adorable, needless to say.</p>
 <p>Glancing down, I noticed that the covers were a little tangled, leaving her underwear-clad bottom exposed. I gave that a gentle patting, too. You&#x27;d never think this girl was already a mother. But then again, Elinalise still had a good figure, too. Maybe it was genetic.</p>
 <p>After a moment&#x27;s hesitation, I pulled the sheets back over Sylphie.</p>
-<p>We&#x27;d been getting back to our normal nighttime activities lately, but it felt a little early to be trying too hard for a second child, so I was trying to be a little more restrained. Even if there was no guarantee it wouldn&#x27;t happen anyway.</p>
+<p>We&#x27;d been getting back to our normal nighttime activities lately, but it felt a little early to be trying too hard for a <em>second</em> child, so I was trying to be a little more restrained. Even if there was no guarantee it wouldn&#x27;t happen anyway.</p>
 <p>As I left the room, Sylphie called out to me sleepily. &quot;Nn… See y&#x27;later…&quot;</p>
-<p>Be back soon.</p>
+<p><em>Be back soon.</em></p>
 <p>Next, I headed to Norn&#x27;s room.</p>
 <p>These days, she&#x27;d been joining me on my morning training. When she was staying at the house, we&#x27;d do it in the yard; when she was staying at the dorm, I&#x27;d meet her at the courtyard there. Today was one of her days at home.</p>
 <p>&quot;You ready, Norn?&quot;</p>
@@ -31,7 +31,7 @@ nav_title = "Chapter 3"
 <p>She was still getting dressed, so I promptly closed it again.</p>
 <p>Norn&#x27;s body still hadn&#x27;t developed much. I liked slim, diminutive girls just fine, of course, but my little sisters just didn&#x27;t do anything for me. Sometimes I found that slightly regrettable, but it was for the best. It was nice that I could be affectionate with them without feeling dirty about it.</p>
 <p>Still, the thought that Norn would probably get married someday did inspire a vaguely uneasy feeling in the pit of my stomach. Maybe this was what a father felt watching his daughter grow up?</p>
-<p>It wasn&#x27;t so bad. I&#x27;d have to take Paul&#x27;s place and berate her first boyfriend for her. I&#x27;m not giving Norn to a bum like you! Get lost!</p>
+<p>It wasn&#x27;t so bad. I&#x27;d have to take Paul&#x27;s place and berate her first boyfriend for her. <em>I&#x27;m not giving Norn to a bum like you! Get lost!</em></p>
 <p>&quot;Honestly. What&#x27;s the point of knocking if you don&#x27;t wait for me to say something?&quot;</p>
 <p>As I was reflecting on all this, Norn emerged from her room in her exercise clothes, carrying a wooden sword in one hand. Her outfit was a plain, functional thing, with long sleeves on the top and bottom. It was the standard exercise gear from the University; I&#x27;d bought her a couple pairs from the school store.</p>
 <p>Glancing briefly past Norn into her room, I saw Paul&#x27;s sword mounted high up on the wall. In my old world, she probably would have set up an altar with a picture of his face, but there weren&#x27;t any cameras here. It was possible somebody had created a magical tool capable of capturing an image, but if so, it wasn&#x27;t in widespread use. Without photographs, people tended to use mementos to remember those they&#x27;d lost.</p>
@@ -40,7 +40,7 @@ nav_title = "Chapter 3"
 <p>I stepped inside. The bedroom smelled a bit like its occupant, the way they do first thing in the morning. If I&#x27;d dived into her bed and pressed my face against her wrinkled sheets, I could have filled my lungs with the scent of Norn. Not that I was going to.</p>
 <p>Standing right in front of Paul&#x27;s sword, I put my hands together. &quot;Dad, Norn and I are going to be training again this morning. Keep an eye on us so we don&#x27;t get hurt too badly, will you?&quot;</p>
 <p>Once I was done with my little prayer, I bowed my head slightly.</p>
-<p>How would Paul have responded to this, anyway? Maybe something like &quot;You&#x27;ll never improve without a few injuries, y&#x27;know.&quot; Or maybe just &quot;You better not let Norn get hurt, dammit.&quot;</p>
+<p>How would Paul have responded to this, anyway? Maybe something like &quot;<em>You&#x27;ll never improve without a few injuries, y&#x27;know.&quot;</em> Or maybe just <em>&quot;You better not let Norn get hurt, dammit.&quot;</em></p>
 <p>Glancing over, I found Norn kneeling next to me with her hands together in the Millis style.</p>
 <p>I had a good view of the cute little whorl of hair on top of her head.</p>
 <p>&quot;…&quot;</p>
@@ -50,7 +50,7 @@ nav_title = "Chapter 3"
 <p>The two of us headed out to begin another session.</p>
 <p>The regimen was simple enough: calisthenics, running, and practice swings.</p>
 <p>I called this &quot;sword training,&quot; but at the moment, we were really just working on the fundamentals. Over the last few months, I&#x27;d been driving Norn hard to build up her basic stamina.</p>
-<p>When I say hard, though, I don&#x27;t mean I had her doing the same routine as me. That would have been way too much for to handle. I&#x27;d started her off at one-fifth of my training regimen. Norn was only eleven years old, and she hadn&#x27;t been too physically active prior to</p>
+<p>When I say <em>hard,</em> though, I don&#x27;t mean I had her doing the same routine as me. That would have been way too much for to handle. I&#x27;d started her off at one-fifth of my training regimen. Norn was only eleven years old, and she hadn&#x27;t been too physically active prior to</p>
 <p>this, so there was only so much I could reasonably expect her to endure.</p>
 <p>While she did her practice swings in the yard, I finished up my own upper-body exercises.</p>
 <p>&quot;Twenty-five…twenty-six…!&quot;</p>
@@ -63,8 +63,8 @@ nav_title = "Chapter 3"
 <p>After training, the two of us headed into the bath together.</p>
 <p>Norn had an unfortunate tendency to trip and fall during our running sessions, which sometimes left her with scrapes or bruises on her knees. I made a habit of looking her over and cleaning them up with healing magic afterward. Sort of like kissing it to make it better, except it actually worked.</p>
 <p>Incidentally, Norn strongly objected to letting me see her naked, so she took these baths in her underwear and with a thin shirt on. I guess she was getting to that sensitive age. It was a pity she hadn&#x27;t split that sense of modesty with Aisha. Of course, I always wore underwear in, too, to make Norn more comfortable.</p>
-<p>Still…sometimes I wondered how she&#x27;d react if I told her that some guys out there got more excited seeing a woman in a wet, semi-transparent shirt. It might be fun to see, but I was keeping the thought to myself. I didn&#x27;t want her to banish me from bathing with her entirely.</p>
-<p>As I was reflecting on this, Norn shot me a look and pouted slightly. &quot;It was just running and practice swings again today. When are you going to teach me how to use my sword?&quot;</p>
+<p>Still…sometimes I wondered how she&#x27;d react if I told her that some guys out there got <em>more</em> excited seeing a woman in a wet, semi-transparent shirt. It might be fun to see, but I was keeping the thought to myself. I didn&#x27;t want her to banish me from bathing with her entirely.</p>
+<p>As I was reflecting on this, Norn shot me a look and pouted slightly. &quot;It was just running and practice swings <em>again</em> today. When are you going to teach me how to use my sword?&quot;</p>
 <p>&quot;I already am.&quot;</p>
 <p>&quot;I&#x27;m not talking about just swinging it. I mean, you know…the stances, the techniques.&quot;</p>
 <p>So far, I&#x27;d been instructing Norn on how to run and swing her sword. Running would build her stamina, and practice swings would build her strength. Until she&#x27;d worked on both of those for a while, there was really no point in her learning &quot;techniques.&quot; That was how I&#x27;d figured it, at least.</p>
@@ -90,7 +90,7 @@ nav_title = "Chapter 3"
 <p>&quot;To be honest, I don&#x27;t want to make you hate me. But a halfhearted instructor gets his students hurt. If I took it easy on you in training, and then you ended up getting killed in your first real fight, I&#x27;d never be able to face our dad in heaven.&quot;</p>
 <p>Norn had no real talent with the sword. Certainly not compared to Eris at the same age, at least. I wouldn&#x27;t say she was any worse than the average eleven-year-old, but &quot;strength&quot; can only be measured in relative terms.</p>
 <p>When you&#x27;re fighting someone one on one, the stronger combatant wins, and the weaker one dies. Losing isn&#x27;t a valid option.</p>
-<p>For Norn to become capable of overcoming any actual threats, she&#x27;d need to put in a lot of effort. I needed to train her hard. And she needed to learn a few tricks, too.</p>
+<p>For Norn to become capable of overcoming any actual threats, she&#x27;d need to put in a <em>lot</em> of effort. I needed to train her hard. And she needed to learn a few tricks, too.</p>
 <p>&quot;At some point, this might start making you miserable. You might get frustrated with your lack of progress. You might see someone with more talent quickly pass you by. There&#x27;s going to come a day when you feel like quitting.&quot;</p>
 <p>&quot;…&quot;</p>
 <p>&quot;I do know how that feels, for the record. And I couldn&#x27;t really blame you, or anyone else, for giving up in the face of adversity.&quot;</p>
@@ -102,7 +102,7 @@ nav_title = "Chapter 3"
 <p>&quot;…&quot;</p>
 <p>&quot;As long as you keep at it, though, I won&#x27;t give up on you either.&quot;</p>
 <p>Kind of a cheesy speech, I know. Was I even showing that kind of determination myself, come to think of it?</p>
-<p>Well…I&#x27;d given up on getting much better with the sword, but I had kept up with my training every morning. I wanted to believe I wasn&#x27;t a total hypocrite.</p>
+<p>Well…I&#x27;d given up on getting much better with the sword, but I <em>had</em> kept up with my training every morning. I wanted to believe I wasn&#x27;t a total hypocrite.</p>
 <p>&quot;Do you understand, Norn?&quot;</p>
 <p>&quot;Yes, sir! I understand completely!&quot;</p>
 <p>Norn&#x27;s response was quick and forceful. She was looking up at me with flushed cheeks and determination in her eyes. I found myself wondering if I&#x27;d looked something like this to Paul, back when I was little.</p>
@@ -151,7 +151,7 @@ nav_title = "Chapter 3"
 <p>I approached my sister and took off her jacket to get a better look at her arms. But then, I sensed that we were being watched.</p>
 <p>&quot;Hm?&quot;</p>
 <p>Turning around, I saw a group of male students staring at us, illuminated by the setting sun.</p>
-<p>How long have those guys been there? Hmm…from the start, maybe?</p>
+<p><em>How long have those guys been there? Hmm…from the start, maybe?</em></p>
 <p>I&#x27;d assumed they were just curious onlookers, but if they&#x27;d stuck around this long, they probably had a reason for their loitering. Maybe they wanted something from me.</p>
 <p>&quot;Norn, get dressed and wait for me, okay? I&#x27;ll walk home with you today.&quot;</p>
 <p>&quot;Huh? Uh, right. Okay, Rudeus.&quot;</p>
@@ -165,7 +165,7 @@ nav_title = "Chapter 3"
 <p>Of course, Zanoba was always full of that bizarre confidence of his. This guy looked more like the self-loathing, resentful type.</p>
 <p>&quot;Why are you bullying Norn?&quot; he spat out, glaring at me.</p>
 <p>&quot;…Hm?&quot;</p>
-<p>Bullying?</p>
+<p><em>Bullying?</em></p>
 <p>I could feel my brow furrowing at the sound of that word.</p>
 <p>The young mage flinched at my reaction, but continued nonetheless. &quot;Look, I know Norn&#x27;s clumsy and messes things up sometimes. Maybe she accidentally ticked you off somehow. But she tries her best at everything she does, okay? Did you really have to take it out on her like that?&quot;</p>
 <p>From behind him, the group muttered words of agreement.</p>
@@ -192,14 +192,14 @@ nav_title = "Chapter 3"
 <p>They spoke clumsily, and never seemed to actually finish their sentences. But I still got the general idea. These guys had seen Norn in her classes or training sessions. They&#x27;d seen her tearing up as she failed repeatedly, but kept struggling nonetheless. And it had warmed their hearts.</p>
 <p>At some point, they&#x27;d banded together to try and offer her a little subtle support from the sidelines. In other words…</p>
 <p>Norn had a fan club.</p>
-<p>Come to think of it, I felt like Sylphie had mentioned something about this to me at some point. It was understandable. Norn was adorable, after all. I could see where they were coming from. As Norn&#x27;s brother, I wanted to encourage their efforts.</p>
+<p>Come to think of it, I felt like Sylphie had mentioned something about this to me at some point. It was understandable. Norn <em>was</em> adorable, after all. I could see where they were coming from. As Norn&#x27;s brother, I wanted to encourage their efforts.</p>
 <p>&quot;I think I understand the situation now. Thanks for looking out for Norn, everyone. I&#x27;m Rudeus Greyrat, her big brother.&quot;</p>
 <p>When I lowered my head in gratitude, a surprised murmur ran through the little crowd.</p>
 <p>These guys were on Norn&#x27;s side. Some of them might be capable of taking things too far, but as a group, they seemed to have nothing but good intentions. It was only right for me to treat them with respect.</p>
 <p>That said, I did still need to definitively clear up this misunderstanding.</p>
 <p>&quot;As for our training session just now… I know it looked like I was treating her harshly. However, learning the sword isn&#x27;t a game. It can be a matter of life and death.&quot;</p>
 <p>Firstly, I explained that the whole thing was Norn&#x27;s idea. Secondly, I told them that it was dangerous to learn swordplay unless you took it very seriously. And finally, I emphasized that Norn needed to work much harder at it than most people would.</p>
-<p>The fan club was a little taken aback at first, but after a while, they seemed to understand where I was coming from. Still, I did hear someone mutter &quot;Did you really have to hit her that hard, though?&quot;</p>
+<p>The fan club was a little taken aback at first, but after a while, they seemed to understand where I was coming from. Still, I did hear someone mutter &quot;Did you really have to hit her <em>that</em> hard, though?&quot;</p>
 <p>It was a fair question. I wasn&#x27;t sure that my methods were correct either. All I wanted them to understand was that I wasn&#x27;t picking on Norn maliciously.</p>
 <p>I continued my explanation at length, trying to convey my motivations. The faces of the fan club members slowly grew more serious as they listened, and by the end they were nodding reluctantly. These guys were still young, but by the standards of this world they were all adults. They were capable of understanding how deadly serious it was to go into actual battle.</p>
 <p>&quot;Rudeus? Is something the matter?&quot;</p>
@@ -208,26 +208,26 @@ nav_title = "Chapter 3"
 <p>&quot;Hello, Norn! You look cute today! As always!&quot;</p>
 <p>&quot;Nice job out there, Norn!&quot;</p>
 <p>The instant my sister arrived, everyone in her fan club got remarkably creepy.</p>
-<p>Still, I could understand how they felt. She was adorable in that outfit. So adorable I found myself picturing her carrying around a leaf umbrella.</p>
+<p>Still, I could understand how they felt. She <em>was</em> adorable in that outfit. So adorable I found myself picturing her carrying around a leaf umbrella.</p>
 <p>&quot;Oh, h-hello there, everyone… Th-thank you.&quot;</p>
 <p>Norn flinched in surprise at the sudden barrage of encouragement, then bowed her head respectfully. I noticed she wasn&#x27;t getting too close to them, though. I guess she was picking up on the weird vibes here, too.</p>
 <p>&quot;U-um, Rudeus, I think I forgot something in my room. I&#x27;ll go grab it now, so just wait for me at the school gates, okay?&quot;</p>
 <p>Just like that, Norn turned and rushed off toward the dorms. Before she got too far, though, she tripped and fell.</p>
 <p>&quot;Guh…&quot;</p>
 <p>Norn was a little slow getting up. And once she was back on her feet, she looked back at me for just a moment. Her eyes were glistening.</p>
-<p>I suppressed a sigh. Maybe you shouldn&#x27;t be running right after you exercised, kid…</p>
+<p>I suppressed a sigh. <em>Maybe you shouldn&#x27;t be running right after you exercised, kid…</em></p>
 <p>Once we got back home, I&#x27;d have to give her a massage to help control the muscle pain. She&#x27;d need a nice long relaxing bath, too.</p>
-<p>&quot;Aw, she is so adorable…&quot;</p>
+<p>&quot;Aw, she is <em>so</em> adorable…&quot;</p>
 <p>&quot;Don&#x27;t run so fast, Norn… You&#x27;re wearing a skirt, remember?&quot;</p>
 <p>&quot;I thought the school uniform was a stupid idea at first, but I think I understand the appeal now…&quot;</p>
 <p>&quot;She&#x27;s an awful slow runner, though.&quot;</p>
 <p>&quot;Yeah… If a kidnapper tried to snatch her, she might not get away…&quot;</p>
 <p>&quot;If Norn went on the slave market, I&#x27;d buy her in a minute. Heh heh.&quot;</p>
-<p>&quot;Ooh…imagine living with Norn… Hee hee…&quot;</p>
-<p>Hmm…yeah, I&#x27;d buy Norn too. Then I&#x27;d take her back home and make her a nice, big meal. I&#x27;d fill her up with good food, and insist she clean her plate… Oh, I can just see her struggling to finish it all off…</p>
-<p>Gah. Wait, no!</p>
+<p>&quot;Ooh…imagine <em>living</em> with Norn… Hee hee…&quot;</p>
+<p><em>Hmm…yeah, I&#x27;d buy Norn too. Then I&#x27;d take her back home and make her a nice, big meal. I&#x27;d fill her up with good food, and insist she clean her plate… Oh, I can just see her struggling to finish it all off…</em></p>
+<p><em>Gah. Wait, no!</em></p>
 <p>Norn was my little sister. I wasn&#x27;t going to let anyone buy her on the damn slave market. If someone dared to kidnap her, I&#x27;d hunt them down and murder them painfully.</p>
-<p>Sound good, Dad?! Don&#x27;t get mad at me!</p>
+<p><em>Sound good, Dad?! Don&#x27;t get mad at me!</em></p>
 <p>&quot;Ahem!&quot;</p>
 <p>&quot;Gah!&quot;</p>
 <p>I&#x27;d cleared my throat loudly, prompting the members of the fan club to snap out of their disturbing fantasies.</p>
@@ -236,12 +236,12 @@ nav_title = "Chapter 3"
 <p>&quot;It&#x27;s all right, I know she&#x27;s adorable. You can have your little daydreams, at least. As long as you keep a safe distance from her.&quot;</p>
 <p>&quot;Oh. Really?&quot;</p>
 <p>Everyone seemed to relax a little at that.</p>
-<p>&quot;Yeah. But if you lay so much as a finger on her, you&#x27;re going to seriously regret it.&quot;</p>
+<p>&quot;Yeah. But if you lay so much as a finger on her, you&#x27;re going to <em>seriously</em> regret it.&quot;</p>
 <p>&quot;Eek!&quot;</p>
 <p>It never hurt to be clear about these things. I didn&#x27;t think anyone here was capable of getting up to real mischief, and groups like this tended to have a moderating effect on their members…but you never know what someone might do on impulse. The last thing I needed was one of them getting overheated and trying to snatch Norn off the street.</p>
 <p>&quot;On another note, what rules has your club agreed on so far?&quot;</p>
 <p>&quot;Huh? Our club…?&quot;</p>
-<p>&quot;Yeah. This is Norn&#x27;s fan club, right? What&#x27;s your policy on interacting with her?&quot;</p>
+<p>&quot;Yeah. This <em>is</em> Norn&#x27;s fan club, right? What&#x27;s your policy on interacting with her?&quot;</p>
 <p>It was very important to have a clear set of guidelines. Generally, the fans agreed not to approach their idol directly, but I&#x27;d heard of some cases where people allowed themselves to ask for handshakes or autographs. The handshake thing was dicey territory, though. Sometimes guys would put weird stuff on their palms first. Like gum…or sea urchins. I wanted to make sure that sort of thing was officially forbidden.</p>
 <p>&quot;Norn&#x27;s…what?&quot;</p>
 <p>&quot;What&#x27;s a fan club?&quot;</p>
@@ -254,7 +254,7 @@ nav_title = "Chapter 3"
 <p>&quot;I see…&quot;</p>
 <p>This was a very dangerous situation.</p>
 <p>What we had here was an unorganized mob of uncertain size, united only by an interest in my little sister. In mobs, people are capable of doing things they wouldn&#x27;t have the guts to try on their own. For example, kidnapping my adorable little sister, and blaming her for being too cute to resist.</p>
-<p>Unacceptable! Outrageous! Scandalous!</p>
+<p><em>Unacceptable! Outrageous! Scandalous!</em></p>
 <p>&quot;This isn&#x27;t good, guys. At this rate, you&#x27;re going to turn into a bunch of criminals.&quot;</p>
 <p>&quot;Criminals?! No, no, we just—&quot;</p>
 <p>&quot;Sorry, but I know I&#x27;m right about this,&quot; I said flatly. &quot;One of you is going to cross the line eventually.&quot;</p>
@@ -262,25 +262,25 @@ nav_title = "Chapter 3"
 <p>&quot;Don&#x27;t be ridiculous!&quot;</p>
 <p>&quot;None of us would ever lay a hand on Norn!&quot;</p>
 <p>&quot;I mean, we like Norn a lot, but it&#x27;s more like she&#x27;s our little sister or something…&quot;</p>
-<p>Say what, punk? She&#x27;s my little sister, and I&#x27;m not sharing!</p>
-<p>Wait, wait. Let&#x27;s try to stay on topic.</p>
+<p><em>Say what, punk? She&#x27;s</em> my <em>little sister, and I&#x27;m not sharing!</em></p>
+<p><em>Wait, wait. Let&#x27;s try to stay on topic.</em></p>
 <p>&quot;I believe you guys mean well, but I think we need to set some clear rules here.&quot;</p>
 <p>When you wanted to keep a group of people from getting out of control, you had to establish some basic regulations. Once the rules were in place, the members of the group would start keeping an eye on each other. Once you give people a set of rules, even rules as meaningless as wearing the same clothes and the same scarf as you wait to see your idol, the general tendency is to follow them.</p>
 <p>Rules arise naturally with time. They come into existence when they&#x27;re needed, and fade away when they aren&#x27;t. This fan club didn&#x27;t have much of a history yet. There hadn&#x27;t been enough time for its rules to develop organically.</p>
 <p>But until they created some, Norn was in danger. I needed to speed up the process artificially. I wasn&#x27;t going to wait around for them to hurt her first.</p>
 <p>Somebody needed to make some fundamental decisions right now. Fortunately, the issues themselves were relatively simple and clear-cut. They just needed to promise not to scare Norn or put her at risk. The problem was finding someone to actually propose those rules. It would usually be the leader of the group, but these people didn&#x27;t have one.</p>
 <p>The guy who&#x27;d stepped forward to challenge me was probably the most strong-willed. Could I appoint him as the boss, and let him set the rules?</p>
-<p>Definitely not.</p>
-<p>The leader had to understand the responsibility they were taking on, and accept it willingly. Randomly dropping power in someone&#x27;s lap was never a good idea.</p>
+<p><em>Definitely not.</em></p>
+<p>The leader had to <em>understand</em> the responsibility they were taking on, and accept it willingly. Randomly dropping power in someone&#x27;s lap was never a good idea.</p>
 <p>Who understood the gravity of this situation best, then? Who here cared most deeply about Norn&#x27;s well-being?</p>
 <p>Me. Obviously.</p>
 <p>&quot;All right, then.&quot;</p>
-<p>Norn was my little sister, too. My own flesh and blood.</p>
+<p>Norn was <em>my</em> little sister, too. My own flesh and blood.</p>
 <p>In other words…I was the lawgiver here.</p>
 <p>***</p>
 <p>In the year 425 of the Armored Dragon Era, a certain organization was founded in the Ranoa University of Magic.</p>
 <p>Its name: The Norn Greyrat Official Fanclub.</p>
 <p>This group, boasting some thirty members in total, would go on to leave an indelible mark on the history of the University.</p>
 <p>The name of its first president, however, is lost to history.</p>
-<p>Legends of the University #3: The Boss can summon thirty flunkies with a single word.</p>
+<p><em>Legends of the University #3: The Boss can summon thirty flunkies with a single word.</em></p>
 <p><strong>Chapter 4: Can I Keep Him?</strong></p>

@@ -35,7 +35,7 @@ nav_title = "Chapter 5"
 <p>Well, all that aside… Sara was the daughter of hunters, huh? The same as Sylphie. I wondered where Sylphie was right now and what she was doing.</p>
 <p>&quot;When I heard the name Greyrat, I immediately thought you were son of one of the Asuran noble families. To me, it looked like you were trying to run away because things didn&#x27;t go your way back home.&quot;</p>
 <p>So she&#x27;d initially been prickly toward me because she misunderstood my origins and the reason I was doing things. Prejudice, in other words. &quot;Well, the name Greyrat is famous in the Asura Kingdom,&quot; I agreed.</p>
-<p>&quot;Still, you&#x27;re not one of those Greyrats, right?&quot;</p>
+<p>&quot;Still, you&#x27;re not one of <em>those</em> Greyrats, right?&quot;</p>
 <p>&quot;Yeah, uh, apparently I am related to them.&quot;</p>
 <p>&quot;Oh. So you are…&quot; She pursed her lips.</p>
 <p>&quot;I mean, of course I&#x27;m not nobility myself. So don&#x27;t worry about it.&quot;</p>
@@ -52,7 +52,7 @@ nav_title = "Chapter 5"
 <p>&quot;No, you haven&#x27;t offended me. I was just remembering my relatives. They were noblemen and died during the Displacement Incident.&quot;</p>
 <p>&quot;Oh…so that was it. I&#x27;m sorry. Even though you may not be nobility, you&#x27;re still acquainted with people who are.&quot;</p>
 <p>&quot;Please don&#x27;t worry about that. I&#x27;m sure they&#x27;re not related to what happened to your village.&quot;</p>
-<p>Although, Philip had mentioned his brother&#x27;s viciousness at one point, so perhaps the noble who&#x27;d held back aid from Sara&#x27;s village had been someone related to the Boreas family? Plus, the village was located in the Milbotts Region, overseen by the very Notos Greyrat who Paul had run away from. It was highly likely that they were involved. That was a rather convoluted subject, though, so I didn&#x27;t bring it up.</p>
+<p>Although, Philip had mentioned his brother&#x27;s viciousness at one point, so perhaps the noble who&#x27;d held back aid from Sara&#x27;s village had been someone related to the Boreas family? Plus, the village was located in the Milbotts Region, overseen by the very Notos Greyrat who Paul had run away from. It was highly likely that they <em>were</em> involved. That was a rather convoluted subject, though, so I didn&#x27;t bring it up.</p>
 <p>&quot;Still, they died, didn&#x27;t they?&quot;</p>
 <p>&quot;They did.&quot;</p>
 <p>&quot;Then that was insensitive of me. I&#x27;m sorry.&quot;</p>
@@ -75,16 +75,16 @@ nav_title = "Chapter 5"
 <p>&quot;Ooh?&quot;</p>
 <p>&quot;The two of you going off by yourselves? Now that&#x27;s charming.&quot; A quick glance over at Suzanne and Timothy showed that the two were grinning. It was then that I realized what Sara&#x27;s invitation meant.</p>
 <p>It was a date.</p>
-<p>It had been a long time since I&#x27;d gone on a date. When was the last time I&#x27;d been on one, actually? It had to be back in the Holy Kingdom of Millis, when I went shopping for clothes with Eris. Back then, we based our purchases on people-watching.</p>
+<p>It had been a long time since I&#x27;d gone on a date. When <em>was</em> the last time I&#x27;d been on one, actually? It had to be back in the Holy Kingdom of Millis, when I went shopping for clothes with Eris. Back then, we based our purchases on people-watching.</p>
 <p>Speaking of clothes, the only thing I had was my worn-out robe. I hadn&#x27;t had time to buy anything new, and for that matter, I had no fashion sense to begin with. I suppose could just mimic the local street style, but unfortunately, that weren&#x27;t that many fashionable people in Rosenburg to use as reference.</p>
 <p>No, there was no need to be so particular about how I dressed. I was just accompanying her as she shopped. We were only going out to buy a single sword. I couldn&#x27;t get carried away thinking of it as a date. The two of us were getting along now, but that was all it was. I couldn&#x27;t let myself think that she was interested in me, or that this</p>
 <p>might go somewhere. I wasn&#x27;t a virgin anymore. Surely Sara wasn&#x27;t getting all primped up, either.</p>
-<p>Yeah, let&#x27;s just go at this like we usually do, I told myself. Be normal. Today I would be natural—natural Rudeus.</p>
+<p><em>Yeah, let&#x27;s just go at this like we usually do,</em> I told myself. <em>Be normal.</em> Today I would be natural—natural Rudeus.</p>
 <p>&quot;Sorry to keep you waiting. Let&#x27;s go.&quot;</p>
 <p>As I was preoccupied with these thoughts in the mess hall of the inn, Sara came to meet me. She was actually cute when I really looked at her. Petite, with a crop of smooth, short blonde hair and an inviting scent about her. Ah, it looked like she&#x27;d brushed out her hair; it had been pretty frizzy in our most recent mission together. Even her clothes were a bit different. She wasn&#x27;t super dressed up, but I could tell she had put in some effort. Her usual leather breastplate and arrow quiver were nowhere to be seen, and she wore light clothes beneath her usual jacket. Not quite the height of fashion, but very few adventurers had much of a wardrobe. She had really tried to be presentable.</p>
-<p>And now I understood just how dense I was. Apparently, she was interested in me. I suspected I knew the reason for it too—that incident in the forest. Without intending to, I&#x27;d somehow landed myself on her route. It was only crisis bonding, I was sure, but at least knowing the reason brought me some relief.</p>
+<p>And now I understood just how dense I was. Apparently, she <em>was</em> interested in me. I suspected I knew the reason for it too—that incident in the forest. Without intending to, I&#x27;d somehow landed myself on her route. It was only crisis bonding, I was sure, but at least knowing the reason brought me some relief.</p>
 <p>I didn&#x27;t dislike her. She&#x27;d certainly been hostile toward me at first, but she had her reasons. She even apologized for her actions, though they never bothered me to begin with. Knowing she was interested in me stirred internal fear, but I wasn&#x27;t entirely unhappy about it. I didn&#x27;t have any particularly strong feelings for her, of course, but if this was the way things were going, why not just go with the flow? I wasn&#x27;t a virgin anymore, after all!</p>
-<p>No, calm down, I coached myself. It&#x27;s dangerous to bite off more than you can chew. You&#x27;ll just be repeating the same mistake as last time. You need to maintain distance here.</p>
+<p><em>No, calm down,</em> I coached myself. <em>It&#x27;s dangerous to bite off more than you can chew. You&#x27;ll just be repeating the same mistake as last time. You need to maintain distance here.</em></p>
 <p>&quot;What is it?&quot; asked Sara.</p>
 <p>&quot;Nothing; let&#x27;s go.&quot;</p>
 <p>Sara stayed slightly ahead of me as we walked, still close enough to see each other with a sideways glance. It was an adventurer&#x27;s formation—close enough to be walking side-by-side, with the ability to instantly move next to each other if needed. However, she was a little closer today than usual. Close enough that our hands might touch.</p>
@@ -141,10 +141,10 @@ nav_title = "Chapter 5"
 <p>&quot;Ahh, I think I&#x27;ve gotten a bit tipsy. I tend to drink a lot when I&#x27;m with you,&quot; Sara confided after a few drinks.</p>
 <p>&quot;Really?&quot;</p>
 <p>&quot;Yeah. For some reason…I just tend to relax when you&#x27;re beside me,&quot; she said, leaning her body against mine. Our shoulders brushed, and I could feel her body heat filtering through the fabric of her clothes.</p>
-<p>This is what I think it is, right? As in, I actually have a chance here?</p>
+<p><em>This is what I think it is, right? As in, I actually have a chance here?</em></p>
 <p>To test my hypothesis, I wrapped my arm around her waist. I expected her to be muscular, but she was actually soft and slender. Honestly, this simple touch was enough to satisfy me for the day. Or so I thought, but then she wrapped her hand over mine. Eyes slightly moist, she glanced at me. &quot;Rudeus…&quot;</p>
 <p>&quot;S-Sara…&quot; Our bodies seemed to press even closer together.</p>
-<p>Okay, I decided, let&#x27;s do this.</p>
+<p><em>Okay,</em> I decided, <em>let&#x27;s do this.</em></p>
 <p>I figured it was about time to forget about the past and move on. I couldn&#x27;t cling to it forever. Just a year ago, I had resolved to look ahead and move forward. That meant leaving Eris behind and moving on to the next romance.</p>
 <p>That was right. Things with Eris were over. I needed to start a new chapter. There was no time to waste.</p>
 <p>I pulled my arm back and stood. &quot;It&#x27;s, uh, getting late. How about we go back? I&#x27;ll walk you to your room.&quot;</p>
@@ -153,20 +153,20 @@ nav_title = "Chapter 5"
 <p>As for me, in case you were wondering, I hadn&#x27;t consumed a drop. &quot;Um, well, shall we go to another bar?&quot;</p>
 <p>&quot;Hmm.&quot; She tapped her finger against her chin and glanced up at the sky. Then, completely nonchalant, she murmured, &quot;Can we go to your room?&quot;</p>
 <p>Did she understand what she was saying? No—even if she didn&#x27;t, I just had to resist the temptation.</p>
-<p>Just go with the flow, I told myself, go with the flow. We had a great mood going just a moment ago. As long as she was fine with it, there was surely nothing wrong with just letting things take their natural course. &quot;Uh, um, w-well! Let&#x27;s get going then, shall we?&quot;</p>
-<p>&quot;Okay,&quot; she agreed, unusually meek as she smoothly linked her arm with mine. Her breasts, neither particularly large nor small, pressed against my arm. The heat from them felt like it would scorch me. They were so soft, so truly, truly soft.</p>
+<p><em>Just go with the flow,</em> I told myself, <em>go with the flow.</em> We had a great mood going just a moment ago. As long as she was fine with it, there was surely nothing wrong with just letting things take their natural course. &quot;Uh, um, w-well! Let&#x27;s get going then, shall we?&quot;</p>
+<p>&quot;Okay,&quot; she agreed, unusually meek as she smoothly linked her arm with mine. Her breasts, neither particularly large nor small, pressed against my arm. The heat from them felt like it would scorch me. They were so soft, so <em>truly</em>, truly soft.</p>
 <p>The girls of this world—both Eris and Sara—sure were assertive.</p>
-<p>Once again, I got the sudden and distinct feeling something was off. What was this sensation, exactly? I felt like I&#x27;d experienced it before, but something was different this time. I mean, when I touched Eris&#x27; chest I&#x27;d felt this spark, this feeling, and I wasn&#x27;t getting that this time. Something was lacking.</p>
+<p>Once again, I got the sudden and distinct feeling something was off. What <em>was</em> this sensation, exactly? I felt like I&#x27;d experienced it before, but something was different this time. I mean, when I touched Eris&#x27; chest I&#x27;d felt this spark, this feeling, and I wasn&#x27;t getting that this time. Something was lacking.</p>
 <p>Well, no matter. For now I would let myself be entranced by the softness of Sara&#x27;s breasts.</p>
-<p>Wait, no, calm down! I urged myself. As long as you can establish the right mood, you&#x27;ll be able to feel her breasts with more than just your upper arm.</p>
+<p><em>Wait, no, calm down!</em> I urged myself. <em>As long as you can establish the right mood, you&#x27;ll be able to feel her breasts with more than just your upper arm.</em></p>
 <p>I felt my heart pounding thunderously. My breathing didn&#x27;t sound too erratic, did it?</p>
 <p>&quot;We&#x27;re here,&quot; I announced.</p>
 <p>&quot;Yeah, you&#x27;re on the third floor, right?&quot; asked Sara.</p>
-<p>We returned to the inn with our arms entwined, and the owner looked surprised when he saw us. He snickered and disappeared into the kitchen before immediately returning and tossing something my way. I caught it instinctively. It was a flask. I knew nothing about types of alcohol, but this was likely quite expensive. He waved his hand at me as if to say Good luck, then retreated into the kitchen.</p>
+<p>We returned to the inn with our arms entwined, and the owner looked surprised when he saw us. He snickered and disappeared into the kitchen before immediately returning and tossing something my way. I caught it instinctively. It was a flask. I knew nothing about types of alcohol, but this was likely quite expensive. He waved his hand at me as if to say <em>Good luck</em>, then retreated into the kitchen.</p>
 <p>I studied Sara&#x27;s face, but it told me little. Her cheeks were no longer that flushed, nor was she so hammered that she&#x27;d lost consciousness. I had no idea what she was thinking, either.</p>
 <p>&quot;What? Hurry up and take me to your room,&quot; she urged.</p>
 <p>So I led her up the stairs. The inn was deathly quiet, with few people occupying its rooms. The steps creaked as we climbed to the next floor, and my heart hammered along, unbidden.</p>
-<p>Yep, my breathing had definitely grown erratic.</p>
+<p>Yep, my breathing had <em>definitely</em> grown erratic.</p>
 <p>&quot;Here,&quot; I said.</p>
 <p>&quot;Thanks for letting me in.&quot; Sara entered the room without making any comments about my irregular breathing.</p>
 <p>I set the flask I&#x27;d just received on my table. Then I began by taking off my robe—wait, no. First I needed to start a fire. No! It was already summer now; we didn&#x27;t need one. I ended up taking off my robe after all.</p>
@@ -189,10 +189,10 @@ nav_title = "Chapter 5"
 <p>I laid her down, kissed her, caressed her, removed her clothes, caressed some more, kissed her again, and then peeled off my own clothes. That was when…</p>
 <p>&quot;Huh?&quot;</p>
 <p>I realized.</p>
-<p>&quot;…Huh?&quot;</p>
-<p>I finally realized what had been pinging wrong in my head all this time.</p>
+<p>&quot;…<em>Huh</em>?&quot;</p>
+<p>I <em>finally</em> realized what had been pinging wrong in my head all this time.</p>
 <p>Sara&#x27;s body was slender, toned, beautiful and white, with distinct tan lines drawing borders where her clothes had been. There was no issue with her at all. She had a gorgeous body, a wonderful body. One that left nothing to be desired. It wasn&#x27;t like she had a stick of meat between her legs where there shouldn&#x27;t be one, either.</p>
-<p>No, there was nothing wrong with her at all. The problem was with me. My body was the one raising a red flag. Or, to be more precise: It wasn&#x27;t raising a flag. It wasn&#x27;t raising anything at all. It was completely unresponsive.</p>
+<p>No, there was nothing wrong with her at all. The problem was with me. My body was the one raising a red flag. Or, to be more precise: It <em>wasn&#x27;t</em> raising a flag. It wasn&#x27;t raising anything at all. It was completely unresponsive.</p>
 <p>&quot;…What?&quot;</p>
 <p>Normally, in this type of situation, my member would be saluting proudly, as if it had been awaiting this moment. This was my son, my comrade-in-arms that had been with me for the last fifteen years.</p>
 <p>&quot;…Eh?&quot;</p>
@@ -217,7 +217,7 @@ nav_title = "Chapter 5"
 <p>Feeling chilled, I pulled my underwear back on. I donned my pants and shirt and shrugged the robe back over my shoulders. Even then, I still felt cold. It was the kind of cold that froze you all the way to your core, the kind where you simply couldn&#x27;t get warm no matter how many layers of clothes you had on. It was the kind of chill that needed something else to drive it away.</p>
 <p>&quot;I guess this will work.&quot;I picked up the flask I&#x27;d left on the table.</p>
 <p><strong>A</strong>n hour later, I had emptied that flask. I made my stumbling way outside and went into a random bar. I then immediately sat myself down at the counter and ordered. &quot;Master, give me the strongest alcohol you have here.&quot;</p>
-<p>&quot;For a kid? We don&#x27;t have—&quot; He started to object, but his expression turned to one of surprise when I plucked an Asuran gold coin from my pocket and deposited it onto the counter. The surprise was soon replaced by disgust as he immediately reached for a bottle on the shelf behind him and set it down in front of me. Why keep me waiting when you have what I asked for? I thought sourly.</p>
+<p>&quot;For a kid? We don&#x27;t have—&quot; He started to object, but his expression turned to one of surprise when I plucked an Asuran gold coin from my pocket and deposited it onto the counter. The surprise was soon replaced by disgust as he immediately reached for a bottle on the shelf behind him and set it down in front of me. <em>Why keep me waiting when you have what I asked for?</em> I thought sourly.</p>
 <p>&quot;Ahh…&quot; I drank straight from the bottle, hoisting it, throwing my head back, and gulping it all down. I&#x27;d never drunk alcohol like this, but it felt surprisingly good. My head was spinning round and round. Acute alcohol poisoning? Who cared about that? It would be a dream come true if I could die feeling this good.</p>
 <p>&quot;Hey, old man, one more! Give me somethin&#x27; to munch on, too.&quot;</p>
 <p>&quot;Hey, you shouldn&#x27;t be drinking like that.&quot;</p>
@@ -249,7 +249,7 @@ nav_title = "Chapter 5"
 <p>&quot;Hmm… Ah, uh, well, drink up. Then you can tell me about it. Maybe then we can figure something out, or you can at least get it off your chest. So…dry those tears,&quot; he said, smacking me on the shoulder.</p>
 <p>And then somehow, before I even realized what was happening, Soldat and I were drinking together.</p>
 <p>&quot;So, basically, you couldn&#x27;t get it up and the girl dumped you, huh?&quot;</p>
-<p>&quot;Sniff… What, you trying to make fun of me?&quot; I asked accusingly.</p>
+<p>&quot;<em>Sniff</em>… What, you trying to make fun of me?&quot; I asked accusingly.</p>
 <p>&quot;Nah, not at all. It&#x27;s just important when you&#x27;re feeling down to figure out what exactly caused it.&quot;</p>
 <p>&quot;I guess so.&quot;</p>
 <p>To my surprise, Soldat quietly listened to me as I sobbed and recounted what happened. He even kept the other members of Stepped Leader at a distance and led me to a corner of the counter where it was just the two of us.</p>
@@ -262,7 +262,7 @@ nav_title = "Chapter 5"
 <p>Considering the last year, maybe he had a point.</p>
 <p>&quot;So what got me so down was actually something that happened before this. There was this girl I liked.&quot;</p>
 <p>&quot;Yeah?&quot;</p>
-<p>&quot;A lot happened and, well, we did…I mean, you know. It was the first time for both of us.&quot;</p>
+<p>&quot;A lot happened and, well, we did…I mean, <em>you know</em>. It was the first time for both of us.&quot;</p>
 <p>&quot;Well, everyone&#x27;s got a first.&quot;</p>
 <p>I continued, &quot;When I woke up, she was gone and had already set off on some trip.&quot;</p>
 <p>&quot;So she cast you aside, huh?&quot;</p>
@@ -274,13 +274,13 @@ nav_title = "Chapter 5"
 <p>&quot;But still, why? For what reason…?&quot;</p>
 <p>&quot;Hmm. Based on my experience, when a woman suddenly disappears like that, it&#x27;s because you screwed up something immediately before that. They suddenly get all pissy and go off on their own, saying they don&#x27;t care anymore.&quot;</p>
 <p>&quot;Something I did immediately before,&quot; I echoed, thinking. There was one thing that came to mind. &quot;So I guess I really did suck in bed…&quot;</p>
-<p>&quot;Best not to come to your own conclusions about what got her so riled up. Whatever you come up with is probably gonna be wrong, so be careful with that. If you apologize thinking that&#x27;s it, they&#x27;ll get pissed at you and yell, &#x27;I&#x27;m not even upset about that!&#x27;&quot;</p>
+<p>&quot;Best not to come to your own conclusions about what got her so riled up. Whatever you come up with is probably gonna be wrong, so be careful with that. If you apologize thinking that&#x27;s it, they&#x27;ll get pissed at you and yell, &#x27;I&#x27;m not even upset about <em>that</em>!&#x27;&quot;</p>
 <p>&quot;I don&#x27;t even know where she is, so I can&#x27;t apologize,&quot; I confessed.</p>
 <p>&quot;Yeah, I get that. I do.&quot; Soldat drained the rest of his cup. After he set it back down, he drew his thumb over the edge, wiping away the beads of liquid there. After looking contemplative for a few moments, he mumbled, &quot;It&#x27;s just gonna be depressing if you keep going like this.&quot;</p>
 <p>Those words perfectly captured my feelings. Soldat&#x27;s expression hadn&#x27;t changed. He still had that look of utter resentment at the world—that sarcastic, mocking expression. Still, that was just his face. His eyes were looking right at me and his words were sincere.</p>
 <p>&quot;Let&#x27;s fix it,&quot; he said finally.</p>
 <p>&quot;But how?&quot;</p>
-<p>&quot;Not a clue.&quot; He shook his head and continued, &quot;But if that is the source of your problem, you just gotta override it with the same thing.&quot;</p>
+<p>&quot;Not a clue.&quot; He shook his head and continued, &quot;But if <em>that</em> is the source of your problem, you just gotta override it with the same thing.&quot;</p>
 <p>Override it with sex. Sex, however, meant that I would have to use the very thing that wasn&#x27;t standing up for me right now though, right? Fixing it would require the very thing that was broken to temporarily return to working order. &quot;Isn&#x27;t that impossible?&quot;</p>
 <p>&quot;You&#x27;ve only done it once, yeah?&quot;</p>
 <p>&quot;…Yeah.&quot;</p>
@@ -296,7 +296,7 @@ nav_title = "Chapter 5"
 <p>&quot;I know.&quot;</p>
 <p>&quot;Wh-what kind of girl should I pick?&quot;</p>
 <p>&quot;Nah, you don&#x27;t have to pick someone from here. These girls, to put it bluntly, are the kind that just lie there if you pay them. I&#x27;m fine with that, but you&#x27;re not like me.&quot;</p>
-<p>&quot;Oh, okay.&quot; So even prostitutes had varying skill levels and services, huh? And the low-ranked ones were, in every sense of the word, selling only their bodies. That definitely wasn&#x27;t the kind of partner I was looking for.</p>
+<p>&quot;Oh, okay.&quot; So even prostitutes had varying skill levels and services, huh? And the low-ranked ones were, in every sense of the word, selling <em>only</em> their bodies. That definitely wasn&#x27;t the kind of partner I was looking for.</p>
 <p>&quot;We&#x27;re going somewhere a little more special,&quot; declared Soldat.</p>
 <p>&quot;Oh, special, huh?&quot;</p>
 <p>&quot;Well, I say &#x27;special,&#x27; but there&#x27;s a lot of variety to be had. There are places that&#x27;ll let you do things a run-of-the-mill brothel wouldn&#x27;t, and the kind that&#x27;ll satisfy whatever secret fetishes you got. And there&#x27;s even more crooked establishments out there—places people refuse to talk about.&quot;</p>
@@ -340,7 +340,7 @@ nav_title = "Chapter 5"
 <p>&quot;Very well, then. I shall explain to you how our system works.&quot; And he laid it out.</p>
 <p>First, you would pick from one of the girls waiting in the chairs. Next, price was determined based on the itinerary you selected. Itineraries had a bunch of different options, and anything that wasn&#x27;t listed was simply off the table. You would be handed a list of what was permissible and what wasn&#x27;t, of course, but typically a patron didn&#x27;t have to fuss too much over the specifics. The escorts had already memorized everything on the lists.</p>
 <p>Once you&#x27;d chosen, you would enter one of the baths to clean up, and then be guided to a room. There, the woman you had chosen would join you, and the two of you would be alone together to do whatever you wanted. As long as what you wanted was on the list, she would oblige you. If you proposed something not on the list, she would refuse, and that would be that.</p>
-<p>That said, if you really had your heart set on something not on the list, you might be able to negotiate for its inclusion at the cost of an additional fee. Of course, the establishment had numerous methods at their disposal to make sure you ponied up. You paid seventy percent up front, and thirty percent plus any additional fees after.</p>
+<p>That said, if you <em>really</em> had your heart set on something not on the list, you might be able to negotiate for its inclusion at the cost of an additional fee. Of course, the establishment had numerous methods at their disposal to make sure you ponied up. You paid seventy percent up front, and thirty percent plus any additional fees after.</p>
 <p>&quot;So, who you gonna pick?&quot;</p>
 <p>On Soldat&#x27;s recommendation, I picked the most expensive itinerary available and quickly settled the first half of the bill. This would allow me to try a variety of different methods to resolve my problem. After that, I sized up the women who were waiting. Since I was a paying customer, I was allowed to take a closer look and even feel them up if I wanted. There were a variety of escorts available, both young and old ones alike. Each wore a dazzling smile as I approached, smiles so seductive that I might have fallen for their wearers if we&#x27;d encountered each other literally anywhere but here.</p>
 <p>Four of the seats were empty, which probably meant those girls were already seeing other customers. Even so, I felt a bit uncomfortable feeling up someone who was smiling at me, so…</p>
@@ -365,7 +365,7 @@ nav_title = "Chapter 5"
 <p>pressed against my arm. My heart drummed furiously. &quot;Shall we begin immediately? Or would you prefer a bit of conversation first?&quot;</p>
 <p>&quot;Uh, um…&quot;</p>
 <p>&quot;It seems you&#x27;re nervous. In that case, why don&#x27;t we chat a bit? Don&#x27;t worry, the night is still young. There&#x27;s no need to rush.&quot;</p>
-<p>Ahh, so this was a professional. It was easy to tell by the way she conducted herself and spoke as she settled beside me on the bed. With practiced hands, she took a bottle of alcohol from the table and poured it into one of the provided cups. &quot;Would you like to have a drink?&quot; she asked.</p>
+<p>Ahh, so <em>this</em> was a professional. It was easy to tell by the way she conducted herself and spoke as she settled beside me on the bed. With practiced hands, she took a bottle of alcohol from the table and poured it into one of the provided cups. &quot;Would you like to have a drink?&quot; she asked.</p>
 <p>&quot;Uh, yes, I would.&quot;</p>
 <p>Persuaded by her offer, I drained the glass dry. For a moment I wondered if she wouldn&#x27;t join me, but then I remembered seeing it written at the entrance that companions wouldn&#x27;t drink. There was also a warning that if a patron insisted their companion join them, her skills might be dulled and her words less filtered due to inebriation. So I would drink alone for now. The walk here had sobered me up from earlier. What happened after this would be essential, so I needed the influence of alcohol to help me along.</p>
 <p>&quot;These sweets are from the Asura Kingdom. Would you like some?&quot;</p>
@@ -374,7 +374,7 @@ nav_title = "Chapter 5"
 <p>&quot;Oh, yeah… Well, I have become pretty famous at the Adventurers&#x27; Guild. That&#x27;s true. I guess you must have heard of me from another adventurer?&quot;</p>
 <p>&quot;No, from my little sister. You once healed her wounds without asking anything in return.&quot;</p>
 <p>&quot;I heard it was last winter, as you were helping clear the snow.&quot;</p>
-<p>&quot;Ohh.&quot; Something like that had happened, come to think of it.</p>
+<p>&quot;Ohh.&quot; Something like that <em>had</em> happened, come to think of it.</p>
 <p>&quot;Adventurers are kind to us when we dress up like this, put on make-up and touch skin to skin, but many of them tend to be quite violent, otherwise. Particularly toward the young understudies here, who have no money, whose clothes are in tatters, and who are often mistaken for orphans. Many adventurers don&#x27;t stop to consider that, as those children get older, they will be taking patrons, and that those very same adventurers may become their customers.&quot;</p>
 <p>A filthy orphan in the backstreets and a beautiful woman accepting patrons at a brothel seemed worlds apart. If I had bothered to look closer, I might have realized that the children who bathed me earlier looked like the urchins I sometimes spotted in back alleys during the day. &quot;I think you must be right. I admit, I thought they were orphans too.&quot;</p>
 <p>&quot;But you were different than the rest,&quot; she insisted. &quot;You sought nothing in return and helped what you thought was a penniless orphan out of the kindness of your heart. You are an incredible person. There&#x27;s been talk that some girls would go the extra distance to please you if you happened to visit them in the future.&quot;</p>
@@ -392,7 +392,7 @@ nav_title = "Chapter 5"
 <p>&quot;Now then, Lord Rudeus, to the bed.&quot;</p>
 <p>Her naked body kept me rooted in place as I fumbled at my own clothes. Once they were off, I followed her invitation and joined her on top of the mattress.</p>
 <p>&quot;I will do my utmost to please you.&quot;</p>
-<p>The whole situation was so sensual it felt like an illusion, as if I were in a dream. It was enough to make me believe, Oh yeah, I can definitely do this.</p>
+<p>The whole situation was so sensual it felt like an illusion, as if I were in a dream. It was enough to make me believe, <em>Oh yeah, I can definitely do this.</em></p>
 <p>***</p>
 <p>Simply put, it didn&#x27;t work.</p>
 <p>&quot;I am so sorry I wasn&#x27;t able to be of use to you.&quot;</p>
@@ -481,17 +481,17 @@ nav_title = "Chapter 5"
 <p>&quot;Yeah, yeah, I know.&quot;</p>
 <p>My adventure in the pleasure district hadn&#x27;t fixed anything, but it didn&#x27;t feel like it&#x27;d been a waste of money. My time with Elise had</p>
 <p>brought me some comfort, at least. Even if I didn&#x27;t feel electricity race down my spine, I still got to enjoy the softness of her breasts.</p>
-<p>&quot;Do you really get it, though?&quot; Soldat asked, doubtful. &quot;Actually, today I&#x27;m gonna—&quot; He stopped in his tracks partway through a sentence.</p>
+<p>&quot;Do you <em>really</em> get it, though?&quot; Soldat asked, doubtful. &quot;Actually, today I&#x27;m gonna—&quot; He stopped in his tracks partway through a sentence.</p>
 <p>&quot;Yeah, I get it!&quot; I barked. &quot;Sheesh, you really won&#x27;t let it go. Even if it doesn&#x27;t work, meh. I should be the one sayin&#x27; no thanks to a flatchested chick like that. Women are only good if they&#x27;re like Elise and have some bounce goin&#x27; on in the chest area!&quot;</p>
 <p>No reply.</p>
 <p>&quot;C&#x27;mon, Soldat, you agree, don&#x27;t ya? I mean, us going shopping and eating together… How stupid. Like, are we playin&#x27; house here or what?&quot;</p>
 <p>&quot;Uh, Quagmire, think you better leave it at that.&quot;</p>
 <p>&quot;Leave it at what? It&#x27;s just a simple fact. Sara is a kid and Elise is a proper grown-up woman.&quot;</p>
-<p>I finally glanced over at Soldat, wondering what it was he was trying to say. His eyes were fixed on something in front of him, and he wore an &#x27;Oh shit&#x27; look on his face.</p>
+<p>I finally glanced over at Soldat, wondering what it was he was trying to say. His eyes were fixed on something in front of him, and he wore an &#x27;<em>Oh shit&#x27;</em> look on his face.</p>
 <p>I followed his gaze and I saw two women standing there. One was Suzanne, clad in her steel breastplate and gauntlets, looking ready to set off on an adventure. The other was Sara. She similarly looked prepared to set off, but her eyes were swollen and ringed with dark circles, almost as if she&#x27;d spent the night crying.</p>
-<p>They were also looking at me, with shock and dismay on their faces. Shit, I thought as Sara came at me. Her steps were short, swift. &quot;Sara, wait, that&#x27;s not what I meant to say just now—&quot;</p>
+<p>They were also looking at me, with shock and dismay on their faces. <em>Shit,</em> I thought as Sara came at me. Her steps were short, swift. &quot;Sara, wait, that&#x27;s not what I meant to say just now—&quot;</p>
 <p>My voice caught in my throat at the expression on her face. I swallowed back my words. Sara&#x27;s gaze was cold as ice, as if she were wearing a noh mask. Elise had quickly stepped away as she approached.</p>
-<p>## Slap!</p>
+<p>## <em>Slap!</em></p>
 <p>A dry smack echoed through the quiet streets of the pleasure district. My head swiveled with the impact and my cheek burned where she struck me.</p>
 <p>&quot;You&#x27;re scum! Never show your face to me again!&quot; I heard her say, my head still turned away. By the time I looked back, she was already racing over to Suzanne, who had an intense look on her face as well.</p>
 <p>&quot;That was unacceptable,&quot; Suzanne said quietly, though it was loud enough for me to hear. She put a hand on Sara&#x27;s shoulder and the two left together.</p>
@@ -499,7 +499,7 @@ nav_title = "Chapter 5"
 <p>There was one thing I did understand: I had just been rejected completely. There was no mistaking it. What I&#x27;d said was the alcohol talking, but that didn&#x27;t matter to Sara. She&#x27;d heard what I said and decided she never wanted to see me again.</p>
 <p>As adventurers, we were bound to run into each other at the Adventurers&#x27; Guild. I was sure she would look at me with disgust every time we did, now, and perhaps Suzanne would, too. Not just her, but Timothy and Patrice as well. Now, they would be the ones to regard me with the revulsion that Soldat once had.</p>
 <p>I sank to my knees. I couldn&#x27;t stand. &quot;Ah…aah…&quot;</p>
-<p>This was it. I couldn&#x27;t do it anymore. I&#x27;d spent a whole year with them and finally, finally started to become friends, but this was how it all ended. No more. &quot;I should just die.&quot;</p>
+<p>This was it. I couldn&#x27;t do it anymore. I&#x27;d spent a whole year with them and finally, <em>finally</em> started to become friends, but this was how it all ended. No more. &quot;I should just die.&quot;</p>
 <p>I took a knife from my pocket and put it to the base of my neck.</p>
 <p>Something instantly hit my wrist and I dropped the blade. Soldat had struck me with the side of his hand.</p>
 <p>&quot;Idiot, don&#x27;t be hasty! This was just a misunderstanding. Here you almost slept together, then she sees you coming out of the pleasure district with an escort and you talking shit about her. Of course she&#x27;s gonna get the wrong idea! Besides, the fact that they were still here means they must&#x27;ve been looking for you. Hurry up and run after them! Go explain things! You can still set it right. Well? Stop dicking around—stand up and get going!&quot;</p>
@@ -534,8 +534,8 @@ nav_title = "Chapter 5"
 <p>It was just after noon. A substantial amount of time had passed since she&#x27;d slapped the boy. Currently, she was on the bank of a river about half a day&#x27;s distance from Rosenburg. The party was escorting some fisherfolk, a C-ranked request that posed no danger. In other words, Sara had nothing to do. As a result, she&#x27;d spent her free time cursing Rudeus.</p>
 <p>&quot;I can&#x27;t believe I—with that lowlife…! What scum! A complete and utter scumbag!&quot;</p>
 <p>She was frustrated. She had really liked him.</p>
-<p>Of course, she couldn&#x27;t stand him at first. But even when they did their first job together, she&#x27;d more or less understood that he wasn&#x27;t a bad person. Her feelings for him went no further than that: he was just a cowardly noble boy, despite the enormous power he possessed.</p>
-<p>That impression of him had only changed after what happened in the Galgau Ruins. He took up the rear and faced the horde of snow drakes without saying a word, just so the rest of them could escape. Rudeus was certainly strong enough to have outrun the creatures alone, but he&#x27;d prioritized getting Counter Arrow out alive. Back then, she didn&#x27;t understand why he&#x27;d hidden his abilities, but she did realize he was the kind of person who&#x27;d sacrifice himself to save others.</p>
+<p>Of course, she couldn&#x27;t stand him at first. But even when they did their first job together, she&#x27;d more or less understood that he wasn&#x27;t a <em>bad</em> person. Her feelings for him went no further than that: he was just a cowardly noble boy, despite the enormous power he possessed.</p>
+<p>That impression of him had only changed after what happened in the Galgau Ruins. He took up the rear and faced the horde of snow drakes without saying a word, just so the rest of them could escape. Rudeus was certainly strong enough to have outrun the creatures alone, but he&#x27;d prioritized getting Counter Arrow out alive. Back then, she didn&#x27;t understand why he&#x27;d hidden his abilities, but she <em>did</em> realize he was the kind of person who&#x27;d sacrifice himself to save others.</p>
 <p>From there, her feelings for him gradually began to change. Sara started to take an interest in what he said and did. She tried to dismiss her budding feelings, reminding herself that she hated adventurers who were born into nobility, or really that she just hated nobles as a whole. But the denial didn&#x27;t stick, and somewhere in her heart she realized that Rudeus was different from the nobles she hated.</p>
 <p>The mess in Trier Forest was the last straw in getting her to admit her true feelings. Or perhaps it was better to call it an</p>
 <p>opportunity rather than a mess. At death&#x27;s door in that forest, witnessing Rudeus coming to save her by himself, she finally acknowledged it wasn&#x27;t hatred in her heart, but rather, affection. She&#x27;d fallen for Rudeus.</p>
@@ -571,7 +571,7 @@ nav_title = "Chapter 5"
 <p>&quot;Timothy, we get it,&quot; Suzanne cut in. &quot;Enough.&quot;</p>
 <p>Sara lifted her head. She had to admit that Timothy had a point. She had been too caught up in self-pity to really observe her surroundings that night, but it had seemed like Rudeus was depressed, too. Maybe the way things played out had been beyond even his control.</p>
 <p>&quot;Let me ask him about it when we get home,&quot; Suzanne offered.</p>
-<p>&quot;No, I&#x27;ll ask him myself,&quot; Sara resolved. And if it turns out I just jumped to conclusions, then I&#x27;ll apologize.</p>
+<p>&quot;No, I&#x27;ll ask him myself,&quot; Sara resolved. <em>And if it turns out I just jumped to conclusions, then I&#x27;ll apologize</em>.</p>
 <p>However, by the time Sara returned to the town, Rudeus was nowhere to be found. He was neither at the Adventurers&#x27; Guild nor at the inn.</p>
 <p>&quot;Quagmire? Dunno, haven&#x27;t seen him today.&quot;</p>
 <p>&quot;Hmm.&quot;</p>
@@ -597,7 +597,7 @@ nav_title = "Chapter 5"
 <p>Sara just continued to her room with a glum look on her face. She flopped onto her bed and reflected on what had happened. Now she was not only weighed down by her own pain, but by the</p>
 <p>knowledge that Rudeus had been hurt as well. She continued to digest that fact well into the late hours, finally mumbling, &quot;I would have at least liked to apologize.&quot;</p>
 <p>But she was too scared to pursue him. She feared he might not listen, feared he would push her away. Additionally, she realized that his leaving town without saying anything to them was also a sign of rejection.</p>
-<p>A sob escaped her throat. In the end, Sara curled up in her bed like a turtle and didn&#x27;t move at all. When dawn broke and she finally drew herself out of bed, she was keenly aware of two things: that she had dark circles beneath her eyes, and that Rudeus had rejected her. She knew her love had ended, and as she watched the rising sun, she thought to herself: But if it comes to pass that we meet again, I&#x27;d like to apologize. And be sincere about it.</p>
+<p>A sob escaped her throat. In the end, Sara curled up in her bed like a turtle and didn&#x27;t move at all. When dawn broke and she finally drew herself out of bed, she was keenly aware of two things: that she had dark circles beneath her eyes, and that Rudeus had rejected her. She knew her love had ended, and as she watched the rising sun, she thought to herself: <em>But if it comes to pass that we meet again, I&#x27;d like to apologize. And be sincere about it.</em></p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-07/insert-08.webp" alt="Illustration" loading="lazy" />
 </div>

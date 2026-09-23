@@ -22,12 +22,12 @@ nav_title = "Chapter 3"
 <p>&quot;Uhm, okay.&quot;</p>
 <p>Orsted smoothly ripped Byt&#x27;s thrashing vines off his body before walking off into the shadowy street. I cast a quick healing spell on our loyal Treant. Eris stood in the doorway with her arms folded. I hurried over, told her I&#x27;d be back soon, and scampered along after Orsted.</p>
 <p>Sadly, there weren&#x27;t any twenty-four-hour diners in my neighborhood. We had to settle for the nearest empty plot of land. It was a moonless night, so I&#x27;d brought my torch along. Its flickering light illuminated our immediate surroundings, revealing nothing but an empty patch of grass and earth.</p>
-<p>Come to think of it, Orsted and I tended to have a lot of our conversations in the dark. It made me feel like I was doing something evil, you know? I should look into getting more lamps set up in his office…</p>
+<p>Come to think of it, Orsted and I tended to have a lot of our conversations in the dark. It made me feel like I was doing something <em>evil</em>, you know? <em>I should look into getting more lamps set up in his office…</em></p>
 <p>&quot;So…what was it you wanted to discuss?&quot;</p>
 <p>&quot;The new pawn that the Man-God&#x27;s chosen.&quot;</p>
 <p>I had passed along all the information Ginger had gathered a few days ago. He wasn&#x27;t in his office when I stopped by, though, so I had to leave him a letter summarizing her report.</p>
 <p>&quot;I&#x27;ve developed a theory based on the information Ginger York provided. I&#x27;ll explain it to you, and then give you a rough strategy to follow.&quot;</p>
-<p>I wished we had more than a theory to go off at this point. Maybe the smart move was to lock Zanoba in a cage until we&#x27;d gathered more information…</p>
+<p>I wished we had more than a <em>theory</em> to go off at this point. Maybe the smart move was to lock Zanoba in a cage until we&#x27;d gathered more information…</p>
 <p>Nah, he wouldn&#x27;t trust anything we said if we started treating him like that. Things were never that easy.</p>
 <p>&quot;First of all, on the subject of these ten knights: I expect that nine of them are not particularly notable or dangerous.&quot;</p>
 <p>&quot;Okay…&quot;</p>
@@ -35,38 +35,38 @@ nav_title = "Chapter 3"
 <p>&quot;There&#x27;s only one knight of the King Dragon Realm with significant skill and a skeletal face, you see.&quot;</p>
 <p>&quot;Who is he, then?&quot;</p>
 <p>Orsted fixed his gaze on me. It seemed even sharper than usual tonight. &quot;Randolph Marianne, the Death God. Fifth among the Seven Great Powers.&quot;</p>
-<p>The Death God. Fifth among the Seven Great Powers.</p>
-<p>The words bounced around inside my head for a while as I tried my best to digest their meaning. So those rumors were true, then?</p>
+<p><em>The Death God. Fifth among the Seven Great Powers.</em></p>
+<p>The words bounced around inside my head for a while as I tried my best to digest their meaning. So those rumors were <em>true,</em> then?</p>
 <p>&quot;He&#x27;s the King Dragon Realm&#x27;s secret weapon.&quot;</p>
 <p>&quot;…Why would they loan out their secret weapon to support a coup d&#x27;état in some random country?&quot;</p>
 <p>&quot;I don&#x27;t know, but it seems fairly likely that the Man-God arranged it somehow.&quot;</p>
 <p>Yeah, that was the most obvious possibility, for sure. Kind of a stupid question on my part…</p>
-<p>&quot;It is difficult to imagine that King Dragon would allow the Death God to leave their service, and I did consider the possibility it was someone else. But I don&#x27;t know of any other pawn on the board capable of killing me or you. It seems safest to assume the worst. I&#x27;ll tell you what I know about him.&quot;</p>
-<p>Okay. There was still a chance this skull-faced guy wasn&#x27;t the Death God, but he was the most dangerous person who might be coming for me. Yeah, might as well brace myself for that scenario.</p>
+<p>&quot;It <em>is</em> difficult to imagine that King Dragon would allow the Death God to leave their service, and I did consider the possibility it was someone else. But I don&#x27;t know of any other pawn on the board capable of killing me or you. It seems safest to assume the worst. I&#x27;ll tell you what I know about him.&quot;</p>
+<p>Okay. There was still a chance this skull-faced guy wasn&#x27;t the Death God, but he was the most dangerous person who <em>might</em> be coming for me. Yeah, might as well brace myself for that scenario.</p>
 <p>&quot;Randolph the Death God does not ascribe to any established school of swordplay. His style is unique and self-taught.&quot;</p>
 <p>&quot;So…he made all his moves up himself?&quot;</p>
 <p>&quot;That&#x27;s correct. You can&#x27;t expect him to follow any of the familiar patterns. He uses every trick and tool he can in the pursuit of victory.&quot;</p>
 <p>Hmm. Sounded a bit like Ruijerd&#x27;s philosophy, actually. It was never fun to fight people who were that unpredictable…</p>
 <p>&quot;However, he does possess a signature technique. It&#x27;s known as the Enthralling Blade.&quot;</p>
-<p>Wow, okay. I bet I know how this one works. Does he move his sword around in a big dramatic circle for no apparent reason, then stab you while you&#x27;re admiring his moves?</p>
+<p><em>Wow, okay. I bet I know how this one works. Does he move his sword around in a big dramatic circle for no apparent reason, then stab you while you&#x27;re admiring his moves?</em></p>
 <p>&quot;There are two distinct variations of this technique: the Enticing Blade and the Arresting Blade.&quot;</p>
 <p>&quot;Okay. How are they different?&quot;</p>
 <p>&quot;The Enticing Blade convinces his enemies to advance when it&#x27;s unwise, and counters their attack. The Arresting Blade convinces his enemies to hold back when they ought to strike.&quot;</p>
 <p>That…seemed kind of vague. I was having trouble even picturing those moves.</p>
 <p>&quot;The man is a master at manipulating his opponents&#x27; thoughts in battle. When you believe you should attack, do not attack. When you believe you should defend, do not defend. You won&#x27;t so much as lay a finger on him if you trust your instincts. I guarantee it.&quot;</p>
 <p>&quot;Uhm, it sort of sounds like I&#x27;m not allowed to do anything at all…&quot;</p>
-<p>&quot;Wrong. When you want to defend, simply attack instead. When you want to attack, defend. But don&#x27;t blind yourself to the moments when an attack is truly rational, or caution is purely necessary…&quot;</p>
-<p>Sorry? That makes no sense. Is this some kind of Zen koan? My head hurts…</p>
+<p>&quot;Wrong. When you want to defend, simply attack instead. When you want to attack, defend. But don&#x27;t blind yourself to the moments when an attack is <em>truly</em> rational, or caution is purely necessary…&quot;</p>
+<p><em>Sorry? That makes no sense. Is this some kind of Zen koan? My head hurts…</em></p>
 <p>&quot;Don&#x27;t fall for his acting, essentially. Stay focused and overwhelm him.&quot;</p>
-<p>The thought &quot;If this guy&#x27;s so good, why don&#x27;t you deal with him instead of me?&quot; flashed through my head, but I pushed it out of mind. Orsted would head to the King Dragon Realm soon.</p>
+<p>The thought <em>&quot;If this guy&#x27;s so good, why don&#x27;t you deal with him instead of me?&quot;</em> flashed through my head, but I pushed it out of mind. Orsted would head to the King Dragon Realm soon.</p>
 <p>&quot;Do you think I can actually defeat him?&quot; I asked.</p>
-<p>&quot;The man&#x27;s one of the Great Powers. As you might expect, he&#x27;s a master of technique, with numerous ways of countering offensive magic. It certainly won&#x27;t be easy. However, he has only recently returned to the battlefield after an absence of many years; I doubt he could even compete with the Gods of the three Great Styles at present. Now that you know the theory behind his Enthralling Blade, you have every chance of victory—as</p>
+<p>&quot;The man&#x27;s one of the Great Powers. As you might expect, he&#x27;s a master of technique, with numerous ways of countering offensive magic. It certainly won&#x27;t be <em>easy</em>. However, he has only recently returned to the battlefield after an absence of many years; I doubt he could even compete with the Gods of the three Great Styles at present. Now that you know the theory behind his Enthralling Blade, you have every chance of victory—as</p>
 <p>long as you can resist his feints and tricks.&quot;</p>
-<p>Nice to hear, although I didn&#x27;t feel entirely convinced. The mere idea of fighting anyone with God in their title was as terrifying as ever to me, frankly. It was hard to imagine myself actually winning.</p>
-<p>Still, I&#x27;d put up a good fight against Auber, and he was a North Emperor. Maybe I was ready for an opponent like this.</p>
+<p>Nice to hear, although I didn&#x27;t feel entirely convinced. The mere idea of fighting anyone with <em>God</em> in their title was as terrifying as ever to me, frankly. It was hard to imagine myself actually winning.</p>
+<p>Still, I&#x27;d put up a good fight against Auber, and he was a North Emperor. Maybe I <em>was</em> ready for an opponent like this.</p>
 <p>&quot;You know, from what you&#x27;ve told me so far, this Death God&#x27;s style sounds kind of similar to the North God approach.&quot;</p>
 <p>&quot;As it should. He was originally considered a potential candidate to assume the rank of North God.&quot;</p>
-<p>Oh. Interesting. A candidate, huh? So he didn&#x27;t make the cut for that spot, in other words. Wasn&#x27;t he ranked above the current North God in the Seven Great Powers, though? I seemed to remember that the North God was number seven on that list… Weird.</p>
+<p>Oh. Interesting. A candidate, huh? So he didn&#x27;t make the cut for that spot, in other words. Wasn&#x27;t he ranked <em>above</em> the current North God in the Seven Great Powers, though? I seemed to remember that the North God was number seven on that list… Weird.</p>
 <p>&quot;So how did someone like that end up getting the title Death God, anyway?&quot;</p>
 <p>My curiosity got me asking for the guy&#x27;s life story, and Orsted was kind enough to oblige me. Randolph Marianne was the grandson of the second North God to hold that title. The early years of his childhood were spent training under his grandfather, alongside the man who would become the third North God.</p>
 <p>However, Randolph had a dramatic falling out with his grandfather soon after he came of age. Leaving everything he&#x27;d known behind, he went out into the world alone and began to develop his own techniques independently. In time, he grew powerful enough to defeat one of the Seven Great Powers in a battle that took place on the Demon Continent. Claiming his opponent&#x27;s title, Randolph began to call himself the Death God.</p>
@@ -92,7 +92,7 @@ nav_title = "Chapter 3"
 <p>&quot;And if it does turn out to be a girl, try to give her a name she won&#x27;t resent.&quot;</p>
 <p>We&#x27;d been over this before, but with Eris, it never hurt to repeat yourself. It wasn&#x27;t hard to imagine her insisting that her newborn daughter was actually a boy, and raising her accordingly—whether she liked it or not. It was a classic setup for a dramatic story, sure, but I wasn&#x27;t about to let my own kid suffer that kind of treatment.</p>
 <p>&quot;Good luck out there, brother dear. Even more members of Ruquag&#x27;s Mercenary Band will be waiting for you by the time you make it back.&quot;</p>
-<p>&quot;Uh, right. Don&#x27;t use them for anything too shady, please.&quot;</p>
+<p>&quot;Uh, right. Don&#x27;t use them for anything <em>too</em> shady, please.&quot;</p>
 <p>&quot;Yeah, yeah.&quot;</p>
 <p>It was nice that Aisha&#x27;s mercenary company was growing smoothly, but I didn&#x27;t want her forgetting that her employees were mostly rough and violent people. Unless she kept a firm hand on the tiller, the group might devolve into a lawless pack of thugs. It felt safer to keep their activities totally above board.</p>
 <p>&quot;Rudeus, Prince Zanoba was quite kind to me during his time here. I hope you&#x27;ll find some way to get him through this crisis safely.&quot;</p>
@@ -110,7 +110,7 @@ nav_title = "Chapter 3"
 <p>After a moment, she stepped forward and looked up at me. &quot;Gimme hug, Daddy.&quot;</p>
 <p>&quot;You got it, kiddo! Come here. You be a good girl while I&#x27;m gone, okay?!&quot;</p>
 <p>&quot;Mm.&quot;</p>
-<p>It wasn&#x27;t every day that Lucie asked me for affection, so I jumped at the chance to pick her up and nuzzle her little cheeks against mine.</p>
+<p>It wasn&#x27;t every day that Lucie <em>asked</em> me for affection, so I jumped at the chance to pick her up and nuzzle her little cheeks against mine.</p>
 <p>This time she didn&#x27;t squirm away in protest. Maybe because I&#x27;d shaved my stubble off this morning. I enjoyed myself for some time before regretfully releasing her from my clutches.</p>
 <p>Finally, I turned to Julie, who was standing quietly off to one side of my family.</p>
 <p>&quot;Hey, Julie…&quot;</p>
@@ -130,7 +130,7 @@ nav_title = "Chapter 3"
 <p>***</p>
 <p>A few minutes later, we met up with Zanoba and Ginger at the city&#x27;s gates. We&#x27;d already sent most of our luggage to Shirone ahead of us, so they weren&#x27;t carrying much today. Our bags primarily held spare clothes. Me, I carried Roxy&#x27;s luggage for her. This unassuming trunk contained perhaps seven vessels that might one day be enshrined as holy idols. I&#x27;d maneuvered it through the city streets with the greatest of care.</p>
 <p>Cliff and Elinalise waited by the gates as well. They&#x27;d come to see us off.</p>
-<p>&quot;I&#x27;m sorry, Rudeus. I wish I could come with you, but…&quot;</p>
+<p>&quot;I&#x27;m sorry, Rudeus. I <em>wish</em> I could come with you, but…&quot;</p>
 <p>Cliff genuinely wanted to accompany us, but he had a family to</p>
 <p>consider now, and a place in society he needed to maintain. You could hardly expect him to run off on sudden months-long trips around the world like I did. It was likely to get him kicked out of the University.</p>
 <p>&quot;That&#x27;s all right, Cliff. Can you keep an eye on my family for me while I&#x27;m gone? Help them out if they get into trouble?&quot;</p>
@@ -138,25 +138,25 @@ nav_title = "Chapter 3"
 <p>&quot;Don&#x27;t worry. I&#x27;ve got it covered.&quot;</p>
 <p>Nodding, Cliff turned to face Zanoba. &quot;I want to tell you something before you go, Zanoba—I think your patriotism is truly admirable. Truly.&quot;</p>
 <p>&quot;I see. I don&#x27;t know if I would call myself a patriot, in all honesty.&quot;</p>
-<p>&quot;However, I want you to keep one thing in mind. As Saint Millis once remarked—&quot;</p>
-<p>Studiously ignoring Zanoba&#x27;s attempts at protest, Cliff launched into a speech that seemed more like a sermon. The word lecture also came to mind. I&#x27;d been on the receiving end of these myself too many times to count. This time, the subject concerned man&#x27;s obligation to value his life as he would a precious gift. Zanoba listened politely enough, but the smile on his face was obviously strained. You could practically see the words passing in one ear and out the other.</p>
+<p>&quot;<em>However,</em> I want you to keep one thing in mind. As Saint Millis once remarked—&quot;</p>
+<p>Studiously ignoring Zanoba&#x27;s attempts at protest, Cliff launched into a speech that seemed more like a sermon. The word <em>lecture</em> also came to mind. I&#x27;d been on the receiving end of these myself too many times to count. This time, the subject concerned man&#x27;s obligation to value his life as he would a precious gift. Zanoba listened politely enough, but the smile on his face was obviously strained. You could practically see the words passing in one ear and out the other.</p>
 <p>I glanced around to distract myself from the awkward scene, and noticed Elinalise and Roxy had stepped aside for a semi-private conversation.</p>
 <p>&quot;Try to keep a close eye on Rudeus this time, Roxy. The boy can be surprisingly fragile when things go badly…&quot;</p>
 <p>&quot;I&#x27;m well aware of that, believe me.&quot;</p>
-<p>Huh? Am I really the one they should be worried about here?</p>
+<p><em>Huh? Am I really the one they should be worried about here?</em></p>
 <p>On second thought, it made some sense, given that I was voluntarily jumping into a trap and all. That kind of rash decision-making tended to inspire some concern.</p>
 <p>&quot;If he starts getting all mopey, you know what to do, right? Push him into bed and make him forget all about his troubles. Just like last time.&quot;</p>
 <p>&quot;Uh, well… I don&#x27;t think that should be necessary. Rudy doesn&#x27;t usually make the same mistake twice, for one thing…&quot;</p>
 <p>&quot;Ah, that reminds me. Why don&#x27;t you take a shot at making baby number two while you&#x27;re on the road? You&#x27;re nursing at the moment, aren&#x27;t you? That sort of thing can add a bit of excitement in bed, you know…&quot;</p>
-<p>&quot;I&#x27;m sure Rudy would find it thrilling, but I&#x27;d really rather not.&quot;</p>
-<p>It was nice to hear that Roxy had such a high opinion of me, but the fact of the matter was that I regularly repeated even my stupidest mistakes. Even so, I&#x27;d have to try and brace myself for the worst this time around. I didn&#x27;t want Zanoba to die…but if he did, I would be useless if I had another nervous breakdown.</p>
-<p>No comment on the rest of that conversation. Elinalise was trying to help Roxy relax. Probably. The woman clearly hadn&#x27;t changed, despite her new position as a wife and mother. Every other word out of her mouth involved sex. She was going to be a terrible influence on her kid.</p>
+<p>&quot;I&#x27;m sure <em>Rudy</em> would find it thrilling, but I&#x27;d really rather not.&quot;</p>
+<p>It was nice to hear that Roxy had such a high opinion of me, but the fact of the matter was that I <em>regularly</em> repeated even my stupidest mistakes. Even so, I&#x27;d have to try and brace myself for the worst this time around. I didn&#x27;t want Zanoba to die…but if he did, I would be useless if I had another nervous breakdown.</p>
+<p>No comment on the rest of that conversation. Elinalise was trying to help Roxy relax. Probably. The woman clearly hadn&#x27;t changed, despite her new position as a wife and mother. Every other word out of her mouth involved sex. She was going to be a <em>terrible</em> influence on her kid.</p>
 <p>&quot;All right, everyone. I think we&#x27;d best be on our way.&quot;</p>
 <p>&quot;Right. Don&#x27;t get yourself killed out there, you understand?&quot;</p>
 <p>With those cheery words of farewell from Cliff, the four of us left the city of Sharia behind.</p>
 <p>It took a half-day of walking for us to reach the ruins nearby, from which we entered Perugius&#x27;s floating fortress.</p>
 <p>As promised, they allowed Roxy to accompany us this time. But Arumanfi grimaced visibly as he handed her the required magic item, and the teleportation circle on the other side was guarded by both Sylvaril and two other servants in Perugius&#x27;s employ. They were clearly on their guard against Roxy, absurd as that might sound.</p>
-<p>&quot;Sir Rudeus, I do hope you appreciate how magnanimous Lord Perugius was to grant this request. No demons are ever tolerated in this fortress under ordinary circumstances.&quot;</p>
+<p>&quot;Sir Rudeus, I do hope you appreciate how magnanimous Lord Perugius was to grant this request. No demons are <em>ever</em> tolerated in this fortress under ordinary circumstances.&quot;</p>
 <p>&quot;Yes, I know. We&#x27;re thankful for his kindness, truly.&quot;</p>
 <p>I tried to express our gratitude, while Roxy bowed her head silently. As one condition of her admittance to the floating fortress, she wasn&#x27;t allowed to speak a word within its borders. She was also required to remain under surveillance at all times, forbidden to touch any objects in the castle, and</p>
 <p>refused the right to an audience with Perugius…and that wasn&#x27;t even all of it.</p>
@@ -164,15 +164,15 @@ nav_title = "Chapter 3"
 <p>That said, she was clearly captivated by the majesty and splendor of this place. She stared up at the towering central castle like some country bumpkin, tugging at my sleeve in excitement. It was a real pity I wasn&#x27;t allowed to give her a tour, or even tell her anything specific about the fortress. Instead of saying anything, I dropped a hand on her shoulder and rubbed it affectionately.</p>
 <p>She turned to look up at me from beneath the wide brim of her hat, blushing the slightest bit. I think she was a little embarrassed by the way she&#x27;d been gawking.</p>
 <p>Then Sylvaril cleared her throat loudly, interrupting the moment.</p>
-<p>Come on, we weren&#x27;t even talking…</p>
-<p>If they kept treating Roxy this way, word might get around that Good King Perugius had a bunch of petty, surly jerks for servants. Oh, for sure the rumors wouldn&#x27;t come from me, but my pet cat and dog could always do a little gossiping on my behalf. Those two were scarily good at this sort of thing.</p>
+<p><em>Come on, we weren&#x27;t even talking…</em></p>
+<p>If they kept treating Roxy this way, word might get around that Good King Perugius had a bunch of petty, surly jerks for servants. Oh, for sure the rumors wouldn&#x27;t come from <em>me,</em> but my pet cat and dog could always do a little gossiping on my behalf. Those two were scarily good at this sort of thing.</p>
 <p>&quot;This way, please…&quot;</p>
 <p>Flanked by the other two familiars, we followed Sylvaril down into the fortress&#x27;s underground levels. It felt like we were prisoners being marched off to the dungeons, honestly. But I kept that thought to myself.</p>
 <p>We&#x27;d asked Perugius to allow Roxy entrance to his home, knowing full well that he hated demons with a passion. I had to admit—I didn&#x27;t understand why this was such a big deal to him. Still, it was obvious that he&#x27;d only made this exception because of Zanoba. He didn&#x27;t want Zanoba to die any more than we did.</p>
 <p>&quot;Hey, Sylvaril…&quot;</p>
 <p>&quot;What is it, Sir Rudeus?&quot;</p>
 <p>&quot;Can you tell Perugius I&#x27;ll come back to thank him properly for this, once I get the chance?&quot;</p>
-<p>&quot;Very well,&quot; said the familiar, her tone of voice somehow conveying &quot;That&#x27;s the least that you could do.&quot;</p>
+<p>&quot;Very well,&quot; said the familiar, her tone of voice somehow conveying <em>&quot;That&#x27;s the least that you could do.&quot;</em></p>
 <p>Nanahoshi was waiting for us in the teleportation chamber. She stood beside the glowing circle, which had already been activated some time ago. Belatedly, it occurred to me that I hadn&#x27;t said a word to her about our travel plans. She must have caught wind of it somewhere and come to see us off.</p>
 <p>&quot;Hello, Zanoba,&quot; Nanahoshi mumbled. &quot;Uh, I heard you were heading back home…&quot;</p>
 <p>Apparently, the girl hadn&#x27;t figured out what she wanted to say about that. She was fidgeting with her hands, and looked distinctly uncomfortable.</p>
@@ -180,20 +180,20 @@ nav_title = "Chapter 3"
 <p>&quot;That&#x27;s correct, Miss Nanahoshi. The time has come for me to return to my homeland.&quot;</p>
 <p>An odd expression flashed across Nanahoshi&#x27;s face, somehow conveying both envy and real sadness.</p>
 <p>&quot;Fear not. I&#x27;m sure the day of your own return will come in time.&quot;</p>
-<p>Oh, man. Did you have to go there, Zanoba? Nanahoshi couldn&#x27;t go back home right now, even though she desperately wanted to. Thinking about that fact had to be painful for her.</p>
+<p><em>Oh, man. Did you have to go there, Zanoba?</em> Nanahoshi <em>couldn&#x27;t</em> go back home right now, even though she desperately wanted to. Thinking about that fact had to be painful for her.</p>
 <p>&quot;Well… I hope you&#x27;re right,&quot; murmured Nanahoshi.</p>
-<p>&quot;So long as you refuse to give up, you will make it back eventually. Unless your homeland itself should disappear.&quot; Stepping forward, Zanoba wrapped his arms around Nanahoshi and thumped her gently on the back. &quot;For my own part, I will pray for your success—even if it must be from afar.&quot;</p>
+<p>&quot;So long as you refuse to give up, you <em>will</em> make it back eventually. Unless your homeland itself should disappear.&quot; Stepping forward, Zanoba wrapped his arms around Nanahoshi and thumped her gently on the back. &quot;For my own part, I will pray for your success—even if it must be from afar.&quot;</p>
 <p>That bear hug might have qualified as sexual harassment back in Japan. But Nanahoshi didn&#x27;t flinch or try to squirm away. After a moment&#x27;s hesitation, she reached up and put her own arms around Zanoba. I saw tears shining in her eyes.</p>
 <p>&quot;Uhm… Thank you…for…all your help, Prince Zanoba…&quot;</p>
 <p>&quot;No need to call me Prince! Or to thank me, either. I&#x27;ll always remember fondly the days I spent with you and Cliff, engrossed in our research. Perhaps I&#x27;m the one who owes you a debt of gratitude.&quot;</p>
 <p>Come to think of it… Zanoba and Cliff had only grown so close because of their work with Nanahoshi. The long hours they spent together as her assistants had definitely played a part in establishing their bond.</p>
-<p>Ah, man. Those were good times, weren&#x27;t they…</p>
-<p>&quot;Oh, please,&quot; sniffled Nanahoshi. &quot;You did so much for me…if it wasn&#x27;t for your help, my research never would have gotten this far.&quot;</p>
+<p><em>Ah, man. Those were good times, weren&#x27;t they…</em></p>
+<p>&quot;Oh, please,&quot; sniffled Nanahoshi. &quot;You did so much for me…if it wasn&#x27;t for your help, my research <em>never</em> would have gotten this far.&quot;</p>
 <p>&quot;Maybe so! But had we not met, I would never have become acquainted with Lord Perugius. In other words, it&#x27;s only thanks to you that I can return to my homeland so quickly and easily. Let&#x27;s call it even, shall we? Hah!&quot;</p>
 <p>With a loud chortle, Zanoba finally released Nanahoshi from his embrace.</p>
 <p>&quot;Well then, Miss Nanahoshi. We&#x27;re unlikely to ever meet again, but do take care.&quot;</p>
 <p>&quot;Uhm, y-you too…&quot;</p>
-<p>Nanahoshi shot me a startled, anxious look. It wasn&#x27;t hard to guess what she was thinking: What&#x27;s with these final farewells? I mean, he&#x27;s going to teleport back here eventually, right? At least to visit?</p>
+<p>Nanahoshi shot me a startled, anxious look. It wasn&#x27;t hard to guess what she was thinking: <em>What&#x27;s with these final farewells? I mean, he&#x27;s going to teleport back here eventually, right? At least to visit?</em></p>
 <p>I nodded firmly to reassure her. This wouldn&#x27;t be the last time they met —not if I had anything to say about it, anyway. As far as I was concerned, Zanoba was heading home for a little visit, and nothing more.</p>
 <p>&quot;Well then, Master Rudeus—let&#x27;s be on our way.&quot;</p>
 <p>At Zanoba&#x27;s prompting, our party stepped forward onto the teleportation circle.</p>
@@ -204,7 +204,7 @@ nav_title = "Chapter 3"
 <p>&quot;You know, if I could learn more about their design, I think I might be able to create one myself.&quot;</p>
 <p>&quot;Wait, really? You want to try?&quot;</p>
 <p>Roxy shook her head at my reflexive question. &quot;No. I think the reason Perugius won&#x27;t let demons in his castle is to prevent our kind from learning the secrets of teleportation magic. It would make us dangerous opponents when Laplace is reborn, I suppose. He&#x27;d likely have me killed if I made any progress.&quot;</p>
-<p>That sounded fairly plausible. Personally, I didn&#x27;t think it was the main reason for that rule, but it was probably a factor. I had to imagine that Laplace himself knew all about teleportation, though; it struck me as a little pointless.</p>
+<p>That sounded fairly plausible. Personally, I didn&#x27;t think it was the main reason for that rule, but it <em>was</em> probably a factor. I had to imagine that Laplace himself knew all about teleportation, though; it struck me as a little pointless.</p>
 <p>&quot;Enough chit-chat,&quot; called Zanoba. &quot;Let&#x27;s get going. We need to collect our provisions and equipment, first of all.&quot;</p>
 <p>Following his lead, our party left the crumbling ruin. We made our way to a small cabin outside the woods where most of our luggage was awaiting us.</p>
 <p>Soon enough, we were on the road to the capital.</p>
@@ -227,25 +227,25 @@ nav_title = "Chapter 3"
 <p>&quot;…I am a knight, yes, but your personal bodyguard above all else. And my instincts tell me that all may not be well within this city.&quot;</p>
 <p>&quot;I see. Very well, go and investigate.&quot;</p>
 <p>&quot;Yes, sir!&quot;</p>
-<p>As Ginger saluted Zanoba, she shot me a meaningful look. Guessing it meant something like &quot;Keep an eye on Prince Zanoba for me,&quot; I gave her a small nod in reply.</p>
+<p>As Ginger saluted Zanoba, she shot me a meaningful look. Guessing it meant something like <em>&quot;Keep an eye on Prince Zanoba for me,&quot;</em> I gave her a small nod in reply.</p>
 <p>We&#x27;d made it this far without a hitch, but now things were going to get a lot more interesting.</p>
 <p>Zanoba and I planned to present ourselves to Pax together. Hopefully, that audience would give us some hints as to what the Man-God was trying to accomplish here.</p>
 <p>There was a possibility the Death God would try to murder me on the spot. In that scenario, I&#x27;d flee the castle with Zanoba in tow. Roxy would be waiting outside to support us as we retreated outside the city; I&#x27;d equip the Magic Armor there, and then decide whether to fight or just keep running.</p>
 <p>I was planning to follow Orsted&#x27;s advice to the letter and keep my distance from the Death God if I ever had to fight him. From the sound of things, that fancy Enthralling Blade technique wouldn&#x27;t be much use if I was blasting him with my Gatling gun from half a mile away.</p>
-<p>Assuming we didn&#x27;t find ourselves fighting for our lives tomorrow, Zanoba and I would probably be dispatched directly to the battlefield. I had no idea what a war against this country to the north would actually look like. And apart from getting us through that in one piece, I needed to find some way to convince Zanoba not to stay here.</p>
+<p>Assuming we <em>didn&#x27;t</em> find ourselves fighting for our lives tomorrow, Zanoba and I would probably be dispatched directly to the battlefield. I had no idea what a war against this country to the north would actually look like. And apart from getting us through that in one piece, I needed to find some way to convince Zanoba not to stay here.</p>
 <p>I had no clue what might change his mind at this point. I wasn&#x27;t even sure he&#x27;d reconsider if Pax blatantly attempted to assassinate him…</p>
-<p>Ah well. Time enough to worry about this stuff after our audience with the king.</p>
+<p><em>Ah well. Time enough to worry about this stuff after our audience with the king.</em></p>
 <p>In all honesty, I was still a bit reluctant to strut right into such an obvious trap. A part of me almost wanted to station myself a mile away and blow Pax and his castle to bits. But I knew that wasn&#x27;t an option. Orsted</p>
 <p>ordered me to spare the king, and even if he hadn&#x27;t, Zanoba would never forgive me. The castle was hardly a symbol of Shirone or anything, but destroying it would definitely send shock waves through the kingdom. Oh, and those guys up north would come pouring across the border as soon as they heard the news.</p>
 <p>The simplest option wasn&#x27;t realistic here, and nothing but uncertainty lay ahead. Made me want to sigh just thinking about it.</p>
-<p>For the moment, I had to stay focused on getting through this audience. One way or another, it would at least give me something to work with.</p>
+<p>For the moment, I had to stay focused on getting through this audience. One way or another, it would at least give me <em>something</em> to work with.</p>
 <p>&quot;Rudy.&quot;</p>
 <p>A little tap on my shoulder pulled me out of my reverie. I turned to find Roxy standing directly behind me.</p>
 <p>&quot;You&#x27;re all tensed up, you know.&quot;</p>
 <p>&quot;Oh. Really?&quot;</p>
 <p>&quot;Really. Try to let your body relax a bit, okay? I know you&#x27;ve got to stay alert right now, but you won&#x27;t be much good in an emergency if all your muscles are too stiff to move.&quot;</p>
 <p>As if to emphasize her point, Roxy started to massage my shoulders. Her hands were small, but surprisingly strong. I sat there and let myself enjoy it for a while.</p>
-<p>She was right, of course. I had to stay loose and flexible. As long as I kept myself pointed in the right direction, I could go with the flow. At the end of the day, it would be enough to get Zanoba and Roxy out of this mess alive. Ideally, Ginger and I would make it out in one piece too. That was my bare minimum goal. Nothing too complicated, right?</p>
+<p>She was right, of course. I had to stay loose and flexible. As long as I kept myself pointed in the right direction, I could go with the flow. At the end of the day, it would be enough to get Zanoba and Roxy out of this mess alive. <em>Ideally,</em> Ginger and I would make it out in one piece too. That was my bare minimum goal. Nothing too complicated, right?</p>
 <p>Yeah. That sounded doable enough.</p>
 <p>&quot;Thanks, Roxy. You really worked out the knots there.&quot;</p>
 <p>When I turned back I found Roxy staring down at me with affection in her sleepy-looking eyes. &quot;Oh, I don&#x27;t know about that. If you were really relaxed, you would have said something utterly ridiculous by now.&quot;</p>
@@ -254,13 +254,13 @@ nav_title = "Chapter 3"
 <p>&quot;H-hey! I only say that kind of stuff in the privacy of our home…&quot;</p>
 <p>&quot;Ah, yes. You do behave like an animal in that house, don&#x27;t you?&quot;</p>
 <p>Smiling, Roxy leaned down to poke at my cheek with her finger.</p>
-<p>I felt like my character was being defamed here, somehow. Was it such a crime to be horny? Surely everyone says some stupid stuff in the bedroom at night, under similar circumstances. I couldn&#x27;t be the only one!</p>
+<p>I felt like my character was being defamed here, somehow. Was it such a crime to be horny? Surely <em>everyone</em> says some stupid stuff in the bedroom at night, under similar circumstances. I couldn&#x27;t be the only one!</p>
 <p>&quot;I&#x27;m only kidding, Rudy. Looks like you&#x27;ve relaxed a little, though. At last.&quot;</p>
 <p>&quot;Oh… Huh. Yeah, I guess I have.&quot;</p>
 <p>My shoulders felt a lot less tense than they had a few minutes earlier, although a hint of energy lingered in my muscles. I was relaxed, but alert, and ready for action.</p>
 <p>It was a good feeling.</p>
 <p>&quot;All right, I better get to bed so I&#x27;m well-rested for the audience tomorrow. Thanks again, Roxy.&quot;</p>
 <p>&quot;Any time. Goodnight, Rudy.&quot;</p>
-<p>I can do this. One step at a time.</p>
+<p><em>I can do this. One step at a time.</em></p>
 <p>Holding these simple thoughts in my mind, I turned in for the night.</p>
 <p><strong>Chapter 4: King Pax</strong></p>

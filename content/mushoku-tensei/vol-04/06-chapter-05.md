@@ -39,7 +39,7 @@ nav_title = "Chapter 5"
 <p>&quot;Don&#x27;t you understand? Someone might steal the underwear you just washed.&quot;</p>
 <p>&quot;The only person who would steal something like that is you!&quot;</p>
 <p>I groaned inwardly at that burn.</p>
-<p>…But you know, Eris, I never tried to steal your underwear after you&#x27;d washed them. Not even once.</p>
+<p>…But you know, Eris, I never tried to steal your underwear <em>after</em> you&#x27;d washed them. Not even once.</p>
 <p>***</p>
 <p>I walked through the city at night, alone. Eris took quite some time to persuade. Crime prevention really was important, though.</p>
 <p>We were instructed to carry out our job at night, but our employer never specified the hour. Any time after the sun set was fine as long as we rescued the captives. We were free to operate on our own time. However, with the rainy season almost upon us, the smugglers would be eager to move their ship as quickly as possible, so we couldn&#x27;t dawdle.</p>
@@ -58,7 +58,7 @@ nav_title = "Chapter 5"
 <p>&quot;I&#x27;m sure you already know this, but you better keep this place a secret. If you don&#x27;t…&quot;</p>
 <p>&quot;Yes, I know.&quot; I gave a firm nod. If I told anyone, they would hunt me down and kill me, right? Gallus had already told me that back in Wind Port. They would have been better off making me sign in blood rather than with a promise made of empty words. So why didn&#x27;t they? Because there were races that didn&#x27;t have fingerprints. Also, it was likely no one wanted to commit something like that to writing. It would only leave evidence of their wrongdoing.</p>
 <p>&quot;…&quot;</p>
-<p>Mohawk knocked on the front door. Bang, bang. Bang, bang. There must have been a rule for how to knock as well.</p>
+<p>Mohawk knocked on the front door. <em>Bang, bang. Bang, bang</em>. There must have been a rule for how to knock as well.</p>
 <p>After a while a white-haired man in a butler&#x27;s uniform appeared from within. He checked both of our faces before curtly saying, &quot;Enter.&quot;</p>
 <p>Enter we did. In front of us, a set of stairs led to the second floor. On either side was another set that led to the basement. There were doors both to our right and left. Frankly speaking, it looked like a mansion&#x27;s lobby area. In one corner, some shady-looking men had their elbows crooked on a round table.</p>
 <p>I started feeling nervous.</p>
@@ -79,11 +79,11 @@ nav_title = "Chapter 5"
 <p>Mohawk nodded and took his post outside the front door. A lookout, I assumed. &quot;Don&#x27;t remove his shackles here. There&#x27;s nothing we can do to stop a Superd if it goes out of control here.&quot; Mohawk looked a little pale as he said that.</p>
 <p>It seemed the emerald-colored hair, as little as there was on Ruijerd&#x27;s head, was effective. Mohawk would be even more terrified if I removed Ruijerd&#x27;s binds and started commanding him. Nah, there was no need to put on an act like that—pretending to be the weak evil genius who controlled the monster.</p>
 <p>Now where did I put that key for his shackles? I searched my breast pocket, but it was nowhere to be found. Perhaps I left it back at the inn. It was too much of a bother to worry about, so I decided to just use my magic. As I stepped closer to Ruijerd, I noticed a grim look on his face.</p>
-<p>Yep, I knew it. People get pissed off when they&#x27;re hungry, I thought. Just wait a little longer and we&#x27;ll get you some food to—</p>
+<p><em>Yep, I knew it. People get pissed off when they&#x27;re hungry</em>, I thought. <em>Just wait a little longer and we&#x27;ll get you some food to—</em></p>
 <p>&quot;Rudeus, bring your ear close,&quot; Ruijerd whispered.</p>
 <p>&quot;What is it?&quot;</p>
 <p>When I pressed my face in closer, Mohawk seemed to panic and said, &quot;H-hey! Stop that! He&#x27;ll bite it off!&quot;</p>
-<p>Nah, don&#x27;t worry. It&#x27;s Ruijerd we&#x27;re talking about, he&#x27;ll let me off with a play bite, I thought as I leaned closer.</p>
+<p><em>Nah, don&#x27;t worry. It&#x27;s Ruijerd we&#x27;re talking about, he&#x27;ll let me off with a play bite</em>, I thought as I leaned closer.</p>
 <p>&quot;They&#x27;ve kidnapped children. Seven of them.&quot;</p>
 <p>Oh? More than I would have expected.</p>
 <p>&quot;Beastfolk children. Taken against their will. I can hear them crying even from here.&quot;</p>
@@ -114,7 +114,7 @@ nav_title = "Chapter 5"
 <p>My body froze and I said, &quot;No.&quot; His words were like a thorn that pricked at my heart. &quot;I&#x27;ll…do it too.&quot;</p>
 <p>It was true that in this past year, I had avoided taking anyone&#x27;s life. I killed beasts without question, even those that were humanoid. I did not, however, commit murder. Partly because I had no need to, but there were also many reasons for me not to. I had never felt the impulse to kill anyone before, either.</p>
 <p>This world was unforgiving. It was a world where people fought life-or-death battles daily. Eventually, I would have to kill someone. That was a situation I would one day face. I thought I had mentally prepared myself for that, but what I had done wasn&#x27;t mental preparation. All I&#x27;d done was reduce the strength of my stone cannon to a level where it wasn&#x27;t capable of killing anyone.</p>
-<p>In the end, I did have qualms about taking someone&#x27;s life. I could claim otherwise if I wanted, but the truth was that I didn&#x27;t want to commit the taboo of murder. I hadn&#x27;t prepared myself, couldn&#x27;t prepare myself. Ruijerd sensed that. That&#x27;s why he specifically said what he&#x27;d said. He was looking out for me.</p>
+<p>In the end, I did have qualms about taking someone&#x27;s life. I could claim otherwise if I wanted, but the truth was that I didn&#x27;t want to commit the taboo of murder. I hadn&#x27;t prepared myself, <em>couldn&#x27;t</em> prepare myself. Ruijerd sensed that. That&#x27;s why he specifically said what he&#x27;d said. He was looking out for me.</p>
 <p>&quot;Don&#x27;t make that face. Those hands of yours are for protecting Eris.&quot;</p>
 <p>Oh well. I supposed he was right. There was no point in forcing myself to kill. I decided to leave the job to Ruijerd today. If he could do it by himself, then it was better to entrust it to him. If that made me a wuss, then fine. It was better to focus on what I was capable of doing than what I wasn&#x27;t.</p>
 <p>&quot;All right then. I&#x27;ll free the children. Do you know where they&#x27;re at?&quot;</p>

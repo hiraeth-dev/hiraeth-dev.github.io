@@ -14,7 +14,7 @@ nav_title = "Chapter 3"
 <p>Both of my pups were cavorting happily at the moment, so I paused to pet them a little. I always made sure to follow up our walks with a nice, thorough massage. Healing magic was out of the question; spells could numb the muscle pain, sure, but they couldn&#x27;t convey my gratitude. &quot;That was a great effort today, guys,&quot; I whispered, gently squeezing my aching calves between my fingers.</p>
 <p>The more love I showed these two, the more love they&#x27;d offer me in return. My muscles, at least, would never betray me. They always repaid my affection in kind. Of course, our relationship would fall apart quickly if I hurt them badly or stopped giving them attention. I had to treat them both with the utmost care. But if I ever landed myself in a real mess, our bonds would prove invaluable.</p>
 <p>&quot;Whoops. Don&#x27;t worry, I didn&#x27;t forget about you two.&quot;</p>
-<p>Now that I was done with my legs, I turned my attention to my arms. My right was now &quot;Hulk,&quot; and my left one went by &quot;Hercules.&quot; I was hoping this might encourage them to mature into a pair of brawny monsters. I made a point of giving these boys some attention after seeing to my legs. As a magician, I didn&#x27;t have to rely on the strength of my arms that often, but it did come in handy every once in a while. People use their arms for all sorts of things; if you don&#x27;t work on them at all, you&#x27;ll come to regret it sooner or later.</p>
+<p>Now that I was done with my legs, I turned my attention to my arms. My right was now &quot;Hulk,&quot; and my left one went by &quot;Hercules.&quot; I was hoping this might encourage them to mature into a pair of brawny monsters. I made a point of giving these boys some attention after seeing to my legs. As a magician, I didn&#x27;t have to rely on the strength of my arms <em>that</em> often, but it did come in handy every once in a while. People use their arms for all sorts of things; if you don&#x27;t work on them at all, you&#x27;ll come to regret it sooner or later.</p>
 <p>Hulk and his brother were very jealous, and thanks to their excellent connections, they&#x27;d know right away if I was planning to neglect them. Last thing I needed was for the boys to start sulking. &quot;Okay, let&#x27;s try a hundred push-ups. Starting from the top…&quot;</p>
 <p>I stretched out face-down on the floor and began to raise and lower my body at a leisurely pace. Hitting an arbitrary number wasn&#x27;t really the important thing here, of course; the goal was to train my muscles. Soon enough, Hulk and Hercules were quivering with joy. I murmured words of encouragement and pushed them even harder.</p>
 <p>This wasn&#x27;t easy for me, but it was tough on them as well. Still, the memories of our common struggle would bring us closer together—and make us stronger.</p>
@@ -42,7 +42,7 @@ nav_title = "Chapter 3"
 <p>&quot;Hey, Quagmire!&quot; called a voice as I walked further into the room.</p>
 <p>&quot;Oh, it&#x27;s Quagmire!&quot; shouted another. &quot;Come give us a hand, man! We were just about to head out!&quot;</p>
 <p>&quot;Thanks for the offer, guys, but I&#x27;m just looking around today.&quot;</p>
-<p>On second thought, maybe my actual name wasn&#x27;t that well known. Most people seemed to know me by the nickname &quot;Quagmire.&quot; It was understandable, since I tended to cast nothing but that spell in battle. Sometimes I&#x27;d throw in other support magic like Deep Mist when the situation called for it.</p>
+<p>On second thought, maybe my <em>actual</em> name wasn&#x27;t that well known. Most people seemed to know me by the nickname &quot;Quagmire.&quot; It was understandable, since I tended to cast nothing but that spell in battle. Sometimes I&#x27;d throw in other support magic like Deep Mist when the situation called for it.</p>
 <p>In any case, most of the adventurers in this Guild now smiled at the sight of my face. Doing my best imitation of Timothy seemed to be paying off, and it didn&#x27;t hurt that I presented myself as a naïve, obliging young magician who didn&#x27;t know the value of his own services. It&#x27;s easy to be well-liked when you make yourself that useful.</p>
 <p>Still, the regulars here recognized me and knew my name. At this rate, it wouldn&#x27;t take too long for a few rumors about me to spread through the city as a whole.</p>
 <p>&quot;Hey, Quagmire! We&#x27;re leaving town today. I&#x27;ll send word if I hear anything about your mother out there, all right?&quot;</p>
@@ -50,14 +50,14 @@ nav_title = "Chapter 3"
 <p>I&#x27;d also managed to convince a few travelling parties like this one to keep their eyes open for Zenith when they moved along and left Rosenburg behind. All in all, things were going smoothly enough. Assuming my mother was somewhere in this neighborhood, she&#x27;d hear something about me sooner or later.</p>
 <p>That was a big assumption, of course. But I didn&#x27;t feel like I was wasting my time here either way. Once I figured out a good routine in Rosenburg, I could easily do the exact same thing in other cities. If I hopped from one town to the next, moving steadily eastward through the Northern Territories, I could spread the word throughout this entire region. I&#x27;d stumble over Zenith eventually.</p>
 <p>It had taken me three months to get to this point, but I was finally starting to feel like I was making some actual headway. If I wanted to be thorough, I might need to spend a year or so in every city that I stopped in. In other words, my plan might take a very long time to carry out.</p>
-<p>Still…I had to keep moving forward, one step at a time. Isn&#x27;t that right, Roxy?</p>
+<p>Still…I had to keep moving forward, one step at a time. <em>Isn&#x27;t that right, Roxy?</em></p>
 <p>&quot;Hey, look. He&#x27;s praying again!&quot;</p>
 <p>&quot;Leave it alone. Quagmire&#x27;s just a pious kid. I saw him goin&#x27; at it in the middle of the street the other day…&quot;</p>
-<p>Whoops. That was careless of me.</p>
+<p><em>Whoops. That was careless of me.</em></p>
 <p>At some point, I&#x27;d reached into my pocket and bowed my head in a reflexive prayer. As long as I had my holy relic, I&#x27;d be all right. I</p>
 <p>could endure anything the world threw at me. With Roxy watching over me, nothing could harm me. I was invincible. I was Mecha-Rudeus, the indestructible!</p>
 <p>&quot;Pfft.&quot;</p>
-<p>&quot;Quagmire Rudeus? Gimme a damn break.&quot;</p>
+<p>&quot;<em>Quagmire Rudeus</em>? Gimme a damn break.&quot;</p>
 <p>&quot;That kid&#x27;s so full of himself…&quot;</p>
 <p>Naturally, there were also a few people who didn&#x27;t think too favorably of me. But I wasn&#x27;t about to let that bother me, since they weren&#x27;t actively interfering with my activities. As long as I maintained my docile, submissive attitude, I&#x27;d keep a solid majority of the Guild on my side. In a perfect world, I would eventually win over the minority who disliked me, too, but for now, I just avoided them instead.</p>
 <p>&quot;Oh…&quot; Just as I was about to leave the Guild, I found myself face-to-face with an acquaintance of mine. It was Sara, to be specific.</p>
@@ -72,7 +72,7 @@ nav_title = "Chapter 3"
 <p>&quot;Uh…will you be heading out tomorrow?&quot;</p>
 <p>And yet, for some reason, I found it hard to turn Counter Arrow down. I wasn&#x27;t entirely sure why. Maybe I wanted to repay them for helping me identify some of my weaknesses.</p>
 <p>Sara frowned irritably. &quot;You&#x27;re always so damn reluctant about it. If you don&#x27;t want to come, you can just say so. It&#x27;s not like we&#x27;re begging for your help or anything.&quot;</p>
-<p>As always, the girl&#x27;s tone was chilly. Still, I felt like her attitude was slightly better than it had been at the very beginning. The open hostility I&#x27;d sensed from her at first wasn&#x27;t in play as much anymore. Not that we were buddies now or anything…</p>
+<p>As always, the girl&#x27;s tone was chilly. Still, I felt like her attitude was <em>slightly</em> better than it had been at the very beginning. The open hostility I&#x27;d sensed from her at first wasn&#x27;t in play as much anymore. Not that we were buddies now or anything…</p>
 <p>It didn&#x27;t matter, anyway. I didn&#x27;t need everyone in this city to like me.</p>
 <p>&quot;Sorry about that. I&#x27;m just an indecisive person, I suppose. It takes some time for me to make up my mind about anything.&quot;</p>
 <p>&quot;…Could you stop apologizing for every little thing, too? It&#x27;s kind of pathetic.&quot;</p>
@@ -84,7 +84,7 @@ nav_title = "Chapter 3"
 <p>I paused for a moment. Although I called myself indecisive, I&#x27;d actually already made up my mind on this one. For some reason, I just wanted to act like I was unsure. &quot;Yes. I&#x27;ll come with you, if you&#x27;ll have me.&quot;</p>
 <p>&quot;Sounds good! Let&#x27;s just pick out a job today, then.&quot;</p>
 <p>&quot;Sure.&quot;</p>
-<p>If you ignored Sara&#x27;s bad attitude, Counter Arrow was easy to work with. I liked being around them. Suzanne was a caring, considerate person; Timothy was good-natured and sociable. The other two guys kept to themselves, but they were nice enough. The party was well-balanced and they&#x27;d learned how to work me into their strategy, so combat usually went very smoothly. They did try to let Sara and the frontline fighters get some experience in every fight, so I had to carefully restrict my spellcasting, but it felt like I was working with them, instead of just helping them out.</p>
+<p>If you ignored Sara&#x27;s bad attitude, Counter Arrow was easy to work with. I liked being around them. Suzanne was a caring, considerate person; Timothy was good-natured and sociable. The other two guys kept to themselves, but they were nice enough. The party was well-balanced and they&#x27;d learned how to work me into their strategy, so combat usually went very smoothly. They did try to let Sara and the frontline fighters get some experience in every fight, so I had to carefully restrict my spellcasting, but it felt like I was working <em>with</em> them, instead of just helping them out.</p>
 <p>In other words, I sort of felt like part of the team.</p>
 <p>&quot;Okay then, let&#x27;s see. We&#x27;ve got Rudeus with us this time, so…&quot;</p>
 <p>&quot;Hey, Suze! How about this one?&quot;</p>
@@ -167,14 +167,14 @@ nav_title = "Chapter 3"
 <p>Further along the path was the place we&#x27;d come here to visit: a massive, fort-like structure, crumbling in places but structurally intact.</p>
 <p>These were the Galgau Ruins.</p>
 <p>&quot;The place served as a fortress during the First Human-Demon War,&quot; said Timothy quietly. &quot;Apparently, it was constructed by one of the five greatest Demon Kings of the era. They called him Largon-Hargon the Subterranean.&quot;</p>
-<p>Hargon, huh? Wonder if he summoned the God of Destruction when they killed him.</p>
+<p><em>Hargon, huh? Wonder if he summoned the God of Destruction when they killed him.</em></p>
 <p>&quot;He was a God-tier Earth mage, by all accounts. He would regularly raise fortresses like this one in places no human could possibly find them, then create tunnels to the surface so his forces could launch surprise attacks.&quot;</p>
 <p>&quot;No kidding? You&#x27;re really knowledgeable, Timothy.&quot;</p>
 <p>&quot;Well, the fighting between humanity and the Subterranean Demon King was very fierce in this region, so we have a lot of stories about the war that were passed down through the generations. I remember quite a few of them from my childhood.&quot;</p>
-<p>Ah. This was all just folk history, then. Still, it seemed plausible. I had no idea how else you could have built a massive fortress like that this deep underground. If what Timothy said was true, this LargonHargon guy could have tunneled his forces upward to attack anywhere at any time, with no warning whatsoever. Defensive walls would have been totally useless. Every human soldier must have been constantly on edge, never knowing when the next assault might come… It was almost bizarre that humanity actually managed to win that war.</p>
+<p>Ah. This was all just folk history, then. Still, it seemed plausible. I had no idea how else you could have built a massive fortress like that this deep underground. If what Timothy said was true, this LargonHargon guy could have tunneled his forces upward to attack anywhere at any time, with no warning whatsoever. Defensive walls would have been totally useless. Every human soldier must have been constantly on edge, never knowing when the next assault might come… It was almost bizarre that humanity actually managed to <em>win</em> that war.</p>
 <p>&quot;Didn&#x27;t you say you grew up in Ranoa, Timothy?&quot; said Suzanne, glancing back at us with a slightly curious expression on her face.</p>
 <p>&quot;That&#x27;s right. I was born in a nameless village there, and spent my formative years in the city of Sharia. You might know it for its University of Magic. Eventually, I headed down to Asura to pursue my dream of becoming a great adventurer…which is how I ended up where I am today, a much humbler man.&quot;</p>
-<p>The Kingdom of Ranoa, huh? I guess I&#x27;ll probably end up going there myself eventually…</p>
+<p><em>The Kingdom of Ranoa, huh? I guess I&#x27;ll probably end up going there myself eventually…</em></p>
 <p>At this point, our conversation was rudely interrupted. &quot;We&#x27;re under attack!&quot; shouted Sara, dropping her torch and grabbing for her bow.</p>
 <p>I looked ahead and spotted a group of flying black shapes flapping toward us at considerable speed. Each of them looked to be a meter or so in size.</p>
 <p>&quot;Giant Bats!&quot;</p>
@@ -182,7 +182,7 @@ nav_title = "Chapter 3"
 <p>Patrice stepped protectively in front of me; Suzanne and Mimir moved to form a human wall in front of Sara and Timothy.</p>
 <p>We were up against flying monsters this time. While there was some space to maneuver now, we had to be careful, given that we weren&#x27;t too far from the edge of a cliff. It was safest for our vanguard to simply absorb the bats&#x27; attacks while the three of us shot them down from behind.</p>
 <p>&quot;Yaaah!&quot; Sara wasted no time in firing off her first shot. Her arrow homed in on one of the swiftly moving bats, piercing it right through the head; its body spun into the darkness at the bottom of the cliff. It was always impressive to watch her work. The girl was an artist with that bow.</p>
-<p>&quot;May this small, smoldering fire call forth a great and searing blessing! Flamethrower!&quot;</p>
+<p>&quot;May this small, smoldering fire call forth a great and searing blessing! <em>Flamethrower!</em>&quot;</p>
 <p>Timothy&#x27;s approach was a bit less subtle. He pointed both hands at the sky and unleashed a wide-range fire spell that sent two Giant Bats spiraling down to their doom.</p>
 <p>&quot;Blast Wind!&quot;</p>
 <p>I went for an even more basic method, lifting my hands and setting off a powerful explosion in mid-air. Given the moderate size of these bats, I&#x27;d figured the shockwave would be enough to disable them. Just as I&#x27;d hoped, the explosive wind tore holes in their wings; it was enough to keep them from flying properly. Watching the surviving bats fluttering slowly down toward the lake, I breathed a small sigh of relief…which caught in my throat a moment later.</p>
@@ -198,7 +198,7 @@ nav_title = "Chapter 3"
 <p>The six of us set off toward the fortress once again, keeping a careful eye on our surroundings.</p>
 <p>Galgau was a truly massive structure. Looking up at it from the vantage point of its entrance was fairly awe-inspiring. The ruined fortress was maybe five stories in height, and as wide across as your average middle school. It was impossible to say how far back it went, since it seemed to be partially buried in the rock behind it. At a guess, though, its depth was probably even more impressive. It wasn&#x27;t the biggest building I&#x27;d seen in this world, but its impact was definitely enhanced by the fact that it was somehow sitting underground. Had a single person seriously created this thing with earth magic?</p>
 <p>Our entry point into the ruins wasn&#x27;t the front gate. The way in took us through something that might have been a side door, or possibly just a hole in the wall. From there, we had a genuinely spectacular view of the cavern around us. To the left was the winding cliff road we&#x27;d followed down here; to the right was an enormous open space with a quiet, dark lake at its bottom.</p>
-<p>The world I came from had its share of spectacles, of course, but there weren&#x27;t many that could compare to this. The only place you&#x27;d find anything comparable was in a video game or a piece of fantasy art. And of course, actually being here was very different from looking at an illustration. I could smell the cave, feel the stagnant air, and hear the occasional splash of a giant frog hopping through the water below. The tangible reality of it sent a little shiver down my spine. Gazing out at the vast underground lake, I found myself wondering what would happen to anyone who tried to take a swim down there.</p>
+<p>The world I came from had its share of spectacles, of course, but there weren&#x27;t many that could compare to this. The only place you&#x27;d find anything comparable was in a video game or a piece of fantasy art. And of course, actually being here was very different from looking at an illustration. I could smell the cave, feel the stagnant air, and hear the occasional splash of a giant frog hopping through the water below. The tangible <em>reality</em> of it sent a little shiver down my spine. Gazing out at the vast underground lake, I found myself wondering what would happen to anyone who tried to take a swim down there.</p>
 <p>&quot;You just gonna stand there looking around all day or what?&quot; asked Sara.</p>
 <p>&quot;Oh. Sorry, I&#x27;m coming,&quot; I said, hurrying back to my spot in our formation.</p>
 <p>&quot;Do you like big buildings or something?&quot;</p>
@@ -213,7 +213,7 @@ nav_title = "Chapter 3"
 <p>&quot;Hmm…take a right at the next fork, Suze.&quot;</p>
 <p>&quot;Got it.&quot;</p>
 <p>I was slightly surprised to realize that Timothy was carrying an actual map of the ruins in one hand. Adventurers did seem to visit this place on a regular basis, so I guess it wasn&#x27;t surprising someone had put in the effort to map the layout.</p>
-<p>&quot;Good lord,&quot; Timothy muttered, sighing softly. &quot;What were the demons thinking when they designed this place?&quot;</p>
+<p>&quot;Good lord,&quot; Timothy muttered, sighing softly. &quot;What were the demons <em>thinking</em> when they designed this place?&quot;</p>
 <p>A glance at the map was enough to see that these ruins were something of a maze. It looked a little bit like the scribblings of a kid who preferred his labyrinths to be tangled and nonsensical because they &quot;looked cooler&quot; that way. Given what I knew about Demonkind, that might have been part of the motivation here, but…</p>
 <p>&quot;Well, they&#x27;re not built like us, you know? This might have been more convenient for them, somehow.&quot;</p>
 <p>&quot;Hmm, I suppose you might be right…&quot;</p>
@@ -225,10 +225,10 @@ nav_title = "Chapter 3"
 <p>&quot;We&#x27;re under attack!&quot; Mimir shouted instantly.</p>
 <p>I looked ahead, behind, and to either side, but didn&#x27;t spot anything that looked like a threat. &quot;Where are they?!&quot;</p>
 <p>&quot;At your feet!&quot;</p>
-<p>As it turned out, the enemy was below us.</p>
+<p>As it turned out, the enemy was <em>below</em> us.</p>
 <p>Those bones I&#x27;d noticed scattered all around the path were slowly rising up off the ground, rattling as they moved. We had some boney boys on our hands. Or Skeletons, if you prefer.</p>
-<p>As they began to piece themselves together, a partially translucent…thing appeared further along the corridor, wafting slowly toward us. It was a slender humanoid figure, but it didn&#x27;t have a head or legs. Clad in a beat-up old robe, it floated toward us weightlessly, as if swimming through the air itself. I wasn&#x27;t an expert or anything, but that had to be some kind of ghost.</p>
-<p>&quot;We&#x27;ve got Skeletons and a Wraith, boss!&quot;</p>
+<p>As they began to piece themselves together, a partially translucent…<em>thing</em> appeared further along the corridor, wafting slowly toward us. It was a slender humanoid figure, but it didn&#x27;t have a head or legs. Clad in a beat-up old robe, it floated toward us weightlessly, as if swimming through the air itself. I wasn&#x27;t an expert or anything, but that had to be some kind of ghost.</p>
+<p>&quot;We&#x27;ve got Skeletons <em>and</em> a Wraith, boss!&quot;</p>
 <p>&quot;Draw them in close, Patrice!&quot;</p>
 <p>&quot;Sara, Timothy, Rudeus, watch our back! Focus on the Skeletons!&quot;</p>
 <p>&quot;Okay!&quot;</p>
@@ -238,16 +238,16 @@ nav_title = "Chapter 3"
 <p>&quot;That&#x27;s my specialty!&quot; I pointed both my hands at the onrushing skeletons. If blunt force was enough to take them down, this wouldn&#x27;t be too bad at all.</p>
 <p>&quot;Stone Cannon!&quot;</p>
 <p>My favorite lethal projectile smacked into the first Skeleton in line and pulverized it; the stone kept moving, destroying a second Skeleton as well.</p>
-<p>&quot;Answer my call, God of Obscurities, and shatter my enemy! Stone Cannon!&quot;</p>
+<p>&quot;Answer my call, God of Obscurities, and shatter my enemy! <em>Stone Cannon!</em>&quot;</p>
 <p>A split-second later, Timothy fired off his own Stone Cannon, which smashed through a single Skeleton before stopping.</p>
-<p>Guess I win this round… Not that it&#x27;s a competition or anything. &quot;All right, we&#x27;re all done back here. Let&#x27;s—&quot;</p>
+<p><em>Guess I win this round… Not that it&#x27;s a competition or anything.</em> &quot;All right, we&#x27;re all done back here. Let&#x27;s—&quot;</p>
 <p>&quot;Not yet!&quot;</p>
 <p>Just as I was spinning around to support Suzanne and the others, Timothy&#x27;s urgent cry turned me back. A skeleton was taking shape before my eyes. The same ones I&#x27;d shattered were somehow slowly piecing themselves back together.</p>
 <p>&quot;As long as that Wraith is alive, the Skeletons are immortal!&quot;</p>
-<p>Oh. Right. Of course.</p>
+<p><em>Oh. Right. Of course.</em></p>
 <p>Skeletons were immortal creatures. You could smash them apart and set them on fire, and they&#x27;d still come at you while they burned. Char them to ashes, and they&#x27;d still piece themselves back together. Blunt-force attacks were the simplest way to render them incapable of movement, but that was only a temporary measure. While you had them disabled, you had to take out the Wraith that was animating them. Fire magic could burn away a Wraith, but that didn&#x27;t do much except buy you a little time. Like the skeletons it controlled, it would come back eventually.</p>
 <p>Divine magic was by far the most effective answer to a Wraith. It could erase their spectral forms much more quickly and thoroughly than any fire spell; and a Wraith defeated in that way was gone for good. Additionally, Skeletons hit by Divine spells turned into particles of light and permanently disappeared. But as long as the Wraith itself stayed intact, it could summon an endless supply of new ones.</p>
-<p>&quot;I call upon thee, God who blesses the land which nurtures us! Deliver divine punishment to those foolish enough to defy the natural ways! Exorcistrate!&quot;</p>
+<p>&quot;I call upon thee, God who blesses the land which nurtures us! Deliver divine punishment to those foolish enough to defy the natural ways! <em>Exorcistrate!</em>&quot;</p>
 <p>Evidently, Mimir had trained in this school of magic.</p>
 <p>I glanced over my shoulder at the sound of an unfamiliar incantation and saw the ball of light Mimir had summoned smack into the Wraith&#x27;s spectral body.</p>
 <p>&quot;Gyyeeeeeaaaaa!&quot;With an ear-splitting shriek, the ghost disappeared. Its partially transparent body burst apart and was reduced to small motes of light, which soon faded into oblivion. Instantaneously, the Skeletons fell apart, their bones crumbling lifelessly to the ground.</p>
@@ -260,12 +260,12 @@ nav_title = "Chapter 3"
 <p>Sara looked over her shoulder at us and put a finger to her lips. Our conversation was probably making it harder for her to listen for threats.</p>
 <p>&quot;Sorry about that,&quot; I whispered. This was definitely not the place or time for casual chit-chat. In a place like this, carelessness could get you killed in no time at all.</p>
 <p>In any case, apparently this ruin was haunted on top of everything else. That was more than a little disturbing. Judging from its appearance, that ghost might have been a warrior in life… Could it have been a soldier from the First Human-Demon War?</p>
-<p>No, that seemed really unlikely. Surely a ghost from such a distant past wouldn&#x27;t still be hanging around in a place that people visited fairly regularly. It had probably been an adventurer who&#x27;d died in here within the last few years. My condolences, buddy. Hope you rest in peace.</p>
+<p>No, that seemed really unlikely. Surely a ghost from such a distant past wouldn&#x27;t still be hanging around in a place that people visited fairly regularly. It had probably been an adventurer who&#x27;d died in here within the last few years. <em>My condolences, buddy. Hope you rest in peace.</em></p>
 <p>&quot;Ah, good. Here we are!&quot;</p>
 <p>Suzanne&#x27;s voice brought me back to reality. I realized we&#x27;d finally emerged from that winding maze of corridors into a larger, more open space. We seemed to be in a wide hallway maybe a hundred meters long. A crumbled set of stairs in the middle led to the second floor, and both sides of the passage were lined with giant stone sculptures. It felt pretty obvious that some important part of the fortress lay just ahead.</p>
 <p>&quot;Oh wow…&quot;</p>
 <p>And then there was the floor.</p>
-<p>It was practically covered in a carpet of beautiful white scales, almost like the petals of a cherry blossom tree in bloom. These had to be the Snow Drake scales that we were here for. Considering their value, there certainly were a lot of them just lying around.</p>
+<p>It was practically covered in a carpet of beautiful white scales, almost like the petals of a cherry blossom tree in bloom. These had to be the Snow Drake scales that we were here for. Considering their value, there certainly were a <em>lot</em> of them just lying around.</p>
 <p>Based on the research we&#x27;d done beforehand, this hall was part of the route the Snow Drakes used to move from their nest to their hunting grounds. They often stopped here to groom themselves while moving through the area. It was well-known as the single best place to find their scales in the entire complex.</p>
 <p>&quot;Beyond this hall, we&#x27;d be stepping into the Snow Drakes&#x27; territory,&quot; called Suzanne from up ahead. &quot;Don&#x27;t go any further than that last statue in the line back there. Is that clear, everyone?&quot;</p>
 <p>Mimir and Patrice shouted &quot;Yeah!&quot; in unison, then set to work scooping up scales.</p>
@@ -276,20 +276,20 @@ nav_title = "Chapter 3"
 <p>With that thought in mind, I focused my attention on the direction of the Snow Drakes&#x27; nest. The last statue in the hallway depicted a voluptuous woman with her legs planted far apart—a woman wearing nothing but hot pants, a breast protector, and a cape. She held her hands at her hips…and for some reason, there were chains on them. I felt a little sad that her head had fallen off at some point over the centuries.</p>
 <p>There was a door between that statue&#x27;s legs. A little further down that passage was apparently where the Snow Drakes lived, so it was presumably where they&#x27;d be coming from if they made an appearance.</p>
 <p>Not that it really mattered, but that statue&#x27;s clothing felt weirdly familiar.</p>
-<p>Oh! Hold on, is that supposed to be Kishirika Kishirisu?! The last time I saw her, she looked more like a little kid than a buxom babe, but…maybe? No, no, that can&#x27;t be right… Hmm.</p>
-<p>Then again, statues like this tended to exaggerate how impressive people were, right? It wouldn&#x27;t be surprising if the sculptor had taken a little artistic license. Still, this seemed a bit too exaggerated. Especially in the height department. And the bust department.</p>
+<p><em>Oh! Hold on, is that supposed to be Kishirika Kishirisu?! The last time I saw her, she looked more like a little kid than a buxom babe, but…maybe? No, no, that can&#x27;t be right… Hmm.</em></p>
+<p>Then again, statues like this tended to exaggerate how impressive people were, right? It wouldn&#x27;t be surprising if the sculptor had taken a little artistic license. Still, this seemed a bit <em>too</em> exaggerated. Especially in the height department. And the bust department.</p>
 <p>Hmm…those things were just huge…</p>
 <p>&quot;Whoops. There I go again…&quot;</p>
-<p>Focus, Rudeus. Focus. I needed to be ready and waiting if enemies popped up out of nowhere or something.</p>
+<p><em>Focus, Rudeus. Focus.</em> I needed to be ready and waiting if enemies popped up out of nowhere or something.</p>
 <p>Still, the sight of a gigantic pair of breasts no longer got me quite as excited as it once did. Maybe it was because I&#x27;d actually touched some real ones. My innocence was gone forever…</p>
 <p>&quot;What&#x27;s that sound?!&quot; Timothy shouted.</p>
 <p>An instant later, piercing cries from somewhere in the distance reached my ears.</p>
 <p>&quot;I&#x27;ve got a bad feelin&#x27; about this one, boss…&quot;</p>
 <p>&quot;Get ready for combat, everyone!&quot; shouted Suzanne. &quot;Push the bags over to the side!&quot;</p>
 <p>Unfortunately, Mimir&#x27;s apprehension proved to be warranted. The six of us bunched into a tight formation, looking around for the enemy. The cries echoing through the hallway were coming from somewhere deeper in the ruins, and they were gradually getting louder. Tense and uncertain, we exchanged glances with each other.</p>
-<p>From the sound of it, there were a lot of monsters shrieking. If we were about to get hit by a giant horde of enemies, it would be smartest to just grab the scales we&#x27;d managed to collect and beat a hasty retreat. Mimir, Patrice, and Suzanne had filled an entire bag by now; that was probably enough to meet the bare minimum requirement for our task.</p>
+<p>From the sound of it, there were a <em>lot</em> of monsters shrieking. If we were about to get hit by a giant horde of enemies, it would be smartest to just grab the scales we&#x27;d managed to collect and beat a hasty retreat. Mimir, Patrice, and Suzanne had filled an entire bag by now; that was probably enough to meet the bare minimum requirement for our task.</p>
 <p>For a few long moments, Suzanne listened carefully to the cries, and then considered the scales and our half-filled sacks. &quot;It doesn&#x27;t sound like they&#x27;re heading our way,&quot; she finally said. &quot;I think we should probably keep gathering, but quickly.&quot;</p>
-<p>It didn&#x27;t seem like an unreasonable opinion. The cries were still far off, and it didn&#x27;t feel like they were coming right at us. Maybe someone else had gotten the Snow Drakes whipped up into a frenzy, but that might be just the distraction we needed to finish collecting their scales.</p>
+<p>It didn&#x27;t seem like an unreasonable opinion. The cries were still far off, and it didn&#x27;t feel like they were coming <em>right</em> at us. Maybe someone else had gotten the Snow Drakes whipped up into a frenzy, but that might be just the distraction we needed to finish collecting their scales.</p>
 <p>Still, that was just one possibility. There was also a very good chance we might get mixed up in whatever this was. Was it smarter to play this safe and cut our profits, or take the risk to pursue a greater reward?</p>
 <p>Either way, every second we spent standing around waiting was only putting us in greater danger. There was a chance nothing at all would happen, true; but no matter what course of action we wanted to take, we needed to make up our minds quickly.</p>
 <p>&quot;I think we should finish up, too,&quot; offered Sara.</p>
@@ -300,7 +300,7 @@ nav_title = "Chapter 3"
 <p>With that, everyone hurriedly resumed their previous tasks. All of us were much more alert than before, but I couldn&#x27;t shake the feeling that those shrieking cries were only getting louder and more violent. Clutching my staff tightly, I stared at the stone statue at the far end of the hall.</p>
 <p>The cries were still distant. If the pack was heading for us, they&#x27;d probably be coming from that direction…but for some reason, I felt like I could hear them from behind us as well. Maybe they were just echoing around inside the ruins.</p>
 <p>Could I just use earth magic to seal off all the entrances except the one we&#x27;d taken? No. That was a bad idea. If the monsters came flooding in through there, then we&#x27;d really be in trouble.</p>
-<p>Calm down, Rudeus. You don&#x27;t even know what&#x27;s going on yet. Anything you do right now might backfire.</p>
+<p><em>Calm down, Rudeus. You don&#x27;t even know what&#x27;s going on yet. Anything you do right now might backfire.</em></p>
 <p>Fortunately, none of us were worn out yet. Even if we got in trouble, we had the energy to fight our way out of it, which was likely the only reason Suzanne had chosen to take this risk in the first place. The only thing I had to worry about was killing the monsters if they did appear. Nice and simple.</p>
 <p>I waited for the others to finish up. trying to keep my mind as clear as possible, trying to ignore the fearsome shrieks that sent shivers down my spine.</p>
 <p>&quot;…Hm?&quot;</p>
@@ -314,28 +314,28 @@ nav_title = "Chapter 3"
 <p>It had all happened so very suddenly. Timothy was frozen in place, just like the rest of us. He couldn&#x27;t even shout the word &quot;Retreat.&quot;</p>
 <p>However, our scaly friends seemed to be reacting the exact same way. I&#x27;d never seen a startled lizard before, but this was probably what one looked like. Their eyes opened wide, they froze, and opened their mouths halfway to threaten us with their fangs.</p>
 <p>For one long instant, it felt like time had ground to a halt.</p>
-<p>And then, I finally managed to shout the word &quot;Run!&quot;</p>
+<p>And then, I finally managed to shout the word &quot;<em>Run!</em>&quot;</p>
 <p>Timothy and the others spun around and sprinted toward the exit like they&#x27;d been shot out of a cannon. &quot;Gaaaaah! Not agaaaaain!&quot;</p>
 <p>Perhaps provoked by Patrice&#x27;s mournful shrieking, the Snow Drakes began to move as well.</p>
-<p>&quot;Earth Fortress!&quot;</p>
+<p>&quot;<em>Earth Fortress!</em>&quot;</p>
 <p>I threw up a massive wall of earth in their path, blocking their progress. It was a solid, thick barrier, reaching all the way to the shoulder of the nearest stone statue. Figuring that I&#x27;d bought us all a little time, I turned around and headed for the exit myself.</p>
 <p>But when I glanced over my shoulder a moment later, I couldn&#x27;t help but let out a shrill little yelp of terror. The Snow Drakes were essentially lizards—a simple wall, even a tall one, was basically meaningless to them. One by one, they were climbing over it and slithering through the small gaps on either side.</p>
 <p>This was not good at all. At this rate, they were going to catch up and surround me. Thanks to my daily jogging, I wasn&#x27;t out of breath yet, but that didn&#x27;t mean much. I wasn&#x27;t a fast runner by any means.</p>
-<p>&quot;Gah!&quot; I spun back around and pointed my hands at the Snow Drakes. These things are lizards, right? How do you kill a lizard? Would intense cold work? Maybe it&#x27;ll slow them down, at least!</p>
+<p>&quot;Gah!&quot; I spun back around and pointed my hands at the Snow Drakes. <em>These things are lizards, right? How do you kill a lizard? Would intense cold work? Maybe it&#x27;ll slow them down, at least!</em></p>
 <p>&quot;Blizzard Storm!&quot;</p>
 <p>Acting mostly on reflex, I tried an ice spell. Gusts of freezing wind rushed through the air, sending scales flying off the ground. A moment later, spears of ice thick as a man&#x27;s thigh sliced toward the Snow Drakes that had made it past my wall.</p>
 <p>The monsters weren&#x27;t far away, and they didn&#x27;t have much room to maneuver. But somehow, they managed to avoid most of the spears with quick, agile movements of their bodies. The few projectiles that did strike home weren&#x27;t effective, either—they just bounced off the Snow Drakes&#x27; scales instead of penetrating them.</p>
-<p>I&#x27;d chosen my magic poorly. Snow Drake scales were natural insulators, and they lived in a frigid region of the world. Of course an ice spell wouldn&#x27;t work on them.</p>
+<p>I&#x27;d chosen my magic poorly. Snow Drake scales were natural insulators, and they lived in a frigid region of the world. Of <em>course</em> an ice spell wouldn&#x27;t work on them.</p>
 <p>My wall of earth broke apart. More slithering white bodies pushed their way through the crumbling rubble. I saw at least a dozen of them in that first wave alone. They were bearing down on me as a group now, in large numbers. Earlier I&#x27;d only seen a few at once, but they&#x27;d bunched up as my wall slowed the front ranks</p>
 <p>down. Every single one of them moved as quickly and nimbly as a tiny lizard, despite their massive size.</p>
-<p>This was not good. I couldn&#x27;t hope to run anymore. I had to fight. I had to fight them off, somehow, while I retreated. Could I possibly pull that off? Probably not.</p>
+<p>This was <em>not</em> good. I couldn&#x27;t hope to run anymore. I had to fight. I had to fight them off, somehow, while I retreated. Could I possibly pull that off? Probably not.</p>
 <p>Had the others managed to escape, at least?</p>
 <p>At least I&#x27;d left a letter in my room at the inn in case something like this happened. When an adventurer died, someone from their party usually dealt with the things they left behind. I wasn&#x27;t an official member of Counter Arrow, of course, but maybe they&#x27;d at least send that message off for me…</p>
 <p>I reached my left hand into my pocket and tightly squeezed the scrap of fabric inside it. As the Snow Drakes bore down on me, I tried to brace myself for the inevitable.</p>
 <p>&quot;Yah!&quot;</p>
 <p>In that moment, I heard a voice from behind me…and an arrow zipped past, lodging itself in the eye of the nearest Snow Drake.</p>
 <p>&quot;Gryaaaaaaah!&quot; Shrieking at the top of its lungs, the lizard stumbled off to the side and smashed into one of the stone statues that lined the hallway. It rushed forward and past us, pressing its body tightly against the side wall of the passage.</p>
-<p>&quot;May this small, smoldering fire call forth a great and searing blessing! Flamethrower!&quot;</p>
+<p>&quot;May this small, smoldering fire call forth a great and searing blessing! <em>Flamethrower!</em>&quot;</p>
 <p>A line of flame roared past me on the left; and an onrushing Snow Drake came rearing to an abrupt halt, rather than running through it.</p>
 <p>&quot;Let&#x27;s do this, Patrice!&quot;</p>
 <p>&quot;Yeah!&quot;</p>
@@ -346,7 +346,7 @@ nav_title = "Chapter 3"
 <p>Calling out instructions to each other, the vanguard squared off against the horde of frenzied Snow Drakes. Sara unleashed a flurry of arrows, and Timothy fired bursts of flame in all directions.</p>
 <p>Had they actually come back for me? Why? I wasn&#x27;t even a member of their party.</p>
 <p>As I stood there dumbfounded, Timothy turned and slapped me on the back.</p>
-<p>They really did…come back to save me. The moment I realized that, I felt something warm swelling up inside me.</p>
+<p><em>They really did…come back to save me.</em> The moment I realized that, I felt something warm swelling up inside me.</p>
 <p>&quot;…Ugh!&quot;</p>
 <p>I forced that feeling back down just as quickly as it came. I wasn&#x27;t sure exactly why. I just couldn&#x27;t handle it right now. I just…wasn&#x27;t ready.</p>
 <p>&quot;Don&#x27;t just stand there, moron!&quot; snapped Sara, bringing me back to earth. &quot;You&#x27;re fighting, too!&quot;</p>
@@ -360,7 +360,7 @@ nav_title = "Chapter 3"
 <p>&quot;Okay!&quot; shouted Suzanne. &quot;Let&#x27;s inch our way over to the wall!&quot;</p>
 <p>Little by little, we began to edge our formation sideways. Once we made it to the wall, the Drakes would be coming at us from fewer directions. And if we backed up along it, we could make our way to the exit.</p>
 <p>It was impossible to know how long these waves of Snow Drakes would keep coming, but eventually we could at least escape this chamber.</p>
-<p>All of a sudden, I saw great sprays of blood shooting through the air from somewhere deep inside the waves of Snow Drakes. Something—no, someone—was leaping fiercely across the battlefield, killing Snow Drakes in rapid succession.</p>
+<p>All of a sudden, I saw great sprays of blood shooting through the air from somewhere deep inside the waves of Snow Drakes. Something—no, <em>someone</em>—was leaping fiercely across the battlefield, killing Snow Drakes in rapid succession.</p>
 <p>It wasn&#x27;t just the one attacker, either. Another small shape appeared at the very back of the hall and began to attack from behind with powerful fire magic. Frenzied with fear, the Snow Drakes rushed to flee the fortress even more desperately than before.</p>
 <p>&quot;What, is that all you&#x27;ve got?!&quot; The man at the front of this group—the one who&#x27;d roared earlier—cut down one Drake after another, and the people following in his wake rushed to support him.</p>
 <p>Apparently, the cavalry had arrived.</p>
@@ -372,19 +372,19 @@ nav_title = "Chapter 3"
 <p>My Stone Cannon struck home directly at the top of the creature&#x27;s head, smashing through the skull and spraying its contents in all directions.</p>
 <p>&quot;…It&#x27;s finally over, huh?&quot;</p>
 <p>Just to make sure, I looked cautiously around the area. Snow Drake corpses lay in heaps all around the hall. The vast majority of them had been killed by the party that joined in midway, but we&#x27;d brought down a decent handful ourselves. More importantly, none of the creatures seemed to be moving anymore. I made a point of checking the ceiling, upper walls, and every potential hiding spot in the hallway, but I couldn&#x27;t see anything that looked like a threat.</p>
-<p>In the end, my eyes met those of the party who&#x27;d appeared from the depths of the ruins. The whole group was looking in our direction. Some carried swords, others shields or staves. They had to be adventurers, of course. The man standing at the very center of the group in a dark blue coat was definitely a swordsman. And judging from his performance just now, he was a very good one.</p>
+<p>In the end, my eyes met those of the party who&#x27;d appeared from the depths of the ruins. The whole group was looking in our direction. Some carried swords, others shields or staves. They had to be adventurers, of course. The man standing at the very center of the group in a dark blue coat was definitely a swordsman. And judging from his performance just now, he was a <em>very</em> good one.</p>
 <p>As I looked on, the man in question left his party and strode quickly toward us. He didn&#x27;t have a particularly friendly face, and the glowering expression on it didn&#x27;t help matters. Maybe he was still fired up after the battle.</p>
 <p>In any case, he&#x27;d basically saved our lives. We&#x27;d have to express our thanks.</p>
 <p>I stepped back, though. At times like these, the party leader usually handled the talking on behalf of the whole group. It was kind of my fault that we&#x27;d run into each other, since I&#x27;d been too slow to run away, but it just wasn&#x27;t my place to say anything.</p>
-<p>&quot;Hey there. I&#x27;m Timothy of Counter Arrow,&quot; said Timothy, approaching the man with a friendly smile. &quot;Thanks so much for your—gah!&quot;</p>
+<p>&quot;Hey there. I&#x27;m Timothy of Counter Arrow,&quot; said Timothy, approaching the man with a friendly smile. &quot;Thanks so much for your—<em>gah</em>!&quot;</p>
 <p>It all happened in the blink of an eye.</p>
 <p>Still scowling fiercely, the man lashed out and punched Timothy in the face, sending him sprawling on the ground. Crying out in anger, Suzanne and Sara drew their weapons.</p>
 <p>&quot;Don&#x27;t give me that dopey smile, asshole!&quot; shouted the man. &quot;You&#x27;ve got some guts, stealing our prey like that!&quot; He glared at Timothy for a moment, then shot an equally furious look at the rest of us. The hostility in his eyes looked nearly murderous.</p>
-<p>&quot;Stealing your prey?!&quot; shouted Suzanne. &quot;Are you joking? These things attacked us out of nowhere! You got us caught up in this!&quot;</p>
+<p>&quot;Stealing your prey?!&quot; shouted Suzanne. &quot;Are you joking? These things attacked us out of nowhere! <em>You</em> got us caught up in this!&quot;</p>
 <p>The man let out a harsh snort of laughter. &quot;Oh, please! You snuck in from behind and tried to grab those scales while we were doing all the work!&quot;</p>
 <p>&quot;We didn&#x27;t even know anyone else was working a job in here!&quot;</p>
 <p>&quot;We told the whole damn town we&#x27;d be here!&quot;</p>
-<p>&quot;Well, we didn&#x27;t hear anything about it!&quot;</p>
+<p>&quot;Well, <em>we</em> didn&#x27;t hear anything about it!&quot;</p>
 <p>The man was clearly furious at us, and the people behind him seemed upset as well. But it felt like we were kind of talking past each other here.</p>
 <p>Now that I saw them up close, though, I did at least recognize them. They were Stepped Leader, an S-ranked adventurer party. They were a highly competent bunch associated with the prominent clan Thunderbolt. I&#x27;d heard them called the strongest single party in the entire city of Rosenburg.</p>
 <p>This extremely short-tempered man was their leader, naturally. As I recalled, his name was Soldat Heckler. He was supposedly a highly skilled swordsman of the Sword God Style.</p>
@@ -397,7 +397,7 @@ nav_title = "Chapter 3"
 <p>Counter Arrow was out working another job at the time, but…Soldat had been hanging around boasting about their next mission, and promising to tell everyone about his heroic exploits once he returned.</p>
 <p>From what I could recall… &quot;I think they were going out to exterminate a large pack of Snow Drakes that appeared in Ilbron Cave…&quot;</p>
 <p>&quot;Ilbron Cave?! What?! That&#x27;s a full day away from here!&quot; shouted Suzanne.</p>
-<p>Soldat scowled furiously. &quot;What the hell? This is Ilbron Cave!&quot;</p>
+<p>Soldat scowled furiously. &quot;What the hell? This <em>is</em> Ilbron Cave!&quot;</p>
 <p>&quot;Are you drunk?! We&#x27;re in the Galgau Ruins!&quot;</p>
 <p>&quot;Calm down, Suzanne,&quot; said Timothy, rising slowly to his feet.</p>
 <p>&quot;Timothy…are you all right?&quot;</p>
@@ -415,7 +415,7 @@ nav_title = "Chapter 3"
 <p>&quot;That&#x27;s right. You can confirm that with the Guild, if you want.&quot;</p>
 <p>Soldat grimaced, shook his head, and spat on the ground. &quot;Well, damn. My bad for punching you outta nowhere, then…&quot;</p>
 <p>&quot;That&#x27;s all right. You were worked up after that battle, and we both misunderstood the situation. I&#x27;m sorry as well.&quot;</p>
-<p>I felt like we really didn&#x27;t have anything to be sorry for here, but Timothy apologized anyway. The man had his strategy for success, and he stuck to it.</p>
+<p>I felt like we <em>really</em> didn&#x27;t have anything to be sorry for here, but Timothy apologized anyway. The man had his strategy for success, and he stuck to it.</p>
 <p>&quot;Still, these things were our prey. You guys get one corpse; that&#x27;s it. Got it?!&quot;</p>
 <p>&quot;Of course.&quot;</p>
 <p>Timothy agreed to this immediately, but Sara and Suzanne scowled. They didn&#x27;t actually complain, though. There was an unwritten rule among adventurers when it came to this sort of thing.</p>
@@ -462,7 +462,7 @@ nav_title = "Chapter 3"
 <p>Everyone around me was guzzling booze, but I&#x27;d opted for diluted fruit juice instead. It was basically the only non-alcoholic drink you could order in bars around here…unless you were a big fan of goat milk.</p>
 <p>&quot;What does it matter if we&#x27;re drinking or not?&quot; said Timothy, the one other person who&#x27;d gone with the same beverage as me. &quot;What&#x27;s important is we&#x27;re having fun.&quot;</p>
 <p>&quot;Psh. Whatever. You just can&#x27;t drink, right?&quot;</p>
-<p>&quot;No, I don&#x27;t drink. There&#x27;s a significant difference there, you know.&quot;</p>
+<p>&quot;No, I <em>don&#x27;t</em> drink. There&#x27;s a significant difference there, you know.&quot;</p>
 <p>&quot;Hahaha!&quot; Mimir burst out laughing as Timothy scratched awkwardly at his neck.</p>
 <p>&quot;Oh, good grief…&quot; It seemed Counter Arrow&#x27;s esteemed leader was something of a lightweight, and his friends evidently never let him forget it.</p>
 <p>Still, it was pretty rare to find someone in this world who didn&#x27;t drink. He was probably the first sober adventurer I&#x27;d ever met, come to think of it.</p>
@@ -473,7 +473,7 @@ nav_title = "Chapter 3"
 <p>Hmm. Was this her subtle way of telling me to show some gratitude? Fair enough. I owed them for that one, didn&#x27;t I? Yeah, for sure.</p>
 <p>&quot;Well, I&#x27;m very grateful to you,&quot; I said, bowing my head slightly.</p>
 <p>&quot;Don&#x27;t thank me,&quot; said Sara, pouting slightly and taking a swig of her drink. &quot;Thank Timothy and Suzanne.&quot;</p>
-<p>Suzanne smirked at this and gave Sara a little nudge with her elbow. &quot;Oh, I don&#x27;t know. You were the one who went running back there first, weren&#x27;t you? Mimir said it was a lost cause, but you insisted we could make it back for him…&quot;</p>
+<p>Suzanne smirked at this and gave Sara a little nudge with her elbow. &quot;Oh, I don&#x27;t know. You were the one who went running back there first, weren&#x27;t you? Mimir said it was a lost cause, but you <em>insisted</em> we could make it back for him…&quot;</p>
 <p>&quot;Hey! Shut up, Suzanne!&quot; Sara reached out and tried to shove Suzanne away; cackling, Suzanne twisted around to avoid her hand. &quot;Look, you helped us out last time, right? I don&#x27;t like owing people, that&#x27;s all.&quot;</p>
 <p>I nodded and uncertainly averted my eyes from Sara&#x27;s glare. By sheer coincidence, I ended up meeting Mimir&#x27;s gaze instead.</p>
 <p>&quot;Uh, hey, I&#x27;m grateful too, for the record,&quot; he said a little awkwardly. &quot;It&#x27;s not like I wanted to leave you behind or anything, but…you know how it is, right?&quot;</p>
@@ -481,8 +481,8 @@ nav_title = "Chapter 3"
 <p>Mimir&#x27;s assessment of the situation had been reasonable. And at the end of the day, he&#x27;d jumped in front of me to face down the Snow Drakes, just like all the others. That was more than I could have expected.</p>
 <p>&quot;Well, in any case, we all made it back in one piece, and we&#x27;ve got plenty of cash in our wallets. That&#x27;s what matters, if you ask me!&quot; Suzanne&#x27;s words put a smile back on everyone&#x27;s face, at least for a moment.</p>
 <p>&quot;Yeah…it&#x27;s just a shame we had to run into those jerks at the end.&quot;</p>
-<p>&quot;What is their problem, anyway? I know they&#x27;re the strongest party in this Guild, but they are so full of themselves.&quot;</p>
-<p>&quot;They spend all their time crawling around labyrinths! They&#x27;ve got some nerve acting like a bunch of heroes now. If a bunch of Snow Drakes actually came running at Rosenburg, the army would have sent out a force to fight them!&quot;</p>
+<p>&quot;What is their <em>problem</em>, anyway? I know they&#x27;re the strongest party in this Guild, but they are <em>so</em> full of themselves.&quot;</p>
+<p>&quot;They spend all their time crawling around labyrinths! They&#x27;ve got some nerve acting like a bunch of heroes now. If a bunch of Snow Drakes <em>actually</em> came running at Rosenburg, the army would have sent out a force to fight them!&quot;</p>
 <p>&quot;Personally, I&#x27;m still pissed that he punched Timothy out of nowhere like that. What kind of a party leader hits a magician before he&#x27;s even got his facts straight?&quot;</p>
 <p>With the preliminaries over, everyone promptly moved on to complaining bitterly about Stepped Leader. It was probably important for them to vent like this. Timothy had managed to keep things peaceful somehow; the last thing Counter Arrow needed was to let their resentments fester and explode into another fight with Soldat and company.</p>
 <p>That said, I didn&#x27;t really feel like joining in the chorus of complaints. I wasn&#x27;t a big fan of talking trash about people behind their backs, especially since I&#x27;d been a shitty person myself in my previous life. Soldat had his own problems, presumably. He was kind of a jerk, but at least he was working hard and getting things done. That was probably why the other members of his party just shook their heads and went along with his nonsense. He&#x27;d definitely bungled that specific situation, but I wasn&#x27;t ready to dismiss him as an irredeemable piece of garbage just because we got off on the wrong foot.</p>
@@ -492,7 +492,7 @@ nav_title = "Chapter 3"
 <p>&quot;Yeah. You do come in handy, I guess.&quot;</p>
 <p>&quot;Oh. Sure. I&#x27;m glad to come along again, if you&#x27;ll have me.&quot;</p>
 <p>The others had been drinking heavily for a while now. Their faces were flushed, and they seemed to be enjoying themselves very much. I was glad I&#x27;d come along. This sort of thing was kind of fun. And I needed some fun in my life to help keep me going.</p>
-<p>To be honest, I felt like I was stuck in a rut right now…but I was alive, at least. That was something.</p>
+<p>To be honest, I felt like I was stuck in a rut right now…but I <em>was</em> alive, at least. That was something.</p>
 <p>&quot;Ah…&quot; Just then, the door to the bar swung open and three men stepped inside. I recognized them immediately. One of them was particularly familiar.</p>
 <p>&quot;Oh.&quot; They&#x27;d spotted me instantly as well.</p>
 <p>The leader of the group headed over in my direction with an irritated look on his face. His cheeks were flushed, and he wasn&#x27;t walking too steadily. It looked as if he&#x27;d had a few drinks already.</p>
@@ -502,25 +502,25 @@ nav_title = "Chapter 3"
 <p>It seemed the others hadn&#x27;t noticed Soldat come in. Understandably, none of them looked too happy about seeing the man they&#x27;d just spent thirty minutes griping about.</p>
 <p>&quot;Look, I was…all worked up back in the cave, right? So I thought…I&#x27;d come set things straight with you people.&quot; Soldat&#x27;s eyes weren&#x27;t entirely focused, and his voice came out a little harsh. &quot;I guess…I screwed that up back there. Sorry &#x27;bout that. I didn&#x27;t realize…what was goin&#x27; on, y&#x27;know?&quot;</p>
 <p>To my surprise, though, his words were actually apologetic. The members of Counter Arrow looked at each other in confusion.</p>
-<p>At this point, Soldat frowned and jabbed a finger out at Timothy. &quot;That said…! I don&#x27;t like your face, man. You smile too much, dammit! It&#x27;s pathetic! You just let a guy punch you instead of fighting back, and then you don&#x27;t even complain? I hate that kind of shit. Maybe you were trying to calm things down! Fine! But sometimes, a man&#x27;s gotta fight!&quot;</p>
+<p>At this point, Soldat frowned and jabbed a finger out at Timothy. &quot;That said…! I don&#x27;t like your face, man. You smile too much, dammit! It&#x27;s pathetic! You just let a guy punch you instead of fighting back, and then you don&#x27;t even complain? I hate that kind of shit. Maybe you were trying to calm things down! Fine! But sometimes, a man&#x27;s gotta <em>fight</em>!&quot;</p>
 <p>&quot;Uh…yes, I suppose you&#x27;re probably right. Suzanne&#x27;s always telling me the same thing, actually. I&#x27;ll have to keep that in mind.&quot;</p>
 <p>&quot;Yeah! You do that! You keep that in mind!&quot; Soldat smacked Timothy on the shoulder a little harder than necessary; Timothy smiled awkwardly and scratched at his head. Suzanne and the others looked on, totally nonplussed. I don&#x27;t think anybody had been expecting him to defuse the situation like this. I certainly hadn&#x27;t been.</p>
 <p>Nodding in satisfaction, Soldat abruptly turned in my direction. &quot;Quagmire!&quot;</p>
 <p>I jerked my head up, somewhat surprised to be mentioned. Had I done something to piss this guy off? &quot;Uh, yes?&quot;</p>
-<p>&quot;Timothy&#x27;s one thing…but I can&#x27;t stand you, kid.&quot; The man proceeded to shower me with a barrage of insults. &quot;What the hell is wrong with you, huh? Why are you so obsessed with what other people think of you?&quot;</p>
+<p>&quot;Timothy&#x27;s one thing…but I can&#x27;t <em>stand</em> you, kid.&quot; The man proceeded to shower me with a barrage of insults. &quot;What the hell is wrong with you, huh? Why are you so obsessed with what other people think of you?&quot;</p>
 <p>And so on.</p>
-<p>&quot;God, and your grin is so damn creepy! Like, is that seriously supposed to be a smile? Try a little harder, kid! We can see the contempt in your eyes!&quot;</p>
+<p>&quot;God, and your grin is so damn creepy! Like, is that seriously supposed to be a <em>smile</em>? Try a little harder, kid! We can see the contempt in your eyes!&quot;</p>
 <p>And so forth.</p>
 <p>&quot;Do you think you&#x27;re the saddest little boy in all the world or something? Huh?!&quot;</p>
 <p>His voice only grew in volume as he continued, and before long, it was overwhelming every other conversation in the bar.</p>
 <p>&quot;What&#x27;s up? You guys gonna fight?&quot;</p>
 <p>&quot;Ha ha! Get &#x27;em, kid!&quot;</p>
-<p>&quot;Shut up, you idiots!&quot; roared Soldat, cowing the crowd back into silence. &quot;Now listen up, Quagmire. You&#x27;re nothin&#x27; but a—&quot;</p>
+<p>&quot;Shut <em>up</em>, you idiots!&quot; roared Soldat, cowing the crowd back into silence. &quot;Now listen up, Quagmire. You&#x27;re nothin&#x27; but a—&quot;</p>
 <p>&quot;C&#x27;mon, Sol. Give it a rest already.&quot; As Soldat leaned forward to continue his ranting, one of his friends who&#x27;d been watching from behind grabbed him by the shoulders and pulled him back.</p>
 <p>&quot;Screw you! This kid thinks no one in the whole world has it worse than him! I don&#x27;t know what the hell happened to you, Quagmire, but you&#x27;re fuckin&#x27; depressing! You don&#x27;t have the guts to face your own problems! Where do you get off acting like some hotshot lone wolf? You think the rules don&#x27;t apply to you or something? Well, I&#x27;ve had it with your shit! You make me sick!&quot;</p>
 <p>His words felt like actual daggers stabbing into my chest. At some point, my legs had begun to shake; I was clenching my hands tightly in my lap. My body was trembling. My throat was quivering. But when I spoke, my voice came out oddly calm. &quot;Sorry about that. I didn&#x27;t know I was bothering you with my presence. I&#x27;ll do my best to not to be in the same room as you again.&quot;</p>
 <p>For some reason, this prompted Soldat to pound our table so hard it actually broke in half. Shattered wood and half-eaten food flew all over the place, and my bowl of red bean soup splattered onto my lap.</p>
-<p>&quot;What the hell is that supposed to mean? Are you trying to piss me off, kid? You&#x27;re always like this! All you ever do is advertise yourself, and then you act like you&#x27;re too good for the money! You having fun acting like a martyr, huh? We all need cash to survive, damn it!&quot;</p>
+<p>&quot;What the hell is that supposed to mean? Are you <em>trying</em> to piss me off, kid? You&#x27;re always like this! All you ever do is advertise yourself, and then you act like you&#x27;re too good for the money! You having fun acting like a martyr, huh? We all need cash to <em>survive</em>, damn it!&quot;</p>
 <p>I didn&#x27;t respond. Silence felt like my only option. There was no point trying to have a conversation with someone like this.</p>
 <p>&quot;Shit. I&#x27;m sorry, he&#x27;s had a few too many… Let&#x27;s go, Sol!&quot;</p>
 <p>&quot;Shaddup! Lemme go! Come on, Quagmire! Throw a damn punch, why don&#x27;t you? You&#x27;re pissed off, right? Take a swing at me, then! Stop sitting in your patch of mud oinking about how sad you are! Act like a man for once!&quot;</p>
@@ -532,9 +532,9 @@ nav_title = "Chapter 3"
 <p>All I could do was slowly nod.</p>
 <p>## <strong>Sara</strong></p>
 <p><strong>I</strong> was burning with anger as I headed back to my room. The moment I was inside, I tossed my bow and arrows onto the table, tore off my clothes, and threw myself onto the bed.</p>
-<p>&quot;That guy is the worst!&quot;</p>
-<p>I could feel my face flushing red at the thought of Soldat. Sometimes a man&#x27;s gotta fight? What a load of crap! He had no idea how hard Timothy fought for all of us every single day! That smile was his weapon. Suzanne told me that a long time ago. That man couldn&#x27;t begin to understand. What right did he have to insult anyone?</p>
-<p>Maybe there were times when you had to stand up and fight. Fine. But wasn&#x27;t it the party leader&#x27;s job to prevent pointless fights and keep his people safe? Soldat sure as hell wasn&#x27;t doing a very good job of that. What had he planned to do if we&#x27;d gotten into a fight back there in the ruins, anyway? Was he thinking he could kill us all easily and get away with it? The man was seriously arrogant, if so. That place was a maze-like fortress, and he hadn&#x27;t blocked off any of the exits.</p>
+<p>&quot;That guy is the <em>worst!&quot;</em></p>
+<p>I could feel my face flushing red at the thought of Soldat. <em>Sometimes a man&#x27;s gotta fight? What a load of crap!</em> He had no idea how hard Timothy fought for all of us every single day! That smile <em>was</em> his weapon. Suzanne told me that a long time ago. That man couldn&#x27;t begin to understand. What right did he have to insult anyone?</p>
+<p>Maybe there were times when you had to stand up and fight. Fine. But wasn&#x27;t it the party leader&#x27;s job to prevent <em>pointless</em> fights and keep his people safe? Soldat sure as hell wasn&#x27;t doing a very good job of that. What had he planned to do if we&#x27;d gotten into a fight back there in the ruins, anyway? Was he thinking he could kill us all easily and get away with it? The man was seriously arrogant, if so. That place was a maze-like fortress, and he hadn&#x27;t blocked off any of the exits.</p>
 <p>From everything I&#x27;d seen, that jerk was the one who needed to work on his leadership skills, not Timothy.</p>
 <p>And just to top things off…why the hell had he picked on Rudeus, of all people? Rudeus fought bravely when he needed to. He stood alone against all those enemies to buy time for us to get away. Soldat didn&#x27;t know any of that. He hadn&#x27;t seen Rudeus in action. What gave him the right to insult the kid like that?</p>
 <p>Sure, Rudeus could get on your nerves sometimes. Unlike Timothy, he never stood up for himself at all, and that fake smile he always plastered on his face made me grimace every time I saw him. But even so…</p>
@@ -544,19 +544,19 @@ nav_title = "Chapter 3"
 <p>If nothing else, Rudeus never put us down like that. He always treated Timothy and the others with genuine respect. And he was an incredibly talented magician, but he never acted like he was too good for us. He always tagged along on our jobs, and bought time for us to run when things got dangerous…</p>
 <p>&quot;…Okay, hold on. That&#x27;s not right.&quot;</p>
 <p>Rudeus was a noble by birth. He didn&#x27;t really act like one, but that didn&#x27;t matter. He was born with a silver spoon in his mouth, and that was bad enough in itself. I hated rich kids who wanted to pretend they were adventurers. But I also hated the nobility in general. My hometown was destroyed by their arrogance. They didn&#x27;t lift a finger to help when the monsters came rushing out of that forest back home. They never sent the knights to save us.</p>
-<p>It was their fault my mom and dad were dead. The men who had a duty to protect our village just…let us die.</p>
+<p>It was their fault my mom and dad were dead. The men who had a <em>duty</em> to protect our village just…let us die.</p>
 <p>I hadn&#x27;t forgotten the despair I&#x27;d felt back then. I never would.</p>
-<p>Yeah. That&#x27;s right.</p>
+<p><em>Yeah. That&#x27;s right.</em></p>
 <p>I had a good reason to hate the nobility. And Rudeus was a noble, so that meant I hated him too.</p>
 <p>He fought against the Luster Grizzlies. He fought against the Snow Drakes, too. He never ran away to save himself, even when he could have. He didn&#x27;t have a duty to protect us. He wasn&#x27;t even a member of Counter Arrow. Still, he tried to save us. He tried to buy us time.</p>
 <p>And when I saw him fighting for us…I went running back to save him. Because I didn&#x27;t want to see him die.</p>
-<p>It&#x27;s not like I ever wanted him to die or anything. Of course not. But…I still surprised myself a little when I went back to save him.</p>
+<p>It&#x27;s not like I <em>ever</em> wanted him to die or anything. Of course not. But…I still surprised myself a little when I went back to save him.</p>
 <p>If I hated him, wouldn&#x27;t I have left him behind in a situation like that?</p>
 <p>&quot;…Ugh. This sucks.&quot;</p>
-<p>Lately, when I looked at Rudeus, it felt like the ground was shifting underneath my feet. I loathed the nobility, but I couldn&#x27;t bring myself to hate him too strongly. I didn&#x27;t know how to deal with that. I wasn&#x27;t even sure what I really hated anymore. Nothing made any sense.</p>
+<p>Lately, when I looked at Rudeus, it felt like the ground was shifting underneath my feet. I loathed the nobility, but I couldn&#x27;t bring myself to hate <em>him</em> too strongly. I didn&#x27;t know how to deal with that. I wasn&#x27;t even sure what I really hated anymore. Nothing made any sense.</p>
 <p>But at the end of the day…</p>
-<p>Yeah, all right. Fine. I guess I have to admit it. I don&#x27;t hate Rudeus.</p>
-<p>He was the child of some rich jerk, but there was more to him than that. I didn&#x27;t hate him. That was it, though. That was as far as I would go. I definitely didn&#x27;t like him or anything.</p>
+<p><em>Yeah, all right. Fine. I guess I have to admit it. I don&#x27;t hate Rudeus.</em></p>
+<p>He was the child of some rich jerk, but there was more to him than that. I didn&#x27;t hate him. That was it, though. That was as far as I would go. I definitely didn&#x27;t <em>like</em> him or anything.</p>
 <p>Not hating someone is a very different thing from liking them. Obviously.</p>
 <p>&quot;I don&#x27;t like Rudeus one bit.&quot;</p>
 <p>With that fact safely established, I let myself drift off to sleep.</p>
