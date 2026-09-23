@@ -60,7 +60,7 @@ nav_title = "Chapter 4"
 <p>I&#x27;d dodged a bullet there, but we might still have to kill Luke in the end. If it came down to that, Sylphie might resent me for it. It might even lead to a divorce. That thought made my stomach knot up. Even so, I had to steel myself, just in case I had to cross that bridge eventually.</p>
 <p><em>Anyway, that takes care of the business with Luke.</em></p>
 <p>While I was on the subject, there were some other questions on my mind too. &quot;You mentioned before that the Man-God can&#x27;t control a bunch of people at once, right?&quot; I asked. &quot;About how many can he control at once, then?&quot;</p>
-<p>Orsted had briefly mentioned in passing that the Man-God couldn&#x27;t control a whole crowd at once, but that meant he <em>could</em> control more than one, right?</p>
+<p>Orsted had briefly mentioned in passing that the Man-God couldn&#x27;t control a whole crowd at once, but that meant he could control more than one, right?</p>
 <p>&quot;I cannot give you a precise number, but it&#x27;s most likely around three people.&quot;</p>
 <p><em>Only three, huh? Less than I expected.</em></p>
 <p>&quot;And what are the odds that he can control more than that?&quot; I asked.</p>
@@ -76,7 +76,7 @@ nav_title = "Chapter 4"
 <p>&quot;You mean he can only look into three people&#x27;s futures at any time, and any more than that is impossible?&quot;</p>
 <p>&quot;Correct.&quot;</p>
 <p>I wondered if that meant he might be able to control four people, assuming he didn&#x27;t look into their futures.</p>
-<p><em>Nah, someone who can cheat and look into the future would never gamble by giving up that specific power.</em> It was reasonable to assume he would only control three people and no more.</p>
+<p>Nah, someone who can cheat and look into the future would never gamble by giving up that specific power. It was reasonable to assume he would only control three people and no more.</p>
 <p>&quot;So if Luke is one of those three, that means he&#x27;s got two others under his control,&quot; I surmised.</p>
 <p>&quot;There&#x27;s no evidence at all that he is controlling three people right now.&quot;</p>
 <p>I shrugged. &quot;You may be right, but I think there&#x27;s a good chance that he&#x27;s got at least one person under his thumb in the Asura Kingdom.&quot;</p>
@@ -88,12 +88,11 @@ nav_title = "Chapter 4"
 <p>&quot;With the Sacred Beast serving as your family&#x27;s guardian, the Man-God cannot readily go after them. That creature has enough power that you needn&#x27;t worry about that.&quot;</p>
 <p>I stared at him. &quot;More than Arumanfi?&quot;</p>
 <p>Orsted snorted. &quot;Perugius&#x27;s spirits don&#x27;t even begin to compare.&quot;</p>
-<p>It was hard to believe what he was saying when Leo had yet to prove himself, but this was <em>the</em> Dragon God speaking. Surely, I could trust what he was saying. Honestly, I had no way of knowing either way.</p>
+<p>It was hard to believe what he was saying when Leo had yet to prove himself, but this was the Dragon God speaking. Surely, I could trust what he was saying. Honestly, I had no way of knowing either way.</p>
 <p>&quot;I digress,&quot; said Orsted. &quot;You are likely right about the Man-God having a puppet in the kingdom.&quot;</p>
 <p>I nodded. &quot;Then the key to victory will be sniffing this person out, I assume?&quot;</p>
 <p>&quot;Indeed. I know nothing of his third apostle, assuming he even has one. It could be that this person is operating separately and is unrelated to the Asuran throne. Keep your guard up.&quot;</p>
-<p>In order to achieve victory against the Man-God, we had to identify his three puppets, defeat them, <em>and</em> accomplish our own objectives in the process. We would probably have to repeat this</p>
-<p>process again and again. Our current goal was getting Ariel on the throne. Although it wasn&#x27;t confirmed, Luke was most likely one of his lackeys. The identities of the other two remained a mystery.</p>
+<p>In order to achieve victory against the Man-God, we had to identify his three puppets, defeat them, and accomplish our own objectives in the process. We would probably have to repeat this process again and again. Our current goal was getting Ariel on the throne. Although it wasn&#x27;t confirmed, Luke was most likely one of his lackeys. The identities of the other two remained a mystery.</p>
 <p>&quot;Is there anyone you know with absolute certainty is not on his side?&quot;</p>
 <p>I asked this knowing I was asking for the impossible. It didn&#x27;t really matter who the Man-God&#x27;s puppets were; our objectives wouldn&#x27;t change. Still, if he assumed control over Zanoba or Cliff and Orsted tasked me with killing them, I wouldn&#x27;t know what to do. I&#x27;d be devastated.</p>
 <p>&quot;Your family is safe from his influence. In addition to the bracelet you wear, they are also under the Guardian Beast&#x27;s protection.&quot;</p>
@@ -118,7 +117,7 @@ nav_title = "Chapter 4"
 <p>&quot;I have no idea,&quot; he said. &quot;However, the only person Perugius ever supported for the throne was Gaunis Freean Asura. If you research him, you should be able to find a clue to lead you in the right direction.&quot;</p>
 <p><em>Wait, so you don&#x27;t know either? Well, I guess you gave me a hint at least.</em></p>
 <p>&quot;All right. Then I shall be off to see it done.&quot; It was the trump card I would use to get in contact with Ariel.</p>
-<p>Before I left, Orsted lent me one of his magical items. I say <em>lend</em> because he called it a gift, but I thought of it as equipment for work. It was a robe, and conveniently gray, even though I had no part in its creation. It was a little darker than the one I had been wearing.</p>
+<p>Before I left, Orsted lent me one of his magical items. I say lend because he called it a gift, but I thought of it as equipment for work. It was a robe, and conveniently gray, even though I had no part in its creation. It was a little darker than the one I had been wearing.</p>
 <p>&quot;That robe was worn by the great sage Titiana a millennium ago,&quot; said Orsted. &quot;It&#x27;s made from a Death Adder Rat&#x27;s skin, woven with magically imbued thread. It has high magic resistance and is stab-proof. It likely became a magical item after being left in a labyrinth for an extended period, where it developed the ability to reduce the wearer&#x27;s weight by half, meaning one can move like the wind if needed. Since you cannot use Battle Aura, it should prove useful.&quot;</p>
 <p>If his words were to be believed, it was quite the incredible item.</p>
 <p>&quot;So…&quot; I licked my lips. &quot;What kind of price would something like this fetch?&quot;</p>

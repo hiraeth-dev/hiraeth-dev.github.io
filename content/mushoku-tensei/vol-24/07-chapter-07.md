@@ -18,17 +18,17 @@ nav_title = "Chapter 7"
 <p>&quot;I&#x27;ll talk to the doctors in charge next,&quot; he said, then went to interrogate the medical team. He asked the two doctors from Asura how they&#x27;d examined the patients and what they planned on doing next.</p>
 <p>&quot;We&#x27;re going to use detoxification magic in conjunction with medicine and see how things go.&quot;</p>
 <p>&quot;So much for the doctors of the Asura Kingdom, huh?&quot; Cliff said, snorting. The doctor and I stared at him in disbelief. Such arrogance…!</p>
-<p>Maybe the Superd&#x27;s reaction to him <em>was</em> getting under his skin. Had he just always been like this?</p>
+<p>Maybe the Superd&#x27;s reaction to him was getting under his skin. Had he just always been like this?</p>
 <p>&quot;If that were enough to find a cure, Rudeus or Orsted would have cured them long ago.&quot;</p>
 <p>&quot;Then what do you suggest, Master Cliff?&quot;</p>
-<p>&quot;That&#x27;s what I&#x27;m going to investigate now,&quot; he replied. The doctor scowled. <em>Whoa there, Mister Doctor, settle down. If it all goes wrong, blame him all you like then. Right now, let&#x27;s just settle down.</em></p>
+<p>&quot;That&#x27;s what I&#x27;m going to investigate now,&quot; he replied. The doctor scowled. Whoa there, Mister Doctor, settle down. If it all goes wrong, blame him all you like then. Right now, let&#x27;s just settle down.</p>
 <p>I was uneasy, though. He&#x27;d seemed so reliable earlier, but was he? Norn seemed unsure as well. She glanced anxiously at us from where she sat nursing Ruijerd across the room.</p>
 <p>&quot;All right, then. Rudeus, let&#x27;s go outside,&quot; Cliff said. We left the doctors and went out of the hall.</p>
 <p>Cliff stopped just after we left the hall to go over our results.</p>
 <p>&quot;I learned one thing. I talked to an elder and even that guy said the Superd Tribe has never had this sickness before.&quot;</p>
 <p>&quot;Never? How old is the elder?&quot;</p>
 <p>&quot;Over a thousand years old.&quot;</p>
-<p>Superd folks lived for a <em>really</em> long time…</p>
+<p>Superd folks lived for a really long time…</p>
 <p>&quot;They were infected after coming to this land. My conclusion is that the source of the disease is in the land itself.&quot;</p>
 <p>&quot;Is it possible the Man-God brought in poison?&quot;</p>
 <p>&quot;It&#x27;s not that. My eye would see that sort of thing,&quot; Cliff said, tapping his temple on the side of the eyepatch. We set off around the village. Our first stop was the field. Cliff took off his eyepatch and went through the area, checking every vegetable growing there. Some he broke open to look at their insides. He cracked open a juicy tomato right there in front of me.</p>
@@ -53,7 +53,7 @@ nav_title = "Chapter 7"
 <p>&quot;Hmm.&quot; Cliff went through all the houses in the same way. I don&#x27;t think he found anything decisive. It was more instructive about the Superd culture than anything else.</p>
 <p>&quot;Um, Cliff?&quot;</p>
 <p>&quot;There&#x27;s nothing to worry about, Rudeus. They weren&#x27;t afraid of me, they were just afraid of the robes. If I cure this disease while wearing the robes, it&#x27;ll change their minds. Right?&quot;</p>
-<p><em>Would it be that simple?</em> I wondered. The little girl from before might change her thinking, at least. I hoped it <em>was</em> that easy.</p>
+<p>Would it be that simple? I wondered. The little girl from before might change her thinking, at least. I hoped it was that easy.</p>
 <p>&quot;Right, next,&quot; Cliff said. We went around each location in the village. The spring in the center, the well, the storehouse, the materials shed, and finally the trash heap outside the village.</p>
 <p>Cliff looked over each of them with painstaking exactitude. His face was grave as he rummaged through the trash heap and picked through the rotten beast meat. Who knew what the Eye of Identification was showing him? All I could do was answer his questions. We looked over the whole village until the sun had fully set, then we went back to the hall.</p>
 <p>&quot;So what do you think, Cliff?&quot;</p>
@@ -71,15 +71,15 @@ nav_title = "Chapter 7"
 <p>&quot;I didn&#x27;t detect anything lurking in the earth or the water.&quot;</p>
 <p>&quot;The Eye of Identification tells you all that?&quot;</p>
 <p>&quot;Yes. We can trust their food, at least.&quot;</p>
-<p>So the food was all clear. That was Kishirika&#x27;s Demon Eye for you. It&#x27;d instantly pick up any food that would give you food poisoning or worse<em>.</em></p>
-<p>&quot;Only, they all display like this,&quot; Cliff said, then recited, <em>&quot;A tastylookin&#x27; tomato packed full of highly concentrated mana.&quot;</em></p>
+<p>So the food was all clear. That was Kishirika&#x27;s Demon Eye for you. It&#x27;d instantly pick up any food that would give you food poisoning or worse.</p>
+<p>&quot;Only, they all display like this,&quot; Cliff said, then recited, &quot;A tastylookin&#x27; tomato packed full of highly concentrated mana.&quot;</p>
 <p>Apparently, the Eye of Identification used colloquial language.</p>
 <p>&quot;It&#x27;s not just the vegetables. It&#x27;s the soil and the water too. They&#x27;re all packed with extremely highly concentrated mana.</p>
 <p>&quot;It&#x27;s come back with &#x27;packed with highly concentrated mana&#x27; in Millis before too. But it&#x27;s very rare, and never for the soil or the water.&quot;</p>
-<p><em>Concentrated mana, huh?</em> Come to think of it, Aisha had said that the rice she planted in soil I made grew well. Maybe that was because of the highly concentrated mana.</p>
+<p>Concentrated mana, huh? Come to think of it, Aisha had said that the rice she planted in soil I made grew well. Maybe that was because of the highly concentrated mana.</p>
 <p>&quot;What does that mean?&quot;</p>
 <p>&quot;I have a question for you. Was there much agriculture on the Demon Continent?&quot;</p>
-<p>&quot;I don&#x27;t know how the Superd lived on the Demon Continent, but I hardly saw any vegetables there. There aren&#x27;t <em>none</em>, but there aren&#x27;t many varieties. Meat is the staple.&quot;</p>
+<p>&quot;I don&#x27;t know how the Superd lived on the Demon Continent, but I hardly saw any vegetables there. There aren&#x27;t none, but there aren&#x27;t many varieties. Meat is the staple.&quot;</p>
 <p>&quot;Just as I thought,&quot; Cliff said. He raised a finger, then started to explain his hypothesis. &quot;When you plant vegetables in mana-rich soil, the produce you grow will also be mana-rich. But there are a lot of different kinds of soil. I imagine the soil on the Demon Continent is just as mana-rich but has no nutrients. Vegetables won&#x27;t grow there.</p>
 <p>&quot;We don&#x27;t see this kind of disease in the Great Forest, so this forest must be special. The soil here is extremely high in nutrients and bursting with mana, just like the water. The result is mana-rich plants. There being only one species of monster here may be related, but the root cause isn&#x27;t important right now.</p>
 <p>&quot;The thing is, under normal circumstances, none of this should be an issue. We go about our daily lives without thinking about things like this. If it&#x27;s related, we should see similar cases cropping up all over the place. Under normal circumstances, we&#x27;re able to cleanly expel the mana we take in. The Superd shouldn&#x27;t be too different.</p>
@@ -99,7 +99,7 @@ nav_title = "Chapter 7"
 <p>&quot;It&#x27;s…a poison?&quot;</p>
 <p>&quot;Well, I say poison, but its only effect is to stop a magician who imbibes it from using magic.&quot;</p>
 <p>If I took that it&#x27;d literally be lethal… Could I really give the Superd something like that?</p>
-<p>&quot;According to the Eye of Identification, it was taken together with Sokas Tea long ago. The Eye says, <em>It enhances the effect of Sokas Grass and goes well with tea, creating a pleasant sense of intoxication</em>.&quot;</p>
+<p>&quot;According to the Eye of Identification, it was taken together with Sokas Tea long ago. The Eye says, It enhances the effect of Sokas Grass and goes well with tea, creating a pleasant sense of intoxication.&quot;</p>
 <p>In other words, Kishirika didn&#x27;t see it as poison.</p>
 <p>&quot;The problem is,&quot; Cliff went on, &quot;I don&#x27;t know what will happen if I give it to the Superd now. If my hypothesis is correct, this will cure them. But it could also have the opposite effect.&quot;</p>
 <p>I felt sure it&#x27;d be okay…but if it made the plague any worse, people could die. There was no guarantee.</p>
@@ -122,7 +122,7 @@ nav_title = "Chapter 7"
 <p>It spoke volumes to Ruijerd Superdia&#x27;s importance in this village that not one person argued with him.</p>
 <p>&quot;Okay then, Ruijerd. You&#x27;ll take the medicine. I&#x27;ll tell you in advance: there&#x27;s a chance it&#x27;ll make you worse. You might die.&quot;</p>
 <p>&quot;That&#x27;s fine. I&#x27;ve lived a good life. I can die without regret.&quot;</p>
-<p><em>What about my regrets? This isn&#x27;t for the Superd Tribe. It&#x27;s for</em> you, <em>Ruijerd. See? Look at the face Norn is making. She agrees.</em></p>
+<p>What about my regrets? This isn&#x27;t for the Superd Tribe. It&#x27;s for you, Ruijerd. See? Look at the face Norn is making. She agrees.</p>
 <p>The room went silent again until another man raised his hand. &quot;If Ruijerd is taking it, I&#x27;ll take it too.&quot; He was young, with comparatively mild symptoms. Actually, for all I knew he was an old man. &quot;Ruijerd saved me on the Demon Continent. I would have died back then. Nothing can scare me after that.&quot;</p>
 <p>This opened the floodgates. Hands went up with more and more people saying, &quot;Me too.&quot;</p>
 <p>In the end, even the village elder raised his hand. &quot;The Millis Church can&#x27;t be trusted, but Ruijerd is our champion. Whatever our champion decides, I&#x27;ll follow.&quot; He turned to us and said softly, &quot;Young churchman, I am sorry for my discourtesy earlier. Please, save our village.&quot;</p>
@@ -132,7 +132,7 @@ nav_title = "Chapter 7"
 <p>&quot;…&quot;</p>
 <p>I could tell Norn wanted to stay at Ruijerd&#x27;s bedside, but she couldn&#x27;t do anything while he was asleep, so she came with me.</p>
 <p>Norn and I were sitting by the fire. We didn&#x27;t speak. There were only two sounds: the crackling of the burning logs and the bubbling of the simmering water in the pot in the back of the hearth. Potatoes and meat brought by the medical team simmered away. Cliff said it was probably fine, but as you might imagine, I wasn&#x27;t keen on eating food that might be poisoning everyone.</p>
-<p>&quot;Rudeus, Ruijerd is going to get better, right?&quot; asked Norn suddenly. She must&#x27;ve been worried. <em>I</em> was worried.</p>
+<p>&quot;Rudeus, Ruijerd is going to get better, right?&quot; asked Norn suddenly. She must&#x27;ve been worried. I was worried.</p>
 <p>&quot;Yeah, he will.&quot;</p>
 <p>&quot;Really?&quot;</p>
 <p>&quot;I&#x27;ve never known Cliff to fail once he&#x27;s set his mind to something. He might not be able to do it tomorrow, but he&#x27;ll cure them in the end.&quot;</p>
@@ -146,7 +146,7 @@ nav_title = "Chapter 7"
 <p>Norn looked up so that just half her face was visible. &quot;…I already graduated,&quot; she said.</p>
 <p>&quot;About that, I wanted…um, I&#x27;m sorry I couldn&#x27;t be there.&quot;</p>
 <p>I&#x27;d missed it. No one had told me. Now I thought about it, Sylphie&#x27;d had the baby…yeah, it was already graduation season.</p>
-<p><em>Roxy could have told me, at least…</em> No, okay, if she&#x27;d reminded me and I couldn&#x27;t go, it would&#x27;ve just weighed on me.</p>
+<p>Roxy could have told me, at least… No, okay, if she&#x27;d reminded me and I couldn&#x27;t go, it would&#x27;ve just weighed on me.</p>
 <p>&quot;You didn&#x27;t have to come. It&#x27;s fine,&quot; Norn said.</p>
 <p>I wasn&#x27;t having that—this was Norn&#x27;s graduation ceremony! How could I have missed such an important event? What was I supposed to tell Paul up in heaven?</p>
 <p>&quot;I wasn&#x27;t even top of my class…&quot;</p>
@@ -168,7 +168,7 @@ nav_title = "Chapter 7"
 <p>&quot;The moment Rimi saw the competitors were mostly boys, she announced, &#x27;The victor gets a passionate kiss from President Norn!&#x27;&quot;</p>
 <p>&quot;What?!&quot;</p>
 <p>&quot;Everyone was so excited. I wanted to back out, but I couldn&#x27;t.&quot;</p>
-<p><em>What the hell?</em> A tournament to win a kiss from Norn? You couldn&#x27;t do that. It was <em>evil</em>. Outrageous. If I&#x27;d been there, I&#x27;d have put on a mask, competed in the tournament, and kicked all their little… Strike that. That was a bit of an overreaction.</p>
+<p>What the hell? A tournament to win a kiss from Norn? You couldn&#x27;t do that. It was evil. Outrageous. If I&#x27;d been there, I&#x27;d have put on a mask, competed in the tournament, and kicked all their little… Strike that. That was a bit of an overreaction.</p>
 <p>&quot;And so…did you do it?&quot;</p>
 <p>There was a long pause. &quot;On the cheek.&quot;</p>
 <p>Well, that wasn&#x27;t so dangerous after all. Norn had turned scarlet and buried her face in her knees, moaning with embarrassment. I guess to her it&#x27;d been a lot. After a little while, she flopped down onto the floor.</p>
@@ -197,19 +197,19 @@ nav_title = "Chapter 7"
 <p><em>Poop talk first thing in the morning… Wait, what was that about light blue diarrhea?</em></p>
 <p>&quot;We&#x27;re in the process of administering it to everyone, adjusting the infusion as we go. Wow, were we idiots to doubt him! I mean, this is genius stuff. Cliff Grimor, breaker of curses! Oh, gosh, I can&#x27;t hang around here. I&#x27;ve still got work to do. I&#x27;d better be off!&quot; After this one-sided announcement, the doctor ran off back to the patients.</p>
 <p>I didn&#x27;t remember mentioning any curse-breaking. I guess that was how Cliff introduced himself.</p>
-<p>Anyway, light blue diarrhea? That reminded me of something. What was it? <em>Light blue… Light blue…</em></p>
+<p>Anyway, light blue diarrhea? That reminded me of something. What was it? Light blue… Light blue…</p>
 <p>&quot;Rudeus.&quot; I realized a large shadowy figure was standing in front of me. A man dressed in white with a black helmet.</p>
 <p>&quot;Did you see their excrement?&quot;</p>
 <p>&quot;Uh, not yet.&quot;</p>
 <p>Orsted bent down a little to whisper in my ear. &quot;Those were the dead offshoots of Abyssal King Vita.&quot;</p>
-<p>Abyssal King Vita. That name conjured up an odd thought. What if only <em>what if</em>, mind you—the plague wasn&#x27;t Dryne syndrome?</p>
+<p>Abyssal King Vita. That name conjured up an odd thought. What if only what if, mind you—the plague wasn&#x27;t Dryne syndrome?</p>
 <p>Abyssal King Vita had spread his offshoots throughout the village, and in doing so, he had stalled the progress of the disease. I&#x27;d thought that Vita was just numbing them to the symptoms while leaving the plague unchecked… What if Vita had cured the plague long ago? Then he&#x27;d used his offshoots to make the villagers sick, just to scare them. When he died, he summoned the last of his power to make the offshoots keep working their poison. The red berries and Sokas Tea had broken them down in the patients&#x27; intestines or wherever they&#x27;d been lodged and flushed them out… Maybe. I mean, that was all just conjecture.</p>
 <p>&quot;We simply had to be persistent. Just like you said.&quot;</p>
 <p>&quot;Just like I said,&quot; I replied.</p>
-<p><em>Well, whatever.</em> For now, the crisis was over. Abyssal King Vita had been defeated completely. That&#x27;s how I was going to look at it.</p>
+<p>Well, whatever. For now, the crisis was over. Abyssal King Vita had been defeated completely. That&#x27;s how I was going to look at it.</p>
 <p>&quot;What&#x27;s Cliff doing?&quot;</p>
 <p>&quot;He was up all night observing the patients, but he fell asleep around dawn. He&#x27;ll be in the empty house nearby with Elinalise Dragonroad.&quot;</p>
-<p><em>You don&#x27;t say? Cliff really gave everything he had. Let&#x27;s leave him to rest up.</em> Even if he was bound to get straight to work on kid number two with Elinalese when he woke up, he&#x27;d need that energy.</p>
+<p>You don&#x27;t say? Cliff really gave everything he had. Let&#x27;s leave him to rest up. Even if he was bound to get straight to work on kid number two with Elinalese when he woke up, he&#x27;d need that energy.</p>
 <p>&quot;Ruijerd Superdia just woke up too,&quot; Orsted went on.</p>
 <p>&quot;Really?!&quot;</p>
 <p>&quot;He did. You should go and see him.&quot;</p>
@@ -218,7 +218,7 @@ nav_title = "Chapter 7"
 <p>After a time, Ruijerd looked up and said, &quot;Rudeus.&quot;</p>
 <p>&quot;Ruijerd, you&#x27;re… Are you better now?&quot;</p>
 <p>&quot;Yes. I can&#x27;t swing a spear yet, but I am better.&quot;</p>
-<p><em>All right. Thank goodness… I&#x27;m so glad…</em> I wasn&#x27;t mimicking Norn —that was all I could think.</p>
+<p>All right. Thank goodness… I&#x27;m so glad… I wasn&#x27;t mimicking Norn —that was all I could think.</p>
 <p>&quot;I am indebted to you again.&quot;</p>
 <p>&quot;Don&#x27;t mention it. Besides, we don&#x27;t know that you&#x27;re fully cured yet. Don&#x27;t get complacent.&quot;</p>
 <p>&quot;Indeed.&quot;</p>

@@ -12,8 +12,8 @@ nav_title = "Chapter 4"
 <p>They were called Invisible Wolves. Just what it said on the box. In the center of the village sat a spring, and nearby a group of people gathered around a big cooking pot getting food ready. Their culture really was similar to the Migurds. But everyone who hailed from the Migurd Tribe looked like a junior high school student with blue hair. Here, everyone had a red gemstone on their forehead and hair of an emerald-green hue.</p>
 <p>They were Superd.</p>
 <p>Here, I made a new and surprising discovery. Superd didn&#x27;t just all have red gemstones on their foreheads and emerald-green hair… They were also all beautiful. In this world, people tended to consider stronger, betterdefined features attractive. Still, the Superd were beautiful. They weren&#x27;t typical slender hunks or babes, but they were all good-looking.</p>
-<p>There was a girl over there with a bob who was <em>super</em> cute. She was slim, although she wasn&#x27;t that tall. Her shoulders were muscular, her eyes were full of determination. Decently large breasts, too. It was like someone had combined Eris and Sylphie&#x27;s best points…</p>
-<p><em>Wait, it&#x27;s not like that! I&#x27;m not thinking about cheating. Just looking objectively</em>.</p>
+<p>There was a girl over there with a bob who was super cute. She was slim, although she wasn&#x27;t that tall. Her shoulders were muscular, her eyes were full of determination. Decently large breasts, too. It was like someone had combined Eris and Sylphie&#x27;s best points…</p>
+<p>Wait, it&#x27;s not like that! I&#x27;m not thinking about cheating. Just looking objectively.</p>
 <p>A village of beauties. This was diabolical. Aha! The People of the Forest were devils after all! Here was the proof!</p>
 <p>&quot;This place is terrifying,&quot; I said under my breath.</p>
 <p>&quot;…Uh-huh.&quot; Dohga grunted in agreement.</p>
@@ -37,7 +37,7 @@ nav_title = "Chapter 4"
 <p>&quot;Nearly there. Keep moving.&quot; We arrived at a house, prodded along by our Superd guide. It looked like the oldest one here, but it was also the biggest in the village. Classic village-chief template.</p>
 <p>&quot;Chief, it is I. I bring visitors for Ruijerd,&quot; said the Superd man. He opened the door to reveal a hall. It looked more like an auditorium or a meeting hall than a chief&#x27;s house.</p>
 <p>Inside were five Superd. They were more subdued than the lone one who had brought us here, which made me think they were elderly. It was hard to guess their age when all of them had the same green hair, pale skin, and beautiful features.</p>
-<p>One of the five jumped to his feet as I entered the room. That familiar traditional costume. The scar on his face. The white spear. The forehead protector I knew so well. His hair had grown out, so he wasn&#x27;t bald anymore. <em>This time</em> there was no question.</p>
+<p>One of the five jumped to his feet as I entered the room. That familiar traditional costume. The scar on his face. The white spear. The forehead protector I knew so well. His hair had grown out, so he wasn&#x27;t bald anymore. This time there was no question.</p>
 <p>&quot;Ruijerd!&quot; I cried, breaking into a smile. I was so glad to see him after all this time that I wanted to run over to him, but I restrained myself and stopped after just a few steps.</p>
 <p>But Ruijerd looked at me with suspicion in his eyes. &quot;Rudeus…?&quot;</p>
 <p>Had he forgotten me? That&#x27;d be heartbreaking.</p>
@@ -51,12 +51,12 @@ nav_title = "Chapter 4"
 <p>&quot;Ruijerd…&quot; I was tearing up. My memories of our time together were coming back to me. When we first met, he&#x27;d been alone. He hadn&#x27;t looked it, first with the Migurd and then traveling with us, but he&#x27;d been alone all the same.</p>
 <p>Not anymore, though.</p>
 <p>&quot;Congratulations. You found the Superd.&quot;</p>
-<p>&quot;I did,&quot; Ruijerd agreed, his eyes crinkling into a smile. Here, he was surrounded by people like him. Well, not <em>exactly</em> like him—the other four here were a bit grim—but Ruijerd looked happy among them.</p>
+<p>&quot;I did,&quot; Ruijerd agreed, his eyes crinkling into a smile. Here, he was surrounded by people like him. Well, not exactly like him—the other four here were a bit grim—but Ruijerd looked happy among them.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-24/insert-03.webp" alt="Illustration" loading="lazy" />
 </div>
 <p>&quot;But Rudeus,&quot; he went on, &quot;why are you here?&quot;</p>
-<p><em>Oops, that&#x27;s right.</em> I &#x27;hadn&#x27;t come here for a teary reunion. I couldn&#x27;t sit around reminiscing about old times.</p>
+<p>Oops, that&#x27;s right. I &#x27;hadn&#x27;t come here for a teary reunion. I couldn&#x27;t sit around reminiscing about old times.</p>
 <p>I sat down facing Ruijerd and arranged my face into a serious expression. &quot;It&#x27;s a long story, and there&#x27;s a lot I want to ask you. Do you have time?&quot;</p>
 <p>Ruijerd paused, then said, &quot;Chief?&quot;</p>
 <p>At the very back of the hall sat a man dressed more luxuriously than the other four. The chief, no doubt. He looked troubled by Ruijerd&#x27;s question.</p>
@@ -78,8 +78,8 @@ nav_title = "Chapter 4"
 <p>They traveled on and on, seeking a land where humans feared to tread, where they could live their lives in peace. At last, they found this place: the Forest of No Return, beyond the Earthwyrm Ravine.</p>
 <p>Thanks to the Earth Dragons, large monsters didn&#x27;t come near. All that lived in the forest were the invisible monsters. Of course, Invisible Wolves were easily as strong as your standard monster. Their invisibility was an incredible advantage; three of them could easily wipe out an adventuring party.</p>
 <p>But the Superd, with their third eyes, had no trouble seeing the invisible monsters. While Invisible Wolves were tough, they were no match for the Superd, who had lived on the Demon Continent. Compared to the monsters there, these wolves were practically tame. And so, the Superd settled in the Forest of No Return.</p>
-<p>They ran into problems, as was to be expected. There were humans nearby, and just because humans didn&#x27;t usually go into the forest, that didn&#x27;t mean <em>never</em>. Not long after the Superd began living in the forest, a human village sprang up nearby. The villagers began to frequent the forest and occasionally came dangerously close to the Superd&#x27;s home. The Superd chief drew up an agreement that they would bring down the number of monsters in the forest and keep them from going near the village, and that they would protect any villagers who became lost in the forest.</p>
-<p>In the villagers&#x27; story, <em>they&#x27;d</em> been here first, but that was a minor inaccuracy. This was two or three hundred years ago, so the villagers&#x27; version had to be wrong. The Superd who&#x27;d made the agreement was still alive. The Superd kept a safe distance from the village, and they all got along fine…until the upheaval caused by the plague upset the balance.</p>
+<p>They ran into problems, as was to be expected. There were humans nearby, and just because humans didn&#x27;t usually go into the forest, that didn&#x27;t mean never. Not long after the Superd began living in the forest, a human village sprang up nearby. The villagers began to frequent the forest and occasionally came dangerously close to the Superd&#x27;s home. The Superd chief drew up an agreement that they would bring down the number of monsters in the forest and keep them from going near the village, and that they would protect any villagers who became lost in the forest.</p>
+<p>In the villagers&#x27; story, they&#x27;d been here first, but that was a minor inaccuracy. This was two or three hundred years ago, so the villagers&#x27; version had to be wrong. The Superd who&#x27;d made the agreement was still alive. The Superd kept a safe distance from the village, and they all got along fine…until the upheaval caused by the plague upset the balance.</p>
 <p>&quot;The kingdom is going to destroy this village,&quot; I told Ruijerd. I told him about the rumors circulating in the Biheiril Kingdom and what the king was going to do.</p>
 <p>&quot;That&#x27;s what they have planned, is it…?&quot; The chief and the others reacted to my news with despair. There was no resolve to stand against the invaders coming to destroy them, only miserable resignation. Their heads drooped. They looked defeated.</p>
 <p>&quot;Then we won&#x27;t be able to live here any longer…&quot;</p>
@@ -101,7 +101,7 @@ nav_title = "Chapter 4"
 <p>At the very least, the Biheiril Kingdom had no reason to wipe out the Superd. Without them, the Invisible Wolves would spill out of the forest and destroy the human village. I didn&#x27;t know how far Invisible Wolves roamed, but attacks might even threaten the Second City of Irelil. They could claim ignorance about the Superd if necessary. That would be more beneficial than killing them all.</p>
 <p>&quot;And if things don&#x27;t work out with the Biheiril Kingdom, you can always move to my friend&#x27;s country.&quot;</p>
 <p>The Asura Kingdom would be a tough sell. At the end of the day, the Millis Church was too big there. But there was a vast forest on Asura&#x27;s northern border that didn&#x27;t belong to any nation.</p>
-<p>If they weren&#x27;t <em>technically</em> within the borders and didn&#x27;t do any harm, the Asuran branch of the Millis Church couldn&#x27;t complain. Besides, Ariel had connections with an outlaw band in the northern forest. Maybe they could come to a friendly roommate-like arrangement. Although then Ariel might try and use them for her own purposes…</p>
+<p>If they weren&#x27;t technically within the borders and didn&#x27;t do any harm, the Asuran branch of the Millis Church couldn&#x27;t complain. Besides, Ariel had connections with an outlaw band in the northern forest. Maybe they could come to a friendly roommate-like arrangement. Although then Ariel might try and use them for her own purposes…</p>
 <p>&quot;You&#x27;re sure about all this?&quot;</p>
 <p>&quot;Can we even trust this man?&quot;</p>
 <p>&quot;Any friend of Ruijerd&#x27;s…&quot;</p>
@@ -124,7 +124,7 @@ nav_title = "Chapter 4"
 <p><em>It&#x27;s a wonderful thing, having a home… Crap, I&#x27;m gonna start crying again.</em></p>
 <p>&quot;You sit there,&quot; Ruijerd told me once we were inside.</p>
 <p>His house was simple. The layout reminded me of Migurd houses. There was a sort of sunken hearth in the center of the room, animal skins spread on the floor, and clothing and other bits and pieces hanging on the walls. It was divided into three portions. Ruijerd went into what looked like a storage room and I heard liquid sloshing around. He probably kept stores of food and water in there.</p>
-<p><em>What could the last one be?</em> I wondered. <em>A bedroom?</em></p>
+<p>What could the last one be? I wondered. A bedroom?</p>
 <p>It really was bare-bones. There might be animal skins piled on the floor, but the walls were bare wood. He could at least have put an Invisible Wolf on the wall as a trophy…</p>
 <p>My eye caught the Roxy pendant I&#x27;d given him hanging on the wall. He&#x27;d kept it all this time.</p>
 <p>I couldn&#x27;t help but notice how big the place was.</p>
@@ -137,8 +137,8 @@ nav_title = "Chapter 4"
 <p>&quot;You think I could marry?&quot;</p>
 <p><em>Oh, crap. That&#x27;s right, after what Ruijerd did to his wife and child… Probably not.</em></p>
 <p>&quot;I&#x27;m sorry,&quot; I said.</p>
-<p>&quot;Don&#x27;t apologize. I&#x27;m not still dwelling on the distant past. I don&#x27;t have a partner, that&#x27;s all.&quot; Ruijerd smiled. He sat down in front of me, as relaxed as if he were greeting family. &quot;What have <em>you</em> been doing?&quot;</p>
-<p><em>If I&#x27;d known I&#x27;d end up here, I&#x27;d have brought Eris…</em> No, that could wait until after this was all over. If we survived, we could come see Ruijerd any time. And everyone was working right now to make sure we all survived.</p>
+<p>&quot;Don&#x27;t apologize. I&#x27;m not still dwelling on the distant past. I don&#x27;t have a partner, that&#x27;s all.&quot; Ruijerd smiled. He sat down in front of me, as relaxed as if he were greeting family. &quot;What have you been doing?&quot;</p>
+<p>If I&#x27;d known I&#x27;d end up here, I&#x27;d have brought Eris… No, that could wait until after this was all over. If we survived, we could come see Ruijerd any time. And everyone was working right now to make sure we all survived.</p>
 <p>&quot;It&#x27;s a long story. Is that all right?&quot; I asked. I was going to wait until tomorrow, but there was no harm in filling Ruijerd in first. I was dying to tell him everything.</p>
 <p>&quot;Tell me,&quot; he said.</p>
 <p>&quot;Okay.&quot; I told him everything that had happened since we parted ways. About Paul&#x27;s death, my marriage to Roxy, and how I&#x27;d reunited with Eris and married her, too. Ruijerd listened amicably. His face darkened slightly at Paul&#x27;s death, but, maybe because I wasn&#x27;t particularly upset, he didn&#x27;t ask about it. Instead, he asked after Eris.</p>
@@ -155,24 +155,23 @@ nav_title = "Chapter 4"
 <p>&quot;…&quot;</p>
 <p>But he didn&#x27;t answer, and the silence lengthened further. He turned away from me, looking pained.</p>
 <p>&quot;Huh?&quot; I said. I hadn&#x27;t even considered that he might say no. I thought if I said Laplace&#x27;s name, Ruijerd would look at me, expressionless as always, and say &quot;I&#x27;ll be there,&quot; as though he&#x27;d known this day would come.</p>
-<p>But that wasn&#x27;t what happened. Ruijerd had turned away from me. It was a gesture of refusal. His body language was telling me <em>N.O.</em> in capital letters.</p>
-<p>One voice inside me was exclaiming <em>Are you serious?</em> but at the same time, another said <em>Yeah, fair enough</em>.</p>
+<p>But that wasn&#x27;t what happened. Ruijerd had turned away from me. It was a gesture of refusal. His body language was telling me N.O. in capital letters.</p>
+<p>One voice inside me was exclaiming Are you serious? but at the same time, another said Yeah, fair enough.</p>
 <p>Think about it. He&#x27;d found the Superd. His people. He would still bear a grudge against Laplace. He&#x27;d still be angry. But his battle was over. It had ended when he fought in the final, decisive bout of the Laplace War and took his revenge.</p>
 <p>Besides that, the Superd village was in peril. He couldn&#x27;t make any hasty promises, not until that was resolved.</p>
 <p>&quot;Is it the Superd village? If so, you can leave that to me. In the years since I saw you last, I&#x27;ve made a lot of connections. I can make people see things my way now.&quot;</p>
 <p>Apparently, I was wrong. But I couldn&#x27;t bring myself to give up. I wanted an answer now, so I searched for something I could use to persuade him. What had his life been after Laplace&#x27;s defeat? What did he want, and what was he trying to reach? Was it to protect the Superd? To keep his people safe after he&#x27;d spent so long searching for them? I assumed so. But there was one more big thing.</p>
 <p>&quot;Then…is it about restoring the Superd&#x27;s honor? The Kingdom of Asura and the Blessed Child of Millis are both fighting against Laplace. If you fought alongside them, that fact would go a long way to restoring your —&quot;</p>
 <p>&quot;That&#x27;s not it.&quot; I&#x27;d been convinced I was right, but Ruijerd shut me down.</p>
-<p>&quot;Then what?&quot; Without a word, Ruijerd stood up. There was something like <em>hostility</em> in his eyes, but it was mixed with confusion and indecision.</p>
+<p>&quot;Then what?&quot; Without a word, Ruijerd stood up. There was something like hostility in his eyes, but it was mixed with confusion and indecision.</p>
 <p>Perhaps there was some other reason that I didn&#x27;t know about.</p>
 <p>&quot;Rudeus, come with me,&quot; he said, then took the spear leaning against the wall and headed for the front door. I jumped to my feet and hurried after him. We&#x27;d talked for so long that it was now pitch dark outside. The moon was just visible through the gaps in the trees, but I couldn&#x27;t even see my own feet.</p>
 <p>Ruijerd left the village. I pulled out a Lamplight Spirit scroll to illuminate my surroundings. Ruijerd walked ahead in the dark as if to say he had no need for light. We reached a clearing in the forest, and he stopped.</p>
 <p>&quot;Rudeus.&quot;</p>
 <p>&quot;Yes?&quot; He was about to tell me something I didn&#x27;t want to hear. Unpleasant possibilities filled my mind.</p>
 <p>&quot;Back at the meeting, I told a lie,&quot; he said. I didn&#x27;t say anything. &quot;The Elders believe that lie to be true.&quot;</p>
-<p><em>A lie</em>.</p>
-<p>&quot;The plague wasn&#x27;t cured. The medicine didn&#x27;t work. We aren&#x27;t on the road to any kind of recovery.&quot; I remembered the woman I&#x27;d seen</p>
-<p>coughing in the village, the atmosphere of sickness that had filled the village, and what Chandle had said about how few people there were. &quot;Right now,&quot; Ruijerd went on, &quot;all we&#x27;re doing is slowing its progression.&quot;</p>
+<p>A lie.</p>
+<p>&quot;The plague wasn&#x27;t cured. The medicine didn&#x27;t work. We aren&#x27;t on the road to any kind of recovery.&quot; I remembered the woman I&#x27;d seen coughing in the village, the atmosphere of sickness that had filled the village, and what Chandle had said about how few people there were. &quot;Right now,&quot; Ruijerd went on, &quot;all we&#x27;re doing is slowing its progression.&quot;</p>
 <p>&quot;How?&quot; I said at last. Ruijerd reached up to touch his forehead guard.</p>
 <p>&quot;With this.&quot; Underneath the band, I saw a red—no, the jewel wasn&#x27;t red. It was blue. The jewel on his forehead that should have been red had changed to a bright blue. It was surrounded by black markings. The sort of thing a fourteen-year-old kid might scrawl on their left hand.</p>
 <p>&quot;What…is that?&quot;</p>
@@ -181,7 +180,7 @@ nav_title = "Chapter 4"
 <p>&quot;I am possessed by Abyssal King Vita,&quot; he said.</p>
 <p>Abyssal King Vita: a resident of &quot;Hell,&quot; a labyrinth on the Divine Continent. A potential disciple of the Man-God.</p>
 <p>&quot;Abyssal King Vita split his body amongst the infected in the village. His offshoots are holding back the progress of the plague.&quot;</p>
-<p>&quot;If you&#x27;re…<em>possessed</em>…are you all right?&quot;</p>
+<p>&quot;If you&#x27;re…possessed…are you all right?&quot;</p>
 <p>&quot;I&#x27;ve had no abnormalities. The progress of the disease has slowed, and the symptoms have eased. That&#x27;s all.&quot;</p>
 <p>&quot;He hasn&#x27;t, for example, said anything to you?&quot;</p>
 <p>&quot;No.&quot;</p>
@@ -192,34 +191,33 @@ nav_title = "Chapter 4"
 <p>&quot;It was Geese.&quot;</p>
 <p><em>No…</em></p>
 <p>&quot;Geese said there would be a great battle in this country, and that he wanted me to help him when it happened. I said I would. I was reluctant to rely on a shadowy entity like Abyssal King Vita, but I was out of options. And the disease&#x27;s progress really slowed. Everyone was saved.&quot; Ruijerd smiled ruefully. &quot;Only, I never imagined Geese&#x27;s enemy in that battle would be you…&quot;</p>
-<p>My heart was pounding. I <em>had</em> briefly considered that Ruijerd might have turned against me. Now that it was happening, my pulse wouldn&#x27;t stop racing.</p>
+<p>My heart was pounding. I had briefly considered that Ruijerd might have turned against me. Now that it was happening, my pulse wouldn&#x27;t stop racing.</p>
 <p>&quot;The plague wasn&#x27;t totally cured. I was told that if Abyssal King Vita dies, his offshoots die as well. If that happens, the village will be consumed by sickness again.&quot;</p>
 <p>I didn&#x27;t say anything. &quot;I have to fight you,&quot; Ruijerd said with the same earnest expression he always wore. &quot;Not because I want to, of course. Without you, I never would have made it here. I&#x27;d still be wandering the Demon Continent with a head full of foolish ideas.&quot;</p>
 <p>&quot;I owe you so much, Ruijerd. I don&#x27;t want to fight you.&quot;</p>
 <p>&quot;We must. It&#x27;s a tale that&#x27;s repeated since time began.&quot;</p>
 <p>&quot;Yeah, I bet.&quot; Two people indebted to one another become enemies. It tortures them, but they fight until one dies, and the survivor is left with a gaping hole in their heart. The same story probably recurs every time there&#x27;s a war.</p>
-<p>But surely <em>this time</em> was different. Surely <em>this time</em> there was something I could do. We were the exception—that was it, we had to be the exception. There was a way to avoid fighting. If our reason to fight went away, for example. I just had to eliminate it. If only I knew what it was.</p>
-<p>Orsted and the Man-God were one reason, but I couldn&#x27;t betray Orsted at this point. This was about Ruijerd and me. The reason Ruijerd had to fight me: his people, his fellow Superd. If there were no more Superd no, that was monstrous. Then it clicked. It was the plague. The plague that</p>
-<p>was devouring the Superd. If I worked out how to cure it, I&#x27;d get all the Superd on my side.</p>
+<p>But surely this time was different. Surely this time there was something I could do. We were the exception—that was it, we had to be the exception. There was a way to avoid fighting. If our reason to fight went away, for example. I just had to eliminate it. If only I knew what it was.</p>
+<p>Orsted and the Man-God were one reason, but I couldn&#x27;t betray Orsted at this point. This was about Ruijerd and me. The reason Ruijerd had to fight me: his people, his fellow Superd. If there were no more Superd no, that was monstrous. Then it clicked. It was the plague. The plague that was devouring the Superd. If I worked out how to cure it, I&#x27;d get all the Superd on my side.</p>
 <p>&quot;If I found a way to fully cure the plague, would you betray them and join me?&quot;</p>
 <p>Ruijerd&#x27;s face darkened slightly at the word &quot;betray.&quot; His gaze was intense, but I didn&#x27;t look away. Geese might have called first dibs on Ruijerd, but Ruijerd had told me about it. If he were fully on Geese&#x27;s side, he could have just killed me without saying anything. Ruijerd was unsure. That was why he&#x27;d brought me here.</p>
 <p>Ruijerd&#x27;s mouth twisted and his brow furrowed. I thought of myself as his friend, and I was sure he thought the same way about me. But he also felt obligated to Geese—and by extension the Man-God, who gave Geese his orders—for saving his people. Ruijerd was a man of conscience, after all.</p>
 <p>&quot;I told you that the Man-God betrayed me,&quot; I said. &quot;There&#x27;s no way to guarantee he won&#x27;t do the same to the Superd. Even Geese was betrayed. The Man-God killed all his people. Geese followed him after that. It&#x27;s possible that, once the battle is over, Abyssal King Vita will just pick up and leave, and the Superd will die out anyway.&quot;</p>
-<p>Even if <em>you</em> felt a debt to the Man-God, chances were high he&#x27;d ultimately betray you anyway. The Man-God was an asshole like that. Coming from me, it was just enemy speculation, but I couldn&#x27;t leave Ruijerd in the dark about what he&#x27;d signed up for.</p>
+<p>Even if you felt a debt to the Man-God, chances were high he&#x27;d ultimately betray you anyway. The Man-God was an asshole like that. Coming from me, it was just enemy speculation, but I couldn&#x27;t leave Ruijerd in the dark about what he&#x27;d signed up for.</p>
 <p>He didn&#x27;t say anything, just looked at me in silence. We gazed at each other for a while, until at last Ruijerd spoke.</p>
 <p>&quot;If such a cure really exists, then yes. I want to fight at your side too.&quot;</p>
 <p>&quot;Ruijerd…!&quot; I cried, a sigh of relief bursting out of me.</p>
 <p><em>Thank god. This isn&#x27;t going to turn into us killing each other.</em></p>
-<p>&quot;But <em>is</em> there such a cure?&quot;</p>
+<p>&quot;But is there such a cure?&quot;</p>
 <p>&quot;Orsted knows all sorts of things about the world. If I ask him, he might know something.&quot;</p>
 <p>But would Orsted tell me? He hadn&#x27;t told me before this. He hadn&#x27;t even told me that the Superd were here.</p>
 <p>I&#x27;d ask him properly about all of it. I could worry about whether to fight Ruijerd after that.</p>
 <p>&quot;Look, I&#x27;m sure there&#x27;s a way to counter it. Please, give me some time before you start calling me your enemy.&quot;</p>
 <p>I was putting the problem off. That wasn&#x27;t a good move. There&#x27;d still be time for us to be enemies later, if it turned out there was nothing to be done.</p>
 <p>&quot;Orsted came here once, before Geese.&quot;</p>
-<p>&quot;What?&quot; The sudden revelation threw me. <em>Orsted was here? When?</em></p>
+<p>&quot;What?&quot; The sudden revelation threw me. Orsted was here? When?</p>
 <p>&quot;Around two years ago, when people were first getting sick. He did nothing. We didn&#x27;t know of his connection to you, of course, so we drove him away… If what you&#x27;ve said is true, you and he were already allies then.&quot;</p>
-<p><em>What the hell? What the</em> hell<em>?</em></p>
+<p>What the hell? What the hell?</p>
 <p>&quot;Are you really sure you can trust him?&quot;</p>
 <p>Orsted hadn&#x27;t told me about the Superd. Until now, there&#x27;d been a slim chance he hadn&#x27;t known, but that was gone. Trust… A cure… Impossible. I didn&#x27;t know what to do.</p>
 <p>Even so, I replied, &quot;I am.&quot;</p>
@@ -231,6 +229,6 @@ nav_title = "Chapter 4"
 <p>&quot;Ruijerd?!&quot; I ran over to him, frantic. Next moment, his head snapped up and he grabbed my shoulder.</p>
 <p>Something was wrong. Something had changed in Ruijerd&#x27;s face. His eyes were completely blue. The whites, the irises, and the pupils had all turned a deep blue. His mouth hung half open. He looked incoherent. The gem on his forehead had regained its red coloration, but the markings around it emitted a disturbing glow. When I saw that, it clicked.</p>
 <p>&quot;You&#x27;re being controlled?!&quot;</p>
-<p>Shit. He&#x27;d <em>clearly</em> told me he was possessed. Just because he said nothing had happened up until now, that didn&#x27;t mean I should have jumped into this conversation.</p>
+<p>Shit. He&#x27;d clearly told me he was possessed. Just because he said nothing had happened up until now, that didn&#x27;t mean I should have jumped into this conversation.</p>
 <p>By the time I realized that, it was already too late. Ruijerd&#x27;s face drew close to mine and he kissed me. Liquid flowed into my mouth and then, squirming like a living creature, it slithered down my throat.</p>
 <p><strong>Chapter 5: Abyssal King Vita</strong></p>

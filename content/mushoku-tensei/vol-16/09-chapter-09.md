@@ -28,8 +28,7 @@ nav_title = "Chapter 9"
 <p>&quot;If you don&#x27;t mind, could you fill me in on what you mean by the Man-God failing?&quot;</p>
 <p>&quot;Hmph. Indeed.&quot; Orsted adjusted his posture and glared at me, eyes molten. If he scowled any harder, they might start glowing and shooting laser beams at me. Pew, pew! &quot;Perugius confirmed that these teleportation circles of his are unusable, yes?&quot;</p>
 <p>&quot;Correct, boss-man sir.&quot;</p>
-<p>&quot;Boss-man sir…?&quot; Orsted paused before continuing, &quot;There are not many of these circles within Asura&#x27;s borders. Most were placed</p>
-<p>so that royals and nobles could escape if they ever found themselves backed into a corner. Among them, several are already nonfunctional, and those are the ones Perugius has made use of.&quot;</p>
+<p>&quot;Boss-man sir…?&quot; Orsted paused before continuing, &quot;There are not many of these circles within Asura&#x27;s borders. Most were placed so that royals and nobles could escape if they ever found themselves backed into a corner. Among them, several are already nonfunctional, and those are the ones Perugius has made use of.&quot;</p>
 <p>Huh, interesting. So they&#x27;re like a secret escape route for the royal family.</p>
 <p>&quot;Thus, you have your answer,&quot; he said.</p>
 <p>I see. So that&#x27;s my answer… Like hell it is! That&#x27;s no answer at all!</p>
@@ -40,8 +39,7 @@ nav_title = "Chapter 9"
 <p>&quot;Okay, I get where you&#x27;re going with this. And?&quot;</p>
 <p>&quot;…Use your head a little.&quot;</p>
 <p>&quot;Yes, sir.&quot;</p>
-<p>Okay, let&#x27;s go over this. The culprit, who was either a royal or high-ranking aristocrat with the authority to enter a restricted area, had suddenly cut off their own lifeline by destroying all the circles that acted as escape routes for them. Not to mention these were already non-functioning circles that Perugius might use to travel. The possibility that the Man-God orchestrated all this seemed astronomically high. A normal citizen had no reason to destroy a magic circle. That meant one of his apostles was either a royal or</p>
-<p>someone in a position to manipulate the royal family. The most likely candidates for that role were…</p>
+<p>Okay, let&#x27;s go over this. The culprit, who was either a royal or high-ranking aristocrat with the authority to enter a restricted area, had suddenly cut off their own lifeline by destroying all the circles that acted as escape routes for them. Not to mention these were already non-functioning circles that Perugius might use to travel. The possibility that the Man-God orchestrated all this seemed astronomically high. A normal citizen had no reason to destroy a magic circle. That meant one of his apostles was either a royal or someone in a position to manipulate the royal family. The most likely candidates for that role were…</p>
 <p>&quot;First Prince Grabel or High Minister Darius. One of them is the Man-God&#x27;s apostle?&quot;</p>
 <p>&quot;Indeed. The spread of those circles across the kingdom implicates the involvement of High Minister Darius, since his private soldiers are scattered throughout the nation.&quot;</p>
 <p>Ooh, now I am starting to see the bigger picture! I had no idea he had a private army dispersed throughout Asura, but it makes sense!</p>
@@ -63,8 +61,7 @@ nav_title = "Chapter 9"
 <p>&quot;Dispose of,&quot; as in &quot;kill&quot;? That was harsh, especially considering how close we&#x27;d grown over the past few weeks, including the incident where I&#x27;d walked in on her while she was changing. But if Orsted was willing to stake that much on her not being the Man-God&#x27;s apostle, I should probably trust him.</p>
 <p>Hm. In that case, maybe I should share information about him with Ariel? His curse didn&#x27;t seem to have as much of an effect on her, and if she wasn&#x27;t one of the Man-God&#x27;s apostles, it might be better to disclose everything to her. That way, she could work with us to keep an eye on Luke.</p>
 <p>Nah, best not to do that. Like Sylphie, she trusted him implicitly. She would never believe that he would work for her destruction. And Luke was only doing what he thought was best for her. Bringing up the Man-God would be kicking the hornet&#x27;s nest. Luke wasn&#x27;t Ariel&#x27;s enemy. Being manipulated by the Man-God hadn&#x27;t changed his allegiance. He was only doing things that sounded like a good idea to him, despite the fact that they were anything but.</p>
-<p>Right now, Orsted considered him a mere spy who observed my actions and reported them to the Man-God. He wouldn&#x27;t do anything to directly harm Ariel. However, he might end up acting on the Man-God&#x27;s advice to do something that seemed like it would help Ariel on the surface but would ultimately lead to her doom. That&#x27;s what truly</p>
-<p>made him dangerous. I could understand Orsted&#x27;s instinctive desire to kill him.</p>
+<p>Right now, Orsted considered him a mere spy who observed my actions and reported them to the Man-God. He wouldn&#x27;t do anything to directly harm Ariel. However, he might end up acting on the Man-God&#x27;s advice to do something that seemed like it would help Ariel on the surface but would ultimately lead to her doom. That&#x27;s what truly made him dangerous. I could understand Orsted&#x27;s instinctive desire to kill him.</p>
 <p>&quot;Sir Orsted,&quot; I said suddenly.</p>
 <p>&quot;What?&quot;</p>
 <p>&quot;There is something I would like to clear with you, just to be on the safe side, regarding how I should approach our battle with the Man-God. Do you mind if I pick your brain?&quot;</p>
@@ -194,8 +191,7 @@ nav_title = "Chapter 9"
 <p>&quot;Yep.&quot;</p>
 <p>So that was why the two were having a row. Sylphie was trying to be considerate of Roxy, and if I had less on my plate to deal with, then I could spend more time with her. She&#x27;d really thought this through. Still, I was shocked she&#x27;d managed to persuade Eris without having to throw down. Eris sure had matured. She was no longer the same girl who pummeled people indiscriminately. If you made a wellreasoned argument, she would actually hear you out.</p>
 <p>&quot;And that&#x27;s why she said I could have you tonight,&quot; Eris said.</p>
-<p>Perhaps I spoke too soon—apparently, Eris had set her own conditions. Even so, it was still impressive that she agreed to Sylphie&#x27;s proposal. She had mellowed out. She had been so selfcentered all those years ago. Now, that was gone. Her raging passion had cooled, and her clenched fists would no longer find their way to</p>
-<p>faces. The berserker princess was dead, the wild monkey silenced, the mad wolf claimed by eternal sleep. The Eris who had bared her teeth at everyone was gone forever…</p>
+<p>Perhaps I spoke too soon—apparently, Eris had set her own conditions. Even so, it was still impressive that she agreed to Sylphie&#x27;s proposal. She had mellowed out. She had been so selfcentered all those years ago. Now, that was gone. Her raging passion had cooled, and her clenched fists would no longer find their way to faces. The berserker princess was dead, the wild monkey silenced, the mad wolf claimed by eternal sleep. The Eris who had bared her teeth at everyone was gone forever…</p>
 <p>Nah, this is probably an exception.</p>
 <p>It was just like Sylphie to give up her turn with me as part of their agreement, setting aside her own desires. I would have to do my best to shower her with kindness while we were on our trip.</p>
 <p>Preoccupied with those thoughts, I wrapped my arms around Eris. Almost immediately, she began tearing my clothes off.</p>
@@ -233,8 +229,7 @@ nav_title = "Chapter 9"
 <p>&quot;Uh, you think so?&quot; I shrugged.</p>
 <p>&quot;Out of nowhere, you asked us to start building this insanely powerful armor for you. Midway through creating it, you began giving us extremely specific advice. You wouldn&#x27;t even share who you were going up against, and then we find out it&#x27;s one of the Seven Great—&quot;</p>
 <p>Zanoba was interrupted mid-sentence by the door swinging open. A staff member entered, carrying our drinks. Zanoba flinched and snapped his mouth shut, quietly waiting for them to finish distributing the beverages. Once they left, he resumed the conversation. While I suspected they had reserved this room to keep our conversation private, their attitudes made it clear it was partly out of fear of Orsted.</p>
-<p>&quot;We find out your opponent is one of the Seven Great Powers, the Dragon God Orsted,&quot; Zanoba finished. &quot;And not only that, since</p>
-<p>you went all-out in battle, you completely decimated an entire forest!&quot;</p>
+<p>&quot;We find out your opponent is one of the Seven Great Powers, the Dragon God Orsted,&quot; Zanoba finished. &quot;And not only that, since you went all-out in battle, you completely decimated an entire forest!&quot;</p>
 <p>&quot;Nah, it&#x27;s still there. Well, half of it is, anyway,&quot; I said.</p>
 <p>Zanoba ignored my defense and continued, &quot;And after all that, you capitulated.&quot;</p>
 <p>&quot;I had no other choice.&quot;</p>
@@ -279,8 +274,7 @@ nav_title = "Chapter 9"
 <p>&quot;My explanation? What do you mean?&quot;</p>
 <p>I cleared my throat. &quot;Ahem, it&#x27;s as you said, Master Cliff. I plan to eventually take Orsted down. But it&#x27;s too early to make a move right now. I&#x27;ll have to bide my time and do as he asks.&quot;</p>
 <p>&quot;What? Are you sure about that? Then what about the conversation we just had?&quot;</p>
-<p>I shrugged. &quot;Wishful thinking aloud. It&#x27;d be nice if that were the truth.&quot; Once Cliff saw Orsted in person, he would likely be in the</p>
-<p>same boat as Zanoba. It was better to play along with his little theory. &quot;With that in mind,&quot; I continued, &quot;I would appreciate your continued cooperation in the future.&quot;</p>
+<p>I shrugged. &quot;Wishful thinking aloud. It&#x27;d be nice if that were the truth.&quot; Once Cliff saw Orsted in person, he would likely be in the same boat as Zanoba. It was better to play along with his little theory. &quot;With that in mind,&quot; I continued, &quot;I would appreciate your continued cooperation in the future.&quot;</p>
 <p>&quot;I will have your back, Master. In preparation for the next battle with Orsted, I will make armor that even Julie could wear.&quot;</p>
 <p>&quot;Great. Looking forward to it.&quot; I had no intention of making Julie fight, of course, but knowing he was motivated to go that far was enough.</p>
 <p>&quot;With that out of the way, there is something else I would like to ask of you,&quot; I said, turning to Cliff.</p>
@@ -338,8 +332,7 @@ nav_title = "Chapter 9"
 <p>&quot;W-we had a brief interaction a long time ago,&quot; he mumbled. &quot;I don&#x27;t feel anything for her now.&quot;</p>
 <p>Ah, so he&#x27;d had a small encounter with her years ago… Odds were she had completely forgotten he existed. That wouldn&#x27;t be surprising, knowing Eris.</p>
 <p>&quot;The more important matter here is you, Rudeus. I told you this before, but women aren&#x27;t collectibles.&quot; Cliff launched into a long, drawn-out sermon. &quot;You can&#x27;t just bring in a bunch of them to wait on you hand and foot…&quot;</p>
-<p>Once the three of us were sufficiently drunk, Zanoba was the one who launched into sexy talk. The conversation started about the wife that he&#x27;d married years before, but turned into a horror story midway before finally transitioning into a series of complaints about</p>
-<p>how she couldn&#x27;t understand his dolls. Cliff and I joined in with anecdotes about Eris and Elinalise. Both were monsters in bed, so we could sympathize with one another&#x27;s plight.</p>
+<p>Once the three of us were sufficiently drunk, Zanoba was the one who launched into sexy talk. The conversation started about the wife that he&#x27;d married years before, but turned into a horror story midway before finally transitioning into a series of complaints about how she couldn&#x27;t understand his dolls. Cliff and I joined in with anecdotes about Eris and Elinalise. Both were monsters in bed, so we could sympathize with one another&#x27;s plight.</p>
 <p>Sadly, Zanoba quickly grew bored with this conversation, so we switched over to discussing my Magic Armor instead. When I began relaying the details of how I wore it in my fight with Orsted, the two of them listened eagerly, eyes alight with fascination. Apparently giant robot versus super monster was a universally entertaining trope.</p>
 <p>In the course of this, I mentioned how Orsted had restored my missing arm. Without the prosthetic, I could feel up my wives&#x27; chests to my heart&#x27;s content, but on the flipside, my strength had taken a serious hit. I could no longer do the same strenuous work that I could when I used the prosthetic arm.</p>
 <p>&quot;We&#x27;ll make another one right now!&quot; Cliff declared, reaching over to grab Zanoba and myself by the arm.</p>
@@ -449,8 +442,7 @@ nav_title = "Chapter 9"
 <p>However, she quickly enough found herself bored with nothing to do. She and Cliff had been having sex regularly despite her swollen belly, but with him gone, there was no way for her to satisfy her carnal urges. In fact, since she was pregnant, they were no worse than normal. She figured she would be fine skipping a day, and so she left their abode to visit the Greyrat Residence in order to check in on Sylphie and Roxy.</p>
 <p>She arrived to find a group of five ladies throwing their own drinking party. &quot;Oh, dear me, seems you girls are up to something fun.&quot;</p>
 <p>&quot;Ah, Grandma!&quot; Sylphie beamed. &quot;Your tummy sure has gotten big. Is my little brother in there? Or will I get a little sister? Oh, wait… If Cliff is basically my father, then that makes Rudy… Uh, um…&quot;</p>
-<p>When Elinalise walked in, Sylphie was in the midst of feeling up Eris&#x27;s boobs from behind. For her part, Eris ignored Sylphie, eyes glued to the food she was silently shoving into her mouth as she</p>
-<p>nursed her drink. Zenith was sitting nearby, acting as Eris&#x27;s personal drink refiller. Beside her, Lilia was chugging away from her own mug, with Roxy topping off her glass whenever it grew empty.</p>
+<p>When Elinalise walked in, Sylphie was in the midst of feeling up Eris&#x27;s boobs from behind. For her part, Eris ignored Sylphie, eyes glued to the food she was silently shoving into her mouth as she nursed her drink. Zenith was sitting nearby, acting as Eris&#x27;s personal drink refiller. Beside her, Lilia was chugging away from her own mug, with Roxy topping off her glass whenever it grew empty.</p>
 <p>&quot;Miss Roxy,&quot; said Lilia, &quot;why…why is it that my daughter can&#x27;t earn Lord Rudeus&#x27;s love as well?!&quot;</p>
 <p>&quot;He does love her.&quot; Disappointed as she was that she couldn&#x27;t join in because of her pregnancy, Roxy still humored Lilia with an earnest response.</p>
 <p>&quot;I wonder if that&#x27;s really true…&quot;</p>
@@ -460,8 +452,7 @@ nav_title = "Chapter 9"
 <p>Lilia shot up straighter. &quot;Someone even better than Lord Rudeus?!&quot;</p>
 <p>&quot;Well, it would be difficult to find a man better than Rudy… When you put it like that, I really hit it big, didn&#x27;t I? Like buying up a prime spot of land for pocket change before everyone realizes its value and the price shoots up…&quot;</p>
 <p>Watching them, Elinalise remembered how single girls from the Adventurers&#x27; Guild would gather to throw parties. Those lamenting how they couldn&#x27;t snag a good man would regularly meet up to get drunk and make merry before ultimately getting told off by the bartender and ending up on the streets after closing hour, where they&#x27;d nod off till morning.</p>
-<p>Elinalise would eagerly join those girls from the Adventurers&#x27; Guild when she could. She had nothing to fear; unlike them, she</p>
-<p>never lacked for male partners. The only reason she participated was so she could enjoy some alcohol with a group of people.</p>
+<p>Elinalise would eagerly join those girls from the Adventurers&#x27; Guild when she could. She had nothing to fear; unlike them, she never lacked for male partners. The only reason she participated was so she could enjoy some alcohol with a group of people.</p>
 <p>&quot;Rudeus would weep if he could see you girls like this. The only time a girl is supposed to get this inebriated is in her partner&#x27;s company, when it&#x27;s just the two of them,&quot; she said.</p>
 <p>&quot;Aw, don&#x27;t say stuff like that, Grandma,&quot; said Sylphie. &quot;Oh, hey. You&#x27;re always teaching Roxy how to do stuff in bed, right? Why won&#x27;t you teach me anything, huh? How come?&quot;</p>
 <p>&quot;Oh, Sylphie, honestly…you are completely wasted. But as for why I have never taught you anything, it&#x27;s because Rudeus will be more turned on by you if he thinks you&#x27;re an innocent girl who doesn&#x27;t know anything about sex.&quot;</p>
@@ -481,8 +472,7 @@ nav_title = "Chapter 9"
 <p>&quot;Yeah! He acts way more motivated the morning after we&#x27;ve slept together. Ehehe!&quot;</p>
 <p>It took Elinalise about an hour to catch up with Sylphie&#x27;s high energy.</p>
 <p>That night, four of the women drank themselves into oblivion, guzzling down drinks as they let out all the negative feelings they&#x27;d built up. Their anxiety around Rudeus doing so many things in secret lately. Their suspicions about the Man-God and Orsted. And yet, they were all optimistic that it would somehow work out. It was with that whirlwind of emotions that they knocked back their drinks and enjoyed themselves in drunken bliss.</p>
-<p>Roxy and Elinalise, who remained sober, were kind enough to humor the others and their numerous complaints until they</p>
-<p>eventually nodded off. It was they who cast detoxification magic on the others. When all was done at last, Elinalise returned to her home while Roxy retreated to her room. The latter made preparations for school tomorrow before slipping into bed.</p>
+<p>Roxy and Elinalise, who remained sober, were kind enough to humor the others and their numerous complaints until they eventually nodded off. It was they who cast detoxification magic on the others. When all was done at last, Elinalise returned to her home while Roxy retreated to her room. The latter made preparations for school tomorrow before slipping into bed.</p>
 <p>There was only one girl in the household who couldn&#x27;t participate in their little party and sulkily slept the night away, but Roxy wouldn&#x27;t even realize they&#x27;d left her out until the following morning.</p>
 <p>***</p>
 <p>When my eyes cracked open, I found myself clinging to Zanoba. It should go without saying, but no homo—I only did this because I got totally smashed last night. That was some good alcohol we&#x27;d had. Honestly, I never got the point of drinking with a bunch of other men in my previous life, but it turned out that hanging with a bunch of guys I liked made the alcohol taste that much better.</p>
@@ -547,8 +537,7 @@ nav_title = "Chapter 9"
 <p>Which reminds me, I have a favor to ask of her.</p>
 <p>&quot;Eris.&quot;</p>
 <p>&quot;What?&quot;</p>
-<p>Perhaps it was thanks to the sun on the walk back, but my head was clearer than before and my body felt lighter too. All I needed</p>
-<p>was another glass of water and I&#x27;d be good to go. One big glass! And while I was in the mood, it was the perfect time to ask.</p>
+<p>Perhaps it was thanks to the sun on the walk back, but my head was clearer than before and my body felt lighter too. All I needed was another glass of water and I&#x27;d be good to go. One big glass! And while I was in the mood, it was the perfect time to ask.</p>
 <p>&quot;If you&#x27;re going to do some training, how about having a mock battle with me? You know, like you and Ruijerd used to do while we were traveling together. Haven&#x27;t done that in a long time.&quot;</p>
 <p>For a moment, she stared vacantly at me, but she soon recovered and flashed a grin. &quot;Sounds good! I&#x27;ll pound you into the ground like I used to!&quot;</p>
 <p>&quot;Ulp… Well, I&#x27;ll try my best to keep up.&quot;</p>
@@ -575,8 +564,7 @@ nav_title = "Chapter 9"
 <p>&quot;Yep, got it!&quot;</p>
 <p>She lifted her wooden sword, holding it high above her head, her favorite pose since childhood. However, things were different now. The moment she took that pose, the air around her settled. The tense, cocky aura about her disappeared in an instant. Panicked, I dropped into a fighting stance and gripped my staff, unleashing my Eye of Foresight.</p>
 <p>&quot;Whenever you&#x27;re r—&quot;</p>
-<p>Before I could get the word out, Eris&#x27;s figure blurred. By the time I finished the sentence, a force struck my right shoulder. I dropped</p>
-<p>my staff before I could register what had happened and went sprawling. The next thing I knew, I was staring at the sky. There was a delay before the pain hit, shooting through my shoulder.</p>
+<p>Before I could get the word out, Eris&#x27;s figure blurred. By the time I finished the sentence, a force struck my right shoulder. I dropped my staff before I could register what had happened and went sprawling. The next thing I knew, I was staring at the sky. There was a delay before the pain hit, shooting through my shoulder.</p>
 <p>&quot;Agh… Urk…&quot;</p>
 <p>I couldn&#x27;t move my right arm at all, which made me suspect she&#x27;d shattered my shoulder blade. I managed to reach my left hand over and started chanting, &quot;Let this divine power be as satisfying nourishment, giving one who has lost their strength the strength to rise again! Healing!&quot; Slowly, the pain subsided.</p>
 <p>Eris appeared in my field of vision, still holding her sword above her head with a confused look on her face, as if to say, &quot;What now? Can I strike you again?&quot;</p>
@@ -678,8 +666,7 @@ nav_title = "Chapter 9"
 <p>&quot;Ahem.&quot; Roxy cleared her throat, interrupting my thoughts. &quot;Well, Rudy, since your departure is fast approaching, I think it&#x27;s about time you decided on a name for the baby.&quot;</p>
 <p>&quot;Isn&#x27;t thinking up a baby&#x27;s name before going off on an adventure kind of an ill omen?&quot; I said.</p>
 <p>&quot;That&#x27;s a superstition born of a human hero&#x27;s story, right? It has nothing to do with the Migurd Tribe.&quot;</p>
-<p>Oof, she&#x27;d rejected that outright. But an ill omen was still an ill omen. Still, if my goddess said it was nothing to worry about, there</p>
-<p>was no need to buy into the superstition. I would do as my goddess bid me.</p>
+<p>Oof, she&#x27;d rejected that outright. But an ill omen was still an ill omen. Still, if my goddess said it was nothing to worry about, there was no need to buy into the superstition. I would do as my goddess bid me.</p>
 <p>&quot;In our village, it&#x27;s the tribe leader&#x27;s job to pick a name,&quot; said Roxy. &quot;And you&#x27;re the leader of our household, right? So hurry up and make your decision.&quot;</p>
 <p>&quot;Are you sure you want me to make that choice all on my own?&quot;</p>
 <p>&quot;Of course. While you&#x27;re gone, I&#x27;ll be lovingly stroking my belly and calling our baby by whatever name you give it. That will bring me some happiness in your absence.&quot;</p>
@@ -704,8 +691,7 @@ nav_title = "Chapter 9"
 <p>We couldn&#x27;t simply slap our names together like that, though. Maybe we could change a vowel. Start the name off with, say… Re or Le instead.</p>
 <p>Re… Rerere…</p>
 <p>Oh, crap. That sounded just like old man Rerere from Tensai Bakabon. I could imagine our child humming &quot;Rerere&quot; to themselves as they swept the floor with their bamboo broom. There was nothing wrong with wanting things clean, but that was definitely not what we needed right now.</p>
-<p>I liked the sound of the name that Roxy recommended a moment ago—Lola. It made me picture a young woman who was anxious to experience the feverish passion of love. But that wouldn&#x27;t work either. I wanted something more…more Roxy-like. Something that sounded wise and yet endearing at the same time. I loved the way she turned when I called her name, and how she peered up at</p>
-<p>me, wearing a perfect poker face as she asked, &quot;Yes? What do you need?&quot; And that was exactly the kinda name I wanted for our child.</p>
+<p>I liked the sound of the name that Roxy recommended a moment ago—Lola. It made me picture a young woman who was anxious to experience the feverish passion of love. But that wouldn&#x27;t work either. I wanted something more…more Roxy-like. Something that sounded wise and yet endearing at the same time. I loved the way she turned when I called her name, and how she peered up at me, wearing a perfect poker face as she asked, &quot;Yes? What do you need?&quot; And that was exactly the kinda name I wanted for our child.</p>
 <p>Hmm, hmm… Hmm.</p>
 <p>La, Li, Lu, Le, Lo…which of them would be the best fitting for her baby?</p>
 <p>I got it!</p>
@@ -719,8 +705,7 @@ nav_title = "Chapter 9"
 <p>&quot;I know I acted like I wasn&#x27;t worried at all a few days ago, but…I expect you to come home safe and sound, okay? I want both of us to be able to hold this child together.&quot;</p>
 <p>&quot;Yes, ma&#x27;am!&quot;</p>
 <p>She didn&#x27;t have to tell me twice.</p>
-<p>Those indulgent days passed by quickly, and soon enough, we had to depart for the kingdom. There were eight of us in the party. Ariel&#x27;s group consisted of Luke, Sylphie, Ellemoi, and Cleane. Then there was Eris, Ghislaine, and me. We had a single carriage, which</p>
-<p>required two of our five horses to pull it. Ariel&#x27;s trappings were rather modest for the second princess of a country as great as Asura.</p>
+<p>Those indulgent days passed by quickly, and soon enough, we had to depart for the kingdom. There were eight of us in the party. Ariel&#x27;s group consisted of Luke, Sylphie, Ellemoi, and Cleane. Then there was Eris, Ghislaine, and me. We had a single carriage, which required two of our five horses to pull it. Ariel&#x27;s trappings were rather modest for the second princess of a country as great as Asura.</p>
 <p>To the outside world, it would look like we were gearing up to sneak into the country. In reality, we planned to access a forbidden teleportation circle to transport ourselves in. Despite the secretive nature of our mission, there was a whole crowd at the entrance of the city waiting to see us off. This group included the vice principal, officers of the student council, the general manager of the Magicians&#x27; Guild, the leader of the magical implement workshop, and a handful of other heads of organizations, along with representatives for nobility and royalty from the Three Magic Nations. They all swooped in one after the other to bid Ariel farewell.</p>
 <p>These guys don&#x27;t understand the definition of covert, do they? Just because you&#x27;re not throwing a party doesn&#x27;t mean it&#x27;s okay to gather en masse.</p>
 <p>Well, regardless, their presence here was proof that Ariel&#x27;s efforts to make connections in Ranoa had borne fruit. Perhaps a day would come when I would need to make use of those connections myself. Orsted was insanely powerful, but he didn&#x27;t have very good relations with others. I was on my own on that front. I decided to mingle with the others and pay my respects to them.</p>

@@ -42,8 +42,7 @@ nav_title = "Chapter 8"
 <p>&quot;That said, I have no desire to cross blades with you,&quot; said Perugius. &quot;If anyone resembling Laplace is born into your family, you should consult me first.&quot; He spoke as if trying to counsel me as he got up from his throne.</p>
 <p>I had no idea what &quot;consulting him&quot; would involve, but judging from his tone, it didn&#x27;t seem like he&#x27;d let Laplace slip away at all. Perhaps agreeing not to kill him outright and without warning was Perugius&#x27;s way of showing mercy.</p>
 <p>&quot;Now then,&quot; Perugius said, &quot;I will begin preparations for your teleportation circle. Wait in your room for a bit.&quot;</p>
-<p>I decided to pay a visit to Nanahoshi while the teleportation circle was being prepared, but she wasn&#x27;t in her usual room. I</p>
-<p>meandered through the halls wondering where she could have gone when I encountered Miss Yuzuru of Atonement, and asked her where Nanahoshi was. It turned out that at this time of the day she was busy learning about the practical application of teleportation circles. There was a lot of information to digest and remember, which had to be rough. I fully intended to pitch in to help in if she needed, but for the moment, I&#x27;d leave the potato chips and salted rice balls for her to find later. Some nostalgic food would be healing for the soul.</p>
+<p>I decided to pay a visit to Nanahoshi while the teleportation circle was being prepared, but she wasn&#x27;t in her usual room. I meandered through the halls wondering where she could have gone when I encountered Miss Yuzuru of Atonement, and asked her where Nanahoshi was. It turned out that at this time of the day she was busy learning about the practical application of teleportation circles. There was a lot of information to digest and remember, which had to be rough. I fully intended to pitch in to help in if she needed, but for the moment, I&#x27;d leave the potato chips and salted rice balls for her to find later. Some nostalgic food would be healing for the soul.</p>
 <p>After that, I went to my assigned room and waited patiently. Linia&#x27;s eyes lit up when she saw how opulent the rooms were. She wasted no time diving onto the plush couch.</p>
 <p>&quot;Haah,&quot; she sighed. &quot;You being unfazed I get, but Aisha being fearless is another story, Boss. Can&#x27;t believe she can act on equal footing with someone that terrifying, mew…&quot; Linia stretched out her body as she grumbled.</p>
 <p>I had no idea what Aisha had discussed with Perugius, but knowing her, everything must have gone well. Perugius seemed pretty chill about their encounter as well. My only worry was Aisha&#x27;s occasional propensity to say what she was thinking even if it was insensitive or offensive.</p>
@@ -52,7 +51,7 @@ nav_title = "Chapter 8"
 <p>&quot;Think so, mew? Sure he&#x27;s not just terrified of that big bad Dragon God boss you got behind ya? I haven&#x27;t met him myself, but he&#x27;s pretty scary, right? Cliff was a trembling mess, mew.&quot;</p>
 <p>&quot;Hey, knock that off! That&#x27;s not true at all!&quot; I snapped.</p>
 <p>Perugius could overhear every word of our conversation. This was the equivalent of squeezing water from a dirty dishrag into someone&#x27;s tea before serving it. Honestly! I couldn&#x27;t believe the nerve of her.</p>
-<p>Not long after that conversation, a grumpy Sylvaril showed up. As I suspected, she&#x27;d overheard us. &quot;Lord Perugius <em>is</em> a magnanimous man, and he thinks of you as a close friend,&quot; she said with added emphasis, as if to put me in my place.</p>
+<p>Not long after that conversation, a grumpy Sylvaril showed up. As I suspected, she&#x27;d overheard us. &quot;Lord Perugius is a magnanimous man, and he thinks of you as a close friend,&quot; she said with added emphasis, as if to put me in my place.</p>
 <p>There no was no need for that; I wasn&#x27;t getting ahead of myself. And I&#x27;d prefer it if she didn&#x27;t take what this idiot cat said seriously. Besides, it was a great honor being considered a friend by someone as awe-inspiring as Lord Perugius. I said as much to Sylvaril, trying to butter her up, but my attempt was apparently a little overdone because it did nothing to soften her bad mood. &quot;Preparations are complete, so please come this way,&quot; she said irritably as she ushered us out of the room.</p>
 <p>Sylvaril guided us to the basement of the fortress: it was the same dark, dank maze we&#x27;d descended into on our trip to the Demon Continent. In one of the dimly lit rooms we found Perugius and Nanahoshi standing side-by-side. Before them was, unsurprisingly, a teleportation circle. It wasn&#x27;t emitting any light; they must not have activated it yet.</p>
 <p>As I waited, wondering what the holdup could be, Nanahoshi took a deep breath, holding a magic crystal in her hands.</p>
@@ -108,7 +107,7 @@ nav_title = "Chapter 8"
 <p>Linia was right; Leo&#x27;s title wasn&#x27;t meaningless. He was very capable.</p>
 <p>With that decided, I used my earth magic to conjure a boat. The issue with my earth-crafting was that the more mana I concentrated into it, the heavier whatever I was trying to make became. However, by decreasing the intensity of mana that I used, I could also make something lighter. To construct a proper boat, I would need to use a honeycomb pattern and maintain mana density while shaping, making sure the center could contain air and give it buoyancy.</p>
 <p>It took a little more than an hour to complete the project. The end product was a misshapen square raft.</p>
-<p><em>Ah well, it floats, and its propulsion is entirely based on my own magic. This should suit us just fine</em>.</p>
+<p>Ah well, it floats, and its propulsion is entirely based on my own magic. This should suit us just fine.</p>
 <p>&quot;All right! Shall we be off?&quot;</p>
 <p>Linia looked uneasy. &quot;You sure this is gonna be okay, mew? Boss, did you run outta mana or something? I sure hope we don&#x27;t sink halfway there, mew…&quot;</p>
 <p>&quot;If it starts going under, we&#x27;ll stop midway and climb one of the trees and rest on the branches for a while,&quot; I said as I climbed aboard the raft. It lacked stability, but I could simply patch it up along the way.</p>
@@ -124,7 +123,7 @@ nav_title = "Chapter 8"
 <p>The whole village erupted into a great fuss upon spotting us. Warriors came rushing out, almost like bees swarming out of a hive, and they were all fully decked out.</p>
 <p>&quot;It&#x27;s a human male.&quot;</p>
 <p>&quot;Don&#x27;t tell me he&#x27;s the one who kidnapped the Sacred Beast…?&quot;</p>
-<p>&quot;Come to think of it, there <em>was</em> an incident just like this ten years ago.&quot;</p>
+<p>&quot;Come to think of it, there was an incident just like this ten years ago.&quot;</p>
 <p>As our raft drew closer, the beastfolk grew even more wary. The atmosphere was so tense that it seemed likely they might clap us in irons without any room for discussion.</p>
 <p><em>Oh boy, now what? They might capture me, strip me, and throw me in a cell again.</em></p>
 <p>Just as I was beginning to grow worried, Linia stood up.</p>
@@ -203,7 +202,7 @@ nav_title = "Chapter 8"
 <p>Would the same be true for Linia? Nah, I was sure she&#x27;d be the same until the day she died.</p>
 <p>The two young women standing behind Gyes chimed in, &quot;There&#x27;s no way a demon could be the savior, mew!&quot;</p>
 <p>&quot;Yeah! And he said he called the Sacred Beast to him with summoning magic. I&#x27;ll bet he used some weird sorcery to trick the Sacred Beast!&quot;</p>
-<p>Minitona and Tersuna sounded just like Gyes had in his younger days. <em>Weird. I was pretty sure in the past they were grateful to me for my help. I guess being around the other beastfolk for so long colored their view, huh?</em></p>
+<p>Minitona and Tersuna sounded just like Gyes had in his younger days. Weird. I was pretty sure in the past they were grateful to me for my help. I guess being around the other beastfolk for so long colored their view, huh?</p>
 <p>Their shift in attitude aside, they kind of had a point; I did use a magic circle devised by Perugius to summon Leo. The circle had conditions placed on it to make whoever was summoned from it completely obedient to me. Perhaps that had an impact on Leo, and his belief that my daughter was the savior was only a delusion.</p>
 <p>&quot;No, the chances of that are slim,&quot; said Gyes. &quot;If that were the case, Lord Rudeus would not come all the way to our village like this. He lives on the other side of the world. It would have been hard for us to track him down and do something about him. So he would have ignored the situation if he was planning anything underhanded.&quot;</p>
 <p>&quot;I-I guess so…&quot;</p>
@@ -213,10 +212,10 @@ nav_title = "Chapter 8"
 <p>&quot;He has spoken. Our job now is simply to obey.&quot;</p>
 <p>&quot;Woof!&quot; Leo barked, as if agreeing, then promptly placed his head on my lap.</p>
 <p>I instinctively stroked his head, and his expression turned to one of contentment. Minitona and Tersena looked entirely displeased, as if they found my actions impudent, but I ignored them. Back home we did this all the time.</p>
-<p>Still, I was surprised that they accepted what Leo had to say so readily. I guess Linia was right in the end. <em>In fact, I seem to recall Ghislaine saying something similar too.</em></p>
+<p>Still, I was surprised that they accepted what Leo had to say so readily. I guess Linia was right in the end. In fact, I seem to recall Ghislaine saying something similar too.</p>
 <p>&quot;That said, Lord Rudeus… Let&#x27;s see… yes, about fifteen years from now. When your child has matured, please bring her here. I would like to follow custom and conduct the Sacred Tree ceremony. I am sure it will be a difficult trek given that it takes about a year to travel from where you live, but I would still ask it of you. This is a part of our duty.&quot;</p>
 <p>&quot;Very well then.&quot;</p>
-<p>A ceremony, huh? I had no idea what that entailed exactly, but I assumed it was some kind of formality. <em>So we&#x27;re going to celebrate Lara reaching adulthood in fifteen years from now here in the Doldia Village, huh? I&#x27;ll have to write that down in my diary so I don&#x27;t forget.</em></p>
+<p>A ceremony, huh? I had no idea what that entailed exactly, but I assumed it was some kind of formality. So we&#x27;re going to celebrate Lara reaching adulthood in fifteen years from now here in the Doldia Village, huh? I&#x27;ll have to write that down in my diary so I don&#x27;t forget.</p>
 <p>At least that took care of the situation with Leo, and much more smoothly than I thought it would. I let out a breath. I wasn&#x27;t the only one relieved; I noticed the tension leave Gyes&#x27;s shoulders as well. The whole room seemed more relaxed.</p>
 <p>Gyes glanced over at Linia, who immediately flinched. &quot;Now tell me, why is our brazen little alley cat, Linia, staying with Lord Rudeus, hm?&quot;</p>
 <p>&quot;Oh,&quot; I said. &quot;About that, actually. You see, she tried to get into the trade business, but she ended up racking up a huge de—&quot;</p>
@@ -232,7 +231,7 @@ nav_title = "Chapter 8"
 <p>Minitona and Tersena were back to giving her dirty looks.</p>
 <p>&quot;She&#x27;s currently working at my place to return the money she owes,&quot; I explained.</p>
 <p>&quot;So what you mean, Lord Rudeus, is that she is currently your slave. Correct?&quot;</p>
-<p><em>Urk. Now that I think about it, she</em> is <em>Gyes&#x27;s daughter. I can only imagine how he feels as a father, hearing that his child has been turned into a slave. If it were me and I heard Lucie was a slave, I&#x27;d kill whoever owned her and set her free, no questions asked.</em></p>
+<p>Urk. Now that I think about it, she is Gyes&#x27;s daughter. I can only imagine how he feels as a father, hearing that his child has been turned into a slave. If it were me and I heard Lucie was a slave, I&#x27;d kill whoever owned her and set her free, no questions asked.</p>
 <p>Regardless, I couldn&#x27;t bring myself to lie.</p>
 <p>&quot;Effectively, I guess you could say that,&quot; I admitted reluctantly. &quot;But to be clear, I am most certainly not treating her like a slave. I&#x27;m just helping her get back on her feet, as a friend.&quot;</p>
 <p>Gyes shook his head. &quot;I don&#x27;t care whatever the circumstances are. She is the one who abandoned her duties for her ambition, only to end up in enormous debt and bring trouble to the door of our peoples&#x27; hero. I would be ashamed for anyone to even know she&#x27;s from our village. So please, feel free to do whatever you want with her.&quot;</p>
@@ -248,8 +247,7 @@ nav_title = "Chapter 8"
 <p>Someone to look after Leo, huh? I didn&#x27;t really think he needed that, but the Doldia Tribe did have their duty to fulfill. If they wanted to watch over him, I had no reason to refuse them. Besides, it would be a bigger problem for me if Linia did remain.</p>
 <p>&quot;However,&quot; Gyes continued, &quot;I do feel uneasy sending Linia by herself.&quot;</p>
 <p>I nodded. &quot;That makes sense.&quot;</p>
-<p>&quot;Boss, I&#x27;d really rather you not agree with him about that, mew…&quot; Linia grumbled miserably from behind me. Unfortunately for her, I understood where her father was coming from. It wasn&#x27;t</p>
-<p>because she was unreliable or anything…just that, lately, she was kinda leaning that way.</p>
+<p>&quot;Boss, I&#x27;d really rather you not agree with him about that, mew…&quot; Linia grumbled miserably from behind me. Unfortunately for her, I understood where her father was coming from. It wasn&#x27;t because she was unreliable or anything…just that, lately, she was kinda leaning that way.</p>
 <p>&quot;So one more person, then.&quot; Gyes stroked his chin thoughtfully. &quot;Let&#x27;s see… Ah yes, what about taking Minitona or Tersena with you to look after the Sacred Beast?&quot;</p>
 <p>The moment their names were mentioned, the two girls stepped forth, both fully decked out in leather armor with thick swords on their backs. They were both muscular with ample breasts. They&#x27;d been rather well endowed when they were younger, but they&#x27;d only matured since then. The beastfolk were the perfect tribe for any fan of big chests.</p>
 <p>&quot;I&#x27;ll go, mew,&quot; said Minitona.</p>
@@ -261,7 +259,7 @@ nav_title = "Chapter 8"
 <p>&quot;That&#x27;s not true at all, Tona. You big liar!&quot;</p>
 <p>&quot;You&#x27;re the liar, Tersena!&quot;</p>
 <p>The two reminded me of Linia and Pursena, each defending their own position.</p>
-<p><em>Oh yeah, come to think of it…</em> &quot;Has Pursena not made it back home yet?&quot; I asked.</p>
+<p>Oh yeah, come to think of it… &quot;Has Pursena not made it back home yet?&quot; I asked.</p>
 <p>***</p>
 <p>&quot;This way.&quot;</p>
 <p>I was led to a building at the edge of the village. It was a familiar place for me, at least. Truly familiar. I had once lived here myself before. It was quite a comfortable little spot, although I did end up sharing it with a roommate at one point—a middle-aged man with a monkey&#x27;s face. It had been a nice accommodation even so. The security was top-notch and—okay, yeah. Enough of the jokes. Basically, they brought me to the jail.</p>

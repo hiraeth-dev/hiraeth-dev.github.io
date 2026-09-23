@@ -7,7 +7,7 @@ badge = "CH.6"
 nav_title = "Chapter 6"
 +++
 
-<p><strong>I</strong>N A NORMALLY QUIET CORNER of the University of Magic, a <em>suggestive</em>  conversation was taking place.</p>
+<p><strong>I</strong>N A NORMALLY QUIET CORNER of the University of Magic, a suggestive  conversation was taking place.</p>
 <p>&quot;No. I said no!&quot;</p>
 <p>The place: a small building known to certain students as the &quot;P.E. storage shed.&quot;</p>
 <p>In front of its door, a young man had seized a blue-haired girl by the arm.</p>
@@ -21,10 +21,10 @@ nav_title = "Chapter 6"
 <p>This was a quiet corner of the campus, but that didn&#x27;t mean it was deserted. There were several people in the area.</p>
 <p>But when the girl shot them pleading glances, everyone simply looked away.</p>
 <p>There was a simple reason for this: They were afraid of the young man harassing her. He was the most infamous delinquent in this entire city.</p>
-<p>It wasn&#x27;t that they didn&#x27;t <em>want</em> to help the girl. But they all knew that any attempt at intervention would likely be pointless, and might well cost them dearly. None were brave enough to risk it.</p>
+<p>It wasn&#x27;t that they didn&#x27;t want to help the girl. But they all knew that any attempt at intervention would likely be pointless, and might well cost them dearly. None were brave enough to risk it.</p>
 <p>&quot;Think it over for a minute, okay? This is a win-win arrangement we&#x27;re talking about. You might not like the idea right now, but in the long run, we&#x27;re both going to benefit.&quot;</p>
 <p>&quot;Well…I suppose, yes…&quot;</p>
-<p>&quot;Hey, how about this? If you do this for me, I&#x27;ll do anything <em>you</em> want in return.&quot;</p>
+<p>&quot;Hey, how about this? If you do this for me, I&#x27;ll do anything you want in return.&quot;</p>
 <p>&quot;Ugh… Look, I…I just…&quot;</p>
 <p>As the girl&#x27;s resolve faltered, the young man pressed his advantage ruthlessly. He moved in closer, nearly pressing his mouth to her ear, as he whispered honeyed words.</p>
 <p>The girl&#x27;s face was growing redder by the moment. Fiddling with her long, braided hair, she looked down at the ground in embarrassment.</p>
@@ -33,7 +33,7 @@ nav_title = "Chapter 6"
 <p>&quot;Ooooh! It&#x27;s Sir Luke!&quot;</p>
 <p>&quot;Silent Fitz is here, too!&quot;</p>
 <p>The relieved onlookers recognized these new arrivals immediately. They were Luke and Fitz of the student council.</p>
-<p>&quot;Sir Luke is so <em>dashing!</em> What perfect timing!&quot;</p>
+<p>&quot;Sir Luke is so dashing! What perfect timing!&quot;</p>
 <p>&quot;Take me now, Luke!&quot;</p>
 <p>&quot;Is it just me, or has Fitz gotten a lot cuter lately?&quot;</p>
 <p>&quot;Man, I never would have guessed she was a girl…&quot;</p>
@@ -44,19 +44,19 @@ nav_title = "Chapter 6"
 <p>Having confirmed these facts, Luke turned around and started walking back the way he&#x27;d came.</p>
 <p>&quot;Fitz, you deal with this, please.&quot;</p>
 <p>Scratching at her ears awkwardly, Fitz nodded. &quot;Right.&quot;</p>
-<p>As the young knight left the scene, Roxy let out a long sigh of her own. &quot;A female <em>student</em>? Really?&quot;</p>
+<p>As the young knight left the scene, Roxy let out a long sigh of her own. &quot;A female student? Really?&quot;</p>
 <p>&quot;You can&#x27;t blame them, Teacher,&quot; said Rudeus, nodding indulgently. &quot;Most of the students aren&#x27;t aware that you&#x27;re a professor yet.&quot; At this point, he looked over at Silent Fitz for support—and found her looking displeased, puffing her cheeks out slightly. &quot;Hm? What&#x27;s the matter, Sylphie?&quot;</p>
 <p>&quot;Look, Rudy. I know Roxy is your wife, but that doesn&#x27;t mean you can force her to do something she doesn&#x27;t want to. Sometimes a girl just isn&#x27;t in the mood, you know?&quot;</p>
 <p>&quot;Huh? Uh, right. Absolutely,&quot; said Rudeus, looking a bit nonplussed.</p>
-<p>&quot;Honestly…&quot; Fitz muttered. &quot;Maybe she&#x27;s better at this stuff, but you <em>could</em> try asking me instead…&quot;</p>
+<p>&quot;Honestly…&quot; Fitz muttered. &quot;Maybe she&#x27;s better at this stuff, but you could try asking me instead…&quot;</p>
 <p>&quot;Wait. Hold on. Could this be—&quot;</p>
 <p>Suddenly, Rudeus&#x27; eyes lit up. Stepping quickly over to Fitz, he poked at her cheek with his finger; she responded by turning her head the other way, and puffing out her cheeks even further.</p>
-<p>&quot;It is! It is! You&#x27;re <em>jealous,</em> Sylphie!&quot;</p>
+<p>&quot;It is! It is! You&#x27;re jealous, Sylphie!&quot;</p>
 <p>With this exclamation, he threw his arms around Fitz and squeezed her tightly. Fitz didn&#x27;t seem entirely displeased, but she didn&#x27;t stop scowling either.</p>
 <p>&quot;I-I wouldn&#x27;t say I&#x27;m jealous, really. More like disappointed!&quot;</p>
 <p>&quot;Don&#x27;t worry, honey! I won&#x27;t leave you out! We&#x27;ll do this together!&quot;</p>
 <p>&quot;Wha— A-are you serious? You mean…all three of us?&quot;</p>
-<p>Rudeus brought his mouth to Fitz&#x27;s ear and murmured his reply. &quot;Yeah, that&#x27;s right. We can have Roxy teach <em>both</em> of us at once.&quot;</p>
+<p>Rudeus brought his mouth to Fitz&#x27;s ear and murmured his reply. &quot;Yeah, that&#x27;s right. We can have Roxy teach both of us at once.&quot;</p>
 <p>&quot;Uhh…Roxy&#x27;s going to teach us…?&quot;</p>
 <p>&quot;Well, of course she is. She&#x27;s the expert, after all.&quot;</p>
 <p>Fitz glanced over at Roxy, who turned her face to the side sulkily. &quot;I still didn&#x27;t say I&#x27;m willing yet, you know.&quot;</p>
@@ -68,13 +68,13 @@ nav_title = "Chapter 6"
 <p>This was exactly what Rudeus needed. It was time to press the attack once more.</p>
 <p>&quot;Why don&#x27;t you want to teach me, Roxy? Don&#x27;t you like me anymore?&quot;</p>
 <p>This time, he took a deeply wounded tone. It was enough to make Roxy flinch.</p>
-<p>&quot;Of course I still <em>like</em> you, Rudy! I… I love you very much!&quot;</p>
+<p>&quot;Of course I still like you, Rudy! I… I love you very much!&quot;</p>
 <p>&quot;Then why are you being like this?&quot;</p>
 <p>&quot;Well…if I teach you this, I won&#x27;t have anything left that I&#x27;m better at than you…&quot;</p>
-<p>&quot;What? Don&#x27;t be ridiculous, Roxy! You&#x27;re on a higher plane of <em>existence</em> than me!&quot;</p>
+<p>&quot;What? Don&#x27;t be ridiculous, Roxy! You&#x27;re on a higher plane of existence than me!&quot;</p>
 <p>Roxy sighed at this. &quot;Okay, look. I&#x27;ve been meaning to say this for a while, but I think your opinion of me is a little overblown. I&#x27;m a petty person, really…the sort of woman who gets upset about her student surpassing her.&quot;</p>
 <p>&quot;That&#x27;s not a problem, I assure you! You&#x27;re perfect just the way you are, pettiness and all!&quot;</p>
-<p>&quot;Anyway, I spent <em>months</em> of my life learning this, you know? You and Sylphie are more talented than I ever was, so you&#x27;ll probably master it much more quickly…&quot;</p>
+<p>&quot;Anyway, I spent months of my life learning this, you know? You and Sylphie are more talented than I ever was, so you&#x27;ll probably master it much more quickly…&quot;</p>
 <p>At this point, Fitz finally realized that she&#x27;d misunderstood the situation, and her dreamy smile gave way to a confused expression. &quot;Um, sorry, Rudy…what exactly are we talking about here?&quot;</p>
 <p>&quot;Oh, right. I was asking Roxy to teach me a King-tier Water spell.&quot;</p>
 <p>***</p>
@@ -85,7 +85,7 @@ nav_title = "Chapter 6"
 <p>At the moment, I found myself in a very comparable situation. The sun was still high in the sky, but the nape of Sylphie&#x27;s neck was sitting right in front of me. By moving my nose forward, I could easily fill my nostrils with the sweet scent of her skin.</p>
 <p>I also had my arms around her waist, with my hands crossed right around her navel. My upper body was pressed closely against hers; I could feel the beating of her heart through my chest.</p>
 <p>It was truly splendid.</p>
-<p>Just as a side note, I should mention that I was keeping my <em>lower</em> body a bit separated from hers, for reasons that don&#x27;t need to be stated. She was my wife and all, but I still needed to treat her with respect.</p>
+<p>Just as a side note, I should mention that I was keeping my lower body a bit separated from hers, for reasons that don&#x27;t need to be stated. She was my wife and all, but I still needed to treat her with respect.</p>
 <p>Also, I&#x27;d seen several news stories about car crashes caused by a passenger groping their driver. We were on a horse at the moment, which wasn&#x27;t quite the same thing, but it still wasn&#x27;t a good idea to distract the person holding the reins.</p>
 <p>&quot;Matsukaze really is a good horse,&quot; said a voice from just beyond Sylphie. &quot;He&#x27;s calm and does what he&#x27;s told, but he&#x27;s also very strong.&quot;</p>
 <p>I leaned to look over Sylphie&#x27;s shoulder, and the back of a bluehaired girl came into view. It was Roxy; she was sitting just in front of Sylphie.</p>
@@ -104,7 +104,7 @@ nav_title = "Chapter 6"
 <p>Every time we met someone coming the opposite direction, Roxy would blush and pull her hat down over her face. I suppose sitting in front of the person holding the reins was comparable to riding in the baby seat in a car.</p>
 <p>&quot;I wouldn&#x27;t have minded following you two on Dillo or something, you know.&quot;</p>
 <p>&quot;Nice try, Roxy,&quot; Sylphie said with a smile. &quot;I bet you were planning to run off the instant we took our eyes off you.&quot;</p>
-<p>&quot;I&#x27;m not a <em>child</em>. I wasn&#x27;t going to run away.&quot;</p>
+<p>&quot;I&#x27;m not a child. I wasn&#x27;t going to run away.&quot;</p>
 <p>Enjoying the sound of my wives chatting, I took some time to gaze at the scenery around us.</p>
 <p>At the moment, we were on the outskirts of the city. There was a small, beautiful stream running to our right; on our left, there was a large plain with a forest in the distance. The Northern Territories weren&#x27;t the most fertile part of the world, but at this time of the year there was lots of green.</p>
 <p>Up until a few minutes ago, we&#x27;d been passing fields of wheat and potatoes, but now we were surrounded by empty, undeveloped country. I wasn&#x27;t entirely sure how many hours we&#x27;d been riding now, but we&#x27;d clearly come far enough to get some privacy.</p>
@@ -114,7 +114,7 @@ nav_title = "Chapter 6"
 <p>The reason we&#x27;d come all the way out here was simple enough: Roxy had folded. My repeated pleas and badgering had finally worn her down.</p>
 <p>&quot;I&#x27;ll teach you the only King-tier Water spell I&#x27;ve mastered: Lightning Storm.&quot;</p>
 <p>Roxy still sounded disappointed about this turn of events, so I reached past Sylphie&#x27;s side and stroked her shoulders affectionately.</p>
-<p>In any case… <em>Lightning Storm</em>, huh? Just based on the name, it sounded like a standard electricity-based spell. Now that I thought about it, though, lightning wasn&#x27;t one of the standard magical disciplines in this world. I&#x27;d never even seen anyone use an electrictype spell before.</p>
+<p>In any case… Lightning Storm, huh? Just based on the name, it sounded like a standard electricity-based spell. Now that I thought about it, though, lightning wasn&#x27;t one of the standard magical disciplines in this world. I&#x27;d never even seen anyone use an electrictype spell before.</p>
 <p>And on top of that, this was a King-tier spell. I had to assume it was going to be dramatic.</p>
 <p>&quot;Hmm, all right. I think we&#x27;ve come far enough.&quot;</p>
 <p>After a bit more time on the road, Roxy called us to a halt and hopped down off Matsukaze. She proceeded to tie him to a small tree about as thick as her leg.</p>
@@ -141,7 +141,7 @@ nav_title = "Chapter 6"
 <p>With those words, she stabbed her staff down into the ground.</p>
 <p>With her left hand, she held it steady. With her right, she clutched the magic stone on top of it.</p>
 <p>And finally, she began to chant—slowly and carefully, as if reviewing every word before she spoke it.</p>
-<p>&quot;<em>Oh, spirits of the magnificent waters, I beseech the Prince of Thunder! Grant me my wish, bless me with thy savagery, and reveal to this insignificant servant a glimpse of thy power! Let fear strike the heart of man as thy divine hammer strikes its anvil and cover the land with water!&quot;</em></p>
+<p>&quot;Oh, spirits of the magnificent waters, I beseech the Prince of Thunder! Grant me my wish, bless me with thy savagery, and reveal to this insignificant servant a glimpse of thy power! Let fear strike the heart of man as thy divine hammer strikes its anvil and cover the land with water!&quot;</p>
 <p>A few sentences in, I recognized the words and blinked in confusion.</p>
 <p><em>&quot;Come, oh rain, and wash everything away in thy flood of destruction!&quot;</em></p>
 <p>Black clouds rapidly filled the sky above us. Simultaneously, a harsh and pelting rain began to fall. Wind whipped across the plain, driving the water up and under my coat. My robe was soaked instantly. Lightning flickered up above us, threatening to strike the ground at any moment.</p>
@@ -149,7 +149,7 @@ nav_title = "Chapter 6"
 <p><em>&quot;I call upon you, mighty spirit of light, shining lord of the heavens!&quot;</em></p>
 <p>But when I expected the chant to end, Roxy kept right on going.</p>
 <p><em>&quot;Do you see the impudent foe towering before us? Do you see your sworn enemy, in all his arrogance? I would be the holy blade that strikes him down! Let your radiant power teach him that the Emperor yet reigns supreme!&quot;</em></p>
-<p>With every word that left her mouth, the sky above us was <em>compressed.</em> The black clouds that had stretched across the horizon collapsed in on themselves, forming a circle that drew smaller and denser by the second. Crackling electricity arced all around the dark mass.</p>
+<p>With every word that left her mouth, the sky above us was compressed. The black clouds that had stretched across the horizon collapsed in on themselves, forming a circle that drew smaller and denser by the second. Crackling electricity arced all around the dark mass.</p>
 <p>And finally, when the ring of cloud had shrunk to a mere dot in the sky…</p>
 <p><em>&quot;Lightning!&quot;</em></p>
 <p>A pillar of pure light fell to the earth.</p>
@@ -173,12 +173,12 @@ nav_title = "Chapter 6"
 <p>After handing Roxy off to Sylphie, I turned away, held out my own staff, and tightened my grip on its shaft.</p>
 <p>Aqua Heartia had been with me since the day I turned ten, supporting me through all the turbulence of my life. I felt confident I could cast this spell without its help, but I wanted to use it anyway.</p>
 <p>Trying to remember what I&#x27;d just seen as precisely as possible, I looked up at the sky and began to chant.</p>
-<p>&quot;<em>Oh, spirits of the magnificent waters, I beseech the Prince of Thunder! Grant me my wish, bless me with thy savagery, and reveal to this insignificant servant a glimpse of thy power! Let fear strike the heart of man as thy divine hammer strikes its anvil and cover the land with water! Come, oh rain, and wash everything away in thy flood of destruction!&quot;</em></p>
+<p>&quot;Oh, spirits of the magnificent waters, I beseech the Prince of Thunder! Grant me my wish, bless me with thy savagery, and reveal to this insignificant servant a glimpse of thy power! Let fear strike the heart of man as thy divine hammer strikes its anvil and cover the land with water! Come, oh rain, and wash everything away in thy flood of destruction!&quot;</p>
 <p>A huge amount of mana poured from my hands into the staff, then shot up to the heavens.</p>
 <p>As the storm clouds gathered, I felt the magic raging all around me, ready to be harnessed and unleased. If I had chanted the word &quot;Cumulonimbus&quot; next, the spell would have completed itself.</p>
-<p>I wasn&#x27;t going to do that, though. And I thought I understood why. If I gave the spell a coherent form, it would probably be impossible to achieve that compression of the clouds. I needed to move on to the next stage <em>without</em> stabilizing the spell.</p>
+<p>I wasn&#x27;t going to do that, though. And I thought I understood why. If I gave the spell a coherent form, it would probably be impossible to achieve that compression of the clouds. I needed to move on to the next stage without stabilizing the spell.</p>
 <p><em>&quot;I call upon you, mighty spirit of light, shining lord of the heavens! Do you see the impudent foe towering before us? Do you see your sworn enemy, in all his arrogance? I would be the holy blade that strikes him down! Let your radiant power teach him that the Emperor yet reigns supreme!&quot;</em></p>
-<p>With every phrase I spoke, the magic in the air raged more and more intensely. I had no choice but to pour more mana into the spell to keep it from spinning out of control entirely. I was <em>forcing</em> the clouds to compress, squeezing them together with all my might.</p>
+<p>With every phrase I spoke, the magic in the air raged more and more intensely. I had no choice but to pour more mana into the spell to keep it from spinning out of control entirely. I was forcing the clouds to compress, squeezing them together with all my might.</p>
 <p>This spell demanded power. Raw, brute power. That was the only thing that made it possible. I&#x27;d never cast anything that demanded such ferocious force before.</p>
 <p>No…that wasn&#x27;t entirely true. Something about this was familiar to me. It wasn&#x27;t so different from what I felt when I was pushing my Stone Cannon to the very limit of its potential.</p>
 <p>The moment I realized that, the spell suddenly felt much easier to control.</p>
@@ -201,13 +201,13 @@ nav_title = "Chapter 6"
 <p>&quot;Don&#x27;t feel bad, Sylphie,&quot; said Roxy with a smile. &quot;I still mess it up once every five times or so.&quot;</p>
 <p>In a way, I was a little glad Sylphie had failed this time. If both of us had pulled it off on our first try, Roxy might have taken a hit to her pride.</p>
 <p>This was interesting, though. Based on what I saw today, Sylphie seemed to have a larger mana capacity than Roxy did. And Roxy&#x27;s wasn&#x27;t small at all, from what I understood.</p>
-<p>&quot;Well, <em>somebody</em> succeeded on their very first try. You&#x27;re incredible, Rudy.&quot;</p>
+<p>&quot;Well, somebody succeeded on their very first try. You&#x27;re incredible, Rudy.&quot;</p>
 <p>&quot;Yes, that was certainly impressive. I have to admit I was expecting it to happen, but it was a bit depressing that you pulled it off that easily.&quot;</p>
 <p>&quot;…&quot;</p>
 <p>I couldn&#x27;t find anything to say to the two of them.</p>
 <p>Sure, I&#x27;d started using magic around the age of two, and I put some effort into expanding my mana capacity. But given how much I ended up with, I&#x27;d probably been born with an unnaturally large supply in the first place. I&#x27;d put in the effort, but I&#x27;d also just gotten lucky. That made it tricky to say much of anything about my abilities as a mage.</p>
 <p>In any case, I needed to stay focused for now. We weren&#x27;t home yet, and my wives were exhausted.</p>
-<p>Once we were safely back, I&#x27;d have to give them both shoulder massages. We&#x27;d be skipping the nocturnal activities tonight, also. We were <em>all</em> worn out.</p>
+<p>Once we were safely back, I&#x27;d have to give them both shoulder massages. We&#x27;d be skipping the nocturnal activities tonight, also. We were all worn out.</p>
 <p>&quot;Oh, look, Rudy,&quot; called Sylphie. &quot;Isn&#x27;t that a pretty sunset?&quot;</p>
 <p>I looked over to the west, where the sun was starting to sink below the horizon. The sky all around it was a brilliant shade of crimson.</p>
 <p>Nature was just as beautiful here as it was back in my old world. That was one thing that hadn&#x27;t changed.</p>
@@ -221,9 +221,9 @@ nav_title = "Chapter 6"
 <p>I kept my eyes scanning the area around us for threats, halflistening to the conversation.</p>
 <p>Sylphie and Roxy were speaking slowly, fatigue evident in their voices.</p>
 <p>&quot;I&#x27;m a lot happier right now than I was six months ago. I got married, for one thing, and I was hired as a professor at the University. I suppose I seem like something of an interloper to you, Sylphie…but I&#x27;m happy I&#x27;m here, riding this horse with both of you.&quot;</p>
-<p>I&#x27;d felt Sylphie flinch a little when Roxy spoke the word <em>interloper.</em> Now she shook her head in denial.</p>
+<p>I&#x27;d felt Sylphie flinch a little when Roxy spoke the word interloper. Now she shook her head in denial.</p>
 <p>&quot;You&#x27;re not an interloper, Roxy. And I&#x27;m glad you&#x27;ve been so kind and considerate about all this. I don&#x27;t think I&#x27;d win if you turned it into some sort of competition…&quot;</p>
-<p>Sylphie&#x27;s voice was so uncertain that I felt the need to interrupt with a hug at this point. She took one hand off the reins to pat my arm; it was her way of saying &quot;<em>I know.&quot;</em></p>
+<p>Sylphie&#x27;s voice was so uncertain that I felt the need to interrupt with a hug at this point. She took one hand off the reins to pat my arm; it was her way of saying &quot;I know.&quot;</p>
 <p>&quot;I mean, I just got lucky, really,&quot; she continued after a moment. &quot;I got to know Rudy when we were little, and then I ran into him again when he was really desperate for help. I never would have caught his attention otherwise.&quot;</p>
 <p>&quot;I think you&#x27;re being a bit too modest…&quot; said Roxy, her voice slightly troubled.</p>
 <p>&quot;Well, I probably wouldn&#x27;t even be here today if I hadn&#x27;t met Rudy as a kid.&quot;</p>
@@ -233,7 +233,7 @@ nav_title = "Chapter 6"
 <p>She&#x27;d been unlucky enough to emerge high in the sky above the royal palace in Asura. By quickly casting a spell, she&#x27;d just barely managed to land safely. But at that moment, her hair lost its original color—possibly a side effect of spending too much mana in her terror.</p>
 <p>Princess Ariel had taken a personal liking to her, but it was her rare ability to cast spells silently that had earned her a place in the royal court. And when Ariel was outmaneuvered by her political rivals, that same ability had allowed Sylphie to fight off dozens of assassins as they fled.</p>
 <p>In the picture she painted, my magic was the only thing that had kept her alive through all of this.</p>
-<p>&quot;Back when I was working as Princess Ariel&#x27;s guardian mage, this one thought kept popping into my head: <em>If I didn&#x27;t know how to use magic, I&#x27;d probably be a slave right now.</em>&quot;</p>
+<p>&quot;Back when I was working as Princess Ariel&#x27;s guardian mage, this one thought kept popping into my head: If I didn&#x27;t know how to use magic, I&#x27;d probably be a slave right now.&quot;</p>
 <p>As she spoke, I found myself wondering how different my own life would have been if I hadn&#x27;t met Roxy or Sylphie when I was young.</p>
 <p>If not for Roxy, I wouldn&#x27;t have found the courage to leave that house for years. I was confident of that much. If I&#x27;d never taken a step outside—never met Sylphie—could I have survived the Displacement Incident? Could I have made my way across the Demon Continent?</p>
 <p>Well, if I&#x27;d never met Sylphie, I wouldn&#x27;t have ended up getting sent to the city of Roa. Which meant I wouldn&#x27;t have met Eris or Ghislaine. Maybe my parents would have shipped me off to school eventually. I would have hit a wall with my magic at some point, so I might have ended up asking them to send me to the Ranoa University of Magic anyway.</p>
@@ -241,10 +241,10 @@ nav_title = "Chapter 6"
 <p>Maybe I would have ended up in the same class as Linia and Pursena and fallen in love with one of them. When we graduated, I&#x27;d head back to the Great Forest and live among the beastfolk.</p>
 <p>Well, no…the Displacement Incident would have taken place eventually, so I probably would have rushed back home to Asura.</p>
 <p>In any case, my life would have looked completely different.</p>
-<p>Still…I couldn&#x27;t help feeling like I would have run into Sylphie <em>somewhere</em>. And fallen in love with her, of course.</p>
+<p>Still…I couldn&#x27;t help feeling like I would have run into Sylphie somewhere. And fallen in love with her, of course.</p>
 <p>Yes, surely that was predestined by the laws of causality!</p>
 <p>Or just &quot;fate,&quot; if you prefer. Whatever.</p>
-<p>&quot;My life changed completely the day I met Rudy,&quot; Sylphie concluded, with her story at an end. &quot;I mean…I did put in a lot of effort, too, but I think I was lucky more than anything else. So when I see someone like you, who changed <em>Rudy&#x27;s</em> life for the better, and I know you both love each other, well…I don&#x27;t really want him to lose that just because I&#x27;m around, I guess? I probably don&#x27;t have the right to object, when I just got here first… Sorry, I don&#x27;t know how to put this.&quot;</p>
+<p>&quot;My life changed completely the day I met Rudy,&quot; Sylphie concluded, with her story at an end. &quot;I mean…I did put in a lot of effort, too, but I think I was lucky more than anything else. So when I see someone like you, who changed Rudy&#x27;s life for the better, and I know you both love each other, well…I don&#x27;t really want him to lose that just because I&#x27;m around, I guess? I probably don&#x27;t have the right to object, when I just got here first… Sorry, I don&#x27;t know how to put this.&quot;</p>
 <p>&quot;That&#x27;s all right,&quot; said Roxy quietly. &quot;I understand what you&#x27;re trying to say. And I&#x27;m…very happy you have such a high opinion of me.&quot;</p>
 <p>I couldn&#x27;t see Roxy&#x27;s face, since she was sitting up in front. But I could see that her shoulders were trembling slightly.</p>
 <p>I stretched my arms out and pulled both her and Sylphie into a hug.</p>
@@ -263,11 +263,10 @@ nav_title = "Chapter 6"
 <p>Although the name of this spell was Lightning, the real secret behind its power lay in the mana-compression step. I was curious if any King-tier spells in other disciplines might be applications of the same basic technique.</p>
 <p>In any case, now that I&#x27;d gotten through casting the spell once, I&#x27;d be able to use it silently in the future.</p>
 <p>The next time I used it, I was fairly sure I could speed up both the cloud formation and compression phases and drop the bolt of lightning much more quickly than before. But although I was planning to practice with it, I wasn&#x27;t sure I&#x27;d get many chances to put this spell to practical use. After all, if I was up against a single target, my Stone Cannon was usually more than enough.</p>
-<p>Lightning was kind of an overkill spell, on the whole. It would be more useful if I could find a way to <em>reduce</em> its power.</p>
+<p>Lightning was kind of an overkill spell, on the whole. It would be more useful if I could find a way to reduce its power.</p>
 <p>With this thought in mind, I started playing around a little on a much smaller scale. And after several failed experiments, I stumbled across a way to generate a strong electric current.</p>
-<p>The method involved silently casting a tiny Cumulonimbus spell, compressing it, and firing off a Lightning spell in the direction of my target. This resulted in a small, crackling bolt of electricity that could</p>
-<p>be directed with considerable accuracy. Its voltage seemed to be fairly low, too, so the damage it did wasn&#x27;t too excessive.</p>
-<p>I wasn&#x27;t sure exactly how this worked, but it seemed like it might come in handy. It probably wasn&#x27;t suitable for extremely closerange combat. You&#x27;d end up shocking yourself along with your target. On the bright side, it wasn&#x27;t going to do any lasting damage. At worst, you&#x27;d be incapacitated for a time. But there were lots of other attack magic spells that <em>didn&#x27;t</em> run the risk of hurting their own caster.</p>
+<p>The method involved silently casting a tiny Cumulonimbus spell, compressing it, and firing off a Lightning spell in the direction of my target. This resulted in a small, crackling bolt of electricity that could be directed with considerable accuracy. Its voltage seemed to be fairly low, too, so the damage it did wasn&#x27;t too excessive.</p>
+<p>I wasn&#x27;t sure exactly how this worked, but it seemed like it might come in handy. It probably wasn&#x27;t suitable for extremely closerange combat. You&#x27;d end up shocking yourself along with your target. On the bright side, it wasn&#x27;t going to do any lasting damage. At worst, you&#x27;d be incapacitated for a time. But there were lots of other attack magic spells that didn&#x27;t run the risk of hurting their own caster.</p>
 <p>Still, it felt worth trying to refine this. I could use a spell designed to stun someone instead of killing them. Lightning branches through the air to reach its target, so it would be impossible to avoid. And the shock might even be effective at disabling someone protected by a battle aura. I didn&#x27;t have anyone to test that on at the moment, but if Badigadi came back, I could ask him to be my guinea pig.</p>
 <p>If nothing else, it might be a nice surprise to pull out of my sleeve against a more powerful opponent.</p>
 <p>Incidentally, although this spell was just a tiny form of Lightning, I decided to call it Electric so I could distinguish between the two.</p>

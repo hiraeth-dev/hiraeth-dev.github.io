@@ -25,7 +25,7 @@ nav_title = "Epilogue"
 <p>Once again, she clutched firmly at a sliver of hope.</p>
 <p>***</p>
 <p>The refugee camp comprised numerous wooden buildings and was roughly the size of a village. A great number of people bustled about. They were anything but carefree; a dark, heavy mood hung over them.</p>
-<p><em>I never thought I would see something like this in Asura Kingdom,</em> Roxy thought.</p>
+<p>I never thought I would see something like this in Asura Kingdom, Roxy thought.</p>
 <p>The Asura Kingdom Roxy knew was the wealthiest country in the world. The people there had faces full of optimism, and there were smiles everywhere you looked. Food was plentiful and monsters were few. It was the easiest place to live.</p>
 <p>The settlement didn&#x27;t seem to lack for food. This was a fairly bountiful area. They wouldn&#x27;t starve, not so long as they could pull up the grass and eat it. As long as they weren&#x27;t in danger of starving, they should have been smiling. Even if a disaster had taken place, things weren&#x27;t nearly as dire as they were on the Demon Continent. Or so she thought, but she couldn&#x27;t help frowning at the sight before her.</p>
 <p>The refugee camp had a temporary adventurer&#x27;s guild. It was there, in front of the bulletin board that normally had various requests pinned to it, that the melancholy dwelled the thickest.</p>
@@ -36,13 +36,13 @@ nav_title = "Epilogue"
 <p>&quot;I-If I live?! Do you seriously believe that? Dammit, I-I lost something more important than…than my own life! Please, just…let me die! Dammit, dammit, dammit!&quot; The man squatted and began crying, his face contorted in despair. His entire body trembled.</p>
 <p>This was a horrible place. Everyone&#x27;s faces were grief-stricken.</p>
 <p>Roxy had never known a place so dominated by sadness before. She had watched many people die, had even escaped scenes of carnage herself numerous times. This was the first time she had ever seen a place of such pure anguish.</p>
-<p><em>This might be a pointless endeavor,</em> she thought.</p>
+<p>This might be a pointless endeavor, she thought.</p>
 <p>Pulled in by the heavy atmosphere, she felt close to tears, but she pressed on and began her hunt for information.</p>
 <p>***</p>
 <p>An hour passed.</p>
 <p>Roxy learned the gist of what happened. After the sky turned strange, a large-scale mana calamity occurred over the Fittoa Region.</p>
 <p>It was not an explosion exactly, but it did spread far and wide. Everything in the Fittoa Region was enveloped by it and teleported randomly to locations all over the world. The buildings and trees disappeared entirely, scattering only the people that had been there. Some of them had managed to return to the region, but realized nothing was left of their hometowns and lost all hope.</p>
-<p>&quot;Truly terrible,&quot; Roxy muttered as she looked at the bulletin board. There were rows of names listed as either deceased or missing. Posted beside them were messages to family members and requests such as, <em>If you see this person in your travels, please bring them here</em>.</p>
+<p>&quot;Truly terrible,&quot; Roxy muttered as she looked at the bulletin board. There were rows of names listed as either deceased or missing. Posted beside them were messages to family members and requests such as, If you see this person in your travels, please bring them here.</p>
 <p>The most eye-catching part of the notice board was a request that was pinned under the name of Fittoa&#x27;s liege lord, asking for information on the missing and deceased, an unprecedented number of people.</p>
 <p>As an adventurer, Roxy had done her fair share of work. Never in her life had she seen a bulletin board this full of requests, nor one that was so desperate and so heart-wrenching. It was clear just how widespread the damage of this calamity really was.</p>
 <p>Perhaps she had run across someone on the list of the deceased and the missing on the way here. She heard rumors about people suddenly reappearing. Of course she hadn&#x27;t paid it any mind at the time; there was always idle gossip like that. If only she could remember something, she might be of some help to the people here.</p>
@@ -53,8 +53,7 @@ nav_title = "Epilogue"
 <p>&quot;There it is.&quot;</p>
 <p>Roxy furrowed her brows. She found the names of Rudeus and the others in the missing persons column.</p>
 <p>Rudeus Greyrat. Zenith Greyrat. Lilia Greyrat. Aisha Greyrat.</p>
-<p>She knew that Lilia had become one of Paul&#x27;s wives; Rudeus had written as much in one of his letters. Paul and Norn&#x27;s names had a</p>
-<p>line drawn through them. She took another look at the list of deceased just in case. They weren&#x27;t there; that meant they had to be alive. Then again, it could have also meant there was no information on them. A short-lived moment of relief. &quot;At least I can rejoice in the fact that they&#x27;re not dead for now.&quot;</p>
+<p>She knew that Lilia had become one of Paul&#x27;s wives; Rudeus had written as much in one of his letters. Paul and Norn&#x27;s names had a line drawn through them. She took another look at the list of deceased just in case. They weren&#x27;t there; that meant they had to be alive. Then again, it could have also meant there was no information on them. A short-lived moment of relief. &quot;At least I can rejoice in the fact that they&#x27;re not dead for now.&quot;</p>
 <p>Absentmindedly she looked over the message board again. The desperation of the writers was so clear.</p>
 <p>Roxy wondered if her own parents were doing well back home. Quite some time had passed since she fought with them and left her village. Until recently, she hadn&#x27;t paid much attention to the flow of time, in part because she was a member of the Migurd race. The months passed quickly. Perhaps she should at least send a letter.</p>
 <p>&quot;That&#x27;s…&quot;</p>
@@ -69,7 +68,7 @@ nav_title = "Epilogue"
 <p><em>—From Paul Greyrat</em></p>
 <p>Paul was alive. Knowing that brought her relief. Rudeus had griped about Paul in his letters, but it seemed Paul was especially reliable in situations like this.</p>
 <p>Roxy stopped to think. The best course of action would be to help with the search. She was indebted to their family after all. Even now she thought fondly of the two years she spent with them, for many reasons. She was more than willing to help.</p>
-<p><em>All right, let&#x27;s do this,</em> she decided. The moment she made up her mind, her thoughts started churning. <em>But who should I search for, and how?</em></p>
+<p>All right, let&#x27;s do this, she decided. The moment she made up her mind, her thoughts started churning. But who should I search for, and how?</p>
 <p>Fang of the Black Wolf was likely the name of Paul&#x27;s adventuring party. Those people probably weren&#x27;t acquainted with Rudeus, or Lilia, for that matter. But since Paul had left Rudeus for last, she decided to search for him instead. It seemed Paul thought Rudeus would return to Fittoa, but that boy was highly adaptable. It was just as likely that he would settle in whatever place he had been teleported off to. If that were the case, she needed to tell him what had happened and bring him back.</p>
 <p><em>I&#x27;ll search for Rudeus then. Now, where to start?</em></p>
 <p>Paul had gone to the capital of the Holy Millis Country. That meant he probably left similar messages along the way, specifically in three places: the Asura Kingdom&#x27;s borders, the Dragon King Kingdom&#x27;s eastern port, and the Holy Country of Millis&#x27;s western port.</p>
@@ -78,7 +77,7 @@ nav_title = "Epilogue"
 <p>Good. Now that she had made up her mind, there was no point in lingering here. She would head for the Dragon King&#x27;s eastern port. From there, she would look for a party heading for either the Begaritt Continent or the Demon Continent.</p>
 <p>Once that was settled Roxy moved swiftly. She finished the preparations for her journey and set out from the refugee camp.</p>
 <p>Strangely, just getting a move on was enough to lift the veil of sadness. Not just that, but her belief that Rudeus was still alive strengthened with each step.</p>
-<p><em>I want to sit at the table with all of them again, even just once more,</em> she thought as her feet took her south.</p>
+<p>I want to sit at the table with all of them again, even just once more, she thought as her feet took her south.</p>
 <p>That was the beginning of Roxy Migurdia&#x27;s long journey.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-02/insert-10.webp" alt="Illustration" loading="lazy" />

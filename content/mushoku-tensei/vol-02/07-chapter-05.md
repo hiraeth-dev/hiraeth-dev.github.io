@@ -19,8 +19,7 @@ nav_title = "Chapter 5"
 <p>***</p>
 <p>Eris&#x27;s tenth birthday was drawing close. A person&#x27;s tenth birthday was a special one. It was customary for the nobility to host large parties for a child on their fifth, tenth, and fifteenth birthdays.</p>
 <p>On Eris&#x27;s birthday, the large reception hall and conjoining courtyard were opened to the party. Presents poured in from all over, and all the nobles of Roa were invited to attend. Since Sauros was the boorish military type, the initial plan was for a self-service, standing buffet, until Philip intervened and turned it into a dance party to make it easier for the local, less wealthy nobles to attend.</p>
-<p>The manor was bustling with frantic movement. Maids with dog ears rushed to-and-fro in the hallways. Maids weren&#x27;t supposed to run in general, but apparently this household let them do so when things got busy. Some were full-on sprinting even, fast enough that</p>
-<p>they could hit a transfer student as they were rounding the corner and send them rocketing to the moon.</p>
+<p>The manor was bustling with frantic movement. Maids with dog ears rushed to-and-fro in the hallways. Maids weren&#x27;t supposed to run in general, but apparently this household let them do so when things got busy. Some were full-on sprinting even, fast enough that they could hit a transfer student as they were rounding the corner and send them rocketing to the moon.</p>
 <p>I kept to the edge of the hallway where I wouldn&#x27;t get in their way. I had no real destination in mind, I was just going for a walk. That was right, a walk.</p>
 <p>I had nothing to do with the frantic bustle. Right now, Eris was preparing for her leading role in the party by taking special etiquette lessons, so our classes had been cancelled. Philip had requested that Eris &quot;at least make sure she act like a ten-year-old child without causing any shame to herself.&quot; Apparently she didn&#x27;t meet that standard, because Edna, with a look of exhaustion, requested a drastic increase in the number of lessons with Eris.</p>
 <p>I honored Edna&#x27;s request, and thus came days of Edna keeping Eris from morning till night for her special lessons. That left me completely unoccupied.</p>
@@ -95,14 +94,14 @@ nav_title = "Chapter 5"
 <p>Contrary to my expectations, I had already mastered some of the beginner steps. Dance was all about remembering the routine and matching your movements to the rhythm. My previous self may have struggled from utter lack of exercise, but my current self was pretty fit. The simplest of the steps didn&#x27;t require much getting used to.</p>
 <p>&quot;Hmph.&quot; Eris sulked when Edna complimented me.</p>
 <p>She had spent months working on this only to fail, so of course she felt bitter watching me master it so easily. I wasn&#x27;t just learning to dance however. I was observing Eris so I could figure out why she was struggling.</p>
-<p>There were two reasons for this. The first was that Edna was a terrible teacher. Well, not a <em>terrible</em> teacher exactly; she was probably average. It was her method of saying, &quot;Do it this way,&quot; &quot;Do it that way,&quot; and &quot;Just memorize what I&#x27;m telling you&quot; that was the problem. She never touched on why those things were necessary.</p>
+<p>There were two reasons for this. The first was that Edna was a terrible teacher. Well, not a terrible teacher exactly; she was probably average. It was her method of saying, &quot;Do it this way,&quot; &quot;Do it that way,&quot; and &quot;Just memorize what I&#x27;m telling you&quot; that was the problem. She never touched on why those things were necessary.</p>
 <p>The second reason was Eris&#x27;s failing. Her steps were too fast and too sharp. Her personality and movements were well suited to the Sword God Style, but they were a drawback when it came to dancing. Where she should have been lightly moving her feet to the rhythm of the music, she instead rigidly maneuvered her body at top speed, falling out of sync with her partner. Eris had her own rhythm and instinctively disliked being interrupted. She maintained it protectively no matter the circumstance, so no one could disrupt her flow. It was an incredible ability on the battlefield, but it only held her back in dance. Dance was all about matching your partner.</p>
 <p>According to Edna, this was the first time she had ever encountered a student with absolutely no skill for dance. That wasn&#x27;t the case though. Moving so quickly meant that there was a sharpness to her movements. In a dance routine that required that, she could dance beautifully.</p>
 <p>So that was why her teaching style wasn&#x27;t working. Though blaming Edna would not fix Eris&#x27;s movements. Still, there was something that could be done.</p>
 <p>As I watched Eris clumsily move through her dance steps, I decided to try something. &quot;Eris, please close your eyes and try swinging your body to your own rhythm.&quot;</p>
 <p>She looked doubtfully at me. &quot;What are you planning, making me close my eyes?!&quot;</p>
 <p>&quot;Lord Rudeus…?&quot; Edna&#x27;s gentle smile wavered.</p>
-<p><em>Uh, no, this isn&#x27;t what you think? I&#x27;m not trying to kiss her,</em> I thought defensively. <em>How rude of you guys, accusing a gentleman like me!</em></p>
+<p>Uh, no, this isn&#x27;t what you think? I&#x27;m not trying to kiss her, I thought defensively. How rude of you guys, accusing a gentleman like me!</p>
 <p>&quot;I&#x27;m going to use magic to help you dance.&quot;</p>
 <p>&quot;What! A spell for that exists?!&quot;</p>
 <p>&quot;No, I said magic. There&#x27;s no spell. It&#x27;s more of a miraculous phenomenon.&quot;</p>
@@ -121,8 +120,8 @@ nav_title = "Chapter 5"
 <p>&quot;O-okay.&quot; In contrast to her usual demeanor, Eris didn&#x27;t say anything else and just nodded, eyes still wide open.</p>
 <p>Looks like the problem was solved.</p>
 <p>&quot;I shouldn&#x27;t be surprised. You have given the Young Mistress arithmetic lessons for more than a year now after all,&quot; Edna said. She seemed thoroughly impressed, her eyes full of emotion as she looked at me.</p>
-<p>Shouldn&#x27;t be surprised, huh? So that was the level of hopelessness associated with teaching Eris arithmetic. Well, I <em>did</em> struggle quite a bit. I owed half of the credit to Ghislaine. I couldn&#x27;t let it go to my head.</p>
-<p>&quot;This was an incredible learning experience for me. It seems swordplay and dance have something in common after all.&quot; Edna looked like she had seen something unbelievable. Like, <em>Oh, Father in Heaven, I have witnessed a miracle,</em> or something like that. Totally over the top.</p>
+<p>Shouldn&#x27;t be surprised, huh? So that was the level of hopelessness associated with teaching Eris arithmetic. Well, I did struggle quite a bit. I owed half of the credit to Ghislaine. I couldn&#x27;t let it go to my head.</p>
+<p>&quot;This was an incredible learning experience for me. It seems swordplay and dance have something in common after all.&quot; Edna looked like she had seen something unbelievable. Like, Oh, Father in Heaven, I have witnessed a miracle, or something like that. Totally over the top.</p>
 <p>&quot;Well, there are dances that use the sword after all. Dance and swordplay are strongly related,&quot; I said.</p>
 <p>&quot;A dance that uses swords? Does something like that really exist?&quot; she asked with wonder.</p>
 <p>Sword dancing seemed like common knowledge to my inner middle school nerd, but maybe it didn&#x27;t exist in this world. &quot;Uh, yeah, but I&#x27;ve only read about it in books,&quot; I said.</p>
@@ -132,7 +131,7 @@ nav_title = "Chapter 5"
 <p>&quot;I don&#x27;t know. As unlikely as it sounds, it could be that demon races in the Demon Continent dance that way. I hear they have lots of small clans, so maybe someone from there dances using swords,&quot; I responded uncertainly.</p>
 <p>&quot;I see, so it&#x27;s that collection of knowledge of various things that gives you such wisdom, Lord Rudeus,&quot; she said, smiling kindly as she complimented me. Looks like she convinced herself of the fact.</p>
 <p>&quot;That&#x27;s right, Rudeus is amazing!&quot; Eris interjected proudly, for some odd reason.</p>
-<p><em>That&#x27;s right, praise me some more,</em> I thought. <em>I&#x27;m the type that feeds off praise. Bwahahaha!</em></p>
+<p>That&#x27;s right, praise me some more, I thought. I&#x27;m the type that feeds off praise. Bwahahaha!</p>
 <p>The day of the dance party.</p>
 <p>Eris was all dolled up and seated like a princess when Sauros roared for the festivities to begin. I hunkered down in a corner and observed from there.</p>
 <p>During the party&#x27;s opening ceremony, Philip and his wife deftly handled the poorer and lesser nobles that swarmed around the family. They conducted themselves so impressively that no one could find an opening to slip through them.</p>
@@ -155,14 +154,13 @@ nav_title = "Chapter 5"
 <p>&quot;A pleasure to make your acquaintance,&quot; she said, before offering me her name. She was the daughter of one of the minor nobles. Her name was so long I couldn&#x27;t remember the whole thing.</p>
 <p>&quot;Won&#x27;t you share a dance with me?&quot; she asked.</p>
 <p>I explained that I only knew the basics before we headed onto the dance floor. I thought I actually danced pretty well. When it was over, another girl came, and again I was asked to dance.</p>
-<p><em>What the hell is this? I&#x27;m pretty popular, huh?</em> They came one after the other, among them a woman over thirty and a girl younger than I was. I turned them down if our height difference presented a problem, but in general I said yes to anyone who asked.</p>
+<p>What the hell is this? I&#x27;m pretty popular, huh? They came one after the other, among them a woman over thirty and a girl younger than I was. I turned them down if our height difference presented a problem, but in general I said yes to anyone who asked.</p>
 <p>It wasn&#x27;t like I was a Japanese person who couldn&#x27;t say no. It was just that after telling the first girl yes, it was difficult to refuse the rest. Maybe I had an ulterior motive, but there were so many of them I couldn&#x27;t remember their names or faces, so I just exhausted myself.</p>
 <p>Once my popularity waned enough, Philip approached me and explained, &quot;That was my father&#x27;s doing.&quot; Apparently, when people asked Sauros who the boy was who danced with Eris at the beginning, he boastfully told them I was a member of the Greyrat family. In other words, everything was old man Sauros&#x27; fault.</p>
-<p>Not that I could really blame him. He&#x27;d been asked about me: &quot;That boy who danced with the Young Mistress at first, he did a splendid job calming her nerves. Could he be one of your illegitimate children, Lord Sauros?&quot; That was apparently enough to get him in good spirits. We&#x27;d planned to keep my surname a secret, but maybe it was inevitable since alcohol was in the mix. But now that they knew my last name, they could assume that I was a member of the branch family or the child of a mistress. I was going to be somebody</p>
-<p>of note in either case, so the nobles sent their daughters and granddaughters after me.</p>
+<p>Not that I could really blame him. He&#x27;d been asked about me: &quot;That boy who danced with the Young Mistress at first, he did a splendid job calming her nerves. Could he be one of your illegitimate children, Lord Sauros?&quot; That was apparently enough to get him in good spirits. We&#x27;d planned to keep my surname a secret, but maybe it was inevitable since alcohol was in the mix. But now that they knew my last name, they could assume that I was a member of the branch family or the child of a mistress. I was going to be somebody of note in either case, so the nobles sent their daughters and granddaughters after me.</p>
 <p>I asked him, &quot;Wouldn&#x27;t it have made more sense to approach me right after the first dance?&quot; He said he noticed me wrapping sweets up in napkins and found it so endearing that he decided to wait until I was finished. People who paid attention really noticed every detail.</p>
 <p>When I asked him what I should do about the women who approached me, he told me to engage with them freely. It seemed no matter how things played out in the future, he didn&#x27;t intend for me to get involved with politics. Or perhaps he thought it might be a political benefit if I ended up with one of those girls. I hadn&#x27;t the least bit of interest in wielding political power, so for me, today&#x27;s short brush with fame was like a transient dream.</p>
-<p><em>But wait, maybe if I become more powerful, I can have all the cute girls I want,</em> I thought for a moment.</p>
+<p>But wait, maybe if I become more powerful, I can have all the cute girls I want, I thought for a moment.</p>
 <p>&quot;I do ask that you refrain from following Paul&#x27;s example by not sleeping with every single woman you meet, lest you stain the noble name of our house.&quot; Well. Philip nipped that right in the bud then.</p>
 <p>Eris was the last girl to approach me. Her usual vivid and energetic aesthetic was replaced with a blue dress. Her hair was arranged in an up-do with a floral ornament tucked into it. She looked lovely.</p>
 <p>It seemed even she was exhausted after attending her first-ever dance party and being approached by unfamiliar adults, one after the other. Yet she still seemed excited, perhaps because she was the star of a party that was going so well.</p>
@@ -188,8 +186,7 @@ nav_title = "Chapter 5"
 <p>&quot;What? What&#x27;s that?&quot;</p>
 <p>&quot;I guess you could call it a birthday present.&quot;</p>
 <p>&quot;Seriously? I&#x27;d rather have one of those.&quot; Eris pointed to the various miniature replicas I had recently made while practicing my earth magic. There was a dragon, a ship, and even a figurine of Sylphie all lined up.</p>
-<p>Not to brag, but in my previous life I had been really into figures and plastic models in my twenties. I even made a homemade booth</p>
-<p>out of cardboard so I could paint them at one point. Unfortunately, materials cost a lot in this world, and there was no such thing as spray paint, so they weren&#x27;t painted. Still, it was fun, and I loved making the parts and putting them together, so they were quite detailed, even if they were the creations of an amateur.</p>
+<p>Not to brag, but in my previous life I had been really into figures and plastic models in my twenties. I even made a homemade booth out of cardboard so I could paint them at one point. Unfortunately, materials cost a lot in this world, and there was no such thing as spray paint, so they weren&#x27;t painted. Still, it was fun, and I loved making the parts and putting them together, so they were quite detailed, even if they were the creations of an amateur.</p>
 <p>I did sell my first 1/8 scale Roxy figurine to a peddler for one gold coin. He was probably off traveling the world right now. Well, that aside.</p>
 <p>&quot;According to my master, a magic teacher should present their apprentice with a wand. I didn&#x27;t know how to make one, nor did I have the money to buy the materials, so it&#x27;s a little late, but I hope you&#x27;ll take it.&quot;</p>
 <p>As soon as Ghislaine heard that she stood and took a respectful knee before me. Ah, I knew what this was. This was the pose used by a disciple of the Sword God Style to pay respect to their teacher.</p>
@@ -203,7 +200,7 @@ nav_title = "Chapter 5"
 <p>She snatched it from my hands. Then, as if remembering how humbly Ghislaine had presented herself, she corrected herself and respectfully took it with both hands. &quot;Th-thank you, Master Rudeus.&quot;</p>
 <p>&quot;Yes, be sure to take care of it.&quot;</p>
 <p>Eris glanced meaningfully at Ghislaine.</p>
-<p><em>What&#x27;s that about?</em> I wondered.</p>
+<p>What&#x27;s that about? I wondered.</p>
 <p>Ghislaine froze for a moment before looking away. &quot;I&#x27;m sorry, but there is no such custom in my race. I don&#x27;t have anything.&quot; So that&#x27;s what it was about, Eris was hoping for a birthday gift.</p>
 <p>Eris retreated to the sofa, looking disappointed. Maybe there was no custom for employees offering their employers gifts, but I still felt bad that Eris didn&#x27;t get anything. She loved Ghislaine and saw her almost like an older sister. I could at least help out.</p>
 <p>&quot;Ghislaine. You don&#x27;t have to give her anything special. Just something you usually wear on your person, something she could think of as a charm. Anything like that.&quot;</p>
@@ -226,7 +223,7 @@ nav_title = "Chapter 5"
 <p>&quot;Wow.&quot;</p>
 <p>Oh no, did I just lose my v-card?!</p>
 <p>Of course not! I could still remember what happened clearly. In the middle of the party last night Eris got sleepy, so she passed out on my bed. That was when Ghislaine said she was going back and left Eris there, returning to her own room.</p>
-<p>Well, they did say a man was a fool not to eat a meal set in front of him. <em>Gehehe, let&#x27;s play a trick on her,</em> I thought, licking my lips as I approached her.</p>
+<p>Well, they did say a man was a fool not to eat a meal set in front of him. Gehehe, let&#x27;s play a trick on her, I thought, licking my lips as I approached her.</p>
 <p>But Eris was sleeping happily, hugging the wand I had given her to her chest with Ghislaine&#x27;s trinket on her finger.</p>
 <p>The bad wolf, with its face full of lust, retreated.</p>
 <p>&quot;Looks like your little talisman does have some effect after all,&quot; I whispered. I slipped out of bed without disturbing her rest.</p>
@@ -234,9 +231,8 @@ nav_title = "Chapter 5"
 <p>&quot;Now then.&quot; I began debating where to go as I traversed the chilly hallways. The manor gates didn&#x27;t open until later in the morning, so I couldn&#x27;t go outside. There weren&#x27;t many options.</p>
 <p>I had learned the general layout of the manor in the year that I had been here, but there were still many places I had never been. For instance, the single looming tower that I was told never to approach; that piqued my interest. Maybe I could get my hands on something good there, like someone&#x27;s underwear drying in the shade.</p>
 <p>With that thought, I took the stairs to the manor&#x27;s top floor. There I wandered aimlessly until I finally came upon some interesting spiral stairs. This had to be the entrance to that tower. I was told not to go near it, but yesterday was Eris&#x27;s birthday. I decided that meant I could flout the rules for today and started climbing.</p>
-<p>The tower&#x27;s external height matched the number of steps winding inside it. Around and around and around I went as I</p>
-<p>ascended more of them than I could count. That was when I heard a voice from above.</p>
-<p><em>&quot;Meow, meow.&quot;</em> A seductive voice that almost sounded like a cat in heat. I tried to silence my footsteps by tip-toeing up the rest of the stairs.</p>
+<p>The tower&#x27;s external height matched the number of steps winding inside it. Around and around and around I went as I ascended more of them than I could count. That was when I heard a voice from above.</p>
+<p>&quot;Meow, meow.&quot; A seductive voice that almost sounded like a cat in heat. I tried to silence my footsteps by tip-toeing up the rest of the stairs.</p>
 <p>At the top, I found Sauros. He was inside a room so small barely a single person could fit, getting busy with one of the cat-eared maids.</p>
 <p>Aha, so this was why they told me not to come here.</p>
 <p>&quot;Mm?&quot; Sauros noticed I was there after I had gotten a good look at them.</p>

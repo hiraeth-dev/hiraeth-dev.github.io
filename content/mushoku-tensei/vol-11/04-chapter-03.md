@@ -38,12 +38,12 @@ nav_title = "Chapter 3"
 <p>So they&#x27;d already met Aisha, huh? She was getting into bed with me on a regular basis, which probably explained the scent thing.</p>
 <p>&quot;No, not her. I mean my other sister. She&#x27;s been living in the dorms for a month now.&quot;</p>
 <p>&quot;Huh?! Wait, there&#x27;s another one?!&quot;</p>
-<p>&quot;And she&#x27;s livin&#x27; in the <em>dorms</em>?&quot;</p>
+<p>&quot;And she&#x27;s livin&#x27; in the dorms?&quot;</p>
 <p>Linia and Pursena turned to look at each other, their eyes opening wide. Apparently, they hadn&#x27;t run into Norn yet…or maybe they had, without realizing she was my sister. She didn&#x27;t spend much time at home, so she probably wouldn&#x27;t smell like me.</p>
 <p>&quot;Yeah, that&#x27;s right,&quot; I said. &quot;I don&#x27;t think she likes me very much, though. We&#x27;ve barely even spoken to each other for a while. I don&#x27;t know how to get her to warm up to me.&quot;</p>
 <p>&quot;Errrrr…yeah, that m-might be tricky…&quot;</p>
 <p>&quot;We could go around yellin&#x27; about how cool you are, if ya want…&quot;</p>
-<p>Hmm. I hadn&#x27;t considered an information warfare strategy. Maybe Norn <em>would</em> be more willing to give me a chance if she thought I was the most popular guy in school. But if I gave the job to Linia and Pursena, they&#x27;d probably just spread a bunch of nonsense about me beating the crap out of people.</p>
+<p>Hmm. I hadn&#x27;t considered an information warfare strategy. Maybe Norn would be more willing to give me a chance if she thought I was the most popular guy in school. But if I gave the job to Linia and Pursena, they&#x27;d probably just spread a bunch of nonsense about me beating the crap out of people.</p>
 <p>I&#x27;d prefer more of the &quot;Rudeus saved a puppy&quot; angle, honestly. Maybe an edited version of the day I met Julie would work.</p>
 <p>&quot;Anyway, the real problem is that she doesn&#x27;t seem to have any friends yet,&quot; I said. &quot;She&#x27;s only been here for a month, so maybe it&#x27;s too early for me to be worrying about this… But she&#x27;s a transfer student, you know? I bet she&#x27;s having a hard time fitting in.&quot;</p>
 <p>&quot;W-well, it&#x27;s early, right?&quot;</p>
@@ -59,7 +59,7 @@ nav_title = "Chapter 3"
 <p>&quot;Uh, they&#x27;re the same age. She&#x27;s ten.&quot;</p>
 <p>&quot;Really?! Phew!&quot;</p>
 <p>&quot;Good to hear! Yeah, we didn&#x27;t do nothin&#x27; to her.&quot;</p>
-<p>In other words, they&#x27;d done <em>something</em> to <em>somebody.</em> Maybe they made a habit of teaching cocky new students their place in the pecking order or something?</p>
+<p>In other words, they&#x27;d done something to somebody. Maybe they made a habit of teaching cocky new students their place in the pecking order or something?</p>
 <p>&quot;So Boss, uh, about that present…&quot;</p>
 <p>&quot;Don&#x27;t get mad at us if you don&#x27;t like it, okay? We worked really hard on it.&quot;</p>
 <p>It seemed kind of weird that they were revisiting this topic now. Why did they look so nervous about it all of a sudden? It was a little bit unsettling, but I was definitely curious to find out what they&#x27;d gotten me at this point.</p>
@@ -67,9 +67,9 @@ nav_title = "Chapter 3"
 <p>I wouldn&#x27;t exactly be overjoyed to find a bunch of dead mice inside or anything, but I wasn&#x27;t going to hold it against them.</p>
 <p>At this point, I noticed Cliff looking at me from his seat a few spots over.</p>
 <p>&quot;Hey. You have any advice for this thing with my sister, Cliff?&quot;</p>
-<p>&quot;…Hmph. Who says you <em>need</em> friends, anyway?&quot;</p>
+<p>&quot;…Hmph. Who says you need friends, anyway?&quot;</p>
 <p>Wow. Did somebody need a hug today or what?</p>
-<p>Still, Cliff wasn&#x27;t the loner he used to be anymore. He had Elinalise now. And me, for whatever that was worth. Maybe Norn would never be as popular as <em>that</em> social butterfly, but I had to hope she&#x27;d get to know a few people herself one of these days.</p>
+<p>Still, Cliff wasn&#x27;t the loner he used to be anymore. He had Elinalise now. And me, for whatever that was worth. Maybe Norn would never be as popular as that social butterfly, but I had to hope she&#x27;d get to know a few people herself one of these days.</p>
 <p>Recently, Nanahoshi had begun showing up at the dining hall around lunchtime. Maybe she&#x27;d finally figured out the importance of eating actual meals. Not that she was being particularly sociable about it…</p>
 <p>Noticing my gaze, she turned to glare at me. &quot;You need something?&quot;</p>
 <p>&quot;Nah, not really.&quot;</p>
@@ -78,7 +78,7 @@ nav_title = "Chapter 3"
 <p>&quot;Well, I&#x27;m not. I know I&#x27;m the one who came up with the recipe, but it&#x27;s terrible.&quot;</p>
 <p>&quot;The ingredients here aren&#x27;t as good as what we had back in Japan, I guess.&quot;</p>
 <p>&quot;That&#x27;s for sure.&quot;</p>
-<p>&quot;Is there any kind of food from this world that you <em>do</em> like?&quot;</p>
+<p>&quot;Is there any kind of food from this world that you do like?&quot;</p>
 <p>&quot;Those potato chips I ate at your house, I guess. Those were good.&quot;</p>
 <p>I guess she meant the ones Sylphie made at home. That made sense. Simple snacks like those didn&#x27;t taste that different from the ones we had back in Japan.</p>
 <p>&quot;Want us to make you more?&quot;</p>
@@ -105,12 +105,12 @@ nav_title = "Chapter 3"
 <p>&quot;Really?&quot;</p>
 <p>Now she definitely had my attention. Whatever the cause of this was, it might be having an effect on Norn.</p>
 <p>&quot;In the course of our investigation, we realized that most of the affected girls were quite pretty…and somewhat flat-chested as well.&quot;</p>
-<p><em>Crap.</em> Norn met both of those criteria, too. I was going to have to cooperate fully with this investigation of theirs. If I managed to save the day, maybe I&#x27;d even earn some gratitude from my sister.</p>
+<p>Crap. Norn met both of those criteria, too. I was going to have to cooperate fully with this investigation of theirs. If I managed to save the day, maybe I&#x27;d even earn some gratitude from my sister.</p>
 <p>&quot;Today, we managed to get the details out of one victim. Apparently, Linia and Pursena were going around and…er…&quot;</p>
 <p>Hold on, Linia and Pursena? They said they weren&#x27;t picking on the weak anymore, but…maybe they&#x27;d smelled some beef jerky in a new kid&#x27;s pocket and chased them down or something. That was depressingly plausible.</p>
 <p>&quot;…demanding that they take off their underwear and hand it over.&quot;</p>
 <p><em>Wait, what?</em></p>
-<p>I had a <em>very</em> bad feeling about where this was going.</p>
+<p>I had a very bad feeling about where this was going.</p>
 <p>&quot;Further investigation revealed that they were recently overheard saying, &#x27;I bet the boss will love those ones,&#x27; in the dining hall not long thereafter.&quot;</p>
 <p>&quot;…&quot;</p>
 <p>&quot;From what we understand, they were stashing the underwear they stole in a certain bag.&quot; Saying this, Ariel quietly glanced at the present I&#x27;d accepted a few hours earlier. Luke and Sylphie did the same, undoubtedly having received a description of what the bag looked like.</p>
@@ -120,10 +120,10 @@ nav_title = "Chapter 3"
 <p>I decided to forestall the question. It was smarter to take the initiative in a situation like this. &quot;Linia and Pursena gave me that bag this morning. They told me not to look inside until I was back at home, so I can&#x27;t be totally sure, but I have to assume it contains the objects you&#x27;re looking for.&quot;</p>
 <p>&quot;I see. Just to be clear, did you order them to do this?&quot;</p>
 <p>&quot;No, I didn&#x27;t.&quot;</p>
-<p>I was trying to keep my answers firm and concise. One wrong word could be lethal here, but I&#x27;d be all right as long as I kept it simple. This <em>was</em> just a misunderstanding, after all.</p>
+<p>I was trying to keep my answers firm and concise. One wrong word could be lethal here, but I&#x27;d be all right as long as I kept it simple. This was just a misunderstanding, after all.</p>
 <p>&quot;You weren&#x27;t involved at any stage, then?&quot;</p>
 <p>&quot;Of course not. I only just married Sylphie, remember? I&#x27;m not exactly sexually frustrated right now.&quot;</p>
-<p>Did she really think I was the type to carry out a plan this deranged right after I&#x27;d sent my own little sister into those dorms? I couldn&#x27;t <em>prove</em> my innocence, though, so I wasn&#x27;t sure how to defend myself. There had to be some way to make her understand…</p>
+<p>Did she really think I was the type to carry out a plan this deranged right after I&#x27;d sent my own little sister into those dorms? I couldn&#x27;t prove my innocence, though, so I wasn&#x27;t sure how to defend myself. There had to be some way to make her understand…</p>
 <p>&quot;Very well then. I&#x27;ll take you at your word.&quot; With another small sigh, Ariel abruptly cut off her interrogation.</p>
 <p><em>Well, that was easier than expected.</em></p>
 <p>&quot;Thank you, Princess Ariel. I appreciate that.&quot;</p>
@@ -139,11 +139,11 @@ nav_title = "Chapter 3"
 <p>I&#x27;d assumed it was just a joke at the time, but maybe they&#x27;d been serious about it. Well, whatever. This still wasn&#x27;t my fault, right? Yeah. Definitely not.</p>
 <p>&quot;I think this was a misguided attempt at doing me a kindness, so I&#x27;d appreciate it if you let me scold Linia and Pursena myself,&quot; I said. &quot;Oh, and could you arrange to have the underwear returned to their owners? Just to be clear, I haven&#x27;t even looked inside, let alone touched anything.&quot;</p>
 <p>I handed the bag over to Ariel without hesitation.</p>
-<p>Linia and Pursena might not have meant badly, but I&#x27;d have to be firm with them about this. The only panties I liked were <em>freshly</em> removed ones. It didn&#x27;t do anything for me if I didn&#x27;t get to see them coming off.</p>
+<p>Linia and Pursena might not have meant badly, but I&#x27;d have to be firm with them about this. The only panties I liked were freshly removed ones. It didn&#x27;t do anything for me if I didn&#x27;t get to see them coming off.</p>
 <p><em>Wait, no. That&#x27;s not the issue here.</em></p>
 <p>&quot;Very well, then.&quot;</p>
 <p>Ariel peeked briefly inside the bag, then nodded once again. It seemed we&#x27;d managed to resolve the matter neatly.</p>
-<p>&quot;I must say, though,&quot; Ariel continued, shooting a glance over at Sylphie, &quot;this is <em>quite</em> a lot of underwear. Aren&#x27;t you a bit disappointed to lose such a treasure trove, Rudeus?&quot;</p>
+<p>&quot;I must say, though,&quot; Ariel continued, shooting a glance over at Sylphie, &quot;this is quite a lot of underwear. Aren&#x27;t you a bit disappointed to lose such a treasure trove, Rudeus?&quot;</p>
 <p>&quot;Not at all. I don&#x27;t have an underwear fetish or anything.&quot;</p>
 <p>&quot;…I see. Well, my apologies for doubting you.&quot;</p>
 <p>&quot;That&#x27;s quite all right. I&#x27;m glad we managed to clear up the misunderstanding.&quot;</p>
@@ -188,7 +188,7 @@ nav_title = "Chapter 3"
 <p>&quot;That&#x27;s not what I mean! You coulda given him yours, too!&quot;</p>
 <p>&quot;Nope. I&#x27;ve got big boobs, so he wouldn&#x27;t be interested.&quot;</p>
 <p>It was kind of entertaining to watch their pathetic attempts to blame each other for the situation, but also kind of irritating. Why did they think I only liked flat-chested girls, anyway?</p>
-<p>&quot;Okay, pipe down!&quot; It felt like they could have gone on forever, so I clapped my hands sharply to interrupt. &quot;Do you remember what I told you before, girls? I told you not to pick on anyone weaker than you. You <em>do</em> recall this, right?&quot;</p>
+<p>&quot;Okay, pipe down!&quot; It felt like they could have gone on forever, so I clapped my hands sharply to interrupt. &quot;Do you remember what I told you before, girls? I told you not to pick on anyone weaker than you. You do recall this, right?&quot;</p>
 <p>That got them trembling.</p>
 <p>&quot;W-we didn&#x27;t pick on anyone, Boss. Honest!&quot; Linia whined.</p>
 <p>&quot;T-that&#x27;s right. We just asked &#x27;em real nicely,&quot; added Pursena with a whimper.</p>
@@ -209,10 +209,10 @@ nav_title = "Chapter 3"
 <p>I had a feeling Ariel would make sure their victims were taken care of. With that in mind, I couldn&#x27;t find it in myself to get too angry at them, which actually surprised me a bit. Maybe I was biased because they were my friends?</p>
 <p>&quot;Tell me something, though. Why the heck did you decide to give me a bunch of underwear as a present, anyway?&quot;</p>
 <p>The two of them looked up at me in blank confusion, as if I&#x27;d asked the strangest question in the world.</p>
-<p>&quot;I mean, you <em>worship</em> panties, don&#x27;tcha?&quot;</p>
+<p>&quot;I mean, you worship panties, don&#x27;tcha?&quot;</p>
 <p>&quot;Yeah. You got that one pair in your special altar and everything.&quot;</p>
 <p>Ah, right. So this was ultimately my fault. I should never have allowed these two idiots to lay eyes upon my holy idol, not even for a second.</p>
-<p>&quot;You&#x27;ve got the wrong idea,&quot; I said. &quot;I&#x27;m not worshiping the panties themselves. They just belonged to someone who I <em>do</em> worship. They&#x27;re a holy relic, basically.&quot;</p>
+<p>&quot;You&#x27;ve got the wrong idea,&quot; I said. &quot;I&#x27;m not worshiping the panties themselves. They just belonged to someone who I do worship. They&#x27;re a holy relic, basically.&quot;</p>
 <p>&quot;Wait, really?&quot;</p>
 <p>&quot;We totally thought you were in a panties cult or something.&quot;</p>
 <p>I did have a certain fondness for panties, but I&#x27;d never taken things that far. &quot;Well, now that that&#x27;s cleared up…make sure you don&#x27;t repeat this mistake, all right?&quot;</p>
@@ -222,10 +222,10 @@ nav_title = "Chapter 3"
 <p>&quot;If you really feel the need to give me panties, I&#x27;d prefer ones you take off yourselves right in front of me.&quot;</p>
 <p>&quot;Huh?&quot;</p>
 <p>&quot;Huh?!&quot;</p>
-<p><em>Whoops, maybe that part didn&#x27;t need to be said.</em> Now I had the two of them smirking at me knowingly.</p>
-<p>&quot;I knew it! You <em>do</em> wanna mate with us, Boss!&quot;</p>
+<p>Whoops, maybe that part didn&#x27;t need to be said. Now I had the two of them smirking at me knowingly.</p>
+<p>&quot;I knew it! You do wanna mate with us, Boss!&quot;</p>
 <p>&quot;Well, of course he does. Deep down, he&#x27;s just another dude. We&#x27;re irresistible.&quot;</p>
-<p>Wow, this was <em>extremely</em> annoying. It also didn&#x27;t make that much sense. Shouldn&#x27;t they be grossed out or something, instead of teasing me like this? Did they have a crush on me?</p>
+<p>Wow, this was extremely annoying. It also didn&#x27;t make that much sense. Shouldn&#x27;t they be grossed out or something, instead of teasing me like this? Did they have a crush on me?</p>
 <p>Nah, that wasn&#x27;t it. This was something different. I could tell they liked me, but it wasn&#x27;t in the same way that Sylphie did. I couldn&#x27;t put my finger on the exact difference, though. For now, I&#x27;d just think of it as a weird kind of friendship.</p>
 <p>I&#x27;d said everything else I needed to, which brought this meeting to an end. My reputation was probably going to take a hit as a result of this incident, but I could live with that. I didn&#x27;t care that much what people said about me behind my back, anyway.</p>
 <p>As the three of us emerged from behind the building, we bumped into a group of first-year students. They were all carrying their school bags, so it seemed they were heading back to the dorms. The moment they spotted us, they all shifted over to the side of the path to get out of our way.</p>
@@ -240,7 +240,7 @@ nav_title = "Chapter 3"
 <p>&quot;You got it, Boss!&quot;</p>
 <p>&quot;We&#x27;ll play nice.&quot;</p>
 <p>Still, this silent treatment from Norn was really starting to get to me. I wanted us to least get to where we could have a basic conversation…but as long as she was managing okay on her own, it didn&#x27;t seem right for me to force the issue.</p>
-<p>For a while, things were relatively uneventful. I wasn&#x27;t getting any closer to Norn, but she <em>was</em> stopping by the house once every ten days like she&#x27;d promised.</p>
+<p>For a while, things were relatively uneventful. I wasn&#x27;t getting any closer to Norn, but she was stopping by the house once every ten days like she&#x27;d promised.</p>
 <p>I was a little surprised that she didn&#x27;t disobey me more often, considering the fact that she obviously disliked me. But for the most part, she didn&#x27;t push back at me directly…although she did grimace sometimes.</p>
 <p>When you thought about it, though, I hadn&#x27;t spent much time with either of my sisters after their infancy. Maybe it was stupid of me to expect they&#x27;d think of me as family right off the bat. Aisha&#x27;s friendly attitude was probably the more unusual of the two. Just because you&#x27;re related to someone doesn&#x27;t mean you&#x27;ll unconditionally enjoy each other&#x27;s company. I knew that all too well. In fact, family members can often be the people we resent most bitterly—and most persistently.</p>
 <p>I&#x27;d punched my father in front of Norn. Paul and I had made up quickly and put that incident behind us, but the memory probably still smoldered in my sister&#x27;s heart. If she ever brought it up, I&#x27;d have to apologize sincerely. Even if it seemed like ancient history to me, the pain and anger might still be fresh for her.</p>

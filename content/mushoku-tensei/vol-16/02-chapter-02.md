@@ -16,18 +16,17 @@ nav_title = "Chapter 2"
 <p>&quot;Yay!&quot;</p>
 <p>Applause rang from the crowd. The audience&#x27;s fervor was hitting its peak. Tonight&#x27;s concert would be legendary!</p>
 <p><em>Hold up, Dillo and Byt. Why aren&#x27;t the two of you clapping? This just won&#x27;t do. What? They&#x27;re pets so they can&#x27;t clap? Well, I suppose it can&#x27;t be helped.</em></p>
-<p>&quot;As for exactly <em>what</em> I will be summoning, I am afraid I don&#x27;t know for sure. However, we can expect something particularly powerful. And this creature, whatever it is, will keep our family safe and secure.&quot;</p>
+<p>&quot;As for exactly what I will be summoning, I am afraid I don&#x27;t know for sure. However, we can expect something particularly powerful. And this creature, whatever it is, will keep our family safe and secure.&quot;</p>
 <p>&quot;Are you sure this will be okay? That this thing won&#x27;t eat us all while you&#x27;re gone?&quot; Sylphie asked, worried.</p>
 <p><em>That&#x27;s a terrifying thought.</em></p>
 <p>That said, I did recall reading a story like that a long time ago. Something about someone calling forth a beast they couldn&#x27;t control and it killing everyone.</p>
 <p>&quot;I get you&#x27;re worried, but this was made by the meticulous hand of the Dragon God.&quot;</p>
-<p>&quot;Which is precisely <em>why</em> I&#x27;m worried.&quot;</p>
+<p>&quot;Which is precisely why I&#x27;m worried.&quot;</p>
 <p>Logically speaking, Orsted would never use such a roundabout way to get rid of us, but Sylphie probably wasn&#x27;t thinking straight thanks to his curse.</p>
 <p><em>But wait, could this be his way of putting a leash on me in case I betray him? Like, if I turn my back on him, will he threaten me? &quot;With a snap of my fingers, that beast residing at your house will devour your entire family.&quot;</em></p>
 <p>That really didn&#x27;t seem likely.</p>
 <p>&quot;In any case, I&#x27;m going to summon it now. If it seems dangerous, we&#x27;ll get rid of it together, and then I can give Orsted an earful.&quot;</p>
-<p>&quot;Sounds good to me!&quot; Eris declared in excitement. She pulled a sword from its scabbard with a majestic clang. She had two at her</p>
-<p>hip. On the right was Eminence, a magic blade the Sword God had gifted her. On her left was one she had grown attached to and used for a long time.</p>
+<p>&quot;Sounds good to me!&quot; Eris declared in excitement. She pulled a sword from its scabbard with a majestic clang. She had two at her hip. On the right was Eminence, a magic blade the Sword God had gifted her. On her left was one she had grown attached to and used for a long time.</p>
 <p><em>Isn&#x27;t it cumbersome, carrying both at the same time?</em></p>
 <p>&quot;When that happens, all of us will be able to fight Orsted together!&quot; she declared.</p>
 <p><em>We&#x27;re not going to fight. We&#x27;re just going to file a complaint, like a normal dissatisfied customer. If we tried to take him down, we&#x27;d be the ones kicking the bucket instead.</em></p>
@@ -43,7 +42,7 @@ nav_title = "Chapter 2"
 <p>&quot;Well, if you say so. I believe you. But wait just a second while I get my staff.&quot; Roxy, it seemed, was not entirely convinced. She said she trusted me, but still disappeared inside the house to retrieve her weapon in case things got ugly.</p>
 <p>&quot;I have no idea why everyone seems so on guard, but…you&#x27;re sure this isn&#x27;t dangerous, Big Brother?&quot; Norn furrowed her brow.</p>
 <p>Aisha clapped a hand on Norn&#x27;s shoulder. &quot;Don&#x27;t be stupid. If it were that dangerous, he wouldn&#x27;t activate it with us around.&quot;</p>
-<p>Her trust felt like a dagger to the heart. Honestly, I <em>hadn&#x27;t</em> confirmed if this summoning circle was safe. Could I really just use it like this? Perhaps I should wait until I could get Perugius to check it, just to be sure?</p>
+<p>Her trust felt like a dagger to the heart. Honestly, I hadn&#x27;t confirmed if this summoning circle was safe. Could I really just use it like this? Perhaps I should wait until I could get Perugius to check it, just to be sure?</p>
 <p>But if I did, Aisha&#x27;s affectionate gaze would turn to disappointment. And she&#x27;d only be suspicious of Orsted, after that.</p>
 <p>&quot;Should the worst come to pass, I will act as a shield for everyone. Please, do what you need,&quot; said Lilia.</p>
 <p><em>Well, that sounds ominous.</em></p>
@@ -74,7 +73,7 @@ nav_title = "Chapter 2"
 <p>&quot;What&#x27;s the meaning of this?!&quot; the masked man demanded.</p>
 <p>No, it was wrong to call him that. I knew exactly who this was.</p>
 <p>Arumanfi the Bright.</p>
-<p><em>The way he&#x27;s posed reminds me of a fallen angel. Not that I&#x27;m trying to make</em> light <em>of him, I swear. I&#x27;d never be able to hold a candle to his</em> brightness<em>. He&#x27;s way more</em> lit <em>than I am. Just kidd—</em></p>
+<p>The way he&#x27;s posed reminds me of a fallen angel. Not that I&#x27;m trying to make light of him, I swear. I&#x27;d never be able to hold a candle to his brightness. He&#x27;s way more lit than I am. Just kidd—</p>
 <p>&quot;I asked you, Rudeus Greyrat, what your intention is here?!&quot; He leapt from the table and tried to seize me by the collar, only to freeze midway through, his entire body trembling.</p>
 <p>Eris immediately moved into battle stance, but I held a hand up to stay her.</p>
 <p><em>Bad girl. Go to your pen, Eris.</em></p>
@@ -112,7 +111,7 @@ nav_title = "Chapter 2"
 <p>The circle that Orsted had drawn me apparently lost its power when the contract was annulled, so Perugius made me a new one. It was hard to believe he&#x27;d show me such kindness after I so rudely swiped one of his servants. He really was as magnanimous as Sylvaril claimed.</p>
 <p>The truly terrifying part of the whole ordeal was the level of power Orsted&#x27;s circle had commanded. Or maybe it was my own magic that was to blame? Perhaps both. Each was merely a spark on its own, but combined, they made a raging flame.</p>
 <p>Since the previous summoning hadn&#x27;t depleted much of my mana, I decided to collect myself and try again immediately. According to Perugius, it was better not to imagine vague concepts like majestic, omniscient, or omnipotent, but rather, an animal.</p>
-<p><em>If that was all, I wish Orsted had simply said so.</em> But knowing him, he&#x27;d probably have told me to keep Arumanfi, as crazy as that idea sounded.</p>
+<p>If that was all, I wish Orsted had simply said so. But knowing him, he&#x27;d probably have told me to keep Arumanfi, as crazy as that idea sounded.</p>
 <p>&quot;Okay, let&#x27;s try this again.&quot;</p>
 <p>I surveyed the area before putting my hands on the magic circle once more. This time, I was going to keep a concrete image in my mind. I wanted a strong, proud animal.</p>
 <p><em>A lion!</em></p>
@@ -153,7 +152,7 @@ nav_title = "Chapter 2"
 <p><em>Hmm…</em></p>
 <p>I spoke in Beast God Tongue. &quot;O Sacred Beast, if I might humbly ask, do you possess the power to protect my family from any calamity that might befall them?&quot;</p>
 <p>&quot;Woof!&quot;</p>
-<p>He seemed to be saying, &quot;Leave everything to me!&quot; He seemed motivated enough, but on the other hand, he <em>had</em> gotten himself kidnapped before. Could I really rely on him to protect them? Orsted assured me that the Man-God probably wouldn&#x27;t come after my family much anymore, so maybe I didn&#x27;t have anything to worry about, but…</p>
+<p>He seemed to be saying, &quot;Leave everything to me!&quot; He seemed motivated enough, but on the other hand, he had gotten himself kidnapped before. Could I really rely on him to protect them? Orsted assured me that the Man-God probably wouldn&#x27;t come after my family much anymore, so maybe I didn&#x27;t have anything to worry about, but…</p>
 <p>&quot;Arf?&quot;</p>
 <p>As I was lost in thought, the Sacred Beast leaped from the summoning table and pressed its body against me, licking at my face again.</p>
 <p><em>Ahh, he&#x27;s so soft… They definitely have to be using some kinda conditioner on him. And if he&#x27;s our Guardian Beast, that means I&#x27;ll be able to enjoy his fluffy fur every single day.</em></p>

@@ -9,15 +9,14 @@ nav_title = "Chapter 12"
 
 <p><strong>S</strong>EVERAL DAYS after the graduation ceremony, I was back at work.</p>
 <p>There was a large magic circle spread out before my eyes. At a glance, it almost looked like it was printed on a slab of stone.</p>
-<p>The &quot;slab,&quot; however, was actually composed of over a hundred sheets of oversized paper stacked on top of each other. Each individual page was covered with another portion of the overall design. A wooden frame kept everything fixed snugly in place. There were magic circles carved into <em>its</em> surface, as well.</p>
+<p>The &quot;slab,&quot; however, was actually composed of over a hundred sheets of oversized paper stacked on top of each other. Each individual page was covered with another portion of the overall design. A wooden frame kept everything fixed snugly in place. There were magic circles carved into its surface, as well.</p>
 <p>It was no exaggeration to call this thing a full-fledged magic implement. Obviously, its creation had taken a significant amount of time. I&#x27;d helped out when I could, but for the most part it was entirely Nanahoshi&#x27;s work.</p>
 <p>&quot;All right, then. Please begin.&quot;</p>
 <p>Nanahoshi was crouching across from me, looking down at her creation. Cliff and Zanoba flanked her on either side.</p>
 <p>They&#x27;d been helping us out with this research for some time now, so I&#x27;d asked them to come observe whenever we were on the verge of a major breakthrough.</p>
 <p>Nanahoshi had disliked the idea, but ultimately gave in when I argued that they&#x27;d earned the right to be here.</p>
-<p>Of course, their presence wasn&#x27;t <em>really</em> a reward. They were here in case the experiment failed and Nanahoshi started thrashing around again. I wanted someone here to restrain her…and help me console her afterward, for that matter.</p>
-<p>It was pretty effective to have someone of a different gender comfort you. Might not be a universal rule, but it was true in my</p>
-<p>experience, at least. We could take her out to a nice tavern and give her lots of attention. Bring out the expensive champagne, that sort of thing. The three of us weren&#x27;t exactly host club material, but it&#x27;s the thought that counts, right?</p>
+<p>Of course, their presence wasn&#x27;t really a reward. They were here in case the experiment failed and Nanahoshi started thrashing around again. I wanted someone here to restrain her…and help me console her afterward, for that matter.</p>
+<p>It was pretty effective to have someone of a different gender comfort you. Might not be a universal rule, but it was true in my experience, at least. We could take her out to a nice tavern and give her lots of attention. Bring out the expensive champagne, that sort of thing. The three of us weren&#x27;t exactly host club material, but it&#x27;s the thought that counts, right?</p>
 <p>All that said, I was feeling confident about this one.</p>
 <p>Cliff had given the design sketches his stamp of approval. And thanks to the Zaliff Prosthesis, Zanoba was growing increasingly good at executing this sort of detail work. I didn&#x27;t see any reason why we&#x27;d fail.</p>
 <p><em>Here goes nothing…</em></p>
@@ -35,12 +34,12 @@ nav_title = "Chapter 12"
 <p>I&#x27;d seen flashes of light exactly like these right before the Displacement Incident.</p>
 <p><em>Crap. Should I stop? This thing might teleport all four of us to the middle of nowhere.</em></p>
 <p><em>And what if it&#x27;s a bigger-scale effect? Sylphie and Norn are on campus today, aren&#x27;t they? Wait, it might even take the entire city…and Lucie along with it…</em></p>
-<p>On the other hand, it didn&#x27;t <em>feel</em> like anything too dramatic was about to happen. And the magic circles we&#x27;d designed weren&#x27;t capable of producing any such effects, anyway.</p>
-<p>We&#x27;d done our homework here. I was positive we hadn&#x27;t screwed it up <em>that</em> badly. It just wasn&#x27;t possible.</p>
+<p>On the other hand, it didn&#x27;t feel like anything too dramatic was about to happen. And the magic circles we&#x27;d designed weren&#x27;t capable of producing any such effects, anyway.</p>
+<p>We&#x27;d done our homework here. I was positive we hadn&#x27;t screwed it up that badly. It just wasn&#x27;t possible.</p>
 <p>Everything was going to be fine. This was going to work!</p>
 <p>&quot;…!&quot;</p>
 <p>The light grew stronger and stronger…and then collapsed into a single point.</p>
-<p>In that moment, I heard a small <em>thunk</em>.</p>
+<p>In that moment, I heard a small thunk.</p>
 <p>My mana abruptly stopped flowing into the magic circle, and the circle stopped glowing as well.</p>
 <p>&quot;…&quot;</p>
 <p>There was something green sitting at the circle&#x27;s very center. Something green and black and round—about the size of a globe, but much juicier-looking.</p>
@@ -53,7 +52,7 @@ nav_title = "Chapter 12"
 </div>
 <p>&quot;Congratulations, Master Rudeus!&quot;</p>
 <p>&quot;Well done, Nanahoshi!&quot;</p>
-<p>Zanoba and Cliff applauded. They looked <em>almost</em> as jubilant as she did.</p>
+<p>Zanoba and Cliff applauded. They looked almost as jubilant as she did.</p>
 <p>&quot;I must say, however…&quot;</p>
 <p>Zanoba approached the watermelon curiously and gave it a few pokes.</p>
 <p>&quot;This green-and-black pattern strikes me as rather ominous. Would it be safe for me to hold the thing? It won&#x27;t bite, will it?&quot;</p>
@@ -61,7 +60,7 @@ nav_title = "Chapter 12"
 <p>&quot;All right… Oh! It&#x27;s rather heavy, I see.&quot;</p>
 <p>Picking up the watermelon, he proceeded to study it from many different angles.</p>
 <p>Personally, I didn&#x27;t see anything &quot;ominous&quot; about it. Maybe green and black just wasn&#x27;t an appetizing color combination for the natives of this world. It would be bright red on the inside, but that might seem creepy in its own way.</p>
-<p>Now that I thought about it, though…this world had plenty of oddly colored, strangely shaped vegetables in its own right. You could find a variety of gourds in any market. It wouldn&#x27;t surprise me if there were watermelons <em>somewhere</em> out there.</p>
+<p>Now that I thought about it, though…this world had plenty of oddly colored, strangely shaped vegetables in its own right. You could find a variety of gourds in any market. It wouldn&#x27;t surprise me if there were watermelons somewhere out there.</p>
 <p>&quot;Hey, Nanahoshi, I just had a thought…&quot;</p>
 <p>&quot;Yes?&quot;</p>
 <p>&quot;I know it&#x27;s a little late now, but shouldn&#x27;t we have summoned something like a Yubari melon instead? They had to selectively breed those things, so they definitely don&#x27;t exist in this world.&quot;</p>
@@ -78,7 +77,7 @@ nav_title = "Chapter 12"
 <p>That evening, we held a nice little celebration. We&#x27;d lost Linia and Pursena since last time, but this time Roxy and Norn joined in. In a net numbers sense, we were only down one six-armed Demon King.</p>
 <p>It wasn&#x27;t exactly the same, of course. There were fewer people squawking loudly, and more members of my family. Not that it was really a problem.</p>
 <p>Nanahoshi was drinking like a fish. Before long, she started squeezing Julie in her arms like a doll, while chatting with Elinalise about something or other. For once, her expression was cheerful, and she was speaking loudly.</p>
-<p>That was definitely unusual. The girl&#x27;s standard mode of communication was a sullen murmur, after all. The success of today&#x27;s experiment had her in a <em>very</em> good mood.</p>
+<p>That was definitely unusual. The girl&#x27;s standard mode of communication was a sullen murmur, after all. The success of today&#x27;s experiment had her in a very good mood.</p>
 <p>Elinalise listened to her chattering with a benevolent smile on her face. Zanoba and Cliff had struck up a separate conversation with Roxy. Judging from their serious expressions, it was probably about their research. Those three were workaholics, after all.</p>
 <p>&quot;Here you go, Rudy.&quot;</p>
 <p>&quot;Ah. Thanks.&quot;</p>
@@ -88,7 +87,7 @@ nav_title = "Chapter 12"
 <p>&quot;…Oh. Gotcha.&quot;</p>
 <p>&quot;We&#x27;re not staying out tonight, after all. I want to make sure I can put Lucie to bed.&quot;</p>
 <p>&quot;Yeah, I totally understand.&quot;</p>
-<p>That was kind of a shame, though. Sylphie was <em>really</em> cute when she got drunk. She got incredibly affectionate when her inhibitions came down. On the other hand, the whole &quot;being responsible&quot; thing was appealing in its own way. I had a good wife on my hands here.</p>
+<p>That was kind of a shame, though. Sylphie was really cute when she got drunk. She got incredibly affectionate when her inhibitions came down. On the other hand, the whole &quot;being responsible&quot; thing was appealing in its own way. I had a good wife on my hands here.</p>
 <p>The two of us proceeded to engage in some mild public displays of affection. And after a while, Roxy came over to join us.</p>
 <p>&quot;Would you mind letting me participate as well, Rudy?&quot;</p>
 <p>&quot;In what?&quot;</p>
@@ -105,7 +104,7 @@ nav_title = "Chapter 12"
 <p>&quot;Oh, that looks kind of nice… Hmm. Rudy, let me try it later, okay?&quot;</p>
 <p>&quot;Of course, Sylphie.&quot;</p>
 <p>In fact, I was more than willing to let them both on my lap at once. Let&#x27;s see… I could give my left knee to Roxy and my right to Sylphie. Those were the sides they&#x27;d taken in bed the other night, as I recalled.</p>
-<p>Man, it was <em>so</em> nice when I got to put my arms around both of them at once. Made me feel like I was drowning in happiness.</p>
+<p>Man, it was so nice when I got to put my arms around both of them at once. Made me feel like I was drowning in happiness.</p>
 <p>&quot;…Rudeus?&quot;</p>
 <p>Hmm. Norn appeared to be glaring at me from the other side of the table.</p>
 <p>Right, right. I shouldn&#x27;t have been neglecting her like this. She didn&#x27;t know most of the people in this group very well. None of them were strangers to her, but holding a conversation would probably be hard. She&#x27;d just been sitting quietly across from me for some time now.</p>
@@ -133,7 +132,7 @@ nav_title = "Chapter 12"
 <p>&quot;Do you think you can handle doing all these different things at once?&quot;</p>
 <p>Norn bit her lip and fell silent. It was probably something she&#x27;d been worrying about herself.</p>
 <p>&quot;I&#x27;m not opposed to you joining the Student Council or anything. I&#x27;m just wondering if you&#x27;ll be able to give it enough of your attention.&quot;</p>
-<p>&quot;Okay. But you&#x27;ve got your sword practice and your book to work on too, right? And those were both things <em>you</em> wanted to do. I mean, the book was originally my job, so it&#x27;s not that big a deal…but what about your training? Your classes will be getting tougher as a third-year, too.&quot;</p>
+<p>&quot;Okay. But you&#x27;ve got your sword practice and your book to work on too, right? And those were both things you wanted to do. I mean, the book was originally my job, so it&#x27;s not that big a deal…but what about your training? Your classes will be getting tougher as a third-year, too.&quot;</p>
 <p>&quot;I&#x27;ll keep up with my classes. And my training. I promise.&quot;</p>
 <p>Well, she talked a good game, at least. But I knew from experience that it was difficult to focus on too many things at once. When you tried to do two tasks simultaneously, one of them inevitably wound up being neglected.</p>
 <p>At this point, Sylphie intervened, looking a bit concerned. &quot;Um, Rudy…Norn&#x27;s been handling things very well so far.&quot;</p>
@@ -142,18 +141,18 @@ nav_title = "Chapter 12"
 <p>&quot;It&#x27;s been…over a year now, actually. I think it started while you were away on your journey.&quot;</p>
 <p>&quot;Wait, really? Huh. That&#x27;s a pretty long time…&quot; That would mean she&#x27;d started this before we began our sword training together, even.</p>
 <p>&quot;It&#x27;s going be okay, Rudy. I&#x27;ll vouch for that. Norn will be just fine as a member of the Student Council, and she won&#x27;t neglect any of her other responsibilities, either.&quot;</p>
-<p>I was surprised by the firmness of Sylphie&#x27;s tone. But then again, she had good justification for her confidence. Norn was <em>already</em> managing to do all of this at once. I didn&#x27;t see any reason to keep playing the devil&#x27;s advocate.</p>
+<p>I was surprised by the firmness of Sylphie&#x27;s tone. But then again, she had good justification for her confidence. Norn was already managing to do all of this at once. I didn&#x27;t see any reason to keep playing the devil&#x27;s advocate.</p>
 <p>&quot;Well, wow… Sure sounds like you&#x27;ve been working hard, Norn.&quot;</p>
-<p>It made me really happy to know that she was out there trying her best, even when I wasn&#x27;t around to keep an eye on her. There was this…feeling in my chest that I couldn&#x27;t find the words to describe. <em>Warm</em> and <em>fuzzy</em>, maybe?</p>
+<p>It made me really happy to know that she was out there trying her best, even when I wasn&#x27;t around to keep an eye on her. There was this…feeling in my chest that I couldn&#x27;t find the words to describe. Warm and fuzzy, maybe?</p>
 <p>&quot;Okay then. I&#x27;m not sure you really needed my permission in the first place, but for what it&#x27;s worth, you&#x27;ve got it. Good luck with the Student Council, Norn.&quot;</p>
 <p>&quot;Thank you, Rudeus!&quot; said Norn cheerfully. &quot;I really appreciate it!&quot;</p>
 <p>In the end, it was all up to her how this turned out. Still, the grown-ups in her life had the responsibility to support her and cheer her on. I was more than willing to break out the pom-poms for her.</p>
 <p>Just as our conversation came to an end, Nanahoshi raised her voice from the other end of the table. &quot;Let&#x27;s split the watermelon!&quot;</p>
 <p>We proceeded to divide up the watermelon we&#x27;d summoned, and served a big slice to everyone at the party. It was slightly less sweet and juicy than those I remembered from my last life. Probably one of those California ones.</p>
-<p>Putting its taste aside, we did discover something interesting in the process of splitting it: It was a <em>seedless</em> variety.</p>
+<p>Putting its taste aside, we did discover something interesting in the process of splitting it: It was a seedless variety.</p>
 <p>Agricultural techniques in this world weren&#x27;t sophisticated enough to produce anything like that. In other words, the experiment had been a success beyond a shadow of a doubt.</p>
 <p>The party had reached its climax…or maybe passed it, actually.</p>
-<p>Nanahoshi was singing. Norn was dancing. Zanoba was blathering at Julie about figurines. Sylphie was looking after Roxy, who&#x27;d gotten <em>very</em> drunk. And Cliff was making out with Elinalise in a corner.</p>
+<p>Nanahoshi was singing. Norn was dancing. Zanoba was blathering at Julie about figurines. Sylphie was looking after Roxy, who&#x27;d gotten very drunk. And Cliff was making out with Elinalise in a corner.</p>
 <p>Everyone was feeling some fatigue, but it was the pleasant kind you get near the end of a fun night out. For my part, I was leaning back in my chair and smiling drunkenly at the others.</p>
 <p>&quot;…Hey, Rudeus.&quot;</p>
 <p>Nanahoshi had wandered over to me, having finished up her song. She started to say something to me, but then broke down coughing.</p>
@@ -169,7 +168,7 @@ nav_title = "Chapter 12"
 <p>&quot;Phase four was…summoning a living thing that meets specific criteria, right?&quot;</p>
 <p>&quot;That&#x27;s correct. I know someone who&#x27;s very knowledgeable about this part, so I&#x27;m planning to ask him for guidance.&quot;</p>
 <p>Ah, right. It had to be that &quot;authority&quot; on Summoning magic she mentioned every once in a while…</p>
-<p>&quot;It&#x27;s not <em>Orsted,</em> is it?&quot;</p>
+<p>&quot;It&#x27;s not Orsted, is it?&quot;</p>
 <p>&quot;No, it isn&#x27;t. He can use Summoning magic as well, but this is someone else entirely.&quot;</p>
 <p>That was a relief.</p>
 <p>It figured that Orsted could use Summoning magic, though. Was there anything that guy couldn&#x27;t do?</p>
@@ -187,7 +186,7 @@ nav_title = "Chapter 12"
 <p>Well, yeah. I didn&#x27;t really need to learn how to summon things from another world, which was the focus of Nanahoshi&#x27;s research.</p>
 <p>It might be convenient at times, of course. I wouldn&#x27;t mind summoning a baby bottle or a stroller for my kid. But stuff like that was more of a luxury than something I really needed. I was satisfied with my life the way it was.</p>
 <p>I did have some interest in learning more conventional Summoning spells. I couldn&#x27;t imagine myself needing those very often either, so it was mostly a matter of personal curiosity.</p>
-<p>I was also interested in figuring out why the Displacement Incident had taken place. But again, I didn&#x27;t feel a burning <em>need</em> to find those answers.</p>
+<p>I was also interested in figuring out why the Displacement Incident had taken place. But again, I didn&#x27;t feel a burning need to find those answers.</p>
 <p>&quot;This would count as two rewards, though? Is this guy that incredible at what he does?&quot;</p>
 <p>&quot;Absolutely. He might even be capable of fixing your mother&#x27;s memory, for that matter.&quot;</p>
 <p>&quot;Wait, what?&quot; I reflexively leaned forward in my chair at that one.</p>
@@ -196,7 +195,7 @@ nav_title = "Chapter 12"
 <p>&quot;I can&#x27;t say for sure, but the man&#x27;s been alive for a very long time. There&#x27;s a good chance he knows something useful.&quot;</p>
 <p>I felt like Zenith&#x27;s condition had been steadily improving, but it was very hard to tell if her memories were ever going to fully return.</p>
 <p>I didn&#x27;t want to get my hopes up for a quick fix. Still, there was a chance this man could give us a name for her condition, or describe some similar cases. In combination with my knowledge from my previous life, it might point us toward some new possibilities.</p>
-<p>It wasn&#x27;t like I&#x27;d learned much about this sort of thing back in my old world, but there was still a <em>chance</em> I&#x27;d recall something useful. &quot;Ah, are we discussing Lady Nanahoshi&#x27;s master?&quot;</p>
+<p>It wasn&#x27;t like I&#x27;d learned much about this sort of thing back in my old world, but there was still a chance I&#x27;d recall something useful. &quot;Ah, are we discussing Lady Nanahoshi&#x27;s master?&quot;</p>
 <p>&quot;I&#x27;d love to meet the man myself, if you&#x27;re open to the idea…&quot;</p>
 <p>At some point, Cliff and Zanoba had also approached to listen in on our conversation.</p>
 <p>Elinalise was standing from just behind Cliff, as well. However, she was busy playing with his ears. I wasn&#x27;t sure what the appeal was, but she seemed to be enjoying herself.</p>

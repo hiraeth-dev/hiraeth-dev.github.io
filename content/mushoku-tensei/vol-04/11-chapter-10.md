@@ -13,8 +13,7 @@ nav_title = "Chapter 10"
 <p>&quot;N-no, it&#x27;s Tona&#x27;s fault,&quot; Tersena said in protest.</p>
 <p>According to her, now that the rainy season was over, Eris had said she was going to leave the village and Minitona tried to stop her. Eris was happy that Minitona wanted her to stay, but she explained why she had to continue her journey, pointing out that Minitona&#x27;s request was a selfish one. It was usually the other way around with Eris.</p>
 <p>They continued talking for a while after that. At first the two of them were calm, but their dispute soon grew heated. Minitona began hurling insults. Among them were things about Ghislaine and myself. Eris looked annoyed, but endured it all and replied calmly.</p>
-<p>In the end, Minitona threw the first punch. She was the one who tried to pick a fight with Eris. That took a lot of courage. I gave her</p>
-<p>props for that. It was definitely something I couldn&#x27;t do. Eris didn&#x27;t back down. As expected, she mercilessly beat Minitona to a pulp.</p>
+<p>In the end, Minitona threw the first punch. She was the one who tried to pick a fight with Eris. That took a lot of courage. I gave her props for that. It was definitely something I couldn&#x27;t do. Eris didn&#x27;t back down. As expected, she mercilessly beat Minitona to a pulp.</p>
 <p>&quot;Eris.&quot;</p>
 <p>&quot;What?!&quot;</p>
 <p>I stopped to reconsider the situation. Firstly, Minitona should have known she would lose the fight, yet she still got heated and started throwing insults. Even after she got pulverized by Eris, she still wouldn&#x27;t back down. The best of adults broke easily when facing Eris. Minitona had to be quite strong-willed.</p>
@@ -76,8 +75,7 @@ nav_title = "Chapter 10"
 <p>&quot;Oh man, this is perfect timing. I was just thinking about going back to Millis. Let me ride with you guys,&quot; Geese said, shamelessly hauling himself inside.</p>
 <p>&quot;Oh, it&#x27;s you, Geese.&quot;</p>
 <p>&quot;You&#x27;re coming along, too?&quot;</p>
-<p>The other two didn&#x27;t sound as annoyed by his appearance as I did. When I asked if they knew him, their answer showed he&#x27;d been gradually warming up to them without me noticing. This included cozying up to Eris, Minitona, and Tersena, and sharing amusing anecdotes. He&#x27;d also joined Gustav and Ruijerd during their chats, where Geese adjusted his manner to fit the tone of the conversation. He truly was a smooth talker and skilled at manipulation. He managed to successfully ingratiate himself with both of them</p>
-<p>without me noticing a thing. And the two of them had just welcomed him so easily. What, were they cheating on me with Geese?!</p>
+<p>The other two didn&#x27;t sound as annoyed by his appearance as I did. When I asked if they knew him, their answer showed he&#x27;d been gradually warming up to them without me noticing. This included cozying up to Eris, Minitona, and Tersena, and sharing amusing anecdotes. He&#x27;d also joined Gustav and Ruijerd during their chats, where Geese adjusted his manner to fit the tone of the conversation. He truly was a smooth talker and skilled at manipulation. He managed to successfully ingratiate himself with both of them without me noticing a thing. And the two of them had just welcomed him so easily. What, were they cheating on me with Geese?!</p>
 <p>&quot;All right then, let&#x27;s get going!&quot; Ruijerd declared as the carriage lurched into motion.</p>
 <p>We waved farewell to the beastfolk who gathered to see us off. It was a bit moving to see Eris with tears in her eyes as she watched Minitona and the others.</p>
 <p>Still, something heavy weighed on my heart, and it was entirely Geese&#x27;s fault. If he wanted to tag along, he should have said so in the first place. There was no need for him to act so shady and sneak around behind my back. I wouldn&#x27;t have refused him if he&#x27;d flat-out asked me. After we&#x27;d eaten the same food and picked off each other&#x27;s fleas, it felt distancing.</p>
@@ -98,13 +96,12 @@ nav_title = "Chapter 10"
 <p>&quot;Of course. Did you think I wouldn&#x27;t be? I am a demon, after all. I&#x27;ve been hearing about how scary the Superd are ever since I was a kid.&quot;</p>
 <p>&quot;Oh really? You know, Ruijerd may not look it right now, but he&#x27;s a Superd.&quot;</p>
 <p>When Geese heard that, he narrowed his eyes. &quot;That&#x27;s different. He saved my life.&quot;</p>
-<p>Curious as to what that meant, I turned my gaze to Ruijerd, but he only shook his head as if he had no idea what Geese was talking</p>
-<p>about. At the very least, it wasn&#x27;t something that had occurred within these last three months.</p>
+<p>Curious as to what that meant, I turned my gaze to Ruijerd, but he only shook his head as if he had no idea what Geese was talking about. At the very least, it wasn&#x27;t something that had occurred within these last three months.</p>
 <p>&quot;Guess you don&#x27;t remember, huh? Well, it was thirty years ago, after all.&quot;</p>
 <p>Geese then launched into an explanation. It was an epic story that included an initial meeting, a parting, a climax, and a love scene. When an incredibly handsome hard-boiled hero said he was going to set out on a journey, hundreds of women pleaded with him to not go. He set out from his hometown despite his lingering attachments to it and encountered a mysterious beauty when he arrived at his destination.</p>
 <p>To summarize what would otherwise be a long tale, when Geese was still a novice adventurer, Ruijerd stepped in to save him when he was attacked and nearly killed by a monster.</p>
 <p>&quot;Well, it was thirty years ago. I don&#x27;t particularly feel like I owe him for it or anything,&quot; Geese said. The Superd tribe was scary, but Ruijerd was different, the monkey-faced newbie said with a laugh.</p>
-<p>Ruijerd relaxed when he heard that. I felt like I understood the meaning of the word <em>karma</em> after hearing that story. <em>Good for you, Ruijerd</em>, I thought.</p>
+<p>Ruijerd relaxed when he heard that. I felt like I understood the meaning of the word karma after hearing that story. Good for you, Ruijerd, I thought.</p>
 <p>&quot;Well, I hope you&#x27;ll let me stay with you for a while, Senpai~☆&quot;</p>
 <p>And that was how Dead End gained a new member in the form of a monkey-faced— Hang on now, he wasn&#x27;t a new member. He was only staying with us until we reached the next city, I reminded myself. Geese claimed that he was jinxed—whenever he was in a party of four, something terrible happened. I had no words for how he managed to get thrown into a cell with me despite purposefully avoiding that jinx. In any case, it was fine if he wasn&#x27;t going to join our party.</p>
 <p>That was how we set off on our journey with an extra traveler accompanying us.</p>
@@ -112,8 +109,7 @@ nav_title = "Chapter 10"
 <p>I was suspicious about how such a path came to be, but Geese explained for me. This highway was created by Saint Millis, the founder of the Millis faith, the biggest religious denomination in the world. With a single swipe of their sword, Saint Millis cut the mountains and the forests in half, splitting a demon king on the Demon Continent into two. The road was named the Holy Sword Highway with that story in mind.</p>
 <p>As much as I wanted to skeptically dismiss the story, Saint Millis&#x27; mana still remained. The fact that we had encountered no monsters thus far was proof of that. The carriage hadn&#x27;t gotten stuck in any mud, either. We were sailing along smoothly. It was nothing short of a miracle.</p>
 <p>I could understand now why their religion held so much power. At the same time, I feared the possible negative impact that much mana could have on the body. Mana was a useful thing, but an abundance of it could be terrifying. It could also do terrible things, like twist animals into monsters and transport children from the Central Continent to the Demon Continent. Although in this case, not being attacked by monsters did make our journey easier.</p>
-<p>There were fixed intervals along the highway where you could make camp. It was there that we spent our nights. Ruijerd would hunt down something in the forest for dinner, so we had no shortage of food. Occasionally beastfolk from a nearby settlement would</p>
-<p>come to sell their goods, but we had no need for additional food supplies.</p>
+<p>There were fixed intervals along the highway where you could make camp. It was there that we spent our nights. Ruijerd would hunt down something in the forest for dinner, so we had no shortage of food. Occasionally beastfolk from a nearby settlement would come to sell their goods, but we had no need for additional food supplies.</p>
 <p>There was also a great abundance of plants, as expected of a forest. Flowers that could be used as spices grew aplenty on the roadside. I used what I learned from the Plant Encyclopedia I read when I was a kid, and gathered some ingredients to season our food. I wasn&#x27;t a very skilled cook, but I&#x27;d improved somewhat in the past year, albeit only going as far from terrible to less awful.</p>
 <p>The Great Forest provided much higher quality ingredients than the Demon Continent did. Not just in terms of beasts, but normal animals as well. The rabbits and boars tasted delicious enough roasted without seasonings, but that wasn&#x27;t good enough for me. Since we had the ingredients readily available, I wanted to eat more scrumptious dishes. I was greedy as ever in my quest for good food.</p>
 <p>That was where Geese came in. Just as he&#x27;d professed, he was a master at cooking outdoors. It was like sorcery the way he took the nuts and wild grass I collected and turned them into seasoning, injecting the most delectable flavors into our food.</p>
@@ -141,14 +137,13 @@ nav_title = "Chapter 10"
 <p>Geese let out a big sigh. &quot;Okay, Miss. All a swordsperson needs to think about is fighting. Cooking is a waste of time. All you gotta do is eat.&quot;</p>
 <p>This was a man whose culinary skills went beyond his &quot;just eat&quot; mentality. He could open his own restaurant. He wasn&#x27;t so good that it would make a certain gourmet king&#x27;s jaw drop and have a beam of light shooting out of his mouth, but he was at least good enough that his restaurant would be moderately popular in its neighborhood.</p>
 <p>&quot;But, if I could cook…um…well, you know, right?&quot; She hesitated to explain, stealing glances in my direction.</p>
-<p><em>What is it, Eris? What do you want to say? Heh heh, go ahead and say it</em>, I inwardly goaded her.</p>
+<p>What is it, Eris? What do you want to say? Heh heh, go ahead and say it, I inwardly goaded her.</p>
 <p>&quot;Nope, no clue.&quot; Geese was being cold to her. I wasn&#x27;t sure why, but he was being unusually harsh. He wasn&#x27;t that way toward Ruijerd or myself, but he always sounded detached when he interacted with Eris. &quot;You&#x27;re skilled at the sword, aren&#x27;t you? You don&#x27;t need to know how to cook.&quot;</p>
 <p>&quot;But—&quot;</p>
 <p>&quot;Being able to fight is a wonderful thing, you know? If you want to live in this world, there&#x27;s nothing more essential than that. Don&#x27;t waste your talent.&quot;</p>
 <p>Eris&#x27; face turned sullen, but she didn&#x27;t try to punch Geese. There was something strangely persuasive about what he said.</p>
 <p>&quot;That&#x27;s my official reason.&quot; Geese nodded to himself and stopped stirring the pot. He then began filling the stone bowls I&#x27;d made. &quot;See, I decided I&#x27;d never teach someone to cook ever again.&quot;</p>
-<p>Geese had been in a dungeon diving party before. It was a party of six, an unskilled bunch who, unlike Geese, had only one role they</p>
-<p>could fulfill. At the time Geese had a habit of complaining, &quot;You guys seriously can&#x27;t do anything else?&quot; Their party was unconventional, but effective at getting things done.</p>
+<p>Geese had been in a dungeon diving party before. It was a party of six, an unskilled bunch who, unlike Geese, had only one role they could fulfill. At the time Geese had a habit of complaining, &quot;You guys seriously can&#x27;t do anything else?&quot; Their party was unconventional, but effective at getting things done.</p>
 <p>However, one day, a woman in the party approached Geese and said she wanted to learn how to cook. She wanted to go after one of the men in the party. Clearly the saying &quot;the way to a man&#x27;s heart is through his stomach&quot; existed in this world, too. Geese responded with &quot;Sure, I guess, why not?&quot; and began teaching her.</p>
 <p>It was unclear if the cooking had anything to do with what happened after, but the woman did get with the man and the two later married. Then they left the party and went off somewhere. That was fine, said Geese. There was a quarrel when the two left, but them leaving wasn&#x27;t a problem.</p>
 <p>It was what happened afterward that was horrible. When the two most important people left, the party fell to pieces. It became a maelstrom of squabbles and apathy, so much so that they couldn&#x27;t undertake missions anymore and soon disbanded entirely.</p>
@@ -157,7 +152,7 @@ nav_title = "Chapter 10"
 <p>That&#x27;s when Geese realized that the party he was in before was the only place he belonged. He was only who he was because they were all so unskilled. After that, Geese prematurely ended his career as an adventurer. Now he lived by gambling.</p>
 <p>&quot;And that&#x27;s why I refuse to teach women how to cook.&quot;</p>
 <p>Yet another jinx to add to his name. Although if you asked me, Geese&#x27;s &quot;jinxes&quot; were a load of garbage. I saw no problem with him teaching her how to cook. This soup was delicious. One sip and jazz music started playing in your mouth. It was good enough that I wanted him to teach me too, so I jumped in to help.</p>
-<p>&quot;I understand you had something terrible happen to you, newbie, but that woman you helped found her happiness, didn&#x27;t she?&quot; I asked, with the added nuance of <em>So why don&#x27;t you go ahead and teach Eris?</em></p>
+<p>&quot;I understand you had something terrible happen to you, newbie, but that woman you helped found her happiness, didn&#x27;t she?&quot; I asked, with the added nuance of So why don&#x27;t you go ahead and teach Eris?</p>
 <p>Geese shook his head. &quot;I don&#x27;t know if she did or not. Never saw her after that.&quot; Then he let out a self-deprecating laugh. &quot;But the man did not turn out happy.&quot;</p>
 <p>Perhaps that was the reason for the jinx, then. I couldn&#x27;t say anything after that, not after seeing the depressed look on Geese&#x27;s face. The soup, which should have been delicious, suddenly didn&#x27;t taste so great anymore.</p>
 <p>I wondered just how much longer it would be before Ruijerd got back.</p>
@@ -192,8 +187,7 @@ nav_title = "Chapter 10"
 <p>DRAGON GOD: Missing</p>
 <p>FIGHTING GOD: Missing</p>
 <p>DEMON GOD: Sealed Away</p>
-<p>It wasn&#x27;t much of a ranking system when those confirmed to be the strongest were absent. That was why the title &#x27;Seven Great Powers&#x27; fell out of use and faded from people&#x27;s memories…or so it seemed. Incidentally, the reason the Demon God hadn&#x27;t been</p>
-<p>removed from this ranking because he wasn&#x27;t dead; he&#x27;d merely been sealed away.</p>
+<p>It wasn&#x27;t much of a ranking system when those confirmed to be the strongest were absent. That was why the title &#x27;Seven Great Powers&#x27; fell out of use and faded from people&#x27;s memories…or so it seemed. Incidentally, the reason the Demon God hadn&#x27;t been removed from this ranking because he wasn&#x27;t dead; he&#x27;d merely been sealed away.</p>
 <p>&quot;I wonder how many people from that time period are still alive?&quot;</p>
 <p>&quot;Who knows,&quot; Ruijerd said. &quot;Even four hundred years ago, people doubted whether the Technique God even really existed at all.&quot;</p>
 <p>&quot;Why did the Technique God create this list in the first place?&quot; I asked.</p>
@@ -205,8 +199,7 @@ nav_title = "Chapter 10"
 <p>&quot;As if I&#x27;d know.&quot;</p>
 <p>So apparently the monument updated the ranking display on its own. I wondered how it did it. There was still so much magic in this world that I was unfamiliar with. I wondered if I would learn more about those types of magic by going to the University.</p>
 <p>That aside, the Seven Great Powers, huh? Here I thought the world already had enough ridiculously strong people. It looked like I really couldn&#x27;t keep up with the best of them. Not that I was aiming to be one of the strongest in the world, in particular. In fact, I decided it was best I didn&#x27;t preoccupy myself with thoughts of that.</p>
-<p>It took us a month to make our way out of the Great Forest. But that was it—just one month and we were out. It was a completely</p>
-<p>straight road without a single monster. That&#x27;s why we were able to devote our time entirely to travel.</p>
+<p>It took us a month to make our way out of the Great Forest. But that was it—just one month and we were out. It was a completely straight road without a single monster. That&#x27;s why we were able to devote our time entirely to travel.</p>
 <p>That was one reason, at least. The other was because our horses were highly efficient. The horses of this world had an insane amount of stamina. They could run for ten hours in one day without rest, then nonchalantly do it again the next day. Perhaps they were using some kind of magic, but either way we made it smoothly out of the forest.</p>
 <p>As for accidents, the only one we had during our journey was me getting hemorrhoids. Of course I didn&#x27;t tell anyone, and secretly cured them with healing magic.</p>
 <p>Eris spent her time standing on top of the carriage, claiming that it was part of her training. I told her to stop because it was dangerous, but she only huffed back that it wasn&#x27;t, it was for balance training. I tried to do the same, but my legs and hips were trembling in agony the next day. It gave me a new respect for Eris.</p>
@@ -219,8 +212,8 @@ nav_title = "Chapter 10"
 <p>&quot;Hot water comes rising out of the mountain,&quot; I explained. &quot;It feels really good to bathe in.&quot;</p>
 <p>&quot;Yeah? That sounds interesting. But Rudeus, isn&#x27;t it your first time coming here? Why do you know that?&quot;</p>
 <p>&quot;I-I read it in a book.&quot;</p>
-<p>Was that written in the <em>Wandering the World</em> guidebook? I somehow felt like it wasn&#x27;t. Still, a hot spring. That sounded nice. Though surely this world didn&#x27;t have yukata. Still, imagining Eris with her wet hair and her peachy skin, spacing out as she submerged herself in the warm water…</p>
-<p>No, it probably wasn&#x27;t a mixed facility anyway. I mean, right? But on the off chance it <em>was</em> a mixed facility, then how amazing would that be? Now I really did want to check it out.</p>
+<p>Was that written in the Wandering the World guidebook? I somehow felt like it wasn&#x27;t. Still, a hot spring. That sounded nice. Though surely this world didn&#x27;t have yukata. Still, imagining Eris with her wet hair and her peachy skin, spacing out as she submerged herself in the warm water…</p>
+<p>No, it probably wasn&#x27;t a mixed facility anyway. I mean, right? But on the off chance it was a mixed facility, then how amazing would that be? Now I really did want to check it out.</p>
 <p>As I was busy debating the issue in my head, Geese made his opposition known. &quot;The rainy season just ended, so it&#x27;s a mess right now in the mountains.&quot; It would take too much time for us to make our way up there since we were unused to traversing the mountains. And so, I gave up going to the hot spring. What a bummer.</p>
 <p>***</p>
 <p>The Holy Sword Highway was stretched across the Blue Wyrm mountains. Its path cleaved the mountain range in two, creating a space just wide enough for two horse-pulled carriages to make their way past one another. It was a ravine, but thanks to the divine protection of Saint Millis, rocks rarely came falling from above. If this path didn&#x27;t exist, we would&#x27;ve had to take a more indirect path by traveling north.</p>

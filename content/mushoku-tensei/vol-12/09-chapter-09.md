@@ -16,7 +16,7 @@ nav_title = "Chapter 9"
 <p><em>Okay, this is it!</em></p>
 <p>&quot;Fireball!&quot; I lifted my staff and poured all the mana I could within, packing the flames with heat before launching them at the hydra.</p>
 <p>But it was futile.</p>
-<p>The closer the fireball drew to its target, the more it shrank in size. It evaporated the instant it hit. The only thing it left behind was that unpleasant screech, like nails on glass—<em>Piiing.</em></p>
+<p>The closer the fireball drew to its target, the more it shrank in size. It evaporated the instant it hit. The only thing it left behind was that unpleasant screech, like nails on glass—Piiing.</p>
 <p>&quot;Guess I&#x27;ll have to get up close and launch it directly,&quot; I sighed. I&#x27;d have to slam my fire magic into it at melee range to cauterize the stumps of its necks.</p>
 <p>&quot;Just like we planned,&quot; said Roxy. &quot;Rudy, can you do it?&quot;</p>
 <p>&quot;I&#x27;ve got this. It&#x27;s not like magic is the only thing I&#x27;ve been practicing,&quot; I assured, even as my heart hammered.</p>
@@ -46,7 +46,7 @@ nav_title = "Chapter 9"
 <p>&quot;It&#x27;s effective!&quot; I announced.</p>
 <p>I burned that one, too. The heat from it was incredible, choking the air around me. Even Paul had sweat dripping down his brow. But if I didn&#x27;t put the necessary firepower behind these attacks, I wouldn&#x27;t be able to cauterize the wounds. If left half-toasted, the creature would regenerate. As long as we kept up at this pace—</p>
 <p>&quot;Ah…! Cover me!&quot; I called out.</p>
-<p>My Eye of Foresight predicted the hydra&#x27;s movement. <em>Two of the heads that hadn&#x27;t previously moved will come straight my way.</em></p>
+<p>My Eye of Foresight predicted the hydra&#x27;s movement. Two of the heads that hadn&#x27;t previously moved will come straight my way.</p>
 <p>I could evade the one, but the other head would predict that motion and aim accordingly.</p>
 <p>&quot;Leave it to me!&quot; Elinalise called out. As I dodged the first, she flew in beside me. She knocked one head away while planting herself uncomfortably between me and the monster, shoving her shield out in front with a screech of grinding metal in order to protect me.</p>
 <p>A drop of blood splattered against my cheek.</p>
@@ -66,7 +66,7 @@ nav_title = "Chapter 9"
 <p>&quot;Gwoooh!&quot;</p>
 <p>The fifth swooped in, jaws bared, threatening to snap his torso in two as he dangled helplessly. Then—</p>
 <p>&quot;Hyaah!&quot;</p>
-<p>A low <em>boom!</em> resounded as a head hit the floor. The tragic, fleshy stump of a dwarf&#x27;s neck…was nowhere to be found.</p>
+<p>A low boom! resounded as a head hit the floor. The tragic, fleshy stump of a dwarf&#x27;s neck…was nowhere to be found.</p>
 <p>It was the hydra&#x27;s head that had been lost. Paul had sawed it off.</p>
 <p>&quot;Sorry &#x27;bout that, and thanks for the help!&quot; Talhand said.</p>
 <p>&quot;I&#x27;ll burn it now!&quot;</p>
@@ -101,7 +101,7 @@ nav_title = "Chapter 9"
 <p>At almost the same instant, the creature exhaled. Tremendous flames burst out of three of the hydra&#x27;s mouths, plummeting down toward us, crashing into my water barrier. Enormous plumes of steam rolled out, heating the whole room.</p>
 <p>&quot;Ah…!&quot;</p>
 <p>Dragon breath was renowned for its fearsome heat. It could melt right through steel or evaporate a small bog in an instant. And just now, three of those heads had expelled that very breath. An ordinary magician alone couldn&#x27;t have defended against it. If fiveno, ten of them joined together to erect a water barrier, then… No, even that might not be enough.</p>
-<p>Fortunately, my mana wasn&#x27;t <em>ordinary</em>.</p>
+<p>Fortunately, my mana wasn&#x27;t ordinary.</p>
 <p>&quot;Father!&quot;</p>
 <p>&quot;Yeah!&quot;</p>
 <p>After the creature lowered its heads, Paul sprang forward.</p>
@@ -122,10 +122,10 @@ nav_title = "Chapter 9"
 <p>&quot;Wait—!&quot;</p>
 <p>Before I realized what was happening, Paul had slammed me out of the way. Something enormous came crashing down right in front of my eyes.</p>
 <p>But…it didn&#x27;t have a head anymore?</p>
-<p>No—there was no head, but it <em>did</em> still have a neck.</p>
+<p>No—there was no head, but it did still have a neck.</p>
 <p>The hydra was slinging its headless necks around like spiked whips—all eight of them! Every one of them was coated in tough scales that could shred flesh like a cheese grater. It whipped those necks around all at once, mowing down anything in the vicinity.</p>
 <p>&quot;Ruuudyyyyy!&quot; Paul screamed, driving his foot into me to kick me out of the way.</p>
-<p>Almost simultaneously, a <em>thud</em> resounded as something smashed to the ground right where I&#x27;d been a moment ago, in the once-empty space that had existed between Paul and me.</p>
+<p>Almost simultaneously, a thud resounded as something smashed to the ground right where I&#x27;d been a moment ago, in the once-empty space that had existed between Paul and me.</p>
 <p>&quot;Wh-whoa!&quot;</p>
 <p>Horns jutted from the creature&#x27;s forehead. An eye glared at me—a panicked, cornered eye. One trying desperately to survive, to cling to the tiny strand of life that remained. The hydra&#x27;s eye.</p>
 <p>&quot;Graaaah!&quot;</p>
@@ -151,8 +151,8 @@ nav_title = "Chapter 9"
 <p>Pink flesh swelled over the amputated stump, ceasing the blood flow. Disappearing along with it were the scratch on my face and the bruise from where Paul had kicked me.</p>
 <p>&quot;Phew… Haah…&quot;</p>
 <p>My breathing was erratic.</p>
-<p><em>Calm down,</em> I told myself, <em>calm down.</em></p>
-<p>My left hand was gone, but the hydra had been an incredibly difficult foe. I&#x27;d gotten through it with all but my left hand. Put that way, perhaps it was a small price to pay. If Paul hadn&#x27;t managed to squeeze in there and save me, there was a high likelihood <em>I</em> would have died.</p>
+<p>Calm down, I told myself, calm down.</p>
+<p>My left hand was gone, but the hydra had been an incredibly difficult foe. I&#x27;d gotten through it with all but my left hand. Put that way, perhaps it was a small price to pay. If Paul hadn&#x27;t managed to squeeze in there and save me, there was a high likelihood I would have died.</p>
 <p>&quot;You really saved me there, Father.&quot; I glanced over my shoulder, searching for him.</p>
 <p>There was no response.</p>
 <p>Everyone was quiet. Elinalise just stood there. Talhand was silent. Roxy pursed her lips. And behind them, Geese was pale as a sheet.</p>

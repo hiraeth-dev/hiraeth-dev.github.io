@@ -22,13 +22,13 @@ nav_title = "Chapter 9"
 <p>Norn, on the other hand, didn&#x27;t respond immediately. She was looking over at Sylphie with an anxious expression on her face. After a moment, she turned back to me and spoke up. &quot;You&#x27;re inviting Roxy, but not Sylphie?&quot;</p>
 <p>&quot;Huh?!&quot; said Sylphie, jerking her head toward us. She seemed a bit flustered by this sudden turn in the conversation. &quot;Uh, well, you know…I have to look after Lucie!&quot;</p>
 <p>&quot;Didn&#x27;t you both go out with Rudeus the other day? Are you really all right with this?&quot;</p>
-<p>&quot;Uhhh…&quot; Sylphie glanced over to me uncertainly. But then she looked over at Roxy, and seemed to hit on an idea of some kind. &quot;Aactually, this whole thing was <em>my</em> idea.&quot;</p>
+<p>&quot;Uhhh…&quot; Sylphie glanced over to me uncertainly. But then she looked over at Roxy, and seemed to hit on an idea of some kind. &quot;Aactually, this whole thing was my idea.&quot;</p>
 <p>&quot;Huh? What do you mean?&quot;</p>
 <p>&quot;Well, Norn…you haven&#x27;t really warmed up to Roxy yet, right?&quot;</p>
 <p>&quot;I guess not, no.&quot;</p>
 <p>&quot;Yeah. And it&#x27;s not much fun having that sort of tension in the house. I thought it might help if you spent some time together, you know? It can&#x27;t hurt to get to know each other better.&quot;</p>
 <p>&quot;…Oh, I see now. All right then.&quot;</p>
-<p>Norn seemed convinced by this, but Aisha looked a little dubious. After all, <em>she</em> already got along with Roxy. I&#x27;d seen her bringing Roxy tea and snacks when she was up late preparing for the next day&#x27;s classes.</p>
+<p>Norn seemed convinced by this, but Aisha looked a little dubious. After all, she already got along with Roxy. I&#x27;d seen her bringing Roxy tea and snacks when she was up late preparing for the next day&#x27;s classes.</p>
 <p>After a few moments, though, Aisha seemed to decide these details weren&#x27;t too important. She shrugged her shoulders slightly and then smirked to herself.</p>
 <p><em>Please don&#x27;t tell me she&#x27;s figured it out already…</em></p>
 <p>&quot;So that&#x27;s that,&quot; said Sylphie with a satisfied smile. &quot;You guys go have fun, okay?&quot;</p>
@@ -42,7 +42,7 @@ nav_title = "Chapter 9"
 <p>&quot;Fishing, huh…?&quot;</p>
 <p>The four of us were outside the city entirely. Out here, it was quiet enough to hear the little stream below us gurgling softly. And the water was clear enough to see the fishes darting around beneath the surface.</p>
 <p>&quot;Yep. Seems like a good family bonding activity, don&#x27;t you think?&quot;</p>
-<p>&quot;I see. So Sylphie wasn&#x27;t <em>completely</em> making all that up earlier…&quot;</p>
+<p>&quot;I see. So Sylphie wasn&#x27;t completely making all that up earlier…&quot;</p>
 <p>Chatting quietly with Roxy, I started to unpack the fishing gear I&#x27;d prepared for this expedition. We didn&#x27;t have anything as convenient as a reel or lure on offer, unfortunately. Our rods were simple wooden things, with lines made of braided Giant Spider silk. We also had floats made from Radiata Frog sacs, iron hooks, and earthworms for our bait.</p>
 <p>&quot;I&#x27;ve never fished before, you know,&quot; said Norn a little nervously.</p>
 <p>&quot;Me either!&quot; said Aisha. &quot;I always wanted to give it a try, though.&quot;</p>
@@ -51,7 +51,7 @@ nav_title = "Chapter 9"
 <p>&quot;Um, Rudeus? How do I put these on properly?&quot;</p>
 <p>Norn, on the other hand, was staring at her float and hook with an uncertain expression.</p>
 <p>&quot;Heh heh. I don&#x27;t know either! I&#x27;ve never fished in my life, you see.&quot;</p>
-<p>In my <em>previous</em> incarnation, I&#x27;d been a strictly indoors type of guy. I&#x27;d never gone fishing, and I&#x27;d never felt any interest in doing so. And of course, I&#x27;d never felt the need to try it in this world, either. When I wanted fish, I could get them easily enough by freezing the water solid.</p>
+<p>In my previous incarnation, I&#x27;d been a strictly indoors type of guy. I&#x27;d never gone fishing, and I&#x27;d never felt any interest in doing so. And of course, I&#x27;d never felt the need to try it in this world, either. When I wanted fish, I could get them easily enough by freezing the water solid.</p>
 <p>&quot;Would you like me to teach you, Norn?&quot; offered Roxy hesitantly.</p>
 <p>It sounded like she had some actual experience. That was a stroke of luck. We could always have fumbled our way around by trial and error, but it was always faster to learn from someone who knew what they were doing.</p>
 <p>&quot;Yes, please.&quot;</p>
@@ -77,19 +77,19 @@ nav_title = "Chapter 9"
 <p>&quot;Don&#x27;t worry; it happens all the time. Let&#x27;s put a new bait on.&quot;</p>
 <p>Norn was having some trouble staying focused on her task, though. This wasn&#x27;t the first fish that had slipped away from her.</p>
 <p>Still, her expression was cheerful enough. She seemed to be enjoying her conversation with Roxy in itself.</p>
-<p>&quot;Hee hee hee. What&#x27;s the matter, Rudeus? You haven&#x27;t been hooking <em>anything</em>.&quot;</p>
+<p>&quot;Hee hee hee. What&#x27;s the matter, Rudeus? You haven&#x27;t been hooking anything.&quot;</p>
 <p>On the other hand, Aisha was already producing impressive results. She&#x27;d lost a few pieces of bait, but she&#x27;d also brought home three fishes.</p>
 <p>&quot;Don&#x27;t forget our little bet! The loser has to do anything the winner says, no matter what!&quot;</p>
 <p>A little while earlier, I&#x27;d foolishly agreed to compete with her on who would catch the most fish. At present, my score was a big fat zero. This wasn&#x27;t looking promising.</p>
 <p>We were both first-timers, right? Why was she this much better than me?</p>
 <p>&quot;Okay, kiddo. Just try to make it something I can actually do.&quot;</p>
 <p>&quot;Hmm, whatever shall I choose? Maybe I&#x27;ll make you hug me all night long while whispering how cute I am. Oh, or you could teach me some of the stuff you do with Roxy and Sylphie…&quot;</p>
-<p>&quot;Yeah, nothing too <em>adult,</em> please. I don&#x27;t want Dad getting angry at me.&quot;</p>
+<p>&quot;Yeah, nothing too adult, please. I don&#x27;t want Dad getting angry at me.&quot;</p>
 <p>&quot;Hey! It&#x27;s no fair bringing Dad up!&quot;</p>
 <p>I wasn&#x27;t too worried, really. For all her outrageous teasing, she&#x27;d probably settle on asking me for a slightly expensive little trinket.</p>
 <p>That said…wasn&#x27;t losing to my little sister a problem in its own right? Wasn&#x27;t it a bit too early for her to be surpassing me like this?</p>
 <p>Indeed it was. I had my dignity as the head of this household, and I needed to defend it!</p>
-<p>It was good to be a <em>beloved</em> big brother, yes. But it was better to be a <em>feared</em> big brother!</p>
+<p>It was good to be a beloved big brother, yes. But it was better to be a feared big brother!</p>
 <p>&quot;All right, Aisha. I&#x27;m taking the kid gloves off now.&quot;</p>
 <p>&quot;What? Were you taking it easy on me or something?&quot;</p>
 <p>&quot;That&#x27;s right. From now on, I&#x27;m going to use my Demon Eye!&quot;</p>
@@ -102,7 +102,7 @@ nav_title = "Chapter 9"
 <p>&quot;Fiiiiiish!&quot;</p>
 <p>Thanks to my regular practice menu, my arms were strong—and accustomed to swinging things up and down. And now I had the added power of my artificial hand to work with. No fish known to man could hope to resist me.</p>
 <p>With one quick, violent motion, I yanked my prey up out of the water.</p>
-<p>&quot;Yeees! It&#x27;s a <em>big</em>—&quot;</p>
+<p>&quot;Yeees! It&#x27;s a big—&quot;</p>
 <p>My prey being, in this case, a large boot.</p>
 <p>&quot;…&quot;</p>
 <p>Almost everyone in this world wore shoes and boots, of course. And this stream was connected to a river that flowed past the bustling Magic City of Sharia.</p>
@@ -111,15 +111,15 @@ nav_title = "Chapter 9"
 <p>&quot;Rudeus…&quot;</p>
 <p>Aisha was looking at me with pity in her eyes.</p>
 <p>Hmm. Perhaps I needed to change the way I looked at this. This thing wasn&#x27;t a boot. It wasn&#x27;t a boot at all!</p>
-<p>Yes, it was starting to look like something else entirely now. Perhaps even a fish? Perhaps! It sort of looked like one, in a way. And wasn&#x27;t that good enough? Didn&#x27;t that <em>make</em> it a fish, in some sense?</p>
+<p>Yes, it was starting to look like something else entirely now. Perhaps even a fish? Perhaps! It sort of looked like one, in a way. And wasn&#x27;t that good enough? Didn&#x27;t that make it a fish, in some sense?</p>
 <p>Indeed it did. This right here was a fish!</p>
 <p>Nodding to myself, I tossed the boot into my bucket.</p>
 <p>&quot;All right, Aisha, that&#x27;s one. I&#x27;ll catch up to you in no time!&quot;</p>
-<p>&quot;What?! That was a <em>boot</em>, Rudeus!&quot;</p>
+<p>&quot;What?! That was a boot, Rudeus!&quot;</p>
 <p>&quot;I&#x27;m sure it looked that way to you, but it&#x27;s actually a boot-like organism that lives in the water. I call it…the Bootfish.&quot;</p>
-<p>&quot;Not even creative! That doesn&#x27;t count, okay? That <em>really</em> doesn&#x27;t count!&quot;</p>
+<p>&quot;Not even creative! That doesn&#x27;t count, okay? That really doesn&#x27;t count!&quot;</p>
 <p>Reaching down into the bucket, Aisha grabbed my prize and hurled it back into the water.</p>
-<p>&quot;Nooo!&quot; <em>You&#x27;re not supposed to throw trash in the river!</em></p>
+<p>&quot;Nooo!&quot; You&#x27;re not supposed to throw trash in the river!</p>
 <p><em>Well, so be it. We&#x27;ll just say that was a catch and release. That boot was still a baby, right? Now that we&#x27;ve returned it to its natural habitat, it&#x27;ll swim out to the ocean and come back nice and plump.</em></p>
 <p><em>Yeah. Let&#x27;s go with that.</em></p>
 <p>&quot;Ah! Hngh…yes! That&#x27;s number four!&quot;</p>
@@ -140,7 +140,7 @@ nav_title = "Chapter 9"
 <p>My sisters didn&#x27;t take this announcement too well, though.</p>
 <p>&quot;Whaaat? Already?&quot;</p>
 <p>&quot;…I was hoping to catch just one more.&quot;</p>
-<p>Time flies when you&#x27;re having fun and all that. I could understand how they felt. Still, the <em>real</em> fun was coming up a little later.</p>
+<p>Time flies when you&#x27;re having fun and all that. I could understand how they felt. Still, the real fun was coming up a little later.</p>
 <p>&quot;Sorry, girls. Monsters might start sniffing around once it gets dark.&quot;</p>
 <p>&quot;You could just blast them for us!&quot;</p>
 <p>&quot;We&#x27;ve got Miss Roxy here, too…&quot;</p>
@@ -149,7 +149,7 @@ nav_title = "Chapter 9"
 <p>Even if I hadn&#x27;t planned something for this evening, I would have dragged them home about now.</p>
 <p>&quot;Sorry, but the answer&#x27;s no. We can always come back another day.&quot;</p>
 <p>&quot;Hmph. You&#x27;re just mad cause you didn&#x27;t catch any yourself.&quot;</p>
-<p>&quot;Hey, c&#x27;mon. If I got <em>serious,</em> I could catch all the fish I wanted…&quot;</p>
+<p>&quot;Hey, c&#x27;mon. If I got serious, I could catch all the fish I wanted…&quot;</p>
 <p>This was true, in a sense. Maybe I wasn&#x27;t the best with a rod, but I could always electrify the water or set off an underwater explosion!</p>
 <p>I definitely wasn&#x27;t just being a sore loser.</p>
 <p>&quot;Anyway, the decision&#x27;s final. Let&#x27;s get going.&quot;</p>
@@ -170,24 +170,23 @@ nav_title = "Chapter 9"
 <p>&quot;All right, everyone! Let&#x27;s go to the dining room!&quot;</p>
 <p>Stepping forward with a smile, I pushed a confused Norn and a dubious Aisha forward.</p>
 <p>The dining room was full of simple but attractive decorations. There weren&#x27;t any big banners hanging across the room or anything, but we did have some very nice flowers on the walls, and there were candles gleaming all around the place.</p>
-<p>The table was covered in a very nice white cloth, with plates and vases of flowers sitting on top of it. The drinks had already been</p>
-<p>poured, but there wasn&#x27;t any food yet. They&#x27;d presumably be carrying that out a little later.</p>
+<p>The table was covered in a very nice white cloth, with plates and vases of flowers sitting on top of it. The drinks had already been poured, but there wasn&#x27;t any food yet. They&#x27;d presumably be carrying that out a little later.</p>
 <p>At the far end of the table—the customary seat of honor—two chairs sat snugly next to each other. I brought Aisha and Norn there and offered them their seats.</p>
 <p>&quot;Wait, but… Huh? What&#x27;s going on?&quot;</p>
 <p>Norn still looked completely nonplussed.</p>
-<p>&quot;Ahaha. So <em>that&#x27;s</em> what this was all about…&quot;</p>
+<p>&quot;Ahaha. So that&#x27;s what this was all about…&quot;</p>
 <p>Aisha, on the other hand, was smirking knowingly. The girl was sharp, all right. She must have sensed that we were up to something.</p>
 <p>After my sisters took their seats, Lilia helped Zenith into hers. Sylphie and Roxy followed suit.</p>
 <p>Once they&#x27;d all settled into their places, I cleared my throat loudly, and then began to speak.</p>
 <p>&quot;It&#x27;s been seven years now since the Displacement Incident. It wasn&#x27;t easy by any means, but our family&#x27;s finally back together again. We lost our father, yes, and our mother&#x27;s memories might never return. But I don&#x27;t think Dad would be too pleased if we moped around forever.&quot; I paused for a moment to look around the room. &quot;And that&#x27;s why I want us to try to smile again. When we can, at least. It might almost seem disrespectful, in a way…but Dad wanted us to have a party once we made it home, you know? I think we owe it to him to have a good time tonight.&quot;</p>
 <p>This whole thing had been Paul&#x27;s idea, in a sense. He&#x27;d even put it down in a letter for us.</p>
 <p>It was sad that he wasn&#x27;t here with us to see it happen. It made my chest ache to think about it. But for his sake, as well as ours, I really wanted us to enjoy ourselves.</p>
-<p>Norn and Aisha had their whole lives ahead of them. I didn&#x27;t want them to be hung up on the past forever. Of course, giving a long sentimental lecture wasn&#x27;t the right way to set the mood that I was going for. We could save our memories of the painful, difficult times we&#x27;d gone through for the darker moments we&#x27;d run into down the line. If nothing else, it can help to know: <em>I&#x27;ve been through worse before</em>.</p>
+<p>Norn and Aisha had their whole lives ahead of them. I didn&#x27;t want them to be hung up on the past forever. Of course, giving a long sentimental lecture wasn&#x27;t the right way to set the mood that I was going for. We could save our memories of the painful, difficult times we&#x27;d gone through for the darker moments we&#x27;d run into down the line. If nothing else, it can help to know: I&#x27;ve been through worse before.</p>
 <p>Right now, though, it was time to look forward to the future. And so, I cut myself off and lifted my glass.</p>
 <p>&quot;Cheers, everyone!&quot;</p>
 <p>&quot;Cheers!&quot;</p>
 <p>Everyone except Norn—who was still staring wide-eyed at me quietly raised their glasses as well. Aisha was smirking even more widely than before. She&#x27;d obviously figured the whole thing out.</p>
-<p>In any case, I wasn&#x27;t sure how well that toast had gone. My <em>goal</em> was to set a cheerful tone, but it ended up sounding a little…emotional.</p>
+<p>In any case, I wasn&#x27;t sure how well that toast had gone. My goal was to set a cheerful tone, but it ended up sounding a little…emotional.</p>
 <p>That was no good at all. I needed everyone smiling.</p>
 <p>&quot;Sylphie!&quot;</p>
 <p>&quot;Oh! Right.&quot;</p>
@@ -235,7 +234,7 @@ nav_title = "Chapter 9"
 <p>Aisha, on the other hand, hesitated. It probably had something to do with getting the same present as her sister.</p>
 <p>&quot;Um, Mom? Are you sure I can have one too?&quot;</p>
 <p>&quot;Yes, I&#x27;m quite sure. You&#x27;re Paul&#x27;s daughter too, you know.&quot;</p>
-<p>This seemed like…a change. Hadn&#x27;t Lilia spent years drumming the words <em>you&#x27;re only a maid</em> into her daughter&#x27;s head?</p>
+<p>This seemed like…a change. Hadn&#x27;t Lilia spent years drumming the words you&#x27;re only a maid into her daughter&#x27;s head?</p>
 <p>&quot;Of course, I still expect you to show Madam Norn and Master Rudeus the respect that they deserve. Understood?&quot;</p>
 <p>&quot;…Okay, Mom.&quot;</p>
 <p><em>Hmm. I guess she&#x27;s still Lilia after all.</em></p>
@@ -248,7 +247,7 @@ nav_title = "Chapter 9"
 <p>It almost looked as if they&#x27;d just held a wordless conversation of some kind.</p>
 <p>Roxy seemed particularly moved by that.</p>
 <p>As I was studying her face, though, someone tugged on my sleeve from behind. &quot;Hm?&quot;</p>
-<p>I glanced back to find that it was Sylphie. She was carrying a third box—the one that wasn&#x27;t for my sisters. <em>Right, can&#x27;t forget the next part…</em></p>
+<p>I glanced back to find that it was Sylphie. She was carrying a third box—the one that wasn&#x27;t for my sisters. Right, can&#x27;t forget the next part…</p>
 <p>&quot;Roxy.&quot;</p>
 <p>When I called her name, Roxy turned… and blinked in surprise at the sight of Sylphie standing next to me with the box. &quot;Uh…yes?&quot;</p>
 <p>Sylphie spoke up before I could. &quot;This one&#x27;s from us for you, Roxy.&quot;</p>
@@ -268,26 +267,26 @@ nav_title = "Chapter 9"
 <p>I&#x27;d eaten cakes like this before, back in the Kingdom of Asura. They&#x27;d made one for my fifth birthday, and I seemed to remember it being served at the party for my tenth as well.</p>
 <p><em>Ah, that brings me back… I wonder how Eris is doing these days?</em></p>
 <p>Wherever she was, I had to assume she was merrily chopping her way through life. Maybe she&#x27;d even gotten married, like me?</p>
-<p>Nah, probably not. There wasn&#x27;t a man in the world who could handle <em>that</em> girl.</p>
+<p>Nah, probably not. There wasn&#x27;t a man in the world who could handle that girl.</p>
 <p>When I asked Lilia about the cake, she explained that it was a traditional Asuran treat. Many families had one every time there was something worth celebrating. Paul hated the taste, though, so we&#x27;d almost never made one. It was a little amusing to hear the man had been a picky eater at his age, but it did seem in character.</p>
 <p>Sylphie had helped out with this cake, and seemed confident she could make one by herself next time. Norn seemed to be really enjoying it, and I kind of liked it myself.</p>
 <p>Aisha was less of a fan, though. I could see her picking around the chunks of fruit as she ate her slice. Lilia scolded her a little, but undermined herself by murmuring &quot;That reminds me of Master Paul&quot; with a smile on her face.</p>
 <p>After a while, Aisha started cuddling up to me and begging me to eat the rest for her. But I decided to hand the job off to Roxy, who apparently had a sweet tooth. I was sort of hoping they might end up feeding bites of it to each other or something.</p>
 <p>Unfortunately, Roxy took her assignment somewhat more seriously. I think she might have misunderstood what I was looking for.</p>
-<p>&quot;Listen carefully, Aisha. You&#x27;re a very fortunate girl, so it might be hard for you to understand this…but sometimes, when you&#x27;re truly desperate, you might need to eat <em>anything</em> you can. Even a poisonous scorpion.&quot;</p>
+<p>&quot;Listen carefully, Aisha. You&#x27;re a very fortunate girl, so it might be hard for you to understand this…but sometimes, when you&#x27;re truly desperate, you might need to eat anything you can. Even a poisonous scorpion.&quot;</p>
 <p>&quot;Ick! Uh…right.&quot;</p>
 <p>My poor sister found herself on the receiving end of a lecture.</p>
 <p>I seemed to remember getting a similar talk from Ghislaine at some point, actually. Maybe this was just something adventurers felt strongly about.</p>
 <p>I&#x27;d put up with some lousy food myself in my journey across the Demon Continent, of course, but I was fairly sure I&#x27;d never resorted to eating poisonous monsters. Maybe I was &quot;fortunate,&quot; too.</p>
-<p>&quot;This cake, on the other hand, is sweet and delicious. It would be <em>wrong</em> to leave it unfinished. Eat it, please.&quot;</p>
+<p>&quot;This cake, on the other hand, is sweet and delicious. It would be wrong to leave it unfinished. Eat it, please.&quot;</p>
 <p>&quot;Okay.&quot;</p>
 <p>Roxy&#x27;s tone hadn&#x27;t been too harsh, but her arguments were intense enough that Aisha actually looked a little freaked out for once. True to her word, she started eating her cake in solemn silence.</p>
 <p>It felt like the first time I&#x27;d ever seen her just do what she was told.</p>
 <p>Well, no. That wasn&#x27;t fair. She did listen to me…for the most part.</p>
-<p>Anyway. Now that I thought about it, getting past the pickyeater thing probably <em>was</em> important. Maybe I was the one who&#x27;d mishandled the situation.</p>
+<p>Anyway. Now that I thought about it, getting past the pickyeater thing probably was important. Maybe I was the one who&#x27;d mishandled the situation.</p>
 <p>Good thing I had someone around to set things straight. Well done, Teacher!</p>
 <p>&quot;That said, you don&#x27;t have to force yourself to finish if you&#x27;re so full you can&#x27;t take another bite. I&#x27;ll eat the rest if necessary.&quot;</p>
-<p>Incidentally, Roxy had already finished all of <em>her</em> cake. Well done, Teacher.</p>
+<p>Incidentally, Roxy had already finished all of her cake. Well done, Teacher.</p>
 <p>&quot;I&#x27;m so full I can&#x27;t take another bite!&quot;</p>
 <p>Aisha&#x27;s reply had come quickly. Too quickly.</p>
 <p>&quot;Were you even listening to me? Eat your cake!&quot;</p>

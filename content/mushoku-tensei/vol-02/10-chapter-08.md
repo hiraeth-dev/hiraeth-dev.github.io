@@ -18,7 +18,7 @@ nav_title = "Chapter 8"
 <p>&quot;You&#x27;re wide open!&quot;</p>
 <p>As she was deep in thought someone threw their arms around her from behind. As her breasts were grabbed, she felt something hard press against her thighs.</p>
 <p>&quot;Hnnngh…&quot;</p>
-<p>Roxy was fed up. No matter how he groped her, the thickness of her robes masked everything. Besides, even if he got pleasure out of doing this, the only thing <em>she</em> felt was displeasure.</p>
+<p>Roxy was fed up. No matter how he groped her, the thickness of her robes masked everything. Besides, even if he got pleasure out of doing this, the only thing she felt was displeasure.</p>
 <p>&quot;Raging flames consume my body—Burn in Place!&quot;</p>
 <p>&quot;Gyaah!&quot;</p>
 <p>The force of the flames that covered her body sent the person behind her flying. She still couldn&#x27;t cast spells without chanting them at all, but she had shortened the length of her spells greatly in these past five years. When she learned that Rudeus was teaching his own pupils to cast spells without chanting, she decided to practice shortening her own incantations. It hadn&#x27;t been easy. Just how much was that boy genius expecting from his pupils? Not everyone was as blessed with talent as he was.</p>
@@ -35,9 +35,9 @@ nav_title = "Chapter 8"
 <p>&quot;I see, and just when did I manage to do something as incredible as finding a lover?&quot; she replied to his sudden gibberish, tilting her head. A lover? She did want one at some point, but she had yet to meet her ideal match. Even if she did, with the way she looked as a member of the Migurd race, he surely wouldn&#x27;t reciprocate. She had already given up.</p>
 <p>The prince was odd himself, which was probably why he wanted a taste of her body, even if just once. But Roxy had no intention of being so easily seduced.</p>
 <p>&quot;Eheheh, I slipped into your room and found all those letters you had piled up in the back of your shelf! I don&#x27;t know what kind of backwoods peasant he is, but with my power I could have him crushed! If you don&#x27;t want to see him face a cruel execution, you better become my woman!&quot;</p>
-<p>So <em>this</em> was his other method. He would take hostage the lover of the person he was interested in, then demand the object of his affection submit to him to keep their lover safe. After that he would take her in front of her lover just so he could feel empowered by dominating another person.</p>
+<p>So this was his other method. He would take hostage the lover of the person he was interested in, then demand the object of his affection submit to him to keep their lover safe. After that he would take her in front of her lover just so he could feel empowered by dominating another person.</p>
 <p>He had no such authority. Yet he was still the prince of a country. He had some troops of his own that he could do what he wanted with, and there was a rumor that he had taken one maid&#x27;s lover hostage before.</p>
-<p><em>Such poor taste. All he does is creep me out,</em> Roxy thought. <em>I&#x27;m glad I don&#x27;t have a lover.</em> All those letters were from Rudeus. Rudeus, who was a respected pupil and <em>not</em> her lover.</p>
+<p>Such poor taste. All he does is creep me out, Roxy thought. I&#x27;m glad I don&#x27;t have a lover. All those letters were from Rudeus. Rudeus, who was a respected pupil and not her lover.</p>
 <p>&quot;Feel free to do so,&quot; she told him.</p>
 <p>&quot;What?! I really will do it, you know?! If you want to apologize, you better do it now! If you do it now, all you&#x27;ll have to give me is your body!&quot;</p>
 <p>The prince clearly wasn&#x27;t thinking. He didn&#x27;t even know Rudeus&#x27;s location in the first place. Based on his attitude, he hadn&#x27;t read the contents of any of those letters either.</p>
@@ -52,7 +52,7 @@ nav_title = "Chapter 8"
 <p>&quot;I-I&#x27;ll have him assassinated! I&#x27;ll send my imperial guards!&quot;</p>
 <p>Imperial guards? Roxy sighed inwardly. He really wasn&#x27;t thinking this through at all. &quot;There&#x27;s no way your guards could cross the country&#x27;s border. Even if they could, and the chance would be one in a million, the Boreas family has invited Sword King Ghislaine to their house as a guest. You truly think they could sneak into the Citadel of Roa, into the Boreas manor, slip past Ghislaine&#x27;s watchful eye, and assassinate a master magician?&quot;</p>
 <p>&quot;G-grrr!&quot; The prince ground his teeth together and stomped his feet.</p>
-<p>Roxy let yet another sigh slip past her lips. <em>Ah, I can&#x27;t believe this. He&#x27;s already fifteen and he doesn&#x27;t even know the first thing about distinguishing between what&#x27;s possible and what&#x27;s not.</em></p>
+<p>Roxy let yet another sigh slip past her lips. Ah, I can&#x27;t believe this. He&#x27;s already fifteen and he doesn&#x27;t even know the first thing about distinguishing between what&#x27;s possible and what&#x27;s not.</p>
 <p>Roxy heard that Rudeus&#x27;s pupil, Eris, had been an uncontainable wild animal three years ago, but had recently become more refined. Meanwhile, her student was in this sorry state.</p>
 <p>Years ago, she had found him endearing and even recognized his talent for magic. Unfortunately, as soon as he realized what kind of power he had, his will to improve vanished and he spent the better part of his lessons sleeping. Now she saw no potential in him.</p>
 <p>&quot;Anyway, I&#x27;ll be quitting my position as your tutor soon, so you wouldn&#x27;t make it in time even if you sent assassins out right this very minute.&quot;</p>
@@ -68,7 +68,7 @@ nav_title = "Chapter 8"
 <p>&quot;Irrelevant. You sleep through them anyway.&quot;</p>
 <p>&quot;That&#x27;s your fault for not waking me up then!&quot;</p>
 <p>&quot;Oh really? Then as a bad teacher, I should take my leave quickly. Please be sure to hire someone who will wake you next time. I&#x27;m not interested.&quot;</p>
-<p><em>This prince is impossible for me,</em> Roxy thought. <em>I can&#x27;t stop comparing him to Rudeus. All I had to do was teach Rudeus one thing and he would take that, study it, and learn ten or twenty new things. Maybe I can&#x27;t be a teacher again after meeting a student like that.</em></p>
+<p>This prince is impossible for me, Roxy thought. I can&#x27;t stop comparing him to Rudeus. All I had to do was teach Rudeus one thing and he would take that, study it, and learn ten or twenty new things. Maybe I can&#x27;t be a teacher again after meeting a student like that.</p>
 <p>And thus, Roxy left Shirone and set out on her journey. She was accosted by the seventh prince and his personal guards on her way out but swiftly repelled them.</p>
 <p>Afterward, the seventh prince obstinately insisted that she should be apprehended and brought before him to answer for the unforgivable act of violence she committed against him. However, the king refused to pay his claims any heed. Instead, the prince was rebuked and severely punished for being unable to convince the Water King-tier magician Roxy Migurdia to stay.</p>
 <p>***</p>
@@ -134,7 +134,7 @@ nav_title = "Chapter 8"
 <p>With the Staff: Mana Cost 2, Power 5</p>
 <p>Something like that. In other words, it worked like a magnifying glass or a microscope. Elaborate adjustments were difficult right now, but I would probably be fine once I got accustomed to using the staff.</p>
 <p>&quot;H-how is it?&quot; Eris had a nervous look on her face.</p>
-<p><em>Don&#x27;t worry, I&#x27;m officially obsessed with my new toy,</em> I thought. &quot;It&#x27;s difficult to make adjustments, but it&#x27;s really amazing.&quot;</p>
+<p>Don&#x27;t worry, I&#x27;m officially obsessed with my new toy, I thought. &quot;It&#x27;s difficult to make adjustments, but it&#x27;s really amazing.&quot;</p>
 <p>&quot;R-really! I&#x27;m glad!&quot;</p>
 <p>I continued testing and discovered that fire magic was amplified twofold while earth and wind were each amplified thrice. Using the staff to combine different types of magic, however, seemed difficult. Or was that also a matter of getting used to it?</p>
 <p>&quot;All right then, what you have all been waiting for. I, Rudeus Greyrat, will show you my great, all powerful hidden technique!&quot;</p>
@@ -177,7 +177,7 @@ nav_title = "Chapter 8"
   <img src="/novels/mushoku-tensei/vol-02/insert-08.webp" alt="Illustration" loading="lazy" />
 </div>
 <p>Just as Ghislaine asked, I used my back as a shield and escorted Eris a safe distance away so we wouldn&#x27;t be embroiled in the battle. I was careful not to go too far, staying within Ghislaine&#x27;s protective reach.</p>
-<p>If that really were Arumanfi the Bright, a sword couldn&#x27;t touch him. I was sure I&#x27;d read something like that in the <em>Legend of Perugius</em>.</p>
+<p>If that really were Arumanfi the Bright, a sword couldn&#x27;t touch him. I was sure I&#x27;d read something like that in the Legend of Perugius.</p>
 <p>That said, where had he come from? No wait, Arumanfi the Bright was said to be the governing spirit of light. It was said that he could travel any distance instantaneously if it were within line of sight. Back when I read that, I thought it was a load of rubbish, but he had appeared behind me in the blink of an eye. Ghislaine would never let her guard down, and he had no reason to be lurking in this area beforehand. He must have flown here, at the literal speed of light. That was one of his abilities after all.</p>
 <p>&quot;Woman, move. This strange occurrence might cease if I slay that boy.&quot;</p>
 <p>Wait, what was he talking about? Strange occurrence; did he mean that thing in the sky? What kind of misunderstanding was he under?</p>
@@ -194,7 +194,7 @@ nav_title = "Chapter 8"
 <p>&quot;It&#x27;s fine, as long as you aren&#x27;t the ones responsible.&quot;</p>
 <p>&quot;And you won&#x27;t even apologize for attacking us out of nowhere?&quot;</p>
 <p>&quot;It was your fault for doing something suspicious here,&quot; he said, turning on his heel.</p>
-<p><em>Let&#x27;s just calm down and think about this rationally,</em> I thought. First, something strange was happening in the sky. Then this guy showed up, the familiar of a legendary and storied hero. This person of legend attacked me. He thought I was the one who caused the phenomenon in the sky. That wasn&#x27;t true, of course, but maybe he knew something about what was going on up there? No, he couldn&#x27;t have, or he wouldn&#x27;t have attacked me in the first place.</p>
+<p>Let&#x27;s just calm down and think about this rationally, I thought. First, something strange was happening in the sky. Then this guy showed up, the familiar of a legendary and storied hero. This person of legend attacked me. He thought I was the one who caused the phenomenon in the sky. That wasn&#x27;t true, of course, but maybe he knew something about what was going on up there? No, he couldn&#x27;t have, or he wouldn&#x27;t have attacked me in the first place.</p>
 <p>&quot;Um…&quot; I started to say.</p>
 <p>&quot;Hm?&quot;</p>
 <p>&quot;Ah!&quot;</p>

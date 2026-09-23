@@ -11,7 +11,7 @@ nav_title = "Chapter 5"
 <p>It was summer now. The snow had melted completely, and we&#x27;d landed in the middle of a hot, dry stretch. So far, I&#x27;d spent most of this year mooning over Lucie. Whenever I had a little spare time, I&#x27;d use it looking at her. She was my first and only child, after all. It was only natural for me to adore her.</p>
 <p>On this day, like many other days, I was hanging around in her bedroom, watching her quietly. Whenever I gazed down on that angelic, chubby-cheeked little face, it put a big goofy grin on mine.</p>
 <p>However, I was technically the head of this household now. I didn&#x27;t exactly exude authority, but I did want to act in a relatively dignified fashion around my wives and sisters. If I spent too much time cooing over my baby like an idiot, their opinion of me would surely be affected.</p>
-<p>For this reason, I intended to be a <em>stern</em> father. You know tough but fair. That sort of thing.</p>
+<p>For this reason, I intended to be a stern father. You know tough but fair. That sort of thing.</p>
 <p>If I knew Paul, he&#x27;d probably had similar thoughts looking down on me as a baby. A father should inspire awe in his children. He should be an example to them, and a goal for them to reach.</p>
 <p>At one point, I&#x27;d thought of Paul as pitiful, or even pathetic. But by now, I knew better. He&#x27;d been a magnificent father. He had his flaws, and plenty of them, but he was wonderful nonetheless.</p>
 <p>To be sure, he wasn&#x27;t the most faithful husband out there, but I didn&#x27;t have much right to criticize him on that point. It was better to focus on the positives.</p>
@@ -39,14 +39,14 @@ nav_title = "Chapter 5"
 <p>&quot;Appreciate the offer, but I&#x27;d like to keep these blissful moments to myself, thank you very much.&quot;</p>
 <p>The two of us had gotten to know each other back when I was just starting off as a solo adventurer. We&#x27;d fallen out of contact for about four years, but then she&#x27;d seen my posting for the wet nurse job. It had been a real shock seeing her again.</p>
 <p>&quot;Huh. Well, if you really want to do it yourself, feel free.&quot;</p>
-<p>&quot;Is there any man in the world who <em>doesn&#x27;t</em> want to soothe their newborn daughter?&quot;</p>
+<p>&quot;Is there any man in the world who doesn&#x27;t want to soothe their newborn daughter?&quot;</p>
 <p>&quot;Can&#x27;t say my husband&#x27;s too eager to deal with it.&quot;</p>
 <p>&quot;How shameful. It sounds like he needs an education in the joys of fatherhood.&quot;</p>
 <p>I remembered the time I spent with Suzanne very clearly.</p>
-<p>I&#x27;d been only twelve years old, newly dumped by Eris, and making my way to the Northern Territories alone, feeling <em>extremely</em>  sorry for myself. Words cannot describe how miserable it made me to have to dissolve our old party, &quot;Dead End,&quot; at the guild in Basherant. As a way of distracting myself from my feelings, I immediately tried to take on an extremely difficult and dangerous task all by myself.</p>
+<p>I&#x27;d been only twelve years old, newly dumped by Eris, and making my way to the Northern Territories alone, feeling extremely  sorry for myself. Words cannot describe how miserable it made me to have to dissolve our old party, &quot;Dead End,&quot; at the guild in Basherant. As a way of distracting myself from my feelings, I immediately tried to take on an extremely difficult and dangerous task all by myself.</p>
 <p>That was when Suzanne and her party had stepped in.</p>
 <p>Their group had two warriors, one archer, one healer, and one mage. They were a B-rank party, but all of them were experienced veterans. Suzanne was one of the front-line warriors. To be honest, she wasn&#x27;t that impressive a swordswoman or anything. In terms of combat skill, she was closer to the bottom of Rank B than the top.</p>
-<p>However, she had a reputation for kindness, and she knew how to keep a party running smoothly. When she noticed me trying to take a suicide mission, she&#x27;d walked right over and said something like <em>&quot;How about we do that job together?&quot;</em></p>
+<p>However, she had a reputation for kindness, and she knew how to keep a party running smoothly. When she noticed me trying to take a suicide mission, she&#x27;d walked right over and said something like &quot;How about we do that job together?&quot;</p>
 <p>I protested that I was trying to make a name for myself as a solo adventurer, but she argued that I needed to work with people to build a reputation. In the end, I let her talk me into working together.</p>
 <p>At the time, Suzanne was alarmed by just how rough I looked. My eyes were dull and lifeless, and she could tell I wasn&#x27;t sleeping much at all. When I spoke to her in a carefully polite tone, she&#x27;d found it creepy rather than reassuring.</p>
 <p>Nonetheless, she took me in and helped me out. Until the day I left that first city behind, her party took me along on all sorts of quests. They even invited me to join them on a permanent basis.</p>
@@ -58,11 +58,11 @@ nav_title = "Chapter 5"
 <p>Incidentally, I&#x27;d stopped by to say hello to Timothy just a few days earlier. The man hadn&#x27;t changed a bit.</p>
 <p>&quot;…Gotta say, though, you sure have changed.&quot;</p>
 <p>&quot;Hmm. Have I?&quot;</p>
-<p>&quot;Uh, yeah. Back in the old days, you <em>never</em> would have insulted a woman&#x27;s husband in front of her.&quot;</p>
+<p>&quot;Uh, yeah. Back in the old days, you never would have insulted a woman&#x27;s husband in front of her.&quot;</p>
 <p>This was true. When I first met Suzanne, I was terrified of upsetting people.</p>
-<p>I still didn&#x27;t want to offend anyone if I could possibly avoid it, but I guess I wasn&#x27;t walking on eggshells these days. A <em>lot</em> of things had happened since then.</p>
+<p>I still didn&#x27;t want to offend anyone if I could possibly avoid it, but I guess I wasn&#x27;t walking on eggshells these days. A lot of things had happened since then.</p>
 <p>&quot;Sorry, Suzanne. Did I upset you?&quot;</p>
-<p>&quot;Nah. A little teasing never hurt anyone, you know? As long as you&#x27;re sayin&#x27; it to my face, it&#x27;s all good. Makes me <em>more</em> comfortable, if anything.&quot;</p>
+<p>&quot;Nah. A little teasing never hurt anyone, you know? As long as you&#x27;re sayin&#x27; it to my face, it&#x27;s all good. Makes me more comfortable, if anything.&quot;</p>
 <p>It probably had something to do with the friends I&#x27;d made at the University. I had more people I could talk to casually these days.</p>
 <p>Zanoba and Cliff both preferred it that way, and it was easier for me as well.</p>
 <p>&quot;Hell, you could stand to be a little more casual around me in general,&quot; Suzanne continued. &quot;You&#x27;re technically my employer, you know?&quot;</p>
@@ -84,18 +84,17 @@ nav_title = "Chapter 5"
 <p>&quot;Ah. Sure.&quot;</p>
 <p>I&#x27;d had a few discussions like this after my daughter was born. Zanoba and Ariel had both brought it up as well. It was obviously an important issue to royal families and noble houses—back in Asura, I&#x27;d even heard stories of newborn boys being whisked away from distant relatives for adoption by the main Boreas family.</p>
 <p>&quot;The thing is, though, I&#x27;m not really a noble or a wealthy businessman. It doesn&#x27;t really bother me either way. I just want to see my kid grow up happy.&quot;</p>
-<p>If anything, I was pleased to have received the cuter option. I was seriously outnumbered in this house, true…but I can&#x27;t say I minded being surrounded by adorable girls and charming women. It wasn&#x27;t like they were bullying me, either. They were almost <em>too</em> nice.</p>
+<p>If anything, I was pleased to have received the cuter option. I was seriously outnumbered in this house, true…but I can&#x27;t say I minded being surrounded by adorable girls and charming women. It wasn&#x27;t like they were bullying me, either. They were almost too nice.</p>
 <p>&quot;Hey, that&#x27;s the spirit. Wish my husband would take a page out of your book. The moment I got pregnant, he was talkin&#x27; about all the stuff he wanted to do if it turned out to be a boy. Didn&#x27;t spare a minute&#x27;s thought for the alternative!&quot;</p>
 <p>&quot;Well, you got your boys in the end, so I guess it turned out all right.&quot;</p>
 <p>&quot;Yeah, I guess. I&#x27;ve got some mixed feelings about it, though. The third one was a girl, you know?&quot;</p>
 <p>&quot;Ah, right…sorry. That was a dumb thing to say…&quot;</p>
 <p>For an instant, I found myself wondering how I would have felt if Lucie had been stillborn. Just the thought of it was horrible enough.</p>
 <p>&quot;It&#x27;s fine! We&#x27;ll just try again.&quot;</p>
-<p>Suzanne seemed almost nonchalant about it, though. Was losing a baby really something you could shrug off like that? At the very</p>
-<p>least, I knew I would have taken it hard. It wasn&#x27;t easy for Sylphie to get pregnant, so there was no telling how long it would take for us to get another shot.</p>
+<p>Suzanne seemed almost nonchalant about it, though. Was losing a baby really something you could shrug off like that? At the very least, I knew I would have taken it hard. It wasn&#x27;t easy for Sylphie to get pregnant, so there was no telling how long it would take for us to get another shot.</p>
 <p>And more importantly, Sylphie would have been devastated. It was easy to picture her crying her eyes out and apologizing to me for losing our child.</p>
 <p>Gah. Just thinking about this was making my stomach hurt.</p>
-<p>There wasn&#x27;t any point in dwelling on it, right? Lucie had come out fine, and Sylphie was okay too. Enough time had passed that I felt <em>relatively</em> confident it wasn&#x27;t just a dream.</p>
+<p>There wasn&#x27;t any point in dwelling on it, right? Lucie had come out fine, and Sylphie was okay too. Enough time had passed that I felt relatively confident it wasn&#x27;t just a dream.</p>
 <p>Rather than thinking about how things could have gone wrong, I should be enjoying my good fortune.</p>
 <p>&quot;So anyway…I&#x27;m assuming you guys dissolved your party at some point, right?&quot;</p>
 <p>&quot;Yeah, not long after you left town. When you&#x27;re as mediocre as we were, it gets pretty tough when you lose a core party member, you know? Patrice said he was goin&#x27; back to Asura to become a soldier, and we sorta fell apart on the spot.&quot;</p>
@@ -119,20 +118,20 @@ nav_title = "Chapter 5"
 <p>&quot;Don&#x27;t worry, Mom. Lucie&#x27;s doing just fine today.&quot;</p>
 <p>This got no reaction whatsoever. Zenith just stared at the baby so intently she seemed to have forgotten anyone else was even in the room.</p>
 <p>After her arrival at my house, I felt like she&#x27;d become noticeably more active. When Norn was around, she tried to feed her at the dinner table; when she spotted Aisha, they&#x27;d go out to the garden and pull weeds together. And when I was watching Lucie, she&#x27;d stop by like this to check in on us. There were subtle differences in how she reacted to Roxy and Sylphie, too.</p>
-<p>Her facial expression never seemed to change, and she still hadn&#x27;t spoken a word. But she <em>was</em> moving. She <em>was</em> changing. Maybe she was inching her way back to something like a recovery.</p>
+<p>Her facial expression never seemed to change, and she still hadn&#x27;t spoken a word. But she was moving. She was changing. Maybe she was inching her way back to something like a recovery.</p>
 <p>&quot;…&quot;</p>
 <p>&quot;Kyaa hah! Gaa!&quot;</p>
 <p>Zenith had reached out her hands. Smiling from ear to ear, Lucie grabbed at them playfully.</p>
 <p>&quot;Aw, little Lucie sure does love her grandma, doesn&#x27;t she?&quot;</p>
 <p>At first, I&#x27;d been nervous about this. Zenith&#x27;s symptoms were comparable to something like dementia; I&#x27;d worried she might harm Lucie for no reason at all, without even meaning to. By this point, though, it was obvious that we had nothing to worry about. All she ever did was watch Lucie quietly. I&#x27;d never gotten a hint of a negative emotion from her. If anything, she seemed like a normal woman gazing peacefully down at her grandchild.</p>
-<p>I felt a bit guilty for having doubted her in the first place. It wasn&#x27;t like she&#x27;d ever gotten violent with <em>anyone</em> before.</p>
+<p>I felt a bit guilty for having doubted her in the first place. It wasn&#x27;t like she&#x27;d ever gotten violent with anyone before.</p>
 <p>&quot;Ahaha! Gyaaaha!&quot;</p>
 <p>On some level, it seemed like Lucie understood that she meant well, too. The kid was all smiles whenever Zenith visited. It was honestly pretty heartwarming.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-13/insert-03.webp" alt="Illustration" loading="lazy" />
 </div>
 <p>But of course, there was a lot we didn&#x27;t know about Zenith&#x27;s condition and how it might develop. It was hard to imagine anything bad coming of these visits, but given how much was still uncertain, it was probably best for them to stay supervised.</p>
-<p>After all, accidents <em>can</em> happen, even when your intentions are good.</p>
+<p>After all, accidents can happen, even when your intentions are good.</p>
 <p>&quot;…&quot;</p>
 <p>Suddenly, Zenith looked up at me. It almost looked like she was trying to send me a message with her eyes…not that I had any idea what it might me.</p>
 <p>&quot;Waaah! Waaaaah!&quot;</p>
@@ -164,18 +163,17 @@ nav_title = "Chapter 5"
 <p>In other words, these things didn&#x27;t work automatically. You had to turn them on and off yourself. It was a little bit like the suction pads on the tentacles of an octopus.</p>
 <p>It seemed that the hydra we fought had been activating its magic-absorbing &quot;armor&quot; as it saw the spells fly, rendering my attacks useless at the last second.</p>
 <p>I had a hard time imagining many people could react as quickly, but wild animals can often have much better dynamic vision and reflexes than any human being.</p>
-<p>Experimenting further, I also realized that the stone didn&#x27;t exactly &quot;absorb&quot; magic in the way I&#x27;d been expecting. When I held it in my right hand and cast a spell at it with the other, the spell would disappear, but I didn&#x27;t regain the mana that I&#x27;d spent. In fact, I was pretty sure it was <em>costing</em> me some mana—the same amount I&#x27;d used to cast the original spell.</p>
-<p>It would take more focused experiments to be sure what this meant, but I did have a working hypothesis. Basically, I suspected that the stone was converting the mana I fed it into waves that could instantly disintegrate anything <em>else</em> made of mana. The results were similar to the spell Disturb Magic, but I felt like these stones were even more thorough at obliterating the spells they interacted with.</p>
+<p>Experimenting further, I also realized that the stone didn&#x27;t exactly &quot;absorb&quot; magic in the way I&#x27;d been expecting. When I held it in my right hand and cast a spell at it with the other, the spell would disappear, but I didn&#x27;t regain the mana that I&#x27;d spent. In fact, I was pretty sure it was costing me some mana—the same amount I&#x27;d used to cast the original spell.</p>
+<p>It would take more focused experiments to be sure what this meant, but I did have a working hypothesis. Basically, I suspected that the stone was converting the mana I fed it into waves that could instantly disintegrate anything else made of mana. The results were similar to the spell Disturb Magic, but I felt like these stones were even more thorough at obliterating the spells they interacted with.</p>
 <p>There were still many things this theory alone couldn&#x27;t explain, of course. For example, figurines I&#x27;d created with magic were completely unaffected by the stones, even at point-blank range.</p>
 <p>Earthen figurines were immune to the waves, but the projectile from my Stone Cannon wasn&#x27;t. I had no idea why that would be the case. Maybe the mana in the figurines had stabilized over time, making them immune to disruption? Hmm.</p>
-<p>There wasn&#x27;t much point going down these rabbit holes, though. I didn&#x27;t even have a good grasp of what &quot;mana&quot; really was. Rather than groping around for a comprehensive explanation, I wanted to</p>
-<p>focus on how I could <em>use</em> these things. And how I could counteract them in the future.</p>
+<p>There wasn&#x27;t much point going down these rabbit holes, though. I didn&#x27;t even have a good grasp of what &quot;mana&quot; really was. Rather than groping around for a comprehensive explanation, I wanted to focus on how I could use these things. And how I could counteract them in the future.</p>
 <p>With that thought in mind, I&#x27;d carried out another experiment.</p>
 <p>I had the feeling that I could use these stones to destroy some things Disturb Magic couldn&#x27;t. Magic circles, for example.</p>
 <p>Cliff had helped me out with this experiment. As I&#x27;d hoped, I managed to destroy both a Barrier spell and the magic circle he&#x27;d used to cast it. The design on his original scroll was unaffected, but as long as the spell was in active use, the stones of absorption could erase the circle itself.</p>
 <p>However, they weren&#x27;t able to affect a magic circle on the inside of a magical implement. Maybe it was because that circle was carved into the implement itself, rather than drawn on its surface.</p>
 <p>That would make sense. Thinking back on our battle with the hydra, I realized that it never deactivated the magic circle in its lair despite thrashing around all over the place.</p>
-<p>In any case, the most important takeaway was that these scales couldn&#x27;t destroy <em>everything</em> of a magical nature.</p>
+<p>In any case, the most important takeaway was that these scales couldn&#x27;t destroy everything of a magical nature.</p>
 <p>That said, they were probably more than effective enough to deal with most threats I might encounter. With one of these in my back pocket, I could break myself out the next time I blundered into a trap and landed on the inside of a Barrier spell. Ideally I would avoid blundering into traps in the first place, but it never hurt to have an insurance policy.</p>
 <p>At the moment, I was thinking about incorporating one of the stones into my prosthetic hand somewhere. Maybe in the palm.</p>
 <p>It might be tricky to use that hand for both activating the stone and casting magic, but hopefully I&#x27;d get the hang of it with some practice.</p>
@@ -188,9 +186,9 @@ nav_title = "Chapter 5"
 <p>&quot;Got it. Thanks, Aisha.&quot;</p>
 <p>I pushed myself up off my seat casually.</p>
 <p>Zanoba had been making progress on his own research into the automaton recently. My Zaliff Prosthesis had been a product of those efforts. And as it turned out, the automaton&#x27;s legs and feet worked similarly to the hands and arms. I&#x27;d helped make the prototype this time. Zanoba drew up the plans, I created the model section by section with my magic, and Cliff inscribed it with the necessary magic circles.</p>
-<p>It was a slow, delicate process. We&#x27;d spent nearly a month making a single leg. Someday, we&#x27;d hopefully be selling them alongside our artificial hands, but we were a <em>long</em> way from massproducing these things.</p>
+<p>It was a slow, delicate process. We&#x27;d spent nearly a month making a single leg. Someday, we&#x27;d hopefully be selling them alongside our artificial hands, but we were a long way from massproducing these things.</p>
 <p>Anyway. Now that we&#x27;d gotten a good grasp of the limbs, Zanoba was finally starting to investigate the automaton&#x27;s body. This involved locating the fine seams between its sections, and then carefully cutting them apart to study the &quot;innards.&quot;</p>
-<p>Right at the center of its chest, he&#x27;d found a magic stone. It was a pretty red crystalline thing of unusual size. After studying it, however, he realized that it wasn&#x27;t actually just a single stone. It was a combination of numerous smaller ones, each <em>covered</em> in tiny magic circles.</p>
+<p>Right at the center of its chest, he&#x27;d found a magic stone. It was a pretty red crystalline thing of unusual size. After studying it, however, he realized that it wasn&#x27;t actually just a single stone. It was a combination of numerous smaller ones, each covered in tiny magic circles.</p>
 <p>This was clearly the automaton&#x27;s &quot;core.&quot; If we managed to decipher all the patterns etched onto it, we would theoretically be capable of making the same thing ourselves.</p>
 <p>And then, once we took our research to even greater heights, the Robo-Maid dream would finally become a reality!</p>
 <p>Unfortunately, Zanoba was struggling in the face of this new challenge.</p>
@@ -210,7 +208,7 @@ nav_title = "Chapter 5"
 <p>&quot;Nice work,&quot; I said, studying it from multiple angles. &quot;You&#x27;re improving quickly. Keep churning them out for me, all right?&quot;</p>
 <p>&quot;Okay!&quot; Julie said with a cheerful bow.</p>
 <p>While I was off journeying across the Begaritt Continent, Julie had finished her original Ruijerd figurine. I&#x27;d been genuinely surprised by how good it looked. It was clear she&#x27;d used my own version as a model, but in all honesty, hers was just better.</p>
-<p>For one thing, the stance was <em>perfect.</em> Even a total amateur was going to realize they were looking at a total badass.</p>
+<p>For one thing, the stance was perfect. Even a total amateur was going to realize they were looking at a total badass.</p>
 <p>When I showed it to Norn, she couldn&#x27;t help murmuring &quot;I want one&quot; under her breath, so I gave the original to her as a present. She had it on a shelf in her dorm room at the moment.</p>
 <p>Recognizing Julie&#x27;s success for what it was, I tasked her with producing as many copies of the figurine as she could. It still took her quite a while to make a single one, but that wasn&#x27;t really a big deal. The job was a good way to work on stretching her mana capacity, and hopefully we&#x27;d have a nice pile of them ready to go by the time we were ready to sell Norn&#x27;s book.</p>
 <p>&quot;Oh yeah? You bumped into each other? Did she say anything?&quot;</p>
@@ -223,7 +221,7 @@ nav_title = "Chapter 5"
 <p>From the sound of things, nobody had ever read Julie stories like that when she was little. Perhaps it was a cultural thing. The dwarves apparently had traditional fairy tales of some kind, but maybe they didn&#x27;t write books for children. Or maybe her parents were just too busy to spend much time entertaining her. Not that it really mattered either way.</p>
 <p>Anyway, since Julie had enjoyed the book so much, I&#x27;d been planning to introduce her to Norn one of these days, but it seemed they&#x27;d beat me to the punch. Norn had probably been a little embarrassed to learn she had a fan already. It was nice to hear they&#x27;d gotten off on the right foot, though. Recognizing each other&#x27;s talents is a good first step toward building a good working relationship.</p>
 <p>All of this meant we were making excellent progress on the preparations for our Superd PR campaign. I was keeping up with my research and my training, too. Overall, I felt good about how I was using my time. If I pushed myself to take on anything more than I was already handling, I&#x27;d probably be overloading myself.</p>
-<p>Maybe it would have been optimal to focus on a single specific area in which to specialize, but my feeling was that I&#x27;d never be the <em>best</em> at anything I tried. That was true in my first try at life, and it was probably true in this one too.</p>
+<p>Maybe it would have been optimal to focus on a single specific area in which to specialize, but my feeling was that I&#x27;d never be the best at anything I tried. That was true in my first try at life, and it was probably true in this one too.</p>
 <p>There&#x27;s always going to be someone better than you out there. Maybe I was the best mage at the University right now, but the world was full of unbelievably powerful people.</p>
 <p>There&#x27;s such a thing as genuine talent—the kind of talent you can&#x27;t compete with, no matter how hard you try.</p>
 <p>I didn&#x27;t feel any need to push myself to be the very best at any one thing, though. My goal was to be flexible enough to compete on multiple fronts. If I couldn&#x27;t beat someone in a one-on-one fight, I&#x27;d just find a way to slip around them.</p>

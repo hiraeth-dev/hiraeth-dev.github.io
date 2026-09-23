@@ -29,8 +29,7 @@ nav_title = "Chapter 1"
 <p>I did want to see how sexy her body had gotten now that she was thirteen, but that desire was destined to remain unfulfilled. Namely because there was an important component missing from this equation.</p>
 <p>&quot;You don&#x27;t have a swimsuit, do you?&quot; I asked.</p>
 <p>&quot;What the heck is a swimsuit? I don&#x27;t need one!&quot;</p>
-<p>Her response was so shocking I couldn&#x27;t hide my confusion. <em>What the heck is a swimsuit, I don&#x27;t need one</em>, she said. So she meant to swim totally naked…? No, no way, that couldn&#x27;t be it. Most likely she meant to swim in her underwear. I pictured her clad in nothing but her underwear, water pouring over her. The damp fabric would cling to her body, and through the sheer material I would be able to</p>
-<p>see the color of her skin, as well as the slight protrusions on her chest.</p>
+<p>Her response was so shocking I couldn&#x27;t hide my confusion. What the heck is a swimsuit, I don&#x27;t need one, she said. So she meant to swim totally naked…? No, no way, that couldn&#x27;t be it. Most likely she meant to swim in her underwear. I pictured her clad in nothing but her underwear, water pouring over her. The damp fabric would cling to her body, and through the sheer material I would be able to see the color of her skin, as well as the slight protrusions on her chest.</p>
 <p>Why didn&#x27;t I ever join them when she went to play in the water back in Fittoa? Oh yes, because I was busy. Even on my days off I was preoccupied with something. Still, I should have gone with her just one time at least.</p>
 <p>No, now wasn&#x27;t the time to think about that. I needed to focus on the city right before me. Live in the now. That&#x27;s right, live in the now! Woo-hoo, the ocean!</p>
 <p>&quot;No, you shouldn&#x27;t swim in this ocean.&quot; A voice cut in from behind like a bucket of ice-cold water.</p>
@@ -38,10 +37,10 @@ nav_title = "Chapter 1"
 <p>&quot;There&#x27;s a lot of monsters in there.&quot;</p>
 <p>A red jewel embedded in Ruijerd&#x27;s forehead provided him with a sixth sense. It acted as a radar that could detect the presence of every living creature within several hundred meters of its bearer. With such a convenient ability, it was easy to think we could swiftly dispatch all those creatures in the ocean, but maybe it wasn&#x27;t as allpowerful as I thought. Maybe those murky depths were impenetrable.</p>
 <p>Nah. Even so, we should still be able to swim for a little bit, right? Swimming in the harbor might be too dangerous, but I could at least use earth magic on a nearby beach to make our own little pool.</p>
-<p>No…there was still a chance it could be dangerous. There were beasts out there with powers of their own. Some of them might be able to jump over my barrier. It might be a sexy encounter if it were an octopus, but if it were a shark, we&#x27;d be in a real-life reenactment of <em>Jaws</em>.</p>
+<p>No…there was still a chance it could be dangerous. There were beasts out there with powers of their own. Some of them might be able to jump over my barrier. It might be a sexy encounter if it were an octopus, but if it were a shark, we&#x27;d be in a real-life reenactment of Jaws.</p>
 <p>There was little choice. Probably best to give up the idea of a swim in the ocean. There really was nothing else we could do. &quot;There&#x27;ll be no sea bathing this time. Let&#x27;s go find our inn and then hit up the Adventurers&#x27; Guild.&quot;</p>
 <p>&quot;Okay…&quot; Eris looked dejected.</p>
-<p>Hmm. I was still very much interested in seeing how toned her body was. We hadn&#x27;t much opportunity to check out each other&#x27;s growth in the last year. It was difficult to gauge anything through her clothes, but maybe if we were out on the open beach, I could see a little more. <em>Yeah, that&#x27;s right, we should do that.</em></p>
+<p>Hmm. I was still very much interested in seeing how toned her body was. We hadn&#x27;t much opportunity to check out each other&#x27;s growth in the last year. It was difficult to gauge anything through her clothes, but maybe if we were out on the open beach, I could see a little more. Yeah, that&#x27;s right, we should do that.</p>
 <p>&quot;Even if we can&#x27;t go in the water, we could at least play on the beach, right?&quot;</p>
 <p>&quot;The beach?&quot;</p>
 <p>&quot;There&#x27;s something called sand by the ocean. At the water&#x27;s edge, that sand stretches out pretty far,&quot; I explained.</p>
@@ -49,15 +48,13 @@ nav_title = "Chapter 1"
 <p>&quot;On the beach, you can squirt water on yourself and…&quot;</p>
 <p>&quot;Rudeus, you&#x27;ve got that weird look on your face again.&quot;</p>
 <p>&quot;Ugh.&quot; Apparently, my expressions changed too easily with my emotions.</p>
-<p>As I tried to clean the lecherous look off my face, Eris turned her eyes to the ocean and smiled. &quot;But it sounds interesting! Let&#x27;s do</p>
-<p>that afterward!&quot; She happily kicked off and soared through the air, returning to the lizard. It was an incredible leap. Just the sound of her takeoff made me jump—it was like a low thumping noise. She had really toned her legs and lower body. Right now that really complemented her build, but I imagine her becoming even more brawny and muscular in the future, and that worried me a little.</p>
+<p>As I tried to clean the lecherous look off my face, Eris turned her eyes to the ocean and smiled. &quot;But it sounds interesting! Let&#x27;s do that afterward!&quot; She happily kicked off and soared through the air, returning to the lizard. It was an incredible leap. Just the sound of her takeoff made me jump—it was like a low thumping noise. She had really toned her legs and lower body. Right now that really complemented her build, but I imagine her becoming even more brawny and muscular in the future, and that worried me a little.</p>
 <p>***</p>
 <p>Once we decided on our inn and boarded our lizard, we headed straight for the Adventurers&#x27; Guild. A diverse crowd of adventurers clamored around the Wind Port Adventurers&#x27; Guild. It wasn&#x27;t an unfamiliar sight, but it seemed there were a considerable number of humans present this time. Once I crossed over to the Millis Continent, their numbers would surely increase exponentially.</p>
 <p>There was an uncertain look on Ruijerd&#x27;s face as I went to check out the bulletin board as I always did. &quot;I thought we were going to cross the sea immediately?&quot;</p>
 <p>&quot;I&#x27;m just looking. I heard that you can make a better income on the Millis Continent, anyway.&quot;</p>
 <p>You could make a better income on the Millis Continent because the currency was different. The Millis Continent currency was broken up into six types: the king dollar, the general dollar, gold coins, silver coins, large copper coins, and copper coins. Comparing this to the Demon Continent&#x27;s cheapest currency, which was the stone coin:</p>
-<p>1 king&#x27;s dollar = 50,000 stone coins 1 general&#x27;s dollar = 10,000 stone coins 1 gold coin = 5,000 stone coins 1 silver coin = 1,000 stone coins</p>
-<p>1 large copper coin = 100 stone coins 1 small copper coin = 10 stone coins</p>
+<p>1 king&#x27;s dollar = 50,000 stone coins 1 general&#x27;s dollar = 10,000 stone coins 1 gold coin = 5,000 stone coins 1 silver coin = 1,000 stone coins 1 large copper coin = 100 stone coins 1 small copper coin = 10 stone coins</p>
 <p>A B-ranked mission in the Demon Continent netted you about five to ten scrap iron coins. That converted into 150-200 stone coins. If Millis Continent&#x27;s B-ranked missions were worth—let&#x27;s assume five large copper coins, that would be 1,500 stone coins. That was ten times as much. We were better off making money on Millis Continent.</p>
 <p>That said, if we had time to kill before our ship was ready, then we would probably take one of the jobs here. Generally, that meant B-ranked missions. Not only were A-ranked and S-ranked missions dangerous, most of them took more than a week to complete. If we wanted a consistent daily income, then B-ranked jobs were our best option. It was also why I had no plan to raise our party to S-rank, because it would mean we could no longer accept B-ranked missions.</p>
 <p>In fact, as an A-ranked party you could undertake S-ranked missions anyway, so I initially questioned the need for having an Srank in the party ranking system at all. When I asked one of the guild personnel about it, they told me there were special benefits if you rose to S-rank. I didn&#x27;t pry any further, but I guessed it meant getting bigger discounts for lodging, being allotted better-quality guild jobs, or the assurance that they would turn a blind eye to some of a party&#x27;s illegal behavior. Something along those lines.</p>
@@ -66,7 +63,7 @@ nav_title = "Chapter 1"
 <p>Digressions aside, we were adventurers primarily interested in earning money, so if going to Millis Continent was the fastest way to do that, boarding a ship immediately was in our best interest.</p>
 <p>&quot;By the way, where do the boats leave from?&quot; I asked.</p>
 <p>&quot;The harbor, of course.&quot;</p>
-<p>&quot;Yes, but <em>where</em> in the harbor?&quot;</p>
+<p>&quot;Yes, but where in the harbor?&quot;</p>
 <p>&quot;Ask someone,&quot; Ruijerd said.</p>
 <p>&quot;Yes, sir.&quot;</p>
 <p>I moved to the counter. Standing behind it was a human woman. In fact, most personnel tended to be women, and for some reason they tended to be generously endowed, probably for aesthetic purposes.</p>
@@ -111,18 +108,17 @@ nav_title = "Chapter 1"
 <p>&quot;I heard the Kennel Master is the nastiest one of all.&quot;</p>
 <p>&quot;Yeah, all he&#x27;s done is awful things.&quot;</p>
 <p>What in the world!!</p>
-<p>Not only was the nickname different than I&#x27;d imagined, they didn&#x27;t even remember my name! No, wait, but it <em>was</em> true that I used Ruijerd&#x27;s name all the time, right? Still, whenever I did anything good, I would always proclaim, &quot;I&#x27;m Ruijerd of Dead End, and don&#x27;t you forget it!&quot; Meanwhile, every time I did something bad, I would cackle loudly and say, &quot;My name is Rudeus, bwahahaha!&quot; So they shouldn&#x27;t have gotten the two mixed up, right?</p>
+<p>Not only was the nickname different than I&#x27;d imagined, they didn&#x27;t even remember my name! No, wait, but it was true that I used Ruijerd&#x27;s name all the time, right? Still, whenever I did anything good, I would always proclaim, &quot;I&#x27;m Ruijerd of Dead End, and don&#x27;t you forget it!&quot; Meanwhile, every time I did something bad, I would cackle loudly and say, &quot;My name is Rudeus, bwahahaha!&quot; So they shouldn&#x27;t have gotten the two mixed up, right?</p>
 <p>Hmm. After a whole year of laborious work, it was a bit of shock to discover people remembered everyone&#x27;s name but mine. Oh well. It seemed I had a negative image attached to me, but at least people weren&#x27;t using my real name. Besides, Kennel Master wasn&#x27;t such a bad title. I&#x27;d love to put a collar on Eris and lead her around.</p>
 <p>&quot;But he&#x27;s pretty small.&quot;</p>
 <p>&quot;Bet he&#x27;s small down there too, since he&#x27;s a kid and all!&quot;</p>
 <p>&quot;Hey, hey! You start calling it small and he&#x27;ll set his dogs loose on you!&quot;</p>
 <p>&quot;Gahahaha!&quot;</p>
 <p>Before I realized what was happening, they were all laughing at me over something completely unrelated. Too bad for them, though. I was still growing (and coming along nicely, at that), so yes, it might be little more than a bamboo shoot for now. But the day it would grow into a magnificent, robust tree wasn&#x27;t far off.</p>
-<p>Ah, forget that. If we kept getting laughed at like this, Eris would go back into demon rage mode…or so I thought. Instead, she kept</p>
-<p>stealing glances at me with her cheeks flushed bright red. Aww, how adorable.</p>
+<p>Ah, forget that. If we kept getting laughed at like this, Eris would go back into demon rage mode…or so I thought. Instead, she kept stealing glances at me with her cheeks flushed bright red. Aww, how adorable.</p>
 <p>&quot;Eris, what&#x27;s wrong?&quot;</p>
 <p>&quot;I-It&#x27;s nothing!&quot;</p>
-<p><em>Heh heh heh. If you&#x27;re that interested, then why don&#x27;t you take a look while I&#x27;m showering tonight? Don&#x27;t worry, I&#x27;ll explain everything to Ruijerd. If you want, we can even get in together. Of course, a hand, leg, body, or even a tongue might slip in the process</em>…</p>
+<p>Heh heh heh. If you&#x27;re that interested, then why don&#x27;t you take a look while I&#x27;m showering tonight? Don&#x27;t worry, I&#x27;ll explain everything to Ruijerd. If you want, we can even get in together. Of course, a hand, leg, body, or even a tongue might slip in the process…</p>
 <p>Anyway, enough joking around. It was time for us to move on to the checkpoint. I would leave here with every bit of dignity expected of a &quot;Kennel Master.&quot;</p>
 <p>&quot;Miss Eris, Mister Ruijerdoria! Let&#x27;s be on our way!&quot;</p>
 <p>&quot;Why do you screw up my name like that…?&quot;</p>
@@ -139,7 +135,7 @@ nav_title = "Chapter 1"
 <p>Of course I knew it! I had traveled with Ruijerd for the past year, how wouldn&#x27;t I know? There was such contempt toward the Superd tribe that all its members were groundlessly persecuted. Even so, this fee was too high.</p>
 <p>&quot;But why such an impossibly high sum?&quot;</p>
 <p>&quot;Don&#x27;t ask me. Ask the person who decided on it.&quot;</p>
-<p>I pressed on. &quot;Well, why do <em>you</em> think it&#x27;s so high?&quot;</p>
+<p>I pressed on. &quot;Well, why do you think it&#x27;s so high?&quot;</p>
 <p>&quot;Uh, well, to prevent terrorism, I&#x27;m sure, in case someone brings one along as a slave and sets them loose on the Millis Continent.&quot; At least, that was his interpretation. In other words, they were treating the Superd as if they were a ticking time bomb.</p>
 <p>&quot;You&#x27;re those guys, Dead End, right? The fake Superd. When you board, they&#x27;ll check what subrace you are. Don&#x27;t act tough and waste two hundred green ore coins here when they&#x27;ll figure you out anyway.&quot;</p>
 <p>The official&#x27;s words of caution were a blessing in disguise. This meant we wouldn&#x27;t be able to pretend Ruijerd was from the Migurd tribe because we&#x27;d be discovered anyway.</p>
@@ -150,7 +146,7 @@ nav_title = "Chapter 1"
 <p>&quot;This is so good!&quot; Eris said happily as she chewed, her cheeks stuffed with food.</p>
 <p>In this past year she had entirely forgotten the Asura Kingdom&#x27;s customary table manners. She cut her food with the knife in her right hand, then stabbed it and put it straight in her mouth. At least she wasn&#x27;t shoveling it in with her fists, but there was nothing graceful or refined about it. Edna, her etiquette tutor, would surely be reduced to tears if she could see Eris now. This was also my responsibility.</p>
 <p>&quot;Eris, your table manners are awful!&quot;</p>
-<p><em>Munch, munch.</em> &quot;Who the hell&#x27;s worried about manners?&quot;</p>
+<p>Munch, munch. &quot;Who the hell&#x27;s worried about manners?&quot;</p>
 <p>In comparison, Ruijerd&#x27;s manners were much better, although they had no elegance to them, either. He didn&#x27;t use his knife at all, but used his fork both to cut the food and eat. He slid his fork through the fish as easily as if it were butter. The skills of an expert, no doubt.</p>
 <p>&quot;Well, I realize we&#x27;re still in the midst of our meal, but let&#x27;s start our strategy meeting.&quot;</p>
 <p>&quot;Rudeus, talking during a meal is poor manners,&quot; Eris said, suddenly wearing the expression of a prim and proper lady on her face.</p>
@@ -164,14 +160,13 @@ nav_title = "Chapter 1"
 <p>&quot;I know,&quot; I said. &quot;It was a joke.&quot;</p>
 <p>That aside, two hundred coins was no ordinary amount of money. Even if we prioritized taking on S-ranked and A-ranked jobs, it would take us years to save up that much. It seemed the Millis Continent really didn&#x27;t want any Superd crossing its borders.</p>
 <p>&quot;We&#x27;re in a bind. We can&#x27;t just leave Ruijerd behind.&quot;</p>
-<p>Leaving Ruijerd behind would be the quickest way to make the crossing. The two of us were fairly experienced adventurers by now, so we could continue our journey even without him. That said, I had no intention of doing that. Ruijerd was going to be with us until our</p>
-<p>journey was over. Our friendship was unbreakable and eternal, after all. &quot;Of course we won&#x27;t leave him behind.&quot;</p>
+<p>Leaving Ruijerd behind would be the quickest way to make the crossing. The two of us were fairly experienced adventurers by now, so we could continue our journey even without him. That said, I had no intention of doing that. Ruijerd was going to be with us until our journey was over. Our friendship was unbreakable and eternal, after all. &quot;Of course we won&#x27;t leave him behind.&quot;</p>
 <p>&quot;Then what are we going to do?&quot;</p>
 <p>&quot;We have…three options,&quot; I said, holding up the corresponding number of fingers. There were always three options for everything. One was to move forward, one was to go back, and the other was to stay where we were.</p>
 <p>&quot;Ah.&quot;</p>
 <p>&quot;Amazing, there&#x27;s three whole options?&quot; Eris asked.</p>
 <p>&quot;Heh heh!&quot; I laughed.</p>
-<p><em>Now just hold on</em>, I thought. <em>I haven&#x27;t thought through all of them yet. Let&#x27;s see…</em></p>
+<p>Now just hold on, I thought. I haven&#x27;t thought through all of them yet. Let&#x27;s see…</p>
 <p>&quot;The first option is a frontal attack: we stay here, earn money, and travel to Millis Continent by paying the fee.&quot;</p>
 <p>&quot;But if we do that…&quot;</p>
 <p>&quot;Yes, it will take way too much time,&quot; I agreed.</p>
@@ -197,7 +192,7 @@ nav_title = "Chapter 1"
 <p>***</p>
 <p>That night, a divine message came to me.</p>
 <p>The Man-God told me, &quot;Buy some food at a street stall and search the alleyways by yourself.&quot;</p>
-<p><em>Sounds like a real pain in the ass</em>. <em>But since I have no other options, I&#x27;ll try to be optimistic and give it a shot.</em></p>
+<p>Sounds like a real pain in the ass. But since I have no other options, I&#x27;ll try to be optimistic and give it a shot.</p>
 <p>&quot;So you&#x27;re doing it because you have no other choice?&quot;</p>
 <p><em>Nah, I just already know what&#x27;s going to happen since you said the words &quot;food&quot; and &quot;back alleyway&quot;.</em></p>
 <p>&quot;Do you?&quot;</p>

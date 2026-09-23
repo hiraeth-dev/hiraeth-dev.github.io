@@ -8,7 +8,7 @@ nav_title = "Chapter 7"
 +++
 
 <p><strong>T</strong>HE SIXTH FLOOR WAS COVERED in Devouring Devils.</p>
-<p>Armored Warriors disappeared entirely, leaving only the pesky ceiling crawlers. The fights went smoothly thanks to the incense, but there was still far too many of them. So many, in fact, that you had to ask yourself, <em>Just why are the things so numerous here?</em></p>
+<p>Armored Warriors disappeared entirely, leaving only the pesky ceiling crawlers. The fights went smoothly thanks to the incense, but there was still far too many of them. So many, in fact, that you had to ask yourself, Just why are the things so numerous here?</p>
 <p>The reason became clear as we encroached upon the deepest parts of the sixth floor.</p>
 <p>There, in the room leading to the next magic circle, was a nest. A swarm of the beasts crowded within, and countless eggs sat at the edges of the area. They were dark, oblong shapes coated in liquid not unlike the cockroaches from my world. It sent a chill down my spine just looking at them.</p>
 <p>Perhaps there was a queen somewhere and she was using Zenith to help birth her eggs. The thought drifted into my head, but there was no indication that the Devouring Devils had any such habits. They did swarm together, but they didn&#x27;t seem to have anything resembling a queen. Just like cockroaches.</p>
@@ -16,15 +16,13 @@ nav_title = "Chapter 7"
 <p>&quot;Teacher, what do beasts like this eat?&quot; I asked of Roxy.</p>
 <p>&quot;Good question. There are many theories out there, but I&#x27;ve often heard that they feed on mana.&quot;</p>
 <p>&quot;Mana?&quot;</p>
-<p>Forests and caves had a high concentration of mana, in addition to being full of monsters. Come to think of it, Nanahoshi did mention that such magical energy could be found in all manner of things</p>
-<p>throughout this world. Mana, however, could not be seen with the naked eye, so how could this theory be confirmed?</p>
+<p>Forests and caves had a high concentration of mana, in addition to being full of monsters. Come to think of it, Nanahoshi did mention that such magical energy could be found in all manner of things throughout this world. Mana, however, could not be seen with the naked eye, so how could this theory be confirmed?</p>
 <p>Wait—there was the Eye of Magical Power, suggesting it was true.</p>
 <p>Still, if they really did feed on mana, then wouldn&#x27;t it also make sense for them to just gobble up my spells? The fact that they couldn&#x27;t must mean there were two types of magical power: the kind that could be consumed and the kind that couldn&#x27;t.</p>
 <p>Now that I thought about it, Paul had told me a long time ago that monsters were attracted to the magically imbued crystal at the heart of a labyrinth. Were the crystals really that enticing to monsters? The ones here weren&#x27;t even trying to delve deeper. All they&#x27;d done was create a nest and start inhabiting the place.</p>
 <p>Ah well, pondering the mystery would get me nowhere for now. There were other monsters, like the Armored Warrior, that clearly didn&#x27;t consume anything to survive. I&#x27;d leave the questions of monster ecology to the experts.</p>
 <p>&quot;Well, no matter what they consume, it doesn&#x27;t change the fact that they attack humans on sight. Let&#x27;s destroy these eggs as we find them, or they&#x27;ll be a thorn in our side when we next return,&quot; Roxy said as she coolly made short work of their eggs. She used a shortsword, rather than magic, to impale them one by one. Her expression was the very definition of indifference. I liked that side of her, too.</p>
-<p>At any rate, so monsters produced eggs, huh? I wondered if Armored Warriors had offspring as well. I pictured a mini version of them as big as a felt doll, carrying a toy sword and waddling around. I imagined their armored mommy and armored daddy watching over them happily. Then, suddenly, footsteps—an intruder. The armored mommy and daddy instruct their son to hide as they step out onto the battlefield. Paul appears before them, his face like that of a</p>
-<p>demon. He brutally murders the parents with a shortsword that is especially efficient at ripping through their armor—not unlike pesticide against insects. The child witnesses this and learns that humans are the enemy. He grows up and morphs into a beast that attacks humans on sight.</p>
+<p>At any rate, so monsters produced eggs, huh? I wondered if Armored Warriors had offspring as well. I pictured a mini version of them as big as a felt doll, carrying a toy sword and waddling around. I imagined their armored mommy and armored daddy watching over them happily. Then, suddenly, footsteps—an intruder. The armored mommy and daddy instruct their son to hide as they step out onto the battlefield. Paul appears before them, his face like that of a demon. He brutally murders the parents with a shortsword that is especially efficient at ripping through their armor—not unlike pesticide against insects. The child witnesses this and learns that humans are the enemy. He grows up and morphs into a beast that attacks humans on sight.</p>
 <p>Yeah, okay, that was a ridiculous thought.</p>
 <p>&quot;Rudy, what are you spacing out for?&quot; Roxy called over to me. &quot;Please help out.&quot;</p>
 <p>&quot;Oh, right.&quot;</p>
@@ -33,8 +31,7 @@ nav_title = "Chapter 7"
 <p>Our cleanup ended pretty uneventfully after that, without a single newly hatched larva popping out to try and cling to Roxy&#x27;s crotch.</p>
 <p>***</p>
 <p>Finally, we arrived at the depths of the labyrinth, the very place written about in the last pages of our book. It was a spacious, square room constructed of stone. There were three magic circles near one of the walls facing away from the entrance of the room.</p>
-<p>If that were all, the place wouldn&#x27;t have seemed special. But the room was absolutely empty except for the circles. The room before it had had a virtual swarm of Devouring Devils, and more than a hundred of their eggs to boot. Yet the only thing in here were these circles, almost as if this were holy ground where neither eggs nor the</p>
-<p>creepy-crawlies that birthed them dared enter. Only one word could sufficiently describe this phenomenon: abnormal.</p>
+<p>If that were all, the place wouldn&#x27;t have seemed special. But the room was absolutely empty except for the circles. The room before it had had a virtual swarm of Devouring Devils, and more than a hundred of their eggs to boot. Yet the only thing in here were these circles, almost as if this were holy ground where neither eggs nor the creepy-crawlies that birthed them dared enter. Only one word could sufficiently describe this phenomenon: abnormal.</p>
 <p>&quot;It&#x27;s the guardian,&quot; said Elinalise.</p>
 <p>Paul agreed. &quot;It does give off that vibe.&quot;</p>
 <p>&quot;Keeps your wits about you,&quot; Roxy warned.</p>
@@ -53,7 +50,7 @@ nav_title = "Chapter 7"
 <p>Geese frowned. &quot;Think so? I say it&#x27;s just bad luck. Listen here, Boss, things like this—items left behind by a dead party—they&#x27;re bad luck.&quot;</p>
 <p>&quot;A jinx?&quot;</p>
 <p>&quot;Yeah, that&#x27;s right. A jinx.&quot;</p>
-<p>&quot;Okay,&quot; I said, &quot;but it&#x27;s not like their <em>whole</em> party was wiped out.&quot;</p>
+<p>&quot;Okay,&quot; I said, &quot;but it&#x27;s not like their whole party was wiped out.&quot;</p>
 <p>As we talked, I continued to inspect the circle in front of us. It perfectly resembled the two-way circles we&#x27;d used to travel back and forth numerous times up until now, and yet this one was different. If stepped on, this one would randomly teleport you. Or perhaps you didn&#x27;t even have to step on it—maybe, once activated, it would warp anything located within the room.</p>
 <p>This meant one of the other two had to be the correct option. Yet both of them very clearly had the characteristics of a random teleportation circle.</p>
 <p>&quot;Rudy, can you tell which one is the right one?&quot; Roxy asked.</p>
@@ -61,7 +58,7 @@ nav_title = "Chapter 7"
 <p>&quot;Nanahoshi? Who is that?&quot;</p>
 <p>&quot;A girl studying teleportation—or rather, summoning—at the university. She knows a lot about magic circles, so she might be able to weigh in.&quot;</p>
 <p>&quot;C-could she be…your lover?&quot;</p>
-<p>&quot;Nanahoshi? No way.&quot; I laughed her question off. As I did, I thought to myself, <em>If only Nanahoshi were here. Or Sylphie, or even</em>  <em>Cliff.</em> The first two would&#x27;ve been impossible, but maybe I should&#x27;ve brought Cliff, after all. Maybe I should go back and fetch him? But it would take three months to travel both ways. Maybe as long as four months. Cliff wasn&#x27;t accustomed to being on the road.</p>
+<p>&quot;Nanahoshi? No way.&quot; I laughed her question off. As I did, I thought to myself, If only Nanahoshi were here. Or Sylphie, or even  Cliff. The first two would&#x27;ve been impossible, but maybe I should&#x27;ve brought Cliff, after all. Maybe I should go back and fetch him? But it would take three months to travel both ways. Maybe as long as four months. Cliff wasn&#x27;t accustomed to being on the road.</p>
 <p>Nah. Even if I did fetch him, he might say, &quot;I don&#x27;t know, either.&quot;</p>
 <p>&quot;Actually,&quot; I said. &quot;I did some research into teleportation at the university, but I&#x27;m embarrassed to say I can&#x27;t make heads nor tails of this.&quot;</p>
 <p>&quot;You researched teleportation?&quot; Roxy asked, surprised.</p>
@@ -112,7 +109,7 @@ nav_title = "Chapter 7"
 <p>&quot;I oppose that,&quot; I said.</p>
 <p>Elinalise said, surprised, &quot;Oh, Rudeus? Why is that?&quot;</p>
 <p>&quot;First, there&#x27;s no guarantee that either one of those is the right answer.&quot;</p>
-<p>Both circles seemed randomized, to all appearances. They might both be traps, meaning all <em>three</em> of the circles were traps. It was possible the correct circles were located in a different room. Admittedly, that seemed unlikely—the book said they&#x27;d searched each room on every floor before moving on to the next. If I were to trust the author, then this was our final destination.</p>
+<p>Both circles seemed randomized, to all appearances. They might both be traps, meaning all three of the circles were traps. It was possible the correct circles were located in a different room. Admittedly, that seemed unlikely—the book said they&#x27;d searched each room on every floor before moving on to the next. If I were to trust the author, then this was our final destination.</p>
 <p>But the position of the circles and their shapes… All of it felt deliberate. Deceptive.</p>
 <p>Something felt off.</p>
 <p>Why would anyone even make a trap that had a fifty-fifty chance of success? Wouldn&#x27;t that defeat the purpose of it being a trap? Besides, if whoever had created this had gone to the trouble of preparing a fake two-way circle, was the solution really as simple as one of the one-way circles being correct? If that was all there was to it, why even bother having three circles to begin with?</p>
@@ -126,22 +123,21 @@ nav_title = "Chapter 7"
 <p>I sat in front of the circles and began to think.</p>
 <p>My starting premise was this: All three of these circles were dummies. Based off that, three possibilities sprang to mind.</p>
 <p>First, it was possible this wasn&#x27;t the end point of the labyrinth.</p>
-<p>According to the book, this labyrinth had one internal rule of its own, and that rule was that the main route through the maze was composed solely of two-way circles. Following that logic, this <em>had</em> to be the final destination.</p>
+<p>According to the book, this labyrinth had one internal rule of its own, and that rule was that the main route through the maze was composed solely of two-way circles. Following that logic, this had to be the final destination.</p>
 <p>However, the area that Roxy had wandered into before was a section of the labyrinth inaccessible through two-way circles alone. To get back to the main path, you had to find your way through over thirty one-way circles in the area. In short, the real end of this labyrinth might be located beyond a one-way circle, though I did think the chances of that were slim.</p>
-<p>Second possibility: Unbeknownst to the author, one of the other party members had triggered a trap right before they entered the portal. The author assumed that they were stepping on the two-way portal, but what actually happened was that someone else triggered a random warp, teleporting everyone in the room off to a random location. Thus, the two-way portal actually <em>was</em> the correct one.</p>
+<p>Second possibility: Unbeknownst to the author, one of the other party members had triggered a trap right before they entered the portal. The author assumed that they were stepping on the two-way portal, but what actually happened was that someone else triggered a random warp, teleporting everyone in the room off to a random location. Thus, the two-way portal actually was the correct one.</p>
 <p>Nah, that couldn&#x27;t be it. If such a trap were present, surely Geese would have noticed it.</p>
 <p>Third: The two-way circle was actually a double circle.</p>
-<p>Portals came in a lot of different shapes. Perhaps there existed one that was donut-shaped. If so, the correct portal might be</p>
-<p>surrounded by one such donut-shaped portal that was actually a teleportation trap. That was possible, right?</p>
+<p>Portals came in a lot of different shapes. Perhaps there existed one that was donut-shaped. If so, the correct portal might be surrounded by one such donut-shaped portal that was actually a teleportation trap. That was possible, right?</p>
 <p>In other words, as long as we stepped on the very center rather than the perimeter, we could reach the next floor.</p>
-<p><em>Idiot,</em> I chastised myself. <em>Who do you think you are, some kind of ace detective?</em></p>
+<p>Idiot, I chastised myself. Who do you think you are, some kind of ace detective?</p>
 <p>The most probable of these three possibilities had to be the first one.</p>
 <p>The author had generally only ever stepped on two-way circles. Even after he discovered the three different types on the first floor, he never stepped on a single random or one-way circle as he made his way down through the third and fourth floors. That had been enough to get him this far.</p>
 <p>Perhaps, from this point onward, you had to proceed by oneway circles to make it to the end. But if that were the case, then maybe the path leading forward didn&#x27;t start here. Maybe we were just simply at a dead end—in which case, the path leading forward might start somewhere we&#x27;d already passed up. For example, there could be a one-way circle on the fourth floor that actually led to the final point of the dungeon.</p>
 <p>Dammit. Things had gotten so complicated.</p>
 <p>Besides, the way the author had divided up the &quot;floors&quot; was arbitrary to begin with. He&#x27;d done it entirely on the basis of what monsters were around and what the area looked like. The unique &quot;rule&quot; about the main route through the labyrinth only consisting of two-way portals might&#x27;ve been complete coincidence.</p>
 <p>Was our best option to just brute force our way through, trying out each option one by one? Start on this floor and go through each one-way circle, defeating whatever monsters we encountered, trying to find a different route? That seemed like the correct choice.</p>
-<p><em>Just look at the atmosphere of this room</em>, <em>though</em>. The veteran members of my party had entered and immediately sensed that the boss—or rather, guardian—must be close. I was sure this place had to be special. That this <em>had</em> to be the last room in this labyrinth.</p>
+<p>Just look at the atmosphere of this room, though. The veteran members of my party had entered and immediately sensed that the boss—or rather, guardian—must be close. I was sure this place had to be special. That this had to be the last room in this labyrinth.</p>
 <p>No—maybe that was just one of the labyrinth&#x27;s traps. Hmm…</p>
 <p>&quot;There&#x27;s just no end to the possibilities,&quot; I muttered to myself as I stood up. It was time for a bathroom break. &quot;Father?&quot;</p>
 <p>&quot;What is it?&quot; Paul looked up.</p>
@@ -217,7 +213,7 @@ nav_title = "Chapter 7"
 <p>&quot;…&quot;</p>
 <p>When I glanced over my shoulder, I saw Roxy with her tiny hand lifted in the air. Our eyes met, hers peering up from below, and her hand came to a gentle stop against my back, barely brushing against me.</p>
 <p>&quot;There,&quot; she said. &quot;You did a good job.&quot; Her expression was tinged with disappointment, as if she couldn&#x27;t quite stomach the success of her pupil. Every single one of my deeds was directly linked to her, so I didn&#x27;t see the need for her to feel vexed.</p>
-<p><em>That&#x27;s it,</em> I decided. <em>If word of this moment gets out, I&#x27;ll brag that it was actually Roxy who gave me the hint!</em></p>
+<p>That&#x27;s it, I decided. If word of this moment gets out, I&#x27;ll brag that it was actually Roxy who gave me the hint!</p>
 <p>&quot;All righty, let&#x27;s get goin&#x27;. Keep on your toes, everyone,&quot; said Geese.</p>
 <p>&quot;Yeah!&quot; Everyone nodded together.</p>
 <p>At the foot of those stairs was a teleportation circle—a two-way type. One that was a deep, blood red.</p>

@@ -9,7 +9,7 @@ nav_title = "Chapter 10"
 
 <p><strong>I</strong> was now seven years old.</p>
 <p>My two little sisters, Norn and Aisha, were growing quickly. They cried when they peed themselves, they cried when they pooped themselves, they cried when they were upset about something, and they cried even when they weren&#x27;t. They&#x27;d cry in the middle of the night, and they&#x27;d cry first thing in the morning, and when afternoon rolled around, there&#x27;d be some particularly energetic wailing.</p>
-<p>Before long, Paul and Zenith were having a shared nervous breakdown. The only one who kept her cool was Lilia. &quot;See!&quot; she said, tending skillfully to the two girls, as she usually did. &quot;Now this is what childrearing is! Things with young Rudeus were much too easy! You could hardly call that <em>real</em> childrearing!&quot;</p>
+<p>Before long, Paul and Zenith were having a shared nervous breakdown. The only one who kept her cool was Lilia. &quot;See!&quot; she said, tending skillfully to the two girls, as she usually did. &quot;Now this is what childrearing is! Things with young Rudeus were much too easy! You could hardly call that real childrearing!&quot;</p>
 <p>In my case, I was already used to crying babies, thanks to my younger brother from my last life, so it didn&#x27;t bother me much. And, not to brag, but I had experience in looking after babies—again, thanks to my brother—so I&#x27;d briskly change diapers and help out with the laundry and the cleaning. Paul would watch me, looking quite embarrassed for himself. Much like a Japanese man born before World War II, he didn&#x27;t know how to do anything around the house.</p>
 <p>Certainly, his skills with the sword were undeniable, and the people of the town held him in esteem, but he was only half the man he needed to be in order to be a dad.</p>
 <p>And this was his second time around, too. Good grief.</p>
@@ -35,7 +35,7 @@ nav_title = "Chapter 10"
 <p>There&#x27;s always a bigger fish, after all.</p>
 <p>I was grateful for Paul teaching me to wield a sword. Other than that, though, he was still no good as a dad. He was like an Olympic gold medalist who also happened to be a convicted criminal.</p>
 <p>***</p>
-<p>One day, I was working on my sword practice with Paul, as I usually did. Once again, I could tell I wasn&#x27;t going to beat him that day. I probably wouldn&#x27;t beat him the day after, either. Lately, I hadn&#x27;t felt the sense that I was improving at all. Still, if I didn&#x27;t keep trying, I <em>definitely</em> wasn&#x27;t going to get better.</p>
+<p>One day, I was working on my sword practice with Paul, as I usually did. Once again, I could tell I wasn&#x27;t going to beat him that day. I probably wouldn&#x27;t beat him the day after, either. Lately, I hadn&#x27;t felt the sense that I was improving at all. Still, if I didn&#x27;t keep trying, I definitely wasn&#x27;t going to get better.</p>
 <p>Besides, even if I wasn&#x27;t feeling that sense of improvement, my body was still internalizing the practice. Probably. I mean, it had to be, right?</p>
 <p>As I was mulling that over, Paul broke the silence.</p>
 <p>&quot;By the way, Rudy,&quot; he said, as if suddenly remembering something, &quot;about school… No, you probably don&#x27;t need that. Never mind. Let&#x27;s get back to it.&quot;</p>
@@ -49,8 +49,7 @@ nav_title = "Chapter 10"
 <p>And hey, if that made their estimation of Roxy go up as a result, all the better.</p>
 <p>&quot;I&#x27;m interested in school, though,&quot; I said. &quot;There&#x27;d be a lot of other children around my age there, right? Maybe I could make some friends.&quot;</p>
 <p>Paul swallowed, as if he had a lump in his throat.</p>
-<p>&quot;I mean it&#x27;s not all that great a place. Etiquette is just stuffy nonsense, knowing history doesn&#x27;t help with anything, and you&#x27;re definitely going to get bullied. A bunch of local noble brats will be</p>
-<p>there, sure, but they just get all bitchy whenever they&#x27;re not number one. With a kid like you there, they&#x27;ll probably form a clique and push you around. And my father was a marquis, so with you being of even lower standing than I was, you&#x27;ll be seen as even more of an upstart.&quot;</p>
+<p>&quot;I mean it&#x27;s not all that great a place. Etiquette is just stuffy nonsense, knowing history doesn&#x27;t help with anything, and you&#x27;re definitely going to get bullied. A bunch of local noble brats will be there, sure, but they just get all bitchy whenever they&#x27;re not number one. With a kid like you there, they&#x27;ll probably form a clique and push you around. And my father was a marquis, so with you being of even lower standing than I was, you&#x27;ll be seen as even more of an upstart.&quot;</p>
 <p>Paul&#x27;s rundown sounded like it was coming from personal experience. He&#x27;d run away from home because he was disgusted by his rigid father and the corrupt nobility. Etiquette and history were an inescapable part of being a proper Asuran noble, so he must have found those subjects tough to tolerate.</p>
 <p>An unmistakable tension filled the air between us as we talked. &quot;Really?&quot; I asked. &quot;I would&#x27;ve figured that noblewomen had some pretty cute daughters.&quot;</p>
 <p>&quot;Let me stop you right there. Noble daughters cake their faces thick with makeup, fuss obsessively over their hairdos, and reek of perfume. I mean, sure, some of them practice swordplay and are hot, but the bulk of them keep their bodies hidden underneath corsets, and even when you do get one into bed and get her clothes off, they never get any exercise, so their bodies are all loose and flabby to boot. Your dad&#x27;s been tricked many times on that front.&quot; Paul had a distant look in his eyes as he spoke.</p>
@@ -70,12 +69,11 @@ nav_title = "Chapter 10"
 <p>Apparently, this colossal dungeon was connected to a hole at the pinnacle of Mount Dragoncry itself. By leaping into it, you could presumably plunge right to the very deepest floor, but no one who tried that stunt ever made it back alive.</p>
 <p>That &quot;hole&quot; wasn&#x27;t a volcanic crater or anything, by the way. The labyrinth itself had supposedly created it in order to consume red dragons; when one flew by, the Pit would suck it into its maw.</p>
 <p>There wasn&#x27;t much proof to support that particular myth. But it wouldn&#x27;t have been too surprising, given that the Pit was a truly ancient monster.</p>
-<p>As for the most purely <em>challenging</em> labyrinths… you had the aptly-named Hell, located on the Divine Continent, and Devil&#x27;s Cave, which sat in the middle of the Ringus Sea. Both of these were</p>
-<p>brutally difficult even to reach, meaning it was all but impossible to resupply once you arrived. Given their great depth, and the fact that you couldn&#x27;t really take your time exploring them, they&#x27;d earned a reputation as the toughest tests an adventurer could face.</p>
+<p>As for the most purely challenging labyrinths… you had the aptly-named Hell, located on the Divine Continent, and Devil&#x27;s Cave, which sat in the middle of the Ringus Sea. Both of these were brutally difficult even to reach, meaning it was all but impossible to resupply once you arrived. Given their great depth, and the fact that you couldn&#x27;t really take your time exploring them, they&#x27;d earned a reputation as the toughest tests an adventurer could face.</p>
 <p>That was basically the extent of my knowledge on this topic at the moment.</p>
 <p>&quot;I&#x27;ve read a bit about labyrinths…&quot;</p>
-<p>&quot;Ah. <em>The Three Swordsmen and the Labyrinth</em>, right? Exploring a legendary dungeon like that&#x27;s a sure way to get your name into the history books. Ever thought about giving it a shot yourself?&quot;</p>
-<p><em>The Three Swordsmen and the Labyrinth</em> was the tale of three brilliant young fighters who would come to be known as the Sword God, the Water God, and the North God. The book began with their initial meeting and followed them through a series of twists and turns that led them to challenge a huge labyrinth together. There was plenty of conflict, laughter, and male bonding along the way, as well as a few painful farewells; in the end, naturally, they achieved their goal triumphantly.</p>
+<p>&quot;Ah. The Three Swordsmen and the Labyrinth, right? Exploring a legendary dungeon like that&#x27;s a sure way to get your name into the history books. Ever thought about giving it a shot yourself?&quot;</p>
+<p>The Three Swordsmen and the Labyrinth was the tale of three brilliant young fighters who would come to be known as the Sword God, the Water God, and the North God. The book began with their initial meeting and followed them through a series of twists and turns that led them to challenge a huge labyrinth together. There was plenty of conflict, laughter, and male bonding along the way, as well as a few painful farewells; in the end, naturally, they achieved their goal triumphantly.</p>
 <p>The labyrinth in that book only went down about a hundred floors, but it was bad enough.</p>
 <p>&quot;Isn&#x27;t that just a story, though?&quot;</p>
 <p>&quot;Nope. They say the three great styles we&#x27;ve passed down through the generations were born inside that labyrinth.&quot;</p>
@@ -100,8 +98,7 @@ nav_title = "Chapter 10"
 <p>I&#x27;d been spending a lot of time in my room with Sylphie recently, walking her through the basics of math and science. It seemed like the quickest way to help her understand how silent spellcasting really worked in detail.</p>
 <p>Unfortunately, I&#x27;d left school after junior high in my previous life. While I&#x27;d technically gotten into some high school for morons, I&#x27;d dropped out almost immediately.</p>
 <p>As a result, there was a real limit to how much I could teach her. Book learning wasn&#x27;t everything, sure…but I was starting to get angry at myself for not having taken my studies a bit more seriously.</p>
-<p>By now, Sylphie had mastered the basics of reading and writing, and could handle multiplying two-digit numbers. The times table had been something of a struggle, but the girl clearly wasn&#x27;t dumb. She&#x27;d</p>
-<p>probably pick up division soon enough as well. I was also teaching her some fundamental science, in parallel with magic.</p>
+<p>By now, Sylphie had mastered the basics of reading and writing, and could handle multiplying two-digit numbers. The times table had been something of a struggle, but the girl clearly wasn&#x27;t dumb. She&#x27;d probably pick up division soon enough as well. I was also teaching her some fundamental science, in parallel with magic.</p>
 <p>&quot;Why does water turn into, uh…vapor when you heat it up?&quot;</p>
 <p>&quot;Well, water naturally dissolves into air, but it takes some heat for that to happen. So, the hotter it gets, the more easily it dissolves.&quot;</p>
 <p>Today, we were covering the cycle of evaporation, condensation, and precipitation.</p>
@@ -118,8 +115,7 @@ nav_title = "Chapter 10"
 <p>They liked to divide things neatly into their different disciplines here, but it was all interrelated. And pumping more raw magical power into your spells wasn&#x27;t the only way to make them stronger; by manipulating combustible gases, for example, you could produce intense heat more efficiently.</p>
 <p>I&#x27;d figured all that out by now. But not much else. My skill as a magician hadn&#x27;t really improved since Roxy left. I&#x27;d just been finding ways to combine my current spells, use them more effectively, and increase their power with some minor scientific tweaks.</p>
 <p>At a glance, it probably looked like I was growing stronger…but it felt more like I&#x27;d hit a dead end. Given my current level of knowledge, I might never manage to do anything more challenging than what I could pull off now.</p>
-<p>Back in my former life, it was easy enough to find information on the internet when I needed it, but there</p>
-<p>wasn&#x27;t anything so convenient in this world. Maybe I really did need someone to teach me…</p>
+<p>Back in my former life, it was easy enough to find information on the internet when I needed it, but there wasn&#x27;t anything so convenient in this world. Maybe I really did need someone to teach me…</p>
 <p>&quot;Hmm. School, huh…?&quot;</p>
 <p>Roxy had mentioned that schools for magicians tended to have very strict rules and standards, but maybe I could find some way to get into one.</p>
 <p>&quot;Are you going to a school, Rudy?&quot;</p>
@@ -139,8 +135,7 @@ nav_title = "Chapter 10"
 <p>&quot;But you&#x27;re already amazing, Rudy…&quot;</p>
 <p>&quot;For my age, maybe.&quot;</p>
 <p>True, there probably weren&#x27;t that many children in this world on my level. But that said, I hadn&#x27;t yet accomplished much of anything. My &quot;skill&quot; with magic came partially from my memories of my previous life, and partially from my initial breakthrough with the silent spellcasting. Those two factors had given me a leg up over most people. But now that I&#x27;d hit this wall, I couldn&#x27;t find a way past it. The fact that I could remember thirty-four mostly wasted years wasn&#x27;t that much help anymore.</p>
-<p>It was easy to curse myself for not having studied when I had the chance, but what was done was done. And facts from my former world wouldn&#x27;t necessarily apply to this one, anyway. This place had</p>
-<p>its own set of rules I needed to discover. I couldn&#x27;t just lean on my old memories forever.</p>
+<p>It was easy to curse myself for not having studied when I had the chance, but what was done was done. And facts from my former world wouldn&#x27;t necessarily apply to this one, anyway. This place had its own set of rules I needed to discover. I couldn&#x27;t just lean on my old memories forever.</p>
 <p>Magic was the fundamental law here. And to understand it, I needed to understand this world.</p>
 <p>&quot;Still, I feel like it&#x27;s about time I took my next step forward, you know?&quot;</p>
 <p>Sylphie was improving steadily at magic, and getting smarter by the day. Watching her progress was starting to make me feel a little pathetic. I was just treading water by comparison.</p>
@@ -182,7 +177,7 @@ nav_title = "Chapter 10"
 <p>For how long, though? Now that was the question. Did I need to wait until she turned ten? Fifteen? Even older…?</p>
 <p>What if she ended up hating me for wasting her time?</p>
 <p>Her affection meter was at max for now, but there was no guarantee it would stay that way forever. Could I live with myself if it dropped to zero?</p>
-<p><em>No. Hell no!!! I&#x27;m a man who knows my limits, damn it</em>!</p>
+<p>No. Hell no!!! I&#x27;m a man who knows my limits, damn it!</p>
 <p><em>Seriously, she&#x27;s so soft and warm and fluffy! And she smells so freakin&#x27; good! She&#x27;s baring her soul to me right now, and I&#x27;m supposed to just sit here slack-jawed?! That&#x27;s so messed up! We both know how we feel, so we should just take this to the next level!</em></p>
 <p><em>Why force myself to waste precious time? Why not just admit I made the wrong call?!</em></p>
 <p><em>I&#x27;m…I&#x27;m oblivious no more, Sylphieeee!</em></p>
@@ -196,8 +191,7 @@ nav_title = "Chapter 10"
 <p><em>It&#x27;s hard to believe, but I suppose two years have flown by since we parted.</em></p>
 <p><em>Things have finally settled down a bit on my end, so I thought I&#x27;d take the chance to write.</em></p>
 <p><em>At the moment, I&#x27;m staying in the royal capital of the Kingdom of Shirone. In the course of exploring various labyrinths, it seems I&#x27;ve made something of a name for myself, so I ended up getting hired to tutor a certain prince.</em></p>
-<p><em>Teaching him brings back memories of the time I spent in the Greyrat household. For one thing, the prince is actually quite a bit like the young man I tutored there. While not quite as talented as you, he&#x27;s a quick-witted boy and a budding young magician in his own right. Regrettably, he&#x27;s also prone to stealing my underwear and peeping on me when I&#x27;m changing, just like someone else I could</em></p>
-<p><em>name. His personality&#x27;s a bit on the pompous side, and he&#x27;s considerably more energetic, but on the whole your patterns of behavior are quite similar.</em></p>
+<p><em>Teaching him brings back memories of the time I spent in the Greyrat household. For one thing, the prince is actually quite a bit like the young man I tutored there. While not quite as talented as you, he&#x27;s a quick-witted boy and a budding young magician in his own right. Regrettably, he&#x27;s also prone to stealing my underwear and peeping on me when I&#x27;m changing, just like someone else I could</em> <em>name. His personality&#x27;s a bit on the pompous side, and he&#x27;s considerably more energetic, but on the whole your patterns of behavior are quite similar.</em></p>
 <p><em>Perhaps ambitious men are all sex-crazed animals at heart? I&#x27;m a bit worried he&#x27;ll assault me before I&#x27;m finished teaching him. Can&#x27;t say I understand what you people find so appealing about my scrawny little body, honestly.</em></p>
 <p><em>Hmm. Maybe I shouldn&#x27;t be writing this. If anyone were to read it, they might toss me in the dungeon for besmirching the honor of the royal family.</em></p>
 <p><em>I&#x27;ll just have to cross that bridge when I come to it. It&#x27;s not like I mean any of this in a bad way, really.</em></p>
@@ -205,9 +199,8 @@ nav_title = "Chapter 10"
 <p><em>Oh, that reminds me—I&#x27;ve finally managed to get the hang of casting King-tier water spells. The royal library here happened to have some helpful books on the subject. Back when I first mastered Saint-tier magic, I thought that was the best I could ever do, but it seems a bit of good old-fashioned effort goes a long way.</em></p>
 <p><em>I wouldn&#x27;t be surprised if you&#x27;re already casting Imperial-tier water spells by now, Rudeus. Or maybe you broadened your horizons and reached the Saint-tier in a different discipline? I know how voracious your thirst for knowledge is, so I could certainly see you dabbling in Healing or Summoning as well.</em></p>
 <p><em>Then again, maybe you chose to focus on your swordplay instead. I&#x27;d be a bit disappointed, to be honest, but I&#x27;m positive you&#x27;d make your mark on the world either way. Personally, I&#x27;m aiming to become a Water Saint-tier magician.</em></p>
-<p><em>Like I mentioned before…if you ever find yourself hitting a dead end in your magical studies, go get yourself admitted to the Ranoa University of Magic. Without a letter of recommendation, you&#x27;ll need</em></p>
-<p><em>to pass an entrance exam. But I don&#x27;t think that should pose you any difficulty at all.</em></p>
-<p>&gt; <em>Well then, until we meet again— Roxy</em></p>
+<p><em>Like I mentioned before…if you ever find yourself hitting a dead end in your magical studies, go get yourself admitted to the Ranoa University of Magic. Without a letter of recommendation, you&#x27;ll need</em> <em>to pass an entrance exam. But I don&#x27;t think that should pose you any difficulty at all.</em></p>
+<p>&gt; Well then, until we meet again— Roxy</p>
 <p><em>P.S. It&#x27;s quite possible I will have left the royal court by the time your reply reaches it, so don&#x27;t feel obliged to respond.</em></p>
 <p>Well, damn. Talk about a wake-up call.</p>
 <p>It took a moment for me to find the Kingdom of Shirone on the map. It was a small country in the southeastern part of the Central Continent. Not so far away from here as the crow flies, but the mountain range in between was infested with red dragons, making it totally impassable. You&#x27;d have to take the long way around and approach it from the south.</p>
@@ -259,7 +252,7 @@ nav_title = "Chapter 10"
 <p>&quot;Can you help me find a job? I can read, write, and do arithmetic, so I might make a decent tutor. I wouldn&#x27;t mind working as a magician, either. I&#x27;d take whatever pays best.&quot;</p>
 <p>&quot;You want a job? Why?&quot; Paul asked, his eyes narrowing.</p>
 <p>&quot;I want to earn Sylphie&#x27;s tuition for her.&quot;</p>
-<p>&quot;I don&#x27;t think it&#x27;s in her best interest for you to do that.&quot; &quot;Maybe not. I think it&#x27;s in <em>my</em> best interest, though.&quot;</p>
+<p>&quot;I don&#x27;t think it&#x27;s in her best interest for you to do that.&quot; &quot;Maybe not. I think it&#x27;s in my best interest, though.&quot;</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-01/insert-09.webp" alt="Illustration" loading="lazy" />
 </div>
@@ -272,7 +265,7 @@ nav_title = "Chapter 10"
 <p><strong>Paul</strong></p>
 <p><strong>W</strong>ell, I can&#x27;t say I was expecting that.</p>
 <p>I knew my boy was growing up quickly, but most kids don&#x27;t start talking like that until they&#x27;re fourteen or fifteen at the earliest. Even I didn&#x27;t hit this stage until I turned eleven, when I reached Advanced level in the Sword God Style. And some people never get to it at all.</p>
-<p>What was that phrase again? <em>&quot;Don&#x27;t rush through your life too fast, or it&#x27;ll end before you know it.&quot;</em></p>
+<p>What was that phrase again? &quot;Don&#x27;t rush through your life too fast, or it&#x27;ll end before you know it.&quot;</p>
 <p>A certain warrior had told me that a long time ago. I&#x27;d just rolled my eyes back then. The way I saw it, everyone else was taking things too damn slowly. Any given human has a limited window of time in which they can actually accomplish things, but nobody seemed to feel any sense of urgency at all.</p>
 <p>I wanted to do everything I possibly could while I had the chance. And if someone wanted to criticize me after the fact, well, I&#x27;d cross that bridge when I came to it.</p>
 <p>Of course, thanks to &quot;doing&quot; everything I could, I&#x27;d eventually found myself with a pregnant wife on my hands. Ended up quitting the adventuring business and leaning on my high-status relatives&#x27; connections to get myself a steady job as a knight.</p>
@@ -285,8 +278,7 @@ nav_title = "Chapter 10"
 <p>She obviously admired him. Recently, she seemed to be developing a crush on him as well.</p>
 <p>Laws, for his part, told me he was hoping the two of them might end up getting hitched someday. At the time, I was pretty pleased at the prospect of adding such a cute daughter to the family…but after hearing what Rudeus had said today, I had to reconsider.</p>
 <p>Right now, the girl was basically putty in his hands. If the two of them continued to grow up together like this, Sylphie was going to be permanently dependent on Rudeus. Even as an adult.</p>
-<p>I&#x27;d seen a few cases like that back when I was still &quot;nobility.&quot; I&#x27;d seen human beings who were little more than puppets, totally</p>
-<p>controlled by their parents. That life&#x27;s not so bad while the guy who pulls your strings is still around, I guess. As long as Rudeus kept loving Sylphie, she&#x27;d probably be just fine.</p>
+<p>I&#x27;d seen a few cases like that back when I was still &quot;nobility.&quot; I&#x27;d seen human beings who were little more than puppets, totally controlled by their parents. That life&#x27;s not so bad while the guy who pulls your strings is still around, I guess. As long as Rudeus kept loving Sylphie, she&#x27;d probably be just fine.</p>
 <p>But unfortunately, the kid had a bit of his dad in him as well. He was a born womanizer, in other words. There was a chance he might go running off after every other girl who caught his eye.</p>
 <p>A chance? Nah. The boy was my son. He was definitely going to mess around. And when the dust settled, he might not end up choosing Sylphie.</p>
 <p>She&#x27;d never recover from that blow. Never. My son might very well end up entirely ruining that sweet little kid&#x27;s life. I couldn&#x27;t allow that to happen. It sure as hell wouldn&#x27;t be in his best interests, either.</p>

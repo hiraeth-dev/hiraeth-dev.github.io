@@ -34,7 +34,7 @@ nav_title = "Chapter 5"
 <p>&quot;We&#x27;re gonna start off by sending simple stuff. Then we&#x27;ll look at the mana traces from the teleportation circle to check for teleportation to the other world. If that works, we&#x27;ll move on to teleporting live animals, and finally, me. Got it?&quot;</p>
 <p>&quot;Sure, but I don&#x27;t want to cause another displacement incident, okay?&quot;</p>
 <p>&quot;It&#x27;ll be fine. Trust me, we&#x27;ll be fine.&quot;</p>
-<p>Nanahoshi repeated that things would be <em>fine</em> twice, which was not comforting. She <em>did</em> hand me a detailed report earlier, but the page count was so massive that I couldn&#x27;t even skim it. It was a comfort that Nanahoshi had run experiment after experiment to ensure another displacement incident wouldn&#x27;t happen. Sylphie and I had even helped with a few.</p>
+<p>Nanahoshi repeated that things would be fine twice, which was not comforting. She did hand me a detailed report earlier, but the page count was so massive that I couldn&#x27;t even skim it. It was a comfort that Nanahoshi had run experiment after experiment to ensure another displacement incident wouldn&#x27;t happen. Sylphie and I had even helped with a few.</p>
 <p>&quot;Are you sure?&quot;</p>
 <p>&quot;Very sure.&quot;</p>
 <p>Well, her resolve seemed firm enough.</p>
@@ -53,24 +53,24 @@ nav_title = "Chapter 5"
 <p>&quot;Very well.&quot;</p>
 <p>Oh, oops, gotta concentrate. I mean, not like I was doing much beyond pumping mana in, but still.</p>
 <p>&quot;Now… Begin.&quot;</p>
-<p>Perugius and his servants all placed their hands on the magic circle at once. The edge of the magic circle immediately began to flicker. <em>Just</em> the edge, however. The fine details of the edge of the magic circle lit up brightly, but the area near the center stayed dark. Was this a failure?</p>
+<p>Perugius and his servants all placed their hands on the magic circle at once. The edge of the magic circle immediately began to flicker. Just the edge, however. The fine details of the edge of the magic circle lit up brightly, but the area near the center stayed dark. Was this a failure?</p>
 <p>&quot;Rudeus.&quot;</p>
 <p>&quot;Right.&quot;</p>
 <p>After hearing that, I started pouring in mana from my hands. Suddenly, my right hand felt like it was glued to the apparatus. I felt it sucking up a massive amount of mana. What I didn&#x27;t understand was why it only came from my right hand. It was flowing from my left hand as well, but it was a much weaker sensation. Was I supposed to strengthen the flow from my left hand?</p>
-<p>The moment that thought crossed my mind, the amount of mana that it was sucking through my left hand drastically shot up. Conversely, the amount from my right hand decreased. <em>Right, left, right, left</em>. The strength at which it sucked mana switched back and forth. If I focused on the sensation, I could feel how the output of mana differed for each palm and fingertip.</p>
+<p>The moment that thought crossed my mind, the amount of mana that it was sucking through my left hand drastically shot up. Conversely, the amount from my right hand decreased. Right, left, right, left. The strength at which it sucked mana switched back and forth. If I focused on the sensation, I could feel how the output of mana differed for each palm and fingertip.</p>
 <p>It didn&#x27;t feel mechanical; I could feel something human in its extraction. Who was controlling it… Perugius, huh? His expression didn&#x27;t show it, but I guess there was more to his role than just booting the thing up. He also directed his assistants. This magical machine wasn&#x27;t automatic once it booted up; it needed to be operated.</p>
 <p>The lines of the magic circle slowly came to life. It changed colors from blue, to green, and then to white as its luminance overwhelmed the room. Soon, it was too bright to keep my eyes open. Was it only the magic circle lighting up the room like this? I&#x27;d never seen anything like it…</p>
 <p>No. I had. Once. This was just like the displacement incident—</p>
 <p>With that sound, the light vanished.</p>
 <p>Not all of it, though.</p>
-<p>The arch. Only the arch continued to dimly light the room and the area directly below it—the center of the magic circle. The place where the apple <em>once</em> was. There, something remained. Something pale blue. Pale blue specks were now floating upward from the circle like bubbles before breezily vanishing into the air.</p>
+<p>The arch. Only the arch continued to dimly light the room and the area directly below it—the center of the magic circle. The place where the apple once was. There, something remained. Something pale blue. Pale blue specks were now floating upward from the circle like bubbles before breezily vanishing into the air.</p>
 <p>&quot;Experiment succeeded,&quot; Sylvaril said.</p>
 <p>&quot;…&quot;</p>
 <p>Nobody responded. She continued her work as if this were entirely normal. She wrote something down on a nearby piece of paper.</p>
 <p>&quot;We&#x27;ll now begin analyzing the residual mana in order to refine our accuracy toward the other world. We already have data on this subject, though, so I doubt it will take too long.&quot;</p>
 <p>As I listened to Nanahoshi&#x27;s explanation, I lifted my hands from the magic device.</p>
 <p>&quot;Rudeus, are you all right?&quot;</p>
-<p>The question made me recall the sensation of my mana being sucked away. That much…it was just one activation; it exhausted <em>that</em> amount of mana in a mere minute or two. A few more bouts like that would drain me entirely.</p>
+<p>The question made me recall the sensation of my mana being sucked away. That much…it was just one activation; it exhausted that amount of mana in a mere minute or two. A few more bouts like that would drain me entirely.</p>
 <p>&quot;I&#x27;m fine, but I can&#x27;t handle many repeat performances.&quot;</p>
 <p>&quot;I see… Well, good job. We&#x27;re planning to go at a pace of one activation every day or two, so you can take a rest for today.&quot;</p>
 <p>Nanahoshi thanked me with a bow and ran over to Perugius. She took notes as she consulted with the research team. She was probably going to compile the data into a report and apply them to the next experiment.</p>
@@ -89,7 +89,7 @@ nav_title = "Chapter 5"
 <p>Eventually, we sent a horse, easily three times Nanahoshi&#x27;s size, to the other world. We checked the results registered by the arch. It said that the horse was sent &quot;to the other world on a landmass between ten and thirty meters above sea level.&quot;</p>
 <p>A landmass ten to thirty meters above sea level. That was a target we were setting from our side. It wasn&#x27;t like we could tell what nation&#x27;s borders we sent the horse to from the residual mana. The only settings from this world&#x27;s magic circles that we could apply to the other world were whether the destination was sea or land and how high up the destination was. Still, those settings alone really shrank the odds that you&#x27;d die the instant you made it over.</p>
 <p>While we called it the &quot;other&quot; world, we didn&#x27;t know if it was the same world Nanahoshi and I knew. Of course, we&#x27;d been summoning stuff like plastic bottles from there, so the probability was quite high. But that wasn&#x27;t a guarantee. It was still possible that this other world was a completely different one that simply resembled the one we knew.</p>
-<p>Even if it <em>were</em> our world, the vague setting of &quot;landmass ten to thirty meters above sea level&quot; still made it more likely than not the destination would be another country. What was more, the journey home would be on foot. If someone were teleported along with plenty of food, water, cold weather gear, and things they could exchange for money, then it was <em>possible</em> for them to reach Japan…but it&#x27;d be a brutal journey.</p>
+<p>Even if it were our world, the vague setting of &quot;landmass ten to thirty meters above sea level&quot; still made it more likely than not the destination would be another country. What was more, the journey home would be on foot. If someone were teleported along with plenty of food, water, cold weather gear, and things they could exchange for money, then it was possible for them to reach Japan…but it&#x27;d be a brutal journey.</p>
 <p>And yet, Nanahoshi seemed willing to try. Her mind had long since been made up.</p>
 <p>Up next was the real deal. We were sending Nanahoshi herself. To give me time to rest up, we set the final date to three days from now.</p>
 <p>***</p>
@@ -109,7 +109,7 @@ nav_title = "Chapter 5"
 <p>A naked young lady, begging for rescue. To think my little Lucie had become such a wicked girl… Still, a man who&#x27;d refuse her would be no man at all. Stand behind me, miss! Be it a dragon god or a demon god, I&#x27;ll beat the crap out of whatever dares threaten you!</p>
 <p>&quot;Rudeus!&quot;</p>
 <p>The monster appeared: a demon god with red hair.</p>
-<p>She was topless, too. Oh, no, abstinent Rudeus&#x27;s weakness. Critical hit! <em>My hopes of victory grow dim.</em></p>
+<p>She was topless, too. Oh, no, abstinent Rudeus&#x27;s weakness. Critical hit! My hopes of victory grow dim.</p>
 <p>Lucie, you were just saying you needed one after working up a sweat from sword practice!&quot;</p>
 <p>I caught Lucie.</p>
 <p>My apologies, Lucie. You do have to take a bath after exercise.</p>
@@ -181,7 +181,7 @@ nav_title = "Chapter 5"
 <p>Nanahoshi pressed her fingers to her temple and closed her eyes, as though trying hard to remember. Suddenly, her face shot back up.</p>
 <p>&quot;That fatso.&quot;</p>
 <p>Ah, aaah… What have I done…?!</p>
-<p>It must have been the alcohol. And after I&#x27;d been so careful all this time… Also, <em>rude!</em> Where do you get off calling someone a fatso? I mean, sure, I may have been fat, but…</p>
+<p>It must have been the alcohol. And after I&#x27;d been so careful all this time… Also, rude! Where do you get off calling someone a fatso? I mean, sure, I may have been fat, but…</p>
 <p>&quot;Whew, so that was it. That was you. To think that dude turned into Rudeus… Wait, so you actually turned out hot, huh?&quot;</p>
 <p>Nanahoshi put her hand to her chin as her eyes opened wide. Oh, dear. She was wide awake now. I thought she&#x27;d be disgusted, but now she seemed kind of happy.</p>
 <p>&quot;Um, pardon, Miss Nanahoshi… But uh, could you, well, keep this a secret from the others? I&#x27;d appreciate it.&quot;</p>
@@ -191,14 +191,14 @@ nav_title = "Chapter 5"
 <p>&quot;Still, I have stuff I&#x27;d rather keep secret.&quot;</p>
 <p>&quot;Hmm… Fair enough.&quot;</p>
 <p>Nanahoshi reseated herself on the sofa. I wasn&#x27;t sure if she really got it, or if she just worried that I might not cooperate tomorrow if she pressed the issue.</p>
-<p>&quot;Because unlike me, you&#x27;re a <em>reincarnation</em>.&quot;</p>
+<p>&quot;Because unlike me, you&#x27;re a reincarnation.&quot;</p>
 <p>&quot;Yeah.&quot;</p>
 <p>That&#x27;s right, I was a reincarnation. I couldn&#x27;t go back to what I was before. I didn&#x27;t intend to bury everything about my past, but I certainly wasn&#x27;t going to talk about it if I didn&#x27;t have to. Besides, my old self was embarrassing. Being that piece of crap in the past was what made me the person I was today, but that didn&#x27;t make me proud of him.</p>
 <p>&quot;Got it. I&#x27;ll keep it to myself.&quot;</p>
 <p>&quot;Thanks… Please do.&quot;</p>
 <p>That reminded me of one more thing about my old life.</p>
 <p>&quot;What is it?&quot;</p>
-<p>&quot;Because you know my secret identity… Well, not <em>because</em> of that, but anyway—I&#x27;d like you to deliver this to my family in my old world.&quot;</p>
+<p>&quot;Because you know my secret identity… Well, not because of that, but anyway—I&#x27;d like you to deliver this to my family in my old world.&quot;</p>
 <p>With that, I placed a single envelope on the table. The somewhat bulky letter contained everything I had to say to my siblings.</p>
 <p>It&#x27;d been twenty years since I&#x27;d come here. I&#x27;d been through a lot. I felt like I could hold my head high and say that I was different from the person I was then. Emphasis on &quot;different,&quot; mind you. I wouldn&#x27;t call myself respectable by any means. I&#x27;d packed the letter with apologies for my mistakes, memories of the times we shared, what I was doing now, and more. It might come off as gibberish if Nanahoshi landed right in Japan after less than a day had passed in that world, though…</p>
 <p>Well. I could live with that. The letter wasn&#x27;t just for them, it was also for me and what I needed to say.</p>

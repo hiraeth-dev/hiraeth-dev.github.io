@@ -8,7 +8,7 @@ nav_title = "Chapter 4"
 +++
 
 <p><strong>H</strong>alf a year passed. Eris, who I thought had finally cooled down, began returning to her violent ways.</p>
-<p><em>Why, how, who did this?!</em> I panicked, until I realized something. She had been given no breaks.</p>
+<p>Why, how, who did this?! I panicked, until I realized something. She had been given no breaks.</p>
 <p>***</p>
 <p>It was after dinner when I called Ghislaine and the etiquette teacher to my room. The etiquette teacher didn&#x27;t actually live with us; she lived in the city, so I had a butler send a message to her.</p>
 <p>&quot;First, it&#x27;s a pleasure to meet you. I&#x27;m Rudeus Greyrat,&quot; I said.</p>
@@ -28,7 +28,7 @@ nav_title = "Chapter 4"
 <p>No doubt he was.</p>
 <p>&quot;It may look like it&#x27;s going smoothly, but there&#x27;s a problem here.&quot;</p>
 <p>Edna looked confused. &quot;A problem, you say?&quot;</p>
-<p>&quot;Yes. Her stress has been building since she studies every day without any breaks.&quot; Remarkably so during arithmetic lessons. She was irritable the entire time. If she ran into difficult problems, she would take it out on me. It was dangerous. There was no telling when she might come after me for real. It was <em>very</em> dangerous.</p>
+<p>&quot;Yes. Her stress has been building since she studies every day without any breaks.&quot; Remarkably so during arithmetic lessons. She was irritable the entire time. If she ran into difficult problems, she would take it out on me. It was dangerous. There was no telling when she might come after me for real. It was very dangerous.</p>
 <p>&quot;We manage to get through it for now, but she might eventually snap and run from her lessons again.&quot;</p>
 <p>&quot;Oh dear…&quot; Edna pressed her hand to her lips. Her expression said that she acknowledged that possibility. I had never seen one of her etiquette lessons before, but Eris seemed to take them seriously. It was a mystery to me why Eris seemed to like her.</p>
 <p>I continued. &quot;So I would like to give her a day free of lessons every seven days.&quot;</p>
@@ -40,8 +40,7 @@ nav_title = "Chapter 4"
 <p>&quot;If things are divided that way, then my lessons would be reduced. So then would my salary also…&quot;</p>
 <p>I cut her off before she could finish. &quot;You don&#x27;t have to worry about that.&quot; I couldn&#x27;t blame her for being concerned about money, and I hoped no one else would either. After all, I was in this for the money as well. Anyway, I had already spoken to Philip and it wasn&#x27;t a problem. We had monthly salaries, so we&#x27;d get paid regardless of whether we gave lessons or not.</p>
 <p>Granted, we&#x27;d be fired if we didn&#x27;t. That part should go without saying. If you didn&#x27;t understand something that simple, you deserved to be fired.</p>
-<p>&quot;Of course, with that in mind we will divide things differently. There should be no problem having just two lessons on reading, writing, and arithmetic in a seven-day period. Sword practice will</p>
-<p>remain a daily affair, as there is no point otherwise. Magic must be practiced daily as well, but there is a limit to how much mana a person has, so each lesson won&#x27;t take too long. I intend to dedicate any extra time that leaves to reading, writing, and arithmetic.&quot;</p>
+<p>&quot;Of course, with that in mind we will divide things differently. There should be no problem having just two lessons on reading, writing, and arithmetic in a seven-day period. Sword practice will remain a daily affair, as there is no point otherwise. Magic must be practiced daily as well, but there is a limit to how much mana a person has, so each lesson won&#x27;t take too long. I intend to dedicate any extra time that leaves to reading, writing, and arithmetic.&quot;</p>
 <p>That last bit we had been doing from the beginning. Such as, &quot;Today you&#x27;ve used Water Bullet X amount of times and Water Splash Y amount. So how many more times can you use Water Bullet today?&quot; I changed the values of X and Y in keeping with the number of times Eris and Ghislaine could perform those spells respectively. Apparently, this was easier for Eris than sitting in a room staring at the digits on paper.</p>
 <p>It was difficult to find a precise answer because mana usage wasn&#x27;t something tangible, even to the practitioner. The important part was performing mental arithmetic, because the more they did it, the better they would get. The whole point was for them to use their heads.</p>
 <p>I wanted to do lessons on voiceless casting and home economics eventually, but that could wait until they had finished reading, writing, and arithmetic.</p>
@@ -66,7 +65,7 @@ nav_title = "Chapter 4"
 <p>&quot;Do I look like I have someone else with me?&quot;</p>
 <p>&quot;That&#x27;s not fair! I haven&#x27;t ever been able to go out by myself, not even once!&quot; She stomped her feet in frustration.</p>
 <p>&quot;Isn&#x27;t that because you&#x27;ll get kidnapped if you go out on your own?&quot;</p>
-<p>&quot;Well, <em>you</em> got kidnapped too,&quot; she snapped back.</p>
+<p>&quot;Well, you got kidnapped too,&quot; she snapped back.</p>
 <p>Ah, she was right. I was kidnapped because I had been accompanying Eris, but it was also true that I was seen as a part of the Greyrat family. It was possible someone might try it again to demand a ransom for me.</p>
 <p>&quot;But if I get kidnapped, I can get back home on my own.&quot; I cackled in triumph, only for her to raise her fist like she was going to hit me. I quickly moved to protect myself, but the punch never came. That was unusual.</p>
 <p>She crossed her arms over her chest and glared at me. &quot;I&#x27;m going too!&quot;</p>
@@ -100,7 +99,7 @@ nav_title = "Chapter 4"
 <p>There had to be some sort of magic to build walls like this. Probably King-tier or Imperial-tier. Or perhaps they made a broad outline with stone and filled in the rest with manual labor?</p>
 <p>I considered all this as we made our way through the upperclass residential area and into the crowded plaza. From here, we were headed to the mercantile district. All the shops near the noble district were posh, and even the street stalls here and there were peddling expensive wares.</p>
 <p>&quot;Hey, Young Master and Miss, take your time and look around.&quot; An old man running a shop selling second-hand wares called out to us, using a line lifted straight out of an RPG.</p>
-<p>I peered at what he had on display, taking notes on the products and their prices. Frankly, he was selling some rather questionable things. <em>Who would even buy this stuff?</em> I thought. <em>Wait, an aphrodisiac is ten gold coins. Gotta write this down.</em></p>
+<p>I peered at what he had on display, taking notes on the products and their prices. Frankly, he was selling some rather questionable things. Who would even buy this stuff? I thought. Wait, an aphrodisiac is ten gold coins. Gotta write this down.</p>
 <p>&quot;What are these weird letters?! I can&#x27;t read them!&quot; My eardrums rang as Eris&#x27;s voice blasted them.</p>
 <p>I turned and found her face awfully close to mine. She had been reading over my shoulder. Up close, I realized how cute she was. Her features were very evenly set.</p>
 <p>My memo, by the way, was written in Japanese.</p>
@@ -123,7 +122,7 @@ nav_title = "Chapter 4"
 <p>The old man listened in our conversation with a bitter look on his face. &quot;Young Master, that&#x27;s called reselling. Not somethin&#x27; people look too kindly upon, so you&#x27;d better not try it.&quot;</p>
 <p>&quot;Of course. If I were looking to make money, I would go to that other store and tell them you&#x27;re selling for four gold pieces. That kind of information should be enough to net me one large copper, right?&quot;</p>
 <p>His expression soured. He looked behind us to Ghislaine for help, but she was listening in with interest. The old man slumped and sighed as if he realized that anything he said would be pointless.</p>
-<p><em>Sorry,</em> I apologized, but only in my head. I hoped he wouldn&#x27;t linger on it too much. I was only teasing.</p>
+<p>Sorry, I apologized, but only in my head. I hoped he wouldn&#x27;t linger on it too much. I was only teasing.</p>
 <p>&quot;Anyway,&quot; I said, &quot;even if you don&#x27;t plan to buy anything, it&#x27;s still important to know the prices of things.&quot;</p>
 <p>&quot;And what are you going to with that knowledge?!&quot;</p>
 <p>&quot;For example, you can calculate how much you will spend without even going to a shop.&quot;</p>
@@ -134,26 +133,26 @@ nav_title = "Chapter 4"
 <p>Wait, seriously? She didn&#x27;t know? I thought she would. Well, whatever. It wasn&#x27;t like this was a lesson anyways.</p>
 <p>&quot;All right then, maybe it&#x27;s not useful after all.&quot; The information was for my own use anyway. It was fine if they didn&#x27;t understand. Whenever I was in a marketplace, the first thing I did was compare prices. That was how I always did things in online games, and there was no reason to change that now. This despite the fact that I&#x27;d never done it before in this life and didn&#x27;t know for sure if there were actually any value in it.</p>
 <p>&quot;If you don&#x27;t know if it&#x27;s useful or not, why do it!&quot;</p>
-<p>&quot;Because I think it <em>will</em> be useful.&quot;</p>
+<p>&quot;Because I think it will be useful.&quot;</p>
 <p>Her face made it clear that she didn&#x27;t like my answer.</p>
-<p><em>It&#x27;s not like I can answer every single question you have. Try to think for yourself a little bit</em>.</p>
+<p>It&#x27;s not like I can answer every single question you have. Try to think for yourself a little bit.</p>
 <p>&quot;Give it some thought,&quot; I said. &quot;If you think it&#x27;s useful, then you should do it too. If you think it&#x27;s useless, then point and laugh.&quot;</p>
 <p>&quot;Then I pick laugh!&quot;</p>
 <p>&quot;Ahahaha.&quot;</p>
-<p>&quot;And why the heck are <em>you</em> laughing!&quot;</p>
+<p>&quot;And why the heck are you laughing!&quot;</p>
 <p>We looped around the area and I finished taking inventory of all the stalls. I skipped the posher shops since I knew everything would be too expensive. Instead, we headed toward the outer part of the city. Just a short walk away the shop wares changed completely. The prices were dramatically lower too, down from five gold coins to one.</p>
-<p><em>Still expensive. Not something I can afford,</em> I thought.</p>
+<p>Still expensive. Not something I can afford, I thought.</p>
 <p>There were more people here, ranging from nobles to adventurers based on their appearances. Even the shop owners seemed livelier as they hawked their wares. Perhaps because one gold coin was just on the high end of affordability.</p>
 <p>A store caught my eye as I was taking notes; a bookstore, to be exact. I decided to wander inside.</p>
 <p>It was deserted, like the general section of an adult bookstore. There were two bookcases, volumes of the same title lined up in twos and threes. Each book cost around one gold coin.</p>
 <p>In the remaining space was a locked case with rows of books inside. These were about eight gold pieces a volume, the most expensive being ten gold pieces. The store&#x27;s featured products, I assumed.</p>
-<p>&quot;Hmpf.&quot; The store owner took one look at me and yawned as though dismissing my potential as a customer. Their gaze turned suspicious as I began noting down all the titles I saw on their shelves. They were probably concerned I was trying to copy the contents of the books. I stepped away from the bookshelves, hoping it would send a message: <em>Don&#x27;t worry! I&#x27;m not touching your books! I&#x27;m not going to copy anything!</em></p>
+<p>&quot;Hmpf.&quot; The store owner took one look at me and yawned as though dismissing my potential as a customer. Their gaze turned suspicious as I began noting down all the titles I saw on their shelves. They were probably concerned I was trying to copy the contents of the books. I stepped away from the bookshelves, hoping it would send a message: Don&#x27;t worry! I&#x27;m not touching your books! I&#x27;m not going to copy anything!</p>
 <p>I glanced inside the locked case and noticed a book I had seen before. &quot;Plant Dictionary, ten gold coins,&quot; I read out loud.</p>
 <p>It was the same book Zenith had given to me on my fifth birthday.</p>
-<p><em>Expensive,</em> I thought. If one gold coin was 10,000 yen, that meant this book was 70,000 yen! My mom must have gone really overboard to buy that.</p>
+<p>Expensive, I thought. If one gold coin was 10,000 yen, that meant this book was 70,000 yen! My mom must have gone really overboard to buy that.</p>
 <p>&quot;Hm.&quot;</p>
-<p>It seemed dictionaries really were expensive. I would have loved to read <em>Sig&#x27;s Summoning Magic</em>, but it was ten gold coins. On a salary of two silver coins a month, there was no way I could afford that.</p>
-<p>The most expensive book was <em>Ceremonies of Asura&#x27;s Royal Palace&#x27;s Imperial Court</em>. Definitely didn&#x27;t need that.</p>
+<p>It seemed dictionaries really were expensive. I would have loved to read Sig&#x27;s Summoning Magic, but it was ten gold coins. On a salary of two silver coins a month, there was no way I could afford that.</p>
+<p>The most expensive book was Ceremonies of Asura&#x27;s Royal Palace&#x27;s Imperial Court. Definitely didn&#x27;t need that.</p>
 <p>&quot;What are you looking at so eagerly?&quot; It was Eris&#x27;s voice. She had apparently followed me inside at some point. She must have noticed me looking at the book titles without taking any notes.</p>
 <p>&quot;Oh, nothing, just thinking that there wasn&#x27;t much here of interest.&quot;</p>
 <p>&quot;Oh, that&#x27;s right, I heard you like books, don&#x27;t you?&quot; Eris asked.</p>
@@ -164,7 +163,7 @@ nav_title = "Chapter 4"
 <p>&quot;You say that so easily, but you don&#x27;t have any money, do you?&quot;</p>
 <p>&quot;Grandfather will pay for it!&quot;</p>
 <p>That&#x27;s what I figured. She was just going to let him spoil her again. I needed to make her understand that money was a limited resource.</p>
-<p><em>But I want that book… I really want that book,</em> I thought.</p>
+<p>But I want that book… I really want that book, I thought.</p>
 <p>&quot;I don&#x27;t need it.&quot;</p>
 <p>&quot;And why not!&quot; She was pouting again. It was the expression she wore whenever she was in a bad mood. If that mood got any worse, her face would turn demonic and she would punch me. Right now, I was still safe, as she still had some reason left.</p>
 <p>&quot;That&#x27;s not money you can use for whatever you want.&quot;</p>
@@ -175,7 +174,7 @@ nav_title = "Chapter 4"
 <p>&quot;Two silver pieces,&quot; I said.</p>
 <p>&quot;That&#x27;s too little!&quot; she yelled.</p>
 <p>The shop owner&#x27;s face puckered in annoyance at the noise.</p>
-<p><em>Sorry,</em> I thought.</p>
+<p>Sorry, I thought.</p>
 <p>&quot;No, that&#x27;s fair pay considering I&#x27;m young and I don&#x27;t have any qualifications.&quot; Besides, they were also going to foot the tuition for me to attend the University of Magic.</p>
 <p>&quot;B-but Ghislaine gets five gold coins! And you&#x27;re teaching me a lot of things too!&quot;</p>
 <p>&quot;But Ghislaine has qualifications, and she has the title of Sword King. She also doubles as your bodyguard. It makes sense that her pay would be higher.&quot; Plus, a part of her high pay was probably thanks to the Boreas Greyrat family&#x27;s unsavory traditions. They seemed like they&#x27;d give preferential treatment to female beastfolk.</p>
@@ -194,7 +193,7 @@ nav_title = "Chapter 4"
 <p>Was my dad a liar?</p>
 <p>&quot;Is it your first time seeing it? That&#x27;s the Armored Dragon King Perugius&#x27;s floating fortress,&quot; Ghislaine explained.</p>
 <p><em>Little late with the information but better late than never, Ryuk…I mean, Ghislaine!</em></p>
-<p><em>Anyway, a floating fortress, huh? That&#x27;s pretty awesome</em>.</p>
+<p>Anyway, a floating fortress, huh? That&#x27;s pretty awesome.</p>
 <p>&quot;And Perugius is…?&quot;</p>
 <p>&quot;You know that, don&#x27;t you?&quot;</p>
 <p>I felt like I had heard the name before, but I couldn&#x27;t remember. &quot;Who is he again?&quot;</p>
@@ -209,7 +208,7 @@ nav_title = "Chapter 4"
 <p>&quot;Eheheh,&quot; she cackled. &quot;You still have a long way to go, Rudeus!&quot;</p>
 <p>I knew better than to question her and get myself punched again.</p>
 <p>Instead, I looked it up after we got back to the manor. When I asked Philip about it, he said they had a book on the subject lying around somewhere. Before I could ask him for it, he had already directed a butler to retrieve the volume for me.</p>
-<p>I was sorry for making him go through all that trouble, because the book was one I had seen at my house back in Buena Village: <em>The Legend of Perugius</em>. I had passed it off as nothing more than a fairy tale, but it seemed it was historical fact.</p>
+<p>I was sorry for making him go through all that trouble, because the book was one I had seen at my house back in Buena Village: The Legend of Perugius. I had passed it off as nothing more than a fairy tale, but it seemed it was historical fact.</p>
 <p>Its contents could be summarized as thus:</p>
 <p>The Armored Dragon King Perugius. No one knew where he was born or raised. The oldest record of him came from his younger days before he was famous, when the Dragon God Urupen dragged him along to the Adventurer&#x27;s Guild.</p>
 <p>He showed such strength that in no time, the Dragon God Urupen, the North God Kalman, and the Twin Emperors Migus and Gumis formed a party with him. They crushed every opponent they faced.</p>

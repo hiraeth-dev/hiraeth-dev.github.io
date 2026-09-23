@@ -9,7 +9,7 @@ nav_title = "Chapter 1"
 
 <p><strong>I</strong> was now twelve.</p>
 <p>I only realized this when I looked down at my Adventurer card and, all of a sudden, saw the number twelve in the age column. When had my birthday gone by without me noticing? Being on a voyage like this skewed my sense of time.</p>
-<p>Still, two years since we were teleported, huh? It had only taken two years to travel across both the Demon Continent and the Millis Continent. Or, if you looked at it the other way, two <em>whole</em> years had already passed.</p>
+<p>Still, two years since we were teleported, huh? It had only taken two years to travel across both the Demon Continent and the Millis Continent. Or, if you looked at it the other way, two whole years had already passed.</p>
 <p>At any rate, the Asura Kingdom was almost before us. After what had transpired on the Millis Continent, it seemed unlikely we&#x27;d experience much hardship from here on out. We had money and the means to travel. The only thing I had to worry about was not knowing the whereabouts of the rest of my family: Zenith, Lilia, Aisha, and also Sylphie. Despite Paul&#x27;s efforts, they still hadn&#x27;t been found.</p>
 <p>I believed they were all still alive, but no matter how eager I was to search for them, they wouldn&#x27;t be easy to find. All I could do was take my time and do a thorough job.</p>
 <p>***</p>
@@ -31,8 +31,7 @@ nav_title = "Chapter 1"
 <p>&quot;Thus, we&#x27;re going to take the eastern route.&quot;</p>
 <p>&quot;As usual, you&#x27;re a coward,&quot; Eris complained.</p>
 <p>&quot;I&#x27;m just faint of heart.&quot;</p>
-<p>&quot;I think <em>I</em> could do it just fine.&quot; It seemed Eris wanted to see the Begaritt Continent. Her eyes were alight. However, the distance</p>
-<p>between the Central Continent and the Millis Continent was nothing compared to the distance between here and the Begaritt Continent. &quot;We&#x27;d be on a ship for a long time if we chose that route. Are you <em>sure</em> you&#x27;d be okay with that, Eris?&quot;</p>
+<p>&quot;I think I could do it just fine.&quot; It seemed Eris wanted to see the Begaritt Continent. Her eyes were alight. However, the distance between the Central Continent and the Millis Continent was nothing compared to the distance between here and the Begaritt Continent. &quot;We&#x27;d be on a ship for a long time if we chose that route. Are you sure you&#x27;d be okay with that, Eris?&quot;</p>
 <p>&quot;…We&#x27;re not going to Begaritt.&quot;</p>
 <p>And that was how we decided we were taking the eastern route.</p>
 <p>***</p>
@@ -53,7 +52,7 @@ nav_title = "Chapter 1"
 <p><em>Tch… Dammit. Being in this room takes me back to the past. Back to when I used to blame everything on other people. I&#x27;ve reflected on my mistakes. Reflected… Argh, dammit, I can&#x27;t remember what kind of reflection I did. Why can&#x27;t I… Dammit, dammit!</em></p>
 <p>&quot;Well, that&#x27;s part of your charm. But a little reflection won&#x27;t be enough for you to move forward.&quot;</p>
 <p><em>Whatever. It&#x27;s just that I can&#x27;t remember right now. But I will when I wake up. I can recognize my mistakes. So, let&#x27;s restart our conversation. I&#x27;ve decided to listen to you.</em></p>
-<p>&quot;Listen? Hmm, now this <em>is</em> different. You&#x27;re honestly going to listen to what I have to say?&quot;</p>
+<p>&quot;Listen? Hmm, now this is different. You&#x27;re honestly going to listen to what I have to say?&quot;</p>
 <p><em>Yeah, that&#x27;s right. But there&#x27;s one thing I want you to tell me.</em></p>
 <p>&quot;What&#x27;s that? I don&#x27;t mind answering if it&#x27;s something I have knowledge about.&quot;</p>
 <p><em>Tell me where my family is.</em></p>
@@ -121,16 +120,15 @@ nav_title = "Chapter 1"
 <p>It was true that I&#x27;d eventually defeated Gallus using the eye, but I felt like I could have managed that on my own if I&#x27;d had to. To me, there was no greater meaning behind my acquisition of the demon eye, but perhaps there was to the Man-God. Perhaps the whole reason he&#x27;d arranged for me to meet the Great Demon Emperor was so he could use the eye to show me the future. It sure did feel like he was making careful preparations for something.</p>
 <p>My anxiety reared its ugly head, and for the first time, I feared the Man-God. I got the impression that this being, this creature with undefined form and incredible power, was trying to use me for something. It sent a chill through me.</p>
 <p>&quot;Rudeus, you look pale. Are you sure you&#x27;re okay?&quot; Ruijerd asked again, looking concerned.</p>
-<p>I almost blurted out my anxieties. <em>The truth is that ever since I met you, the Man-God has been monitoring me. I&#x27;ve been following his advice and doing what he tells me.</em></p>
-<p>But in that moment, I realized something. <em>Ever since I met you.</em>  That was it. The first time we came into contact was right before I met Ruijerd. Back then, the god had also advised me to help Ruijerd out.</p>
+<p>I almost blurted out my anxieties. The truth is that ever since I met you, the Man-God has been monitoring me. I&#x27;ve been following his advice and doing what he tells me.</p>
+<p>But in that moment, I realized something. Ever since I met you.  That was it. The first time we came into contact was right before I met Ruijerd. Back then, the god had also advised me to help Ruijerd out.</p>
 <p>Now, that was strange. Why didn&#x27;t he contact me before that? Why did he only contact me right after the Displacement Incident? Why advise me to help Ruijerd rather than just rely on him?</p>
-<p>I felt like all of these things were connected. I had no proof of this, but despite that, a thought occurred to me. <em>Maybe the Man-God plans to make Ruijerd do something.</em></p>
-<p>The Man-God said he could only appear in my dreams if a certain condition were met. Perhaps he was bound by that condition so he couldn&#x27;t manipulate Ruijerd directly. So he triggered the Displacement Incident to transport me—someone who <em>did</em> fit that criteria— to the Demon Continent, and guided me to Ruijerd, thereby getting him to accompany us to the Central Continent.</p>
+<p>I felt like all of these things were connected. I had no proof of this, but despite that, a thought occurred to me. Maybe the Man-God plans to make Ruijerd do something.</p>
+<p>The Man-God said he could only appear in my dreams if a certain condition were met. Perhaps he was bound by that condition so he couldn&#x27;t manipulate Ruijerd directly. So he triggered the Displacement Incident to transport me—someone who did fit that criteria— to the Demon Continent, and guided me to Ruijerd, thereby getting him to accompany us to the Central Continent.</p>
 <p>But if that were the case, why help me acquire the demon eye or give me advice on how to save Aisha? I didn&#x27;t know. I didn&#x27;t know what he was thinking. Nor was I sure if I should say anything to Ruijerd.</p>
 <p>&quot;…&quot;</p>
 <p>I wanted to confide in someone, but I didn&#x27;t think it was right to put more on Ruijerd&#x27;s shoulders. Maybe telling him would even fulfill the Man-God&#x27;s unknown conditions, and the god would be able to talk directly to Ruijerd. Honestly, Ruijerd would probably be easily taken in by whatever the Man-God said to him. I wasn&#x27;t even entirely convinced he was telling me the truth, but at least my hostility made it difficult for him to deceive me. I wanted to believe that as long as I kept that up, nothing too terrible would happen.</p>
-<p>&quot;Mister Ruijerd, if you ever find yourself in a difficult situation and someone whispers honeyed words in your ear, don&#x27;t ever</p>
-<p>believe what they say. Deceitful people strategically target you when you&#x27;re the most vulnerable.&quot;</p>
+<p>&quot;Mister Ruijerd, if you ever find yourself in a difficult situation and someone whispers honeyed words in your ear, don&#x27;t ever believe what they say. Deceitful people strategically target you when you&#x27;re the most vulnerable.&quot;</p>
 <p>In the end, I didn&#x27;t tell him about the Man-God.</p>
 <p>&quot;I have no idea what you&#x27;re talking about, but I understand.&quot;</p>
 <p>I had mixed feelings, watching him look at me so earnestly and nod. Ruijerd trusted me, and yet I was hiding things from him. It was largely because I&#x27;d determined keeping them secret was the best course of action, but that didn&#x27;t alleviate the guilt.</p>

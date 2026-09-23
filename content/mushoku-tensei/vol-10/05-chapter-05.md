@@ -9,7 +9,7 @@ nav_title = "Chapter 5"
 
 <p><strong>A</strong> WEEK HAD PASSED since the renovations were completed. Ariel had given Sylphie seven days off as a gesture of consideration, and I took full advantage of that time to have Sylphie pamper me, and I her in return. We spent romantic nights together, sweet as honey.</p>
 <p>…I wish. That wasn&#x27;t how it went at all.</p>
-<p>Now that I was the king of my own kingdom, there were things I needed to do. In this world, it was apparently the norm for newly married couples who&#x27;d just bought their own place to invite close friends over for a meal. It wasn&#x27;t just a housewarming thing, but something you did specifically if you were getting married <em>and</em> buying a new house. In other words, a wedding reception.</p>
+<p>Now that I was the king of my own kingdom, there were things I needed to do. In this world, it was apparently the norm for newly married couples who&#x27;d just bought their own place to invite close friends over for a meal. It wasn&#x27;t just a housewarming thing, but something you did specifically if you were getting married and buying a new house. In other words, a wedding reception.</p>
 <p>Sylphie and I sat on one of the living room couches with our foreheads pressed close. Below us was the subject of our gazes: the list of people to whom we would be sending party invitations. There was also a chart to determine seating.</p>
 <p>&quot;We really do have a diverse group of friends…&quot;</p>
 <p>I would be inviting Elinalise, Zanoba, Julie, Cliff, Linia, Pursena, and Badigadi. Then I had to decide whether or not I would invite Jenius and Soldat. Sylphie would be inviting Ariel, Luke and two others. All together, there would be eleven people, give or take a few. I&#x27;d like to have Paul and my family there, but I couldn&#x27;t invite people who were a million miles away. I&#x27;d put a letter in the mail informing them of my marriage, but who knew how long it would take it to reach them?</p>
@@ -21,8 +21,7 @@ nav_title = "Chapter 5"
 <p>I pictured Ariel getting fired up and putting on her makeup, saying, &quot;This is my chance! There&#x27;s a lot of sexy men at wedding receptions that you don&#x27;t normally get to see!&quot;</p>
 <p>No, I knew that wasn&#x27;t what she was after. She wanted to make connections with the other special students. Ariel was calculating, after all.</p>
 <p>&quot;All right, then let&#x27;s invite her with the understanding that she&#x27;s responsible for managing herself. Which just leaves the problem of seat order.&quot;</p>
-<p>I didn&#x27;t think we could just let them sit wherever they wanted. It would be difficult to seat them in order of importance, though. What order could we choose that wouldn&#x27;t offend anyone? Badigadi was a reigning Demon King, so he had the most authority, but after that was Ariel, Zanoba, Linia and Pursena. A veritable crowd of royalty, or the equivalent thereof. Also, Cliff seemed the type who would complain if we put him at the end of the table. No, wait—despite his personality, he had been taught courtly etiquette. Surprisingly, he</p>
-<p>might be just fine with it. Plus, as long as we seated Elinalise with him, she would cover for us.</p>
+<p>I didn&#x27;t think we could just let them sit wherever they wanted. It would be difficult to seat them in order of importance, though. What order could we choose that wouldn&#x27;t offend anyone? Badigadi was a reigning Demon King, so he had the most authority, but after that was Ariel, Zanoba, Linia and Pursena. A veritable crowd of royalty, or the equivalent thereof. Also, Cliff seemed the type who would complain if we put him at the end of the table. No, wait—despite his personality, he had been taught courtly etiquette. Surprisingly, he might be just fine with it. Plus, as long as we seated Elinalise with him, she would cover for us.</p>
 <p>Julie had the lowest status of them all, as a slave, so she&#x27;d be seated last. I didn&#x27;t want to separate her from Zanoba, though. She was still a child and not yet completely fluent in the language. Plus, she was my pupil as well. There had to be something I could do.</p>
 <p>&quot;What sort of status do the Princess&#x27; attendants have?&quot;</p>
 <p>&quot;Um, they&#x27;re mid-ranked nobility.&quot;</p>
@@ -51,7 +50,7 @@ nav_title = "Chapter 5"
 <p>I looked at what I was wearing. I was in my usual gray robe. There was no need for heavy coats to keep warm during the day.</p>
 <p>&quot;Um, I do like how you look in your robe, but there are people who pay attention to those kinds of things, and if they saw you in something that tattered…um, well, you know? Or are you just really attached to that robe?&quot;</p>
 <p>I didn&#x27;t really put much thought into my wardrobe. When I was an adventurer, I&#x27;d seen people who looked far more unkempt. It was true that it would call Sylphie&#x27;s character into question if I looked disheveled, though. I couldn&#x27;t shame her that way.</p>
-<p>&quot;I guess so. It was the first robe I bought in the Demon Continent, so I&#x27;m attached to it, but it <em>is</em> tacky-looking.&quot;</p>
+<p>&quot;I guess so. It was the first robe I bought in the Demon Continent, so I&#x27;m attached to it, but it is tacky-looking.&quot;</p>
 <p>The only other thing I had was a fur vest. It didn&#x27;t really fit the look of a magician, so I hadn&#x27;t worn it in a while. Plus, it was a bit too shabby to wear when I was with Sylphie. I&#x27;d just look like a bandit.</p>
 <p>&quot;Then let&#x27;s go to a clothing store. Pick whatever outfit you like,&quot; I said.</p>
 <p>&quot;Thanks. Just leave it to me.&quot;</p>
@@ -65,8 +64,7 @@ nav_title = "Chapter 5"
 <p>&quot;Oh, yes. I guess those would be water and earth.&quot;</p>
 <p>&quot;In that case, how about this one here? It&#x27;s made from the hide of a rainforest lizard from the Great Forest and is quite waterresistant. The designer is Foglen. They design for Ranoa&#x27;s royal court magicians.&quot;</p>
 <p>Hmm. If memory served me right, the rainforest lizard didn&#x27;t have particularly high resistance to water. We had fought them along our travels, but they&#x27;d frozen easily when I used my water magic on them.</p>
-<p>&quot;If you prefer earth, this might suit you as well. Made from the hide of a great earthworm from the Begaritt Continent, it can weather even a sandstorm. The designer is the promising newcomer, Flone. They&#x27;re known for their highly creative use of colors. Plus, it&#x27;ll make it difficult for monsters to spot you.&quot; He held up a desert</p>
-<p>camouflage-patterned robe as he spoke. I wondered if naming the designer was an essential aspect of these fancy stores.</p>
+<p>&quot;If you prefer earth, this might suit you as well. Made from the hide of a great earthworm from the Begaritt Continent, it can weather even a sandstorm. The designer is the promising newcomer, Flone. They&#x27;re known for their highly creative use of colors. Plus, it&#x27;ll make it difficult for monsters to spot you.&quot; He held up a desert camouflage-patterned robe as he spoke. I wondered if naming the designer was an essential aspect of these fancy stores.</p>
 <p>I didn&#x27;t dislike the camouflage, but something about it wasn&#x27;t quite right. If I was going to go with this kind of design, I&#x27;d prefer winter camouflage instead.</p>
 <p>&quot;Syl—I mean, Master Fitz, which do you prefer?&quot;</p>
 <p>&quot;Let&#x27;s see…how about this one? It&#x27;s quite like the one you&#x27;re wearing right now,&quot; she said, pulling out a robe that was an even darker shade of gray than the one I was wearing, almost black. What did they call this color again? Charcoal gray? It was more complicated than my current one, too. There were pockets and black buttons to fasten back the sleeves, and a cord that could be used in place of a belt.</p>
@@ -98,7 +96,7 @@ nav_title = "Chapter 5"
 <p>&quot;W-well, if you there&#x27;s some part of me that isn&#x27;t so ideal, I&#x27;m all ears. I&#x27;ll work hard to match your expectations.&quot;</p>
 <p>&quot;In that case, be more assertive. You&#x27;re a bit too submissive sometimes.&quot;</p>
 <p>More assertive? And what would happen to me if I did that. and my actions somehow soured the mood of some god passing by? There were people in this world that beat you to death for the crime of looking at them funny.</p>
-<p>Then again, would <em>I</em> want to be married to a man with no confidence who did nothing but sit hunched over in the living room, reading the paper? Nope.</p>
+<p>Then again, would I want to be married to a man with no confidence who did nothing but sit hunched over in the living room, reading the paper? Nope.</p>
 <p><em>All right, then. I&#x27;ll act with more confidence from now, I guess. Starting today, I&#x27;ll be a smug asshole!</em></p>
 <p>&quot;Hmph. Sylphie. Make sure to show how much you love me. Don&#x27;t slack off.&quot;</p>
 <p>&quot;Um, that&#x27;s not quite what I meant, but sure. I&#x27;ll do my best,&quot; Sylphie said as she clenched her hand into a fist.</p>
@@ -120,8 +118,7 @@ nav_title = "Chapter 5"
 <p>I supposed that if the need ever arose, I could join Soldat&#x27;s party or someone else&#x27;s. Wait, no. Adventurers left their houses for days at a time for relatively little pay in return. Maybe I should start looking for a steady job myself.</p>
 <p>Marriage sure was complicated.</p>
 <p>***</p>
-<p>That night, I invited Sylphie to join me in the bath, supposedly to teach her how to use it. My real motivation was to spend some quality time together in the bath. If this were a book, it might be</p>
-<p>narrated thusly: A pervert was poised to sink his fangs into an adorable young girl.</p>
+<p>That night, I invited Sylphie to join me in the bath, supposedly to teach her how to use it. My real motivation was to spend some quality time together in the bath. If this were a book, it might be narrated thusly: A pervert was poised to sink his fangs into an adorable young girl.</p>
 <p><em>I&#x27;m going to do it tonight. I&#x27;m going to do it! Just you watch, Father!</em></p>
 <p>Wait, &quot;Father&quot; would be Paul, right? Then I&#x27;d rather he not watch.</p>
 <p>&quot;Now then,&quot; I explained. &quot;The etiquette for bathing in our house is a little different from that of the Asuran royal family.&quot;</p>
@@ -137,11 +134,11 @@ nav_title = "Chapter 5"
 <p>&quot;You&#x27;ll be pouring water over your shoulders before you get in the bath. So take a seat here and use this cloth and soap to wash your body.&quot;</p>
 <p>&quot;Hey Rudy, why is there a hole in the middle of this chair?&quot;</p>
 <p>&quot;To make it easier to wash your body, of course.&quot; I moistened the cloth with warm water, sudsed it up, and started washing Sylphie&#x27;s body. I mainly focused on the back of her ears, the hollow of her collarbone, her back, and other areas that got dirty easily. I used my hand for the softer areas, ones that I couldn&#x27;t scrub with the cloth. That was why the hole was there.</p>
-<p>&quot;Um, you haven&#x27;t been using the cloth for a while now, and you&#x27;re only focusing on <em>those</em> places. Plus, your thing is pressing up against me.&quot;</p>
+<p>&quot;Um, you haven&#x27;t been using the cloth for a while now, and you&#x27;re only focusing on those places. Plus, your thing is pressing up against me.&quot;</p>
 <p>&quot;Oops, my bad.&quot;</p>
 <p>Apparently, my desires had gotten ahead of me. We couldn&#x27;t have that. This wasn&#x27;t a part of bathroom etiquette in our house.</p>
 <p>&quot;Um, if you really can&#x27;t restrain yourself, um, well, we can go ahead and do it if you want?&quot;</p>
-<p>&quot;We&#x27;ll do that <em>after</em> the bath is finished.&quot;</p>
+<p>&quot;We&#x27;ll do that after the bath is finished.&quot;</p>
 <p>The bath came first. We had to wash our bodies.</p>
 <p>&quot;Once you&#x27;re done washing every corner of your body, next is your head. Now close your eyes.&quot;</p>
 <p>&quot;O-okay.&quot; Sylphie squeezed her eyes shut. How cute. It made me want to kiss her and pull her toward me for some sexytimes, but I shoved the thought to the back of my mind. Letting my guard down even for an instant could be fatal. Phew, this whole washing thing sure was hell.</p>
@@ -164,7 +161,7 @@ nav_title = "Chapter 5"
 <p>Although, since we were family, it didn&#x27;t really matter. There were also no public baths in this world, so there was no need to follow that rule. As I considered those things, Sylphie nestled against me. She held my hand and rested her damp head on my shoulder.</p>
 <p>&quot;How long are we supposed to stay in here?&quot;</p>
 <p>&quot;Until you can feel the warmth all the way in the marrow of your bones.&quot; I wrapped an arm around her shoulder and pulled her close. When I did, she spun around and positioned her body as she if she were sitting on top of me. The two of us were pressed close, facing one another. Sylphie&#x27;s cherries were rubbing against my chest.</p>
-<p>Crap. I felt like I wasn&#x27;t going to be able to hold back anymore. Men were supposed to display endurance and women were supposed to display love. And by love, I didn&#x27;t mean love <em>juices</em>.</p>
+<p>Crap. I felt like I wasn&#x27;t going to be able to hold back anymore. Men were supposed to display endurance and women were supposed to display love. And by love, I didn&#x27;t mean love juices.</p>
 <p>&quot;Hee hee, this is kind of fun,&quot; Sylphie giggled.</p>
 <p>I looked down at her. I could see down her slender back all the way to her tiny butt, as well as her thin legs kicking at the water&#x27;s surface. There was movement around my chest and shoulders:</p>
 <p>Sylphie was clinging to me, burying herself in my neck. From that position, she caressed my body with her hands.</p>

@@ -11,13 +11,12 @@ nav_title = "Chapter 3"
 <p>It was only after the two became intimate that she began to experience a problem: her libido suddenly spiked. She wanted to have sex every single night.</p>
 <p>Elves weren&#x27;t inclined to frequent intimacy, at least not nearly as much as humans and goblins. Her partner struggled to keep up with her needs, but the two still lived in harmony. However, something strange happened to her body around that time. After they began having sex, she started birthing a small, round magical crystal every month. Inside was an incredibly dense accumulation of mana. When she told her husband, he was a bit unnerved by this abnormal phenomenon, but assured her it was nothing to worry about.</p>
 <p>A short time after that, the husband began selling these crystals in a human town. Although it seemed like his eyes were clouded by greed, one could hardly blame him for coveting the money these crystals earned him. He had never been rich, and his wife didn&#x27;t work. At least, the man never treated his wife like she was his own personal money tree.</p>
-<p>Tragedy struck five years later. The husband died—or rather, he was murdered. With his cargo of extremely expensive crystals, he</p>
-<p>earned the attention of some bandits. They attacked him, taking both his life and his wealth.</p>
+<p>Tragedy struck five years later. The husband died—or rather, he was murdered. With his cargo of extremely expensive crystals, he earned the attention of some bandits. They attacked him, taking both his life and his wealth.</p>
 <p>With him gone, the woman was now a widow. Although she fell deep into depression, she still endured. Unfortunately, there was a problem with her body—her insatiable libido ballooned again. Ten days after her husband passed, the urge came on strong and swift from deep inside her. She couldn&#x27;t suppress it and assailed one of the men in the village. She knew it was wrong, but she did it anyway. At least the man in question wasn&#x27;t unwilling, and nothing happened after they did the deed once.</p>
 <p>Ten more days passed, and she went after a different man. Then another ten days and she did it again. Her appetite was so untamable that word soon spread of her wild promiscuity. The women of the village all denounced her and drove her out. That woman became a prostitute after that, then a slave, and finally an adventurer. It&#x27;s said that even to this day, she continues wandering the world.</p>
 <p>***</p>
 <p>&quot;…And that&#x27;s basically what my life has been like,&quot; Elinalise said. She&#x27;d come to recount her story to me first thing this morning.</p>
-<p>&quot;You didn&#x27;t have to tell me <em>everything</em>.&quot;</p>
+<p>&quot;You didn&#x27;t have to tell me everything.&quot;</p>
 <p>Honestly, hearing all of it left me stunned. The curse was the only thing I needed to know about, but Elinalise didn&#x27;t spare a single detail.</p>
 <p>&quot;This is my way of making up for not telling you any of this sooner.&quot;</p>
 <p>&quot;So, uh, does Cliff already know all of this?&quot;</p>
@@ -25,9 +24,9 @@ nav_title = "Chapter 3"
 <p>&quot;She doesn&#x27;t know. I doubt she wants to know her grandmother once sold her body for money.&quot;</p>
 <p>I shrugged. &quot;I don&#x27;t think Sylphie would care about that kind of thing.&quot;</p>
 <p>&quot;I just hope you won&#x27;t look at her in a different light if you hear ill rumors about me somewhere. She may have my blood running through her, but she&#x27;s just a normal girl.&quot;</p>
-<p>&quot;I know. I wouldn&#x27;t ever do that to her.&quot; <em>Besides, Sylphie isn&#x27;t responsible for things Elinalise may have done in the past.</em></p>
+<p>&quot;I know. I wouldn&#x27;t ever do that to her.&quot; Besides, Sylphie isn&#x27;t responsible for things Elinalise may have done in the past.</p>
 <p>That said, after hearing everything she had been through, I could understand why she kept mum about her history, and her relation to Sylphie. No one wants people to look at them differently. Anyway, the past is the past. There were things in my past I didn&#x27;t want to reveal either. I couldn&#x27;t pretend the things I&#x27;d done in my previous life didn&#x27;t exist, but that story would stay in my head and my head alone.</p>
-<p>&quot;So what <em>is</em> your curse exactly?&quot; I asked.</p>
+<p>&quot;So what is your curse exactly?&quot; I asked.</p>
 <p>&quot;The mana in my body builds and coalesces into a magical crystal upon receiving a man&#x27;s seed. If I don&#x27;t receive a man&#x27;s seed, the mana will continue building until it kills me.&quot;</p>
 <p>&quot;But you were fine the first couple of years, right?&quot;</p>
 <p>&quot;I honestly don&#x27;t entirely understand that either. At the time, I wasn&#x27;t having a monthly cycle, so maybe that had something to do with it.&quot;</p>
@@ -56,8 +55,7 @@ nav_title = "Chapter 3"
 <p>In the end, I didn&#x27;t learn anything new about Zenith&#x27;s condition. There was a high probability she had a curse on her, but it hadn&#x27;t caused any problems yet. All I could do was prepare myself to act in case anything did happen later on.</p>
 <p>After breakfast, we gathered in a room with a long table and took our seats. Nanahoshi and Cliff sat to one side of me with Zanoba on the other. Directly across from me was Sylvaril of the Void, the woman with black wings who served Perugius.</p>
 <p>&quot;All right, now let&#x27;s begin our lesson.&quot;</p>
-<p>The agreement was for Perugius to teach Nanahoshi summoning magic, but Nanahoshi had been kind enough to ask that we be included. We were starting from the very basics, so Perugius wasn&#x27;t the one teaching us. He would turn up when it was time to put what</p>
-<p>we&#x27;d learned to the test. He was probably having tea with Ariel at this moment.</p>
+<p>The agreement was for Perugius to teach Nanahoshi summoning magic, but Nanahoshi had been kind enough to ask that we be included. We were starting from the very basics, so Perugius wasn&#x27;t the one teaching us. He would turn up when it was time to put what we&#x27;d learned to the test. He was probably having tea with Ariel at this moment.</p>
 <p><em>Uh, I should probably be focusing on the lesson instead of worrying about where Perugius is, though.</em></p>
 <p>&quot;First,&quot; said Sylvaril, &quot;let&#x27;s make sure we are all on the same page. What is summoning magic? You there…&quot;</p>
 <p>&quot;Cliff. Cliff Grimor.&quot;</p>
@@ -77,7 +75,7 @@ nav_title = "Chapter 3"
 <p>&quot;When summoning magic was first born into this world, our ancestors made a covenant. Magic cannot break those ancient rules.&quot;</p>
 <p>So people couldn&#x27;t be summoned? Was that really true? What was so different between teleporting a person and summoning them? Not that it really mattered. The important thing was getting the basics down pat. I could ask more nuanced questions later. &quot;Sorry,&quot; I said. &quot;Please continue.&quot;</p>
 <p>&quot;Very well. In Fiend Summoning, one cannot invoke a creature with more mana than they possess themselves. Even if they do so, there&#x27;s a high likelihood they won&#x27;t be able to control the creature they summon.&quot;</p>
-<p>Come to think of it, I&#x27;d read about that in a book a long time ago. <em>Sig&#x27;s Summoning Magic,</em> I think it was called. It contained the tale of someone who invoked a creature that was stronger than they were, which ate them alive. Considering how vast my own mana pool was, I probably wouldn&#x27;t have issues no matter what I summoned, but I had no idea if it would obey me or not. Not that I had plans to summon anything powerful. Besides, we had three pets in the house already. There was no need for me to summon anything.</p>
+<p>Come to think of it, I&#x27;d read about that in a book a long time ago. Sig&#x27;s Summoning Magic, I think it was called. It contained the tale of someone who invoked a creature that was stronger than they were, which ate them alive. Considering how vast my own mana pool was, I probably wouldn&#x27;t have issues no matter what I summoned, but I had no idea if it would obey me or not. Not that I had plans to summon anything powerful. Besides, we had three pets in the house already. There was no need for me to summon anything.</p>
 <p>&quot;Oh, yeah, are living creatures the only thing you can summon?&quot; I blurted.</p>
 <p>&quot;Yes. You cannot summon the dead.&quot;</p>
 <p>&quot;No, I meant things. Like…could I summon some clothes that are at my house right now?&quot;</p>
@@ -94,7 +92,7 @@ nav_title = "Chapter 3"
 <p>There was a pause before she answered, &quot;No. If you specifically construct the circle so that they won&#x27;t follow your orders, then a spirit with free will shall be created instead.&quot;</p>
 <p>But if you didn&#x27;t do that, would they follow your every command? That was almost like programming. Wait, speaking of programming, I felt like I had heard about a similar concept …</p>
 <p>&quot;That seems odd to me,&quot; said Cliff, voice filled with dissatisfaction. &quot;Those of you who serve Perugius were spirits summoned 400 years ago, yes? You&#x27;re awfully intelligent if that&#x27;s the case, and it&#x27;s odd that you haven&#x27;t disappeared in the intervening centuries.&quot;</p>
-<p><em>Just what I would expect from you, Cliff.</em> He was too sharp to let that inconsistency slip by.</p>
+<p>Just what I would expect from you, Cliff. He was too sharp to let that inconsistency slip by.</p>
 <p>Sylvaril nodded cheerfully. &quot;I am glad you brought that up. Lord Perugius&#x27;s predecessor, the first Armored Dragon King, passed on his knowledge of how to create eleven ancient, highly intelligent and powerful spirits. Ordinarily, spirits of such caliber would not last more than a single day, but Lord Perugius has developed a way to maintain them for centuries.&quot;</p>
 <p>She sure was being boastful. But I could see why. It was quite a feat to maintain for eternity what would normally only last a day. In other words, perpetual motion—a concept just as incredible in my previous world as it was in this one.</p>
 <p><em>Hm, wait a second. She said eleven ancient spirits. Isn&#x27;t that one too few?</em></p>
@@ -113,7 +111,7 @@ nav_title = "Chapter 3"
 <p>Wait. If we were able to learn Spirit Summoning, we might be able to complete that doll. Of course, I didn&#x27;t think it would be easy to succeed where Maniacal Dragon King Chaos had failed, but I was sure this magic would come in handy all the same. You never knew when such knowledge would be useful.</p>
 <p>&quot;All right, now let&#x27;s start by learning the foundations of summoning. First, please look at this magic circle…&quot;</p>
 <p>So did Sylvaril begin the lesson. Unfortunately, I was behind the other three when it came to knowing how to draw a magic circle, almost like a dropout who had suddenly decided to rejoin his peers. Maybe I should have learned the basics instead of leaving it to everyone else.</p>
-<p>It wasn&#x27;t too late to start now, regardless. One was never too old to learn something new, and I was only 18. Look at Zanoba. He was in his mid-twenties when he first entered the academy, and he&#x27;d come a long way refining his ability to craft dolls. <em>I should learn from his example.</em> Although I was starting off on bad footing right now. After this lesson was over, I needed to put in some revision and practice.</p>
+<p>It wasn&#x27;t too late to start now, regardless. One was never too old to learn something new, and I was only 18. Look at Zanoba. He was in his mid-twenties when he first entered the academy, and he&#x27;d come a long way refining his ability to craft dolls. I should learn from his example. Although I was starting off on bad footing right now. After this lesson was over, I needed to put in some revision and practice.</p>
 <p>&quot;By the by,&quot; Sylvaril said, &quot;it&#x27;s almost time for lunch. If there is anything specific you would like to eat, please let me know.&quot;</p>
 <p>And with that, our lesson ended.</p>
 <p>The night before, we had ancient Asuran cuisine for dinner, which included meatballs and potatoes boiled with herb soup. There was bread made from wheat and other grains, among some other dishes. It wasn&#x27;t too different from what we ate in Sharia. Considering how grand the fortress looked from the outside, it was quite a simple meal, albeit delicious. But from Perugius&#x27;s standpoint, it wasn&#x27;t an ancient cuisine at all. He considered this to be traditional Asuran cooking—the standard food people made 400 years ago. There was a saying I&#x27;d read somewhere: technology advances during times of war while cuisine advances during times of peace. Asura&#x27;s dishes had changed greatly over the past 400 years.</p>
@@ -130,14 +128,14 @@ nav_title = "Chapter 3"
 <p>Unfortunately, Sylvaril shook her head. &quot;No, I have never heard of such a thing. Although we do have rice here.&quot;</p>
 <p>I was overjoyed to hear this, however. As long as we had rice, we could easily find something else to go with it. &quot;How about cold water with raw egg and wheat flour, mixed into a fine batter that you can dip shrimp, squid, or vegetables in, and fry in oil at a high temperature?&quot;</p>
 <p>&quot;I have never heard of that either. Although we do have wheat flour and eggs.&quot;</p>
-<p><em>Ooh, so they</em> do <em>have eggs! Which means I can always have raw egg cracked over steamy hot rice!</em></p>
+<p>Ooh, so they do have eggs! Which means I can always have raw egg cracked over steamy hot rice!</p>
 <p>Unsurprisingly, sushi and tempura were a no-go. That probably meant I was out of luck with sukiyaki as well, since it involved boiling soy sauce, sugar, and mirin in a pot. Whatever we got here wouldn&#x27;t be as delicious as what you could eat at a restaurant back in Japan, but at least with these ingredients we could make something. What we really needed was soy sauce. That was the real Japanese flavor we were hankering for.</p>
 <p>&quot;How about a sauce made from fermented soy beans? Either soy sauce or soy paste would be fine.&quot;</p>
 <p>&quot;We don&#x27;t have anything like that here at our fortress.&quot;</p>
 <p><em>As I suspected, no such thing exists here.</em></p>
 <p>&quot;I have heard, however, that Biheiril Kingdom uses a sauce similar to the one you described. We could order Arumanfi to go search for it.&quot;</p>
 <p>I perked up. &quot;Yes, please!&quot; I didn&#x27;t care that it was extra trouble for Arumanfi. If we could have him search for it, then we might as well.</p>
-<p>After an hour, he came back without any soy sauce. It was no surprise, given the short time frame, and it was my fault for only bringing it up when it was almost lunchtime. But while he may not have found soy sauce, he did bring us something else—a reddishbrown substance that the people of Biheiril made by fermenting beans. They called it tofu, but I decided to call it miso instead. <em>Because come on, this is totally miso.</em></p>
+<p>After an hour, he came back without any soy sauce. It was no surprise, given the short time frame, and it was my fault for only bringing it up when it was almost lunchtime. But while he may not have found soy sauce, he did bring us something else—a reddishbrown substance that the people of Biheiril made by fermenting beans. They called it tofu, but I decided to call it miso instead. Because come on, this is totally miso.</p>
 <p>If memory served me correctly, Biheiril Kingdom was located in the northeastern part of the Central Continent. Miso and soy sauce were two sides of the same coin. Perhaps they had already invented soy sauce in that country. Someday, I&#x27;d need to head out that way to see for myself. I&#x27;d have to find time to visit, even if it was 10 or 20 years down the road.</p>
 <p>That aside, we had rice and miso, so naturally, I asked them to get us some white fish. Sadly, we didn&#x27;t have grated radish or ginger, but we did have lemons. Pickled vegetables would have been a nice addition, but there was no use fussing over something they didn&#x27;t have here. I did my best to give Sylvaril a decent recipe, keeping the available ingredients in mind.</p>
 <p>&quot;Is this what you wanted?&quot; she asked, reappearing a while later with some piping-hot white rice. Steam rose from the miso-flavored shellfish. Then there was the nicely toasted white fish with lemon. There were two plates, one for me and one for Nanahoshi. Mine came with a raw egg.</p>
@@ -158,7 +156,7 @@ nav_title = "Chapter 3"
 <p>With that in mind, I spent my time after class wandering the halls of the floating fortress. Exploring, if you will. This place was insanely huge, so I wouldn&#x27;t be able to see it all within a day or two. Again, I was awed by how something this massive could fly like this in the first place.</p>
 <p>Lost in thought, I spotted a pair up ahead: Zanoba and Cliff. They must have decided to go exploring after class as well.</p>
 <p><em>Wait a minute. That&#x27;s strange. Why didn&#x27;t they invite me then? Did they just ditch me?</em></p>
-<p>&quot;Hey Zanoba, Master Cliff. What are you two doing together?&quot; I asked, moseying over. <em>I&#x27;d prefer to be part of the pack instead of being a lone wolf, if it&#x27;s all the same to you guys.</em></p>
+<p>&quot;Hey Zanoba, Master Cliff. What are you two doing together?&quot; I asked, moseying over. I&#x27;d prefer to be part of the pack instead of being a lone wolf, if it&#x27;s all the same to you guys.</p>
 <p>&quot;Master! Actually, I was wandering the halls when Lord Cliff called me over.&quot;</p>
 <p>Apparently, they weren&#x27;t hanging out specifically, so it wasn&#x27;t like they&#x27;d ditched me. What a relief. Good thing too, since I wasn&#x27;t actually a wolf—wild or otherwise. I was a human, one that enjoyed flocking with other humans, since that was what made us the greatest mammals on land.</p>
 <p><em>That&#x27;s right. We should group up, since we&#x27;ll be stronger together.</em></p>
@@ -201,18 +199,17 @@ nav_title = "Chapter 3"
 <p>Zanoba was genuinely enjoying himself. The moment he discovered something new, he would start going on like this.</p>
 <p>&quot;Master, what do you think of the way these stones are laid out?&quot;</p>
 <p>&quot;I don&#x27;t know anything about this kinda… Wait, I&#x27;ve seen this kind of architecture before. This is block-pattern piling, I think it was called.&quot;</p>
-<p>&quot;Aha, I would expect nothing less from you, Master! So you <em>do</em> know about this technique. Block-pattern piling, you say? How exactly does this technique work?&quot;</p>
+<p>&quot;Aha, I would expect nothing less from you, Master! So you do know about this technique. Block-pattern piling, you say? How exactly does this technique work?&quot;</p>
 <p>&quot;Look there at the corner. Those stones have been altered. Whoever built this cut them into a rectangular shape and piled them together in an alternating pattern. See? By doing that, you can enhance the stability of the corners.&quot;</p>
 <p>&quot;Oh, I see. By increasing the stability of the corners, you strengthen the entire structure as well.&quot;</p>
 <p>Seeing block-pattern piling here was quite a shock. It made me wonder if someone from the Warring States period had built this castle. No, that couldn&#x27;t be. This wasn&#x27;t a Japan-only technique. Surely, people here came up with the same method of arranging the stones to reinforce the stability of their buildings. Plus, stone architecture was pretty common in this world. This technique must have been something they innovated at some point in the past.</p>
 <p>&quot;Oh?&quot;</p>
 <p>After we went down another flight of stairs, the atmosphere around us shifted. No longer were we in a labyrinth. Instead, we were wandering down a vast corridor with a single large door in front of us. It resembled the one we&#x27;d seen in front of the audience chamber, with an Armored Dragon King crest engraved on it. This gave the impression that something precious and valuable was hidden within.</p>
 <p>&quot;A dead end?&quot; I guessed.</p>
-<p>Nanahoshi shook her head. &quot;Nope. <em>This</em> is our destination.&quot; She strode forward and pressed her hand against the door.</p>
+<p>Nanahoshi shook her head. &quot;Nope. This is our destination.&quot; She strode forward and pressed her hand against the door.</p>
 <p>&quot;Ah…&quot;</p>
 <p>Although she barely touched it, the door gave way with a creak. Apparently, this one wasn&#x27;t locked. A large rat came scuttling out, shooting past our feet and slipping through the crack as Nanahoshi nudged the door open.</p>
-<p>A vast room lay within, with no other doors as far as I could see. This was the deepest, most inner part of the floating castle—a room</p>
-<p>hidden behind a door with a crest engraved on it, one that surely contained something secret inside its walls.</p>
+<p>A vast room lay within, with no other doors as far as I could see. This was the deepest, most inner part of the floating castle—a room hidden behind a door with a crest engraved on it, one that surely contained something secret inside its walls.</p>
 <p>&quot;As childish as it may sound for a man my age, I&#x27;m excited,&quot; said Zanoba.</p>
 <p>Cliff nodded in agreement. &quot;Me too.&quot;</p>
 <p><em>And me as well.</em></p>
@@ -226,8 +223,7 @@ nav_title = "Chapter 3"
 <p>The paint was chipped in various places, but thanks to how durable the stones were, the paintings weren&#x27;t damaged enough to be indecipherable. I knew of no tradition involving drawing murals like these in this world. They reminded me of Egyptian frescoes from my previous world.</p>
 <p>&quot;I can&#x27;t even begin to guess at how ancient they must be,&quot; Zanoba mumbled. &quot;Master, this is an incredible discovery!&quot;</p>
 <p>&quot;Calling it a discovery is a stretch. I&#x27;m pretty sure Lord Perugius already knew about these before we found them.&quot;</p>
-<p>Describing the paintings would be difficult, but they more or less depicted a story. All the murals featured one peculiar figure. Most</p>
-<p>likely, they were intended to depict what this person had seen and experienced during their life. There were no words to accompany the paintings, so it was hard to guess what scene or circumstance they were trying to convey. There were inverted mountains, people with wings, people worshipping what looked to be a king, a floating stone, people gathered together, a dragon flying, two people cuddling close with a baby, a fallen shadow, a mournful king, a rage-filled king, people consulting one another, and then an eerie shadow standing behind a group of people. The final painting, which most likely represented the conclusion of the story, was only half-finished, and it was anyone&#x27;s guess what the artist had tried to depict.</p>
+<p>Describing the paintings would be difficult, but they more or less depicted a story. All the murals featured one peculiar figure. Most likely, they were intended to depict what this person had seen and experienced during their life. There were no words to accompany the paintings, so it was hard to guess what scene or circumstance they were trying to convey. There were inverted mountains, people with wings, people worshipping what looked to be a king, a floating stone, people gathered together, a dragon flying, two people cuddling close with a baby, a fallen shadow, a mournful king, a rage-filled king, people consulting one another, and then an eerie shadow standing behind a group of people. The final painting, which most likely represented the conclusion of the story, was only half-finished, and it was anyone&#x27;s guess what the artist had tried to depict.</p>
 <p>&quot;I feel like I&#x27;ve seen this story somewhere before.&quot;</p>
 <p>&quot;Me too, but I can&#x27;t remember where.&quot;</p>
 <p>&quot;Hm…&quot;</p>
@@ -235,15 +231,15 @@ nav_title = "Chapter 3"
 <p><em>Perugius…</em></p>
 <p>&quot;What are you doing down here?&quot; he demanded.</p>
 <p>&quot;Oh, it&#x27;s you, Lord Perugius.&quot; Zanoba knelt down immediately, so Cliff and I hurriedly followed suit.</p>
-<p>As I kept my head lowered, I surreptitiously glanced at Nanahoshi, who was still standing. <em>Can someone please teach this girl some etiquette?</em></p>
-<p>That said, I could turn those words back at Perugius. What was <em>he</em> doing here? Maybe he really was pissed at us for coming down here without permission, and he&#x27;d trailed us to complain.</p>
+<p>As I kept my head lowered, I surreptitiously glanced at Nanahoshi, who was still standing. Can someone please teach this girl some etiquette?</p>
+<p>That said, I could turn those words back at Perugius. What was he doing here? Maybe he really was pissed at us for coming down here without permission, and he&#x27;d trailed us to complain.</p>
 <p>&quot;Enough. Stand up.&quot;</p>
 <p>We quickly got to our feet.</p>
 <p>&quot;Forgive us. As we were exploring your magnificent castle, we happened to wander down here. And lo and behold, as we would expect of such a grandiose fortress, even the basement holds enough mystery to make one&#x27;s heart pound. I never dreamed we would find something like this here.&quot;</p>
 <p>Zanoba rambled at a rapid-fire pace, so I just grunted and nodded along. He really came in handy at times like this, and he probably genuinely meant every word he was saying.</p>
 <p>&quot;However,&quot; Zanoba continued, &quot;I am afraid we allowed our curiosity to get the better of us and offended you in the process. With Lady Nanahoshi as our guide, we figured we could wander down here so long as there were no locked doors to block our path, but we must have ventured too far in without even realizing.&quot;</p>
 <p>&quot;I don&#x27;t mind,&quot; said Perugius. &quot;As for these murals, I wasn&#x27;t the one who created them.&quot;</p>
-<p>Nanahoshi flashed a triumphant look at us, as if to say, <em>&quot;See? I told you it was fine.&quot;</em></p>
+<p>Nanahoshi flashed a triumphant look at us, as if to say, &quot;See? I told you it was fine.&quot;</p>
 <p>&quot;And what do you mean by that?&quot; Zanoba asked.</p>
 <p>He turned toward one of the walls, a distant look in his eyes, as if he was gazing into the past. &quot;When I first obtained this floating fortress, there was almost nothing left inside. There were traces of what once existed here, but it had all faded and crumbled away.&quot; Perugius stared at the murals as he spoke, eyes narrowing as he stepped closer and traced his fingers across it. &quot;The only thing left intact were these wall paintings, and they have stayed in good condition ever since. Everything else wasted away.&quot;</p>
 <p>&quot;Hm…&quot;</p>
@@ -281,40 +277,39 @@ nav_title = "Chapter 3"
 <p>&quot;Improve it how?&quot; asked Sylphie.</p>
 <p>&quot;By sharing his hobbies or asking him about heroic stories from his past.&quot;</p>
 <p>&quot;Hobbies and heroic stories? Okay, I think I understand.&quot;</p>
-<p>&quot;It might help you to bring Zanoba along too. I think Perugius likes him the most out of all of us.&quot; Zanoba could carry the</p>
-<p>conversation for her, and Ariel could just nod. That would probably improve Perugius&#x27;s perception of her.</p>
+<p>&quot;It might help you to bring Zanoba along too. I think Perugius likes him the most out of all of us.&quot; Zanoba could carry the conversation for her, and Ariel could just nod. That would probably improve Perugius&#x27;s perception of her.</p>
 <p>&quot;Hm, okay. I&#x27;ll try telling Her Highness what you said.&quot;</p>
 <p>&quot;Don&#x27;t take me too seriously,&quot; I warned. &quot;I&#x27;m not infallible.&quot;</p>
 <p>&quot;Ehehe, I appreciate the advice regardless.&quot; Sylphie pecked me on the cheek.</p>
 <p>The soft feel of her lips was enough to make me forget about studying. Instead, her kiss stirred up wicked desires inside me.</p>
-<p><em>Maybe I should whisk her off to bed with me so we can start on a second baby.</em> I quickly dismissed that idea. <em>No, I can&#x27;t let myself get distracted. I&#x27;m going to study. I&#x27;ll just have to settle for feeling up her butt a little instead—wait, no!</em></p>
+<p>Maybe I should whisk her off to bed with me so we can start on a second baby. I quickly dismissed that idea. No, I can&#x27;t let myself get distracted. I&#x27;m going to study. I&#x27;ll just have to settle for feeling up her butt a little instead—wait, no!</p>
 <p>&quot;By the way, how are things going with you, Rudy?&quot;</p>
 <p>&quot;Hm, so-so, I guess.&quot;</p>
 <p>I sealed away my inner lust demon as we discussed everything that had happened in the past day. We talked about Zenith&#x27;s curse, summoning magic, the meal I shared with Nanahoshi, and how Nanahoshi had led our foray into the fortress&#x27;s basement floors.</p>
 <p>&quot;You sure are awfully nice to Nanahoshi,&quot; Sylphie grumbled after I finished.</p>
-<p><em>I guess eating with another girl and hanging out with her really is a no-go after all.</em> That said, Zanoba and Cliff were present both times, so it wasn&#x27;t as if I was alone with Nanahoshi. But I did go out of my way to make that meal for her.</p>
-<p><em>Crap. I have to do something to fix Sylphie&#x27;s mood.</em> I had to let her know that my love for her far exceeded the friendship I shared with Nanahoshi.</p>
+<p>I guess eating with another girl and hanging out with her really is a no-go after all. That said, Zanoba and Cliff were present both times, so it wasn&#x27;t as if I was alone with Nanahoshi. But I did go out of my way to make that meal for her.</p>
+<p>Crap. I have to do something to fix Sylphie&#x27;s mood. I had to let her know that my love for her far exceeded the friendship I shared with Nanahoshi.</p>
 <p>&quot;Um, Miss Sylphiette…&quot;</p>
 <p>&quot;Yes?&quot;</p>
 <p>She sucked in a breath, cheeks puffing as she pouted and turned away. &quot;You always try to kiss up to me like that. Why? Is it because you feel guilty?&quot;</p>
 <p><em>Uh oh. She&#x27;s being awfully cold today. What&#x27;s going on? Is she seriously pissed at me? Don&#x27;t tell me this is that lull period that people often speak of in marriages. But then again, our three-year anniversary is coming up. The accursed three-year mark.</em></p>
-<p>I shook my head. <em>No, the number of years don&#x27;t matter! But I&#x27;m in serious trouble here. What do I do?!</em></p>
+<p>I shook my head. No, the number of years don&#x27;t matter! But I&#x27;m in serious trouble here. What do I do?!</p>
 <p>&quot;Just kidding! Sorry for pulling your leg like that, but you looked like you were having so much fun talking to her, so I wanted to get back at you a little.&quot; Sylphie stuck out her tongue as she threw her arms around me and squeezed me in a hug.</p>
-<p>I pulled her close. She was so petite, but she was still as soft and warm as ever. I loved the feel of her. Perhaps I deserved to have her hating me, but nevertheless, I didn&#x27;t want her to. <em>I&#x27;ll have to be more careful in the future.</em></p>
+<p>I pulled her close. She was so petite, but she was still as soft and warm as ever. I loved the feel of her. Perhaps I deserved to have her hating me, but nevertheless, I didn&#x27;t want her to. I&#x27;ll have to be more careful in the future.</p>
 <p>&quot;But honestly, why are you so hung up over Nanahoshi anyway?&quot; Sylphie asked.</p>
 <p>&quot;Uh, well, I know a lot about her situation and where she came from, so I want to help her out however I can. But it&#x27;s not like I&#x27;m romantically interested in her or anything, okay?&quot; The way I rambled made it sound even more suspicious.</p>
 <p>&quot;Ehehe, yes, I know.&quot; Sylphie chuckled, patting me on the head. She then tapped me gently on the back before pulling away. &quot;Well, I should return to Princess Ariel. Keep working hard, Rudy.&quot;</p>
 <p>&quot;Yeah, I will. And you, too.&quot;</p>
-<p><em>Crap. I thought everything was going really well, but Sylphie&#x27;s frustrations with me must have been piling up in the background. This can&#x27;t keep up.</em> It might be a good idea to put some distance between myself and Nanahoshi. Maybe going out of my way to do things that would make her happy wasn&#x27;t such a good idea after all. Hmm…</p>
+<p>Crap. I thought everything was going really well, but Sylphie&#x27;s frustrations with me must have been piling up in the background. This can&#x27;t keep up. It might be a good idea to put some distance between myself and Nanahoshi. Maybe going out of my way to do things that would make her happy wasn&#x27;t such a good idea after all. Hmm…</p>
 <p>Sylphie threw the door open to leave and froze. &quot;Huh?&quot;</p>
-<p>Nanahoshi was standing in the doorway. &quot;Sorry. I didn&#x27;t mean to intrude on the two of you, but… <em>cough, cough</em>…&quot; She broke into a coughing fit, clutching at her throat and chest as her face contorted in pain. &quot;Sorry. I overheard everything. <em>Cough</em>… Don&#x27;t worry, I have no interest in Rudeus… <em>Cough</em>…&quot;</p>
+<p>Nanahoshi was standing in the doorway. &quot;Sorry. I didn&#x27;t mean to intrude on the two of you, but… cough, cough…&quot; She broke into a coughing fit, clutching at her throat and chest as her face contorted in pain. &quot;Sorry. I overheard everything. Cough… Don&#x27;t worry, I have no interest in Rudeus… Cough…&quot;</p>
 <p>&quot;Oh, um, okay. That&#x27;s great, but, uh, are you all right?&quot; Sylphie asked.</p>
-<p>&quot;I&#x27;m fi…<em>cough, cough</em>…&quot;</p>
+<p>&quot;I&#x27;m fi…cough, cough…&quot;</p>
 <p>Nanahoshi&#x27;s condition was far worse than I had seen. She was gagging like there was something caught in her throat, which only heightened our unease.</p>
-<p>&quot;It&#x27;s just, you know, my cough has gotten so much worse… <em>Cough, cough</em>… I went to Cliff to see if I could get him to cast some detoxification magic on me, but he was preoccupied with Elinalise. I thought I&#x27;d get Rudeus to do it instead, but if that&#x27;s only going to cause more misunderstandings, I&#x27;ll just wait and have Cliff help me tomorrow.&quot;</p>
+<p>&quot;It&#x27;s just, you know, my cough has gotten so much worse… Cough, cough… I went to Cliff to see if I could get him to cast some detoxification magic on me, but he was preoccupied with Elinalise. I thought I&#x27;d get Rudeus to do it instead, but if that&#x27;s only going to cause more misunderstandings, I&#x27;ll just wait and have Cliff help me tomorrow.&quot;</p>
 <p>&quot;No, it&#x27;s fine. Everything is fine. I&#x27;m not really that worried about it,&quot; Sylphie blurted in a panic. As Nanahoshi turned to leave, Sylphie grabbed her by the shoulder. &quot;Um, I can cast it on you, but if my magic&#x27;s not effective enough, it might be a good idea to have Cliff cast a higher tier spell on you later.&quot;</p>
 <p>&quot;Thanks. I&#x27;d appreciate it, if you don&#x27;t mind.&quot;</p>
-<p>&quot;All right, then here goes.&quot; Sylphie gently pressed a hand to Nanahoshi&#x27;s neck. She cast her detoxification spell without ever reciting an incantation—a feat I remained unable to perform. <em>Sure, whatever, I can&#x27;t do it at this point in time. But I&#x27;m sure if I work at it, I&#x27;ll eventually be able to do it too.</em></p>
+<p>&quot;All right, then here goes.&quot; Sylphie gently pressed a hand to Nanahoshi&#x27;s neck. She cast her detoxification spell without ever reciting an incantation—a feat I remained unable to perform. Sure, whatever, I can&#x27;t do it at this point in time. But I&#x27;m sure if I work at it, I&#x27;ll eventually be able to do it too.</p>
 <p>&quot;Hm?&quot; Sylphie&#x27;s voice cut through my thoughts as she tilted her head in confusion.</p>
 <p>In the next moment, Nanahoshi started her hacking cough again.</p>
 <p>&quot;What? This is…kind of strange? My mana is…what is this?&quot; Sylphie cocked her head to the other side and tried pressing her opposite hand to Nanahoshi&#x27;s shoulder. In the meantime, Nanahoshi&#x27;s coughing fit only worsened.</p>
@@ -339,10 +334,10 @@ nav_title = "Chapter 3"
 <p>&quot;O-okay.&quot;</p>
 <p>I was calm now. Seeing her lose all of her composure had helped me keep mine. At least, I hoped it had. &quot;It&#x27;s okay,&quot; I repeated again. &quot;You didn&#x27;t do anything. Nanahoshi has been sick for a while. Understand?&quot;</p>
 <p>&quot;Yes…&quot;</p>
-<p>&quot;Things just happened all at once, with the worst possible timing. This is absolutely <em>not</em> your fault.&quot;</p>
+<p>&quot;Things just happened all at once, with the worst possible timing. This is absolutely not your fault.&quot;</p>
 <p>&quot;O-okay, but…when I tried to use my magic on her, there was something…strange inside of her. It was like my mana wouldn&#x27;t go through her. In fact, it just seemed to…coalesce together or something…&quot;</p>
 <p>Blood was trickling from Nanahoshi&#x27;s mouth and nose as she lay on the ground, unconscious. Her life could be in danger if we didn&#x27;t get her help. Sylphie was still in shock.</p>
-<p><em>I need to calm her down. No, maybe just the opposite.</em> Perhaps I should order her to do something. Usually, when someone was in this sort of confused state, giving them something to do helped them snap out of it.</p>
+<p>I need to calm her down. No, maybe just the opposite. Perhaps I should order her to do something. Usually, when someone was in this sort of confused state, giving them something to do helped them snap out of it.</p>
 <p>&quot;Listen to me, Sylphie. I need you to get help—either Cliff or Lord Perugius.&quot;</p>
 <p>&quot;Y-you want me to go?&quot;</p>
 <p>&quot;Yes. I&#x27;ll watch over Nanahoshi and do what I can for her, but in the meantime, I need you to go get help. Can you do that?&quot;</p>

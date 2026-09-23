@@ -20,7 +20,7 @@ nav_title = "Chapter 8"
 <p>&quot;Yeah!&quot; Geese chimed.</p>
 <p>The door opened and a wave of hot air slapped us in the face. Flames danced violently as the blaze, bright and fierce, devoured the forest with a voracious hunger. The houses on the treetops were engulfed, threatening to crumble.</p>
 <p>&quot;This is really bad,&quot; Geese muttered.</p>
-<p><em>No kidding</em>. I nodded in agreement.</p>
+<p>No kidding. I nodded in agreement.</p>
 <p>People were probably banned from lighting fires in this forest, but no doubt some wise guy decided to sit in bed and have a smoke, thereby causing all of this. I didn&#x27;t know who he was, but we would be able to escape thanks to him, so I wasn&#x27;t going to complain.</p>
 <p>&quot;Okay, newbie, which way is Zant Port?&quot;</p>
 <p>&quot;What? How the hell would I know?&quot; he shouted at me as he looked around.</p>
@@ -31,8 +31,7 @@ nav_title = "Chapter 8"
 <p>&quot;What are we gonna do?! We&#x27;re running out of escape routes!&quot;</p>
 <p>Just how big was the fire in the first place? Even if we ran and ran, there was a possibility we might not be able to escape the enveloped area.</p>
 <p>&quot;Hey, boss! Look!&quot; Geese pointed.</p>
-<p>He was pointing at a child. A small, cat-eared child. They were rubbing their eyes and coughing as they tottered in our direction, having inhaled some of the smoke. Nearby, a tree&#x27;s foliage burst into flames that crackled as the whole thing threatened to collapse. The</p>
-<p>child looked at the tree, but it was all happening so suddenly that they could only look on, dumbfounded.</p>
+<p>He was pointing at a child. A small, cat-eared child. They were rubbing their eyes and coughing as they tottered in our direction, having inhaled some of the smoke. Nearby, a tree&#x27;s foliage burst into flames that crackled as the whole thing threatened to collapse. The child looked at the tree, but it was all happening so suddenly that they could only look on, dumbfounded.</p>
 <p>&quot;Watch out!&quot; I cried out, instantly unleashing wind magic to fling the tree out of the way.</p>
 <p>The smoke had blurred their eyesight, but the child saw us and approached. &quot;H-help…me…&quot;</p>
 <p>I took them into my arms and used water magic to clean their eyes. They also had some light burns on their body, so I used healing magic as well. I wasn&#x27;t sure what I should be doing, but I hoped that would help for now at least. What were they doing here anyway? Had they simply failed to escape?</p>
@@ -82,7 +81,7 @@ nav_title = "Chapter 8"
 <p>As I got distracted, human warriors came charging at me, one after the other.</p>
 <p>&quot;Stone Cannon!&quot; I turned my hand toward them and pummeled them with my spell. One, two, three… Oh crap, not only did they have leadership now, but their numbers were overwhelming.</p>
 <p>&quot;D-dammit! Bring it on, then! I won&#x27;t let you put a hand on my boss!&quot; Geese cried out valiantly, although he was gradually retreating to the side. Useless.</p>
-<p><em>What about me? Should I fall back too?</em> I wondered.</p>
+<p>What about me? Should I fall back too? I wondered.</p>
 <p>At that very moment, a brown shadow flew in front of me. &quot;I don&#x27;t know who you are, but thank you for the help!&quot;</p>
 <p>He spoke in Beast-God tongue. He was a beastman with a bushy dog&#x27;s tail who already had his sword drawn, and he cut down one of the men coming toward us. His single stroke sliced cleanly through and sent the human&#x27;s head flying.</p>
 <p>&quot;We won&#x27;t be defeated by your ilk, now that the rain has cleaned my face and my nose is working properly!&quot;</p>
@@ -104,7 +103,7 @@ nav_title = "Chapter 8"
 <p>&quot;What?&quot; she gasped.</p>
 <p>Her confusion wasn&#x27;t just because only a fur vest covered my naked (or rather half-naked) body. I knew her. I only just found out her name, but I knew those ample breasts and skilled cooking hands. She was the one who had guarded our cell.</p>
 <p>She looked between Gimbal and me, her face turning pale. She probably remembered her poor treatment of me and realized the mistake she&#x27;d made.</p>
-<p><em>Don&#x27;t worry. I don&#x27;t really hold it against you</em>, I thought. <em>People sometimes misunderstand and make mistakes. I am Rudeus, the enlightened and compassionate!</em></p>
+<p>Don&#x27;t worry. I don&#x27;t really hold it against you, I thought. People sometimes misunderstand and make mistakes. I am Rudeus, the enlightened and compassionate!</p>
 <p>That aside, she needed to let me cast a bit of healing on her.</p>
 <p>She looked conflicted as I healed her, wondering what she should do, if she should apologize or not.</p>
 <p>Before I could finish healing her, Gimbal yelled, &quot;Laklana, you are to return and guard the Sacred Beast!&quot;</p>
@@ -125,8 +124,7 @@ nav_title = "Chapter 8"
 <p>Ugh…I didn&#x27;t really want to talk about this here, but I couldn&#x27;t keep silent, either. &quot;What do you mean by that?&quot;</p>
 <p>Gallus hocked and spat. &quot;There&#x27;s no need for me to tell you.&quot;</p>
 <p>Well, that was true. But this was a little odd. &quot;You&#x27;re the one who asked us to save the beastfolk children. You said it&#x27;d cause trouble for you in the future otherwise. But here you are kidnapping them…so what exactly are your intentions?&quot;</p>
-<p>Gallus smirked and looked around. Even though he had three beastfolk warriors, myself, and Geese surrounding him, he still seemed relaxed. &quot;Yeah, the brats were one thing, but if they</p>
-<p>kidnapped the Doldia&#x27;s Sacred Beast too, that would really get us into trouble.&quot;</p>
+<p>Gallus smirked and looked around. Even though he had three beastfolk warriors, myself, and Geese surrounding him, he still seemed relaxed. &quot;Yeah, the brats were one thing, but if they kidnapped the Doldia&#x27;s Sacred Beast too, that would really get us into trouble.&quot;</p>
 <p>Apparently that pup was the problem. I wish he&#x27;d said so from the beginning. He could&#x27;ve at least told me to release the dog.</p>
 <p>&quot;I thought we had a good plan going. We timed it right and leaked information to the Doldia&#x27;s band of warriors so you&#x27;d run into each other. Then while the Superd massacred them all, we would sneak in, attack their settlement and steal the rest of their children.&quot;</p>
 <p>&quot;…&quot;</p>
@@ -145,7 +143,7 @@ nav_title = "Chapter 8"
 <p>&quot;That&#x27;s what I&#x27;d like people to believe.&quot;</p>
 <p>Negotiations had failed.</p>
 <p>Gallus kept his sword trained on the child&#x27;s neck as he stood. He cast a look around at Gimbal and his men, who were trying to surround Gallus, and chuckled. &quot;I see… Well, Kennel Master, you&#x27;ve made a mistake.&quot;</p>
-<p><em>I literally just told you I&#x27;m not the Kennel Master, I&#x27;m Ruijerd</em>, I quipped in my head.</p>
+<p>I literally just told you I&#x27;m not the Kennel Master, I&#x27;m Ruijerd, I quipped in my head.</p>
 <p>Two of Gimbal&#x27;s men slipped behind Gallus, sneaky as cats, creeping up on him.</p>
 <p>&quot;Five of you aren&#x27;t enough to defeat me.&quot;</p>
 <p>The three of them jumped on him almost instantaneously. From behind and to the right came Warrior A, slashing; and to the left, Warrior B swept in, attempting to rescue the child. Gimbal used that beat to attack Gallus from the front.</p>
@@ -154,7 +152,7 @@ nav_title = "Chapter 8"
 <p>He pulled his sword free while backing into Warrior B just as the latter fumbled his attack. At this point, Warrior B and Gimbal were both in a direct line in front of Gallus, and Gimbal&#x27;s arms were preoccupied with the child he&#x27;d recovered, so he couldn&#x27;t move. From out of nowhere, Gallus drew a short sword with his left hand and drove it deep into Warrior B&#x27;s chest. Then he used the warrior&#x27;s body as a shield and charged right at Gimbal.</p>
 <p>Gimbal slipped the child under the crook of his arm and tried to intercept Gallus, but it was already too late. Gallus unleashed his attack between the gap of his shield&#x27;s legs, piercing Gimbal. As Gimbal dropped the child and began to collapse, Gallus instantly sliced his blade clean through his opponent&#x27;s neck.</p>
 <p>Swift, precise and over in seconds. I didn&#x27;t even have a chance to help. While I stared dumbfounded, the beastfolk warriors spilled blood from their mouths before collapsing where they stood.</p>
-<p><em>Are you serious?</em> I thought in disbelief.</p>
+<p>Are you serious? I thought in disbelief.</p>
 <p>&quot;H-hey, boss, this is bad. That&#x27;s North God Style right there. And also Atofe-style. No clever tricks, just a raw fighting style that comes from being experienced in facing multiple opponents in battle.&quot;</p>
 <p>Gallus reacted to the panic in Geese&#x27;s voice with a laugh. &quot;You know your stuff, monkey man. That&#x27;s right, I&#x27;m the Cleaner, the North Saint Gallus.&quot; By the time Gallus said that, he already had his hostage back in his grasp.</p>
 <p>This was bad. I didn&#x27;t think he was as strong as Ruijerd, but at that rank, he was probably still more than I could handle. Just how much could I fight him with my Eye of Foresight?</p>
@@ -183,10 +181,10 @@ nav_title = "Chapter 8"
 <p>&quot;Boss…buy me a little bit of time.&quot;</p>
 <p>Just as I was mentally preparing myself, the newbie whispered to me. Did he have some kind of plan?</p>
 <p>&quot;Since he&#x27;s a North God Style swordsman, I think I have something that will trip him up.&quot;</p>
-<p>&quot;…Okay.&quot; I stepped out directly in front of him. So this meant I was going to face off directly with a Saint-tier swordsman? Crap, my heart was pounding furiously. <em>Calm down, just calm down</em>, I told myself.</p>
+<p>&quot;…Okay.&quot; I stepped out directly in front of him. So this meant I was going to face off directly with a Saint-tier swordsman? Crap, my heart was pounding furiously. Calm down, just calm down, I told myself.</p>
 <p>&quot;Woof!&quot; As if to instill courage in me, the ball of fur beside me barked.</p>
 <p>&quot;Graaah!&quot; And as if in response, Gallus kicked off from the ground. He sprinted toward us, and the Sacred Beast rushed to meet him.</p>
-<p><em>He&#x27;s going to cut around and launch a slashing attack at the Sacred Beast from below.</em> I could see it. If I used my stone cannon… No, the Sacred Beast was in my line of trajectory. I needed to use a different spell. What to use? The newbie told me to draw his attention, so…</p>
+<p>He&#x27;s going to cut around and launch a slashing attack at the Sacred Beast from below. I could see it. If I used my stone cannon… No, the Sacred Beast was in my line of trajectory. I needed to use a different spell. What to use? The newbie told me to draw his attention, so…</p>
 <p>&quot;Explosion!&quot;</p>
 <p>&quot;Gaaah!&quot;</p>
 <p>Just as the Sacred Beast sprang at Gallus, I conjured a small explosion right in front of his eyes.</p>
@@ -225,29 +223,26 @@ nav_title = "Chapter 8"
 <p>I had no idea what that meant, but apparently those trained in the North God Style had some weird habit. Regardless, I approached Gallus with great caution.</p>
 <p>&quot;Hey, boss, be careful!&quot;</p>
 <p>Just as the newbie advised, I kept my guard up as I surveyed our unconscious opponent. I picked up his sword, which he had dropped nearby, and chucked it away. When I did, the Sacred Beast leaped into the air and caught the sword in its mouth before returning to me, tail wagging vigorously.</p>
-<p><em>Yes, yes, you&#x27;re a good boy</em>, I thought. <em>But let&#x27;s play frisbee another time, okay?</em></p>
+<p>Yes, yes, you&#x27;re a good boy, I thought. But let&#x27;s play frisbee another time, okay?</p>
 <p>&quot;Newbie, take this.&quot; I patted the pup on the head a few times before tossing the sword over to Geese. Then I picked up a stick and started to prod at Gallus with it.</p>
 <p>He didn&#x27;t move. Even prodding around his eyes didn&#x27;t get a flinch out of him. I bound his hands and legs and fastened a gag in his mouth, but his eyes remained shut. It seemed he was completely unconscious.</p>
 <p>&quot;We won.&quot; As the words tumbled out of my mouth, the Sacred Beast whined and Geese, who had removed the bag from the hostage&#x27;s head, laughed. Had we really won? I was still basking in the afterglow of victory when the hostage child woke and began sobbing. Shortly after that, the beastfolk warriors finally arrived.</p>
 <p>***</p>
 <p>This had been quite the unique kidnapping case. It was a largescale operation that the smuggling organization had plotted. They planned to steal the Sacred Beast, the Doldia&#x27;s guardian deity. Their exact motivations were unclear, but apparently many people desired the Sacred Beast because of how special it was.</p>
 <p>That said, even the simple act of kidnapping the Beast would prove challenging. Assuming they did manage it, the beastfolk, with their advanced sense of smell, would be hot on the smugglers&#x27; trail and immediately recapture the Beast. That&#x27;s why the organization executed their plan around the rainy season.</p>
-<p>The rainy season lasted three months. Each settlement busied itself with preparations, and warriors from each village had their hands tied. That said, it was impossible to sail a ship in the middle of the rainy season. So right before the rains began, they would steal</p>
-<p>the Beast and carry it off to the Demon Continent. That way they could get away with it easily and the warriors couldn&#x27;t give pursuit.</p>
+<p>The rainy season lasted three months. Each settlement busied itself with preparations, and warriors from each village had their hands tied. That said, it was impossible to sail a ship in the middle of the rainy season. So right before the rains began, they would steal the Beast and carry it off to the Demon Continent. That way they could get away with it easily and the warriors couldn&#x27;t give pursuit.</p>
 <p>The beastfolk were, of course, vigilant. During the preparations for the rainy season, children were forbidden from going outside and even the adults were cautious. It went without saying that the Sacred Beast was also well-guarded during that time. The organization took this into consideration as well.</p>
 <p>First they employed every kidnapper in the area, and then they waited patiently. When the right time came, they raided each village and simultaneously abducted women and children. That&#x27;s when the warriors panicked. The organization had intentionally hired those people to lower the kidnappings during the year so the beastfolk tribes would consequently lower their guard. Then, in one fell swoop, the smugglers kidnapped women and children from various settlements.</p>
 <p>They also sent groups of armed forces they had prepared to strike those villages, but left the Doldia tribe&#x27;s village untouched. Since this meant the Doldia&#x27;s warriors were unoccupied, the other villages demanded assistance. The Doldia had to divide their forces to deliver aid to the various settlements.</p>
 <p>As a result, the Doldia&#x27;s village defenders were left shorthanded. That&#x27;s when the smuggling organization used its elite forces to attack. They succeeded in abducting not only the tribal chief&#x27;s granddaughter, but the Sacred Beast as well. It was a blitzkrieg tactic where minor forces distracted other settlements while the main force achieved their true objective.</p>
-<p>The attack of armed forces, the kidnapping of children, and the kidnapping of the Sacred Beast… With all of that, it didn&#x27;t matter how exceptional the beastfolk warriors were if there weren&#x27;t enough of them. The tribal chief, Gustav, decided to abandon the children. He gathered his warriors and bolstered the village&#x27;s defenses, then</p>
-<p>commenced a search for the Sacred Beast. The Beast was an important symbol to their village.</p>
+<p>The attack of armed forces, the kidnapping of children, and the kidnapping of the Sacred Beast… With all of that, it didn&#x27;t matter how exceptional the beastfolk warriors were if there weren&#x27;t enough of them. The tribal chief, Gustav, decided to abandon the children. He gathered his warriors and bolstered the village&#x27;s defenses, then commenced a search for the Sacred Beast. The Beast was an important symbol to their village.</p>
 <p>It seemed to them pure luck that they discovered the smugglers&#x27; holding area. They got a solid tip, and marched on the building in question. For now, let&#x27;s just ignore that the source of this information was a separate force spearheaded by Gallus.</p>
 <p>This was where the story I didn&#x27;t know began: a story of what Ruijerd did in the intervening week when he left me in that cell.</p>
 <p>Apparently Ruijerd became openly angry at the smugglers when he heard about what led to all of this. He proposed attacking their ship before it departed from the harbor. Gustav, however, disapproved. &quot;We don&#x27;t know which ship the children are on, and they know how to suppress our sense of smell.&quot;</p>
 <p>That&#x27;s exactly where Ruijerd came in. He proudly said he could use the crystal on his forehead to seek them out. As for Eris, she didn&#x27;t participate as she had taken it upon herself to guard the children. With a great big grin on her face, I might add. That was certainly her Greyrat blood at play.</p>
 <p>Anyway, Ruijerd&#x27;s attack proved successful. Tragically for the smugglers, he discovered their ship and captured them only after beating them all half to death. The children came shuffling out from the depths of the ship. There were at least fifty of them. Everyone was saved and it was a nice happy ending, yay! …Not.</p>
 <p>Zant Port officials claimed it was an attack on the final voyage from that port before the rainy season began. There were important goods stored on that ship and attacking it was a serious felony.</p>
-<p>Gustav, of course, protested this. The kidnapping and enslavement of beastfolk was a crime as far as the Holy Country of Millis and the tribal leaders of the Great Forest were concerned. Being punished for stopping that on their own shores seemed bizarre, he said. That only incensed the Zant Port officials. They</p>
-<p>insisted that they should have been informed ahead of time. But they&#x27;d just subdued the smugglers in the nick of time. They had no time to explain anything. Plus, there were fifty victims. Not five, not ten, <em>fifty</em> children! One or two were kidnapped from each settlement. Zant Port officials hadn&#x27;t noticed any of it. In fact, some of the officials had taken bribes to pretend they knew nothing.</p>
+<p>Gustav, of course, protested this. The kidnapping and enslavement of beastfolk was a crime as far as the Holy Country of Millis and the tribal leaders of the Great Forest were concerned. Being punished for stopping that on their own shores seemed bizarre, he said. That only incensed the Zant Port officials. They insisted that they should have been informed ahead of time. But they&#x27;d just subdued the smugglers in the nick of time. They had no time to explain anything. Plus, there were fifty victims. Not five, not ten, fifty children! One or two were kidnapped from each settlement. Zant Port officials hadn&#x27;t noticed any of it. In fact, some of the officials had taken bribes to pretend they knew nothing.</p>
 <p>That was a violation of the treaty. If left as-is, it would create a huge fissure in the relationship between the beastfolk and the Holy Country of Millis. In the worst-case scenario, war would ensue. That&#x27;s how dire the conversation became. At Gustav&#x27;s command, the warriors were called to Zant Port and they stood at the entrance to the city in a standoff with its garrison.</p>
 <p>In the end, Zant Port backed down. They paid the beastfolk a hefty sum in compensation. It took about a week for those negotiations to conclude and for the children to be returned to their parents. That was why I was left there for a week in that cell, to be dealt with last.</p>
 <p>Well, not like there was any other choice. In fact, I thought it was amazing they managed to accomplish that much in just a week.</p>

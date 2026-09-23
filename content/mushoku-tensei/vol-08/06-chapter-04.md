@@ -20,8 +20,7 @@ nav_title = "Chapter 4"
 <p>In fact, it used to be that university wasn&#x27;t even allowed to teach the basics of those schools of magic. It was only about two years ago, after agreeing to certain conditions, that they were given permission. Given those circumstances, I was told that the class was instead going to focus on how to break through barriers.</p>
 <p>There were two types of barriers, those proofing against magic and those proofing against physical objects. Once a person was Saint-tier and above, they could create barriers that combined both aspects. There were also various other uses, such as a barrier to protect oneself and a barrier to lock something inside.</p>
 <p>My old teacher Roxy had also taught me about barriers, but at the time, I&#x27;d been satisfied just with the knowledge that they existed and more or less tuned out the rest of what she said. So it was informative to review and have someone re-explain them for me.</p>
-<p>I returned to the library once class was over. There, I spent my time researching teleportation until it became dark outside. I did technically go hunting through the literature, but as a result of</p>
-<p>teleportation magic being labeled a forbidden art, there wasn&#x27;t anything listed in detail. The book that Master Fitz had told me about, <em>An Account of the Exploration of the Teleportation Labyrinth</em>, might be the most extensive written information out there.</p>
+<p>I returned to the library once class was over. There, I spent my time researching teleportation until it became dark outside. I did technically go hunting through the literature, but as a result of teleportation magic being labeled a forbidden art, there wasn&#x27;t anything listed in detail. The book that Master Fitz had told me about, An Account of the Exploration of the Teleportation Labyrinth, might be the most extensive written information out there.</p>
 <p>After that I returned home to the dorm, ate dinner, and then, after working on the figurine a little, went to bed. My lifestyle had found a rhythm and I was beginning to feel relaxed, but my little man&#x27;s appetite, or rather lack thereof, remained unchanged. The healing magic class never touched on any subject related to ED, of course, and there were no books on how to cure such a condition in the library, either.</p>
 <p>There was no sign I&#x27;d recover.</p>
 <p>***</p>
@@ -38,8 +37,7 @@ nav_title = "Chapter 4"
 <p>He shook his head when I asked. &quot;No. I&#x27;m also looking into the Displacement Incident.&quot;</p>
 <p>&quot;So that&#x27;s it. Why are you going to all that trouble? Did Princess Ariel order you?&quot;</p>
 <p>&quot;Not quite…&quot; He put his hand to his chin as if he were considering his response and the corners of his lips lifted as he chuckled. His laugh was one of self-deprecation. &quot;To tell the truth, one of my acquaintances went missing during the incident.&quot;</p>
-<p>&quot;Oh, uh, I&#x27;m not sure what to say…&quot; I remembered the list of the deceased back at the Refugee Camp—how many hundreds of names had been listed on it. It had been five years since the disaster. The chance of survival for those still missing was basically zero. I was sure Master Fitz&#x27;s acquaintance and anyone else still missing was</p>
-<p>probably already deceased. I was one of the lucky ones since my entire family was still alive.</p>
+<p>&quot;Oh, uh, I&#x27;m not sure what to say…&quot; I remembered the list of the deceased back at the Refugee Camp—how many hundreds of names had been listed on it. It had been five years since the disaster. The chance of survival for those still missing was basically zero. I was sure Master Fitz&#x27;s acquaintance and anyone else still missing was probably already deceased. I was one of the lucky ones since my entire family was still alive.</p>
 <p>&quot;Oh, I recently found out they&#x27;re still alive, actually,&quot; Fitz interjected.</p>
 <p>&quot;Huh? Oh, really?&quot;</p>
 <p>&quot;Yeah. I&#x27;d been researching teleportation up until then thinking, if I could figure out the pattern behind where people were teleported, then it would make finding them easier. That&#x27;s why I looked into it.&quot;</p>
@@ -55,15 +53,14 @@ nav_title = "Chapter 4"
 <p>&quot;I&#x27;d like you to let me help out with your research into the Displacement Incident.&quot;</p>
 <p>I felt incredibly humbled by his offer. &quot;No, in fact I should be the one assisting you. I&#x27;m the one who just began my research recently. I don&#x27;t even have much information on the topic.&quot;</p>
 <p>&quot;But I don&#x27;t have that much time to spend on it. Even if we partner up, most of the work will fall to you. Does that… bother you? Having someone like me who just comes in here occasionally, butting into your research.&quot;</p>
-<p>It might bother me if someone who barely spent any time helping came in just to lambast my progress, but he didn&#x27;t seem the type to do that. Besides, it was probably better to have someone with a different perspective weigh in rather than work on it all by</p>
-<p>myself, right? I wasn&#x27;t that smart anyway, and Fitz was considered a genius, so he might be able to find something in the data I gathered. &quot;It doesn&#x27;t bother me. I look forward to working together.&quot;</p>
+<p>It might bother me if someone who barely spent any time helping came in just to lambast my progress, but he didn&#x27;t seem the type to do that. Besides, it was probably better to have someone with a different perspective weigh in rather than work on it all by myself, right? I wasn&#x27;t that smart anyway, and Fitz was considered a genius, so he might be able to find something in the data I gathered. &quot;It doesn&#x27;t bother me. I look forward to working together.&quot;</p>
 <p>&quot;Yeah, me too.&quot;</p>
 <p>We shook hands and Fitz gave me a toothy grin. The look on his face, combined with the softness of his hand, made my heart pound.</p>
 <p>Was I seriously feeling this way toward a guy…? No, that was absurd. My emotions were just getting off track.</p>
 <p>After that, I gathered what I&#x27;d researched for the day and headed home. By the time we left the library it was already growing dark outside. Master Fitz and I shared small talk as we walked back to the dorms. Between being the Princess&#x27;s bodyguard and doing chores for her, he was kept busy daily, but once every ten days he got some free time in the evening.</p>
 <p>&quot;By the way, I saw you at noon. You were amazing.&quot;</p>
 <p>Noon? I tilted my head at the word. What was I even doing then?</p>
-<p>&quot;I was shocked to see <em>the</em> Zanoba Shirone following after you like a little puppy.&quot;</p>
+<p>&quot;I was shocked to see the Zanoba Shirone following after you like a little puppy.&quot;</p>
 <p>&quot;…hah.&quot; By noon he meant when we were eating at our instacafe terrace, bathed in the attention of surrounding students.</p>
 <p>&quot;You might not know this, but when he first enrolled he was a violent troublemaker that just fought with everyone.&quot;</p>
 <p>I laughed bitterly upon hearing the &quot;troublemaker&quot; part. I should&#x27;ve guessed as much. It seemed he wasn&#x27;t being bullied after all. Which made sense: someone who could pull off a person&#x27;s head with their bare hands wouldn&#x27;t be bullied so easily.</p>
@@ -89,8 +86,7 @@ nav_title = "Chapter 4"
 <p>We arrived at a fork in the road. The path straight ahead led to the girls&#x27; dormitory. It was still light out, but I wasn&#x27;t going to walk that road ever again.</p>
 <p>&quot;Oh, I have some business with Princess Ariel, so I&#x27;ll part with you here.&quot;</p>
 <p>&quot;Alright, thank you for today. I look forward to talking again.&quot;</p>
-<p>&quot;I don&#x27;t have any free time tomorrow, but I will stop by the library,&quot; Fitz said, before walking off toward the girls&#x27; dormitory. He had free entry into that palace full of women. Probably the only</p>
-<p>reason why I didn&#x27;t feel jealous was because I could still remember that muscular terror from the other day.</p>
+<p>&quot;I don&#x27;t have any free time tomorrow, but I will stop by the library,&quot; Fitz said, before walking off toward the girls&#x27; dormitory. He had free entry into that palace full of women. Probably the only reason why I didn&#x27;t feel jealous was because I could still remember that muscular terror from the other day.</p>
 <p>Or perhaps, just maybe, I could use my connection with Master Fitz to infiltrate that palace, and that would be the key to achieving my ultimate objective here at this school. For the moment, I still couldn&#x27;t see the meaning behind the Man-God&#x27;s advice.</p>
 <p>***</p>
 <p>And that was how Master Fitz and I started working together to advance our investigation. I thought the two of us had gotten close. Partly because he was friendlier than I imagined, but either way we were building a positive friendship. Although he was still full of mysteries.</p>
@@ -111,7 +107,7 @@ nav_title = "Chapter 4"
 <p>&quot;Actually, your last name wouldn&#x27;t happen to be Ryback, would it?&quot; I asked.</p>
 <p>&quot;Huh? Ryback? Isn&#x27;t that the last name of the second North God? No way, not at all. Besides, I don&#x27;t even have a surname. I&#x27;m not a noble or anything.&quot;</p>
 <p>&quot;There you go being all humble. Be honest, you&#x27;re actually an extremely good cook, aren&#x27;t you?&quot;</p>
-<p>&quot;Uh, I <em>can</em> cook, but… what does that have to do with anything?&quot; He didn&#x27;t get my joke. And yet he did chuckle, though I wasn&#x27;t sure what it was he found funny. That&#x27;s right, <em>the</em> man of mystery, Fitz, was laughing.</p>
+<p>&quot;Uh, I can cook, but… what does that have to do with anything?&quot; He didn&#x27;t get my joke. And yet he did chuckle, though I wasn&#x27;t sure what it was he found funny. That&#x27;s right, the man of mystery, Fitz, was laughing.</p>
 <p>It was also a mystery why he was helping me. Still, I wasn&#x27;t fussed about unravelling that. If Fitz was being coy with his intentions—whatever they were—there had to be a reason for it. I had no intention being as ungrateful as to pry into the secrets of someone who had helped me out.</p>
 <p>I would be lying if I said I wasn&#x27;t curious, though. Still, I kept the Man-God&#x27;s advice in mind. When I followed it, the person I met was Master Fitz. Judging by my experience with the Man-God up &#x27;til now, things would wind up the same no matter what actions I took. In other words, by associating with Master Fitz I would eventually find out how to cure my illness. There was no need to rush.</p>
 <p><strong>Chapter 5: An Unreachable Power (Part 1)</strong></p>

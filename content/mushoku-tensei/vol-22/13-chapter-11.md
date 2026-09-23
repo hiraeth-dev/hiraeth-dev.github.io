@@ -8,7 +8,7 @@ nav_title = "Chapter 11"
 +++
 
 <p><strong>W</strong>E FINISHED MAKING our introductions to all the demon kings. All of them promised to ally with me. I also had them sign contracts, just in case. Atofe&#x27;s name was really handy.</p>
-<p>Right now, everything was on track. Things were going well—there were so few hiccups that it felt like things were going a little <em>too</em> well. Geese&#x27;s continued silence was beginning to creep me out, not to mention the lack of interference from the Man-God. I returned home regularly to check on my family, but there was no indication of him meddling there, either.</p>
+<p>Right now, everything was on track. Things were going well—there were so few hiccups that it felt like things were going a little too well. Geese&#x27;s continued silence was beginning to creep me out, not to mention the lack of interference from the Man-God. I returned home regularly to check on my family, but there was no indication of him meddling there, either.</p>
 <p>I went through all the information the mercenary company had gathered from all over the world but nothing stirred my doubts. That had to mean that whatever Geese was plotting, nothing I was up to interfered with them. Maybe the letter had been a bluff, and his actual scheme was different… But what that meant in the long term, I had no idea. For the time being, I had no choice but to stay the course I&#x27;d set.</p>
 <p>Geese&#x27;s whereabouts were similarly shrouded in mystery. He was doing a good job of keeping his head down. To tell the truth, I had the feeling that, short of asking Kishirika, we wouldn&#x27;t find him. But I had been putting out wanted notices for her all over the Demon Continent. It was just a matter of time until we found her.</p>
 <p>In the meantime, I decided to make inroads with my next target. I was heading to the Sword Sanctum to see Sword God Gall Falion.</p>
@@ -108,7 +108,7 @@ nav_title = "Chapter 11"
 <p>I shouldn&#x27;t have gotten complacent. Was it a breech birth? No, I could see the head, so that wasn&#x27;t it… Surely it couldn&#x27;t be a stillbirth…</p>
 <p>Roxy stood up, staff in hand. &quot;Healing magic?&quot; she asked.</p>
 <p>&quot;No, that won&#x27;t be necessary,&quot; said the doctor, and the birth continued. He carried on with the delivery, speaking to Sylphie only when absolutely necessary. As far as I could tell, nothing had gone wrong.</p>
-<p>&quot;…Ah, uwaaah.&quot; A baby&#x27;s cry broke the restless silence. A strong little voice. It wasn&#x27;t a stillbirth. The doctor didn&#x27;t say anything, just held the baby up. It looked fine to me. I honestly didn&#x27;t think anything was wrong. But the doctor&#x27;s face was still tense, and I knew why. I&#x27;d know as soon as I saw the baby. Why the doctor had sighed. Why he was so tense. <em>I</em> genuinely didn&#x27;t think there was any problem, but I understood why he did.</p>
+<p>&quot;…Ah, uwaaah.&quot; A baby&#x27;s cry broke the restless silence. A strong little voice. It wasn&#x27;t a stillbirth. The doctor didn&#x27;t say anything, just held the baby up. It looked fine to me. I honestly didn&#x27;t think anything was wrong. But the doctor&#x27;s face was still tense, and I knew why. I&#x27;d know as soon as I saw the baby. Why the doctor had sighed. Why he was so tense. I genuinely didn&#x27;t think there was any problem, but I understood why he did.</p>
 <p>It was the baby&#x27;s hair. When Lucie was born, her wisps of hair had been light brown. When Lara was born, she&#x27;d been bald. I wasn&#x27;t there when Arus was born, but when I saw him, his hair looked red.</p>
 <p>We all stared in silence. There was Sylphie&#x27;s second child, with a head of green hair. Yep, just like Sylphie, back in the day.</p>
 <p>&quot;No way…&quot; Sylphie had gone pale. &quot;Oh…oh no…it can&#x27;t be…&quot;</p>
@@ -131,7 +131,7 @@ nav_title = "Chapter 11"
 <p>I felt guilty. But I was also overjoyed. Sure, the baby had green hair. But that wasn&#x27;t any big deal. Nothing had changed.</p>
 <p>Here was my fourth child. And I&#x27;d made sure to think of a name.</p>
 <p>All of a sudden, I heard Eris&#x27;s voice pipe up from a corner of the room.</p>
-<p>&quot;What the <em>hell</em> are you doing here?&quot;</p>
+<p>&quot;What the hell are you doing here?&quot;</p>
 <p>She was talking to me—berating me for being so useless. Feeling like I&#x27;d been punched in the gut, I turned.</p>
 <p>At least, that&#x27;s what I thought was happening. I was wrong.</p>
 <p>&quot;Huh?&quot;</p>

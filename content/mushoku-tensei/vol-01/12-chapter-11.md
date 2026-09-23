@@ -91,18 +91,18 @@ nav_title = "Chapter 11"
 <p>Or maybe, &#x27;Sylphie&#x27;s mine now, kiddo!&#x27;</p>
 <p><em>Th-that scumbag pedo! Does his lust know no bounds?!</em></p>
 <p>Wait, I think I just made up those last two. Hmm.</p>
-<p>It was hard to think straight where Sylphie was concerned. I&#x27;d gotten completely derailed in no time at all. <em>Damn it. This is all Paul&#x27;s fault… Ah, well, guess I&#x27;ll just have to ask.</em></p>
+<p>It was hard to think straight where Sylphie was concerned. I&#x27;d gotten completely derailed in no time at all. Damn it. This is all Paul&#x27;s fault… Ah, well, guess I&#x27;ll just have to ask.</p>
 <p>&quot;Uhm, Miss?&quot;</p>
 <p>&quot;You can call me Ghislaine.&quot;</p>
 <p>&quot;Oh, okay. In that case, you can call me Ruru.&quot;</p>
 <p>&quot;Sure thing, Ruru.&quot;</p>
 <p>Right. So, the woman clearly didn&#x27;t know a joke when she heard one.</p>
 <p>&quot;Miss Ghislaine, did my father tell you what&#x27;s going on here?&quot;</p>
-<p>&quot;Just Ghislaine, kid. No <em>miss</em> required.&quot;</p>
+<p>&quot;Just Ghislaine, kid. No miss required.&quot;</p>
 <p>As she spoke, Ghislaine reached into her jacket to retrieve a letter and handed it over to me. The front of it was completely blank.</p>
 <p>&quot;That&#x27;s for you, from Paul. Read it out loud, will you? I&#x27;m not so good with writing.&quot;</p>
 <p>&quot;Okay.&quot;</p>
-<p>Opening up the sloppily folded piece of paper, I began to read. <em>&quot;To my dear son Rudeus. If you&#x27;re reading this letter, it means that I&#x27;m no longer in this world.&quot;</em></p>
+<p>Opening up the sloppily folded piece of paper, I began to read. &quot;To my dear son Rudeus. If you&#x27;re reading this letter, it means that I&#x27;m no longer in this world.&quot;</p>
 <p>&quot;What, what?!&quot; Ghislaine shouted, jumping to her feet.</p>
 <p>Good thing this carriage had a high ceiling.</p>
 <p>&quot;Please sit down, Ghislaine. There&#x27;s more.&quot;</p>
@@ -140,7 +140,7 @@ nav_title = "Chapter 11"
 <p><em>H-hold on a second. What?</em></p>
 <p><em>Are you serious? I can&#x27;t see Sylphie for five whole years? I can&#x27;t even write her letters?!</em></p>
 <p>&quot;What&#x27;s the matter, Ruru? Did you break up with your girlfriend?&quot; Ghislaine asked, apparently amused by the look of despair on my face.</p>
-<p>I hadn&#x27;t even had a chance to say goodbye. <em>Damn it, Paul. You&#x27;ll pay for this…</em></p>
+<p>I hadn&#x27;t even had a chance to say goodbye. Damn it, Paul. You&#x27;ll pay for this…</p>
 <p>&quot;Hang in there, Ruru. It&#x27;ll be okay.&quot;</p>
 <p>&quot;Uhm…&quot;</p>
 <p>&quot;What?&quot;</p>
@@ -151,7 +151,7 @@ nav_title = "Chapter 11"
 <p>This made sense. Paul had made the right call this time.</p>
 <p><em>&quot;As for your compensation, you&#x27;ll be paid two silver Asuran coins a month. That&#x27;s below the going rate for a live-in tutor, but it&#x27;s more than enough for a child&#x27;s allowance. When you have a little spare time, try to head out into the city and get a feel for spending money. A little practice is the best way to make sure you can use your cash effectively when you really need to. Then again, maybe that won&#x27;t even be an issue for a kid as gifted as you. Just don&#x27;t go buying any women, though. You got that?&quot;</em></p>
 <p><em>Seriously, man. You could just leave that part out!</em></p>
-<p>What, was he trying some sort of reverse psychology here? Like<em>,</em>  &#x27;Don&#x27;t hit up any brothels, son! Wink wink, nudge nudge&#x27;?</p>
+<p>What, was he trying some sort of reverse psychology here? Like,  &#x27;Don&#x27;t hit up any brothels, son! Wink wink, nudge nudge&#x27;?</p>
 <p><em>&quot;Additionally, once you complete five years of consistent service and finish providing the young lady with a solid education in all respects, your contract entitles you to a special reward: a payment covering the cost of tuition for two people to the University of Magic.&quot;</em></p>
 <p>Hrm. I see.</p>
 <p>In other words, once I did my time as a tutor, Paul was going to let me do what I wanted…just as he&#x27;d promised.</p>
@@ -176,11 +176,9 @@ nav_title = "Chapter 11"
 <p><strong>Paul</strong></p>
 <p><strong>&quot;D</strong>-damn, that was close…&quot;</p>
 <p>My son lay unconscious on the ground before my filthy, mudcaked shoes.</p>
-<p>Since this would be my last day teaching him the sword, I&#x27;d decided to put the fear of God in him before I knocked</p>
-<p>him out, but the kid actually snapped off a bunch of spells the instant I made my move. Wasn&#x27;t just a bunch of panicked attacks, either. He was mainly trying to slow me down. And every single time he cast something, it was a different spell.</p>
+<p>Since this would be my last day teaching him the sword, I&#x27;d decided to put the fear of God in him before I knocked him out, but the kid actually snapped off a bunch of spells the instant I made my move. Wasn&#x27;t just a bunch of panicked attacks, either. He was mainly trying to slow me down. And every single time he cast something, it was a different spell.</p>
 <p>&quot;That&#x27;s my son for you, all right. Kid&#x27;s got a knack for battle…&quot;</p>
-<p>Sure, the fight had only lasted a few seconds. But it was a complete surprise attack, and I still needed three steps to take him down. That last one had been especially dangerous. If I&#x27;d hesitated</p>
-<p>even slightly, he would have snared both my legs and taken me out in no time.</p>
+<p>Sure, the fight had only lasted a few seconds. But it was a complete surprise attack, and I still needed three steps to take him down. That last one had been especially dangerous. If I&#x27;d hesitated even slightly, he would have snared both my legs and taken me out in no time.</p>
 <p>Three steps was just too many when you&#x27;re fighting a magician. If he&#x27;d been in a group, one of his allies would have stepped in to protect him by the time I&#x27;d taken my second stride. And if there&#x27;d been just a bit more distance between us, I might have needed four steps.</p>
 <p>For all intents and purposes, the kid got the best of me. You could probably toss him into a party of adventurers right now. He&#x27;d more than pull his own weight in a labyrinth.</p>
 <p>&quot;Guess you&#x27;d expect no less from the prodigy who gave a Water Saint-tier magician an inferiority complex…&quot;</p>

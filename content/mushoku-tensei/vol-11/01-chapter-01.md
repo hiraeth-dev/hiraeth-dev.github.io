@@ -10,7 +10,7 @@ nav_title = "Chapter 1"
 <p><strong>A</strong>FTER A LONG, grueling journey, my sisters Norn and Aisha had finally made it to my house in the city of Sharia. At the moment, they were sitting at the dining table, eating something I&#x27;d quickly tossed together.</p>
 <p>&quot;Any good?&quot; I asked cautiously.</p>
 <p>&quot;Yeah!&quot; called Aisha. &quot;It&#x27;s great!&quot;</p>
-<p>Norn stayed silent. She wasn&#x27;t eating as enthusiastically as her sister, but she hadn&#x27;t grimaced or complained, either. I was no match for Sylphie in the kitchen, but I&#x27;d at <em>least</em> managed to make something edible.</p>
+<p>Norn stayed silent. She wasn&#x27;t eating as enthusiastically as her sister, but she hadn&#x27;t grimaced or complained, either. I was no match for Sylphie in the kitchen, but I&#x27;d at least managed to make something edible.</p>
 <p>Speaking of Sylphie—she&#x27;d left for work a little earlier. She&#x27;d wanted to stick around, but her responsibilities to Princess Ariel had to come first. I&#x27;d chosen to take the day off from school so I could talk things over with my sisters.</p>
 <p>Once they finished their meal, the three of us moved into the living room. Aisha and Norn sat next to each other on the couch, and I took the chair across from them. After serving them tea and letting them relax for a while, I finally decided to broach the main subject.</p>
 <p>&quot;Well, I guess I should have said this earlier, but…it&#x27;s good to see you two. I&#x27;m really glad you made it here safely.&quot;</p>
@@ -22,7 +22,7 @@ nav_title = "Chapter 1"
 <p>&quot;It sounds like you really pulled your weight on the trip up here, Aisha. I&#x27;m impressed.&quot;</p>
 <p>&quot;Naturally. I was very motivated to see you again as quickly as I could, brother dear.&quot; Aisha still wore that calm smile, but something about the way she talked struck me as a little odd.</p>
 <p>&quot;Uh… Look, this is going to be your home starting today. You can relax a little if you want. Be a bit more casual, maybe?&quot;</p>
-<p>&quot;Thank you very much,&quot; Aisha replied. &quot;I appreciate that. But even if we are family, this is still <em>your</em> house. It wouldn&#x27;t be right for me to impose on you without offering anything in return. I was hoping I could provide some help with the household chores, at least.&quot;</p>
+<p>&quot;Thank you very much,&quot; Aisha replied. &quot;I appreciate that. But even if we are family, this is still your house. It wouldn&#x27;t be right for me to impose on you without offering anything in return. I was hoping I could provide some help with the household chores, at least.&quot;</p>
 <p>Yeah, it felt like she was being really…distant. Or maybe just formal. It was actually making me uncomfortable.</p>
 <p>&quot;Incidentally, my dear sister…&quot;</p>
 <p>&quot;Yes, brother dearest?&quot;</p>
@@ -46,8 +46,7 @@ nav_title = "Chapter 1"
 <p>&quot;So what&#x27;s the story, brother dear?&quot; asked Aisha, leaning forward eagerly. &quot;What happened to that Eris girl you were with before?&quot;</p>
 <p>I wasn&#x27;t eager to revisit that topic, but…it made sense they were curious about it. &quot;Well, you see…&quot;</p>
 <p>Smiling awkwardly, I took a few minutes to fill my sisters in on the recent developments in my life. I started off with my return to the Fittoa Region, where I split up with Eris and became an adventurer. I mentioned that I&#x27;d contracted a disease and headed to the University of Magic in hopes of finding a cure. And then I explained that I&#x27;d met Sylphie here, and she&#x27;d managed to cure my illness.</p>
-<p>Of course, I didn&#x27;t specify that the illness was erectile dysfunction, or the means by which Sylphie had cured it. That&#x27;s not the sort of thing you talk about with a pair of ten-year-old girls. I <em>did</em>  make sure to mention Sylphie was in a slightly tricky situation that</p>
-<p>required her to dress as a man in public. Princess Ariel had already given me permission to explain this to anyone who I thought needed to know.</p>
+<p>Of course, I didn&#x27;t specify that the illness was erectile dysfunction, or the means by which Sylphie had cured it. That&#x27;s not the sort of thing you talk about with a pair of ten-year-old girls. I did  make sure to mention Sylphie was in a slightly tricky situation that required her to dress as a man in public. Princess Ariel had already given me permission to explain this to anyone who I thought needed to know.</p>
 <p>To be honest, it might have been smarter not to tell my little sisters about this. They were still just children, after all. But if they were going to be living with us from now on, they&#x27;d inevitably figure out the truth at some point, or at least start to harbor some suspicions. Considering the trouble that could cause down the road, I opted to give them a basic outline of the situation up front.</p>
 <p>&quot;…And that brings us up to the present, I guess.&quot;</p>
 <p>After five minutes or so, I&#x27;d covered all of the most important events.</p>
@@ -65,7 +64,7 @@ nav_title = "Chapter 1"
 <p>&quot;Hm? Ah, thanks.&quot;</p>
 <p>Aisha had frozen in surprise with a ring of keys in her hand. I took them from her and dropped them in my pocket—not that I needed them. Now, time to open the mystery box.</p>
 <p>&quot;Uh, wow…&quot;</p>
-<p>Well, this was a stash, all right. There was a <em>significant</em> amount of money inside, including a dozen or so king&#x27;s dollars, and a small horde of various precious metals. It was hard to appraise their exact value at a glance, but they&#x27;d fetch a pretty penny if I sold them all.</p>
+<p>Well, this was a stash, all right. There was a significant amount of money inside, including a dozen or so king&#x27;s dollars, and a small horde of various precious metals. It was hard to appraise their exact value at a glance, but they&#x27;d fetch a pretty penny if I sold them all.</p>
 <p>This had to be the financial support Paul had mentioned in his letter. If I used it wisely, this would be enough to keep my family afloat for a decade or so. I&#x27;d have to make sure I didn&#x27;t spend it carelessly.</p>
 <p>There were also two sheets of paper attached to the inside of the box&#x27;s lid. I pulled them off and took a look.</p>
 <p>The first was the same letter from Paul that had already reached me a few days earlier. But the second was a message from Lilia. It went into some detail about the current state of Aisha and Norn&#x27;s education and elaborated on what she saw as their &quot;flaws.&quot;</p>
@@ -86,19 +85,19 @@ nav_title = "Chapter 1"
 <p>That said, Paul&#x27;s letter had clearly instructed me to get both of my sisters enrolled in school. The concept of mandatory education wasn&#x27;t really a thing in this world, but even so…</p>
 <p>&quot;Okay, well… I want you to take the entrance exam for the University of Magic, at least. I&#x27;ll make up my mind based on the results.&quot;</p>
 <p>&quot;Huh? Ooh, I get it. Okay! No problem!&quot;</p>
-<p>Aisha&#x27;s smile was full of confidence. She seemed convinced she could score top marks on any test I threw at her. Of course, if she <em>could</em> manage that, then it was probably fine for her to stop attending school. And I&#x27;d be able to justify my decision to our father. &quot;Norn, why don&#x27;t you take the test too, while we&#x27;re at it?&quot;</p>
+<p>Aisha&#x27;s smile was full of confidence. She seemed convinced she could score top marks on any test I threw at her. Of course, if she could manage that, then it was probably fine for her to stop attending school. And I&#x27;d be able to justify my decision to our father. &quot;Norn, why don&#x27;t you take the test too, while we&#x27;re at it?&quot;</p>
 <p>Norn&#x27;s eyes flicked toward me when I spoke, but she didn&#x27;t move her head. This was starting to get to me. Was the kid going to give me the silent treatment for the rest of my life or what?</p>
 <p>&quot;I think I might fail it, though,&quot; she finally murmured after a long pause.</p>
 <p>It felt like the first time she&#x27;d actually spoken to me. Which wasn&#x27;t true at all, of course, but I still felt kind of relieved. It kinda hurt to be ignored, you know?</p>
 <p>&quot;Don&#x27;t worry too much about that, Norn. Anyone can get into this school if they have enough money,&quot; I said.</p>
-<p>&quot;What…? I don&#x27;t want you to <em>buy</em> me a spot!&quot;</p>
+<p>&quot;What…? I don&#x27;t want you to buy me a spot!&quot;</p>
 <p><em>Whoops. Guess I made it sound like I was going to sneak her in through the back door.</em></p>
 <p>&quot;Hey, Norn! You shouldn&#x27;t talk to Rudeus like that!&quot; hissed Aisha.</p>
 <p>&quot;You heard what he said, didn&#x27;t you? He said he&#x27;s going to bribe someone to let me in!&quot;</p>
 <p>&quot;Well, maybe if you could take a test to save your life, he wouldn&#x27;t need to!&quot;</p>
 <p>&quot;Are you calling me stupid?!&quot; shouted Norn, grabbing her sister by the hair.</p>
 <p>Aisha grabbed Norn&#x27;s wrist right back and took a swipe at her face. In the blink of an eye, they were pulling and scratching at each other furiously, but not too effectively.</p>
-<p>In a way, it was almost nice to see such a <em>normal</em> fight between two children. Better than one of them punching the other in the jaw, then straddling them for a brutal pummeling. That said, though a little scrap wasn&#x27;t the worst thing in the world, this one was my fault. I needed to intervene.</p>
+<p>In a way, it was almost nice to see such a normal fight between two children. Better than one of them punching the other in the jaw, then straddling them for a brutal pummeling. That said, though a little scrap wasn&#x27;t the worst thing in the world, this one was my fault. I needed to intervene.</p>
 <p>&quot;Cut it out, you two.&quot; The words came out sharper than I&#x27;d expected. The two of them jerked in surprise and instantly stopped moving their hands.</p>
 <p>&quot;…&quot;</p>
 <p>Norn looked down at the floor again, her expression even more sullen than before. I could see tears gathering in her eyes.</p>
@@ -113,7 +112,7 @@ nav_title = "Chapter 1"
 <p>&quot;Oh, shut up!&quot;</p>
 <p>Norn stomped her way up the stairs. A few seconds later, a door slammed shut up on the second floor.</p>
 <p>This was…going to be tricky, all right. The girl was clearly at a tough age, and she had a prickly personality. I wasn&#x27;t sure how well I was equipped to deal with her.</p>
-<p>&quot;Honestly, Norn never changes,&quot; said Aisha, shrugging her shoulders. &quot;It&#x27;s such a <em>hassle</em>, having to indulge sulky children. Don&#x27;t you agree, Rudeus?&quot;</p>
+<p>&quot;Honestly, Norn never changes,&quot; said Aisha, shrugging her shoulders. &quot;It&#x27;s such a hassle, having to indulge sulky children. Don&#x27;t you agree, Rudeus?&quot;</p>
 <p>We had some issues on this front too, though. This kind of attitude wasn&#x27;t going to help matters at all.</p>
 <p>&quot;Aisha…&quot;</p>
 <p>&quot;Yes?&quot;</p>
@@ -127,7 +126,7 @@ nav_title = "Chapter 1"
 <p>Early that afternoon, I left my two sisters at the house and made a trip to the University of Magic. I made a beeline for the faculty offices, tracked down Vice Principal Jenius, and quickly explained the situation.</p>
 <p>&quot;They were both attending other schools previously, yes? I think they should be able to keep up with the introductory courses, then. It would be best for them to take the exam at their earliest convenience.&quot;</p>
 <p>After a little discussion, we settled on one week from today for the date of their test. They wouldn&#x27;t have much time to study, but that wasn&#x27;t really an issue.</p>
-<p>&quot;I must say, I&#x27;m rather excited to meet them,&quot; Jenius said. &quot;If they&#x27;re <em>your</em> sisters, they must be quite talented.&quot;</p>
+<p>&quot;I must say, I&#x27;m rather excited to meet them,&quot; Jenius said. &quot;If they&#x27;re your sisters, they must be quite talented.&quot;</p>
 <p>&quot;One of them is a bit of a prodigy, but the other&#x27;s just an ordinary girl.&quot;</p>
 <p>&quot;I do hope you&#x27;re not just being modest again. Why, I halfexpect them to both be capable of silent spellcasting.&quot;</p>
 <p>&quot;No, no, nothing of the sort…&quot;</p>
@@ -162,12 +161,12 @@ nav_title = "Chapter 1"
 <p>&quot;I see,&quot; Nanahoshi murmured thoughtfully, staring at my face. &quot;Well, if they&#x27;re your sisters in this world, I imagine they&#x27;re quite adorable.&quot;</p>
 <p>&quot;Wait, are you complimenting my looks or something?&quot;</p>
 <p>&quot;By the standards of our old world, you&#x27;re an objectively handsome man. I don&#x27;t know what you looked like on the other side, but right now, you could pass for an European model. Wouldn&#x27;t you agree?&quot;</p>
-<p>&quot;Uh, I guess.&quot; <em>Wasn&#x27;t expecting that…</em></p>
+<p>&quot;Uh, I guess.&quot; Wasn&#x27;t expecting that…</p>
 <p>I had to watch my step around this girl. In my past life, I might have assumed she had a thing for me. But I wasn&#x27;t a virgin anymore, damn it! I wasn&#x27;t even single! She wasn&#x27;t going to mess with my head that easily.</p>
 <p>&quot;How old are they?&quot; Nanahoshi asked.</p>
 <p>&quot;They&#x27;re both ten, I think.&quot;</p>
 <p>&quot;I see. I&#x27;ve got a little brother about the same age, actually. But I suppose he&#x27;s older than me now, if time&#x27;s passing at the same rate back home…&quot;</p>
-<p>It was hard to tell through the mask, but she sounded nostalgic, probably remembering her life in Japan. Personally, I didn&#x27;t have many pleasant memories associated with the word <em>brother</em>.</p>
+<p>It was hard to tell through the mask, but she sounded nostalgic, probably remembering her life in Japan. Personally, I didn&#x27;t have many pleasant memories associated with the word brother.</p>
 <p>&quot;Well, now you&#x27;ve got me craving pudding,&quot; Nanahoshi muttered.</p>
 <p><em>What? Where did that come from?</em></p>
 <p>&quot;Uh, do you have fond memories of pudding or something?&quot;</p>
@@ -179,16 +178,14 @@ nav_title = "Chapter 1"
 <p>&quot;Excuse me? Are you even hearing yourself right now?&quot;</p>
 <p>&quot;Come on! That was supposed to be a laugh line!&quot;</p>
 <p>Once I gave her the cue, Nanahoshi did chuckle a little, but it sounded kind of forced. Kids these days! No appreciation for the classics.</p>
-<p>At any rate, the girl clearly wasn&#x27;t in any shape to be conducting experiments today. Not that I had time to help out, either. We&#x27;d</p>
-<p>have to resume our research later, once things had calmed down a bit.</p>
+<p>At any rate, the girl clearly wasn&#x27;t in any shape to be conducting experiments today. Not that I had time to help out, either. We&#x27;d have to resume our research later, once things had calmed down a bit.</p>
 <p>***</p>
 <p>Once the school day was over, I met up with Sylphie and we headed home together. I wanted to get her advice about Norn and Aisha. She was much closer to their age, so I was hoping she might have some insight.</p>
 <p>Before I could broach the subject, though, Sylphie spoke up. &quot;Oh, right. Let&#x27;s stop by the market, Rudy. We&#x27;ve got more people in the house now, so we&#x27;re going to need more food.&quot;</p>
 <p>Sounded reasonable enough to me. We made a little detour.</p>
 <p>As soon as we set foot inside the marketplace, the sweet smell of stewing beans hit my nose from all directions. The Commerce District market was always bustling in the evening hours. People tend to think of markets as an early-morning thing, but the ones in this area sold a lot of meat supplied by hunters or adventurers. Hunters had unpredictable schedules, but adventurers tended to spend their days slaying monsters out in the forests or plains. Naturally, the meat they brought back with them in the evenings tended to go on sale at night.</p>
-<p>There wasn&#x27;t much variety in the food available here, and most ingredients were fairly expensive. But the Kingdom of Ranoa and the other Magic Nations were actually better off than most countries in this region; if you could afford it, there was at least meat <em>available</em> here. If you headed out further east, you&#x27;d find countries where there was little fresh food to be had at any price.</p>
-<p>Apart from the market itself, you could also find some jobs for adventurers posted in this area of the city. Most of these involved</p>
-<p>magically freezing fresh meat—jobs popular with younger university students who&#x27;d learned basic magic and needed some pocket change.</p>
+<p>There wasn&#x27;t much variety in the food available here, and most ingredients were fairly expensive. But the Kingdom of Ranoa and the other Magic Nations were actually better off than most countries in this region; if you could afford it, there was at least meat available here. If you headed out further east, you&#x27;d find countries where there was little fresh food to be had at any price.</p>
+<p>Apart from the market itself, you could also find some jobs for adventurers posted in this area of the city. Most of these involved magically freezing fresh meat—jobs popular with younger university students who&#x27;d learned basic magic and needed some pocket change.</p>
 <p>Sylphie and I wandered around, picking out ingredients for dinner. I took the opportunity to fill her in about everything that had happened today.</p>
 <p>&quot;Well, I think you&#x27;re right,&quot; she said. &quot;It sounds like the two of them don&#x27;t get along very well.&quot;</p>
 <p>&quot;I&#x27;m not sure what they&#x27;re thinking, honestly. I guess I don&#x27;t know how to see the world through a kid&#x27;s eyes anymore.&quot;</p>
@@ -202,7 +199,7 @@ nav_title = "Chapter 1"
 <p>&quot;Hmm. Well, maybe you&#x27;re right. We could encourage her to take all sorts of weird classes and see if anything appeals to her…&quot; Sylphie paused thoughtfully and put her hand to her chin, seemingly torn between the options I&#x27;d placed in front of her.</p>
 <p>Then I followed her gaze and realized she was considering two differently priced cuts of ham.</p>
 <p>&quot;Come on, Sylphie. I&#x27;m seriously conflicted about this. At least think it through with me.&quot;</p>
-<p>&quot;I <em>am</em> thinking! But you know, Rudy, I&#x27;m pretty sure you&#x27;re underestimating Aisha a bit. She&#x27;s a very clever girl.&quot;</p>
+<p>&quot;I am thinking! But you know, Rudy, I&#x27;m pretty sure you&#x27;re underestimating Aisha a bit. She&#x27;s a very clever girl.&quot;</p>
 <p>&quot;I know. So what?&quot;</p>
 <p>&quot;Well, I think she&#x27;ll do just fine for herself whether she goes to school or not.&quot;</p>
 <p>&quot;Hmm…&quot;</p>
@@ -215,7 +212,7 @@ nav_title = "Chapter 1"
 <p>&quot;On rails?&quot;</p>
 <p>&quot;Uh, it means we set a path for her to follow, basically.&quot;</p>
 <p>&quot;Ah, okay. Yeah. I think that sounds good.&quot;</p>
-<p>Was it really okay to treat the two of them so differently? Well, Aisha <em>was</em> much further along than Norn right now. Ignoring that fact and treating them <em>exactly</em> the same wouldn&#x27;t make much sense. Recognizing their differences wasn&#x27;t the same as playing favorites.</p>
+<p>Was it really okay to treat the two of them so differently? Well, Aisha was much further along than Norn right now. Ignoring that fact and treating them exactly the same wouldn&#x27;t make much sense. Recognizing their differences wasn&#x27;t the same as playing favorites.</p>
 <p>&quot;Uhm… That said, Rudy, it&#x27;s ultimately your decision. Sorry if I sounded a little bossy.&quot;</p>
 <p>I shook my head. &quot;Nah, you were a big help. I think I know how I want to approach this now.&quot;</p>
 <p>&quot;I won&#x27;t be able to help out that much, though,&quot; Sylphie replied, scratching the back of her ear with a troubled expression. &quot;I&#x27;ve still got my duties with Princess Ariel and all…&quot;</p>
@@ -239,10 +236,10 @@ nav_title = "Chapter 1"
 <p>Instead of responding, I leaned over and planted a kiss on Sylphie&#x27;s cheek, prompting hoots of amusement and a few jeers from all around us. We&#x27;d clearly attracted some attention.</p>
 <p>Blushing red out to the tips of her ears, Sylphie quickly put her sunglasses on.</p>
 <p>Master Fitz was cuter than ever these days.</p>
-<p>After a few minutes, my wife managed to calm down enough so that we could resume our grocery run. We&#x27;d drifted off the main topic at some point, but at least I&#x27;d gotten her advice on the most important short-term problems. With any luck, she&#x27;d hit it off with Norn and Aisha. That would be a <em>big</em> help. I wasn&#x27;t too confident I&#x27;d ever be able to understand the mind of a preteen girl.</p>
+<p>After a few minutes, my wife managed to calm down enough so that we could resume our grocery run. We&#x27;d drifted off the main topic at some point, but at least I&#x27;d gotten her advice on the most important short-term problems. With any luck, she&#x27;d hit it off with Norn and Aisha. That would be a big help. I wasn&#x27;t too confident I&#x27;d ever be able to understand the mind of a preteen girl.</p>
 <p>&quot;Anyway, I might have to lean on you for help with those two sometimes, Sylphie. I&#x27;m not great with girls.&quot;</p>
 <p>&quot;That&#x27;s okay. We&#x27;re married, remember? I&#x27;ll help you out any time you need me.&quot;</p>
-<p>Sylphie&#x27;s smile was downright radiant. It was nice to have such a charming <em>and</em> reliable wife in my life. Of course, she seemed to think Princess Ariel would be lost without her, whereas I&#x27;d be fine on my own. That was…interesting.</p>
-<p>By the same token, though, Sylphie could surely manage just fine without <em>me</em> around. In that respect, at least, things were no longer like the old days.</p>
+<p>Sylphie&#x27;s smile was downright radiant. It was nice to have such a charming and reliable wife in my life. Of course, she seemed to think Princess Ariel would be lost without her, whereas I&#x27;d be fine on my own. That was…interesting.</p>
+<p>By the same token, though, Sylphie could surely manage just fine without me around. In that respect, at least, things were no longer like the old days.</p>
 <p>One week later, Aisha took her entrance exam as scheduled…and earned a perfect score.</p>
 <p><strong>Chapter 2: The Live-In Maid and the Boarding School Student</strong></p>

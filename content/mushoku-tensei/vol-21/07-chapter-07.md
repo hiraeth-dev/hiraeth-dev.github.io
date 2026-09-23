@@ -7,7 +7,7 @@ badge = "CH.7"
 nav_title = "Chapter 7"
 +++
 
-<p><strong>W</strong>E PUT THE AGREEMENT in writing. It spelled out everything that had happened, the whole sordid affair, and it said only Rudeus&#x27;s good character had kept the Blessed Child from harm. It placed the blame with the Millis Church, and stipulated that in accepting liability, the Holy Millis Church would make restitution by comprehensively supporting the activities of the Dragon God Orsted and Rudeus Greyrat. The contract wrapped up with something along the lines of: <em>the pertaining &quot;activities&quot; may involve demons, but shall not extend to any act that violates the laws of Millis</em>.</p>
+<p><strong>W</strong>E PUT THE AGREEMENT in writing. It spelled out everything that had happened, the whole sordid affair, and it said only Rudeus&#x27;s good character had kept the Blessed Child from harm. It placed the blame with the Millis Church, and stipulated that in accepting liability, the Holy Millis Church would make restitution by comprehensively supporting the activities of the Dragon God Orsted and Rudeus Greyrat. The contract wrapped up with something along the lines of: the pertaining &quot;activities&quot; may involve demons, but shall not extend to any act that violates the laws of Millis.</p>
 <p>The two principal culprits, the pope and the cardinal, signed it like it was no big deal. The nervous sweat rolling down the cardinal&#x27;s face was honestly kind of adorable.</p>
 <p>The contract was signed, my hostage returned, and the gathering concluded.</p>
 <p>Apparently, the decision reached by our provisional court would later be reviewed by an evaluation council that would assign liability to all the relevant parties. Whatever that involved, I bet the cardinal would find a way to wriggle out of it. Chasing down the guilty wasn&#x27;t my job. If they weren&#x27;t disciples of the Man-God, they weren&#x27;t my enemies, just annoyances. Also, taking out the cardinal wasn&#x27;t the same thing as wiping out the Demon Expulsionists. I&#x27;d gotten what I came for and sorted out the attack in the garden. Call that a win.</p>
@@ -25,25 +25,24 @@ nav_title = "Chapter 7"
 <p>&quot;Big Brother, you&#x27;re back! And…and oh, Mother Zenith!&quot;</p>
 <p>The two of them told me what had happened. They got word that Claire and Carlisle had left the house early that morning to go to the church headquarters, so they headed to the church headquarters themselves to try and tip me off. By the time they got there, though, it was already too late. The Temple Knights were in an uproar; Claire was at the church. I was there too, trying to get close to Therese. They put two and two together and assumed we&#x27;d run into each other and clashed. At that point, they remembered the orders I&#x27;d given them and went back to Cliff&#x27;s house. They got our things packed for a quick escape, then hid in the back of the house. They planned to get out of the city when night fell.</p>
 <p>&quot;Those Temple Knights showed up a few times, but I sent them on their way this time!&quot; Wendy said. She was doing her job properly now—a small mercy.</p>
-<p>But the cardinal <em>had</em> tried to get to Aisha and Geese. What a nightmare.</p>
+<p>But the cardinal had tried to get to Aisha and Geese. What a nightmare.</p>
 <p>&quot;Anyway, you&#x27;ve got Mother Zenith back. Does that mean…?&quot;</p>
 <p>&quot;Yeah. It&#x27;s all over,&quot; I said. I told Aisha and Geese everything that had happened.</p>
-<p>After I finished, Aisha sighed with admiration. &quot;Big Brother, you&#x27;re like, totally the hero or something,&quot; she said, her eyes sparkling. &quot;Everyone is just screwing everything up then one day, <em>bam</em>, call to</p>
-<p>adventure, a stranger comes to town, then he mysteriously returns where he came from.&quot;</p>
-<p><em>Don&#x27;t be stupid,</em> I thought. <em>I&#x27;m not handsome enough to be the leading man.</em></p>
+<p>After I finished, Aisha sighed with admiration. &quot;Big Brother, you&#x27;re like, totally the hero or something,&quot; she said, her eyes sparkling. &quot;Everyone is just screwing everything up then one day, bam, call to adventure, a stranger comes to town, then he mysteriously returns where he came from.&quot;</p>
+<p>Don&#x27;t be stupid, I thought. I&#x27;m not handsome enough to be the leading man.</p>
 <p>We arranged to take Zenith back to see the Blessed Child the following day. Carlisle and Claire came to Cliff&#x27;s house by carriage to get us, and the five of us, Cliff included, set off together.</p>
 <p>Inside the carriage, I had a chance to talk to Carlisle. He seemed majorly cut up about everything and kept apologizing to me. I wasn&#x27;t interested in pointing fingers. Maybe he could have handled things a bit better, but hey… People make mistakes. The important thing is that you learn from them, so that you can do better in future, right? Besides, I couldn&#x27;t claim to be doing too well on that front. Who was I to start harping on at other people about their screw ups? How was anyone supposed to move forward if you kept digging it up? Not that it was my job to make sure any of them were moving forward.</p>
 <p>Carlisle talked a lot, but Claire didn&#x27;t say anything. Jammed in with the other four of us in the carriage, she stayed silent the whole time.</p>
-<p><em>What&#x27;s she thinking? Should I ask?</em> I wondered. I was still going back and forth on the question as we arrived on church grounds.</p>
+<p>What&#x27;s she thinking? Should I ask? I wondered. I was still going back and forth on the question as we arrived on church grounds.</p>
 <p>After going through some official procedures, we were granted entry into the inner sanctum for the audience. We were escorted to a room that seemed to be the Blessed Child&#x27;s quarters.</p>
 <p>A transparent barrier was set up in the middle of the room just like when I&#x27;d met with the pope. There were also two chairs and a window. Six guards stood at attention under the dim lights.</p>
 <p>Therese wasn&#x27;t there. Maybe she&#x27;d been transferred. Regardless, it looked like the examination would happen with the Blessed Child&#x27;s fanboys standing by. They didn&#x27;t seem hostile. Just a little tense and unwilling to meet my eye.</p>
-<p><em>I&#x27;m not looking for an apology, guys. It&#x27;s your job, I get it,</em> I thought.</p>
+<p>I&#x27;m not looking for an apology, guys. It&#x27;s your job, I get it, I thought.</p>
 <p>Besides, I beat them all unconscious. They&#x27;d started it, and I&#x27;d finished it. We were even. They were probably going to see some professional consequences too, so I was happy to let things go. I hoped I could leave here with us on friendly terms, actually. I didn&#x27;t like the idea of these guys holding a grudge against me.</p>
 <p>&quot;Shall we begin?&quot;</p>
 <p>The Blessed Child and Zenith sat down opposite each other. Dust gently supported Zenith&#x27;s head, positioning her so she was still, her eyes open. Then, the Blessed Child leaned forward and gazed deep into Zenith&#x27;s eyes. It reminded me of an optometrist&#x27;s exam.</p>
 <p>&quot;…Whoa.&quot;</p>
-<p>The Blessed Child&#x27;s gaze <em>shone</em> as she gazed at Zenith<em>.</em> It literally shone. I can&#x27;t think of a better way to put it. Faint threads of light connected them, eye to eye.</p>
+<p>The Blessed Child&#x27;s gaze shone as she gazed at Zenith. It literally shone. I can&#x27;t think of a better way to put it. Faint threads of light connected them, eye to eye.</p>
 <p>The otaku were all oohing and aahing over her.</p>
 <p>&quot;That&#x27;s our Blessed Child…&quot;</p>
 <p>&quot;She really is blessed…&quot;</p>
@@ -75,7 +74,7 @@ nav_title = "Chapter 7"
 <p>The Displacement Incident had really blown our lives apart. It was apparently the aftershock of Nanahoshi arriving in this world, but that didn&#x27;t really matter. It was all over and done with now.</p>
 <p>If humanity hadn&#x27;t made teleportation circles taboo and managed their use responsibly, if they&#x27;d only done that much, they&#x27;d have weathered this crisis without panicking.</p>
 <p><em>I&#x27;ll tell Ariel that next time. Ariel will get things worked out if I write up a report on teleportation for her.</em></p>
-<p><em>…Wait</em>.</p>
+<p>…Wait.</p>
 <p><em>How did Geese find Zenith, then? He told me he went asking around and heard she was in the depths of the teleportation labyrinth…hold on.</em></p>
 <p>&quot;Then, she had a dream,&quot; the Blessed Child said. I refocused.</p>
 <p><em>He&#x27;s not even here right now. You can question Geese later.</em></p>
@@ -93,11 +92,10 @@ nav_title = "Chapter 7"
 <p><em>But does that mean that in Zenith&#x27;s eyes… Did it feel to her like she was talking to everyone, and they were replying?</em></p>
 <p>&quot;Then, there&#x27;s Rudy&#x27;s children. Lucie is the most precious little thing. She&#x27;s still so little, but she&#x27;s doing her best to be a big sister. She listens so carefully to everything Sylphie says, and she practices her magic every day to show Rudy. With me, though, she doesn&#x27;t act so tough. She says she&#x27;s not as strong as her mama. She&#x27;s hard on herself. I told her she has nothing to worry about. One day she&#x27;ll be able to do it all, and even if not, she&#x27;ll find her own talent. After that, she said she&#x27;d do her best. Oh, she&#x27;s so sweet! Lara really likes me. You know she was talking from the moment she was born! She calls me over every little thing. Granny, Granny…she says, then next thing I know Leo comes over saying &#x27;Miss Zenith, help! Miss Lara wet herself!&#x27;</p>
 <p>&quot;Lately, she climbs up on my knees and we sit in the sun with Leo and talk. About the countryside around the house, or about their daddy&#x27;s hometown. That sort of thing.</p>
-<p>&quot;Arus <em>loves</em> breasts. Just like Rudy when he was little. Whenever I pick him up he grabs at mine and he looks <em>so</em> pleased with himself. I suppose even the breasts of an old granny like me will do! He&#x27;s a little bit bad, just like Paul and Rudy. I told him if he&#x27;s going to make all the girls cry like Rudy, he has to make sure they&#x27;re all happy in the end too.&quot;</p>
+<p>&quot;Arus loves breasts. Just like Rudy when he was little. Whenever I pick him up he grabs at mine and he looks so pleased with himself. I suppose even the breasts of an old granny like me will do! He&#x27;s a little bit bad, just like Paul and Rudy. I told him if he&#x27;s going to make all the girls cry like Rudy, he has to make sure they&#x27;re all happy in the end too.&quot;</p>
 <p>I realized my eyes were hot. Tears were streaming down my cheeks. Lucie hardly ever went near Zenith, and Lara couldn&#x27;t talk. More than half of the scenes the Blessed Child described were just Zenith&#x27;s delusions. Hallucinations playing behind her empty eyes. But the world she saw was so kind.</p>
 <p>&quot;Oh, I almost forgot! Rudy started working for this really amazing guy. The Dragon God Orsted, he&#x27;s called. One of the three Demon Slayer Heroes and a distant apprentice of the Dragon God Urupen. He&#x27;s supposed to be suuuper strong and suuuper scary. Everyone seems terrified of him, but he doesn&#x27;t seem so bad to me. I think deep down he just wants to make friends. He&#x27;s hung up on Rudy in particular. He keeps coming to see how our family is getting along. I talk to him sometimes, but he doesn&#x27;t seem very used to talking to people. He gets all tongue-tied. He&#x27;s a good person, though. He teaches Lucie tricks to help her with her magic when she&#x27;s struggling, though they&#x27;re a bit complicated—I don&#x27;t think she understands him very well.</p>
-<p>&quot;Once, I asked if he wanted to hold Lara. He was so nervous about it! But he was very careful when he took her. He&#x27;s not so keen on Leo and Arus though, I think. The other day he made Arus cry, then left without greeting Eris. I wonder what sort of work Rudy is doing for this man who&#x27;s so strong, and yet so kind. Whatever it is, I&#x27;m proud of him. I&#x27;m</p>
-<p>sure Paul would be too.&quot;</p>
+<p>&quot;Once, I asked if he wanted to hold Lara. He was so nervous about it! But he was very careful when he took her. He&#x27;s not so keen on Leo and Arus though, I think. The other day he made Arus cry, then left without greeting Eris. I wonder what sort of work Rudy is doing for this man who&#x27;s so strong, and yet so kind. Whatever it is, I&#x27;m proud of him. I&#x27;m sure Paul would be too.&quot;</p>
 <p><em>How much of that is true? Orsted almost never comes to the house… Is he coming by without telling me?</em></p>
 <p>&quot;Rudy&#x27;s grown up into such a wonderful young man. Norn and Aisha are grown up too now, and Sylphie had her second baby. Lilia was so worried, saying now she had that on top of looking after me! How silly. Obviously, the children come first. I&#x27;m going to visit my mother, so I&#x27;m leaving Sylphie to you, Lilia, okay?</p>
 <p>&quot;Don&#x27;t worry about me. I&#x27;ll be fine. I used to be an adventurer, you know! We&#x27;re going with Rudy and Aisha and Rudy&#x27;s friend Cliff. Hah ha, I&#x27;m getting all excited, thinking about going on a trip with Rudy!&quot;</p>
@@ -109,19 +107,18 @@ nav_title = "Chapter 7"
 <p>The Blessed Child&#x27;s eyes opened.</p>
 <p><em>Is that the end, then?</em></p>
 <p>&quot;Whew,&quot; she said, rubbing her eyes and exhaling, before she collapsed back into her chair. The otaku rushed to her side, one with what looked like hot towels, another with a glass of water. One started massaging her shoulders. It was like she was some ancient empress or something.</p>
-<p>&quot;My apologies. That was all I saw. Did you hear what you wanted?&quot; the Blessed Child asked. She sounded wiped out. <em>Using that power really drains her, huh,</em> I thought.</p>
+<p>&quot;My apologies. That was all I saw. Did you hear what you wanted?&quot; the Blessed Child asked. She sounded wiped out. Using that power really drains her, huh, I thought.</p>
 <p>I guess it would. She&#x27;d read through all Zenith&#x27;s memories, downloaded them into her own brain, then her brain had converted the whole thing into a little simulated Zenith monologue for us. Having all that information rush into your brain at once had to be exhausting.</p>
 <p>For once, I thought maybe I should join the otaku. She deserved that shoulder rub.</p>
 <p>&quot;Yes, thank you,&quot; I replied. I still didn&#x27;t know how to fix Zenith. But now I knew how she&#x27;d felt after becoming like this. Just knowing that made coming to Millis worth it.</p>
 <p>&quot;It may not mean much, but she is happy now,&quot; the Blessed Child said. &quot;She knows that Paul is dead, and she understands what is happening around her.&quot;</p>
-<p><em>She sure does,</em> I thought<em>. She understands a lot more than I ever imagined</em>. It all still felt a bit dreamlike, and the Blessed Child&#x27;s voice had lent it this fairytale quality, but—I mean, she knew how many kids I had, and her description of their personalities had been pretty solid. Except for Lara, maybe. Lara did like Zenith, though. Maybe from Zenith&#x27;s point of view it looked like she was trying to communicate.</p>
+<p>She sure does, I thought. She understands a lot more than I ever imagined. It all still felt a bit dreamlike, and the Blessed Child&#x27;s voice had lent it this fairytale quality, but—I mean, she knew how many kids I had, and her description of their personalities had been pretty solid. Except for Lara, maybe. Lara did like Zenith, though. Maybe from Zenith&#x27;s point of view it looked like she was trying to communicate.</p>
 <p>&quot;There was one more thing I learned,&quot; the Blessed Child said. I looked at her questioningly. &quot;Zenith… I don&#x27;t know how much she sees, but she can read minds.&quot;</p>
 <p><em>Read minds?</em></p>
 <p>&quot;Because of her current condition, she doesn&#x27;t always interpret what she reads correctly, and I think she may be filling in the parts she can&#x27;t read with her own stories…&quot; The Blessed Child&#x27;s voice trailed off.</p>
 <p>She beckoned to me, gesturing to me to bring my ear to her mouth. The otaku all immediately covered their ears and turned away.</p>
 <p>I leaned in toward her. She whispered, &quot;She is a Blessed Child.&quot;</p>
-<p>I nodded slowly. I&#x27;d known from the start that it was likely she was cursed. And I knew all too well that a Cursed Child and a Blessed Child</p>
-<p>were, in essence, one and the same.</p>
+<p>I nodded slowly. I&#x27;d known from the start that it was likely she was cursed. And I knew all too well that a Cursed Child and a Blessed Child were, in essence, one and the same.</p>
 <p>&quot;If this gets out, things will get out of hand again. I recommend you keep it safe,&quot; she said.</p>
 <p>&quot;No question about that,&quot; I agreed. &quot;I&#x27;m a follower of Orsted. I&#x27;ll protect her, no matter what.&quot;</p>
 <p>&quot;Total commitment… That&#x27;s who you are, isn&#x27;t it?&quot;</p>
@@ -137,19 +134,19 @@ nav_title = "Chapter 7"
 <p>&quot;Yes,&quot; said the Blessed Child.</p>
 <p>&quot;Um, see… Thing is, I can&#x27;t take this off. Isn&#x27;t there something else?&quot;</p>
 <p>Orsted at a glance.&quot;</p>
-<p><em>So long as it identifies the bearer as a follower of Orsted at a glance…</em> Does she mean what I think she means…?</p>
+<p>So long as it identifies the bearer as a follower of Orsted at a glance… Does she mean what I think she means…?</p>
 <p>&quot;You want to join Orsted?&quot;</p>
 <p>&quot;I do. I would prefer to live past thirty.&quot;</p>
 <p>&quot;Fair enough.&quot;</p>
-<p><em>That&#x27;s right, her destiny is weak. She&#x27;s fated to die unless something changes</em>. She wasn&#x27;t in the best shape, but she didn&#x27;t seem especially sickly either. That left assassination as the biggest worry. Considering her power and the sheer number of schemes going on in the Millis Church, that was the likeliest cause. If she were under Orsted&#x27;s protection, though, the cardinal (who had a guilty conscience about this whole thing) and the pope (who thought I was on his side now) would find it a lot harder to move against her. Still, it wasn&#x27;t a guarantee.</p>
+<p>That&#x27;s right, her destiny is weak. She&#x27;s fated to die unless something changes. She wasn&#x27;t in the best shape, but she didn&#x27;t seem especially sickly either. That left assassination as the biggest worry. Considering her power and the sheer number of schemes going on in the Millis Church, that was the likeliest cause. If she were under Orsted&#x27;s protection, though, the cardinal (who had a guilty conscience about this whole thing) and the pope (who thought I was on his side now) would find it a lot harder to move against her. Still, it wasn&#x27;t a guarantee.</p>
 <p><em>Heh… All right, then let&#x27;s upgrade it to a guarantee.</em></p>
 <p>&quot;Okay, I&#x27;ll bring you something in the next few days,&quot; I said.</p>
 <p>&quot;Oh, thank you! With that, I might even make it to fifty!&quot; she replied.</p>
 <p>She&#x27;d seriously helped me out at every turn. I wouldn&#x27;t bring her a meager mark of the Dragon God. I&#x27;d summon a guardian beast for her.</p>
 <p>&quot;What about the second thing?&quot; I asked.</p>
 <p>&quot;I want you to get Therese off on a lighter sentence. Unless we do something, she&#x27;s going to be demoted and sent far away.&quot;</p>
-<p>&quot;I mean, doesn&#x27;t she kind of have it coming?&quot; I pointed out. <em>Not only was she &#x27;just following orders&#x27; but she couldn&#x27;t even carry those orders out.</em></p>
-<p>&quot;That&#x27;s not unfair. But you must understand, Rudeus, her loss to you was a rather humiliating defeat for the cardinal. If she is sent away, she will be killed. And I want <em>her</em> in my guard.&quot;</p>
+<p>&quot;I mean, doesn&#x27;t she kind of have it coming?&quot; I pointed out. Not only was she &#x27;just following orders&#x27; but she couldn&#x27;t even carry those orders out.</p>
+<p>&quot;That&#x27;s not unfair. But you must understand, Rudeus, her loss to you was a rather humiliating defeat for the cardinal. If she is sent away, she will be killed. And I want her in my guard.&quot;</p>
 <p>I could see how the cardinal might kill her out of pure spite when she wasn&#x27;t useful anymore. But she stuck to her role as his henchman, and this is what happens to henchmen who fail…</p>
 <p>Still, I couldn&#x27;t deny she&#x27;d done absolutely everything she could for Zenith. Death was a tall price to pay for following orders and being manipulated.</p>
 <p>&quot;All right,&quot; I said.</p>
@@ -164,7 +161,7 @@ nav_title = "Chapter 7"
 <p><em>Is she mad at me for having three wives? Two was bad enough, but three! The Millis Church will never stand for such a thing!</em></p>
 <p>&quot;It&#x27;s regarding the mess I caused.&quot;</p>
 <p>&quot;Okay.&quot;</p>
-<p><em>Huh, so it&#x27;s not about the wife thing. She wants to talk about herself</em>. Fair enough. She wasn&#x27;t about to come chew me out for my life choices after what she tried to pull. That would be ridiculous. Duh.</p>
+<p>Huh, so it&#x27;s not about the wife thing. She wants to talk about herself. Fair enough. She wasn&#x27;t about to come chew me out for my life choices after what she tried to pull. That would be ridiculous. Duh.</p>
 <p>Her expression remained firm as she went on. &quot;I know that what I tried to do was unforgivable.&quot;</p>
 <p>&quot;Yep,&quot; I said.</p>
 <p>It might have been for Zenith&#x27;s sake or whatever, but her treatment plan was way overboard. If she&#x27;d gone through with it, well…let&#x27;s just say we wouldn&#x27;t be chatting as amicably as this.</p>
@@ -173,21 +170,21 @@ nav_title = "Chapter 7"
 <p>&quot;Yes. I stole Zenith from you, and I tried to do something utterly inhuman to her. I should be punished accordingly.&quot;</p>
 <p>&quot;Can&#x27;t you just apologize?&quot;</p>
 <p>&quot;What would that solve? Sins must be punished,&quot; she insisted.</p>
-<p>I saw where she was coming from. If <em>sorry</em> made everything better, there&#x27;d be no need for the police. Pretty much everyone who&#x27;d contributed to that mess had received some sort of punishment. But not Claire. And Claire herself wasn&#x27;t satisfied with that.</p>
+<p>I saw where she was coming from. If sorry made everything better, there&#x27;d be no need for the police. Pretty much everyone who&#x27;d contributed to that mess had received some sort of punishment. But not Claire. And Claire herself wasn&#x27;t satisfied with that.</p>
 <p>&quot;Okay, then… What kind of punishment do you think you deserve?&quot;</p>
 <p>&quot;You could beat me with a whip, or a staff, or cut my arms off. You could even kill me. I don&#x27;t care.&quot;</p>
-<p><em>Um… That&#x27;s a bit much</em>. I didn&#x27;t want to become known as a grandma killer. Plus Zenith would be <em>so</em> mad at me.</p>
+<p>Um… That&#x27;s a bit much. I didn&#x27;t want to become known as a grandma killer. Plus Zenith would be so mad at me.</p>
 <p>&quot;You heard what Zenith said in there. You saw how self-righteous I was, how little thought I gave to anyone else. You saw how she trusted me like a baby, and I was going to throw her into hell. Fools like me don&#x27;t need to be pitied, only to be crushed by the hammer of justice.&quot;</p>
 <p>Her hands were clenched into fists and shaking.</p>
 <p><em>So that&#x27;s what she heard back there. It sounded a little different to me.</em></p>
 <p>Zenith forgave Claire. I don&#x27;t think she knew what Claire planned, but she knew that Claire was suffering over some decision, and she knew it related to her. That was why, when she saw Claire trying to take all the blame herself back at the trial without anyone standing up for her, Zenith had forgiven her. Then, she&#x27;d slapped Carlisle and me, but not Claire.</p>
 <p><em>Okay, maybe I&#x27;m twisting that logic a bit far. That&#x27;s not how it went down either.</em></p>
-<p>Maybe it was right that Claire received some kind of punishment. Claire herself seemed to want punishment more than forgiveness anyway, and she wasn&#x27;t going anywhere until she got it. <em>Fine, then.</em></p>
+<p>Maybe it was right that Claire received some kind of punishment. Claire herself seemed to want punishment more than forgiveness anyway, and she wasn&#x27;t going anywhere until she got it. Fine, then.</p>
 <p>&quot;Well, okay… If you insist…&quot; I said. Claire looked at me nervously.</p>
 <p><em>advantage.</em></p>
 <p>&quot;I want you to convert,&quot; I said.</p>
 <p>&quot;You mean to your religion? You want me to worship demons?&quot;</p>
-<p><em>Crap, that wasn&#x27;t the right word. Not convert. I</em> really <em>don&#x27;t want you joining the Roxy cult. How the heck do I explain this? Oh, well. I guess I can spell it out for her.</em></p>
+<p>Crap, that wasn&#x27;t the right word. Not convert. I really don&#x27;t want you joining the Roxy cult. How the heck do I explain this? Oh, well. I guess I can spell it out for her.</p>
 <p>&quot;No, sorry. That&#x27;s not what I meant. You don&#x27;t have to leave the Millis Church. I mean I want you to leave the Demon Expulsionists.&quot;</p>
 <p>&quot;The whole of the Latria family?&quot;</p>
 <p>&quot;Just you would be fine with me. One of my wives is a demon, so I&#x27;d rather you didn&#x27;t call her &#x27;filthy.&#x27; Also, I&#x27;d like you to recognize my religion and keep your opinions about my family to yourself.&quot;</p>
@@ -199,15 +196,14 @@ nav_title = "Chapter 7"
 <p>&quot;From this day forth, I, Claire Latria, shall be a demon integrationist and do everything in my power to assist that cause. I will trust in you, Rudeus, and make no comment on your religion or your educational methods, nor shall I permit such words from any other.&quot;</p>
 <p>&quot;Thank you…&quot; I replied. &quot;Just don&#x27;t overdo it, okay? Pushing your thoughts on others never goes well.&quot;</p>
 <p>&quot;I understand.&quot;</p>
-<p>If I could get the old bird to be a bit more flexible, then I could rest a whole lot easier. That way, I could know for sure that she wasn&#x27;t going to start any fights with my wives or daughters. She was all obedient now, but what&#x27;s the saying? <em>Vows made in storms are forgotten in calm</em>… When we met again…or rather <em>if</em> we met again, I really didn&#x27;t want to get into</p>
-<p>another argument.</p>
+<p>If I could get the old bird to be a bit more flexible, then I could rest a whole lot easier. That way, I could know for sure that she wasn&#x27;t going to start any fights with my wives or daughters. She was all obedient now, but what&#x27;s the saying? Vows made in storms are forgotten in calm… When we met again…or rather if we met again, I really didn&#x27;t want to get into another argument.</p>
 <p>&quot;That&#x27;s all I have to say,&quot; I said.</p>
 <p>&quot;Thank you for your kindness,&quot; she replied curtly, then nodded.</p>
-<p><em>Could you be any worse at apologizing?</em> I thought. <em>Honestly…</em></p>
-<p>Right, so back to Cliff&#x27;s place. I would probably have to show my face at the Latria estate later, but first I would deal with Geese. I had serious questions—about this trip and the last time we ran into him. When I thought back, I realized that the guy had a real knack for showing up at <em>just</em> the right moment. I was fascinated. He was going to explain that trick to me.</p>
+<p>Could you be any worse at apologizing? I thought. Honestly…</p>
+<p>Right, so back to Cliff&#x27;s place. I would probably have to show my face at the Latria estate later, but first I would deal with Geese. I had serious questions—about this trip and the last time we ran into him. When I thought back, I realized that the guy had a real knack for showing up at just the right moment. I was fascinated. He was going to explain that trick to me.</p>
 <p>&quot;I&#x27;m heading out to go find Geese,&quot; I said to Aisha and Zenith as I went to leave.</p>
 <p>&quot;Big Brother, hold up!&quot; Aisha called out, rushing over to stop me with her hand outstretched. &quot;Look at this!&quot;</p>
-<p>In her hand was a letter. It was sealed with wax, and on the outside was written <em>Rudeus</em>. &quot;Wendy said that as soon as you left, Geese came by and left this!&quot; Aisha explained. I took it without a word. A letter, right at this moment.</p>
+<p>In her hand was a letter. It was sealed with wax, and on the outside was written Rudeus. &quot;Wendy said that as soon as you left, Geese came by and left this!&quot; Aisha explained. I took it without a word. A letter, right at this moment.</p>
 <p>Oh, I had a bad feeling about this.</p>
 <p>I broke the seal and began to read.</p>
 <p><em>Rudeus,</em></p>
@@ -231,9 +227,9 @@ nav_title = "Chapter 7"
 <p><em>That&#x27;s how I saw it after my hometown got wiped off the map.</em></p>
 <p><em>The Man-God manipulated me, then He wiped out my home. And He laughed about it! Told me all about how he&#x27;d played me. Of course I was pissed off! Like, what the fuck, dude?! What is wrong with you? Get screwed! I let him have it, y&#x27;know?</em></p>
 <p><em>But this is what He told me.</em></p>
-<p>&quot;<em>After everything I&#x27;ve done for you, this is nothing.&quot;</em></p>
+<p>&quot;After everything I&#x27;ve done for you, this is nothing.&quot;</p>
 <p><em>I reckon He meant to piss me off more, send me over the edge, you know? Drive me crazy, just so He could laugh at me.</em></p>
-<p><em>But when He said that, it hit me like,</em> wham<em>.</em></p>
+<p>But when He said that, it hit me like, wham.</p>
 <p><em>He&#x27;s right, I thought.</em></p>
 <p><em>Thinking about what I owed Him after all the times He saved my ass, and I figured I could just…let it go. I mean, there&#x27;s a little grudge underneath it all, but that&#x27;s normal, ain&#x27;t it?</em></p>
 <p><em>Anyway, I reckon you don&#x27;t get it, huh Boss? You&#x27;re probably reading this like, &#x27;Newbie, you are out of your mind.&#x27; And maybe it feels wrong to you. But not to me.</em></p>
@@ -241,7 +237,7 @@ nav_title = "Chapter 7"
 <p><em>This time I was testing the waters, seeing what you were capable of. I got you right in my trap, then set the Temple Knights against you. Looks like you blasted straight through them in the end, but hey, now I know what doesn&#x27;t work. You messed up. You showed me every trick you got. I&#x27;m off to get enough allies so I know I can beat you, then I&#x27;ll be back to fight you head-on, fair and square. It&#x27;s war, Boss. Plan your funeral.</em></p>
 <p><em>I don&#x27;t hate you or nothing. We had a good time back at the prison, and I&#x27;ll never forget our journey on the Holy Sword Highway. The labyrinth hunt too! That was the most alive I&#x27;d felt in ages. I haven&#x27;t forgotten any of that.</em></p>
 <p><em>But that&#x27;s as far as it goes. I don&#x27;t hate you, but I don&#x27;t owe you nothing. I might have my little problems with Man-God, but I owe him. Even when there&#x27;s hard feelings, you gotta pay what you owe. That&#x27;s a jinx for both of us, Boss.</em></p>
-<p>&gt; <em>Yours, Geese Nukadia</em></p>
+<p>&gt; Yours, Geese Nukadia</p>
 <p>I sprinted out of the house.</p>
 <p>&quot;Geese!&quot; I yelled as I ran.</p>
 <p>Magic Armor. He said he was getting ready to face me.</p>

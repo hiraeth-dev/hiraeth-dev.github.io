@@ -21,7 +21,7 @@ nav_title = "Chapter 2"
 <p>&quot;People are staring,&quot; Eris remarked as we followed our palace servant guide. I guess we did stand out. All the knights and nobles in their finery turned to gawk at us.</p>
 <p>&quot;Act like you&#x27;re supposed to be here,&quot; I said. This time I was here as a friend of Randolph&#x27;s. I had no reason to feel ashamed.</p>
 <p>Okay, I had one. Orsted was guilty of killing their king. I didn&#x27;t think that was common knowledge, though…</p>
-<p><em>If we get busted, I&#x27;ll get Ariel to help us out,</em> I thought, right as we arrived at Benedikte&#x27;s chambers.</p>
+<p>If we get busted, I&#x27;ll get Ariel to help us out, I thought, right as we arrived at Benedikte&#x27;s chambers.</p>
 <p>&quot;Great. Eris, Zanoba, you&#x27;re both ready?&quot; I said.</p>
 <p>&quot;Yeah.&quot;</p>
 <p>&quot;Of course.&quot;</p>
@@ -44,7 +44,7 @@ nav_title = "Chapter 2"
 <p>&quot;He was named for his father,&quot; Randolph added. &quot;Pax the second.&quot; They&#x27;d given him his dad&#x27;s name. I wondered if he&#x27;d get called Pax Junior or Li&#x27;l Pax or something.</p>
 <p><em>Well, isn&#x27;t that wonderful? I should call my next son Rudeus Junior or something. No, scratch that. I&#x27;d doom him to become a perv.</em></p>
 <p>&quot;I see. A fine name. May he grow up strong and hardy like his father.&quot; Zanoba was cheerful, but he faltered at the terror in Benedikte&#x27;s face. &quot;Ah… It appears I have frightened you, Your Majesty. I apologize. I have always had that effect upon people. Please rest assured I do not mean you any ill.&quot; He stepped back, but the vibe of the room stayed awkward.</p>
-<p><em>Uh-oh</em>.</p>
+<p>Uh-oh.</p>
 <p>&quot;Um,&quot; I began. &quot;Oh, I know. Allow me to introduce my wife.&quot;</p>
 <p>Eris stepped forwards. &quot;I&#x27;m, er, Eris Greyrat…Your Majesty,&quot; she stammered. Nothing from those etiquette lessons had stuck. I&#x27;d chosen the wrong party for this mission. I should have brought Aisha. She knew how to be charming and friendly. But then I&#x27;d be in big trouble if Randolph went on the offensive.</p>
 <p>Benedikte didn&#x27;t reply to Eris. She sat looking at Randolph with a nervous expression. Thus, Randolph was the one who answered.</p>
@@ -61,7 +61,7 @@ nav_title = "Chapter 2"
 <p>&quot;Randolph seems uncomfortable,&quot; I explained. Eris already had him well within range of her blade. On top of that, she was adjusting her position so that I wouldn&#x27;t be caught in between them. The two were shuffling around like warriors sizing each other up, escalating to increasingly dangerous stances. If I let this continue, I could well have a fight on my hands.</p>
 <p>&quot;He might be our enemy,&quot; Eris protested.</p>
 <p>&quot;If he was, he wouldn&#x27;t have let you in here with a sword in your hand.&quot;</p>
-<p>He surely wouldn&#x27;t have allowed Benedikte to be in the room, either. Randolph wouldn&#x27;t fight a Sword King and a magician with his dear charges behind him. He&#x27;d lie in wait for us alone, or with a group of allies. I&#x27;d dismissed Randolph as an enemy from the moment I saw Benedikte. It was <em>possible</em> Benedikte was secretly a warrior, I suppose, but I wanted to believe Randolph would do a far better job of setting a trap than this. He could be playing a <em>really</em> long game and maintaining his cover for now, but if I started thinking like that, there&#x27;d be no end to it. This meeting here and now wasn&#x27;t a trap. For now, I was going to trust him.</p>
+<p>He surely wouldn&#x27;t have allowed Benedikte to be in the room, either. Randolph wouldn&#x27;t fight a Sword King and a magician with his dear charges behind him. He&#x27;d lie in wait for us alone, or with a group of allies. I&#x27;d dismissed Randolph as an enemy from the moment I saw Benedikte. It was possible Benedikte was secretly a warrior, I suppose, but I wanted to believe Randolph would do a far better job of setting a trap than this. He could be playing a really long game and maintaining his cover for now, but if I started thinking like that, there&#x27;d be no end to it. This meeting here and now wasn&#x27;t a trap. For now, I was going to trust him.</p>
 <p>&quot;…Fine,&quot; Eris said at last. She slunk back close to the entrance. Her hand kept a tight grip on her sword.</p>
 <p>&quot;My apologies, Lord Rudeus,&quot; Randolph said.</p>
 <p>&quot;Not at all, I&#x27;m the one who should apologize,&quot; I replied. &quot;I&#x27;m afraid our schedule is quite busy, however…&quot;</p>
@@ -84,7 +84,7 @@ nav_title = "Chapter 2"
 <p>He chuckled. &quot;Ah, how the tables have turned.&quot;</p>
 <p>His confidence put me on the back foot. I chalked it up to Randolph&#x27;s typical banter.</p>
 <p>&quot;Don&#x27;t go saying that until you&#x27;ve got the upper hand,&quot; I retorted.</p>
-<p>&quot;But I <em>do</em>. You&#x27;re here because you need my help, correct?&quot;</p>
+<p>&quot;But I do. You&#x27;re here because you need my help, correct?&quot;</p>
 <p>Damn, that sounded like the upper hand, all right. I had no choice but to listen to his demands. Fine. What sort of ridiculous task was he going to throw at me? Could this be another part of Geese&#x27;s scheme?</p>
 <p>&quot;Worry not, it&#x27;s nothing too arduous,&quot; he said. He stepped out of his position defending Benedikte to one that left her exposed. Benedikte sat there holding the baby with something like fear in her eyes. Of what, I didn&#x27;t know.</p>
 <p>&quot;As I am sure you are all aware, this country has been in an ongoing state of unrest.&quot;</p>
@@ -92,8 +92,7 @@ nav_title = "Chapter 2"
 <p>&quot;We are not directly involved in this unrest. However, some see the queen&#x27;s child as an inconvenience.&quot;</p>
 <p>Aha. He was worried about Pax&#x27;s child. Benedikte was the daughter of the old king. She&#x27;d been treated as if she didn&#x27;t exist; she was wed off to Pax, former prince of the Kingdom of Shirone, so the King Dragon Realm could get rid of her.</p>
 <p>I mean, that wasn&#x27;t such a bad set of facts. A use had been found for an extraneous princess. That was all.</p>
-<p>But after she&#x27;d married Prince Pax, he was killed in a civil war, and as she&#x27;d borne his child, everything looked different. Pax&#x27;s murderers were well underway rebuilding the Kingdom of Shirone. They had their hands full and couldn&#x27;t move against her at present, but their grudge against Pax</p>
-<p>burned as bright as ever. And why shouldn&#x27;t it? The late prince had murdered their beloved royal family.</p>
+<p>But after she&#x27;d married Prince Pax, he was killed in a civil war, and as she&#x27;d borne his child, everything looked different. Pax&#x27;s murderers were well underway rebuilding the Kingdom of Shirone. They had their hands full and couldn&#x27;t move against her at present, but their grudge against Pax burned as bright as ever. And why shouldn&#x27;t it? The late prince had murdered their beloved royal family.</p>
 <p>&quot;Personally, I think they&#x27;ll be swallowed by the Northern empire long before they&#x27;re done rebuilding, but many still have concerns…&quot;</p>
 <p>Royal bloodlines were such a pain. In a country like Shirone, only a legitimate descendant of the previous monarch could ascend the throne. Thus, the current rulers of Shirone wouldn&#x27;t be happy that Pax&#x27;s son had survived. If the Kingdom of Shirone stabilized, they&#x27;d probably show up in a few years demanding Benedikte&#x27;s child. Just a little infanticide as a token of friendship between the Kingdom of Shirone and the King Dragon Realm.</p>
 <p>But Li&#x27;l Pax was still the grandson of the old king of the King Dragon Realm. If a vassal state came up saying, &quot;Hand him over&quot; and they went, &quot;Sure, here you are,&quot; that wouldn&#x27;t reflect well on their reputation. On the other hand, if they didn&#x27;t hand him over, that would sour relations with Shirone.</p>
@@ -102,7 +101,7 @@ nav_title = "Chapter 2"
 <p>The only one who&#x27;d come out worse for wear would be Randolph.</p>
 <p>&quot;They want him dead badly enough to fight Death God Randolph?&quot; I said doubtfully.</p>
 <p>&quot;Many see avoiding war between our two nations a higher priority than avoiding my blade. I believe various other fears are at play, besides… but then, I understand little of politics, and lately I&#x27;ve had my hands full guarding Queen Benedikte. I don&#x27;t know any more than that.&quot;</p>
-<p><em>Makes sense</em>.</p>
+<p>Makes sense.</p>
 <p>Right now, the political heart of the King Dragon Realm was in a state of unrest. There was no way other countries weren&#x27;t looking for a way to exploit that. Even if they couldn&#x27;t openly attack the King Dragon Realm, they could, for example, harass its vassal states. That seemed more than likely.</p>
 <p>If Shirone, their bulwark to the north, then turned against them, well… A lot of people were worrying along those lines, I bet.</p>
 <p><em>Personally, if it were me with Randolph standing ahead, I&#x27;d be more worried about making an enemy of him.</em></p>
@@ -112,8 +111,8 @@ nav_title = "Chapter 2"
 <p>&quot;Scary…&quot;</p>
 <p>Orsted told me that the Death God Randolph Marianne of the Seven Great Powers was well-known in the assassin trade—though you could assume that much from his name. People said if you wound up making an enemy of him, you&#x27;d better kill your employer and make a run for it.</p>
 <p>The ones doing the employing presumably didn&#x27;t know about that.</p>
-<p>I imagined how it felt to be a hapless assassin, coming face-to-face with the Death God. <em>He&#x27;s a terrifying dude, right? I get it, it was like that for me when I challenged Orsted.</em></p>
-<p>&quot;I don&#x27;t object to guests, but if things go on like this, the prince&#x27;s future is…<em>well</em>,&quot; Randolph finished pointedly. Their situation wasn&#x27;t about to improve, no matter how many assassins he cut down. In the end, all they had to look forward to was Shirone&#x27;s demand for the baby.</p>
+<p>I imagined how it felt to be a hapless assassin, coming face-to-face with the Death God. He&#x27;s a terrifying dude, right? I get it, it was like that for me when I challenged Orsted.</p>
+<p>&quot;I don&#x27;t object to guests, but if things go on like this, the prince&#x27;s future is…well,&quot; Randolph finished pointedly. Their situation wasn&#x27;t about to improve, no matter how many assassins he cut down. In the end, all they had to look forward to was Shirone&#x27;s demand for the baby.</p>
 <p>He could refuse, but that would damage his reputation here. If they handed Li&#x27;l Pax over, the kid would probably end up being executed, regardless of the wording of the bargain. No matter how the dice fell, Li&#x27;l Pax wouldn&#x27;t be allowed to live in peace.</p>
 <p><em>Unless…</em></p>
 <p>&quot;Let&#x27;s say I find you a way out. Would I still have no chance of convincing you to join the battle against Geese?&quot;</p>

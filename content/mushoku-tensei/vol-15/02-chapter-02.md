@@ -83,10 +83,10 @@ nav_title = "Chapter 2"
 <p>&quot;Hey, Aisha… is there anything you&#x27;ve been wanting lately?&quot;</p>
 <p>&quot;Huh? Why are you asking?&quot;</p>
 <p>&quot;I was thinking I might buy you a present one of these days. Just a little thank you for all the hard work, you know?&quot;</p>
-<p>&quot;What?! Awww, you <em>shouldn&#x27;t</em>! I&#x27;d feel bad for Norn! Hmm, but I guess I <em>did</em> see a really cute hair clip in the store the other day… Wink, wink.&quot;</p>
+<p>&quot;What?! Awww, you shouldn&#x27;t! I&#x27;d feel bad for Norn! Hmm, but I guess I did see a really cute hair clip in the store the other day… Wink, wink.&quot;</p>
 <p><em>You&#x27;re not actually supposed to say the &#x27;wink, wink&#x27; part out loud, you know. Who did she learn this kind of shamelessness from, anyway? Me? Probably me.</em></p>
 <p>&quot;All right. I&#x27;ll take you out to buy it sometime soon. We&#x27;ll just have to keep it a secret from Norn.&quot;</p>
-<p>Aisha let out an odd little yelp as jumped back and threw her hands up in an exaggerated display of shock. &quot;Are you actually <em>serious</em>, brother dear?! What are you playing at here…? Gasp! Could it be you&#x27;re craving some loving?! Should I be awaiting your arrival in my bedroom tonight, m&#x27;lord? Tee-hee!&quot;</p>
+<p>Aisha let out an odd little yelp as jumped back and threw her hands up in an exaggerated display of shock. &quot;Are you actually serious, brother dear?! What are you playing at here…? Gasp! Could it be you&#x27;re craving some loving?! Should I be awaiting your arrival in my bedroom tonight, m&#x27;lord? Tee-hee!&quot;</p>
 <p>&quot;Okay, enough fooling around. Let&#x27;s go eat before the food gets cold, huh?&quot;</p>
 <p>&quot;Yessir!&quot;</p>
 <p>Together, the two of us headed down to the dining room. Roxy and Norn weren&#x27;t around at the moment, but we had a family meal with everyone else in the house. To me, at least, the food tasted noticeably better than usual.</p>
@@ -94,8 +94,8 @@ nav_title = "Chapter 2"
 <p>After lunch, I returned to the diary.</p>
 <p>With his Magic Armor complete, my future self began to travel the world, searching for a way to reach the Man-God. I met many different people in the course of these journeys, but was frequently distressed by how little information I could find about my enemy.</p>
 <p>Eventually, I hit on the theory that people who&#x27;d been alive for a very long time were more likely to know something about the Man-God, and focused my attention on locating the oldest people in the world. At the same time, I continued to train relentlessly as a mage and develop new spells, gradually growing more powerful than before. In time, I mastered Gravity-Manipulation magic, a variety of Electric spells, and even a kind of magic that manipulated the human voice. I also reached the Saint tier in Healing.</p>
-<p>At some point I came to the conclusion that magic itself was &quot;allpowerful,&quot; and could be used to accomplish <em>anything</em> as long as you &quot;got the knack of it.&quot; Naturally, there was no explanation of what the heck that was supposed to mean. This was also the section of the diary where I&#x27;d recorded my theories about Roxy catching Petrification Syndrome from that mouse, and the Man-God&#x27;s potential responsibility for Sylphie&#x27;s death.</p>
-<p>At a glance, it seemed like I was making progress on many fronts. But as more time passed without <em>any</em> new information about the Man-God, my future self began to grow increasingly bitter and hateful.</p>
+<p>At some point I came to the conclusion that magic itself was &quot;allpowerful,&quot; and could be used to accomplish anything as long as you &quot;got the knack of it.&quot; Naturally, there was no explanation of what the heck that was supposed to mean. This was also the section of the diary where I&#x27;d recorded my theories about Roxy catching Petrification Syndrome from that mouse, and the Man-God&#x27;s potential responsibility for Sylphie&#x27;s death.</p>
+<p>At a glance, it seemed like I was making progress on many fronts. But as more time passed without any new information about the Man-God, my future self began to grow increasingly bitter and hateful.</p>
 <p>At this point in my life, I&#x27;d become a genuinely horrible person. I provoked fights everywhere I went, crushing opponents much weaker than me just so I could sneer at them. I acted on impulse and instinct, even sexually assaulting random women. This sure as hell wasn&#x27;t the kind of man I wanted to become.</p>
 <p>Eris made frequent appearances in these entries as well. She kept popping up along my route as I travelled around the world. Eris was as powerful as ever, and repeatedly defeated me in battle. There was no clear mention of this in the text, but she might have been trying to show me the error of my ways.</p>
 <p>My future self, however, began to think she might be an agent of the Man-God. She was &#x27;interfering&#x27; with my progress, after all. Therefore, she was clearly under his control, and acting to protect his interests. Over time, I grew to hate her for it.</p>
@@ -123,7 +123,7 @@ nav_title = "Chapter 2"
 <p><em>I still can&#x27;t believe it.</em></p>
 <p>There wasn&#x27;t much detail in these entries, but it all matched up with what the old man had told me.</p>
 <p>…Maybe I really did need to marry Eris too. Reading all this made me want to see her end up happy. It was going to take some real courage to take the first step, though. I had vaguely broached the subject with Sylphie, but still…</p>
-<p>Well, the <em>real</em> first step had to be talking it over in detail. Sending the letter would come after that.</p>
+<p>Well, the real first step had to be talking it over in detail. Sending the letter would come after that.</p>
 <p>I decided to push this topic from my mind until Roxy came home tonight, and returned my attention to the diary.</p>
 <p>After Eris&#x27; death, there was a stretch of entries that said nothing particularly useful. I&#x27;d written only brief descriptions of travelling to certain places, meeting certain people, and fighting others. Among those I battled, I noticed some truly fearsome opponents: a Water Emperor here, a North Emperor there. But my victories didn&#x27;t seem to bring me any pleasure, as I hadn&#x27;t even bothered to record any details. Most of the entries were nothing more than a sentence or two, along the lines of: &quot;I killed X today. He didn&#x27;t know anything about the Man-God either.&quot;</p>
 <p>After a fair number of entries like this, there seemed to be another skip forward in time.</p>
@@ -141,8 +141,7 @@ nav_title = "Chapter 2"
 <p><em>I have to kill that bastard, if it&#x27;s the last thing I do…</em></p>
 <p>Well… that was a downer.</p>
 <p>Losing both Zanoba and Aisha in such a horrible way must have been crushing.</p>
-<p>That said, I was slightly curious why my future self hadn&#x27;t tried to locate the rest of my family. Maybe I&#x27;d decided that I had no right to call myself Lucie&#x27;s father. Or maybe Lilia and the others had died as well, and those events just weren&#x27;t recorded in this diary. Norn&#x27;s</p>
-<p>name hadn&#x27;t come up in a very long time, which wasn&#x27;t exactly reassuring…</p>
+<p>That said, I was slightly curious why my future self hadn&#x27;t tried to locate the rest of my family. Maybe I&#x27;d decided that I had no right to call myself Lucie&#x27;s father. Or maybe Lilia and the others had died as well, and those events just weren&#x27;t recorded in this diary. Norn&#x27;s name hadn&#x27;t come up in a very long time, which wasn&#x27;t exactly reassuring…</p>
 <p><em>Okay, let&#x27;s stop speculating.</em></p>
 <p>If it wasn&#x27;t in the diary, it hadn&#x27;t happened. That was how I needed to approach this.</p>
 <p>In any case… it didn&#x27;t seem like Zanoba&#x27;s death was necessarily the Man-God&#x27;s doing, but my future self was blaming everything on him. At this point in my life, I&#x27;d clearly developed a single-minded obsession with taking revenge. I threw myself into the search for the Man-God even more intensely than before, viciously butchering anyone who stood in my way.</p>
@@ -218,7 +217,7 @@ nav_title = "Chapter 2"
 <p>The back cover was scarred and battered—just like the front. Now that I&#x27;d read the whole thing, I could see the meaning in those scratches. They were testaments to the long, painful years I&#x27;d spent carrying this thing around.</p>
 <p>My future self must have jumped back in time immediately after writing that final entry, only to realize that he&#x27;d run out of mana in the process.</p>
 <p>I couldn&#x27;t begin to understand the principles behind using Teleportation magic to travel back in time. That said, I wasn&#x27;t sure why he&#x27;d come back in one great leap. Based on what he&#x27;d written in the diary, it might have been safer to hop back in multiple steps to avoid this mana issue. Was he just too old and tired to realize the benefits of that approach?</p>
-<p>No… it probably hadn&#x27;t even occurred to him that he might not have enough mana for this. The man must have had absolute confidence in his ability to cast <em>any</em> spell.</p>
+<p>No… it probably hadn&#x27;t even occurred to him that he might not have enough mana for this. The man must have had absolute confidence in his ability to cast any spell.</p>
 <p>In any case, this diary simply didn&#x27;t hold all the details I needed on his research. There was no guarantee that the conclusions he&#x27;d drawn were entirely correct, either. He could have misinterpreted those ancient murals, for one thing.</p>
 <p>Come to think of it, I had seen an old mural in the underground levels of Perugius&#x27; fortress. Was that the sort of thing we were talking about there? That one didn&#x27;t seem to have anything to do with Summoning magic…but from the sound of things, there were many others of its kind hidden away all across the world.</p>
 <p>Anyway. For now, I had answers to my most important questions. Now I needed to take action before I ended up going down the same road.</p>

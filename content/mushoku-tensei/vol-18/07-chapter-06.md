@@ -23,7 +23,7 @@ nav_title = "Chapter 6"
 <p>&quot;Heya!&quot;</p>
 <p>I considered stopping her antics, but the male beastfolk we passed greeted us happily, so I decided to keep an eye on things a bit longer instead. Only two years had passed since Linia graduated, so many students here still knew who she was. Some of those about to graduate might even have served as one of her subordinates when she ran the place way back. Perhaps the answer as to what job I could assign her lay somewhere in this mess.</p>
 <p>&quot;Mistress Linia! Haven&#x27;t seen you in a while!&quot;</p>
-<p>While I was lost in thought, one of the boys strolled up to us. <em>Who the hell is this?</em> I felt like I&#x27;d been introduced to this person before, around the time I was a second-year. I couldn&#x27;t recall his name, but I did remember him being top dog of his class.</p>
+<p>While I was lost in thought, one of the boys strolled up to us. Who the hell is this? I felt like I&#x27;d been introduced to this person before, around the time I was a second-year. I couldn&#x27;t recall his name, but I did remember him being top dog of his class.</p>
 <p>&quot;Oh hey, it&#x27;s you! Got some fighting spirit in you, mew?&quot;</p>
 <p>&quot;Sure do!&quot;</p>
 <p>&quot;Good! Keep that up, mew.&quot;</p>
@@ -42,7 +42,7 @@ nav_title = "Chapter 6"
 <p>&quot;You got it, mew. If you wanna claw your way all the way back to the top, you gotta hit the bottom first, mew.&quot;</p>
 <p>The student&#x27;s eyes lit up with the realization of what she was saying, a smile breaking over his face. &quot;Mistress Linia, I knew you had it in ya! I guess I just wasn&#x27;t clever enough to pick up on your plan!&quot;</p>
 <p>&quot;Well, my brain&#x27;s built a lot better than most, mew,&quot; Linia said proudly, tapping her forehead.</p>
-<p>In no time the student was gazing at her with respect and showering her with praise. Once he was finished, he finally left to return to his classroom. <em>Well, I guess it&#x27;s great they get along.</em></p>
+<p>In no time the student was gazing at her with respect and showering her with praise. Once he was finished, he finally left to return to his classroom. Well, I guess it&#x27;s great they get along.</p>
 <p>I kept quiet as we made our way to the research building. The whole way, people continuously paid their respects to Linia. It wasn&#x27;t until we slipped into the building, where no one else was around, that it finally stopped. As we shuffled through the halls, bathed in silence, Linia glanced over her shoulder at me.</p>
 <p>&quot;Boss, just so ya know, that was just me talking tough, mew.&quot;</p>
 <p>&quot;You mean with that underclassman?&quot;</p>
@@ -51,7 +51,7 @@ nav_title = "Chapter 6"
 <p>&quot;There&#x27;s nothing wrong with ambition,&quot; I told her. &quot;But I&#x27;d advise against spitting on the very people you should be grateful to.&quot;</p>
 <p>&quot;Of course, mew. If you think I&#x27;m lying, let&#x27;s go into one of these empty classrooms and I&#x27;ll prove my loyalty, mew. I just ask that you be gentle with me. Mwehehe!&quot;</p>
 <p><em>Hahaha…yeah, no.</em></p>
-<p>I wondered if her talk of clawing her way up was less about trying to outrank me and more like trying to be my personal number one? First by becoming my sex partner, then earning enough affection to be my favorite wife, thereby usurping the ruling triumvirate of Sylphie, Roxy, and Eris. <em>What a crafty little thing!</em> Perhaps she was actually an assassin sent by the Man-God to force my family apart.</p>
+<p>I wondered if her talk of clawing her way up was less about trying to outrank me and more like trying to be my personal number one? First by becoming my sex partner, then earning enough affection to be my favorite wife, thereby usurping the ruling triumvirate of Sylphie, Roxy, and Eris. What a crafty little thing! Perhaps she was actually an assassin sent by the Man-God to force my family apart.</p>
 <p>&quot;Hey,&quot; I said in a low voice. &quot;In these past few years, have you had a guy claiming to be a god show up in your dreams?&quot;</p>
 <p>&quot;What&#x27;s this all of a sudden, mew? Some kinda prophetic dream? I don&#x27;t remember anything like that, mew.&quot;</p>
 <p>&quot;Trying to hide it won&#x27;t do you any favors,&quot; I said, threateningly. After all, in Dragon God court, the suspicious get the guillotine. Not that I was quite that violent.</p>
@@ -78,7 +78,7 @@ nav_title = "Chapter 6"
 <p>&quot;By the way, Master, why is Linia accompanying you today?&quot; Zanoba asked. &quot;I heard you were keeping her as a maid at your house, but…&quot;</p>
 <p>I shrugged. &quot;It&#x27;s a rather long story, actually. I&#x27;m trying to find her a job.&quot;</p>
 <p>&quot;Oh…I see…&quot; His eyes darted back and forth. Maybe he had some idea of what kind of work she could do, but at the same time he didn&#x27;t want to be saddled with Linia.</p>
-<p><em>Don&#x27;t worry. I&#x27;ll take her back with me, I promise.</em> This was a good example of how past misdeeds could bite you in the ass down the line.</p>
+<p>Don&#x27;t worry. I&#x27;ll take her back with me, I promise. This was a good example of how past misdeeds could bite you in the ass down the line.</p>
 <p>&quot;Well, that&#x27;s enough of that,&quot; I said. &quot;Let&#x27;s discuss your research next.&quot;</p>
 <p>&quot;Oh, yes, a splendid idea!&quot;</p>
 <p>After I indirectly made it clear I wasn&#x27;t going to push anything onto him, Zanoba returned to his usual, cheerful self and started discussing the magic armor with me.</p>
@@ -91,7 +91,7 @@ nav_title = "Chapter 6"
 <p>In short, things didn&#x27;t pan out there, either. Cliff had some things he could use some help on, but much like Zanoba, he wasn&#x27;t too fond of Linia. He didn&#x27;t seem keen on having her work with him. Honestly not a big deal: working for him wouldn&#x27;t be earn her enough to repay her loans quickly, anyway. It&#x27;s not like he had vast wealth at his disposal.</p>
 <p>With that out of the way, now what?</p>
 <p>&quot;Couldn&#x27;t you have her help you out with your work?&quot; Cliff suggested when I asked his advice.</p>
-<p><em>My</em> work? As in, help me make it so Orsted was the world&#x27;s master puppeteer rather than the Man-God? Yeah, there was just one little problem there.</p>
+<p>My work? As in, help me make it so Orsted was the world&#x27;s master puppeteer rather than the Man-God? Yeah, there was just one little problem there.</p>
 <p>&quot;I could do that if Sir Orsted didn&#x27;t have that annoying curse,&quot; I said.</p>
 <p>&quot;The curse doesn&#x27;t trigger unless she comes into direct contact with his mana, so it&#x27;ll be fine as long as you don&#x27;t let them meet.&quot;</p>
 <p><em>Oh yeah, that&#x27;s right. Well then maybe…no, absolutely not.</em></p>
@@ -117,7 +117,7 @@ nav_title = "Chapter 6"
 <p>&quot;Wh-what&#x27;s this all about, mew? Y-you two planning to gang up on me-ow?!&quot; Linia squeaked. She had been lounging in the corner of the room, yawning to herself, but the moment she felt our eyes on her, she jolted.</p>
 <p>But how would we go about this? Sure, Linia could effortlessly draw people to her, but we could reel people in more efficiently if we had something to bait them with. And what usually made people come together? Money. Where there were profits to be had, people tended to congregate.</p>
 <p>What about an event with prize money? No point, because the crowd would only be temporary. So, a business then? Though then we would need funds to start out with. I could use my own finances for that, even though that seemed to defeat the purpose, but if I considered it an investment, it didn&#x27;t seem so bad.</p>
-<p><em>Ah! That&#x27;s it!</em> I realized. We could use the people we brought in to help with Orsted&#x27;s work—or mine, rather.</p>
+<p>Ah! That&#x27;s it! I realized. We could use the people we brought in to help with Orsted&#x27;s work—or mine, rather.</p>
 <p>Thinking on it more, it had been exhausting to do everything by myself. Having an organization to provide support sounded quite promising. And not just that—they could take on the simpler jobs for me as well. We could help three or four people at a time, instead of just one. That would make the future easier on Orsted. It was possible the Man-God might try to interfere by manipulating one of our members, so we couldn&#x27;t entrust any of the truly important tasks to them. But since I was under Orsted&#x27;s patronage, it wasn&#x27;t so easy for the Man-God to interfere with any organization I ran from the shadows.</p>
 <p>But what about when I didn&#x27;t have any work to do? Having a bunch of extra mouths to feed would be a big financial drain. I&#x27;d have to hand out work assignments one by one. How should I go about that? Hire them out as temp workers to other places when we didn&#x27;t need them? Nah, Orsted had plenty of money. Perhaps it&#x27;d be best to operate like a general trading company; we could invest in people with talent and make them do all kinds of odd jobs.</p>
 <p>I wondered if Linia would be able to manage all that. My guess was &quot;Not likely.&quot; Someone would have to be hired to support her. Someone good with numbers. I had the perfect person in mind…and I had something else to talk to them about while I was at it. This was perfect.</p>
@@ -145,8 +145,7 @@ nav_title = "Chapter 6"
 <p>I really hoped to recruit some good employees to our new business soon. We needed someone to organize documents and oversee paperwork. Sadly, there was a chance we&#x27;d have to dismiss them if they got hit with Orsted&#x27;s curse, so we had little choice but to hire those who&#x27;d be expendable.</p>
 <p>&quot;These are our current funds.&quot; I handed Linia the equivalent of ten Asuran gold coins, which was more than enough to jumpstart a business in Ranoa Kingdom.</p>
 <p>&quot;W-wow… Y-you&#x27;re really gonna give me this mewch?&quot; Linia&#x27;s eyes lit up as she fixated on the money.</p>
-<p>It was just like casting pearls before swine, or in this case, gold coins before a cat. They had high value, but giving them to an animal oblivious to that value was pointless. Perhaps the takeaway was that trying to teach an impulsive creature the value of money would only</p>
-<p>lead to them impulse spending, so it would be best not to hand over the money at all. At least, that&#x27;s how I interpreted it.</p>
+<p>It was just like casting pearls before swine, or in this case, gold coins before a cat. They had high value, but giving them to an animal oblivious to that value was pointless. Perhaps the takeaway was that trying to teach an impulsive creature the value of money would only lead to them impulse spending, so it would be best not to hand over the money at all. At least, that&#x27;s how I interpreted it.</p>
 <p>&quot;Heh…hehehehe. Boss, I&#x27;ve got your back, mew. With this much cash in hand, I swear I won&#x27;t fail you, mew. This time I won&#x27;t screw things up, mew.&quot;</p>
 <p>Great. Linia&#x27;s eyes had turned into solid dollar signs. Now I was the one feeling anxious. Handing her such a fortune was probably a bad idea, wasn&#x27;t it? I had to leave on an assignment for Orsted shortly. By the time I got back, Linia might have doubled her debt somehow and be relegated to churning a giant hamster wheel in our basement. Or maybe Eris would decide to make her a pet for real and slap some kind of fancy collar or ribbon around her neck.</p>
 <p>I had an idea how to prevent that from happening.</p>
@@ -160,7 +159,7 @@ nav_title = "Chapter 6"
 <p>Aisha stole a couple of glances at Linia. &quot;Do I really have to?&quot;</p>
 <p>After what happened the other day, she probably wasn&#x27;t keen on the idea of working together again. Her reluctance made me worry about Linia&#x27;s ability to gather people, but…hey, even the Rafflesia flower has no trouble gathering insects to it.</p>
 <p>Now… while Aisha was reluctant to honor my request, I had a good reason for entrusting this to her.</p>
-<p>&quot;You absolutely don&#x27;t <em>have</em> to do it,&quot; I said. &quot;But I do think it would be best if you did.&quot;</p>
+<p>&quot;You absolutely don&#x27;t have to do it,&quot; I said. &quot;But I do think it would be best if you did.&quot;</p>
 <p>&quot;Why? Because I was the one who said I wanted to make her a maid to begin with? Or is it because you think it&#x27;s my fault the mood in the house is so gloomy?&quot; Aisha grumbled.</p>
 <p>I knelt down to meet her gaze. She normally looked me in the eye, but today she kept turning away. &quot;That&#x27;s not it,&quot; I told her.</p>
 <p>She pursed her lips.</p>
@@ -170,7 +169,7 @@ nav_title = "Chapter 6"
 <p>&quot;But if we flip that around, we could also say you weren&#x27;t able to properly draw out Linia&#x27;s real talent,&quot; I said.</p>
 <p>&quot;…Yeah. I was the one who taught her the work, so I guess so.&quot;</p>
 <p>&quot;Which means,&quot; I continued, &quot;it was your failure.&quot;</p>
-<p>Aisha&#x27;s eyes widened for a moment, but her expression soon turned indignant. The look in her eyes seemed to say, <em>I haven&#x27;t failed at anything!</em> Perhaps I didn&#x27;t word it well enough.</p>
+<p>Aisha&#x27;s eyes widened for a moment, but her expression soon turned indignant. The look in her eyes seemed to say, I haven&#x27;t failed at anything! Perhaps I didn&#x27;t word it well enough.</p>
 <p><em>Erm, let&#x27;s try this again…</em></p>
 <p>&quot;You see, Aisha, I don&#x27;t think it&#x27;s right to immediately discard someone simply because they did something wrong.&quot;</p>
 <p>Aisha shrugged. &quot;Yeah, I know. I think that part of you is pretty amazing, too.&quot;</p>
@@ -187,13 +186,13 @@ nav_title = "Chapter 6"
 <p>Aisha timidly reached for me. When I opened my arms in turn, she wrapped her arms around me and squeezed tight.</p>
 <p>&quot;Okay,&quot; she said. &quot;If it really means that much to you, I&#x27;ll give it my best.&quot;</p>
 <p>&quot;Thanks.&quot;</p>
-<p>Despite how arrogant I must have sounded, I didn&#x27;t think I was wrong. This would be good for her; surely she&#x27;d learn something hopping into a new line of work with Linia. And that, I thought, was wonderful. <em>Or I want to believe it will be, anyway.</em></p>
-<p>Totally off-topic, but boy had Aisha&#x27;s breasts grown without me noticing. She had to be somewhere around a D-cup. Her back was so tiny, but her chest was so voluptuous. <em>I guess she is what they call busty petite.</em> With a little bit more volume, they&#x27;d be about the same size as Lilia&#x27;s. Not that it mattered, of course. She was my little sister.</p>
+<p>Despite how arrogant I must have sounded, I didn&#x27;t think I was wrong. This would be good for her; surely she&#x27;d learn something hopping into a new line of work with Linia. And that, I thought, was wonderful. Or I want to believe it will be, anyway.</p>
+<p>Totally off-topic, but boy had Aisha&#x27;s breasts grown without me noticing. She had to be somewhere around a D-cup. Her back was so tiny, but her chest was so voluptuous. I guess she is what they call busty petite. With a little bit more volume, they&#x27;d be about the same size as Lilia&#x27;s. Not that it mattered, of course. She was my little sister.</p>
 <p>&quot;Thank you,&quot; said Aisha.</p>
 <p>&quot;No, I should be the one thanking you for listening and letting me explain.&quot;</p>
 <p>&quot;I&#x27;ll do anything you tell me to.&quot; Aisha grinned mischievously pulled away. At least her smile was still the same. She beamed at Linia as well and extended a hand. &quot;Well, there you have it. Let&#x27;s give it our all!&quot;</p>
 <p>&quot;You got it, mew!&quot;</p>
 <p>The girls exchanged a firm handshake. Things hadn&#x27;t gone well the last time they were boss and subordinate, but I hoped they would forget the past and make things work this time.</p>
 <p>Before we finished, I explained the gist of my plan to Aisha as well as my hopes for its future. Then, we adjourned.</p>
-<p>In the meantime, though… <em>I can only pray that I don&#x27;t come home to anything too horrible.</em></p>
+<p>In the meantime, though… I can only pray that I don&#x27;t come home to anything too horrible.</p>
 <p><strong>Chapter 7: A Company Venture</strong></p>

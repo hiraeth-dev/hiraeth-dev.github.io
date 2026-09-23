@@ -46,8 +46,7 @@ nav_title = "Chapter 11"
 <p>&quot;I don&#x27;t know. It seemed normal enough to me.&quot;</p>
 <p>&quot;Well, it was about the same size as the monsters on the Demon Continent, wasn&#x27;t it?&quot;</p>
 <p>&quot;Yeah, I guess you&#x27;re right.&quot;</p>
-<p>The monsters of the Begaritt Continent weren&#x27;t supposed to be comparable to those of the Demon Continent. It <em>was</em> a bit odd that</p>
-<p>the first one we encountered was so large. I&#x27;d been expecting something maybe half this size.</p>
+<p>The monsters of the Begaritt Continent weren&#x27;t supposed to be comparable to those of the Demon Continent. It was a bit odd that the first one we encountered was so large. I&#x27;d been expecting something maybe half this size.</p>
 <p>&quot;Maybe the scorpions are just unusually big?&quot; Elinalise ventured.</p>
 <p>&quot;Sure, maybe. Sometimes you just run into the most dangerous monsters right off the bat, don&#x27;t you?&quot;</p>
 <p>&quot;Not particularly often, I&#x27;d say.&quot;</p>
@@ -78,7 +77,7 @@ nav_title = "Chapter 11"
 <p>I churned the ground where the Sandworm was rooted, chopping it up with blades of hardened sand. It died without even a shriek. A small puddle of fluid formed around the part of its body that had burst from the surface.</p>
 <p>&quot;If they&#x27;ve got caterpillars that big around here, I wonder what the butterflies are like,&quot; I mused.</p>
 <p>&quot;Maybe that&#x27;s what they call the Succubi. They&#x27;re a bit like butterflies of the night, aren&#x27;t they?&quot;</p>
-<p>&quot;Ha ha. Does that mean <em>you</em> started off as a bug yourself, Elinalise?&quot;</p>
+<p>&quot;Ha ha. Does that mean you started off as a bug yourself, Elinalise?&quot;</p>
 <p>&quot;Heh, well…we all have our awkward early years, you know.&quot;</p>
 <p>Hmm. So she wasn&#x27;t denying that she was a Succubus. Now I was curious about her caterpillar years, though. Was she hanging around the school library with a big pair of dorky glasses? Working the fields in a pair of dirty overalls?</p>
 <p>Either way, I had the feeling Cliff would get really excited if he could see a photo. It always tickles a man&#x27;s heart to see an unexpected side of a girl he loves.</p>
@@ -91,28 +90,26 @@ nav_title = "Chapter 11"
 <p>&quot;Given their size and numbers, that&#x27;s definitely an S-rank threat,&quot; Elinalise said.</p>
 <p>&quot;Wow, really? Mind explaining? I&#x27;m a little curious.&quot;</p>
 <p>&quot;Phalanx Ants are one of the most dangerous monsters out there. They&#x27;re known for their insatiable appetite and their ability to consume anything in their path. Those ones are particularly massive too. They must be a species unique to this continent.&quot;</p>
-<p>It seemed Phalanx Ants were mutant versions of a more typical species of army ants. Unlike other ants, they didn&#x27;t establish static colonies but spent their lives in constant motion, eating everything in their path. They did have a number of natural predators, but their sheer numbers made them capable of overwhelming any terrestrial foes—even stray dragons. At certain intervals, they would pause</p>
-<p>their journey to make a temporary nest, where they bred, replenishing their numbers with the next generation. Similar to the behavior of normal army ants.</p>
+<p>It seemed Phalanx Ants were mutant versions of a more typical species of army ants. Unlike other ants, they didn&#x27;t establish static colonies but spent their lives in constant motion, eating everything in their path. They did have a number of natural predators, but their sheer numbers made them capable of overwhelming any terrestrial foes—even stray dragons. At certain intervals, they would pause their journey to make a temporary nest, where they bred, replenishing their numbers with the next generation. Similar to the behavior of normal army ants.</p>
 <p>However, since these were monsters rather than normal animals, they were smarter and more aggressive than the species they&#x27;d developed from. If we started strolling casually along the dune, they would swarm us in the blink of an eye—even if we weren&#x27;t aggressive toward them.</p>
 <p>&quot;None of the individual ants are that powerful. Those ones down there are probably E rank. Maybe D or C for the larger ones.&quot;</p>
 <p>&quot;Well, C rank&#x27;s nothing to scoff at…&quot;</p>
 <p>And from the looks of things, there were thousands and thousands of them. The danger a monster posed wasn&#x27;t evaluated in a vacuum, anyway; you had to consider their tendency to move in groups. Even D- or C-rank monsters would be a rank A threat if you got a dozen of them together. In a group of thousands, they&#x27;d definitely be a high S.</p>
-<p>I&#x27;d played a few video games in my old life where you battled ants three times the size of a human being, but there was no real need for them to be <em>this</em> big. Especially considering how quick and powerful monsters were for their size.</p>
+<p>I&#x27;d played a few video games in my old life where you battled ants three times the size of a human being, but there was no real need for them to be this big. Especially considering how quick and powerful monsters were for their size.</p>
 <p>&quot;Oh! That must be the queen.&quot;</p>
 <p>Elinalise pointed out a particularly large ant among the crowd. It was at least two meters in length, and had the upper body of a female human. Reminded me a bit of a boss in an old RPG I&#x27;d played once.</p>
 <p>In my old world, even the queen army ants were maybe fifteen millimeters in size. These things had to be, what, fifty times larger? That was scary, all right. There were lots of monsters that traveled in large groups here, and they tended to be very good at working together in battle. If I threw out an attack spell, they&#x27;d probably form up into perfect Roman army formations and charge me from all sides. For all we knew, there might even be some with long-range or magical attacks.</p>
 <p>Maybe we&#x27;d stand a chance if I used some massive spell to hit all of them at once? No… If I tried to hurl a nuke that big, it would probably end up hitting us as well.</p>
 <p>&quot;Uh, Rudeus? Why do you look like you&#x27;re getting ready to fight?&quot;</p>
 <p>&quot;What? I&#x27;m not.&quot;</p>
-<p>&quot;Well, you&#x27;re clearly <em>thinking</em> about how you&#x27;d try to kill them.&quot;</p>
+<p>&quot;Well, you&#x27;re clearly thinking about how you&#x27;d try to kill them.&quot;</p>
 <p>Was it really written that clearly on my face? What was I, some kind of battle-hungry barbarian? &quot;Sorry. I was just thinking about how to get away if they noticed us.&quot;</p>
 <p>&quot;All right, then…but we&#x27;re just going to sit here and wait until the whole army marches past, you understand?&quot;</p>
 <p>&quot;Right,&quot; I said with a nod. &quot;Got it.&quot;</p>
 <p>It wasn&#x27;t like I was going to get any EXP for smashing my way through half a million killer ants. Their body parts might be worth something as a raw material, but I couldn&#x27;t imagine dragging those heavy carapaces around in this brutal heat. And our objective was to make it to Rapan as soon as possible, not to make a name for ourselves as ant-slayers.</p>
 <p>This was basically a scouting mission. I needed to remember that.</p>
 <p>It took about an hour of waiting, but eventually the massive army of ants finished marching past our position.</p>
-<p>In the desert, the sun turned red as it set. The sand began to glow crimson, and pools of shadow formed underneath the dunes, transforming the scene from a monotonous sandy brown into a</p>
-<p>striking pattern of vivid red and blacks. It felt like we&#x27;d stepped into a different world.</p>
+<p>In the desert, the sun turned red as it set. The sand began to glow crimson, and pools of shadow formed underneath the dunes, transforming the scene from a monotonous sandy brown into a striking pattern of vivid red and blacks. It felt like we&#x27;d stepped into a different world.</p>
 <p>Still, a desert was a desert. The Sahara back in my old world had probably looked like this in the evening as well.</p>
 <p>&quot;The temperature&#x27;s going down fast,&quot; I observed. &quot;We might be able to make more progress in the night, honestly.&quot;</p>
 <p>&quot;I suppose you&#x27;re right. Let&#x27;s keep moving for now, then.&quot;</p>
@@ -132,12 +129,12 @@ nav_title = "Chapter 11"
 <p>It was a Succubus.</p>
 <p>&quot;Oh, crap! Stone Cannon!&quot;</p>
 <p>I smacked my big, hard rock right into the little seductress. Grimacing in agony, she clutched at her stomach and hopped backward, then turned to flee. I&#x27;d unconsciously dialed back the spell to a non-lethal level. It was hard for me to kill something that looked so human.</p>
-<p>It was time to face the facts: I was <em>not</em> cut out to be a Succubus exterminator. I couldn&#x27;t bring myself to kill the things, and whenever I got a good whiff of their scent…or their pheromones, or whatever…I sort of lost my grip on reality. If I ever found myself in close combat against one, they&#x27;d beat me easily.</p>
+<p>It was time to face the facts: I was not cut out to be a Succubus exterminator. I couldn&#x27;t bring myself to kill the things, and whenever I got a good whiff of their scent…or their pheromones, or whatever…I sort of lost my grip on reality. If I ever found myself in close combat against one, they&#x27;d beat me easily.</p>
 <p>Of course, as long as I had the benefit of distance, I could take them out with a single Stone Cannon shot. If I could see them coming, they weren&#x27;t a threat.</p>
 <p>In terms of combat ability, a Succubus was probably the equivalent of an E-rank monster, but it was usually classified as a C rank instead. Its ability to mesmerize made it powerful.</p>
-<p>Good thing I wasn&#x27;t a virgin anymore. If I didn&#x27;t have those sweet memories of my nights with Sylphie to fall back on, I wouldn&#x27;t stand a <em>chance</em> against those things.</p>
+<p>Good thing I wasn&#x27;t a virgin anymore. If I didn&#x27;t have those sweet memories of my nights with Sylphie to fall back on, I wouldn&#x27;t stand a chance against those things.</p>
 <p>Even in my previous life, I had a soft spot for Succubi. The ones in that world tended to wear a ton of makeup, but that was fine, as long as they never let you see what was really underneath the paint. You just had to let yourself believe the illusion.</p>
-<p>Long story short, it wasn&#x27;t <em>my</em> fault if I got really horny and grabbed Elinalise from behind after we cleared out the last of the Giant Bats. I was a victim of the circumstances.</p>
+<p>Long story short, it wasn&#x27;t my fault if I got really horny and grabbed Elinalise from behind after we cleared out the last of the Giant Bats. I was a victim of the circumstances.</p>
 <p>&quot;Hey! Rudeus? Get a hold of yourself! Use that Detoxification spell already! Gah, stop rubbing yourself against me!&quot;</p>
 <p>&quot;Come on! Please? Just a little? I won&#x27;t even put it in all the way! Why don&#x27;t I just use the back entrance? That doesn&#x27;t count as cheating, right?!&quot;</p>
 <p>&quot;Stop being such an idiot!&quot;</p>
@@ -167,7 +164,7 @@ nav_title = "Chapter 11"
 <p>The raptors were quick, and they had sharp claws, but they weren&#x27;t particularly dangerous. The two of us took out seven of them in a few seconds, cutting their numbers to about ten. The survivors, realizing the danger they were in, backed away from us warily.</p>
 <p>It seemed easiest to mop up the survivors with a single big Earth spell, but—</p>
 <p>&quot;Rudeus! Be careful! Something huge is coming!&quot;</p>
-<p>A group of larger monsters had been sneaking up on us during the fight. They were <em>giant</em> chickens, maybe five meters in height basically feathered dinosaurs. Their crests were an eye-searingly bright shade of red.</p>
+<p>A group of larger monsters had been sneaking up on us during the fight. They were giant chickens, maybe five meters in height basically feathered dinosaurs. Their crests were an eye-searingly bright shade of red.</p>
 <p>Apparently, these things were natural predators of the &quot;velociraptors.&quot; The pack immediately assaulted the lizards, killing most of them and sending the others fleeing frantically. The chickens consumed their victims violently on the spot.</p>
 <p>&quot;That&#x27;s got to be a variety of Garuda…&quot;</p>
 <p>On its own, a Garuda was considered a C-rank monster, but those that moved in packs were usually classified as B-rank threats. These ones were unusually large to boot. We were probably in Arank territory here. Since their battle with the raptors was happening some distance from us, though, the oversized chickens were content to throw a few threatening cries at us rather than attacking.</p>
@@ -180,7 +177,7 @@ nav_title = "Chapter 11"
 <p>Rather than relying on our provisions, we decided to cook and eat the dead raptor that very night. We still had plenty of food, but any adventurer worth their salt tried to supplement their supplies when they could.</p>
 <p>Today had taught us that the desert was a very different place at night. Once the sun went down, the monsters had just kept coming. If we&#x27;d stopped to fight the Garuda, we&#x27;d probably have found ourselves facing down a new threat only minutes later.</p>
 <p>Elinalise speculated that the Succubus&#x27; pheromones had attracted the other creatures to that spot. The scent was sweet to males and intolerably foul to females. It was hard to say if that applied to monsters too, but perhaps they&#x27;d learned that there was prey to be found when they followed that odor.</p>
-<p>And of course, the Succubi targeted human males…which meant that groups of people would naturally attract swarms of monsters in this desert. The first Succubus we&#x27;d encountered hadn&#x27;t brought any Giant Bats or other creatures with it, but there <em>had</em> been a magical barrier protecting that area. Maybe that Succubus had just managed to slip inside alone, somehow.</p>
+<p>And of course, the Succubi targeted human males…which meant that groups of people would naturally attract swarms of monsters in this desert. The first Succubus we&#x27;d encountered hadn&#x27;t brought any Giant Bats or other creatures with it, but there had been a magical barrier protecting that area. Maybe that Succubus had just managed to slip inside alone, somehow.</p>
 <p>Oh, crap. What if it was a friend of Orsted&#x27;s or something?</p>
 <p><em>N-nah, that can&#x27;t be right… it wouldn&#x27;t have just attacked me, in that case. It would have asked if I knew him or something, right?</em></p>
 <p>Hold on, though. What if it was all just a big cultural misunderstanding? What if that was just how a Succubus said hello? In Japan, people like to get to know someone by taking a bath with them. Foreigners could never seem to wrap their heads around that one. Maybe this was something similar.</p>
@@ -193,7 +190,7 @@ nav_title = "Chapter 11"
 <p>In terms of the encounter rate, this place seemed even worse than the Demon Continent. Hopefully we hadn&#x27;t screwed up and landed ourselves on the Divine Continent by mistake or anything.</p>
 <p>&quot;Well, we&#x27;re managing all right for now, and that&#x27;s what matters.&quot;</p>
 <p>&quot;Sure. Doesn&#x27;t mean we can get careless, though.&quot;</p>
-<p>&quot;I don&#x27;t need <em>you</em> to tell me that, dear. Still, if we can keep doing what we did today, we should be able to deal with anything that attacks us.&quot;</p>
+<p>&quot;I don&#x27;t need you to tell me that, dear. Still, if we can keep doing what we did today, we should be able to deal with anything that attacks us.&quot;</p>
 <p>&quot;Just make sure you&#x27;re ready to deal with it if a Succubus gets me again, okay?&quot;</p>
 <p>&quot;How about you be a little more careful?&quot;</p>
 <p>Our first day in the desert was finally over. It had felt more like a week, honestly.</p>

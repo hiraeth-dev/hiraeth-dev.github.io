@@ -9,7 +9,7 @@ nav_title = "Chapter 4"
 
 <p><strong>T</strong>HERE&#x27;S AN OLD SAYING: &quot;When you swallow poison, don&#x27;t forget the plate.&quot; In other words, if you&#x27;ve been poisoned you might as well eat the plate that came with it. This proverb was from an era where it was normal to use hard bread in place of a plate. You put meat—or whatever the main dish was—on top to give it flavor, then tore it up and dipped it in soup to soften it before you ate it. &quot;Don&#x27;t forget the plate,&quot; therefore, meant &quot;finish your meal.&quot; Eat everything you&#x27;re given, even if it&#x27;s poison. Everything&#x27;s a gift.</p>
 <p>Yeah, I&#x27;m just bullshitting.</p>
-<p>What it <em>actually</em> means is if you&#x27;re going to die anyway, you might as well get a little adventurous. It&#x27;s quite a positive message. You usually don&#x27;t eat <em>plates</em>, after all. The idea is that if the poison kills you or the porcelain shredding your stomach does it, it&#x27;s the same difference. Might as well live a little.</p>
+<p>What it actually means is if you&#x27;re going to die anyway, you might as well get a little adventurous. It&#x27;s quite a positive message. You usually don&#x27;t eat plates, after all. The idea is that if the poison kills you or the porcelain shredding your stomach does it, it&#x27;s the same difference. Might as well live a little.</p>
 <p>I made that up too, obviously.</p>
 <p>Anyway! At that moment, I was in the building Aisha had set up as the mercenary office. It was in the Merchant District, underneath a closeddown bar. I was surrounded by barrels of preserved food and rows of black coats yet to be processed. The teleportation scroll had brought me here—a bidirectional teleportation circle I&#x27;d set up just in case something like this happened.</p>
 <p>Sitting in front of me was a woman. She always put on a cutesy little girl act, but in reality she was probably over twenty years old.</p>
@@ -18,7 +18,7 @@ nav_title = "Chapter 4"
 <p>&quot;Whatever do you mean?&quot;</p>
 <p>&quot;Appearing at that critical moment, then not even trying to run away…&quot; When I thought about it, the timing of her entrance had been perfect. It was like she&#x27;d been lying in wait so that she could politely cooperate with my kidnapping scheme.</p>
 <p>&quot;I happened to step out then, that&#x27;s all,&quot; she replied. &quot;No one told me about that terrible fight… When I came out and everything was all covered in mist it gave me quite the scare.&quot;</p>
-<p><em>You made up your mind pretty quick for someone who</em> happened <em>to step out then.</em></p>
+<p>You made up your mind pretty quick for someone who happened to step out then.</p>
 <p>&quot;You&#x27;re lying.&quot;</p>
 <p>&quot;Oh, yes. The truth is, I looked into the memories of one of my minders and learned what Therese and the others were going to do to you. That&#x27;s why I came outside.&quot;</p>
 <p>&quot;Huh… You were coming to rescue me?&quot;</p>
@@ -26,11 +26,10 @@ nav_title = "Chapter 4"
 <p>The moment she made eye contact with someone, she could see their memories. It was impressive that she&#x27;d found my eyes through the Magic Armor, but maybe that was a part of the power. It wasn&#x27;t like I understood Zanoba&#x27;s uncanny ability, either.</p>
 <p>&quot;I am on your side,&quot; she said. &quot;I want to help you.&quot;</p>
 <p>I didn&#x27;t reply. Instead, I pointed a finger at her.</p>
-<p><em>When you swallow poison, don&#x27;t forget the plate</em>. I&#x27;d already kidnapped her, so I was already screwed. No more plans. We&#x27;re doing this.</p>
+<p>When you swallow poison, don&#x27;t forget the plate. I&#x27;d already kidnapped her, so I was already screwed. No more plans. We&#x27;re doing this.</p>
 <p>I had two cards left to play. Myself and this girl. Let&#x27;s imagine the worst-case scenario.</p>
-<p>The pope, the cardinal, Therese, and Claire were all my enemies. Working as agents of the Man-God, they&#x27;d already taken Cliff, Aisha, and Geese prisoner. In the half-hour or so since I took the Blessed Child, the Temple Knights were already moving. My assumption that no one had seen me teleport was wrong—someone <em>had</em> seen me—and the Temple Knights were headed here now. I hadn&#x27;t had time to set up a transport circle for the Magic Armor Version One, so I&#x27;d cast Quagmire to bury it in the garden for the time being, but the Temple Knights had already dug it out and carted it away.</p>
-<p>That would be about as bad as it could get. Bad enough that if things actually turned out that way, I&#x27;d be screwed… I had to find a way out of it</p>
-<p>with just two cards—my own fighting abilities and the Blessed Child.</p>
+<p>The pope, the cardinal, Therese, and Claire were all my enemies. Working as agents of the Man-God, they&#x27;d already taken Cliff, Aisha, and Geese prisoner. In the half-hour or so since I took the Blessed Child, the Temple Knights were already moving. My assumption that no one had seen me teleport was wrong—someone had seen me—and the Temple Knights were headed here now. I hadn&#x27;t had time to set up a transport circle for the Magic Armor Version One, so I&#x27;d cast Quagmire to bury it in the garden for the time being, but the Temple Knights had already dug it out and carted it away.</p>
+<p>That would be about as bad as it could get. Bad enough that if things actually turned out that way, I&#x27;d be screwed… I had to find a way out of it with just two cards—my own fighting abilities and the Blessed Child.</p>
 <p>&quot;Blessed Child,&quot; I said, &quot;before I trust you, I have some questions.&quot;</p>
 <p>&quot;Naturally,&quot; she replied.</p>
 <p>If I was going to make this work, I needed to question the Blessed Child. I could decide whether I could rely on her later—right now, I needed information.</p>
@@ -43,7 +42,7 @@ nav_title = "Chapter 4"
 <p>&quot;Yes. Things that are on their mind, and the associated memories. Only a little, though.&quot;</p>
 <p>&quot;What&#x27;s the difference between that and reading minds?&quot;</p>
 <p>&quot;The difference is that I only see the past. Though if I maintain eye contact, I can go back as far as their memories extend.&quot;</p>
-<p><em>So it&#x27;s less that she sees into their memories than that she sees bits of their past that relate to whatever they&#x27;re thinking about</em>.</p>
+<p>So it&#x27;s less that she sees into their memories than that she sees bits of their past that relate to whatever they&#x27;re thinking about.</p>
 <p>&quot;You only see it?&quot; I confirmed.</p>
 <p>&quot;That is correct.&quot;</p>
 <p>&quot;Say a person lost their mind. Could you bring them back to themselves?&quot;</p>
@@ -59,10 +58,10 @@ nav_title = "Chapter 4"
 <p>I didn&#x27;t reply.</p>
 <p>&quot;Goodness, Sir Orsted has a curse like that…ah, the Man-God… their first words were…oh, dear!&quot; The Blessed Child&#x27;s face suddenly turned red.</p>
 <p><em>What, did you see something dirty? Don&#x27;t you see that stuff all the time in inquisitions? You must get a good look every time a Millis priest sleeps around.</em></p>
-<p>&quot;Two at once, dear me…<em>two</em>, yet still love…oh…oh, an altar… wait…oh!&quot; She was sweating and out of breath.</p>
+<p>&quot;Two at once, dear me…two, yet still love…oh…oh, an altar… wait…oh!&quot; She was sweating and out of breath.</p>
 <p><em>Saw something you shouldn&#x27;t have, hmm?</em></p>
 <p>&quot;What did you see?&quot; I inquired.</p>
-<p>&quot;Heres—&quot; She coughed. &quot;Ah, I mean, I see those not of the Millis faith have rather extreme…that is to say, <em>different</em> rituals, to ours…&quot;</p>
+<p>&quot;Heres—&quot; She coughed. &quot;Ah, I mean, I see those not of the Millis faith have rather extreme…that is to say, different rituals, to ours…&quot;</p>
 <p>&quot;You just saw the core of my soul.&quot;</p>
 <p>&quot;I-I see,&quot; she said, flattening the hem of her skirt and drawing back from me a little.</p>
 <p><em>Relax. Maybe the Roxy faith isn&#x27;t as pure as yours here in Millis, but it&#x27;s still a pretty nice shade of blue. You won&#x27;t find any ero doujin stuff here.</em></p>
@@ -91,26 +90,25 @@ nav_title = "Chapter 4"
 <p>&quot;The Temple Knights aren&#x27;t dumb, and they&#x27;re not incompetent either,&quot; I said. &quot;For all I know they arrested Aisha and already got this location out of her. Hell, they wouldn&#x27;t even have to do that. If they were keeping an eye on me, they&#x27;ll come looking here right away. They could charge in and rescue you while I&#x27;m off making my demands at the church headquarters.&quot;</p>
 <p>&quot;Then clearly you should take me with you when you make your demands.&quot;</p>
 <p>&quot;Bold move, but if they ambush us on the way it could turn into an all-out battle.&quot;</p>
-<p>&quot;Surely <em>you</em> could take down the lot of them? You held your own against the likes of Sir Orsted and Auber, did you not?&quot;</p>
+<p>&quot;Surely you could take down the lot of them? You held your own against the likes of Sir Orsted and Auber, did you not?&quot;</p>
 <p>She&#x27;d seen that too? Sure, it was possible that I could hold off the Temple Knights. Not to brag, but I&#x27;ve done my fair share of mowing down small-timers. You could call me Rudeus &quot;camp the noobs&quot; Greyrat. Back in the garden battle, I took care to hold myself back, but if I&#x27;d been fighting to kill, they wouldn&#x27;t have stood a chance.</p>
 <p>&quot;Besides,&quot; she continued, &quot;if we were attacked, it would be by papalists, not the Temple Knights.&quot;</p>
 <p>&quot;How d&#x27;ya figure?&quot;</p>
-<p>&quot;The Temple Knights won&#x27;t do anything that could risk my death. The pope, on the other hand, would be delighted if I <em>just happened</em> to die.&quot;</p>
-<p>If you asked them, of <em>course</em> the papalists protected the Blessed Child. If there <em>happened</em> to be a fight and she <em>happened</em> to get killed in the crossfire, however…that would only be good news for them.</p>
+<p>&quot;The Temple Knights won&#x27;t do anything that could risk my death. The pope, on the other hand, would be delighted if I just happened to die.&quot;</p>
+<p>If you asked them, of course the papalists protected the Blessed Child. If there happened to be a fight and she happened to get killed in the crossfire, however…that would only be good news for them.</p>
 <p>&quot;What if the Temple Knights use barrier magic or something to steal you back without risking you getting hurt?&quot;</p>
 <p>&quot;You just defeated the best fighters in the Temple Knights. It&#x27;s not their style to repeat a failing strategy. They wouldn&#x27;t take the risk.&quot;</p>
 <p><em>The guys from before were their best fighters…? I mean they coordinated well, but seriously…? No come on, that&#x27;s not fair. They were good enough to keep firing magic at me even while dodging my Stone Cannons. And that guy didn&#x27;t hesitate when he tried to go up against my Magic Armor with a sword.</em></p>
 <p>Assuming they were, on average, Advanced-level Sword God Style and Advanced-level Water God Style, with intermediate attack magic, intermediate barrier magic, and intermediate healing magic, they were a seriously elite and versatile team. There was a bit of individual variation to account for, but their seamless coordination against me was a testament to their overall caliber. Okay, Therese was a class below the others, but she&#x27;d been a capable commander. I was pretty sure that I could have held my own even without the Version One, but they would&#x27;ve had a real shot. I&#x27;d still taken out their best guys, though, so maybe she was right…</p>
-<p><em>Hold up, we&#x27;re only talking about the</em> Temple <em>Knights here.</em></p>
+<p>Hold up, we&#x27;re only talking about the Temple Knights here.</p>
 <p>&quot;Aren&#x27;t there Missionary Knights and Sanctuary Knights as well?&quot; I asked.</p>
 <p>&quot;Those orders serve the Holy Country of Millis,&quot; replied the Blessed Child. &quot;They don&#x27;t get involved in the petty quarrels of the church. Besides, the Missionary Knights are out of the country at present.&quot;</p>
-<p><em>They&#x27;re not even here?</em> I was starting to feel like I might have a chance. I&#x27;d show them my hostage and engage them in fair and honest negotiations.</p>
+<p>They&#x27;re not even here? I was starting to feel like I might have a chance. I&#x27;d show them my hostage and engage them in fair and honest negotiations.</p>
 <p><em>After this sudden, violent attack I, the almighty Rudeus, follower of Orsted, have taken offense. Though I would be within my rights to draw and quarter the Blessed Child and cast down the light of the Holy Church of Millis, I shall be merciful. If you comply with my demands and apologize directly, I shall forgive you, and spare the Blessed Child&#x27;s life.</em></p>
-<p>Work in progress, we&#x27;ll go with that. While I negotiated, I&#x27;d get the Blessed Child to work out who&#x27;d betrayed me and the identities of the Man-God&#x27;s disciples. It was possible that some of this would come and bite me in the ass later, but assuming the negotiations themselves went smoothly, I was confident we could get out of the country unscathed. The mercenary band would probably have to wait. That was fine. I&#x27;d come back in a few years, once Cliff had established himself as a major player, and we&#x27;d talk then. I&#x27;d have to keep an eye on things, though. If, for example, it turned out that the pope was a disciple of the Man-God, I&#x27;d</p>
-<p>have no choice but to tear Cliff away from his ambitions in Millis. It wouldn&#x27;t be fair to him, but sometimes life <em>is</em> unfair.</p>
+<p>Work in progress, we&#x27;ll go with that. While I negotiated, I&#x27;d get the Blessed Child to work out who&#x27;d betrayed me and the identities of the Man-God&#x27;s disciples. It was possible that some of this would come and bite me in the ass later, but assuming the negotiations themselves went smoothly, I was confident we could get out of the country unscathed. The mercenary band would probably have to wait. That was fine. I&#x27;d come back in a few years, once Cliff had established himself as a major player, and we&#x27;d talk then. I&#x27;d have to keep an eye on things, though. If, for example, it turned out that the pope was a disciple of the Man-God, I&#x27;d have no choice but to tear Cliff away from his ambitions in Millis. It wouldn&#x27;t be fair to him, but sometimes life is unfair.</p>
 <p>&quot;If the other knight orders concern you, I suggest you act sooner rather than later. If they did arrest one of your friends, the longer we wait the more likely it is that something terrible will happen.&quot;</p>
 <p>&quot;Agreed.&quot;</p>
-<p>Only an hour had passed since I&#x27;d kidnapped the Blessed Child. The worst-case scenario was that Aisha and Geese were already under arrest, but there was no way the knights had had time to find them both, arrest them, <em>and</em> torture them yet. Still, the longer I hid, the more desperate they would become. People do crazy things when they&#x27;re desperate.</p>
+<p>Only an hour had passed since I&#x27;d kidnapped the Blessed Child. The worst-case scenario was that Aisha and Geese were already under arrest, but there was no way the knights had had time to find them both, arrest them, and torture them yet. Still, the longer I hid, the more desperate they would become. People do crazy things when they&#x27;re desperate.</p>
 <p><em>Okay. The next bit is going to be a gamble. If this goes wrong, someone is going to die along with the Blessed Child. I have to be ready for that.</em></p>
 <p>I wanted to feel ready, but I didn&#x27;t. What I wanted was a trump card to store up my sleeve.</p>
 <p>&quot;Hey,&quot; I said.</p>
@@ -118,7 +116,7 @@ nav_title = "Chapter 4"
 <p>&quot;Why are you helping me, anyway? How come you just stood by and let me kidnap you?&quot;</p>
 <p>The Blessed Child gazed at me, puzzled, then she smiled softly. Now that was a smile befitting the symbol of the Millis Church.</p>
 <p>&quot;I owe my life to you and the warrior of the Superd tribe,&quot; she replied.</p>
-<p><em>Did she see that in my memories? Or did she look into Eris&#x27;s memories last time? Impossible to say, but it</em> was <em>Ruijerd and me who brought Eris to Millis last time.</em></p>
+<p>Did she see that in my memories? Or did she look into Eris&#x27;s memories last time? Impossible to say, but it was Ruijerd and me who brought Eris to Millis last time.</p>
 <p>I was skeptical all the same—her answer was too much like what I wanted to hear.</p>
 <p>&quot;Does that not convince you? Then how about this: I was angry angry to see my new friend and my most trusted servants forced to kill one another.&quot;</p>
 <p><em>Hm…</em></p>
@@ -149,28 +147,27 @@ nav_title = "Chapter 4"
 <p>&quot;It&#x27;s the Blessed Child…&quot;</p>
 <p>&quot;Rudeus brought the Blessed Child!&quot;</p>
 <p>&quot;Call for reinforcements!&quot;</p>
-<p>More and more and more of them emerged from the church, and from the city around us. In a moment, we were surrounded. How was I</p>
-<p>gonna pull this off?</p>
+<p>More and more and more of them emerged from the church, and from the city around us. In a moment, we were surrounded. How was I gonna pull this off?</p>
 <p>&quot;Sir Rudeus,&quot; said the Blessed Child, &quot;whatever you do, don&#x27;t let go of me.&quot;</p>
 <p>I didn&#x27;t reply. She was my lifeline. I kept my grip on her arms.</p>
 <p>None of the Temple Knights had their swords out, but they sounded pretty upset. They weren&#x27;t gonna risk hurting her. Just like the Blessed Child had said.</p>
 <p>&quot;How could you treat her with such violence!&quot;</p>
 <p>&quot;By taking the Blessed Child hostage you bring shame upon all believers in Millis! You won&#x27;t get away with this!&quot;</p>
 <p>&quot;Rudeus, you bastard…even I&#x27;ve never laid hands on the Blessed Child…&quot;</p>
-<p><em>That&#x27;s um, an interesting thing to be mad about,</em> I thought. Before I could even get a word in, everyone had assumed that the Blessed Child was my hostage. Okay, well, not wrong. After knocking out her guard and spiriting her away, what else were they supposed to think? Maybe whoever was behind all this knew how it&#x27;d look.</p>
+<p>That&#x27;s um, an interesting thing to be mad about, I thought. Before I could even get a word in, everyone had assumed that the Blessed Child was my hostage. Okay, well, not wrong. After knocking out her guard and spiriting her away, what else were they supposed to think? Maybe whoever was behind all this knew how it&#x27;d look.</p>
 <p>&quot;Captain, let&#x27;s get him! After his fight with the Keepers of Anastasia he can&#x27;t have much magic left,&quot; said one knight.</p>
 <p>&quot;Not yet—he must have enough in reserve to kill the Blessed Child,&quot; cautioned another.</p>
 <p>The first replied, &quot;No problem. If we all attack together, he&#x27;ll save his own skin before he tries to harm her.&quot; That one kept trying to rile the others up. Was this the mastermind&#x27;s agent?</p>
 <p>&quot;Who does he serve?&quot; I asked, keeping my voice low. &quot;The Man-God?&quot;</p>
 <p>&quot;No,&quot; the Blessed Child whispered back. &quot;He works for His Holiness, the pope. He has no connection to the Man-God, and I don&#x27;t think he knows the details of what&#x27;s happened.&quot;</p>
-<p><em>Okay, yeah. Maybe I&#x27;m getting paranoid. Right. Time to get the ball rolling</em>.</p>
+<p>Okay, yeah. Maybe I&#x27;m getting paranoid. Right. Time to get the ball rolling.</p>
 <p>&quot;I demand to speak to the pope about today&#x27;s events! Out of my way!&quot; I bellowed in the loudest, most imperious voice I could manage. In response, the Temple Knights got rowdier.</p>
 <p>&quot;You think the pope will grant an audience to a worm like you?&quot;</p>
 <p>&quot;Release the Blessed Child at once and face judgment!&quot;</p>
 <p>A few even began to draw their swords.</p>
 <p>When the Blessed Child twitched in my arms though, all of them begrudgingly returned their swords to their scabbards.</p>
 <p><em>Hot damn, they&#x27;re totally powerless against her. I got the picture after the Keepers of Anastasia, but she&#x27;s literally an idol to them.</em></p>
-<p><em>Here goes…</em> I cleared my throat.</p>
+<p>Here goes… I cleared my throat.</p>
 <p>&quot;My name is Rudeus Greyrat! I represent the Dragon God Orsted! I swear upon his mighty name that I do not wish to harm the Blessed Child!&quot;</p>
 <p>I raised my left hand, showing them the glittering bracelet Orsted had given me. It wasn&#x27;t the strongest proof of identity, but it made for a decent bluff.</p>
 <p>&quot;However!&quot; I continued. &quot;If my request to speak with the pope is denied, I cannot guarantee her safety! Know that by making an enemy of Rudeus Greyrat, the Church of Millis will be the enemy of the Dragon God and all his followers!&quot;</p>
@@ -204,7 +201,7 @@ nav_title = "Chapter 4"
 <p>That&#x27;s a handy trick. So Carlisle was a mystery. He didn&#x27;t feel like an enemy, but I didn&#x27;t trust him. Best to stay on guard. Leaving behind the Temple Knights who stood back, watching us from a safe distance, I went after Carlisle and the others.</p>
 <p>He led me directly to the inner sanctum. As we walked, the other members of the Keepers of Anastasia formed up around us. They weren&#x27;t wearing their helmets this time. All of them were up and on their own feet, probably thanks to healing magic. I wasn&#x27;t letting my guard down, but their plan wasn&#x27;t to attack me, clearly.</p>
 <p>In a head-on battle, I&#x27;d broken through their precious King-tier barrier and soundly beat every last one of them to a pulp. While they hadn&#x27;t been fighting to kill either, I&#x27;d gone easy on them. They knew it. We were all very clear on who was stronger here, and by how much. On top of that, I had the Blessed Child. They weren&#x27;t about to pick a fight with the guy who&#x27;d KO&#x27;d them only hours ago when her life was on the line. Why did everyone look so awkward, anyway? Mr. Dust was the worst. He&#x27;d been avoiding my eyes the whole time.</p>
-<p>I wasn&#x27;t feeling hostility, though. That wasn&#x27;t the vibe. They didn&#x27;t seem wary of me at all, actually. If I didn&#x27;t know better, I&#x27;d say they were <em>guarding</em> me.</p>
+<p>I wasn&#x27;t feeling hostility, though. That wasn&#x27;t the vibe. They didn&#x27;t seem wary of me at all, actually. If I didn&#x27;t know better, I&#x27;d say they were guarding me.</p>
 <p>We kept walking through the inner sanctum for a while. Before I knew it, I&#x27;d lost all sense of direction. Blame it on the slight curve in the passage combined with however many seventy-degree corners we&#x27;d turned…</p>
 <p>Last time I was here I thought this twisty maze of passages were too alike.</p>
 <p>&quot;This is like a labyrinth,&quot; I remarked.</p>
@@ -216,7 +213,7 @@ nav_title = "Chapter 4"
 <p><em>Okay. I should probably have thought this through a bit more before I dove in, but everything&#x27;s gonna be fine.</em></p>
 <p>&quot;Are we almost there? I&#x27;d rather not go too far in…&quot;</p>
 <p>&quot;Just a little further,&quot; said Carlisle, without looking back.</p>
-<p><em>Really? You&#x27;d better not be leading me into a trap</em>. I turned a wary eye to the other guys behind us. They all flinched, then started protesting.</p>
+<p>Really? You&#x27;d better not be leading me into a trap. I turned a wary eye to the other guys behind us. They all flinched, then started protesting.</p>
 <p>&quot;Lord Carlisle! You mustn&#x27;t be rude! At least turn around when you address him!&quot;</p>
 <p>&quot;Who knows what he might do to the Blessed Child if he gets upset!&quot;</p>
 <p>&quot;My lord, look at these dents! Do you see what he did to my Temple Knight Armor? He wields incredible power!&quot;</p>
@@ -226,14 +223,14 @@ nav_title = "Chapter 4"
 <p>&quot;…Thank you,&quot; I said with a nod, and we continued on.</p>
 <p>We only took another ten steps or so, then Carlisle stopped in front of a door and knocked.</p>
 <p>&quot;I have brought Rudeus Greyrat to see you, Your Holiness,&quot; he announced.</p>
-<p><em>It really was just a little further</em>. I felt kinda bad for rushing him. Now I thought about it, I didn&#x27;t know which direction I was facing anymore but we&#x27;d only <em>actually</em> turned two corners. If I needed an escape route, I had one.</p>
+<p>It really was just a little further. I felt kinda bad for rushing him. Now I thought about it, I didn&#x27;t know which direction I was facing anymore but we&#x27;d only actually turned two corners. If I needed an escape route, I had one.</p>
 <p>&quot;Enter,&quot; came the pope&#x27;s voice. Carlisle faced the door, said a brief prayer, then opened it. He held the door and gestured for me to enter.</p>
 <p>&quot;Go ahead,&quot; he said. Keeping my grip firmly on the Blessed Child, I went into the room. Part of me thought surely now I could let go of her… but no. I couldn&#x27;t let my guard down yet.</p>
 <p>I found myself in what looked like a meeting room. There was a long table at which ten people sat facing each other. One of them was the pope. Cliff was there too, and an old man wearing a luxurious vestment similar to the pope&#x27;s. That had to be the cardinal. There was also a man clad in white armor. In the back of the room, seven knights stood with their hands clasped behind their backs. Two of them I recognized as the pope&#x27;s guards. Everyone was looking at me. It looked like my entrance had interrupted a fierce debate. They stared wordlessly toward us.</p>
 <p>At the far end of the table sat two more people. One was an old lady, her lips set in a hard line as she glared at me. Claire Latria. And beside her…</p>
-<p><em>She&#x27;s here,</em> I thought. <em>I finally found her</em>. Seated beside Claire, a woman gazed up at the ceiling with empty eyes. She was close to forty, but she looked younger. The woman my father had loved more than anyone in the world.</p>
+<p>She&#x27;s here, I thought. I finally found her. Seated beside Claire, a woman gazed up at the ceiling with empty eyes. She was close to forty, but she looked younger. The woman my father had loved more than anyone in the world.</p>
 <p>It was my mother. Zenith.</p>
-<p><em>Wait,</em> I thought. <em>Why are they here?</em></p>
+<p>Wait, I thought. Why are they here?</p>
 <p>anyone to bring Zenith to me.</p>
 <p><em>Bang.</em></p>
 <p>The door slamming shut behind me shattered the silence. The Temple Knights moved into position in front of it, standing in a row as though to face down the knights in the back of the room. Therese alone took a position at the table.</p>

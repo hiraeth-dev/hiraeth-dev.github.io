@@ -15,7 +15,7 @@ nav_title = "Chapter 1"
 <p>Spring was the season of new beginnings, and with my marriage to Eris, I was bursting with renewed vigor. It might be summer right now, but it was still spring in my heart of hearts!</p>
 <p>I was floating on cloud nine as I headed in to work—my workplace being where Orsted currently resided. This time, I was alone, as a man is supposed to be when he commutes. To be fair, it was pretty normal in our household for the women to work, too, so there was nothing wrong with bringing someone along. But Orsted&#x27;s curse meant they&#x27;d just feel hostile toward him, so it was best for me to make the trip by myself.</p>
 <p>&quot;Hm?&quot;</p>
-<p>As I arrived at the cottage, I spotted someone collapsed on the ground. <em>Who in the world would keel over here?</em></p>
+<p>As I arrived at the cottage, I spotted someone collapsed on the ground. Who in the world would keel over here?</p>
 <p>&quot;Ah?!&quot;</p>
 <p><em>Zanoba… It&#x27;s Zanoba! He&#x27;s dead!</em></p>
 <p>He was slumped against a three-meter-tall hunk of metal, lying on his back.</p>
@@ -37,9 +37,9 @@ nav_title = "Chapter 1"
 <p>&quot;At the end of our battle, he swore he wouldn&#x27;t let me get my hands on this armor. Said he had to make sure to deliver it to you. That&#x27;s why he crawled the rest of the way to it. He certainly has taken a liking to you.&quot;</p>
 <p>&quot;Oh, Zanoba!&quot; I immediately leaned over him and used my healing magic. Since he had no external injuries, it wasn&#x27;t much good, but I wanted him to sleep peacefully, at least.</p>
 <p><em>Actually, now that I think about it, Orsted just left him out here in the open after he collapsed? Maybe he&#x27;s more merciless than I gave him credit for.</em></p>
-<p>&quot;Uh, so he <em>will</em> wake up eventually, right?&quot;</p>
+<p>&quot;Uh, so he will wake up eventually, right?&quot;</p>
 <p>&quot;I put him to sleep using hypnosis magic passed down through the Nuka Tribe. He should awaken in a few hours.&quot;</p>
-<p><em>Ah, so that&#x27;s what he used on Zanoba. I wonder exactly what kind of magic that is… Very intriguing.</em> Could this hypnosis magic also allow the user to manipulate a person&#x27;s actions? Like, if I used it on Sylphie and commanded her to lift up her skirt, would she do it?</p>
+<p>Ah, so that&#x27;s what he used on Zanoba. I wonder exactly what kind of magic that is… Very intriguing. Could this hypnosis magic also allow the user to manipulate a person&#x27;s actions? Like, if I used it on Sylphie and commanded her to lift up her skirt, would she do it?</p>
 <p><em>I don&#x27;t need hypnosis magic for that, though. She&#x27;d do it if I asked.</em></p>
 <p>In fact, if that was what I wanted, I needed to get her a skirt. A miniskirt would be best. One of those frilly, fairy-like ones would suit her best, surely.</p>
 <p>Besides, if hypnosis magic was that powerful, Orsted would probably be using it a lot more. Putting someone to sleep was probably the extent of its usefulness.</p>
@@ -96,12 +96,12 @@ nav_title = "Chapter 1"
 <p>&quot;I mean, what if I&#x27;ll just be digging our graves by taking action? Or mine, at the very least?&quot;</p>
 <p>&quot;No. In addition to his powers of foresight, I believe it&#x27;s also highly likely he has a special trait that makes all the living creatures of this world trust him unconditionally. That has left him ill-equipped to deal with irregularities.&quot;</p>
 <p><em>Huh, I never realized. I guess you could say the Man-God has a curse of his own.</em></p>
-<p>Hold on. Saying people trusted him unconditionally was a stretch. <em>I</em> never trusted him, for one.</p>
-<p><em>But then again, Orsted&#x27;s curse doesn&#x27;t work on me. Maybe that means the Man-God&#x27;s curse doesn&#x27;t, either. It did feel like he had a hard time trying to deal with me and my constant skepticism. Although I</em> did <em>end up trusting him in the end…</em></p>
+<p>Hold on. Saying people trusted him unconditionally was a stretch. I never trusted him, for one.</p>
+<p>But then again, Orsted&#x27;s curse doesn&#x27;t work on me. Maybe that means the Man-God&#x27;s curse doesn&#x27;t, either. It did feel like he had a hard time trying to deal with me and my constant skepticism. Although I did end up trusting him in the end…</p>
 <p>Perhaps his curse wasn&#x27;t entirely ineffective after all. And who knows—my resistance to Orsted&#x27;s curse might wear off eventually and I&#x27;d start fearing him too.</p>
 <p><em>No, there&#x27;s no guarantee Orsted&#x27;s information is reliable. His assumptions about the nature of the Man-God&#x27;s curse might not be entirely correct.</em></p>
-<p>As soon as I started contemplating that possibility, I started doubting everything. <em>Best just to drop this whole thing,</em> I decided.</p>
-<p>&quot;I&#x27;m not good at the whole <em>&#x27;</em>guessing what my opponent has planned&#x27; thing,&quot; I said. &quot;Do you really think we can win this?&quot;</p>
+<p>As soon as I started contemplating that possibility, I started doubting everything. Best just to drop this whole thing, I decided.</p>
+<p>&quot;I&#x27;m not good at the whole &#x27;guessing what my opponent has planned&#x27; thing,&quot; I said. &quot;Do you really think we can win this?&quot;</p>
 <p>&quot;I do,&quot; he said confidently. &quot;Our enemy isn&#x27;t invincible. I am only one step away from ending him.&quot;</p>
 <p>It sounded like he was reassuring himself instead of me. Either way, he was intent on winning. He was determined to claim victory in the end, even if we were the underdogs along the way. That part, I did find promising.</p>
 <p>&quot;So, we will change the course of the near future,&quot; said Orsted.</p>
@@ -115,7 +115,7 @@ nav_title = "Chapter 1"
 <p>A puppet? Well, that certainly sounded a bit ominous. Rather than backing her, it seemed like we&#x27;d be pulling her strings. Yep, definitely more than a bit ominous.</p>
 <p><em>Guess the company I signed up for is actually super shady.</em></p>
 <p>&quot;I have to wonder if someone like Princess Arielle would really be so easily manipulated,&quot; I murmured.</p>
-<p>&quot;I say <em>puppet</em>, but I won&#x27;t do something as extreme as manipulating her. As long as we can establish ties to Asura Kingdom in the future, that will be enough.&quot;</p>
+<p>&quot;I say puppet, but I won&#x27;t do something as extreme as manipulating her. As long as we can establish ties to Asura Kingdom in the future, that will be enough.&quot;</p>
 <p>&quot;All right then.&quot;</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-16/insert-01.webp" alt="Illustration" loading="lazy" />
@@ -133,7 +133,7 @@ nav_title = "Chapter 1"
 <p>&quot;Derrick was highly intelligent, and ambitious, too. Even without the Displacement Incident, Ariel was destined to someday meet Perugius. And it was Derrick who convinced Perugius to join her side.&quot;</p>
 <p><em>So basically, if Derrick were alive, she wouldn&#x27;t be in the terrible position she is now.</em></p>
 <p>&quot;Derrick continued to counsel her after that, eventually leading to him taking up the position of prime minister.&quot;</p>
-<p><em>Prime minister, huh? Well now, that</em> is <em>a pretty important position.</em></p>
+<p>Prime minister, huh? Well now, that is a pretty important position.</p>
 <p>I shook my head. &quot;And you&#x27;re saying the Displacement Incident claimed the life of someone so pivotal?&quot;</p>
 <p>&quot;Indeed. He was supposed to be protected by his own strong destiny…but he died.&quot;</p>
 <p>Which meant that one&#x27;s destiny wasn&#x27;t absolute. I supposedly had fate on my side protecting me from death as well, but if Derrick&#x27;s bloody end was any indication, I&#x27;d better not let it go to my head.</p>
@@ -169,8 +169,8 @@ nav_title = "Chapter 1"
 <p>&quot;Wow.&quot;</p>
 <p>Impressive, Sylphie! I would expect no less from my wife. I&#x27;d have to give her ear a good tonguing once I got home.</p>
 <p>&quot;And? Who did she end up hooking up with?&quot;</p>
-<p>&quot;I am not having this conversation with you simply to satisfy <em>your</em> curiosity,&quot; Orsted grumbled.</p>
-<p><em>Oops. Sorry about that.</em> My shoulders slumped.</p>
+<p>&quot;I am not having this conversation with you simply to satisfy your curiosity,&quot; Orsted grumbled.</p>
+<p>Oops. Sorry about that. My shoulders slumped.</p>
 <p>Orsted sighed before continuing, clearly exasperated. &quot;As far as I know, neither Sylphiette nor Roxy Migurdia married anyone. They lived out the entirety of their lives as single women.&quot;</p>
 <p>&quot;Interesting. Thank you for telling me.&quot;</p>
 <p><em>Huh, so that&#x27;s how things went. Roxy and Sylphie never got with anyone else. Guess that means the two of them really do belong to me and me alone. That really warms my heart. Especially after hearing about how Eris married Luke. Guess this is what they mean when they talk about a guy being possessive. Those two girls are mine! I won&#x27;t let anyone else have them.</em></p>
@@ -187,7 +187,7 @@ nav_title = "Chapter 1"
 <p>That name rang a bell. If I remembered right, he was enjoying increased support and momentum in the kingdom right now. I was pretty sure he was throwing his weight behind the first prince. But an eight-year-old sex slave, huh? What a creep.</p>
 <p>&quot;Tristina was going to be secretly disposed of, but fortunately, Ariel happened to save her. Even with his status, Darius could not escape reproach for having confined a daughter of the Purplehorse house for years. He lost his position as a result of the scandal, which also marked the downfall of First Prince Grabel.&quot;</p>
 <p><em>So the first prince&#x27;s name is Grabel. Okay, got it!</em></p>
-<p>&quot;Okay,&quot; I said. &quot;So where is this Tristina person in <em>this</em> timeline?&quot; &quot;Missing.&quot;</p>
+<p>&quot;Okay,&quot; I said. &quot;So where is this Tristina person in this timeline?&quot; &quot;Missing.&quot;</p>
 <p>&quot;And you&#x27;re sure she&#x27;s not dead?&quot;</p>
 <p>&quot;I am not. Darius has a habit of immediately scouring everything around him whenever an incident occurs. That includes disposing of slaves, so there&#x27;s a high probability she&#x27;s already dead.&quot;</p>
 <p>&quot;In that case, I guess we&#x27;re better off assuming she&#x27;s no longer among us.&quot;</p>
@@ -242,7 +242,7 @@ nav_title = "Chapter 1"
 <p>A realization hit me as I listened to Orsted. From his point of view, it probably didn&#x27;t matter who became king. Even if Halfaust did somehow take the throne, he could simply have me infiltrate his inner circle.</p>
 <p>&quot;In about a month, word should arrive that the current king has fallen ill. There is something we need to do before then,&quot; said Orsted.</p>
 <p>&quot;What&#x27;s that?&quot; I asked.</p>
-<p>His expression was grim, making it clear he wouldn&#x27;t permit mistakes. <em>Well, that&#x27;s terrifying.</em> He probably always looked like that when he was being serious, but that didn&#x27;t make it any less intimidating. If looks could kill, I&#x27;d be on the floor right now.</p>
+<p>His expression was grim, making it clear he wouldn&#x27;t permit mistakes. Well, that&#x27;s terrifying. He probably always looked like that when he was being serious, but that didn&#x27;t make it any less intimidating. If looks could kill, I&#x27;d be on the floor right now.</p>
 <p>&quot;We need to bring Perugius Dola over to Arielle&#x27;s side. His support will be critical if she is to take the throne.&quot;</p>
 <p>Despite how much anxiety his words caused, I sort of saw that coming. Derrick Redbat had been destined to persuade Perugius to join Ariel, but he wasn&#x27;t here. Perugius, however, was still a necessary asset. I would have to take on Derrick&#x27;s role and find some way to win him over.</p>
 <p>&quot;So basically, I&#x27;ll need to spend the next month getting closer to Ariel and Luke while also trying to talk Perugius into joining her. Is that right?&quot;</p>
@@ -261,14 +261,14 @@ nav_title = "Chapter 1"
 <p>I wasn&#x27;t entirely convinced, but if he said so, it was worth giving it a shot.</p>
 <p>&quot;I just hope I don&#x27;t wind up summoning anything weird. You know, like a childlike girl whose title starts with Demon and ends with Empress.&quot;</p>
 <p>&quot;What you call forth depends entirely on you. That said, Kishirika Kishirisu possesses an enormous amount of power. A summoning circle this small would not be able to bring her to you.&quot;</p>
-<p><em>So the size is the only problem? Does that mean if we made a bigger summoning circle, I</em> could <em>theoretically call her here?</em></p>
+<p>So the size is the only problem? Does that mean if we made a bigger summoning circle, I could theoretically call her here?</p>
 <p>Not that I actually wanted to do so. She was too obnoxious. &quot;At any rate,&quot; I said, &quot;I will be sure to summon this Guardian Beast tomorrow.&quot;</p>
 <p>My heart was pounding with excitement. What kind of creature might I summon? A badass one, I hoped. With it standing beside me, I would look twice as awesome as I did now, enough to make Sylphie and Roxy fall for me all over again.</p>
 <p><em>Oh, that&#x27;s right. There&#x27;s one more important matter I forgot to ask him about.</em></p>
 <p>&quot;That&#x27;s right. Supposedly, one of my descendants is going to help you in the future. Does that mean I should have a bunch of kids just to be on the safe side? Or does that pose the potential danger of one of them later giving birth to Laplace?&quot;</p>
 <p>He stared at me silently before finally saying, &quot;None of your children will give birth to Laplace. Do as you like.&quot;</p>
 <p>&quot;Understood. I will do just that, then.&quot;</p>
-<p><em>That means I&#x27;m free to pump out the babies!</em> Surely Orsted would be pleased to have a large number of companions as well.</p>
+<p>That means I&#x27;m free to pump out the babies! Surely Orsted would be pleased to have a large number of companions as well.</p>
 <p>&quot;In that case, allow me to excuse myself. I need to see how this summoning circle you gave me works out.&quot;</p>
 <p>&quot;All right.&quot;</p>
 <p>&quot;I&#x27;ll see you again in a few days. If anything happens in the meantime, please be sure to send a letter to my house again.&quot; As I started to get up, I remembered one more thing. &quot;By the way, milord, did you already go visit Nanahoshi?&quot;</p>

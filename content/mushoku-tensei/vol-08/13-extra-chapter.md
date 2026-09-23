@@ -39,18 +39,18 @@ nav_title = "Extra Chapter"
 <p>Linia kept Pursena in her periphery as she surveyed us with great interest. &quot;Are you fighting? That&#x27;s rare, mew, for Zanoba to defy Boss.&quot;</p>
 <p>&quot;I&#x27;m not defying him,&quot; Zanoba said. &quot;We&#x27;re just having a difference of opinion.&quot;</p>
 <p>&quot;I don&#x27;t know about that, mew, are you sure? If you upset him, he might not make figurines for you anymore, mew?&quot;</p>
-<p>&quot;Hmph, Master isn&#x27;t so narrow-minded as to get that upset over something this trivial.&quot; He glanced at me afterward as if to ask, <em>You aren&#x27;t, right?</em></p>
+<p>&quot;Hmph, Master isn&#x27;t so narrow-minded as to get that upset over something this trivial.&quot; He glanced at me afterward as if to ask, You aren&#x27;t, right?</p>
 <p>Of course not. I wasn&#x27;t even upset, just a bit disheartened. &quot;Oh yes, there&#x27;s something I&#x27;d like to ask the two of you.&quot;</p>
 <p>&quot;Mew?&quot;</p>
 <p>&quot;About table manners.&quot; I asked them what they thought about eating with one&#x27;s hands and being picky about food.</p>
-<p>&quot;Manners are important.&quot; Pursena stepped forward without any hesitation, as if to say, <em>Leave any discussion about food to me.</em> &quot;It&#x27;s particularly unacceptable to use your hands to eat during meals.&quot;</p>
+<p>&quot;Manners are important.&quot; Pursena stepped forward without any hesitation, as if to say, Leave any discussion about food to me. &quot;It&#x27;s particularly unacceptable to use your hands to eat during meals.&quot;</p>
 <p>She had a self-satisfied grin on her face as she said that…while holding a piece of dried meat that she was actively chewing on. She couldn&#x27;t have been more unconvincing if she&#x27;d tried.</p>
 <p>&quot;Ignoring Pursena, manners are important for a lady, mew,&quot; Linia said. &quot;Being picky is an absolute no-no, mew.&quot;</p>
 <p>&quot;Meat is different. And you can&#x27;t talk, you left those dried grapes on your plate before.&quot;</p>
 <p>&quot;Those things can&#x27;t even be considered food, mew. They&#x27;ll just destroy your stomach if you eat them, mew.&quot;</p>
 <p>&quot;Sounds like an excuse.&quot;</p>
 <p>And now they were both glaring at each other. Asking them had been a mistake. Everything they were saying was correct, or at least it was supposed to be, yet it didn&#x27;t inspire confidence that Julie would grow into a proper lady if we followed their advice.</p>
-<p><em>See</em>, I thought, <em>Julie looks entirely confused.</em></p>
+<p>See, I thought, Julie looks entirely confused.</p>
 <p>Master Fitz appeared out of nowhere. &quot;Hm? What&#x27;s everyone gathered here for?&quot;</p>
 <p>&quot;You came at a good time,&quot; I said. &quot;Please listen!&quot;</p>
 <p>&quot;Huh? To what?&quot;</p>
@@ -65,17 +65,16 @@ nav_title = "Extra Chapter"
 <p>&quot;I do think she should learn eventually, but I think it&#x27;s fine if that&#x27;s a year or two from now.&quot;</p>
 <p>Perhaps I hadn&#x27;t explained myself properly. I didn&#x27;t mean she had to learn them fully, just that we needed to teach her to maintain the bare minimum of—no, I guess those were basically the same thing.</p>
 <p>&quot;Hmm.&quot; With Master Fitz&#x27;s opinion included, I was now at three for and three against. We were back to a tie.</p>
-<p>I looked over at Julie, who had an anxious look on her face. What did <em>she</em> want to do? I thought it was best for her to learn table manners, and that she&#x27;d might find herself in a pickle down the line if she didn&#x27;t, but it wasn&#x27;t as their absence would be fatal. In which case, it all came down to what she wanted. If they weren&#x27;t pivotal to her survival, then what mattered was how she wanted to handle the matter.</p>
+<p>I looked over at Julie, who had an anxious look on her face. What did she want to do? I thought it was best for her to learn table manners, and that she&#x27;d might find herself in a pickle down the line if she didn&#x27;t, but it wasn&#x27;t as their absence would be fatal. In which case, it all came down to what she wanted. If they weren&#x27;t pivotal to her survival, then what mattered was how she wanted to handle the matter.</p>
 <p>Her decision would also break the tie.</p>
 <p>&quot;Alright. Julie,&quot; I said. &quot;You decide.&quot;</p>
 <p>She looked at me in surprise. The expression on her face said that she didn&#x27;t think she had a choice in the matter. Julie&#x27;s gaze travelled to each person present—Zanoba, Elinalise, Linia, Pursena, Master Fitz—and then settled back on me, looking frightened.</p>
 <p>&quot;I won&#x27;t be mad, whatever you decide, so choose however you like.&quot;</p>
 <p>&quot;O-okay.&quot;</p>
-<p>Even as I said that, I found myself thinking, <em>Ah, maybe I screwed up</em>. After all, thinking about it logically, she&#x27;d avoided the carrots because she didn&#x27;t want to eat them. Leaving the matter of table</p>
-<p>utensils aside, if someone told you that you didn&#x27;t have to eat something you didn&#x27;t like, then of course you wouldn&#x27;t eat it. But oh well…</p>
+<p>Even as I said that, I found myself thinking, Ah, maybe I screwed up. After all, thinking about it logically, she&#x27;d avoided the carrots because she didn&#x27;t want to eat them. Leaving the matter of table utensils aside, if someone told you that you didn&#x27;t have to eat something you didn&#x27;t like, then of course you wouldn&#x27;t eat it. But oh well…</p>
 <p>Julie grabbed her fork in her fist, as if she&#x27;d made up her mind. She stabbed it into the carrots and stuffed them all in her mouth at the same time. She pinched her eyes shut as she chewed, and after making a noise that indicated she might throw up, swallowed them with tears in her eyes.</p>
 <p>&quot;Gulp, gulp… pwah!&quot;</p>
-<p>She chugged her water, gasped, and thumped her cup back down. Then she looked at me with an accomplished expression, as if to say, <em>There, how was that, are you satisfied?</em></p>
+<p>She chugged her water, gasped, and thumped her cup back down. Then she looked at me with an accomplished expression, as if to say, There, how was that, are you satisfied?</p>
 <p>&quot;You ate them all! Very good! I&#x27;m so proud!&quot; I was momentarily taken aback, but still praised her and patted her on the head.</p>
 <p>&quot;You did well! Excellent!&quot;</p>
 <p>&quot;A splendid show!&quot;</p>

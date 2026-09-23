@@ -10,14 +10,13 @@ nav_title = "Chapter 11"
 <p><strong>T</strong>HE OLD MAN CAME from the future. That was what he said. Honestly, I didn&#x27;t understand what he meant. True, he did kind of look like me.</p>
 <p>&quot;The future…so you&#x27;re me from the future?&quot;</p>
 <p>&quot;That&#x27;s right. I am you, about 50 years from now.&quot;</p>
-<p>He sure didn&#x27;t beat around the bush, but it was all so sudden. I didn&#x27;t know if I should believe him or not. On the other hand, he <em>did</em> know my name. I had never mentioned it to anyone and I never would. Maybe there was a way to use magic to read a person&#x27;s mind.</p>
-<p>Having said that, I <em>did</em> reincarnate into this world with all my memories intact. It wasn&#x27;t that far-fetched to think time travel might exist too. I had no way of distinguishing whether he was telling the truth or not.</p>
+<p>He sure didn&#x27;t beat around the bush, but it was all so sudden. I didn&#x27;t know if I should believe him or not. On the other hand, he did know my name. I had never mentioned it to anyone and I never would. Maybe there was a way to use magic to read a person&#x27;s mind.</p>
+<p>Having said that, I did reincarnate into this world with all my memories intact. It wasn&#x27;t that far-fetched to think time travel might exist too. I had no way of distinguishing whether he was telling the truth or not.</p>
 <p>&quot;Sorry, but I don&#x27;t have time to explain the ins and outs of time travel magic to you,&quot; he said.</p>
 <p>&quot;What do you mean by that?&quot;</p>
 <p>&quot;Exactly what I said. I know it sounds like a phrase straight out of a Hollywood film, but I really don&#x27;t have much time. You need to listen.&quot;</p>
-<p>He made that Hollywood reference without missing a beat. That meant he <em>had</em> to have some connection to my previous life. Maybe he really was me from the future.</p>
-<p>There was a glint in his eyes and a darkness lurking within. Frankly, he looked like someone who killed people daily. There was such a coldness to his gaze, as if he cared very little about other people&#x27;s lives. Was this the person I was destined to become in the</p>
-<p>future? It couldn&#x27;t be. It was too hard to believe. Yet the expression on his face was earnest.</p>
+<p>He made that Hollywood reference without missing a beat. That meant he had to have some connection to my previous life. Maybe he really was me from the future.</p>
+<p>There was a glint in his eyes and a darkness lurking within. Frankly, he looked like someone who killed people daily. There was such a coldness to his gaze, as if he cared very little about other people&#x27;s lives. Was this the person I was destined to become in the future? It couldn&#x27;t be. It was too hard to believe. Yet the expression on his face was earnest.</p>
 <p><em>Okay, let&#x27;s just assume that he is me 50 years from now and at least listen to what he has to say.</em></p>
 <p>&quot;There is nothing in the basement,&quot; he blurted. &quot;At least, I went down there and thought there was nothing. I felt at ease in the following days because the Man God said there was nothing to worry about if I didn&#x27;t find anything.&quot; The old man&#x27;s face contorted in disgust. &quot;But I was wrong, and I can tell you why now.&quot;</p>
 <p>He tapped a finger—his left index finger—against his forehead, as if recalling the incident.</p>
@@ -30,12 +29,12 @@ nav_title = "Chapter 11"
 <p>&quot;However, before then, Roxy will get peckish and come downstairs to grab a little bite of those leftovers. As a result, she&#x27;ll contract the illness the rat carried.&quot;</p>
 <p>&quot;What? Roxy will get sick?&quot; The mention of her name brought my focus back to the conversation.</p>
 <p>&quot;Petrification Syndrome.&quot;</p>
-<p>I felt like I had heard that name before. <em>That&#x27;s right. It&#x27;s supposed to be an illness that one can only cure with God-tier detoxification magic.</em> It was an incurable disease that would slowly turn the infected into magic stone. But where exactly did I hear of it?</p>
+<p>I felt like I had heard that name before. That&#x27;s right. It&#x27;s supposed to be an illness that one can only cure with God-tier detoxification magic. It was an incurable disease that would slowly turn the infected into magic stone. But where exactly did I hear of it?</p>
 <p>&quot;We didn&#x27;t realize at first. After all, it&#x27;s exceedingly rare for someone to be infected with Petrification Syndrome. The pathogens can only take refuge within a life budding inside another person.&quot;</p>
 <p>&quot;Wait, do you mean…&quot;</p>
 <p>&quot;Yes, an unborn child. The disease only affects pregnant women. I was shocked when I discovered that later.&quot;</p>
 <p>&quot;What? B-but Roxy isn&#x27;t…&quot;</p>
-<p>&quot;She <em>is</em> pregnant,&quot; he said. &quot;But that&#x27;s not surprising. The two of you have had sex, it&#x27;s only natural.&quot;</p>
+<p>&quot;She is pregnant,&quot; he said. &quot;But that&#x27;s not surprising. The two of you have had sex, it&#x27;s only natural.&quot;</p>
 <p><em>Wait, Roxy is pregnant?</em></p>
 <p>Wow. It was extremely joyous news, and yet, it was being delivered in the grimmest way possible.</p>
 <p>&quot;For some reason, some rats are resistant to the disease and act as carriers of Petrification Syndrome. You&#x27;ll recognize them at a glance. Their teeth have turned into purple crystals. They transfer pathogens to anything they bite into. It can only be orally transmitted, and the pathogens don&#x27;t survive for very long after leaving their host. It takes half a day at most before they die out. Plus, it&#x27;s not very contagious since only pregnant women are affected.&quot;</p>
@@ -51,8 +50,7 @@ nav_title = "Chapter 11"
 <p>&quot;No, that can&#x27;t be…&quot;</p>
 <p>He immediately lifted his head, that fierce glint back in his eyes as he stared me down. &quot;The incident will be linked to something that happens 30 years from now. It&#x27;s all because of what the Man God says. Don&#x27;t be misled by him. You have memories of your previous life, so you should understand. He is the root of all evil in this world. The final boss.&quot;</p>
 <p>&quot;But why is he after Roxy?&quot;</p>
-<p>&quot;I still don&#x27;t know the answer to that. However, I do know that he is moving with some objective in mind. The last thing he said to</p>
-<p>me was this: &#x27;Thanks to you being such an idiot, everything went exactly as I planned.&#x27;&quot; He clenched his teeth. &quot;Dammit.&quot;</p>
+<p>&quot;I still don&#x27;t know the answer to that. However, I do know that he is moving with some objective in mind. The last thing he said to me was this: &#x27;Thanks to you being such an idiot, everything went exactly as I planned.&#x27;&quot; He clenched his teeth. &quot;Dammit.&quot;</p>
 <p>The Man God actually said that? Still, hmm…</p>
 <p>&quot;As for what his goal is, maybe Orsted or Laplace might know. I didn&#x27;t get a chance to meet them these 50 years. There&#x27;s a high chance you won&#x27;t be able to either, even if you look.&quot;</p>
 <p>&quot;Even Nanahoshi didn&#x27;t have a clue where to find him?&quot;</p>
@@ -88,7 +86,7 @@ nav_title = "Chapter 11"
 <p>&quot;No, I don&#x27;t,&quot; I quipped. &quot;She&#x27;s the whole reason I had ED before.&quot;</p>
 <p>&quot;Forgive her for that. You&#x27;re a man, right? You should be able to do that much.&quot;</p>
 <p>I scowled.</p>
-<p>He let out a self-mocking laugh. &quot;Well, <em>I</em> couldn&#x27;t forgive her. The two of us didn&#x27;t get along so great for a couple of years.&quot;</p>
+<p>He let out a self-mocking laugh. &quot;Well, I couldn&#x27;t forgive her. The two of us didn&#x27;t get along so great for a couple of years.&quot;</p>
 <p>&quot;What do you mean by that?&quot;</p>
 <p>&quot;She nearly killed me countless times. She would follow me wherever I went, and each time she found me, she would go on an all-out attack. Well, still, she did pull her punches. She was perfectly capable of killing if she truly desired it. But she never targeted me when I was at my weakest. In fact, when I was in trouble, she would lend her help from the shadows. Almost like Vegeta from the Dragon Ball series.&quot;</p>
 <p><em>Vegeta, seriously…</em></p>
@@ -99,7 +97,7 @@ nav_title = "Chapter 11"
 <p>&quot;I get what you&#x27;re saying, but…&quot;</p>
 <p>&quot;You get to surround yourself with three women who love you. Sounds wonderful. What&#x27;s wrong with that? Don&#x27;t tell me you&#x27;re not man enough.&quot;</p>
 <p>&quot;Don&#x27;t talk about it so flippantly, as if it has nothing to do with you.&quot;</p>
-<p>&quot;I have no one left,&quot; he said. &quot;I&#x27;m telling you this because you <em>are</em> me.&quot;</p>
+<p>&quot;I have no one left,&quot; he said. &quot;I&#x27;m telling you this because you are me.&quot;</p>
 <p>His words carried a strange weight to them, but…</p>
 <p>&quot;I still have a responsibility to look after Roxy and Sylphie.&quot;</p>
 <p>&quot;If you wanna talk about responsibility, you owe Eris some, too. She&#x27;s been doing her utmost for you this entire time. She&#x27;s just crap at expressing herself so you haven&#x27;t realized it, but she&#x27;s never stopped trying for your sake. If you think you owe responsibility to other people, then what about her and all the effort she&#x27;s put in? Ghislaine will hit you with those words…as you stand in front of Eris&#x27;s corpse.&quot;</p>
@@ -166,7 +164,7 @@ nav_title = "Chapter 11"
 <p>&quot;Rudy, I heard voices and some noise. Is someone here?&quot;</p>
 <p>&quot;Is it a thief, perhaps?&quot;</p>
 <p>The two of them looked relieved the moment they saw me, but they still had their guards up.</p>
-<p><em>Should I tell them about the old man?</em> I hesitated. <em>No, I shouldn&#x27;t.</em></p>
+<p>Should I tell them about the old man? I hesitated. No, I shouldn&#x27;t.</p>
 <p>&quot;No, sorry,&quot; I said finally. &quot;It was just me being half-asleep. I had a weird dream and used some magic. That&#x27;s what caused all the noise, I think. My bad.&quot;</p>
 <p>&quot;It was just magic you used in your sleep?&quot; Sylphie asked in disbelief. &quot;But I thought I heard someone shouting. Are you okay? Um, if you&#x27;re having a hard time, should we sleep in the same room? You know, my grandmother did say that when one is in pain, feeling the warmth of another human is the best remedy.&quot;</p>
 <p>&quot;No, I&#x27;m good. Pretty sure I&#x27;d try something dirty if I slept with you. And you&#x27;re not quite back to full health yet, are you?&quot;</p>
@@ -192,8 +190,7 @@ nav_title = "Chapter 11"
 <p>On the other hand, if 50 years had passed, perhaps he&#x27;d been through a lot and lost those mementos.</p>
 <p>After setting his articles aside, I wrapped the old man&#x27;s body in the blanket that had been lying nearby. I carried him out through the kitchen, heading for the back door.</p>
 <p>I paused as I spotted some leftovers from last night on the counter. They were left piled on a plate. These were the ones he claimed that rats would nibble at. It was probably best to get rid of them.</p>
-<p>I slipped through our rear garden and carried the old man&#x27;s body to a nearby vacant lot. There, I dug a grave, set him inside, and set fire to it. My magic was powerful enough to turn him to ash and bones within seconds. The stench of burned flesh hung thick in the</p>
-<p>air. It was all the more nauseating knowing it was coming from my charred corpse.</p>
+<p>I slipped through our rear garden and carried the old man&#x27;s body to a nearby vacant lot. There, I dug a grave, set him inside, and set fire to it. My magic was powerful enough to turn him to ash and bones within seconds. The stench of burned flesh hung thick in the air. It was all the more nauseating knowing it was coming from my charred corpse.</p>
 <p>&quot;Urgh…&quot;</p>
 <p>The thought made my stomach lurch. I raced to the edge of the lot and vomited.</p>
 <p>Once I finished cremating him, I used my magic to conjure a pot and put his bones inside. I would bury him in the same spot where I put Paul. If he really was my future self, that was the spot where he&#x27;d be happiest.</p>
@@ -214,11 +211,11 @@ nav_title = "Chapter 11"
 <p>The latter seemed the best option. If I reported what I&#x27;d heard from the old man about Petrification Syndrome when I handed the rat&#x27;s body over to the guild, they could check the veracity of his claims. Although I had no idea whether they could extract the pathogen from a frozen corpse.</p>
 <p>I locked the basement door behind me and sealed the hole I&#x27;d made. The old man said the disease didn&#x27;t have airborne transmission and wasn&#x27;t very contagious, but it was better safe than sorry.</p>
 <p>I returned to my study. I was fully awake after all of that, so I wouldn&#x27;t be getting shuteye any time soon.</p>
-<p><em>So what should I do first? Or rather, what is it that I can do</em>  right now<em>?</em></p>
+<p>So what should I do first? Or rather, what is it that I can do  right now?</p>
 <p>Should I read this weathered diary the old man had brought with him? Maybe it could warn me about future events. Although, he also said that history had already changed. In sci-fi terms, I was already in an alternate timeline—one created by my future self traveling back in time. Even if I read everything contained within this journal and prepared for it, it was likely that many of the things he&#x27;d faced wouldn&#x27;t come to pass.</p>
-<p>My eyes fixed upon my ink bottle and the black stain it had left on my desk. Burn marks also remained from where the old man had concentrated mana into his fists and slammed them down. Seeing it triggered the memory of what he&#x27;d told me: <em>&quot;There are three things you have to do.&quot;</em> There was one thing in his list I could do right now.</p>
+<p>My eyes fixed upon my ink bottle and the black stain it had left on my desk. Burn marks also remained from where the old man had concentrated mana into his fists and slammed them down. Seeing it triggered the memory of what he&#x27;d told me: &quot;There are three things you have to do.&quot; There was one thing in his list I could do right now.</p>
 <p>I sat down, took out a piece of paper, and grabbed my pen.</p>
 <p>&quot;…&quot;</p>
 <p>First, I wrote Eris a letter. She was my first partner in bed and someone I had once loved before she disappeared out of nowhere. I still had complex feelings about her.</p>
-<p><em>What should I even write?</em> I wondered as I set my pen to the paper.</p>
+<p>What should I even write? I wondered as I set my pen to the paper.</p>
 <p><strong>Extra Chapter: The Birth of a New Sword King</strong></p>

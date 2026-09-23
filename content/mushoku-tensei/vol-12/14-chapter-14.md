@@ -79,8 +79,7 @@ nav_title = "Chapter 14"
 <p>&quot;Enough, I know!&quot; Norn smacked her hand away and stalked back to her seat.</p>
 <p>Aisha stood idle for a moment before returning to her position behind Sylphie.</p>
 <p>&quot;All right, I&#x27;ll explain from the beginning…&quot;</p>
-<p>I summarized everything that had happened. How Elinalise and I set out for Rapan and reunited with Paul and the others there. How, based on information we had about Zenith&#x27;s whereabouts, we dove</p>
-<p>into the Teleportation Labyrinth together and started mapping it out. I told them how things went smoothly until we ran up against the guardian. How the ensuing fight had been so rough that I&#x27;d lost my hand and Paul had lost his life. That although we&#x27;d succeeded in rescuing Zenith, she&#x27;d become a husk. Geese interjected intermittently to supply additional information as I slowly worked my way through it all.</p>
+<p>I summarized everything that had happened. How Elinalise and I set out for Rapan and reunited with Paul and the others there. How, based on information we had about Zenith&#x27;s whereabouts, we dove into the Teleportation Labyrinth together and started mapping it out. I told them how things went smoothly until we ran up against the guardian. How the ensuing fight had been so rough that I&#x27;d lost my hand and Paul had lost his life. That although we&#x27;d succeeded in rescuing Zenith, she&#x27;d become a husk. Geese interjected intermittently to supply additional information as I slowly worked my way through it all.</p>
 <p>Then finally, Norn asked, &quot;So that means you weren&#x27;t able to save Mother or Father?&quot;</p>
 <p>&quot;…That&#x27;s right.&quot;</p>
 <p>I felt like I could see her hackles rise the moment I nodded. But she didn&#x27;t explode on me. Instead, she bit her lower lip and stared at my left hand. &quot;Did you do everything you could?&quot;</p>
@@ -110,11 +109,10 @@ nav_title = "Chapter 14"
 <p>I intended to have doctors and healers examine her to be sure, but I&#x27;d never heard of healing magic that could restore lost memories. Honestly, we didn&#x27;t even know the root cause of her condition. We knew she&#x27;d been encased in a magically imbued crystal and lost her memories, but that was it. It might well be something akin to oxygen deficiency.</p>
 <p>I was certain of nothing, of course. But I did think the chances of curing her condition were slim. If there was damage to her brain, then the medical technology of this world wouldn&#x27;t be enough to fix her. Even Advanced-tier healing magic hadn&#x27;t done anything. I&#x27;d read a manga or two where inflicting the same level of shock that had made a person lose their memories in the first place snapped them back to normal, but we couldn&#x27;t test that out on Zenith.</p>
 <p>Besides, I wasn&#x27;t sure she&#x27;d be happy even if we did cure her. Paul had died trying to save her. I was sure she&#x27;d blame herself, saying, &quot;If only he hadn&#x27;t tried to help me.&quot; Maybe she was better off not remembering.</p>
-<p>No, that wasn&#x27;t right. We <em>should</em> work to restore her memories.</p>
+<p>No, that wasn&#x27;t right. We should work to restore her memories.</p>
 <p>&quot;Anyway, she&#x27;ll need treatment and care,&quot; I said. &quot;I plan for her to live here with us.&quot;</p>
 <p>If my parents in my previous life had lived, grown old, and become bedridden, would I have looked after them the same way?</p>
-<p>Lilia had initially said she planned to rent separate living quarters so that they wouldn&#x27;t impede on my life. She&#x27;d earned enough from the Teleportation Labyrinth to live on for over a decade in this town. I&#x27;d shot that idea down flat. I wouldn&#x27;t allow such a</p>
-<p>thing. <em>Paul</em> wouldn&#x27;t allow such a thing. It was our duty as her remaining family to look after her.</p>
+<p>Lilia had initially said she planned to rent separate living quarters so that they wouldn&#x27;t impede on my life. She&#x27;d earned enough from the Teleportation Labyrinth to live on for over a decade in this town. I&#x27;d shot that idea down flat. I wouldn&#x27;t allow such a thing. Paul wouldn&#x27;t allow such a thing. It was our duty as her remaining family to look after her.</p>
 <p>&quot;I plan to entrust her care to Miss Lilia,&quot; I continued, &quot;but I am sure everyone will end up having to lend a hand.&quot;</p>
 <p>&quot;Very well. I will do my best to help out, too,&quot; Sylphie said gladly.</p>
 <p>No one seemed to disagree—not that I intended to let them. Paul had told me to save Zenith even if it killed me. Even now, I didn&#x27;t truly know what he&#x27;d meant by that. But now that he was gone, it was up to me to protect her.</p>
@@ -156,8 +154,7 @@ nav_title = "Chapter 14"
 <p>&quot;You&#x27;re going to sell all of them?&quot; I asked.</p>
 <p>&quot;Plan to keep a few to use ourselves, but for the most part, yeah.&quot;</p>
 <p>Geese still had one in hand. They&#x27;d informed me of what the items did when they appraised them, but most were nothing special—just random stuff like a shortsword that could be used in place of a match. I figured I might find a use for them eventually, so I tossed them into our basement storage area. No matter how ridiculous the effects, they would still fetch us some money if we were ever in a pinch.</p>
-<p>The magic stones that absorbed mana were a separate matter. I wanted to research them once I had the time. If I faced a similar opponent in the future, I didn&#x27;t want a repeat of the Labyrinth. I didn&#x27;t want to be powerless. I might not be skilled enough to get</p>
-<p>anything out of researching the stones, but I&#x27;d rather try than just give up.</p>
+<p>The magic stones that absorbed mana were a separate matter. I wanted to research them once I had the time. If I faced a similar opponent in the future, I didn&#x27;t want a repeat of the Labyrinth. I didn&#x27;t want to be powerless. I might not be skilled enough to get anything out of researching the stones, but I&#x27;d rather try than just give up.</p>
 <p>&quot;If you want, we can take your items along with us to sell in Asura. You&#x27;ll get a lot more bang for your buck there than you would here, you know?&quot;</p>
 <p>Asura did have a steep price for commodities, and their currency was accepted widely across the Central Continent. If you were going to sell something, Asura was the place to do it.</p>
 <p>&quot;And let me guess,&quot; I said knowingly, &quot;on the way back here, you&#x27;ll gamble it all away and make a run for it?&quot;</p>
@@ -169,8 +166,7 @@ nav_title = "Chapter 14"
 <p>&quot;Going to continue as an adventurer.&quot; Geese shrugged. &quot;Those&#x27;re the only skills we got.&quot;</p>
 <p>&quot;All right.&quot;</p>
 <p>&quot;Well, we&#x27;ll be here until spring, so come drink with us when you&#x27;ve got the time. You said you&#x27;d introduce me to a nice female monkey, yeah? Ah, I guess since you got a wife and kid on the way, you probably don&#x27;t frequent those kinda places. Heh heh.&quot;</p>
-<p>True, we wouldn&#x27;t be seeing the last of each other just yet. Even so, Geese was the kind of man who&#x27;d just up and leave on his next</p>
-<p>adventure without a word in advance. I wanted to at least say my farewells while I had the opportunity.</p>
+<p>True, we wouldn&#x27;t be seeing the last of each other just yet. Even so, Geese was the kind of man who&#x27;d just up and leave on his next adventure without a word in advance. I wanted to at least say my farewells while I had the opportunity.</p>
 <p>&quot;Mister Geese,&quot; I started.</p>
 <p>&quot;Boss. You&#x27;re talkin&#x27; all funny, you know? Talk to me like you always do, like, &#x27;Hey, Newbie!&#x27;&quot;</p>
 <p>Curious, I asked, &quot;Why are you so particular about being called &#x27;Newbie&#x27;?&quot;</p>
@@ -186,7 +182,7 @@ nav_title = "Chapter 14"
 <p>&quot;Miss Elinalise, you were really there for me,&quot; I said.</p>
 <p>She had a bitter look on her face. &quot;…I&#x27;m sorry about Paul.&quot;</p>
 <p>&quot;No, that was my—&quot;</p>
-<p><em>My mistake, my carelessness</em>. At least, I tried to say as much, but she cut in first.</p>
+<p>My mistake, my carelessness. At least, I tried to say as much, but she cut in first.</p>
 <p>&quot;It was my duty in that party to make sure things like that didn&#x27;t happen. Paul died because of my shortcomings.&quot;</p>
 <p>There was no way that was true. We&#x27;d been fighting for our lives back there; none of us could have known what lay in wait after we&#x27;d dodged the hydra&#x27;s ultimate attack and were a single head away from victory. There were only two people who could blame her: Elinalise herself and the deceased Paul.</p>
 <p>&quot;I can&#x27;t blame you,&quot; I said. &quot;Or anyone else.&quot;</p>
@@ -195,7 +191,7 @@ nav_title = "Chapter 14"
 <p>&quot;Okay, time for me to get going!&quot; Elinalise said before dashing out into the snow. There was someone important still waiting to hear that she&#x27;d returned.</p>
 <p>&quot;Phew.&quot; I let out a long sigh, my breath turning into a visible plume that rose and dissipated amidst the snow.</p>
 <p>At last, the Displacement incident was over. At least for me. All my missing family members had been found. There were probably other victims out there still missing, but I had no obligation to search for them.</p>
-<p>It was over. It was the conclusion of a long, frustrating, bitter journey. Now life could move on to the next stage. No looking back. I had to live on and look ahead. There was still so much I had to do in this world. So much I still <em>wanted</em> to do.</p>
+<p>It was over. It was the conclusion of a long, frustrating, bitter journey. Now life could move on to the next stage. No looking back. I had to live on and look ahead. There was still so much I had to do in this world. So much I still wanted to do.</p>
 <p><em>So let&#x27;s look to the future.</em></p>
 <p>&quot;Rudy, has everyone already left?&quot; A girl&#x27;s voice called from behind. I glanced over my shoulder to see Roxy standing there. &quot;I also wanted to talk to them a bit…&quot;</p>
 <p>&quot;It seems they&#x27;re staying in the city for now, so you can see them against when you have time,&quot; I assured.</p>

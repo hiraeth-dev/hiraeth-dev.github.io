@@ -17,7 +17,7 @@ nav_title = "Chapter 3"
 <p>But when I looked over, I found her staring out at the bleak landscape with excitement shining in her eyes.</p>
 <p>&quot;Uhm, Eris. It seems we&#x27;re on the Demon Continent, so—&quot;</p>
 <p>&quot;The Demon Continent! What an adventure this is going to be!&quot;</p>
-<p>Was that <em>joy</em> in her voice? <em>Well, all right then. No reason to be a buzzkill and explain just how dangerous this is going to be.</em></p>
+<p>Was that joy in her voice? Well, all right then. No reason to be a buzzkill and explain just how dangerous this is going to be.</p>
 <p>&quot;Let&#x27;s move,&quot; said Ruijerd. &quot;Follow me.&quot;</p>
 <p>Together, the three of us set out across the barren plain.</p>
 <p>***</p>
@@ -28,7 +28,7 @@ nav_title = "Chapter 3"
 <p>Also, Eris tended to get infuriated pretty easily herself, so…hopefully Ruijerd would do the same.</p>
 <p>As that thought ran through my mind, I heard Eris&#x27;s voice grow sharp with irritation.</p>
 <p>&quot;Rudeus isn&#x27;t your older brother then?&quot;</p>
-<p>&quot;Of <em>course</em> not!&quot;</p>
+<p>&quot;Of course not!&quot;</p>
 <p>&quot;But you share the name Greyrat. That is a family name, correct?&quot;</p>
 <p>&quot;That doesn&#x27;t make him my brother!&quot;</p>
 <p>&quot;Was he born to a different mother? Sired by a different father?&quot;</p>
@@ -83,13 +83,12 @@ nav_title = "Chapter 3"
 <p>At this point, I noticed Ruijerd was clenching his hands into fists. Acting on instinct, I reached out to grab his arm. &quot;He&#x27;s just doing his job, Ruijerd. Please calm down.&quot;</p>
 <p>&quot;What…?&quot;</p>
 <p>&quot;Arguing with some flunky isn&#x27;t going to get us anywhere. Why don&#x27;t we ask him to go get someone with actual authority?&quot;</p>
-<p>The boy scowled at the word <em>flunky</em>, but Ruijerd nodded in agreement. &quot;You have a point. Rowin, would you call for the elder?&quot;</p>
+<p>The boy scowled at the word flunky, but Ruijerd nodded in agreement. &quot;You have a point. Rowin, would you call for the elder?&quot;</p>
 <p>&quot;Yeah. I was just thinking I might do that actually.&quot; Rowin closed his eyes tightly. He then proceeded to stand there silently for the next ten seconds.</p>
 <p><em>Uh…what is this? Are you going to get moving or not? Please don&#x27;t tell me this kid just nodded off on the job… Hmm. Maybe he&#x27;s waiting for a nice wet kiss?</em></p>
 <p>&quot;Uh, Ruijerd, is he…&quot;</p>
 <p>&quot;The Migurd can converse with others of their race, even at a distance.&quot;</p>
-<p>&quot;Oh. Now that you mention it, I think my master told me a bit about that.&quot; To be specific, she&#x27;d written in her Dictionary of Demonkind that the Migurd were capable of telepathic communication with their close friends and family members. She</p>
-<p>also noted that she herself lacked this ability, and had left her village because of it.</p>
+<p>&quot;Oh. Now that you mention it, I think my master told me a bit about that.&quot; To be specific, she&#x27;d written in her Dictionary of Demonkind that the Migurd were capable of telepathic communication with their close friends and family members. She also noted that she herself lacked this ability, and had left her village because of it.</p>
 <p>Poor girl.</p>
 <p>Come to think of it though…if this was a Migurd village, maybe mentioning Roxy&#x27;s name would be helpful? Then again, I didn&#x27;t know if she was connected to this specific place. There was also the chance it could backfire completely.</p>
 <p>&quot;The elder&#x27;s on his way,&quot; Rowin said, opening his eyes at last.</p>
@@ -97,7 +96,7 @@ nav_title = "Chapter 3"
 <p>&quot;You&#x27;re not taking a step inside this village!&quot;</p>
 <p>&quot;Very well then.&quot;</p>
 <p>With negotiations at an impasse, we just stood there for a while. As the awkward silence stretched on, Eris tugged at my sleeve and whispered, &quot;Hey, what&#x27;s going on?&quot;</p>
-<p><em>Oh, right. She doesn&#x27;t understand the Demon-God tongue.</em> &quot;The guard here thinks we&#x27;re suspicious, so we&#x27;re waiting for the village elder to come look us over in person.&quot;</p>
+<p>Oh, right. She doesn&#x27;t understand the Demon-God tongue. &quot;The guard here thinks we&#x27;re suspicious, so we&#x27;re waiting for the village elder to come look us over in person.&quot;</p>
 <p>&quot;What the heck? What&#x27;s so suspicious about us?&quot; Furrowing her brow, Eris looked down at her clothes. She&#x27;d put on her usual swordpractice outfit for our trip outside the city; it was a little light, but didn&#x27;t strike me as odd compared to what Ruijerd was wearing. It wasn&#x27;t like she was wearing a frilly dress. &quot;Uhm, should I be worried?&quot;</p>
 <p>&quot;About what?&quot;</p>
 <p>&quot;I don&#x27;t know. Just…in general.&quot;</p>
@@ -135,21 +134,21 @@ nav_title = "Chapter 3"
 <p>&quot;It was a gift from my master.&quot;</p>
 <p>&quot;And who was this master of yours, if I might ask?&quot;</p>
 <p>&quot;Her name was Roxy.&quot; The honest answer felt like the way to go here. At the end of the day, I was proud to have studied under her.</p>
-<p>&quot;What was that?!&quot; Rowin shouted. Before I could respond, he rushed right past Rokkus to grab me by the shoulders. &quot;D-did you just say <em>Roxy</em>, boy?!&quot;</p>
+<p>&quot;What was that?!&quot; Rowin shouted. Before I could respond, he rushed right past Rokkus to grab me by the shoulders. &quot;D-did you just say Roxy, boy?!&quot;</p>
 <p>&quot;Yes. That&#x27;s my master&#x27;s name…&quot;</p>
 <p>Out of the corner of my eye, I saw Ruijerd balling his hands into fists. Turning my head to meet his gaze, I shook my head slightly. There wasn&#x27;t any anger on Rowin&#x27;s face, only anxious excitement. He wasn&#x27;t going to hurt me.</p>
 <p>&quot;Where—where is Roxy now?!&quot;</p>
 <p>&quot;Well, I haven&#x27;t seen her in some time myself, but…&quot;</p>
-<p>&quot;Please! Tell me anything you know! Roxy… Roxy is my <em>daughter</em>!&quot;</p>
+<p>&quot;Please! Tell me anything you know! Roxy… Roxy is my daughter!&quot;</p>
 <p><em>Sorry, come again?</em></p>
 <p>&quot;Uhm, I&#x27;m not sure I heard you correctly. Could you repeat that.&quot;</p>
 <p>&quot;Roxy&#x27;s my daughter! Tell me, is she still alive?!&quot;</p>
-<p><em>Pardon, monsieur? Uhm, no, I think I heard you fine the first time actually. Just feeling a bit curious about your age.</em> The man didn&#x27;t look old enough to be in high school even. If you told me he was Roxy&#x27;s little brother, I would have believed you. But apparently…hmm. Yeah. Interesting.</p>
+<p>Pardon, monsieur? Uhm, no, I think I heard you fine the first time actually. Just feeling a bit curious about your age. The man didn&#x27;t look old enough to be in high school even. If you told me he was Roxy&#x27;s little brother, I would have believed you. But apparently…hmm. Yeah. Interesting.</p>
 <p>&quot;Please, just tell me! It&#x27;s been more than twenty years since she left this village, and we haven&#x27;t heard a word from her since!&quot;</p>
-<p>So Roxy had basically run away from home. Not that she&#x27;d mentioned anything about that to me of course. <em>Honestly, master, must you be so secretive?</em></p>
+<p>So Roxy had basically run away from home. Not that she&#x27;d mentioned anything about that to me of course. Honestly, master, must you be so secretive?</p>
 <p><em>Wait. More than twenty years ago? Uh…how old would that make her?</em></p>
 <p>&quot;Well? Why aren&#x27;t you saying anything?!&quot;</p>
-<p><em>Whoops. Sorry about that, buddy.</em> &quot;Uhm, right now she&#x27;s…&quot;</p>
+<p>Whoops. Sorry about that, buddy. &quot;Uhm, right now she&#x27;s…&quot;</p>
 <p>Halfway through my sentence, I realized the man still had a death grip on my shoulders. It sort of looked like he was trying to squeeze the information out of me, didn&#x27;t it? That was no good. I didn&#x27;t want anyone thinking I&#x27;d broken under pressure…not quite this easily at least. I mean, if he&#x27;d smashed my computer, beaten me up, then barraged me with insults, that&#x27;d be a different story. I needed to stick up for myself a bit here. It might make Eris anxious otherwise.</p>
 <p>&quot;Actually, I want you to answer a question for me first. How old is Roxy right now?&quot;</p>
 <p>&quot;What? Why does her age matter? Can you just—&quot;</p>
@@ -166,7 +165,7 @@ nav_title = "Chapter 3"
 <p>&quot;R-really? In any case…you&#x27;re saying she&#x27;s all right?&quot;</p>
 <p>&quot;Well, there&#x27;s always a chance she came down with some sudden illness recently. But as far as I know, she&#x27;s in perfectly good health.&quot;</p>
 <p>Rowin sank unsteadily to his knees. There was undisguised relief on his face, and tears were shining in his eyes. &quot;I see… So she&#x27;s all right. She&#x27;s all right! Haha… Thank goodness…&quot;</p>
-<p><em>Hey, I&#x27;m happy for you, Dad.</em> I found myself thinking of Paul, wondering if he might react similarly when he learned I was safe. I&#x27;d have to send a letter to Buena Village as soon as I could.</p>
+<p>Hey, I&#x27;m happy for you, Dad. I found myself thinking of Paul, wondering if he might react similarly when he learned I was safe. I&#x27;d have to send a letter to Buena Village as soon as I could.</p>
 <p>Turning away from Roxy&#x27;s weeping father, I addressed Rokkus again. &quot;Now that we&#x27;ve cleared that up…would you be willing to let us inside?&quot;</p>
 <p>&quot;Of course. We wouldn&#x27;t turn away someone who brought us such welcome news.&quot;</p>
 <p><em>Good thing I had this pendant. Never would&#x27;ve thought it&#x27;d come in so handy.</em></p>

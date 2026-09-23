@@ -8,10 +8,10 @@ nav_title = "Chapter 1"
 +++
 
 <p><strong>I</strong> was dreaming.</p>
-<p>In this dream, I was soaring through the air, holding Eris in my arms. My mind was hazy, but somehow I knew that I was <em>flying</em>. The world around me was a constantly changing blur of shapes and colors. I rocketed through the air like a soundwave or particle of light, my body randomly bouncing in different directions.</p>
+<p>In this dream, I was soaring through the air, holding Eris in my arms. My mind was hazy, but somehow I knew that I was flying. The world around me was a constantly changing blur of shapes and colors. I rocketed through the air like a soundwave or particle of light, my body randomly bouncing in different directions.</p>
 <p>I didn&#x27;t know why this was happening. But I was certain of one thing: no matter what I tried, I was going to lose speed eventually, and plunge to the ground.</p>
 <p>So I concentrated. I looked at the ever-shifting scenery below us, trying to find a relatively safe place to land.</p>
-<p>Why did I feel the need to do this? Good question. Something inside me was just screaming that I <em>had</em> to, if I wanted to survive.</p>
+<p>Why did I feel the need to do this? Good question. Something inside me was just screaming that I had to, if I wanted to survive.</p>
 <p>Still, we were going way too fast. It was like staring into the reels of a slot machine, except everything was moving much, much faster. Focusing more intently, I gathered magical energy into my eyes…and for just a moment, we suddenly slowed down.</p>
 <p><em>Oh crap. I&#x27;m gonna fall.</em></p>
 <p>Panic welled in my chest, but I could now see the land below me clearly. I needed to find a field. Falling into the sea or smashing into a mountain wouldn&#x27;t be good. Forests were obviously dangerous, but if I managed to aim for a field…</p>
@@ -29,7 +29,7 @@ nav_title = "Chapter 1"
 <p>Had I really expected anything different? Please. A smooth, happy life like that was never in the cards for a guy like me.</p>
 <p>***</p>
 <p>Eventually, I noticed that a weirdo had appeared in front of me. The individual in question had a blank, white face, marked only by a big, wide grin.</p>
-<p>Maybe <em>blank</em> wasn&#x27;t the right word. I just couldn&#x27;t make out any distinguishing features. When I looked at any specific part of that face, it slipped instantly out of my memory; my mind refused to form an image of the larger whole. It almost felt as if this…person, was being blurred out by a pixelated mosaic.</p>
+<p>Maybe blank wasn&#x27;t the right word. I just couldn&#x27;t make out any distinguishing features. When I looked at any specific part of that face, it slipped instantly out of my memory; my mind refused to form an image of the larger whole. It almost felt as if this…person, was being blurred out by a pixelated mosaic.</p>
 <p>Still, I somehow sensed that I was dealing with someone calm and patient.</p>
 <p>&quot;Hey there. Nice to meet you, Rudeus.&quot;</p>
 <p>Hm. I&#x27;d been so busy feeling sorry for myself, and now I had some weird, censored-porno guy chatting me up.</p>
@@ -76,7 +76,7 @@ nav_title = "Chapter 1"
 <p><em>So, this is only a dream? When I wake up, I won&#x27;t find myself back in this crappy body?</em></p>
 <p>&quot;Exactly. Since you&#x27;re dreaming at the moment, you&#x27;ll be back to normal once you wake up. Feel better now?&quot;</p>
 <p><em>Phew. Okay. So this is all just some weird dream…</em></p>
-<p>&quot;Well, it&#x27;s not <em>just</em> a dream. I&#x27;m speaking directly into your mind right now. Hard to believe your mental image of yourself is so different from your body…&quot;</p>
+<p>&quot;Well, it&#x27;s not just a dream. I&#x27;m speaking directly into your mind right now. Hard to believe your mental image of yourself is so different from your body…&quot;</p>
 <p><em>Telepathy, huh? Well, all right. But what do you actually want with me? Do you plan to send me back to my old world? Since I don&#x27;t belong here or whatever?</em></p>
 <p>&quot;Don&#x27;t be ridiculous. I couldn&#x27;t send you anywhere outside the Six-Faced World, obviously.&quot;</p>
 <p><em>Hmph. Maybe that&#x27;s obvious to you, but I&#x27;m totally in the dark here.</em></p>
@@ -90,7 +90,7 @@ nav_title = "Chapter 1"
 <p><em>I don&#x27;t know what&#x27;s going on here, but you&#x27;re obviously a shady character. That means I&#x27;m better off ignoring you completely.</em></p>
 <p>&quot;Aw. Do I really seem that shady?&quot;</p>
 <p><em>Oh hell yes. You couldn&#x27;t act more like a conman if you tried. Reminds me of those scammers I used to run into playing MMOs. The instant you let yourself get into a conversation, they were already messing with your head.</em></p>
-<p>&quot;I&#x27;m not a conman! I won&#x27;t even ask you to <em>follow</em> my advice, okay?&quot;</p>
+<p>&quot;I&#x27;m not a conman! I won&#x27;t even ask you to follow my advice, okay?&quot;</p>
 <p>&quot;Come oooon! Trust me!&quot;</p>
 <p><em>You&#x27;re awfully whiny for a deity. Look. It&#x27;s not like I even worship you, whoever you are. The only god I care about is the one who actually made the miracle of my reincarnation happen. Why would I trust some other guy who pops into my head and says all sorts of weird crap? Oh, and people who talk about &quot;trust&quot; are always liars. Words of wisdom from one of my favorite books.</em></p>
 <p>&quot;C&#x27;mon, don&#x27;t be so stubborn. Just give me one little chance.&quot;</p>
@@ -104,7 +104,7 @@ nav_title = "Chapter 1"
 <p>&quot;The Demon Continent is a rather harsh place. For one, there isn&#x27;t much of anything to eat. For another, it&#x27;s absolutely swarming with monsters, especially compared to the Central Continent. And I know you can speak the language, but things work rather differently here. Are you really confident you can survive?&quot;</p>
 <p><em>The Demon Continent? What? Hold on. You mean that huge lump of land way out on the edge of the world? Why would I be way the heck out there?</em></p>
 <p>&quot;You got caught up in a huge magical disaster. You ended up being teleported here.&quot;</p>
-<p><em>A magical disaster…? Are you talking about that light I saw?</em> &quot;That&#x27;s right.&quot;</p>
+<p>A magical disaster…? Are you talking about that light I saw? &quot;That&#x27;s right.&quot;</p>
 <p><em>So that was some sort of teleportation spell. Hmm.</em></p>
 <p><em>…Wait, I&#x27;m not the only one who got hit by that thing. I wonder if everyone else back in Fittoa is all right. Buena Village is pretty far away from Roa, so it&#x27;s probably fine… but I&#x27;m still worried about my family.</em></p>
 <p><em>…You have any insight on that, buddy?</em></p>
@@ -114,7 +114,7 @@ nav_title = "Chapter 1"
 <p><em>Well…sure. Of course they would.</em></p>
 <p>&quot;Hmmm. You really believe that? Isn&#x27;t there a part of you that thinks…they might glad to have seen the last of you?&quot;</p>
 <p><em>…Yeah, I&#x27;d be lying if I said the thought hadn&#x27;t crossed my mind. By the end of my last life, nobody cared if I lived or died. And I&#x27;ve still got some self-esteem issues stemming from that.</em></p>
-<p>&quot;Well, people care about you in <em>this</em> world. You&#x27;d better make it back to them in one piece.&quot;</p>
+<p>&quot;Well, people care about you in this world. You&#x27;d better make it back to them in one piece.&quot;</p>
 <p><em>Yep. You&#x27;re right.</em></p>
 <p>&quot;I won&#x27;t make any guarantees, but I think you&#x27;ll stand a very good chance of getting back alive if you do follow my advice.&quot;</p>
 <p><em>Wait. Before we get to that, I want to know why you&#x27;re doing this. Why do you care so much about me?</em></p>
@@ -126,7 +126,7 @@ nav_title = "Chapter 1"
 <p><em>And what could possibly be so &quot;fun&quot; about watching me anyway?</em></p>
 <p>&quot;Maybe that wasn&#x27;t the right choice of words. You&#x27;re very…interesting, that&#x27;s all. I hardly ever get the chance to see someone from an entirely different world! I&#x27;d like to help you meet all sorts of people and see what comes of it.&quot;</p>
 <p><em>Great. So I&#x27;m the pet monkey and you&#x27;re giving me some vague instructions to see if I can reach my goal. That sound about right?</em></p>
-<p>&quot;<em>Sigh…</em> Look here. You haven&#x27;t forgotten my original question, have you?&quot;</p>
+<p>&quot;Sigh… Look here. You haven&#x27;t forgotten my original question, have you?&quot;</p>
 <p><em>What original question?</em></p>
 <p>&quot;Let me repeat myself then. Are you confident you can survive here? Stranded in a dangerous, unfamiliar land?&quot;</p>
 <p><em>…No. Not really.</em></p>

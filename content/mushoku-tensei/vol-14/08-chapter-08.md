@@ -37,7 +37,7 @@ nav_title = "Chapter 8"
 <p>The three of us—Zanoba, Elinalise, and me—could create an opening for Cliff to slip through and teleport back to the fortress. While he persuaded Perugius to come save us, we would have to hold out against Atofe. Assuming Cliff succeeded, Perugius would then come to our rescue.</p>
 <p>But would that work? Could we really hold out that long? And could Cliff actually sway Perugius into helping? If Cliff took too much time, we might lose and be forced into a contract anyway. Still, if Cliff went back, at least Nanahoshi would be saved. That was the whole reason for our endeavor. But I also wanted to go home.</p>
 <p><em>Ah, crap. I&#x27;m just spinning my wheels at this point.</em></p>
-<p>I took a breath and told myself, <em>Calm down.</em></p>
+<p>I took a breath and told myself, Calm down.</p>
 <p>First, we needed to immobilize Atofe for a short time. During that window I would disperse the other knights with my magic so Cliff could escape. Depending on how things worked out, the rest of us might even be able to flee with him.</p>
 <p><em>All right, let&#x27;s do it then.</em></p>
 <p>We might not be able to beat Atofe, but we could absolutely beat her personal guard.</p>
@@ -63,7 +63,7 @@ nav_title = "Chapter 8"
 <p>since it was King-tier magic with the best firepower when facing a single opponent, but at this distance, we might get caught in the spell. I wanted to avoid being a total idiot and wiping us out with my own magic.</p>
 <p>&quot;Phew…&quot; I exhaled before concentrating my mana into the staff.</p>
 <p>Atofe stood still. She already knew that I could use magic without reciting any incantations, but she made no move to interrupt me. That worked out perfectly for me.</p>
-<p>My Eye of Foresight read her movements: <em>Atofe will deflect my Stone Cannon with her sword.</em> People said my Stone Cannon was at an insanely high level of magic, but even that wasn&#x27;t going to work against Atofe.</p>
+<p>My Eye of Foresight read her movements: Atofe will deflect my Stone Cannon with her sword. People said my Stone Cannon was at an insanely high level of magic, but even that wasn&#x27;t going to work against Atofe.</p>
 <p><em>Maybe Electric would work better? But can I really use a spell she&#x27;s most on guard for?</em></p>
 <p>&quot;Master, I swear I will follow up whatever attack you unleash, so please have faith in me.&quot; Zanoba stared straight at me, eyes brimming with confidence.</p>
 <p>&quot;…Yeah.&quot; It was reassuring to hear him say that. Clearly, he had some kind of plan. In that case, I&#x27;d just follow his lead. &quot;All right, then here we go!&quot;</p>
@@ -88,8 +88,7 @@ nav_title = "Chapter 8"
 <p><em>Crap.</em></p>
 <p>I could see where this was going.</p>
 <p>&quot;So you slipped past my defenses. I like your spirit!&quot;</p>
-<p>&quot;Haaaaah!&quot; Zanoba threw his fist. The strength behind it was enough to make my hair stand on end. His punch cut straight</p>
-<p>through the air as it closed in on her face. Atofe tried to deflect the blow with her gauntlet…</p>
+<p>&quot;Haaaaah!&quot; Zanoba threw his fist. The strength behind it was enough to make my hair stand on end. His punch cut straight through the air as it closed in on her face. Atofe tried to deflect the blow with her gauntlet…</p>
 <p>&quot;Gah?!&quot;</p>
 <p>…but she failed. His fist slammed against her glove, causing her to stumble as her armor warped under the force of his blow.</p>
 <p>&quot;Haaah!&quot;</p>
@@ -110,7 +109,7 @@ nav_title = "Chapter 8"
 <p>&quot;Your footwork is impressive, I&#x27;ll give you that,&quot; said Atofe. &quot;If you train under me, you might…&quot;</p>
 <p>&quot;Graaaaaah!&quot; Zanoba leaped up, throwing his arms open as he charged at Atofe. &quot;Aaaah!&quot; He wrapped his arms around her from the front, binding her in place, then lifted her up until her feet no longer touched the ground.</p>
 <p>&quot;Hmph, you bastard, have you no shame? Putting your arms around me like…guh!&quot;</p>
-<p>His arms were like a vice squeezing her. Black blood came gushing out of Atofe&#x27;s mouth. Apparently, this kind of attack <em>was</em> effective! Well, she was still an immortal demon king. Whatever damage she sustained would surely be temporary.</p>
+<p>His arms were like a vice squeezing her. Black blood came gushing out of Atofe&#x27;s mouth. Apparently, this kind of attack was effective! Well, she was still an immortal demon king. Whatever damage she sustained would surely be temporary.</p>
 <p>&quot;Master, now!&quot;</p>
 <p>&quot;…!&quot;</p>
 <p>His words brought me back to reality. He had Atofe restrained. This was our chance.</p>
@@ -125,8 +124,7 @@ nav_title = "Chapter 8"
 <p>Or so I thought. A voice sounded out:&quot;…raging flames consume my body. Burn In Place!&quot;</p>
 <p>A wave of heat spilled from one man, enveloping the others. That warmth began to counter my Frost Nova. The man who had cast the spell had steam pouring out of his arms as he defrosted the ice.</p>
 <p><em>So it was Moore…</em></p>
-<p>The old knight captain had started his chant the moment I lifted my staff, allowing him to counter my spell only seconds later. I was shocked at the amount of magical power he possessed, as well as how quickly he finished his incantation. I hadn&#x27;t pulled my punches with that spell. However, his magic only managed to free him and the two guards closest to him. The others were completely</p>
-<p>encapsulated in ice. There was still a great difference in our magical power, and I&#x27;d won that battle.</p>
+<p>The old knight captain had started his chant the moment I lifted my staff, allowing him to counter my spell only seconds later. I was shocked at the amount of magical power he possessed, as well as how quickly he finished his incantation. I hadn&#x27;t pulled my punches with that spell. However, his magic only managed to free him and the two guards closest to him. The others were completely encapsulated in ice. There was still a great difference in our magical power, and I&#x27;d won that battle.</p>
 <p><em>And now I&#x27;ve killed for the first time.</em></p>
 <p>&quot;I&#x27;m impressed at how much magical power you possess, being able to freeze all of us. Everyone, recite the incantation for Burn In Place!&quot;</p>
 <p>&quot;As you command! Fire Spirit who presides over all things between heaven and earth…&quot;</p>
@@ -168,11 +166,11 @@ nav_title = "Chapter 8"
 <p>Atofe had already headbutted him. He kept a vice grip on her even as blood poured from his forehead.</p>
 <p>Meanwhile, the other knights were slowly defrosting themselves. Steam was filling the area.</p>
 <p>&quot;Khh…&quot;</p>
-<p>What could I do to throw Moore off his pursuit? He was strong, and he had way more experience in battling with magic. Normal spells hadn&#x27;t worked against him. <em>Should I launch something more powerful at him?</em></p>
+<p>What could I do to throw Moore off his pursuit? He was strong, and he had way more experience in battling with magic. Normal spells hadn&#x27;t worked against him. Should I launch something more powerful at him?</p>
 <p>No. Even if a powerful spell stopped Moore, it would be pointless if Cliff got caught in the blast. Plus, Moore was insanely good at responding to whatever I threw at him, and he had that stupid armor, too…</p>
 <p>&quot;…!&quot;</p>
 <p>That was when I realized that the ground beneath me was wet, a result of the Frost Nova I had used moments ago. The soldiers had used Burn In Place to melt the ice I&#x27;d made, and now the ground was puddled with it. Moore was no exception, having been the first to defrost himself. Of course, Elinalise and I also had water at our feet.</p>
-<p>If Atofe had never seen <em>that</em> type of magic before, then surely Moore hadn&#x27;t either. No matter how experienced he was, he wouldn&#x27;t be able to counter a spell he had never seen before. Although if I used it, all of us—Elinalise, Zanoba, and myself included—would get hit by it. Only Cliff would remain unscathed. He was outside my spell&#x27;s radius. He would be fine.</p>
+<p>If Atofe had never seen that type of magic before, then surely Moore hadn&#x27;t either. No matter how experienced he was, he wouldn&#x27;t be able to counter a spell he had never seen before. Although if I used it, all of us—Elinalise, Zanoba, and myself included—would get hit by it. Only Cliff would remain unscathed. He was outside my spell&#x27;s radius. He would be fine.</p>
 <p>I made my choice in that instant. No hesitation.</p>
 <p>&quot;Electric!&quot;</p>
 <p>I poured enough mana into the spell to stun everyone without killing them.</p>
@@ -265,7 +263,7 @@ nav_title = "Chapter 8"
 <p>Atofe&#x27;s legs were still trembling violently under her as she pinned Perugius with a glare. &quot;Perugiuuuus!&quot;</p>
 <p>Her body looked smaller than it had before. Perhaps those gates were absorbing the Battle Aura she had wrapped around her.</p>
 <p>&quot;Do you seriously intend to break your oath?!&quot;</p>
-<p>&quot;I won&#x27;t break it. However, this <em>is</em> an exceedingly rare opportunity that I cannot afford to pass up.&quot; Perugius lifted his right hand. It had turned white, radiating with light so bright that it bathed the entire area. &quot;Armored Dragon Strike, First Slash.&quot;</p>
+<p>&quot;I won&#x27;t break it. However, this is an exceedingly rare opportunity that I cannot afford to pass up.&quot; Perugius lifted his right hand. It had turned white, radiating with light so bright that it bathed the entire area. &quot;Armored Dragon Strike, First Slash.&quot;</p>
 <p>He dropped his hand. All of the light pierced straight through Atofe.</p>
 <p>&quot;I won&#x27;t forget this, Perugiuuuus!&quot; Her entire body froze in place. Time seemed to lag for a second, and then she was hurled back through the air. Her body split in half as she went tumbling out of view.</p>
 <p>&quot;Hmph. It&#x27;s not as if that will kill you, anyway,&quot; Perugius muttered to himself. Having lost interest, he turned on his heel to leave. &quot;Sylvaril, collect the other four and tend to their wounds.&quot;</p>

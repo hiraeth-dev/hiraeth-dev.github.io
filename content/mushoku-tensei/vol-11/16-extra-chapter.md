@@ -41,19 +41,19 @@ nav_title = "Extra Chapter"
 <p>And yet, she decided only to rephrase her prayer.</p>
 <p>&quot;Please help everyone make it back safely.&quot;</p>
 <p>If Millis saw fit to grant this plea, Norn&#x27;s family would finally be whole again. They could finally live together, for the first time in many years. That was what Norn wanted more than anything.</p>
-<p>In fact…at the moment, it was the <em>only</em> thing she really wanted.</p>
+<p>In fact…at the moment, it was the only thing she really wanted.</p>
 <p>If even that was asking too much, she wasn&#x27;t sure what she was supposed to do.</p>
 <p>&quot;…&quot;</p>
 <p>By the time she finished with her prayers, Norn was feeling a bit better.</p>
 <p>Maybe the atmosphere in this church was nice. Or maybe she&#x27;d managed to sort out her thoughts by putting them into words.</p>
-<p>Either way, she found herself thinking, <em>I should come again.</em></p>
+<p>Either way, she found herself thinking, I should come again.</p>
 <p>***</p>
 <p>Norn attended her classes, did her exercises, and then headed to the church after school. This soon became her new routine.</p>
 <p>When she prayed, she always felt a little better afterward. It felt like she was doing her part, somehow.</p>
 <p>But then, one day, something gave way inside her.</p>
 <p>&quot;Please let everyone come back safe…&quot;</p>
 <p>When she murmured the same words she always did, a tear trickled from her eye. It ran slowly down her cheek before dropping off her chin. A second followed it, then a third; and all of a sudden, the dam had broken.</p>
-<p>Norn knew, of course, that she was only consoling herself by coming here. Praying made her feel like she was doing something, but she wasn&#x27;t, really. There wasn&#x27;t anything she <em>could</em> do.</p>
+<p>Norn knew, of course, that she was only consoling herself by coming here. Praying made her feel like she was doing something, but she wasn&#x27;t, really. There wasn&#x27;t anything she could do.</p>
 <p>That was how things always had been, and it was how things would always be. She was powerless, and she knew it.</p>
 <p>Sniffling, Norn covered her face, although there was no one here to hide it from.</p>
 <p>She felt pathetic. Pathetic and frustrated. She hated how useless she was.</p>
@@ -64,8 +64,7 @@ nav_title = "Extra Chapter"
 <p>He looked about the same age as her brother Rudeus. His hair was long enough in front that she could only barely make out his eyes. Something the way he looked at her made her think he was the headstrong type.</p>
 <p>&quot;Wh-who are you?&quot;</p>
 <p>The young man frowned irritably at the question. &quot;What, you don&#x27;t recognize me? I&#x27;m Cliff Grimoire. I&#x27;m a novice at this church. Just started here this year.&quot;</p>
-<p>For a mere novice, this young man seemed a little full of himself. But that arrogant tone helped spur Norn&#x27;s memory. She&#x27;d met him</p>
-<p>once before. He was a friend of her brother&#x27;s, and a somewhat notorious student at the University of Magic.</p>
+<p>For a mere novice, this young man seemed a little full of himself. But that arrogant tone helped spur Norn&#x27;s memory. She&#x27;d met him once before. He was a friend of her brother&#x27;s, and a somewhat notorious student at the University of Magic.</p>
 <p>Now that she thought about it, she&#x27;d seen him at this church as well. When they said mass here, he was often hanging around helping out the priest.</p>
 <p>&quot;Oh…right, of course. Hello.&quot; Wiping away her tears, Norn bowed her head slightly.</p>
 <p>Cliff snorted and strode closer to her. &quot;Something bothering you, then? Go ahead, tell me all about it.&quot;</p>
@@ -76,14 +75,13 @@ nav_title = "Extra Chapter"
 <p>&quot;I think you may be aware, but the woman Rudeus is traveling with is my wife. I&#x27;m worried about her, of course, but I have faith in Rudeus&#x27; skills. I&#x27;m confident that he&#x27;ll keep her safe. So for my part, I have an obligation to protect his family here in Sharia. If he risks his life for Lise, I&#x27;ll do the same for you and your sister.&quot;</p>
 <p>Now it made a bit more sense. Norn had known that Elinalise woman was once in her father&#x27;s party, but not that she was married. It figured, though, considering how beautiful she was.</p>
 <p>&quot;I&#x27;ve noticed you coming in to pray every day from the confession booth. But this is the first time you broke down in tears, right?&quot;</p>
-<p>Norn had no way of knowing this, but Cliff tended to use these quiet afternoon hours to get a bit of studying done inside the confession booth while waiting for the rare visitor. Normally, he</p>
-<p>stayed in there unless he had some chore to take care of, but he&#x27;d revealed himself when he saw Norn crying.</p>
+<p>Norn had no way of knowing this, but Cliff tended to use these quiet afternoon hours to get a bit of studying done inside the confession booth while waiting for the rare visitor. Normally, he stayed in there unless he had some chore to take care of, but he&#x27;d revealed himself when he saw Norn crying.</p>
 <p>&quot;…&quot;</p>
 <p>&quot;Go on, you can trust me. I&#x27;ll take care of everything,&quot; said Cliff confidently, thumping a hand to his chest. &quot;Is it an awkward problem? We can use the confession booth, if you like.&quot;</p>
 <p>Norn was a little wary of the offer. In her experience, it was usually wisest not to trust anyone you were meeting for the first time.</p>
 <p>But as she hesitated, she found herself remembering her brother—remembering the day he&#x27;d visited her in her dorm room. She remembered the look on his face. He&#x27;d been as anxious as she was.</p>
 <p>Maybe Cliff, for all his big talk, was feeling the same things as her. His wife, Elinalise, had set off for the Begaritt Continent. He&#x27;d probably wanted to go along with her, but he hadn&#x27;t been able to. Just like Norn.</p>
-<p>In that case…maybe he <em>could</em> understand how she was feeling. &quot;Well, actually…&quot;</p>
+<p>In that case…maybe he could understand how she was feeling. &quot;Well, actually…&quot;</p>
 <p>And so, Norn opened up to Cliff.</p>
 <p>At first, she explained, her brother had decided not to go to Begaritt. But then she&#x27;d pushed him to reconsider, and he&#x27;d eventually changed his mind.</p>
 <p>There was a chance that Rudeus would die as a result. Sylphie would be heartbroken, of course. She loved Rudeus very much, and they were about to have a child and start their own family. If Sylphie lost him now, it would be a crushing blow. Norn knew how badly it would hurt.</p>
@@ -92,7 +90,7 @@ nav_title = "Extra Chapter"
 <p>All she could do now was go to school, attend her lessons, and say a few prayers in the afternoon. But her prayers were just a way of comforting herself. She was powerless. There was nothing she could do to help.</p>
 <p>The more she thought about that, the sadder it made her. That, Norn concluded, was why she&#x27;d started crying.</p>
 <p>&quot;What, is that all?&quot; replied Cliff with a dismissive little snort.</p>
-<p>&quot;What do you mean, <em>&#x27;Is that all?&#x27;</em>&quot;</p>
+<p>&quot;What do you mean, &#x27;Is that all?&#x27;&quot;</p>
 <p>Norn had expected Cliff to understand, so his words felt like a kind of betrayal.</p>
 <p>But despite her sulky glare, Cliff snorted once again. &quot;Listen. I&#x27;m not trying to brag, but I hail from Millis—&quot;</p>
 <p>&quot;That&#x27;s where I came from too.&quot;</p>
@@ -104,18 +102,18 @@ nav_title = "Extra Chapter"
 <p>&quot;I see. Fortunately, I&#x27;m something of a genius, so I know the answer. Would you like to hear it? Hmm?&quot;</p>
 <p>&quot;…Yeah. Please.&quot;</p>
 <p>Cliff&#x27;s tone was getting on Norn&#x27;s nerves, but she did want to hear what he had to say.</p>
-<p>&quot;Very well then. First of all, think about the <em>reason</em> why I&#x27;m in this city. I was sent here because of the power struggle back home. Why? Because I&#x27;m too weak to defend myself. I&#x27;m young, inexperienced, and have no real authority. It would have been very simple for them to abduct me and use me as a hostage. My grandfather&#x27;s a sharp, ruthless man, but I&#x27;m a valuable part of his plans for the future. If his enemies kidnapped me, he would be forced to listen to their demands.&quot;</p>
+<p>&quot;Very well then. First of all, think about the reason why I&#x27;m in this city. I was sent here because of the power struggle back home. Why? Because I&#x27;m too weak to defend myself. I&#x27;m young, inexperienced, and have no real authority. It would have been very simple for them to abduct me and use me as a hostage. My grandfather&#x27;s a sharp, ruthless man, but I&#x27;m a valuable part of his plans for the future. If his enemies kidnapped me, he would be forced to listen to their demands.&quot;</p>
 <p>Norn could understand this. It wasn&#x27;t so different from the reason she&#x27;d been left behind here. If she were as powerful as Rudeus, she might have been traveling with him right now, or even making her way through the Begaritt Continent on her own.</p>
 <p>&quot;Basically, if I want to avoid becoming a hostage, I need the strength to defend myself from violence.&quot;</p>
 <p>&quot;Strength? What do you mean?&quot;</p>
 <p>&quot;I&#x27;m not talking about physical power. In my case, I&#x27;m focusing on studying, gathering as much information as I can, and learning new magic. Oh, and making friends counts too…especially if they have unusual skills or might rise into positions of power. When you&#x27;ve got strong allies on your side, it&#x27;s harder for your enemies to hurt you.&quot;</p>
-<p>This last point was something Cliff had only come to realize fairly recently, after falling in love with Elinalise and making friends with Rudeus. But there weren&#x27;t many people out there who could tolerate his attitude, so he hadn&#x27;t expanded his own social circle very much as of yet. Apart from Rudeus and Zanoba, there was <em>maybe</em> Nanahoshi, but that was about it.</p>
+<p>This last point was something Cliff had only come to realize fairly recently, after falling in love with Elinalise and making friends with Rudeus. But there weren&#x27;t many people out there who could tolerate his attitude, so he hadn&#x27;t expanded his own social circle very much as of yet. Apart from Rudeus and Zanoba, there was maybe Nanahoshi, but that was about it.</p>
 <p>&quot;So you&#x27;re training yourself, basically?&quot; asked Norn. &quot;For what?&quot;</p>
 <p>&quot;If I&#x27;m suddenly called back home to Millis one day, I want to bring new skills, new magic, and new connections with me. I&#x27;ll make use of them to help my grandfather and quickly secure myself a lofty position in the hierarchy of the church.&quot;</p>
-<p>This was all just a fantasy at this point, of course. But Cliff believed in it earnestly. As long as he trusted in his abilities and worked to develop them, he was <em>sure</em> this future would come to pass.</p>
+<p>This was all just a fantasy at this point, of course. But Cliff believed in it earnestly. As long as he trusted in his abilities and worked to develop them, he was sure this future would come to pass.</p>
 <p>&quot;That&#x27;s never going to happen, though,&quot; muttered Norn, staring down at the floor.</p>
 <p>No one was going to call her to the Begaritt Continent any time soon. Even if they did, she wouldn&#x27;t be of any use. If her brother and her father couldn&#x27;t deal with the situation by themselves, she certainly wasn&#x27;t going to be of any help.</p>
-<p>&quot;Oh, but it will. Not tomorrow, and not the day after tomorrow. But someday, there <em>will</em> come a day when our strength is put to the test. Perhaps it will be a year from now. Perhaps five, or even ten.&quot;</p>
+<p>&quot;Oh, but it will. Not tomorrow, and not the day after tomorrow. But someday, there will come a day when our strength is put to the test. Perhaps it will be a year from now. Perhaps five, or even ten.&quot;</p>
 <p>&quot;…&quot;</p>
 <p>&quot;Listen, Norn. There isn&#x27;t much we can do, now that we&#x27;ve been left behind. If we tried to go and help, we&#x27;d only get in the way.&quot;</p>
 <p>&quot;I know that…&quot;</p>
@@ -127,7 +125,7 @@ nav_title = "Extra Chapter"
 <p>&quot;You mean he abandoned his friend? He left him to die?&quot;</p>
 <p>&quot;No. Millis trusted his friend, and his friend trusted him. It was for that very reason that Peter fought to the death to slow the demons&#x27; advance, rather than retreating in defeat. And thanks to that sacrifice, their shared dream of victory and peace was realized.&quot;</p>
 <p>With this emphatic lecture at an end, Cliff stared down into Norn&#x27;s eyes.</p>
-<p>&quot;Now tell me, what is <em>your</em> dream?&quot;</p>
+<p>&quot;Now tell me, what is your dream?&quot;</p>
 <p>&quot;I just want my family to be reunited. I want us to be happy again.&quot;</p>
 <p>&quot;Then do what you can to realize that goal. Study hard and learn your magic. It will be a great relief to your brother Rudeus and your father, wherever they might be.&quot;</p>
 <p>&quot;What am I supposed to do after that? After I&#x27;ve learned what I can, I mean?&quot;</p>
@@ -135,7 +133,7 @@ nav_title = "Extra Chapter"
 <p>&quot;In the end, you pray. Saint Millis is always watching over us.&quot;</p>
 <p>If Cliff had been speaking to Rudeus, the mage would have rolled his eyes at this. But Norn wasn&#x27;t like her brother.</p>
 <p>She was moved by these words. For the first time, she felt that the things she&#x27;d learned in church truly were meaningful.</p>
-<p>Her teachers back in Millis had always told her to end every day with a prayer. It had seemed a bit arbitrary at the time—why not <em>begin</em> the day with a prayer?</p>
+<p>Her teachers back in Millis had always told her to end every day with a prayer. It had seemed a bit arbitrary at the time—why not begin the day with a prayer?</p>
 <p>But now she understood. There had been a reason for it after all.</p>
 <p>&quot;I think I understand. I&#x27;ll focus on doing what I can for now.&quot;</p>
 <p>&quot;I&#x27;m very glad to hear that. If you run into any trouble or need help with your studies, feel free to seek me out. I&#x27;m usually here at this time of day, but you can also find me at my laboratory on campus.&quot;</p>

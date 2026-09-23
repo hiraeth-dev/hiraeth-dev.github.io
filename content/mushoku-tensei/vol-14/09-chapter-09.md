@@ -22,7 +22,7 @@ nav_title = "Chapter 9"
 <p>Her expression was different from her usual tense one. Rather, she looked like she was dazed from having just woken up. Her hair was a disheveled mess, sticking out in every direction. I used to think she lived an unhealthy lifestyle, but at least she kept her hair brushed every day.</p>
 <p>&quot;Thank you for helping me.&quot; She bowed her head, hands cupped around a warm mug of Sokas Grass tea. Her formality and sincerity were a rare display. &quot;I truly appreciate you shouldering so much risk to go get these tea leaves for me. You, um…really helped me out.&quot;</p>
 <p>There was something deeply unsettling about hearing her talk like that.</p>
-<p><em>Nah, I&#x27;m sure she&#x27;s just feeling weak, so she&#x27;s kind of out of it.</em> &quot;No sweat.&quot;</p>
+<p>Nah, I&#x27;m sure she&#x27;s just feeling weak, so she&#x27;s kind of out of it. &quot;No sweat.&quot;</p>
 <p>&quot;You looked after me last time I was in trouble, too. I said some pretty insensitive things to you, and yet you helped me without ever resenting me for it. I don&#x27;t even know how to begin to thank you…&quot; She gave me an apologetic look.</p>
 <p>I&#x27;d never witnessed Nanahoshi acting so politely. Maybe Yuruzu of Atonement&#x27;s abilities could transfer personalities on top of stamina.</p>
 <p>&quot;Now that I think about it, I was pretty casual and crude with you, even though you&#x27;re older than me.&quot;</p>
@@ -51,7 +51,7 @@ nav_title = "Chapter 9"
 <p>&quot;All right, then I would like some detailed advice on a small matter.&quot;</p>
 <p>She frowned. &quot;What small matter?&quot;</p>
 <p>&quot;For instance, what does a girl around my age want? Sylphie and I have a long future ahead of us. We&#x27;re married and have a child, but I still don&#x27;t know what&#x27;s going through her head. Given that you&#x27;re about the same age, I thought you might know something.&quot;</p>
-<p>&quot;About what Sylphie&#x27;s thinking?&quot; Nanahoshi stroked her chin and stared down at her blanket. She seemed to be seriously considering the matter. <em>She sure is dedicated to paying me back.</em></p>
+<p>&quot;About what Sylphie&#x27;s thinking?&quot; Nanahoshi stroked her chin and stared down at her blanket. She seemed to be seriously considering the matter. She sure is dedicated to paying me back.</p>
 <p>&quot;You don&#x27;t have to answer right now,&quot; I said. &quot;You can wait until we have a fight or I want to make up with Sylphie or something.&quot;</p>
 <p>&quot;All right.&quot; Nanahoshi nodded, her expression sincere.</p>
 <p>Although she was close in age to Sylphie, there was much that separated them; they came from different worlds and Sylphie was married. Nanahoshi couldn&#x27;t understand her completely. Even I had no idea what the guys my age were thinking.</p>
@@ -66,7 +66,7 @@ nav_title = "Chapter 9"
 <p>If I brought Sylphie to a place like this and whispered sweet nothings to her, how would she respond? Knowing her, she would probably turn bright red, drop her gaze to the ground, and squeeze my hand. Surely her reaction would be an adorable one.</p>
 <p><em>All right, once Sylphie fully recovers, let&#x27;s give it a try!</em></p>
 <p>I wanted to do the same with Roxy, but alas, demons were forbidden from entering the fortress. Also, it probably wouldn&#x27;t go over very well, considering Roxy&#x27;s personality. She&#x27;d probably stare blankly at me and say, &quot;You know you don&#x27;t have to use those corny lines with me, right?&quot; She&#x27;d be willing to sleep with me regardless. She was frank that way, even though she didn&#x27;t look it.</p>
-<p><em>But that ain&#x27;t it! It ain&#x27;t about sex. I just wanna be lovey-dovey!</em> I wanted us to watch the sunset together. Roxy would say, &quot;It sure is beautiful, isn&#x27;t it?&quot; And I would reply, &quot;Yeah, but not as beautiful as you.&quot; And then she would blush and act embarrassed—that was what I wanted to see!</p>
+<p>But that ain&#x27;t it! It ain&#x27;t about sex. I just wanna be lovey-dovey! I wanted us to watch the sunset together. Roxy would say, &quot;It sure is beautiful, isn&#x27;t it?&quot; And I would reply, &quot;Yeah, but not as beautiful as you.&quot; And then she would blush and act embarrassed—that was what I wanted to see!</p>
 <p><em>Well, she isn&#x27;t here anyway, so I&#x27;m outta luck.</em></p>
 <p>&quot;Hm?&quot;</p>
 <p>As I walked, lost in thought, I spotted a table at the edge of the garden. Three people sat around it.</p>
@@ -84,13 +84,12 @@ nav_title = "Chapter 9"
 <p>&quot;I heard that it was your magic that weakened Atofe so greatly, Rudeus,&quot; he said.</p>
 <p>&quot;No, that was largely thanks to Zanoba locking her in place. If I had aimed my spell at her without his help, she may have deflected it.&quot;</p>
 <p>&quot;I see, yes. Hehe, that image of her still lingers in my mind.&quot; His face cracked into an obscene grin.</p>
-<p><em>Does he really hate Atofe that much?</em> He was in a good mood.</p>
+<p>Does he really hate Atofe that much? He was in a good mood.</p>
 <p>&quot;You seem to be quite chipper,&quot; I said.</p>
 <p>&quot;Of course I am. Never in my wildest dreams did I think I would get an opportunity to exact revenge on someone who has given me grief so many times I have lost count.&quot;</p>
 <p>&quot;Revenge, you say?&quot;</p>
 <p>&quot;Yes. A grudge, if you will, that&#x27;s lasted a number of years.&quot;</p>
-<p>He was probably referring to the war that happened 400 years ago—Laplace&#x27;s War. Perugius was a young adventurer at the time, but he aided the humans, fighting on the front lines. Atofe had also spearheaded some of the demons&#x27; forces, acting as a general. Perugius encountered her many times on the battlefield. Since he was young and inexperienced, he wasn&#x27;t able to beat her, instead sustaining life-threatening injuries at each encounter. Two people</p>
-<p>who saved him back then: the Dragon God Urupen, an older brothertype figure to Perugius, and North God Kalman.</p>
+<p>He was probably referring to the war that happened 400 years ago—Laplace&#x27;s War. Perugius was a young adventurer at the time, but he aided the humans, fighting on the front lines. Atofe had also spearheaded some of the demons&#x27; forces, acting as a general. Perugius encountered her many times on the battlefield. Since he was young and inexperienced, he wasn&#x27;t able to beat her, instead sustaining life-threatening injuries at each encounter. Two people who saved him back then: the Dragon God Urupen, an older brothertype figure to Perugius, and North God Kalman.</p>
 <p>Perugius could only grit his teeth in frustration at each loss. He planned to eventually take revenge on Atofe, but then North God Kalman married her. When Kalman died, he made the two swear an oath that they wouldn&#x27;t kill each other. Thus, Perugius never went back to the Demon Continent, destroying his chances for revenge. He had almost given up hope on ever striking back at Atofe, but this timing was more perfect than he could have imagined. He took a shot at her without her coming after him in return. That was what had him on cloud nine.</p>
 <p>&quot;I must thank you for that,&quot; said Perugius. &quot;You did a splendid job.&quot;</p>
 <p>&quot;Are you sure it&#x27;s okay that you broke your oath to North God Kalman?&quot;</p>
@@ -111,8 +110,7 @@ nav_title = "Chapter 9"
 <p>&quot;If you use this in any place I have a connection to, Clearnight of the Roaring Thunder will hear it, and Arumanfi will come to see you.&quot;</p>
 <p>I accepted the flute and tucked it away. It sounded like he would come to help me if I ever needed it. That wasn&#x27;t a bad solution either.</p>
 <p>&quot;Hm, seems the sun has set.&quot;</p>
-<p>I glanced back; the evening light had faded. Now the moon was hovering in the sky. Strangely enough, the area around us wasn&#x27;t</p>
-<p>dark. That was thanks to the blue glow the flowers in the garden gave off.</p>
+<p>I glanced back; the evening light had faded. Now the moon was hovering in the sky. Strangely enough, the area around us wasn&#x27;t dark. That was thanks to the blue glow the flowers in the garden gave off.</p>
 <p>&quot;This table is made from illuminators,&quot; Perugius explained. &quot;Go on, have a seat. Why don&#x27;t we continue to chat for a bit?&quot;</p>
 <p>Obediently, I plopped down.</p>
 <p>***</p>
@@ -144,11 +142,11 @@ nav_title = "Chapter 9"
 <p>The words rolled smoothly off Zanoba&#x27;s tongue. He wasn&#x27;t bringing this up on the fly. The two of them had enjoyed a number of tea parties without me; Zanoba must have gotten that information out of Perugius previously. Now I could see where this was going and it gave me hope.</p>
 <p>&quot;Of course, I am perfectly aware of your distaste for demons. However, I also believe that if my master&#x27;s skills had some public exposure, this type of craftsmanship would take the world by storm. Wouldn&#x27;t you like to see that happen? Imagine it—a splendid world overflowing with art.&quot;</p>
 <p>&quot;Hmm…&quot; Perugius pulled a face.</p>
-<p>We were so close to convincing him. <em>Maybe I should hop into the conversation, too?</em></p>
+<p>We were so close to convincing him. Maybe I should hop into the conversation, too?</p>
 <p>&quot;I hate the Superd. They move in the darkness, massacring innocent lives. Though it is also true that without Ruijerd&#x27;s help, I wouldn&#x27;t be alive today. However…&quot;</p>
 <p>&quot;Lord Perugius, Ruijerd regrets the things he did in the past,&quot; I blurted.</p>
 <p>&quot;He does?&quot; Perugius tilted his head.</p>
-<p><em>Now,</em> how <em>should I best explain this…</em></p>
+<p>Now, how should I best explain this…</p>
 <p>&quot;Yes. Laplace deceived him.&quot;</p>
 <p>&quot;Laplace, you say…&quot; Perugius&#x27;s face clouded over.</p>
 <p><em>Looks like this is a good direction.</em></p>
@@ -158,9 +156,8 @@ nav_title = "Chapter 9"
 <p>Perugius folded his arms, closed his eyes, and furrowed his brows. After a long silence, he finally said, &quot;I care not for the Superd and their reputation, but I must honor my debts.&quot;</p>
 <p>&quot;Oh, then?&quot;</p>
 <p>&quot;Do as you like.&quot;</p>
-<p>Although he wasn&#x27;t pleased, Perugius had acquiesced, at least. Now we could sell our Ruijerd figurines without fear of Arumanfi appearing out of nowhere and destroying our shop. In fact, if</p>
-<p>someone disapproved of our doing so, we could tell them that Perugius had given us his permission. I had no idea how much weight his name carried, but it was sure to be handy, given his fame.</p>
-<p><em>Anyway, Zanoba sure made a persuasive argument.</em> Being able to wriggle his way through such a difficult topic—he was definitely impressing me more and more lately. I needed to learn from his example.</p>
+<p>Although he wasn&#x27;t pleased, Perugius had acquiesced, at least. Now we could sell our Ruijerd figurines without fear of Arumanfi appearing out of nowhere and destroying our shop. In fact, if someone disapproved of our doing so, we could tell them that Perugius had given us his permission. I had no idea how much weight his name carried, but it was sure to be handy, given his fame.</p>
+<p>Anyway, Zanoba sure made a persuasive argument. Being able to wriggle his way through such a difficult topic—he was definitely impressing me more and more lately. I needed to learn from his example.</p>
 <p>&quot;We appreciate your consideration.&quot;</p>
 <p>Both Zanoba and I bowed our heads. We were one step closer to selling these figurines to the public.</p>
 <p><em>Just wait a bit longer for me, Ruijerd.</em></p>
@@ -198,7 +195,7 @@ nav_title = "Chapter 9"
 <p>&quot;I&#x27;m afraid I would have no idea how to answer the question, given I&#x27;m not royalty.&quot;</p>
 <p>&quot;What a dull reply. You don&#x27;t have to contemplate the answer, just say whatever comes to mind.&quot;</p>
 <p><em>That&#x27;s still kind of a tall order.</em></p>
-<p>A king, huh? What was a king supposed to be in the first place? I knew they appeared a lot in fantasy stories, but what did they actually <em>do</em>? They were someone at the top. A country&#x27;s ruler—like a prime minister, I knew that. To be honest, I didn&#x27;t have much of an interest in politics even in my previous life. All I did was look at how other people online reacted to politicians and followed their lead.</p>
+<p>A king, huh? What was a king supposed to be in the first place? I knew they appeared a lot in fantasy stories, but what did they actually do? They were someone at the top. A country&#x27;s ruler—like a prime minister, I knew that. To be honest, I didn&#x27;t have much of an interest in politics even in my previous life. All I did was look at how other people online reacted to politicians and followed their lead.</p>
 <p>&quot;Personally, I think I&#x27;d prefer a ruler who can put themselves in the shoes of the common folk, rather than someone who relies on their own abilities.&quot;</p>
 <p>&quot;Aha.&quot; Perugius exhaled, seeming impressed with my bland answer. &quot;Ariel, this boy just gave me a much better reply than you.&quot;</p>
 <p>After a pause, she argued, &quot;But a person cannot be king if they only ever think of the people.&quot;</p>

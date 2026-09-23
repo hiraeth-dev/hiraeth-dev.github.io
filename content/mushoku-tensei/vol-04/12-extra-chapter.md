@@ -19,10 +19,10 @@ nav_title = "Extra Chapter"
 <p>He succumbed to the fear and unleashed all of his mana. It was wind. He was unleashing wind. It felt as though it were striking him from directly below. Who was it that taught him that a bird rides the wind to fly in the sky? He couldn&#x27;t remember.</p>
 <p>The speed of his fall slowed momentarily, then quickly returned to its previous pace. Wind magic wasn&#x27;t going to cut it. Birds may have ridden wind to fly in the sky, but no matter how much wind you put under humans, they could not fly. Someone taught him that. Who? He couldn&#x27;t remember that, either.</p>
 <p>What was he supposed to do in a situation like this? His teacher had told him something. His teacher taught him a lot of things. What was it that his teacher had said?</p>
-<p><em>Think, think</em>, he chanted to himself.</p>
+<p>Think, think, he chanted to himself.</p>
 <p>His teacher said something about…how to fly? That&#x27;s right, about how it was impossible. You couldn&#x27;t fly—humans couldn&#x27;t fly. You had to use something in order to fly. His teacher had tried to fly before. Tried, failed, and put something on the ground, something soft to fall on.</p>
 <p>That was it! Something to soften the fall. Something soft. Something soft to wrap around himself. But just how soft was it supposed to be? How was he supposed to make it?</p>
-<p><em>I don&#x27;t know, I don&#x27;t know, I don&#x27;t know!</em> he screamed in his head. <em>What do I do, what do I do, what do I do?!</em></p>
+<p>I don&#x27;t know, I don&#x27;t know, I don&#x27;t know! he screamed in his head. What do I do, what do I do, what do I do?!</p>
 <p>He conjured water and tried to wrap it around himself. It didn&#x27;t work. It scattered immediately. He conjured wind and tried to boost himself again. It failed. That wasn&#x27;t going to work. He conjured earth…but he wasn&#x27;t sure how to use it! He conjured fire and…the wind…water? Earth? He didn&#x27;t know! He just didn&#x27;t know anymore!</p>
 <p>&quot;Aaah!&quot;</p>
 <p>He fell headfirst.</p>
@@ -36,8 +36,7 @@ nav_title = "Extra Chapter"
 <p>&quot;Wah…waah…&quot; Fitz looked pitiful, tears in his eyes, as he glanced at Luke. &quot;I-I&#x27;m so…sorry…&quot;</p>
 <p>&quot;Don&#x27;t apologize to me.&quot; Luke climbed down from his bed and gave a sigh as he scratched at his head. &quot;No one&#x27;s going to blame you.&quot;</p>
 <p>&quot;B-but, I&#x27;m old enough by now…and yet I&#x27;m still…still, well, wetting myself like this…&quot;</p>
-<p>&quot;You&#x27;re not the only one who had a terrifying experience that day.&quot; Luke shrugged as he said it, but he had a serious look on his face. His tone was entirely sincere. &quot;Besides, there&#x27;s lots of guys here who soil their sheets at night. The maids are used to it. Now hurry up, get changed and hand your shirts over to the person in charge of</p>
-<p>washing. Lady Ariel is waiting for us.&quot; Once Luke finished speaking, he left the room.</p>
+<p>&quot;You&#x27;re not the only one who had a terrifying experience that day.&quot; Luke shrugged as he said it, but he had a serious look on his face. His tone was entirely sincere. &quot;Besides, there&#x27;s lots of guys here who soil their sheets at night. The maids are used to it. Now hurry up, get changed and hand your shirts over to the person in charge of washing. Lady Ariel is waiting for us.&quot; Once Luke finished speaking, he left the room.</p>
 <p>Fitz wiped away his tears and crawled out of bed, grabbing his sunglasses from the nearby table and sliding them onto his face.</p>
 <p>***</p>
 <p>Fitz was a victim of the incident that decimated the Fittoa Region. He was transported into mid-air, a hundred meters above the ground. Like anyone else, Fitz was no exception to the law of gravity, so he fell.</p>
@@ -53,8 +52,7 @@ nav_title = "Extra Chapter"
 <p>&quot;&#x27;Lord Pilemon&#x27;? As if you don&#x27;t know him. Luke, that&#x27;s your father, isn&#x27;t it?&quot;</p>
 <p>&quot;I&#x27;ve been told to keep business and private matters separate.&quot;</p>
 <p>Once Fitz finished setting her hair, Ariel rose out of her seat and lifted her arms shoulder-high. Fitz immediately set about undressing her. Normally changing the princess&#x27; clothes would be a job for one of her ladies-in-waiting, but this was another custom she&#x27;d been practicing since she was a child.</p>
-<p>Fitz felt flustered as he peeled away the beautiful silks that were wrapped around Ariel&#x27;s vibrant white skin, exchanging them for clothes that a lady-in-waiting had prepared in advance. The clothing</p>
-<p>was complex, with a bizarre structure that Fitz wasn&#x27;t even sure how to wear. Yet he managed to slip it briskly onto her body.</p>
+<p>Fitz felt flustered as he peeled away the beautiful silks that were wrapped around Ariel&#x27;s vibrant white skin, exchanging them for clothes that a lady-in-waiting had prepared in advance. The clothing was complex, with a bizarre structure that Fitz wasn&#x27;t even sure how to wear. Yet he managed to slip it briskly onto her body.</p>
 <p>He wasn&#x27;t even sure how to dress people when he was first assigned the job. But he&#x27;d become quite skilled at it. Even a country bumpkin like Fitz could learn after being forced to do the same thing over and over again.</p>
 <p>&quot;Fitz…you messed up one of the buttons.&quot;</p>
 <p>&quot;Huh? Ah, yes, I&#x27;m sorry.&quot; Just then he&#x27;d gotten distracted, and the princess pointed out his mistake. Fitz hurried to try and fix it, but he wasn&#x27;t sure which button he&#x27;d slipped up on. With clothing like this, if you messed up a single step of the process it made it impossible to figure out where to start with fixing it.</p>
@@ -85,7 +83,7 @@ nav_title = "Extra Chapter"
 <p>&quot;Indeed, nothing seems to make them happier than seeing a womanizer like Luke stepping in so valiantly to look after the boy.&quot;</p>
 <p>&quot;They&#x27;re corrupting the morals of the imperial court.&quot;</p>
 <p>&quot;Not that the court particularly had any.&quot;</p>
-<p><em>Hahaha</em>, the nobles laughed.</p>
+<p>Hahaha, the nobles laughed.</p>
 <p>Fitz was always following Ariel around, and you could tell the boy was handsome beneath those sunglasses. So seeing him, Ariel, and Luke together encouraged many to dream up wild fantasies.</p>
 <p>&quot;I realize they&#x27;re both boys, but there&#x27;s something odd.&quot;</p>
 <p>&quot;Oh? What&#x27;s odd?&quot;</p>
@@ -96,10 +94,10 @@ nav_title = "Extra Chapter"
 <p>Homosexuality was not considered unusual to Asuran nobles. There were those with far stranger sexual preferences, so boys who fell in love with other beautiful boys did not warrant any surprise.</p>
 <p>&quot;But just where in the world did the princess find that boy?&quot;</p>
 <p>&quot;Who&#x27;s to say? But for Princess Ariel to offer such support makes me wonder. Perhaps he&#x27;s the illegitimate child of some highranking nobleman.&quot;</p>
-<p>&quot;Oh, so you <em>do</em> have an idea about where he&#x27;s from, then?&quot;</p>
+<p>&quot;Oh, so you do have an idea about where he&#x27;s from, then?&quot;</p>
 <p>&quot;Indeed. Several years ago I went to visit my cousin in the Fittoa Region. That cousin had attended the birthday ceremony for Lord Sauros&#x27; ten-year-old granddaughter.&quot;</p>
 <p>&quot;Oh, Lord Sauros&#x27; granddaughter… You mean the Boreas&#x27; redhaired monkey princess?&quot;</p>
-<p>&quot;Yes, the one with the reputation for going to school and beating up other children her age. The one who neglected her studies so much she couldn&#x27;t even greet people properly. <em>That</em> monkey princess.&quot;</p>
+<p>&quot;Yes, the one with the reputation for going to school and beating up other children her age. The one who neglected her studies so much she couldn&#x27;t even greet people properly. That monkey princess.&quot;</p>
 <p>&quot;And what does that have to do with this?&quot;</p>
 <p>&quot;Yes, well, according to my cousin&#x27;s story, that monkey princess had changed quite a bit. She greeted people politely, behaved in a ladylike manner, and danced magnificently.&quot;</p>
 <p>&quot;I&#x27;m sure the rumors have just been embellished. Perhaps it&#x27;s just that the monkey princess didn&#x27;t behave as a monkey for once?&quot;</p>
@@ -128,8 +126,7 @@ nav_title = "Extra Chapter"
 <p>It was early afternoon. Ariel was meeting with Luke&#x27;s father, Pilemon Notos Greyrat. Pilemon topped the list of Ariel&#x27;s supporters. While he had poor judgment, he was a young man acting as the Liege Lord of the Milbotts Region. Every time something came up, he would pay her a visit to discuss the future.</p>
 <p>Ariel currently didn&#x27;t have many supporters. She wasn&#x27;t an adult yet, and although she was popular with the general public, she didn&#x27;t enjoy the same level of acclaim amongst the nobles. That was why they were presently laying groundwork with them.</p>
 <p>The powerful, high-ranking nobles who backed the first or second prince wouldn&#x27;t simply double-cross them to support Ariel. They had already established their positions within their factions.</p>
-<p>That was why Pilemon suggested capturing the undecided voters. This meant winning over noblemen from the countryside who didn&#x27;t involve themselves with the continent&#x27;s political disputes, as well as middle- and lower-ranking nobles who didn&#x27;t hold much power. Then Pilemon would use his power to appoint them as</p>
-<p>government officials, placing those who were exceptional in lower (albeit important) positions.</p>
+<p>That was why Pilemon suggested capturing the undecided voters. This meant winning over noblemen from the countryside who didn&#x27;t involve themselves with the continent&#x27;s political disputes, as well as middle- and lower-ranking nobles who didn&#x27;t hold much power. Then Pilemon would use his power to appoint them as government officials, placing those who were exceptional in lower (albeit important) positions.</p>
 <p>Theirs was a strategy for the future, for ten or twenty years from now. A decade from now, those who supported Ariel thanks to Pilemon&#x27;s work would be in various key positions (even if they weren&#x27;t at the top) and would provide great support for her.</p>
 <p>&quot;The Knights&#x27; Guild, the Magicians&#x27; Guild, the Imperial Guard, and the City Watch… For these, we&#x27;ve laid the groundwork for all the key positions.&quot;</p>
 <p>&quot;It&#x27;s too early to say if the seeds we planted will bear fruit. It&#x27;s possible someone will see through our plan and pull it out by the root.&quot;</p>
@@ -137,8 +134,7 @@ nav_title = "Extra Chapter"
 <p>The Asura Kingdom hadn&#x27;t seen a civil war in a long time. As long as there was no solid proof left behind, even assassination in the court was permissible. Consequently, the nobles had forgotten the power of the military. Ariel and Pilemon, on the other hand, worked first and foremost to obtain the military&#x27;s support.</p>
 <p>&quot;It&#x27;s vexing to have to take such roundabout measures like this.&quot;</p>
 <p>&quot;Indeed.&quot; Pilemon was the head of the Notos Greyrat family, but he was younger than the other Greyrats and didn&#x27;t have much in the way of popularity or coin.</p>
-<p>Ariel was similar. She was part of the royal family, so she could use money freely, but it was clear at a glance that a huge gap lay between her and the other candidates. Her only edge was her</p>
-<p>popularity with the people, and popularity was quick to fade. The other princes didn&#x27;t do much to change the peoples&#x27; hearts. Popularity was too fickle to use as a linchpin.</p>
+<p>Ariel was similar. She was part of the royal family, so she could use money freely, but it was clear at a glance that a huge gap lay between her and the other candidates. Her only edge was her popularity with the people, and popularity was quick to fade. The other princes didn&#x27;t do much to change the peoples&#x27; hearts. Popularity was too fickle to use as a linchpin.</p>
 <p>But just who was it that she was fighting, and for what purpose?</p>
 <p>&quot;But Your Highness, a solid and steady path is the quickest one.&quot;</p>
 <p>&quot;Yes, of course. I know that. Obtaining the crown requires one to take the winding road.&quot;</p>
@@ -274,7 +270,7 @@ nav_title = "Extra Chapter"
 <p>&quot;Phew…&quot;</p>
 <p>The feeling that he&#x27;d killed someone hadn&#x27;t sunk in yet.</p>
 <p>&quot;Oh…Princess Ariel, are you all right?&quot; He hurried back into the room to confirm she was safe. Midway there, his legs turned into noodles. &quot;H-huh?&quot; The tips of his toes went numb and he collapsed on the spot, his body giving out from beneath him.</p>
-<p><em>Poison…!</em> It was already too late by the time he realized, and his whole body began to shake as his consciousness grew dim. <em>Detoxification magic…!</em> If Fitz had been an ordinary magician, or if he hadn&#x27;t been able to execute his spell without chanting, then he probably would have died instantly.</p>
+<p>Poison…! It was already too late by the time he realized, and his whole body began to shake as his consciousness grew dim. Detoxification magic…! If Fitz had been an ordinary magician, or if he hadn&#x27;t been able to execute his spell without chanting, then he probably would have died instantly.</p>
 <p>Even as his consciousness was consumed by darkness, he managed to cast the detoxification magic. Then he looked at his surroundings. Ariel was safe, and although he&#x27;d arrived late, Luke was there too.</p>
 <p>&quot;Luke, the assassin! Fitz defeated him, but he&#x27;s been poisoned! Call the doctor immediately! And the Imperial Guard. I think the assassin&#x27;s body fell down below.&quot;</p>
 <p>&quot;Understood!&quot; Luke nodded and rushed down the stairs as he called for the guard.</p>

@@ -12,8 +12,7 @@ nav_title = "Chapter 4"
 <p>Even better? The house was haunted.</p>
 <p>Surprisingly enough, a man named Rudeus Greyrat was attempting to move into the house. A former A-ranked adventurer and current student of the University of Magic, Rudeus had bought the house for himself and his future wife to live in. Peculiar taste, for sure. Not many people would choose such a place to begin their newlywed life.</p>
 <p>One man took up this client&#x27;s call: Balda of the Large Hollow, an artisan and renovator, and an expert architect affiliated with the Magicians&#x27; Guild in the Duchy of Basherant. He had thirty years of experience that encompassed everything from designing the layout of a building to actually constructing it. Having acquired his skills in the Holy Country of Millis, he had a number of notable achievements under his belt, such as constructing a detached school building for the University of Magic.</p>
-<p>Balda was a bit of a stubborn man, but a good one whose skills were undeniable. He always had a hammer by his side, and if he found something he didn&#x27;t like, even if it was a stranger&#x27;s house, he&#x27;d tear it down and rebuild it. Such was the temperament of a</p>
-<p>craftsman. He&#x27;d beat anything into shape with his hammer, whether it be buildings or his own pupils. That was how he&#x27;d acquired another nickname: Balda the Hammer.</p>
+<p>Balda was a bit of a stubborn man, but a good one whose skills were undeniable. He always had a hammer by his side, and if he found something he didn&#x27;t like, even if it was a stranger&#x27;s house, he&#x27;d tear it down and rebuild it. Such was the temperament of a craftsman. He&#x27;d beat anything into shape with his hammer, whether it be buildings or his own pupils. That was how he&#x27;d acquired another nickname: Balda the Hammer.</p>
 <p>&quot;Aha. We&#x27;re here. You must be Quagmire! Heard you&#x27;re gettin&#x27; married!&quot;</p>
 <p>The person who welcomed the artisan was the client himself, a man known on the streets as &quot;Rudeus the Quagmire,&quot; though more affectionately referred to as &quot;Quagmire&quot; by the artisan.</p>
 <p>&quot;Yes. I&#x27;m in your hands, Mister Balda.&quot;</p>
@@ -74,7 +73,7 @@ nav_title = "Chapter 4"
 <p>The client and artisan stood in the darkness of the basement.</p>
 <p>&quot;This is a nice basement area. The way it&#x27;s built, you&#x27;ll hardly ever get mice comin&#x27; in.&quot;</p>
 <p>&quot;Yes. Well, about this hidden door here. Behind it, I&#x27;d like you to create a room like this.&quot;</p>
-<p>&quot;Why&#x27;re you wantin&#x27; such a strange—ah, forget it. I won&#x27;t say nothin&#x27;. I&#x27;m a good follower of Millis, but it looks like <em>you</em> sure aren&#x27;t.&quot;</p>
+<p>&quot;Why&#x27;re you wantin&#x27; such a strange—ah, forget it. I won&#x27;t say nothin&#x27;. I&#x27;m a good follower of Millis, but it looks like you sure aren&#x27;t.&quot;</p>
 <p>Machinery and materials were brought into the basement to fulfill the client&#x27;s wishes, and the stains on the corners of the hidden door were completely washed away.</p>
 <p>***</p>
 <p>Two weeks later, when the renovations were finally complete, the client brought his wife along with him.</p>
@@ -171,7 +170,7 @@ nav_title = "Chapter 4"
 <p>&quot;Even though I said we&#x27;d get married, to be honest, I don&#x27;t know what I&#x27;m supposed to do. I went ahead and bought this house, but honestly, I can&#x27;t help feeling like I&#x27;ve rushed on ahead.&quot;</p>
 <p>&quot;I-I don&#x27;t feel that way at all. I&#x27;m really happy with everything you&#x27;ve done. In fact, I&#x27;m the one wondering if it&#x27;s really okay for me to live in such a luxurious place.&quot;</p>
 <p>&quot;Really? I&#x27;m glad to hear that you have no issues, but I wish to discuss what happens in the future.&quot;</p>
-<p><em>The future.</em> When I said that, her face went red, and for some reason, she started fidgeting. &quot;Um, I&#x27;m fine with however many you want. But elf blood runs strong through my veins, so it might be difficult to get me pregnant.&quot;</p>
+<p>The future. When I said that, her face went red, and for some reason, she started fidgeting. &quot;Um, I&#x27;m fine with however many you want. But elf blood runs strong through my veins, so it might be difficult to get me pregnant.&quot;</p>
 <p>&quot;Y-yeah.&quot;</p>
 <p>That was incredibly sexy to hear. This wasn&#x27;t modern Japan, after all. I&#x27;d have been disappointed to hear she wanted to put off having kids for financial reasons even though we just got married. That&#x27;s right. I was loyal to my instincts. And by that, I meant the natural animal instinct to reproduce. In other words, make babies.</p>
 <p>Even so, I intended to be understanding about her career. &quot;But what are you going to do about your work for Princess Ariel?&quot;</p>
@@ -181,11 +180,11 @@ nav_title = "Chapter 4"
 <p>&quot;I&#x27;ve already spoken with the Princess about that.&quot; Huh. Made sense. &quot;We plan to stay in this country for the next two years at the very least, and even then, it&#x27;s not as if we&#x27;ll make tracks for the Asura Kingdom the instant we graduate. We&#x27;re looking at roughly five more years. So, um…&quot;</p>
 <p>It seemed Sylphie had no intention of quitting her bodyguard work. The fact that quitting had never even been mentioned spoke volumes about the strength of her bond with Ariel and Luke. I wondered what the old Sylphie, the one who was entirely dependent upon me, would say. Perhaps she&#x27;d offer to throw it all aside to follow me. That would make me happy too, but…</p>
 <p>&quot;Sorry. Now that I think about it, it&#x27;s unfair to you, isn&#x27;t it? You&#x27;ve provided me with such a magnificent home, but I won&#x27;t be able to spend much time in it because of my work with Ariel. I guess I don&#x27;t really deserve to be your wife, do I?&quot; She lowered her head, face full of sorrow.</p>
-<p>It wasn&#x27;t a hard-and-fast rule here that the man worked while the woman stayed at home, perhaps because there wasn&#x27;t quite as much of a social power gap between men and women in this world. Still, it <em>was</em> the norm more often than not.</p>
+<p>It wasn&#x27;t a hard-and-fast rule here that the man worked while the woman stayed at home, perhaps because there wasn&#x27;t quite as much of a social power gap between men and women in this world. Still, it was the norm more often than not.</p>
 <p>&quot;Am I not good enough after all?&quot; Sylphie asked, eyes welling up with tears.</p>
-<p>I felt kind of guilty. I&#x27;d spent two years in abstinence. Once my libido was finally restored, the white-hot emotion that had been bottled up for those two—no, three years—came bursting forth, and the only thought in my head was <em>Sylphie = someone who will let me have sex with her.</em></p>
+<p>I felt kind of guilty. I&#x27;d spent two years in abstinence. Once my libido was finally restored, the white-hot emotion that had been bottled up for those two—no, three years—came bursting forth, and the only thought in my head was Sylphie = someone who will let me have sex with her.</p>
 <p>I didn&#x27;t think that was necessarily a bad thing. Sylphie had initiated it, after all, even giving me an aphrodisiac and letting me have my way with her even though it was her first time. Even though I was such a sex fiend that even the beastfolk were turned off by me. If she&#x27;d found me scary, she&#x27;d shown no sign of it. When I woke the next morning, she&#x27;d looked at me and smiled.</p>
-<p>If not now, then when? If not Sylphie, then whom? If I hesitated again, and she ended up marrying someone else, I was sure I&#x27;d regret it for the rest of my life. If she were taken from me—wait, that was right. Sylphie already belonged to <em>me.</em></p>
+<p>If not now, then when? If not Sylphie, then whom? If I hesitated again, and she ended up marrying someone else, I was sure I&#x27;d regret it for the rest of my life. If she were taken from me—wait, that was right. Sylphie already belonged to me.</p>
 <p>&quot;You&#x27;re mine, Sylphie.&quot;</p>
 <p>&quot;Eh?! Uh, yes. I&#x27;m yours, Rudy.&quot;</p>
 <p>&quot;So please—marry me.&quot;</p>
@@ -196,7 +195,7 @@ nav_title = "Chapter 4"
 <p>&quot;Well, I would like you to sleep with me every few days or so if possible, though.&quot;</p>
 <p>&quot;Huh?&quot;</p>
 <p>Ooops. My sexual desires had come spilling out.</p>
-<p>&quot;By sleep, do you mean <em>that</em>?&quot; she asked.</p>
+<p>&quot;By sleep, do you mean that?&quot; she asked.</p>
 <p>&quot;No, no, only if you want to, of course. If you&#x27;re not up for it, just let me grope your tiny breasts and we&#x27;ll be fine.&quot;</p>
 <p>&quot;Um, I&#x27;ll try my best, okay? I don&#x27;t want to make you restrain yourself, you know?&quot;</p>
 <p>&quot;Yeah, but don&#x27;t push yourself, either. When you&#x27;re exhausted, you need to recuperate. If you let me just touch you a little bit either before we go to bed or after we get up, I&#x27;ll take care of it myself.&quot;</p>

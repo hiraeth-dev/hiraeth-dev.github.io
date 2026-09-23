@@ -30,11 +30,10 @@ nav_title = "Chapter 4"
 <p>At Sylphie&#x27;s suggestion, I looked past the monster to see what appeared to be a stone shrine. Our destination, I assumed.</p>
 <p>&quot;What should we do? Fight it?&quot;</p>
 <p>Good question. For now, the monster hadn&#x27;t spotted us, so sneaking past was still an option…but I had a hunch that this was its territory, given that it showed no signs of leaving. A-rank monsters included ones that could reflexively dodge my Stone Cannon, so it wouldn&#x27;t be a pushover in a fight.</p>
-<p>I glanced at Eris and nodded. She looked like she heard me loud and clear, even though I still hadn&#x27;t said a word. Guess we were taking it down. We still hadn&#x27;t done anything trial-worthy up here, and I got the</p>
-<p>feeling we&#x27;d get a failing grade if we avoided it.</p>
+<p>I glanced at Eris and nodded. She looked like she heard me loud and clear, even though I still hadn&#x27;t said a word. Guess we were taking it down. We still hadn&#x27;t done anything trial-worthy up here, and I got the feeling we&#x27;d get a failing grade if we avoided it.</p>
 <p>&quot;Eris will draw its attention, I&#x27;ll bind its feet, and once I do, Sylphie and Roxy will attack it together. I don&#x27;t know if we can take it down in one hit, so aim for the wings first. If it looks like we can finish it off at that point, Eris will strike the final blow. If it looks like it can escape my Quagmire, Eris will buy some time while I finish it off. Okay?&quot;</p>
 <p>&quot;Got it!&quot; Eris confirmed as she leapt into the fray. She was like a dog who was sick of being told to stay put.</p>
-<p>I turned my eyes to the other two. Roxy and Sylphie both ran to take positions where they could support Eris from either flank. I&#x27;d almost forgotten—Sylphie was <em>fast</em>. I doubted she was fully recovered from giving birth…maybe that sort of recovery was something that healing magic could speed along.</p>
+<p>I turned my eyes to the other two. Roxy and Sylphie both ran to take positions where they could support Eris from either flank. I&#x27;d almost forgotten—Sylphie was fast. I doubted she was fully recovered from giving birth…maybe that sort of recovery was something that healing magic could speed along.</p>
 <p>Wait, the monster already noticed Eris.</p>
 <p>&quot;Gaaaaaaaaah!&quot;</p>
 <p><em>&quot;Goooooouuuwrhhh!!!&quot;</em></p>
@@ -50,13 +49,12 @@ nav_title = "Chapter 4"
 <p>There was no sound. Eris&#x27;s blade simply cleaved the monster&#x27;s head in two, straight down the middle. The monster&#x27;s eyes rolled back in its head as its body twitched. It didn&#x27;t stop moving. Its body spasmed, its neck twisted every which way like a hose spewing far too much water for it to handle. It mindlessly lashed out at everything within reach.</p>
 <p>One hit would have normally done the trick, but monsters start posing problems once they reach a certain size…</p>
 <p>&quot;Stone Cannon.&quot;</p>
-<p>My Stone Cannon spell slammed into the monster&#x27;s cranium. The attack wedged itself into the wound Eris opened, shredding the monster&#x27;s brain before exiting through the back of its skull. Bone and gray matter spewed behind the monster with a resounding <em>splat</em>. The monster fell lifelessly, as though the strings pulling it had suddenly been cut. Its neck dropped into the quagmire with a thud.</p>
+<p>My Stone Cannon spell slammed into the monster&#x27;s cranium. The attack wedged itself into the wound Eris opened, shredding the monster&#x27;s brain before exiting through the back of its skull. Bone and gray matter spewed behind the monster with a resounding splat. The monster fell lifelessly, as though the strings pulling it had suddenly been cut. Its neck dropped into the quagmire with a thud.</p>
 <p>&quot;…&quot;</p>
 <p>Eris watched with caution for a bit, but after deciding the battle was over, she turned to me and started waving. Roxy lifted her staff to signal that she was okay as well. Sylphie was looking toward the monster with great interest, as though she&#x27;d never seen one so enormous in her life.</p>
 <p>All right, that went well. We ganged up on it and emerged without a scratch. Things sure hadn&#x27;t gone this smoothly back when I was traveling through the Demon Continent. Eris and I had grown stronger.</p>
 <p>&quot;Mmahhh, waaaah!&quot;</p>
-<p>Oops. Sieg woke up from his sleep and he started fussing around on my back. Aww, poor baby. Are you hungry? Or do you not like being on your daddy&#x27;s back? Are you cold? If you are, sorry. We&#x27;ll be back home</p>
-<p>safe and sound soon enough.</p>
+<p>Oops. Sieg woke up from his sleep and he started fussing around on my back. Aww, poor baby. Are you hungry? Or do you not like being on your daddy&#x27;s back? Are you cold? If you are, sorry. We&#x27;ll be back home safe and sound soon enough.</p>
 <p>&quot;Oooh…&quot;</p>
 <p>Just then, I realized. That the look on my face had changed dramatically. My wives could tell as they approached me, too. I gritted my teeth as I spaced out in horror, my gaze fixed on the defeated monster. It was lying in the quagmire, lifeless.</p>
 <p>&quot;Oh!&quot;</p>
@@ -70,10 +68,9 @@ nav_title = "Chapter 4"
 <p>It looked to be a bit small to call a shrine. It was about one meter tall and two meters wide. Its stone double doors were half-ajar, wide enough to just barely let a single person through. On the door was an emblem I was familiar with. Yes, that same emblem that I&#x27;d been wearing as of late, the one that looked like a dragon from a distance.</p>
 <p>The emblem of the dragonfolk.</p>
 <p>These were dragonfolk ruins.</p>
-<p>I could see some sort of altar beside the ruins, but it was run-down and covered in moss. Perhaps this was some sort of magical implement? Something to hide the ruins from view. Compared to the ancient</p>
-<p>teleportation circles I&#x27;d grown accustomed to seeing, this one had a different air about it. People long ago must have made pilgrimages here.</p>
+<p>I could see some sort of altar beside the ruins, but it was run-down and covered in moss. Perhaps this was some sort of magical implement? Something to hide the ruins from view. Compared to the ancient teleportation circles I&#x27;d grown accustomed to seeing, this one had a different air about it. People long ago must have made pilgrimages here.</p>
 <p>The altar wasn&#x27;t the only difference here. Some details about the shrine itself differed from the ruins that housed those circles. The ancient teleportation circles that I knew were single-story buildings with a basement. From what I could tell through the half-ajar doorway, this shrine had stairs. Stairs that descended into darkness. When I tried knocking on the door with my gauntlet, the sound echoed for quite a while. It must go deep into the earth.</p>
-<p>Hmm… I know I was told to get a baptism here…but did a place like this really have anyone living inside? There <em>had</em> been a monster waltzing around right its doorstop, one that the locals dreaded handling.</p>
+<p>Hmm… I know I was told to get a baptism here…but did a place like this really have anyone living inside? There had been a monster waltzing around right its doorstop, one that the locals dreaded handling.</p>
 <p>&quot;Anybody home?&quot; I called out, to no reply. I turned around and gave the others a confused look, as though to suggest that we might have taken a wrong turn. All I got in return was Eris&#x27;s curt command: &quot;Get in there already.&quot;</p>
 <p>Well, guess I&#x27;d peek inside. If we found the wrong place, we could always keep looking.</p>
 <p>&quot;Pardon me…&quot; Just in case, I made my entrance known before setting foot inside.</p>
@@ -89,7 +86,7 @@ nav_title = "Chapter 4"
 <p>I didn&#x27;t sense any danger in this room, so I decided to call Sylphie and Roxy inside…but just as I thought to do that, I heard a tapping sound.</p>
 <p>Footsteps. Multiple sets of feet. They sounded like they came from that pathway next to the fountain.</p>
 <p>I took a stance to protect the door behind me. Eris followed by taking a step forward and readying her blade. I really did hope that those footsteps belonged to people who could be reasoned with…but if they looked like trouble, a temporary retreat was always an option.</p>
-<p>The owners of the footsteps revealed themselves. One look told me that these guys were trouble. It also told me that they <em>might</em> be reasoned with.</p>
+<p>The owners of the footsteps revealed themselves. One look told me that these guys were trouble. It also told me that they might be reasoned with.</p>
 <p>Across from us was a group of three people in masks. Sylvaril, Arumanfi, and Nanahoshi.</p>
 <p>&quot;You arrived rather quickly, Rudeus Greyrat.&quot;</p>
 <p>And then…Perugius appeared.</p>
@@ -99,7 +96,7 @@ nav_title = "Chapter 4"
 <p>&quot;What are you dawdling for? Bring your baby inside already.&quot;</p>
 <p>Despite my confusion, Perugius commanded me as though this was no surprise. He stood waiting by the side of the fountain.</p>
 <p>What was going on? For now, at least, it didn&#x27;t seem like we&#x27;d be getting into a fight. Nanahoshi was here, as though she were one of Perugius&#x27;s familiars, but he wouldn&#x27;t have brought her along if he planned to fight.</p>
-<p>Or wait, did I have that backward? Could he have brought Nanahoshi <em>because</em> he intended to fight? Maybe because I wouldn&#x27;t want her to get hurt? No, that would be ridiculous. This was the great Lord Perugius. He wouldn&#x27;t stoop to such a cowardly trick, right? <em>Right?</em></p>
+<p>Or wait, did I have that backward? Could he have brought Nanahoshi because he intended to fight? Maybe because I wouldn&#x27;t want her to get hurt? No, that would be ridiculous. This was the great Lord Perugius. He wouldn&#x27;t stoop to such a cowardly trick, right? Right?</p>
 <p>I decided I might as well allow Sylphie and Roxy inside. The moment Roxy entered, Perugius furrowed his brow for a moment.</p>
 <p>&quot;Lord Perugius, a demon…&quot;</p>
 <p>Sylvaril&#x27;s tone was disapproving. This was something I&#x27;d hoped she could overlook. This wasn&#x27;t the floating fortress, after all.</p>
@@ -124,7 +121,7 @@ nav_title = "Chapter 4"
 <p>Sylvaril gently wrapped Sieg in her arms and wings, walked toward Perugius, and took a knee. She reverently offered Sieg to Perugius. Perugius settled down on the altar, then looked closely at the baby before him.</p>
 <p>&quot;Hmm… Green hair, slightly pointed ears. Eyes like a piercing flash of light, yet he appears gentle overall. A good kid.&quot;</p>
 <p>I mean, I agreed…but I was getting nervous. Could this baptism show that Sieg was really Laplace, and then get him killed on the spot? It wasn&#x27;t like I didn&#x27;t trust him, but oooh, this was scary… I couldn&#x27;t bear to watch. I had to peer at it through my Demon Eye of Foresight.</p>
-<p>In the vision my Demon Eye showed me, <em>Perugius scoops some water with one hand.</em> A second later, that came to pass. Perugius lifted the water between tightly cupped hands. He proceeded to cross his arms, push his fists into his shoulders, and hold that pose in silence for a few seconds. Then, slowly, he opened his hands and brushed Sieg&#x27;s cheek.</p>
+<p>In the vision my Demon Eye showed me, Perugius scoops some water with one hand. A second later, that came to pass. Perugius lifted the water between tightly cupped hands. He proceeded to cross his arms, push his fists into his shoulders, and hold that pose in silence for a few seconds. Then, slowly, he opened his hands and brushed Sieg&#x27;s cheek.</p>
 <p>&quot;In the name of the Dragon King Perugius, I grant my blessings to this baby, this egg of mankind. By my hand, I baptize thee, and in my name, I christen thee. So that this child may break out of his shell and grow strong, wise, and gentle, I bestow upon him the name…Saladin.&quot;</p>
 <p>Perugius&#x27;s hand—or rather, the water than Perugius&#x27;s hand was drenched in—glowed a faint yellow. The water continued to glow for some time. Once Perugius saw that the light had faded, he lifted the baby up and handed him back to Sylvaril.</p>
 <p>The kneeling Sylvaril reverently accepted him and carried him gently as she stood. Slowly, Sylvaril returned to Sylphie and offered her the baby. Sylphie looked a bit dazed as she accepted Sieg into her arms.</p>
@@ -141,21 +138,21 @@ nav_title = "Chapter 4"
 <p>&quot;But it changed to yellow, right?&quot;</p>
 <p>&quot;He&#x27;s no Blessed Child, but the Laplace Factor he carries is strong. Have you not noticed his vigor or his unusual strength?&quot;</p>
 <p>&quot;I have.&quot;</p>
-<p>Huh, I <em>did</em> think it was strange how strong he was. That explained it. And hey, good health is hardly a bad thing.</p>
+<p>Huh, I did think it was strange how strong he was. That explained it. And hey, good health is hardly a bad thing.</p>
 <p>Still, he wasn&#x27;t Laplace. What a relief… But wait.</p>
 <p>&quot;Doesn&#x27;t that mean you had Arumanfi crash Sieg&#x27;s birth for absolutely no reason?&quot;</p>
-<p>&quot;For that, I apologize. Though by coincidence, it appears I summoned you at a poor time. Though it would have been an excellent time if your child really <em>had</em> been Laplace.&quot;</p>
+<p>&quot;For that, I apologize. Though by coincidence, it appears I summoned you at a poor time. Though it would have been an excellent time if your child really had been Laplace.&quot;</p>
 <p>Uhhh. Really wish you could&#x27;ve mentioned that earlier. Seriously, what the heck?</p>
 <p>&quot;So, what did we come all this way for…?&quot;</p>
 <p>&quot;For the baptism. Long ago, Asura Kingdom had a tradition in which the person tasked with granting a child their name would give that child a baptism and christening in the land of their birth. In addition, the parents would journey with their newborn to that land…though it&#x27;s a longforgotten tradition by now.&quot;</p>
 <p>&quot;Uh… Granting their name?&quot;</p>
 <p>&quot;Don&#x27;t give me that dumbstruck look. You once promised me, did you not? That you would bring your son for me to name. You may henceforth call this child Saladin.&quot;</p>
 <p>I did?</p>
-<p>Actually, wait, I got the feeling that I <em>might</em> have. When he told me to bring him, I think something to that effect did indeed get said by… someone. Me, maybe. I meant it as a joke, though…</p>
+<p>Actually, wait, I got the feeling that I might have. When he told me to bring him, I think something to that effect did indeed get said by… someone. Me, maybe. I meant it as a joke, though…</p>
 <p>&quot;But, um, this child…&quot;</p>
 <p>&quot;No need to thank me,&quot; Perugius declared as he stood up. &quot;It is but a small gift that I grant you.&quot;</p>
 <p>Sieghart. Uh… I was at a loss. Talk about an offer I couldn&#x27;t refuse.</p>
-<p>Oh, well. Sieghart Saladin Greyrat, then. It kinda rolled off the tongue. Sounded tough, too. Knowing the name came from Perugius himself gave it a real punch. Yep, not bad. About as <em>not bad</em> as <em>not bad</em> got. That was about how I felt about it.</p>
+<p>Oh, well. Sieghart Saladin Greyrat, then. It kinda rolled off the tongue. Sounded tough, too. Knowing the name came from Perugius himself gave it a real punch. Yep, not bad. About as not bad as not bad got. That was about how I felt about it.</p>
 <p>Sieg gained a new name, and our baptism journey came to an end.</p>
 <p>***</p>
 <p>Well…not quite.</p>
@@ -166,7 +163,7 @@ nav_title = "Chapter 4"
 <p>Real issue? We had a real issue?</p>
 <p>Ah, I see. Perugius must have had business beyond just my kid. Guess he wanted something else.</p>
 <p>&quot;Rudeus Greyrat.&quot;</p>
-<p>He looked down on me with a stern glare, completely unlike what he&#x27;d shown before. What was the deal? <em>What&#x27;d I do?</em></p>
+<p>He looked down on me with a stern glare, completely unlike what he&#x27;d shown before. What was the deal? What&#x27;d I do?</p>
 <p>&quot;I hear you&#x27;ve formed an alliance with Atofe.&quot;</p>
 <p>Oh, that… Yeah, Perugius wasn&#x27;t on great terms with Atofe. Maybe I should&#x27;ve given him a heads-up before asking her.</p>
 <p>&quot;Regardless of the forthcoming battle with Laplace, why would you speak to a woman such as her without so much as consulting me?&quot;</p>
@@ -226,7 +223,7 @@ nav_title = "Chapter 4"
 <p>&quot;Er, no. You don&#x27;t have to apologize.&quot;</p>
 <p>&quot;I had a moment of weakness.&quot;</p>
 <p>I patted Sieg&#x27;s head. He&#x27;d been asleep for a while now. When had he dozed off?</p>
-<p>This journey got me thinking—Sieg, he wasn&#x27;t as fragile as I thought. Not in terms of his power or his health. More like, his spirit was so <em>strong</em>.</p>
+<p>This journey got me thinking—Sieg, he wasn&#x27;t as fragile as I thought. Not in terms of his power or his health. More like, his spirit was so strong.</p>
 
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-23/insert-02.webp" alt="Illustration" loading="lazy" />

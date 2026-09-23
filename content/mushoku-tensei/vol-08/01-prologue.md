@@ -12,8 +12,7 @@ nav_title = "Prologue"
 <p>***</p>
 <p>Year Four-Hundred and Twenty-Two of the Armored Dragon.</p>
 <p>The Duchy of Basherant, a prominent country in the northwest of the Central Continent, was one of the three Great Magic Nations. Its third largest city was Pipin, and in this city lived an adventurer who had become the talk of the town. He was known on the streets as Quagmire.</p>
-<p>The man in question had been teleported a great distance during the Displacement Incident, and spent several years trying to return to the Fittoa Region. Upon his return, he—like many others despaired at the disaster&#x27;s aftermath. He traveled to the northern</p>
-<p>part of the Central Continent, also known as the Northern Territories, in search of a still-missing family member, where he scoured each country in turn while working as an adventurer.</p>
+<p>The man in question had been teleported a great distance during the Displacement Incident, and spent several years trying to return to the Fittoa Region. Upon his return, he—like many others despaired at the disaster&#x27;s aftermath. He traveled to the northern part of the Central Continent, also known as the Northern Territories, in search of a still-missing family member, where he scoured each country in turn while working as an adventurer.</p>
 <p>Quagmire&#x27;s mornings began early. As a deeply religious man, he was up before dawn to offer quiet prayer to a relic of his God, which was tucked away in a small box. But this was no sacrament of the Millis faith. In fact, those of the Millis faith would likely raise an eyebrow at the object of his worship. Regardless, he looked the picture of piety with his head bent in prayer.</p>
 <p>After his morning prayers, Quagmire would change into athletic attire and run laps around the town. As he would say, &quot;I may be a magician, but before that, I&#x27;m an adventurer. And an adventurer has to be able to move when the necessity arises.&quot; After about an hour of running, he would commence on a special training ritual from his hometown, the likes of which had never been seen in the Duchy of Basherant. He would lie prone with his belly on the ground and lift himself up by the arms, and he would do this a hundred times. Then he would lie on his back and lift his upper body toward his knees another hundred times. Once that was finished, he&#x27;d crouch and stand yet another hundred times. He did this routine daily, without fail.</p>
 <p>&quot;My muscles get jealous. If I don&#x27;t pay attention to them every day, they get all huffy with me. Just like a woman. Although, unlike a woman, they won&#x27;t just suddenly go off and disappear on me. Muscles don&#x27;t betray you. Isn&#x27;t that right, Hulk, Hercules?&quot;</p>
@@ -69,8 +68,7 @@ nav_title = "Prologue"
 <p>So, was Quagmire dead then?</p>
 <p>No—he was still alive! He&#x27;d quickly conjured an enormous wall of water to protect himself, and was still moving, cutting through the curtain of water vapor rising through the air. Ignoring the embers singing the edges of his robe, he created a stone cannon and launched this earthen bullet at high velocity.</p>
 <p>It pierced the wyrm&#x27;s scales. &quot;Graaaah!&quot; the creature shrieked.</p>
-<p>Quagmire lobbed shots at the creature, one after another. The red wyrm evaded several, but they were coming hard and fast, and</p>
-<p>eventually, the creature turned tail and ran. It was a clever beast. It understood quickly there was great power hidden within the small vessel that was Quagmire.</p>
+<p>Quagmire lobbed shots at the creature, one after another. The red wyrm evaded several, but they were coming hard and fast, and eventually, the creature turned tail and ran. It was a clever beast. It understood quickly there was great power hidden within the small vessel that was Quagmire.</p>
 <p>Quagmire didn&#x27;t pursue. Was he really going to let such perfect prey get away? For a moment that seemed to be the case, until…</p>
 <p>&quot;Gu-graaah!&quot; the beast roared.</p>
 <p>It had run straight into the pool of goop from before, sinking fast into the sticky mud. Quagmire channeled more mana into the swampy water, and as the wyrm struggled to break free, the goo clung to it even more firmly than before.</p>
@@ -95,8 +93,7 @@ nav_title = "Prologue"
 <p>Bam!</p>
 <p>The door to the pub swung open. Freezing air came billowing in. Everyone&#x27;s gazes turned. My body shook.</p>
 <p>&quot;I&#x27;ve finally found you, Rudeus the Quagmire!&quot;</p>
-<p>The new arrival was an elf with long hair in thick ringlets. She had the look of an adventurer, but was garbed in a dress, with a</p>
-<p>backpack and a sword and shield upon her hip. Her face was, in one word, beautiful. She had large, narrowed eyes, pointed ears, and radiant blonde hair. She was also incredibly thin, with a flat chest and did I mention the ears? She was truly the perfect picture of an elf.</p>
+<p>The new arrival was an elf with long hair in thick ringlets. She had the look of an adventurer, but was garbed in a dress, with a backpack and a sword and shield upon her hip. Her face was, in one word, beautiful. She had large, narrowed eyes, pointed ears, and radiant blonde hair. She was also incredibly thin, with a flat chest and did I mention the ears? She was truly the perfect picture of an elf.</p>
 <p>And she was pointing at me. Everyone&#x27;s eyes turned my way.</p>
 <p>&quot;Gah! So you were here after all, Quagmire…&quot; The guy who&#x27;d jeered earlier looked disgusted, but I considerately ignored him. I was generous, after all.</p>
 <p>&quot;So you&#x27;ve finally found me, eh…&quot; I said nonchalantly to the elf, even though I had no idea who the heck she was. I hadn&#x27;t done anything in the past few years that might give someone reason to hold a grudge against me. I&#x27;d helped people, avoided fights, and been careful not to attract the wrong kind of attention. This was the first time a beautiful woman had sought me out, but maybe I&#x27;d done enough general good that people were now seeking me out to give thanks?</p>
@@ -104,12 +101,12 @@ nav_title = "Prologue"
 <p>&quot;You stick out like a sore thumb, just like I was told you would. I found you immediately!&quot;</p>
 <p>&quot;Wait, you said &#x27;finally&#x27; just a second ago, didn&#x27;t you?&quot;</p>
 <p>&quot;I thought you would be further east,&quot; she said, her beautiful eyes staring straight at me. For some reason, there was drool trickling from her mouth. She licked it away.</p>
-<p>What, had she fallen for me instantly? Was her mouth watering at the sight of the athletic physique I&#x27;d recently built up? Hehehe, well, I <em>had</em> been getting fit lately. Plus I was right in the middle of puberty, and starting to bulk up.</p>
+<p>What, had she fallen for me instantly? Was her mouth watering at the sight of the athletic physique I&#x27;d recently built up? Hehehe, well, I had been getting fit lately. Plus I was right in the middle of puberty, and starting to bulk up.</p>
 <p>&quot;What&#x27;s wrong?&quot;</p>
 <p>&quot;No, no, nothing at all!&quot; The elf woman cleared her throat and took a seat beside me.</p>
 <p>The pub erupted in oohs and aahs. I hear people whisper, &quot;To think Quagmire had a woman all this time!&quot;</p>
 <p>I couldn&#x27;t believe it, either. It was enough of a shock to bring tears to my eyes.</p>
-<p>&quot;Phew.&quot; She put her backpack down and noisily scooted her chair toward me. She was close. I mean <em>really</em> close. Close enough that if I were a virgin, I might&#x27;ve mistakenly thought she liked me. <em>That&#x27;s dangerous, Miss. If you fall for me, you&#x27;ll get burned.</em></p>
+<p>&quot;Phew.&quot; She put her backpack down and noisily scooted her chair toward me. She was close. I mean really close. Close enough that if I were a virgin, I might&#x27;ve mistakenly thought she liked me. That&#x27;s dangerous, Miss. If you fall for me, you&#x27;ll get burned.</p>
 <p>&quot;My name is Elinalise, Elinalise Dragonroad. I&#x27;m your father Paul&#x27;s former party member—&quot;</p>
 <p>&quot;Oh.&quot; was it. Paul&#x27;s friend, huh? So that was it. She&#x27;d probably come bearing some kind of message.</p>
 <p>&quot;—and I&#x27;m also Roxy&#x27;s friend.&quot;</p>
@@ -117,8 +114,7 @@ nav_title = "Prologue"
 <p>&quot;More importantly!&quot; Instead of answering the number-one question on my mind, Elinalise leaned close enough to kiss me, and put her lips to my ear. &quot;I heard you killed a Red Wyrm all by yourself, didn&#x27;t you?&quot;</p>
 <p>&quot;Y-yeah, well, it was basically at death&#x27;s door, anyway.&quot;</p>
 <p>&quot;Now I understand why Roxy was so proud of you.&quot;</p>
-<p>Well, it hadn&#x27;t been an easy fight. It wouldn&#x27;t be an exaggeration to say it had had the least room for error of all the requests I&#x27;d taken in these past few years. It still paled in comparison to my confrontation with the Dragon God Orsted, though. Once</p>
-<p>you&#x27;d experienced something that extreme, you found yourself being strangely calm about other things by comparison.</p>
+<p>Well, it hadn&#x27;t been an easy fight. It wouldn&#x27;t be an exaggeration to say it had had the least room for error of all the requests I&#x27;d taken in these past few years. It still paled in comparison to my confrontation with the Dragon God Orsted, though. Once you&#x27;d experienced something that extreme, you found yourself being strangely calm about other things by comparison.</p>
 <p>&quot;I&#x27;m tickled pink to hear my teacher&#x27;s been boasting about me… No, that actually tickles. What are you doing?&quot;</p>
 <p>&quot;Touching your chest. You&#x27;re very strong.&quot; Elinalise was fingering my upper arms and chest. Still, it wasn&#x27;t a bad feeling, being told how strong I was. Her finger brushed the pendant Lilia had given me. &quot;My, my, how quaint. Who gave you this?&quot;</p>
 <p>&quot;Our maid.&quot;</p>
@@ -126,13 +122,13 @@ nav_title = "Prologue"
 <p>&quot;Huh? No, they&#x27;re not. My, my, why are you asking about that?&quot; I said. Oops. Now I was even talking like her.</p>
 <p>&quot;That&#x27;s not important.&quot; Elinalise didn&#x27;t seem bothered by my slip-up. She showed me the sheath that had been hanging from her hip. It had a pendant attached to it with the same shape as mine, albeit far more elaborately made. An amateur had made mine, while hers was clearly crafted by someone skilled, &quot;We match,&quot; she said, snuggling up against me.</p>
 <p>She&#x27;d been awfully touchy since she walked in. &quot;What&#x27;s going on here? Do you actually like me?&quot;</p>
-<p>&quot;Yes, you&#x27;re a good man. More so than I anticipated. I&#x27;m surprised. I thought you&#x27;d be more of a child, but… you&#x27;re so muscular, it&#x27;s <em>wooonderful</em>.&quot;</p>
+<p>&quot;Yes, you&#x27;re a good man. More so than I anticipated. I&#x27;m surprised. I thought you&#x27;d be more of a child, but… you&#x27;re so muscular, it&#x27;s wooonderful.&quot;</p>
 <p>She was probably just messing with me, but it kind of got my heart thumping. &quot;Uhhhm… heh, you&#x27;re quite beautiful yourself, miss.&quot;</p>
 <p>I wasn&#x27;t going to get all flustered, like some kind of virgin. I slipped my finger under her chin and tilted it up. When I did so, she softly closed her eyes, as if she were waiting for a kiss. Just I started to wonder just what kind of joke this was, her hand slipped around the back of my head.</p>
 <p>Seriously? I was definitely feeling some sexual vibes here, but, uh? Was that okay? Was I really free to give her a big sloppy smooch?</p>
 <p>The moment I thought that, her eyes flew open. &quot;Oh no, I can&#x27;t. Shame on me.&quot;</p>
 <p>&quot;Please don&#x27;t tease me like that,&quot; I complained.</p>
-<p>&quot;I do <em>not</em> tease men. But I also have no intention of becoming Paul&#x27;s daughter, and I want to continue being Roxy&#x27;s friend, too.&quot;</p>
+<p>&quot;I do not tease men. But I also have no intention of becoming Paul&#x27;s daughter, and I want to continue being Roxy&#x27;s friend, too.&quot;</p>
 <p>…what the hell? So she and the rest of the party had fought with Paul before they split up, a long time ago, and as a result, she couldn&#x27;t bring herself to date his son? Well, whatever, it didn&#x27;t matter. I had no intention of dating anyone again, anytime soon.</p>
 <p>&quot;So then, Miss Elinalise, do you have some business with me?&quot;</p>
 <p>&quot;Yes. I&#x27;ve brought you good news.&quot;</p>

@@ -64,9 +64,9 @@ nav_title = "Chapter 3"
 <p>My legs gave out, and I landed on my ass while hastily launching a Stone Cannon. Fear that I might destroy my own house rose within me. I hesitated, but ultimately weakened the strength of my attack. The ball of earth shattered against our enemy&#x27;s shoulder, but all it did was make the inhuman thing stagger. It came at me with its stake, and I used my demon eye to try and avoid it, but—</p>
 <p>&quot;Master!&quot; Zanoba flew in front of me. The creature swung down hard with its weapon. It went straight for his heart.</p>
 <p>&quot;Zanoba!&quot;</p>
-<p>It didn&#x27;t pierce through. Zanoba&#x27;s blessed skin was too tough for the creature&#x27;s attack. <em>Y-yeah! That&#x27;s my pupil; not even a scratch,</em> I thought.</p>
+<p>It didn&#x27;t pierce through. Zanoba&#x27;s blessed skin was too tough for the creature&#x27;s attack. Y-yeah! That&#x27;s my pupil; not even a scratch, I thought.</p>
 <p>Zanoba grabbed the thing&#x27;s face with both hands. All eight of its limbs scrabbled in the air as it rained punches on Zanoba.</p>
-<p>Cliff peeked slightly out of the room to chant an incantation. &quot;I call upon thee, God who blesses the land which nurtures us! Deliver divine punishment to those foolish enough to defy the natural ways! <em>Exorcise</em>!&quot; White light from his staff struck the four-legged figure…but didn&#x27;t stop it from moving. So it wasn&#x27;t a spirit?</p>
+<p>Cliff peeked slightly out of the room to chant an incantation. &quot;I call upon thee, God who blesses the land which nurtures us! Deliver divine punishment to those foolish enough to defy the natural ways! Exorcise!&quot; White light from his staff struck the four-legged figure…but didn&#x27;t stop it from moving. So it wasn&#x27;t a spirit?</p>
 <p>In that case, it was time for me to use my magic. &quot;Zanoba, get out of the way. I&#x27;m going to use Stone Cannon!&quot;</p>
 <p>&quot;Please wait, Master!&quot; Zanoba wouldn&#x27;t move. Even though the stake was tearing his clothes to shreds, he wouldn&#x27;t step aside. Why?</p>
 <p>&quot;Enough, move! I&#x27;ll handle it!&quot;</p>
@@ -88,23 +88,22 @@ nav_title = "Chapter 3"
 <p>&quot;This one moved! A moving doll!&quot;</p>
 <p>When he said that, I realized he was right. This doll had attacked us. &quot;A moving doll.&quot;</p>
 <p>A moving doll! A doll that moved all on its own. So…an automaton. Like a robot. Like…a maid robot. Oooh! As those words flashed through my mind, the fear I&#x27;d felt instantly dissipated.</p>
-<p>&quot;You&#x27;re right,&quot; I said. &quot;This <em>is</em> incredible.&quot;</p>
+<p>&quot;You&#x27;re right,&quot; I said. &quot;This is incredible.&quot;</p>
 <p>&quot;You finally understand?&quot;</p>
 <p>&quot;Yeah. I&#x27;m glad we didn&#x27;t destroy it. Zanoba, your judgment was flawless.&quot;</p>
 <p>&quot;Heh heh. I knew what it was at first glance.&quot;</p>
 <p>&quot;I&#x27;d expect no less. Your eye for dolls has already surpassed mine,&quot; I said, offering my proudly grinning pupil some praise.</p>
-<p>That aside… A moving doll. Come to think of it, there were other inanimate objects in this world that moved, like armor. This doll was</p>
-<p>carved from wood, but maybe I could make stone figures move as well? And if I could find a way to make the figures move by <em>themselves</em>…and if I could develop a substance like silicon to give them skin, like humans…</p>
+<p>That aside… A moving doll. Come to think of it, there were other inanimate objects in this world that moved, like armor. This doll was carved from wood, but maybe I could make stone figures move as well? And if I could find a way to make the figures move by themselves…and if I could develop a substance like silicon to give them skin, like humans…</p>
 <p>The possibilities were endless.</p>
 <p>&quot;Zanoba, what should I do? My heart is pounding so hard!&quot;</p>
 <p>&quot;Mine too. I can feel the tears coming!&quot;</p>
 <p>For now, we&#x27;d take the doll back home. Then we could research the mechanism that allowed it to move.</p>
 <p>&quot;Hey, you two, enough is enough!&quot; Cliff suddenly lost his patience with us. I looked over to find him glaring at us, his staff tightly gripped in both hands. &quot;This isn&#x27;t the time to be talking about that kind of stuff!&quot;</p>
-<p>&quot;Not the time to be talking about <em>what</em> &#x27;stuff&#x27;?!&quot; Zanoba grabbed Cliff&#x27;s face in one hand and lifted him up into the air. Ah, it&#x27;d been a while since I&#x27;d seen him pull this trick.</p>
+<p>&quot;Not the time to be talking about what &#x27;stuff&#x27;?!&quot; Zanoba grabbed Cliff&#x27;s face in one hand and lifted him up into the air. Ah, it&#x27;d been a while since I&#x27;d seen him pull this trick.</p>
 <p>&quot;Aggghhhhh!&quot; Cliff grabbed at Zanoba&#x27;s arm, but the latter didn&#x27;t even flinch.</p>
 <p>&quot;The doll moved! Do you not understand how remarkable that is?!&quot;</p>
 <p>&quot;Ow, ow, ow! There are monsters out there like that, like armor that moves on its own!&quot;</p>
-<p><em>Monsters</em>. Hearing that made me recall our initial objective. The reason we&#x27;d come here wasn&#x27;t to catch a doll that could move; it was to secure this house. Not that I couldn&#x27;t kill two birds with one stone.</p>
+<p>Monsters. Hearing that made me recall our initial objective. The reason we&#x27;d come here wasn&#x27;t to catch a doll that could move; it was to secure this house. Not that I couldn&#x27;t kill two birds with one stone.</p>
 <p>&quot;Zanoba, please release him.&quot;</p>
 <p>&quot;Grr…but, Master—&quot;</p>
 <p>&quot;Master Cliff has a point.&quot;</p>
@@ -116,10 +115,9 @@ nav_title = "Chapter 3"
 <p>&quot;We won&#x27;t be sleeping tonight. We need to do an exhaustive search of the house and figure out where this doll was hiding.&quot;</p>
 <p>That was how our third sweep of the building began.</p>
 <p>We were looking for a place big enough to hide a human-sized doll, but had found nothing of the sort in our second round of searching the house. I thought it might be in the garden, since we hadn&#x27;t checked there, but that lead didn&#x27;t pan out. The doll&#x27;s footprints were clearly imprinted on the snow, but led nowhere.</p>
-<p>I was beginning to suspect there was a hidden room in the house. It had clearly been designed to be completely symmetrical, so perhaps we needed to look for anything that <em>wasn&#x27;t</em> symmetrical. With that in mind, I searched the house&#x27;s first and second floors for anomalies in the layout, but didn&#x27;t find anything. The lack of light made it hard to tell.</p>
+<p>I was beginning to suspect there was a hidden room in the house. It had clearly been designed to be completely symmetrical, so perhaps we needed to look for anything that wasn&#x27;t symmetrical. With that in mind, I searched the house&#x27;s first and second floors for anomalies in the layout, but didn&#x27;t find anything. The lack of light made it hard to tell.</p>
 <p>&quot;It might be better to look again tomorrow, when we have daylight,&quot; Cliff suggested.</p>
-<p>We agreed. Before we quit for the night, however, we decided to move the doll to the university. We bound its arms and legs tightly and put it in Zanoba&#x27;s room. In better lighting, we could tell that it was quite old. It had looked pale white before, but I could see now</p>
-<p>that the original white paint was beginning to peel, and there were patches of mold.</p>
+<p>We agreed. Before we quit for the night, however, we decided to move the doll to the university. We bound its arms and legs tightly and put it in Zanoba&#x27;s room. In better lighting, we could tell that it was quite old. It had looked pale white before, but I could see now that the original white paint was beginning to peel, and there were patches of mold.</p>
 <p>&quot;Master, is this a…new doll?&quot; Julie asked. I&#x27;d thought she might be afraid of it, but instead, she just seemed curious. &quot;Shall I…clean it?&quot;</p>
 <p>When Zanoba brought home random dolls from the market, she was in charge of cleaning them up. Zanoba thought the best way to increase her appreciation for figurines was to have her practice cleaning and polishing them, and it seemed his education was working.</p>
 <p>&quot;How do we get it to move again?&quot; Zanoba wondered.</p>
@@ -127,7 +125,7 @@ nav_title = "Chapter 3"
 <p>We returned to the manor, stopping to buy a bunch of lamps along the way. I decided to search the fireplace again, crawling into it to give it a thorough examination this time.</p>
 <p>&quot;Hm, this isn&#x27;t it, huh?&quot;</p>
 <p>I batted away soot and spiderwebs as I finished my search. Then it struck me…there wasn&#x27;t any soot on the floor. It was almost as if it had been cleaned, completely wiped away. Now that I thought about it, the cloth wrapped around the doll&#x27;s feet had been black. Was it cleaning the place up every night?</p>
-<p>Now for the second floor, first floor and basement, of which the basement was definitely the most suspicious. We ventured down once more with our lamps. I left the door cracked open to ensure we wouldn&#x27;t run out of oxygen and lined up lamps so the space was thoroughly illuminated. If I were a children&#x27;s storyteller I might have exclaimed, <em>See, look, it&#x27;s as bright as day in here!</em></p>
+<p>Now for the second floor, first floor and basement, of which the basement was definitely the most suspicious. We ventured down once more with our lamps. I left the door cracked open to ensure we wouldn&#x27;t run out of oxygen and lined up lamps so the space was thoroughly illuminated. If I were a children&#x27;s storyteller I might have exclaimed, See, look, it&#x27;s as bright as day in here!</p>
 <p>There was a darkened square shape on the wall: a hidden door that we hadn&#x27;t noticed in the dark. When the house was first built, it had probably blended in, but as time passed, the wear from repeated openings and closings had darkened the area around the hinges. There were also marks on the ground where the door swung open.</p>
 <p>&quot;Well, let&#x27;s go in!&quot; Cliff happily reached to open the door. I readied myself for a possible attack and trained my eye on the door, but then Cliff paused.</p>
 <p>&quot;What&#x27;s wrong?&quot; I asked.</p>
@@ -169,9 +167,9 @@ nav_title = "Chapter 3"
 <p>&quot;Of course, my love. I already prepared the bed for us.&quot;</p>
 <p>&quot;Rudy, take me!&quot;</p>
 <p>Yeah, that wasn&#x27;t likely to happen, but the thought still made me grin.</p>
-<p>Wait. She wouldn&#x27;t be <em>disappointed,</em> would she? Like, &quot;Ugh, Rudy, this was all you could get for us?&quot;</p>
+<p>Wait. She wouldn&#x27;t be disappointed, would she? Like, &quot;Ugh, Rudy, this was all you could get for us?&quot;</p>
 <p>No, Sylphie wasn&#x27;t that selfish. At least I was pretty sure she wasn&#x27;t.</p>
-<p>Anyway, this had been a fruitful endeavor. In just a few days, I&#x27;d gotten my hands on a nice new place <em>and</em> inherited one of the treasures that had been left inside it. I was fairly sure that doll was a magical implement. It was possible the proper protocol in these circumstances was to submit my discovery to the Magicians&#x27; Guild, but I wasn&#x27;t officially a member yet.</p>
+<p>Anyway, this had been a fruitful endeavor. In just a few days, I&#x27;d gotten my hands on a nice new place and inherited one of the treasures that had been left inside it. I was fairly sure that doll was a magical implement. It was possible the proper protocol in these circumstances was to submit my discovery to the Magicians&#x27; Guild, but I wasn&#x27;t officially a member yet.</p>
 <p>Once the process was more or less over, I decided to move the research materials that had been left in the basement room. Zanoba carried the pedestal while I carried the books and such. We&#x27;d be using them to investigate that doll.</p>
 <p>&quot;Master?&quot;</p>
 <p>We were on the path leading back to the university when Zanoba called out to me, a serious look on his face. He had the large wooden pedestal balanced on his shoulder. It was incredibly heavy, but Zanoba had no issues lifting it. Just to be on the safe side, we&#x27;d wrapped it in cloth so it would look like a coffin to anyone watching.</p>
@@ -187,7 +185,7 @@ nav_title = "Chapter 3"
 <p>No, wait. It was possible this really was forbidden magic at work. Maybe we&#x27;d be better off not doing this on campus, even though</p>
 <p>Nanahoshi was doing something similar with her research into magic circles. Maybe I&#x27;d have her put in a good word for me, just in case. She was an A-ranked member of the guild, after all.</p>
 <p>&quot;Please, Master! When your plan is fully realized, I don&#x27;t want my only contribution to be money!&quot;</p>
-<p>It seemed Zanoba had put a lot of thought into this. I was a little concerned about his single-minded fixation on figurines, but if this was how he felt, maybe I <em>should</em> leave it to him.</p>
+<p>It seemed Zanoba had put a lot of thought into this. I was a little concerned about his single-minded fixation on figurines, but if this was how he felt, maybe I should leave it to him.</p>
 <p>&quot;I beg of you! Entrust this research to me!&quot;</p>
 <p>Apparently, he misunderstood my silence as reluctance. He&#x27;d set the pedestal aside and was now on his hands and knees, both hands spread before him as he prostrated himself in the snow.</p>
 <p>&quot;Okay, I get it. Just stand up! I&#x27;ll leave it to you.&quot;</p>

@@ -24,12 +24,12 @@ nav_title = "Chapter 5"
 <p>With a firm shake of her head, Nina jabbed a finger into the air.</p>
 <p>&quot;Look, it&#x27;s not like you&#x27;re going to find dressy clothes like that around here, anyway. You do remember where we are, right? If you really want some frilly outfit, you&#x27;ll just have to buy one in the city.&quot;</p>
 <p>&quot;Yeah, true enough,&quot; said Eris with a little nod.</p>
-<p>From all appearances, the matter was now settled. But this was the <em>fifth time today</em> they&#x27;d basically had this exact conversation.</p>
+<p>From all appearances, the matter was now settled. But this was the fifth time today they&#x27;d basically had this exact conversation.</p>
 <p>&quot;Anyway, I don&#x27;t know why you&#x27;re obsessing about your outfit right now. No matter how fast you go, it&#x27;ll be a good month on the road before you reach Sharia.&quot;</p>
 <p>&quot;…&quot;</p>
 <p>&quot;I&#x27;d worry less about the clothes and more about making sure you&#x27;re clean and presentable when you see him. Make sure you take a bath, comb your hair, and put on a little perfume… Uh, you do know men don&#x27;t like stinky women, yes?&quot;</p>
 <p>&quot;Rudeus does. He never seemed to mind when I got all sweaty.&quot;</p>
-<p>&quot;Well, I suppose he&#x27;d have to be understanding, if he found <em>you</em> attractive…&quot;</p>
+<p>&quot;Well, I suppose he&#x27;d have to be understanding, if he found you attractive…&quot;</p>
 <p>&quot;Actually, I even caught him sniffing my sweaty old underwear a couple times. He seemed to be enjoying it.&quot;</p>
 <p>&quot;What?! The man&#x27;s a pervert!&quot;</p>
 <p>Eris scowled slightly at this remark. &quot;Rudeus isn&#x27;t a pervert. He&#x27;s just a little…naughty.&quot;</p>
@@ -42,7 +42,7 @@ nav_title = "Chapter 5"
 <p>&quot;Ghislaine&#x27;s sure taking her time,&quot; muttered Eris.</p>
 <p>&quot;I suppose the students might be squabbling about who gets to come along.&quot;</p>
 <p>Eris nodded vaguely. &quot;Yeah, maybe.&quot;</p>
-<p>&quot;…You know, Eris, I <em>have</em> heard a few rumors about your boyfriend now and then.&quot;</p>
+<p>&quot;…You know, Eris, I have heard a few rumors about your boyfriend now and then.&quot;</p>
 <p>&quot;What kind of rumors?&quot;</p>
 <p>&quot;They say Rudeus Greyrat can make his own eyes pop out.&quot;</p>
 <p>&quot;I wouldn&#x27;t be surprised!&quot;</p>
@@ -103,7 +103,7 @@ nav_title = "Chapter 5"
 <p>&quot;Fine! Where do I sign?&quot;</p>
 <p>&quot;Ah, right. Hold on just a moment, please…&quot;</p>
 <p>The man reached into his bag and pulled out a pen and some sort of form, which he handed to Eris. She paused for a few seconds, clearly attempting to remember the letters of her name, then scribbled it in a barely comprehensible scrawl.</p>
-<p>The man studied these characters for a long moment, and eventually managed to identify the letters <em>Eris.</em></p>
+<p>The man studied these characters for a long moment, and eventually managed to identify the letters Eris.</p>
 <p>&quot;Okay then. Thank you kindly… Boy, I wish every job paid this well…&quot;</p>
 <p>He tucked the receipt back into his bag and headed back up the path in high spirits. Eris barely spared a glance in his direction as she got to work on the envelope. She was about to tear the thing open with her hands—but then she saw the words &#x27;Miss Eris Boreas Greyrat&#x27; on the front of it, in what was clearly Rudeus&#x27; handwriting.</p>
 <p><em>Heh. He must have been in a real hurry! I haven&#x27;t used the name Boreas in years… Oh, wait. Maybe he doesn&#x27;t know that?</em></p>
@@ -119,16 +119,16 @@ nav_title = "Chapter 5"
 <p>&quot;You do it, Nina!&quot;</p>
 <p>&quot;What? Uh, I can&#x27;t read myself, you know?&quot;</p>
 <p>&quot;Seriously?! That&#x27;s gonna come back to bite you some day!&quot;</p>
-<p>&quot;Why are <em>you</em> lecturing me about this? You can&#x27;t read it either!&quot;</p>
+<p>&quot;Why are you lecturing me about this? You can&#x27;t read it either!&quot;</p>
 <p>As the two of them began to squabble, Isolde hopped down from her horse with a sigh. &quot;Calm down, you two. I&#x27;ll read it instead.&quot;</p>
 <p>&quot;Oh, okay,&quot; said Eris, handing the letter over. &quot;Thanks.&quot;</p>
 <p>Isolde began to read it slowly and carefully. At first, her expression was neutral, but as time passed, it began to grow stormier and stormier. And once she was finished, she cried out in a voice full of anger.</p>
-<p>&quot;What is the <em>matter</em> with this man?!&quot;</p>
+<p>&quot;What is the matter with this man?!&quot;</p>
 <p>&quot;Huh?&quot; said Eris nervously. &quot;What? What does it say?&quot;</p>
-<p>&quot;Oh, Eris… You were training so hard all these years for <em>him?</em>  You poor, poor thing. Saint Millis, take pity on this girl…&quot;</p>
+<p>&quot;Oh, Eris… You were training so hard all these years for him?  You poor, poor thing. Saint Millis, take pity on this girl…&quot;</p>
 <p>Isolde folded her hands and looked beseechingly to the heavens for a moment, then looked over at Eris with eyes full of sympathy.</p>
-<p>&quot;Eris, you really ought to forget all about this man. Why don&#x27;t you come along with me to Asura instead? It would be <em>such</em> a waste to give yourself to a scoundrel like this.&quot;</p>
-<p>&quot;Look, will you just tell me what the letter says?!&quot; hissed Eris, reaching for the swords at her waist. &quot;Do you <em>want</em> me to chop you in half?!&quot;</p>
+<p>&quot;Eris, you really ought to forget all about this man. Why don&#x27;t you come along with me to Asura instead? It would be such a waste to give yourself to a scoundrel like this.&quot;</p>
+<p>&quot;Look, will you just tell me what the letter says?!&quot; hissed Eris, reaching for the swords at her waist. &quot;Do you want me to chop you in half?!&quot;</p>
 <p>&quot;Very well then. Here it is.&quot;</p>
 <p>Clearing her throat, Isolde began to read the letter in a voice that rang with righteous outrage.</p>
 <p><em>It&#x27;s been quite some time, hasn&#x27;t it? This is Rudeus Greyrat.</em></p>
@@ -148,9 +148,9 @@ nav_title = "Chapter 5"
 <p><em>Rudeus Greyrat.&quot;</em></p>
 <p>&quot;…&quot;</p>
 <p>Eris wasn&#x27;t saying anything. She wasn&#x27;t moving, either. From all appearances, she&#x27;d been turned to stone.</p>
-<p>Isolde took one look at her and promptly resumed her earlier tirade. &quot;Well, there you have it. Isn&#x27;t he <em>awful</em>? Having two wives is bad enough, and now he&#x27;s casually offering to make you number <em>three!</em> The man clearly has no respect for women whatsoever!&quot;</p>
+<p>Isolde took one look at her and promptly resumed her earlier tirade. &quot;Well, there you have it. Isn&#x27;t he awful? Having two wives is bad enough, and now he&#x27;s casually offering to make you number three! The man clearly has no respect for women whatsoever!&quot;</p>
 <p>&quot;I don&#x27;t know,&quot; said Nina, peering at the letter with a thoughtful frown. &quot;It sounded like he was trying pretty hard to be considerate…&quot;</p>
-<p>&quot;Considerate?! It&#x27;s the first letter he wrote her in years, and he didn&#x27;t even bother to say <em>I love you!</em> He seems to think he&#x27;d be doing her a <em>favor</em> by marrying her! No, I&#x27;m sorry. I don&#x27;t like this Rudeus Greyrat one bit!&quot;</p>
+<p>&quot;Considerate?! It&#x27;s the first letter he wrote her in years, and he didn&#x27;t even bother to say I love you! He seems to think he&#x27;d be doing her a favor by marrying her! No, I&#x27;m sorry. I don&#x27;t like this Rudeus Greyrat one bit!&quot;</p>
 <p>&quot;Look, he thought Eris had dumped him, right? And he spent three whole years moping about it, too! Isn&#x27;t it partially her fault for wandering off like that?&quot;</p>
 <p>&quot;Oh, please! He probably made all that up to make her feel guilty. He just wants her because she&#x27;s a master swordsman with a nice body!&quot;</p>
 <p>&quot;Uhhh… I don&#x27;t know about that. Would you really risk keeping Eris around just to have a sexy bodyguard…?&quot;</p>

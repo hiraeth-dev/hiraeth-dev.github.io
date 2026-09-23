@@ -18,8 +18,7 @@ nav_title = "Chapter 10"
 <p>&quot;Your Holiness, I&#x27;ve brought your visitor.&quot;</p>
 <p>Beyond the transparent barrier was Cliff&#x27;s grandfather, Harry Grimor. He looked like just the gentle old man that I imagined he&#x27;d be from his letter. He had a long, white beard and wore vestments embroidered with gold.</p>
 <p>&quot;Yes, I appreciate it.&quot;</p>
-<p>There was no sense of Sauros&#x27;s force or Reida&#x27;s incisiveness. I couldn&#x27;t feel an air of strength; instead, I felt the great presence of a magnanimous heart. It was like instant recognition, &quot;Oh. The pope. Of course.&quot; I felt no aura, I just</p>
-<p>felt warm.</p>
+<p>There was no sense of Sauros&#x27;s force or Reida&#x27;s incisiveness. I couldn&#x27;t feel an air of strength; instead, I felt the great presence of a magnanimous heart. It was like instant recognition, &quot;Oh. The pope. Of course.&quot; I felt no aura, I just felt warm.</p>
 <p>It was hard to explain it.</p>
 <p>&quot;Allow me to introduce you. This is Rudeus Greyrat. He&#x27;s an underclassman of mine from the Ranoa University of Magic. He&#x27;s an incredibly brilliant man, with an aptitude for magic that exceeds even my own. As our friendship is one that I intend to maintain, it seemed prudent to present him to you.&quot;</p>
 <p>The pope nodded along to Cliff&#x27;s introduction with a placid look on his face. It seemed like any further explanation would have to come from my own mouth. As Cliff and I discussed last night, all he was doing was introducing a friend to a family member; beyond that, any agenda I had with the pope would require me to take the first step.</p>
@@ -30,8 +29,7 @@ nav_title = "Chapter 10"
 <p>The pope&#x27;s first impression of me hardened irrevocably before my soft little brain even caught up to what was going on. It was too late. The pope mistook me for a badass.</p>
 <p>&quot;Apologies. I did some research beforehand.&quot;</p>
 <p>The pope began reading off of a nearby document with a light smile.</p>
-<p>&quot;Rudeus Greyrat. Blood relative to the distinguished house of Notos Greyrat. Son of Paul Greyrat and pupil to Sword King Ghislaine Dedoldia. You were caught in the Displacement Incident, but in a mere three years you managed to return to your homeland on your own strength. Shortly after, you enrolled in the Ranoa University of Magic and befriended Princess Ariel. Years later, you battled against the Dragon God Orsted and surrendered to him. You</p>
-<p>worked behind the scenes during the turmoil in the Asura Kingdom to defeat both Water God Reida and North Emperor Auber. You pushed for Ariel Anemoi Asura to assume her current position as ruler. After that, you worked to expand your private army into lands around the world while persuading those in power to cooperate with the Dragon God Orsted… Am I missing anything?&quot;</p>
+<p>&quot;Rudeus Greyrat. Blood relative to the distinguished house of Notos Greyrat. Son of Paul Greyrat and pupil to Sword King Ghislaine Dedoldia. You were caught in the Displacement Incident, but in a mere three years you managed to return to your homeland on your own strength. Shortly after, you enrolled in the Ranoa University of Magic and befriended Princess Ariel. Years later, you battled against the Dragon God Orsted and surrendered to him. You worked behind the scenes during the turmoil in the Asura Kingdom to defeat both Water God Reida and North Emperor Auber. You pushed for Ariel Anemoi Asura to assume her current position as ruler. After that, you worked to expand your private army into lands around the world while persuading those in power to cooperate with the Dragon God Orsted… Am I missing anything?&quot;</p>
 <p>Not bad. But nothing obscure; it&#x27;s not like I did any of that in secret. It was all out there to find if someone wanted to. Besides, the pope himself can have no secrets. His biography is picked apart by thousands. Research like this merely levelled the playing field.</p>
 <p>That said, it wasn&#x27;t all correct.</p>
 <p>&quot;There are three mistakes. By no means did I return from the Demon Continent on my strength alone. I had the help of a Superd warrior by the name of Ruijerd. I was not the man who defeated the Water God Reida; it was the Dragon God Orsted. Likewise, Auber was defeated by the combined efforts of Sword King Ghislaine and Sword King Eris. Last, and by far most important, I would like to add that I am in fact pupil to King-tier Water Magician Roxy Migurdia.&quot;</p>
@@ -47,7 +45,7 @@ nav_title = "Chapter 10"
 <p>&quot;I see. So, you took advantage of Cliff to reach me here and request my cooperation, no? &#x27;If you wish for the Dragon God to save your forces, you&#x27;ll do as I say.&#x27; Is that right?&quot;</p>
 <p>&quot;No, that&#x27;s not correct.&quot;</p>
 <p>I got the feeling that this old guy had already slipped into negotiation mode. Well, fine by me; we were going to negotiate eventually. But I had to be clear where I stood.</p>
-<p>&quot;The ally I <em>really</em> want is Cliff.&quot;</p>
+<p>&quot;The ally I really want is Cliff.&quot;</p>
 <p>&quot;Well, now. Should I expect that you&#x27;ll be supporting Cliff from the shadows?&quot;</p>
 <p>&quot;No… True, that was my intention at first, but Cliff told me that he wanted to test how far his own strength alone could take him, so I decided against it. If nothing else, I&#x27;ll be entirely hands-off until he establishes his own power within the church.&quot;</p>
 <p>The pope broke out into a smile when he heard that. It was the face of an old man who&#x27;d just learned that his grandson scored a hundred points on a test.</p>
@@ -61,7 +59,7 @@ nav_title = "Chapter 10"
 <p>&quot;You know, human connections, once established, can never truly be severed. No matter how hard some may try,&quot; the pope stated, his smile staying constant.</p>
 <p>I wondered if that was a word of warning. Perhaps to me, for making my request as someone cut off from Cliff. Or perhaps to Cliff, who wanted to cut me off to test his own strength.</p>
 <p>&quot;So, in light of your connection with Cliff…I will assist you with your mercenary band.&quot;</p>
-<p>Just like that, I had my wish. I had my doubts as to why he didn&#x27;t seem to ask anything in return, but it only took a moment of thought to get there. The &quot;in light of your connection with Cliff&quot; part <em>was</em> his return. And eventually, once Cliff got big enough, I&#x27;d be an asset to him and the papalists. To the pope, this was an angel investment.</p>
+<p>Just like that, I had my wish. I had my doubts as to why he didn&#x27;t seem to ask anything in return, but it only took a moment of thought to get there. The &quot;in light of your connection with Cliff&quot; part was his return. And eventually, once Cliff got big enough, I&#x27;d be an asset to him and the papalists. To the pope, this was an angel investment.</p>
 <p>&quot;However, permission for the Superd figurines will prove difficult.&quot;</p>
 <p>&quot;Why is that?&quot;</p>
 <p>&quot;I have a position as both the pope and as the leading figure of the Demon Integrationists. However, the cardinalists who espouse the expulsion of demons have expanded their influence as of late. Currently, I simply don&#x27;t have the leverage to grant permission to sell these Superd figurines on my own. And since the next pope will surely be chosen from among the cardinalists… You understand, no?&quot;</p>
@@ -82,8 +80,7 @@ nav_title = "Chapter 10"
 <p>The pope, a Demon Integrationist. The Blessed Child, protected by the cardinalists who pushed for demon expulsion. If I were asked to pick a side, then there was no question that I&#x27;d join the integrationists, the pope&#x27;s side. That&#x27;d square me off against the Temple Knights, who were aligned with the Demon Expulsionists. Also in those ranks: the House of Latria, and by extension Therese.</p>
 <p>Therese had saved my hide twice now. I despised the rest of the Latrias, but I couldn&#x27;t disregard my debt to her. Plus, the Blessed Child didn&#x27;t seem like a bad person. I guess you could count that entourage against her—but let&#x27;s not. It&#x27;d be wise to postpone taking sides as long as possible… And I wish I were the perfect wise man who could&#x27;ve pulled that off. So much for my plans and ideals.</p>
 <p>Anyway, arranging to bump into the Blessed Child a few more times seemed like a fine idea. I wanted to get a better idea of what her ability was. Maybe see if she were a disciple of the Man-God…which, to be honest, would be impossible to find out.</p>
-<p>Hypothetically, if she were a disciple, that would complicate my mission here in ways I couldn&#x27;t prepare for or foresee. In the Asura Kingdom, the Man-God hadn&#x27;t interfered with my work building the mercenary band. So was my work posing a threat to the Man-God, or wasn&#x27;t it? If he stepped in, that&#x27;d be a clue at least. But I had no way of knowing, and overthinking it would just run</p>
-<p>me in circles. I had to think what I was doing mattered, and he hadn&#x27;t interfered in my past work against him. So, I would act on the assumption that he wouldn&#x27;t interfere here. I&#x27;d reserve my search for disciples for when I did face interference, or for when I felt that something was truly wrong.</p>
+<p>Hypothetically, if she were a disciple, that would complicate my mission here in ways I couldn&#x27;t prepare for or foresee. In the Asura Kingdom, the Man-God hadn&#x27;t interfered with my work building the mercenary band. So was my work posing a threat to the Man-God, or wasn&#x27;t it? If he stepped in, that&#x27;d be a clue at least. But I had no way of knowing, and overthinking it would just run me in circles. I had to think what I was doing mattered, and he hadn&#x27;t interfered in my past work against him. So, I would act on the assumption that he wouldn&#x27;t interfere here. I&#x27;d reserve my search for disciples for when I did face interference, or for when I felt that something was truly wrong.</p>
 <p>At the moment, there was no shortage of suspicious players in this game. The Blessed Child; Claire; the pope. But winding myself into paranoid knots had been my downfall in the past. I could head that off by building the Mercenary Band branch quickly, setting up the contact tablet, and getting ahold of Orsted at once.</p>
 <p>Yep. For now, today&#x27;s meeting had gotten me the support of the pope. That was my starting point. I&#x27;d scout out potential buildings for the Mercenary Band, then purchase one. There, I would set up the contact tablet and the emergency teleportation circle. After all that I&#x27;d finally have my business call with Orsted.</p>
 <p>&quot;All right. First order of business: choose a building.&quot;</p>
@@ -93,16 +90,16 @@ nav_title = "Chapter 10"
 <p>I took a horse-drawn carriage across the city and returned to Cliff&#x27;s residence in the Divine District.</p>
 <p>The sun was setting. I was getting hungry, so I was looking forward to dinner. And ugh, the food! It was so nice to have fresh eggs here. Boiled eggs, fried eggs, omelets… We also had some bread, so I could probably make pork cutlets, too. Ah, the presence of a single egg opens the door to new worlds of culinary delights. New horizons of joy to explore in every meal, with every egg!</p>
 <p>Thank goodness I brought Aisha so someone knew how to cook one.</p>
-<p>&quot;I&#x27;m <em>hooome</em>! And boy, am I hungry!&quot;</p>
-<p>&quot;What do you <em>mean</em> she&#x27;s still not back?!&quot;</p>
+<p>&quot;I&#x27;m hooome! And boy, am I hungry!&quot;</p>
+<p>&quot;What do you mean she&#x27;s still not back?!&quot;</p>
 <p>The moment I returned, I heard Aisha shouting with fury. I hurried inside the house to find my little sister cornering Wendy.</p>
 <p>&quot;Why did you let her leave the house?!&quot;</p>
 <p>&quot;B-but, he said it was fine…&quot;</p>
 <p>&quot;Why would you believe something a stranger told you?! You heard what we were talking about last night, didn&#x27;t you?! Why wouldn&#x27;t you tell someone about what was going on?! What made you think she couldn&#x27;t have held off until tomorrow?! If you could&#x27;ve waited for a few minutes, I would&#x27;ve gotten back in time! You could&#x27;ve asked my brother too!&quot;</p>
-<p>&quot;I-I mean, I <em>heard</em> what you talked about, but, well, I didn&#x27;t really understand it, and that person said it was fine…&quot;</p>
-<p>&quot;Is that <em>all</em> you have to say for yourself?! I&#x27;m telling you that no, it was <em>not</em> fine! Wait, don&#x27;t tell me, did you come to sabotage us?!&quot;</p>
+<p>&quot;I-I mean, I heard what you talked about, but, well, I didn&#x27;t really understand it, and that person said it was fine…&quot;</p>
+<p>&quot;Is that all you have to say for yourself?! I&#x27;m telling you that no, it was not fine! Wait, don&#x27;t tell me, did you come to sabotage us?!&quot;</p>
 <p>Aisha lifted her shoulder and raised a fist as Wendy cowered in fear.</p>
-<p><em>Rare to see Aisha get angry enough to shout.</em> That was as deeply as I thought through the situation as I walked up behind my sister and held back her raised fist.</p>
+<p>Rare to see Aisha get angry enough to shout. That was as deeply as I thought through the situation as I walked up behind my sister and held back her raised fist.</p>
 <p>&quot;Aisha, calm down a little.&quot;</p>
 <p>&quot;Shut it!&quot;</p>
 <p>She swatted me away. But at least now Aisha noticed that I was there.</p>
@@ -117,7 +114,7 @@ nav_title = "Chapter 10"
 <p>So here&#x27;s what Aisha was reacting to.</p>
 <p>&quot;And they haven&#x27;t come back…&quot;</p>
 <p>All the blood drained out of my head in an instant. I took a deep breath.</p>
-<p>&quot;Aisha, I need you to explain everything—<em>calmly</em>. From the beginning. Can you do that for me?&quot;</p>
+<p>&quot;Aisha, I need you to explain everything—calmly. From the beginning. Can you do that for me?&quot;</p>
 <p>&quot;Yeah…&quot;</p>
 <p>Aisha started talking.</p>
 <p>That afternoon, Geese came to Cliff&#x27;s house. He introduced himself as Zenith&#x27;s friend coming to check up on her. Aisha didn&#x27;t see him for herself, but after hearing Wendy describe his appearance, speech mannerisms, stature, equipment, and what he talked about, she seemed pretty certain that it was Geese.</p>
@@ -136,7 +133,7 @@ nav_title = "Chapter 10"
 <p>&quot;Calm down. It&#x27;s Geese we&#x27;re talking about. He probably just forgot about what he promised and took her all over the city.&quot;</p>
 <p>&quot;But, right now, we don&#x27;t have any clue where Mother Zenith is!&quot;</p>
 <p>&quot;Look, just calm down.&quot;</p>
-<p>Part of me was getting anxious too. But this was Geese she was with—he might have had the combat prowess of a wet puppy, but he was a sharp, trustworthy guy. Out of all the people who could have potentially whisked Zenith away, I felt a little more at ease it was him. By the same token, this was <em>Geese</em>. He probably got distracted, went chasing after something silly, and then lost track of time. Any minute now, and he could pop in through that door and say with a chuckle, &quot;Ah, sorry, brah, I ran into an ol&#x27; buddy and just had to catch up.&quot;</p>
+<p>Part of me was getting anxious too. But this was Geese she was with—he might have had the combat prowess of a wet puppy, but he was a sharp, trustworthy guy. Out of all the people who could have potentially whisked Zenith away, I felt a little more at ease it was him. By the same token, this was Geese. He probably got distracted, went chasing after something silly, and then lost track of time. Any minute now, and he could pop in through that door and say with a chuckle, &quot;Ah, sorry, brah, I ran into an ol&#x27; buddy and just had to catch up.&quot;</p>
 <p>&quot;For now, let&#x27;s wait a bit longer for them to come back.&quot;</p>
 <p>That was my decision.</p>
 <p>Time passed. The sun set. Eventually, Cliff returned from work, exhaustion on his face.</p>
@@ -153,7 +150,7 @@ nav_title = "Chapter 10"
 <p>But when I thought about it, I realized that his uselessness in battle was indeed a fatal flaw. If he had to fight, he wouldn&#x27;t be able to protect Zenith. Geese had developed a knack for avoiding danger to make up for it, but something could still go very wrong. Zenith could space out and step on the foot of a tough-looking old dude. There were even women who wouldn&#x27;t hesitate to throw a punch just for looking at &#x27;em funny.</p>
 <p>And Geese was a demon. What would the House of Latria think if they happened to spot Geese and Zenith alone together? They&#x27;d say that I wouldn&#x27;t let her stay in her own home, but here she was, out alone with a demon. They might decide to attack and take Zenith back by force.</p>
 <p>Or wait. Maybe the Latrias were behind this. Knowing their resources, the Geese that came earlier could have been an impostor. They could have caught someone with similar appearance, build, and speech mannerisms, and then had him pose as Geese to talk Wendy into giving up Zenith…maybe. Not that he&#x27;d be easy to imitate.</p>
-<p>Last, and maybe I was paranoid for even considering it, there was the possibility that Geese was the Man-God&#x27;s disciple. Why <em>was</em> he here when he hated the Holy Country so much, anyway?</p>
+<p>Last, and maybe I was paranoid for even considering it, there was the possibility that Geese was the Man-God&#x27;s disciple. Why was he here when he hated the Holy Country so much, anyway?</p>
 <p>&quot;…&quot;</p>
 <p>I refitted my robe and magic armor and left the house.</p>
 <p>Aisha followed my lead like it was the most natural thing in the world. &quot;Where do we go first? Do we split up?&quot;</p>

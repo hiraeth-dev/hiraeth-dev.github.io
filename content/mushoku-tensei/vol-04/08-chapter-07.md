@@ -12,7 +12,7 @@ nav_title = "Chapter 7"
 <p><em>The toilet is a large jar set in the corner of the room. Once you&#x27;ve done your business and the jar is filled with excrement, you&#x27;ll have to dump it in a hole on the opposite side of the room. There&#x27;s no running water, so it is a little unhygienic, but you can get by with magic. If you are a magician like me, who can make warm water, your problems are completely solved!</em></p>
 <p><em>There are only two meals. For modern-day folk, that might be too little. Still, this food is quite incredible, a lush land&#x27;s regional specialty of fruits and vegetables. Meat as well. The seasoning is light, bringing out the natural flavor of the ingredients, which is enough to make anyone used to life on the Demon Continent smack their chops in delight.</em></p>
 <p><em>Now for the apartment&#x27;s primary feature: its security. Please, have a look at these durable iron bars. You can bang on them as much you like, pull at them as much you like, but they won&#x27;t budge an inch. Their only weakness is that they can be pried open with magic.</em></p>
-<p><em>There surely isn&#x27;t a thief alive who would look at these bars and think,</em> hey! I think I want to go in there! <em>Yet inside they will go, because this free apartment is a jail cell.</em></p>
+<p>There surely isn&#x27;t a thief alive who would look at these bars and think, hey! I think I want to go in there! Yet inside they will go, because this free apartment is a jail cell.</p>
 <p>Hung over Gyes&#x27; back, I continued my ride through the forest. Unable to move, I had no choice but to allow myself to be carried along. As we traveled through the shadows of the woods at breakneck speed, I saw something in the corner of my eye. There, between the blur of trees that flew by, was a blob of silver hair following us.</p>
 <p>Still a pup, and yet the dog had quite the stamina. We&#x27;d been on the move for probably two or three hours by then. The beastfolk warrior known as Gyes had been running for quite a long time. He only stopped when we finally arrived wherever it was.</p>
 <p>&quot;Sacred Beast, please return to the house.&quot;</p>
@@ -21,7 +21,7 @@ nav_title = "Chapter 7"
 <p>With me still slung over his shoulder, he hooked his hands on a ladder I couldn&#x27;t see and swiftly climbed. It seemed I was being taken into the treetops.</p>
 <p>From there we entered a building. No one else was present. It was a deserted cabin made of wood. That&#x27;s where Gyes stripped me of all my clothes.</p>
 <p>What the hell was he doing to me? I couldn&#x27;t even move my body!</p>
-<p>He was lifted me up by the scruff of my neck and tossed me inside…something. A moment later, I heard the creak of iron and a <em>clang</em> as something fell. Then Gyes was gone, without any explanation. He didn&#x27;t even interrogate me.</p>
+<p>He was lifted me up by the scruff of my neck and tossed me inside…something. A moment later, I heard the creak of iron and a clang as something fell. Then Gyes was gone, without any explanation. He didn&#x27;t even interrogate me.</p>
 <p>After a while, I could move my body again. I produced a small flame on the tip of my finger and used it to check my surroundings. I saw the durable bars and realized that this was a cell. I&#x27;d been thrown into a cell.</p>
 <p>That was fine. Judging by the conversation they&#x27;d had, I knew this was going to happen. They&#x27;d mistaken me for a smuggler. That&#x27;s why I didn&#x27;t panic. This misunderstanding would soon be solved. Still, why the need to strip me? Come to think of it, those children had been stripped of all their clothes, too.</p>
 <p>Maybe that was their custom here. Maybe beastfolk felt humiliated at being fully exposed. Although feeling embarrassed at being exposed wasn&#x27;t a quality unique to their race. Stripping a captive to break them down mentally was a practice from time immemorial. This may have been a fantasy world, but even in my favorite book here, the female knight was relieved of her clothes when she was taken prisoner. It seemed all worlds had that in common.</p>
@@ -52,8 +52,7 @@ nav_title = "Chapter 7"
 <p>I still didn&#x27;t know what was behind that magic he used. If I couldn&#x27;t come up with a way to counter it in a fight, I might lose. Plus, next time he might cut my legs off so I wouldn&#x27;t be able to run. Perhaps it was better that I wait a little longer for my circumstances to change.</p>
 <p>It had just been a couple of days. That older warrior hadn&#x27;t returned yet. Ruijerd might still be searching for those children&#x27;s parents. There was no need to be impatient, I decided, and headed back into my cell.</p>
 <p>### Day three.</p>
-<p>The food that guard brought was delicious. It was as expected the land here was so rich with nature. It was a remarkable difference from the Demon Continent. The meals consisted of either a wild grass soup or scraps of grilled meat that were tough to tear into, but</p>
-<p>both were delicious. Perhaps it was because I had grown used to the Demon Continent&#x27;s food. If this was the grub they offered someone in a cell, then no doubt the rest of the settlement was having a feast.</p>
+<p>The food that guard brought was delicious. It was as expected the land here was so rich with nature. It was a remarkable difference from the Demon Continent. The meals consisted of either a wild grass soup or scraps of grilled meat that were tough to tear into, but both were delicious. Perhaps it was because I had grown used to the Demon Continent&#x27;s food. If this was the grub they offered someone in a cell, then no doubt the rest of the settlement was having a feast.</p>
 <p>When I complimented the food, the guard flicked her tail and brought me seconds. Based on her reaction, she was probably the one who made it. Although she still wouldn&#x27;t say a word to me as usual.</p>
 <p>Day four.</p>
 <p>I was bored. There was nothing to do. Maybe I could create something with my magic, but if I did they might gag me or bind my wrists. Then there really would be nothing I could do. There was no reason to risk robbing myself of what little freedom I had.</p>
@@ -65,7 +64,7 @@ nav_title = "Chapter 7"
 <p>The man stared at me, gobsmacked. He looked like an adventurer. His clothes were all black, with leather protectors fastened at the joints. He was unarmed, of course. He had long sideburns and a monkey face like Lupin the Third. Calling it a monkey&#x27;s face wasn&#x27;t a metaphor, though. He was a demon.</p>
 <p>&quot;What&#x27;s wrong, newbie? See something amiss?&quot; I asked.</p>
 <p>&quot;N-no, not exactly how I&#x27;d describe it.&quot; He looked at me in confusion.</p>
-<p><em>Come on, I&#x27;ll get embarrassed if you stare like that</em>, I thought.</p>
+<p>Come on, I&#x27;ll get embarrassed if you stare like that, I thought.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-04/insert-07.webp" alt="Illustration" loading="lazy" />
 </div>
@@ -105,7 +104,7 @@ nav_title = "Chapter 7"
 <p>&quot;That vest of yours looks warm. Hand it over.&quot;</p>
 <p>&quot;Wha…?&quot; Geese looked displeased as he said, &quot;Fine, here,&quot; and peeled the vest off before tossing it at me. Maybe he was actually good at looking out for people, contrary to my initial impression.</p>
 <p>&quot;Ah, thank you so very much,&quot; I said, sounding ever so polite.</p>
-<p>&quot;So you <em>can</em> show gratitude,&quot; he observed.</p>
+<p>&quot;So you can show gratitude,&quot; he observed.</p>
 <p>&quot;Of course. I&#x27;ve been rocking it freestyle for days now. For the first time in a while I feel like a person again.&quot;</p>
 <p>&quot;Boss, you don&#x27;t have to talk so fancy.&quot;</p>
 <p>Thus I achieved the appearance of a snot-nosed brat straight out of the Edo period.</p>
@@ -138,7 +137,7 @@ nav_title = "Chapter 7"
 <p>He lifted himself upright, glanced quickly at the guard, and then scratched his head. He brought his face closer to mine and spoke in a hushed whisper. &quot;Are you trying to run away?&quot;</p>
 <p>&quot;My companion isn&#x27;t coming, so yes.&quot;</p>
 <p>&quot;Ahh, yeah, that&#x27;s… Well, that sucks.&quot;</p>
-<p><em>Hey you, knock it off</em>, I thought. <em>If you put it like that, you make it sound like my friends have abandoned me.</em></p>
+<p>Hey you, knock it off, I thought. If you put it like that, you make it sound like my friends have abandoned me.</p>
 <p>Ruijerd would never leave me behind like that. I was sure that he was looking everywhere for those kids&#x27; parents right now. That, or something had occurred and he was in trouble. Maybe he was waiting for my help.</p>
 <p>&quot;Run off on your own then. It&#x27;s got nothin&#x27; to do with me,&quot; Geese said.</p>
 <p>I explained, &quot;I don&#x27;t know the way to the nearest town from here.&quot;</p>
@@ -161,8 +160,7 @@ nav_title = "Chapter 7"
 <p>Even so, Ruijerd sure was taking his sweet time. I assumed it was just taking that long for him to find the children&#x27;s parents, but still, this was too much.</p>
 <p>Day six.</p>
 <p>This apartment was truly comfortable to live in. Food was provided for us. It was equipped with good air conditioning (albeit man-made), and while at first I thought it was boring because there was nothing to do, now I had a conversation partner.</p>
-<p>The bed had been infested with bugs, but thanks to the warm air I created with my magic, they&#x27;d all been eradicated. The toilet</p>
-<p>was in its usual sad state, but it was kind of titillating to think of that pretty, older animal-eared woman cleaning up after me.</p>
+<p>The bed had been infested with bugs, but thanks to the warm air I created with my magic, they&#x27;d all been eradicated. The toilet was in its usual sad state, but it was kind of titillating to think of that pretty, older animal-eared woman cleaning up after me.</p>
 <p>Still, I felt anxious about the fact that I was getting no news. It had been nearly a week since I was brought here. Wasn&#x27;t Ruijerd really overdue? Wasn&#x27;t it normal to assume that something must have happened? Some kind of trouble that Ruijerd couldn&#x27;t handle on his own?</p>
 <p>I had no idea what help I would be if I went. Perhaps it would already be too late. Even so, I needed to go. Tomorrow. No, the day after tomorrow. I would wait until the day after tomorrow.</p>
 <p>Once that day came, I would reduce this village to a flaming field. Or not, because I would feel bad about doing that. Instead, I would take the guard as my captive and run.</p>
@@ -184,7 +182,7 @@ nav_title = "Chapter 7"
 <p>&quot;Gaaah! This vest, it&#x27;s got bugs coming out of it!&quot;</p>
 <p>&quot;Hm? Oh yeah, I haven&#x27;t washed it in a while,&quot; Geese said.</p>
 <p>&quot;Then wash it!&quot; I peeled it off and flung it away. It flapped as it flew, sending bugs scattering onto the floor. I immediately exterminated them all with the heat of my air magic. Darn pests…!</p>
-<p>&quot;Hey, I&#x27;ve been watching you do that for a bit now. Sure is amazing. Just how <em>do</em> you do it, though?&quot;</p>
+<p>&quot;Hey, I&#x27;ve been watching you do that for a bit now. Sure is amazing. Just how do you do it, though?&quot;</p>
 <p>&quot;Voiceless casting, using magic without an incantation,&quot; I explained.</p>
 <p>&quot;…Huh. Without an incantation. That really is incredible.&quot;</p>
 <p>Yeah, and now that I was thinking about how those insects had been swarming inside that vest, my entire body suddenly felt extremely itchy. I would have to heal each bite one by one. Perhaps it was because I wore nothing under the vest, but my back seemed to have a ridiculous amount of bites. That&#x27;s right, my back. Right where my hand couldn&#x27;t reach. Gaah!</p>

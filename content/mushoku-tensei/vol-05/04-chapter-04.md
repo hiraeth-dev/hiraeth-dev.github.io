@@ -22,7 +22,7 @@ nav_title = "Chapter 4"
 <p><em>And then, just to top it all off, you&#x27;ve got the nerve to accuse me of cheating! I haven&#x27;t even thought about touching a woman in the last year and a half, you smug little moron! You didn&#x27;t do a thing to help, and you think you have the right to get on my case?</em></p>
 <p><em>Oh, you didn&#x27;t know, huh? Great excuse. If you&#x27;d actually bothered looking at the world around you, Zenith or Lilia might be back here with us right now!</em></p>
 <p><em>Seriously. What a joke…</em></p>
-<p>&quot;Hee hee hee. From the look of things, I&#x27;m guess you haven&#x27;t bumped into each other yet.&quot; Grinning to himself for some unclear reason, Geese ordered something or other. Presumably booze. The man was a heavier drinker even than Talhand, and Talhand was a <em>dwarf</em>.</p>
+<p>&quot;Hee hee hee. From the look of things, I&#x27;m guess you haven&#x27;t bumped into each other yet.&quot; Grinning to himself for some unclear reason, Geese ordered something or other. Presumably booze. The man was a heavier drinker even than Talhand, and Talhand was a dwarf.</p>
 <p>&quot;Hey, Paul. Make sure to stop by the Adventurers&#x27; Guild tomorrow, all right?&quot;</p>
 <p>&quot;Why?&quot;</p>
 <p>&quot;Because I think you&#x27;ll run into someone interesting.&quot;</p>
@@ -36,27 +36,27 @@ nav_title = "Chapter 4"
 <p>&quot;All right, get a load of this…&quot;</p>
 <p>I went ahead and told Geese what happened earlier.</p>
 <p>I&#x27;d been happy to see Rudeus, of course. But it felt like we weren&#x27;t really on the same page about the situation, so I asked him what he&#x27;d been doing up until now. At which point he started talking all cheerfully about his journey through the Demon Continent.</p>
-<p>Every other word out of his mouth was some pointless boast, so I pointed out that he could have used his time more productively. Then <em>he</em> got all pissed off at <em>me.</em> He made a crack about me sleeping around. I lost my temper completely. And then we fought, and he kicked my ass. The end.</p>
+<p>Every other word out of his mouth was some pointless boast, so I pointed out that he could have used his time more productively. Then he got all pissed off at me. He made a crack about me sleeping around. I lost my temper completely. And then we fought, and he kicked my ass. The end.</p>
 <p>&quot;Ahh…yeah. I gotcha…&quot;</p>
 <p>Geese had listened patiently to the whole story, nodding and tossing in a few brief comments here and there. I felt like he&#x27;d been sympathizing with me. But then, once I&#x27;d wrapped things up, he looked me in the eye and said, &quot;Well, sounds like your expectations might have been a bit unfair there, chief.&quot;</p>
 <p>&quot;Huh?&quot; I replied, sounding like a complete moron.</p>
-<p>Unfair? How I was I being unfair? And to whom? &quot;You think I expected too much? Of <em>Rudy</em>?&quot;</p>
+<p>Unfair? How I was I being unfair? And to whom? &quot;You think I expected too much? Of Rudy?&quot;</p>
 <p>&quot;I mean, think about it, man,&quot; continued Geese as I blinked in confusion. &quot;Sure, the kid&#x27;s amazing. I&#x27;ve never seen anyone who could cast spells without a word like that. And when I saw him going blow for blow with North Saint Gallus, it sent chills down my spine. Rudeus is the kind of prodigy you see once a century.&quot;</p>
-<p>Right. Rudeus was a prodigy. He was a <em>genius</em>. He could always do anything he set his mind to, even as a little kid. For a while, I&#x27;d been under the impression that he had some relatively serious flaws as well, but…I mean, by the end of his stay in Roa, Philip was willing to marry off his own daughter to him. Philip! The same guy who talked trash about me behind my back! &quot;Yeah, that&#x27;s right. He&#x27;s unbelievable. When he was only five years old, he—&quot;</p>
+<p>Right. Rudeus was a prodigy. He was a genius. He could always do anything he set his mind to, even as a little kid. For a while, I&#x27;d been under the impression that he had some relatively serious flaws as well, but…I mean, by the end of his stay in Roa, Philip was willing to marry off his own daughter to him. Philip! The same guy who talked trash about me behind my back! &quot;Yeah, that&#x27;s right. He&#x27;s unbelievable. When he was only five years old, he—&quot;</p>
 <p>&quot;But at the end of the day, he&#x27;s still just a kid.&quot;</p>
 <p>Startled by Geese&#x27;s firm interruption, I fell silent.</p>
 <p>&quot;Rudeus is still an eleven-year-old kid,&quot; he repeated slowly, just to drive the point home. &quot;Even you didn&#x27;t run away from home until you were twelve, right?&quot;</p>
 <p>&quot;Yeah…&quot;</p>
 <p>&quot;Anyone younger than that&#x27;s still just a snot-nosed brat. Isn&#x27;t that what you always used to say?&quot;</p>
-<p>&quot;Yeah, okay, sure. So what if I did?&quot; <em>Come on. Rudy&#x27;s already stronger than me.</em></p>
+<p>&quot;Yeah, okay, sure. So what if I did?&quot; Come on. Rudy&#x27;s already stronger than me.</p>
 <p>I did have some alcohol in my system this morning. Even with that factored in, though, it was clear the kid had improved dramatically. I might have been drunk, but I was also going all-out; I lowered myself to using the North God Style&#x27;s &quot;Four-Legged Stance,&quot; and even busted out the Sword God Style&#x27;s &quot;Silent Sword.&quot; But my sword only sliced those panties he was wearing off his face. Rudy wasn&#x27;t even taking the fight seriously, either. The fact that none of my people suffered anything worse than a few minor injuries was proof enough of that.</p>
-<p>It was hard to say just how he&#x27;d grown as a fighter since the last time I saw him. But even at the age of seven, he was cleverer than me. Now he was both smarter <em>and</em> stronger than I was. What was so unreasonable about expecting him to accomplish more than I could, then? His age had nothing to do with his capabilities.</p>
+<p>It was hard to say just how he&#x27;d grown as a fighter since the last time I saw him. But even at the age of seven, he was cleverer than me. Now he was both smarter and stronger than I was. What was so unreasonable about expecting him to accomplish more than I could, then? His age had nothing to do with his capabilities.</p>
 <p>&quot;Paul, what were you doing when you were eleven years old?&quot; &quot;Hm…?&quot;</p>
 <p>As I recalled, I spent most of that year at home training with the sword and getting chewed out by my old man. He found reasons to complain about every little thing I did, and took every chance he could to smack me around.</p>
 <p>&quot;You think you could have survived alone on the Demon Continent back then?&quot;</p>
-<p>&quot;Heh. You&#x27;re forgetting one little detail here, Geese. Rudy found himself a demon bodyguard, remember? This guy speaks Human, Demon-God, <em>and</em> Beast-God, and he&#x27;s strong enough to take down an A-ranked monster single-handed. Anyone could have made it back with a chaperone like that.&quot;</p>
-<p>&quot;Nope,&quot; Geese declared confidently. &quot;You wouldn&#x27;t have made it. No chance. Even if you went out there <em>now,</em> you still wouldn&#x27;t survive on your own.&quot;</p>
-<p>I can&#x27;t say hearing that put me in the best of moods. It didn&#x27;t help that Geese was still smirking at me from across the table. The man had a seriously irritating smile. &quot;Hah! Fine! Doesn&#x27;t that just prove my point, then? Rudy pulled off something I couldn&#x27;t. My son&#x27;s a prodigy! He&#x27;s already standing on his own two feet! I&#x27;ve got nothing left to teach him. Was it wrong of me to expect him to put those talents to <em>use,</em> huh?! Am I really in the wrong here?!&quot;</p>
+<p>&quot;Heh. You&#x27;re forgetting one little detail here, Geese. Rudy found himself a demon bodyguard, remember? This guy speaks Human, Demon-God, and Beast-God, and he&#x27;s strong enough to take down an A-ranked monster single-handed. Anyone could have made it back with a chaperone like that.&quot;</p>
+<p>&quot;Nope,&quot; Geese declared confidently. &quot;You wouldn&#x27;t have made it. No chance. Even if you went out there now, you still wouldn&#x27;t survive on your own.&quot;</p>
+<p>I can&#x27;t say hearing that put me in the best of moods. It didn&#x27;t help that Geese was still smirking at me from across the table. The man had a seriously irritating smile. &quot;Hah! Fine! Doesn&#x27;t that just prove my point, then? Rudy pulled off something I couldn&#x27;t. My son&#x27;s a prodigy! He&#x27;s already standing on his own two feet! I&#x27;ve got nothing left to teach him. Was it wrong of me to expect him to put those talents to use, huh?! Am I really in the wrong here?!&quot;</p>
 <p>&quot;Yeah, you are. But that&#x27;s nothing new, hey?&quot; Still smirking, Geese paused for a moment to chug down the beer he&#x27;d just been handed. &quot;Ahhhh! That&#x27;s the stuff. You can&#x27;t get booze like this in the Great Forest, you know?&quot;</p>
 <p>&quot;Geese!&quot;</p>
 <p>&quot;Okay, okay. No need to shout.&quot; Geese smacked his wooden mug down onto the table and looked me in the eye, his expression suddenly much more serious. &quot;Listen, Paul. You&#x27;ve never been to the Demon Continent, have you?&quot;</p>
@@ -66,13 +66,13 @@ nav_title = "Chapter 4"
 <p>&quot;You know, you never really talked about the place, now that I think about it. What&#x27;s so awful about it?&quot;</p>
 <p>&quot;First of all, there&#x27;s no proper highways. They have roads between the towns, of course, but you won&#x27;t find anything like those safe, smooth, monster-free ones they&#x27;ve got on Millis and the Central Continent. If you&#x27;re traveling anywhere, you&#x27;d better expect to be attacked by C-ranked monsters. Or worse.&quot;</p>
 <p>Okay, I knew the place had a lot of monsters, but C-ranked or worse? On the Central Continent, you&#x27;d have to go deep into a forest to find anything that dangerous. Many monsters at that rank traveled in large packs, or had some lethal special ability. &quot;I feel like you&#x27;re exaggerating just a little there, Geese.&quot;</p>
-<p>&quot;Nope. I&#x27;m not telling you any tall tales right now, man. That&#x27;s just how the Demon Continent is. The place is <em>crawling</em> with nasty monsters.&quot;</p>
+<p>&quot;Nope. I&#x27;m not telling you any tall tales right now, man. That&#x27;s just how the Demon Continent is. The place is crawling with nasty monsters.&quot;</p>
 <p>Geese looked perfectly serious, but that was how he usually looked when he was lying to you. I wasn&#x27;t going to fall for his crap this time.</p>
 <p>&quot;Now, let&#x27;s say we dump a kid out in the middle of a place like that. This is a real talented kid, mind you, but he&#x27;s got no real-world combat experience.&quot;</p>
 <p>&quot;…Right.&quot;</p>
-<p>No real-world experience, huh? Seemed like we were talking about Rudy again. Come to think of it, I&#x27;d never heard of him getting into any actual battles before. But he&#x27;d apparently managed to fight off some would-be kidnappers in Roa, and Ghislaine thought he might be able to beat her if he had enough distance at the start. I didn&#x27;t know a single swordfighter better than Ghislaine. If <em>she</em>  couldn&#x27;t close in on him safely, then there probably weren&#x27;t a thousand people on the planet capable of beating him at his ideal range.</p>
+<p>No real-world experience, huh? Seemed like we were talking about Rudy again. Come to think of it, I&#x27;d never heard of him getting into any actual battles before. But he&#x27;d apparently managed to fight off some would-be kidnappers in Roa, and Ghislaine thought he might be able to beat her if he had enough distance at the start. I didn&#x27;t know a single swordfighter better than Ghislaine. If she  couldn&#x27;t close in on him safely, then there probably weren&#x27;t a thousand people on the planet capable of beating him at his ideal range.</p>
 <p>All in all, his lack of hard experience didn&#x27;t seem like such a big deal to me. Didn&#x27;t Alex R. Kalman, the second North God, cut down a Sword Emperor in the first battle he ever fought?</p>
-<p>&quot;At this point, a grown-up appears and offers to help the kid out. This guy&#x27;s a demon, and a really strong one, too. In fact, he&#x27;s a Superd. You&#x27;ve heard of <em>them</em>, I&#x27;m sure?&quot;</p>
+<p>&quot;At this point, a grown-up appears and offers to help the kid out. This guy&#x27;s a demon, and a really strong one, too. In fact, he&#x27;s a Superd. You&#x27;ve heard of them, I&#x27;m sure?&quot;</p>
 <p>&quot;Of course.&quot; To be frank, I wasn&#x27;t sure I bought that part of the story. From what I&#x27;d heard, there were only a handful of Superd left, even on the Demon Continent.</p>
 <p>&quot;So, the kid has someone offering him aid when he&#x27;s in desperate straits. This guy&#x27;s willing to help him navigate a place he knows nothing about. And the Superd are terrifying, of course! He has no idea how this guy might react if he refuses. You&#x27;d basically have to accept that offer, right?&quot;</p>
 <p>&quot;But as the days roll on by, clever little Rudeus starts to ask himself a question: &#x27;Why exactly is this guy helping me out, anyway?&#x27;&quot;</p>
@@ -80,29 +80,28 @@ nav_title = "Chapter 4"
 <p>&quot;Problem is, he can&#x27;t figure it out. He doesn&#x27;t know what this guy&#x27;s really after.&quot;</p>
 <p>Well, how would he? You can never know what a stranger&#x27;s really thinking. That&#x27;s the whole reason guys like Geese manage to make a living.</p>
 <p>&quot;This Superd&#x27;s helping out for now, but he could easily abandon or betray them someday…or so Rudeus thinks. And that&#x27;s why he decides to try and get on the guy&#x27;s good side.&quot;</p>
-<p>&quot;I don&#x27;t know about that plan, Geese. Does a Superd even <em>have</em> a good side?&quot;</p>
+<p>&quot;I don&#x27;t know about that plan, Geese. Does a Superd even have a good side?&quot;</p>
 <p>&quot;Okay, don&#x27;t get all clever. You know what I mean, right? Rudeus decides to appeal to this guy&#x27;s emotions. He wants to make him feel like they&#x27;re all buddies.&quot;</p>
 <p>Hmm. That would explain why Rudy had spent so much time helping out this demon guy. And it did make sense, actually. Not only was he scoring brownie points with his protector, he also had a chance to develop his own skills as an adventurer in case he needed to rely on them later. I had to admit, that sounded rational. It was probably the safest path he could have chosen.</p>
 <p>Hmph…the boy did have a good head on his shoulders, didn&#x27;t he? &quot;Tch. You&#x27;d think a kid that smart could have found some time to look around a little, too.&quot;</p>
-<p>Geese held up one hand and spread out his fingers. &quot;He&#x27;s in an unfamiliar land,&quot; he said, folding one down. &quot;He&#x27;s on his first</p>
-<p>adventure ever. No matter how smart he is, this is all brand new to him. He needs to learn the basics fast, before someone takes advantage of him. He&#x27;s trying to keep a demon who might betray him at any moment happy. Oh, and he&#x27;s got a little pal tagging along behind him who he needs to protect.&quot;</p>
+<p>Geese held up one hand and spread out his fingers. &quot;He&#x27;s in an unfamiliar land,&quot; he said, folding one down. &quot;He&#x27;s on his first adventure ever. No matter how smart he is, this is all brand new to him. He needs to learn the basics fast, before someone takes advantage of him. He&#x27;s trying to keep a demon who might betray him at any moment happy. Oh, and he&#x27;s got a little pal tagging along behind him who he needs to protect.&quot;</p>
 <p>By the time he&#x27;d finished with this recitation, Geese had run out of fingers. With a little shrug, he moved on to his closing argument.</p>
-<p>&quot;If he&#x27;d <em>also</em> managed to comb the continent for other people who&#x27;d been teleported, well, that would just make him superhuman. Seriously, I&#x27;d be ready to give the kid a spot in the Seven Great Powers.&quot;</p>
+<p>&quot;If he&#x27;d also managed to comb the continent for other people who&#x27;d been teleported, well, that would just make him superhuman. Seriously, I&#x27;d be ready to give the kid a spot in the Seven Great Powers.&quot;</p>
 <p>The Seven Great Powers, huh? Now that brought back some memories. Back in the day, I used to dream about earning myself that kind of fame. Still, I felt like Rudy really did have the raw talent to make it on that list someday. And I didn&#x27;t think that was just my parental pride talking.</p>
-<p>&quot;The kid would have worked himself to death just trying. I know Rudeus is a prodigy, but human beings have their limits, man. Especially when they&#x27;re still <em>children.</em>&quot;</p>
+<p>&quot;The kid would have worked himself to death just trying. I know Rudeus is a prodigy, but human beings have their limits, man. Especially when they&#x27;re still children.&quot;</p>
 <p>&quot;Okay, look,&quot; I interjected. &quot;If it was that much of a struggle, then why&#x27;d he make the whole thing sound like it was some big, fun adventure? He sounded like one of those spoiled rich brats who poke around on the first floor of a labyrinth just to have something they can brag about.&quot; If the journey had been that rough for Rudy, he wouldn&#x27;t have described it that cheerfully. He would have told me about the hard and painful parts instead. But he hadn&#x27;t even mentioned any bumps in the road.</p>
 <p>&quot;Why? Because he didn&#x27;t want to worry you, obviously.&quot;</p>
 <p>&quot;Huh?&quot; I grunted, somehow sounding even stupider than before. &quot;Why the hell would he be worrying about me? Am I that much of a failure as a father?&quot;</p>
 <p>&quot;Yeah, pretty much.&quot;</p>
-<p>&quot;Tch. Sure, I guess you&#x27;re right. I&#x27;m a weak little man who drowns himself in booze for idiotic reasons. I suppose our little prodigy would feel <em>great</em> pity at the sight of me.&quot;</p>
+<p>&quot;Tch. Sure, I guess you&#x27;re right. I&#x27;m a weak little man who drowns himself in booze for idiotic reasons. I suppose our little prodigy would feel great pity at the sight of me.&quot;</p>
 <p>&quot;Hate to break this to you, Paul, but it doesn&#x27;t take a prodigy to pity you right now,&quot; Geese said, letting out a sigh. &quot;I know you can&#x27;t see your own face, so let me tell you something. You look terrible, man.&quot;</p>
 <p>&quot;Oh yeah? Terrible enough to earn some sympathy from my own son?&quot;</p>
 <p>&quot;Yep. If he walked in right now, I don&#x27;t think you guys would end up fighting. He&#x27;d probably feel too bad for you to say anything at all.&quot;</p>
 <p>I reached up and touched my face. The stubble I hadn&#x27;t bothered shaving for several days rasped audibly against my fingers.</p>
 <p>&quot;Look, Paul. Let me just repeat myself here,&quot; said Geese, his tone suddenly firm. &quot;You expected too much from your son.&quot;</p>
 <p>Was it really that unreasonable of me to expect more? Rudy could do anything he set his mind to, ever since he was little. All I ever did was get in his way with my clumsy attempts at parenting. He never really needed me.</p>
-<p>&quot;Tell me something. Why can&#x27;t you just be happy that he made it here? Does it really even matter what kind of a trip the kid had? Let&#x27;s say it really was a carefree cruise, and he spent every minute of it making out with his little girlfriend. <em>So what?</em> He&#x27;s here now, and he&#x27;s safe. Ain&#x27;t that something worth celebrating?&quot;</p>
-<p>Of course it was. And I <em>was</em> happy at first.</p>
+<p>&quot;Tell me something. Why can&#x27;t you just be happy that he made it here? Does it really even matter what kind of a trip the kid had? Let&#x27;s say it really was a carefree cruise, and he spent every minute of it making out with his little girlfriend. So what? He&#x27;s here now, and he&#x27;s safe. Ain&#x27;t that something worth celebrating?&quot;</p>
+<p>Of course it was. And I was happy at first.</p>
 <p>&quot;Would you have preferred your son to come back hollow-eyed and down a limb or two? Hell, there was a damn good chance of you &#x27;reuniting&#x27; with a corpse. Oh wait, my mistake… If he&#x27;d died on the</p>
 <p>Demon Continent, there wouldn&#x27;t even be a body left for you to find.&quot;</p>
 <p>Rudy? A corpse? I&#x27;d seen him healthy and full of life this afternoon, so it was impossible to even imagine right now. But just a few days ago…hadn&#x27;t I pictured that exact scenario as I wallowed in despair?</p>
@@ -128,7 +127,7 @@ nav_title = "Chapter 4"
 <p>I needed to calm down and think this through carefully. Rudy was a smart kid, but he&#x27;d somehow failed to see my message, or even hear about the situation. If he&#x27;d spent any time in Zant Port, he would have stumbled across that kind of information without even trying.</p>
 <p>In other words, he must have gotten mixed up in something the moment he arrived there—something that got him carted off by the Doldia tribe. Whatever it was, it must have been a major incident. Some of our Zant Port people should be coming back in two or three days to make their regular report, but maybe something big had gone down up north.</p>
 <p>&quot;Well, I don&#x27;t know all the details myself,&quot; said Geese. &quot;But I was hanging around with the Mildett in the Great Forest when I got wind of a rumor that the Doldia had locked up some human kid.&quot;</p>
-<p>&quot;Hm? Wait a second. You were <em>where</em>?&quot; The Mildett? Wasn&#x27;t that a beastfolk tribe? They were the ones with rabbit ears, right?</p>
+<p>&quot;Hm? Wait a second. You were where?&quot; The Mildett? Wasn&#x27;t that a beastfolk tribe? They were the ones with rabbit ears, right?</p>
 <p>&quot;At a Mildett village. It&#x27;s the one where their chief lives, so it&#x27;s actually pretty big, but—&quot;</p>
 <p>Geese&#x27;s explanation was painfully long-winded and annoying. Honestly, I was tempted to cut him off partway through. But I&#x27;d missed out on important information by getting impatient with Rudy earlier. And although I rarely learned from my mistakes, I wasn&#x27;t stupid enough to screw up the exact same way twice in a single day.</p>
 <p>Eventually, Geese&#x27;s rambling tale did come to an end. I tried to summarize what he&#x27;d told me. &quot;So basically, you were going around to all the tribes in the Great Forest…and convincing them to send any lost humans they found over to Millishion?&quot;</p>
@@ -144,8 +143,7 @@ nav_title = "Chapter 4"
 <p>&quot;This doesn&#x27;t sound like a laughing matter, man…&quot;</p>
 <p>&quot;It was hilarious, though! I could tell right away that he had to be your kid, Paul!&quot;</p>
 <p>I didn&#x27;t understand what was so funny about that. Or how he&#x27;d even figured it out so quickly.</p>
-<p>&quot;He was <em>exactly</em> like the old you, man,&quot; Geese went on. &quot;Ridiculously cocky! Ready to boss around a total stranger! One time, he was trying to flirt with this beastfolk girl, right? She glared at him</p>
-<p>and said &#x27;I can smell your arousal,&#x27; but he kept on ogling her anyway! That boy&#x27;s your son, all right!&quot;</p>
+<p>&quot;He was exactly like the old you, man,&quot; Geese went on. &quot;Ridiculously cocky! Ready to boss around a total stranger! One time, he was trying to flirt with this beastfolk girl, right? She glared at him and said &#x27;I can smell your arousal,&#x27; but he kept on ogling her anyway! That boy&#x27;s your son, all right!&quot;</p>
 <p>At this point, the man broke off for another cackling fit. I shifted uncomfortably in my seat, reminded of some youthful indiscretions of my own.</p>
 <p>&quot;It did take a little longer for me to be completely sure, though,&quot; said Geese, pausing to drain a second mug of beer. &quot;But yeah, that&#x27;s the shape of it. You can hardly blame the kid for missing your message. From the sound of things, he didn&#x27;t spend any time in Zant Port.&quot;</p>
 <p>&quot;Hm? Hold on, Geese. You were locked up in the same cell, weren&#x27;t you? Then—&quot;</p>
@@ -160,7 +158,7 @@ nav_title = "Chapter 4"
 <p>I&#x27;d have to go talk things out with Rudy soon. Maybe even tomorrow…</p>
 <p>&quot;No more booze tonight, buddy,&quot; called Geese, who&#x27;d popped his head back in the door. &quot;You&#x27;re gonna head over to the Dawn&#x27;s Light Inn tomorrow sober, got it?&quot;</p>
 <p>&quot;Yeah, yeah! I know!&quot; With a sigh of irritation, I put my mug of beer down.</p>
-<p>Now that I thought about it, though, I <em>had</em> been overdoing it lately. Why did I keep drowning myself in this crap? I still had plenty of other things I needed to be doing.</p>
+<p>Now that I thought about it, though, I had been overdoing it lately. Why did I keep drowning myself in this crap? I still had plenty of other things I needed to be doing.</p>
 <p>&quot;Um…Captain Paul? Are you finished talking with your friend?&quot;</p>
 <p>As I was turning things over in my head, a woman hesitantly approached my table. There was an apologetic expression on her face. My head wasn&#x27;t clear enough to recognize her at first, but after studying her face for a few seconds, I realized it was Vierra—one of my squad&#x27;s members.</p>
 <p>&quot;Heh. What&#x27;s with you, girl? Felt like wearing something modest for once?&quot;</p>
@@ -180,7 +178,7 @@ nav_title = "Chapter 4"
 <p>I pushed back my chair, stood up, and stomped out of the bar.</p>
 <p>When I&#x27;d returned to my room at the inn, I found Norn already asleep.</p>
 <p>I poured myself a cup of water from the pitcher on our table and quickly drank the whole thing. The lukewarm fluid coursed its way down into my churning stomach.</p>
-<p>I could feel myself gradually sobering up. I&#x27;d always had a high tolerance for alcohol; I <em>did</em> get plastered when I drank a lot, but the effects never seemed to last too long. As the fog in my head slowly began to clear, I looked down at my daughter, who was curled up in bed clutching her blanket, and stroked her gently on the head.</p>
+<p>I could feel myself gradually sobering up. I&#x27;d always had a high tolerance for alcohol; I did get plastered when I drank a lot, but the effects never seemed to last too long. As the fog in my head slowly began to clear, I looked down at my daughter, who was curled up in bed clutching her blanket, and stroked her gently on the head.</p>
 <p>I felt sorry for Norn. I really did. With a father like me, she had to have plenty of complaints, but she always kept them to herself and tried her very best to smile. If I ever lost her, I wouldn&#x27;t have the strength to go on living.</p>
 <p>&quot;Mm… Daddy…&quot;</p>
 <p>Norn shifted around in bed just a little. It didn&#x27;t seem like I&#x27;d woken her; she was probably just sleep-talking.</p>
@@ -188,17 +186,17 @@ nav_title = "Chapter 4"
 <p>Suddenly, an odd thought occurred to me: If Rudy had been an &quot;ordinary&quot; kid as well, wouldn&#x27;t he be sleeping in this room with Norn right now? He would have stayed home with us instead of going off to be a tutor. And at the moment of the disaster, he might have been tugging at my sleeve, asking if he could hug Norn, too.</p>
 <p>If Rudy had been ordinary—a normal eleven-year-old—wouldn&#x27;t I look at him the same way I looked at Norn? As someone I needed to protect?</p>
 <p>My legs trembled underneath me. I finally understood why Geese had told me &quot;He&#x27;s still a kid.&quot;</p>
-<p>What <em>difference</em> did it make if Rudy was ordinary or not? How did that even matter? What if Norn had been the genius? Would I have spoken to <em>her</em> like that? If Norn had come back to me after going on an adventure, knowing nothing of what had taken place…would I have told her <em>I expected more</em>?</p>
+<p>What difference did it make if Rudy was ordinary or not? How did that even matter? What if Norn had been the genius? Would I have spoken to her like that? If Norn had come back to me after going on an adventure, knowing nothing of what had taken place…would I have told her I expected more?</p>
 <p>Once I started thinking about that, I couldn&#x27;t fall asleep. I didn&#x27;t even want to lie down in bed. I left our inn, found a fire bucket full of water outside, and dumped a whole jug&#x27;s worth over my head.</p>
 <p>And then, remembering the look on Rudy&#x27;s face as he left the bar, I bent over and vomited.</p>
 <p><em>Refresh my memory, Paul. Who was it who hurt the kid that badly?</em></p>
-<p>Looking down into that fire bucket, I saw the face of a total idiot. Whoever this dumbass was, he was obviously the last man in the world who had any business calling himself a father<em>.</em></p>
+<p>Looking down into that fire bucket, I saw the face of a total idiot. Whoever this dumbass was, he was obviously the last man in the world who had any business calling himself a father.</p>
 <p>&quot;Ah, shit. This might be tough…&quot;</p>
 <p>If I was in his kid&#x27;s shoes, I&#x27;d cut ties without a second thought.</p>
 <p>### <strong>Rudeus</strong></p>
 <p><strong>T</strong>he next morning, I sat down to breakfast in a relatively decent mood.</p>
 <p>We&#x27;d just walked over to the bar next to the inn. The food in Millishion was definitely tasty. Our meals had been getting better and better as we traveled toward it from the Great Forest. This morning, we had freshly baked bread, some sort of lightly flavored clear soup, a simple vegetable salad, and thick slices of bacon. Not bad at all.</p>
-<p>While I hadn&#x27;t had any last night, apparently dinner here came with an actual dessert<em>.</em> It was a specific kind of sweet jelly that was very popular with young adventurers lately, having earned a mention in a recent popular ballad about a youthful magician&#x27;s adventures.</p>
+<p>While I hadn&#x27;t had any last night, apparently dinner here came with an actual dessert. It was a specific kind of sweet jelly that was very popular with young adventurers lately, having earned a mention in a recent popular ballad about a youthful magician&#x27;s adventures.</p>
 <p>That was something to look forward to, at least. It&#x27;s always nice to get some decent food in your belly. Getting hungry makes you irritated. Getting irritated ruins your appetite. And a ruined appetite just gets you hungrier. That&#x27;s a classic vicious circle right there. It&#x27;s enough to make an android cranky.</p>
 <p>&quot;…C&#x27;mon in.&quot;</p>
 <p>As I reflected on these matters while sipping a coffee-like aftermeal drink, the barkeep turned his attention to the entrance. A weary, pale-faced man stood in the doorway. When I saw his face, I flinched reflexively.</p>
@@ -218,7 +216,7 @@ nav_title = "Chapter 4"
 <p>&quot;We should leave the two of them alone.&quot;</p>
 <p>&quot;You saw Rudeus last night, didn&#x27;t you?! That man has no right to call himself a father!&quot;</p>
 <p>&quot;Don&#x27;t be so harsh on him. Most fathers are far from perfect.&quot;</p>
-<p>Ruijerd headed for the exit, carrying a struggling Eris with him. But as he passed by Paul, he paused for just a moment. &quot;You have every right to say your piece. But the only reason that you <em>can</em> is that your son is still alive.&quot;</p>
+<p>Ruijerd headed for the exit, carrying a struggling Eris with him. But as he passed by Paul, he paused for just a moment. &quot;You have every right to say your piece. But the only reason that you can is that your son is still alive.&quot;</p>
 <p>&quot;Uh…yeah…&quot;</p>
 <p>Ruijerd&#x27;s words carried some real weight. He did seem to consider himself the world&#x27;s single greatest failure as a father. Maybe he felt some sympathy for a fellow screw-up.</p>
 <p>&quot;You really shouldn&#x27;t order people around with a jerk of your chin, Rudy.&quot;</p>
@@ -245,7 +243,7 @@ nav_title = "Chapter 4"
 <p>&quot;I do feel bad that I never saw your message, by the way. What was it about?&quot;</p>
 <p>&quot;I just said that I was fine, and asked you to search the northern part of the Central Continent.&quot;</p>
 <p>&quot;I see. Well, I can head there to look around once I drop Eris off back in the Fittoa Region.&quot;</p>
-<p>Why was I talking like a robot? Everything I said right now came out sounding weirdly tense. It almost felt like I was <em>anxious</em>. But why would I be? I&#x27;d forgiven Paul, and he&#x27;d forgiven me. Things definitely weren&#x27;t the same as before, but this was an emergency situation, right? And everyone gets tense in an emergency. Sure. That made sense.</p>
+<p>Why was I talking like a robot? Everything I said right now came out sounding weirdly tense. It almost felt like I was anxious. But why would I be? I&#x27;d forgiven Paul, and he&#x27;d forgiven me. Things definitely weren&#x27;t the same as before, but this was an emergency situation, right? And everyone gets tense in an emergency. Sure. That made sense.</p>
 <p>&quot;Putting that aside for now, could you go into a little more detail about the current situation in the Fittoa Region?&quot;</p>
 <p>&quot;Yeah, sure thing.&quot; Paul&#x27;s voice was just as stiff as mine and quavered slightly every time he spoke. Was he on edge as well?</p>
 <p>No, no. I should try to figure out my own behavior first. There really was something odd about this… I couldn&#x27;t seem to act the way I usually did.</p>
@@ -296,20 +294,20 @@ nav_title = "Chapter 4"
 <p>This would have been a year or two after I&#x27;d become a total shut-in. At that point, I still thought I had time to turn things around. But I was also aware that there was a growing gap between me and everyone I knew—one that I might never be able to bridge.</p>
 <p>Still, I was simply too afraid to go outside again. And so, feelings of anxiety and frustration steadily built up inside me. It was probably the single most emotionally volatile period of my life.</p>
 <p><em>I see. So that&#x27;s how it is…</em></p>
-<p>Paul had searched desperately for his family with no success. For all his efforts, he hadn&#x27;t found a single scrap of news for ages. He worried about us constantly. And eventually, he started to ask himself: <em>What if they&#x27;re hurt? What if they fell ill? What if they&#x27;re already dead?</em> The more he thought about it, the more worried he grew.</p>
+<p>Paul had searched desperately for his family with no success. For all his efforts, he hadn&#x27;t found a single scrap of news for ages. He worried about us constantly. And eventually, he started to ask himself: What if they&#x27;re hurt? What if they fell ill? What if they&#x27;re already dead? The more he thought about it, the more worried he grew.</p>
 <p>And then, at long last, I showed up…with a cheerful smile on my face. It was so very different from what Paul had imagined that he grew irritated despite himself.</p>
 <p>I&#x27;d once experienced something similar. Not long after I began my life as a loser, somebody I knew from junior high stopped by to visit and started to tell me about what was going on at school. I was deeply depressed and in so much pain, but he talked about his life like he didn&#x27;t have a single care in the world. It made my stomach hurt. I ended up snapping and hurling harsh insults at him.</p>
 <p>The day after that, I told myself that I&#x27;d apologize to him the next time he dropped by. But he never came over again. And I didn&#x27;t reach out to him, either. I let some sort of stubborn pride hold me back.</p>
-<p>I remembered now. That was <em>exactly</em> when I&#x27;d seen that face in the mirror.</p>
+<p>I remembered now. That was exactly when I&#x27;d seen that face in the mirror.</p>
 <p>&quot;I&#x27;ve got a proposal, Father.&quot;</p>
 <p>&quot;What…?&quot;</p>
 <p>&quot;Under these circumstances, I think we need to try and act like grownups.&quot;</p>
 <p>&quot;Uh, yeah, I guess I wasn&#x27;t too mature yesterday… I&#x27;m not sure what you&#x27;re getting at, though.&quot;</p>
 <p>The gloom inside my heart was melting rapidly away. I finally understood how Paul felt now. Once I had that piece of the puzzle, the rest was simple enough, really.</p>
-<p>I thought back to the past again—to the day Paul had chewed me out for fighting, and I&#x27;d fired back sharp words of my own. At the time, I&#x27;d been less than impressed with his parenting skills. But he was only twenty-four then, very young for a father, so I decided not to judge him <em>too</em> harshly.</p>
-<p>It had been six years since then. Paul was now thirty years old. He was still a good bit younger than I had been in my previous life, and he&#x27;d already accomplished more than I ever had. When I&#x27;d fought with my friend, I didn&#x27;t even try to patch things up. I just found ways to convince myself that it was all his fault. By comparison, Paul was making a <em>much</em> better effort.</p>
+<p>I thought back to the past again—to the day Paul had chewed me out for fighting, and I&#x27;d fired back sharp words of my own. At the time, I&#x27;d been less than impressed with his parenting skills. But he was only twenty-four then, very young for a father, so I decided not to judge him too harshly.</p>
+<p>It had been six years since then. Paul was now thirty years old. He was still a good bit younger than I had been in my previous life, and he&#x27;d already accomplished more than I ever had. When I&#x27;d fought with my friend, I didn&#x27;t even try to patch things up. I just found ways to convince myself that it was all his fault. By comparison, Paul was making a much better effort.</p>
 <p>I wasn&#x27;t the same person I was back then. I&#x27;d sworn to myself that I was going to change, hadn&#x27;t I? I&#x27;d forgotten about that lately, but I couldn&#x27;t let myself repeat the same stupid mistakes over and over again.</p>
-<p>This was a much bigger fight than our last one, yes. But I was behaving the exact same way I did on that day six years ago. We were <em>both</em> making the same stupid mistakes all over again. I thought I&#x27;d come a long way since then, but instead, it seemed that I&#x27;d been treading water. I had to acknowledge that.</p>
+<p>This was a much bigger fight than our last one, yes. But I was behaving the exact same way I did on that day six years ago. We were both making the same stupid mistakes all over again. I thought I&#x27;d come a long way since then, but instead, it seemed that I&#x27;d been treading water. I had to acknowledge that.</p>
 <p>And more importantly, I had to take a real step forward.</p>
 <p>&quot;Let&#x27;s pretend yesterday never happened.&quot;</p>
 <p>It was a simple enough proposal. I was deeply hurt by what Paul said to me in that bar. The pain had been almost unendurable. My friend, who&#x27;d stopped by out of concern for me, must have felt something similar when I pushed him away. And that was how things ended. We never saw each other again.</p>
@@ -324,8 +322,7 @@ nav_title = "Chapter 4"
 <p>Resting my chin on his shoulder, I slowly murmured a little advice. &quot;C&#x27;mon. You&#x27;ve just been reunited with your son. Isn&#x27;t there anything you want to say?&quot;</p>
 <p>This was all a bit ridiculous, yes. But even so, I hugged Paul&#x27;s solidly built body with all my might. It wasn&#x27;t just his face that had gotten thinner. His body felt like it was a size or two smaller than it was before. Of course, I&#x27;d done some growing in the last few years, so that probably had something to do with it; but it was obvious that my father had been through some very hard times.</p>
 <p>After a moment&#x27;s hesitation, Paul managed to mumble &quot;I…I missed you too.&quot;</p>
-<p>And once he got those first words out, it was as if the floodgates opened. &quot;I missed you too, Rudy… I missed you so damn much! I</p>
-<p>searched and searched, but I couldn&#x27;t find anybody… I started thinking you might be <em>dead</em>… I started…picturing you…&quot;</p>
+<p>And once he got those first words out, it was as if the floodgates opened. &quot;I missed you too, Rudy… I missed you so damn much! I searched and searched, but I couldn&#x27;t find anybody… I started thinking you might be dead… I started…picturing you…&quot;</p>
 <p>When I looked up at Paul again, tears were streaming down his cheeks. It wasn&#x27;t exactly a pretty picture. The man was sobbing like a baby. &quot;I&#x27;m sorry… I&#x27;m so sorry, Rudy…&quot;</p>
 <p><em>Well, great. Now he&#x27;s got me going too.</em></p>
 <p>I patted the back of Paul&#x27;s head a few times. For a while, the two of us just cried together.</p>

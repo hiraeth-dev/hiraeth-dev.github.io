@@ -15,8 +15,7 @@ nav_title = "Chapter 7"
 <p>Nah. Even if she didn&#x27;t get mad, Sylphie would definitely have a fit.</p>
 <p>&quot;Ah!&quot; Ariel finally blinked and regained her composure. She turned her gaze toward me. &quot;We&#x27;ve arrived at our destination…haven&#x27;t we?&quot;</p>
 <p>&quot;Yes.&quot;</p>
-<p>We found ourselves in a room with a stone floor and walls, similar to the other Dragon Tribe ruins I had visited. All the other teleportation circles I&#x27;d used led to places like this. The only difference was that this place had a proper door, and the room was filled with the smell of ink, parchment, and mold. That assured me</p>
-<p>that we had definitely arrived at the Library Labyrinth, even if there were no books in this room.</p>
+<p>We found ourselves in a room with a stone floor and walls, similar to the other Dragon Tribe ruins I had visited. All the other teleportation circles I&#x27;d used led to places like this. The only difference was that this place had a proper door, and the room was filled with the smell of ink, parchment, and mold. That assured me that we had definitely arrived at the Library Labyrinth, even if there were no books in this room.</p>
 <p>&quot;I was told there was no real danger here, but the place is a labyrinth, after all,&quot; I said. &quot;Let&#x27;s stay on our guard.&quot;</p>
 <p>The tension returned to Sylphie and Luke&#x27;s faces. Ghislaine&#x27;s expression remained unreadable as ever, and Eris…well, Eris looked pretty pumped up.</p>
 <p>&quot;I&#x27;ll take the lead!&quot; she declared, stepping toward the corridor that led deeper into the labyrinth.</p>
@@ -62,9 +61,8 @@ nav_title = "Chapter 7"
 <p>&quot;Oh, wow…&quot;</p>
 <p>I gasped as I stepped out of the door. I couldn&#x27;t help it. An endless hallway stretched before me, but that wasn&#x27;t just it. Its walls, three meters tall, comprised stone bookcases that continued far into the distance. Books were packed tight on the shelves.</p>
 <p>&quot;I see, so this is the Library Labyrinth…&quot;</p>
-<p>I stepped up to one of the bookcases. The volumes were more like manuscripts, lacking a hardcover binding. In fact, some didn&#x27;t have a spine and were just sheaves of paper bound together. No, not some—that was the majority of the material on the shelves. Most of them resembled a disorganized cluster of scrap paper and memos more than a collection of organized notes. In this mess, I only spotted one volume that actually had a cover. Its title was <em>Ledger</em>, written in Demon God Tongue. Based on that, I guessed it contained accounting records for some shop somewhere in the Demon Continent.</p>
-<p>I quietly looked to the bookshelf on the opposite wall. It was the same. What good was a bunch of scrap paper like that going to do</p>
-<p>anyone? It was a mystery to me. At least it fit with the image of a Library Labyrinth; even its contents were like a maze.</p>
+<p>I stepped up to one of the bookcases. The volumes were more like manuscripts, lacking a hardcover binding. In fact, some didn&#x27;t have a spine and were just sheaves of paper bound together. No, not some—that was the majority of the material on the shelves. Most of them resembled a disorganized cluster of scrap paper and memos more than a collection of organized notes. In this mess, I only spotted one volume that actually had a cover. Its title was Ledger, written in Demon God Tongue. Based on that, I guessed it contained accounting records for some shop somewhere in the Demon Continent.</p>
+<p>I quietly looked to the bookshelf on the opposite wall. It was the same. What good was a bunch of scrap paper like that going to do anyone? It was a mystery to me. At least it fit with the image of a Library Labyrinth; even its contents were like a maze.</p>
 <p>&quot;Rudeus? What&#x27;s the matter?&quot; Eris asked.</p>
 <p>&quot;Oh, no. It&#x27;s nothing.&quot;</p>
 <p>Trying to find the book we were looking for was going to be like searching for a needle in a haystack. I wondered if we&#x27;d really be able to locate any materials on King Gaunis.</p>
@@ -72,8 +70,7 @@ nav_title = "Chapter 7"
 <p>We walked for quite a while after that. The bookshelves went on forever. At first, all we could see was a hallway that led straight ahead, but it apparently had a slight curve to it. There was a brief gap in the shelves, where the hall branched off in the shape of an H.</p>
 <p>I decided to keep moving straight forward, leaving a sign behind to mark where we&#x27;d been before moving on. We ran into a number of monsters on our way. One was a snail big enough to block half of the corridor. Writhing tentacles grew from its shell. The mere sight sent a chill down my spine. It wasn&#x27;t until I realized those tentacles were holding countless books that I felt less wary. I had no idea what the creature was called, so I decided to tentatively dub it the Cthulhu-Snail.</p>
 <p>We also encountered a black slime creature. From a distance, I couldn&#x27;t make out any other features other than that it was a slime, so I decided to call it as such for now. Both creatures were grabbing books and drawing them into their respective bodies heading down the hallway. They weren&#x27;t getting to their destination any time soon, but it was clear that they had one in mind: they moved with too much purpose to be merely meandering.</p>
-<p>There were also some knee-high, black bipedal ants. They seemed to have their own destination as well, not even sparing us a glance as they went on their way. They had no distinctive</p>
-<p>characteristics, so—for lack of anything better to call them—I decided to refer to them simply as ants.</p>
+<p>There were also some knee-high, black bipedal ants. They seemed to have their own destination as well, not even sparing us a glance as they went on their way. They had no distinctive characteristics, so—for lack of anything better to call them—I decided to refer to them simply as ants.</p>
 <p>Although the ants spotted us, they didn&#x27;t appear aggressive, instead disappearing off into the labyrinth. I was so used to monsters attacking indiscriminately that it felt a bit anticlimactic. Eris and Ghislaine kept running off to slay them every time. It was a nightmare trying to stop them.</p>
 <p>We hadn&#x27;t encountered any traps yet. At first, we moved through the halls with great caution, but after an hour of nothing, it seemed silly to continue walking on eggshells. I was pleased that this meant Orsted&#x27;s information was accurate. He hadn&#x27;t tried to deceive us. At this rate, I was actually going to start trusting him.</p>
 <p>Then again, I already had experience with a certain party who tried to gain my trust before stabbing me in the back.</p>
@@ -91,7 +88,7 @@ nav_title = "Chapter 7"
 <p><em>Observant as ever, Sylphie. I should have known you&#x27;d have a keen eye for this.</em></p>
 <p>We walked again for a while. As Sylphie noted, the further in we went, the more recent the books. At the same time, the bend of the hallway became far more noticeable. This also meant the corridors themselves were much shorter than they had been. We were getting closer to the center of the circle.</p>
 <p>I wondered what we&#x27;d find in the middle. Since this was a labyrinth, maybe the master of the place? Its guardian? Orsted said the books were created by a book-loving demon, but perhaps that wasn&#x27;t all. Maybe something else lived here too. Considering my memories of the Teleportation Labyrinth, I didn&#x27;t want to fight if I didn&#x27;t have to.</p>
-<p><em>Well, Laplace&#x27;s War started about 400 years ago. We shouldn&#x27;t have to go all the way to the center to find that section,</em> I reminded myself, trying to get a handle on my anxiety.</p>
+<p>Well, Laplace&#x27;s War started about 400 years ago. We shouldn&#x27;t have to go all the way to the center to find that section, I reminded myself, trying to get a handle on my anxiety.</p>
 <p>&quot;This place is kinda boring,&quot; Eris grumbled sullenly.</p>
 <p><em>Ah, this brings back memories.</em></p>
 <p>I had seen Eris get bored before. It was better to warn her against trying anything funny simply because she wasn&#x27;t being entertained.</p>
@@ -101,15 +98,14 @@ nav_title = "Chapter 7"
 <p>Having traveled with Ruijerd before, I knew this meant there were monsters nearby. Sylphie and the others were also on guard. My Eye of Foresight had yet to pick up on anything.</p>
 <p>&quot;The next corner…to the left…at the back,&quot; said Eris, surprising me with how well she managed to pinpoint this foreign presence.</p>
 <p>&quot;Can&#x27;t say exactly how many, but there&#x27;s a lot,&quot; added Ghislaine.</p>
-<p><em>Just like her to be vague about numbers.</em> Had she forgotten our lessons together? Even after how much hard work she put into them?</p>
+<p>Just like her to be vague about numbers. Had she forgotten our lessons together? Even after how much hard work she put into them?</p>
 <p><em>Okay, now&#x27;s not really the time for that.</em></p>
 <p>&quot;I&#x27;ll take a look,&quot; I said, stepping forward. Moving as quietly as possible, I edged toward the H-shaped intersection and carefully peered around the corner.</p>
-<p>There really were a <em>bunch</em> of monsters, mostly slimes and ants. The former were repeatedly coalescing before splitting off again, which made it impossible to know how many there were.</p>
+<p>There really were a bunch of monsters, mostly slimes and ants. The former were repeatedly coalescing before splitting off again, which made it impossible to know how many there were.</p>
 <p><em>Thank goodness. Ghislaine hasn&#x27;t forgotten her numbers after all.</em></p>
 <p>Still, what were these things doing?</p>
 <p>&quot;They&#x27;re digging through the wall…and making shelves?&quot;</p>
-<p>From what I could tell, the ants were carving into the rock, while the slimes collected the resulting rubble and consumed it. They then broke it down inside their bodies before reforming it and spitting it</p>
-<p>back out to make new shelves along the wall. Basically, this Library Labyrinth was a maze of hallways they&#x27;d created.</p>
+<p>From what I could tell, the ants were carving into the rock, while the slimes collected the resulting rubble and consumed it. They then broke it down inside their bodies before reforming it and spitting it back out to make new shelves along the wall. Basically, this Library Labyrinth was a maze of hallways they&#x27;d created.</p>
 <p>&quot;Doesn&#x27;t look like there&#x27;s any danger,&quot; I announced, beckoning everyone over.</p>
 <p>They nervously approached, peeking around the corner as I had moments earlier. Once they saw what was happening, they breathed a sigh of relief.</p>
 <p>&quot;So they&#x27;re simply building more shelves,&quot; Ariel remarked.</p>
@@ -134,7 +130,7 @@ nav_title = "Chapter 7"
 <p>Years ago, she would never have apologized so earnestly like that.</p>
 <p>As we turned a corner, we found ourselves in an open area. It was a ridiculously wide, cone-shaped hollow. It had multiple levels, with stairs sandwiched between stretches of shelves. It reminded me of the staggered seats in Rome&#x27;s colosseum.</p>
 <p>In its center was an enormous slime. Its body jiggled, dozens of arms extending from its middle like tentacles, each one holding a pen and scribbling something at a lightning speed. Only one of its appendages was different: it pointed directly upward. It had an enormous eyeball at the tip, which was glaring up at the ceiling.</p>
-<p>The second I saw this creature, one thought ran through my mind: <em>Oh, crap.</em></p>
+<p>The second I saw this creature, one thought ran through my mind: Oh, crap.</p>
 <p>This was, without a doubt, the master of the labyrinth, and we had unwittingly stepped within striking range. I wasn&#x27;t the only one who sensed danger; those behind me were similarly speechless. Eris and Ghislaine were gawking, even as they drew their weapons.</p>
 <p>&quot;What the heck is that thing?&quot; Luke blurted.</p>
 <p><em>Thanks, Luke, you said what the rest of us were all thinking.</em></p>
@@ -144,8 +140,7 @@ nav_title = "Chapter 7"
 <p><em>But a slime that reads books? Okay, okay. It&#x27;s not good to judge. I am sure even slimes enjoy reading.</em></p>
 <p>&quot;If this is indeed a Demon King, then should we not greet it?&quot; asked Ariel.</p>
 <p>&quot;I wonder if it can even talk…&quot; I mumbled.</p>
-<p>There were many types of demons. Some had no vocal cords and therefore couldn&#x27;t speak. It seemed that this slime might fall into that category. If my past experiences with Demon Kings were</p>
-<p>anything to go by, they didn&#x27;t really listen to people. Granted, Badigadi and Atofe were the only ones I had ever met, but neither of them listened to others. We couldn&#x27;t judge this slime simply by looking at it, but it&#x27;d probably be safer to keep to ourselves.</p>
+<p>There were many types of demons. Some had no vocal cords and therefore couldn&#x27;t speak. It seemed that this slime might fall into that category. If my past experiences with Demon Kings were anything to go by, they didn&#x27;t really listen to people. Granted, Badigadi and Atofe were the only ones I had ever met, but neither of them listened to others. We couldn&#x27;t judge this slime simply by looking at it, but it&#x27;d probably be safer to keep to ourselves.</p>
 <p>&quot;Since it doesn&#x27;t look like it&#x27;s noticed us, let&#x27;s try to keep it that way and move quietly.&quot;</p>
 <p>Silence was one of the golden rules of a library, after all.</p>
 <p>We resumed our search, being careful to stay quiet. There appeared to be smaller slimes in the area moving around as well. They seemed to be ignoring us for the moment, but there was no knowing what might happen if the larger slime spotted us. None of the familiars looked very powerful, but it was impossible to know for sure, so it was best for us to stay on guard. It could put us in a real pickle if they all came at us at once.</p>
@@ -153,7 +148,7 @@ nav_title = "Chapter 7"
 <p>&quot;What is it?&quot; Curious as I was, I couldn&#x27;t peel my gaze away from the enormous slime at the center of the room.</p>
 <p>&quot;It&#x27;s here, Rudy. This area.&quot;</p>
 <p><em>What&#x27;s here?</em></p>
-<p>I glanced behind me. Sylphie reached out to a shelf along the outside wall, plucking a book from the middle that was titled <em>King Gaunis: Rise and Reign</em>. It was one among many.</p>
+<p>I glanced behind me. Sylphie reached out to a shelf along the outside wall, plucking a book from the middle that was titled King Gaunis: Rise and Reign. It was one among many.</p>
 <p>I had been so distracted by the giant slime that I hadn&#x27;t noticed it, but apparently this was the area that housed books written in the wake of Laplace&#x27;s War. It seemed like we&#x27;d passed right over the section covering the middle and end of that conflict, but then again, the people back then were probably so busy fighting that they didn&#x27;t have time to pen books. But once victory was theirs and people&#x27;s lives began to go back to normal, those who could recount the details of the affair had started writing it all down, and the books in this area likely belonged to such authors.</p>
 <p>&quot;In that case, let&#x27;s backtrack the last dead end and make camp there,&quot; I proposed.</p>
 <p>Eris nodded. &quot;Yeah, can&#x27;t say I want to sleep somewhere with that thing in sight.&quot;</p>
@@ -171,7 +166,7 @@ nav_title = "Chapter 7"
 <p>It was these three princes that decided to take a stand against Laplace&#x27;s encroaching army. However, Laplace&#x27;s troops were powerful. Neither the eldest&#x27;s brute force nor the second eldest&#x27;s raw tactics could outmatch the enemy army, and so the two of them died.</p>
 <p>The war culminated in a decisive battle on the Central Continent&#x27;s southern front, which finally resulted in the death of Asura&#x27;s king—Gaunis&#x27;s father. Thus, Gaunis took the throne despite his youth. He was a talented man, but his strength couldn&#x27;t match that of his eldest brother, nor were his tactics equal to the second eldest. Could someone like him could beat Laplace&#x27;s army, when both of his brothers and the previous king had already fallen before him?</p>
 <p>He could. It was, as the literature stated, because he had numerous friends: the Dragon God Urupen, the North God Kalman, and Armored Dragon King Perugius, to name a few of the numerous heroes he called comrades. Gaunis went to them and prostrated himself, pleading with them to help him find a way to take down Laplace. Seven heroes answered his call and set off on a journey to defeat Gaunis&#x27;s sworn enemy.</p>
-<p>The details matched up with what I had read long ago in <em>Legends of the Armored Dragon King</em>. These books also said more about Perugius and his companions&#x27; adventures than they did about King Gaunis.</p>
+<p>The details matched up with what I had read long ago in Legends of the Armored Dragon King. These books also said more about Perugius and his companions&#x27; adventures than they did about King Gaunis.</p>
 <p>After the heroes left on their mission, King Gaunis consolidated power in Asura Kingdom and rode out to meet Laplace&#x27;s army. It was one defensive clash after the other, a battle of attrition. However, King Gaunis did manage to hold back the enemy&#x27;s advance, successfully keeping Asura from falling until Perugius and the others returned. He really was the man behind the scenes.</p>
 <p>As for what kind of person King Gaunis was…the literature tended to be pretty unreliable. Most volumes described him as an exemplary ruler, peerless in his majesty and overflowing with talent. They never illustrated exactly how he possessed these qualities, but they showered him with compliments nonetheless.</p>
 <p>Ariel seemed satisfied with these accounts since they matched up exactly with what she&#x27;d heard, but the more I searched, the more I found strange information mixed in with the rest. According to other sources, Gaunis was a talentless alcoholic who sneaked into the city to mess around while his gifted elder brothers participated in the war effort. Apparently, he drank and got into fights almost daily.</p>
@@ -189,11 +184,10 @@ nav_title = "Chapter 7"
 <p>This tome covered which Blessed Children had been discovered at the time, what powers they possessed, and what kind of people they were. None of it seemed to have anything to do with Gaunis. At least not until I came upon an article that described the &quot;Powerless Blessed Child.&quot; The title alone made me imagine the opposite of Zanoba, who boasted inhuman strength. Powerless suggested this person was frail and wimpy.</p>
 <p>Despite my impressions, the power described was deemed extremely dangerous, enough that the text emphasized that anyone possessing it should be killed immediately. A Powerless Blessed Child could disable other Blessed Children&#x27;s powers.</p>
 <p>I had seen this pattern pretty often in light novels with superpowers. In most cases, the person with the ability to disable the powers of others had no other abilities of their own. This often put them at a disadvantage and others looked down on them. But in these series, the majority of the central characters possessed super powers, like ninety percent of them, so the ability to nullify their abilities was game-changing. Naturally, the person possessing this rare gift was typically the main protagonist.</p>
-<p>Blessed Children were so rare in this world, however, that there were probably only a handful of them in existence. Being able to nullify their abilities didn&#x27;t seem all that potent. If anything, it</p>
-<p>seemed extremely useless to me. It would be way better to have a Sword God-style warrior on your side than someone like that.</p>
+<p>Blessed Children were so rare in this world, however, that there were probably only a handful of them in existence. Being able to nullify their abilities didn&#x27;t seem all that potent. If anything, it seemed extremely useless to me. It would be way better to have a Sword God-style warrior on your side than someone like that.</p>
 <p>That said, other Blessed Children tended to be authority figures in their respective countries. They could create miracles with their powers that one normally couldn&#x27;t bring about through ordinary magic. For that very reason, it would be a huge disadvantage to a country if their Blessed Child&#x27;s power was snuffed out. Other countries would see a Powerless Blessed Child as a nuisance, while their own country would deem them as a worthless liability that only put them under foreign scrutiny. Thus, it was advised to kill such a child immediately.</p>
 <p>The power described, however, did catch my interest. Powerless Blessed Children could apparently also dispel the powers of Cursed Children. They were the same, after all. The only difference between them was whether the power they had was beneficial or not, so it made sense that Powerless&#x27;s abilities would be effective on them as well.</p>
-<p>I wondered, though, if this ability to erase other Blessed Children and Cursed Children&#x27;s powers could also be used to nullify other things. Like regular curses, for instance. The title <em>Cursed Children</em> lent itself to the belief that they had been marked by an actual curse, but the two things were completely unrelated.</p>
+<p>I wondered, though, if this ability to erase other Blessed Children and Cursed Children&#x27;s powers could also be used to nullify other things. Like regular curses, for instance. The title Cursed Children lent itself to the belief that they had been marked by an actual curse, but the two things were completely unrelated.</p>
 <p>Since this book didn&#x27;t explicitly say this was the case, I assumed the Powerless&#x27;s abilities couldn&#x27;t cure curses, but perhaps I needed to look at the bigger picture. Blessed Children possessed all kinds of different abilities. Every single one broke the natural laws of the world. It seemed plausible that one among them could erase curses or turn back the hands of time. In other words, with the right Blessed Child&#x27;s power, we might be able to return Zenith&#x27;s memories to her.</p>
 <p>That was merely a wishful observation on my part, of course, but it was worth asking Orsted about when I got home.</p>
 <p>&quot;Ah, I better jot this down in my diary, lest I forget,&quot; I muttered.</p>
@@ -218,42 +212,39 @@ nav_title = "Chapter 7"
 <p>&quot;Am I being too hasty?&quot; I wondered. For a split second, I lost my nerve, but it was already too late to regret it now.</p>
 <p>The giant slime&#x27;s eyeball, which had been glaring up at the ceiling this entire time, now turned toward me. The thing was enormous. It could clearly see me gaping at it.</p>
 <p>The slime shrunk back for a moment. In the next second, its tentacles shot outward at an incredible speed, almost like porcupine needles blasting in all directions.</p>
-<p>My Eye of Foresight told me: <em>A tentacle is headed straight toward me.</em></p>
-<p>I ducked, assuming it meant to impale me. To my surprise, the tentacle stopped right in front of me. It was clutching a single piece of paper. No, that wasn&#x27;t right—it wasn&#x27;t <em>clutching</em> anything, its body was like an adhesive so the paper was merely attached to it. At any rate, it held the paper directly in front of me, a message scrawled on it that read: <em>I am Demon King Beethove Tovetha, of the Nen Tribe. Welcome to my castle, Future Author-in-the-Making.</em></p>
-<p><em>Oh… Ooooh! Communication successfully established!</em> I mentally pumped my fists. <em>Wait, no. Hold up a second. Seriously? I just came up with the idea of talking to this thing on the fly. I never dreamed it&#x27;d go this smoothly. Uh, now what…</em></p>
-<p>I hastily scribbled my reply: <em>My deepest apologies for not paying my proper respects sooner. It truly is an honor to meet you, Your Majesty. We came here in hopes of researching a certain subject. Would you be willing to permit our stay here in the meantime?</em></p>
-<p>Its response was succinct and simple: <em>Yes.</em></p>
-<p><em>Phew.</em> I could finally breathe a sigh of relief after being on edge this whole time. I wiped cold sweat from my brow.</p>
-<p><em>Okay,</em> I thought. <em>I can actually do this. Although next time I should probably have alerted Eris before I try something. That was a little too rash.</em></p>
+<p>My Eye of Foresight told me: A tentacle is headed straight toward me.</p>
+<p>I ducked, assuming it meant to impale me. To my surprise, the tentacle stopped right in front of me. It was clutching a single piece of paper. No, that wasn&#x27;t right—it wasn&#x27;t clutching anything, its body was like an adhesive so the paper was merely attached to it. At any rate, it held the paper directly in front of me, a message scrawled on it that read: I am Demon King Beethove Tovetha, of the Nen Tribe. Welcome to my castle, Future Author-in-the-Making.</p>
+<p>Oh… Ooooh! Communication successfully established! I mentally pumped my fists. Wait, no. Hold up a second. Seriously? I just came up with the idea of talking to this thing on the fly. I never dreamed it&#x27;d go this smoothly. Uh, now what…</p>
+<p>I hastily scribbled my reply: My deepest apologies for not paying my proper respects sooner. It truly is an honor to meet you, Your Majesty. We came here in hopes of researching a certain subject. Would you be willing to permit our stay here in the meantime?</p>
+<p>Its response was succinct and simple: Yes.</p>
+<p>Phew. I could finally breathe a sigh of relief after being on edge this whole time. I wiped cold sweat from my brow.</p>
+<p>Okay, I thought. I can actually do this. Although next time I should probably have alerted Eris before I try something. That was a little too rash.</p>
 <p>Still, what an interesting name. It reminded me of a certain composer who had spent their life making music. Orsted had told me this Demon King wasn&#x27;t such a bad guy, and based on our brief interaction, it seemed he was right.</p>
 <p>But now what? I thought about what I&#x27;d say after striking up a conversation with them. Maybe I could ask after some information relating to Gaunis. If they really were the master of this labyrinth, they ought to be knowledgeable about him.</p>
-<p><em>Actually, we are looking for a certain book,</em> I wrote.</p>
-<p><em>Find it yourself,</em> the slime replied instantly.</p>
-<p><em>Oof,</em> I thought. <em>That was cold.</em></p>
+<p>Actually, we are looking for a certain book, I wrote.</p>
+<p>Find it yourself, the slime replied instantly.</p>
+<p>Oof, I thought. That was cold.</p>
 <p>Then again, we were complete strangers who had appeared out of nowhere. I couldn&#x27;t blame the slime for turning down what they must have deemed an outlandish demand. At least they weren&#x27;t chasing us out altogether.</p>
-<p><em>However,</em> the slime continued, <em>you have managed to amuse me.</em></p>
-<p>Apparently, they weren&#x27;t simply refusing me as I&#x27;d first thought. Flustered, I reached for my journal again and wrote back, <em>Did I say something that funny?</em></p>
-<p>The slime replied, <em>You came here carrying a book from the future. That was truly shocking. And now, you are currently writing a continuation to its contents as we speak. If you don&#x27;t call that interesting or entertaining, then what is? As a reward for amusing me, I will grant you one wish.</em></p>
-<p>Book from the future? Ah, they must be referring to that diary my future self brought here—as in, to this timeline. I hadn&#x27;t brought it to the labyrinth. And if what the slime was saying was anything to</p>
-<p>go by, it had probably already copied the contents of that diary. From the slime&#x27;s perspective, my current journal was a sequel to the previous one. That was ironic. A diary from the past being the sequel to one from the future. I could see how it found such a unique book series so entertaining.</p>
+<p>However, the slime continued, you have managed to amuse me.</p>
+<p>Apparently, they weren&#x27;t simply refusing me as I&#x27;d first thought. Flustered, I reached for my journal again and wrote back, Did I say something that funny?</p>
+<p>The slime replied, You came here carrying a book from the future. That was truly shocking. And now, you are currently writing a continuation to its contents as we speak. If you don&#x27;t call that interesting or entertaining, then what is? As a reward for amusing me, I will grant you one wish.</p>
+<p>Book from the future? Ah, they must be referring to that diary my future self brought here—as in, to this timeline. I hadn&#x27;t brought it to the labyrinth. And if what the slime was saying was anything to go by, it had probably already copied the contents of that diary. From the slime&#x27;s perspective, my current journal was a sequel to the previous one. That was ironic. A diary from the past being the sequel to one from the future. I could see how it found such a unique book series so entertaining.</p>
 <p>All that aside, it sure seemed like Demon Kings loved to reward good deeds by granting people&#x27;s wishes. Was that a part of their culture or something?</p>
-<p><em>A wish? You&#x27;ll grant me anything I want?</em> I asked.</p>
-<p><em>The only thing that I, Beethove Tovetha, am capable of doing for you is searching for any book you seek,</em> they replied.</p>
+<p>A wish? You&#x27;ll grant me anything I want? I asked.</p>
+<p>The only thing that I, Beethove Tovetha, am capable of doing for you is searching for any book you seek, they replied.</p>
 <p>Well, given the type of creature I was dealing with, I couldn&#x27;t expect them to give me vast riches or immortality or anything like that. Now that I knew the parameters of this wish-granting, though, what book should I ask them to find? Singling out a single volume would be difficult. I&#x27;d have to know the title to be able to ask for something specific. We had already searched through most of the literature pertaining to Gaunis, but we still hadn&#x27;t found the key we needed…</p>
 <p><em>Wait. Maybe I should just give up on searching for something Gaunis-related and ask them to search for any book that might shine a light on a way to cure Zenith of her condition. Given the vast knowledge contained in this library and how enormous this place is, there might be some information on a way to treat her. Then again, it&#x27;s equally possible there isn&#x27;t.</em></p>
-<p>No, I couldn&#x27;t ask about that. I hadn&#x27;t come to this Library Labyrinth to search for a way to heal Zenith. My priority was Ariel. I came here to help her. Zenith still weighed on my mind, but her condition was stable right now. I couldn&#x27;t let myself be distracted. If Orsted started to think I was unreliable and decided to abandon me, the Man-God might take the opportunity to massacre my entire family. I had to avoid that possibility at all costs. Zenith was</p>
-<p>important, but she couldn&#x27;t be my first priority right now. I had to forget about her.</p>
+<p>No, I couldn&#x27;t ask about that. I hadn&#x27;t come to this Library Labyrinth to search for a way to heal Zenith. My priority was Ariel. I came here to help her. Zenith still weighed on my mind, but her condition was stable right now. I couldn&#x27;t let myself be distracted. If Orsted started to think I was unreliable and decided to abandon me, the Man-God might take the opportunity to massacre my entire family. I had to avoid that possibility at all costs. Zenith was important, but she couldn&#x27;t be my first priority right now. I had to forget about her.</p>
 <p>&quot;Oh, that&#x27;s right.&quot; I suddenly remembered the slip of paper I had tucked inside my pocket. It was the one Orsted had passed to me right as I was leaving. It had a book&#x27;s cover drawn on it. He&#x27;d likely anticipated that we wouldn&#x27;t find what we were looking for, which was why he&#x27;d handed it to me. Maybe he&#x27;d meant for me to show it to the Demon King. He did mention he could see the future or something like that.</p>
-<p><em>In that case,</em> I wrote, <em>I would like you to find a book with a cover that looks like this.</em></p>
-<p><em>Very well,</em> replied the slime.</p>
+<p>In that case, I wrote, I would like you to find a book with a cover that looks like this.</p>
+<p>Very well, replied the slime.</p>
 <p>I handed them the piece of paper, and a split second later, they plucked a volume from one of the shelves in the room. Apparently, the volume had been right nearby all along.</p>
 <p>The slime grabbed the book, drew it inside its body, and transferred it to the tentacle that dangled in front of me. I grabbed it, expecting it to be dripping with slime goop, but to my surprise, it was perfectly dry.</p>
 <p><em>Guess I shouldn&#x27;t be surprised. This slime is a bookworm, so of course they know how to handle books properly.</em></p>
 <p>I glanced down at the tome. It had a red leather cover adorned with trees bearing fruit, and it was particularly thick. I thumbed through it, giving it a cursory glance. The pages were covered in writing, squished tight from margin to margin.</p>
-<p><em>Your wish has been granted,</em> wrote Beethove. <em>Take your time and enjoy reading it.</em></p>
+<p>Your wish has been granted, wrote Beethove. Take your time and enjoy reading it.</p>
 <p>It then retracted its tentacles and resumed its copying work once more.</p>
-<p>What if this book happened to have the same cover as the one I was looking for, but it wasn&#x27;t the right one? Could I ask for an</p>
-<p>exchange? Granted, the back cover even had the same scribbles on the edge, so the chances of this being the wrong book were slim.</p>
+<p>What if this book happened to have the same cover as the one I was looking for, but it wasn&#x27;t the right one? Could I ask for an exchange? Granted, the back cover even had the same scribbles on the edge, so the chances of this being the wrong book were slim.</p>
 <p>&quot;Well, at any rate, guess it&#x27;s time to crack this thing open.&quot; I sat myself down and flipped to the first page. I barely made it several lines down before I gasped. &quot;This book is…&quot; I wasn&#x27;t sure yet whether it had the clues we needed or not, but I did know for certain that I had to show this to Ariel immediately.</p>
 <p>When I made it back to our camp, Ariel was still sitting there hugging her knees to her chest. Sylphie and Luke were nowhere to be found, let alone Eris. Perhaps they&#x27;d all left to look for more materials to sift through. In their stead, Ghislaine remained at the princess&#x27;s side, not unlike a guard dog.</p>
 <p>I stepped in front of Ariel. Since she was wearing a skirt, her white underwear was in plain view, but I tried to avert my gaze. Eris and Sylphie might not be here watching, but that didn&#x27;t mean I could sneak a peek. That was forbidden territory.</p>
@@ -265,7 +256,7 @@ nav_title = "Chapter 7"
 <p>&quot;Something good? What could that be?&quot;</p>
 <p>&quot;Something I think will excite you.&quot;</p>
 <p>&quot;Hm… What could that be? A sensual novel penned around the time Asura Kingdom was founded?&quot;</p>
-<p><em>Would something like that really excite her?</em> I wondered.</p>
+<p>Would something like that really excite her? I wondered.</p>
 <p>Now that she was mentally backed into a corner, she was babbling all kinds of strange things, which was amusing. Perhaps it wouldn&#x27;t be such a bad idea to leave her in this state for a bit longer. But then again, we didn&#x27;t have much time before we had to head for Asura. We didn&#x27;t have time to waste playing around like this.</p>
 <p>&quot;This,&quot; I said, handing her the book I was holding.</p>
 <p>Ariel&#x27;s eyes went wide as she glanced at the cover. &quot;These things hanging from the trees… It&#x27;s the bat emblem.&quot;</p>
@@ -314,7 +305,7 @@ nav_title = "Chapter 7"
 <p>While I was preoccupied with my thoughts, Sylphie mumbled, &quot;Okay, here goes.&quot; Having plucked up her courage, she stepped toward her two friends and knelt down. &quot;Hey, you two…&quot;</p>
 <p>&quot;Sylphie…&quot;</p>
 <p>Ariel and Luke both wore awkward expressions as they looked at her. They hadn&#x27;t done anything wrong, but I could understand why they felt guilty. They had always treated her like she&#x27;d been with them from the start.</p>
-<p><em>Wonder what she plans to say to them?</em> My stomach was knotting up in anxiety.</p>
+<p>Wonder what she plans to say to them? My stomach was knotting up in anxiety.</p>
 <p>Sylphie&#x27;s voice trembled as she said, &quot;Um, this Derrick person… When we get back home, could I ask you to tell me more about him? Since it seems like he had such great expectations of you both, I&#x27;d like to know about him too.&quot;</p>
 <p>&quot;Of course,&quot; said Luke, nodding. &quot;In fact, I want you to know more about him. He was the first person to recognize Princess Ariel&#x27;s true potential.&quot;</p>
 <p>Ariel was silent, but the way she smiled made it clear that she agreed with everything he&#x27;d said.</p>
@@ -380,8 +371,7 @@ nav_title = "Chapter 7"
 <p>&quot;Interesting? It&#x27;s giving me a stomachache,&quot; I grumbled as I hurried after Ariel and the others.</p>
 <p>&quot;Dammit, just how many of these creatures are there?!&quot;</p>
 <p>The horde&#x27;s pursuit was unrelenting. Despite how unassuming they looked on their own, these beasts held quite a lot of power. The slimes in particular were far quicker than they initially appeared like the Metal Slimes in Dragon Quest. If we paused for even a second, those ants would be on us, and their jaws were powerful enough to chomp through the toughest bedrock. But the worst of them were the Cthulhu-Snails that came charging from the front. If Ghislaine and Eris didn&#x27;t use the full force of their blades in their attack, it would merely glance right off. Even if they managed to cut through, it wasn&#x27;t enough to instantly kill the beast; it would still swing its club-like tentacles at us.</p>
-<p>Thankfully, the Library Labyrinth had no rooms and was instead a collection of interconnected hallways. So, as long as we kept up a solid offense in the front and back of the line, they wouldn&#x27;t be able to completely surround us and kill us off. Sylphie and Ghislaine took point, guiding us along, while Eris and I covered the rear. I kept unleashing Frost Novas while Ghislaine cut a path ahead. Sylphie</p>
-<p>continued launching Ice Lances from the ground below, skewering every snail, and Eris cleaned up whatever was left. We slowly inched forward while making sure nothing sneaked up behind us. We had an exhausting number of enemies, but we were at least making some progress forward.</p>
+<p>Thankfully, the Library Labyrinth had no rooms and was instead a collection of interconnected hallways. So, as long as we kept up a solid offense in the front and back of the line, they wouldn&#x27;t be able to completely surround us and kill us off. Sylphie and Ghislaine took point, guiding us along, while Eris and I covered the rear. I kept unleashing Frost Novas while Ghislaine cut a path ahead. Sylphie continued launching Ice Lances from the ground below, skewering every snail, and Eris cleaned up whatever was left. We slowly inched forward while making sure nothing sneaked up behind us. We had an exhausting number of enemies, but we were at least making some progress forward.</p>
 <p>&quot;There, ahead!&quot; Ghislaine&#x27;s sharp voice cut through the air.</p>
 <p>I snapped around. Ahead of us was an enormous swarm of slimes all clumped together. In the blink of an eye, they morphed into a single, enormous slime that completely blocked our path.</p>
 <p>&quot;You have got to be kidding me.&quot;</p>

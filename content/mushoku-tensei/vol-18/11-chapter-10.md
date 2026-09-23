@@ -38,7 +38,7 @@ nav_title = "Chapter 10"
 <p>&quot;Do you have any interest in boxes?&quot;</p>
 <p>&quot;Boxes?&quot;</p>
 <p>Was he referring to a sweat box? As in, a club? A sweat box might refer instead to a place where lots of people gathered, from what I understood of the young people&#x27;s slang. Since I had a mercenary band and thus plenty of opportunities for large gatherings, it might be worth looking into. Sure, I was interested.</p>
-<p><em>Wait, there&#x27;s no way that&#x27;s what he means. This is Zanoba we&#x27;re talking about. It&#x27;s probably a treasure box or something like that.</em> Yeah, that&#x27;s was more likely. There were probably lots of those boxes out there encrusted with gems and the like. I&#x27;d seen ones like that at Perugius&#x27;s place, and they were the very definition of luxury. They were empty, though.</p>
+<p>Wait, there&#x27;s no way that&#x27;s what he means. This is Zanoba we&#x27;re talking about. It&#x27;s probably a treasure box or something like that. Yeah, that&#x27;s was more likely. There were probably lots of those boxes out there encrusted with gems and the like. I&#x27;d seen ones like that at Perugius&#x27;s place, and they were the very definition of luxury. They were empty, though.</p>
 <p>&quot;Yes. Actually, I found a wonderful craftsman. I would like you to see their wares as well,&quot; said Zanoba.</p>
 <p>To be perfectly frank, I wasn&#x27;t really interested. On the other hand, it was rare for Zanoba to invite me to see an artisan like this.</p>
 <p>&quot;What kind of boxes?&quot; I asked.</p>
@@ -53,8 +53,7 @@ nav_title = "Chapter 10"
 <p>The store was the size of a small civilian house. It wasn&#x27;t grand and there was no sign out front, either. A thin trail of smoke rose from its chimney, indicating someone was in, but most people would never guess that this was a shop.</p>
 <p>&quot;This is it.&quot; Zanoba pushed open the door, and a chime echoed to alert the owner that he had customers.</p>
 <p>There was barely any light inside. In fact, the only sources of illumination were the streams of sunlight that came in through the window. A few undecorated display cases formed haphazard lines, blocking most of the light from the room. Still, there was enough to see what merchandise they held.</p>
-<p>The top shelves had female dolls in fancy outfits. They were similar to porcelain dolls, but made of wood instead. These dolls were tucked in lavishly decorated wooden boxes, all neatly arranged in rows. These dolls and the boxes that contained them were extremely elaborate, which stood in stark contrast to the shop&#x27;s</p>
-<p>general atmosphere and the simple design of the display cases themselves.</p>
+<p>The top shelves had female dolls in fancy outfits. They were similar to porcelain dolls, but made of wood instead. These dolls were tucked in lavishly decorated wooden boxes, all neatly arranged in rows. These dolls and the boxes that contained them were extremely elaborate, which stood in stark contrast to the shop&#x27;s general atmosphere and the simple design of the display cases themselves.</p>
 <p><em>These must be the boxes Zanoba was talking about.</em></p>
 <p>&quot;What do you think, Master?&quot; he asked.</p>
 <p>&quot;Now I see what you were talking about. These really are nice boxes.&quot;</p>
@@ -79,7 +78,7 @@ nav_title = "Chapter 10"
 <p>&quot;I came back to introduce my master to you,&quot; Zanoba said. &quot;I spoke to you about him before, if you&#x27;ll remember.&quot;</p>
 <p>&quot;Oh, him!&quot; Belfried nodded. &quot;The man responsible for those beautiful girls, yes?!&quot;</p>
 <p>&quot;Precisely!&quot; Zanoba turned toward me as he motioned at Belfried. &quot;Master, this is the owner of this workshop, Master Belfried. He is the talented artisan responsible for the number of excellent boxes—or rather, doll beds—you saw decorating the shop.&quot;</p>
-<p>His voice was infused with more respect than usual as he showered the man with compliments. <em>Sure must feel nice to get an introduction as fancy as that.</em></p>
+<p>His voice was infused with more respect than usual as he showered the man with compliments. Sure must feel nice to get an introduction as fancy as that.</p>
 <p>&quot;And Master Belfried, this here is my master, the great and powerful magician Rudeus Greyrat. He is himself an eminent craftsman whose figures no other person alive could possibly mimic—the kind of rare talent that will likely be spoken of for many decades after his death.&quot;</p>
 <p>His words overflowed with such reverence as he introduced me that it was overkill and actually made me pretty uncomfortable. I didn&#x27;t really care how people would speak of me after I was dead. They&#x27;d probably only badmouth me as a lady-killer who kept numerous wives.</p>
 <p>&quot;I have heard so many rumors about you,&quot; said Belfried. &quot;You are not merely a top-tier magician, but you also a deeply-learned craftsman as well!&quot;</p>
@@ -130,7 +129,7 @@ nav_title = "Chapter 10"
 <p>&quot;I haven&#x27;t the faintest idea. I got so excited the moment I saw the figure that I didn&#x27;t hear what she&#x27;d brought it in for. Though most people bring their adorable daughters here because they want to give them a bed where they can sleep peacefully. Perhaps that was her intention?&quot;</p>
 <p>Huh… I had a hard time believing there were so many people wanting a bed for their doll. That was so niche that only customers with that specific interest would probably ever come to this shop. Could Julie be one of them?</p>
 <p>Zanoba cleared his throat and said, &quot;When one marries off one of their daughters, their betrothed will be much happier having a bed to put them in.&quot;</p>
-<p>Marry off? Betrothed? I blinked at him. <em>Oh, I get it.</em> In other words, having a box to put a doll in raised its value when selling it. That made sense.</p>
+<p>Marry off? Betrothed? I blinked at him. Oh, I get it. In other words, having a box to put a doll in raised its value when selling it. That made sense.</p>
 <p>&quot;Precisely,&quot; said Belfried. &quot;That was why I was hoping this one might marry into my home. I tried to purchase her for two hundred Asuran gold coins, but… unfortunately, your dollmaker ran from me.&quot;</p>
 <p>&quot;Two hundred Asuran gold coins…?&quot; I stared at the man.</p>
 <p>&quot;Oh! Master Rudeus, please don&#x27;t give me that look. You must think the worst of me, trying to buy a piece of such quality for a measly two hundred coins. But I swear to you, that was all I had on my person at the time! I now have three hundred to offer. No, no! I&#x27;m willing to go as far as three hundred and fifty!&quot;</p>
@@ -151,8 +150,7 @@ nav_title = "Chapter 10"
 <p>I could understand his shock, though. We had done the best we could for Julie. She was in a horrific state when we bought her, but we gave her food, clothes, a warm place to sleep, educated her, and taught her practical skills. We even gave her a wage. We&#x27;d bought her for a specific reason; Zanoba, being a Blessed Child, couldn&#x27;t create the art he wanted himself. I also wanted to mass-produce Ruijerd figures in the future. We&#x27;d been pretty strict with Julie, hoping to eventually fulfill those goals, but we&#x27;d never been cruel to her.</p>
 <p>Of course, if Julie really wanted to be free, we would release her. That didn&#x27;t lessen the shock of finding out she was going behind our backs to get the funds to do so, though. It was like she didn&#x27;t trust us at all.</p>
 <p>&quot;…No,&quot; I muttered to myself.</p>
-<p>Being a slave was no walk in the park. I had never been a slave before, so it wasn&#x27;t right for me to belittle the struggles they faced. Having seen Linia&#x27;s predicament for myself, it was much easier for</p>
-<p>me to imagine what some of them went through. Anyone would be stressed out by not having true personal freedom. They couldn&#x27;t really say what was on their mind or do the things they wanted to do.</p>
+<p>Being a slave was no walk in the park. I had never been a slave before, so it wasn&#x27;t right for me to belittle the struggles they faced. Having seen Linia&#x27;s predicament for myself, it was much easier for me to imagine what some of them went through. Anyone would be stressed out by not having true personal freedom. They couldn&#x27;t really say what was on their mind or do the things they wanted to do.</p>
 <p>&quot;I thought we&#x27;d done right by her, but I guess maybe it was too hard on her being a slave this whole time,&quot; I said.</p>
 <p>She had only recently started the transition to adulthood. Perhaps that had led her to contemplate her future more seriously. No doubt she found herself faced with a number of worries—was it really okay to keep making figures as she had been? What would happen in her future?</p>
 <p>It was also possible she&#x27;d grown fearful of being a grown man&#x27;s slave now that her body had started to mature, regardless of how much of a gentleman Zanoba was. Given their master-servant relationship, Zanoba showed little hesitation over stripping her much like he had during period scare not long ago. Julie might still be young, but that still had to be embarrassing and scary for her.</p>
@@ -180,7 +178,7 @@ nav_title = "Chapter 10"
 <p>Zanoba must have realized the same thing. Julie showed no signs of being panicked by our abrupt return, however. She actually seemed more delighted than I&#x27;d seen her before. If she was really plotting to buy her freedom and make her escape behind Zanoba&#x27;s back, then being able to smile this innocently was some impressive acting. Also very unsettling.</p>
 <p><em>All I can say is, women sure can be scary sometimes.</em></p>
 <p>&quot;Oh!&quot; Her face clouded over the moment she spotted Belfried, and she retreated a step as if panicked.</p>
-<p><em>Oh? What&#x27;s this, hm?</em> Did she see Belfried and realize that someone privy to her secret was now here?</p>
+<p>Oh? What&#x27;s this, hm? Did she see Belfried and realize that someone privy to her secret was now here?</p>
 <p>&quot;Hey there, Julie. Thank you for coming by the other day.&quot; Belfried grinned ghoulishly at her.</p>
 <p>A shudder ran through Julie, and she shot an entreating look at Zanoba, begging for help. Zanoba hummed under his breath and started toward her. He crossed the gap between them in no time and he stared down at her. Julie glanced anxiously at him, waiting.</p>
 <p>&quot;Julie… Do you wish to stop being my slave?&quot;</p>

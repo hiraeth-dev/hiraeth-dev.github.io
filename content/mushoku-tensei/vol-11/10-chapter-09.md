@@ -15,14 +15,14 @@ nav_title = "Chapter 9"
 <p>Once we made it to Bazaar, we could hire a guide to our final destination. Rapan was roughly a month to the north, and that was a lengthy journey. Elinalise could keep us moving in the right direction, but it would be much faster to find a local who knew the easiest route.</p>
 <p>After arriving in Rapan, we&#x27;d rescue my mother as quickly as possible, then return home by the same route. It would mean telling more people about the teleportation circles, but we didn&#x27;t have much choice. I couldn&#x27;t tell my parents to take the long way back.</p>
 <p>From what we knew, Paul was traveling in a party of six people. Probably seven, assuming he&#x27;d joined up with Geese. We&#x27;d just have to swear all of them to secrecy.</p>
-<p>Incidentally, I&#x27;d made sure to warn Sylphie and my sisters not to tell anyone about the teleporters. Just to drive the point home, I mentioned that a very scary guy who could beat down Ruijerd in an instant might get <em>really</em> angry with them if they blabbed.</p>
+<p>Incidentally, I&#x27;d made sure to warn Sylphie and my sisters not to tell anyone about the teleporters. Just to drive the point home, I mentioned that a very scary guy who could beat down Ruijerd in an instant might get really angry with them if they blabbed.</p>
 <p>With our basic plan nailed down, Elinalise and I got to work on the details.</p>
 <p>I already had my gear sorted out. I&#x27;d be bringing my trusty staff Aqua Heartia and a robe that Sylphie had picked out for me. The only other thing that came to mind was the summoning spell that Nanahoshi had given me earlier. I didn&#x27;t know when it might prove useful, but I decided to bring ten copies of the scroll along with me. I could make a new printing plate in a single day, but I didn&#x27;t want to be lugging ink around in the desert. The scrolls were much lighter and less fragile. And if I ended up needing more, I could always try to buy some ink in Rapan.</p>
 <p>On that note, I didn&#x27;t have any local currency. I wasn&#x27;t even sure what kind of money they used over there. It was probably easiest to just bring something I could easily exchange for cash.</p>
 <p>Other than that, I just needed food rations for the journey. This was my first trip to Begaritt, so I had no idea what sort of tools or equipment I might want. I&#x27;d have to obtain them locally as the need arose.</p>
-<p>Since our journey was only going to last six weeks now, I had some free space in my bags to work with. I could technically bring along some things I didn&#x27;t really <em>need</em>.</p>
+<p>Since our journey was only going to last six weeks now, I had some free space in my bags to work with. I could technically bring along some things I didn&#x27;t really need.</p>
 <p>That didn&#x27;t mean it was smart to weigh myself down with nonsense, though. It was probably best to travel light. We&#x27;d be reaching Bazaar in a week, so it wasn&#x27;t like we&#x27;d be wandering the wilderness for long. Still, I decided to bring along a book that contained some specifics on teleportation magic, given the potential risks we were facing. I knew Orsted had used these things in the past, but that didn&#x27;t mean it would be safe for us.</p>
-<p>I headed back to the faculty offices, flattered Jenius for a while, and got permission to borrow a few titles from the library on a longterm basis. I picked up the book I had in mind, <em>An Exploratory Account of the Teleportation Labyrinth,</em> and grabbed a volume called <em>The Begaritt Continent and the Fighting-God Tongue</em> while I was at it. I felt like that one might come in handy if I had trouble making myself understood.</p>
+<p>I headed back to the faculty offices, flattered Jenius for a while, and got permission to borrow a few titles from the library on a longterm basis. I picked up the book I had in mind, An Exploratory Account of the Teleportation Labyrinth, and grabbed a volume called The Begaritt Continent and the Fighting-God Tongue while I was at it. I felt like that one might come in handy if I had trouble making myself understood.</p>
 <p>I seemed to remember that Ginger knew a thing or two about horses, so I asked her to accompany me to a local stable. I took the chance to let Zanoba know about the situation.</p>
 <p>&quot;I see! You&#x27;ll be able to return in roughly half a year, then?&quot;</p>
 <p>&quot;Yeah. I can&#x27;t explain how, though.&quot;</p>
@@ -78,14 +78,14 @@ nav_title = "Chapter 9"
 <p>Elinalise chose this moment to ride up dramatically on our horse. He was carrying two full weeks of provisions on his back, but didn&#x27;t even seem to feel the weight. Our Matsukaze really was a beast.</p>
 <p>&quot;Be brave, dear, you&#x27;ll be all right! You don&#x27;t need a husband hanging around to give birth, anyway. Trust me, I&#x27;m speaking from experience on this one.&quot;</p>
 <p>&quot;I guess so,&quot; said Sylphie with a weak smile. &quot;You be careful out there too, Grandma.&quot;</p>
-<p>&quot;Oh, don&#x27;t worry about <em>me</em>. I&#x27;ll manage just fine.&quot;</p>
-<p>Elinalise flipped her hair upward in a gesture of supreme confidence. The woman <em>could</em> be cool when she wanted to. She looked like a lady knight from a fairy tale or something.</p>
+<p>&quot;Oh, don&#x27;t worry about me. I&#x27;ll manage just fine.&quot;</p>
+<p>Elinalise flipped her hair upward in a gesture of supreme confidence. The woman could be cool when she wanted to. She looked like a lady knight from a fairy tale or something.</p>
 <p>It was a shame I&#x27;d seen her throwing a tantrum just the other day. The memory of that kind of tainted the whole experience.</p>
 <p><em>Well, I guess everyone has their weak spots, right?</em></p>
 <p>I certainly wasn&#x27;t lacking a few of my own.</p>
 <p>&quot;Okay, then. We&#x27;d better get on the road.&quot;</p>
 <p>Not wasting any more time, I hopped up behind Elinalise. She was a slender woman, but she sat ramrod straight in the saddle. It was kind of reassuring to know she had the reins.</p>
-<p>It wasn&#x27;t <em>unpleasant</em> having my arms around her either. I felt a little stab of guilt, but…hey, I was only borrowing her from Cliff for a little while, right?</p>
+<p>It wasn&#x27;t unpleasant having my arms around her either. I felt a little stab of guilt, but…hey, I was only borrowing her from Cliff for a little while, right?</p>
 <p>&quot;Rudy?&quot;</p>
 <p>Sylphie tilted her head curiously at me. Not that I was doing anything fishy! Really! I had to hold on tight so I wouldn&#x27;t fall off that was all.</p>
 <p>&quot;All right, everyone. See you soon.&quot;</p>
@@ -97,8 +97,7 @@ nav_title = "Chapter 9"
 <p>I&#x27;d never learned how to ride, so I mostly spent the trip clinging to Elinalise from behind. Of course, I did keep myself occupied…in a perfectly platonic way. I spent an entire day charging up that magical diaper Cliff had created. This did involve wrapping my arms around Elinalise&#x27;s waist, so I caught our hired sword shooting me a few envious glances.</p>
 <p>After arriving at the forest, we said our goodbyes to Matsukaze. Hopefully he&#x27;d hit it off with Aisha and the others.</p>
 <p>Now we had a forest to investigate. I forget exactly what its name was. Something like the Lumen Forest, maybe? A word that meant &quot;stomach&quot; in some language or the other.</p>
-<p>That choice made sense once you were inside the place. The vegetation was incredibly dense; there were so many tall, old trees that their branches blocked out the sun. Kind of a gloomy place, really. The ground was thick with roots, so it often felt like you were walking on top of a lumpy, uneven wooden floor. You had to watch your step constantly. The bigger trees had much larger roots, and in</p>
-<p>some places, they even formed natural staircases of sorts. It was almost like an outdoor dungeon.</p>
+<p>That choice made sense once you were inside the place. The vegetation was incredibly dense; there were so many tall, old trees that their branches blocked out the sun. Kind of a gloomy place, really. The ground was thick with roots, so it often felt like you were walking on top of a lumpy, uneven wooden floor. You had to watch your step constantly. The bigger trees had much larger roots, and in some places, they even formed natural staircases of sorts. It was almost like an outdoor dungeon.</p>
 <p>Even an experienced ranger could easily get lost in a place like this. And once you wandered off the path, it would be all too easy to become a monster&#x27;s prey, or to slip and fall off a wooden &quot;platform.&quot; Many human bodies had no doubt been digested by this forest over the centuries.</p>
 <p>It didn&#x27;t look like any woodcutters came out here too often. Maybe the monsters here were relatively strong? Or numerous? Or maybe there were other forests in the area that were just more conveniently located. It was probably some combination of the three, honestly.</p>
 <p>Just to be clear, the woodcutters of this world weren&#x27;t anything to scoff at. A team of lumberjacks were often more organized and capable than an average band of adventurers. Forests offered plentiful lumber, but they were also home to many monsters. Cutting down a single tree was a dangerous task. People had to form teams—and sometimes even hire bodyguards. A typical expedition involved some serious combat on top of the actual woodcutting, so the woodcutters&#x27; guild was home to plenty of formidable characters.</p>
@@ -126,13 +125,13 @@ nav_title = "Chapter 9"
 <p>&quot;The wyrm lived only for his ideals. None could escape the reach of his mighty arms. He was the second to die—a Dragon General, his scales green and gold, his life the most ephemeral of dreams. In the name of the Holy Dragon Emperor Shirad, I break his seal.&quot;</p>
 <p>The instant the final word left my mouth, I felt mana flowing from my arm into the tablet, and the world began to distort before my eyes. The air itself seemed to swirl strangely for a moment; when this passed, the thick wall of trees and plants in front of me had disappeared, leaving a stone building in its place.</p>
 <p>&quot;Whoa!&quot;</p>
-<p>&quot;I&#x27;ve never seen an enchantment like this<em>,</em>&quot; said Elinalise, staring at the structure in astonishment.</p>
+<p>&quot;I&#x27;ve never seen an enchantment like this,&quot; said Elinalise, staring at the structure in astonishment.</p>
 <p>It wasn&#x27;t anything I&#x27;d seen before, either. But the way that tablet had sucked mana out of me was familiar. The thing was probably an oversized, stationary magical implement. If we broke it in half, we&#x27;d probably find a bunch of complex magic circles etched inside.</p>
 <p>Still, this incantation struck me as a Dragon God original, what with all the, uh…references to various dragons. That Holy Dragon Emperor Shirad guy was one of the Five Dragon Generals from the old stories, right?</p>
 <p>This incantation seemed to be incomplete, given that it lacked the name of the spell itself. But if you had the entire thing, maybe it would allow you to imitate the power of this tablet and dispel magical barriers freely. It seemed disturbingly plausible.</p>
 <p>&quot;Let&#x27;s get going, then.&quot;</p>
 <p>&quot;Uh, all right.&quot;</p>
-<p>I kind of wanted to uproot this tablet and take it home with me, but that seemed like the sort of thing that might get me murdered by Orsted. I&#x27;d had enough of <em>that</em> for one lifetime.</p>
+<p>I kind of wanted to uproot this tablet and take it home with me, but that seemed like the sort of thing that might get me murdered by Orsted. I&#x27;d had enough of that for one lifetime.</p>
 <p>The building before us was a squat, single-story structure. Vines of ivy ran along its walls, and there were places where the stones had crumbled away over the years.</p>
 <p>&quot;Hmm…the place looks like a pretty typical ancient ruin, doesn&#x27;t it?&quot;</p>
 <p>&quot;I&#x27;ve seen a few labyrinths with entrances that looked a bit like this,&quot; Elinalise said. &quot;Oh, right. You don&#x27;t have any experience with labyrinths, do you, Rudeus?&quot;</p>
@@ -149,8 +148,7 @@ nav_title = "Chapter 9"
 <p>The interior was also made of stone. Here and there, you could see vines or tree roots poking through the walls. A classic &quot;forest ruins&quot; situation, basically.</p>
 <p>It wasn&#x27;t that large a structure, though. In fact, it looked like there were only four rooms. We moved through them slowly, making sure to investigate every corner.</p>
 <p>The two rooms nearest to the entrance were completely empty spaces about seven square meters in size. The third had a small closet in one corner; when we opened the door, we found winter clothing in a man&#x27;s size stored inside. These clearly hadn&#x27;t been sitting here for decades. Somebody had changed their clothes here relatively recently. And by somebody, I mean Orsted.</p>
-<p>The teleportation circle was supposedly going to drop us in the middle of a desert, and this region was blanketed in heavy snows for a good part of the year. I had to imagine it would be hard to buy</p>
-<p>appropriate clothing for that weather in Begaritt, which was probably why he&#x27;d left these here for his next visit.</p>
+<p>The teleportation circle was supposedly going to drop us in the middle of a desert, and this region was blanketed in heavy snows for a good part of the year. I had to imagine it would be hard to buy appropriate clothing for that weather in Begaritt, which was probably why he&#x27;d left these here for his next visit.</p>
 <p>If I&#x27;d known we could leave things behind like this, I could have carried a little more luggage. There was no point crying over spilled milk, though.</p>
 <p>&quot;What&#x27;s the matter? Is there some reason you&#x27;re staring at those clothes?&quot;</p>
 <p>&quot;Nah. Just wondering if there&#x27;s anything we could leave behind for our return trip.&quot;</p>
@@ -159,7 +157,7 @@ nav_title = "Chapter 9"
 <p>&quot;Let&#x27;s be on our way, then,&quot; said Elinalise, turning toward the exit.</p>
 <p>&quot;Right.&quot;</p>
 <p>In the fourth and final room, we found a set of stairs leading down into darkness.</p>
-<p>&quot;Oh, my. Now <em>this</em> looks suspicious.&quot;</p>
+<p>&quot;Oh, my. Now this looks suspicious.&quot;</p>
 <p>Elinalise scrutinized the area around the stairs and checked every corner of the room like an FPS player clearing an area. I guess staircases were popular places to set traps.</p>
 <p>&quot;Okay, then…I think we&#x27;re all right.&quot;</p>
 <p>In the end, though, she didn&#x27;t find anything. I wasn&#x27;t too surprised. If someone wanted to trap this place, they&#x27;d probably have put a few at the entrance too.</p>
@@ -182,14 +180,14 @@ nav_title = "Chapter 9"
 <p>&quot;If this thing drops us in the middle of the ocean,&quot; I added helpfully, &quot;let&#x27;s make sure Nanahoshi regrets it.&quot;</p>
 <p>&quot;All right,&quot; said Elinalise. &quot;I&#x27;ll hold her down while you jam it in.&quot;</p>
 <p>&quot;Could we go with something less sexual?&quot;</p>
-<p>&quot;Sexual? I didn&#x27;t specify <em>what</em> you&#x27;d be jamming into <em>where</em>, dear. You could always just stick a finger into her nose or something. You&#x27;ve got a rather dirty mind.&quot;</p>
+<p>&quot;Sexual? I didn&#x27;t specify what you&#x27;d be jamming into where, dear. You could always just stick a finger into her nose or something. You&#x27;ve got a rather dirty mind.&quot;</p>
 <p>&quot;Sticking your finger into a girl&#x27;s nose still sounds kind of sexual to me, actually.&quot;</p>
 <p>&quot;Does it really? Hmm. I&#x27;ll have to see if Cliff wants to try it later.&quot;</p>
 <p>&quot;Don&#x27;t blame me if he takes you up on that.&quot;</p>
 <p>Smiling, Elinalise took me by the hand. Her grip was strong, despite her slender fingers. This was the hand of an adventurer. It was also a little warm and sweaty, and it made my heart start to beat a little faster.</p>
 <p>Of course, I had Sylphie, and Elinalise had Cliff. If something happened between us, we&#x27;d both be committing adultery. And it wasn&#x27;t like we had feelings for each other in that sense, anyway.</p>
 <p>&quot;I hope you&#x27;re not misunderstanding, Rudeus. It&#x27;s important for us to be in physical contact when we teleport, if we want to make sure it keeps us together.&quot;</p>
-<p>&quot;Oh, right. Yeah. Sorry about that.&quot; <em>Whoops. That&#x27;s kind of cringeworthy.</em></p>
+<p>&quot;Oh, right. Yeah. Sorry about that.&quot; Whoops. That&#x27;s kind of cringeworthy.</p>
 <p>I wasn&#x27;t a virgin anymore, so I had no excuse to keep making these kinds of mistakes.</p>
 <p>&quot;There I go again, seducing my granddaughter&#x27;s husband without even trying to,&quot; Elinalise sighed. &quot;It&#x27;s simply criminal to be this beautiful, I suppose.&quot;</p>
 <p>&quot;Yeah. Better atone for your misdeeds by filing for divorce.&quot;</p>

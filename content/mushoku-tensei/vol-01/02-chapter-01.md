@@ -9,7 +9,7 @@ nav_title = "Chapter 1"
 
 <p><strong>W</strong>hen I opened my eyes, the first thing I saw was dazzling light. It grew to encompass my entire field of vision, and I squinted in discomfort.</p>
 <p>Once my vision adjusted, I became aware of the blonde young lady gazing at me. She was one gorgeous girl—wait, no. She was definitely a woman.</p>
-<p><em>Who is she?</em> I thought.</p>
+<p>Who is she? I thought.</p>
 <p>By her side was a young man of roughly the same age, his hair brown, his awkward smile directed at me. He looked strong, proud, and impressively muscled.</p>
 <p>Brown-haired and stubborn-looking? I ought to have reacted negatively the instant I saw this big oaf—but to my surprise, there was no feeling of ill will. His hair must have been dyed that color. It was a very fetching shade of brown.</p>
 <p>The woman looked at me with a warm smile and spoke. Her words were oddly indistinct and difficult to make out, however. Was she even speaking Japanese?</p>
@@ -28,8 +28,7 @@ nav_title = "Chapter 1"
 <p>I was finally able to confirm that after being picked up and having my head cradled so I could see my own body. But why did I still have all of my memories of my prior life? Not that I was complaining, exactly, but who would imagine someone being reborn with all their memories— to say nothing of that wild delusion actually being true?</p>
 <p>The two people I first saw when I came to must have been my parents. If I had to guess, I&#x27;d say they were in their early twenties. Clearly younger than I&#x27;d been in my past life, at any rate. My thirtyfour-year-old self would have written them off as kids.</p>
 <p>I was jealous that they&#x27;d gotten to make a baby at that age.</p>
-<p>Early on, I&#x27;d realized that I wasn&#x27;t in Japan; the language was different, and my parents didn&#x27;t sport Japanese facial features. They also wore what appeared to be some form of old-timey clothing. I didn&#x27;t see anything that resembled home appliances; a woman in a maid outfit came by and cleaned with a rag. The furniture, eating</p>
-<p>utensils, and the like were all crudely fashioned from wood. Wherever this was, it didn&#x27;t seem like it was a developed nation.</p>
+<p>Early on, I&#x27;d realized that I wasn&#x27;t in Japan; the language was different, and my parents didn&#x27;t sport Japanese facial features. They also wore what appeared to be some form of old-timey clothing. I didn&#x27;t see anything that resembled home appliances; a woman in a maid outfit came by and cleaned with a rag. The furniture, eating utensils, and the like were all crudely fashioned from wood. Wherever this was, it didn&#x27;t seem like it was a developed nation.</p>
 <p>We didn&#x27;t even have electric lighting, only candles and oil lamps. Perhaps my parents were so poor that they couldn&#x27;t afford to pay the electric bill.</p>
 <p>But how likely was that, really? Seeing as they had a maid, I figured that they must have money, but maybe the maid was my father&#x27;s sister, or my mother&#x27;s. That wouldn&#x27;t be too odd. She&#x27;d at least help out with the housekeeping, right?</p>
 <p>I had wished that I could go back and do everything over again, but being born to a family that was too poor to pay for utilities wasn&#x27;t exactly what I&#x27;d had in mind.</p>
@@ -53,10 +52,10 @@ nav_title = "Chapter 1"
 <p>My underdeveloped hands grabbed the chair, but couldn&#x27;t support my weight—not with how top-heavy my head made me and I fell.</p>
 <p>I hit the floor with a thud and immediately heard a cry of alarm. I saw my mother drop the load of laundry she was carrying, her face going pale as she brought her hand to her mouth.</p>
 <p>&quot;Rudy! Are you all right?!&quot; She rushed to my side and picked me up. As she met my gaze, her expression slackened with relief, and she stroked my head. &quot;Aw, you&#x27;re fine, see?&quot;</p>
-<p><em>Easy there, lady,</em> I thought. <em>Careful with my head. I just whacked that thing.</em></p>
+<p>Easy there, lady, I thought. Careful with my head. I just whacked that thing.</p>
 <p>Given how panicked she&#x27;d looked, I must have had a pretty nasty fall. I mean, I did land right on my head. Maybe I was going to be permanently stupid. Not that that would be a change from the usual.</p>
 <p>My head was throbbing. I tried to reach for the chair, but couldn&#x27;t muster the energy. My mother didn&#x27;t seem so nervous now, though, so I probably wasn&#x27;t bleeding or anything. Just a bump or something, in all likelihood.</p>
-<p>She peered carefully at my head. The look on her face suggested that, injury or no, she was taking this pretty seriously. Finally, she rested her hand atop my head. &quot;Just to be on the safe side…&quot; she began. &quot;<em>Let this divine power be as satisfying nourishment, giving one who has lost their strength the strength to rise again—Healing</em>!&quot;</p>
+<p>She peered carefully at my head. The look on her face suggested that, injury or no, she was taking this pretty seriously. Finally, she rested her hand atop my head. &quot;Just to be on the safe side…&quot; she began. &quot;Let this divine power be as satisfying nourishment, giving one who has lost their strength the strength to rise again—Healing!&quot;</p>
 <p>What the heck? Was that this country&#x27;s version of kissing the boo-boo to make it all better? Or was she another fantasy nerd like my sword-swinging father? Was this a case of the Fighter marrying the Cleric?</p>
 <p>But as I thought that, my mother&#x27;s hand shone with a dim light, and the pain in my head was instantly gone.</p>
 <p><em>Bwuh?</em></p>
@@ -68,12 +67,12 @@ nav_title = "Chapter 1"
 <p>My father seemed much more composed. &quot;Hey, boys will be boys. Kid&#x27;s got a lot of energy.&quot;</p>
 <p>This sort of back-and-forth was pretty common with my parents. But this time, my mother wasn&#x27;t simply backing down, probably because of how I&#x27;d hit my head. &quot;Honey, he isn&#x27;t even a year old yet. Would it kill you to show some more concern?&quot;</p>
 <p>&quot;It&#x27;s like I said: falling and stumbling and getting bumps and bruises is how kids grow up to be tough. Besides, if he does get hurt, you can just heal him!&quot;</p>
-<p>&quot;I&#x27;m just worried that he might get hurt so badly that I <em>can&#x27;t</em> heal him.&quot;</p>
+<p>&quot;I&#x27;m just worried that he might get hurt so badly that I can&#x27;t heal him.&quot;</p>
 <p>&quot;He&#x27;ll be fine,&quot; my father assured her.</p>
 <p>My mother clutched me more tightly, her face going red.</p>
 <p>&quot;You were worried early on about how he wouldn&#x27;t cry. If he&#x27;s this much of a little scamp, then he&#x27;ll be fine,&quot; my father continued, and then he leaned in to give my mother a kiss.</p>
 <p><em>All right, you two. Get a room, will ya?</em></p>
-<p>After that, my parents took me into the other room to put me to bed, then headed upstairs to make me a baby brother or sister. I could tell because I could hear the creaking and moaning coming from the second floor. I guess there <em>was</em> life outside the internet.</p>
+<p>After that, my parents took me into the other room to put me to bed, then headed upstairs to make me a baby brother or sister. I could tell because I could hear the creaking and moaning coming from the second floor. I guess there was life outside the internet.</p>
 <p>And also…magic?</p>
 <p>***</p>
 <p>In the wake of all that, I paid extra-close attention to the conversations my parents had with one another and the help. In so doing, I noticed them using a lot of words I wasn&#x27;t familiar with. Most of these were the names of countries and regions and territories—all clearly proper nouns that I&#x27;d never heard before.</p>
@@ -81,4 +80,4 @@ nav_title = "Chapter 1"
 <p>A world of swords and sorcery.</p>
 <p>And it occurred to me: if I lived in this world, I could do all those things, too. After all, this was a place of high fantasy, one that didn&#x27;t obey the same rules of common sense as my past life. I could live as a typical person, doing the typical things for this world. Where I stumbled, I would get back up, dust myself off, and forge onward.</p>
 <p>My former self had died full of regret, died feeling frustrated at his powerlessness and how he&#x27;d never accomplished anything. But now I knew all of my missteps. With all the knowledge and experience from my past life, I could finally do it.</p>
-<p>I could finally live life <em>right</em>.</p>
+<p>I could finally live life right.</p>

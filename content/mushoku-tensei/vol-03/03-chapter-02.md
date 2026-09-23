@@ -9,7 +9,7 @@ nav_title = "Chapter 2"
 
 <p><strong>W</strong>hen I woke up, it was already night.</p>
 <p>A black sky full of stars stretched above me. Shadows cast by a flame danced across the ground. I could hear the crackling of burning wood. It seemed I was sleeping next to a bonfire, although I didn&#x27;t remember making one, or even setting off on a camping trip.</p>
-<p>The last thing I <em>did</em> remember…was the sky abruptly changing colors, and a wave of white light sweeping over us.</p>
+<p>The last thing I did remember…was the sky abruptly changing colors, and a wave of white light sweeping over us.</p>
 <p>Oh, and then there was that dream. Not a very pleasant one…</p>
 <p>&quot;Gah!&quot; A jolt of fear ran through me and I looked down at my body. Fortunately, it wasn&#x27;t the slow, useless lump of flesh I used to inhabit. I was back in the young but strong form of Rudeus. Seeing that, my memories of the past began fading slightly, and a wave of pure relief washed over me.</p>
 <p>To hell with that Man-God. For a minute there, I&#x27;d felt like I was back in the bad old days. Seemed like I was going to get a bit more time in this world after all. Thank goodness. I had a ton of things I still wanted to do here. Like cast aside my &quot;Wizard&quot; status, for one thing.</p>
@@ -35,15 +35,15 @@ nav_title = "Chapter 2"
 <p>When I was very young, I&#x27;d been tutored in magic by a girl named Roxy who taught me many valuable, life-changing things. One of the things she&#x27;d taught me concerned a certain race of demons the Superd. I remembered her words perfectly, even now.</p>
 <p><em>Don&#x27;t talk to the Superd. Don&#x27;t go anywhere near them.</em></p>
 <p>I wanted to spring to my feet, grab Eris, and start running wildly. But I managed to suppress that urge at the last moment.</p>
-<p>The Man-God&#x27;s advice had popped into my head: <em>Rely on him, and do what you can to help him.</em></p>
-<p>I had absolutely no reason to trust that self-styled deity, of course. Everything he said to me set off alarm bells, and now he&#x27;d left me here with this incredibly suspicious character. How <em>could</em> I trust him? This guy was a Superd for crying out loud. Roxy had explained in great detail just how terrifying and violent they were.</p>
+<p>The Man-God&#x27;s advice had popped into my head: Rely on him, and do what you can to help him.</p>
+<p>I had absolutely no reason to trust that self-styled deity, of course. Everything he said to me set off alarm bells, and now he&#x27;d left me here with this incredibly suspicious character. How could I trust him? This guy was a Superd for crying out loud. Roxy had explained in great detail just how terrifying and violent they were.</p>
 <p>Maybe some sort of god wanted me to help him out. Okay, fine. But who was I going to trust here? Some shady character I met in a dream, or my beloved master, Roxy?</p>
 <p>Roxy, obviously. The question wasn&#x27;t even worth thinking about. Which meant I should be running away now.</p>
 <p>Then again…maybe that was why the &quot;advice&quot; was necessary in the first place. If it weren&#x27;t for that dream, I probably would&#x27;ve fled immediately. But even if I did manage to get away somehow, what would my next move be?</p>
 <p>I glanced at our surroundings for a second time.</p>
 <p>It was dark; everything was completely unfamiliar. And the cracked earth around me was covered in jagged rocks. If I took the Man-God at his word, this was the Demon Continent. That would mean I was a long way away from home.</p>
 <p>Come to think of it…I&#x27;d had another odd dream earlier, although I&#x27;d almost forgotten it after that memorable chat with the Man-God. I&#x27;d been flying across this world at a ferocious speed. I swept past tall mountains, open seas, thick forests, and deep valleys…many places where I could have actually died. Maybe that hadn&#x27;t been a dream; maybe I really had been teleported. The Demon Continent thing seemed increasingly plausible.</p>
-<p>And of course, I didn&#x27;t know <em>where</em> on the continent I was. If I ran off now, I&#x27;d be wandering aimlessly in the middle of a massive and foreign land.</p>
+<p>And of course, I didn&#x27;t know where on the continent I was. If I ran off now, I&#x27;d be wandering aimlessly in the middle of a massive and foreign land.</p>
 <p>In the end, I didn&#x27;t have much of a choice. Even if Eris and I could get away from this man, we&#x27;d just end up hopelessly stranded in the middle of nowhere. Of course, there was always a chance that we&#x27;d find a village nearby when the sun came up. But was it worth gambling everything on that?</p>
 <p>No. Of course not. I knew perfectly well how tough it was to find your way in unfamiliar country.</p>
 <p><em>Calm down, man. Deep breaths. You don&#x27;t trust the Man-God. Fine. But what about this guy? Look at him carefully. Look at the expression on his face. He&#x27;s anxious. Anxious, and a little resigned. He&#x27;s not some inhuman monster incapable of emotion, okay?</em></p>
@@ -60,7 +60,7 @@ nav_title = "Chapter 2"
 <p>Now that was a peculiar question. &quot;What? No, my vision&#x27;s perfect, actually.&quot;</p>
 <p>&quot;Did your parents not teach you about the Superd then?&quot;</p>
 <p>&quot;My parents didn&#x27;t, but my master did warn me to stay away from them at all costs.&quot;</p>
-<p>The man paused again, then spoke more slowly and carefully than before. &quot;You&#x27;re disregarding your master&#x27;s words, you know.&quot; The unspoken question, of course, was: <em>I&#x27;m a Superd. Are you really okay with that?</em> The man seemed surprisingly insecure. &quot;Aren&#x27;t you afraid of me?&quot;</p>
+<p>The man paused again, then spoke more slowly and carefully than before. &quot;You&#x27;re disregarding your master&#x27;s words, you know.&quot; The unspoken question, of course, was: I&#x27;m a Superd. Are you really okay with that? The man seemed surprisingly insecure. &quot;Aren&#x27;t you afraid of me?&quot;</p>
 <p><em>Not afraid, no. But I am a little suspicious of you.</em></p>
 <p>There was no need to say that aloud of course. &quot;I think it would be impolite to fear a man who just helped me.&quot;</p>
 <p>&quot;Hm. You say the strangest things, child.&quot; There was a look of genuine bewilderment on his face now.</p>
@@ -97,13 +97,12 @@ nav_title = "Chapter 2"
 <p>&quot;Never mind. It&#x27;s not really important.&quot; It didn&#x27;t feel like he was lying to me, and I couldn&#x27;t imagine why he&#x27;d feel the need to.</p>
 <p>&quot;In any case…the Kingdom of Asura is it?&quot;</p>
 <p>&quot;It&#x27;s all right, I wouldn&#x27;t ask you to take us all that way. If you could just escort us to the nearest town, I think we—&quot;</p>
-<p>&quot;No. A Superd warrior never goes back on his word.&quot; Ruijerd&#x27;s words were firm, his voice full of stubborn pride. It was enough to</p>
-<p>make me want to trust him, even putting aside the Man-God&#x27;s advice.</p>
+<p>&quot;No. A Superd warrior never goes back on his word.&quot; Ruijerd&#x27;s words were firm, his voice full of stubborn pride. It was enough to make me want to trust him, even putting aside the Man-God&#x27;s advice.</p>
 <p>Right now, however, I needed to stay skeptical. &quot;But we&#x27;re talking about a journey to the other side of the world.&quot;</p>
 <p>&quot;Don&#x27;t worry yourself about that, child.&quot; With that, the man reached out and timidly patted me on the head. I saw relief on his face when I didn&#x27;t jerk away from his hand.</p>
 <p>Was this guy just fond of children maybe? Still, we weren&#x27;t talking about a ten-minute stroll back home here. I couldn&#x27;t exactly take his promises at face value right now…</p>
 <p>&quot;Think of it this way,&quot; the man said. &quot;Do you know the language here? Do you have any money? Do you know the roads?&quot;</p>
-<p><em>Oh. Huh.</em> Hadn&#x27;t even occurred to me until now, but…I&#x27;d been speaking in the Human Tongue this whole time, and this demon man was responding fluently. Interesting. &quot;I can speak Demon-God actually. And I&#x27;m a competent magician, so I can earn money for myself. If you take us to a town, I&#x27;ll find out where we need to go.&quot; I wanted to steer this conversation toward a polite refusal if possible. Ruijerd himself might be trustworthy, but I didn&#x27;t like the idea of things playing out exactly as the Man-God wanted.</p>
+<p>Oh. Huh. Hadn&#x27;t even occurred to me until now, but…I&#x27;d been speaking in the Human Tongue this whole time, and this demon man was responding fluently. Interesting. &quot;I can speak Demon-God actually. And I&#x27;m a competent magician, so I can earn money for myself. If you take us to a town, I&#x27;ll find out where we need to go.&quot; I wanted to steer this conversation toward a polite refusal if possible. Ruijerd himself might be trustworthy, but I didn&#x27;t like the idea of things playing out exactly as the Man-God wanted.</p>
 <p>If my cautious words hurt him, the man didn&#x27;t let it show. &quot;I see. At least allow me to protect you then. Abandoning such young children would blemish the honor of the Superd.&quot;</p>
 <p>&quot;Well, I wouldn&#x27;t want to disgrace such a proud people.&quot;</p>
 <p>&quot;Not to worry. We&#x27;ve already taken care of that ourselves.&quot;</p>
@@ -117,9 +116,9 @@ nav_title = "Chapter 2"
 <p>An instant later, she noticed the man sitting next to me.</p>
 <p>&quot;Aaaaaaaaaaaaaaaaaaaah!!!&quot; Shrieking like a banshee, Eris tumbled backward, then tried to get up and run. But her legs gave out under her and she collapsed to the ground. &quot;Nooooooooooo!&quot;</p>
 <p>The girl was in a state of total, blind panic. But she wasn&#x27;t thrashing around violently, or even trying to crawl away. She just lay where she&#x27;d fallen, trembling in terror, wailing at the top of her lungs. &quot;No! No, no, no! Please, please, no! Ghislaine! Ghislaine, help me! Ghislaine! Why aren&#x27;t you coming?! Noooo! I don&#x27;t want to die! I don&#x27;t want to die! I&#x27;m sorry! I&#x27;m sorry! I&#x27;m sorry, Rudeus! I&#x27;m sorry I pushed you away! I&#x27;m such a coward! Now I&#x27;ll never get to…k-keep my promise! Aaah…ah… Waaaaaaah!&quot;</p>
-<p>After carrying on for quite a while, the girl finally curled up into a ball and began bawling incoherently. Just watching her sent a cold shiver down my spine. <em>I can&#x27;t believe how terrified she is…</em></p>
+<p>After carrying on for quite a while, the girl finally curled up into a ball and began bawling incoherently. Just watching her sent a cold shiver down my spine. I can&#x27;t believe how terrified she is…</p>
 <p>Whatever else you could say about her, Eris was a strong-willed, confident girl. As far as she was concerned, the world was hers for the taking. She always tried to bulldoze through every obstacle in her path; as a general rule, the girl threw punches first and talked later.</p>
-<p>Had I…gotten the wrong idea here maybe? Was running into a Superd <em>literally</em> a matter of life and death?</p>
+<p>Had I…gotten the wrong idea here maybe? Was running into a Superd literally a matter of life and death?</p>
 <p>A bit unsettled, I glanced over at Ruijerd. &quot;That&#x27;s a more typical reaction,&quot; he said.</p>
 <p><em>You can&#x27;t be serious.</em></p>
 <p>&quot;So I&#x27;m the one who&#x27;s behaving oddly here?&quot;</p>
@@ -128,16 +127,16 @@ nav_title = "Chapter 2"
 <p>&quot;I can&#x27;t say that I mind.&quot;</p>
 <p>The man&#x27;s face was a picture of loneliness. I felt a stab of genuine sympathy.</p>
 <p>I got to my feet and walked to my cowering pupil. Eris twitched in fear as my footsteps drew closer; I squatted down next to her and began gently rubbing her back. It brought back memories from a different life, of a time when my grandma had comforted me in the exact same way. &quot;Come on, it&#x27;s okay. There&#x27;s nothing to be afraid of.&quot;</p>
-<p>&quot;<em>Hic…</em> Of course there is! Th-that man&#x27;s a Superd!&quot;</p>
-<p>I still didn&#x27;t entirely understand why she was so terrified, honestly. I mean, this was <em>Eris</em>—the girl who&#x27;d fearlessly attacked Ghislaine, an actual Sword King. I&#x27;d thought she wasn&#x27;t afraid of anything.</p>
+<p>&quot;Hic… Of course there is! Th-that man&#x27;s a Superd!&quot;</p>
+<p>I still didn&#x27;t entirely understand why she was so terrified, honestly. I mean, this was Eris—the girl who&#x27;d fearlessly attacked Ghislaine, an actual Sword King. I&#x27;d thought she wasn&#x27;t afraid of anything.</p>
 <p>&quot;What&#x27;s so scary about him though?&quot;</p>
-<p>&quot;H-he&#x27;s a <em>Superd</em>, stupid! They… They <em>eat</em> children! While they&#x27;re still alive! <em>Hic.</em>&quot;</p>
+<p>&quot;H-he&#x27;s a Superd, stupid! They… They eat children! While they&#x27;re still alive! Hic.&quot;</p>
 <p>&quot;Hm. I don&#x27;t think that&#x27;s true.&quot;</p>
 <p>I turned back to Ruijerd for confirmation, and he nodded gamely. &quot;We don&#x27;t eat children, no.&quot;</p>
 <p>&quot;B-but… But they&#x27;re demons! Demons!&quot;</p>
 <p>&quot;Yes, that&#x27;s true. But he speaks Human just fine fortunately.&quot;</p>
 <p>&quot;Look, that&#x27;s not the point, okay?!&quot; Jerking her head up off the ground, Eris looked up at me with fire in her eyes.</p>
-<p><em>Much better. Now that&#x27;s the Eris we know and love.</em> &quot;Hmm, you sure you want to stick your head up like that? Maybe he won&#x27;t eat you if you stay curled up on the ground.&quot;</p>
+<p>Much better. Now that&#x27;s the Eris we know and love. &quot;Hmm, you sure you want to stick your head up like that? Maybe he won&#x27;t eat you if you stay curled up on the ground.&quot;</p>
 <p>&quot;Argh! S-stop making fun of me!&quot; Clearly infuriated by my teasing, Eris shot me another glare, then whipped her head around to do to the same to Ruijerd…at which point, she started trembling again.</p>
 <p>Were those actual tears in her eyes? Good thing she wasn&#x27;t standing up with her legs spread wide, the way she usually did. Her knees would probably be shaking like crazy.</p>
 <p>&quot;N-nice…to meet you, s-sir. I&#x27;m…E-Eris B-Bo-Boreas…Greyrat!&quot;</p>
@@ -156,7 +155,7 @@ nav_title = "Chapter 2"
 <p>Ah, so they were the classic bedtime boogeyman in this world, huh? Kind of like the Putaway Man back in Japan. &quot;Well, this Superd doesn&#x27;t seem interested in eating us. We could brag about making friends with him once we make it back it home, right?&quot;</p>
 <p>&quot;Oh. D-do you think Grandfather and Ghislaine would be impressed…?&quot;</p>
 <p>&quot;Of course.&quot;</p>
-<p>I glanced over at Ruijerd. There was an expression of mild surprise on his face. <em>So far so good.</em> &quot;You know, I think Ruijerd&#x27;s actually a bit of a loner. He&#x27;d probably agree to be your friend right away if you asked him.&quot;</p>
+<p>I glanced over at Ruijerd. There was an expression of mild surprise on his face. So far so good. &quot;You know, I think Ruijerd&#x27;s actually a bit of a loner. He&#x27;d probably agree to be your friend right away if you asked him.&quot;</p>
 <p>&quot;B-but…&quot;</p>
 <p>I did feel like I&#x27;d put the matter in pretty childish terms, but Eris looked a bit hesitant. Come to think of it, she didn&#x27;t really have any</p>
 <p>&quot;friends&quot; herself, did she? I was probably slightly outside that category for her…</p>
@@ -175,4 +174,4 @@ nav_title = "Chapter 2"
 <p>Just as I was drifting off to sleep, I caught a few snatches of conversation from the direction of the fire.</p>
 <p>&quot;Are you not afraid of me anymore, girl?&quot;</p>
 <p>&quot;I&#x27;m fine. I&#x27;ve got Rudeus with me.&quot;</p>
-<p><em>Right. I&#x27;m going to get Eris home safe at least. No matter what.</em> With that final thought, I let myself sink into unconsciousness.</p>
+<p>Right. I&#x27;m going to get Eris home safe at least. No matter what. With that final thought, I let myself sink into unconsciousness.</p>

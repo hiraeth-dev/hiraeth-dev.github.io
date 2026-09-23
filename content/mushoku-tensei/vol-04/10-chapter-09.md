@@ -24,7 +24,7 @@ nav_title = "Chapter 9"
 <p>His voice filled with disgust. He spat out the words as if they left a bitter taste on his tongue. &quot;She&#x27;s a stain on our tribe.&quot;</p>
 <p>That was only the beginning of Gyes bashing on Ghislaine. He spoke in the tongue of men so Eris could understand. His voice was full of emotion unfit for an older brother speaking of his younger sister, as he went on and on about what a mistake Ghislaine was as a person.</p>
 <p>It was difficult for me to listen to it all, given that Ghislaine had once saved my life. It seemed she had done some truly despicable things in the village, but still, this all happened when she was a child. The Ghislaine I knew was clumsy, but hardworking. She&#x27;d changed, readjusted herself as a person. She didn&#x27;t deserve to be spoken of like this. She was a highly respectable sword instructor as well as an accomplished apprentice of magic.</p>
-<p><em>So,</em> I thought, <em>how should I put this nicely…? Knock it off.</em></p>
+<p>So, I thought, how should I put this nicely…? Knock it off.</p>
 <p>&quot;That ring too, that was something our mother gave her so she&#x27;d stop going berserk without reason. Not that it ever did any good. She was just a destructive good-for-nothing.&quot;</p>
 <p>&quot;You—&quot; I started to say.</p>
 <p>&quot;Oh, shut up! What do you even know about Ghislaine?!&quot; Eris cut me off, bellowing in a voice loud enough to split the house in two. The others were left dumbfounded by her outburst. After all, only Gyes and Gustav could understand the language.</p>
@@ -58,7 +58,7 @@ nav_title = "Chapter 9"
 <p>He looked happy and waved at me. He&#x27;d also received amnesty for his contributions when the village was in trouble. &quot;Yup. &#x27;Never do it again,&#x27; they said. Morons, all of them. Of course I&#x27;m going to do it again.&quot;</p>
 <p>&quot;Hey everyone! Did you hear that? This guy hasn&#x27;t learned his lesson!&quot;</p>
 <p>&quot;Hey now! Come on, knock it off. I can&#x27;t run off right now, not until the rainy season is over.&quot;</p>
-<p>In other words, he <em>was</em> planning to repeat his mistake. Honestly, what a hopeless case. &quot;Also, allow me to return your vest.&quot;</p>
+<p>In other words, he was planning to repeat his mistake. Honestly, what a hopeless case. &quot;Also, allow me to return your vest.&quot;</p>
 <p>&quot;I told you to knock off that polite crap. Just take the vest,&quot; he said.</p>
 <p>&quot;Are you sure?&quot;</p>
 <p>&quot;It&#x27;s still cold out during this season.&quot;</p>
@@ -67,7 +67,7 @@ nav_title = "Chapter 9"
 <p>Two weeks passed, and the rain wasn&#x27;t stopping.</p>
 <p>I learned that the Doldia had their own secret magic. It allowed them to find enemies by using a far-reaching howl, and with their special voices, they could make opponents lose their sense of balance. The way Gyes paralyzed me with his voice was one of those types of magic. From what I heard, it seemed to be a magic that manipulated sound.</p>
 <p>When I told Gustav &quot;I&#x27;d love for you to teach me,&quot; he heartily agreed. Unfortunately, no matter how many times he demonstrated it for me, I couldn&#x27;t imitate it perfectly. It seemed the magic depended on the unique vocal cords of the Doldia.</p>
-<p><em>Of course it does</em>, I thought bitterly to myself. In all likelihood I couldn&#x27;t use most of the unique magic that individual tribes possessed. It seemed unfair that beastfolk and other races could use human magic so easily. I knew the key element was to channel mana into my voice, but no matter how I did it, the result was always subpar. The best I could do was make my opponent flinch for a moment. It seemed I would be no Wagan, after all.</p>
+<p>Of course it does, I thought bitterly to myself. In all likelihood I couldn&#x27;t use most of the unique magic that individual tribes possessed. It seemed unfair that beastfolk and other races could use human magic so easily. I knew the key element was to channel mana into my voice, but no matter how I did it, the result was always subpar. The best I could do was make my opponent flinch for a moment. It seemed I would be no Wagan, after all.</p>
 <p>On that note, Gustav was quite shocked at how I used magic without chanting. &quot;Do the magic schools these days teach that, too?&quot;</p>
 <p>&quot;It&#x27;s because my master taught me so well,&quot; I explained, praising Roxy for no apparent reason.</p>
 <p>&quot;Oh? And where&#x27;s your master from?&quot;</p>
@@ -75,8 +75,7 @@ nav_title = "Chapter 9"
 <p>When I told Gustav that I also planned to go to the Academy of Magic, he seemed impressed and said, &quot;Wow, you&#x27;re already at that level and yet you&#x27;re still motivated to improve?&quot; That made me feel good.</p>
 <p>***</p>
 <p>Three weeks passed.</p>
-<p>Monsters appeared in this village as well. One was a water strider, surfing swiftly across the water below only to leap up</p>
-<p>suddenly and attack. Another was like a water snake which slid its way up along the trees. The village was guarded by its band of warrior beastfolk, but their impressive noses and sonar-like voices were no use in the rain, so often monsters would slip by their watchful gaze and infest the village.</p>
+<p>Monsters appeared in this village as well. One was a water strider, surfing swiftly across the water below only to leap up suddenly and attack. Another was like a water snake which slid its way up along the trees. The village was guarded by its band of warrior beastfolk, but their impressive noses and sonar-like voices were no use in the rain, so often monsters would slip by their watchful gaze and infest the village.</p>
 <p>As Eris and I were walking around, one of the beastfolk children nearly got snatched up by a chameleon-like reptile right before us. I promptly shot it down with my stone cannon, and the child adorably wagged their tail and thanked me.</p>
 <p>I was strangely popular among the children in this village, no doubt because I was the hero who saved them in their time of need. Occasionally they would come up to me and lick me on the cheek or show me the collection of acorns they&#x27;d gathered before the rainy season hit. I was practically a celebrity.</p>
 <p>Eris, in a true display of her family&#x27;s infamy, couldn&#x27;t contain her excitement when she saw such a huge gathering of so many adorable children with ears and tails. She annoyed the children by breathing erratically as she patted their heads and touched their tails.</p>
@@ -122,17 +121,15 @@ nav_title = "Chapter 9"
 <p>He was serious. I didn&#x27;t hesitate. I leaped out of that box in a flash, at the same speed of one of those Tomy Pop-up Pirates.</p>
 <p>&quot;I&#x27;m a protector of this village. I don&#x27;t want to have to say this to you but…restrain yourself a little.&quot;</p>
 <p>&quot;Yes, sir.&quot;</p>
-<p>Yeah, well, I <em>did</em> get a little too carried away. That I would admit.</p>
+<p>Yeah, well, I did get a little too carried away. That I would admit.</p>
 <p>***</p>
 <p>A month and a half passed.</p>
-<p>Ruijerd and Gustav got along like a house on fire. Ruijerd paid frequent visits to the Dedoldia house, and the two drank together and swapped tales of their pasts. The stories were packed with gore, but they were actually pretty interesting to listen to. Almost like</p>
-<p>listening to an ex-biker gang member exaggerate about what a badass he was in his younger days. Except the things Ruijerd and Gustav said probably did actually happen.</p>
+<p>Ruijerd and Gustav got along like a house on fire. Ruijerd paid frequent visits to the Dedoldia house, and the two drank together and swapped tales of their pasts. The stories were packed with gore, but they were actually pretty interesting to listen to. Almost like listening to an ex-biker gang member exaggerate about what a badass he was in his younger days. Except the things Ruijerd and Gustav said probably did actually happen.</p>
 <p>Thanks to those conversations, I got a better understanding of the beastfolk. &quot;Beastfolk&quot; was a generic term for the tribes that lived in the Great Forest. There were many that originated here but crossed over to the Demon Continent and came to be referred to as demons. An outward characteristic of these tribes was that one part of their body retained an animal-like appearance. Each tribe also had one of five senses enhanced. In a broad sense, Nokopara and Blaze were also once a part of the beastfolk.</p>
 <p>The Doldia were particularly special among the tribes of beastfolk. Only one tribe maintained the peace of the forest while also protecting the Sacred Beast. That was the Doldia.</p>
 <p>Then there were the cat-like Dedoldia and the dog-like Adoldia. Those were the two primary families that were divided into a dozen branch families. In other words, the royalty of the Great Forest. Although they weren&#x27;t doing much to deserve the title, they were the ones who would lead when the necessity arose.</p>
 <p>There were also elves and halflings living in the Great Forest. They were concentrated in the northern part of the forest, so they didn&#x27;t have much contact with the beastfolk. However, all the tribes would gather for a meeting once a year, and they would participate in a festival near the Great Sacred Tree. According to Gustav, while their tribes had differences, they all lived as friends in the Great Forest.</p>
-<p>As for the dwarves, they lived not in the Great Forest but farther south, at the foot of the Blue Wyrm Mountains. The blue dragons flew across the world and only returned to the mountain range to nest when they were laying eggs or raising their young, like</p>
-<p>migratory birds. Unlike migratory birds, however, they only returned once every ten years.</p>
+<p>As for the dwarves, they lived not in the Great Forest but farther south, at the foot of the Blue Wyrm Mountains. The blue dragons flew across the world and only returned to the mountain range to nest when they were laying eggs or raising their young, like migratory birds. Unlike migratory birds, however, they only returned once every ten years.</p>
 <p>Since time immemorial, men and beastfolk had cycled through war and friendship with one another. One war, which was really more of a small competition, took place just fifty years ago. Gustav regaled us with stories of his involvement, and how the beastfolk&#x27;s strongest band of warriors mowed down a group of human soldiers that had wandered into the forest. It was quite overdramatized, but hearing the way things played out from the beastfolk&#x27;s point of view was quite fresh and entertaining.</p>
 <p>To counter this, Ruijerd whipped out his trump card, the story about the Superd Clan during Laplace&#x27;s War. The two traded banter as if they were competing, but given that they were both old men, it more or less turned into a sermon about the good old days.</p>
 <p>&quot;Warriors these days are a complete disgrace.&quot;</p>
@@ -144,13 +141,13 @@ nav_title = "Chapter 9"
 <p>Ouch. As true as it was, that hurt. Ruijerd had faith in me, which was why he allowed me to go alone. Yet I was caught so easily. In a way, I&#x27;d betrayed his trust.</p>
 <p>&quot;But Master Ruijerd, isn&#x27;t that a bit heartless? Your comrade had something terrible happen to him.&quot;</p>
 <p>&quot;As a warrior, you must take responsibility for your own battles. Besides, Rudeus could have escaped on his own at any point. I appreciate that he trusts me as his companion, but he&#x27;s not a child. A warrior doesn&#x27;t force their comrades into a difficult position by allowing themselves to get caught!&quot;</p>
-<p><em>Boy, Ruijerd</em>, <em>you sure are hammered,</em> I thought. <em>Maybe you could escape on your own if you got caught, but try not to expect too much out of me. My powers aren&#x27;t limitless, okay?</em></p>
+<p>Boy, Ruijerd, you sure are hammered, I thought. Maybe you could escape on your own if you got caught, but try not to expect too much out of me. My powers aren&#x27;t limitless, okay?</p>
 <p>***</p>
 <p>Two months passed.</p>
 <p>Whenever I was in my room, the Sacred Beast would come plodding in. The beast lived deeper in the village alongside the flowers and the butterflies, but once a day during its walk time it would roam about the village freely. Its favorite (and current) route was wherever I was.</p>
 <p>&quot;Well, if it isn&#x27;t the Sacred Beast. What business do you have here with a sex fiend like me?&quot;</p>
 <p>&quot;Ruff!&quot;</p>
-<p>&quot;Life&#x27;s <em>ruff</em>, huh?&quot;</p>
+<p>&quot;Life&#x27;s ruff, huh?&quot;</p>
 <p>&quot;Ruff!&quot;</p>
 <p>That wasn&#x27;t much of an answer.</p>
 <p>I wasn&#x27;t sure whether the Sacred Beast was male or female, but either way it settled down beside me. At the moment I was holding the beginnings of a figurine in my hands. It looked like it would be some time before the rain stopped, so I decided to try making one.</p>
@@ -163,7 +160,7 @@ nav_title = "Chapter 9"
 <p>&quot;Want to play?&quot;</p>
 <p>&quot;Woof!&quot;</p>
 <p>So the two of us grappled and roughhoused. I got to enjoy its soft fluffy fur, and the Sacred Beast received a moderate amount of exercise. Truly a win-win situation.</p>
-<p><em>Knock, knock</em>. Someone was rapping on the door as we were in the midst of playing.</p>
+<p>Knock, knock. Someone was rapping on the door as we were in the midst of playing.</p>
 <p>&quot;Pardon me.&quot; A woman in warrior&#x27;s dress came in. It was Laklana. She was one of those in charge of the Sacred Beast, and she would come retrieve it when its walk time was near an end.</p>
 <p>&quot;Nice to see you again.&quot;</p>
 <p>&quot;You as well, Master Rudeus. Also, about that time before…&quot; Every time she saw me, Laklana would apologize for the time when she threw freezing cold water on me. The first apology had been more than enough. &quot;That aside, could you please stop being so attached to the Sacred Beast?&quot;</p>
@@ -171,7 +168,7 @@ nav_title = "Chapter 9"
 <p>What, was this another false accusation? She really didn&#x27;t feel sorry about anything, did she? If she wasn&#x27;t careful with her words, next time she would be the one naked in a jail cell and I would be the one pouring the water.</p>
 <p>&quot;But I can smell your arousal.&quot;</p>
 <p>&quot;…It&#x27;s not for the reason you&#x27;re thinking.&quot;</p>
-<p>The real reason was because every time she came and bowed her head, my inner pervert began to whisper, &quot;<em>Hey lady, if you could solve this with a simple sorry, we wouldn&#x27;t need to call the cops, now would we? If you really want to solve this, you know what you gotta do, right? Let&#x27;s take it to the bedroom together.&quot;</em></p>
+<p>The real reason was because every time she came and bowed her head, my inner pervert began to whisper, &quot;Hey lady, if you could solve this with a simple sorry, we wouldn&#x27;t need to call the cops, now would we? If you really want to solve this, you know what you gotta do, right? Let&#x27;s take it to the bedroom together.&quot;</p>
 <p>&quot;The Sacred Beast is extremely precious to the Doldia. I&#x27;m aware that you saved it from harm, but developing feelings for it is—&quot;</p>
 <p>&quot;Except I don&#x27;t have any feelings for it.&quot;</p>
 <p>The Sacred Beast was a type of magical beast born once every few hundred years. It didn&#x27;t have a proper name. Since ages long past, it only appeared when the world faced a crisis, and when it became an adult it would set out alongside a hero, using its great power to save the world.</p>
@@ -185,7 +182,7 @@ nav_title = "Chapter 9"
 <p>&quot;I see then, but—&quot;</p>
 <p>&quot;Woof!&quot;</p>
 <p>&quot;…I understand.&quot;</p>
-<p><em>Why the heck are you talking to this dog as if you&#x27;re having a normal conversation?</em> I thought. I could hear it barking. That was definitely not the Beast God tongue. Just how was she understanding it? Was she using a Bow-Lingual translator?</p>
+<p>Why the heck are you talking to this dog as if you&#x27;re having a normal conversation? I thought. I could hear it barking. That was definitely not the Beast God tongue. Just how was she understanding it? Was she using a Bow-Lingual translator?</p>
 <p>&quot;The Sacred Beast said that you&#x27;re not the one.&quot;</p>
 <p>&quot;I figured as much.&quot; Although I wished she&#x27;d elaborate.</p>
 <p>&quot;But the Sacred Beast is very grateful to you, it seems.&quot;</p>
@@ -199,9 +196,9 @@ nav_title = "Chapter 9"
 <p>&quot;Arf! (&#x27;But I&#x27;m also locked up.&#x27;)&quot;</p>
 <p>We continued for a bit after that, having a conversation with Laklana as our interpreter. It seemed the Sacred Beast didn&#x27;t know all the details about what happened. That included not being aware of the smell of arousal that Gyes claimed was coming off me, or why Gyes had then taken me into custody. It didn&#x27;t seem to know much about the meaning of its kidnapping either, beyond that it was a terrifying experience. In other words, it was still just a child. It wasn&#x27;t right to demand reparations from a child, so I gave up on that.</p>
 <p>&quot;I did get to live more comfortably because of you, so thank you.&quot; At my gratitude, it wagged its tail and licked my face.</p>
-<p><em>Heh heh, you sure are a cute one</em>, I thought as I stroked its neck, only to be pushed to the ground. <em>Aah, you can&#x27;t! Not where people can see us…!</em></p>
+<p>Heh heh, you sure are a cute one, I thought as I stroked its neck, only to be pushed to the ground. Aah, you can&#x27;t! Not where people can see us…!</p>
 <p>&quot;Master Rudeus, this is the Sacred Beast&#x27;s way of showing respect. Could you please try to restrain your affections?&quot;</p>
-<p>&quot;You&#x27;re misunderstanding, what you&#x27;re smelling is my arousal because of <em>you</em>.&quot;</p>
+<p>&quot;You&#x27;re misunderstanding, what you&#x27;re smelling is my arousal because of you.&quot;</p>
 <p>&quot;Huh?!&quot;</p>
 <p>&quot;That was rude of me; disregard that.&quot; Crap, crap. I let my true feelings slip out.</p>
 <p>&quot;Ahem…Sacred Beast, it&#x27;s time we returned to the Sacred Tree.&quot;</p>

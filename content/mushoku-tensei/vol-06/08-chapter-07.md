@@ -21,14 +21,13 @@ nav_title = "Chapter 7"
 <p>All I did was follow the Man-God&#x27;s directions. And then needlessly got myself stuck in a trap and needed help to escape it. If I still had the nerve to demand gratitude after all that, I should&#x27;ve been able to use that same nerve to accomplish more in my previous life.</p>
 <p>&quot;Please direct that gratitude to Ruijerd and Eris instead. They&#x27;re the ones who acted appropriately and led everything to a peaceful conclusion.&quot;</p>
 <p>&quot;I spoke with them a bit,&quot; she said. &quot;But they told me it was all part of your strategy—&quot;</p>
-<p>&quot;That was <em>not</em> my strategy.&quot;</p>
+<p>&quot;That was not my strategy.&quot;</p>
 <p>Lilia went quiet, then said, &quot;If that&#x27;s how you feel.&quot; She looked displeased, but it wasn&#x27;t like I was asking her to call something black when it was really white.</p>
 <p>We fell into silence for a bit after that.</p>
 <p>&quot;Does Aisha…&quot; Lilia began to ask, glancing outside the window, &quot;…sometimes say things that are offensive?&quot;</p>
 <p>&quot;Of course not. She&#x27;s an exceptional kid. No normal child could put that much forethought into their actions at six.&quot;</p>
 <p>&quot;But she&#x27;s not as great as you. I tried to teach her as much as I could these past few years, but even now, my daughter&#x27;s too stupid to understand how amazing you are, Lord Rudeus.&quot;</p>
-<p>&quot;Calling her stupid is going a bit overboard.&quot; Besides, I&#x27;d had an advantage in the form of the memories from my previous life. I had considered the possibility that Aisha might be the same as me, but when I tried asking her about the existence of things like television and cellphones, she just stared blankly at me. The girl was just an</p>
-<p>ordinary genius. Paul&#x27;s genes, as it turned out, were actually pretty incredible.</p>
+<p>&quot;Calling her stupid is going a bit overboard.&quot; Besides, I&#x27;d had an advantage in the form of the memories from my previous life. I had considered the possibility that Aisha might be the same as me, but when I tried asking her about the existence of things like television and cellphones, she just stared blankly at me. The girl was just an ordinary genius. Paul&#x27;s genes, as it turned out, were actually pretty incredible.</p>
 <p>&quot;What do you think of Aisha?&quot; Lilia asked, as if the question had just popped into her head.</p>
 <p>&quot;Huh? I told you, she&#x27;s exceptional.&quot;</p>
 <p>&quot;I don&#x27;t mean that. I mean her appearance.&quot;</p>
@@ -45,7 +44,7 @@ nav_title = "Chapter 7"
 <p>&quot;I know that you&#x27;re a womanizer.&quot;</p>
 <p>She did? Huh, okay then. Still, unlike my former self, it seemed I felt no desire for those related to me by blood. Which was why it made me uncomfortable when Lilia presented Aisha to me as if she were a gourmet meal prepared for my consumption. Those were my true feelings, at least. &quot;She&#x27;s still only six, isn&#x27;t she? She&#x27;s at an age where she needs to be with her parents.&quot;</p>
 <p>&quot;If that&#x27;s how you truly feel,&quot; she said.</p>
-<p>Lilia looked disappointed, but I said nothing wrong. Aisha was still young. It was best for her to be with her parents, right? It was my feeling, as someone who was born Japanese, that it was best for a child to be with both of their parents while they were little. At least one, if not both, but definitely not <em>neither</em>.</p>
+<p>Lilia looked disappointed, but I said nothing wrong. Aisha was still young. It was best for her to be with her parents, right? It was my feeling, as someone who was born Japanese, that it was best for a child to be with both of their parents while they were little. At least one, if not both, but definitely not neither.</p>
 <p>&quot;I understand. It&#x27;s true that Aisha is still immature. I can&#x27;t send her off with you when she&#x27;s still so inexperienced.&quot;</p>
 <p>&quot;Uh, please don&#x27;t teach her anything too weird, okay?</p>
 <p>Like…about me being a pervert.&quot;</p>
@@ -81,8 +80,7 @@ nav_title = "Chapter 7"
 <p>&quot;Just a moment.&quot; She grabbed the hem of my shirt and dragged me along with her. I shot Ruijerd a look so he would understand, then went ahead and followed her.</p>
 <p>The place she brought me to was a small thicket by the roadside. She crouched and gestured for me to follow suit. I did as she asked and leaned in close as if we were about to have a secret conversation.</p>
 <p>&quot;Mister Kennel Master, I actually have a favor I want to ask of you, privately.&quot;</p>
-<p>&quot;A favor? If it&#x27;s something I can do, sure.&quot; If my cute little sister had a task for me, I would do my best to fulfill it. Norn already hated me, and I didn&#x27;t want Aisha to hate me, too. I seemed to be in her</p>
-<p>good graces for now, but that was because she thought I was the Kennel Master.</p>
+<p>&quot;A favor? If it&#x27;s something I can do, sure.&quot; If my cute little sister had a task for me, I would do my best to fulfill it. Norn already hated me, and I didn&#x27;t want Aisha to hate me, too. I seemed to be in her good graces for now, but that was because she thought I was the Kennel Master.</p>
 <p>&quot;Please take me along with you.&quot;</p>
 <p>My eyes went wide when I heard her ask that. Was this Lilia&#x27;s doing…?</p>
 <p>&quot;Did your mom tell you to say that?&quot; Perhaps she thought that since I refused her request, she&#x27;d use her daughter&#x27;s tears to persuade me instead. Lilia was more cunning than I gave her credit for.</p>
@@ -91,7 +89,7 @@ nav_title = "Chapter 7"
 <p>&quot;Every single day, my mother tells me about how I&#x27;m going to serve my half-brother in the future.&quot;</p>
 <p>&quot;She did say that,&quot; I agreed.</p>
 <p>&quot;But!&quot; Aisha slammed her fist against the ground. &quot;I want no part of it!&quot;</p>
-<p>She <em>really</em> wanted no part of being around me. Probably because I got so aroused by underwear. <em>Sorry</em>, I apologized in my head.</p>
+<p>She really wanted no part of being around me. Probably because I got so aroused by underwear. Sorry, I apologized in my head.</p>
 <p>&quot;We talked about it the other day, right? My brother is a pervert. I understand what you were saying, Mister Kennel Master, but I just can&#x27;t bear the thought of serving someone like that.&quot;</p>
 <p>&quot;Is that right…?&quot;</p>
 <p>&quot;So please, I beg of you, save me! Just as gallantly as you did the other day, from the evil hands of a pervert!&quot;</p>
@@ -137,7 +135,6 @@ nav_title = "Chapter 7"
 <p>And off they went.</p>
 <p>Eris had a completely unamused look on her face as she said, &quot;What the hell? She completely saw right through you.&quot;</p>
 <p>&quot;H-how…?&quot;</p>
-<p>Ruijerd gave the horse&#x27;s reins a tug and the carriage jerked into motion. In retrospect, there were many opportunities for her to realize the truth. I called her by her name when we first met, and</p>
-<p>when I was speaking to Eris and Ruijerd after that, I&#x27;m pretty sure they let my name slip, too.</p>
-<p>So why did she pretend not to know? <em>Think, think</em>, I told myself, and the answer came quickly. She was probably trying to determine for herself if her brother was someone who could be trusted. If I&#x27;d kept up the charade of being the Kennel Master and tried to drag her along with me, I had no doubt she would&#x27;ve turned her back on me.</p>
+<p>Ruijerd gave the horse&#x27;s reins a tug and the carriage jerked into motion. In retrospect, there were many opportunities for her to realize the truth. I called her by her name when we first met, and when I was speaking to Eris and Ruijerd after that, I&#x27;m pretty sure they let my name slip, too.</p>
+<p>So why did she pretend not to know? Think, think, I told myself, and the answer came quickly. She was probably trying to determine for herself if her brother was someone who could be trusted. If I&#x27;d kept up the charade of being the Kennel Master and tried to drag her along with me, I had no doubt she would&#x27;ve turned her back on me.</p>
 <p>&quot;Haha.&quot; Once I realized that, I laughed. She truly was a brilliant, clever little girl. I looked forward to seeing her once she was older.</p>

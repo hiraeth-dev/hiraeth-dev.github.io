@@ -75,9 +75,9 @@ nav_title = "Chapter 2"
 <p>Joseph seemed to have made it to the store ownership stage, but then he made one big mistake that cost him everything. Whenever he was asked where he went wrong he&#x27;d always shut down and go silent. But there was no doubt that it was over a woman; or so Linia had told me. Of course, if you knew Linia&#x27;s reputation, her theories had the strength of a wet paper bag. My guess was that his mistake involved alcohol. He might have drunken himself into a stupor and put his hands on a female employee, only to find out it was a setup to get dirt on him…</p>
 <p>Wait. That sounded like what Linia told me.</p>
 <p>Never mind.</p>
-<p>Either way, after losing it all, Joseph here wandered around until finding his way to the Mercenary Band. According to Aisha, he was incredibly skilled at management and finances, so it didn&#x27;t seem like he was lying about owning a store. And considering how high Aisha&#x27;s standards for skills were, that praise meant a lot. Well… On second thought, Aisha considered <em>me</em> skilled, so that&#x27;s what that praise was worth. Anyway, this all led to him getting picked out from the crowd to be the advisor for the grand opening of Zanoba&#x27;s first store.</p>
+<p>Either way, after losing it all, Joseph here wandered around until finding his way to the Mercenary Band. According to Aisha, he was incredibly skilled at management and finances, so it didn&#x27;t seem like he was lying about owning a store. And considering how high Aisha&#x27;s standards for skills were, that praise meant a lot. Well… On second thought, Aisha considered me skilled, so that&#x27;s what that praise was worth. Anyway, this all led to him getting picked out from the crowd to be the advisor for the grand opening of Zanoba&#x27;s first store.</p>
 <p>&quot;A-are you sure?&quot; asked Joseph, his wan face living up to his nickname. &quot;I&#x27;ve heard that Mr. Zanoba can be a fearsome individual… That when he gets angry, he&#x27;ll flatten people into the ceiling, like pancakes…&quot;</p>
-<p>&quot;Joseph, my boy, those are merely rumors,&quot; I reassured him. &quot;In what world would a man slam someone into the ceiling when angered? If someone was truly angry, wouldn&#x27;t they slam people into the <em>ground</em> instead? Exactly! The ground&#x27;s much harder.&quot;</p>
+<p>&quot;Joseph, my boy, those are merely rumors,&quot; I reassured him. &quot;In what world would a man slam someone into the ceiling when angered? If someone was truly angry, wouldn&#x27;t they slam people into the ground instead? Exactly! The ground&#x27;s much harder.&quot;</p>
 <p>&quot;Y-you&#x27;re right, yeah…&quot;</p>
 <p>Of course I was right. Zanoba only slammed people into the ceiling when jumping for joy. His preferred move when angry was an iron claw to the face.</p>
 <p>&quot;That said, it&#x27;s best to not get him angry in the first place. But that goes for anyone, no? You&#x27;ve been a salesman before, so I&#x27;m sure you agree that it&#x27;s best to keep your customers smiling?&quot;</p>
@@ -87,20 +87,20 @@ nav_title = "Chapter 2"
 <p>Interesting. Might apply to enemies. But we weren&#x27;t talking about enemies, now, were we?</p>
 <p>&quot;Is Zanoba an enemy?&quot; I asked.</p>
 <p>&quot;N-no! My apologies. I didn&#x27;t mean to be pedantic…&quot;</p>
-<p>&quot;Oh, it&#x27;s nothing to worry about. I <em>was</em> wrong, after all. Yes, some enemies are best handled when they&#x27;re angry, very true.&quot;</p>
+<p>&quot;Oh, it&#x27;s nothing to worry about. I was wrong, after all. Yes, some enemies are best handled when they&#x27;re angry, very true.&quot;</p>
 <p>&quot;R-right… But of course, Mr. Zanoba is no enemy…so I do intend to avoid angering him… It&#x27;s just that, when I was with the mercenaries, everything I did got someone mad at me…&quot;</p>
 <p>True, he didn&#x27;t seem like he&#x27;d fit in easily with the reckless heroes that made up our mercenary band. Probably because he was so timid and reserved. I remember how awful he was during my first interview with him after Aisha suggested him to me: the color on his face as he entered the captain&#x27;s room had gone past Pale and straight to White, like he was a walking corpse. He started the conversation from the assumption that he was surely about to be punished for some mistake he&#x27;d made, so he kept a faint, rictus smile pinned to his lips at all times as he kissed ass. I had my doubts about the guy, to say the least. Even Aisha attempted to walk back her recommendation of him.</p>
 <p>failures is usually unreliable. If someone didn&#x27;t understand exactly why they failed, then they were liable to repeat their mistakes. I was speaking from experience. But failure was also a fact of life. The maturity of someone with a lot of failures to draw from is worth its weight in gold. We&#x27;d never grow if we let failure stop us. You didn&#x27;t need a hundred percent success rate; sixty percent is still a passing mark, even when the &quot;test&quot; is changing the world.</p>
-<p>A taste of success changes people. I felt that if I could give this man that taste, he&#x27;d grow into an exceptional asset. I chose him for this project not in spite of his past, but <em>because</em> of it.</p>
+<p>A taste of success changes people. I felt that if I could give this man that taste, he&#x27;d grow into an exceptional asset. I chose him for this project not in spite of his past, but because of it.</p>
 <p>&quot;Our benefactor is forgiving of failures, and he makes sure success doesn&#x27;t go unrewarded. If you&#x27;re able to make this project a success, you could find yourself managing the mercenary band&#x27;s marketing division.&quot;</p>
 <p>&quot;Wh-why, I&#x27;m not certain I&#x27;d be fit for that position.&quot;</p>
 <p>&quot;Perhaps. But you didn&#x27;t refuse the opportunity. You&#x27;re here. That speaks for itself.&quot;</p>
 <p>It was quite the profound line to end on, if I did say so myself.</p>
-<p>Well, it was profound until a certain <em>someone</em> ruined it. That &quot;someone&quot; was Linia.</p>
+<p>Well, it was profound until a certain someone ruined it. That &quot;someone&quot; was Linia.</p>
 <p>&quot;Don&#x27;t sweat it, mew! Zanoba&#x27;s like a little bro to mew. Keep your chin up, and if anything happens, just lemme at &#x27;im. I&#x27;ll give him the ol&#x27; one-two, mew!&quot;</p>
 <p>For some reason, she tagged along when I first set this project up, acting like some business guru the whole time. Considering that her first foray into an honest line of work ended before it ever started, her bluster made her come off as a know-it-all novice.</p>
 <p>&quot;Boss… Thank you so much. I feel so relieved.&quot;</p>
-<p>Joseph seemed comforted that she was here, and she <em>did</em> have some authority I didn&#x27;t want to undermine, so for the moment, I decided to let her talk nonsense without interjecting. She was getting the boot if she got in the way, though.</p>
+<p>Joseph seemed comforted that she was here, and she did have some authority I didn&#x27;t want to undermine, so for the moment, I decided to let her talk nonsense without interjecting. She was getting the boot if she got in the way, though.</p>
 <p>&quot;Now then, shall we enter?&quot; I suggested. I wanted to avoid any further wavering, so I opened the door.</p>
 <p>&quot;Hey, Zanoba, you know that thing we talked abou—&quot;</p>
 <p>door without knocking. And before our eyes, beyond the door that had opened with a clank, lay an unbelievable sight.</p>
@@ -113,19 +113,19 @@ nav_title = "Chapter 2"
   <img src="/novels/mushoku-tensei/vol-20/insert-01.webp" alt="Illustration" loading="lazy" />
 </div>
 
-<p>Ginger. With a stuffed animal. Oh no, that wasn&#x27;t to say they didn&#x27;t belong together, but it <em>was</em> an unexpected sight. I felt like I&#x27;d walked in on something. I could have sworn that Ginger had no interest in these sorts of things. Maybe Zanoba no longer being a prince had given her a change of heart.</p>
+<p>Ginger. With a stuffed animal. Oh no, that wasn&#x27;t to say they didn&#x27;t belong together, but it was an unexpected sight. I felt like I&#x27;d walked in on something. I could have sworn that Ginger had no interest in these sorts of things. Maybe Zanoba no longer being a prince had given her a change of heart.</p>
 <p>Yes, after calming down and giving it some thought, it felt natural. Besides, it wasn&#x27;t right to judge someone for their tastes.</p>
 <p>&quot;Gah ha ha ha! What&#x27;s a knight doin&#x27; coddling a stuffed animal, mew?! What is she, a bab—Mew?! Boss, what&#x27;s the big idea, mew, just wait a sec—&quot;</p>
 <p>I gave Linia the boot.</p>
-<p>Incidentally, beastfolk had a form of play in which they practiced hunting on dolls of demons and animals. It was a game that <em>very</em> small children would play. So I couldn&#x27;t hold it against her; she wasn&#x27;t making fun of <em>Ginger&#x27;s</em> tastes. She was just speaking from her experience as a beastwoman. Not to say that her words had no bite. Ginger glowed with unbearable humiliation. I had to cheer her back up.</p>
-<p>&quot;<em>Ahem,</em> that&#x27;s a lovely stuffed animal you have there. From where might you have procured it?&quot;</p>
+<p>Incidentally, beastfolk had a form of play in which they practiced hunting on dolls of demons and animals. It was a game that very small children would play. So I couldn&#x27;t hold it against her; she wasn&#x27;t making fun of Ginger&#x27;s tastes. She was just speaking from her experience as a beastwoman. Not to say that her words had no bite. Ginger glowed with unbearable humiliation. I had to cheer her back up.</p>
+<p>&quot;Ahem, that&#x27;s a lovely stuffed animal you have there. From where might you have procured it?&quot;</p>
 <p>Ooh, I sounded a bit like Zanoba there.</p>
 <p>&quot;It…was an import from the Asura Kingdom. Its creator was someone named Venger, who used blanket rags to make dolls like this, or something…&quot;</p>
 <p>&quot;Venger, eh? Quite a similar name to &#x27;Ginger,&#x27; isn&#x27;t it?&quot;</p>
 <p>&quot;Yes. That&#x27;s why I&#x27;ve taken a bit of a liking to it… Is it really that childish?&quot;</p>
 <p>&quot;Oh, by no means. Pay no attention to what some insensitive cat tells you. She has no taste. I believe you should love what you love.&quot;</p>
 <p>&quot;Oh… Yes, thank you very much.&quot;</p>
-<p>I could tell that Zanoba had a smile on his face as he overheard us. It was the face of a hobbyist watching a friend fall down the rabbit hole of a hobby of their own; he must have been happy to see Ginger take an interest in dolls. Well, a stuffed animal. Not <em>quite</em> a doll.</p>
+<p>I could tell that Zanoba had a smile on his face as he overheard us. It was the face of a hobbyist watching a friend fall down the rabbit hole of a hobby of their own; he must have been happy to see Ginger take an interest in dolls. Well, a stuffed animal. Not quite a doll.</p>
 <p>&quot;Rudeus, who might this person be?&quot; Joseph asked nervously.</p>
 <p>&quot;Ah, I&#x27;ll introduce you. Zanoba!&quot;</p>
 <p>dusted the shavings off of his clothes, and joined us. Julie trotted along behind him.</p>
@@ -137,7 +137,7 @@ nav_title = "Chapter 2"
 <p>This was unusual. Knowing Zanoba, I figured he would&#x27;ve accepted Joseph by the second reply. Something along the lines of trusting me to have my reasons, but choosing not to ask what they were.</p>
 <p>&quot;Pardon,&quot; Zanoba continued, &quot;but I simply must ask. This work is not mere child&#x27;s play to me, you see.&quot;</p>
 <p>&quot;I&#x27;ll explain, of course.&quot;</p>
-<p>Zanoba was taking this job seriously. Joining Orsted&#x27;s army was a step toward avenging Pax&#x27;s death, and that choice was <em>not</em> made lightly. Zanoba wasn&#x27;t putting his foot down just because he didn&#x27;t want a philistine who didn&#x27;t understand true art criticizing his work.</p>
+<p>Zanoba was taking this job seriously. Joining Orsted&#x27;s army was a step toward avenging Pax&#x27;s death, and that choice was not made lightly. Zanoba wasn&#x27;t putting his foot down just because he didn&#x27;t want a philistine who didn&#x27;t understand true art criticizing his work.</p>
 <p>Right?</p>
 <p>&quot;First, as a former salesman, he&#x27;s well-versed in marketing. Second, he once failed as a salesman, so he&#x27;ll be careful. Last, as a complete novice to the world of figurines, he&#x27;ll be able to provide a fresh perspective.&quot;</p>
 <p>&quot;A fresh perspective, you say?&quot;</p>
@@ -186,11 +186,11 @@ nav_title = "Chapter 2"
 <p>Zanoba took the book Joseph was holding and flipped through it. He stopped on the final page; Joseph held his breath as Zanoba spread its contents out for the rest of us.</p>
 <p>&quot;Is this…a reading worksheet?&quot;</p>
 <p>Oh, yes. This was a worksheet designed for learning to read. It contained pronunciations, grammar rules, stroke order, and even practice exercises. It wasn&#x27;t going to teach someone to breeze through academic tomes, but they should be able to read something simple by studying alongside it.</p>
-<p>Honestly, I was pretty proud of it. This felt like an achievement. The theory summarized on that worksheet was what taught <em>Ghislaine Dedoldia,</em> of all people, to read. Enough said.</p>
+<p>Honestly, I was pretty proud of it. This felt like an achievement. The theory summarized on that worksheet was what taught Ghislaine Dedoldia, of all people, to read. Enough said.</p>
 <p>&quot;Reading textbooks differ from country to country, but this is rather easy to understand. If this comes with the book, then I think we can consider our literacy hurdles cleared.&quot;</p>
 <p>However, his gaze grew stern when he considered the figurine.</p>
 <p>&quot;But to be perfectly honest, I don&#x27;t believe that selling the book and the figurine together is going to work. The people who want the book will be different from the people who want the figurine…&quot;</p>
-<p>&quot;Of <em>course</em>,&quot; I sighed. That should&#x27;ve been obvious. It could even bother people to be stuck with a bulky figurine when all they wanted to buy was a book.</p>
+<p>&quot;Of course,&quot; I sighed. That should&#x27;ve been obvious. It could even bother people to be stuck with a bulky figurine when all they wanted to buy was a book.</p>
 <p>&quot;But wait,&quot; Zanoba objected. &quot;We can&#x27;t know until we try, can we? Considering that it teaches people to read, I&#x27;m sure many people would purchase it for their children. Including a figurine to catch their children&#x27;s attention shouldn&#x27;t be entirely disregarded.&quot;</p>
 <p>&quot;I see, children… Yes, that&#x27;s an idea.&quot; Joseph nodded at Zanoba&#x27;s suggestion. &quot;But in that case, shouldn&#x27;t the figurine be a little more palatable to children? This one is just a tad scary.&quot;</p>
 <p>Joseph fiddled with the figurine&#x27;s head as he spoke, but he shuddered when the figure&#x27;s carefully sculpted hair piece popped out of its slot.</p>
@@ -204,7 +204,7 @@ nav_title = "Chapter 2"
 <p>&quot;Where do you suppose a good location for the store would be?&quot;</p>
 <p>&quot;Somewhere with plenty of foot traffic would be a good start, but I&#x27;ve been told that gaining more engineers is another goal of this project. In that case, a good place to open the first shop here in Sharia should be the workshop district.&quot;</p>
 <p>&quot;We wish to expand our capacity as a workshop. We&#x27;re prepared to go into mass production, and if resources allow, we&#x27;ll even go right for opening a store on the main street,&quot; said Zanoba.</p>
-<p>&quot;Yes, I see that. The problem would be where <em>exactly</em> on the main street we would open the store… We won&#x27;t make many friends in the Commerce Guild if we come out of nowhere and throw money around to land a good spot. But location <em>is</em> important…&quot;</p>
+<p>&quot;Yes, I see that. The problem would be where exactly on the main street we would open the store… We won&#x27;t make many friends in the Commerce Guild if we come out of nowhere and throw money around to land a good spot. But location is important…&quot;</p>
 <p>&quot;Hmm. Then perhaps we could consider the Asura Kingdom?&quot;</p>
 <p>&quot;W-well, true, securing a store in the Asura Kingdom would draw more customers than Sharia ever could—but once the shipping costs are factored in, it&#x27;s impractical. It would take months to travel to the Asura Kingdom from here…&quot;</p>
 <p>&quot;If that&#x27;s the trouble, then we could simply manufacture in the Asura Kingdom as well. Fortunately, the master and I are old acquaintances with the land&#x27;s next ruler. It&#x27;ll be easier to work there than in Sharia,&quot; said Zanoba.</p>
@@ -214,7 +214,7 @@ nav_title = "Chapter 2"
 <p>&quot;All right, I believe that shall settle our plans for now. What say you, Chairman?&quot;</p>
 <p>Whoops, I&#x27;d spaced out. I glanced at Ginger and Julie for a hint. Julie had a worried look on her face, as though she didn&#x27;t quite understand what was going on. Ginger&#x27;s expression, however, was unconcerned.</p>
 <p>&quot;I can&#x27;t say for sure since I&#x27;m still early in my studies…but from what I&#x27;ve heard, I think it should go well.&quot;</p>
-<p>Oh, so she&#x27;d been studying. <em>You go, Ginger.</em> I needed to find a chance to keep up my studies as well. And the spare time to do it.</p>
+<p>Oh, so she&#x27;d been studying. You go, Ginger. I needed to find a chance to keep up my studies as well. And the spare time to do it.</p>
 <p>&quot;Good point,&quot; I said &quot;My business studies have been lacking, so I can&#x27;t make the call. We should tell our plans to Aisha for now, and if she gives us the rubber stamp, we&#x27;ll move forward from there.&quot;</p>
 <p>I&#x27;d go ask Aisha for her thoughts as reference. Until then, I had a bit of studying to do about trade in this world. It wouldn&#x27;t make me more than a novice, though. A novice is better referring to their reading than to their own judgment.</p>
 <p>What was important was that I could be content with hiring Joseph as our advisor for now. Our advisor who came with Aisha&#x27;s seal of approval, at that. Zanoba, the manager of the project, agreed with the decision. The only action left for me as the leader of the project was to approve it all and wait for the results.</p>

@@ -17,9 +17,9 @@ nav_title = "Chapter 8"
 <p>Hopefully I&#x27;d get the chance to try it for myself this year. If it was gross, that might be interesting in its own way.</p>
 <p>&quot;It&#x27;s certainly lively these days,&quot; said Roxy, looking around curiously.</p>
 <p>&quot;Yeah, it always is,&quot; said Sylphie. &quot;Lots of people come into town this time of year.&quot;</p>
-<p>Apart from the merchants moving in all directions, there were plenty of students out on the streets, peering into the booths and stalls. Sometimes we passed farmers pushing wheelbarrows full of vegetables, or adventurers squabbling about who&#x27;d bumped whose shoulder. Sharia was the largest city in this region, but it was only <em>this</em> noisy around this time of year.</p>
+<p>Apart from the merchants moving in all directions, there were plenty of students out on the streets, peering into the booths and stalls. Sometimes we passed farmers pushing wheelbarrows full of vegetables, or adventurers squabbling about who&#x27;d bumped whose shoulder. Sharia was the largest city in this region, but it was only this noisy around this time of year.</p>
 <p>Also, I was noticing an unusual number of beastfolk out in the streets. Most of them were tough-looking guys carrying broad, machete-like swords. They had a &quot;festival&quot; of their own going on at the moment, as it happened. Linia and Pursena were both going into heat around the same time, so their bravest young fighters had travelled here from all around the world to compete for them. This year, Linia and Pursena were going to be facing them head-on. I guess they thought it was about time to find themselves husbands.</p>
-<p>In a break with beastfolk traditions, however, they&#x27;d declared that they would be choosing their mates personally from among those who bested them. At a bare minimum, they wanted a Sword Saint, Advanced-tier mage, or A-rank adventurer. Furthermore, his fur needed to be glossy, his ears erect, and his tail straight. Oh, and he had to be both a savage warrior <em>and</em> a considerate gentleman. Their standards seemed a little unrealistic to me, to be perfectly honest.</p>
+<p>In a break with beastfolk traditions, however, they&#x27;d declared that they would be choosing their mates personally from among those who bested them. At a bare minimum, they wanted a Sword Saint, Advanced-tier mage, or A-rank adventurer. Furthermore, his fur needed to be glossy, his ears erect, and his tail straight. Oh, and he had to be both a savage warrior and a considerate gentleman. Their standards seemed a little unrealistic to me, to be perfectly honest.</p>
 <p>Hopefully they&#x27;d find someone nice…just like me.</p>
 <p>On my right, I had Sylphie. On my left, I had Roxy. A woman on both sides—every man&#x27;s dream!</p>
 <p>&quot;Hey there, Miss Sylphiette, Miss Roxy. I&#x27;ve got a proposal for you.&quot;</p>
@@ -31,13 +31,13 @@ nav_title = "Chapter 8"
 <p>&quot;Okay.&quot;</p>
 <p>&quot;…Sure.&quot;</p>
 <p>Sylphie immediately grabbed my right arm. Roxy hesitated slightly, then took my left.</p>
-<p>The day had come at last. I was risen! Now it was <em>my</em> turn to endure the people&#x27;s jealous gazes. And how wonderful it felt!</p>
+<p>The day had come at last. I was risen! Now it was my turn to endure the people&#x27;s jealous gazes. And how wonderful it felt!</p>
 <p>Looking around the area, though, I realized that the merchants were busy with their own affairs, and the beastfolk warriors were hurrying off to the University. Some of the students in the crowd were looking our way, but they averted their eyes quickly. I might have gotten a few jeers from the local adventurers if we were in a tavern or something, but even they didn&#x27;t seem bored enough to harass me on the street. Overall, I was getting much less attention than I&#x27;d anticipated.</p>
 <p>Still, I was deeply satisfied by the experience.</p>
 <p>Why, you might ask? Well, my right arm was currently experiencing some pleasant sensations. Sylphie was pressing a certain something against it, in a way she wasn&#x27;t capable of before. No need to be coy, right? I&#x27;m referring to her chest.</p>
 <p>I, Rudeus Greyrat, was walking through the town with a woman&#x27;s breasts pushed up against my arm. This simple fact was enough to fill me with joy. The once-barren soil of my heart, bleached dry by a miserable adolescence, was blooming with life!</p>
 <p>I couldn&#x27;t stay in this oasis forever. Soon enough, these pillowy clouds of pleasure would return to their rightful and more modest size. But that didn&#x27;t make them any less real. They were the legendary treasure islands, and I had found them!</p>
-<p>And it wasn&#x27;t just Sylphie offering me this joy. Roxy, on my left, was also pressing her meager chest against me. Her breasts were small, but they <em>did</em> exist. I could feel their distinct softness against the muscles of my arm. They were meek enough to inherit the Earth!</p>
+<p>And it wasn&#x27;t just Sylphie offering me this joy. Roxy, on my left, was also pressing her meager chest against me. Her breasts were small, but they did exist. I could feel their distinct softness against the muscles of my arm. They were meek enough to inherit the Earth!</p>
 <p>This was truly splendid. I said a few silent words of thanks to the muscles of my own arms; if not for their hardness, I couldn&#x27;t have appreciated this softness so fully.</p>
 <p><em>Ha ha, don&#x27;t be jealous, Heracles the Bicep! You&#x27;re truly wonderful as well!</em></p>
 <p>&quot;Gnuh huh huh.&quot;</p>
@@ -51,22 +51,21 @@ nav_title = "Chapter 8"
 <p>Sylphie&#x27;s voice snapped me back to reality.</p>
 <p><em>Whoops. Guess I was zoning out a bit there…</em></p>
 <p>&quot;You&#x27;re drooling,&quot; said Roxy, wiping at my face with a handkerchief. &quot;Are you ready to eat already?&quot;</p>
-<p>I clearly needed to be a bit more attentive. I was hoping today would <em>end</em> with a threesome, yes, but I wasn&#x27;t going to get sloppy about the date itself.</p>
+<p>I clearly needed to be a bit more attentive. I was hoping today would end with a threesome, yes, but I wasn&#x27;t going to get sloppy about the date itself.</p>
 <p>We&#x27;d pick out Norn and Aisha&#x27;s presents carefully. And after that, I was going to make sure they both enjoyed their day out.</p>
 <p>All of this was equally important.</p>
 <p>&quot;Sorry about that,&quot; I said with a smile, renewing my focus on the tasks at hand. &quot;I guess I was just lost in thought.&quot;</p>
 <p>Picking the presents was our main activity for the day. We decided to look all around the city and take our time with the decision.</p>
 <p>Our search got underway in the Workshop District. You could find all sorts of magical tools and implements in this area of the city. Of course, there were plenty of enchanted objects for sale in the Commerce District as well, but those were largely tested, refined products that commanded very high prices. In the Workshop District, you got a more eclectic mix, including prototypes and experiments produced by fledgling creators.</p>
-<p>For the most part, their effects weren&#x27;t too remarkable—they were more like toys than anything else. But sometimes you&#x27;d dig</p>
-<p>through a pile of junk and find a masterpiece from an inventor who&#x27;d soon be famous.</p>
+<p>For the most part, their effects weren&#x27;t too remarkable—they were more like toys than anything else. But sometimes you&#x27;d dig through a pile of junk and find a masterpiece from an inventor who&#x27;d soon be famous.</p>
 <p>Or so Roxy told me, at least. One of her old classmates from the University had joined a workshop here as an apprentice, so she knew a few things about the area. Unfortunately, they&#x27;d moved to a different city at some point.</p>
 <p>Roxy didn&#x27;t seem too optimistic about our mission. &quot;To be honest, I don&#x27;t think we&#x27;ll find anything those two would like here,&quot; she&#x27;d said, but she was browsing through the magical implements on display with great interest.</p>
-<p>Naturally, I wasn&#x27;t expecting to find a suitable present for Norn or Aisha either. The reason I&#x27;d brought us here was to find a gift for <em>Roxy</em>.</p>
+<p>Naturally, I wasn&#x27;t expecting to find a suitable present for Norn or Aisha either. The reason I&#x27;d brought us here was to find a gift for Roxy.</p>
 <p>Although we were formally married, I&#x27;d never really celebrated that with her. She wasn&#x27;t interested in a wedding ceremony, but we could still have a belated party. My plan was to combine that event with Aisha and Norn&#x27;s birthday celebration.</p>
-<p>Roxy didn&#x27;t know about that part, of course. It was <em>also</em> a surprise.</p>
+<p>Roxy didn&#x27;t know about that part, of course. It was also a surprise.</p>
 <p>She thought she was in on the game, but I was playing fivedimensional chess here! If she expressed interest in anything on sale here, I planned to sneak back out and buy it a few days later.</p>
 <p>Of course, magical implements could get very expensive. Right now, our family&#x27;s funding was coming from four main sources: Sylphie and Roxy&#x27;s salaries, the royalties from that scroll Nanahoshi gave me, and the money we&#x27;d earned from that Labyrinth.</p>
-<p>In particular, the Labyrinth money—my inheritance from Paul, in a sense—could have kept me comfortable for a solid thirty years or so all on its own. It wasn&#x27;t enough to let me lounge around for the rest of my life, but it <em>was</em> a very nice cushion.</p>
+<p>In particular, the Labyrinth money—my inheritance from Paul, in a sense—could have kept me comfortable for a solid thirty years or so all on its own. It wasn&#x27;t enough to let me lounge around for the rest of my life, but it was a very nice cushion.</p>
 <p>There was no telling when we might need to spend a whole lot of money all at once, so I was doing my best not to spend our cash carelessly. For a wedding present, though, I was more than willing to dip into my savings.</p>
 <p>Hell, if Roxy muttered &quot;I wanna drive a Porsche,&quot; I&#x27;d get her one. There didn&#x27;t seem to be any luxury car dealers in the Magic City of Sharia, though, so I might have to settle for drawing their logo on Dillo&#x27;s forehead.</p>
 <p>&quot;This pot that freezes its contents when you feed it mana seems handy. Maybe Aisha would appreciate it.&quot;</p>
@@ -77,22 +76,22 @@ nav_title = "Chapter 8"
 <p>&quot;What do you think, Rudy?&quot;</p>
 <p>&quot;I think it would be delightful to lick your face like a dog, Roxy.&quot;</p>
 <p>&quot;Can you try to take this seriously? You&#x27;re the one who suggested the trip, you know.&quot;</p>
-<p>Of course, I <em>was</em> thinking about Aisha and Norn&#x27;s presents as well. But the stuff for sale around here just wasn&#x27;t their style.</p>
+<p>Of course, I was thinking about Aisha and Norn&#x27;s presents as well. But the stuff for sale around here just wasn&#x27;t their style.</p>
 <p>After a while, we moved to the Commerce District. Our destination was Sylphie&#x27;s favorite clothing store. I&#x27;d bought my current robe here, and it was my go-to place for finding presents, also.</p>
 <p>&quot;Wow. You shop at some very fancy stores, I see…&quot;</p>
 <p>Roxy hesitated a little outside the shop, then looked down at her own robe with an uncertain expression. Should I be telling her there wasn&#x27;t a dress code, maybe?</p>
 <p>&quot;Huh?&quot; said Sylphie. &quot;Is it really that fancy?&quot;</p>
 <p>She seemed genuinely nonplussed. As a general rule, she only bought her clothes at fairly expensive establishments. It wasn&#x27;t like Sylphie was careless with her money or anything. She&#x27;d just spent many years accompanying Ariel. You tend to pick up the shopping habits of your closest friends, I guess.</p>
-<p>I was sure she understood this place was expensive in some sense. It probably just seemed like the best option among the stores she was familiar with. <em>Fancy</em> is a relative term, after all.</p>
+<p>I was sure she understood this place was expensive in some sense. It probably just seemed like the best option among the stores she was familiar with. Fancy is a relative term, after all.</p>
 <p>&quot;Well, no. I suppose the Greyrat family can afford to shop here. It&#x27;s just…I don&#x27;t usually visit stores this nice myself, personally.&quot;</p>
-<p>&quot;O-oh… huh. I guess it <em>is</em> kind of fancy, then,&quot; Sylphie said in a crestfallen tone, her ears drooping slightly. &quot;Um, Rudy? I&#x27;m not spending too much money, am I?&quot;</p>
+<p>&quot;O-oh… huh. I guess it is kind of fancy, then,&quot; Sylphie said in a crestfallen tone, her ears drooping slightly. &quot;Um, Rudy? I&#x27;m not spending too much money, am I?&quot;</p>
 <p>&quot;Don&#x27;t worry, Sylphie. You&#x27;re fine.&quot;</p>
 <p>Apart from anything else, she paid for the clothes she bought out of her own salary. I didn&#x27;t have any right to complain about how she spent her money.</p>
 <p>&quot;I really wasn&#x27;t trying to imply that!&quot; said Roxy. &quot;I shopped at stores like this myself, back when I was a royal magician in Shirone. And it seems like a perfect place to find something special for a birthday present.&quot;</p>
-<p>&quot;Oh, yeah. Right. It <em>is</em> a special occasion, so…yeah…&quot;</p>
+<p>&quot;Oh, yeah. Right. It is a special occasion, so…yeah…&quot;</p>
 <p><em>That&#x27;s my teacher for you. She knows when to switch to the offensive. Better follow that up…</em></p>
 <p>&quot;You know, I don&#x27;t think there&#x27;s anything wrong with buying yourself some pricey clothes, really,&quot; I said with a smile.</p>
-<p>Sylphie pouted at this. &quot;So you <em>do</em> think they&#x27;re pricey after all!&quot;</p>
+<p>Sylphie pouted at this. &quot;So you do think they&#x27;re pricey after all!&quot;</p>
 <p>&quot;U-uh, slip of the tongue. I meant stylish. Stylish clothes.&quot;</p>
 <p>&quot;Ugh. Should we go somewhere else after all…? The only other stores I know are even more expensive, though…&quot;</p>
 <p>&quot;That won&#x27;t be necessary. Let&#x27;s buy something here.&quot;</p>
@@ -108,7 +107,7 @@ nav_title = "Chapter 8"
 <p>Your tenth birthday was considered a very big deal, so people probably bought a lot of formal wear for kids around that age.</p>
 <p>&quot;My goodness, there&#x27;re a lot of different styles. I&#x27;m not even sure how to start.&quot;</p>
 <p>&quot;Well, it&#x27;s going to be winter soon, right? Maybe something warm would be good?&quot;</p>
-<p>Roxy and Sylphie started looking through the outfits immediately. It sounded like they were enjoying themselves. Quite a contrast with a certain redhead whose entire attitude toward clothing was <em>&quot;Ugh, anything&#x27;s fine!&quot;</em></p>
+<p>Roxy and Sylphie started looking through the outfits immediately. It sounded like they were enjoying themselves. Quite a contrast with a certain redhead whose entire attitude toward clothing was &quot;Ugh, anything&#x27;s fine!&quot;</p>
 <p>&quot;What do you think, Rudy?&quot; asked Sylphie, turning back to me.</p>
 <p>&quot;Well, Norn&#x27;s winter coat&#x27;s getting a little small on her. She might be looking for a new one,&quot; I offered.</p>
 <p>The two of them nodded thoughtfully.</p>
@@ -121,7 +120,7 @@ nav_title = "Chapter 8"
 <p>&quot;These cloth corsages are nice. I wonder if Aisha would like them?&quot; I said, studying a basket of intricate little bouquets.</p>
 <p>&quot;Maybe. She does love flowers,&quot; said Sylphie.</p>
 <p>&quot;Yeah…I&#x27;m not sure if a kid would appreciate that sort of thing, though.&quot;</p>
-<p>&quot;Come to think of it, I don&#x27;t really know what sort of things <em>Norn</em> likes…&quot;</p>
+<p>&quot;Come to think of it, I don&#x27;t really know what sort of things Norn likes…&quot;</p>
 <p>&quot;Hmm, good question. She doesn&#x27;t talk about her tastes that often. Not around me, at least.&quot;</p>
 <p>&quot;Norn has somewhat boyish tastes, I think,&quot; said Roxy. &quot;She likes swords, armor, horses…that sort of thing.&quot;</p>
 <p>&quot;Wait, really? How do you know that?&quot;</p>
@@ -163,11 +162,11 @@ nav_title = "Chapter 8"
 <p>To my surprise, both of my wives recognized the name of the place. At the end of the day, it seemed we were all just pawns in Elinalise&#x27;s game.</p>
 <p><em>Well, whatever. It&#x27;s no big deal if they&#x27;ve heard of it.</em></p>
 <p>&quot;Elinalise mentioned something else to me, actually,&quot; continued Roxy. &quot;She said Rudy might take both of us here at some point. With the intention of, well… you know.&quot;</p>
-<p>&quot;Yeah, she said that to me too… So <em>that&#x27;s</em> what this is all about.&quot;</p>
+<p>&quot;Yeah, she said that to me too… So that&#x27;s what this is all about.&quot;</p>
 <p>&quot;Honestly. What are we going to do with you, Rudy?&quot;</p>
 <p>Sylphie and Roxy looked over at me with narrowed eyes.</p>
 <p>However, I didn&#x27;t see any real disgust or shock on their faces. Elinalise had done her job well; they seemed receptive to my plan.</p>
-<p>I owed that woman big time. <em>Thank you, Elinalise! You&#x27;re the best, Elinalise!</em></p>
+<p>I owed that woman big time. Thank you, Elinalise! You&#x27;re the best, Elinalise!</p>
 <p>&quot;Still, you didn&#x27;t mention we&#x27;d be spending the night. I&#x27;m a little worried about Lucie…&quot;</p>
 <p>The objection was reasonable enough, but of course, I hadn&#x27;t overlooked that little detail either.</p>
 <p>&quot;Don&#x27;t worry, Sylphie. I entrusted her to Lilia for tonight.&quot;</p>
@@ -178,7 +177,7 @@ nav_title = "Chapter 8"
 <p>Roxy piped up next: &quot;I do have school tomorrow, you know.&quot;</p>
 <p>Her job was important, of course. But this wouldn&#x27;t be an issue either.</p>
 <p>&quot;We&#x27;ll just wake up early and head back to the house before you need to leave.&quot;</p>
-<p>&quot;Do you think we&#x27;ll be <em>able</em> to wake up early? I&#x27;m not sure I will. This is always exhausting for me.&quot;</p>
+<p>&quot;Do you think we&#x27;ll be able to wake up early? I&#x27;m not sure I will. This is always exhausting for me.&quot;</p>
 <p>&quot;Don&#x27;t worry, Roxy. I&#x27;ve got it.&quot;</p>
 <p>&quot;Well, if you say so, Rudy…&quot;</p>
 <p><em>Phew.</em></p>
@@ -186,7 +185,7 @@ nav_title = "Chapter 8"
 <p>&quot;All right then, dear. Be gentle with us, please.&quot;</p>
 <p>&quot;We&#x27;ll do our best.&quot;</p>
 <p>Seeing my adorable wives bowing their heads to me, I was ready to get right down to business.</p>
-<p>Of course, heading <em>straight</em> to bed wouldn&#x27;t have been proper.</p>
+<p>Of course, heading straight to bed wouldn&#x27;t have been proper.</p>
 <p>We needed to have a nice meal, get a bit tipsy, and whisper some loving words to each other first. You&#x27;ve got to set the mood, you know?</p>
 <p>Accordingly, we started things off with dinner at the restaurant that occupied the first floor of the inn. The food here was very good in its own right, after all.</p>
 <p>I wanted to make sure they both understood that lust wasn&#x27;t the only thing I felt toward them. It was there, of course. But I also loved just spending time with them.</p>
@@ -197,11 +196,11 @@ nav_title = "Chapter 8"
 <p>In the Northern Territories, raw ingredients were expensive and hard to buy in bulk, which meant ordinary meals tended to be a little meager. But this was the season where food was most plentiful, and we were also in a very expensive restaurant.</p>
 <p>Among other things, we had a huge bowl of salad full of fresh, juicy vegetables; a spicy soup packed with freshwater fish; and a glistening, well-seasoned black and blue steak. None of it was the sort of stuff you got to eat very often in these parts.</p>
 <p>In addition, the meal had come with a bottle of whisky-like liquor with a rich aroma.</p>
-<p>&quot;This soup is <em>delicious.</em> I wonder how they seasoned it?&quot;</p>
+<p>&quot;This soup is delicious. I wonder how they seasoned it?&quot;</p>
 <p>&quot;Hmm. Maybe oil infused with mustard…?&quot;</p>
 <p>Sylphie wasn&#x27;t touching the alcohol, probably because of Lucie. She was entranced by the soup, though, and kept taking additional servings.</p>
 <p>&quot;I should see if I can find a recipe. Rudy, would you try it if I made some?&quot;</p>
-<p>She tilted her head at me in a particularly adorable way as she asked this question. It really stoked my appetite<em>,</em> if you know what I mean.</p>
+<p>She tilted her head at me in a particularly adorable way as she asked this question. It really stoked my appetite, if you know what I mean.</p>
 <p>&quot;I&#x27;ll gobble it all down. And then have you as a side dish.&quot;</p>
 <p>&quot;Oh, come on, Rudy!&quot;</p>
 <p>Finally, we had dessert. It was actually a standard part of the meal at this place.</p>

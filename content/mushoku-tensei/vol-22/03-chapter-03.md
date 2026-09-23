@@ -25,15 +25,14 @@ nav_title = "Chapter 3"
 <p>&quot;Ah, they&#x27;re reenacting the Battle of Zacharia,&quot; said Zanoba.</p>
 <p>&quot;You can tell?&quot; I asked.</p>
 <p>&quot;I&#x27;ve studied it. That man there, he&#x27;s the right flank. That was an army of water magicians who, unbeknownst to the enemy, were swapped out for fire magicians. All the enemy&#x27;s counter spells went awry and they won a crushing victory. A classic bait-and-switch strategy.&quot;</p>
-<p>&quot;Wow.&quot; Now that Zanoba had pointed it out, I had seen the right flank guy switch places with the rear guard guy outside of the enemy&#x27;s sightlines, then move to the left flank. The rear guard guy then met the</p>
-<p>enemy soldiers who pursued the right flank with magic… Only for the enemy to easily counter him with a spell. The subsequent attack sent him down.</p>
+<p>&quot;Wow.&quot; Now that Zanoba had pointed it out, I had seen the right flank guy switch places with the rear guard guy outside of the enemy&#x27;s sightlines, then move to the left flank. The rear guard guy then met the enemy soldiers who pursued the right flank with magic… Only for the enemy to easily counter him with a spell. The subsequent attack sent him down.</p>
 <p>They were fighting with real magic and swords, but they apparently had a similar setup of magic circles to the ones we used at University of Magic because his wounds healed right away. There must have been a rule where you were out if you were taken out, since he left right after that. After him another guy went down, then another, until in the end the general, surrounded by three enemies, surrendered.</p>
 <p>&quot;Guess they&#x27;re done,&quot; I said. The team who&#x27;d taken down the general raised a victory cheer, and I heaved myself up, ready to go find Shagall.</p>
 <p>&quot;I believe there&#x27;s more to come,&quot; Zanoba said. As I started walking, another team entered the ring. I looked over at Shagall, who showed no sign of moving, then down at the new lineup. They appeared to be working in several teams. There was no tournament bracket listed anywhere, so I couldn&#x27;t guess how many more rounds were coming. They might keep going all day. It looked likely at this point.</p>
 <p>What to do? The idea of waiting around wasn&#x27;t unpleasant, but I&#x27;d rather not waste time. Was there no way to wrangle myself an appointment? Randolph&#x27;s letter of introduction hadn&#x27;t gotten me any closer than if I&#x27;d shown up empty-handed.</p>
 <p>I wasn&#x27;t even sure if I was allowed to watch their drills. They could easily be a national secret or something. No one showed up to chase me out, so I assumed it was fine. But still.</p>
 <p>&quot;Hey, this seat taken?&quot; said someone beside me. I looked around to find a man in his early forties with dark blond hair and patchy stubble. He had the air of someone who&#x27;d been a bit of a fop back in the day but was making an effort to show he&#x27;d pulled himself together. He seemed familiar, but I couldn&#x27;t place from where. Orstepedia was packed with information, but it didn&#x27;t have any pictures. I needed names to work out who anyone was. This guy was in the palace of the King Dragon Realm, so off the bat, I knew he was nobility or royalty—at minimum a knight. There was no way the royal family went roaming about without bodyguards, even within the palace, so…noble or knight. No sword, so probably a noble. No guards or attendants either, which meant he wasn&#x27;t a very important one.</p>
-<p>&quot;Be my guest,&quot; I replied. &quot;I don&#x27;t own it.&quot; I decided to try talking to him for a bit rather than ask his name right away. If he <em>was</em> an important noble, he might get offended by my lack of recognition.</p>
+<p>&quot;Be my guest,&quot; I replied. &quot;I don&#x27;t own it.&quot; I decided to try talking to him for a bit rather than ask his name right away. If he was an important noble, he might get offended by my lack of recognition.</p>
 <p>&quot;I&#x27;ll join you, then,&quot; said the man. He sat down, then looked out over the training grounds. &quot;It&#x27;s a good exercise, right?&quot;</p>
 <p>&quot;Indeed. I admit I don&#x27;t understand it very well.&quot;</p>
 <p>&quot;That&#x27;s the King Dragon Realm&#x27;s signature training methodology.&quot;</p>
@@ -54,12 +53,12 @@ nav_title = "Chapter 3"
 <p>Meanwhile, the King Dragon Realm could assign all its commanders to the roles that best suited them. Some commanders were best employed on the right wing, some charging the enemy flank. Other commanders fared best in a head-on confrontation, while others still knew how to use magicians to deploy magical attacks with pinpoint timing. They understood where their strengths lay, which allowed them to feel satisfied in their roles.</p>
 <p>It was true. That wouldn&#x27;t fly back in the Asuran Kingdom. Luke told me that he wanted to improve things, but old traditions like that take a long time to change—no matter how old and unwieldy they might be, people will always push back with, &quot;If it ain&#x27;t broke, don&#x27;t fix it.&quot;</p>
 <p>&quot;Are you here to study our training methodology?&quot; the man asked.</p>
-<p>There was a sharp gleam in his eyes. Like he was searching for something. Was <em>that</em> what this was about? Did he suspect me of being a spy? It was glaringly obvious that I wasn&#x27;t from the King Dragon Realm, so I couldn&#x27;t blame him. Plus I&#x27;d made a bunch of comparisons with Asura without thinking.</p>
+<p>There was a sharp gleam in his eyes. Like he was searching for something. Was that what this was about? Did he suspect me of being a spy? It was glaringly obvious that I wasn&#x27;t from the King Dragon Realm, so I couldn&#x27;t blame him. Plus I&#x27;d made a bunch of comparisons with Asura without thinking.</p>
 <p>&quot;No, my friend&#x27;s nephew is from here,&quot; I replied, indicating Zanoba, who inclined his head.</p>
 <p>&quot;My name is Zanoba,&quot; he said.</p>
 <p>&quot;Oho, I should have said earlier!&quot; the man exclaimed. &quot;I am Vio Pompadour.&quot;</p>
 <p><em>A Pompadour, huh? I&#x27;ve heard that name from Orsted.</em></p>
-<p>The Pompadours were one of the noble houses of the King Dragon Realm, a distinguished line of warriors who even appeared in the <em>Epic of the North God</em>. They were also closely related to the royal family, if memory served. I was pretty sure the king&#x27;s grandmother had been a Pompadour.</p>
+<p>The Pompadours were one of the noble houses of the King Dragon Realm, a distinguished line of warriors who even appeared in the Epic of the North God. They were also closely related to the royal family, if memory served. I was pretty sure the king&#x27;s grandmother had been a Pompadour.</p>
 <p><em>Whew, close one. He&#x27;s basically royalty. Good thing I didn&#x27;t say anything rude.</em></p>
 <p>The other thing about the Pompadours was that their likelihood of becoming disciples of the Man-God was around C-rank—the lowest of the lowest of the middle.</p>
 <p>&quot;A lord of the house of Pompadour! Please excuse my ignorance.&quot;</p>
@@ -85,7 +84,7 @@ nav_title = "Chapter 3"
 <p>&quot;Though I should warn you: I think today General Shagall means to keep going with the drills until sundown.&quot;</p>
 <p>&quot;You don&#x27;t say.&quot; I looked up. The sun was due south, meaning there were probably around another five hours of drills to go.</p>
 <p>&quot;How about you talk to me?&quot; Vio suggested. &quot;I may not look it, but I&#x27;m fairly knowledgeable about my country&#x27;s affairs. There are things I can&#x27;t go into, of course, but I can tell you about our current situation if that&#x27;ll help.&quot;</p>
-<p>&quot;Would that be all right?&quot; I asked. We needed to know about the present state of the nation. It didn&#x27;t have to come from Shagall. And a member of the House of Pompadour <em>would</em> know a lot about that. I wanted to hear Shagall&#x27;s perspective as well, but sitting here for hours was a waste of time.</p>
+<p>&quot;Would that be all right?&quot; I asked. We needed to know about the present state of the nation. It didn&#x27;t have to come from Shagall. And a member of the House of Pompadour would know a lot about that. I wanted to hear Shagall&#x27;s perspective as well, but sitting here for hours was a waste of time.</p>
 <p>&quot;Our meeting was kismet, I&#x27;m sure. Only, if we&#x27;re going to talk, this place is… Well, shall we go somewhere we can talk more freely?&quot;</p>
 <p>And so, off we went to hear what Vio had to tell us.</p>
 <p>***</p>
@@ -116,7 +115,7 @@ nav_title = "Chapter 3"
 <p>When you thought about it, even if these three countries did invade one of the King Dragon Realm&#x27;s vassal states and occupy a chunk of their domains, the King Dragon Realm, the real heavy hitter here, was hardly going to take that lying down. They&#x27;d join the war in earnest, and depending on the circumstances it was perfectly within their power to wipe out the invaders altogether.</p>
 <p>&quot;All three of these countries?&quot; I asked.</p>
 <p>&quot;Yes, all three.&quot;</p>
-<p><em>Okay, that is odd</em>.</p>
+<p>Okay, that is odd.</p>
 <p>If it were a simple case of striking at the King Dragon Realm while they were weakened, I&#x27;d get it. But why keep fighting this hard even after the King Dragon Realm got back on its feet? If this had been the outcome they wanted, they could have straight-up invaded any time without waiting for a gap in the King Dragon Realm&#x27;s defenses. And three countries at once…</p>
 <p>&quot;Something smells off,&quot; I agreed.</p>
 <p>&quot;Exactly. There&#x27;s also the possibility that if Shirone joins them seeking independence, they might conquer one of our vassal states.&quot;</p>

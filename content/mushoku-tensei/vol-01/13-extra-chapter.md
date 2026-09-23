@@ -19,7 +19,7 @@ nav_title = "Extra Chapter"
 <p>As a result, I was convinced I could make it on my own anywhere I went.</p>
 <p>I really was hopelessly naïve.</p>
 <p>A dishonest group of people spotted me almost immediately, as I awkwardly tried to navigate the unfamiliar process of taking a room at an inn. Claiming they&#x27;d been looking for a healer, they pulled me into their party, taking advantage of my total ignorance. The pay they offered was lower than what Beginner-tier magicians earned, but they insisted it was higher than the going rate.</p>
-<p>Being a complete fool, I took their superficial kindness at face value. I actually remember thinking, <em>I suppose the world does have some decent people in it.</em></p>
+<p>Being a complete fool, I took their superficial kindness at face value. I actually remember thinking, I suppose the world does have some decent people in it.</p>
 <p>I&#x27;m sure they would have mistreated me further if I had stayed with them. They were probably planning to use me as a human shield in battle or force me to cast magic until I fainted. Maybe even to demand sexual favors.</p>
 <p>But they didn&#x27;t get the chance, thanks to a young swordsman named Paul Greyrat.</p>
 <p>After beating down my new &quot;friends,&quot; he rather forcefully dragged me into his own travelling party. Until Elinalise—one of his companions—explained, I was convinced I&#x27;d been kidnapped by a violent thug.</p>
@@ -77,8 +77,7 @@ nav_title = "Extra Chapter"
 <p>At this point, I was startled out of my reverie by Norn, who&#x27;d begun crying loudly. Rudy&#x27;s body jerked in surprise, but he quickly turned to her crib to make more silly faces.</p>
 <p>&quot;Gyaa! Waaaah!&quot;</p>
 <p>This time, Norn didn&#x27;t stop bawling. Rudy touched her diaper to see if it was wet, then picked her up and checked her back for rashes, but the waterworks just kept flowing.</p>
-<p>If I&#x27;d been on my own, I probably would have gotten flustered and called for Lilia, only to fall into an outright panic once I</p>
-<p>remembered she was out shopping at the moment. But Rudy stayed admirably calm. Working by process of elimination, he checked carefully for potential problems. After a while, he clapped his hands and turned to me.</p>
+<p>If I&#x27;d been on my own, I probably would have gotten flustered and called for Lilia, only to fall into an outright panic once I remembered she was out shopping at the moment. But Rudy stayed admirably calm. Working by process of elimination, he checked carefully for potential problems. After a while, he clapped his hands and turned to me.</p>
 <p>&quot;Mother, I think it&#x27;s time for her milk.&quot;</p>
 <p>Come to think of it, it was about that time of day, wasn&#x27;t it? The hours really did fly when I watched Rudy playing with his sisters.</p>
 <p>&quot;Right. Of course.&quot;</p>
@@ -151,8 +150,7 @@ nav_title = "Extra Chapter"
 <p>&quot;She&#x27;s certainly guzzling it down, isn&#x27;t she?&quot;</p>
 <p>&quot;Uhm. Well, your milk is delicious, Mother.&quot;</p>
 <p>&quot;That&#x27;s…an odd attempt at flattery, Rudy.&quot;</p>
-<p>Seeing Aisha happily suckling at my breast, and the contented expression on my own face, Rudy smiled with obvious relief. He</p>
-<p>clearly regarded protecting his little sisters to be his duty. Very admirable. His desire to become a good big brother, worthy of their adoration, seemed to be quite genuine.</p>
+<p>Seeing Aisha happily suckling at my breast, and the contented expression on my own face, Rudy smiled with obvious relief. He clearly regarded protecting his little sisters to be his duty. Very admirable. His desire to become a good big brother, worthy of their adoration, seemed to be quite genuine.</p>
 <p>&quot;It&#x27;s not flattery. I still remember how it tasted.&quot;</p>
 <p>&quot;Do you really now?&quot;</p>
 <p>Chuckling softly, I reached down to stroke Aisha&#x27;s little head. After a while, she finished up and took her mouth from my breast; only moments later, she was nodding off in my arms, so I lowered her back into her crib.</p>

@@ -15,7 +15,7 @@ nav_title = "Chapter 9"
 <p>***</p>
 <p>Our maid, Lilia, had discovered that she was pregnant, as well.</p>
 <p>&quot;I&#x27;m so sorry,&quot; she announced matter-of-factly to the family as we sat at the table. &quot;I&#x27;m pregnant.&quot;</p>
-<p>In that instant, the Greyrat family froze. <em>Who was the father?</em>  But, given the circumstances, nobody could bring themselves to ask.</p>
+<p>In that instant, the Greyrat family froze. Who was the father?  But, given the circumstances, nobody could bring themselves to ask.</p>
 <p>Everyone had realized it on some level at least. Lilia was our maid. She sent almost all of her pay back home to her family. Unlike Paul, who frequently headed into town to help settle problems, or Zenith, who helped out at the local clinic at certain times, Lilia almost never left the house unless it was on work-related duties, and nobody had heard rumors about her developing an especially close relationship with anyone. Perhaps it had been a casual fling?</p>
 <p>I knew the truth, though.</p>
 <p>Ever since Zenith had gotten pregnant, Paul had been forced to go without sex. And he was an especially lustful man who&#x27;d been sneaking into Lilia&#x27;s room in the middle of the night. If I&#x27;d been an actual kid, I would have thought they were just playing cards or something.</p>
@@ -28,7 +28,7 @@ nav_title = "Chapter 9"
 <p>At the same time, however, Zenith shot a look right over at Paul, her shocked assumption plain on her face.</p>
 <p>Conveniently enough, our gazes both fell upon Paul as one, bearing down on him.</p>
 <p>&quot;Uh, sorry,&quot; he blurted. &quot;This child is, uh…probably mine.&quot;</p>
-<p><em>Good grief.</em> Really? Well, no; I suppose I should commend the man for being honest. Seeing as how he constantly told me to &quot;be honest&quot; and &quot;be a real man&quot; and &quot;be sure to protect women&quot; and &quot;never impugn your sense of honor&quot; and other high-and-mighty stuff like that day in and day out, the least he could do was practice what he preached.</p>
+<p>Good grief. Really? Well, no; I suppose I should commend the man for being honest. Seeing as how he constantly told me to &quot;be honest&quot; and &quot;be a real man&quot; and &quot;be sure to protect women&quot; and &quot;never impugn your sense of honor&quot; and other high-and-mighty stuff like that day in and day out, the least he could do was practice what he preached.</p>
 <p>Well, whatever. I couldn&#x27;t say I hated him for it.</p>
 <p>Anyway, this really was the worst-case scenario. That sentiment solidified as I watched Zenith draw herself up to her full height, her face livid, her hand rising into the air.</p>
 <p>And thus was convened an emergency family meeting, with Lilia included.</p>
@@ -57,7 +57,7 @@ nav_title = "Chapter 9"
 <p>He shrank like a scolded child. This was definitely one instance where he had no right to speak. Paul was useless here.</p>
 <p>Zenith chewed on her nails with a look of consternation. She was clearly conflicted as well. She didn&#x27;t want Lilia to suffer; on the contrary, the two were quite good friends. Considering how they&#x27;d spent the last six years running this household together, it was probably fair to say they were best friends.</p>
 <p>Well, except for the part about how Lilia was now carrying Paul&#x27;s child.</p>
-<p>If Lilia had gotten pregnant because she was raped in some back alley, Zenith would have unquestionably sheltered her, and allowed her to—no, she would have <em>insisted</em> she raise the child in our home.</p>
+<p>If Lilia had gotten pregnant because she was raped in some back alley, Zenith would have unquestionably sheltered her, and allowed her to—no, she would have insisted she raise the child in our home.</p>
 <p>Based on the conversation, I surmised that abortion wasn&#x27;t easily accessible in this world.</p>
 <p>Zenith appeared to be grappling with two separate emotions: her fondness for Lilia and her feelings of betrayal. Considering the circumstances, I thought Zenith was pretty incredible for being able to set aside her emotions about the latter. If I were her, I&#x27;d have given in to jealousy.</p>
 <p>The fact that Zenith was able to keep her cool seemed connected to Lilia&#x27;s own attitude; she hadn&#x27;t tried to talk her way out of anything, and had taken full responsibility for betraying a household she&#x27;d served for so long.</p>
@@ -66,8 +66,7 @@ nav_title = "Chapter 9"
 <p>I was indebted to her. We didn&#x27;t do very much together, and she hardly ever talked to me, but she&#x27;d always been there, helping out. She set aside a towel for me to wipe away the sweat when I was practicing my swordplay; she drew me a bath when I got caught in the rain; she fetched me blankets on chilly nights; she rearranged the shelves when I put a book back in the wrong space.</p>
 <p>But most importantly, more than anything else—</p>
 <p>She knew about my treasured panties and had kept silent about it.</p>
-<p>Yes, Lilia knew about those. This happened back when I still thought Sylphie was a boy. It had been raining, and so I was up in my room reading and reviewing my botanical encyclopedia when Lilia came in and started to clean up. I was so engrossed in reading that I didn&#x27;t notice when her cleaning took her close to my secret hiding</p>
-<p>place on the shelf. By the time I did realize, it was too late; Lilia already had my precious panties in her hand.</p>
+<p>Yes, Lilia knew about those. This happened back when I still thought Sylphie was a boy. It had been raining, and so I was up in my room reading and reviewing my botanical encyclopedia when Lilia came in and started to clean up. I was so engrossed in reading that I didn&#x27;t notice when her cleaning took her close to my secret hiding place on the shelf. By the time I did realize, it was too late; Lilia already had my precious panties in her hand.</p>
 <p>I&#x27;d been so stupid. For nearly twenty years I&#x27;d been a complete shut-in, leaving my stuff scattered around, unconcerned about anyone else stumbling across it. I even had my folder for porn right on my desktop. Maybe my skill for hiding things had gotten rusty because of that, but I hadn&#x27;t expected my stuff would be found this easily. I&#x27;d actually done a pretty decent job of hiding it, too! Was this a superpower that maids had?</p>
 <p>Deep inside myself, I&#x27;d felt something start to crumble. I could hear the blood beginning to drain from my head.</p>
 <p>The questioning began.</p>
@@ -83,7 +82,7 @@ nav_title = "Chapter 9"
 <p>That evening, I braced myself for the inevitable family meeting—except it never came. I spent the long night shuddering fearfully in my futon, but even when morning came, there was nothing. She hadn&#x27;t told anyone.</p>
 <p>I owed it to her to repay that debt.</p>
 <p>&quot;Mother?&quot; I asked, keeping my tone as childlike as I could. &quot;How come everyone&#x27;s acting so glum about how I&#x27;m going to have two new siblings at once?&quot;</p>
-<p>I wanted to give off the naïve impression of: <em>Hey, if Lilia&#x27;s pregnant, that means our family&#x27;s getting even bigger! Hooray! Why&#x27;s everyone so upset about that?</em></p>
+<p>I wanted to give off the naïve impression of: Hey, if Lilia&#x27;s pregnant, that means our family&#x27;s getting even bigger! Hooray! Why&#x27;s everyone so upset about that?</p>
 <p>&quot;Because your father and Lilia did something they shouldn&#x27;t have,&quot; Zenith said with a sigh, an unfathomable rage mixed in with those words. But it wasn&#x27;t directed at Lilia; Zenith knew full well who bore the brunt of the blame here.</p>
 <p>&quot;Oh, I see,&quot; I said. &quot;But is Lilia allowed to go against Father&#x27;s wishes?&quot;</p>
 <p>&quot;What do you mean by that?&quot; Zenith asked.</p>
@@ -141,16 +140,14 @@ nav_title = "Chapter 9"
 <p>Knowing that Paul had an abundance of libido, I got it in my head that this was my opportunity. I saw my chance, and I invited Paul into my room. So, this really was my own fault. I thought of my own pregnancy as punishment—my punishment for giving in to my lust, and for betraying Zenith.</p>
 <p>But I was forgiven. Rudeus forgave me. That clever child, he managed to correctly deduce what had happened, lead the conversation precisely where it needed to go, and even bring things to an elegant compromise. He was so level and calculating about it, as if he had some similar prior experience to go on.</p>
 <p>It was an unsettling—no, best to quit while I was still ahead.</p>
-<p>Rudeus weirded me out, and so I made a point to avoid him as much as I could. The boy was smart; he probably realized I was</p>
-<p>avoiding him. Even so, he had saved me. I couldn&#x27;t imagine that felt good for him, but he chose me and my child over his own feelings.</p>
+<p>Rudeus weirded me out, and so I made a point to avoid him as much as I could. The boy was smart; he probably realized I was avoiding him. Even so, he had saved me. I couldn&#x27;t imagine that felt good for him, but he chose me and my child over his own feelings.</p>
 <p>I would owe him for that for the rest of my life. He was someone who deserved my respect.</p>
 <p>Yes, he did deserve it. I would owe him a debt for as long as I lived. So, once the child in my belly was safely born, and once they were grown up, I would see that they made their way into young Master Rudeus&#x27;s service.</p>
 <p><strong>Rudeus</strong></p>
 <p><strong>S</strong>everal months passed without anything especially major happening.</p>
 <p>Sylphie was growing remarkably fast. She was now able to cast Intermediate-level spells without incantations, and she was reaching the point where she could pull off some pretty subtle effects. In comparison, my skill with the sword was relatively unchanged. I&#x27;d gotten decent, but I hadn&#x27;t managed to win a single round against Paul so far, so it was difficult to get too excited about my progress.</p>
 <p>Lilia&#x27;s attitude had softened as well. Previously, she&#x27;d always been on her guard around me—but since I&#x27;d been messing around with magic since I was a little kid, that was only natural. While nothing had really changed about her lack of overt emotion, I felt her words and her mannerisms now bore an overwhelming sense of reverence for me. I got that she was happy about my help, but I wished she&#x27;d tone it down.</p>
-<p>If nothing else, ever since that incident, Lilia had begun to talk to me a little—mostly old stories about Paul. Apparently, they had both studied swordplay at the same training hall many years back. She told me things, like how Paul had been very talented back then, but</p>
-<p>hated to practice. Or how Paul would skip training in order to gallivant around town. Or how Paul had forced himself on her in the middle of the night and taken her virtue. Or how Paul had eventually fled the training hall.</p>
+<p>If nothing else, ever since that incident, Lilia had begun to talk to me a little—mostly old stories about Paul. Apparently, they had both studied swordplay at the same training hall many years back. She told me things, like how Paul had been very talented back then, but hated to practice. Or how Paul would skip training in order to gallivant around town. Or how Paul had forced himself on her in the middle of the night and taken her virtue. Or how Paul had eventually fled the training hall.</p>
 <p>Bit by bit, Lilia opened up to me about all that. The more she told me about the past, the more my opinion of Paul dropped. He was a rapist and a cheater. He was trash.</p>
 <p>Still, it wasn&#x27;t like he was rotten to the core. He was childish, irresponsible, and something about that seemed to tickle women&#x27;s maternal instincts. He tried to be a good, strict father to me, but he wasn&#x27;t good at keeping up that facade; when he set his mind to it, he mostly just came across as frank and straightforward, and I knew for sure he wasn&#x27;t a bad guy through and through.</p>
 <p>&quot;C&#x27;mon, look at me,&quot; Paul said, pulling me out of my daze. We were in the middle of sword practice. &quot;Don&#x27;t you want to grow up to be a cool guy like your dad?&quot;</p>
@@ -164,7 +161,7 @@ nav_title = "Chapter 9"
 <p>&quot;Next time, Mother might move back in with her family without saying a word, you know.&quot;</p>
 <p>Was this guy hoping to build himself a harem? To have some secret retirement out in the sticks, where he had a beautiful wife, a maid he could get handsy with whenever he wanted, and a son to train in the way of the sword?</p>
 <p>Huh. That made me kind of jealous. That was probably the best ending from his perspective. It&#x27;d be like winding up with both Louise and Siesta at the end of that one light novel series. Maybe, rather than being oblivious, I should try to learn from his example?</p>
-<p>No, calm down. I remembered the look in Zenith&#x27;s eyes when that family meeting of ours came to a close. Did I want someone to give <em>me</em> that look? One wife would be plenty, thanks.</p>
+<p>No, calm down. I remembered the look in Zenith&#x27;s eyes when that family meeting of ours came to a close. Did I want someone to give me that look? One wife would be plenty, thanks.</p>
 <p>&quot;I mean, you&#x27;re a guy,&quot; Paul said. &quot;You know how it is.&quot; He was still refusing to back down.</p>
 <p>I knew what he meant, but that didn&#x27;t mean I agreed with him. &quot;What would a six-year-old boy know?&quot;</p>
 <p>&quot;Well, take Sylphie; you&#x27;re into her, aren&#x27;t you? She&#x27;s going to be gorgeous when she grows up.&quot;</p>
@@ -172,8 +169,7 @@ nav_title = "Chapter 9"
 <p>&quot;So then you do understand.&quot;</p>
 <p>&quot;I guess.&quot;</p>
 <p>Yeah, Paul was trash, but we seemed to be on the same level here. I might look like a child, but mentally, I was an unemployed bum over forty years old. A classic example of trash, right there.</p>
-<p>When it came to video games, if nothing else, I was fond of girls, and loved harems. Perhaps, on an intrinsic level, I was the same sort of womanizer that Paul was. Maybe the incident where I&#x27;d yanked Sylphie&#x27;s underwear off was where we&#x27;d started to see eye-to-eye. Ever since then, I&#x27;d felt like Paul was more willing to compromise, to open up with me. Maybe seeing my weak points had made him lose</p>
-<p>that drive to be an unreasonably strict father. He was still growing, too.</p>
+<p>When it came to video games, if nothing else, I was fond of girls, and loved harems. Perhaps, on an intrinsic level, I was the same sort of womanizer that Paul was. Maybe the incident where I&#x27;d yanked Sylphie&#x27;s underwear off was where we&#x27;d started to see eye-to-eye. Ever since then, I&#x27;d felt like Paul was more willing to compromise, to open up with me. Maybe seeing my weak points had made him lose that drive to be an unreasonably strict father. He was still growing, too.</p>
 <p>&quot;Heheheh…&quot;</p>
 <p>I looked to see Paul grinning and chuckling. His gaze wasn&#x27;t directed at me, but rather behind me. I turned around and saw Sylphie standing there. It was rare of her to come to our house.</p>
 <p>On closer inspection, she was blushing ever so slightly, her hands fidgeting. She must have overheard me.</p>
@@ -199,8 +195,7 @@ nav_title = "Chapter 9"
 <p>It was a girl. I had a little sister. I was glad it wasn&#x27;t a little brother.</p>
 <p>Our relief was short-lived, however, as Lilia went into labor as well. We were all already exhausted, our guards down. The words &quot;premature birth&quot; flittered through my mind.</p>
 <p>This time, however, the midwife was able to play her part. While she might not have been good with breech births, premature births were something she claimed to have experience in. Age really did bring wisdom, sometimes.</p>
-<p>I did as the midwife instructed, kicking Paul in the butt to snap him out of his daze and have him bring Lilia to my room. While he</p>
-<p>was taking care of that, I used magic to prepare a new bath for the soon-to-be newborn, gathered up all the clean cloths and towels we had, and went back to the midwife.</p>
+<p>I did as the midwife instructed, kicking Paul in the butt to snap him out of his daze and have him bring Lilia to my room. While he was taking care of that, I used magic to prepare a new bath for the soon-to-be newborn, gathered up all the clean cloths and towels we had, and went back to the midwife.</p>
 <p>I let her handle things from there.</p>
 <p>The moment the baby was born, Lilia boldly cried out Paul&#x27;s name. He was at her side, dripping with sweetness, clutching her hand.</p>
 <p>The baby was smaller than Zenith&#x27;s, but let out the same kind of healthy cries all the same. This one was a girl as well. Two daughters. Two little sisters. Paul chuckled sheepishly to himself even as he mused about both of his new children being girls. For the second time that day, I got to see the big, dumb grin of a new parent on his face.</p>

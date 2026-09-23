@@ -7,7 +7,7 @@ badge = "CH.12"
 nav_title = "Chapter 12"
 +++
 
-<p><strong>O</strong>UR SECOND DAY on the road proved no less eventful. In fact, we ran into even <em>more</em> monsters. For how barren this desert looked, it was crawling with critters.</p>
+<p><strong>O</strong>UR SECOND DAY on the road proved no less eventful. In fact, we ran into even more monsters. For how barren this desert looked, it was crawling with critters.</p>
 <p>The Sandworms were particularly nasty. They didn&#x27;t pose a real threat if you stayed alert and spotted them ahead of time, but sometimes you just had other things demanding your attention. Like monsters, for example. At one point, we blundered into a Sandworm in the midst of fending off a Twin Death Scorpion. The thing swallowed me whole instantly and started to drag me underground. Startled as I was, I managed to instantly fire off the intermediate spell Wind Slice to rip it apart from the inside.</p>
 <p>After using earth magic to tunnel my way back above ground, I found that Elinalise had taken a hit from the scorpion&#x27;s poisonous stingers. She was down on her knees and her face was purple. She&#x27;d been so alarmed to see the Sandworm swallow me that she&#x27;d lost her focus. I quickly killed the scorpion and used my Detoxification magic to save her life.</p>
 <p>Neither of us had really screwed up this time, honestly. We&#x27;d just gotten unlucky.</p>
@@ -25,12 +25,12 @@ nav_title = "Chapter 12"
 <p>Apparently, the Behemoth was one of this continent&#x27;s more famous monsters. They ranged in length from a hundred to a thousand meters.</p>
 <p>It wasn&#x27;t clear what the things ate, but they were only ever sighted in the desert. They had peaceful dispositions, for monsters, and tended to leave people alone unless attacked.</p>
 <p>A few adventurers claimed to have slain one and found massive numbers of magic stones inside its belly. Hearing these rumors, some people had tried to hunt them for profit, but bringing down a Behemoth was much easier said than done. Their outer hide was extremely tough, and given their sheer size, your average adventurer was barely going to scratch them. They had no particular attacks or natural weapons, but simply thrashing their massive bodies around was enough to kill most of their enemies.</p>
-<p>What if you attacked them from a distance, then? Well, apparently the creatures were capable of burrowing deep beneath the sand when things started to heat up. Almost no one had <em>actually</em> succeeded in killing one. Additionally, despite their massive size, nobody had ever found a Behemoth corpse. This had given rise to rumors that there was a hidden &quot;Behemoth burial ground&quot; somewhere. An exciting concept—it reminded me of similar myths about elephant graveyards back in my old world. But realistically speaking, their corpses were probably just eaten by other monsters.</p>
-<p>&quot;You know, <em>you</em> might be able to take one down if you tried, Rudeus.&quot;</p>
+<p>What if you attacked them from a distance, then? Well, apparently the creatures were capable of burrowing deep beneath the sand when things started to heat up. Almost no one had actually succeeded in killing one. Additionally, despite their massive size, nobody had ever found a Behemoth corpse. This had given rise to rumors that there was a hidden &quot;Behemoth burial ground&quot; somewhere. An exciting concept—it reminded me of similar myths about elephant graveyards back in my old world. But realistically speaking, their corpses were probably just eaten by other monsters.</p>
+<p>&quot;You know, you might be able to take one down if you tried, Rudeus.&quot;</p>
 <p>&quot;I&#x27;m not planning to go around assaulting harmless herbivores for no good reason.&quot;</p>
 <p>Still, if I ever found myself seriously hard up for money, it might be worth a shot to throw some magic at one from a safe distance.</p>
 <p>On our third day in the desert, we encountered our first sandstorm.</p>
-<p>Maybe <em>encountered</em> isn&#x27;t the right word. We were just walking along when we saw something that looked like a wall in the distance—and when we got closer, it turned out to be a wall of <em>sand</em>. Elinalise and I considered the possibility of waiting for it to die down, but from the looks of things, this was a static storm that blew constantly in this one location. It didn&#x27;t look likely to rush past us or disappear. And we were in a hurry, of course.</p>
+<p>Maybe encountered isn&#x27;t the right word. We were just walking along when we saw something that looked like a wall in the distance—and when we got closer, it turned out to be a wall of sand. Elinalise and I considered the possibility of waiting for it to die down, but from the looks of things, this was a static storm that blew constantly in this one location. It didn&#x27;t look likely to rush past us or disappear. And we were in a hurry, of course.</p>
 <p>I ended up using my magic to clear the storm until we&#x27;d pushed through the area. My professors had told me it was best not to meddle with the weather too much, but this felt like a case where I was justified.</p>
 <p>When I turned to look back after about an hour of walking, I found that the sandstorm had reappeared exactly where it had been before. It seemed plausible that it was a sort of magic barrier in its own right—a natural-looking defense of the road that led to Orsted&#x27;s teleporter, maybe. Nanahoshi hadn&#x27;t mentioned it, but I seemed to remember her saying that she&#x27;d been kind of out of it during their trip through the desert.</p>
 <p>On our fourth day, the number of monsters we encountered decreased sharply. Maybe that sandstorm kept them sealed off in the area we&#x27;d just left.</p>
@@ -39,12 +39,12 @@ nav_title = "Chapter 12"
 <p>Nah, let&#x27;s say not.</p>
 <p>Day five was more of the same. We trudged through the same old sand, staring out at the same old featureless landscape.</p>
 <p>When you&#x27;re walking through a place without any visible landmarks, it&#x27;s supposedly easy to end up going in circles when you think you&#x27;re moving straight forward. It has something to do with the difference in the length of your stride when you&#x27;re moving your dominant leg.</p>
-<p>I was confident Elinalise was keeping us on track. But I was still starting to feel like I&#x27;d seen some of these sand dunes before. Doubt crept into my mind. <em>Could she actually be lost?</em></p>
+<p>I was confident Elinalise was keeping us on track. But I was still starting to feel like I&#x27;d seen some of these sand dunes before. Doubt crept into my mind. Could she actually be lost?</p>
 <p>My growing mistrust wasn&#x27;t a problem in itself, as long as I kept it to myself. Elinalise would be very annoyed if I voiced any of these thoughts, and if it threw off our teamwork, we might end up dead.</p>
-<p>The only thing I could do here was be understanding. If she <em>did</em> screw up, I needed to say, &quot;That&#x27;s okay!&quot; with a big smile. This was a no-negativity zone.</p>
+<p>The only thing I could do here was be understanding. If she did screw up, I needed to say, &quot;That&#x27;s okay!&quot; with a big smile. This was a no-negativity zone.</p>
 <p>&quot;…Hm. Rudeus, I think I see something in the distance.&quot;</p>
 <p>In the end, my resolve wasn&#x27;t actually tested. I could indeed make out a vague blur shimmering on the horizon in the direction Elinalise was pointing,</p>
-<p>There was definitely <em>something</em> out there. My eyes weren&#x27;t sharp enough to tell what it was, but its color suggested it wasn&#x27;t just part of the desert. There was still a possibility it was just a mirage, though.</p>
+<p>There was definitely something out there. My eyes weren&#x27;t sharp enough to tell what it was, but its color suggested it wasn&#x27;t just part of the desert. There was still a possibility it was just a mirage, though.</p>
 <p>We made our way toward the blur, staying on high alert.</p>
 <p>Come to think of it, we hadn&#x27;t run into any monsters today at all. Maybe this area just wasn&#x27;t home to any… Not that I was going to let my guard down, of course.</p>
 <p>As I was thinking this, the shape ahead of us grew larger and clearer. It was a giant rock formation that made me think of Ayers Rock, and it was maybe fifty meters in height.</p>
@@ -120,7 +120,7 @@ nav_title = "Chapter 12"
 <p>The meat was both tender and juicy. It had a slightly odd flavor to it, but the spices almost completely masked that. Given the way I&#x27;d done things, it wasn&#x27;t cooked completely all the way through. But that wasn&#x27;t an issue—and once you chewed off the surface, you could just sprinkle a little more seasoning on.</p>
 <p>&quot;Ah, this really takes me back,&quot; said Elinalise. &quot;Geese always used to carry around little bottles of spice like that too.&quot;</p>
 <p>&quot;Yeah, that seems pretty common with rogue types, doesn&#x27;t it?&quot;</p>
-<p>After Eris dumped me, I&#x27;d spent several years living the adventurer life. Naturally, I&#x27;d spent some of that time working in parties. It felt like there was <em>always</em> one guy in every group who&#x27;d make his own spices and carry them around. For some reason, it was usually the dagger-wielding, lock-picking, trap-disarming sorts. I&#x27;d often noticed them squirrelling random nuts and leaves away for later.</p>
+<p>After Eris dumped me, I&#x27;d spent several years living the adventurer life. Naturally, I&#x27;d spent some of that time working in parties. It felt like there was always one guy in every group who&#x27;d make his own spices and carry them around. For some reason, it was usually the dagger-wielding, lock-picking, trap-disarming sorts. I&#x27;d often noticed them squirrelling random nuts and leaves away for later.</p>
 <p>Foraged materials weren&#x27;t just useful for cooking, though. Sometimes you&#x27;d run into a monster that recoiled from the strong tastes and smells of certain plants. Some plants also made a decent insect repellant in a pinch. I&#x27;d even seen one guy who even tossed some kind of powder in his enemies&#x27; eyes to blind them.</p>
 <p>&quot;I like the way you seasoned this quite a lot, Rudeus.&quot;</p>
 <p>&quot;Well, that&#x27;s good to hear.&quot;</p>
@@ -128,24 +128,23 @@ nav_title = "Chapter 12"
 <p>&quot;Your table manners aren&#x27;t the best today, Elinalise.&quot;</p>
 <p>&quot;Goodness. Now you sound like Zenith.&quot;</p>
 <p>&quot;Did Mom used to nag you about that?&quot;</p>
-<p>&quot;Oh, yes.&quot; She&#x27;d flush bright red and hiss, &quot;<em>You&#x27;re a lady, Elinalise! Try to act like it!</em>&quot;</p>
+<p>&quot;Oh, yes.&quot; She&#x27;d flush bright red and hiss, &quot;You&#x27;re a lady, Elinalise! Try to act like it!&quot;</p>
 <p>Elinalise&#x27;s imitation of Zenith didn&#x27;t quite line up with the woman I remembered. But I guess they&#x27;d known each other well before I was born.</p>
 <p>I found myself wondering about where Zenith was now for a moment, but I shook the thought out of my head. There was no point in making myself anxious.</p>
 <p>&quot;Were you just as promiscuous back then, too?&quot;</p>
-<p>&quot;Promiscuous? That&#x27;s rather rude. I suppose I was, though. But back in those days, we <em>all</em> used to sleep in our underwear, or the nude. Ghislaine didn&#x27;t even know what a bra was at first! You should have seen the way Paul ogled her…&quot;</p>
-<p>It was hard to imagine Ghislaine being quite that shameless…but maybe she was just clueless. That would fit with what I knew of her. As for Paul, well…not to excuse the guy&#x27;s behavior, but I probably</p>
-<p>would have done the same thing. Beastfolk women tended to be pretty impressive in the chest department.</p>
+<p>&quot;Promiscuous? That&#x27;s rather rude. I suppose I was, though. But back in those days, we all used to sleep in our underwear, or the nude. Ghislaine didn&#x27;t even know what a bra was at first! You should have seen the way Paul ogled her…&quot;</p>
+<p>It was hard to imagine Ghislaine being quite that shameless…but maybe she was just clueless. That would fit with what I knew of her. As for Paul, well…not to excuse the guy&#x27;s behavior, but I probably would have done the same thing. Beastfolk women tended to be pretty impressive in the chest department.</p>
 <p>&quot;You know, come to think of it… I guess Zenith was about your age now when I first met her,&quot; Elinalise said.</p>
 <p>&quot;Really? You&#x27;ve known her since she was a teenager?&quot;</p>
 <p>&quot;Yes. She was a clueless, innocent little girl. Paul picked her up off the street and dragged her into our party, the scoundrel.&quot;</p>
 <p>There was a fond, nostalgic look in Elinalise&#x27;s eyes as she reminisced. Come to think of it, Geese and Ghislaine had seemed just as happy when they talked vaguely about the past. They&#x27;d probably had some good times together.</p>
 <p>&quot;I got the impression Dad wants to apologize to you about something that happened back then. Is it all right if I ask what it was?&quot;</p>
-<p>&quot;…You&#x27;re better off not knowing, dear,&quot; said Elinalise, grimacing now. &quot;I don&#x27;t think you want to hear <em>too</em> much about your father&#x27;s romantic history, do you?&quot;</p>
-<p>&quot;Yeah, you&#x27;re right.&quot; To tell the truth, I kind of <em>did</em> want to know, but I didn&#x27;t want to pressure her. Sometimes a man has to swallow his curiosity.</p>
+<p>&quot;…You&#x27;re better off not knowing, dear,&quot; said Elinalise, grimacing now. &quot;I don&#x27;t think you want to hear too much about your father&#x27;s romantic history, do you?&quot;</p>
+<p>&quot;Yeah, you&#x27;re right.&quot; To tell the truth, I kind of did want to know, but I didn&#x27;t want to pressure her. Sometimes a man has to swallow his curiosity.</p>
 <p>At least her reply told me it had something to do with his love life now. He&#x27;d apparently been in a physical relationship with Ghislaine at some point, so it wouldn&#x27;t surprise me if he&#x27;d been sleeping with Elinalise too. And then Zenith got pregnant, and the whole party fell apart… I could easily imagine how that could lead to some ugly drama.</p>
 <p>&quot;Once we make it to Rapan, I&#x27;m sure he&#x27;ll fall over himself to apologize,&quot; I said.</p>
 <p>&quot;…I&#x27;m not going to forgive him no matter what he says.&quot;</p>
-<p>Elinalise was scowling again. Whatever happened must have been <em>seriously</em> ugly.</p>
+<p>Elinalise was scowling again. Whatever happened must have been seriously ugly.</p>
 <p>Paul really was a good-for-nothing bum. But that exactly was why I had to help him out. Guys like him and me had to look out for each other.</p>
 <p>If worse came to worst, I&#x27;d just have to beg Elinalise to forgive him myself.</p>
 <p>The seventh day started off like the sixth, and we made steady progress north while fighting off Gryphons. This rock shelf went back further than I&#x27;d expected—maybe it was more of a mountain. While the top was mostly flat, we couldn&#x27;t see far in any direction thanks to the giant boulders strewn randomly across its surface.</p>

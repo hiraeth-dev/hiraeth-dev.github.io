@@ -12,8 +12,7 @@ nav_title = "Chapter 8"
 <p>Some people might think that my swordplay wasn&#x27;t improving, since I was spending all my time on these little tricks, but I didn&#x27;t agree. There were two ways to get better at fighting games: keep practicing to improve, or find a different way to beat your opponent with your inferior skills.</p>
 <p>Right now, I was only thinking of the latter. Defeating Paul was the challenge at hand. Paul was a tough guy. He might have a ways to go in the parenting department, but as a swordsman, he was firstrate. If I were to focus on the first method, and hone my physique to an absurd degree, I was sure I could beat him someday.</p>
 <p>However, I was six years old. In ten years, I&#x27;d be sixteen, and Paul would be thirty-five. Five years after that, I&#x27;d be twenty-one, and he&#x27;d be forty. So, yeah, I could beat him someday, but by then, it wouldn&#x27;t mean anything. Defeating someone far older than you just got brushed off with claims of, &quot;Oh, if this were back in my day…&quot;</p>
-<p>Defeating Paul while he was still in his prime—that would mean something. Right now, he was twenty-five years old. He might have retired from the frontlines, but he was currently at his physical peak. I wanted to beat him at least once within the next five years. With</p>
-<p>the blade, if possible, but if that proved unfeasible, then at least in a close-combat situation where I could weave my magic into the mix.</p>
+<p>Defeating Paul while he was still in his prime—that would mean something. Right now, he was twenty-five years old. He might have retired from the frontlines, but he was currently at his physical peak. I wanted to beat him at least once within the next five years. With the blade, if possible, but if that proved unfeasible, then at least in a close-combat situation where I could weave my magic into the mix.</p>
 <p>That was what I kept in mind as I headed out for my day&#x27;s training.</p>
 <p>***</p>
 <p>Under the tree atop the hill, Sylph came by, as he usually did. &quot;Sorry,&quot; he said. &quot;I hope I didn&#x27;t keep you waiting.&quot;</p>
@@ -36,17 +35,17 @@ nav_title = "Chapter 8"
 <p><em>A father&#x27;s heart is a jealous heart…</em></p>
 <p>The words rang clearly in my head as if they&#x27;d been said aloud, but I quickly shook my head and banished the thought. This wasn&#x27;t a matter of jealousy. Besides, his being good-looking was part of my plan: Operation Hot Friend Bait.</p>
 <p>&quot;Hey, Rudy?&quot; Sylph asked. &quot;What&#x27;s this word here?&quot;</p>
-<p>His voice banished the song from my head. He was gazing up at me, pointing at one of the pages in <em>A Textbook of Magic</em>. And that look he was giving me was a powerful one. I wanted to just wrap my arms around him and pull him into a kiss. But I managed to resist the urge.</p>
+<p>His voice banished the song from my head. He was gazing up at me, pointing at one of the pages in A Textbook of Magic. And that look he was giving me was a powerful one. I wanted to just wrap my arms around him and pull him into a kiss. But I managed to resist the urge.</p>
 <p>&quot;That says &#x27;avalanche.&#x27;&quot;</p>
 <p>&quot;What does it mean?&quot;</p>
 <p>&quot;When tremendous amounts of snow build up on a mountain, it can&#x27;t bear its own weight, and it all comes collapsing down. You know how when snow builds up on your roof it sometimes comes flumping off? It&#x27;s like a way bigger version of that.&quot;</p>
 <p>&quot;Oh, wow. That sounds incredible. Have you ever seen one?&quot;</p>
 <p>&quot;An avalanche? Of course I…haven&#x27;t.&quot; Not outside of TV, anyway.</p>
-<p>Sylph had me read from <em>A Textbook of Magic</em>. This was also part of teaching him how to read and write. No harm in learning literacy. There was no spell in this world that could do that for you. The lower the literacy rate, the more valuable being able to read was.</p>
+<p>Sylph had me read from A Textbook of Magic. This was also part of teaching him how to read and write. No harm in learning literacy. There was no spell in this world that could do that for you. The lower the literacy rate, the more valuable being able to read was.</p>
 <p>&quot;I did it!&quot; Sylph cheered. He&#x27;d managed to cast the Intermediate-tier water spell Ice Pillar. A shaft of water sprang from the ground, glinting brightly in the sunlight.</p>
 <p>&quot;Hey, you&#x27;re getting pretty good,&quot; I said.</p>
 <p>&quot;Uh-huh!&quot; Sylph replied, and then he tilted his head. &quot;But there&#x27;s stuff you do that isn&#x27;t written in here, huh?&quot;</p>
-<p>&quot;Huh?&quot; It took me a few moments to realize he was talking about that thing I&#x27;d done with the warm water. I flipped briskly through <em>A Textbook of Magic</em>, then pointed at two entries. &quot;No, it&#x27;s written in here. Waterfall and Heat Hand.&quot;</p>
+<p>&quot;Huh?&quot; It took me a few moments to realize he was talking about that thing I&#x27;d done with the warm water. I flipped briskly through A Textbook of Magic, then pointed at two entries. &quot;No, it&#x27;s written in here. Waterfall and Heat Hand.&quot;</p>
 <p>&quot;Hm?&quot;</p>
 <p>&quot;I used both at the same time.&quot;</p>
 <p>&quot;Huh?&quot; Sylph inclined his head even further. &quot;How can you chant two things at the same time?&quot;</p>
@@ -57,8 +56,7 @@ nav_title = "Chapter 8"
 <p>&quot;How to do magic without saying anything.&quot; Apparently, Sylph had a different opinion from me. Maybe he saw the ability to do something in one go as better than alternating between two spells?</p>
 <p>Hmm. I supposed that if teaching him that wound up being futile, he could just use Combined Magic, anyway.</p>
 <p>&quot;Right. So, you know the feeling you get when you&#x27;re going through the incantation for a spell? That feeling throughout your body that collects in your fingertips? Try doing that without saying the incantation. Once you feel like you&#x27;ve got the magical energy gathered up, let the spell you want to cast come to your mind and then force it out through your hands. Try to do something like that. Start with something like Waterball.&quot; I hoped that got the point across. I wasn&#x27;t good at explaining things.</p>
-<p>Sylph closed his eyes and began muttering and murmuring as he did a weird, wriggly little dance. Trying to convey something you did</p>
-<p>through feelings was really hard. Silent incantation was something you did in your head; different people probably had different methods that worked for them.</p>
+<p>Sylph closed his eyes and began muttering and murmuring as he did a weird, wriggly little dance. Trying to convey something you did through feelings was really hard. Silent incantation was something you did in your head; different people probably had different methods that worked for them.</p>
 <p>Figuring that fundamentals were important, I&#x27;d had Sylph use incantations the entire past year. Maybe the more you used incantations, the harder it was to go without. It&#x27;d be like trying to use your left hand to do something you&#x27;d always done with your right; suddenly being told to switch was easier said than done.</p>
 <p>&quot;I did it! Rudy, I did it!&quot;</p>
 <p>Okay. Maybe not, then.</p>
@@ -98,9 +96,9 @@ nav_title = "Chapter 8"
   <img src="/novels/mushoku-tensei/vol-01/insert-07.webp" alt="Illustration" loading="lazy" />
 </div>
 <p>Sylph shrieked. A moment later, he squatted and curled up into himself to hide his body from sight—but in that moment, what flashed before my eyes was not the pure short sword to which I&#x27;d grown recently accustomed; nor, naturally, was it a dark blade bearing ominous sigils.</p>
-<p>No, what was there—rather, what <em>wasn&#x27;t</em> there—was, well, replaced by something that <em>shouldn&#x27;t</em> have been there. It was something I&#x27;d seen many times over in my past life, on my computer monitor. Sometimes it was covered with a pixelated mosaic; other times it was uncensored. I&#x27;d stare, always thinking about how much I wanted to lick and be inside the real thing someday, my dark lust inevitable causing my white cannon to hit the mark on a handful of tissues.</p>
+<p>No, what was there—rather, what wasn&#x27;t there—was, well, replaced by something that shouldn&#x27;t have been there. It was something I&#x27;d seen many times over in my past life, on my computer monitor. Sometimes it was covered with a pixelated mosaic; other times it was uncensored. I&#x27;d stare, always thinking about how much I wanted to lick and be inside the real thing someday, my dark lust inevitable causing my white cannon to hit the mark on a handful of tissues.</p>
 <p>One of those. That&#x27;s what Sylph had.</p>
-<p>He…was a <em>she</em>.</p>
+<p>He…was a she.</p>
 <p>My vision went white. What I&#x27;d just done was not okay at all.</p>
 <p>***</p>
 <p>&quot;Rudeus, what are you doing?&quot;</p>
@@ -137,8 +135,7 @@ nav_title = "Chapter 8"
 <p><strong>A</strong>fter a lot of apologies, compliments, and reassurances, I got her to forgive me somehow.</p>
 <p>Since it turned out Sylph was a girl, I figured I&#x27;d call her &quot;Sylphie&quot; from now on. Apparently, her full name was Sylphiette? Paul looked at me as if he were dumbfounded by how I ever mistook such a cute little thing for a boy. But I never expected Sylphie would actually turn out to be a girl.</p>
 <p>I suppose it really wasn&#x27;t my fault. When we first met, her hair was shorter than mine. Like, not cut &quot;fashionably&quot; short or anything, but also not so short that she looked like a monk or something. She&#x27;d also never dressed in anything that looked like girls&#x27; clothing—just a plain shirt and trousers. If she&#x27;d worn a skirt, I wouldn&#x27;t have made that mistake.</p>
-<p>Okay. I needed to calm down and think. She&#x27;d been getting bullied because of the color of her hair. Maybe that was why she&#x27;d cut it so short—so it wouldn&#x27;t stand out as much. And if bullies came after her, her only option was to run fast as she could, which would explain why she wore trousers instead of a skirt. Sylphie&#x27;s family</p>
-<p>didn&#x27;t seem particularly well-off, so after making her a pair of trousers, they probably couldn&#x27;t afford to make her a skirt, too.</p>
+<p>Okay. I needed to calm down and think. She&#x27;d been getting bullied because of the color of her hair. Maybe that was why she&#x27;d cut it so short—so it wouldn&#x27;t stand out as much. And if bullies came after her, her only option was to run fast as she could, which would explain why she wore trousers instead of a skirt. Sylphie&#x27;s family didn&#x27;t seem particularly well-off, so after making her a pair of trousers, they probably couldn&#x27;t afford to make her a skirt, too.</p>
 <p>If I&#x27;d met her three years from now, I wouldn&#x27;t have mistaken her for a boy. I only thought she was a cute boy because of my own preconceptions, not because she was androgynous or anything like that. Like, if she&#x27;d—</p>
 <p>No, enough with that. Anything I said now would just be an excuse.</p>
 <p>Learning that Sylphie was a girl changed my attitude. Seeing her in her boyish getup made me feel kind of weird.</p>
@@ -178,10 +175,9 @@ nav_title = "Chapter 8"
 <p>&quot;Hehehe. What&#x27;s the matter, Rudy?&quot; he asked. &quot;Feeling down because Sylphiette doesn&#x27;t like you?&quot;</p>
 <p>That wasn&#x27;t what I&#x27;d sighed about, though. Granted, Sylphie was one of the things weighing on my mind.</p>
 <p>&quot;Well, yeah. Sword practice isn&#x27;t going so well, Sylphie is mad at me—yeah, I sighed.&quot;</p>
-<p>Paul grinned again and thrust his wooden practice sword into the ground. He leaned against it and looked directly at me. <em>Oh, please tell me he&#x27;s not about to make fun of me…</em></p>
+<p>Paul grinned again and thrust his wooden practice sword into the ground. He leaned against it and looked directly at me. Oh, please tell me he&#x27;s not about to make fun of me…</p>
 <p>&quot;Want some advice from your dad?&quot;</p>
-<p>I hadn&#x27;t expected that. I thought about it some. Paul— my dad—was a popular guy with the ladies. Zenith was definitely what you&#x27;d call beautiful, plus there was the whole thing with Mrs. Eto. Sometimes he&#x27;d touch Lilia&#x27;s butt, and the look on her face</p>
-<p>suggested she didn&#x27;t mind at all. He had to have something: <em>some</em> way to keep girls from hating you.</p>
+<p>I hadn&#x27;t expected that. I thought about it some. Paul— my dad—was a popular guy with the ladies. Zenith was definitely what you&#x27;d call beautiful, plus there was the whole thing with Mrs. Eto. Sometimes he&#x27;d touch Lilia&#x27;s butt, and the look on her face suggested she didn&#x27;t mind at all. He had to have something: some way to keep girls from hating you.</p>
 <p>Granted, Paul was more the kind of person who acted on intuition, so I wasn&#x27;t sure I&#x27;d understand him, but if nothing else, it&#x27;d be food for thought. &quot;Yes, please,&quot; I told him.</p>
 <p>&quot;Hmm. How to put this…?&quot;</p>
 <p>&quot;Should I go and lick her boots?&quot;</p>
@@ -210,14 +206,13 @@ nav_title = "Chapter 8"
 <p>&quot;Good luck!&quot; Paul said, with a wave of his hand.</p>
 <p>Unable to wait any longer, I dashed off. As I left, I could&#x27;ve sworn I heard him say one final thing.</p>
 <p>I got to our spot under the tree earlier than usual, so Sylphie hadn&#x27;t shown up yet. I&#x27;d brought my wooden practice sword, as always, but I hadn&#x27;t cleaned up before heading out like I usually did, so I was all sweaty.</p>
-<p>What should I do? There was nothing to be done, really. Times like this, I just had to do mental exercises. I swung my sword around as I ran through some simulations in my head. I&#x27;d shown her my strengths. Now I had to show my weaknesses. Weakness. How was I supposed to do that again? Ah, right—let her see that I was feeling down. But how? When was the right time? Should I just come out with it right away? That seemed like it&#x27;d be weird. Should I try to work it into the flow of the conversation? Could I do that, though? No—I <em>would</em>.</p>
+<p>What should I do? There was nothing to be done, really. Times like this, I just had to do mental exercises. I swung my sword around as I ran through some simulations in my head. I&#x27;d shown her my strengths. Now I had to show my weaknesses. Weakness. How was I supposed to do that again? Ah, right—let her see that I was feeling down. But how? When was the right time? Should I just come out with it right away? That seemed like it&#x27;d be weird. Should I try to work it into the flow of the conversation? Could I do that, though? No—I would.</p>
 <p>Caught up with thinking about this while idly swinging my sword, I must have loosened my grip, because the sword slipped right out of my hand. &quot;Whoops!&quot; I followed its path as it skittered along the ground, landing right at Sylphie&#x27;s feet.</p>
 <p>My mind went completely blank. Crap! What should I do? What should I say?!</p>
 <p>&quot;What&#x27;s the matter, Rudy?&quot; Sylphie was staring at me, her eyes wide. What was the matter? Was it because I&#x27;d shown up super early?</p>
 <p>&quot;Uhh…hmm…well… Y-you&#x27;re… You&#x27;re really cute, and I, err…wanted to see you, but, uh…&quot;</p>
 <p>&quot;No, not that. The sweat.&quot;</p>
-<p>&quot;Hmff… Ahh… S-sweat? Whaddya mean?&quot; I approached, causing her to flinch and recoil. As usual, she wouldn&#x27;t let me get within a</p>
-<p>certain distance of her. It was like we were the same poles of two different magnets.</p>
+<p>&quot;Hmff… Ahh… S-sweat? Whaddya mean?&quot; I approached, causing her to flinch and recoil. As usual, she wouldn&#x27;t let me get within a certain distance of her. It was like we were the same poles of two different magnets.</p>
 <p>Sweat dripped off my forehead. My breathing leveled out. Good.</p>
 <p>I reached down to pick up the wooden sword in dejection, then struck a remorseful pose, facing away from her. I allowed my shoulders to slump, and let out a heavy sigh. &quot;Man. I feel like you&#x27;re really cold lately, Sylphie.&quot;</p>
 <p>For a few moments, there was silence. Had I done okay? Did I do it right, Paul? Should I have made myself even more vulnerable? Or was I being too obvious?</p>

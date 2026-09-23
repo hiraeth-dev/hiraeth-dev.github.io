@@ -11,8 +11,7 @@ nav_title = "Interlude"
 <p>&quot;This food really goes great with some alcohol!&quot;</p>
 <p>Ever since they arrived in this town, Talhand had been in good spirits. Krasma didn&#x27;t just have the bitter alcohol of the Demon Continent, but the sweet alcohol of the seafolk as well. Talhand, being a dwarf, loved alcohol, and as long as the drinking was fun, he didn&#x27;t seem to mind how bad it tasted. When he went to the pub, he invariably hit it off with the ruffians there and drank enough alcohol to fill an entire bathtub. Pubs were everywhere in Krasma, so between that and the good food, Talhand was in paradise.</p>
 <p>As for Roxy, she still had the tastes of a child despite her age, so the cuisine of this town didn&#x27;t agree with her. The food and seasonings of the Demon Continent weren&#x27;t her thing, on the whole. She liked sweet things.</p>
-<p>The saving grace was the seafolk&#x27;s specialty, which was sweet alcohol. It came as quite a shock to Roxy, who&#x27;d only ever associated alcohol with bitterness. The liquor had an airy, seashore-like fragrance to it, and if you took a drink, an indescribably sweet flavor</p>
-<p>would spread in your mouth. The aftertaste left a bit of saltiness, which only made you want to snack as you drank.</p>
+<p>The saving grace was the seafolk&#x27;s specialty, which was sweet alcohol. It came as quite a shock to Roxy, who&#x27;d only ever associated alcohol with bitterness. The liquor had an airy, seashore-like fragrance to it, and if you took a drink, an indescribably sweet flavor would spread in your mouth. The aftertaste left a bit of saltiness, which only made you want to snack as you drank.</p>
 <p>&quot;Now that&#x27;s a rare sight! So you&#x27;re drinkin&#x27; too, eh, Roxy?!&quot;</p>
 <p>&quot;Yes, I am.&quot;</p>
 <p>&quot;Yer in a good mood today, eh?&quot; Talhand watched as Roxy drank and cheerfully put in his next order. &quot;Barkeep, bring us a cask! I&#x27;ll teach ya how to drink like a dwarf!&quot;</p>
@@ -90,10 +89,9 @@ nav_title = "Interlude"
 <p>&quot;Urgh…&quot;</p>
 <p>Her head was pounding, and her face puckered when she smelled the stench of alcohol on her own breath. She immediately used a spell specifically tailored for hangovers to remove the toxins from her body, then used a healing spell on her head. When she looked around, she realized she was in a pub. It looked as if there had been a brawl; the table was broken, and empty casks and shattered bottles lay strewn about.</p>
 <p>&quot;Urgh, I really did drink too much.&quot; Her memory was hazy, but she did remember drinking too much.</p>
-<p>She glanced to the side to see a half-naked Talhand lying there with only the whites of his eyes showing. For a moment, Roxy</p>
-<p>thought he might be dead, but a dwarf could never drink himself to death. Besides, Talhand used to say that he&#x27;d once dreamed of drowning to death in alcohol, so even if he had, it would have been the death he&#x27;d aspired to.</p>
+<p>She glanced to the side to see a half-naked Talhand lying there with only the whites of his eyes showing. For a moment, Roxy thought he might be dead, but a dwarf could never drink himself to death. Besides, Talhand used to say that he&#x27;d once dreamed of drowning to death in alcohol, so even if he had, it would have been the death he&#x27;d aspired to.</p>
 <p>Roxy cast her gaze about the room once again. There were heaps of bodies everywhere, all spread about and moaning. Among them was the man who&#x27;d solicited money for more drinks. Everyone here had clearly drunk themselves into oblivion and was now suffering in the throes of a hangover.</p>
-<p><em>That&#x27;s what you get for drinking so much when you can&#x27;t even use healing magic</em>, Roxy thought.</p>
+<p>That&#x27;s what you get for drinking so much when you can&#x27;t even use healing magic, Roxy thought.</p>
 <p>Among the sea of unconscious forms, only two people were standing—an angry barkeep and a disheartened Kishirika.</p>
 <p>&quot;Compensation, I&#x27;m asking for compensation. I can&#x27;t sell nothin&#x27; with all the destruction you all caused.&quot;</p>
 <p>&quot;Yeah, uh, but…&quot;</p>
@@ -105,7 +103,7 @@ nav_title = "Interlude"
 <p>&quot;What? You would dare sell me…?! Wait, wait, I&#x27;ll contact Hagura, just hold on!&quot;</p>
 <p>&quot;I&#x27;m not gonna hold. You&#x27;re just sayin&#x27; that so you can run away.&quot;</p>
 <p>Roxy let out a sigh and dug into her pocket. She made a face when she produced her coin bag and saw the state of it. She&#x27;d donated a hefty portion of her funds when she was drunk last night.</p>
-<p><em>No, the one who actually drank all of that was Talhand</em>, she thought. Roxy turned to the unconscious Talhand and swiped his coin purse. She peered inside, found a decent amount within, and took to her feet. There was a sour smell coming from her shoulder, which she scrunched her face at as she approached the barkeep. &quot;Here&#x27;s your money.&quot;</p>
+<p>No, the one who actually drank all of that was Talhand, she thought. Roxy turned to the unconscious Talhand and swiped his coin purse. She peered inside, found a decent amount within, and took to her feet. There was a sour smell coming from her shoulder, which she scrunched her face at as she approached the barkeep. &quot;Here&#x27;s your money.&quot;</p>
 <p>&quot;Hm?&quot;</p>
 <p>Roxy took out six whole emerald ore coins and tucked them into the barkeep&#x27;s hand.</p>
 <p>&quot;That ain&#x27;t quite enough.&quot;</p>
@@ -114,7 +112,7 @@ nav_title = "Interlude"
 <p>Roxy let out another sigh as she tossed the coin purse onto Talhand&#x27;s belly.</p>
 <p>&quot;Ooh…ooooh…I&#x27;m sorry, I&#x27;m so sorry!&quot; Kishirika was trembling as she looked up at Roxy.</p>
 <p>Roxy looked down at her, remembering what she&#x27;d heard from her old village chief about the Demon World&#x27;s Great Emperor. She was a bit different from what Roxy had pictured, but her peculiarities lined up. If she was from a demon tribe with a long lifespan, it made sense that her physical appearance didn&#x27;t match her age. She seemed to be on good terms with the Demon King of the area, too.</p>
-<p>&quot;Excuse me, just to confirm—I&#x27;m not mistaken in assuming that you are <em>the</em> Great Emperor of the Demon World, Kishirika Kishirisu herself, am I?&quot;</p>
+<p>&quot;Excuse me, just to confirm—I&#x27;m not mistaken in assuming that you are the Great Emperor of the Demon World, Kishirika Kishirisu herself, am I?&quot;</p>
 <p>&quot;Hm? Oh, that&#x27;s right! No one seems to believe me lately, though! And your name is?&quot;</p>
 <p>&quot;Pardon the late introduction,&quot; Roxy said. &quot;I&#x27;m Roxy, of the Biegoya Region&#x27;s Migurd tribe.&quot;</p>
 <p>Kishirika gave an, &quot;Oooh,&quot; when she heard Roxy&#x27;s name. &quot;Roxy? Ohh, I know you! You&#x27;re Rudeus&#x27; master!&quot;</p>
@@ -122,7 +120,7 @@ nav_title = "Interlude"
 <p>&quot;I happened to run into him in Wind Port. That boy was quite entertaining!&quot;</p>
 <p>&quot;Y-you don&#x27;t say…&quot; Roxy wondered suspiciously just what it was that Rudeus had said about her, but she was too scared to ask.</p>
 <p>&quot;Hm, Rudeus helped me in a pinch, and you&#x27;ve shown yourself to be a great teacher. You helped me as well, so let&#x27;s see…why don&#x27;t I give you a reward?&quot;</p>
-<p>Roxy&#x27;s heart leaped when she heard the word <em>reward</em>. The Great Emperor of the Demon World was famous for bestowing demon eyes on people. It was precisely because of that power that she was called <em>Emperor</em> rather than <em>King</em>, and it was that ability which had given her the military strength to launch the Great Human-Demon War.</p>
+<p>Roxy&#x27;s heart leaped when she heard the word reward. The Great Emperor of the Demon World was famous for bestowing demon eyes on people. It was precisely because of that power that she was called Emperor rather than King, and it was that ability which had given her the military strength to launch the Great Human-Demon War.</p>
 <p>Which gave Roxy an idea. &quot;Um, Your Greatness, are you able to look for missing people with your demon eyes?&quot;</p>
 <p>&quot;Yes, I can. There&#x27;s not a person in this world I can&#x27;t find,&quot; Kishirika boasted.</p>
 <p>&quot;All right…then I&#x27;d like you to look for Rudeus and his family. They&#x27;re currently missing,&quot; Roxy said without hesitation. It was a shame to forego receiving a demon eye from Kishirika, but she&#x27;d heard Kishirika&#x27;s Eye of All-Seeing could find anything and anyone, anywhere in the world.</p>
@@ -161,8 +159,7 @@ nav_title = "Interlude"
 <p>&quot;Then we&#x27;ll part ways with you somewhere before then,&quot; Elinalise replied.</p>
 <p>It seemed Elinalise and Talhand didn&#x27;t want to meet Paul. The reason was apparently the huge fight they&#x27;d had when he left, but they wouldn&#x27;t tell her exactly what had happened. Roxy wasn&#x27;t particularly interested, either, so she hadn&#x27;t been all that persistent in asking.</p>
 <p>&quot;Hmm, but Rudeus is pretty far off and all by himself,&quot; Talhand blurted out, pressing his hand to his chin.</p>
-<p>That brought Roxy to a sudden realization. She would head to Millishion from here, and then, most likely, travel alongside Paul to the Begaritt Continent. If she did that, then Rudeus would be left</p>
-<p>alone, unaware of the circumstances, searching the northern part of the Central Continent by himself.</p>
+<p>That brought Roxy to a sudden realization. She would head to Millishion from here, and then, most likely, travel alongside Paul to the Begaritt Continent. If she did that, then Rudeus would be left alone, unaware of the circumstances, searching the northern part of the Central Continent by himself.</p>
 <p>&quot;We need to find some way to let him know,&quot; Elinalise said, concerned.</p>
 <p>But how? The northern part of the Central Continent looked nearby on a map, but it was much further in reality. Roxy fell back into thought. Rudeus was exceptional, but he was still young. It was cruel to leave him to struggle in vain in such a vulnerable period of his life. Whether he reunited with his family or struck out on his own, she at least wanted to tell him that he didn&#x27;t need to search anymore.</p>
 <p>&quot;And that&#x27;s where I come in…du-du-du-dun!&quot;</p>
@@ -194,7 +191,7 @@ nav_title = "Interlude"
 <p>&quot;Why of course I am, honey,&quot; Badi replied in turn.</p>
 <p>&quot;Tsk, you&#x27;re still such a child. I love you and only you.&quot;</p>
 <p>&quot;Heh, I&#x27;m not going to let that make me complacent. I&#x27;ll crush any rivals who appear.&quot;</p>
-<p><em>And you crushing Rudeus would be bad</em>, Roxy thought to herself, but she had a feeling they wouldn&#x27;t listen to her.</p>
+<p>And you crushing Rudeus would be bad, Roxy thought to herself, but she had a feeling they wouldn&#x27;t listen to her.</p>
 <p>&quot;Heh heh heh.&quot;</p>
 <p>&quot;Hahaha.&quot;</p>
 <p>&quot;Ahahahaha! Hahahah! Haha-urk!&quot;</p>
@@ -216,7 +213,7 @@ nav_title = "Interlude"
 <p>&quot;None of that, just listen to me. If there&#x27;s someone you really like, go hard for them. Love is something that can grow afterward.&quot;</p>
 <p>Talhand breathed a sigh at Elinalise&#x27;s words. &quot;You said the same thing to Zenith, didn&#x27;t ya?&quot;</p>
 <p>&quot;I did. That&#x27;s how she got Paul. My teaching is flawless.&quot;</p>
-<p><em>So that&#x27;s it</em>, Roxy thought as she listened in. Paul and Zenith seemed like the ideal husband and wife to her. If it was Elinalise&#x27;s advice that brought them together, then it was advice worth listening to.</p>
+<p>So that&#x27;s it, Roxy thought as she listened in. Paul and Zenith seemed like the ideal husband and wife to her. If it was Elinalise&#x27;s advice that brought them together, then it was advice worth listening to.</p>
 <p>&quot;Very well, Miss Elinalise. If I find such a person, I will &#x27;go hard for them.&#x27;&quot;</p>
 <p>&quot;Of course. I&#x27;ll be sure to tell Rudeus how miserable you were at night, rustling in your bedsheets as you went at it alone.&quot;</p>
 <p>&quot;Wait—why do you know about that? And please don&#x27;t say that. I wasn&#x27;t thinking about Rudy when I did it.&quot;</p>

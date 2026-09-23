@@ -10,11 +10,11 @@ nav_title = "Chapter 4"
 <p><strong>&quot;D</strong>OUBT THE MAN-GOD without opposing him.&quot;</p>
 <p>Those were the words my future self said.</p>
 <p>To be sure, a lot of what the Man-God said had struck me as dubious—especially the part about Orsted wanting to destroy the world, or the world falling apart if he died. I had no way of knowing where the truth ended and the lies began. Safe to say, he hadn&#x27;t been completely honest with me.</p>
-<p>Still, I couldn&#x27;t let myself assume that the parts I <em>wanted</em> to be false were lies. If I jumped to the wrong conclusions, it might come back to bite me somewhere down the line. If nothing else, I had a feeling the Man-God&#x27;s irritation had been real. It seemed like my future self&#x27;s intervention had taken him completely by surprise.</p>
-<p>That said… it had also brought him dangerously close to classifying me as an <em>enemy.</em> At this point, I didn&#x27;t have much of a choice but to do what he told me. Opposing the Man-God just wasn&#x27;t an option here. He could launch all sorts of attacks at me from complete safety. Under those circumstances, there was no way I could protect everyone I cared about.</p>
+<p>Still, I couldn&#x27;t let myself assume that the parts I wanted to be false were lies. If I jumped to the wrong conclusions, it might come back to bite me somewhere down the line. If nothing else, I had a feeling the Man-God&#x27;s irritation had been real. It seemed like my future self&#x27;s intervention had taken him completely by surprise.</p>
+<p>That said… it had also brought him dangerously close to classifying me as an enemy. At this point, I didn&#x27;t have much of a choice but to do what he told me. Opposing the Man-God just wasn&#x27;t an option here. He could launch all sorts of attacks at me from complete safety. Under those circumstances, there was no way I could protect everyone I cared about.</p>
 <p>Better to become his pawn, then.</p>
 <p>I couldn&#x27;t stand the guy, and I didn&#x27;t trust his promises in the slightest. But he was targeting us for a clear reason, and there was a chance he&#x27;d leave us alone once he was no longer in danger.</p>
-<p>The Man-God had ordered me to kill Orsted. Putting the specific details aside, I found his story about my descendants joining forces with the Dragon God to kill him relatively plausible. His goal would be achieved as long as Orsted <em>or</em> I died. This was our one way out.</p>
+<p>The Man-God had ordered me to kill Orsted. Putting the specific details aside, I found his story about my descendants joining forces with the Dragon God to kill him relatively plausible. His goal would be achieved as long as Orsted or I died. This was our one way out.</p>
 <p>I had to protect my family. The Man-God was the one who wanted them dead, but I had no way of getting at him. He could just sit in his big white void, sending an endless stream of danger our way.</p>
 <p>Orsted, on the other hand, existed somewhere in this world. It was hard to imagine I could kill him, of course; in all honesty, I didn&#x27;t even want to try. But from what the Man-God said, there was at least a chance it might work.</p>
 <p>One way or the other, I didn&#x27;t want to see anyone die because I&#x27;d made the wrong choice here.</p>
@@ -45,7 +45,7 @@ nav_title = "Chapter 4"
 <p>&quot;There were comments in Japanese all over the diary. Also, he knew my name from my previous life.&quot;</p>
 <p>&quot;What was it, incidentally?&quot;</p>
 <p>&quot;I don&#x27;t want to say.&quot;</p>
-<p>&quot;Ah. Suit yourself… In any case, are you <em>sure</em> this man was telling the truth?&quot;</p>
+<p>&quot;Ah. Suit yourself… In any case, are you sure this man was telling the truth?&quot;</p>
 <p>&quot;…About what?&quot;</p>
 <p>&quot;His identity, for one thing. Even if he was a time traveler, maybe he was just impersonating you.&quot;</p>
 <p>&quot;His diary was identical to the one I&#x27;d just created, and the first entry was exactly what I&#x27;d been planning to write down for that day.&quot;</p>
@@ -65,14 +65,14 @@ nav_title = "Chapter 4"
 <p>&quot;I didn&#x27;t get any details, but he said that he was going to kill the Man-God, no matter what it took. He also mentioned that it wasn&#x27;t possible right now…&quot;</p>
 <p>So Orsted really was after the Man-God, and he knew he wasn&#x27;t capable of killing him just yet. Was he waiting for my descendants to be born? Or maybe for the fifth and final Dragon General to appear? Either way, the Man-God wanted to stop him before it was too late. It all seemed consistent enough.</p>
 <p>The more I thought about this, the more plausible the Man-God&#x27;s words seemed. Could he really have come up with lies this convincing on the fly? Despite his irritation? It was possible he&#x27;d planned it all out beforehand and simply faked his anger. But I just couldn&#x27;t see myself figuring out which of his claims were false.</p>
-<p>Did it really <em>matter</em> what his real goals were, though? Not right now. Not to me.</p>
+<p>Did it really matter what his real goals were, though? Not right now. Not to me.</p>
 <p>&quot;In any case,&quot; Nanahoshi continued, &quot;why are you coming to me with this? Aren&#x27;t there other people you should have turned to first? It&#x27;s not like I can do anything to help you…&quot;</p>
 <p>&quot;…My future self told me to consult you.&quot;</p>
 <p>&quot;I see… What did he have to say about me, exactly?&quot;</p>
 <p>I found myself at a loss for words. Should I really answer this question? Tell her she might fail at the last moment, and give in to despair? The diary hadn&#x27;t contained any specifics, and my future self had been vague at best…</p>
 <p>Maybe it was better to be honest, though. If she knew there was a good chance of her research failing, she could brace herself for that outcome in advance, and look for ways to avoid it.</p>
 <p>&quot;He said you&#x27;re… probably going to fail at the very last stage of your research.&quot;</p>
-<p>Nanahoshi&#x27;s eyes widened in surprise. After a moment, she pressed her lips together tightly and shook her head. &quot;That&#x27;s not what I was asking. I wanted to know if he explained <em>why</em> you should consult me.&quot;</p>
+<p>Nanahoshi&#x27;s eyes widened in surprise. After a moment, she pressed her lips together tightly and shook her head. &quot;That&#x27;s not what I was asking. I wanted to know if he explained why you should consult me.&quot;</p>
 <p>&quot;Uh, well… I guess you died at some point, so he couldn&#x27;t ask you… but he thought you might know where to find Orsted. He also said you spend a lot more time thinking through stuff, so you might be able to come up with another plan…&quot;</p>
 <p>&quot;Stuff? Like what?&quot;</p>
 <p>&quot;I don&#x27;t know… the Man-God&#x27;s real goals, probably?&quot;</p>
@@ -89,7 +89,7 @@ nav_title = "Chapter 4"
 <p>&quot;Thanks, Nanahoshi.&quot;</p>
 <p>I rose and left Nanahoshi&#x27;s room. As soon I stepped outside, I could feel a weight being lifted off my shoulders. I was experiencing some genuine relief.</p>
 <p>That seemed a little odd. Did I trust Nanahoshi that deeply?</p>
-<p>No, it wasn&#x27;t that, exactly. She was just the one person I could talk to about <em>everything</em>—even the things I couldn&#x27;t tell Sylphie or Roxy. I didn&#x27;t care about her so deeply that I felt the need to hide painful, ugly truths from her. Maybe that was what allowed me to turn to her for help with problems like this.</p>
+<p>No, it wasn&#x27;t that, exactly. She was just the one person I could talk to about everything—even the things I couldn&#x27;t tell Sylphie or Roxy. I didn&#x27;t care about her so deeply that I felt the need to hide painful, ugly truths from her. Maybe that was what allowed me to turn to her for help with problems like this.</p>
 <p>I was a pretty cold person sometimes, wasn&#x27;t I?</p>
 <p>&quot;…&quot;</p>
 <p>I glanced out the hallway window and noticed Ariel, Zanoba, Cliff, Sylphie, and Perugius discussing something or other out in the courtyard. Luke was standing a respectful distance behind them. Sylphie had positioned herself in front of Ariel and was talking directly to Perugius with her head held high. It was hard to believe she&#x27;d ever been that shy, bullied little kid back in Buena Village.</p>
@@ -125,17 +125,17 @@ nav_title = "Chapter 4"
 <p>&quot;Did you figure anything out?&quot; I asked, picking up a random piece of paper as I sat down in the chair at her bedside.</p>
 <p>&quot;I&#x27;m not positive. But based on this diary and what you told me earlier, I&#x27;ve managed to come up with a hypothesis.&quot;</p>
 <p>&quot;Oh? What kind of a hypothesis?&quot;</p>
-<p>&quot;For many years now, I&#x27;ve been asking myself <em>why</em> I was brought here—to this universe, this place, and this specific time.&quot;</p>
+<p>&quot;For many years now, I&#x27;ve been asking myself why I was brought here—to this universe, this place, and this specific time.&quot;</p>
 <p>Did that have anything to do with the topic at hand? I didn&#x27;t see the connection. But it couldn&#x27;t hurt to hear her out.</p>
 <p>&quot;At first, I assumed it wasn&#x27;t just me. I thought my friend must have been brought here as well.&quot;</p>
 <p>&quot;…&quot;</p>
-<p>Should I be asking <em>why</em> she assumed that?</p>
+<p>Should I be asking why she assumed that?</p>
 <p>I already had an idea, though. It involved my very last memories from my previous life. In my attempt to save three high schoolers who were about to be run over by a truck, I&#x27;d pulled one of them to safety, losing my life in the process. Nanahoshi and her other friend hadn&#x27;t been hit, but she was still transported to this world. I could understand why she&#x27;d thought her friend might be here as well. They were standing very close to each other in that moment.</p>
 <p>&quot;But no matter how thoroughly I searched this world, I couldn&#x27;t find him anywhere.&quot;</p>
 <p>&quot;Isn&#x27;t it possible he died immediately upon arrival?&quot;</p>
 <p>&quot;I did consider that. But why would he have died when I survived?&quot;</p>
 <p>Was that why she&#x27;d tagged along with Orsted&#x27;s travels? Was she hoping to find her friend? There was probably more to it than that. &quot;Yeah, I guess you&#x27;re right. Nothing happened to me, either.&quot;</p>
-<p>&quot;Are you <em>certain</em> about that?&quot;</p>
+<p>&quot;Are you certain about that?&quot;</p>
 <p>&quot;Hm…?&quot;</p>
 <p>Now she&#x27;d lost me. I didn&#x27;t remember being in any danger as a kid. In Buena Village, I had Paul and Zenith taking care of me, and things were generally peaceful.</p>
 <p>&quot;Listen. When you told me that your future self had arrived in the past without all of his internal organs, it occurred to me that I might have come here from the future as well.&quot;</p>
@@ -160,10 +160,10 @@ nav_title = "Chapter 4"
 <p>&quot;…And where&#x27;s that supposed to be?&quot;</p>
 <p>&quot;I have no idea, I&#x27;m afraid. But I think this is all part of a balancing process of sorts. After all, the &#x27;mana&#x27; of this world obeys the law of conservation of energy.&quot;</p>
 <p><em>Does it? Huh. That&#x27;s news to me…</em></p>
-<p>&quot;I don&#x27;t have the evidence to back this up…but I imagine many people <em>disappeared</em> in the Displacement Incident. Thousands, or perhaps tens of thousands.&quot;</p>
+<p>&quot;I don&#x27;t have the evidence to back this up…but I imagine many people disappeared in the Displacement Incident. Thousands, or perhaps tens of thousands.&quot;</p>
 <p>&quot;…&quot;</p>
 <p>&quot;Now tell me something. In the immediate aftermath of that incident, did you notice anything wrong with you? Perhaps you were very low on mana for no apparent reason?&quot;</p>
-<p>In the aftermath of that incident, Eris and I had met Ruijerd, and we&#x27;d ended up in the city of Rikarisu, working as adventurers. I didn&#x27;t remember anything strange happening… No, wait. Hadn&#x27;t I felt strangely sluggish in those first few days, as we made our way to Rikarisu? I&#x27;d gotten worn out really easily, too. That <em>was</em> similar to the way it feels when you&#x27;re running out of mana…</p>
+<p>In the aftermath of that incident, Eris and I had met Ruijerd, and we&#x27;d ended up in the city of Rikarisu, working as adventurers. I didn&#x27;t remember anything strange happening… No, wait. Hadn&#x27;t I felt strangely sluggish in those first few days, as we made our way to Rikarisu? I&#x27;d gotten worn out really easily, too. That was similar to the way it feels when you&#x27;re running out of mana…</p>
 <p>&quot;One second, Nanahoshi. If you&#x27;re right about this, why did some people disappear but not others?&quot;</p>
 <p>&quot;Based on what the Man-God told you, I&#x27;d speculate it had something to do with the… strength of their destinies, or what have you. The laws of causality might have protected some people more strongly than others.&quot;</p>
 <p>&quot;What, now you&#x27;re just speculating?&quot;</p>
@@ -172,16 +172,15 @@ nav_title = "Chapter 4"
 <p>…Or maybe I was just slapping a convenient reason on a bunch of random events.</p>
 <p>&quot;Okay, so what&#x27;s the bottom line here? That you came here from the future?&quot;</p>
 <p>&quot;That&#x27;s not the point. It&#x27;s more that… Argh. How am I supposed to explain this?&quot;</p>
-<p>Nanahoshi was practically tearing her hair out in frustration at this point. She seemed to be having a really hard time putting her</p>
-<p>ideas into words. &quot;I&#x27;m guessing that, at some point in the future, something established a… chain of causality leading to the Man-God&#x27;s downfall.&quot;</p>
+<p>Nanahoshi was practically tearing her hair out in frustration at this point. She seemed to be having a really hard time putting her ideas into words. &quot;I&#x27;m guessing that, at some point in the future, something established a… chain of causality leading to the Man-God&#x27;s downfall.&quot;</p>
 <p>&quot;A chain of causality…?&quot;</p>
 <p>&quot;Right. And in order to prevent that future from being realized, the Man-God began to meddle with your life.&quot;</p>
 <p>&quot;Hm…&quot;</p>
 <p>&quot;Think back for a moment, please. When was it that you first encountered him?&quot;</p>
 <p>The first dream had occurred right after the Displacement Incident. But at the time, the Man-God said that he&#x27;d been keeping his eye on me for a while beforehand.</p>
-<p>…Hold on. Yesterday, he&#x27;d claimed he only discovered me <em>during</em> that disaster. It was so hard to pick the truth out of all his lies…</p>
+<p>…Hold on. Yesterday, he&#x27;d claimed he only discovered me during that disaster. It was so hard to pick the truth out of all his lies…</p>
 <p>&quot;Did you remember seeing anything odd in the period before the Displacement Incident?&quot;</p>
-<p><em>Before</em> the incident? Uh… actually, maybe so. I&#x27;d seen that strange red gem floating in the sky outside Sauros&#x27; sex tower back in Fittoa…</p>
+<p>Before the incident? Uh… actually, maybe so. I&#x27;d seen that strange red gem floating in the sky outside Sauros&#x27; sex tower back in Fittoa…</p>
 <p>&quot;Looks like something came to mind. Do you know when this oddity first came into existence?&quot;</p>
 <p>How was I supposed to know that?</p>
 <p>No, wait… didn&#x27;t Sauros say something about this at the time?</p>
@@ -190,30 +189,30 @@ nav_title = "Chapter 4"
 <p>&quot;Did anything happen to you at that age? Did you meet anyone important?&quot;</p>
 <p>&quot;Well, I guess that was when I got to know Sylphie. But that&#x27;s the only thing that comes to mind…&quot;</p>
 <p>Suddenly, a few pieces of the puzzle snapped together.</p>
-<p>At the age of five, I met Sylphie, and we grew close. As a direct result of that, Paul sent me off to Fittoa, where I met Eris. On my tenth birthday, Eris and I were very nearly intimate. And the <em>next day,</em> the Displacement Incident had occurred. Immediately after that, the Man-God got in touch with me.</p>
+<p>At the age of five, I met Sylphie, and we grew close. As a direct result of that, Paul sent me off to Fittoa, where I met Eris. On my tenth birthday, Eris and I were very nearly intimate. And the next day, the Displacement Incident had occurred. Immediately after that, the Man-God got in touch with me.</p>
 <p>Was that the exact point when a future where he died came to be?</p>
-<p>&quot;Originally, you weren&#x27;t <em>meant</em> to exist in this world. Correct?&quot;</p>
+<p>&quot;Originally, you weren&#x27;t meant to exist in this world. Correct?&quot;</p>
 <p>&quot;Sure.&quot;</p>
 <p>&quot;Why do you think you were reincarnated in it, then?&quot;</p>
 <p>&quot;How am I supposed to know?&quot;</p>
 <p>&quot;I think it happened for a reason, personally.&quot;</p>
 <p>&quot;Uh… what reason?&quot;</p>
 <p>&quot;Someone sent us here, Rudeus. Both of us. They sent us to this era as a means to change the future.&quot;</p>
-<p>&quot;Who is this <em>someone</em> supposed to be?&quot;</p>
+<p>&quot;Who is this someone supposed to be?&quot;</p>
 <p>&quot;Someone from the future, who wanted very much to see the Man-God die.&quot;</p>
-<p>This was starting to make my head hurt. Was she implying we were all puppets, dancing on the strings of someone who wasn&#x27;t even <em>born</em> yet?</p>
+<p>This was starting to make my head hurt. Was she implying we were all puppets, dancing on the strings of someone who wasn&#x27;t even born yet?</p>
 <p>&quot;I can&#x27;t make any sense of this, Nanahoshi. What are you getting at here?&quot;</p>
 <p>&quot;I think that you and I are necessary parts of a world in which the Man-God one day dies.&quot;</p>
 <p>&quot;It&#x27;s possible that these descendants of yours summoned me here in order to create some tool or weapon they needed to destroy the Man-God. And until I play my part by doing so, I can&#x27;t return to my old world. Anything I try will fail.&quot;</p>
 <p>&quot;How does that make any sense?&quot;</p>
-<p>&quot;I was brought here <em>because</em> I have to make that tool someday. Essentially, I&#x27;m a walking time paradox.&quot;</p>
+<p>&quot;I was brought here because I have to make that tool someday. Essentially, I&#x27;m a walking time paradox.&quot;</p>
 <p><em>All right. Let&#x27;s see if I can sort out what she&#x27;s saying here.</em></p>
 <p>The Man-God was going to die at the hands of Orsted and my descendants, who would join forces in the future. For that to happen, I needed to have children.</p>
 <p>From the moment I met Sylphie as a child, the two of us were destined to get married and have a baby. The same probably went for Roxy, judging from the Man-God&#x27;s focus on her. Maybe it even applied to Eris, since the Displacement Incident had occurred right after we&#x27;d nearly done some naughty things.</p>
 <p>In the future where my family was wiped out, the Man-God was victorious. But it wasn&#x27;t enough for my descendants to join up with Orsted, either. They probably needed something else—something Nanahoshi would one day create. And that was why she&#x27;d been summoned here, ten years after I had.</p>
 <p>In other words, we hadn&#x27;t just been summoned, but sent back in time as well.</p>
 <p>Maybe someone had done this intentionally. Maybe it was some strange byproduct of the principles of causality. We had no way of knowing from our end. But if Nanahoshi&#x27;s hypothesis was correct, we&#x27;d reached this world as the result of actions taken by someone in the future.</p>
-<p>Did that mean those events had happened <em>before</em> we came here? Had the future come before the past? Did the chicken come before the egg? Well, whatever.</p>
+<p>Did that mean those events had happened before we came here? Had the future come before the past? Did the chicken come before the egg? Well, whatever.</p>
 <p>&quot;All right. I think I understand your hypothesis.&quot;</p>
 <p>&quot;That&#x27;s good to hear. Sorry I&#x27;m so clumsy at explaining these things.&quot;</p>
 <p>It was an interesting theory, to be sure. But it wasn&#x27;t a very reassuring one. &quot;Basically, it means the Man-God was probably telling the truth. My descendants really will team up with Orsted to kill him someday.&quot;</p>
@@ -227,13 +226,13 @@ nav_title = "Chapter 4"
 <p>&quot;Stop, Nanahoshi. The Man-God might be listening in on this conversation right now, for all I know.&quot;</p>
 <p>Biting her lip, Nanahoshi glanced at the ceiling.</p>
 <p><em>Sorry, wrong direction. The barren world&#x27;s below us.</em></p>
-<p>&quot;This destiny thing is an abstract concept. I can&#x27;t see it, and I can&#x27;t count on it. My destiny might be strong, but that didn&#x27;t protect my father or my mother. I&#x27;m not saying the Man-God will do anything to me right away, but he can see the future<em>.</em> If he realizes I&#x27;m going to betray him, I might come back home to find Aisha dead. Or he could set up some tragedy to happen a few years down the line.&quot;</p>
+<p>&quot;This destiny thing is an abstract concept. I can&#x27;t see it, and I can&#x27;t count on it. My destiny might be strong, but that didn&#x27;t protect my father or my mother. I&#x27;m not saying the Man-God will do anything to me right away, but he can see the future. If he realizes I&#x27;m going to betray him, I might come back home to find Aisha dead. Or he could set up some tragedy to happen a few years down the line.&quot;</p>
 <p>&quot;…But the Man-God can&#x27;t manipulate everyone, right?&quot;</p>
 <p>&quot;I&#x27;m not so sure about that. Who knows exactly what he&#x27;s capable of? I wouldn&#x27;t be surprised if he&#x27;s been playing down his powers.&quot;</p>
 <p>&quot;I suppose you&#x27;re right.&quot;</p>
 <p>&quot;And anyway, it&#x27;s not like Orsted has a chance to beat him right now. Assuming the Man-God isn&#x27;t lying, he needs my descendants to help him out, or else he&#x27;s going to fail.&quot;</p>
 <p>&quot;Yes, that&#x27;s true. Assuming the Man-God isn&#x27;t lying.&quot;</p>
-<p>&quot;I have to protect my family. The Man-God is the one who&#x27;s trying to kill them, but I have no way to fight him. At least Orsted&#x27;s somewhere on this planet. I don&#x27;t know <em>where</em>, but there&#x27;s at least a chance to find him.&quot;</p>
+<p>&quot;I have to protect my family. The Man-God is the one who&#x27;s trying to kill them, but I have no way to fight him. At least Orsted&#x27;s somewhere on this planet. I don&#x27;t know where, but there&#x27;s at least a chance to find him.&quot;</p>
 <p>&quot;There&#x27;s no guarantee the Man-God will keep his word, you know?&quot;</p>
 <p>&quot;Orsted is the Dragon God. Based on my diary, he&#x27;s probably the only one who knows about the secret art to reach the barren world. If I kill him, that knowledge will be lost. The Man-God won&#x27;t have any reason to come after my family.&quot;</p>
 <p>&quot;You know, even if Orsted dies, there&#x27;s a chance your descendants will find a way there on their own…&quot;</p>
@@ -241,14 +240,14 @@ nav_title = "Chapter 4"
 <p>My words came out more loudly than I&#x27;d expected. I hadn&#x27;t meant to yell at her. Nanahoshi flinched, but pressed on with her argument regardless.</p>
 <p>&quot;Talk to Orsted, like I said. He might be able to help you out of this.&quot;</p>
 <p>&quot;You think I didn&#x27;t consider this already?! Look, if I joined forces with Orsted, I&#x27;d be making a permanent enemy of the Man-God. You know what happens if I try to fight him on my own? Well, look at that diary! I don&#x27;t stand a chance. This time I&#x27;d have Orsted on my side,</p>
-<p>but what does that change? He can&#x27;t win either! The only reason he had a chance is because of me showing up and throwing things out of whack, right? That&#x27;s the whole reason the Man-God is coming after me! Orsted&#x27;s fighting a losing battle right now—you think he&#x27;s going to have the time and energy to help protect my entire family? Is he <em>that</em> powerful? You want me to make an enemy of the Man-God before I even know—&quot;</p>
+<p>but what does that change? He can&#x27;t win either! The only reason he had a chance is because of me showing up and throwing things out of whack, right? That&#x27;s the whole reason the Man-God is coming after me! Orsted&#x27;s fighting a losing battle right now—you think he&#x27;s going to have the time and energy to help protect my entire family? Is he that powerful? You want me to make an enemy of the Man-God before I even know—&quot;</p>
 <p>&quot;But… But Orsted is more trustworthy than the Man-God.&quot;</p>
 <p>&quot;How can I know that for sure? Sounds like he might be trying to destroy the world. I mean, I&#x27;m not saying I believe that completely… but, look, the Man-God was deceiving me. He pretended to be helping me out for years and years. What if Orsted did the same to you?&quot;</p>
 <p>&quot;Well, I… can&#x27;t deny it&#x27;s possible, at least.&quot;</p>
 <p>I paused to study Nanahoshi&#x27;s face. There was a hint of fear in her eyes.</p>
 <p>&quot;I don&#x27;t trust the Man-God,&quot; I said quietly. &quot;but I can&#x27;t trust Orsted either.&quot;</p>
 <p>I knew how powerless I really was. I could believe what my future self had told me—that I didn&#x27;t stand a chance against the Man-God. I could imagine, in vivid detail, following in that old man&#x27;s footsteps. I could see myself losing everything I cared about, and dying a miserable death.</p>
-<p>It was hard for me to be optimistic about fighting Orsted, either. The only outcome I could picture was an ugly, brutal defeat. But the Man-God did say my destiny was strong. Maybe he&#x27;d seen a future in which I <em>could</em> win this fight, somehow.</p>
+<p>It was hard for me to be optimistic about fighting Orsted, either. The only outcome I could picture was an ugly, brutal defeat. But the Man-God did say my destiny was strong. Maybe he&#x27;d seen a future in which I could win this fight, somehow.</p>
 <p>That was my last ray of hope.</p>
 <p>&quot;Listen, Nanahoshi. My future self told me to consult you. I&#x27;m guessing that means you know some way of getting in touch with Orsted.&quot;</p>
 <p>&quot;…Well, yes.&quot;</p>
@@ -269,7 +268,7 @@ nav_title = "Chapter 4"
 <p>The floating fortress&#x27; floors were cold and hard.</p>
 <p>&quot;For all I know, the Man-God could have a change of heart tomorrow. I don&#x27;t want to waste any time. I don&#x27;t want to come home one day and find my family lying dead on the ground…&quot;</p>
 <p>&quot;What are you doing?! Stop it!&quot;</p>
-<p>&quot;I don&#x27;t want to lose <em>any</em> of them. Please.&quot;</p>
+<p>&quot;I don&#x27;t want to lose any of them. Please.&quot;</p>
 <p>Nanahoshi got out of bed. She grabbed my shoulder and forcibly pulled my head off the ground. &quot;Okay… okay, I&#x27;ll help you. Just… stop doing that…&quot;</p>
 <p>There was exhaustion and sadness on her face. I felt a small stab of guilt. At the same time, though, a part of me was dancing with joy.</p>
 <p><em>Sometimes I kind of hate myself.</em></p>

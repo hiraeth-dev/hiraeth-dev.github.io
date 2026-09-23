@@ -8,7 +8,7 @@ nav_title = "Chapter 5"
 +++
 
 <p><strong>W</strong>HEN I ARRIVED at the floating fortress, Ariel was out in the garden having a tea party. Sylvaril was serving, but Perugius was nowhere in sight. Instead, Nanahoshi was the one sitting across from Her Highness.</p>
-<p><em>She must not feel very worried about her situation if she can have a tea party,</em> I thought, but just as quickly, I realized I was mistaken. Ariel wore the exhausted face of an overworked salaryman.</p>
+<p>She must not feel very worried about her situation if she can have a tea party, I thought, but just as quickly, I realized I was mistaken. Ariel wore the exhausted face of an overworked salaryman.</p>
 <p><em>Huh, matches perfectly with the exhaustion I saw on Luke&#x27;s face.</em></p>
 <p>Ariel put effort into pasting an elegant smile on her face, but she couldn&#x27;t hide the circles under her eyes. She must be feeling cornered. The way she eyed Nanahoshi screamed, &quot;Come on, ask me what&#x27;s wrong. Ask me!&quot;</p>
 <p>Nanahoshi ignored her completely. In fact, she seemed uncomfortable just sitting there. She wouldn&#x27;t outright refuse an invitation to have tea, but at the same time, it was clear she didn&#x27;t want to be dragged into the messy situation between Ariel and Perugius.</p>
@@ -43,23 +43,23 @@ nav_title = "Chapter 5"
 <p>&quot;Although, it does feel quite good to relieve yourself in front of people…&quot;</p>
 <p>&quot;Pardon?&quot;</p>
 <p>&quot;Lady Ariel!&quot; Sylphie scolded.</p>
-<p><em>I&#x27;m pretty sure she just talked about enjoying water sports, but I&#x27;ll pretend I didn&#x27;t hear that.</em> Asura&#x27;s upper crust seemed to be full of perverts. There was something incredibly immoral about hearing a girl so classically picturesque talk about golden showers.</p>
+<p>I&#x27;m pretty sure she just talked about enjoying water sports, but I&#x27;ll pretend I didn&#x27;t hear that. Asura&#x27;s upper crust seemed to be full of perverts. There was something incredibly immoral about hearing a girl so classically picturesque talk about golden showers.</p>
 <p>&quot;Rudy! Wipe that depraved grin off your face! You&#x27;re in front of the princess,&quot; Sylphie cried.</p>
 <p>&quot;Yes, ma&#x27;am.&quot; I put a hand over my mouth. Did my face betray my thoughts so easily? Sure, I was a pervert, but I was really only interested in seeing the girls I liked doing erotic things. Like Sylphie, for example. Not that I was going to ask her to pee in front of me. I didn&#x27;t want her to hate me.</p>
 <p>&quot;Ugh.&quot; Nanahoshi wrinkled her nose, clearly disgusted, but I decided to ignore her.</p>
 <p>&quot;Ahem.&quot; Ariel cleared her throat. &quot;At any rate, Lord Rudeus, it made perfect sense to me when I heard you were working under Lord Orsted.&quot;</p>
 <p>&quot;Oh? Why&#x27;s that?&quot;</p>
 <p>&quot;Because I believe it would take someone as powerful as him to be able to control someone like you.&quot;</p>
-<p><em>Really? I don&#x27;t think it takes much to control me.</em> All Sylphie had to do when we were in bed at night was say, &quot;Hey, Rudy, I have a favor to ask,&quot; and I&#x27;d wag my tail like a dog, ready to do whatever. To be clear, I was <em>not</em> expecting that kind of stuff from Ariel. All I needed from her was cold, hard cash. After all, I was the type of man who worked for two things: money and women.</p>
+<p>Really? I don&#x27;t think it takes much to control me. All Sylphie had to do when we were in bed at night was say, &quot;Hey, Rudy, I have a favor to ask,&quot; and I&#x27;d wag my tail like a dog, ready to do whatever. To be clear, I was not expecting that kind of stuff from Ariel. All I needed from her was cold, hard cash. After all, I was the type of man who worked for two things: money and women.</p>
 <p>Anyway, it was about time we stopped beating around the bush. I was here to talk about cooperation, not chat about Orsted.</p>
-<p>&quot;When you say <em>someone powerful</em>, don&#x27;t you also mean someone like yourself, Princess Ariel?&quot; I asked, playing coy.</p>
+<p>&quot;When you say someone powerful, don&#x27;t you also mean someone like yourself, Princess Ariel?&quot; I asked, playing coy.</p>
 <p>Ariel put a hand over her mouth and narrowed her eyes. &quot;Oh? I didn&#x27;t realize you flattered people like that.&quot;</p>
 <p>It wasn&#x27;t meant as flattery. Even though I had become desensitized to such titles as of late, Ariel was still the princess of Asura Kingdom. In the terms of my previous life, she was somewhat similar to the crown prince of England in status. One might catch a glimpse of her at official ceremonies, but speaking directly to her was out of the question, let alone being able to sit with her at a table like this. That was how important she was.</p>
 <p>Her status aside, Ariel had been hard at work increasing her influence. Almost every person in a key position in Sharia had some connection with her. There were the principal and vice principal of the academy, the top brass of the Magicians&#x27; Guild, the head of the magical implement workshop, the top administrator of a company, and the branch leader of the local Adventurers&#x27; Guild. Those were the connections I personally knew about. One could invoke her name and expect favorable treatment just about anywhere you went. It was no exaggeration to say her influence could be felt at the top levels of Sharia&#x27;s key industries.</p>
 <p>In short, she didn&#x27;t lack for connections. She had plenty of power.</p>
 <p>&quot;I did entertain the idea of having you as my subordinate,&quot; said Ariel.</p>
 <p>&quot;You did, did you?&quot;</p>
-<p>&quot;I gave up on that idea quickly. For a number of reasons, but chiefly because your power is too much for me to handle.&quot; She glanced to the side. Beyond the stunning garden was an expanse of white clouds and open sky, extending into the far distance. She stared off in that direction as she mumbled to herself, <em>&quot;You hold power beyond yourself. It will be the end of you.&quot;</em></p>
+<p>&quot;I gave up on that idea quickly. For a number of reasons, but chiefly because your power is too much for me to handle.&quot; She glanced to the side. Beyond the stunning garden was an expanse of white clouds and open sky, extending into the far distance. She stared off in that direction as she mumbled to herself, &quot;You hold power beyond yourself. It will be the end of you.&quot;</p>
 <p>For a moment, I thought she was talking to me, but I was mistaken.</p>
 <p>Ariel turned her attention back toward me and explained, &quot;When I was younger, I saw a play in the palace. That was a quote from the Great Demon Empress Kishirika Kishirisu.&quot;</p>
 <p>I was pretty sure she&#x27;d never said that. It was probably a line someone else had come up with. The little girl I&#x27;d met would never be capable of saying a line that clever.</p>
@@ -70,13 +70,12 @@ nav_title = "Chapter 5"
 <p>&quot;That play is always performed when one of the royal family celebrates an important milestone in their life.&quot;</p>
 <p>These milestones were one&#x27;s fifth, tenth, and fifteenth birthdays. In Asura Kingdom, these occasions were always celebrated with grand parties. The royal family apparently staged a play as well.</p>
 <p>&quot;It deviates from history,&quot; Ariel acknowledged, &quot;but I&#x27;m told it highlights the frame of mind a royal should have.&quot;</p>
-<p><em>So it&#x27;s not historically accurate, as I suspected.</em> That wasn&#x27;t surprising. It was completely different from the history I knew. The Golden Knight Aldebaran and Kishirika Kirisu had struck each other down in battle. Wait, no, perhaps I was thinking of the showdown between Demonic Dragon King Laplace and the Fighting God.</p>
+<p>So it&#x27;s not historically accurate, as I suspected. That wasn&#x27;t surprising. It was completely different from the history I knew. The Golden Knight Aldebaran and Kishirika Kirisu had struck each other down in battle. Wait, no, perhaps I was thinking of the showdown between Demonic Dragon King Laplace and the Fighting God.</p>
 <p><em>Oh, well, it&#x27;s not that important.</em></p>
 <p>&quot;What frame of mind is that?&quot; I asked.</p>
 <p>&quot;The key tenets of what makes a king: fighting, winning, and ruling over one&#x27;s subjects.&quot;</p>
 <p>I furrowed my brow.</p>
-<p>&quot;However, if that&#x27;s truly all there is to it, why did Aldebaran&#x27;s people betray and kill him? Was the king who had this play written trying to curse the generation that came after him? When I was</p>
-<p>younger, I couldn&#x27;t help having these doubts. It was only when I turned fifteen that I suddenly realized. &#x27;You hold power beyond yourself. It will be the end of you.&#x27; These words perfectly summed up the core message.&quot;</p>
+<p>&quot;However, if that&#x27;s truly all there is to it, why did Aldebaran&#x27;s people betray and kill him? Was the king who had this play written trying to curse the generation that came after him? When I was younger, I couldn&#x27;t help having these doubts. It was only when I turned fifteen that I suddenly realized. &#x27;You hold power beyond yourself. It will be the end of you.&#x27; These words perfectly summed up the core message.&quot;</p>
 <p>She paused, and glanced off into the distance again as she continued, &quot;Too much power will lead one down the path of destruction. Thus, one should only wield as much power as they can control. If one wants to become king, they must be able to master everything they have at their disposal. Even now, I still believe that to be true.&quot;</p>
 <p>Ariel hung her head, her long lashes casting shadows over her cheeks. &quot;I&#x27;m perfectly aware that you and Lord Perugius are both more than I can handle.&quot; She wore her usual soft smile, but it looked like she was on the verge of tears. &quot;I&#x27;m going to ask Lord Perugius for his help one more time, but if he refuses me, I think I will give up on trying to convince him.&quot;</p>
 <p>&quot;You&#x27;re going to give up?&quot; I asked.</p>
@@ -104,7 +103,7 @@ nav_title = "Chapter 5"
 <p>&quot;The two of them said that…?&quot; she mumbled.</p>
 <p>&quot;I didn&#x27;t come here to look condescendingly down upon you, scoffing about how you need my help. In fact, it&#x27;s just the opposite.&quot; I wondered how she would have reacted to me suddenly grabbing her hand and saying all this if she were her normal, confident self. &quot;Won&#x27;t you please let me work alongside you?&quot;</p>
 <p>A tear fell from Ariel&#x27;s eyes. It was beautiful. Yet strangely, I found it surprising that she would cry.</p>
-<p><em>Why is that?</em> I wondered.</p>
+<p>Why is that? I wondered.</p>
 <p>Ariel quickly wiped her tears with her free hand. She forced a smile and said, &quot;This is the first time I&#x27;ve ever heard a pick-up line that managed to shake me to my core.&quot; It was clear she wasn&#x27;t joking around; she&#x27;d schooled her expression, her cheeks weren&#x27;t blushing, and she wasn&#x27;t crying anymore either. She looked every bit the dignified princess.</p>
 <p>&quot;I admit, I would be grateful for the assistance,&quot; Arielle said, nodding. &quot;However…&quot; She lowered her chin and studied me closely, trying to suss out my intentions. &quot;You are Lord Orsted&#x27;s subordinate now, yes? Will he really allow you to do such a thing?&quot;</p>
 <p>&quot;I have already spoken with him about it,&quot; I assured her.</p>
@@ -119,8 +118,7 @@ nav_title = "Chapter 5"
 <p>&quot;If we&#x27;re going to make you king, we could enlist Lord Orsted&#x27;s help in the matter…but frankly, he doesn&#x27;t hold much sway in Asura Kingdom. I don&#x27;t think he would be much help to you,&quot; I said, prefacing my main point. &quot;As such, I think Lord Perugius&#x27;s help will be crucial.&quot;</p>
 <p>&quot;Agreed,&quot; Ariel said solemnly, sitting up straighter in her chair.</p>
 <p>Perhaps I was only imagining it, but Sylphie and Luke looked more serious now than they had a few minutes ago.</p>
-<p>Orsted had also mentioned that convincing Perugius to support Ariel was paramount, which only further reinforced how much</p>
-<p>authority Perugius held in Asura. The problem was how to go about persuading him.</p>
+<p>Orsted had also mentioned that convincing Perugius to support Ariel was paramount, which only further reinforced how much authority Perugius held in Asura. The problem was how to go about persuading him.</p>
 <p><em>Perugius posed a question to us before, which was…</em></p>
 <p>&quot;What is the most important quality a king must have? If you can bring me that answer yourself, then I will give you my support,&quot; I said, reciting what I remembered of our previous conversation with Perugius.</p>
 <p>Ariel&#x27;s eyes twitched. She had racked her brain over and over for the answer to that question.</p>
@@ -139,13 +137,13 @@ nav_title = "Chapter 5"
 <p>Ah, so they&#x27;d already tried that route. That made sense. Perugius&#x27;s relationship with Gaunis was known far and wide. It would be stranger if they hadn&#x27;t followed that lead.</p>
 <p>&quot;If we could check the national library in Asura, there might be something he published that might give us better insight, but…&quot;</p>
 <p>True, the best place to find information on an Asuran king would be in the kingdom&#x27;s library. But for obvious reasons, we&#x27;d find it difficult to pay a visit to the place right now.</p>
-<p>&quot;Well, that <em>is</em> troubling,&quot; I said. &quot;In that case…&quot;</p>
+<p>&quot;Well, that is troubling,&quot; I said. &quot;In that case…&quot;</p>
 <p>Perhaps it would be better to ask about Derrick instead. How would I make such an inquiry, though? They would all find it strange that I even knew about him to begin with.</p>
 <p>&quot;Um, before we discuss this any further…&quot; Ariel glanced briefly at Sylvaril. &quot;Are you sure this is all right? Lord Perugius can hear everything we&#x27;re saying.&quot;</p>
 <p>I tilted my head. &quot;And? I suspect he finds the whole thing entertaining.&quot;</p>
 <p>&quot;I worry that he may not permit us to discuss this matter as a group,&quot; Ariel explained.</p>
-<p><em>Ah, that&#x27;s what she means.</em> Ariel thought he might want her to think on it and come up with an answer on her own. I, on the other hand, wasn&#x27;t so sure that was his aim.</p>
-<p>I glanced at Sylvaril. She fluttered her wings gently before saying, &quot;It matters not to Lord Perugius how you arrive at your answer. If it is the correct one, he will lend you his support.&quot; The words were left unspoken, but her tone said it all: <em>That should be a given. He is, after all, a very magnanimous person.</em></p>
+<p>Ah, that&#x27;s what she means. Ariel thought he might want her to think on it and come up with an answer on her own. I, on the other hand, wasn&#x27;t so sure that was his aim.</p>
+<p>I glanced at Sylvaril. She fluttered her wings gently before saying, &quot;It matters not to Lord Perugius how you arrive at your answer. If it is the correct one, he will lend you his support.&quot; The words were left unspoken, but her tone said it all: That should be a given. He is, after all, a very magnanimous person.</p>
 <p>&quot;Do you mean to say that I should have consulted others from the very beginning?&quot; Ariel asked.</p>
 <p>Sylvaril nodded. &quot;In fact, Lord Perugius was deeply puzzled as to why you were trying to solve it on your own to begin with.&quot;</p>
 <p>Ariel smiled bitterly. &quot;I backed myself into a corner by overthinking it, I see.&quot; She muttered to herself, then stood up, her spirits renewed. She lifted her arms, catching her blonde hair on the way up. It fell back across her shoulders as she stretched, hands clasped in the air. She then cracked her neck and clapped her cheeks.</p>
@@ -206,7 +204,7 @@ nav_title = "Chapter 5"
 <p>&quot;At the time, my behavior was not befitting one worthy of sitting upon the throne. I lived an indolent lifestyle. I didn&#x27;t even dream about becoming king… That was when the Displacement Incident happened. A beast suddenly appeared, and Derrick died protecting me. His last wish was that I become king. That was why I started down this path.&quot;</p>
 <p>&quot;…I see.&quot;</p>
 <p>Nothing she described told me about his frame of mind or what he was striving for, which was unfortunate because she had told me more than enough about the thirteen that died on her journey here. This conversation hadn&#x27;t yielded any hints either.</p>
-<p><em>There has to be something,</em> I thought. <em>Some way to draw out the information I need…</em></p>
+<p>There has to be something, I thought. Some way to draw out the information I need…</p>
 <p>As I was humming to myself, contemplating a solution, someone suddenly spoke up.</p>
 <p>&quot;Come to think of it, he never doubted that Princess Ariel would be the next king. He took every opportunity he could to suggest that she should take the throne,&quot; Luke said. He struck a sultry pose, putting his hand to his chin as he recalled what he knew. &quot;Perhaps he knew the answer—knew what makes one a true king. That would explain why he was so confident that she would become king, because he knew she possessed that quality.&quot;</p>
 <p><em>Good job, Luke!</em></p>

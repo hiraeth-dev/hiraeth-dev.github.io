@@ -12,13 +12,13 @@ nav_title = "Chapter 6"
 <p>At the very heart of the city stand the ruins of Castle Kishirisu, half-destroyed during the events of the Laplace War. Imposingly thick outer walls surround the broken black-and-gold castle itself, a sight that offers visitors a constant reminder of the Empress&#x27;s faded glory and demonkind&#x27;s violent, painful past.</p>
 <p>Rikarisu is a storied city. A place rich with history.</p>
 <p><em>And when the sun sets, visitors will come to appreciate its true beauty.</em></p>
-<p>&gt; —Excerpt from <em>Wandering the World</em> by the adventurer Bloody Kant</p>
+<p>&gt; —Excerpt from Wandering the World by the adventurer Bloody Kant</p>
 <p>Those words were the sum total of what I knew about the city of Rikarisu, which we&#x27;d now arrived at.</p>
 <p>There were only three entrances to the city, all of which were cracks in the rim of the crater. The walls of the crater were surprisingly tall. Unless you could fly, it&#x27;d be difficult to make your way over them.</p>
 <p>A pair of armed guards were stationed outside each of the entrances. They evidently took their security seriously here.</p>
 <p>I shot a thoughtful look over at Ruijerd.</p>
 <p>&quot;What is it, Rudeus?&quot;</p>
-<p>&quot;Ruijerd…we <em>can</em> get into this city, right?&quot;</p>
+<p>&quot;Ruijerd…we can get into this city, right?&quot;</p>
 <p>&quot;I&#x27;ve never set foot in it myself. They always chase me off.&quot;</p>
 <p>Humankind feared and loathed the Superd on an almost primal level. That much had been obvious just from Eris&#x27;s initial reaction. I&#x27;d been hoping it might be a little different with other demons, but…based on what I&#x27;d heard back in the Migurd village, that was probably just wishful thinking.</p>
 <p>&quot;Just curious, but what does chasing you off usually involve?&quot;</p>
@@ -36,7 +36,7 @@ nav_title = "Chapter 6"
 <p>&quot;Halt!&quot;</p>
 <p>There were two soldiers guarding the gate we approached. One was a stern-looking man with the head of a snake; the other a cockylooking guy with the head of a pig.</p>
 <p>&quot;Who are you people?! What business d&#x27;you have here?!&quot; shouted Snake-Face, one hand already on the sword at his hip.</p>
-<p>Pig-Head, on the other hand, was busy silently leering at Eris. <em>Damn dirty animal… You better not do anything funny, or else!</em></p>
+<p>Pig-Head, on the other hand, was busy silently leering at Eris. Damn dirty animal… You better not do anything funny, or else!</p>
 <p>As we&#x27;d decided beforehand, I stepped forward to do the talking. &quot;Hi there. We&#x27;re a group of travelers.&quot;</p>
 <p>&quot;You adventurers or what?&quot;</p>
 <p>&quot;Y—uh, no. Just ordinary travelers.&quot; I&#x27;d very nearly answered &quot;yes,&quot; but we didn&#x27;t have anything to back up a claim like that. Then again, Eris and I were obviously pretty young, so we probably could have passed as wannabe adventurers trying to get started…</p>
@@ -66,7 +66,7 @@ nav_title = "Chapter 6"
 <p>&quot;Ooh! Yes, of course! Let&#x27;s be adventurers!&quot; The girl&#x27;s eyes were actually shining with excitement. No surprise there, really…she&#x27;d always loved listening to Ghislaine&#x27;s tales of the glory days.</p>
 <p>&quot;Are you already an adventurer or anything, Ruijerd?&quot;</p>
 <p>&quot;No. I&#x27;ve never set foot in a city large enough to have a guild before.&quot;</p>
-<p><em>Ah, right.</em> They probably didn&#x27;t bother setting up shop in every random little village.</p>
+<p>Ah, right. They probably didn&#x27;t bother setting up shop in every random little village.</p>
 <p>&quot;Okay. I think that&#x27;s more convenient for us, anyway…&quot;</p>
 <p>A plan of sorts was beginning to take shape inside my mind.</p>
 <p>We couldn&#x27;t expect Ruijerd to wear that big, heavy lump of a helmet forever. And if we kept his face hidden, he&#x27;d never get a chance to improve the reputation of his people. We could always try to accomplish something great right off the bat, then start spreading rumors that a Superd warrior was responsible…but as rookie adventurers, we&#x27;d probably be running errands inside the city for the moment. Solving little problems for ordinary people might actually be the better approach. After all, it was the last thing anyone would expect from a &quot;bloodthirsty killer.&quot; If we kept at it diligently enough, we might build up some trust from the people in this city at least.</p>
@@ -74,7 +74,7 @@ nav_title = "Chapter 6"
 <p>That said…if we wanted to get him a reputation for helping people, the helmet was going to be an issue. I&#x27;d have a hard time trusting someone who hid his face personally. Maybe we could switch to something that only covered his hair and forehead? Nah, that probably wasn&#x27;t good enough. Social etiquette might be a little different in this world, but keeping your headgear on constantly sounded pretty rude to me.</p>
 <p>Still, scraping away anonymously at tiny jobs wasn&#x27;t going to get us anywhere. We had to make the whole city aware of Ruijerd&#x27;s presence, and we had to convince them it was a positive thing.</p>
 <p>&quot;But how the heck do we do that…?&quot;</p>
-<p>First and foremost, he needed to become <em>recognizable</em>. No matter how many good deeds he did, we&#x27;d never make progress if they were all attributed to some &quot;unknown adventurer.&quot; Maybe it really would be best to start off by slaying a big monster or two? Just to get people to remember his name…</p>
+<p>First and foremost, he needed to become recognizable. No matter how many good deeds he did, we&#x27;d never make progress if they were all attributed to some &quot;unknown adventurer.&quot; Maybe it really would be best to start off by slaying a big monster or two? Just to get people to remember his name…</p>
 <p>Strength counted for a great deal in this world. Bringing down a truly fearsome beast could potentially give our little group a slight boost in social standing. Of course, everyone already knew the Superd were incredibly powerful fighters, so there was also a chance it could backfire…</p>
 <p>No, wait. What if the city was in imminent danger or something? Like, some giant monster&#x27;s rampaging through the streets, everyone&#x27;s cowering in terror, and the Sexy Demon Hero Ruijerd jumps in to the rescue! With dramatic music blaring in the background!</p>
 <p><em>Ooh. That could totally work.</em></p>
@@ -146,9 +146,9 @@ nav_title = "Chapter 6"
 <p>&quot;What do you mean? You don&#x27;t need to tell any lies, Ruijerd.&quot;</p>
 <p>&quot;…I don&#x27;t understand.&quot;</p>
 <p>Ruijerd was playing the role of &quot;a Migurd who called himself a Superd.&quot; For the most part, he&#x27;d be doing good deeds and earning the public&#x27;s affection, just like he wanted. He wasn&#x27;t even going to lie about his name.</p>
-<p>The whole &quot;Royce&quot; thing was mostly just a fallback explanation I&#x27;d use if someone started suspecting Ruijerd really <em>was</em> who he claimed to be. The man himself would keep using his actual name. Ruijerd would openly admit he was a Superd named Ruijerd. Everyone else would just decide all on their own that he was actually a Migurd named Royce with delusions of grandeur.</p>
+<p>The whole &quot;Royce&quot; thing was mostly just a fallback explanation I&#x27;d use if someone started suspecting Ruijerd really was who he claimed to be. The man himself would keep using his actual name. Ruijerd would openly admit he was a Superd named Ruijerd. Everyone else would just decide all on their own that he was actually a Migurd named Royce with delusions of grandeur.</p>
 <p>In other words, he didn&#x27;t have to say anything that wasn&#x27;t true. I&#x27;d be handling all the lying for him behind the scenes. I felt like he&#x27;d probably object to having me deceive people on his behalf, though, so I&#x27;d decided to keep quiet about that last part.</p>
-<p>&quot;Everyone&#x27;s just going to <em>assume</em> you&#x27;re actually a Migurd, you see?&quot;</p>
+<p>&quot;Everyone&#x27;s just going to assume you&#x27;re actually a Migurd, you see?&quot;</p>
 <p>&quot;Ah… Right. I&#x27;m the one pretending to be myself… But wait, I have to act like I&#x27;m Royce, as well…? This is giving me something of a headache, Rudeus. What exactly do I need to do?&quot;</p>
 <p>&quot;Don&#x27;t worry about it. Just be yourself.&quot;</p>
 <p>Ruijerd looked more than a little reluctant. Whatever his other talents, the man probably wasn&#x27;t cut out to be an actor.</p>
@@ -163,10 +163,9 @@ nav_title = "Chapter 6"
 <p>&quot;It&#x27;s a way to convince people you&#x27;re a fake, while also making them feel good about themselves.&quot;</p>
 <p>&quot;But what does making them feel good accomplish?&quot;</p>
 <p>&quot;It&#x27;ll encourage them to spread rumors that the Superd are actually pushovers.&quot;</p>
-<p>Ruijerd scowled. &quot;The Superd are <em>not</em> pushovers.&quot;</p>
+<p>Ruijerd scowled. &quot;The Superd are not pushovers.&quot;</p>
 <p>&quot;Believe me, I know. But your strength is part of what makes people so afraid of you. If they think you&#x27;re weak, it might help us resolve conflicts peacefully, like we just did at the gate.&quot;</p>
-<p>That said, we didn&#x27;t want everyone thinking his people were totally powerless, either. That might end up encouraging more</p>
-<p>harassment of the surviving Superd villages…assuming there were still some out there somewhere. This was going to be a delicate balancing act.</p>
+<p>That said, we didn&#x27;t want everyone thinking his people were totally powerless, either. That might end up encouraging more harassment of the surviving Superd villages…assuming there were still some out there somewhere. This was going to be a delicate balancing act.</p>
 <p>&quot;Hm. Well, if you say so, Rudeus…&quot;</p>
 <p><em>Okay then. I think that just about covers it for now.</em></p>
 <p>I didn&#x27;t feel the need to issue too many specific instructions at the moment. It would only increase our odds of screwing something up. &quot;Anyway…I&#x27;ll give you all the support I can, Ruijerd. But the outcome&#x27;s ultimately going to depend on you, okay?&quot;</p>
@@ -174,12 +173,11 @@ nav_title = "Chapter 6"
 <p>With the initial explanations at an end, I proceeded to bleach Ruijerd&#x27;s hair using juice from the lemon-like fruits we&#x27;d bought a few minutes earlier.</p>
 <p>The results weren&#x27;t perfect, but his natural emerald green hair color did fade away for the most part. I went ahead and slathered on the blue dye.</p>
 <p><em>Hmm. Not the prettiest job I&#x27;ve ever seen.</em></p>
-<p>Still, at least it didn&#x27;t look particularly green anymore. Maybe he <em>sort</em> of looked like a Migurd? At a distance? If you totally ignored how tall he was?</p>
+<p>Still, at least it didn&#x27;t look particularly green anymore. Maybe he sort of looked like a Migurd? At a distance? If you totally ignored how tall he was?</p>
 <p>Well, he didn&#x27;t really look like a Superd, and that was the most important thing. An ambiguous disguise was probably what we wanted anyway. The ideal reaction would be something like…&quot;This guy kinda looks like a Migurd, but not really. And he&#x27;s calling himself a Superd, but that doesn&#x27;t look right either… So what the hell?&quot;</p>
 <p>&quot;Also, I think you should be wearing this,&quot; I said, taking off my pendant and placing it on Ruijerd.</p>
 <p>&quot;This is…a Migurd amulet, isn&#x27;t it?&quot;</p>
-<p>&quot;Yes. My master gave it to me as a graduation present, and I&#x27;ve been wearing it ever since.&quot; With this dangling around Ruijerd&#x27;s</p>
-<p>neck, everyone would at least assume he was somehow connected to the Migurd.</p>
+<p>&quot;Yes. My master gave it to me as a graduation present, and I&#x27;ve been wearing it ever since.&quot; With this dangling around Ruijerd&#x27;s neck, everyone would at least assume he was somehow connected to the Migurd.</p>
 <p>&quot;It must be precious to you then. I&#x27;ll make sure to return it to you safely.&quot;</p>
 <p>&quot;Yeah. You better.&quot;</p>
 <p>&quot;Of course.&quot;</p>
@@ -201,5 +199,5 @@ nav_title = "Chapter 6"
 <p>&quot;Really?!&quot;</p>
 <p>For some reason, the girl actually seemed overjoyed. Maybe she didn&#x27;t hate that pose itself as much as I thought she did…? She immediately pulled on the hood, smiling happily. &quot;I&#x27;ll take good care of it!&quot;</p>
 <p>Well, okay then. I didn&#x27;t really understand why, but that worked out! Excellent!</p>
-<p>Now then…it seemed we were ready to head over to the Adventurers&#x27; Guild. This needed to be <em>comical</em>. Just had to keep that in mind.</p>
+<p>Now then…it seemed we were ready to head over to the Adventurers&#x27; Guild. This needed to be comical. Just had to keep that in mind.</p>
 <p><em>God I hope this goes smoothly…</em></p>

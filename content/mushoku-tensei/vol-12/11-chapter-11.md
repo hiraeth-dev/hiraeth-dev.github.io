@@ -18,7 +18,7 @@ nav_title = "Chapter 11"
 <p>There were stories, occasionally, of people who were crippled by a monster&#x27;s poison. Never once in those stories had such people recovered. Once the mind was gone, nothing could heal them, not even God-tier healing magic. If something went wrong with someone&#x27;s mind, there was no way to fix it.</p>
 <p>&quot;Even if she&#x27;s able to somehow walk and talk again, her memories won&#x27;t return,&quot; Elinalise spat out.</p>
 <p>&quot;What&#x27;s that? Sure are talkin&#x27; like you know a lot on the matter, Elinalise.&quot; Talhand eyed her suspiciously.</p>
-<p>&quot;I&#x27;m just telling it like it is.&quot; Elinalise didn&#x27;t explain any further. She had lived a long life—longer than either Talhand or Geese. She&#x27;d said she&#x27;d seen a similar case before. It was likely she <em>did</em> know something, but whatever it was, it wasn&#x27;t going to give them any hope of Zenith recovering, so Talhand didn&#x27;t press the issue.</p>
+<p>&quot;I&#x27;m just telling it like it is.&quot; Elinalise didn&#x27;t explain any further. She had lived a long life—longer than either Talhand or Geese. She&#x27;d said she&#x27;d seen a similar case before. It was likely she did know something, but whatever it was, it wasn&#x27;t going to give them any hope of Zenith recovering, so Talhand didn&#x27;t press the issue.</p>
 <p>&quot;The real problem is the boy,&quot; said the dwarf.</p>
 <p>&quot;Yeah…&quot; agreed Geese, breathing the word out like a sigh.</p>
 <p>Rudeus, Paul&#x27;s son, had spent almost a week now cooped up in his room.</p>
@@ -51,7 +51,7 @@ nav_title = "Chapter 11"
 <p>Roxy couldn&#x27;t stand seeing Rudeus the way he was right now. Elinalise felt the same—she wanted to help him, to console him. But she also knew what would happen once they returned home if she succumbed and used his broken heart as an excuse to go to bed with him. She would be betraying Cliff, betraying Sylphie. Even Rudeus wouldn&#x27;t be able to cope with that.</p>
 <p>&quot;Why not Rudy?&quot; Roxy&#x27;s lips hardened. She fixed the other woman with a glare. &quot;You know how much he&#x27;s suffering.&quot;</p>
 <p>&quot;Because…&quot; Elinalise started to say, but then remembered. Roxy didn&#x27;t know yet. &quot;Because the person he married—his wife—is my granddaughter.&quot;</p>
-<p>&quot;Huh?!&quot; The cup dropped from Roxy&#x27;s hand, its contents spilling everywhere before it rolled off the table and hit the floor with a dry <em>clunk</em>. &quot;What? Rudy&#x27;s married?&quot;</p>
+<p>&quot;Huh?!&quot; The cup dropped from Roxy&#x27;s hand, its contents spilling everywhere before it rolled off the table and hit the floor with a dry clunk. &quot;What? Rudy&#x27;s married?&quot;</p>
 <p>&quot;Yes, he is. And his child will be born soon.&quot;</p>
 <p>&quot;O-oh, so it&#x27;s true… W-well, I mean, of course it is. Rudy&#x27;s that age already…&quot; Roxy couldn&#x27;t fully mask how shaken she was as she bent down to retrieve the fallen tankard. She brought it to her lips without thinking before she remembered she&#x27;d spilled it all, and ordered another. &quot;Um, I&#x27;d like the strongest alcohol you have.&quot;</p>
 <p>Her eyes swiveled as she folded her arms over her chest.</p>
@@ -70,7 +70,7 @@ nav_title = "Chapter 11"
 <p>&quot;So, Lilia?&quot;</p>
 <p>She shot a glare at Geese. &quot;This is exactly—&quot;</p>
 <p>&quot;Okay, okay, I get it!&quot; He held his hands up in surrender. &quot;Don&#x27;t get so pissy.&quot;</p>
-<p>Elinalise&#x27;s feelings about the matter were complicated. She didn&#x27;t want to intrude on his marriage to Sylphie, but she <em>did</em> want to help Rudeus. If she bedded him, she could get him back on his feet. Elinalise was confident about that—this wasn&#x27;t the first or even second time she&#x27;d been in a situation like this, where she&#x27;d helped a man heal the wounds in his heart. But she also couldn&#x27;t help but think that to do so now would be a disastrous choice she could never take back.</p>
+<p>Elinalise&#x27;s feelings about the matter were complicated. She didn&#x27;t want to intrude on his marriage to Sylphie, but she did want to help Rudeus. If she bedded him, she could get him back on his feet. Elinalise was confident about that—this wasn&#x27;t the first or even second time she&#x27;d been in a situation like this, where she&#x27;d helped a man heal the wounds in his heart. But she also couldn&#x27;t help but think that to do so now would be a disastrous choice she could never take back.</p>
 <p>Normally, she didn&#x27;t mind being the one to get her hands dirty. Elinalise had played that role numerous times. But her desire to not betray Cliff got in the way this time. She simply couldn&#x27;t.</p>
 <p>&quot;…&quot;</p>
 <p>Silence hung in the air. Only the quiet sounds of people downing their drinks lingered. None among their motley crew dared speak up. The air was as stale as a funeral.</p>
@@ -85,7 +85,7 @@ nav_title = "Chapter 11"
 <p>Rudeus wasn&#x27;t the only one overcome with lethargy.</p>
 <p>&quot;Don&#x27;t be so glum,&quot; Talhand said. &quot;Rudeus is Paul&#x27;s boy. Might be down in the dumps now, but he&#x27;ll pick himself back up on his own eventually, no doubt.&quot;</p>
 <p>Elinalise hesitated before saying, &quot;I certainly hope you&#x27;re right.&quot; &quot;…&quot;</p>
-<p>Both she and Geese nodded vaguely at the dwarf&#x27;s words. They knew the boy&#x27;s weakness, but he <em>was</em> already sixteen. He wasn&#x27;t a child anymore. The situation might be grim, but he was a remarkable adult at heart. Death visited everyone. It was a particularly close companion to adventurers. Everyone&#x27;s parents died eventually everyone had to deal with this at some point in their lives. That was why, they assumed, Rudeus would also eventually be able to do the same.</p>
+<p>Both she and Geese nodded vaguely at the dwarf&#x27;s words. They knew the boy&#x27;s weakness, but he was already sixteen. He wasn&#x27;t a child anymore. The situation might be grim, but he was a remarkable adult at heart. Death visited everyone. It was a particularly close companion to adventurers. Everyone&#x27;s parents died eventually everyone had to deal with this at some point in their lives. That was why, they assumed, Rudeus would also eventually be able to do the same.</p>
 <p>&quot;…&quot;</p>
 <p>Only one among them did not nod their head. It was Roxy, her thoughts preoccupied with memories from long ago.</p>
 <p><strong>Rudeus</strong></p>
@@ -128,10 +128,10 @@ nav_title = "Chapter 11"
 <p>My previous life of thirty-four years, my current life of sixteen years. Fifty years that I&#x27;d lived, in total, and yet I&#x27;d done it again.</p>
 <p>In my previous life, I&#x27;d been hopeless. But when I was reincarnated in this world, I thought I&#x27;d changed. Now, I was confronted with the reality that nothing had changed. Things might look good on the surface, but in truth I&#x27;d hardly budged past square one.</p>
 <p>Getting back on my feet seemed hopeless, honestly. Knowing that Roxy had processed a similar experience and managed to get back on hers did little to reassure me.</p>
-<p>&quot;I was truly happy during my days in Buena Village,&quot; she continued. &quot;I originally came to the Asura Kingdom wanting to work there, but I couldn&#x27;t find any jobs. I decided to take a temporary position in the countryside as a home tutor. But then you were overflowing with talent, and Paul and Zenith treated me so warmly. I think they were the ones who really taught me what the kindness <em>true</em> kindness—of a family is,&quot; Roxy said as she looked at me, her eyes soft, warm. &quot;They were like a second family.&quot;</p>
+<p>&quot;I was truly happy during my days in Buena Village,&quot; she continued. &quot;I originally came to the Asura Kingdom wanting to work there, but I couldn&#x27;t find any jobs. I decided to take a temporary position in the countryside as a home tutor. But then you were overflowing with talent, and Paul and Zenith treated me so warmly. I think they were the ones who really taught me what the kindness true kindness—of a family is,&quot; Roxy said as she looked at me, her eyes soft, warm. &quot;They were like a second family.&quot;</p>
 <p>She stood up on my bed, slipped behind me, and knelt, wrapping her arms around my head as if cradling me.</p>
 <p>&quot;Rudy, I think I think I can share in your sadness.&quot;</p>
-<p>I felt something soft press against the back of my head. <em>Thump, thump</em> came the gentle pulse of her heart. A soothing sound. Why did listening to it comfort me so, I wondered? Why did it make me feel like things would be okay?</p>
+<p>I felt something soft press against the back of my head. Thump, thump came the gentle pulse of her heart. A soothing sound. Why did listening to it comfort me so, I wondered? Why did it make me feel like things would be okay?</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-12/insert-06.webp" alt="Illustration" loading="lazy" />
 </div>
@@ -143,7 +143,7 @@ nav_title = "Chapter 11"
 <p>I drew her hand back out of instinct.</p>
 <p>&quot;Wh-whoa!&quot; Her tiny body easily fell into my lap. Faces close, our eyes met—Roxy&#x27;s looking sleepy, moist with tears. Her face was red, her lips drawn tightly shut. I put a hand on her back, guiding her close. Her heart was thundering furiously, and she felt warm.</p>
 <p>&quot;W-we can do it,&quot; Roxy stuttered.</p>
-<p><em>Do what?</em> I thought.</p>
+<p>Do what? I thought.</p>
 <p>&quot;I-I mean, I heard that a man&#x27;s heart feels lighter after he takes a woman to bed.&quot;</p>
 <p>Who the heck told her that? Ah…Elinalise? Just what was the elf telling Roxy at a time like this?</p>
 <p>&quot;Women feel the same. When things are tough, they want something to make them forget. I&#x27;m also devastated by Mister Paul&#x27;s death, so if that&#x27;s what you want to do, I don&#x27;t mind if you take me to bed with you.&quot; She spoke so fast that her words jumbled together, rambling on. &quot;That&#x27;s right, I want you to help me forget. But my body is kind of plain… If you&#x27;re not interested, you could go to a brothel instead?&quot;</p>
@@ -154,7 +154,7 @@ nav_title = "Chapter 11"
 <p>I pushed her down onto the bed—roughly, violently. Maybe I just had frustration to spare.</p>
 <p>***</p>
 <p>When I opened my eyes the next morning, the first thing to greet me was Roxy&#x27;s sleeping face. She looked so innocent with her hair let down.</p>
-<p>At the same time, the thought <em>I screwed up</em> ran through my mind.</p>
+<p>At the same time, the thought I screwed up ran through my mind.</p>
 <p>&quot;Haah…&quot; A sigh escaped. How was I going to explain this to Sylphie? Yet another thing for me to be concerned about now.</p>
 <p>But for some reason, my vision felt clearer, as if everything I&#x27;d anguished over had been a dream. There was still a weight, a heaviness that clung that to me, but it didn&#x27;t feel like rock bottom anymore. It wasn&#x27;t comparable to what I&#x27;d felt yesterday.</p>
 <p>Why had it been so effective? Was it because I&#x27;d performed an act that was associated with bringing new life into the world? Had that eased my sadness over the loss of Paul? Maybe not. By having sex, I&#x27;d more or less pushed the problem aside for now.</p>
@@ -177,14 +177,13 @@ nav_title = "Chapter 11"
 <p>She must have read the room. Roxy&#x27;s expression turned serious as she sat up in bed and tucked her legs beneath her. And as she sat there neatly, she was completely naked. It was so sexy and stimulating that I had to avert my eyes and shift the blanket to hide my lower half as I continued the conversation.</p>
 <p>&quot;This story is just fiction, something I made up,&quot; I prefaced before I began. Then I told her the tale of a man—a make-believe one, of course.</p>
 <p>When he was young, terrible things happened to him and he secluded himself. He lived purely on his parents&#x27; financial support for decades. Then one day, his parents suddenly died. The man didn&#x27;t even attend their funeral—no, he did the worst thing a person could possibly do. The other members of his family saw that, beat him senseless, and drove him from his home.</p>
-<p>Although the man had nothing, he was lucky to find himself reborn in a new world. He turned over a new leaf and began trying to mend his ways. Life was going smoothly and he thought he could be</p>
-<p>happy if things stayed that way. But then he made a terrible mistake and let someone precious to him die. It was then that the man recalled the death of his parents. Though it was late, he finally mourned their loss.</p>
+<p>Although the man had nothing, he was lucky to find himself reborn in a new world. He turned over a new leaf and began trying to mend his ways. Life was going smoothly and he thought he could be happy if things stayed that way. But then he made a terrible mistake and let someone precious to him die. It was then that the man recalled the death of his parents. Though it was late, he finally mourned their loss.</p>
 <p>That was the story.</p>
 <p>The more I recounted it, the more the pent-up bile festering in my heart seemed to come spilling out. Maybe all I&#x27;d wanted was for someone to hear my story. Maybe it really was as simple as that.</p>
 <p>Roxy listened quietly. She inserted a word here and there, but for the most part she was silent.</p>
 <p>&quot;What do you think that man should do?&quot; I asked after I was finished.</p>
 <p>&quot;…&quot;</p>
-<p>She remained quiet for a while. The story had come at her from out of nowhere. Maybe she was struggling to find a way to respond. I was sure she didn&#x27;t think the person in the story was <em>me</em>. She was clever—she might have guessed there was some other meaning behind it.</p>
+<p>She remained quiet for a while. The story had come at her from out of nowhere. Maybe she was struggling to find a way to respond. I was sure she didn&#x27;t think the person in the story was me. She was clever—she might have guessed there was some other meaning behind it.</p>
 <p>&quot;If it were me,&quot; she began, &quot;I would go visit my parents&#x27; graves. Even now, it&#x27;s not too late. I&#x27;d also talk to the other family members.&quot;</p>
 <p>&quot;But the graves and those family members are so far away that the man can&#x27;t just easily go and see them. If he does go to see them, he may never be able to return. The man has a life of his own now. He&#x27;s got his own family in this new world and he wants to cherish them.&quot;</p>
 <p>&quot;So, he can&#x27;t go back?&quot;</p>
@@ -194,8 +193,8 @@ nav_title = "Chapter 11"
 <p>&quot;Even Paul would have wished for you to do the same, Rudy,&quot; said Roxy plainly, stating the obvious. Her words were trite platitudes, words I&#x27;d heard somewhere before. &quot;Please look to the future. Everyone is waiting for you.&quot;</p>
 <p>And yet, hearing those words made my heart felt as though a weight had been lifted.</p>
 <p>It wasn&#x27;t just her words that were commonplace. The death of my parents from my previous world, even Paul&#x27;s death—they were inevitable events. All I could do was face and accept them. I was here after all, alive in this world. A world that I would continue to live in.</p>
-<p>I felt anxious, knowing I would have to relay Paul&#x27;s death and Zenith&#x27;s disability to the family waiting for us in the Northern Territories. I felt anxious about what I should do from here on out. I was overwhelmed with anxiety about a future full of unknowns. But I couldn&#x27;t run away. The only thing I could do was solve the problems right in front of me. I had no idea what I <em>should</em> do, but all I <em>could</em> do was solve each issue, one after the other.</p>
-<p>This was what I&#x27;d decided to do ever since I found myself in this world, right? That I was going to live to the fullest. So, I couldn&#x27;t turn my eyes away. No matter what ordeals lay ahead, I would overcome them. I <em>had</em> to overcome them, even though overcoming them wouldn&#x27;t make the pain entirely disappear. It would just bring a degree of relief.</p>
+<p>I felt anxious, knowing I would have to relay Paul&#x27;s death and Zenith&#x27;s disability to the family waiting for us in the Northern Territories. I felt anxious about what I should do from here on out. I was overwhelmed with anxiety about a future full of unknowns. But I couldn&#x27;t run away. The only thing I could do was solve the problems right in front of me. I had no idea what I should do, but all I could do was solve each issue, one after the other.</p>
+<p>This was what I&#x27;d decided to do ever since I found myself in this world, right? That I was going to live to the fullest. So, I couldn&#x27;t turn my eyes away. No matter what ordeals lay ahead, I would overcome them. I had to overcome them, even though overcoming them wouldn&#x27;t make the pain entirely disappear. It would just bring a degree of relief.</p>
 <p>It felt like I&#x27;d broken free of the chains that had weighed me down.</p>
 <p>&quot;Teacher,&quot; I said.</p>
 <p>&quot;Yes?&quot;</p>

@@ -70,8 +70,8 @@ nav_title = "Chapter 10"
 <p><em>But just writing on some loose-leaf papers is a bit depressing. Let&#x27;s make a little project out of this.</em></p>
 <p>Not that starting in style was the be-all and end-all, but it couldn&#x27;t hurt to dress up the appearance of my new diary.</p>
 <p>I gathered up the loose papers and placed them on my desk. I used magic to punch holes through the edge. Then, I used my earth magic to create rings to insert through them. Next, I needed three boards and a hinge. I could throw them all together in book form, so they could open with my sheets of bound paper inside.</p>
-<p>And with that, my binder-style diary was complete. How much do you think it cost me? Nothing, completely DIY! Okay, well, the paper <em>did</em> cost money.</p>
-<p><em>Wonder if anyone here would buy a hole puncher if I made one for sale.</em> It was worth writing down at least. If I didn&#x27;t note all my ideas, I&#x27;d eventually forget about them.</p>
+<p>And with that, my binder-style diary was complete. How much do you think it cost me? Nothing, completely DIY! Okay, well, the paper did cost money.</p>
+<p>Wonder if anyone here would buy a hole puncher if I made one for sale. It was worth writing down at least. If I didn&#x27;t note all my ideas, I&#x27;d eventually forget about them.</p>
 <p><em>So, how do you go about constructing a hole puncher? Uhh…</em></p>
 <p>No. I had more important things to write down first.</p>
 <p>&quot;Hm, where should I start…&quot;</p>
@@ -170,14 +170,13 @@ nav_title = "Chapter 10"
 <p>I suddenly sensed a presence behind me and whipped around. All I saw was the empty chair I&#x27;d left behind. No one was there.</p>
 <p><em>Of course not.</em></p>
 <p>&quot;Must have been my imagination.&quot;</p>
-<p>The only things in the room were a desk, a chair, and a bookshelf. There was nowhere for anyone to hide. There was a window, but it wasn&#x27;t large enough for someone to sneak in and out of. The only entrance was the door I was standing in front of. The room was small enough that one candle was enough to illuminate</p>
-<p>every nook and cranny. The only person who could possibly be in here was me.</p>
+<p>The only things in the room were a desk, a chair, and a bookshelf. There was nowhere for anyone to hide. There was a window, but it wasn&#x27;t large enough for someone to sneak in and out of. The only entrance was the door I was standing in front of. The room was small enough that one candle was enough to illuminate every nook and cranny. The only person who could possibly be in here was me.</p>
 <p><em>Then why did I think someone else was here, even though it&#x27;s practically impossible?</em></p>
 <p>Despite my skepticism, I continued to sense a presence in the room. It was odd. Maybe there was a bug under my bookshelf or something?</p>
 <p>&quot;…?&quot;</p>
 <p>Something about it was off-putting. My heart beat erratically. Was it anxiety? What was it I was feeling anxious about?</p>
 <p>&quot;Well, whatever. I&#x27;ll just hurry to the basement and take a look…&quot; I pulled the door open the rest of the way and started out. And then I instantly spun back around and exclaimed, &quot;Aha, now I&#x27;ve got you!&quot;</p>
-<p>There was no logic to my actions; I&#x27;d just done it on a whim. I was only trying to reassure myself that no one was there. Yet—lo and behold, someone <em>was</em> there.</p>
+<p>There was no logic to my actions; I&#x27;d just done it on a whim. I was only trying to reassure myself that no one was there. Yet—lo and behold, someone was there.</p>
 <p>&quot;Huh…?&quot;</p>
 <p>A man in a tattered old robe sat in my chair—the only chair in the room. He was aged, wrinkles lining his face, hair white as snow. The beginnings of a beard covered his chin, giving the impression that he didn&#x27;t invest much in his appearance. He had the air of a seasoned veteran, but there was something rough and unrefined about him, like he had come out of a long, long battle. The light in his eyes was sharp, and the color of his right and left pupil differed from one another.</p>
 <p>His lips trembled in surprise. &quot;So…I succeeded?&quot; He glanced around, eyes narrowing as his expression filled with emotion. However, he then looked down at his hand, touched his stomach, and flinched. His smile turned self-deprecating. &quot;Nah, this is a failure. Guess there was no hope of me succeeding…&quot;</p>

@@ -13,10 +13,10 @@ nav_title = "Interlude"
 <p>&quot;What is it?&quot;</p>
 <p>&quot;It&#x27;s an arm from that doll we&#x27;ve been studying.&quot;</p>
 <p>Setting the box down on a nearby table, Zanoba took out its contents—a long slender object covered in cloth. Unwrapping it, he revealed the artificial arm in question. He&#x27;d sliced it up into sections like a carrot.</p>
-<p>&quot;When I looked closely at the places where the paint had chipped off, I noticed what looked like seams in its surface. I tried cutting along them, just to see what might happen…and <em>this</em> is what I found.&quot;</p>
+<p>&quot;When I looked closely at the places where the paint had chipped off, I noticed what looked like seams in its surface. I tried cutting along them, just to see what might happen…and this is what I found.&quot;</p>
 <p>Picking up one of the slices, Zanoba turned it so I could see the cross-section. It was covered in an intricate pattern that reminded me of a QR code. This had to be a magic circle of some kind, but it was a peculiar one, totally unlike anything I&#x27;d seen Nanahoshi make.</p>
 <p>It wasn&#x27;t just that cross-section either. Similar patterns were present on every single section of the arm, both the front and back surfaces, and they were all slightly different from each other. Even the ones that shared a section weren&#x27;t identical.</p>
-<p>&quot;Wow. Okay. I didn&#x27;t expect the <em>arms</em> to be packed full of magic circles, honestly… It&#x27;s interesting that they&#x27;re all so different from each other, too…&quot;</p>
+<p>&quot;Wow. Okay. I didn&#x27;t expect the arms to be packed full of magic circles, honestly… It&#x27;s interesting that they&#x27;re all so different from each other, too…&quot;</p>
 <p>Looking at them for a while actually got me feeling kind of queasy. It almost felt like we were studying the nervous system of a dissected human body or something.</p>
 <p>&quot;I had no idea there even were seams on that thing. They must have been really subtle.&quot;</p>
 <p>&quot;Well, they were mostly hidden by the paint,&quot; said Zanoba proudly. &quot;It would have been impossible to notice them without first chipping it away.&quot;</p>
@@ -71,8 +71,7 @@ nav_title = "Interlude"
 <p>&quot;Very well. I shall allow it.&quot;</p>
 <p>&quot;Thank you, Prince Zanoba!&quot;</p>
 <p>This really wasn&#x27;t what I&#x27;d had in mind. I mean, educating Julie was ultimately for Zanoba&#x27;s good, not Ginger&#x27;s. Then again, maybe there was some unspoken rule that slaves weren&#x27;t supposed to receive too much education?</p>
-<p>Humanity was driven out of the Garden of Eden because they ate the fruit of knowledge. Stay ignorant, and you might be perfectly happy to spend the rest of your life dancing around with a fig leaf over your crotch, singing, &quot;Yatta,&quot; all day long. That&#x27;s why kings</p>
-<p>prefer their subjects to be as clueless as possible. The less you educate them, the less likely they are to rise up against you. Of course, you&#x27;re also sabotaging their ability to learn new skills and become more useful, but that&#x27;s a trade-off lots of rulers are willing to make.</p>
+<p>Humanity was driven out of the Garden of Eden because they ate the fruit of knowledge. Stay ignorant, and you might be perfectly happy to spend the rest of your life dancing around with a fig leaf over your crotch, singing, &quot;Yatta,&quot; all day long. That&#x27;s why kings prefer their subjects to be as clueless as possible. The less you educate them, the less likely they are to rise up against you. Of course, you&#x27;re also sabotaging their ability to learn new skills and become more useful, but that&#x27;s a trade-off lots of rulers are willing to make.</p>
 <p>In any case… I guess it would have been tricky for Zanoba to grant Ginger a more typical reward like land or treasure anyway, given his current position. She&#x27;d probably realized that and kept her request modest out of loyalty.</p>
 <p>&quot;Well, all right, then,&quot; I said. &quot;Back to the grind, I guess. How far have you gotten?&quot;</p>
 <p>&quot;I was planning to work on the legs next, Master.&quot;</p>
@@ -96,13 +95,13 @@ nav_title = "Interlude"
 <p>Zanoba immediately opened his hand and let Ginger fall. His fingers had left clear red marks on her skin. Ginger tried to reach up to touch her neck, but stopped halfway, grimacing in pain. It looked like he&#x27;d broken a bone in her shoulder when he slammed her against the wall.</p>
 <p>I quickly rushed over and healed her injuries with my magic. And as soon as I was done, she kneeled down in front of me and lowered her head.</p>
 <p>&quot;Cough…cough…my sincere apologies, Sir Rudeus…&quot;</p>
-<p>She was actually <em>apologizing</em> to me. After Zanoba had nearly killed her.</p>
-<p>I was speechless with guilt for a moment. She hadn&#x27;t done anything wrong. Why was she apologizing to <em>me?</em></p>
+<p>She was actually apologizing to me. After Zanoba had nearly killed her.</p>
+<p>I was speechless with guilt for a moment. She hadn&#x27;t done anything wrong. Why was she apologizing to me?</p>
 <p>Finally, I spun around and glared at Zanoba. &quot;What is the matter with you?!&quot;</p>
-<p>&quot;But Master! She thoughtlessly interjected, knowing <em>nothing</em> of our friendship—&quot;</p>
-<p>&quot;Okay, maybe so! Why didn&#x27;t you just <em>say that</em> to her, then?!&quot;</p>
+<p>&quot;But Master! She thoughtlessly interjected, knowing nothing of our friendship—&quot;</p>
+<p>&quot;Okay, maybe so! Why didn&#x27;t you just say that to her, then?!&quot;</p>
 <p>Ginger had served Zanoba faithfully for many years. And she&#x27;d protected my family on a long, dangerous journey through unfamiliar territory. It couldn&#x27;t have been easy, but she&#x27;d come all this way out of nothing but loyalty for her exiled master.</p>
-<p>And when she made a <em>single</em> mistake, his reaction was to throw her up against a wall and start choking her? That was just awful.</p>
+<p>And when she made a single mistake, his reaction was to throw her up against a wall and start choking her? That was just awful.</p>
 <p>Our friendship was obviously very important to Zanoba. That was nice to know. But that didn&#x27;t mean I wanted him mistreating his most loyal guard over it.</p>
 <p>&quot;Sir Rudeus, please… It&#x27;s quite all right,&quot; said Ginger softly, her face calm and composed. &quot;I&#x27;m proud to see Prince Zanoba stand up for a friend. He&#x27;s clearly grown as a person since the last time I saw him.&quot;</p>
 <p><em>What? Seriously? Am I the one being weird here?</em></p>

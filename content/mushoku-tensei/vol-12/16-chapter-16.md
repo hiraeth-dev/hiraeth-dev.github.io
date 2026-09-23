@@ -16,14 +16,13 @@ nav_title = "Chapter 16"
 <p>Pregnancy brought changes to the body; her breasts were no longer the ones I was accustomed to fondling. And when I considered how I had been the one to bring about this change to her body, I felt indescribable joy. This was probably what people meant when they talked about a &quot;sense of domination.&quot;</p>
 <p><em>Ahh, Sylphie&#x27;s all mine.</em></p>
 <p>But, as you might have guessed, having no left hand sucked. I thought longingly of the days I could grope her chest with both hands. Now that I was missing one, my satisfaction was halved.</p>
-<p>Soon her breasts would begin to produce milk. I suspected she&#x27;d be cross with me if I asked to taste test. Maybe she&#x27;d even scorn me. But it might be worth asking, even if the odds were against me. It was probably in my best interest to keep the question to myself, but <em>just once</em> couldn&#x27;t hurt, right?</p>
+<p>Soon her breasts would begin to produce milk. I suspected she&#x27;d be cross with me if I asked to taste test. Maybe she&#x27;d even scorn me. But it might be worth asking, even if the odds were against me. It was probably in my best interest to keep the question to myself, but just once couldn&#x27;t hurt, right?</p>
 <p>&quot;You sure do love my breasts,&quot; Sylphie said.</p>
 <p>&quot;Yeah, I do. They&#x27;re tiny, but they&#x27;re the best in the world.&quot;</p>
 <p>&quot;Best in the world…&quot; she muttered. &quot;Can you really say that after you&#x27;ve groped Roxy&#x27;s?&quot;</p>
 <p>&quot;Forgive me for my sins,&quot; I said dramatically.</p>
 <p>&quot;Hee hee, I&#x27;m not angry!&quot;</p>
-<p>We engaged in playful banter, our relationship as strong as ever. If this had been my previous world (more specifically, Japan), our</p>
-<p>relationship would&#x27;ve probably been quite strained. But in this world, Sylphie was understanding. As long as I loved them equally, I could have two or three wives.</p>
+<p>We engaged in playful banter, our relationship as strong as ever. If this had been my previous world (more specifically, Japan), our relationship would&#x27;ve probably been quite strained. But in this world, Sylphie was understanding. As long as I loved them equally, I could have two or three wives.</p>
 <p>As for my other wife, Roxy had taken up one of the smaller rooms on the second floor. The smallest, to be exact. I suggested she pick a more spacious one, but she apparently liked cramped spaces, which I understood. I didn&#x27;t mind them, either.</p>
 <p>Roxy became a professor at the university. At the same time, I went around introducing her to everyone and announcing my return, but we&#x27;ll save that story for another time.</p>
 <p>***</p>
@@ -41,7 +40,7 @@ nav_title = "Chapter 16"
 <p>Just as the room seemed to relax, the first wave came.</p>
 <p>&quot;Mistress Sylphie, we&#x27;re ready now. Push!&quot;</p>
 <p>&quot;Nnnngh…&quot;</p>
-<p>I watched quietly as she struggled. The only thing I could say was, &quot;You can do this.&quot; I felt like there was something I <em>should</em> be doing, too, but there wasn&#x27;t anything I <em>could</em> do.</p>
+<p>I watched quietly as she struggled. The only thing I could say was, &quot;You can do this.&quot; I felt like there was something I should be doing, too, but there wasn&#x27;t anything I could do.</p>
 <p>Sylphie matched Lilia&#x27;s calls to push, her face clenching each time, until…</p>
 <p>The baby was born.</p>
 <p>She let forth a fierce cry as she was delivered safely into our world. A little girl—an adorable one with the same hair color as me. Lilia lifted her up and handed her to Sylphie, who held the newborn tight and sighed with relief.</p>
@@ -71,14 +70,13 @@ nav_title = "Chapter 16"
 <p>&quot;…I&#x27;ll be giving birth like that too eventually, won&#x27;t I?&quot;</p>
 <p>When I glanced her way, I found Roxy peering up at me, her face burning red. I slipped off my shoes and folded my legs under me on the couch, sitting as stiffly as I could. &quot;Yes, I hope I can ask you to do that for me.&quot;</p>
 <p>Now that Sylphie&#x27;s baby had been born, it meant that Roxy and I would be starting the baby-making process next. Honestly, I was looking forward to it, even though Sylphie&#x27;s baby had only just been delivered. I really was hopeless. Not that I hated myself for it—I couldn&#x27;t, not when I considered that Paul had probably felt the same way in the past.</p>
-<p><em>I can&#x27;t wait,</em> I thought with a laugh, and Roxy flushed a bright shade, wrapping her arms around her body.</p>
+<p>I can&#x27;t wait, I thought with a laugh, and Roxy flushed a bright shade, wrapping her arms around her body.</p>
 <p>&quot;Rudy, you&#x27;ve got a seriously dirty look on your face.&quot;</p>
 <p>&quot;I was born with it.&quot;</p>
-<p>That&#x27;s right—I <em>was</em> born with it. It was something I&#x27;d had ever since I came into this world, or perhaps even before that.</p>
+<p>That&#x27;s right—I was born with it. It was something I&#x27;d had ever since I came into this world, or perhaps even before that.</p>
 <p>&quot;…&quot;</p>
 <p>Oh, that&#x27;s right. Before I began that routine with Roxy, I needed to announce the birth of my baby.</p>
-<p>The following day, I made my way alone to the outskirts of the city, where a graveyard for nobles was nestled on a low hill. This was where we&#x27;d put Paul to rest. He might fuss over being lumped in</p>
-<p>alongside other nobles, but this place had better management than the one for the general public.</p>
+<p>The following day, I made my way alone to the outskirts of the city, where a graveyard for nobles was nestled on a low hill. This was where we&#x27;d put Paul to rest. He might fuss over being lumped in alongside other nobles, but this place had better management than the one for the general public.</p>
 <p>I stood amidst the snow, before the Ranoa-style round grave marker. I had no idea what religion Paul had followed. I didn&#x27;t think he&#x27;d believed in God. He seemed the type not to worry about religion, so even if we&#x27;d made a mistake in that regard, I was sure he&#x27;d forgive us. Perhaps it would have been more ideal to make a grave for him in the Asura Kingdom where Buena Village had once been. Paul had no connections or relations to the land here. But if we buried him too far away, we wouldn&#x27;t be able to visit him.</p>
 <p>I&#x27;d already informed Geese and the others of this location. We&#x27;d even visited once as a group. Each person had brought something along that they thought Paul would like. Alcohol, a shortsword—that kind of thing. Geese and Talhand had sat before his grave and drank themselves silly, earning the ire of the grave keeper.</p>
 <p>I set about cleaning Paul&#x27;s grave, a bottle of liquor that I&#x27;d purchased on the way crooked under my arm. I dusted off the snow that collected on his grave marker, shining the stone with a cloth I&#x27;d brought along. The road leading to the cemetery had been covered in snow, but the grave keeper kept the pathways here plowed, so it wasn&#x27;t difficult to tidy up Paul&#x27;s area.</p>
@@ -92,8 +90,7 @@ nav_title = "Chapter 16"
 <p>I had no intention of knocking Lilia&#x27;s teachings, but I wanted my children to grow up as equals—to be strong enough to withstand it when people called them half-demons.</p>
 <p>&quot;Apparently Sylphie thinks I&#x27;m going to take another wife after this. I don&#x27;t plan anything of the sort, but they do say that what happens once can happen a third time. Maybe she&#x27;s right.&quot;</p>
 <p>I wondered if Paul had ever considered marrying Ghislaine, Elinalise, or Vierra. It seemed he did have a sexual relationship with Ghislaine, so I suspected he&#x27;d considered it at least once. Then again, Paul was a bit more open-minded than me, so perhaps he didn&#x27;t think as far as marriage.</p>
-<p>&quot;Maybe I shouldn&#x27;t overthink it either, huh?&quot; When I directed my question at his gravestone, it felt as if I could see him grinning</p>
-<p>mischievously back at me. All I could see was his smile; I couldn&#x27;t hear any words.</p>
+<p>&quot;Maybe I shouldn&#x27;t overthink it either, huh?&quot; When I directed my question at his gravestone, it felt as if I could see him grinning mischievously back at me. All I could see was his smile; I couldn&#x27;t hear any words.</p>
 <p>But it wasn&#x27;t as if Paul had never thought things through. I was pretty sure he&#x27;d racked his brain for years about things. It only made sense. There were few people in the world who lived without thinking at all.</p>
 <p>&quot;Father, I was a terrible son—carrying memories from my previous life. I didn&#x27;t love you like I should&#x27;ve, as my father,&quot; I said as I took to my feet. I took the bottle of alcohol in hand and gulped once. It was a strong liquor, burning like fire on the way down, and once I was done, I splashed some of it over his grave. &quot;But now I do see myself as your son.&quot;</p>
 <p>Maybe alcohol wasn&#x27;t the best for someone like Paul, who&#x27;d screwed up by drowning himself in the stuff. But surely, today could be an exception. We were celebrating a new life in the world.</p>
@@ -102,8 +99,7 @@ nav_title = "Chapter 16"
 <p>&quot;Now that I have a child in the world and I&#x27;m a parent, I know I have to grow up right away. And in order to do that, I&#x27;ll have to make a bunch of mistakes, grieve over them, and change—slowly, gradually. I&#x27;m sure that&#x27;s how you had to do it too, so I&#x27;ll do the best I can.&quot;</p>
 <p>I popped the lid back over the bottle and set it in front of his grave.</p>
 <p>&quot;I&#x27;ll come back again. Next time, I&#x27;ll bring everyone else along, too,&quot; I said, turning to leave.</p>
-<p>Many things had fallen into place, with a great deal of pain and a great deal of joy along the way. I&#x27;d repeated horrible mistakes along the way, but it wasn&#x27;t over. No matter how much I screwed up or got</p>
-<p>things wrong, it wasn&#x27;t the end. I still had a lot of life to live in this world. And that&#x27;s what I was going to do: live to the fullest, so that no matter when I died, I&#x27;d have no regrets.</p>
+<p>Many things had fallen into place, with a great deal of pain and a great deal of joy along the way. I&#x27;d repeated horrible mistakes along the way, but it wasn&#x27;t over. No matter how much I screwed up or got things wrong, it wasn&#x27;t the end. I still had a lot of life to live in this world. And that&#x27;s what I was going to do: live to the fullest, so that no matter when I died, I&#x27;d have no regrets.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-12/insert-08.webp" alt="Illustration" loading="lazy" />
 </div>

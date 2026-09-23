@@ -11,8 +11,8 @@ nav_title = "Prologue"
 <p>&quot;Where did he go?!&quot;</p>
 <p>The creature&#x27;s terrifying voice rang out as it chased me relentlessly.</p>
 <p>I thought I had some stamina. After all, I had been running long distances and practicing swordplay for the past few years. Now that my confidence had been shattered, the creature seemed to be laughing at me, its crimson hair fluttering as it pursued me so closely that I couldn&#x27;t stop for air.</p>
-<p><em>Don&#x27;t give up,</em> I told myself. No matter how much distance I put between us, it would catch up the moment I started to lose focus.</p>
-<p><em>Huff, huff.</em> I was out of breath. I couldn&#x27;t run any further. I couldn&#x27;t escape it. The only option left was to hide. I groaned and ducked into the shadow of the stairs, behind a decorative plant.</p>
+<p>Don&#x27;t give up, I told myself. No matter how much distance I put between us, it would catch up the moment I started to lose focus.</p>
+<p>Huff, huff. I was out of breath. I couldn&#x27;t run any further. I couldn&#x27;t escape it. The only option left was to hide. I groaned and ducked into the shadow of the stairs, behind a decorative plant.</p>
 <p>The creature&#x27;s booming voice echoed throughout the manor. &quot;I will never forgive you!&quot;</p>
 <p>Those words made my legs tremble.</p>
 <p>My name is Rudeus Greyrat. I am seven years old. Currently a handsome boy with bright brown hair and rosy cheeks, in my previous life I was an unemployed thirty-four-year-old virgin. A shutin.</p>

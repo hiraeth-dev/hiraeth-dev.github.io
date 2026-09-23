@@ -114,8 +114,7 @@ nav_title = "Chapter 1"
 <p><em>They&#x27;ve launched a coup in the capital. That rumor about Ariel fleeing to Milbotts was a load of crap. They were lurking somewhere in Ars, waiting for their moment to strike.</em></p>
 <p><em>I don&#x27;t know if I&#x27;ll make it back in time.</em></p>
 <p><em>We&#x27;re about a day from the capital now. People are saying that the coup ended in failure.</em></p>
-<p><em>Ariel had recklessly attempted to simultaneously murder the first and second princes. But they were protected by two powerful</em></p>
-<p><em>swordmasters, the Water God and a North Emperor, who&#x27;d been brought to the capital as royal guests. The assassination ended in failure. Ariel&#x27;s forces were wiped out, and she herself had been captured. They&#x27;re saying she&#x27;s going to be executed soon.</em></p>
+<p><em>Ariel had recklessly attempted to simultaneously murder the first and second princes. But they were protected by two powerful</em> <em>swordmasters, the Water God and a North Emperor, who&#x27;d been brought to the capital as royal guests. The assassination ended in failure. Ariel&#x27;s forces were wiped out, and she herself had been captured. They&#x27;re saying she&#x27;s going to be executed soon.</em></p>
 <p><em>Her forces were &quot;wiped out,&quot; though?</em></p>
 <p><em>Wiped out…completely?</em></p>
 <p><em>What about Sylphie…?</em></p>
@@ -127,7 +126,7 @@ nav_title = "Chapter 1"
 <p><em>I couldn&#x27;t control myself. I burned their bodies with magic. And then I burned everyone who tried to stop me, too.</em></p>
 <p><em>The hell with this country. They all deserve to burn.</em></p>
 <p>I rose to my feet quickly. My heart pounded in my chest, and my head was spinning. Reading that had been incredibly painful. I didn&#x27;t want to continue.</p>
-<p>Did I really <em>have</em> to read this thing? Was there really no other choice?</p>
+<p>Did I really have to read this thing? Was there really no other choice?</p>
 <p>&quot;Hurp…&quot;</p>
 <p>A wave of nausea washed over me.</p>
 <p>This was just some sick story that old man had made up, right? That had to be it. I didn&#x27;t want to believe a future like this was possible. It was too horrible to even consider…</p>
@@ -136,7 +135,7 @@ nav_title = "Chapter 1"
 <p>When I looked down at it again, however, I couldn&#x27;t bring myself to turn the page. The thought of continuing made me sick. What new horrors would be waiting for me in the next entry? I was literally queasy with dread.</p>
 <p>&quot;Okay, I… I need a break…&quot;</p>
 <p>Leaving the room on unsteady legs, I headed for the bathroom. And then I vomited into the toilet.</p>
-<p>Tears ran down my face. In some sense, <em>I&#x27;d</em> written that diary and I could feel, with awful clarity, exactly what I&#x27;d felt as my world collapsed around me. I could feel my grief when Roxy died. I could feel my panic and hopelessness when Sylphie left me. And I could feel my devastating pain when I found Sylphie&#x27;s corpse.</p>
+<p>Tears ran down my face. In some sense, I&#x27;d written that diary and I could feel, with awful clarity, exactly what I&#x27;d felt as my world collapsed around me. I could feel my grief when Roxy died. I could feel my panic and hopelessness when Sylphie left me. And I could feel my devastating pain when I found Sylphie&#x27;s corpse.</p>
 <p>&quot;Bleeegh…&quot;</p>
 <p>I shoved my face into the toilet bowl and puked until there was nothing left to puke.</p>
 <p>My stomach was completely empty now, but I had no appetite. I probably wasn&#x27;t going to manage to eat anything today.</p>
@@ -147,7 +146,7 @@ nav_title = "Chapter 1"
 <p>&quot;Are you still thinking about that battle with Atofe?&quot;</p>
 <p>&quot;…Yeah.&quot;</p>
 <p>&quot;Really? Aw… There, there,&quot; Sylphie murmured, stretching to pat me gently on the back. &quot;You know, Rudy, I&#x27;m always available if you need a little comforting. I know you&#x27;re not half as strong as you look.&quot;</p>
-<p><em>I&#x27;m always available if you need a little comforting.</em> My future self had ignored those words, and it had cost him dearly.</p>
+<p>I&#x27;m always available if you need a little comforting. My future self had ignored those words, and it had cost him dearly.</p>
 <p>&quot;Yeah… Sorry, Sylphie…&quot;</p>
 <p>&quot;Oh, it&#x27;s okay.&quot;</p>
 <p>&quot;You know, when I&#x27;m…really hurting, I might mess things up… I might say stupid, mean things, instead of crying on your shoulder…&quot;</p>
@@ -171,7 +170,7 @@ nav_title = "Chapter 1"
 <p>&quot;Sure. Yeah. I just want to, well, cuddle a little. If that&#x27;s okay with you.&quot;</p>
 <p>&quot;That&#x27;s fine with me, Rudy.&quot;</p>
 <p>With that, Roxy sat back down on my lap and leaned back against me. Cupping one hand around her shoulder, I stared down at her face, now only inches from mine.</p>
-<p>That was when I realized that I had no idea what I wanted to talk <em>about</em>.</p>
+<p>That was when I realized that I had no idea what I wanted to talk about.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-15/insert-02.webp" alt="Illustration" loading="lazy" />
 </div>
@@ -179,17 +178,17 @@ nav_title = "Chapter 1"
 <p>&quot;Oh, it wasn&#x27;t too eventful, really. Some mischievous student did send the principal&#x27;s wig flying at one point, though.&quot;</p>
 <p>&quot;Ooh. Too bad I missed that.&quot;</p>
 <p>&quot;Let&#x27;s see, what else…&quot;</p>
-<p>Roxy had spent her whole day at work, and was clearly a bit worn out. Still, she took the time to humor me. We chatted about trivial things for a while, chuckling at each other&#x27;s jokes. I did end up groping her butt a little, which earned me a slap on the hand. But when I protested that I was just trying to <em>cuddle</em>, Roxy sighed and allowed me to continue.</p>
+<p>Roxy had spent her whole day at work, and was clearly a bit worn out. Still, she took the time to humor me. We chatted about trivial things for a while, chuckling at each other&#x27;s jokes. I did end up groping her butt a little, which earned me a slap on the hand. But when I protested that I was just trying to cuddle, Roxy sighed and allowed me to continue.</p>
 <p>Afterward, we headed into the bath together, where I washed her back and massaged her shoulders. Basically, I doted on her like a son buttering up his mother.</p>
 <p>&quot;You seem a little needy today, Rudy. Did something bad happen?&quot;</p>
 <p>&quot;No, not at all. I was just thinking about how very glad I am to have you safe and sound, that&#x27;s all.&quot;</p>
 <p>&quot;Is that so? Well, I did have a close scrape back in the Teleportation Labyrinth, I suppose. Feel free to confirm my &#x27;soundness&#x27; to your heart&#x27;s content.&quot;</p>
 <p>The two of us were in the bathtub now. Once again, Roxy was seated on my lap. As I gently rubbed her slender shoulders, I dropped a question of my own as casually as I could.</p>
 <p>&quot;How are you feeling, Roxy? You&#x27;re not under the weather or anything, right?&quot;</p>
-<p>I&#x27;d prevented her from catching Petrification Syndrome by eliminating that rodent. I was quite confident of that. But I wasn&#x27;t <em>one hundred percent</em> sure yet. There was a chance my future self had drawn the wrong conclusions, after all.</p>
+<p>I&#x27;d prevented her from catching Petrification Syndrome by eliminating that rodent. I was quite confident of that. But I wasn&#x27;t one hundred percent sure yet. There was a chance my future self had drawn the wrong conclusions, after all.</p>
 <p>&quot;What? I&#x27;m fine. Why do you ask?&quot;</p>
 <p>&quot;Oh, I don&#x27;t know… I just really want you to live a nice long life, I guess.&quot;</p>
-<p>&quot;Given the lifespan of my race, I&#x27;m quite likely to outlive you. I expect you to take good care of <em>your</em> health, mister.&quot;</p>
+<p>&quot;Given the lifespan of my race, I&#x27;m quite likely to outlive you. I expect you to take good care of your health, mister.&quot;</p>
 <p>&quot;You got it.&quot;</p>
 <p>When I spoke those words, Roxy&#x27;s face lit up with a big smile. From the looks of things, she really was just fine.</p>
 <p>Sylphie and Roxy were still alive. Things weren&#x27;t going to turn out the way they did in that diary. I wasn&#x27;t going to let that happen.</p>

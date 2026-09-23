@@ -9,22 +9,21 @@ nav_title = "Interlude"
 
 <p><strong>R</strong>OXY WAS AT HOME THAT DAY, drawing up a test for school. It was meant to be her day off, but Roxy was the sort of teacher who adjusted her lessons based on her students&#x27; comprehension of the material, meaning that she sometimes ended up making tests on her own time.</p>
 <p>&quot;Huh?&quot; All of a sudden, she became aware of the smell of something burning. She looked up and confirmed that the air was faintly white with smoke. Leaping up from her chair, she opened the door.</p>
-<p>In the corridor outside her room, the white smoke hung thicker still. Covering her mouth with the sleeve of her robe, she ran downstairs. <em>A fire?!</em> she thought.</p>
+<p>In the corridor outside her room, the white smoke hung thicker still. Covering her mouth with the sleeve of her robe, she ran downstairs. A fire?! she thought.</p>
 <p>By a stroke of luck, no one else was home. Sylphie was out on a walk with the children. Usually the mothers took turns taking the children on their walk, but today, Lilia and Zenith had accompanied her. They likely wouldn&#x27;t be back until early afternoon. Ordinarily, Aisha would have been home, but she was away in the King Dragon Realm with Rudeus. Anyone who&#x27;d need to be evacuated was already out.</p>
 <p>All the same, this was their home, and it was Roxy&#x27;s job to watch it. She&#x27;d be mortified if everyone came back to find the house gone, or even reduced to a smoldering ruin. Determined to stop the fire, she set off in search of the source of the smoke.</p>
 <p>She reached the bottom of the stairs, then looked through the various doors, all of which had been left open. On the right was the living room, then on the left the dining room. The fireplace in each room was empty, and the fire didn&#x27;t seem particularly close, so Roxy continued down the corridor toward the kitchen.</p>
 <p>There, she found the source of the fire.</p>
 <p>Technically, there were no flames. An unexpected figure loomed over the stove. She was a tall woman with long red hair twisted into a bun, and she wore black undergarments that clung to the curves of her body. It was Eris.</p>
-<p>It wasn&#x27;t unexpected for Eris to be in the house. The real surprise was finding her in the kitchen. As a rule, she never came in here. Yet</p>
-<p>today, in a shocking turn of events, here she was. Her arms were folded like always as she glared at something on the stove that was belching up billows of thick smoke. Whatever it was had long since charred to a crisp, making it impossible to identify… Roxy could just about make out that it was roughly twenty centimeters long.</p>
-<p><em>Did she find a rat?</em> Roxy wondered. Rats were <em>persona non grata</em> in the Greyrat household. The family rule was that, if you found a rat, you killed it on sight, burned the carcass while wearing gloves and a mask, then went out beyond the town limits to dispose of its ashes. Rudeus himself had established this rule. There had been something written about rats in the diary his future self had given him. He was particularly insistent that Roxy watch out for rats. Well, it wasn&#x27;t as if she were a toddler shoving everything in arm&#x27;s reach into her mouth, but these were the orders they had, and so she too kept an eye out. Especially while she was pregnant. But vows made in a storm are soon forgotten, as they say. She&#x27;d been less vigilant lately. But surely Eris wouldn&#x27;t burn a rat in their home kitchen. Surely.</p>
+<p>It wasn&#x27;t unexpected for Eris to be in the house. The real surprise was finding her in the kitchen. As a rule, she never came in here. Yet today, in a shocking turn of events, here she was. Her arms were folded like always as she glared at something on the stove that was belching up billows of thick smoke. Whatever it was had long since charred to a crisp, making it impossible to identify… Roxy could just about make out that it was roughly twenty centimeters long.</p>
+<p>Did she find a rat? Roxy wondered. Rats were persona non grata in the Greyrat household. The family rule was that, if you found a rat, you killed it on sight, burned the carcass while wearing gloves and a mask, then went out beyond the town limits to dispose of its ashes. Rudeus himself had established this rule. There had been something written about rats in the diary his future self had given him. He was particularly insistent that Roxy watch out for rats. Well, it wasn&#x27;t as if she were a toddler shoving everything in arm&#x27;s reach into her mouth, but these were the orders they had, and so she too kept an eye out. Especially while she was pregnant. But vows made in a storm are soon forgotten, as they say. She&#x27;d been less vigilant lately. But surely Eris wouldn&#x27;t burn a rat in their home kitchen. Surely.</p>
 <p>&quot;Eek!&quot; Eris jumped slightly as she noticed Roxy. It was exactly as though she&#x27;d been caught doing something she shouldn&#x27;t.</p>
 <p>&quot;Sneaking a bite to eat?&quot; Roxy inquired.</p>
 <p>&quot;N-no…&quot; No sooner had Eris spoken than her stomach grumbled loudly. That was when it clicked for Roxy. With no one home today, no one had been around to make lunch. Eris was supposed to go to the University of Magic that afternoon to teach swordcraft to the students, and usually she ate at the school cafeteria on those days. The kitchens at the university were open even on holidays.</p>
 <p>&quot;Why didn&#x27;t you go to the school cafeteria?&quot; Roxy asked.</p>
 <p>&quot;They&#x27;re closed. The cook collapsed or something.&quot;</p>
 <p>&quot;Oh dear.&quot; As it happened, Roxy had plans of her own to stop off at the cafeteria after work, so this was unwelcome news.</p>
-<p><em>Now, what happened here?</em> thought Roxy. She pointed at the smoking lump and asked, &quot;What&#x27;s that?&quot;</p>
+<p>Now, what happened here? thought Roxy. She pointed at the smoking lump and asked, &quot;What&#x27;s that?&quot;</p>
 <p>&quot;It&#x27;s a roast.&quot;</p>
 <p>&quot;I think it&#x27;s a touch overcooked.&quot;</p>
 <p>&quot;…It&#x27;s been a while since I cooked,&quot; Eris replied cagily.</p>
@@ -46,7 +45,7 @@ nav_title = "Interlude"
 <p>just messed it up this time.&quot;</p>
 <p>&quot;I see. But that&#x27;s the same as most people, isn&#x27;t it?&quot;</p>
 <p>There wasn&#x27;t any great difference between Eris and the majority of adventurers. However, in each party, there was usually one person who was best at frying up dried food and making soup. Roxy was by no means a natural, but she had traveled a lot by herself and picked it up as a necessity.</p>
-<p>&quot;I was <em>going</em> to learn. Ages ago.&quot;</p>
+<p>&quot;I was going to learn. Ages ago.&quot;</p>
 <p>&quot;Oh? From whom?&quot;</p>
 <p>&quot;…Geese.&quot;</p>
 <p>&quot;Ah, Geese would make a great teacher. He was a better cook than most,&quot; Roxy said. She deliberately didn&#x27;t change the subject. Geese might be their enemy, but that wasn&#x27;t relevant at the moment. &quot;What did you learn from him?&quot;</p>
@@ -63,7 +62,7 @@ nav_title = "Interlude"
 <p>Roxy&#x27;s soup wasn&#x27;t anything special, but it wasn&#x27;t horrible, either. It just wasn&#x27;t good. She&#x27;d mismeasured her seasonings, so the broth was way too salty, and she made far too much of it. There was enough soup for five people.</p>
 <p>Eris seemed to enjoy it regardless. &quot;More, please!&quot; she said. She ate three extra helpings. She ate it more ravenously than their usual meals, if anything, but Roxy assumed she was just being polite—taking extra helpings not because it tasted good, but because it&#x27;d be rude to leave it.</p>
 <p>Eris&#x27;s people skills were nowhere near that advanced. She was hungry right after exercising, and she&#x27;d been sweating so she was craving salt.</p>
-<p><em>Eris and I have hardly ever talked like this, just the two of us,</em> Roxy thought. Years had flown by since Eris joined the Greyrat family. They had never grown close despite their mutual respect for each other&#x27;s talents —perhaps because neither was especially good at expressing themselves in words.</p>
+<p>Eris and I have hardly ever talked like this, just the two of us, Roxy thought. Years had flown by since Eris joined the Greyrat family. They had never grown close despite their mutual respect for each other&#x27;s talents —perhaps because neither was especially good at expressing themselves in words.</p>
 <p>&quot;Hey, Roxy,&quot; Eris said, cutting through her thoughts.</p>
 <p>&quot;Do you want another helping?&quot;</p>
 <p>&quot;It&#x27;s not that. I wanted to ask a favor.&quot;</p>

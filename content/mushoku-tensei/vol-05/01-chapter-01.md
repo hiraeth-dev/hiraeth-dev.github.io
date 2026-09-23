@@ -19,21 +19,19 @@ nav_title = "Chapter 1"
 <p><em>The city that surrounds these remarkable buildings is laid out as neatly as the squares on a sheet of grid paper. At its outer edges, you&#x27;ll notice seven imposing towers, with vast green plains stretching out beyond them.</em></p>
 <p><em>This is a place not only rich in majesty, but also in perfect harmony with nature. No other city in the world is nearly as beautiful.</em></p>
 <p>&gt; —Excerpt from &quot;Wandering the World&quot; by the adventurer Bloody Kant</p>
-<p>Now <em>this</em> was the sort of city you&#x27;d expect to find in a fantasy world. I&#x27;d never seen a major metropolis with this much blue and green before, and the streets were laid out in a beautifully clean grid reminiscent of Sapporo or old Edo. The sight of it moved me in a way looking at Rikarisu never had. It was beautiful.</p>
+<p>Now this was the sort of city you&#x27;d expect to find in a fantasy world. I&#x27;d never seen a major metropolis with this much blue and green before, and the streets were laid out in a beautifully clean grid reminiscent of Sapporo or old Edo. The sight of it moved me in a way looking at Rikarisu never had. It was beautiful.</p>
 <p>&quot;Oh wow…&quot;</p>
 <p>The girl sitting next to me—currently gaping open-mouthed at the view—was named Eris. Eris Boreas Greyrat, to be precise. She was the granddaughter of Sauros, lord of Fittoa. For some time, I&#x27;d served as her personal tutor.</p>
 <p>Eris was extremely ferocious by nature. While she usually did what I told her, she was the kind of girl who&#x27;d punch a President in the face if they ticked her off badly enough. The mere mention of sailing ships was enough to make her cringe, though. She was prone to terrible seasickness.</p>
 <p>&quot;Hmmm.&quot;</p>
-<p>The fair-skinned guy with the shaved head, also gazing at the city in admiration, was our demon companion Ruijerd Superdia. You couldn&#x27;t tell at the moment, but his natural hair color was a vivid</p>
-<p>shade of emerald. It was a trait he had in common with every other member of the infamous Superd race. To most people in this world, green-haired demons were synonymous with death and destruction. But while Ruijerd could definitely be dangerous and impulsive at times, he was basically a kind old guy with a soft spot for kids as far as Eris and I were concerned.</p>
+<p>The fair-skinned guy with the shaved head, also gazing at the city in admiration, was our demon companion Ruijerd Superdia. You couldn&#x27;t tell at the moment, but his natural hair color was a vivid shade of emerald. It was a trait he had in common with every other member of the infamous Superd race. To most people in this world, green-haired demons were synonymous with death and destruction. But while Ruijerd could definitely be dangerous and impulsive at times, he was basically a kind old guy with a soft spot for kids as far as Eris and I were concerned.</p>
 <p>I&#x27;d never thought of these two as particularly romantic people, but apparently they could recognize a beautiful thing when it hit them in the face.</p>
 <p>&quot;It&#x27;s really something, innit?&quot;</p>
 <p>The last member of our little group was a man named Geese, who bore a strong resemblance to a monkey. Geese was an adventurer by trade and a good-for-nothing at heart; the sort of guy who got himself thrown into jail for cheating at gambling. He wasn&#x27;t a member of our party or anything, but he&#x27;d asked to tag along with us to Millis, so we&#x27;d been traveling together since the Great Forest.</p>
 <p>I would have asked him why he was bragging about this place as if he&#x27;d built it, but it was understandable now that I&#x27;d seen the view. I would have done the exact same thing in his shoes.</p>
 <p>&quot;Yes, it&#x27;s certainly something. But that lake is huge…doesn&#x27;t that cause all sorts of headaches during the rainy season?&quot;</p>
-<p>I was just being contrarian, honestly. I didn&#x27;t want him getting <em>too</em> smug. Still, I really had been wondering about this. That lake was at the very center of the city, and in the Great Forest just north of here, they got three months straight of torrential rain every single year. Surely that had some effect on the weather here, as well.</p>
-<p>&quot;Heh. I hear it was a real nuisance way back in the day, sure,&quot; Geese replied. &quot;But now they&#x27;ve got the weather totally under control, thanks to those seven magic towers. No way they&#x27;d drop a castle in the middle of a lake otherwise. You notice how it doesn&#x27;t</p>
-<p>have any outer walls or anything? That&#x27;s because the towers are protecting it with a magic barrier.&quot;</p>
+<p>I was just being contrarian, honestly. I didn&#x27;t want him getting too smug. Still, I really had been wondering about this. That lake was at the very center of the city, and in the Great Forest just north of here, they got three months straight of torrential rain every single year. Surely that had some effect on the weather here, as well.</p>
+<p>&quot;Heh. I hear it was a real nuisance way back in the day, sure,&quot; Geese replied. &quot;But now they&#x27;ve got the weather totally under control, thanks to those seven magic towers. No way they&#x27;d drop a castle in the middle of a lake otherwise. You notice how it doesn&#x27;t have any outer walls or anything? That&#x27;s because the towers are protecting it with a magic barrier.&quot;</p>
 <p>&quot;No kidding. So, you&#x27;d have to take those towers down first if you wanted to capture the city, huh?&quot;</p>
 <p>&quot;Uh, don&#x27;t even joke about that. The Holy Knights would toss you in jail if they overheard.&quot;</p>
 <p>&quot;Got it. I&#x27;ll be careful.&quot;</p>
@@ -48,19 +46,19 @@ nav_title = "Chapter 1"
 <p>Geese went over all of this for us in surprising detail as we drew closer to the gates.</p>
 <p>We ended up circling around the outskirts of Millishion before entering the Adventurers&#x27; District. According to Geese, outsiders entering through a different district were typically viewed with some suspicion and subjected to more lengthy inspections. This city had some annoying quirks, from the sound of things.</p>
 <p>The moment we passed through the gates, we found ourselves surrounded by chaos.</p>
-<p>Millishion looked gorgeous from a distance, to be sure, but it didn&#x27;t <em>feel</em> that different from any other city on the inside. There were stables and cheap inns clustered near the city entrance. A little further along, merchants running open-air stalls hawked their wares loudly to the crowd. I could see weapon shops even further along the central avenue. Presumably, you&#x27;d find slightly nicer inns down the quieter side streets. Also, the shining, silver guild headquarters was large enough to be visible right from the gates.</p>
+<p>Millishion looked gorgeous from a distance, to be sure, but it didn&#x27;t feel that different from any other city on the inside. There were stables and cheap inns clustered near the city entrance. A little further along, merchants running open-air stalls hawked their wares loudly to the crowd. I could see weapon shops even further along the central avenue. Presumably, you&#x27;d find slightly nicer inns down the quieter side streets. Also, the shining, silver guild headquarters was large enough to be visible right from the gates.</p>
 <p>First off, we dropped off our carriage at a nearby stable. As it turned out, they were willing to deliver our luggage to the inn of our choice for no extra charge. That had never been an option in any other town we&#x27;d visited, but in a big city like this, I guess you needed to distinguish yourself from the crowd if you wanted to survive as a business.</p>
 <p>Once we&#x27;d wrapped up at the stable, Geese turned to us and made an abrupt announcement. &quot;All right then, folks! I know where I&#x27;m headed next, so I guess this is goodbye!&quot;</p>
 <p>&quot;Huh? You&#x27;re leaving already?&quot; That was a little surprising. I&#x27;d been expecting him to tag along to the inn with us, at least.</p>
 <p>&quot;What&#x27;s the matter, boss? You gonna miss me?&quot;</p>
-<p>&quot;Well, yeah. Of course.&quot; I knew Geese was just teasing, but I responded honestly. We hadn&#x27;t known each other very long, but he definitely wasn&#x27;t a bad guy. A traveling companion you got along with was a valuable thing on long journeys like this. He&#x27;d made my life a <em>lot</em> less stressful for a while.</p>
+<p>&quot;Well, yeah. Of course.&quot; I knew Geese was just teasing, but I responded honestly. We hadn&#x27;t known each other very long, but he definitely wasn&#x27;t a bad guy. A traveling companion you got along with was a valuable thing on long journeys like this. He&#x27;d made my life a lot less stressful for a while.</p>
 <p>Not to mention, with him gone, our meals were going to be a lot less flavorful from now on. That seriously sucked.</p>
 <p>&quot;Aw, don&#x27;t be blue, boss. We&#x27;ll probably run into each other around town one of these days, you know?&quot; With a small shrug, Geese reached down and patted me on the head. But as he turned to leave, Eris blocked his path.</p>
 <p>&quot;Listen up, Geese!&quot; She&#x27;d assumed her trademark pose—arms folded, chin jutting into the air. &quot;You&#x27;d better teach me how to cook next time, got it?&quot;</p>
 <p>&quot;The answer&#x27;s still no, little lady. Talk about persistent…&quot; Scratching the back of his head, Geese slipped past Eris, then glanced over at Ruijerd. &quot;Hey, you take care of yourself too, chief!&quot;</p>
 <p>&quot;Good luck to you as well. Don&#x27;t get up to too much mischief, all right?&quot;</p>
 <p>&quot;Yeah, I hear you.&quot;</p>
-<p>With a little wave, Geese finally walked off into the crowd. <em>Talk about a casual goodbye</em>. You never would have known we&#x27;d spent two whole months on the road together.</p>
+<p>With a little wave, Geese finally walked off into the crowd. Talk about a casual goodbye. You never would have known we&#x27;d spent two whole months on the road together.</p>
 <p>&quot;Oh, right. One last thing, boss!&quot; Just before he was about to disappear from view, the familiar monkey face turned back toward me for a moment. &quot;Don&#x27;t forget to stop by the Adventurers&#x27; Guild soon, okay?&quot;</p>
 <p>&quot;…Hm? Uh, sure!&quot; We&#x27;d be going to the guild eventually, since we&#x27;d need to earn some money. But why was he bringing that up now?</p>
 <p>I didn&#x27;t get the chance to ask any follow-up questions. As soon as he heard my reply, Geese disappeared into the crowd.</p>
@@ -70,7 +68,7 @@ nav_title = "Chapter 1"
 <p>Once we had our room, the next step was to unpack and get ourselves organized, after which we&#x27;d head out to visit the town&#x27;s most important locations—particularly the local Guild. If there was any time, we&#x27;d engage in some idle sightseeing, then head back to our inn for a team meeting. That was our standard routine at this point, at any rate.</p>
 <p>&quot;Couldn&#x27;t we have stayed at a cheaper place?&quot; asked Eris, looking around the inn quizzically.</p>
 <p>I had to admit, she did have a point, especially since I was always lecturing her and Ruijerd about being careful with our money. At the moment, however, we had some financial breathing room. We&#x27;d been paid well for the three months we spent on guard duty in Doldia, and the beastfolk&#x27;s head warrior, Gyes, had also given us a nice chunk of change. Those funds added up to a bit more than seven Millis gold coins. We&#x27;d have to earn more money here eventually, but in the short term, we could afford a few modest luxuries.</p>
-<p>&quot;It can&#x27;t hurt to upgrade every once in a while, right?&quot; Sometimes it&#x27;s nice to sleep in a bed that&#x27;s actually <em>soft</em>.</p>
+<p>&quot;It can&#x27;t hurt to upgrade every once in a while, right?&quot; Sometimes it&#x27;s nice to sleep in a bed that&#x27;s actually soft.</p>
 <p>A quick glance over at Eris suggested she wasn&#x27;t entirely convinced. I went ahead and opened the door to our room anyway.</p>
 <p>It was a neat, tidy little space. I appreciated that they&#x27;d already provided us with a table and chairs in the far corner. The door had a functional lock, and the windows came with shutters. It wasn&#x27;t quite comparable to the business hotels back in Japan, but by the standards of this world, this was definitely on the nicer side.</p>
 <p>Now that we&#x27;d reached our room, we had a few things to take care of.</p>
@@ -85,7 +83,7 @@ nav_title = "Chapter 1"
 <p>Given that, our biggest long-term problem would probably be financial in nature. &quot;For the moment, I&#x27;m thinking we should stick around in this city for a while to save up some money.&quot;</p>
 <p>&quot;Why?&quot; asked Eris, furrowing her brow.</p>
 <p>It was a reasonable question. I tried to answer as clearly as I could. &quot;Well, we&#x27;ve made it through the Demon Continent and the Great Forest just fine, but things tend to be much pricier in human territory.&quot;</p>
-<p>I thought back to the market research I&#x27;d conducted on our way over here. I never got the chance to poke around in Zant Port, but I still remembered what most things went for in various parts of the Demon Continent and in the small town we stopped at past the Blue Wyrm mountains. Pretty much <em>everything</em> across the board was more expensive in Millis and the Kingdom of Asura. This inn&#x27;s nightly rate would have been completely mind-boggling by the standards of the Demon Continent.</p>
+<p>I thought back to the market research I&#x27;d conducted on our way over here. I never got the chance to poke around in Zant Port, but I still remembered what most things went for in various parts of the Demon Continent and in the small town we stopped at past the Blue Wyrm mountains. Pretty much everything across the board was more expensive in Millis and the Kingdom of Asura. This inn&#x27;s nightly rate would have been completely mind-boggling by the standards of the Demon Continent.</p>
 <p>Humankind were a greedy bunch, evidently. We cared much more about money than any of the other races did.</p>
 <p>&quot;The value of Millis currency is very high. Only Asuran coins are worth more, as far as I know. That does mean everything is expensive here, but it also means that jobs at the local Guild will pay very well. Instead of stopping for a week at every town like we did on the Demon Continent, I think it&#x27;s more efficient for us to stay here for about a month and save up lots of cash all at once.&quot;</p>
 <p>Once we had a nice pile of valuable Millis coins in our pockets, the rest of the journey would go much more smoothly. They&#x27;d go a long way toward getting us through the southern regions of the Central Continent.</p>
@@ -93,11 +91,11 @@ nav_title = "Chapter 1"
 <p>Eris grimaced at the word &quot;boat.&quot; Our previous sea voyage was a miserable memory for her. I felt very differently, of course. My recollections of comforting her while she was seasick continued to be a source of great pleasure.</p>
 <p>&quot;All things considered, I think we should focus on earning money in Millishion for a while, then head straight for the Kingdom of Asura. We might not be able to do much about improving the reputation of the Superd for a while, though… Is that all right with you, Ruijerd?&quot;</p>
 <p>&quot;Of course,&quot; Ruijerd replied, nodding slightly.</p>
-<p>I hadn&#x27;t really expected him to object. At this point, I was helping out with that because I <em>wanted</em> to.</p>
+<p>I hadn&#x27;t really expected him to object. At this point, I was helping out with that because I wanted to.</p>
 <p>Personally, I would have been happy to settle down here for a while and devote some real effort to changing the public&#x27;s opinion of his people. Six months or a year of diligent work in a major city like this could have a far-reaching impact.</p>
 <p>That said, we&#x27;d already spent a year and a half just making it this far. I didn&#x27;t want to drag out this marathon of a journey even longer than necessary. I mean, I&#x27;d been &quot;missing&quot; for eighteen months now, right? Paul and Zenith were probably worried sick.</p>
 <p><em>Wonder what they&#x27;re up to right now… Oh, whoops. I never got around to sending them a letter, did I?</em></p>
-<p>I kept meaning to do that, but events were constantly conspiring to distract me. It must have slipped my mind half a dozen times by now. <em>Well, no time like the present…</em></p>
+<p>I kept meaning to do that, but events were constantly conspiring to distract me. It must have slipped my mind half a dozen times by now. Well, no time like the present…</p>
 <p>&quot;Okay then. Let&#x27;s make tomorrow an off day, shall we?&quot;</p>
 <p>This wasn&#x27;t a new concept for us. I&#x27;d announced &quot;off days&quot; several times in the past. At first, it was out of concern for Eris, but at some point, I started calling them primarily for my own sake. The girl never showed any signs of fatigue, and Ruijerd was the toughest man I knew. I was definitely the weakling of this party.</p>
 <p>Of course, I was much stronger than I&#x27;d ever been in my previous life. I couldn&#x27;t hold a candle to these two, but I was on the level of a typical adventurer, at least. Physical exhaustion wasn&#x27;t usually an issue.</p>
@@ -121,7 +119,7 @@ nav_title = "Chapter 1"
 <p>&quot;Oh, come on! I can handle a few Goblins on my own!&quot; Eris interrupted indignantly. The look on her face suggested she was more than a little offended.</p>
 <p>What was I supposed to do here?</p>
 <p>Eris was a very competent fighter. And Goblins were E-ranked monsters—not exactly a challenging foe. They didn&#x27;t live on the Demon Continent, so I&#x27;d never actually seen one, but from what I&#x27;d heard, even a child who&#x27;d learned some basic swordplay could handle them, no sweat.</p>
-<p>Maybe it would be <em>slightly</em> overprotective to have her take our bodyguard along. After all, the girl could handle herself just fine against even B-ranked monsters…but still. When a girl adventurer gets beaten by a Goblin, that&#x27;s an instant sex-slave bad end, right? I didn&#x27;t know that much about the Goblins of this world, but that was definitely their whole deal back in mine. And I mean, if <em>I</em> was the lucky Goblin who managed to knock Eris unconscious, I&#x27;d certainly enjoy myself. Wouldn&#x27;t anyone? Assuming they were a little green monster, of course? I totally would. Just hypothetically.</p>
+<p>Maybe it would be slightly overprotective to have her take our bodyguard along. After all, the girl could handle herself just fine against even B-ranked monsters…but still. When a girl adventurer gets beaten by a Goblin, that&#x27;s an instant sex-slave bad end, right? I didn&#x27;t know that much about the Goblins of this world, but that was definitely their whole deal back in mine. And I mean, if I was the lucky Goblin who managed to knock Eris unconscious, I&#x27;d certainly enjoy myself. Wouldn&#x27;t anyone? Assuming they were a little green monster, of course? I totally would. Just hypothetically.</p>
 <p>If something that terrible happened to Eris the moment I took my eyes off her, I&#x27;d never be able to face Ghislaine or Philip ever again…</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-05/insert-01.webp" alt="Illustration" loading="lazy" />
@@ -141,7 +139,7 @@ nav_title = "Chapter 1"
 <p>&quot;Thanks!&quot; she said, nodding in satisfaction. &quot;Don&#x27;t worry, I&#x27;ve got this!&quot;</p>
 <p>&quot;How about you, Ruijerd? What will you be up to tomorrow?&quot;</p>
 <p>&quot;I think I&#x27;ll go say hello to an acquaintance of mine.&quot;</p>
-<p>That had to be the first time I&#x27;d ever heard him use the word <em>acquaintance</em>. &quot;You don&#x27;t say? I didn&#x27;t know you…had any of those, actually.&quot;</p>
+<p>That had to be the first time I&#x27;d ever heard him use the word acquaintance. &quot;You don&#x27;t say? I didn&#x27;t know you…had any of those, actually.&quot;</p>
 <p>&quot;Well, of course I do.&quot;</p>
 <p>From what I knew of his backstory, Ruijerd had been wandering the wilderness all by his lonesome for quite some time…but after five hundred years of that, I guess he&#x27;d probably run into a few people just by chance. It seemed a little strange that one of those people would be living all the way out here in Millishion. Then again, this was a huge city, so maybe it made sense statistically.</p>
 <p>&quot;What kind of person are they?&quot;</p>
@@ -150,22 +148,21 @@ nav_title = "Chapter 1"
 <p>***</p>
 <p>The next morning, Eris and Ruijerd headed out on their respective errands, and I went out into town to buy paper, pens, and ink. I figured I could take the chance to wander around the open-air stalls for a while until I had a decent sense for what most things cost in Millis.</p>
 <p>As it turned out, food was actually a good bit cheaper than it was on the Demon Continent. Naturally, the selection was also much, much better. There was plenty of fresh meat and fish available, and they even had a nice range of vegetables.</p>
-<p>The biggest single surprise was definitely the eggs, though. There were lots of them, they were all freshly laid, and they were <em>incredibly</em> cheap. I&#x27;d seen eggs for sale a few times in the Demon Continent, but those were laid by monsters rather than birds. The idea was to make them hatch, let the baby creature imprint on you, and then train it as you liked. Naturally, nobody ate those things. They were way too expensive to turn into an omelet.</p>
+<p>The biggest single surprise was definitely the eggs, though. There were lots of them, they were all freshly laid, and they were incredibly cheap. I&#x27;d seen eggs for sale a few times in the Demon Continent, but those were laid by monsters rather than birds. The idea was to make them hatch, let the baby creature imprint on you, and then train it as you liked. Naturally, nobody ate those things. They were way too expensive to turn into an omelet.</p>
 <p>Chickens were a thing in this world, by the way. There had been a few people who raised them back in Buena Village, and from the looks of things, poultry was a major industry in Millis as well.</p>
-<p>All of a sudden, I was <em>dying</em> to eat egg on rice again. I know, I know…pretty basic stuff. But c&#x27;mon! It&#x27;s a nutritionally complete meal all in itself!</p>
+<p>All of a sudden, I was dying to eat egg on rice again. I know, I know…pretty basic stuff. But c&#x27;mon! It&#x27;s a nutritionally complete meal all in itself!</p>
 <p>Sadly, while I had plenty of eggs available to me at the moment, there didn&#x27;t seem to be any rice or soy sauce to go with them. Bread was apparently the cornerstone of the Millis diet, just like it was in Asura.</p>
 <p>Rice did exist in this world, even if it wasn&#x27;t for sale in the market here. It was the staple food in the northern and eastern regions of the Central Continent, and Roxy once mentioned that it was available in the Kingdom of Shirone as well. They mostly used it as the base for something like fried rice or paella, with lots of meat, vegetables, and seafood. Unfortunately, it sounded like they didn&#x27;t do poultry farming in Shirone, so eggs were supposedly a rare commodity. Maybe the climate wasn&#x27;t suitable for raising chickens.</p>
 <p>As for soy sauce, I&#x27;d never seen anything like it in this world. I once noticed something that looked a lot like a soybean while paging through a dictionary of plants, but it seemed possible that nobody had tried fermenting them and making them into sauce yet.</p>
-<p><em>No, no. Can&#x27;t let myself get pessimistic!</em> There were eggs and rice here, right? In that case, there <em>had</em> to be soy sauce out there somewhere, too. I just needed to look hard enough.</p>
+<p>No, no. Can&#x27;t let myself get pessimistic! There were eggs and rice here, right? In that case, there had to be soy sauce out there somewhere, too. I just needed to look hard enough.</p>
 <p>Someday, I&#x27;d collect all the ingredients and make my dream come true. Even if the eggs were a bit unsanitary, detoxification magic could handle a little food poisoning just fine.</p>
 <p>Once I&#x27;d finished up with my quick survey of the local market and purchased a basic stationery set, I started to make my way back toward the inn while trying to figure out exactly what to put in this letter.</p>
 <p>This was going to be the first time I&#x27;d ever written to Paul or Sylphie. Should I start with my years in the Boreas household…? No, the important thing was to let them know I was safe. Better to begin with our teleportation to the Demon Continent.</p>
-<p>Come to think of it, I had a <em>lot</em> to tell them about. I&#x27;d started traveling with a legendary Superd warrior, met the Great Demon Empress, and even spent three whole months in a beastfolk village.</p>
+<p>Come to think of it, I had a lot to tell them about. I&#x27;d started traveling with a legendary Superd warrior, met the Great Demon Empress, and even spent three whole months in a beastfolk village.</p>
 <p>Hmm. Were they even going to believe any of that?</p>
 <p>I&#x27;d tell them the truth either way, of course. But it seemed unlikely that anyone back home would buy my story about receiving a magical Demon Eye from Kishirika Kishirisu herself.</p>
 <p>Speaking of beastfolk… It&#x27;d be nice to know if Ghislaine was all right. She&#x27;d presumably been whisked off to some random corner of the globe, too. Assuming she didn&#x27;t get dropped in the middle of a volcano or something, I had to think she was safe. The woman was a force of nature, after all.</p>
-<p>How many other people were teleported, anyway? The wall of light came from the Citadel of Roa, so it seemed possible everyone in the Boreas estate had suffered the same fate as Eris and me. Hmm. That would be Philip, Sauros, Hilda, Alphonse the butler…and all the</p>
-<p>maids, to boot. I felt like Old Man Sauros could bellow his way through life just fine no matter where he ended up, but still…</p>
+<p>How many other people were teleported, anyway? The wall of light came from the Citadel of Roa, so it seemed possible everyone in the Boreas estate had suffered the same fate as Eris and me. Hmm. That would be Philip, Sauros, Hilda, Alphonse the butler…and all the maids, to boot. I felt like Old Man Sauros could bellow his way through life just fine no matter where he ended up, but still…</p>
 <p>&quot;Yeah, now I&#x27;ve got myself worried…&quot;</p>
 <p>Murmuring to myself, I turned onto a narrow side street. Millishion had quite a few of these, as it turned out. The city layout looked neat and clean at a distance, but as old buildings were knocked down and replaced, dingy little alleys like this tended to open up between them.</p>
 <p>Of course, everything was still aligned on a grid, so you didn&#x27;t have to worry about getting lost in some winding maze. That was why I&#x27;d decided to take a different route back to the inn. It couldn&#x27;t hurt to explore the city&#x27;s streets a bit. If I got lucky, I might stumble across some charming little lover&#x27;s lane or something. Our redhead had something of a violent personality, but it seemed like she was capable of appreciating a bit of beauty now and then. And if we stayed in this city a whole month, we&#x27;d probably have time for a &quot;date&quot; or two. I could earn myself a few bonus affection points if I found some nice spots to take her.</p>
@@ -173,28 +170,26 @@ nav_title = "Chapter 1"
 <p>&quot;Move it, kid!&quot;</p>
 <p>I instantly pressed myself against the alley wall.</p>
 <p>Don&#x27;t get the wrong idea, now. I just wanted to avoid any senseless squabbling. I mean, they seemed to be in a very big hurry! And I wasn&#x27;t. It&#x27;s not like I got out of their way because they looked kind of scary or anything. Really, I promise! I ain&#x27;t scared of no delinquents! Cross my heart and swear to die.</p>
-<p>Think about it, anyway. You can&#x27;t judge a book by its cover, right? They did <em>look</em> like a bunch of street punks, but for all I knew one of them was actually some famous master swordsman.</p>
+<p>Think about it, anyway. You can&#x27;t judge a book by its cover, right? They did look like a bunch of street punks, but for all I knew one of them was actually some famous master swordsman.</p>
 <p>If I&#x27;d gotten over-confident and objected to their rudeness, I might have found myself getting sliced to pieces by the Nobleman of Fury, or something. I mean, this was a world where a little girl on the verge of starving in the street could turn out to be a Great Demon Empress, right? No reason to get in a fight over nothing.</p>
 <p>That was my initial conclusion, at least. But as they shoved past me, I noticed that two guys in the middle of the group were carrying a burlap sack. And there was a small hand sticking out of it. It seemed like they were carrying off a kid—inside a bag, no less.</p>
-<p>### <em>Again with the kidnappers?</em></p>
+<p>### Again with the kidnappers?</p>
 <p>This world had an ample supply of those, if nothing else. Criminals were always snatching up children every chance they got. It wasn&#x27;t a regional issue, either; it happened everywhere, from the Kingdom of Asura to the Demon Continent, the Great Forest, and the Holy Country of Millis.</p>
-<p>From what Geese told me, kidnapping tended to be a very profitable line of work. The world was mostly at peace right now, with the exception of a few minor conflicts here and there. A few slaves did trickle onto the market from the central and northern regions of the Central Continent, but that was about it. And many, many people wanted slaves. That was particularly true of the richer countries like Millis and Asura, where the wealthy upper classes were constantly looking to buy people. Basically, the supply just wasn&#x27;t</p>
-<p>large enough to meet demand. Kidnapping victims fetched high prices on the market, and as long as this was true, the issue was never going to go away. To eliminate the practice entirely, you&#x27;d apparently have to start a massive war or two.</p>
+<p>From what Geese told me, kidnapping tended to be a very profitable line of work. The world was mostly at peace right now, with the exception of a few minor conflicts here and there. A few slaves did trickle onto the market from the central and northern regions of the Central Continent, but that was about it. And many, many people wanted slaves. That was particularly true of the richer countries like Millis and Asura, where the wealthy upper classes were constantly looking to buy people. Basically, the supply just wasn&#x27;t large enough to meet demand. Kidnapping victims fetched high prices on the market, and as long as this was true, the issue was never going to go away. To eliminate the practice entirely, you&#x27;d apparently have to start a massive war or two.</p>
 <p>In any case…what now?</p>
 <p>Given the number of men, we were probably talking about a premeditated crime. It wouldn&#x27;t be surprising if the kid in that bag was the son or daughter of someone relatively prominent in these parts.</p>
-<p>To be honest, I didn&#x27;t really <em>want</em> to get mixed up in this. The last time I rescued children from a gang of kidnappers, I ended up being taken for one of the criminals and tossed into a jail cell. And that was only a few months ago, so the memory was still painfully fresh.</p>
+<p>To be honest, I didn&#x27;t really want to get mixed up in this. The last time I rescued children from a gang of kidnappers, I ended up being taken for one of the criminals and tossed into a jail cell. And that was only a few months ago, so the memory was still painfully fresh.</p>
 <p>Was I going to just leave the kid to his fate, then?</p>
-<p>No, no. Of course not. There&#x27;d always be kidnappers out there, to be sure. And this <em>was</em> bringing back some unpleasant memories. But none of that justified looking the other way.</p>
-<p>The first rule of team Dead End was &quot;Never abandon a child in peril.&quot; And the <em>second</em> rule of team Dead End was &quot;Never, <em>ever</em> abandon a child in peril.&quot;</p>
+<p>No, no. Of course not. There&#x27;d always be kidnappers out there, to be sure. And this was bringing back some unpleasant memories. But none of that justified looking the other way.</p>
+<p>The first rule of team Dead End was &quot;Never abandon a child in peril.&quot; And the second rule of team Dead End was &quot;Never, ever abandon a child in peril.&quot;</p>
 <p>Dead End was a team of good guys. We stood steadfast in the face of evil; we rescued children every chance we got. And little by little, we spread the good word about Ruijerd and the Superd.</p>
 <p>I turned back and quietly followed the five men with the burlap sack.</p>
 <p>***</p>
 <p>My sneaking skills had apparently leveled up at some point. I guess following Eris and company around in Doldia was good practice. The kidnappers reached and entered their destination, a nondescript warehouse, without so much as a glance in my direction. Pretty sloppy bunch. They obviously needed to improve their sense of smell, for one thing.</p>
-<p>The warehouse in question was located in a quiet corner of the Adventurers&#x27; District, tucked away even further from the crowds than the inn we were staying at. You couldn&#x27;t see this place from the street; the only way to reach it was by squeezing through a narrow alleyway. There was no way a horse-drawn carriage could get to it. It wouldn&#x27;t even be possible to <em>carry</em> anything bulky out. I wondered why the hell anyone would put a storage facility in such an inaccessible location. The warehouse had probably been built some time before the buildings that now surrounded it. Sometimes the city planners can really screw you over, huh?</p>
+<p>The warehouse in question was located in a quiet corner of the Adventurers&#x27; District, tucked away even further from the crowds than the inn we were staying at. You couldn&#x27;t see this place from the street; the only way to reach it was by squeezing through a narrow alleyway. There was no way a horse-drawn carriage could get to it. It wouldn&#x27;t even be possible to carry anything bulky out. I wondered why the hell anyone would put a storage facility in such an inaccessible location. The warehouse had probably been built some time before the buildings that now surrounded it. Sometimes the city planners can really screw you over, huh?</p>
 <p>Not that it really mattered. Once I felt confident that the group wasn&#x27;t just stopping by, I moved around to the back of the building and used earth magic to float off the ground, which allowed me to slip into the building through a relatively high window. I lowered myself to the floor, crept over to a jumbled stack of wooden boxes, hid inside one, then cautiously peered out to get the lay of the land.</p>
 <p>The five kidnappers were standing around on the other side of the dimly lit warehouse, talking things over. From what I could gather, they had lots of friends drinking in the bar next door, and somebody needed to go inform them that the &quot;job&quot; was taken care of.</p>
-<p>I had two basic options at this point. I could try to take these five out before they brought the whole gang over here, or I could stay put, get a careful look at their buddies&#x27; faces, and just sneak out with the kid when I got the chance. The latter approach sounded</p>
-<p>much more appealing, so I decided to settle into my box and get comfy.</p>
+<p>I had two basic options at this point. I could try to take these five out before they brought the whole gang over here, or I could stay put, get a careful look at their buddies&#x27; faces, and just sneak out with the kid when I got the chance. The latter approach sounded much more appealing, so I decided to settle into my box and get comfy.</p>
 <p>What was in this thing, anyway? Thanks to the poor lighting, I hadn&#x27;t really gotten a good look at its contents. Whatever they were, they were definitely made of cloth. Too small to be shirts or pants, though. And for some reason, lying in a pile of them made me feel oddly…tranquil.</p>
 <p>I reached out and took one into my hand. The shape and texture of it was familiar—a carefully sewn piece of fabric with some definite depth and three distinct holes. In one particular section, the cloth was twice as thick; I thought I could sense a tinge of powerful mystic energy when I touched that bit.</p>
 <p>&quot;Whoa! Hold on, these are panties!&quot;</p>
@@ -207,8 +202,7 @@ nav_title = "Chapter 1"
 <p>Ah, what was I thinking? I had a perfectly suitable mask right on hand.</p>
 <p><em>Woooo! I&#x27;m a burning hunk of ecstasy, baby!</em></p>
 <p><em>Just kidding.</em></p>
-<p>For a moment, I paused to consider stripping off my robe to better hide my identity, but then I remembered I wasn&#x27;t even</p>
-<p>wearing it. Didn&#x27;t have my staff, either. I&#x27;d just been on a shopping trip, after all.</p>
+<p>For a moment, I paused to consider stripping off my robe to better hide my identity, but then I remembered I wasn&#x27;t even wearing it. Didn&#x27;t have my staff, either. I&#x27;d just been on a shopping trip, after all.</p>
 <p><em>All right then. Let&#x27;s roll!</em></p>
 <p>&quot;Whoa!&quot;</p>
 <p>&quot;H-he&#x27;s wearing panties on his head, man…&quot;</p>
@@ -218,29 +212,28 @@ nav_title = "Chapter 1"
 <p>&quot;Wh-who the hell are you supposed to be?&quot;</p>
 <p>&quot;I am Ruijerd of Dead End!&quot;</p>
 <p>&quot;What? Dead End?&quot;</p>
-<p><em>Oh crap! I messed up!</em> Introducing myself that way was pure habit by now, so the words just slipped out of my mouth. This was one case where I really shouldn&#x27;t have said anything.</p>
-<p><em>Sorry, Ruijerd! As of today, you&#x27;re a creepy weirdo who rescues children while wearing panties on your head! Don&#x27;t worry, though. I</em>  will <em>save the kid, no matter what the cost!</em></p>
+<p>Oh crap! I messed up! Introducing myself that way was pure habit by now, so the words just slipped out of my mouth. This was one case where I really shouldn&#x27;t have said anything.</p>
+<p>Sorry, Ruijerd! As of today, you&#x27;re a creepy weirdo who rescues children while wearing panties on your head! Don&#x27;t worry, though. I  will save the kid, no matter what the cost!</p>
 <p>&quot;Curse you, foul kidnappers! Thanks to you, an innocent man has just been badly slandered! Your villainy won&#x27;t go unpunished!&quot;</p>
 <p>&quot;Look, kid, go play hero somewhere else! We ain&#x27;t—&quot;</p>
 <p>&quot;I didn&#x27;t come here to talk, you fool! Sunrise Attaaack!&quot;</p>
 <p>&quot;Gurgh!&quot;</p>
-<p>I cut the conversation short by firing off a Stone Cannon spell. It was always nice to get a few preemptive attacks in. This was the</p>
-<p>same approach I&#x27;d used to rescue the Great Demon Empress from that dirty old pedo back in Wind Port, actually. &quot;Take that! And that!&quot;</p>
+<p>I cut the conversation short by firing off a Stone Cannon spell. It was always nice to get a few preemptive attacks in. This was the same approach I&#x27;d used to rescue the Great Demon Empress from that dirty old pedo back in Wind Port, actually. &quot;Take that! And that!&quot;</p>
 <p>&quot;Guh!&quot;</p>
 <p>&quot;Blagh!&quot;</p>
 <p>In the blink of an eye, I knocked out the four men who&#x27;d remained in the warehouse. Once they were all down, I hurried over to check up on their captive. &quot;Are you all right, young man?! Hmm. Looks like he&#x27;s unconscious…&quot;</p>
-<p>I felt like I&#x27;d seen this boy somewhere before. There was something…<em>really</em> familiar about him, actually. Couldn&#x27;t quite put my finger on it, though. Weird.</p>
+<p>I felt like I&#x27;d seen this boy somewhere before. There was something…really familiar about him, actually. Couldn&#x27;t quite put my finger on it, though. Weird.</p>
 <p>Well, whatever. This was no time to be thinking about it. I needed to get out of here before the rest of the gang arrived… But even as that thought ran through my head, a whole crowd of men had appeared in the warehouse doorway.</p>
 <p>&quot;Whoa! What the hell? He took down all four of them!&quot;</p>
 <p>&quot;The kid knows how to fight! Get the captain over here, pronto!&quot;</p>
-<p>&quot;He&#x27;s been drinkin&#x27; a <em>lot</em> today, you know?&quot;</p>
+<p>&quot;He&#x27;s been drinkin&#x27; a lot today, you know?&quot;</p>
 <p>&quot;He&#x27;s still one hell of a fighter, even when he&#x27;s plastered!&quot;</p>
-<p>Two men turned and ran off, presumably to get their &quot;captain.&quot; That still left more than ten people for me to deal with, and now I had to assume <em>more</em> reinforcements would be coming.</p>
+<p>Two men turned and ran off, presumably to get their &quot;captain.&quot; That still left more than ten people for me to deal with, and now I had to assume more reinforcements would be coming.</p>
 <p>This was not good. This was not good at all. Maybe I really should have looked the other way…or waited until tomorrow, when I could have convinced Ruijerd to help me out. Charging in solo was definitely a mistake. At this point, my only option was to take down the entire gang.</p>
 <p>&quot;What kind of a freak is this guy? He&#x27;s wearing panties on his head…&quot;</p>
 <p>&quot;Wait, was he here to steal our underwear?!&quot;</p>
 <p>&quot;Oh god! Is he some kind of sex criminal?!&quot;</p>
-<p>Now that I looked more closely, there were actually a few women in the group as well. <em>Sorry, Ruijerd. Seriously…I owe you one.</em></p>
+<p>Now that I looked more closely, there were actually a few women in the group as well. Sorry, Ruijerd. Seriously…I owe you one.</p>
 <p>With one final apology to the man I&#x27;d so deeply wronged, I turned my focus to the task at hand. Fortunately, these thugs were nothing special. They kept rushing at me in a straight line, so it was easy enough to fire off a Stone Cannon before they got too close. They weren&#x27;t quick enough to dodge my magic, and a single hit was enough to knock most of them unconscious. None of them were even armed. There were no magicians to worry about, either. Everything was going better than expected so far.</p>
 <p>&quot;D-damn, we can&#x27;t even get close…&quot;</p>
 <p>&quot;What the hell is with this kid?! Is he using some sort of magic item?!&quot;</p>
@@ -249,18 +242,18 @@ nav_title = "Chapter 1"
 <p>&quot;The captain will be here soon, everyone! We just have to hold out until then!&quot;</p>
 <p><em>Well, so much for that.</em></p>
 <p>Two women had appeared in the warehouse doorway. One of them was a warrior clad in a suit of bikini armor; the other was a robed magician. It hadn&#x27;t taken very long for this wave of reinforcements to arrive, but I guess that wasn&#x27;t surprising. Their whole gang was apparently drinking just next door.</p>
-<p>The warrior woman was showing off a <em>lot</em> of skin, for some reason. I hadn&#x27;t seen a single fighter on the Demon Continent dressed nearly so skimpily. She stood out even more in comparison to the magician, who was wearing a perfectly ordinary outfit.</p>
-<p><em>Damn! Who is this woman?! I can&#x27;t…tear…my eyes…away!</em> &quot;I&#x27;ll keep him busy, Shierra! Cover me!&quot;</p>
+<p>The warrior woman was showing off a lot of skin, for some reason. I hadn&#x27;t seen a single fighter on the Demon Continent dressed nearly so skimpily. She stood out even more in comparison to the magician, who was wearing a perfectly ordinary outfit.</p>
+<p>Damn! Who is this woman?! I can&#x27;t…tear…my eyes…away! &quot;I&#x27;ll keep him busy, Shierra! Cover me!&quot;</p>
 <p>&quot;Right!&quot;</p>
-<p>The bikini lady drew the sword at her waist and rushed toward me. Meanwhile, the robed magician in the rear took up her staff and…oh, crap. Bikini lady&#x27;s breasts were swaying like crazy every time she took a step. <em>Don&#x27;t let them jiggle that vigorously, girl! They&#x27;re going to break free!</em></p>
+<p>The bikini lady drew the sword at her waist and rushed toward me. Meanwhile, the robed magician in the rear took up her staff and…oh, crap. Bikini lady&#x27;s breasts were swaying like crazy every time she took a step. Don&#x27;t let them jiggle that vigorously, girl! They&#x27;re going to break free!</p>
 <p>It was honestly bizarre. If nothing else, you&#x27;d expect bikini armor to keep your chest firmly in place so it wouldn&#x27;t cause you any problems in battle. Her whole outfit seemed to serve no practical purpose whatsoever.</p>
-<p><em>Oh man, just look at those things go! Right…left…right!</em> They were drawing closer, swaying back and forth… For a moment, they drooped down, then bounced back up toward my—</p>
+<p>Oh man, just look at those things go! Right…left…right! They were drawing closer, swaying back and forth… For a moment, they drooped down, then bounced back up toward my—</p>
 <p>&quot;Hiyaaaa!&quot;</p>
 <p>All of a sudden, I noticed that bikini lady was swinging her sword directly at my face.</p>
-<p>&quot;Gaah!&quot; Tumbling reflexively backward, I managed to avoid the strike by a hair&#x27;s breadth. <em>That was close! Damn it. This girl fights dirty!</em></p>
+<p>&quot;Gaah!&quot; Tumbling reflexively backward, I managed to avoid the strike by a hair&#x27;s breadth. That was close! Damn it. This girl fights dirty!</p>
 <p>Was she wearing that thing as a deliberate distraction?!</p>
 <p>At this point, I noticed a faint voice mumbling something from across the room.</p>
-<p>&quot;—<em>converge where thou wilt and issue forth a single pure stream thereof—</em>&quot;</p>
+<p>&quot;—converge where thou wilt and issue forth a single pure stream thereof—&quot;</p>
 <p>Oh crap. That was a magic incantation! Someone was about to shoot a Waterball at me!</p>
 <p>Thinking fast, I extended my hand in the general direction of the magician. My spell of choice this time was Stone Wall. The best way to ward off a water-based magic spell was to get some nice, absorbent sand and dirt in its way.</p>
 <p>As I rushed to cast the spell, I quickly glanced over and found the magician pointing her staff straight at me, just about to launch her attack.</p>
@@ -278,14 +271,14 @@ nav_title = "Chapter 1"
 <p>Neither the warrior nor her magician buddy were especially talented, to be honest. But at this rate, I was never going to take them down. God help me if she were to suffer a critical wardrobe malfunction. I&#x27;d probably be cut to pieces instantly.</p>
 <p>How had they learned of my one and only weakness?! Who sold me out, damn it?!</p>
 <p><em>Okay, calm down.</em></p>
-<p>I was just distracting <em>myself</em> here, simple as that. This wasn&#x27;t some deliberate tactic on her part. The question was…what was I going to do about it? If I wanted to turn this into a fair fight, I needed to get her to cover her chest somehow. And her pleasantly plump behind as well, for that matter. How could I manipulate her into putting some actual clothes on?</p>
+<p>I was just distracting myself here, simple as that. This wasn&#x27;t some deliberate tactic on her part. The question was…what was I going to do about it? If I wanted to turn this into a fair fight, I needed to get her to cover her chest somehow. And her pleasantly plump behind as well, for that matter. How could I manipulate her into putting some actual clothes on?</p>
 <p>Maybe I could say something to try to get her all embarrassed… Hmm, no. If she&#x27;d chosen this outfit deliberately, that approach might backfire.</p>
 <p>&quot;Gasp!&quot;</p>
 <p>Of course! Now I had it!</p>
 <p>Are you familiar with the story of the north wind and the sun, everyone?</p>
 <p>Once upon a time, the north wind and the sun competed to see which of them could compel a certain traveler to undress. The north wind tried to blow off her clothes with cold, piercing gusts, but the traveler simply piled on extra layers of clothing instead. The sun,</p>
 <p>however, simply warmed her up until she started taking off her clothes of her own volition.</p>
-<p>In other words, if I made things nice and hot and here, she&#x27;d <em>totally</em> strip off that—</p>
+<p>In other words, if I made things nice and hot and here, she&#x27;d totally strip off that—</p>
 <p><em>No, no, no! That&#x27;s exactly what we don&#x27;t want, remember?!</em></p>
 <p>Right. Cold. Cold was we needed here.</p>
 <p>&quot;You&#x27;ve got nowhere left to run,&quot; called the woman warrior.</p>
@@ -293,22 +286,20 @@ nav_title = "Chapter 1"
 <p>&quot;Icicle Field.&quot;</p>
 <p>The moment I channeled my magical energy through my right hand, bitterly cold air rushed out of nowhere to fill the warehouse. The temperature dropped by thirty degrees centigrade almost instantaneously. All of a sudden, it was like we were standing inside a refrigerator.</p>
 <p>&quot;What the—?!&quot;</p>
-<p>I could already see goosebumps on the bikini lady&#x27;s upper arms, but I wasn&#x27;t done yet. This time, I let my magic energy course into my <em>left</em> hand.</p>
+<p>I could already see goosebumps on the bikini lady&#x27;s upper arms, but I wasn&#x27;t done yet. This time, I let my magic energy course into my left hand.</p>
 <p>&quot;Blast.&quot;</p>
 <p>A great gust of wind sent the woman flying backward. By the time she&#x27;d stopped tumbling, I&#x27;d sent her all the way to the entrance of the warehouse. I was thinking I&#x27;d call this little combination spell &quot;Polar Blast.&quot;</p>
 <p>&quot;Haa-choo!&quot;</p>
-<p>The air in here was so frigid now that I felt like I might catch a cold myself, but I&#x27;d achieved what I set out to do perfectly. Shivering and sneezing, the bikini-armor woman frantically gestured to her</p>
-<p>friends for a coat. I was out of the woods now. Once those breasts were hidden from view, there was no way she&#x27;d get the better of me. All that was left now was to knock everybody senseless and make my getaway…</p>
+<p>The air in here was so frigid now that I felt like I might catch a cold myself, but I&#x27;d achieved what I set out to do perfectly. Shivering and sneezing, the bikini-armor woman frantically gestured to her friends for a coat. I was out of the woods now. Once those breasts were hidden from view, there was no way she&#x27;d get the better of me. All that was left now was to knock everybody senseless and make my getaway…</p>
 <p>&quot;I&#x27;m here, people! Sorry to keep you waiting!&quot;</p>
 <p>…or so I thought, until my newest challenger barged in.</p>
 <p>The man in the doorway looked familiar. Something about his face actually made me feel kind of…nostalgic. I&#x27;d seen this guy somewhere before, right? But where? It wasn&#x27;t coming to me.</p>
 <p>&quot;Tch. This little punk&#x27;s made a real nuisance of himself, huh? Hic… Stay back, everyone! No reason to gang up on some snot-nosed kid… I&#x27;ll take him down personally.&quot;</p>
 <p>The man was obviously confident in his skills, but it also looked like he might be drunk. Even from a distance, I could see him swaying unsteadily, and his face was tinged red.</p>
 <p>Seriously, though. The more I looked at this guy, the more familiar he seemed. With the brown hair and the slightly thuggish face, he kind of resembled Paul… Come to think of it, he sounded a lot like him, too. Yeah. If you put Paul on a starvation diet and didn&#x27;t let him get a good night&#x27;s sleep for a couple months, he&#x27;d probably end up looking something like this. It made me kind of hesitant to launch any serious attacks at the guy.</p>
-<p>But of course, there was no way my father would <em>actually</em> be hanging around with a bunch of kidnappers in Millis, of all places.</p>
+<p>But of course, there was no way my father would actually be hanging around with a bunch of kidnappers in Millis, of all places.</p>
 <p>&quot;Hey, you! You think you can just waltz in here and knock my people around, huh? Well, I&#x27;m gonna make you live to regret it!&quot;</p>
-<p>The man stepped in front of his group, spat a few fiery words in my direction and drew a pair of swords from their sheaths. Anyone capable of dual-wielding competently had to be a master swordsman. From his stance alone, I got the distinct feeling he was</p>
-<p>on a totally different level from the bikini-armor lady. Was Stone Cannon going to be enough to deal with him?</p>
+<p>The man stepped in front of his group, spat a few fiery words in my direction and drew a pair of swords from their sheaths. Anyone capable of dual-wielding competently had to be a master swordsman. From his stance alone, I got the distinct feeling he was on a totally different level from the bikini-armor lady. Was Stone Cannon going to be enough to deal with him?</p>
 <p><em>Hmm… I don&#x27;t really want to use anything that might kill the guy, though…</em></p>
 <p>Perhaps sensing my hesitation, the man abruptly charged forward.</p>
 <p>&quot;Wah…!&quot;</p>
@@ -320,7 +311,7 @@ nav_title = "Chapter 1"
 <p>&quot;Whoa!&quot;</p>
 <p>I activated my Eye of Foresight to peek into the future to help me dodge his follow-up attacks. The man was quick with his swords, but his footwork seemed a bit sloppy. It was probably related to all the alcohol in his system. Maybe I could do this, after all.</p>
 <p>&quot;Tch! He moves just like the kid, dammit… Vierra! Shierra! Come lend me a hand!&quot;</p>
-<p>Just like that, the bikini-armor lady and her magician friend stepped forward again. <em>What happened to taking me down by yourself, huh? What kind of a man are you, anyway?!</em></p>
+<p>Just like that, the bikini-armor lady and her magician friend stepped forward again. What happened to taking me down by yourself, huh? What kind of a man are you, anyway?!</p>
 <p>The woman warrior, now all covered in an overcoat, circled around to my side. And the magician was already starting to chant another incantation. This was definitely not good. The man&#x27;s attacks were fierce and persistent, and I had my hands full just dodging them all.</p>
 <p>Fortunately, I still had a trick or two up my sleeves.</p>
 <p>&quot;Wah!&quot;</p>
