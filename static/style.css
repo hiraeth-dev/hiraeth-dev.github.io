@@ -111,12 +111,12 @@
    stay in sync with zero per-theme tuning. Surfaces stay legible over
    the animated grid in every theme (all themes are dark). ── */
 :root {
-  --glass-bg: color-mix(in srgb, var(--bg-panel) 62%, transparent);
+  --glass-bg: color-mix(in srgb, var(--bg-panel) 15%, transparent);
   --glass-bg-strong: color-mix(in srgb, var(--bg-panel) 82%, transparent);
   --glass-blur: var(--blur, 16px);
-  --glass-hi: color-mix(in srgb, var(--fg) 14%, transparent);
-  --glass-shadow: 0 12px 32px rgba(0, 0, 0, 0.38);
-  --glass-shadow-hover: 0 18px 48px rgba(0, 0, 0, 0.50);
+  --glass-hi: color-mix(in srgb, var(--fg) 20%, transparent);
+  --glass-shadow: 0 1px 2px rgba(0, 0, 0, 0.5), 0 12px 32px rgba(0, 0, 0, 0.38);
+  --glass-shadow-hover: 0 2px 4px rgba(0, 0, 0, 0.5), 0 20px 54px rgba(0, 0, 0, 0.50);
 }
 
 /* Iosevka runs small, and Maple and Space Mono match its companions here —
@@ -444,8 +444,8 @@ nav.top {
   box-sizing: border-box;
   padding: 6px 24px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border-bottom: 1px solid var(--border);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
   display: flex; justify-content: space-between; align-items: center;
@@ -632,8 +632,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* ── Terminal window ── */
 .terminal {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   margin: 40px auto;
@@ -760,8 +760,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   display: inline-flex;
   align-items: center;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), inset 0 1px 0 var(--glass-hi);
   padding: 6px 14px;
@@ -789,8 +789,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   font-weight: 700;
   color: var(--fg-dim);
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3), inset 0 1px 0 var(--glass-hi);
   padding: 4px 10px;
@@ -811,8 +811,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   display: flex;
   flex-direction: column;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 16px 18px;
@@ -839,7 +839,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   right: 0;
   bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, transparent 0%, var(--bar-a, var(--accent)) 15%, var(--bar-b, var(--accent-soft)) 50%, var(--bar-c, var(--accent-dim)) 85%, transparent 100%);
+  background: linear-gradient(90deg, transparent 0%, var(--bar-a, var(--accent)) 10%, var(--bar-b, var(--accent-soft)) 50%, var(--bar-c, var(--accent-dim)) 90%, transparent 100%);
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -898,8 +898,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* ── Playlist ── */
 .playlist {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   margin-bottom: 40px;
@@ -944,8 +944,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 .stack-card {
   display: block;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 16px;
@@ -992,7 +992,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 .stack-card::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, transparent 0%, var(--bar-a, var(--accent)) 15%, var(--bar-b, var(--accent-soft)) 50%, var(--bar-c, var(--accent-dim)) 85%, transparent 100%);
+  background: linear-gradient(90deg, transparent 0%, var(--bar-a, var(--accent)) 10%, var(--bar-b, var(--accent-soft)) 50%, var(--bar-c, var(--accent-dim)) 90%, transparent 100%);
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -1002,8 +1002,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 .code-block {
   display: flex; align-items: center; gap: 8px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 12px 16px;
@@ -1046,8 +1046,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 }
 .stat-card {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 16px;
@@ -1068,7 +1068,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 .stat-card::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, transparent 0%, var(--bar-c, var(--accent-dim)) 15%, var(--bar-b, var(--accent-soft)) 50%, var(--bar-a, var(--accent)) 85%, transparent 100%);
+  background: linear-gradient(90deg, transparent 0%, var(--bar-c, var(--accent-dim)) 10%, var(--bar-b, var(--accent-soft)) 50%, var(--bar-a, var(--accent)) 90%, transparent 100%);
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -1096,8 +1096,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   max-width: var(--content-w); margin: 0 auto;
   padding: 32px 36px;
   background: var(--glass-bg);
-  backdrop-filter: blur(10px) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(10px) saturate(var(--sat, 140%));
+  backdrop-filter: blur(10px) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(10px) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   font-family: var(--font-read);
@@ -1117,8 +1117,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   font-size: var(--text-lg); color: var(--fg);
   text-shadow: 2px 2px 0 var(--border);
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), inset 0 1px 0 var(--glass-hi);
   padding: 8px 18px;
@@ -1139,8 +1139,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   align-items: center;
   gap: 6px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), inset 0 1px 0 var(--glass-hi);
   font-size: var(--text-xs);
@@ -1289,8 +1289,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   justify-content: flex-start;
   gap: 12px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 16px 18px;
@@ -1318,7 +1318,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   right: 0;
   bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, transparent 0%, var(--bar-a, var(--accent)) 15%, var(--bar-b, var(--accent-soft)) 50%, var(--bar-c, var(--accent-dim)) 85%, transparent 100%);
+  background: linear-gradient(90deg, transparent 0%, var(--bar-a, var(--accent)) 10%, var(--bar-b, var(--accent-soft)) 50%, var(--bar-c, var(--accent-dim)) 90%, transparent 100%);
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -1438,8 +1438,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   align-items: center;
   gap: 6px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), inset 0 1px 0 var(--glass-hi);
   padding: 8px 16px;
@@ -1641,8 +1641,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 
 .dict-result {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   padding: 18px 22px;
@@ -2061,8 +2061,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   gap: 20px;
   padding: 18px 24px;
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
   margin-bottom: 14px;
@@ -2119,8 +2119,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* Enhanced SVG Graph */
 .type-graph-container {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   padding: 14px 18px 12px;
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
@@ -2200,8 +2200,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* Words to practice review */
 .type-error-review {
   background: var(--glass-bg);
-  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
-  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
   border: 1px solid var(--border);
   padding: 12px 18px;
   box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
@@ -2736,7 +2736,18 @@ html.anim-on .reveal.in {
   color: var(--accent);
 }
 
+@property --mx {
+  syntax: "<length>";
+  inherits: true;
+  initial-value: 50%;
+}
+@property --my {
+  syntax: "<length>";
+  inherits: true;
+  initial-value: 50%;
+}
 /* ── Cursor spotlight: glossy boxes get a cursor-following highlight ──
+   Typed --mx/--my glide smoothly (Chromium/Firefox); elsewhere they snap.
    spotlight.js sets --mx/--my (px, element-relative) on .spot elements.
    Static sheen + cursor glow live on one overlay; skipped entirely under
    prefers-reduced-motion (see spotlight.js). */
@@ -2747,9 +2758,13 @@ html.anim-on .reveal.in {
   background:
     linear-gradient(115deg, transparent 20%, var(--sheen, color-mix(in srgb, var(--fg) 7%, transparent)) 42%, transparent 60%),
     radial-gradient(260px circle at var(--mx, 50%) var(--my, 50%), color-mix(in srgb, var(--accent) 18%, transparent), transparent 70%);
-  opacity: 0; transition: opacity 0.25s ease;
+  opacity: 0.5; transition: opacity 0.25s ease, background-position 0.7s ease;
+  background-position: 0% 0%, 0 0;
 }
-.spot:hover::before { opacity: 1; }
+.spot:hover::before {
+  opacity: 1;
+  background-position: 100% 0%, 0 0;
+}
 
 /* ── Glass fallback: solid surfaces where backdrop-filter is unavailable ── */
 @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {

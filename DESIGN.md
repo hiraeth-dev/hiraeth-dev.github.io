@@ -47,15 +47,18 @@ surface back to solid `var(--bg-panel)`.
 code-block, dict-result, theme-menu, dict-meaning-item):
 ```css
 background: var(--glass-bg);
-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
--webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 140%));
+backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+-webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
 border: 1px solid var(--border);
 box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
 ```
+`--glass-hi` is fg at 20% (top rim-light); `--glass-shadow(-hover)` layers
+a contact shadow under the lift shadow.
 
 **Cards** (novel/stack/stat/chapter): lift on hover —
 `transform: translateY(-2px)`, shadow → `--glass-shadow-hover`,
-border-color → accent-tinted. Keep the bottom `::after` accent-bar sweep.
+border-color → accent-tinted. Bottom `::after` accent-bar sweep spans
+10–90 (60:40 color-to-fade).
 
 **Buttons / nav links** (controls, press affordance kept):
 hover `translate(1px,1px)` + accent border; active `translate(3px,3px)`
@@ -63,11 +66,13 @@ with shadow collapsing to `0`. Small elements (tags, dots, badges) keep
 their 1px micro-shadows.
 
 **Cursor spotlight** (`static/js/spotlight.js`): any element with `.spot`
-gets `--mx`/`--my` (px, relative to the element) on pointermove; its
-`::before` overlay paints a static diagonal sheen plus
+gets `--mx`/`--my` (px, relative to the element, typed via `@property` so
+the glow glides) on pointermove; its `::before` overlay paints a static
+diagonal sheen plus
 `radial-gradient(260px circle at var(--mx) var(--my),
 color-mix(in srgb, var(--accent) 18%, transparent), transparent 70%)`,
-fading in on hover. Skipped entirely under
+resting at opacity 0.5 and going to 1 on hover (sheen sweeps via
+`background-position`). Skipped entirely under
 `prefers-reduced-motion`. Static diagonal sheen lives on the same overlay.
 
 **Grid canvas** (`static/js/grid.js`): interactive spring grid, 55px
