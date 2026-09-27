@@ -26,7 +26,8 @@ nav_title = "Chapter 5"
 <p>&quot;Ugh,&quot; Aisha grumbled, then returned to rifling through gowns.</p>
 <p>Standing there in her underwear, I was getting a front-row seat at how much she&#x27;d grown. She&#x27;d filled out in all the right places. Hotness seemed to run in our family, and Aisha was no exception. It was the kind of hotness that brought the creeps calling.</p>
 <p>Paul&#x27;s family, the Notos Greyrats, had a thing for big breasts—see Zenith and Lilia. I bet my grandma had giant knockers too. Must be in our genes.</p>
-<p>My daughters would probably turn out the same. I couldn&#x27;t picture Future Lucie with her breasts bouncing around… But if Eris had a daughter, she&#x27;d be a knockout for sure.</p>
+<p>My daughters would probably turn out the same. I couldn&#x27;t picture Future Lucie with her breasts bouncing around… But if Eris had a</p>
+<p>daughter, she&#x27;d be a knockout for sure.</p>
 <p>&quot;Hey, Big Brother?&quot; Aisha said.</p>
 <p>&quot;Huh?&quot;</p>
 <p>&quot;Well?&quot; she said huskily.</p>
@@ -43,7 +44,8 @@ nav_title = "Chapter 5"
 <p>Actually, though, she was wearing the men&#x27;s version of formal dress. According to the maids, she couldn&#x27;t wear a sword with any of the gowns they had at the embassy, so that made her decision for her.</p>
 <p>&quot;How are you still trying stuff on?!&quot; she exclaimed.</p>
 <p>&quot;Oh, hi Eris,&quot; Aisha said. &quot;Sorry, there&#x27;s just so many options…&quot;</p>
-<p>Eris huffed. Her bright red hair swishing behind her, she strode up to Aisha, then grabbed one of the gowns hanging around her. It was a wine red dress.</p>
+<p>Eris huffed. Her bright red hair swishing behind her, she strode up to Aisha, then grabbed one of the gowns hanging around her. It was a wine</p>
+<p>red dress.</p>
 <p>&quot;Put this on, now!&quot;</p>
 <p>&quot;But Eris, then we&#x27;ll match…&quot; Aisha whined.</p>
 <p>&quot;What, you don&#x27;t want to look like me?&quot;</p>
@@ -92,7 +94,8 @@ nav_title = "Chapter 5"
 <p>He stared at me even more intently. Then, with a grin, he went on.</p>
 <p>&quot;What could bring a man such as yourself to our door, seeking favor? Well now, there&#x27;s a thought. There has been a strange rumor on the streets of late… Remind me of it, Shagall!&quot;</p>
 <p>At this, one of the knights at the prince&#x27;s side looked up. He had the face of a small-time crook and wore the same armor as Randolph.</p>
-<p>&quot;Rumor has it that Rudeus Greyrat is appealing to the rulers of all the different lands in preparation for the resurrection of Laplace some eighty years hence,&quot; said Generalissimo Shagall Gargantis. I&#x27;d been told he was a quarter elf and spoke rough, but this guy&#x27;s ears were rounded, and he spoke like a noble at court. Maybe because he was addressing royalty.</p>
+<p>&quot;Rumor has it that Rudeus Greyrat is appealing to the rulers of all the different lands in preparation for the resurrection of Laplace some</p>
+<p>eighty years hence,&quot; said Generalissimo Shagall Gargantis. I&#x27;d been told he was a quarter elf and spoke rough, but this guy&#x27;s ears were rounded, and he spoke like a noble at court. Maybe because he was addressing royalty.</p>
 <p>&quot;Ah, that was it,&quot; said the prince. The pope in Millis had known all that too. You really couldn&#x27;t underestimate these powerful nations and their information networks.</p>
 <p>&quot;And as part of your appeals, you are placing branches of your own organization in each of those countries, then using them to do business… Am I wrong?&quot;</p>
 <p>&quot;You are not, your Highness.&quot;</p>
@@ -131,7 +134,8 @@ nav_title = "Chapter 5"
 <p>&quot;Even though you paid off the loan, you still allow their knightly orders to sojourn here to this day. Their high-handed evangelizing is causing a bit of upset, from what I hear.&quot;</p>
 <p>&quot;What, you can put a stop to that too?&quot; the prince asked.</p>
 <p>&quot;I can.&quot; If he&#x27;d still been in debt my hands would&#x27;ve been tied, but it was paid off. The knights&#x27; behavior was little more than Millis&#x27;s own way of harassing the King Dragon Realm. All I had to do was put in a word with the Blessed Child, or the pope, and then the knight orders should return to their own country right away. I&#x27;d owe the pope a favor, but that wasn&#x27;t a problem. Times like these were why I maintained that connection.</p>
-<p>&quot;In addition, if, in the future, any difficulties arise between Lord Pax II and the Kingdom of Shirone, I will take full responsibility for it,&quot; I added. If it came to that, I&#x27;d bring along Zanoba. Zanoba, Randolph and I would make for quite a trio. It&#x27;d turn into the Battle to Avenge Pax in no time.</p>
+<p>&quot;In addition, if, in the future, any difficulties arise between Lord Pax II and the Kingdom of Shirone, I will take full responsibility for it,&quot; I added. If it came to that, I&#x27;d bring along Zanoba. Zanoba, Randolph and I</p>
+<p>would make for quite a trio. It&#x27;d turn into the Battle to Avenge Pax in no time.</p>
 <p>&quot;What say you, Your Highness?&quot; I&#x27;d put forward three proposals so far. That should be plenty to persuade him of the benefit of letting the nuisance child live.</p>
 <p>&quot;What&#x27;s in this for you?&quot; he replied.</p>
 <p>&quot;I can&#x27;t reveal their name, but someone in Sir Orsted&#x27;s inner circle cares deeply about Lady Benedikte and Lord Pax II. I intend to use this as a bargaining chip with him. Those of us who serve the Dragon God are all one under Sir Orsted, but strengthening such friendships is nevertheless important.&quot;</p>
@@ -189,7 +193,8 @@ nav_title = "Chapter 5"
 <p>Li&#x27;l Pax&#x27;s safety was secured. As Benedikte was still part of the royal family, the King Dragon Realm took it upon itself to guarantee their safety. Benedikte was temporarily freed from the fear that dogged her, and Randolph looked like the cat that got the cream. The threat to the King Dragon Realm had also been subdued for the time being, and they&#x27;d kept Randolph, so there was plenty to celebrate. I also managed to slip in my primary reason for coming—putting out wanted notices for Geese—so that was a load off.</p>
 <p>Setting up the mercenary company was going to have to wait for another day, but I was reassured that the current king would allow it. It looked like I&#x27;d established good relations with the King Dragon Realm. If only it hadn&#x27;t been another arsonist-putting-out-his-own-fire–type situation, it would&#x27;ve been perfect…but I&#x27;d never be satisfied if I let every little quibble like that bother me.</p>
 <p>I now owed favors to both Ariel and the pope, but I&#x27;d pay them back eventually. I assumed more trouble would crop up for Li&#x27;l Pax in another few years, but when it happened, Zanoba and I would sort things out again.</p>
-<p>&quot;You really did help me out,&quot; Randolph said when I went to bid him farewell. &quot;I thought I was going to have to burn the King Dragon Realm to the ground and leave with the queen.&quot; He gave his usual rattling laugh.</p>
+<p>&quot;You really did help me out,&quot; Randolph said when I went to bid him farewell. &quot;I thought I was going to have to burn the King Dragon Realm to</p>
+<p>the ground and leave with the queen.&quot; He gave his usual rattling laugh.</p>
 <p>He didn&#x27;t have the power to do that—Orsted had told me as much but I guess that didn&#x27;t mean he wasn&#x27;t willing to try. The King Dragon Realm would&#x27;ve had to choose whether to send soldiers for Randolph to slaughter, or a scuffle with the Kingdom of Shirone further down the road.</p>
 <p>&quot;If it&#x27;s the good graces of His Majesty you&#x27;re after, I&#x27;m afraid I won&#x27;t be of any use to you. A shame. I so wanted to be your go-to fellow in the King Dragon Realm,&quot; Randolph said wistfully. &quot;This is no good. How am I supposed to repay my debt to you now?&quot;</p>
 <p>&quot;Now that the threat to Pax is gone, I&#x27;d be happy to have you fight by my side.&quot;</p>

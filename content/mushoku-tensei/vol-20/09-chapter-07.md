@@ -27,7 +27,8 @@ nav_title = "Chapter 7"
 <p>Millishion had four entrances. One each in the Adventurers&#x27; District, the Residential District, the Divine District, and the Commercial District. The last time I came, I entered through the Adventurers&#x27; District. If I remember right, it was because out-of-towners were in for a headache if they entered through any other gate. Well, even if I don&#x27;t remember right, I&#x27;m sure that we circled around the city walls and entered through the most packed entrance. And today, we were doing the same thing. Unlike last time, we had Cliff with us, so we didn&#x27;t have to be picky about the gate. We chose the southern entrance in the Adventurers&#x27; District simply because it was closest.</p>
 <p>And by &quot;simply,&quot; I mean &quot;only.&quot; It would have taken less time if we&#x27;d traveled unimpeded outside the city instead of wading through the sea of bodies inside of it. Our haste made waste. But Cliff had his own ideas:</p>
 <p>&quot;It&#x27;s been a while, so I want to see the city,&quot; he said.</p>
-<p>Hey, it was his first time being home in a decade. He was going to live here for years to come, but he&#x27;d only see it like this once. Walking down the road to your home and reminiscing about how this is still here or that used to be there wasn&#x27;t an opportunity that came by every day. It had to be now or not at all.</p>
+<p>Hey, it was his first time being home in a decade. He was going to live here for years to come, but he&#x27;d only see it like this once. Walking down the road to your home and reminiscing about how this is still here or that used to be there wasn&#x27;t an opportunity that came by every day. It had to be now or not at</p>
+<p>all.</p>
 <p>&quot;You got it.&quot;</p>
 <p>And so, I humored Cliff and took the reins.</p>
 <p>&quot;This takes me back,&quot; Cliff murmured to himself as we passed underneath Millis&#x27;s beautiful gate.</p>
@@ -42,7 +43,8 @@ nav_title = "Chapter 7"
 <p>I promoted the fifth son of a high-ranking noble family to branch director back there. Ariel had introduced us. Man, that interview was a trip. Aisha and I put on these fake triangular glasses and asked him what he did during the twoyear gap before joining the interview.</p>
 <p>His response? &quot;I was concealing my identity and actively engaging with the commoners. It taught me not only about the differences in our cultures, but about the importance of deeply understanding each and every business partner you work with.&quot; His answer was so perfect that I had to take notice of him.</p>
 <p>In practice, he was pretty skilled at holding together a group. He knew the differences between noble and commoner culture inside and out, so when disputes broke out inside the Band, he was the guy who&#x27;d understand both sides and find a solution. He wasn&#x27;t exactly a magnetic personality, but he was the kind of guy who people never hated. Oh, he could handle it. Better than I could, certainly.</p>
-<p>Now that they were in his competent hands, I needed to build a Mercenary Band branch here as well. I needed personnel and management. We needed a mission for this Mercenary Band. Aisha was taking notes; she&#x27;d put off planning until we had eyes on the place. Well, we were here, now, and both looking.</p>
+<p>Now that they were in his competent hands, I needed to build a Mercenary Band branch here as well. I needed personnel and management. We needed a mission for this Mercenary Band. Aisha was taking notes; she&#x27;d put off planning</p>
+<p>until we had eyes on the place. Well, we were here, now, and both looking.</p>
 <p>It was too early to set anything in stone based on what little we&#x27;d encountered so far; there were naturally going to be plenty of adventurers here in the Adventurers&#x27; District, but we had a Divine District, a Commercial District, and a Residential District to explore too. Locals were certainly going to know more than we did. It was best to save our conclusions for after we visited the Divine and Residential Districts.</p>
 <p>&quot;I didn&#x27;t notice it the last time I visited…but there sure are a lot of different races here.&quot;</p>
 <p>&quot;It&#x27;s &#x27;cause the Great Forest is so close.&quot;</p>
@@ -67,7 +69,8 @@ nav_title = "Chapter 7"
 <p>As for Geese, well…in a not-entirely-unexpected twist of fate, he got addicted to gambling. I wasn&#x27;t too familiar with it, but the Asura Kingdom apparently had a gambling district that Geese soon became a regular at. Geese always had a bit of a gambling streak, but the fortune he now had took the limiters off. In a matter of months, Geese had managed to blow every coin to his name.</p>
 <p>&quot;I tell ya, things were gettin&#x27; hairy back then. They even took the shirt off my back! All I had left to ante up was my life itself.&quot;</p>
 <p>If Geese had been left to his own devices, he would&#x27;ve been put in a pair of cement shoes and sent to sleep with the fishes. It was Talhand who had saved him.</p>
-<p>Talhand decided it was about time for his next adventure, and decided to peek in on Geese before setting out. Talhand was a little dumbfounded by the mess Geese had gotten himself into, but he still decided to sell off the freshly forged gauntlets he&#x27;d just had made to bail out his old party member. Those were gauntlets made with the stones of absorption too; combined with his research costs, they&#x27;d represented Talhand&#x27;s life savings. Now they were both flat broke. The high cost of living in the Asura Kingdom was suddenly too expensive, so they set off to the south.</p>
+<p>Talhand decided it was about time for his next adventure, and decided to peek in on Geese before setting out. Talhand was a little dumbfounded by the mess Geese had gotten himself into, but he still decided to sell off the freshly</p>
+<p>forged gauntlets he&#x27;d just had made to bail out his old party member. Those were gauntlets made with the stones of absorption too; combined with his research costs, they&#x27;d represented Talhand&#x27;s life savings. Now they were both flat broke. The high cost of living in the Asura Kingdom was suddenly too expensive, so they set off to the south.</p>
 <p>If I were in that position, I&#x27;d never stick my neck out for someone that bad with money, much less travel together with him afterward. But Talhand and Geese went way back, so maybe this was how it went between them. Like, maybe Geese had been the one saving Talhand&#x27;s hide in the past.</p>
 <p>Hey, that&#x27;s friendship for you.</p>
 <p>Shirone Kingdom was going through some internal strife that they did not want to get involved with, and given that the King Dragon Realm was rumored to be contributing to it, they decided to skip those destinations and go straight to Millis. Revisit an old haunt.</p>
@@ -79,7 +82,8 @@ nav_title = "Chapter 7"
 <p>Well, can didn&#x27;t mean always. Personally, I&#x27;m a homebody. Only at home could I find Sylphie&#x27;s breasts (health restoration item, touch activated), or Roxy&#x27;s breasts (temporarily raise luck stat, touch activated), or Eris&#x27;s breasts (time skip power, touch activated).</p>
 <p>&quot;I mean, I ain&#x27;t alone. That guy had some bad memories or whatever with his hometown, too.&quot;</p>
 <p>&quot;Then maybe he wanted to go back and settle the score.&quot;</p>
-<p>No matter what might have happened in the past, time changes you. Things you could never forgive in your teens might be things you could find it in your heart to accept in your twenties. By your fifties, you might not even care anymore. Talhand might have compartmentalized that old stuff in his heart and went back to see his home as a different person.</p>
+<p>No matter what might have happened in the past, time changes you. Things you could never forgive in your teens might be things you could find it in your heart to accept in your twenties. By your fifties, you might not even care anymore. Talhand might have compartmentalized that old stuff in his heart and</p>
+<p>went back to see his home as a different person.</p>
 <p>&quot;Well, &#x27;nough about Talhand, I&#x27;ve been back in the adventurin&#x27; biz here.&quot;</p>
 <p>Apparently, Geese started adventuring again after Talhand left. Important addendum: he hadn&#x27;t found any business yet. You know, since he was a demon and had zero combat prowess to speak of.</p>
 <p>&quot;So, boss, what broughtcha to this neck o&#x27; the woods?&quot;</p>
@@ -111,7 +115,8 @@ nav_title = "Chapter 7"
 <p>&quot;I appreciate you escorting me home. It&#x27;s rather late, so please, stay the night.&quot;</p>
 <p>I took a moment to think about Cliff&#x27;s proposal. Zenith&#x27;s family home was in the Residential District. It&#x27;d take some time to get there. If we visited in the middle of the night it was bound to cause problems, and I wasn&#x27;t emotionally prepared to meet them while still in my travel clothes. We could go back to the Adventurers&#x27; District and come back tomorrow…but all that backtracking felt a little excessive.</p>
 <p>I decided to take Cliff up on his offer. &quot;Fair enough. Thank you.&quot;</p>
-<p>I set down my luggage, took the horse to the stable, and pulled the carriage into the shed, while everyone else took their luggage inside. Or I would have, but as I was steering the carriage, the others opened the front door of the house and something like white smoke tumbled out.</p>
+<p>I set down my luggage, took the horse to the stable, and pulled the carriage into the shed, while everyone else took their luggage inside. Or I would have, but as I was steering the carriage, the others opened the front door of the</p>
+<p>house and something like white smoke tumbled out.</p>
 <p>&quot;Achoo!&quot; Aisha sneezed adorably after the scent pricked her nose.</p>
 <p>&quot;Cough… This is awful… Grandfather didn&#x27;t so much as clean the place, I see,&quot; Cliff cursed as he held a cloth to his nose.</p>
 <p>The house was covered in dust.</p>
@@ -140,7 +145,8 @@ nav_title = "Chapter 7"
 <p>&quot;Teehee. Think Miss Sylphie will get jealous if I tell her I slept with you, Big Bro?&quot;</p>
 <p>&quot;Come on, we&#x27;ve done it plenty of times on the road.&quot;</p>
 <p>&quot;Yeah. But, you know, still. Teehee.&quot; Aisha enjoyed sleeping with company, so she couldn&#x27;t hold back her giggles.</p>
-<p>Ah, what an adorable smile. If she were Sylphie, I&#x27;d have found myself getting horny and pulling her close. Sylphie would have snuggled her way deeper into my arms. But I wouldn&#x27;t get horny over Aisha, and she didn&#x27;t have any urge to snuggle into my arms. I loved Aisha, and Aisha loved me, but it wasn&#x27;t a relationship I felt any sexual desire over. If I had to describe the sensation, it was something quite similar to what I felt for Lucie. You know. Familial love.</p>
+<p>Ah, what an adorable smile. If she were Sylphie, I&#x27;d have found myself getting horny and pulling her close. Sylphie would have snuggled her way deeper into my arms. But I wouldn&#x27;t get horny over Aisha, and she didn&#x27;t have any urge to snuggle into my arms. I loved Aisha, and Aisha loved me, but it wasn&#x27;t a relationship I felt any sexual desire over. If I had to describe the</p>
+<p>sensation, it was something quite similar to what I felt for Lucie. You know. Familial love.</p>
 <p>&quot;I know it&#x27;s kinda out of the blue,&quot; I asked, &quot;but what do you think now about what Lilia&#x27;s always been telling you?&quot;</p>
 <p>&quot;What my mom&#x27;s been telling me? Which thing?&quot;</p>
 <p>&quot;You know, like serving me, or servicing me, stuff like that.&quot;</p>

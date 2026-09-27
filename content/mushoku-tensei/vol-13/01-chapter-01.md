@@ -151,7 +151,8 @@ nav_title = "Chapter 1"
 <p>&quot;Teacher, would it be all right if I left you two to work out the details?&quot;</p>
 <p>&quot;…Huh? Um, okay. I don&#x27;t mind if you stay around, though.&quot;</p>
 <p>&quot;Well, I was thinking I&#x27;d drop in on a friend of mine.&quot;</p>
-<p>Roxy and Jenius were old acquaintances. They probably had a lot of catching up to do. And somehow, I felt like Roxy might be reluctant to let me hear too many embarrassing stories from her younger days.</p>
+<p>Roxy and Jenius were old acquaintances. They probably had a lot of catching up to do. And somehow, I felt like Roxy might be</p>
+<p>reluctant to let me hear too many embarrassing stories from her younger days.</p>
 <p>That made me just a little sad, but it seemed best for me to leave the room.</p>
 <p>***</p>
 <p>I headed straight over to Zanoba&#x27;s laboratory.</p>
@@ -306,7 +307,8 @@ nav_title = "Chapter 1"
 <p>&quot;There&#x27;s still quite a lot of room for improvement, of course, but we also need to continue our study of the automaton. What should we prioritize, Master Rudeus?&quot;</p>
 <p>&quot;Hmm, let&#x27;s see…&quot;</p>
 <p>Apparently, there were some fundamental issues with this prototype. For one thing, its mana consumption wasn&#x27;t ideal. I could use it indefinitely, but it would suck Zanoba dry after only two or three hours.</p>
-<p>The fingers were also a little on the thick side, which wasn&#x27;t aesthetically pleasing. And of course, its sense of touch wasn&#x27;t perfect yet. If we managed to resolve all those problems, it would be an even more amazing invention.</p>
+<p>The fingers were also a little on the thick side, which wasn&#x27;t aesthetically pleasing. And of course, its sense of touch wasn&#x27;t</p>
+<p>perfect yet. If we managed to resolve all those problems, it would be an even more amazing invention.</p>
 <p>That said, this prosthetic wasn&#x27;t the main focus of our research. It was just a byproduct of it.</p>
 <p>&quot;Well, let&#x27;s not lose our focus here.&quot;</p>
 <p>Our goal was to make an automaton of our own, with our own hands. This prosthetic would definitely command a high price, and it made for a very convenient tool. We could probably put it on the market at some point. But I didn&#x27;t want it taking up all of our research time.</p>

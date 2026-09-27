@@ -22,7 +22,8 @@ nav_title = "Chapter 2"
 <p>The Young Mistress woke a few moments later. She opened her eyes, didn&#x27;t recognize her surroundings, and tried jumping to her feet. But since her hands were tied behind her back, she fell over and squirmed like a caterpillar instead.</p>
 <p>She lost her cool the moment she realized she couldn&#x27;t move. &quot;What the hell is this?! Stop messing around! Who the hell do you think I am?! Untie me immediately!&quot;</p>
 <p>Her voice was unbearably loud. I&#x27;d noted this back at the manor too. She really didn&#x27;t dial down her volume in this small space at all. I&#x27;d thought maybe she raised her voice because the manor was so huge and she wanted people to hear her in every corner of the complex when she spoke.</p>
-<p>But no, she was her grandfather&#x27;s granddaughter. Sauros was also the type to shout down his opponent, even if he doted on his granddaughter, and she must have seen how her grandfather intimidated the servants and Philip. Children loved to imitate what they saw, especially if it was something bad.</p>
+<p>But no, she was her grandfather&#x27;s granddaughter. Sauros was also the type to shout down his opponent, even if he doted on his</p>
+<p>granddaughter, and she must have seen how her grandfather intimidated the servants and Philip. Children loved to imitate what they saw, especially if it was something bad.</p>
 <p>&quot;Shut up already, you damn brat!&quot; The door banged open and in came a man, probably because of her screaming.</p>
 <p>His clothes were all ragged and a foul stench clung to him. He was bald and his face unshaven. I wouldn&#x27;t have been surprised if he&#x27;d pulled out a business card that said, &quot;Hi, I&#x27;m a bandit!&quot;</p>
 <p>Nice choice, I thought. Now she would never figure out that we staged everything.</p>
@@ -47,7 +48,8 @@ nav_title = "Chapter 2"
 <p>For now, I needed to assess her injuries.</p>
 <p>&quot;Eek!&quot; It must have hurt, because her head snapped up as she looked at me, fear in her eyes.</p>
 <p>I put a finger to my lips and monitored her reaction as I looked her over. She had two broken bones.</p>
-<p>&quot;O goddess of motherly affection, close up this one&#x27;s wounds and restore the vigor to their body—X-Healing!&quot; I chanted a midlevel healing spell in a low voice, restoring the Young Mistress&#x27;s body to health. Unfortunately, just putting in more magical energy wouldn&#x27;t make healing spells more effective. Hopefully what I did was enough to heal her wounds properly. She would be fine so long as her bones knitted back together the right way.</p>
+<p>&quot;O goddess of motherly affection, close up this one&#x27;s wounds and restore the vigor to their body—X-Healing!&quot; I chanted a midlevel healing spell in a low voice, restoring the Young Mistress&#x27;s body to health. Unfortunately, just putting in more magical energy wouldn&#x27;t make healing spells more effective. Hopefully what I did</p>
+<p>was enough to heal her wounds properly. She would be fine so long as her bones knitted back together the right way.</p>
 <p>&quot;H-huh? The pain is…?&quot; She looked down at her body, puzzled.</p>
 <p>I whispered in her ear, &quot;Shh, be quiet. Your bones were broken so I used healing magic. Young Mistress, it appears we have been abducted by people that bear a grudge against the liege lord. Therefore…&quot;</p>
 <p>She wasn&#x27;t listening.</p>
@@ -147,7 +149,8 @@ nav_title = "Chapter 2"
 <p>&quot;Where the hell are they?!&quot;</p>
 <p>&quot;Don&#x27;t you dare think you got away from us!&quot;</p>
 <p>Whoa, scary.</p>
-<p><em>Oh, just knock it off already. Acting all pissed off as you try to hunt us down… You could at least speak in a sweet voice like an</em> owner trying to draw out their cat. Maybe you would have some chance of deceiving us into coming out. It wouldn&#x27;t work, of course, but at least you&#x27;d have a chance.</p>
+<p><em>Oh, just knock it off already. Acting all pissed off as you try to hunt us down… You could at least speak in a sweet voice like an</em></p>
+<p>owner trying to draw out their cat. Maybe you would have some chance of deceiving us into coming out. It wouldn&#x27;t work, of course, but at least you&#x27;d have a chance.</p>
 <p>&quot;Dammit, they&#x27;re not here!&quot;</p>
 <p>Before long, their voices grew distant. We had a moment to relax a bit, though it was too soon to let our guard down. After all, when people were in a panic, they tended to circle around and search the same area repeatedly.</p>
 <p>&quot;A-are we okay?&quot; She held a trembling hand over her mouth.</p>

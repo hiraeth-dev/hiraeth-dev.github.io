@@ -97,7 +97,8 @@ nav_title = "Chapter 2"
 <p>&quot;Never mind. It&#x27;s not really important.&quot; It didn&#x27;t feel like he was lying to me, and I couldn&#x27;t imagine why he&#x27;d feel the need to.</p>
 <p>&quot;In any case…the Kingdom of Asura is it?&quot;</p>
 <p>&quot;It&#x27;s all right, I wouldn&#x27;t ask you to take us all that way. If you could just escort us to the nearest town, I think we—&quot;</p>
-<p>&quot;No. A Superd warrior never goes back on his word.&quot; Ruijerd&#x27;s words were firm, his voice full of stubborn pride. It was enough to make me want to trust him, even putting aside the Man-God&#x27;s advice.</p>
+<p>&quot;No. A Superd warrior never goes back on his word.&quot; Ruijerd&#x27;s words were firm, his voice full of stubborn pride. It was enough to</p>
+<p>make me want to trust him, even putting aside the Man-God&#x27;s advice.</p>
 <p>Right now, however, I needed to stay skeptical. &quot;But we&#x27;re talking about a journey to the other side of the world.&quot;</p>
 <p>&quot;Don&#x27;t worry yourself about that, child.&quot; With that, the man reached out and timidly patted me on the head. I saw relief on his face when I didn&#x27;t jerk away from his hand.</p>
 <p>Was this guy just fond of children maybe? Still, we weren&#x27;t talking about a ten-minute stroll back home here. I couldn&#x27;t exactly take his promises at face value right now…</p>

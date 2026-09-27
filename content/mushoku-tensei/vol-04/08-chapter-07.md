@@ -52,7 +52,8 @@ nav_title = "Chapter 7"
 <p>I still didn&#x27;t know what was behind that magic he used. If I couldn&#x27;t come up with a way to counter it in a fight, I might lose. Plus, next time he might cut my legs off so I wouldn&#x27;t be able to run. Perhaps it was better that I wait a little longer for my circumstances to change.</p>
 <p>It had just been a couple of days. That older warrior hadn&#x27;t returned yet. Ruijerd might still be searching for those children&#x27;s parents. There was no need to be impatient, I decided, and headed back into my cell.</p>
 <p>### Day three.</p>
-<p>The food that guard brought was delicious. It was as expected the land here was so rich with nature. It was a remarkable difference from the Demon Continent. The meals consisted of either a wild grass soup or scraps of grilled meat that were tough to tear into, but both were delicious. Perhaps it was because I had grown used to the Demon Continent&#x27;s food. If this was the grub they offered someone in a cell, then no doubt the rest of the settlement was having a feast.</p>
+<p>The food that guard brought was delicious. It was as expected the land here was so rich with nature. It was a remarkable difference from the Demon Continent. The meals consisted of either a wild grass soup or scraps of grilled meat that were tough to tear into, but</p>
+<p>both were delicious. Perhaps it was because I had grown used to the Demon Continent&#x27;s food. If this was the grub they offered someone in a cell, then no doubt the rest of the settlement was having a feast.</p>
 <p>When I complimented the food, the guard flicked her tail and brought me seconds. Based on her reaction, she was probably the one who made it. Although she still wouldn&#x27;t say a word to me as usual.</p>
 <p>Day four.</p>
 <p>I was bored. There was nothing to do. Maybe I could create something with my magic, but if I did they might gag me or bind my wrists. Then there really would be nothing I could do. There was no reason to risk robbing myself of what little freedom I had.</p>
@@ -160,7 +161,8 @@ nav_title = "Chapter 7"
 <p>Even so, Ruijerd sure was taking his sweet time. I assumed it was just taking that long for him to find the children&#x27;s parents, but still, this was too much.</p>
 <p>Day six.</p>
 <p>This apartment was truly comfortable to live in. Food was provided for us. It was equipped with good air conditioning (albeit man-made), and while at first I thought it was boring because there was nothing to do, now I had a conversation partner.</p>
-<p>The bed had been infested with bugs, but thanks to the warm air I created with my magic, they&#x27;d all been eradicated. The toilet was in its usual sad state, but it was kind of titillating to think of that pretty, older animal-eared woman cleaning up after me.</p>
+<p>The bed had been infested with bugs, but thanks to the warm air I created with my magic, they&#x27;d all been eradicated. The toilet</p>
+<p>was in its usual sad state, but it was kind of titillating to think of that pretty, older animal-eared woman cleaning up after me.</p>
 <p>Still, I felt anxious about the fact that I was getting no news. It had been nearly a week since I was brought here. Wasn&#x27;t Ruijerd really overdue? Wasn&#x27;t it normal to assume that something must have happened? Some kind of trouble that Ruijerd couldn&#x27;t handle on his own?</p>
 <p>I had no idea what help I would be if I went. Perhaps it would already be too late. Even so, I needed to go. Tomorrow. No, the day after tomorrow. I would wait until the day after tomorrow.</p>
 <p>Once that day came, I would reduce this village to a flaming field. Or not, because I would feel bad about doing that. Instead, I would take the guard as my captive and run.</p>

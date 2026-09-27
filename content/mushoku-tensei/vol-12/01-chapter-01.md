@@ -14,7 +14,8 @@ nav_title = "Chapter 1"
 <p>—Excerpt from Wandering the World by Adventurer and Author Bloody Kant</p>
 <p>***</p>
 <p>I had a dim recollection of the information contained in Wandering the World. Rapan was a large, earth-colored city, nestled in the midst of its characteristic twelve white pillars, with buildings made of mud and materials obtained from regional beasts. I&#x27;d seen a lot of cities with the same aesthetic on the Demon Continent.</p>
-<p>That said, this place was unexpectedly verdant, perhaps thanks to the oasis by the bone pillars. Even from afar, I could see a line of what looked like palm trees. The atmosphere was unique, too. There was something like a crude smell in the air, not unlike the crowded slave markets.</p>
+<p>That said, this place was unexpectedly verdant, perhaps thanks to the oasis by the bone pillars. Even from afar, I could see a line of</p>
+<p>what looked like palm trees. The atmosphere was unique, too. There was something like a crude smell in the air, not unlike the crowded slave markets.</p>
 <p>&quot;Surprised? Those pillars are actually a behemoth&#x27;s ribs.&quot;</p>
 <p>We were still walking along as I surveyed the area when Galban called out to me boastfully. Thanks to the current formation of our group, I&#x27;d been talking to him a lot lately. The man loved to brag. His stories were always incredible and self-flattering, with questionable veracity, but easy to enjoy if you suspended disbelief.</p>
 <p>&quot;When the great hero, second-generation North God Kalman, visited this land, he and his companions defeated a behemoth that was rampaging through the desert. They feasted on some of its meat and left the rest of its remains to rot, leaving what you see now bones that refuse to decay, standing testament to the passage of time.&quot;</p>
@@ -55,7 +56,8 @@ nav_title = "Chapter 1"
 <p>&quot;No,&quot; Geese shook his head. &quot;There&#x27;s no way. Even if she is, we gotta at least go in and check; find her remains. Come on, I&#x27;m beggin&#x27; you. I&#x27;ve seen your skill myself; that&#x27;s why I&#x27;m here. I&#x27;ll even pay you double, if that&#x27;s what you want.&quot;</p>
 <p>He had a desperate look on his face. I never knew the little weasel could make that kind of face.</p>
 <p>&quot;Sorry, but try someone else. I&#x27;m not eager to die.&quot;</p>
-<p>Geese tried for a while to persuade the man, but at last the beastman shook his head and Geese clicked his tongue loud enough we could hear it from where we were standing. &quot;Tch, you damn coward! Can&#x27;t believe you bother to call yourself an adventurer with that attitude!&quot;</p>
+<p>Geese tried for a while to persuade the man, but at last the beastman shook his head and Geese clicked his tongue loud enough we could hear it from where we were standing. &quot;Tch, you damn</p>
+<p>coward! Can&#x27;t believe you bother to call yourself an adventurer with that attitude!&quot;</p>
 <p>&quot;Yeah, yeah, say whatever you like.&quot; The man strode out the door without so much as a backward glance.</p>
 <p>It was rare to see Geese curse at someone. No—truthfully, I didn&#x27;t know that much about him. The Geese I&#x27;d encountered in the past had been more light-hearted, though, and I said as much. &quot;He looks like he&#x27;s really backed into a corner.&quot;</p>
 <p>&quot;Oh my, that&#x27;s how he usually is, though,&quot; Elinalise said.</p>
@@ -177,7 +179,8 @@ nav_title = "Chapter 1"
 <p>&quot;Nah, it&#x27;s okay. You sound more like a man when you talk that way, anyway.&quot; Paul laughed. Tears began to well up in the corners of his eyes. One fell, then another, with more soon to follow. They came unbidden, refusing to stop. &quot;Rudy…you really have grown so much.&quot;</p>
 <p>Hearing him say that brought me to tears as well. We were family, and yet, we didn&#x27;t even know how much the other had changed.</p>
 <p>&quot;I&#x27;m sorry for being such a terrible father.&quot;</p>
-<p>Silently, I wrapped my arms around him. I didn&#x27;t even have to stretch; I was easily able to reach around his shoulders. At some point, without my even realizing it, the two of us had become the same height.</p>
+<p>Silently, I wrapped my arms around him. I didn&#x27;t even have to stretch; I was easily able to reach around his shoulders. At some</p>
+<p>point, without my even realizing it, the two of us had become the same height.</p>
 <p>And just like that, we both cried together.</p>
 <p>After a little while, we pulled away. Our reunion was over. Now we had to switch gears. There was still one issue remaining.</p>
 <p>&quot;Hmph.&quot; Elinalise planted herself in a nearby chair, looking completely unamused. Paul slowly turned toward her, and their gazes met. Paul&#x27;s eyes narrowed. Elinalise&#x27;s brows knitted.</p>
@@ -251,7 +254,8 @@ nav_title = "Chapter 1"
 <p>&quot;Oh my, are you saying I shouldn&#x27;t have?&quot;</p>
 <p>&quot;&#x27;Course I am. Just you bein&#x27; here stirs up trouble.&quot; He reached into his bag and produced a glass bottle filled with amber liquid. He popped the cork off and gulped it right down. &quot;Pwah! Now this here&#x27;s a drink that&#x27;ll hit you in the gut real good.&quot;</p>
 <p>The stench of alcohol came wafting through the air. A pretty strong drink, if that was any indication. The dwarves did love their liquor, after all.</p>
-<p>&quot;Have a go.&quot; Talhand thrust the bottle toward Elinalise. She took it wordlessly and chugged. She didn&#x27;t drink as much as he did, but I could still see her pale white throat move as she swallowed twice and then burped.</p>
+<p>&quot;Have a go.&quot; Talhand thrust the bottle toward Elinalise. She took it wordlessly and chugged. She didn&#x27;t drink as much as he did, but I</p>
+<p>could still see her pale white throat move as she swallowed twice and then burped.</p>
 <p>&quot;Quite the crude alcohol.&quot;</p>
 <p>&quot;Goes perfect with someone as crude as you.&quot; He shoved the cork back in and returned the bottle to his bag.</p>
 <p>What was with their exchange just now? Was that supposed to be a dwarven-style greeting? No one else was commenting on it. What on earth…?</p>

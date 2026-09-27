@@ -34,7 +34,8 @@ nav_title = "Chapter 14"
 <p>I made a mental note to try and buy some spices of that kind if any were available in the next city we visited. I wanted to pick up some other ingredients as well, just for variety&#x27;s sake, but maybe it would be a waste of money. Food tended to be expensive on this continent. Vegetables were particularly pricey, since the region was inhospitable to plant life. You could buy five kilograms of meat for the cost of something that resembled a scraggly ginseng root.</p>
 <p>Great Tortoise meat was cheap. It was the staple food around here, more or less. Those things were larger than a five-ton truck, so killing one would get you enough meat to keep a family sated for quite a while.</p>
 <p>Of course, you couldn&#x27;t feed an entire city that way. Sometimes people ate Pax Coyotes, or even the larva of insects that lived inside Treants. Brave as she was, Eris hadn&#x27;t been too interested in trying the latter.</p>
-<p>Not that I felt any differently. The culinary culture of this continent wasn&#x27;t exactly to my liking. Depending on how you cooked it, Great Tortoise meat could at least be edible. By the standards of Demon Continent fare, it was probably on the &quot;tasty&quot; side. I could just barely understand where Ruijerd was coming from when he called it delicious.</p>
+<p>Not that I felt any differently. The culinary culture of this continent wasn&#x27;t exactly to my liking. Depending on how you cooked it, Great Tortoise meat could at least be edible. By the standards of Demon Continent fare, it was probably on the &quot;tasty&quot; side. I could</p>
+<p>just barely understand where Ruijerd was coming from when he called it delicious.</p>
 <p>Still, I really needed to get my hands on some seasoning.</p>
 <p>Eris and Ruijerd seemed content to eat their meat plain though. In other words, I&#x27;d be making the call to buy the spices all by myself.</p>
 <p>That wasn&#x27;t good. We were a team after all.</p>
@@ -128,7 +129,8 @@ nav_title = "Chapter 14"
 <p>&quot;…That&#x27;s the general pattern I have in mind at least. Do you two have any questions or opinions about any of this?&quot;</p>
 <p>Ruijerd raised his hand. &quot;You don&#x27;t need to bother telling anyone about me. That&#x27;s part of the reason I cut off my hair. Right now, I&#x27;m not even a Superd.&quot;</p>
 <p>&quot;Well, we won&#x27;t go out of our way. We&#x27;ll just do what we can while completing our tasks.&quot;</p>
-<p>After seeing what Jalil and Vizquel had accomplished, I realized we didn&#x27;t need to do anything too fancy. We&#x27;d just do our jobs politely and thoroughly and introduce &quot;Dead End Ruijerd&quot; to the client if it went well. And if something went wrong, &quot;Rudeus&quot; would be the one to step up and take the blame. Nice and simple. From now on, I&#x27;d be the one associated with Dead End&#x27;s missteps and misdeeds.</p>
+<p>After seeing what Jalil and Vizquel had accomplished, I realized we didn&#x27;t need to do anything too fancy. We&#x27;d just do our jobs politely and thoroughly and introduce &quot;Dead End Ruijerd&quot; to the client if it went well. And if something went wrong, &quot;Rudeus&quot; would be the one to step up and take the blame. Nice and simple. From</p>
+<p>now on, I&#x27;d be the one associated with Dead End&#x27;s missteps and misdeeds.</p>
 <p>I planned to keep that last part a secret from Ruijerd though.</p>
 <p><em>What&#x27;s that you say? &quot;Didn&#x27;t you just decide you should talk everything over as a group?&quot;</em></p>
 <p><em>Don&#x27;t be such a nitpicker, buddy.</em></p>
@@ -149,13 +151,15 @@ nav_title = "Chapter 14"
 <p>We made it to the next city without anyone realizing that Ruijerd was a Superd.</p>
 <p>To be fair, he&#x27;d shaved off all his hair, even his eyebrows—and on the Demon Continent, people didn&#x27;t usually do anything too dramatic with their haircuts. I got the feeling that most of them took pride in their naturally distinctive appearances.</p>
 <p>The guards at the gate greeted us warmly.</p>
-<p>Honestly, Ruijerd looked like nothing so much as a mafia thug or a skinhead at this point, but…maybe there were tons of guys with scary faces around these parts? The fact that we were actually dressed like adventurers this time probably made a difference too. They seemed genuinely pleased to have us. As we stepped inside the city, Ruijerd mentioned that he&#x27;d never received such a warm welcome before with a small smile on his face.</p>
+<p>Honestly, Ruijerd looked like nothing so much as a mafia thug or a skinhead at this point, but…maybe there were tons of guys with scary faces around these parts? The fact that we were actually</p>
+<p>dressed like adventurers this time probably made a difference too. They seemed genuinely pleased to have us. As we stepped inside the city, Ruijerd mentioned that he&#x27;d never received such a warm welcome before with a small smile on his face.</p>
 <p>While our appearances apparently weren&#x27;t a problem anymore, when we announced ourselves as &quot;Dead End&quot; at the guild, quite a few onlookers shouted questions along the lines of, &quot;You sure that&#x27;s a good idea?&quot;</p>
 <p>When I replied that it wasn&#x27;t a problem since we had the man himself with us, most of them burst into uproarious laughter. It was nice to see that trick still worked. I was almost grateful for how infamous the name &quot;Dead End&quot; was. It made for an excellent icebreaker.</p>
 <p>After settling into our lodgings at a local inn, we soon held another team meeting. Eris kicked things off this time, announcing, &quot;Rudeus was sniffing my underwear while doing the laundry, and I want him to stop,&quot; with a perfectly serious expression on her face.</p>
 <p>I was immediately forbidden from touching Eris&#x27;s panties again. That was kind of a problem, though, since it meant only Ruijerd was now capable of doing our laundry. I wasn&#x27;t about to hand over my darling Eris&#x27;s underwear to some old pervert who couldn&#x27;t help but pat every child he saw on the head. Therefore, we taught Eris how to do the laundry, and it became one of her responsibilities moving forward.</p>
 <p>Before too long, however, I happened to spot her furtively sniffing my underwear. Of course, I didn&#x27;t raise an objection. A man has to be broad-minded about these things, you know?</p>
-<p>Gathering information didn&#x27;t prove to be too difficult. I could find out almost anything I needed to know at the Adventurers&#x27; Guild. All I had to do was act like a child and innocently ask the other adventurers. It went so smoothly, it almost made me wish I could stay a kid forever.</p>
+<p>Gathering information didn&#x27;t prove to be too difficult. I could find out almost anything I needed to know at the Adventurers&#x27; Guild. All I had to do was act like a child and innocently ask the other</p>
+<p>adventurers. It went so smoothly, it almost made me wish I could stay a kid forever.</p>
 <p>Eventually, I got a bit carried away and asked a lady adventurer with a nice body what her vital statistics were, at which point Eris knocked me down and sat on me jiu-jitsu style.</p>
 <p>Sadly, the concept of &quot;tapping out&quot; was a foreign one in this world.</p>
 <p>We moved along from city to city, following this same general pattern, and made our way steadily to the south. One month slipped by, then two…</p>

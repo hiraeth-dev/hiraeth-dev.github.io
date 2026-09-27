@@ -27,7 +27,8 @@ nav_title = "Chapter 2"
 <p>&quot;Indeed.&quot; Zanoba nodded in agreement.</p>
 <p>&quot;What? A house, right off the bat?&quot; I asked, a bit incredulous.</p>
 <p>&quot;Duh. Why are you getting married if you don&#x27;t even have a house?&quot;</p>
-<p>A glance at Zanoba, who nodded along to Cliff&#x27;s words, told me he felt the same. Come to think of it, Paul had moved to Buena Village when he got married. Until that point, he&#x27;d been an adventurer living in an inn, and had to enlist Philip&#x27;s help to obtain a house and steady work.</p>
+<p>A glance at Zanoba, who nodded along to Cliff&#x27;s words, told me he felt the same. Come to think of it, Paul had moved to Buena Village when he got married. Until that point, he&#x27;d been an</p>
+<p>adventurer living in an inn, and had to enlist Philip&#x27;s help to obtain a house and steady work.</p>
 <p>&quot;Besides, girls can&#x27;t go into the boys&#x27; dorm. Normally, couples marry and leave the dorms, or hold off until graduation to get married.&quot;</p>
 <p>Now that he mentioned it, it was true that I hadn&#x27;t heard of any married couples living in the dormitories. There wasn&#x27;t a special dormitory for married couples either.</p>
 <p>&quot;It&#x27;s a different story if your partner is a girl of high standing with her own place, otherwise it&#x27;s dependent on the man to provide housing,&quot; Cliff added. Sounded a bit unfair, but that might just be what was considered the norm in this world. In that case, it was only logical for me to be the provider. In fact, my partner might be disappointed if I wasn&#x27;t.</p>
@@ -65,7 +66,8 @@ nav_title = "Chapter 2"
 <p>&quot;Sorry,&quot; I said. &quot;How about a provisional contract, then? I&#x27;ll check out the place myself in the next couple of days. If I decide I like it, then we&#x27;ll make the sale official. Will that work?&quot;</p>
 <p>&quot;Please write your name here, then.&quot;</p>
 <p>I&#x27;d failed in my attempt to haggle, but pressed on anyway, signing my name where I was told. There was a place where you could list a guarantor, and I went ahead and put down Princess Ariel&#x27;s and Badigadi&#x27;s names. Then I submitted it.</p>
-<p>After taking a look, the employee went pale and retreated to the back. Almost immediately someone who looked like the manager appeared, rubbing their hands. I must be pretty famous to get this kind of treatment just from listing my name. Wait, maybe this was actually the effect of using Princess Ariel&#x27;s and Badigadi&#x27;s names? Or maybe a combination of all three?</p>
+<p>After taking a look, the employee went pale and retreated to the back. Almost immediately someone who looked like the manager appeared, rubbing their hands. I must be pretty famous to get this kind of treatment just from listing my name. Wait, maybe this was</p>
+<p>actually the effect of using Princess Ariel&#x27;s and Badigadi&#x27;s names? Or maybe a combination of all three?</p>
 <p>After a bit of discussion, I successfully reduced the asking price by half. Apparently, I&#x27;d turned into a fussy VIP customer despite having no intention of being anything of the sort.</p>
 <p>***</p>
 <p>A few days later, I arrived at the manor in question. It had been built over a century ago, but the building itself looked solid. Mana was infused in all kinds of things in this world, so perhaps there was some in the structure that protected it from decay?</p>
@@ -139,7 +141,8 @@ nav_title = "Chapter 2"
 <p>We left the basement and returned to the entrance. From there, we headed up the flight of stairs to the second floor. The wood beneath our feet didn&#x27;t even so much as creak.</p>
 <p>The second floor was also completely symmetrical. At either end of the two wings was a room connected to an inner bedroom. Apart from that, there were also a number of extra bedrooms, each about six tatami mats in size. That made six room in totals: four of those smaller rooms, and two medium-sized rooms which were about twelve tatami mats in size. The latter two were connected to the inner bedrooms. Finally, there was also a balcony.</p>
 <p>&quot;Hmm…&quot;</p>
-<p>Let&#x27;s put a big bed in this bedroom, I decided. One with more than enough room for three people to lie in. Two normal beds pushed together might be good, too. No, wait—if the bed were small, we&#x27;d have to huddle close to sleep, which wouldn&#x27;t be a bad thing. Then, when I awoke, I&#x27;d have her warmth right beside me. And her small breasts would be constantly within groping distance. Nope, not bad at all.</p>
+<p>Let&#x27;s put a big bed in this bedroom, I decided. One with more than enough room for three people to lie in. Two normal beds</p>
+<p>pushed together might be good, too. No, wait—if the bed were small, we&#x27;d have to huddle close to sleep, which wouldn&#x27;t be a bad thing. Then, when I awoke, I&#x27;d have her warmth right beside me. And her small breasts would be constantly within groping distance. Nope, not bad at all.</p>
 <p>At any rate, the bed was important. We&#x27;d be using it every day, after all—and no, I didn&#x27;t mean just for sex. People had to sleep, you know.</p>
 <p>&quot;Master Cliff.&quot;</p>
 <p>&quot;Wh-what? Did you find something?&quot;</p>
@@ -151,7 +154,8 @@ nav_title = "Chapter 2"
 <p>&quot;Phew, nothing here, huh?&quot; I said, heaving a breath after we surveyed the final room.</p>
 <p>&quot;I assume we&#x27;ll be staying the night here, then. Just as we planned,&quot; Zanoba said.</p>
 <p>&quot;Yes. I&#x27;m counting on you.&quot;</p>
-<p>I&#x27;d wanted to search the house ahead of time just to be sure, but hadn&#x27;t really expected anything to come of it. According to the stories, the spirit only showed itself at night, accompanied by a creaking noise. Creepy. Probably just a monster that was squatting here, though what kind, I didn&#x27;t know. I didn&#x27;t think it could be too powerful, considering we were in the middle of a city. Then again, low-ranking adventurers sent to clear out the house had been brutally murdered. We couldn&#x27;t let our guard down.</p>
+<p>I&#x27;d wanted to search the house ahead of time just to be sure, but hadn&#x27;t really expected anything to come of it. According to the stories, the spirit only showed itself at night, accompanied by a</p>
+<p>creaking noise. Creepy. Probably just a monster that was squatting here, though what kind, I didn&#x27;t know. I didn&#x27;t think it could be too powerful, considering we were in the middle of a city. Then again, low-ranking adventurers sent to clear out the house had been brutally murdered. We couldn&#x27;t let our guard down.</p>
 <p>Perhaps the truth was actually simple: bandits using the house as a hideout, for instance. The creaking sound could be caused by them picking the lock to the front door. No—the front door was broken. Then maybe the back door? But there were no signs of anyone living here at all.</p>
 <p>Yeah, I was stumped. Maybe I should have brought Elinalise and the others along, too. She&#x27;d seen a lot in her long life; she might&#x27;ve been able to help us. Though, now that my little man was back in action, I wasn&#x27;t confident being around her wouldn&#x27;t turn me on. I could just imagine it—I&#x27;d be keeping watch in the middle of the night, and a shadow would come creeping up to me, whispering temptations into my ear. But Cliff is sleeping right beside us, I&#x27;d say. And she&#x27;d respond, So what?</p>
 <p>&quot;Stay alert,&quot; I declared as we stood in the second-floor bedroom area. &quot;The spirit might not show itself right away, so we&#x27;ll be spending the night.&quot;</p>
@@ -168,7 +172,8 @@ nav_title = "Chapter 2"
 <p>&quot;Yes? What is it?&quot;</p>
 <p>&quot;I&#x27;m getting married once we finish this mission.&quot;</p>
 <p>&quot;Indeed. Let&#x27;s finish it quickly so we can have a grand celebration here,&quot; Zanoba said, his head slightly cocked as he nodded.</p>
-<p>Wait. Now that I&#x27;d actually said it, my uneasy feeling had gotten even worse. If I said something like, &quot;A celebration, yes! That&#x27;s exactly what we need!&quot; in reply, I had a feeling I wouldn&#x27;t survive long enough to get married. Maybe I should put something hard in my chest pocket for now. Except I didn&#x27;t have a chest pocket. If a bullet from a .357 Magnum suddenly came flying at me, I&#x27;d have no way to stop it.</p>
+<p>Wait. Now that I&#x27;d actually said it, my uneasy feeling had gotten even worse. If I said something like, &quot;A celebration, yes! That&#x27;s</p>
+<p>exactly what we need!&quot; in reply, I had a feeling I wouldn&#x27;t survive long enough to get married. Maybe I should put something hard in my chest pocket for now. Except I didn&#x27;t have a chest pocket. If a bullet from a .357 Magnum suddenly came flying at me, I&#x27;d have no way to stop it.</p>
 <p>Cliff inserted himself into the conversation again. &quot;Make sure you invite me and Lise.&quot;</p>
 <p>&quot;Of course. Why wouldn&#x27;t you be invited?&quot;</p>
 <p>&quot;Just making sure. It&#x27;s one thing if I&#x27;m left out, but I&#x27;d be sad to see it happen to her.&quot;</p>

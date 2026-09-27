@@ -39,7 +39,8 @@ nav_title = "Epilogue"
 <p>&quot;That&#x27;s not true. Not all of them are girls.&quot;</p>
 <p>&quot;You know, Paul said something similar a long time ago.&quot;</p>
 <p>Wait—while Elinalise technically wasn&#x27;t a friend I&#x27;d made in the last three months, if you included her, then there would be more girls than boys. Granted, she was well past the age where you could call her a &quot;girl.&quot;</p>
-<p>Come to think of it, my relationship with Elinalise had changed, too. We hadn&#x27;t had much contact since we started attending the school—not that we&#x27;d been particularly close prior to that, either. She was probably busy enjoying school life to the fullest.</p>
+<p>Come to think of it, my relationship with Elinalise had changed, too. We hadn&#x27;t had much contact since we started attending the</p>
+<p>school—not that we&#x27;d been particularly close prior to that, either. She was probably busy enjoying school life to the fullest.</p>
 <p>&quot;Miss Elinalise, it&#x27;s rare for you to come all the way here. Was there something you needed?&quot;</p>
 <p>&quot;Yes. I need to borrow something.&quot;</p>
 <p>&quot;You&#x27;re going to have to find someone else for that. Mine is currently out of order.&quot; Our school lives were completely different. She was enjoying hers in a way that would&#x27;ve already gotten her arrested if this were Japan.</p>
@@ -49,7 +50,8 @@ nav_title = "Epilogue"
 <p>&quot;I&#x27;ll return the favor at some point,&quot; she said, waving as she left.</p>
 <p>***</p>
 <p>Unbeknownst to Rudeus, there were two pairs of eyes watching him. One was behind him—the gaze of a young boy who&#x27;d just left the classroom where homeroom had been held. Appearing incensed, the boy averted his eyes and returned to class.</p>
-<p>The second pair watched from above, from a closed-off room on the highest floor of the research building. If one were to look up and meet those eyes, they might tremble in fear or widen their own eyes in shock, for the watcher had a featureless white mask covering their face.</p>
+<p>The second pair watched from above, from a closed-off room on the highest floor of the research building. If one were to look up and meet those eyes, they might tremble in fear or widen their own eyes</p>
+<p>in shock, for the watcher had a featureless white mask covering their face.</p>
 <p>As Rudeus&#x27;s school life proceeded smoothly, there was movement far to the east of him. Past even the Northern Territories&#x27; easternmost Kingdom of Biheiril, far across the ocean, lay an island known as Ogre Island. It was inhabited by the Ogre Tribe, a people with dark red hair and single horn growing from each of their foreheads. Their militia was led by a strong warrior called the Ogre God.</p>
 <p>The Ogre Tribe were a race of demons who had participated neither in the Great Human-Demon War nor in Laplace&#x27;s War. For that reason, humans saw them separate from the demon race, much like the dwarves or elves. However, since they generally kept to themselves on their island, their existence was not common knowledge. The only friendly relationship the tribe had with humanity was with the Biheiril Kingdom, and outsiders entering their territory were mercilessly attacked and killed.</p>
 <p>But even this tribe would open its heart to a recognized visitor. There was currently one such person among them—a man who&#x27;d been traveling aboard a ship belonging to the seafolk when it came close to the island. Curious about the island, he disembarked. After some fuss, the Ogre Tribe accepted him as their guest.</p>

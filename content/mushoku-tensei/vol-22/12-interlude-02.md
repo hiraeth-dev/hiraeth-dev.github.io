@@ -91,7 +91,8 @@ nav_title = "Interlude"
 <p>&quot;Thank you, Dad,&quot; Roxy replied. She and Rokari were getting teary as well, and watching them, I felt my own emotions welling up. Could I make Roxy happy? What was happiness, really? I didn&#x27;t have an answer, but I&#x27;d do my best to make sure our love never faded.</p>
 <p>&quot;Ah, dear. My Roxy, married…&quot; Rowin said. &quot;You were always tripping over your own feet and bursting into tears ever since you were little. And now here you are…&quot;</p>
 <p>&quot;Dad, please don&#x27;t talk about that in front of Rudy.&quot;</p>
-<p>Roxy when she was a little kid…! I bet she was adorable. I mean, she probably looked more or less the same as she did now, so obviously she was adorable. I assumed she talked more like a little kid back then. If we&#x27;d met back then and grown up together, things might have turned out pretty different… But no matter what kind of relationship we had, I was sure I would always respect her.</p>
+<p>Roxy when she was a little kid…! I bet she was adorable. I mean, she probably looked more or less the same as she did now, so obviously she was adorable. I assumed she talked more like a little kid back then. If we&#x27;d met back then and grown up together, things might have turned out pretty different… But no matter what kind of relationship we had, I was</p>
+<p>sure I would always respect her.</p>
 <p>&quot;And here,&quot; Rowin went on, sounding emotional, &quot;I never thought I&#x27;d get to meet my grandchild.&quot; Even after Roxy reproached him, he picked up Lara in his arms, looking delighted. Lara, as usual, didn&#x27;t protest. She just stared at him, wide-eyed. He smiled at her.</p>
 <p>&quot;Lara, is it? Aren&#x27;t you a clever girl, already knowing how to say your name.&quot;</p>
 <p>&quot;Huh?&quot; Roxy and I exclaimed together. We hadn&#x27;t told them Lara&#x27;s name. And Lara hadn&#x27;t said anything.</p>
@@ -107,7 +108,8 @@ nav_title = "Interlude"
 <p>She meant Zenith.</p>
 <p>&quot;Oh…&quot;</p>
 <p>It clicked for Roxy and me at the same time. This was what the Blessed Child had talked about. Zenith could read minds. And the Lara in her memories was a chatterbox. Lara was always silent and sullen, but Zenith remembered talking away happily with her. So it had been telepathy. Lara had been talking with telepathy the whole time.</p>
-<p>I felt a wave of relief. Roxy didn&#x27;t seem to be taking it the same way, though. She was frowning at the ground. I could imagine what was going through her mind: Even my daughter is a telepath. Why am I the <em>only one who isn&#x27;t?</em></p>
+<p>I felt a wave of relief. Roxy didn&#x27;t seem to be taking it the same way, though. She was frowning at the ground. I could imagine what was going through her mind: Even my daughter is a telepath. Why am I the</p>
+<p><em>only one who isn&#x27;t?</em></p>
 <p>The atmosphere in the room darkened.</p>
 <p>&quot;Is she really? Um, okay then…&quot; I stood up and went over to stroke Lara&#x27;s hair, saying, &quot;Laaara! It&#x27;s your papa!&quot;</p>
 <p>Lara didn&#x27;t smile. She just stared at me. What was she saying?</p>
@@ -124,7 +126,8 @@ nav_title = "Interlude"
 <p>&quot;How so?&quot; I asked.</p>
 <p>&quot;When Roxy was born, we thought that because she couldn&#x27;t speak, she wasn&#x27;t developing properly.&quot;</p>
 <p>Just like Roxy was the only one in her family who couldn&#x27;t use telepathy, Lara was the only one in her family who couldn&#x27;t speak. They were similar in that way. Like mother, like daughter.</p>
-<p>For now, all I felt was relief. Our daughter was growing up just fine. If there were no one at home for her to talk to, that might have been a problem. But it wasn&#x27;t like that. There was Zenith, who I was certain about, and I had my suspicions that Leo used some telepathy-like power to talk to Lara as well. Once she started using words, she could communicate with everyone else too. She just needed a little longer.</p>
+<p>For now, all I felt was relief. Our daughter was growing up just fine. If there were no one at home for her to talk to, that might have been a problem. But it wasn&#x27;t like that. There was Zenith, who I was certain about, and I had my suspicions that Leo used some telepathy-like power to talk to Lara as well. Once she started using words, she could communicate</p>
+<p>with everyone else too. She just needed a little longer.</p>
 <p>&quot;Lara looks exactly like Roxy, doesn&#x27;t she?&quot; I said.</p>
 <p>Rowin laughed good-naturedly. &quot;She does, yeah? The spitting image. Especially her eyes.&quot;</p>
 <p>Rokari looked like she was enjoying herself too. And maybe it was just my imagination, but I thought Lara looked the same.</p>
@@ -151,7 +154,8 @@ nav_title = "Interlude"
 <p>&quot;Don&#x27;t make that face,&quot; Roxy said. &quot;I&#x27;m not blaming you in the slightest.&quot;</p>
 <p>It was kind of her to say so. It didn&#x27;t matter how much I agonized or repented—right now, my hands were full dealing with the Man-God. I didn&#x27;t have anything left over for looking after the kids.</p>
 <p>Roxy gently stroked Lara&#x27;s face. &quot;I just had this thought. I was born in this village, and for as long as I can remember, I felt like an outsider.&quot;</p>
-<p>When I didn&#x27;t reply, she went on. &quot;Looking back now, it was hard. When I left home, I went to a town where people used words to communicate. It wasn&#x27;t until I got to know people there and started my life as an adventurer that I really felt like I was living in my world.&quot;</p>
+<p>When I didn&#x27;t reply, she went on. &quot;Looking back now, it was hard. When I left home, I went to a town where people used words to</p>
+<p>communicate. It wasn&#x27;t until I got to know people there and started my life as an adventurer that I really felt like I was living in my world.&quot;</p>
 <p>She couldn&#x27;t do what everyone else around her could. Life was simple for them, but not for her. When they asked her why she couldn&#x27;t do this thing that ought to come naturally, she had no answer. All she could do was go on being seen as a useless burden by those around her until she began to believe it herself.</p>
 <p>Just because everyone else could do it, though, that didn&#x27;t mean it came naturally. It turned out she could make do without it. The sense of freedom Roxy got when she realized that must have been incredible.</p>
 <p>&quot;What if by raising Lara this way, we end up putting her through that? I was fine once I left home, but that won&#x27;t work for her. The Migurd are the only ones with this power.&quot; Roxy looked away from me.</p>
@@ -172,7 +176,8 @@ nav_title = "Interlude"
 <p>&quot;You take care now,&quot; said Rowin.</p>
 <p>&quot;I wish you&#x27;d stay a bit longer…&quot; added Rokari.</p>
 <p>&quot;Mind if I give Lara another cuddle before you go?&quot; Rowin held out his arms. It was probably true that grandparents favored their first grandchild in every world. These two looked like they were finished having children of their own.</p>
-<p>&quot;Of course not. Here.&quot; Roxy held Lara out to him, then made a noise of surprise as Lara grabbed hold of the collar of Roxy&#x27;s robe. I recognized that gesture.</p>
+<p>&quot;Of course not. Here.&quot; Roxy held Lara out to him, then made a noise of surprise as Lara grabbed hold of the collar of Roxy&#x27;s robe. I recognized</p>
+<p>that gesture.</p>
 <p>&quot;Come on, Lara,&quot; she tried. &quot;Say goodbye to your granny and grandpa.&quot;</p>
 <p>Lara didn&#x27;t react. She had all four of her limbs wrapped tight around Roxy like a cicada. Then, without letting go, she turned to look at me. Her expression was the same as ever, sullen and defiant. Her mouth turned down, her brow furrowed, and she looked ready to burst into tears. It was like she was asking for help.</p>
 <p>&quot;Oh, dear… Hahaha, don&#x27;t worry about it then,&quot; Rowin said, waving his hand with an awkward smile. &quot;She says she doesn&#x27;t want to leave her mommy.&quot;</p>

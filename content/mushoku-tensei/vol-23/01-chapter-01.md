@@ -25,7 +25,8 @@ nav_title = "Chapter 1"
 <p>It didn&#x27;t take long to realize why.</p>
 <p>I knew about the Laplace Factor. I knew why the color of my hair was green, and why Rudy had gotten a bit uneasy over the subject a while back.</p>
 <p>What if the child I gave birth to turned out to be Laplace?</p>
-<p>I wondered, What would Rudy do? It wasn&#x27;t his priority now, but he was gathering forces to do battle with Laplace in eighty years. If my child really were Laplace, then, given what Rudy had done so far… Well, I couldn&#x27;t help but wonder.</p>
+<p>I wondered, What would Rudy do? It wasn&#x27;t his priority now, but he was gathering forces to do battle with Laplace in eighty years. If my child really were Laplace, then, given what Rudy had done so far… Well, I</p>
+<p>couldn&#x27;t help but wonder.</p>
 <p>I believed in Rudy. I wouldn&#x27;t doubt him for a second. But…what would he do? What would I want him to do? My mind spun over these thoughts for so long that I didn&#x27;t get another wink of sleep that night.</p>
 <p>I comforted myself with the fact that there was no way to know if the child&#x27;s hair would be green. If their hair turned out to be any other color, we&#x27;d be fine.</p>
 <p>It was green.</p>
@@ -50,7 +51,8 @@ nav_title = "Chapter 1"
 <p>So…just a green baby, huh?</p>
 <p>&quot;This child is not Laplace,&quot; Orsted continued. &quot;That I can assure you.&quot;</p>
 <p>&quot;Got it… Thank you.&quot;</p>
-<p>I thanked him, but I still had room for doubt. Orsted wasn&#x27;t infallible. It might not have happened in prior loops, but this loop had proven that there was a first time for everything. Orsted had made his share of miscalculations already. That was why I couldn&#x27;t shake the possibility of Perugius examining Sieg, concluding he was Laplace, and deciding to kill him on the spot. That, or the possibility of Perugius making a mistake.</p>
+<p>I thanked him, but I still had room for doubt. Orsted wasn&#x27;t infallible. It might not have happened in prior loops, but this loop had proven that there was a first time for everything. Orsted had made his share of miscalculations already. That was why I couldn&#x27;t shake the</p>
+<p>possibility of Perugius examining Sieg, concluding he was Laplace, and deciding to kill him on the spot. That, or the possibility of Perugius making a mistake.</p>
 <p>There were no guarantees when it came to how people could act. Even legendary heroes messed up sometimes.</p>
 <p>&quot;If you wouldn&#x27;t mind,&quot; I asked, &quot;could you perhaps come with us when we go to Lord Perugius&#x27;s castle? And maybe protect us if he says that Sieg is Laplace?&quot;</p>
 <p>&quot;Hmm… Very well,&quot; Orsted said with yet another sigh. He was irritated that the jackass he was trying to talk some sense into would propose something this pointless.</p>

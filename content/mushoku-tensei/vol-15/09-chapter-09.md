@@ -11,7 +11,8 @@ nav_title = "Chapter 9"
 <p>Eris Greyrat and Ghislaine Dedoldia had finally reached their destination, after a lengthy journey from the Sword Sanctum.</p>
 <p>The trip had not been an easy one, to say the least. Eris had been in such a great hurry to see Rudeus again that she&#x27;d chosen a shortcut through a forest, where they&#x27;d quickly gotten lost, ultimately blundering into a nest of monsters, which took some time to slay. And when they finally made it out of the forest and reached the nearest town, a group of local thugs unwisely provoked Eris, leading to a major scuffle, which made them a host of enemies, which led to another major scuffle, which led to problems at the border, which they solved with violence once again. It was largely Eris&#x27; own fault, in all honesty, but they&#x27;d ended up taking quite some time to reach Sharia.</p>
 <p>Still, both Ghislaine and Eris had spent some time as adventurers. In the course of their journey, they&#x27;d eventually gotten back into the swing of things, and after entering the Kingdom of Ranoa their progress to the city had been relatively smooth.</p>
-<p>Once in Sharia itself, their actions were also quite efficient. It helped that plenty of people at the local Adventurers&#x27; Guild knew exactly where Rudeus Greyrat&#x27;s residence was. From the sound of things, everyone in this town knew Rudeus&#x27; name. One helpful local even explained that they could pick out his house by looking for an unusual, scaly creature from Begaritt in the yard—or for its companion, a peculiar-looking Treant supposedly cultivated on the Demon Continent.</p>
+<p>Once in Sharia itself, their actions were also quite efficient. It helped that plenty of people at the local Adventurers&#x27; Guild knew exactly where Rudeus Greyrat&#x27;s residence was. From the sound of things, everyone in this town knew Rudeus&#x27; name. One helpful local even explained that they could pick out his house by looking for an</p>
+<p>unusual, scaly creature from Begaritt in the yard—or for its companion, a peculiar-looking Treant supposedly cultivated on the Demon Continent.</p>
 <p>In fact, the place did prove easy to find.</p>
 <p>Rudeus&#x27; residence couldn&#x27;t hold a candle to the massive mansion Eris had lived in as a child, of course, but it was large enough that it could easily have passed for some sort of inn. The yard was also spacious, and looked like could serve nicely as a training ground.</p>
 <p>While she discussed her impressions with Ghislaine for a while, Eris—rather uncharacteristically—was hesitant to step through the gate itself. Instead, she stood directly in front of it with her arms folded.</p>
@@ -29,7 +30,8 @@ nav_title = "Chapter 9"
 <p>Fortunately, the stalemate was eventually broken by a thoughtful young maid.</p>
 <p>The moment Eris appeared at the gate, Aisha had asked herself Is that Eris? It must be, right? and set about preparing things. She wanted to be ready to show Eris perfect hospitality the moment she knocked at the door.</p>
 <p>After nearly an hour of waiting, however, she finally decided to take the initiative herself.</p>
-<p>Aisha felt that she owed a great debt to Eris personally. While she didn&#x27;t respect her quite as deeply as her brother, it was a fact that she had played a major part in saving Aisha from her captivity in Shirone. Lilia had always taught Aisha to repay her debts twofold. So, when she&#x27;d heard about the possibility that Rudeus might take Eris as his third wife, she&#x27;d silently decided to help make it happen assuming Eris actually loved her brother, of course.</p>
+<p>Aisha felt that she owed a great debt to Eris personally. While she didn&#x27;t respect her quite as deeply as her brother, it was a fact that she had played a major part in saving Aisha from her captivity in Shirone. Lilia had always taught Aisha to repay her debts twofold. So, when she&#x27;d heard about the possibility that Rudeus might take Eris</p>
+<p>as his third wife, she&#x27;d silently decided to help make it happen assuming Eris actually loved her brother, of course.</p>
 <p>Thanks to the little maid&#x27;s helping hand, Eris finally managed to enter the house itself. Once inside, she was warmly welcomed by both Aisha and Lilia. While Aisha ran off to the University to get Sylphie and Roxy, Lilia filled her in on the current situation in more detail.</p>
 <p>Eris&#x27; introduction to Lucie came as something of a surprise to her. But while her smile was a little awkward, she found that her feelings weren&#x27;t particularly negative. She could always have a baby of her own, after all—and hers might be a boy.</p>
 <p>Given how uncertain she&#x27;d been at first, this was a surprisingly self-assured attitude. Aisha and Lilia&#x27;s friendly greeting had gone a long way toward soothing her nerves. Even when Sylphie, Roxy, and Norn arrived, the conversation stayed calm and peaceful. Rudeus&#x27; two wives were perhaps a bit unsettled at the sight of Eris&#x27; more shapely body, but they were far from hostile toward her.</p>
@@ -135,7 +137,8 @@ nav_title = "Chapter 9"
 <p>But instead of swinging his own blade, Orsted now unleashed a different kind of attack.</p>
 <p>&quot;Did Gall Falion tell you stories of his exploits as you lay in his bed?&quot;</p>
 <p>When all was said and done, Eris respected the Sword God deeply. Over the last few years, Gall Falion had thrown himself into the task of training her, and entrusted her with his dream. Their relationship had been a purely platonic one. He was simply her master, and she was simply his student. He had trained her because their interests were aligned.</p>
-<p>Ordinarily, Eris would have been infuriated at Orsted&#x27;s crude suggestion to the contrary… especially since he&#x27;d spoken so that the other three women, and Rudeus, could hear. But her master had given her a clear warning: If things start goin&#x27; well, Orsted might try to needle you. Don&#x27;t you go and fall for it, you hear me?</p>
+<p>Ordinarily, Eris would have been infuriated at Orsted&#x27;s crude suggestion to the contrary… especially since he&#x27;d spoken so that the other three women, and Rudeus, could hear. But her master had</p>
+<p>given her a clear warning: If things start goin&#x27; well, Orsted might try to needle you. Don&#x27;t you go and fall for it, you hear me?</p>
 <p>The Sword God had anticipated Orsted&#x27;s attempt at provocation in advance. And so, it had no effect on Eris whatsoever. She had no reason to be angry. Orsted was just proving that Gall Falion had his number.</p>
 <p>&quot;Hmph.&quot;</p>
 <p>&quot;…I see. You truly have grown stronger.&quot;</p>
@@ -168,7 +171,8 @@ nav_title = "Chapter 9"
 <p>Her blade still frozen in Orsted&#x27;s hands, Eris shouted her reply as she turned toward where the unmarked sword had fallen.</p>
 <p>Rudeus was standing there. The others had finished healing him.</p>
 <p>&quot;We&#x27;re just getting started!&quot;</p>
-<p>It took Eris an instant to process what her eyes were seeing. It was Rudeus, of course. And he was standing. But there were dark circles under his eyes, and his light brown hair had gone white. His legs were trembling weakly, his face was deathly pale, and his lips were purple. Roxy and Sylphie were supporting him on either side.</p>
+<p>It took Eris an instant to process what her eyes were seeing. It was Rudeus, of course. And he was standing. But there were dark</p>
+<p>circles under his eyes, and his light brown hair had gone white. His legs were trembling weakly, his face was deathly pale, and his lips were purple. Roxy and Sylphie were supporting him on either side.</p>
 <p>&quot;…&quot;</p>
 <p>&quot;Getting started… with what, exactly?&quot;</p>
 <p>Rudeus was in no condition to fight, to say the least. His mana was exhausted, his strength was gone, and even his willpower had failed him. He was battered and bruised both physically and emotionally.</p>

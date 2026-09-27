@@ -176,9 +176,11 @@ nav_title = "Chapter 11"
 <p><strong>Paul</strong></p>
 <p><strong>&quot;D</strong>-damn, that was close…&quot;</p>
 <p>My son lay unconscious on the ground before my filthy, mudcaked shoes.</p>
-<p>Since this would be my last day teaching him the sword, I&#x27;d decided to put the fear of God in him before I knocked him out, but the kid actually snapped off a bunch of spells the instant I made my move. Wasn&#x27;t just a bunch of panicked attacks, either. He was mainly trying to slow me down. And every single time he cast something, it was a different spell.</p>
+<p>Since this would be my last day teaching him the sword, I&#x27;d decided to put the fear of God in him before I knocked</p>
+<p>him out, but the kid actually snapped off a bunch of spells the instant I made my move. Wasn&#x27;t just a bunch of panicked attacks, either. He was mainly trying to slow me down. And every single time he cast something, it was a different spell.</p>
 <p>&quot;That&#x27;s my son for you, all right. Kid&#x27;s got a knack for battle…&quot;</p>
-<p>Sure, the fight had only lasted a few seconds. But it was a complete surprise attack, and I still needed three steps to take him down. That last one had been especially dangerous. If I&#x27;d hesitated even slightly, he would have snared both my legs and taken me out in no time.</p>
+<p>Sure, the fight had only lasted a few seconds. But it was a complete surprise attack, and I still needed three steps to take him down. That last one had been especially dangerous. If I&#x27;d hesitated</p>
+<p>even slightly, he would have snared both my legs and taken me out in no time.</p>
 <p>Three steps was just too many when you&#x27;re fighting a magician. If he&#x27;d been in a group, one of his allies would have stepped in to protect him by the time I&#x27;d taken my second stride. And if there&#x27;d been just a bit more distance between us, I might have needed four steps.</p>
 <p>For all intents and purposes, the kid got the best of me. You could probably toss him into a party of adventurers right now. He&#x27;d more than pull his own weight in a labyrinth.</p>
 <p>&quot;Guess you&#x27;d expect no less from the prodigy who gave a Water Saint-tier magician an inferiority complex…&quot;</p>

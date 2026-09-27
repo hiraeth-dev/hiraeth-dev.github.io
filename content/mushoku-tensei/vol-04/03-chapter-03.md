@@ -51,7 +51,8 @@ nav_title = "Chapter 3"
 <p>I could see up to three or four seconds with more mana, but if I tried to see up to five seconds in advance, the image split and blurred so much that it gave me a headache. That was representative of just how many ways the future could change. Also, the further you tried to see into the future, the more it taxed your brain, apparently. Kishirika even said that having two demon eyes would cripple you. Perhaps it was the influence of all her demon eyes that made her seem like such an airhead.</p>
 <p>Regardless, I knew that I could safely see one second into the future. It took me three days to master this, then an extra day to learn how to control both factors at once. In total, it took seven days to learn the basics of using my Eye of Foresight.</p>
 <p>***</p>
-<p>While I was busy channeling mana into my eye and commanding it, Do my bidding, Eye of Foresight! Eris and Ruijerd went somewhere together every day. When they returned, Eris was always bathed in sweat while Ruijerd looked as composed as ever, only perspiring slightly more than usual. The two of them were doing something to work up that sweat. And every single day, at that!</p>
+<p>While I was busy channeling mana into my eye and commanding it, Do my bidding, Eye of Foresight! Eris and Ruijerd went somewhere together every day. When they returned, Eris was always bathed in sweat while Ruijerd looked as composed as ever, only perspiring</p>
+<p>slightly more than usual. The two of them were doing something to work up that sweat. And every single day, at that!</p>
 <p>&quot;Just for the sake of reference, I&#x27;d like to ask. What are you two doing?&quot;</p>
 <p>Eris was wringing out a rag drenched in sweat when I asked. She answered, &quot;Heh heh, that&#x27;s a secret!&quot; She looked to be truly enjoying herself.</p>
 <p>So she was doing something in secret that she couldn&#x27;t tell me? Oh, I get it. A little afternoon delight, eh? Guess my only hope for action was to drown myself in the scent of that sweat-soaked rag she was holding.</p>
@@ -122,7 +123,8 @@ nav_title = "Chapter 3"
 <p>&quot;I have no idea what you saw, but I decided that if you tried to defend with your hand I would grab it, and if you didn&#x27;t then I would punch. That was all that went through my head.&quot;</p>
 <p>In other words, as long as he could guess what I was going to do next, he could react to it. There was such a gap in our skill levels that my ability to see one second into the future ultimately meant nothing. Similar to shogi, you could say. Even if a novice could see one move ahead, there was still no way they could beat a master.</p>
 <p>The inhabitants of this world were, to an unusual degree, highly skilled. There were probably many others out there who could fight like Ruijerd.</p>
-<p>&quot;More importantly, I&#x27;ve fought someone with the same demon eye before. Ever since then, I&#x27;ve fought with the assumption that everyone has the same ability. You and I have different levels of experience.&quot;</p>
+<p>&quot;More importantly, I&#x27;ve fought someone with the same demon eye before. Ever since then, I&#x27;ve fought with the assumption that</p>
+<p>everyone has the same ability. You and I have different levels of experience.&quot;</p>
 <p>&quot;That&#x27;s true.&quot;</p>
 <p>So he used his experience to combat the Eye of Foresight. Perhaps the sword styles of this world also had ways to counter the power of a demon eye—for instance, the Sword God Style&#x27;s Longsword of Light. I got the feeling that even if you could see it, you wouldn&#x27;t be able to dodge it.</p>
 <p>&quot;It looks like I got a little ahead of myself.&quot;</p>

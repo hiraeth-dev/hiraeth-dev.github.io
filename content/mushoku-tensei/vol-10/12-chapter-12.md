@@ -115,7 +115,8 @@ nav_title = "Chapter 12"
 <p>But I didn&#x27;t feel that sensation today. Instead, I felt under the weather. It wasn&#x27;t a good day for my rising dragon. I should&#x27;ve been happy since Ruijerd was here, but it seemed Eris was really weighing on my mind. I felt gloomy and restless.</p>
 <p>Though I didn&#x27;t feel too motivated, I decided to start my daily training anyway. I was sure that five minutes—no, ten minutes—of exercise would perk me up. With that thought in mind, I stepped outside.</p>
 <p>A chilling scene awaited me.</p>
-<p>Someone else was already standing at our front entrance. Two towering figures, actually: one a bald warrior, a man who&#x27;d shaved his hair in order to hide its green hue. He wore none of the arctic clothing common in the region, but was dressed in civvies, bearing a lance. It was Ruijerd.</p>
+<p>Someone else was already standing at our front entrance. Two towering figures, actually: one a bald warrior, a man who&#x27;d shaved his hair in order to hide its green hue. He wore none of the arctic</p>
+<p>clothing common in the region, but was dressed in civvies, bearing a lance. It was Ruijerd.</p>
 <p>Then there was the other man. He had a large and brawny body, with skin as black as pitch, and purple hair. Badigadi had his six arms folded together over his chest, giving off an immensely imposing aura as he stood in front of Ruijerd.</p>
 <p>The chill in the air was intense. Volatile. If someone lit a match, it might explode.</p>
 <p>Badigadi wasn&#x27;t smiling, which was rare. In fact, he wore no expression at all. Ruijerd had his back to me, so I couldn&#x27;t see his face.</p>

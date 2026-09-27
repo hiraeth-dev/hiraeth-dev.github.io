@@ -16,7 +16,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Arus Fort&#x27;s eastern gate. That place was hell. I was damn close to losing my wonderful, beloved right arm here.&quot;</p>
 <p>&quot;Hell doesn&#x27;t even begin to describe what happened there. I heard you guys were flanked and had your forces devastated!&quot;</p>
 <p>&quot;Not much different from what happened to you guys in the Defensive Battle of Rudomin. I heard you guys had your supply routes cut off so you didn&#x27;t even have food.&quot;</p>
-<p>The Markien Mercenary Country supported all other nations equally and without discrimination. The mercenaries they dispatched were incredibly feared. Their troops were great warriors, their commanders calm and collected, and their tacticians excelled at military tactics. Once they entered battle, they led their allies to victory without fail. They were a symbol of triumph and fear on the battlefield. That was what it meant to be a Markien mercenary.</p>
+<p>The Markien Mercenary Country supported all other nations equally and without discrimination. The mercenaries they dispatched were incredibly feared. Their troops were great warriors, their commanders calm and collected, and their tacticians excelled at</p>
+<p>military tactics. Once they entered battle, they led their allies to victory without fail. They were a symbol of triumph and fear on the battlefield. That was what it meant to be a Markien mercenary.</p>
 <p>&quot;It&#x27;s incredible we made it out of there alive.&quot;</p>
 <p>&quot;Well, that&#x27;s what you call the grace of the Forest Goddess.&quot;</p>
 <p>One of the mercenaries retrieved a pendant from his breast pocket. There was a relief carved into the wood, the profile of a woman with animal-like ears.</p>
@@ -30,7 +31,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Let&#x27;s keep that part a secret from the Goddess.&quot;</p>
 <p>&quot;Ahahaha!&quot;</p>
 <p>The night wore on as the two merrily shared drinks.</p>
-<p>The Forrest Goddess Laine was the god of the Markien mercenaries. According to legend, she was the Goddess of Salvation who appeared a hundred years ago when the Markien Mercenary Country was on the verge of collapse. Her guidance of one of the country&#x27;s legendary commander-in-chiefs rescued the country from disaster.</p>
+<p>The Forrest Goddess Laine was the god of the Markien mercenaries. According to legend, she was the Goddess of Salvation who appeared a hundred years ago when the Markien Mercenary Country was on the verge of collapse. Her guidance of one of the</p>
+<p>country&#x27;s legendary commander-in-chiefs rescued the country from disaster.</p>
 <p>Thanks to that legend, many of Markien&#x27;s mercenaries believed that when they were on the verge of death, the Forest Goddess would appear out of nowhere and save them. That was why they prayed to her.</p>
 <p>However, strangely enough, there was only one country in the entire world that believed in the Forest Goddess Laine, and that was the Markien Mercenary Country. Why was it only this particular country that had such a custom?</p>
 <p>The answer was one interesting story indeed.</p>
@@ -38,7 +40,8 @@ nav_title = "Extra Chapter"
 <p>Year Four Hundred and Seventeen of the Armored Dragon.</p>
 <p>It was the year of the Displacement Incident in Asura Kingdom. Not two years had passed since the Mercenary King Markien proclaimed the establishment of the fledgling Markien Mercenary Country. The country was on the verge of collapse and facing a crisis.</p>
 <p>This wasn&#x27;t a rare occurrence. In the Conflict Zone, small countries were established and destroyed all the time. People would wait for an opportune chance to build their own country, with the ambition of taking over the whole region and creating an even greater country, only for that dream to be shattered and fragmented. Markien Mercenary Country was just another casualty of that cycle, a disorganized nation about to meet the same fate; nothing more, nothing less.</p>
-<p>Still, nothing happened without a cause. Their first step down the path of their destruction was diplomacy. The country, whose economy was based around deploying mercenaries, possessed a national and military power beyond what was expected of a developing country. Yet that was the very cause of their problem.</p>
+<p>Still, nothing happened without a cause. Their first step down the path of their destruction was diplomacy. The country, whose economy was based around deploying mercenaries, possessed a</p>
+<p>national and military power beyond what was expected of a developing country. Yet that was the very cause of their problem.</p>
 <p>The two countries in closest contact to Markien, Dikuto Kingdom and the Broze Empire, were deeply wary of the mercenary country. They schemed against it, and when diplomatic relations broke down, both countries proclaimed war upon Markien simultaneously.</p>
 <p>Although it was a mercenary country, it was powerless against the combined might of two other nations. Markien made a show of fierce resistance, but it lost half its territory after the sudden surrender of an important fortress and the loss of numerous large battles.</p>
 <p>There was no future for the country. Those mercenaries who thought as much fled to other countries or turned traitor. What was to become the decisive battle, which would afterward become known as The Site of Markien&#x27;s Final Battle, took place in a large basin.</p>
@@ -50,7 +53,8 @@ nav_title = "Extra Chapter"
 <p>King Markien decided to take advantage of that. Their troops would break through the forest and launch a surprise attack on one of their two enemies. A simple but effective plan.</p>
 <p>That said, Markien&#x27;s military strength was not what it used to be. Just the act of invading the forest would reduce their numbers greatly when they were accosted by various beasts. Forget launching a strong surprise attack—it seemed they would only be squandering resources.</p>
 <p>That was where their strategy came into play. In the previous battle they had secured several Broze Empire suits of armor. They would have some of their soldiers don these then attack the Dikuto Empire from behind.</p>
-<p>The two countries had formed a temporary alliance until Markien was vanquished. Once that was over, the two would inevitably begin fighting for control over the land they had conquered. Even now tensions ran high as both countries began considering what methods would be most beneficial to them. It would only take one small push for their alliance to snap, creating conflict between them. That was Markien&#x27;s aim.</p>
+<p>The two countries had formed a temporary alliance until Markien was vanquished. Once that was over, the two would inevitably begin fighting for control over the land they had conquered. Even now tensions ran high as both countries began considering what methods would be most beneficial to them. It</p>
+<p>would only take one small push for their alliance to snap, creating conflict between them. That was Markien&#x27;s aim.</p>
 <p>Bigott Mercenal, known for being daring and resolute, was put in charge of the operation. He would pass through the forest and launch a powerful sneak attack with a small company of mercenaries.</p>
 <p>It was an incredibly dangerous endeavor. They would not come back alive even if they succeeded. In fact, they might have to take their own lives to avoid capture. They couldn&#x27;t bring anything that may give away their identity. No one could know who they were or where they came from. There was no honor to be had from this mission. Instead, they would die as traitors.</p>
 <p>Despite that, Bigott said to Markien, &quot;Do not worry, for tales of us shall be passed on. We will live on as the heroes that led this country to victory during one of its great battles, just like the legendary Twin Gods Migus and Gumis. Is that not an honor by itself?&quot; Bigott took on this duty, seeing the similarity between himself and the legendary heroes of 400 years ago who died in battle against Laplace.</p>
@@ -75,7 +79,8 @@ nav_title = "Extra Chapter"
 <p>Before Bigott realized what was happening, he and his men had run into another group. This party numbered ten as well. Together, they made a group of twenty men, all of them clad in armor of the Broze Empire. The only difference was that Bigott and his men were fakes.</p>
 <p>&quot;You there, give us the name of your unit!&quot; A man clad in lustrous, striking armor stood before Bigott, demanding he identify himself.</p>
 <p>&quot;Draw your swords! Let none return alive!&quot; Bigott ignored the question and instead shouted at his men, who drew their swords and leaped at the enemy.</p>
-<p>&quot;Deserters, huh?! Die!&quot; The Broze Empire Commander labeled them thus after they launched their attack. He was mistaken, but that didn&#x27;t change what had to be done. &quot;Kill them! Broze doesn&#x27;t need cowards who run from battle!&quot;</p>
+<p>&quot;Deserters, huh?! Die!&quot; The Broze Empire Commander labeled them thus after they launched their attack. He was mistaken, but</p>
+<p>that didn&#x27;t change what had to be done. &quot;Kill them! Broze doesn&#x27;t need cowards who run from battle!&quot;</p>
 <p>The Broze soldiers were swift.</p>
 <p>&quot;Gah!&quot;</p>
 <p>&quot;D-dammit!&quot;</p>
@@ -96,7 +101,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Aaah!&quot;</p>
 <p>A wild beast came leaping out after it. This beast let out a fierce war cry as it landed upon the lizard&#x27;s head and drove its sword through it. The lizard let out a final, anguished cry before it died.</p>
 <p>&quot;Gah!&quot;</p>
-<p>There was no time for them to process what had just happened. Even after slaying the lizard the wild beast didn&#x27;t stop moving. It sprang to the ground and, in the blink of an eye, cut down two of the Emperor&#x27;s bodyguards.</p>
+<p>There was no time for them to process what had just happened. Even after slaying the lizard the wild beast didn&#x27;t stop moving. It</p>
+<p>sprang to the ground and, in the blink of an eye, cut down two of the Emperor&#x27;s bodyguards.</p>
 <p>&quot;What are you doing?!&quot;</p>
 <p>For a moment Bigott thought this had to be the ruler of the forest. However, this wild beast had the form of a human. Warm brown skin, fiery red hair, and two fully erect beastfolk ears. It also held a sword. A sword that had a thin, one-sided blade, which gleamed an eerie red color, and had an inscription on it.</p>
 <p>&quot;Who are you?!&quot; yelled Klein, the captain of the bodyguards, as he stepped forward.</p>
@@ -140,7 +146,8 @@ nav_title = "Extra Chapter"
 <p>&quot;&#x27;What about it&#x27;? I mean, what are you planning to do?&quot;</p>
 <p>&quot;Anyone who gets in my way gets cut down. That&#x27;s all.&quot; There was a ferocity in her eyes that made him doubt if she was still in possession of reason. Bigott had no words. Just what had her so stirred up?</p>
 <p>&quot;Hopefully Rudeus is with Lady Eris, but there&#x27;s a chance they were both transported somewhere else just like I was. I have to hurry.&quot;</p>
-<p>After hearing that, he understood. We&#x27;re not that different, he thought. Those two children, particularly the red-haired girl, were more important than anything to the Sword King. She was desperate to protect that which was precious to her.</p>
+<p>After hearing that, he understood. We&#x27;re not that different, he thought. Those two children, particularly the red-haired girl, were</p>
+<p>more important than anything to the Sword King. She was desperate to protect that which was precious to her.</p>
 <p>&quot;In that case, why don&#x27;t we travel part of the way together? We also have something to take care of in that direction.&quot;</p>
 <p>&quot;Very well.&quot;</p>
 <p>For some reason Bigott felt particularly proud. Although their objectives differed, he felt like he was standing side-by-side with this Sword King, fighting for something he wanted to protect.</p>

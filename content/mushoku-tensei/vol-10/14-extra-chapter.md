@@ -21,7 +21,8 @@ nav_title = "Extra Chapter"
 <p>Aisha had no problems with selfish demands, but if her sister wanted those selfish demands to be met, she should go about it more intelligently. She had to do it in a way that made those around her think they had actually won. Instead, she grew irritable watching Norn pointlessly quibble by repeating the same line over and over. &quot;I don&#x27;t want to.&quot; It was disgraceful.</p>
 <p>&quot;You just don&#x27;t want to go stay with our big brother, isn&#x27;t it? You&#x27;re treating him like he&#x27;s some awful person just because he had a little fight with our father a long time ago. Even Father himself said that he was in the wrong.&quot;</p>
 <p>&quot;He wasn&#x27;t!&quot; Norn suddenly burst out. There was no doubt in her mind that the fight between Rudeus and Paul had been Rudeus&#x27; fault. Norn wouldn&#x27;t accept anything else.</p>
-<p>&quot;You&#x27;re always like that. As soon as things aren&#x27;t going your way, you start pouting and whining. You wait for everyone else around you to give in, and if anyone says anything you don&#x27;t like, you yell at them. How idiotic.&quot;</p>
+<p>&quot;You&#x27;re always like that. As soon as things aren&#x27;t going your way, you start pouting and whining. You wait for everyone else</p>
+<p>around you to give in, and if anyone says anything you don&#x27;t like, you yell at them. How idiotic.&quot;</p>
 <p>Norn clenched her teeth. She could do nothing but glare at her younger sister as tears sprang to her eyes.</p>
 <p>However, it wasn&#x27;t just Norn glaring at Aisha. So was the grown woman beside her. &quot;Aisha, how dare you speak that way? Apologize immediately!&quot;</p>
 <p>The woman in question was Lilia, currently in charge of watching the two girls while Paul searched for a ship and a knowledgeable guide. These sisterly arguments were a daily occurrence. Paul had more or less given up on mediation, looking exasperated as he acknowledged, &quot;Well, they are sisters, so they&#x27;re going to fight.&quot; He did still step in and scold Aisha when she began spouting too many foul words.</p>
@@ -46,7 +47,8 @@ nav_title = "Extra Chapter"
 <p>As the man took in the scene before him, his face grew red, while Norn&#x27;s grew pale. &quot;Hey, you little brat! Where do you think you&#x27;re walking!&quot;</p>
 <p>&quot;Eek!&quot;</p>
 <p>He grabbed her by her shirt collar and hoisted her in the air. His scruffy face pressed in close, his breath washing over her. It smelled of alcohol. He was drunk.</p>
-<p>&quot;Uh, um, uh…&quot; Norn trembled in fear. She knew well what drunk people did. She&#x27;d seen Paul drunk often enough when he was running from his problems. Although his anger was never directed at her, it was still enough for a young Norn to understand. Drunk people are terrifying; drinking is bad. She&#x27;d accepted the fact that Paul couldn&#x27;t function without his liquor, but her father was the only exception.</p>
+<p>&quot;Uh, um, uh…&quot; Norn trembled in fear. She knew well what drunk people did. She&#x27;d seen Paul drunk often enough when he was running from his problems. Although his anger was never directed at her, it was still enough for a young Norn to understand. Drunk people</p>
+<p>are terrifying; drinking is bad. She&#x27;d accepted the fact that Paul couldn&#x27;t function without his liquor, but her father was the only exception.</p>
 <p>&quot;What&#x27;re you gonna do to make up for this, huh?! Pay up!!&quot;</p>
 <p>&quot;Yeah! That was Boss&#x27; favorite snack!!&quot;</p>
 <p>&quot;You moron! I&#x27;m talking about my clothes! And this stain! I&#x27;m not gonna be able to get it out!&quot;</p>
@@ -113,7 +115,8 @@ nav_title = "Extra Chapter"
 <p>Ruijerd continued rubbing her head for a short while after that. It was a pleasant sight for anyone who looked upon the two of them. Even Norn&#x27;s puffy, tear-covered face finally lit into a smile.</p>
 <p>&quot;Ah! There she is! Miss Lilia, I found her!&quot; From the side of the plaza came a voice. They spotted a young girl with blue hair trying to hold down the hat on her head as she ran toward them.</p>
 <p>&quot;Looks like they&#x27;re here for you,&quot; Ruijerd mumbled. He dropped his hand to his side and stood up.</p>
-<p>Norn felt a bit sad as his warmth disappeared. She followed him and stood as well. &quot;Um…&quot; He had already turned his back toward her, but she called out to him in a loud voice. &quot;Please tell me your name!&quot;</p>
+<p>Norn felt a bit sad as his warmth disappeared. She followed him and stood as well. &quot;Um…&quot; He had already turned his back toward</p>
+<p>her, but she called out to him in a loud voice. &quot;Please tell me your name!&quot;</p>
 <p>He glanced over his shoulder. The knot in his headband had loosened during their exchange with the two men earlier and now came completely undone. As it fell away, it revealed a ruby-like gem on his forehead. &quot;Ruijerd. Ruijerd Superdia.&quot;</p>
 <p>It was a scene straight from a fantasy novel. A man with a beautiful jewel on his forehead, illuminated by sunlight from behind, a smile on his face as he looked directly at her. In that moment, Norn felt like a fairytale princess whose knight had come to rescue her.</p>
 <p>***</p>

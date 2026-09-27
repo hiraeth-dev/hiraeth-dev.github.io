@@ -71,7 +71,8 @@ nav_title = "Chapter 8"
 <p>Roxy&#x27;s eyes went round as she gasped. &quot;What?!&quot;</p>
 <p>The hydra was completely unscathed.</p>
 <p>Was it resistant to ice? The possibility crossed my mind for a split second, but Paul was already about to arrive at the creature&#x27;s location.</p>
-<p>&quot;Stone Cannon!&quot; I released my charged shot. The perfectly polished earthen bullet whistled through the air. It passed right above Paul&#x27;s head, just as he was a few steps short of the enormous serpent.</p>
+<p>&quot;Stone Cannon!&quot; I released my charged shot. The perfectly polished earthen bullet whistled through the air. It passed right</p>
+<p>above Paul&#x27;s head, just as he was a few steps short of the enormous serpent.</p>
 <p><em>Piiiing!</em></p>
 <p>Again, that earsplitting noise.</p>
 <p>&quot;Was it deflected?!&quot; I choked out in disbelief.</p>
@@ -201,7 +202,8 @@ nav_title = "Chapter 8"
 <p>My proposal didn&#x27;t guarantee success, but then, there was no such thing as guaranteed success.</p>
 <p>Frankly, I felt like our best course of action was returning to the city. While it was true that we&#x27;d hardly used any of our supplies, we had a tough enemy before us. Perhaps it would behoove us to prepare for fighting this boss. We could even hire people specifically for fighting a hydra. I wasn&#x27;t sure how many swordsmen out there could slice clean through a hydra&#x27;s neck, but with the number of adventurers in Rapan, I was sure we could find at least one.</p>
 <p>&quot;…&quot;</p>
-<p>But I knew Paul wouldn&#x27;t allow it. In his current state, if I suggested we turn back now, he might insist on challenging the beast by himself. Plus, even if we did go back, I couldn&#x27;t foresee us being lucky enough to find items specific to defeating a hydra or mercenaries for hire.</p>
+<p>But I knew Paul wouldn&#x27;t allow it. In his current state, if I suggested we turn back now, he might insist on challenging the beast by himself. Plus, even if we did go back, I couldn&#x27;t foresee us being</p>
+<p>lucky enough to find items specific to defeating a hydra or mercenaries for hire.</p>
 <p>We had a countermeasure. We had the necessary number of people. Thus, we had to proceed to battle.</p>
 <p>&quot;Hey, Paul. You fine with all this?&quot; Geese asked.</p>
 <p>&quot;…Yeah.&quot;</p>

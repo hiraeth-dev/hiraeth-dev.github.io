@@ -40,7 +40,8 @@ nav_title = "Chapter 5"
 <p>&quot;Then…why?&quot;</p>
 <p>&quot;That sword is too strong,&quot; Sandor replied simply, like he was making an obvious point. &quot;Once you&#x27;ve got that sword in your hand, nothing stands a chance against you. Not the most enormous beast, the most cunning monster, or the most steadfast warrior. I won battle after battle, and I became a hero.&quot;</p>
 <p>Sandor paused and regarded Alexander. &quot;Only then when I stopped, I had a thought. I was a hero. Wasn&#x27;t everything the same as before I&#x27;d taken up the sword? Was the North God II, Alex Rybak, really strong?&quot; Sandor cast his eyes downward. &quot;Once I&#x27;d had that thought, I could no longer fight as I had. Not to deny my own battles nor my allies, of course… I realized I was finished as a hero. That&#x27;s why I surrendered the role of the North God as a hero to you, while I went to spread the teachings of North God Kalman I.&quot;</p>
-<p>I couldn&#x27;t help but feel left out of this. I wasn&#x27;t really following, but here goes: Alex (Sandor) the dad had gotten tired of fighting, relinquished his symbolic sword, and gone to spread his school of fighting. His kid (Alexander) was mad about that. I mean, I can&#x27;t blame the kid entirely. I&#x27;d probably be pissed too if my dad dumped something so heavy on me and then walked out.</p>
+<p>I couldn&#x27;t help but feel left out of this. I wasn&#x27;t really following, but here goes: Alex (Sandor) the dad had gotten tired of fighting, relinquished</p>
+<p>his symbolic sword, and gone to spread his school of fighting. His kid (Alexander) was mad about that. I mean, I can&#x27;t blame the kid entirely. I&#x27;d probably be pissed too if my dad dumped something so heavy on me and then walked out.</p>
 <p>Child abandonment—pretty uncool.</p>
 <p>&quot;So that&#x27;s how we ended up with Auber—with the eccentrics?&quot;</p>
 <p>&quot;That was one of the paths shown to us by North God Kalman I.&quot;</p>
@@ -86,7 +87,8 @@ nav_title = "Chapter 5"
 <p>Sandor reacted like he&#x27;d seen it coming. As Alec spun around to strike at him like a hurricane, Sandor parried once more. As he parried, he used the principle of leverage to sweep Alec&#x27;s legs out from under him. Just like that, Alec—no, he wasn&#x27;t knocked down. He leapt as though to jump over Sandor, then plunged back to the ground with impossible speed. It was an insane move, but I recognized where it had come from. He was using the power of the magic sword, King Dragon Blade Kajakut—gravity manipulation.</p>
 <p>&quot;Grrraaaar!&quot;</p>
 <p>Sandor was ready for it. With his back still to Alec, he parried a blow from the King Dragon Blade, then another, then another. He turned a little each time until he was facing Alec.</p>
-<p>Alec&#x27;s blows weren&#x27;t easy to parry. Every time he kicked off, he left an indent in the ground, and the shockwave when he swung his sword struck trees. Those trees began to topple, creaking, to the ground. I was standing a ways off, and the vacuum wave he generated was strong enough to bite into my cheeks.</p>
+<p>Alec&#x27;s blows weren&#x27;t easy to parry. Every time he kicked off, he left an indent in the ground, and the shockwave when he swung his sword struck trees. Those trees began to topple, creaking, to the ground. I was</p>
+<p>standing a ways off, and the vacuum wave he generated was strong enough to bite into my cheeks.</p>
 <p>The blow didn&#x27;t hit Sandor. The guy might have been retired, but he was still the North God. He went on parrying Alec&#x27;s strikes without ever looking worried. With his ability to manipulate gravity, Alec could move as freely and as acrobatically as he liked, which made him impossible to predict. Sandor was keeping up with him all the same. It looked like he wasn&#x27;t moving at first glance, but his body almost quivered as he made minute adjustments to get into a more advantageous position.</p>
 <p>So this was what a fight between North Gods looked like. They weren&#x27;t that fast. Maybe because of all the training I&#x27;d done with Eris and Orsted, I was able to follow their movements. They were so tightly packed and so unpredictable that although I could follow the fight, I couldn&#x27;t help.</p>
 <p>&quot;Take thaaaat!&quot;</p>
@@ -127,7 +129,8 @@ nav_title = "Chapter 5"
 <p>&quot;R-right.&quot; With this quick conference over, Sandor charged forward, and Alec ran once more to meet him.</p>
 <p>&quot;Uuah!&quot;</p>
 <p>&quot;Grrryaah!&quot;</p>
-<p>They got stuck into another exchange of blows. It was just as Sandor had said: I couldn&#x27;t pick up on anything different at first glance, but Sandor was no longer deflecting Alec&#x27;s blows perfectly. With every parry, his stance degraded a little further. The level of Alec&#x27;s attacks had changed they looked the same, but I guess he put more weight behind them.</p>
+<p>They got stuck into another exchange of blows. It was just as Sandor had said: I couldn&#x27;t pick up on anything different at first glance, but Sandor was no longer deflecting Alec&#x27;s blows perfectly. With every parry, his</p>
+<p>stance degraded a little further. The level of Alec&#x27;s attacks had changed they looked the same, but I guess he put more weight behind them.</p>
 <p>If he got the advantage over Sandor, I wouldn&#x27;t be able to squeeze in any direct hits with my Stone Cannon. The number he parried, deflected, or evaded would increase.</p>
 <p>I stopped shooting. Instead, I used magic to shape the earth. First of all, I&#x27;d put a stop to the bouncy, physics-defying aerial maneuvers. That&#x27;d take the pressure off Sandor a bit and give him more flexibility for how he attacked.</p>
 <p>Then, time to reintroduce my Stone Cannons.</p>

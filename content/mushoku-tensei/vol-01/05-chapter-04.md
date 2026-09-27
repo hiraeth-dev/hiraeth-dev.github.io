@@ -57,7 +57,8 @@ nav_title = "Chapter 4"
 <p>Well, no big deal. I did promise to give it my all in this new life, after all.</p>
 <p>***</p>
 <p>And so it was decided that a home tutor should be hired for me.</p>
-<p>I gathered that the position of personal instructor to a young noble was a well-paying one. Paul was one of the few knights in the area, which made him a fairly low-ranking noble himself, so I wondered whether he could offer competitive pay. We were out in the sticks on the far border of the kingdom, though, and out on the frontier, high-level talent (especially for something like a magician) was in short supply. If we put in a request to something like a Mages&#x27; Guild or Adventurers&#x27; Guild, would anyone even respond?</p>
+<p>I gathered that the position of personal instructor to a young noble was a well-paying one. Paul was one of the few knights in the area, which made him a fairly low-ranking noble himself, so I wondered whether he could offer competitive pay. We were out in the sticks on the far border of the kingdom, though, and out on the</p>
+<p>frontier, high-level talent (especially for something like a magician) was in short supply. If we put in a request to something like a Mages&#x27; Guild or Adventurers&#x27; Guild, would anyone even respond?</p>
 <p>My parents also seemed worried by that prospect, but they apparently found someone promptly, because my lessons were going to start the next day.</p>
 <p>And since there was no inn in our village, my teacher would be living with us.</p>
 <p>My parents were fairly certain that my teacher would be some retired adventurer. Young people wouldn&#x27;t come all this way to the boonies, and there was no shortage of jobs for royal magicians back in the capital. As I understood it, in this world, only Advanced-level magicians taught the arcane arts. So, whoever we got would at least be an Intermediate- or Advanced-level adventurer, possibly higher.</p>
@@ -177,7 +178,8 @@ nav_title = "Chapter 4"
 <p>At the same time, I&#x27;d always thought people who did that sort of thing were blights on the world. It reminded me of the people who used to bully me, sneering down at me from a position out of my reach, filling me with an anger I had no outlet for. Even if the perpetrator was somehow brought low to my level, he&#x27;d still look at me and ask, &quot;What, you&#x27;re still here?&quot;</p>
 <p>It was the worst.</p>
 <p>But things weren&#x27;t like that anymore. Maybe because I was now a child, or because it was my parents going at it, or just because I was more focused on my future, hearing them doing their business actually brightened my mood. I could tell roughly what they were getting up to just from the sounds.</p>
-<p>It seemed that Paul was pretty good in bed, too. Even though Zenith was out of breath, I heard him say, &quot;Oh, I&#x27;m just getting warmed up,&quot; before he went back to thrusting. He sounded like the main character from a pretty rapey adult dating sim, boundless virility and all.</p>
+<p>It seemed that Paul was pretty good in bed, too. Even though Zenith was out of breath, I heard him say, &quot;Oh, I&#x27;m just getting</p>
+<p>warmed up,&quot; before he went back to thrusting. He sounded like the main character from a pretty rapey adult dating sim, boundless virility and all.</p>
 <p>Hmm. As Paul&#x27;s son, maybe I&#x27;d inherited some of that sexual prowess? And one day, I would awaken to my powers, find my heroine, and make my way into the pink.</p>
 <p>That sort of thing excited me at first, but it had recently grown stale, and I&#x27;d casually make my way down the hall to the toilet with the sounds of creaking resonating through the walls. Also, the creaking and moaning would stop as soon as I approached their room, which was pretty damn amusing.</p>
 <p>Tonight was the same. I headed for the toilet, wondering whether I should let them know that their son, now capable of walking, was there. Maybe this time I should try saying something. Maybe something like, &quot;Mooom? Daaad? What are you doin&#x27; naked?&quot;</p>
@@ -239,7 +241,8 @@ nav_title = "Chapter 4"
 <p>&quot;They say that, for the demonic races, the closer our hair is to green, the more savage we tend to be. Depending on the lighting, my hair can look pretty green, too.&quot;</p>
 <p>Green, huh? Was that this world&#x27;s danger color, then?</p>
 <p>Roxy&#x27;s hair was a striking sky-blue color, and she twirled a finger in her bangs as she explained herself. Her mannerisms were adorable.</p>
-<p>Back in Japan, blue hair was the sort of thing I&#x27;d associate with punks or older women. When I saw people like that, I always thought it was unusual—but there was nothing unusual or off-putting about Roxy&#x27;s blue locks. If anything, I thought her slightly sleepy-looking eyes helped complete the picture. She looked like she could be the first character whose route I&#x27;d try to complete in an adult dating sim.</p>
+<p>Back in Japan, blue hair was the sort of thing I&#x27;d associate with punks or older women. When I saw people like that, I always thought it was unusual—but there was nothing unusual or off-putting about Roxy&#x27;s blue locks. If anything, I thought her slightly sleepy-looking</p>
+<p>eyes helped complete the picture. She looked like she could be the first character whose route I&#x27;d try to complete in an adult dating sim.</p>
 <p>&quot;I think your hair is pretty,&quot; I said.</p>
 <p>&quot;Oh, thank you very much. But that&#x27;s the sort of thing you should say to a girl you like after you&#x27;ve grown up.&quot;</p>
 <p>I didn&#x27;t miss my opening. &quot;I like you, Miss!&quot; I couldn&#x27;t help it; hitting on cute girls is what I do.</p>

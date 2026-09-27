@@ -54,14 +54,16 @@ nav_title = "Chapter 11"
 <p>Since Ruijerd wasn&#x27;t raising any objections, I proceeded to pick out a few jobs in consultation with Jalil.</p>
 <p>***</p>
 <p>After exchanging a few words of greeting with the gate guards, the three of us headed out of town.</p>
-<p>In the vicinity of Rikarisu, it seemed that Pax Coyotes, Acid Wolves, Great Tortoises, and Great Rock Turtles were your best bets when it came to hunting monsters. Pax Coyotes you mostly killed for their pelts; Acid Wolves for their fangs and tails; Great Tortoises were walking piles of meat; and you could find magic stones inside the Great Rock Turtles. We&#x27;d decided to ignore the Great Tortoises this time around, mainly because their meat was absurdly heavy.</p>
+<p>In the vicinity of Rikarisu, it seemed that Pax Coyotes, Acid Wolves, Great Tortoises, and Great Rock Turtles were your best bets when it came to hunting monsters. Pax Coyotes you mostly killed for their pelts; Acid Wolves for their fangs and tails; Great Tortoises</p>
+<p>were walking piles of meat; and you could find magic stones inside the Great Rock Turtles. We&#x27;d decided to ignore the Great Tortoises this time around, mainly because their meat was absurdly heavy.</p>
 <p>Great Rock Turtles were top-priority targets. The magic stones you got from them were small but valuable, which allowed for some very efficient hunts. Only problem was, these were pretty rare monsters at this point, and you couldn&#x27;t find any too close to places where people lived.</p>
 <p>I&#x27;d ended up taking a Pax Coyote pelt-collection job back at the guild. All things considered, they seemed like our best bet, since they came in decent-sized groups that let you earn a nice profit from a single battle.</p>
 <p>Of course, that only made things somewhat more efficient, given that we had to track them down and skin them…so if we stumbled across any Acid Wolves out there, I was planning to hunt those as well. We hadn&#x27;t taken on any jobs to gather materials from them, but with collection quests, you could do the actual gathering part before you even accepted a job. Once you had enough raw materials, you could take on the task and bring them straight to the guild&#x27;s purchasing counter.</p>
 <p>In any case…the Pax Coyotes were our main focus for now. You&#x27;d usually get about ten per group at most. Given the time it&#x27;d take to track them down and skin them afterward, I&#x27;d initially assumed we wouldn&#x27;t be able to kill that many in a single day.</p>
 <p>After we hunted down and skinned our first group, though, Ruijerd began gathering their corpses in a pile. At first, I didn&#x27;t understand what he was doing.</p>
 <p>&quot;Can you spread the scent around using wind magic, Rudeus?&quot;</p>
-<p>Ah. Now it all makes sense. We were going to use the smell of their blood to draw other monsters to this spot. I proceeded to billow the air in various directions, advertising our pile of fresh meat to the entire surrounding area.</p>
+<p>Ah. Now it all makes sense. We were going to use the smell of their blood to draw other monsters to this spot. I proceeded to</p>
+<p>billow the air in various directions, advertising our pile of fresh meat to the entire surrounding area.</p>
 <p>&quot;Giant stone turtles can&#x27;t be lured this way, but we should attract every Pax Coyote in the vicinity at least.&quot;</p>
 <p>It went off just as Ruijerd said it would. By the end of that day, we&#x27;d killed more than a hundred Pax Coyotes—enough that I wondered if we may have eradicated them completely from this area.</p>
 <p>It had been a very hectic undertaking. Ruijerd and Eris slaughtered wave after wave of the monsters for hours on end. And I squatted behind them, working feverishly to skin the damn things.</p>
@@ -137,7 +139,8 @@ nav_title = "Chapter 11"
 <p>We went on try all sorts of different helmets, but Eris rejected every single one of them on the grounds of heaviness, ugliness, smelliness, or making it too hard to see. Ultimately, she settled on a headband of sorts; it had iron plates sewn into it to offer some protection.</p>
 <p>Of course, the hood we&#x27;d purchased earlier was solely to hide her eye-catching red hair. It was meaningless from a defensive perspective.</p>
 <p>&quot;I guess that&#x27;s all of it. What do you think, Rudeus? Do I look like an adventurer?!&quot;</p>
-<p>With the cutlass-like sword Rowin had given us fastened at her hip, Eris twirled to show off her new set of light armor. To be perfectly honest, it looked a bit like a cosplay…especially since that breastplate didn&#x27;t quite fit.</p>
+<p>With the cutlass-like sword Rowin had given us fastened at her hip, Eris twirled to show off her new set of light armor. To be</p>
+<p>perfectly honest, it looked a bit like a cosplay…especially since that breastplate didn&#x27;t quite fit.</p>
 <p>&quot;Splendid, miss. Simply splendid. You&#x27;re the very picture of a seasoned warrior.&quot;</p>
 <p>&quot;You think? Hehehe…&quot;</p>
 <p>Eris put her hands on her hips and looked down at herself with a satisfied grin. As she savored the moment, I haggled down the cost of her equipment to one iron coin. Not a minor purchase by any means, but we were buying a full set of armor here.</p>

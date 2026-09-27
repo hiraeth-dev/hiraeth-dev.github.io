@@ -130,7 +130,8 @@ nav_title = "Chapter 2"
 <p>After reaching this conclusion, though, I remembered my theory that your mana capacity is partially determined by how much you use magic as a child. If Aisha wasn&#x27;t going to attend school, I could at least give her a little training in magic. At the age of ten, her mana capacity probably wasn&#x27;t going to change that much, but it wasn&#x27;t set in stone either. And she&#x27;d be better off knowing at least Intermediate-tier offensive magic too. The Beginner spells were enough for an ordinary person living a peaceful life, but the Intermediate ones were more useful if you ever needed to defend yourself.</p>
 <p>&quot;Aisha, come over here. Let&#x27;s practice magic for a while.&quot;</p>
 <p>&quot;Ooh! Are you going to teach me, Rudeus?! Really?!&quot;</p>
-<p>Aisha trotted over to me with a big smile on her face. For all her discipline, the kid tended to let the &quot;cool-headed maid&quot; character drop whenever she got emotional about something. She still had a ways to go before she&#x27;d be a match for Lilia.</p>
+<p>Aisha trotted over to me with a big smile on her face. For all her discipline, the kid tended to let the &quot;cool-headed maid&quot; character</p>
+<p>drop whenever she got emotional about something. She still had a ways to go before she&#x27;d be a match for Lilia.</p>
 <p>&quot;Yeah, I think it&#x27;s a good idea for you to learn a little more. I know you might not be that interested, but—&quot;</p>
 <p>&quot;But I am, though! Of course I am!&quot; she said, hopping up into my lap. &quot;Please go right ahead!&quot;</p>
 <p>The girl could be awful cute when she wanted to.</p>

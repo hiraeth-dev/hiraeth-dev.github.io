@@ -16,7 +16,8 @@ nav_title = "Chapter 11"
 <p>&quot;What do you mean by that?&quot;</p>
 <p>&quot;Exactly what I said. I know it sounds like a phrase straight out of a Hollywood film, but I really don&#x27;t have much time. You need to listen.&quot;</p>
 <p>He made that Hollywood reference without missing a beat. That meant he had to have some connection to my previous life. Maybe he really was me from the future.</p>
-<p>There was a glint in his eyes and a darkness lurking within. Frankly, he looked like someone who killed people daily. There was such a coldness to his gaze, as if he cared very little about other people&#x27;s lives. Was this the person I was destined to become in the future? It couldn&#x27;t be. It was too hard to believe. Yet the expression on his face was earnest.</p>
+<p>There was a glint in his eyes and a darkness lurking within. Frankly, he looked like someone who killed people daily. There was such a coldness to his gaze, as if he cared very little about other people&#x27;s lives. Was this the person I was destined to become in the</p>
+<p>future? It couldn&#x27;t be. It was too hard to believe. Yet the expression on his face was earnest.</p>
 <p><em>Okay, let&#x27;s just assume that he is me 50 years from now and at least listen to what he has to say.</em></p>
 <p>&quot;There is nothing in the basement,&quot; he blurted. &quot;At least, I went down there and thought there was nothing. I felt at ease in the following days because the Man God said there was nothing to worry about if I didn&#x27;t find anything.&quot; The old man&#x27;s face contorted in disgust. &quot;But I was wrong, and I can tell you why now.&quot;</p>
 <p>He tapped a finger—his left index finger—against his forehead, as if recalling the incident.</p>
@@ -50,7 +51,8 @@ nav_title = "Chapter 11"
 <p>&quot;No, that can&#x27;t be…&quot;</p>
 <p>He immediately lifted his head, that fierce glint back in his eyes as he stared me down. &quot;The incident will be linked to something that happens 30 years from now. It&#x27;s all because of what the Man God says. Don&#x27;t be misled by him. You have memories of your previous life, so you should understand. He is the root of all evil in this world. The final boss.&quot;</p>
 <p>&quot;But why is he after Roxy?&quot;</p>
-<p>&quot;I still don&#x27;t know the answer to that. However, I do know that he is moving with some objective in mind. The last thing he said to me was this: &#x27;Thanks to you being such an idiot, everything went exactly as I planned.&#x27;&quot; He clenched his teeth. &quot;Dammit.&quot;</p>
+<p>&quot;I still don&#x27;t know the answer to that. However, I do know that he is moving with some objective in mind. The last thing he said to</p>
+<p>me was this: &#x27;Thanks to you being such an idiot, everything went exactly as I planned.&#x27;&quot; He clenched his teeth. &quot;Dammit.&quot;</p>
 <p>The Man God actually said that? Still, hmm…</p>
 <p>&quot;As for what his goal is, maybe Orsted or Laplace might know. I didn&#x27;t get a chance to meet them these 50 years. There&#x27;s a high chance you won&#x27;t be able to either, even if you look.&quot;</p>
 <p>&quot;Even Nanahoshi didn&#x27;t have a clue where to find him?&quot;</p>
@@ -190,7 +192,8 @@ nav_title = "Chapter 11"
 <p>On the other hand, if 50 years had passed, perhaps he&#x27;d been through a lot and lost those mementos.</p>
 <p>After setting his articles aside, I wrapped the old man&#x27;s body in the blanket that had been lying nearby. I carried him out through the kitchen, heading for the back door.</p>
 <p>I paused as I spotted some leftovers from last night on the counter. They were left piled on a plate. These were the ones he claimed that rats would nibble at. It was probably best to get rid of them.</p>
-<p>I slipped through our rear garden and carried the old man&#x27;s body to a nearby vacant lot. There, I dug a grave, set him inside, and set fire to it. My magic was powerful enough to turn him to ash and bones within seconds. The stench of burned flesh hung thick in the air. It was all the more nauseating knowing it was coming from my charred corpse.</p>
+<p>I slipped through our rear garden and carried the old man&#x27;s body to a nearby vacant lot. There, I dug a grave, set him inside, and set fire to it. My magic was powerful enough to turn him to ash and bones within seconds. The stench of burned flesh hung thick in the</p>
+<p>air. It was all the more nauseating knowing it was coming from my charred corpse.</p>
 <p>&quot;Urgh…&quot;</p>
 <p>The thought made my stomach lurch. I raced to the edge of the lot and vomited.</p>
 <p>Once I finished cremating him, I used my magic to conjure a pot and put his bones inside. I would bury him in the same spot where I put Paul. If he really was my future self, that was the spot where he&#x27;d be happiest.</p>

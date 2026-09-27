@@ -71,7 +71,8 @@ nav_title = "Extra Chapter"
 <p>She looked at me in surprise. The expression on her face said that she didn&#x27;t think she had a choice in the matter. Julie&#x27;s gaze travelled to each person present—Zanoba, Elinalise, Linia, Pursena, Master Fitz—and then settled back on me, looking frightened.</p>
 <p>&quot;I won&#x27;t be mad, whatever you decide, so choose however you like.&quot;</p>
 <p>&quot;O-okay.&quot;</p>
-<p>Even as I said that, I found myself thinking, Ah, maybe I screwed up. After all, thinking about it logically, she&#x27;d avoided the carrots because she didn&#x27;t want to eat them. Leaving the matter of table utensils aside, if someone told you that you didn&#x27;t have to eat something you didn&#x27;t like, then of course you wouldn&#x27;t eat it. But oh well…</p>
+<p>Even as I said that, I found myself thinking, Ah, maybe I screwed up. After all, thinking about it logically, she&#x27;d avoided the carrots because she didn&#x27;t want to eat them. Leaving the matter of table</p>
+<p>utensils aside, if someone told you that you didn&#x27;t have to eat something you didn&#x27;t like, then of course you wouldn&#x27;t eat it. But oh well…</p>
 <p>Julie grabbed her fork in her fist, as if she&#x27;d made up her mind. She stabbed it into the carrots and stuffed them all in her mouth at the same time. She pinched her eyes shut as she chewed, and after making a noise that indicated she might throw up, swallowed them with tears in her eyes.</p>
 <p>&quot;Gulp, gulp… pwah!&quot;</p>
 <p>She chugged her water, gasped, and thumped her cup back down. Then she looked at me with an accomplished expression, as if to say, There, how was that, are you satisfied?</p>

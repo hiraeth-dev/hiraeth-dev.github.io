@@ -156,7 +156,8 @@ nav_title = "Chapter 7"
 <p>He started to sob, and I reached over to reassuringly pat his head. If his hair color didn&#x27;t match either of his parents&#x27;, though, that was a big deal. The possibility that his mother had had an affair occurred to me. &quot;Is your hair color the only thing that&#x27;s different?&quot;</p>
 <p>&quot;My…my ears are longer than my dad&#x27;s, too.&quot;</p>
 <p>&quot;I see.&quot; A demon race that had long ears and green hair sounded plausible enough. I mean, I didn&#x27;t want to pry too hard into the affairs of a stranger&#x27;s home life, but I&#x27;d been a bullied child myself, so I wanted to do something for him. Also, I just felt so bad for him, being bullied just for having green hair.</p>
-<p>Some of the bullying I&#x27;d experienced had been a result of stupid things I&#x27;d done. But not this kid. No amount of effort on his part could change how he&#x27;d been born. He&#x27;d been destined from birth to have mudballs pelted at him on the roadside just because his hair was a bit green. Ugh.</p>
+<p>Some of the bullying I&#x27;d experienced had been a result of stupid things I&#x27;d done. But not this kid. No amount of effort on his part could change how he&#x27;d been born. He&#x27;d been destined from birth to</p>
+<p>have mudballs pelted at him on the roadside just because his hair was a bit green. Ugh.</p>
 <p>Just thinking of it was enough to piss me off again.</p>
 <p>&quot;Does your dad treat you nicely?&quot; I asked.</p>
 <p>&quot;Yeah. He&#x27;s scary when he&#x27;s mad, but he doesn&#x27;t get mad if I behave.&quot;</p>
@@ -171,7 +172,8 @@ nav_title = "Chapter 7"
 <p>&quot;I&#x27;m, ah, delivering m-my dad&#x27;s lunch…&quot;</p>
 <p>His father was a half-elf, yeah? When elves turned up in stories, they tended to be long-lived and isolationist people with haughty dispositions who looked down on other races. They were skilled with the bow and also with magic. Water and wind magic were their forte. Oh, and they had long ears, of course.</p>
 <p>Roxy had said, &quot;That&#x27;s largely accurate, though they aren&#x27;t particularly isolationist.&quot;</p>
-<p>Were the majority of elven men and women super-gorgeous in this world, too? No, no. Thinking of elves as all being super-gorgeous was a crass Japanese preconception. The elves in Western games had faces that were too angular and pointed and didn&#x27;t look particularly gorgeous at all. Guess Japanese otaku and foreign normies had different sensibilities.</p>
+<p>Were the majority of elven men and women super-gorgeous in this world, too? No, no. Thinking of elves as all being super-gorgeous was a crass Japanese preconception. The elves in Western games</p>
+<p>had faces that were too angular and pointed and didn&#x27;t look particularly gorgeous at all. Guess Japanese otaku and foreign normies had different sensibilities.</p>
 <p>In the case of this boy here, though, it was a given that his parents were hot.</p>
 <p>&quot;So, um…why…why are you…protecting me?&quot; he asked haltingly, his mannerisms evoking more of that protective instinct in me.</p>
 <p>&quot;My father told me that I should be an ally to the weak.&quot;</p>
@@ -182,7 +184,8 @@ nav_title = "Chapter 7"
 <p>Our chips were in the same pile now. The chain of bullying grew when the person being helped turned on their helper instead of being grateful and repaying that kindness. Granted, the reason for this kid being victimized was rooted in something deeper than that, so I doubted he&#x27;d flip and side with the bullies.</p>
 <p>&quot;Oh, are you usually too busy helping out around the house?&quot; I asked.</p>
 <p>&quot;N-no, not really…&quot; He mustered a timid expression and a shake of the head. Man, he really did have quite the face. If you were a shota fangirl looking for a fix, he&#x27;d have you hooked on the spot.</p>
-<p>You know, this might work out nicely, him having a face like that. He was sure to draw in plenty of girls once he grew up, and if I stuck with him, the ones he didn&#x27;t pick might come my way. My own face wasn&#x27;t anything too special, but if you took two guys and stood them next to each other, the better one of them looked, the more ordinary-looking the other guy appeared. And so girls who were less confident in themselves were sure to try for me.</p>
+<p>You know, this might work out nicely, him having a face like that. He was sure to draw in plenty of girls once he grew up, and if I stuck with him, the ones he didn&#x27;t pick might come my way. My own face wasn&#x27;t anything too special, but if you took two guys and stood them next to each other, the better one of them looked, the more</p>
+<p>ordinary-looking the other guy appeared. And so girls who were less confident in themselves were sure to try for me.</p>
 <p>Besides, I prefer a girl who&#x27;s a little unsure of herself as opposed to one who&#x27;s brimming with confidence.</p>
 <p>This could work. It was like how pretty girls kept ugly ones nearby so everyone would notice how pretty they were, but in reverse.</p>
 <p>&quot;Oh, that&#x27;s right. I haven&#x27;t gotten your name yet. I&#x27;m Rudeus.&quot;</p>

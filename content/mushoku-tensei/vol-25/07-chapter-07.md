@@ -57,7 +57,8 @@ nav_title = "Chapter 7"
 <p>Was it because he wanted to be a hero? No, that wasn&#x27;t it. It was because he&#x27;d made it this far overcoming danger like this. He knew he&#x27;d been backed into a corner. For sure, he was underestimating me a bit, but he wasn&#x27;t going to hold back any longer. He planned on crushing me with all his power, then escaping.</p>
 <p>My opponent was the Third North God Kalman. One of the Seven Great Powers, with sword-fighting skills and a magic sword that both classed among the world&#x27;s strongest. He wasn&#x27;t a rat in a corner. He was a wounded tiger.</p>
 <p>Meanwhile, I didn&#x27;t have much I could bring to this critical battle.</p>
-<p>Either I used careful planning and crushed him, or I lost because I couldn&#x27;t overcome the difference in our power. Those were the only options. He&#x27;d guessed that. After all of his fighting experience, he could tell that I wasn&#x27;t the type who could swing things my way.</p>
+<p>Either I used careful planning and crushed him, or I lost because I couldn&#x27;t overcome the difference in our power. Those were the only</p>
+<p>options. He&#x27;d guessed that. After all of his fighting experience, he could tell that I wasn&#x27;t the type who could swing things my way.</p>
 <p>Either that, or he&#x27;d heard it from Geese, or the Man-God…</p>
 <p>&quot;…I have one last question. Are you a disciple of the Man-God?&quot;</p>
 <p>&quot;No, I&#x27;m not. The Sword God and I got information from Geese, that&#x27;s all. I admit to helping him, though.&quot;</p>
@@ -84,7 +85,8 @@ nav_title = "Chapter 7"
 <p>He stepped forward with his right foot, planting his broken left leg firmly on the ground.</p>
 <p>I ran at him. I had no plan. My instincts told me distance attacks were a bad idea. I faced Alec, lowered my stance, and ran. A split second beforehand, something flashed across my mind. It was a memory of Eris.</p>
 <p>Right away, I raised the Gatling gun on my right arm and blasted off a full-power Stone Cannon.</p>
-<p>Alec watched me charge forward, took a step toward me, then saw the barrage of Stone Cannons bearing down on him like rain. For a scant half-moment, he drew his right foot back in hesitation. The Stone Cannons disappeared, one after another, dissolving into dust before Alec&#x27;s eyes by the power of the Stone of Absorption. I immediately leaned left. I knew I was within reach of Alec&#x27;s sword. Still, I went straight in. My right hand was extended, so I pulled it back to shoot from the hip. I leaned forward so far, my chest almost skimmed the ground.</p>
+<p>Alec watched me charge forward, took a step toward me, then saw the barrage of Stone Cannons bearing down on him like rain. For a scant</p>
+<p>half-moment, he drew his right foot back in hesitation. The Stone Cannons disappeared, one after another, dissolving into dust before Alec&#x27;s eyes by the power of the Stone of Absorption. I immediately leaned left. I knew I was within reach of Alec&#x27;s sword. Still, I went straight in. My right hand was extended, so I pulled it back to shoot from the hip. I leaned forward so far, my chest almost skimmed the ground.</p>
 <p>I aimed a kick at Alec&#x27;s left side.</p>
 <p>&quot;Gr…raaaaah!&quot;</p>
 <p>Alec&#x27;s shoulder moved. There was a flash of silver—I felt an impact on my right shoulder as part of the Magic Armor popped off. Miraculously, he hadn&#x27;t cut through my arm. Once I knew that, I didn&#x27;t bother checking anything more about the extent of the damage. I just planted my foot on the ground and raised my fist—</p>
@@ -164,7 +166,8 @@ nav_title = "Chapter 7"
 <p>&quot;Phew…&quot;</p>
 <p>I still couldn&#x27;t relax, even though the immediate fighting was over. I was wrecked. I couldn&#x27;t fight any more today. Some other chump could deal with the rest.</p>
 <p>I hadn&#x27;t been able to finish Geese off, but we&#x27;d taken down the Abyssal King, the Sword God, and the North God. Ruijerd and the Superd were on our side. The Biheiril Kingdom and the Ogre God would depend on what Geese did…but we&#x27;d have to see how negotiations went.</p>
-<p>I supposed that the only real damage we&#x27;d taken was the destruction of the office… Thanks to that, the teleportation circles were all kaput. We couldn&#x27;t move around for a while, but we&#x27;d made progress. This wasn&#x27;t a bad outcome, all things considered. I&#x27;d expected a lot worse.</p>
+<p>I supposed that the only real damage we&#x27;d taken was the destruction of the office… Thanks to that, the teleportation circles were all kaput. We</p>
+<p>couldn&#x27;t move around for a while, but we&#x27;d made progress. This wasn&#x27;t a bad outcome, all things considered. I&#x27;d expected a lot worse.</p>
 <p>As I was thinking this, the Superd Village came into view. I could see the Superd children, who must have sensed our presence, watching from the top of the fence. Then, the warriors protecting the village came out from the entrance. After them came Elinalise, Cliff, Norn, Julie, and Ginger… From their faces, they seemed fine. I got out of the Magic Armor. I&#x27;d ended up using a ton of magic, so maybe that was why my limbs felt a bit heavy. Julie and Ginger ran up to Zanoba. Norn went to Ruijerd, and Cliff headed toward Dohga, who was still slumped. Some of them embraced, some of them exchanged words of relief. Watching them, the reality of everything finally hit me.</p>
 <p>Orsted emerged then, at long last. He walked up to me.</p>
 <p>&quot;You won?&quot;</p>

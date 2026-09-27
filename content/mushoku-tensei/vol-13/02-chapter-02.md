@@ -15,7 +15,8 @@ nav_title = "Chapter 2"
 <p>Still, when I did get her attention, she was the same Sylphie I knew and loved—eager for attention and affection. That was always reassuring.</p>
 <p>&quot;Lucie&#x27;s full of energy again today,&quot; she said, smiling up at me.</p>
 <p>I looked down at our baby, who was currently sucking furiously away at my wife&#x27;s breast. She was going at it just as vigorously I did in bed. Like father, like daughter.</p>
-<p>Lucie was a healthy baby, but she was a little bit on the quiet side. She didn&#x27;t cry much at all. For a while, I was anxious that she might be sick or have some sort of physical problem. Whenever I raised the subject, though, Sylphie just smiled and called me a &quot;worrywart.&quot; I didn&#x27;t remember being so jumpy back when my siblings were born, but I guess it&#x27;s different when the baby is your own child.</p>
+<p>Lucie was a healthy baby, but she was a little bit on the quiet side. She didn&#x27;t cry much at all. For a while, I was anxious that she might be sick or have some sort of physical problem. Whenever I raised the subject, though, Sylphie just smiled and called me a &quot;worrywart.&quot; I didn&#x27;t remember being so jumpy back when my</p>
+<p>siblings were born, but I guess it&#x27;s different when the baby is your own child.</p>
 <p>Despite my concerns, Lucie had been growing steadily and staying healthy. She was still on the quiet side for a baby her age, but her body seemed sturdy enough. Once, when Lilia was looking at my calm little daughter, she observed, &quot;She reminds me of you at that age, Master Rudeus.&quot;</p>
 <p>That gave me a start, obviously. The word &quot;reincarnation&quot; flashed through my mind.</p>
 <p>I was a pretty crappy person in my previous life, to be honest. The idea made me worried. What if Lucie was the reincarnation of some good-for-nothing moron from Japan?</p>
@@ -172,7 +173,8 @@ nav_title = "Chapter 2"
 <p>What? Where did the Seven Great Powers thing come from?!</p>
 <p>&quot;Yer opponent had to scuttle away in shame, am I right? Way to go!&quot;</p>
 <p>&quot;Wait. Wait! Slow down for a second, Linia!&quot;</p>
-<p>This was just bizarre. How the hell had the rumor gotten this  twisted around? I really didn&#x27;t appreciate it. What if it circulated enough that everyone started actually believing I&#x27;d beaten down one of the Seven Great Powers? What if one of the Powers heard that rumor?</p>
+<p>This was just bizarre. How the hell had the rumor gotten this  twisted around? I really didn&#x27;t appreciate it. What if it circulated</p>
+<p>enough that everyone started actually believing I&#x27;d beaten down one of the Seven Great Powers? What if one of the Powers heard that rumor?</p>
 <p>What if it was number two on that list? A guy by the name of Orsted?</p>
 <p>&quot;Well, that was th&#x27; story I just came up with now, anyway. Don&#x27;t worry, I&#x27;ll make sure ta spread it all arou—myaaa!&quot;</p>
 <p>Before Linia could finish her sentence, I&#x27;d grabbed her by the tail and given it a ferocious yank. She lashed out at me with her claws extended, but I evaded her swipes using my Demon Eye. After a few failed attempts, she pressed her hands against her butt and glared up at me with tears in her eyes. &quot;What was that for?! Don&#x27;t yank on a lady&#x27;s tail!&quot;</p>

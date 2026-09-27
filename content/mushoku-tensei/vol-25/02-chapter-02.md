@@ -67,7 +67,8 @@ nav_title = "Chapter 2"
 <p>&quot;…Mm. Sandor&#x27;s orders,&quot; Dohga said with a weak smile. Even if he was just doing what he was told this whole time, Dohga had been looking out for me. What a good guy. I was the moron here, thinking I&#x27;d been looking out for those two soldiers.</p>
 <p>&quot;Were these arms you too?&quot; I asked, holding up my onyx-black arms. Dohga shook his head.</p>
 <p>&quot;When I found you, you were like…a cocoon. I opened it. The cocoon turned into arms.&quot;</p>
-<p>Huh? I was a cocoon, and then the cocoon turned into arms? If the arms were the cocoon, what the hell was the cocoon? Was I carrying something that&#x27;d make arms attach to me? I looked at my arms. Dohga looked apologetic.</p>
+<p>Huh? I was a cocoon, and then the cocoon turned into arms? If the arms were the cocoon, what the hell was the cocoon? Was I carrying</p>
+<p>something that&#x27;d make arms attach to me? I looked at my arms. Dohga looked apologetic.</p>
 <p>&quot;I found one real arm. I looked. But no other arm. Might have gotten eaten. I&#x27;m sorry.&quot;</p>
 <p>&quot;Oh no. Don&#x27;t sweat it.&quot; I could grow it back with healing magic…if the black ones came off, that is. &quot;Where are we?&quot; I asked.</p>
 <p>&quot;Bottom of the ravine. The most deepest bit.&quot;</p>
@@ -123,7 +124,8 @@ nav_title = "Chapter 2"
 <p>For some reason, when I looked with the Eye of Distant Sight, the Earth Dragons were still watching us after we&#x27;d climbed back down.</p>
 <p>&quot;Let&#x27;s see if there&#x27;s somewhere with fewer Earth Dragons, yeah?&quot; I suggested.</p>
 <p>&quot;…Uh-huh.&quot;</p>
-<p>With that, we started walking, our path illuminated by the mushrooms and moss. It wasn&#x27;t only Earth Dragons that attacked us. We had to contend with bugs as big as people that looked like praying mantises and centipedes. Perhaps the Earth Dragons survived by eating the bugs. An Earth Dragon had grabbed a bug in its jaws right in front of us before clambering off up the cliff. The body of another Earth Dragon came tumbling down—I suppose it died up on the cliff wall?—and got swarmed by bugs. Their prey was down here, and it was rare that anything came from above. It made sense that the Earth Dragons only paid attention to things below them. There was an odd food chain specific to this ravine.</p>
+<p>With that, we started walking, our path illuminated by the mushrooms and moss. It wasn&#x27;t only Earth Dragons that attacked us. We had to contend with bugs as big as people that looked like praying mantises and centipedes. Perhaps the Earth Dragons survived by eating the bugs. An Earth Dragon had grabbed a bug in its jaws right in front of us before</p>
+<p>clambering off up the cliff. The body of another Earth Dragon came tumbling down—I suppose it died up on the cliff wall?—and got swarmed by bugs. Their prey was down here, and it was rare that anything came from above. It made sense that the Earth Dragons only paid attention to things below them. There was an odd food chain specific to this ravine.</p>
 <p>Something occurred to me as we walked.</p>
 <p>&quot;This path is easy to walk on, huh?&quot; I said. The path along the bottom of the ravine was unexpectedly smooth. Some areas were blocked off by huge mushrooms or rocks that must have fallen from above, but it was very flat and easy to navigate. I felt like I&#x27;d walked a similar path before.</p>
 <p>&quot;…Uh-huh. Red Wyrm Jaw&#x27;s the same.&quot;</p>
@@ -133,7 +135,8 @@ nav_title = "Chapter 2"
 <p>&quot;Does that mean someone made this…?&quot;</p>
 <p>There weren&#x27;t any monsters on that road. That meant someone had made this path, then called the Earth Dragons… Just a second. Hadn&#x27;t it been Laplace who&#x27;d called dragons to the central continent? Laplace could have made this path, too.</p>
 <p>Why?</p>
-<p>I had no way of knowing. I was looking for a place to climb up, not for the answer to a historical mystery. There might be a spot with rocky terrain that prevented the Earth Dragons from nesting there. I&#x27;d been looking up with the Eye of Distant Sight for a little while now, but the walls of the ravine were so full of holes, I worried about their structural integrity. It was like a city of skyscrapers crammed together without gaps. There wasn&#x27;t an Earth Dragon living in every hole, but it was damn close to it. A thousand, maybe two. It was the ones living at the bottom that mostly came down to look for food. I didn&#x27;t think there was enough food down here to support such a large number of Earth Dragons, but in this world, it wasn&#x27;t unusual to see monsters in numbers that didn&#x27;t line up with the amount of prey on offer.</p>
+<p>I had no way of knowing. I was looking for a place to climb up, not for the answer to a historical mystery. There might be a spot with rocky terrain that prevented the Earth Dragons from nesting there. I&#x27;d been looking up with the Eye of Distant Sight for a little while now, but the walls of the ravine were so full of holes, I worried about their structural integrity. It was like a city of skyscrapers crammed together without gaps. There wasn&#x27;t an Earth Dragon living in every hole, but it was damn close to it. A thousand, maybe two. It was the ones living at the bottom that mostly came down to look for food. I didn&#x27;t think there was enough food down here to support such a large number of Earth Dragons, but in this world, it wasn&#x27;t</p>
+<p>unusual to see monsters in numbers that didn&#x27;t line up with the amount of prey on offer.</p>
 <p><em>…What if I can use that info to climb to the top of the ravine? But how, exactly? Come on, brain!</em></p>
 <p>It was such a pain getting out after falling in. I had been told not to fall into the Ravine of the Earthwyrm. But did I listen? Noooo…</p>
 <p>&quot;Rudeus.&quot;</p>

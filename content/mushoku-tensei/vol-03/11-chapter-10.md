@@ -68,7 +68,8 @@ nav_title = "Chapter 10"
 <p>&quot;R-really?&quot;</p>
 <p>&quot;Only problem is, you two know that Ruijerd here really is a Superd. Hmm. Now what are we going to do about that?&quot;</p>
 <p>&quot;I-I won&#x27;t tell anyone! Hell, it&#x27;s not like anyone would even believe me if I told &#x27;em Dead End was wandering around the city!&quot;</p>
-<p>&quot;I don&#x27;t think that&#x27;s true. Ugly rumors always find a way to get around.&quot; It&#x27;s best to assume that anyway. Especially when it&#x27;s a rumor you don&#x27;t want spreading. &quot;From my perspective, the single easiest thing would be to kill you all and bury your bodies somewhere, you know?&quot;</p>
+<p>&quot;I don&#x27;t think that&#x27;s true. Ugly rumors always find a way to get around.&quot; It&#x27;s best to assume that anyway. Especially when it&#x27;s a rumor you don&#x27;t want spreading. &quot;From my perspective, the single easiest thing would be to kill you all and bury your bodies</p>
+<p>somewhere, you know?&quot;</p>
 <p>&quot;C-come on, man, don&#x27;t talk like that… I&#x27;ll do anything you want, okay? Just don&#x27;t kill me…&quot;</p>
 <p>Those were the words I&#x27;d been waiting to hear. Time to wrap up the intimidation phase.</p>
 <p>Hmm. What am I going to do here though? These people were petnappers, which made them criminals, a.k.a. &quot;bad guys.&quot; But they were clearly small-time crooks with no connections to the local underworld. Letting them off the hook wouldn&#x27;t put us in any real danger.</p>
@@ -109,7 +110,8 @@ nav_title = "Chapter 10"
 <p>Not only were they adventurers, they were a couple rungs up the ladder from us.</p>
 <p>&quot;So you&#x27;re doing rank E tasks even though you&#x27;re rank D?&quot;</p>
 <p>&quot;Yeah. We could go up to C at this point, actually, but the lostpet stuff was steady money, you know?&quot;</p>
-<p>Once you hit rank C, you weren&#x27;t allowed to take on rank E tasks anymore. Maybe some people deliberately stayed put at D so they could keep working simpler and safer jobs…or so they could keep running a scam, in this specific case. If we were in their shoes, we&#x27;d jump up to C immediately and start grabbing B-ranked monsterslaying missions, but maybe some adventurers preferred avoiding combat altogether.</p>
+<p>Once you hit rank C, you weren&#x27;t allowed to take on rank E tasks anymore. Maybe some people deliberately stayed put at D so they could keep working simpler and safer jobs…or so they could keep running a scam, in this specific case. If we were in their shoes, we&#x27;d</p>
+<p>jump up to C immediately and start grabbing B-ranked monsterslaying missions, but maybe some adventurers preferred avoiding combat altogether.</p>
 <p>Hm. Maybe we could have these two take some C-rank jobs, then help them out with the fighting part? Even if we split the money evenly between us, that should solve our cash-flow crisis.</p>
 <p>No, no…we&#x27;d never move up the ranks that way.</p>
 <p>&quot;Ah…&quot; All of a sudden, a light bulb went off in my head. I&#x27;d just found the perfect solution.</p>
@@ -124,7 +126,8 @@ nav_title = "Chapter 10"
 <p>&quot;Ruijerd, can you be quiet for a minute, please?&quot;</p>
 <p>&quot;What?!&quot;</p>
 <p>&quot;Don&#x27;t worry. I know what I&#x27;m doing here.&quot;</p>
-<p>I turned back for a moment. Unsurprisingly, Ruijerd was looking none too pleased. The idea sure felt like a good one, but maybe I needed to reconsider. It was just so…perfect though. We could earn money, increase our rank, and work on Ruijerd&#x27;s reputation, all at the same time.</p>
+<p>I turned back for a moment. Unsurprisingly, Ruijerd was looking none too pleased. The idea sure felt like a good one, but maybe I needed to reconsider. It was just so…perfect though. We could earn</p>
+<p>money, increase our rank, and work on Ruijerd&#x27;s reputation, all at the same time.</p>
 <p>Yeah. Unless I was overlooking something, there was nothing but upsides all around.</p>
 <p>I turned back to the lizard-man and looked him in the eyes. &quot;You said you&#x27;d do anything I want earlier, right?&quot;</p>
 <p>&quot;S-sure. I can g-give you money, if you want. Just don&#x27;t kill us…&quot;</p>
@@ -187,7 +190,8 @@ nav_title = "Chapter 10"
 <p>It was true. I&#x27;d taken that possibility into account. But this plan offered some juicy benefits from their perspective, and we&#x27;d just scared them pretty badly. It probably wasn&#x27;t going to be a problem in the short term.</p>
 <p>&quot;What were you thinking? Why must we conspire with such people?!&quot;</p>
 <p>Now that question…gave me pause.</p>
-<p>The man had a point. It wasn&#x27;t like we had to join forces with those two. We could always have taken things at a more leisurely pace—taking on tasks from the guild when we could, hunting monsters outside the city when we needed cash, and slowly moving up the ranks. That was a perfectly viable alternative. And it wouldn&#x27;t involve relying on some shady people. It would be a bit of a detour, but that wasn&#x27;t the end of the world.</p>
+<p>The man had a point. It wasn&#x27;t like we had to join forces with those two. We could always have taken things at a more leisurely pace—taking on tasks from the guild when we could, hunting</p>
+<p>monsters outside the city when we needed cash, and slowly moving up the ranks. That was a perfectly viable alternative. And it wouldn&#x27;t involve relying on some shady people. It would be a bit of a detour, but that wasn&#x27;t the end of the world.</p>
 <p>Maybe this was a bad idea. Should we call it off, turn around, and kill those two right now? Have ourselves a nice bloodbath?</p>
 <p>Was I even in the right here? I wasn&#x27;t so sure anymore.</p>
 <p>&quot;Ruijerd!&quot;</p>

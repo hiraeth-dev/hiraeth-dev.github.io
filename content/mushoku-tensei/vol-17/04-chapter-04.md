@@ -119,7 +119,8 @@ nav_title = "Chapter 4"
 <p>***</p>
 <p>Ariel managed to regain her composure after a little while. As of this moment, she appeared totally unruffled. You&#x27;d never know anything had happened in the first place.</p>
 <p>I&#x27;d washed her dirty pants and underwear with my water magic, then dried them out quickly with my original spell &quot;Steam Dry,&quot; a combination of wind and fire magic. It worked almost instantly, but it wasn&#x27;t good for most fabrics, so Aisha had angrily forbidden me from using it at home. This was kind of an emergency, though.</p>
-<p>I&#x27;d lived for many years at this point, but I&#x27;d never expected to see the day where I&#x27;d be washing the underwear of a princess. In this world, the expensive stuff seemed mostly to be made of silk. Ariel wrapped herself in my robe while I was taking care of all this. It was a good thing it was nice and long.</p>
+<p>I&#x27;d lived for many years at this point, but I&#x27;d never expected to see the day where I&#x27;d be washing the underwear of a princess. In this world, the expensive stuff seemed mostly to be made of silk. Ariel</p>
+<p>wrapped herself in my robe while I was taking care of all this. It was a good thing it was nice and long.</p>
 <p>Right now, Ariel had put her clean clothes back on, and seemed to have forgotten all about the incident. And I was wearing a robe that a half-naked princess had been using just a few minutes earlier. It smelled kind of nice…</p>
 <p><em>Whoops. Not the time to be getting all excited.</em></p>
 <p>There hadn&#x27;t been any time for &quot;fun&quot; in the last few days, so my horny meter was getting dangerously full. I&#x27;d have to deal with that later.</p>

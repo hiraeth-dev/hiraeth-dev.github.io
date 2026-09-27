@@ -114,7 +114,8 @@ nav_title = "Chapter 1"
 <p><em>They&#x27;ve launched a coup in the capital. That rumor about Ariel fleeing to Milbotts was a load of crap. They were lurking somewhere in Ars, waiting for their moment to strike.</em></p>
 <p><em>I don&#x27;t know if I&#x27;ll make it back in time.</em></p>
 <p><em>We&#x27;re about a day from the capital now. People are saying that the coup ended in failure.</em></p>
-<p><em>Ariel had recklessly attempted to simultaneously murder the first and second princes. But they were protected by two powerful</em> <em>swordmasters, the Water God and a North Emperor, who&#x27;d been brought to the capital as royal guests. The assassination ended in failure. Ariel&#x27;s forces were wiped out, and she herself had been captured. They&#x27;re saying she&#x27;s going to be executed soon.</em></p>
+<p><em>Ariel had recklessly attempted to simultaneously murder the first and second princes. But they were protected by two powerful</em></p>
+<p><em>swordmasters, the Water God and a North Emperor, who&#x27;d been brought to the capital as royal guests. The assassination ended in failure. Ariel&#x27;s forces were wiped out, and she herself had been captured. They&#x27;re saying she&#x27;s going to be executed soon.</em></p>
 <p><em>Her forces were &quot;wiped out,&quot; though?</em></p>
 <p><em>Wiped out…completely?</em></p>
 <p><em>What about Sylphie…?</em></p>

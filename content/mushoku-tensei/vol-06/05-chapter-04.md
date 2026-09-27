@@ -30,7 +30,8 @@ nav_title = "Chapter 4"
 <p>&quot;Really, thank you so much.&quot; She bowed deeply again. Just how old was she again—about six? She was well-mannered for one so young. &quot;Since you saved me, I have but one selfish request to make of you!&quot;</p>
 <p>&quot;Sure.&quot;</p>
 <p>&quot;Please give me pen and paper so I can write a letter! Also, please tell me where the Adventurers&#x27; Guild is! I appreciate your help.&quot; Once she finished speaking, Aisha bowed her head again.</p>
-<p>At least she knew how to say &quot;please&quot; when she asked for help. She was a clever little girl. Ah, that was right—Paul had mentioned something about Lilia giving Aisha an extra-rigorous education, hadn&#x27;t he?</p>
+<p>At least she knew how to say &quot;please&quot; when she asked for help. She was a clever little girl. Ah, that was right—Paul had mentioned</p>
+<p>something about Lilia giving Aisha an extra-rigorous education, hadn&#x27;t he?</p>
 <p>&quot;That&#x27;s all you need? Do you have any money?&quot;</p>
 <p>&quot;I have no money!&quot;</p>
 <p>&quot;Weren&#x27;t you taught that you need money to send letters and to buy pen and paper?&quot; It was critical to teach kids the importance of money from a young age. I doubted Lilia would skip something that important, even if there were some things children shouldn&#x27;t be taught until they got older.</p>
@@ -56,7 +57,8 @@ nav_title = "Chapter 4"
 <p>A little box… Come to think of it, I felt like I&#x27;d heard something similar from Paul before.</p>
 <p>Aisha went on. &quot;One time, when my mother wasn&#x27;t around, I sneaked a peek. What do you think was it inside of it?!&quot;</p>
 <p>&quot;I-I don&#x27;t know, what?&quot;</p>
-<p>&quot;Panties. Girl&#x27;s panties. Judging by the size, a pretty young girl&#x27;s panties at that. According to my calculations, the girl who owned them was probably ten years old. For moment, I thought maybe my older brother was actually a sister, but they would have been too big for him. So there was only one person they could possibly belong to, and that&#x27;s my brother&#x27;s tutor. He was only four or five and he was already saving an older girl&#x27;s panties for the future.&quot;</p>
+<p>&quot;Panties. Girl&#x27;s panties. Judging by the size, a pretty young girl&#x27;s panties at that. According to my calculations, the girl who owned</p>
+<p>them was probably ten years old. For moment, I thought maybe my older brother was actually a sister, but they would have been too big for him. So there was only one person they could possibly belong to, and that&#x27;s my brother&#x27;s tutor. He was only four or five and he was already saving an older girl&#x27;s panties for the future.&quot;</p>
 <p>Calculations? Wait, hold on just a second here. This kid was way too smart for her age. What the heck? She was just five or six, right?</p>
 <p>&quot;Maybe you&#x27;re just miscalculating?&quot; I suggested.</p>
 <p>&quot;Nope. I gathered more information from my mother. It seems my brother would peek in on that girl while she was bathing, and he&#x27;d also watch my parents while they were getting it on. My mother was trying to cover it up, but I knew there was no mistaking it—my brother&#x27;s a pervert!&quot;</p>

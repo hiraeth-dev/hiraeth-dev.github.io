@@ -68,7 +68,8 @@ nav_title = "Chapter 8"
 <p>Overwhelming power, humanity&#x27;s natural enemy, kidnaps princesses.</p>
 <p>Also, gets defeated by the hero who comes to rescue the princess.</p>
 <p>&quot;Didn&#x27;t you think that sounded off?&quot; I asked.</p>
-<p>&quot;I hadn&#x27;t been born back then, and her underlings at the time likely knew little about humans. There were also documents amongst the demon records that contained similar stories—though, of course, the immortal demons themselves left no records. The story of how a demon king kidnapped a princess and was defeated by the hero Arus…&quot;</p>
+<p>&quot;I hadn&#x27;t been born back then, and her underlings at the time likely knew little about humans. There were also documents amongst the demon records that contained similar stories—though, of course, the immortal demons themselves left no records. The story of how a demon king</p>
+<p>kidnapped a princess and was defeated by the hero Arus…&quot;</p>
 <p>Oh, right. Okay, now I get it.</p>
 <p>During the first Great Demon War the hero Arus had taken six companions and slain all of the Five Great Demon Kings. He was the hero who beat Kishirika and brought a war that had lasted a thousand years to a close. There had been a story like the one Moore described in one of the tales about him. The gist of it was that he defeated the demon king, rescued the princess, then married her and founded the Asura Kingdom. However, according to the histories I&#x27;d read at the Boreas house, Arus hadn&#x27;t actually set out to save the princess and the demon king hadn&#x27;t actually kidnapped her.</p>
 <p>A human nation had, in an act of strategic diplomacy, offered the princess to the demon king as a hostage. Arus, for totally unrelated reasons, had invaded the castle and struck down the demon king. As a result, the princess ended up getting rescued. That was what&#x27;d really happened.</p>

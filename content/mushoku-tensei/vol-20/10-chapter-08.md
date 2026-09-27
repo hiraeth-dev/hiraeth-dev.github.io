@@ -16,7 +16,8 @@ nav_title = "Chapter 8"
 <p>We asked a guy at the entrance who seemed to be guarding the place to receive us. I tried to show him the letter, but he bolted back into the mansion the moment he saw Zenith&#x27;s face. We were still waiting on him.</p>
 <p>&quot;So, um, Big Brother. Just warning you, but Grandma&#x27;s really not a fun person to be around.&quot;</p>
 <p>&quot;Yes, I heard you the first time.&quot;</p>
-<p>Her warnings were getting to me. Still, I believed I was vaccinated against awful people. I was a nightmare myself in my past life, after all; pretty much anyone would be a delight by comparison.</p>
+<p>Her warnings were getting to me. Still, I believed I was vaccinated against awful people. I was a nightmare myself in my past life, after all; pretty much</p>
+<p>anyone would be a delight by comparison.</p>
 <p>So, yeah. I had this.</p>
 <p>Even if this were someone I couldn&#x27;t stand, we could still talk about Zenith&#x27;s condition and mourn what we&#x27;d both lost together. Anything beyond that might be too much to hope for, but that would be enough.</p>
 <p>&quot;Oh.&quot;</p>
@@ -102,7 +103,8 @@ nav_title = "Chapter 8"
 <p>&quot;Certainly, thank you.&quot;</p>
 <p>I did as I was told and sat down.</p>
 <p>&quot;First, let me commend you on your long journey,&quot; said Claire. &quot;I had assumed your voyage would take a few more years, but I&#x27;m quite thankful for your swift arrival.&quot;</p>
-<p>Then, with a clap of her hands, the door opened. A maid pulling a cart entered the room; atop the cart was a tea set. A tea party? Fine by me. She&#x27;d better prepare herself to be blown out of her seat by the explosive tea technique I mastered at the floating fortress.</p>
+<p>Then, with a clap of her hands, the door opened. A maid pulling a cart entered the room; atop the cart was a tea set. A tea party? Fine by me. She&#x27;d</p>
+<p>better prepare herself to be blown out of her seat by the explosive tea technique I mastered at the floating fortress.</p>
 <p>But before that, I figured I&#x27;d let Aisha sit down. She wasn&#x27;t a maid, she was my sister. I couldn&#x27;t have her be welcomed as anything less than a guest, so I had to be firm about this.</p>
 <p>&quot;Aisha, you sit down, too.&quot;</p>
 <p>&quot;Huh? But…&quot;</p>
@@ -201,7 +203,8 @@ nav_title = "Chapter 8"
 <p>At some point, we found that we&#x27;d returned to the border of the Divine District. My rage made it feel like my vision was spinning. I never imagined that I&#x27;d hear something that loathsome with my own ears. Son of a bitch. &quot;Silver lining,&quot; my ass. I shouldn&#x27;t have come. I could have gone my whole life without hearing that.</p>
 <p>Who died and crowned that old bat king? Like, look. Anyone would feel a little grossed out if some guy you&#x27;d never met called you his grandmother. Don&#x27;t feel like responding to my first introduction? Sure. Don&#x27;t. I could even understand the stuff about getting Norn a husband. I&#x27;d heard that the rich and powerful arranged their marriages in my old life, too. They were just doing what was expected in their class and culture. Fine.</p>
 <p>Yeah, I got it.</p>
-<p>But what she said about Zenith was way over the line. My mother had amnesia and couldn&#x27;t even take care of her own basic needs. What is wrong with someone who would even consider marrying her off? And talk about her &quot;good health&quot;? About how it was the &quot;silver lining&quot; that she had her time of the month? You&#x27;d have Zenith marry so that she could be nursed during the day and messed with at night? Yeah, I knew what to call that. A human sex doll.</p>
+<p>But what she said about Zenith was way over the line. My mother had amnesia and couldn&#x27;t even take care of her own basic needs. What is wrong with someone who would even consider marrying her off? And talk about her &quot;good health&quot;? About how it was the &quot;silver lining&quot; that she had her time of the month? You&#x27;d have Zenith marry so that she could be nursed during the day and messed</p>
+<p>with at night? Yeah, I knew what to call that. A human sex doll.</p>
 <p>And if she got pregnant, then what? She&#x27;d give birth? You really think she&#x27;d be capable of that? Even if she could, where was Zenith&#x27;s consent in all of this? Hell, what about my feelings? How do you think the children she&#x27;d leave behind would feel? What do you take a man&#x27;s mother for?! What do you take your own daughter for?! Was your daughter a tool to you? Just a thing to be used, a baby-making machine? Don&#x27;t even joke about that!</p>
 <p>I couldn&#x27;t remember the last time something made me this mad. &quot;Claire,&quot; my ass! Go stuff yourself with cream, you French pastry!</p>
 <p>&quot;Phew…&quot;</p>
@@ -217,7 +220,8 @@ nav_title = "Chapter 8"
 <p>Connection.</p>
 <p>Oh, yeah. I was hoping I&#x27;d get to have the House of Latria&#x27;s help with building the Mercenary Band.</p>
 <p>&quot;Oh well, we&#x27;ll live. I&#x27;d rather do it alone than have help from her…&quot;</p>
-<p>I could make connections with someone else. Maybe I could ask Cliff to put in a good word for me with his grandpa… He might not be impressed with me asking for favors already, but it&#x27;d be payback to Claire. And if that went nowhere, then I&#x27;d just get it done, alone.</p>
+<p>I could make connections with someone else. Maybe I could ask Cliff to put in a good word for me with his grandpa… He might not be impressed with me asking for favors already, but it&#x27;d be payback to Claire. And if that went</p>
+<p>nowhere, then I&#x27;d just get it done, alone.</p>
 <p>Either way, I was tired. I wanted to go home and sleep… Ah, come to think of it, I didn&#x27;t have a place to stay, did I? It&#x27;d be the middle of the night by the time we got to the Adventurers&#x27; District and got a room, and I didn&#x27;t want to make Zenith walk that far.</p>
 <p>All right, fine. I&#x27;d ask to stay with Cliff again. With that decided, it was back to Cliff&#x27;s place.</p>
 <p><strong>Chapter 9: Headquarters of the Millis Church</strong></p>

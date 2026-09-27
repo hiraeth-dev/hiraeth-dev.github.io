@@ -319,7 +319,8 @@ nav_title = "Chapter 10"
 <p>After a few anxious minutes, the color of Eris&#x27; skin slowly returned to normal. I breathed a shaky sigh of relief. If that had been a more powerful poison, she might well have died.</p>
 <p><em>Thank God. That was way too close…</em></p>
 <p>As I continued working on her injury, Eris murmured &quot;Nice job dodging Nebulous Cross, by the way.&quot;</p>
-<p>I wanted to say I hadn&#x27;t exactly dodged it. But I&#x27;d managed to avoid a fatal blow, so maybe that counted. &quot;I only pulled that off because of all my sparring sessions with you, Eris. I&#x27;ve seen even faster slashes, so I managed to react in time.&quot;</p>
+<p>I wanted to say I hadn&#x27;t exactly dodged it. But I&#x27;d managed to avoid a fatal blow, so maybe that counted. &quot;I only pulled that off</p>
+<p>because of all my sparring sessions with you, Eris. I&#x27;ve seen even faster slashes, so I managed to react in time.&quot;</p>
 <p>&quot;You know, I never even dodged that one myself…&quot;</p>
 <p>There was a hint of sadness on Eris&#x27; face as she said that. Auber had been one of her instructors at the Sword Sanctum. The memories of those days were probably flashing through her mind.</p>
 <p>But a moment later, she shook her head. &quot;Well, whatever.&quot;</p>

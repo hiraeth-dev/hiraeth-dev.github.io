@@ -32,7 +32,8 @@ nav_title = "Chapter 6"
 <p>&quot;All right.&quot;</p>
 <p>And so we did.</p>
 <p>&quot;Wow, this place is incredible.&quot;</p>
-<p>The open market near the entrance was enough to take Cliff&#x27;s breath away. It was no less busy and bustling than I remembered. There were adventurers of all races here, many of them riding lizard beasts. But despite these differences they carried on the same way as people in Sharia. Merchants squabbled with adventurers, townspeople milled about, perusing stores with great interest, and beggars pleaded with shop owners for charity, and got a kick for their troubles. It was a sight you could see anywhere. Cliff should have been used to it, but the different demon races had seized his attention.</p>
+<p>The open market near the entrance was enough to take Cliff&#x27;s breath away. It was no less busy and bustling than I remembered. There were adventurers of all races here, many of them riding lizard beasts. But despite these differences they carried on the same way</p>
+<p>as people in Sharia. Merchants squabbled with adventurers, townspeople milled about, perusing stores with great interest, and beggars pleaded with shop owners for charity, and got a kick for their troubles. It was a sight you could see anywhere. Cliff should have been used to it, but the different demon races had seized his attention.</p>
 <p>There was one thing that caught my notice: soldiers in black armor were stationed around the city. Each time they caught a glimpse of Elinalise, they pulled out that sheet of paper to check. It must have been easy to tell she wasn&#x27;t the one they were looking for, even from a distance, because they never actually approached us.</p>
 <p>&quot;Master Cliff, it seems your wife is just as popular over here,&quot; I teased.</p>
 <p>&quot;Uh, yeah. Is this going to be a problem?&quot;</p>
@@ -146,7 +147,8 @@ nav_title = "Chapter 6"
 <p>&quot;Oh, my apologies.&quot;</p>
 <p>So Badigadi had yet to return. Just where did he wander off to? Then again, he wasn&#x27;t around eight years ago either. Maybe gallivanting to and fro was some kind of hobby for him.</p>
 <p>After speaking with Nokopara, I updated the rest on what I&#x27;d learned. Zanoba pressed a hand to his chin and said, &quot;Still, even if Lady Atofe is looking for Kirishika, the picture they had looked nothing like your description.&quot;</p>
-<p>He had a point. The Kishirika I remembered looked nothing like the woman they were searching for. The one I knew resembled a little girl. In fact, it had never occurred to me that the picture those guards had was supposed to be Kishirika. There was some resemblance, though. Maybe that was what Kishirika looked like as an adult. Perhaps she had matured in the years since I saw her?</p>
+<p>He had a point. The Kishirika I remembered looked nothing like the woman they were searching for. The one I knew resembled a little girl. In fact, it had never occurred to me that the picture those</p>
+<p>guards had was supposed to be Kishirika. There was some resemblance, though. Maybe that was what Kishirika looked like as an adult. Perhaps she had matured in the years since I saw her?</p>
 <p>Nah, that can&#x27;t be. The people around town described her as a little girl, too. In that case, maybe this demon king had no idea that Kishirika looked like a child right now. It might be worth asking Nokopara about that.</p>
 <p>&quot;Hey, that sketch the guards had looked nothing like Kishirika. What do you know about that?&quot;</p>
 <p>&quot;Demon kings are fairly flippant when it comes to details. Lady Atofe probably didn&#x27;t bother to factor in the demon emperor&#x27;s current age.&quot;</p>
@@ -228,7 +230,8 @@ nav_title = "Chapter 6"
 <p>&quot;It&#x27;s been a long time, Lady Kishirika,&quot; I said.</p>
 <p>&quot;Hm? And who are you?&quot; As I lowered my head, she snorted and stared me down. &quot;Mm? Oh?&quot; One of her eyes spun, switching from a normal eye to one of her demon ones. Then she slammed her fist into her palm. &quot;Aha! It&#x27;s you! You&#x27;re the human boy with the disgusting mana. Of course I remember you! I gave you one of my eyes. I think your name was, uh… Roo… Roomba? Roombaus! Yeah, that was it! It&#x27;s been a while.&quot;</p>
 <p>&quot;Rudeus Greyrat,&quot; I corrected. I&#x27;m not a damn cleaning robot, thank you very much.</p>
-<p>&quot;Yes, Rudeus, a long time indeed. You sure have gotten much larger. Well, how did things go after we parted? Have you been doing well for yourself?&quot; She patted my thigh, going as high as she could reach. It reminded me of a section leader at an office job patting his subordinates on the shoulder.</p>
+<p>&quot;Yes, Rudeus, a long time indeed. You sure have gotten much larger. Well, how did things go after we parted? Have you been doing well for yourself?&quot; She patted my thigh, going as high as she could</p>
+<p>reach. It reminded me of a section leader at an office job patting his subordinates on the shoulder.</p>
 <p>&quot;Yes, the eye you gave me before really saved my life numerous times.&quot;</p>
 <p>&quot;Fwahaha! Yes, I&#x27;m sure it did!&quot; She nodded, pleased.</p>
 <p><em>She really is way too easy to manipulate.</em></p>

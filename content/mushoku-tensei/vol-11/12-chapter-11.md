@@ -46,7 +46,8 @@ nav_title = "Chapter 11"
 <p>&quot;I don&#x27;t know. It seemed normal enough to me.&quot;</p>
 <p>&quot;Well, it was about the same size as the monsters on the Demon Continent, wasn&#x27;t it?&quot;</p>
 <p>&quot;Yeah, I guess you&#x27;re right.&quot;</p>
-<p>The monsters of the Begaritt Continent weren&#x27;t supposed to be comparable to those of the Demon Continent. It was a bit odd that the first one we encountered was so large. I&#x27;d been expecting something maybe half this size.</p>
+<p>The monsters of the Begaritt Continent weren&#x27;t supposed to be comparable to those of the Demon Continent. It was a bit odd that</p>
+<p>the first one we encountered was so large. I&#x27;d been expecting something maybe half this size.</p>
 <p>&quot;Maybe the scorpions are just unusually big?&quot; Elinalise ventured.</p>
 <p>&quot;Sure, maybe. Sometimes you just run into the most dangerous monsters right off the bat, don&#x27;t you?&quot;</p>
 <p>&quot;Not particularly often, I&#x27;d say.&quot;</p>
@@ -90,7 +91,8 @@ nav_title = "Chapter 11"
 <p>&quot;Given their size and numbers, that&#x27;s definitely an S-rank threat,&quot; Elinalise said.</p>
 <p>&quot;Wow, really? Mind explaining? I&#x27;m a little curious.&quot;</p>
 <p>&quot;Phalanx Ants are one of the most dangerous monsters out there. They&#x27;re known for their insatiable appetite and their ability to consume anything in their path. Those ones are particularly massive too. They must be a species unique to this continent.&quot;</p>
-<p>It seemed Phalanx Ants were mutant versions of a more typical species of army ants. Unlike other ants, they didn&#x27;t establish static colonies but spent their lives in constant motion, eating everything in their path. They did have a number of natural predators, but their sheer numbers made them capable of overwhelming any terrestrial foes—even stray dragons. At certain intervals, they would pause their journey to make a temporary nest, where they bred, replenishing their numbers with the next generation. Similar to the behavior of normal army ants.</p>
+<p>It seemed Phalanx Ants were mutant versions of a more typical species of army ants. Unlike other ants, they didn&#x27;t establish static colonies but spent their lives in constant motion, eating everything in their path. They did have a number of natural predators, but their sheer numbers made them capable of overwhelming any terrestrial foes—even stray dragons. At certain intervals, they would pause</p>
+<p>their journey to make a temporary nest, where they bred, replenishing their numbers with the next generation. Similar to the behavior of normal army ants.</p>
 <p>However, since these were monsters rather than normal animals, they were smarter and more aggressive than the species they&#x27;d developed from. If we started strolling casually along the dune, they would swarm us in the blink of an eye—even if we weren&#x27;t aggressive toward them.</p>
 <p>&quot;None of the individual ants are that powerful. Those ones down there are probably E rank. Maybe D or C for the larger ones.&quot;</p>
 <p>&quot;Well, C rank&#x27;s nothing to scoff at…&quot;</p>
@@ -109,7 +111,8 @@ nav_title = "Chapter 11"
 <p>It wasn&#x27;t like I was going to get any EXP for smashing my way through half a million killer ants. Their body parts might be worth something as a raw material, but I couldn&#x27;t imagine dragging those heavy carapaces around in this brutal heat. And our objective was to make it to Rapan as soon as possible, not to make a name for ourselves as ant-slayers.</p>
 <p>This was basically a scouting mission. I needed to remember that.</p>
 <p>It took about an hour of waiting, but eventually the massive army of ants finished marching past our position.</p>
-<p>In the desert, the sun turned red as it set. The sand began to glow crimson, and pools of shadow formed underneath the dunes, transforming the scene from a monotonous sandy brown into a striking pattern of vivid red and blacks. It felt like we&#x27;d stepped into a different world.</p>
+<p>In the desert, the sun turned red as it set. The sand began to glow crimson, and pools of shadow formed underneath the dunes, transforming the scene from a monotonous sandy brown into a</p>
+<p>striking pattern of vivid red and blacks. It felt like we&#x27;d stepped into a different world.</p>
 <p>Still, a desert was a desert. The Sahara back in my old world had probably looked like this in the evening as well.</p>
 <p>&quot;The temperature&#x27;s going down fast,&quot; I observed. &quot;We might be able to make more progress in the night, honestly.&quot;</p>
 <p>&quot;I suppose you&#x27;re right. Let&#x27;s keep moving for now, then.&quot;</p>

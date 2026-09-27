@@ -18,7 +18,8 @@ nav_title = "Story 1"
 <p>&quot;Hey.&quot;</p>
 <p>Dazed as my memory was, my vision was sharp. As usual, he was here in this white place. That pixelated blob. The Man-God.</p>
 <p>But what was this? He looked strange. His body was in pieces, with each of his four limbs held in place by something that looked like a magic circle and bound by some sort of translucent chain.</p>
-<p>He looked like the final boss in an RPG. It was like, I dunno, unless you hit him in the right leg, he&#x27;d use a restoration spell to return to full health. A giant pain in the ass.</p>
+<p>He looked like the final boss in an RPG. It was like, I dunno, unless you hit him in the right leg, he&#x27;d use a restoration spell to return to full</p>
+<p>health. A giant pain in the ass.</p>
 <p><em>What happened to you? Cosplaying Exodia the Forbidden One or something?</em></p>
 <p>&quot;They got me.&quot;</p>
 <p><em>Who?</em></p>
@@ -54,7 +55,8 @@ nav_title = "Story 1"
 <p>I lost consciousness.</p>
 <p>***</p>
 <p>When I awoke, I was in bed. It was a truly massive bed, big enough that three people could have slept comfortably in it, and it was soft. My back was a little damp, which I didn&#x27;t love, but it was pleasant otherwise. There was no one sleeping beside me. I could move my eyes and my neck, but not so much my body. It was like the blanket was too heavy. I moved just my eyes to look away from the bed and saw a girl with red hair sitting there. She had single-fold eyelids and a determined line to her chin—the spitting image of Eris, although she wore her hair in an unassuming braid and was far smaller. Both in terms of height and cup size. I expected that much: she looked about five years old.</p>
-<p>When her eyes met mine, she dropped what she was holding and leapt to her feet. The chair fell over with a crash and she looked like she might fall with it. Right away, I propped her up. How did I prop her up when my body wouldn&#x27;t move? I couldn&#x27;t tell you myself. She just put her hands out and caught herself in mid-air, then righted herself. No sooner had she planted her feet on the ground once more than she left the room.</p>
+<p>When her eyes met mine, she dropped what she was holding and leapt to her feet. The chair fell over with a crash and she looked like she might fall with it. Right away, I propped her up. How did I prop her up</p>
+<p>when my body wouldn&#x27;t move? I couldn&#x27;t tell you myself. She just put her hands out and caught herself in mid-air, then righted herself. No sooner had she planted her feet on the ground once more than she left the room.</p>
 <p>&quot;Mama! Mama! Great-Grandpa&#x27;s awake!&quot; Listening to the patter of running feet, I looked at the item she&#x27;d been holding. It was a bracelet engraved with the Dragon God&#x27;s emblem. I didn&#x27;t remember taking it off, but—ah, yes, I suppose she must have taken it off while I was asleep. I reached for the bracelet, my arms trembling. It was so heavy. No, scratch that. It wasn&#x27;t heavy. I was weak. My arm had grown so thin that I couldn&#x27;t even pick up a bracelet.</p>
 <p>Just then, my eyes found the mirror in a corner of the room, and I saw an old man slumped in bed who looked like he might die at any moment. He had a white beard, white hair, and deep wrinkles. The shadow of death was visible in every line of his face.</p>
 <p><em>Ahh, I remember now. I turn seventy-four this year.</em></p>

@@ -56,7 +56,8 @@ nav_title = "Extra Chapter I"
 <p>&quot;My answer isn&#x27;t going to change, no matter how many times you ask. Would you just leave, please?&quot;</p>
 <p>&quot;Hah! How long are you gonna keep this empty wreck of a place running, man?&quot;</p>
 <p>&quot;Until I die, of course. It&#x27;s been in my family for generations…&quot;</p>
-<p>From their exchange, I could make a reasonable guess as to the situation here. Long story short, this business was struggling to survive. The proprietor had probably taken out all sorts of loans just to keep its doors open. This thug was probably some shady speculator who wanted to buy up the land cheap or something.</p>
+<p>From their exchange, I could make a reasonable guess as to the situation here. Long story short, this business was struggling to survive. The proprietor had probably taken out all sorts of loans just</p>
+<p>to keep its doors open. This thug was probably some shady speculator who wanted to buy up the land cheap or something.</p>
 <p>&quot;Wait out here for a while, at least. I&#x27;ve got customers at the moment.&quot;</p>
 <p>&quot;Customers? Oh, wow, you really do. Now that&#x27;s a rare sight!&quot;</p>
 <p>&quot;I won&#x27;t give up on this place, not as long as I&#x27;ve got a single customer.&quot;</p>

@@ -26,7 +26,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Should we take a room at the inn first?&quot;</p>
 <p>&quot;Won&#x27;t be necessary. We&#x27;ll just stay at Gal&#x27;s place.&quot;</p>
 <p>Reida trudged forward steadily, making a beeline for the far end of the town.</p>
-<p>After a certain point, the adventurers and merchants grew less common, and they began to pass more people in martial arts uniforms who carried wooden swords. At the same time, the shops gave way to training halls.</p>
+<p>After a certain point, the adventurers and merchants grew less common, and they began to pass more people in martial arts</p>
+<p>uniforms who carried wooden swords. At the same time, the shops gave way to training halls.</p>
 <p>Reida&#x27;s young companion looked around at all this with obvious curiosity. In particular, she seemed intrigued by the thin uniforms so many wore, despite the biting cold.</p>
 <p>&quot;Master Reida…everyone&#x27;s dressed rather lightly here, considering how chilly it is.&quot;</p>
 <p>&quot;Well, the Sword God Style folks have to zip around in combat, or they&#x27;re sitting ducks. They don&#x27;t like wearing anything that slows them down, no matter how cold it gets.&quot;</p>
@@ -81,7 +82,8 @@ nav_title = "Extra Chapter"
 <p>&quot;You want me to teach one of your pupils a few things, yes? Well, I want you to show one of mine the Sword God Style. No need to actually teach her, though.&quot;</p>
 <p>Reida had been worrying for some time that her star student had grown too self-satisfied. The Water God Style was the official style taught in the Kingdom of Asura, meaning it boasted many pupils. But it was rare for them to refine their talents past a certain point.</p>
 <p>The girl Reida had brought along today was one of the exceptions, but she had no students of comparable skill to test herself against, and her confidence had grown excessive. She kept at her training earnestly enough, but with no true rival to drive her forward, she&#x27;d failed to make real progress over the last year or so.</p>
-<p>Reida had brought her to this place to give her a taste of defeat, convinced that this would benefit her enormously in the long run. Even if the youngsters of the Sword God Style proved to be inadequate to the task, if she had the chance to spar with Gall Falion himself, the experience would still be a deeply valuable one. The nature of the Water God Style was such that the stronger your opponent, the more you would improve by training with them.</p>
+<p>Reida had brought her to this place to give her a taste of defeat, convinced that this would benefit her enormously in the long run. Even if the youngsters of the Sword God Style proved to be inadequate to the task, if she had the chance to spar with Gall Falion himself, the experience would still be a deeply valuable one. The</p>
+<p>nature of the Water God Style was such that the stronger your opponent, the more you would improve by training with them.</p>
 <p>Reida thought it likely that Gall Falion had called here for the very same reason—for her to crush some uppity pupil with the Water God Style&#x27;s most vicious counterattacks, motivating them to improve further.</p>
 <p>&quot;Oh, is that all? Sure thing.&quot;</p>
 <p>&quot;Heh heh. You know, we could even have my pupil face off against yours, if you&#x27;d like.&quot;</p>

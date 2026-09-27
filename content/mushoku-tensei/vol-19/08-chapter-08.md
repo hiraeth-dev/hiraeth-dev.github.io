@@ -13,7 +13,8 @@ nav_title = "Chapter 8"
 <p>Even after more than a week, the fort echoed with passionate commentary on our victory in battle. Roxy and I had left a big impression with our huge, flashy spells, while Zanoba&#x27;s bold performance on the front lines was just as talked about. Some of the troops were still riding that adrenaline high, I guess.</p>
 <p>Perhaps because of my performance in the battle, or the way I&#x27;d dealt with that sneak attack, the soldiers were finally warming up to me a bit. They&#x27;d always treated me with politeness, but their faces used to clam up every time they saw me. These days I was getting actual smiles from the people I ran into. Even a bit of cheerful small talk. I guess they&#x27;d reclassified me from &quot;a dangerous foreign mage who popped up out of nowhere &quot; to something like &quot;a comrade in arms.&quot; No one gave me a hard time about the soldiers I&#x27;d killed accidentally with my magic, at least.</p>
 <p>Between that, my regular counseling sessions with Roxy, plus Zanoba&#x27;s attempts to cheer me up, I managed to pull myself together emotionally. At this point I could look back on my actions without viewing them as crimes or terrible mistakes.</p>
-<p>Honestly, I&#x27;d beat myself up about it way too much. This was not a peaceful world in general, and I was a direct subordinate of Orsted. To protect my family, I&#x27;d picked a fight against a vicious god. I must have known this day would come. At some level I must have accepted that, even if half-heartedly.</p>
+<p>Honestly, I&#x27;d beat myself up about it way too much. This was not a peaceful world in general, and I was a direct subordinate of Orsted. To protect my family, I&#x27;d picked a fight against a vicious god. I must have</p>
+<p>known this day would come. At some level I must have accepted that, even if half-heartedly.</p>
 <p>But even so—I felt pretty sure I wouldn&#x27;t sign up for any more wars after this one, no matter who tried to recruit me. War was like…a whole different world. I preferred the one I usually lived in. I wasn&#x27;t going to kill anyone unless I absolutely had to. I&#x27;d decided to stick with my old policy on that one after all. For one thing, all this anguish about it after the fact was exhausting. Hardly felt worth taking lives if all I got out of it was a bunch of week-long nervous breakdowns, you know?</p>
 <p>I was trying to put all that behind me now, anyway. Moving on…</p>
 <p>I&#x27;d stayed alert for signs of danger in the ten days since the battle, but nothing much had happened. My mana capacity had fully replenished by this point, so I was in peak combat condition. I also had the Magic Armor Version One close at hand, and I wasn&#x27;t allowing myself to get careless. It was hard to imagine the Death God coming for us now. His advantage would have been greater if he&#x27;d attacked during our audience with Pax.</p>
@@ -44,7 +45,8 @@ nav_title = "Chapter 8"
 <p><em>Whoops. Maybe that wasn&#x27;t a question I should have asked in public… but I guess the news was good, so it shouldn&#x27;t be too much of a problem.</em></p>
 <p>That tidbit about &quot;three years&quot; was interesting, though. Given the way he&#x27;d phrased the sentence, Zanoba thought the Kingdom of Bista hadn&#x27;t fully abandoned their hopes of conquering Shirone, despite that crushing defeat the other day.</p>
 <p>I had to assume they would dismiss most of their current command structure, which meant they&#x27;d have to find new generals who were competent. Replenishing their forces would take time, as well. And they&#x27;d have to find some halfway-plausible excuse for breaking the truce they were about to sign. At a bare minimum, it would take three years to sort out all of the logistics. In practice, it might well be far longer before they were ready to make another move…</p>
-<p>&quot;That should be time enough for our purposes, however,&quot; said Zanoba. &quot;Given three years of peace, I&#x27;m sure our kingdom will grow strong and stable once again.&quot;</p>
+<p>&quot;That should be time enough for our purposes, however,&quot; said Zanoba. &quot;Given three years of peace, I&#x27;m sure our kingdom will grow strong and</p>
+<p>stable once again.&quot;</p>
 <p>While Bista was regrouping, Shirone would have a chance to fully rebuild its own government and armies.</p>
 <p>&quot;You think King Pax can pull it off, though?&quot; I asked.</p>
 <p>&quot;I don&#x27;t doubt it for a moment,&quot; replied Zanoba with a firm, confident nod.</p>
@@ -58,7 +60,8 @@ nav_title = "Chapter 8"
 <p>&quot;I suppose I&#x27;ll return to the capital to receive new orders from His Majesty, first of all. Although he might also opt to keep me posted at this fort for now…&quot;</p>
 <p>&quot;You mean you&#x27;re staying here? In Shirone?&quot;</p>
 <p>&quot;…Hm? Well, yes. Naturally.&quot;</p>
-<p>To be fair, that was the reply I&#x27;d been expecting. But it almost seemed like the thought of returning to the Magic City of Sharia had never crossed his mind. The Magic Armor hadn&#x27;t been fully perfected yet, our study of the automated doll was stalled halfway through, and our plans to sell figurines produced by Julie were only now beginning to come together. Wouldn&#x27;t he regret leaving any of those projects unfinished?</p>
+<p>To be fair, that was the reply I&#x27;d been expecting. But it almost seemed like the thought of returning to the Magic City of Sharia had never crossed his mind. The Magic Armor hadn&#x27;t been fully perfected yet, our study of the automated doll was stalled halfway through, and our plans to sell figurines produced by Julie were only now beginning to come together. Wouldn&#x27;t he</p>
+<p>regret leaving any of those projects unfinished?</p>
 <p>Well, of course he would. He was passionate about them all.</p>
 <p>&quot;Look, Zanoba…&quot;</p>
 <p>&quot;Yes, Master Rudeus?&quot;</p>
@@ -155,7 +158,8 @@ nav_title = "Chapter 8"
 <p>&quot;Listen, Zanoba…I don&#x27;t like this plan either.&quot;</p>
 <p>&quot;…Oh?&quot;</p>
 <p>&quot;Maybe Pax did change a little during his stay in the King Dragon Realm. But that doesn&#x27;t mean he&#x27;s someone worth risking your life for.&quot;</p>
-<p>Zanoba turned to face me now, pouting irritably. &quot;I hardly expected this from you, Master Rudeus. As I&#x27;ve explained before, my life is the property of this kingdom. And of course, this kingdom is its king. With his life in danger, I can hardly sit back and—&quot;</p>
+<p>Zanoba turned to face me now, pouting irritably. &quot;I hardly expected this from you, Master Rudeus. As I&#x27;ve explained before, my life is the</p>
+<p>property of this kingdom. And of course, this kingdom is its king. With his life in danger, I can hardly sit back and—&quot;</p>
 <p>&quot;Do you remember what you told me before we left, Zanoba? &#x27;It&#x27;s my duty to protect Shirone against her enemies. That is the reason I&#x27;m alive… and was permitted to indulge myself for all these years.&#x27; That sound right to you?&quot;</p>
 <p>Zanoba made no reply to that. I&#x27;d memorized every word perfectly.</p>
 <p>&quot;Why would you care if it&#x27;s Pax or this Eleventh Prince sitting on the throne? Your job is to protect Shirone from invasion, not to sort out all its ugly power struggles. Once that truce is signed, the war with Bista will be over. Seems to me like you did your duty perfectly.&quot;</p>

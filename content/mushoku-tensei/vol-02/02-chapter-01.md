@@ -78,7 +78,8 @@ nav_title = "Chapter 1"
 <p>&quot;Ah-ha. If he&#x27;s the kind of person my father likes…perhaps I&#x27;ve chosen incorrectly?&quot; He took a seat on the sofa across from me.</p>
 <p>Oh, right, I should introduce myself, I remembered.</p>
 <p>&quot;A pleasure to make your acquaintance. My name is Rudeus Greyrat.&quot; Just as I did a moment ago, I bowed deep and lowered my head.</p>
-<p>&quot;Ah yes, and I am Philip Boreas Greyrat. Nobles greet each other by putting their right hand on their chest and bowing the head slightly. You must have angered my father with your incorrect approach, yes?&quot;</p>
+<p>&quot;Ah yes, and I am Philip Boreas Greyrat. Nobles greet each other by putting their right hand on their chest and bowing the head</p>
+<p>slightly. You must have angered my father with your incorrect approach, yes?&quot;</p>
 <p>&quot;Like this?&quot; I followed his example and bowed my head slightly.</p>
 <p>&quot;Yes, that&#x27;s right. Although your attempt a moment ago wasn&#x27;t bad. It was still polite. I&#x27;m sure if a worker greeted my father like that, he would be pleased. Now please, sit.&quot; He flounced back upon on the sofa with a loud thud.</p>
 <p>I followed his example and took my seat. And now the interview begins.</p>

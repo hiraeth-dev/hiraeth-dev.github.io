@@ -17,7 +17,8 @@ nav_title = "Chapter 12"
 <p>And then, with Aqua Heartia in one hand and my diary from the future in the other, I walked out of the house.</p>
 <p>Zenith happened to be out in the yard playing with our pet Treant Byt, so I called out, &quot;I&#x27;ll be back soon, Mother,&quot; as I left. She vaguely waved her hand at me in response; it almost looked like a see you later gesture. At her side, Byt wiggled his branches as well.</p>
 <p>I hadn&#x27;t said a word to Sylphie or the others. I knew they&#x27;d want to come along. But the letter told me to come alone, so that was exactly what I was going to do. It&#x27;s not like I was going off to battle this time, anyway.</p>
-<p>I couldn&#x27;t say that I completely trusted Orsted. Not yet, anyway. But his letter had showed some concern for my well-being, and its tone wasn&#x27;t unfriendly. Also, Nanahoshi seemed to think he was a decent guy, since she&#x27;d opposed my plan to fight him on an emotional level. At the very least, he seemed more trustworthy than the Man-God. That was definitely what I wanted to believe.</p>
+<p>I couldn&#x27;t say that I completely trusted Orsted. Not yet, anyway. But his letter had showed some concern for my well-being, and its tone wasn&#x27;t unfriendly. Also, Nanahoshi seemed to think he was a</p>
+<p>decent guy, since she&#x27;d opposed my plan to fight him on an emotional level. At the very least, he seemed more trustworthy than the Man-God. That was definitely what I wanted to believe.</p>
 <p>&quot;I&#x27;m still kind of nervous, though,&quot; I murmured to myself as I made my way down a quiet street in Sharia. Every time I passed a puddle of water in the road, I couldn&#x27;t help but stop to examine my reflection and make sure I looked all right. I&#x27;d decided to work for Orsted—in other words, he was my new boss. And when the boss called you in for a meeting, you wanted to look your best.</p>
 <p>&quot;Wonder if I should have put on some cologne or something…&quot;</p>
 <p>I had taken a bath this morning, but after the night I&#x27;d spent with Eris, it was very possible there were some unfortunate smells lingering on my body. What exactly was the boss going to think if I came into his office stinking of sex? I couldn&#x27;t imagine he would fire me on the spot, but it might leave a bad impression. That was the last thing I wanted right now.</p>
@@ -93,7 +94,8 @@ nav_title = "Chapter 12"
 <p>&quot;However, you mustn&#x27;t let down your guard. The Man-God is devious and unpredictable. Don&#x27;t leave everything to the guardian beast—make sure you&#x27;re there for them as well.&quot;</p>
 <p>To be honest, those words sounded kind of wrong coming out of Orsted&#x27;s mouth. He just didn&#x27;t look like the kind of guy who&#x27;d remind you to spend time with your family. Can&#x27;t judge a book by its cover and all, but seriously…</p>
 <p>Anyway, since he was willing to prepare this summoning for me, I&#x27;d gladly take him up on it.</p>
-<p>Now it was time to get down to business. There were all sorts of things I wanted to ask Orsted, of course, but I needed to keep up my end of this bargain as well. It couldn&#x27;t hurt to proactively ask what my orders were.</p>
+<p>Now it was time to get down to business. There were all sorts of things I wanted to ask Orsted, of course, but I needed to keep up my</p>
+<p>end of this bargain as well. It couldn&#x27;t hurt to proactively ask what my orders were.</p>
 <p>&quot;All right then. What is it you&#x27;d like me to do for you from now on?&quot;</p>
 <p>&quot;…Don&#x27;t you have any other questions for me?&quot;</p>
 <p>Hm. Hadn&#x27;t expected him to push back like that… &quot;Sure I do. Lots of them.&quot;</p>

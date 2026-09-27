@@ -170,7 +170,8 @@ nav_title = "Chapter 6"
 <p><em>You don&#x27;t get it, huh? That&#x27;s too bad. I tried to explain it as simply as possible…</em></p>
 <p>&quot;It&#x27;s not a banquet, it&#x27;s not a party, and it&#x27;s not a thank you or an apology. Why would you give this to her?&quot; asked Moore.</p>
 <p>Moore to the rescue. Right, I did need to explain that bit.</p>
-<p>&quot;The thing is, I have to fight this guy called Geese in the near future. He&#x27;s gathering powerful warriors under him to bring me down… I was hoping to ask Lady Atofe for her assistance in that battle.&quot;</p>
+<p>&quot;The thing is, I have to fight this guy called Geese in the near future. He&#x27;s gathering powerful warriors under him to bring me down… I was</p>
+<p>hoping to ask Lady Atofe for her assistance in that battle.&quot;</p>
 <p>I wasn&#x27;t going anywhere near the subject of the war with Laplace eighty years from now. Orsted said that even if I asked her to work with me to fight Laplace, she&#x27;d never agree, and it&#x27;d likely end in a battle. She wasn&#x27;t duty bound to Laplace or anything—it was simply too difficult for her to understand. In all the futures Orsted knew, Atofe fought for Laplace without fail, so he&#x27;d arrived at the conclusion that it was easier not to bother persuading her otherwise.</p>
 <p>I could talk to Moore about the details later.</p>
 <p>&quot;You want Lady Atofe to fight together with you?&quot; Moore said.</p>

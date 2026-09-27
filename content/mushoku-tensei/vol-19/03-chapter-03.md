@@ -60,7 +60,8 @@ nav_title = "Chapter 3"
 <p>&quot;Don&#x27;t fall for his acting, essentially. Stay focused and overwhelm him.&quot;</p>
 <p>The thought &quot;If this guy&#x27;s so good, why don&#x27;t you deal with him instead of me?&quot; flashed through my head, but I pushed it out of mind. Orsted would head to the King Dragon Realm soon.</p>
 <p>&quot;Do you think I can actually defeat him?&quot; I asked.</p>
-<p>&quot;The man&#x27;s one of the Great Powers. As you might expect, he&#x27;s a master of technique, with numerous ways of countering offensive magic. It certainly won&#x27;t be easy. However, he has only recently returned to the battlefield after an absence of many years; I doubt he could even compete with the Gods of the three Great Styles at present. Now that you know the theory behind his Enthralling Blade, you have every chance of victory—as long as you can resist his feints and tricks.&quot;</p>
+<p>&quot;The man&#x27;s one of the Great Powers. As you might expect, he&#x27;s a master of technique, with numerous ways of countering offensive magic. It certainly won&#x27;t be easy. However, he has only recently returned to the battlefield after an absence of many years; I doubt he could even compete with the Gods of the three Great Styles at present. Now that you know the theory behind his Enthralling Blade, you have every chance of victory—as</p>
+<p>long as you can resist his feints and tricks.&quot;</p>
 <p>Nice to hear, although I didn&#x27;t feel entirely convinced. The mere idea of fighting anyone with God in their title was as terrifying as ever to me, frankly. It was hard to imagine myself actually winning.</p>
 <p>Still, I&#x27;d put up a good fight against Auber, and he was a North Emperor. Maybe I was ready for an opponent like this.</p>
 <p>&quot;You know, from what you&#x27;ve told me so far, this Death God&#x27;s style sounds kind of similar to the North God approach.&quot;</p>
@@ -70,7 +71,8 @@ nav_title = "Chapter 3"
 <p>My curiosity got me asking for the guy&#x27;s life story, and Orsted was kind enough to oblige me. Randolph Marianne was the grandson of the second North God to hold that title. The early years of his childhood were spent training under his grandfather, alongside the man who would become the third North God.</p>
 <p>However, Randolph had a dramatic falling out with his grandfather soon after he came of age. Leaving everything he&#x27;d known behind, he went out into the world alone and began to develop his own techniques independently. In time, he grew powerful enough to defeat one of the Seven Great Powers in a battle that took place on the Demon Continent. Claiming his opponent&#x27;s title, Randolph began to call himself the Death God.</p>
 <p>But from that day on, he was subjected to relentless attacks from those who dreamed of taking their place among the Seven Great Powers. The duels and ambushes came on a daily basis. Randolph found himself locked in an endless, pointless struggle against a sea of men and women who found meaning only in battle.</p>
-<p>After ten years of this, he grew thoroughly repulsed by his bloody routine. Resolving to change his life completely, Randolph returned to his homeland—the King Dragon Realm—and studied to become a cook. Once he was ready, he took over a nearly bankrupt restaurant from a relative. A new chapter in the legend of the Death God had begun.</p>
+<p>After ten years of this, he grew thoroughly repulsed by his bloody</p>
+<p>routine. Resolving to change his life completely, Randolph returned to his homeland—the King Dragon Realm—and studied to become a cook. Once he was ready, he took over a nearly bankrupt restaurant from a relative. A new chapter in the legend of the Death God had begun.</p>
 <p>Sadly, it turned out to be a brief one. The restaurant performed so badly that it went out of business entirely. Randolph was a prodigy as a swordsman, but a mediocre chef. Saddled with massive loans he had no means to repay, he found himself recruited by a general of the King Dragon Realm, and assumed his current position as a royal knight.</p>
 <p>And that was the entire story of Randolph&#x27;s life so far, from birth to… middle age, probably. What a heartwarming tale.</p>
 <p>&quot;So long as you approach the battle correctly, you&#x27;d match up reasonably well against the Death God. But if he does come for you, don&#x27;t fight him at close range. Use your Magic Armor&#x27;s mobility to maintain your distance, like you did against me.&quot;</p>
@@ -129,7 +131,8 @@ nav_title = "Chapter 3"
 <p>A few minutes later, we met up with Zanoba and Ginger at the city&#x27;s gates. We&#x27;d already sent most of our luggage to Shirone ahead of us, so they weren&#x27;t carrying much today. Our bags primarily held spare clothes. Me, I carried Roxy&#x27;s luggage for her. This unassuming trunk contained perhaps seven vessels that might one day be enshrined as holy idols. I&#x27;d maneuvered it through the city streets with the greatest of care.</p>
 <p>Cliff and Elinalise waited by the gates as well. They&#x27;d come to see us off.</p>
 <p>&quot;I&#x27;m sorry, Rudeus. I wish I could come with you, but…&quot;</p>
-<p>Cliff genuinely wanted to accompany us, but he had a family to consider now, and a place in society he needed to maintain. You could hardly expect him to run off on sudden months-long trips around the world like I did. It was likely to get him kicked out of the University.</p>
+<p>Cliff genuinely wanted to accompany us, but he had a family to</p>
+<p>consider now, and a place in society he needed to maintain. You could hardly expect him to run off on sudden months-long trips around the world like I did. It was likely to get him kicked out of the University.</p>
 <p>&quot;That&#x27;s all right, Cliff. Can you keep an eye on my family for me while I&#x27;m gone? Help them out if they get into trouble?&quot;</p>
 <p>&quot;Of course, Rudeus. Take good care of Zanoba for us.&quot;</p>
 <p>&quot;Don&#x27;t worry. I&#x27;ve got it covered.&quot;</p>
@@ -155,7 +158,8 @@ nav_title = "Chapter 3"
 <p>As promised, they allowed Roxy to accompany us this time. But Arumanfi grimaced visibly as he handed her the required magic item, and the teleportation circle on the other side was guarded by both Sylvaril and two other servants in Perugius&#x27;s employ. They were clearly on their guard against Roxy, absurd as that might sound.</p>
 <p>&quot;Sir Rudeus, I do hope you appreciate how magnanimous Lord Perugius was to grant this request. No demons are ever tolerated in this fortress under ordinary circumstances.&quot;</p>
 <p>&quot;Yes, I know. We&#x27;re thankful for his kindness, truly.&quot;</p>
-<p>I tried to express our gratitude, while Roxy bowed her head silently. As one condition of her admittance to the floating fortress, she wasn&#x27;t allowed to speak a word within its borders. She was also required to remain under surveillance at all times, forbidden to touch any objects in the castle, and refused the right to an audience with Perugius…and that wasn&#x27;t even all of it.</p>
+<p>I tried to express our gratitude, while Roxy bowed her head silently. As one condition of her admittance to the floating fortress, she wasn&#x27;t allowed to speak a word within its borders. She was also required to remain under surveillance at all times, forbidden to touch any objects in the castle, and</p>
+<p>refused the right to an audience with Perugius…and that wasn&#x27;t even all of it.</p>
 <p>Fortunately, we were passing through briefly, so none of those rules were much of an issue. Roxy had agreed to all of them beforehand.</p>
 <p>That said, she was clearly captivated by the majesty and splendor of this place. She stared up at the towering central castle like some country bumpkin, tugging at my sleeve in excitement. It was a real pity I wasn&#x27;t allowed to give her a tour, or even tell her anything specific about the fortress. Instead of saying anything, I dropped a hand on her shoulder and rubbed it affectionately.</p>
 <p>She turned to look up at me from beneath the wide brim of her hat, blushing the slightest bit. I think she was a little embarrassed by the way she&#x27;d been gawking.</p>
@@ -218,7 +222,8 @@ nav_title = "Chapter 3"
 <p>Given that we&#x27;d never crossed the border, we were expecting a certain amount of scrutiny from the guards—but we&#x27;d already thought up a good explanation in case they chose to press us on the matter.</p>
 <p>&quot;Now then, Prince Zanoba…by your leave, I think it prudent that I blend into the crowds for a time and gather any information that I can.&quot;</p>
 <p>Ginger was ready to go off on her own as soon as we arrived at the inn. Before she could walk out into the street, however, Zanoba raised an objection.</p>
-<p>&quot;Hrm? Ginger, you are a knight of Shirone. Shouldn&#x27;t you first present yourself at the palace with me and report your return?&quot;</p>
+<p>&quot;Hrm? Ginger, you are a knight of Shirone. Shouldn&#x27;t you first present</p>
+<p>yourself at the palace with me and report your return?&quot;</p>
 <p>&quot;…I am a knight, yes, but your personal bodyguard above all else. And my instincts tell me that all may not be well within this city.&quot;</p>
 <p>&quot;I see. Very well, go and investigate.&quot;</p>
 <p>&quot;Yes, sir!&quot;</p>
@@ -230,7 +235,8 @@ nav_title = "Chapter 3"
 <p>Assuming we didn&#x27;t find ourselves fighting for our lives tomorrow, Zanoba and I would probably be dispatched directly to the battlefield. I had no idea what a war against this country to the north would actually look like. And apart from getting us through that in one piece, I needed to find some way to convince Zanoba not to stay here.</p>
 <p>I had no clue what might change his mind at this point. I wasn&#x27;t even sure he&#x27;d reconsider if Pax blatantly attempted to assassinate him…</p>
 <p><em>Ah well. Time enough to worry about this stuff after our audience with the king.</em></p>
-<p>In all honesty, I was still a bit reluctant to strut right into such an obvious trap. A part of me almost wanted to station myself a mile away and blow Pax and his castle to bits. But I knew that wasn&#x27;t an option. Orsted ordered me to spare the king, and even if he hadn&#x27;t, Zanoba would never forgive me. The castle was hardly a symbol of Shirone or anything, but destroying it would definitely send shock waves through the kingdom. Oh, and those guys up north would come pouring across the border as soon as they heard the news.</p>
+<p>In all honesty, I was still a bit reluctant to strut right into such an obvious trap. A part of me almost wanted to station myself a mile away and blow Pax and his castle to bits. But I knew that wasn&#x27;t an option. Orsted</p>
+<p>ordered me to spare the king, and even if he hadn&#x27;t, Zanoba would never forgive me. The castle was hardly a symbol of Shirone or anything, but destroying it would definitely send shock waves through the kingdom. Oh, and those guys up north would come pouring across the border as soon as they heard the news.</p>
 <p>The simplest option wasn&#x27;t realistic here, and nothing but uncertainty lay ahead. Made me want to sigh just thinking about it.</p>
 <p>For the moment, I had to stay focused on getting through this audience. One way or another, it would at least give me something to work with.</p>
 <p>&quot;Rudy.&quot;</p>

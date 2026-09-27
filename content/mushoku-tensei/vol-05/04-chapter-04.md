@@ -84,7 +84,8 @@ nav_title = "Chapter 4"
 <p>&quot;Okay, don&#x27;t get all clever. You know what I mean, right? Rudeus decides to appeal to this guy&#x27;s emotions. He wants to make him feel like they&#x27;re all buddies.&quot;</p>
 <p>Hmm. That would explain why Rudy had spent so much time helping out this demon guy. And it did make sense, actually. Not only was he scoring brownie points with his protector, he also had a chance to develop his own skills as an adventurer in case he needed to rely on them later. I had to admit, that sounded rational. It was probably the safest path he could have chosen.</p>
 <p>Hmph…the boy did have a good head on his shoulders, didn&#x27;t he? &quot;Tch. You&#x27;d think a kid that smart could have found some time to look around a little, too.&quot;</p>
-<p>Geese held up one hand and spread out his fingers. &quot;He&#x27;s in an unfamiliar land,&quot; he said, folding one down. &quot;He&#x27;s on his first adventure ever. No matter how smart he is, this is all brand new to him. He needs to learn the basics fast, before someone takes advantage of him. He&#x27;s trying to keep a demon who might betray him at any moment happy. Oh, and he&#x27;s got a little pal tagging along behind him who he needs to protect.&quot;</p>
+<p>Geese held up one hand and spread out his fingers. &quot;He&#x27;s in an unfamiliar land,&quot; he said, folding one down. &quot;He&#x27;s on his first</p>
+<p>adventure ever. No matter how smart he is, this is all brand new to him. He needs to learn the basics fast, before someone takes advantage of him. He&#x27;s trying to keep a demon who might betray him at any moment happy. Oh, and he&#x27;s got a little pal tagging along behind him who he needs to protect.&quot;</p>
 <p>By the time he&#x27;d finished with this recitation, Geese had run out of fingers. With a little shrug, he moved on to his closing argument.</p>
 <p>&quot;If he&#x27;d also managed to comb the continent for other people who&#x27;d been teleported, well, that would just make him superhuman. Seriously, I&#x27;d be ready to give the kid a spot in the Seven Great Powers.&quot;</p>
 <p>The Seven Great Powers, huh? Now that brought back some memories. Back in the day, I used to dream about earning myself that kind of fame. Still, I felt like Rudy really did have the raw talent to make it on that list someday. And I didn&#x27;t think that was just my parental pride talking.</p>
@@ -143,7 +144,8 @@ nav_title = "Chapter 4"
 <p>&quot;This doesn&#x27;t sound like a laughing matter, man…&quot;</p>
 <p>&quot;It was hilarious, though! I could tell right away that he had to be your kid, Paul!&quot;</p>
 <p>I didn&#x27;t understand what was so funny about that. Or how he&#x27;d even figured it out so quickly.</p>
-<p>&quot;He was exactly like the old you, man,&quot; Geese went on. &quot;Ridiculously cocky! Ready to boss around a total stranger! One time, he was trying to flirt with this beastfolk girl, right? She glared at him and said &#x27;I can smell your arousal,&#x27; but he kept on ogling her anyway! That boy&#x27;s your son, all right!&quot;</p>
+<p>&quot;He was exactly like the old you, man,&quot; Geese went on. &quot;Ridiculously cocky! Ready to boss around a total stranger! One time, he was trying to flirt with this beastfolk girl, right? She glared at him</p>
+<p>and said &#x27;I can smell your arousal,&#x27; but he kept on ogling her anyway! That boy&#x27;s your son, all right!&quot;</p>
 <p>At this point, the man broke off for another cackling fit. I shifted uncomfortably in my seat, reminded of some youthful indiscretions of my own.</p>
 <p>&quot;It did take a little longer for me to be completely sure, though,&quot; said Geese, pausing to drain a second mug of beer. &quot;But yeah, that&#x27;s the shape of it. You can hardly blame the kid for missing your message. From the sound of things, he didn&#x27;t spend any time in Zant Port.&quot;</p>
 <p>&quot;Hm? Hold on, Geese. You were locked up in the same cell, weren&#x27;t you? Then—&quot;</p>
@@ -322,7 +324,8 @@ nav_title = "Chapter 4"
 <p>Resting my chin on his shoulder, I slowly murmured a little advice. &quot;C&#x27;mon. You&#x27;ve just been reunited with your son. Isn&#x27;t there anything you want to say?&quot;</p>
 <p>This was all a bit ridiculous, yes. But even so, I hugged Paul&#x27;s solidly built body with all my might. It wasn&#x27;t just his face that had gotten thinner. His body felt like it was a size or two smaller than it was before. Of course, I&#x27;d done some growing in the last few years, so that probably had something to do with it; but it was obvious that my father had been through some very hard times.</p>
 <p>After a moment&#x27;s hesitation, Paul managed to mumble &quot;I…I missed you too.&quot;</p>
-<p>And once he got those first words out, it was as if the floodgates opened. &quot;I missed you too, Rudy… I missed you so damn much! I searched and searched, but I couldn&#x27;t find anybody… I started thinking you might be dead… I started…picturing you…&quot;</p>
+<p>And once he got those first words out, it was as if the floodgates opened. &quot;I missed you too, Rudy… I missed you so damn much! I</p>
+<p>searched and searched, but I couldn&#x27;t find anybody… I started thinking you might be dead… I started…picturing you…&quot;</p>
 <p>When I looked up at Paul again, tears were streaming down his cheeks. It wasn&#x27;t exactly a pretty picture. The man was sobbing like a baby. &quot;I&#x27;m sorry… I&#x27;m so sorry, Rudy…&quot;</p>
 <p><em>Well, great. Now he&#x27;s got me going too.</em></p>
 <p>I patted the back of Paul&#x27;s head a few times. For a while, the two of us just cried together.</p>

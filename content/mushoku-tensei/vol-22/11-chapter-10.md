@@ -41,7 +41,8 @@ nav_title = "Chapter 10"
 <p>Meanwhile, Atofe&#x27;s sword was buried deep in Eris&#x27;s right shoulder, and Eris&#x27;s right arm wasn&#x27;t moving.</p>
 <p>She hadn&#x27;t merely stopped. Someone had stopped her.</p>
 <p>Sword of Light pierced right through between bones, essentially becoming a load-bearing beam within whatever body it penetrated. That was why it was renowned as the ultimate sword technique…and it had been blocked.</p>
-<p>&quot;Gyaaaaaah!&quot; Eris immediately gave up on her right arm. Using only her left, she pulled her blade free. Normally, Sword of Light should have taken her opponent&#x27;s head clean off. With just one hand, however, its power was reduced. A third of Atofe&#x27;s neck remained unsevered, still firmly attached to her torso. That would mean death in any normal battle. Getting even a third of your neck sliced through would be a mortal wound. But Eris&#x27;s opponent was Atofe. Immortal Demon King Atofe.</p>
+<p>&quot;Gyaaaaaah!&quot; Eris immediately gave up on her right arm. Using only her left, she pulled her blade free. Normally, Sword of Light should have taken her opponent&#x27;s head clean off. With just one hand, however, its power was reduced. A third of Atofe&#x27;s neck remained unsevered, still</p>
+<p>firmly attached to her torso. That would mean death in any normal battle. Getting even a third of your neck sliced through would be a mortal wound. But Eris&#x27;s opponent was Atofe. Immortal Demon King Atofe.</p>
 <p>&quot;Ngraaah!&quot; Atofe looked like a corpse as she kicked Eris away. An awful bwong sound pealed as Eris went flying. Roxy caught her. Blood flowed freely from her shoulder; she stared at Atofe with unwavering murder in her eyes. She still wanted to fight, but her part was over for now.</p>
 <p>Atofe howled a battle cry, then turned toward me. She held up her sword in a defensive stance, then leaned forward into a lunge as I readied my gatling gun. Maybe it was some animal instinct that made her come for me when I still hadn&#x27;t done anything; maybe it was based on experience.</p>
 <p>With Eris out of the way, my line of fire was clear.</p>
@@ -111,7 +112,8 @@ nav_title = "Chapter 10"
 <p>There would be problems. It wouldn&#x27;t be smarts that were needed to resolve them, but brute force, right then and there. I could imagine showing up and finding the whole thing gone up in smoke.</p>
 <p>&quot;To find Kishirika, we can send letters signed by Atofe to all the demon kings. Their Excellencies should be willing to assist with a search operation.&quot;</p>
 <p>&quot;Thank you.&quot;</p>
-<p>&quot;Don&#x27;t thank me. You&#x27;re the one who&#x27;ll deliver them, Master Rudeus. We lack adequate information on the whereabouts of the teleportation circles.&quot;</p>
+<p>&quot;Don&#x27;t thank me. You&#x27;re the one who&#x27;ll deliver them, Master Rudeus. We lack adequate information on the whereabouts of the</p>
+<p>teleportation circles.&quot;</p>
 <p>&quot;But of course.&quot;</p>
 <p>Right, this guy knew about the teleportation circles. I didn&#x27;t have to hide them. Humans had banned the teleportation circles, but demons, especially the older ones, didn&#x27;t see them as especially taboo.</p>
 <p>&quot;Lady Kishirika won&#x27;t give you the run around unless she has a good reason to. I doubt it&#x27;ll take long to find her.&quot;</p>

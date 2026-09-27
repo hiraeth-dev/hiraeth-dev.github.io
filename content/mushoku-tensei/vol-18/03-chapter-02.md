@@ -26,7 +26,8 @@ nav_title = "Chapter 2"
 <p>While I was busy studying my reflection, Lucie came up and greeted me. She had light brown hair and stoic yet dignified features. She was only three, but looked like a beautiful little elf boy. Her ears were admittedly shorter than Sylphie&#x27;s, but otherwise she looked exactly like her mother at that age. And here she was, standing quietly in front of me, welcoming me home.</p>
 <p><em>Aaah! Did you hear that?! &quot;Daddy! Welcome home!&quot; Aaaah!</em></p>
 <p>&quot;That&#x27;s right! I&#x27;m home, Lucie!&quot; Filled with emotion, I reached down to pick her up, but Lucie promptly retreated behind Sylphie and hid from my view. She glanced at me warily once she was safely out of my reach.</p>
-<p>The shock hit me like a fist to the gut. Oh no. Now what? I <em>think I might actually cry.</em></p>
+<p>The shock hit me like a fist to the gut. Oh no. Now what? I</p>
+<p><em>think I might actually cry.</em></p>
 <p>&quot;Hey, Lucie!&quot; Sylphie scolded.</p>
 <p>&quot;Nooo!&quot;</p>
 <p>Sylphie grabbed her daughter and held her toward me. I wasted no time taking her. She was so light and warm. The same could be said about Sylphie; both she and Lucie had much higher body temperature than I. Perhaps it was because of their low body fat? Or was it a special characteristic of their race? Well, whatever the case…</p>
@@ -46,7 +47,8 @@ nav_title = "Chapter 2"
 <p>&quot;Roxy&#x27;s still at the school. Lara&#x27;s in the living room.&quot;</p>
 <p>With that information in hand, I accompanied Sylphie to said living room. My second daughter, Lara Greyrat, was fast asleep in her cradle. She had beautiful blue hair and still had a brazen look on her face, like she was surveying the surroundings of her bed with utmost conviction. It didn&#x27;t help that Leo was curled up at the base of her bed, making her look even more self-important.</p>
 <p>&quot;Lara, I&#x27;m home.&quot;</p>
-<p>&quot;Aauuh,&quot; she babbled back. She was capable of responding even at this tender age. She was not yet a year old. Could it be that my daughter is a genius? Or perhaps, like me, she&#x27;d reincarnated here from another world. That said, she didn&#x27;t respond at all to my attempts at using English or Japanese with her.</p>
+<p>&quot;Aauuh,&quot; she babbled back. She was capable of responding even at this tender age. She was not yet a year old. Could it be that my daughter is a genius? Or perhaps, like me, she&#x27;d reincarnated here</p>
+<p>from another world. That said, she didn&#x27;t respond at all to my attempts at using English or Japanese with her.</p>
 <p>Perhaps it was the cheeky expression she wore, but I felt like I could hear her say, &quot;That was splendid work out there. I bid you take some time for yourself and rest now.&quot; It made me wonder she&#x27;d really grow up to sound as impertinent as she looked.</p>
 <p>&quot;Lara sure doesn&#x27;t cry much. And she doesn&#x27;t smile, either. It kind of worries me,&quot; Sylphie mumbled. Apparently she was concerned for a very different reason than I was.</p>
 <p>I didn&#x27;t see the big issue, personally. I mean look at her, she looks super conceited. You could tell by her face that she was gonna be a hotshot someday. No doubt about it.</p>
@@ -56,7 +58,8 @@ nav_title = "Chapter 2"
 <p>&quot;Well, if that happens, I&#x27;ll just have to wrap my arms around her and shower her with love.&quot;</p>
 <p>But Sylphie did have a point. Roxy was the type to feel personally responsible. I was just happy to raise a child together with her, but she had a habit of being a bit of a perfectionist.</p>
 <p>&quot;Hm?&quot;</p>
-<p>I suddenly realized one member of our family was conspicuously absent. Namely, our resident nuclear warhead who normally greeted me with such impressive speed, she would rival Aisha. She also typically offered to let me touch her belly, as if to show off how much it had grown, and I would take that opportunity to feel up her breasts, earning me a swift punch. That was how things usually went, but she was strangely absent today. What could be the matter?</p>
+<p>I suddenly realized one member of our family was conspicuously absent. Namely, our resident nuclear warhead who normally greeted me with such impressive speed, she would rival Aisha. She also typically offered to let me touch her belly, as if to show off how</p>
+<p>much it had grown, and I would take that opportunity to feel up her breasts, earning me a swift punch. That was how things usually went, but she was strangely absent today. What could be the matter?</p>
 <p>&quot;Where is Eris?&quot;</p>
 <p>&quot;Oh.&quot; Sylphie drew her brows together, troubled. &quot;She&#x27;s been having a bit of a squabble with Aisha since this morning.&quot;</p>
 <p>&quot;Huh? You mean the two of them are fighting?&quot;</p>
@@ -166,7 +169,8 @@ nav_title = "Chapter 2"
 <p>&quot;And see, some employees of ours gave chase, only to meet a grim end. They were all cleanly cut in half.&quot;</p>
 <p>&quot;Interesting.&quot;</p>
 <p>Definitely Eris&#x27;s work. I did feel a bit guilty about that. Those slave traders were just doing their job. It would have been one thing if they were killed by their own slave, but instead they were murdered by someone completely unrelated to the situation. That did kind of suck.</p>
-<p>&quot;Well, no need to dwell on that,&quot; the little man continued. &quot;All a part of the job. People lose their lives every day to violence in this line of work. I can hardly hold that against you. Especially given you&#x27;re the underling of the Dragon God, the second strongest of the Seven Great Powers, and a close acquaintance of Asura Kingdom&#x27;s next king.&quot;</p>
+<p>&quot;Well, no need to dwell on that,&quot; the little man continued. &quot;All a part of the job. People lose their lives every day to violence in this line of work. I can hardly hold that against you. Especially given</p>
+<p>you&#x27;re the underling of the Dragon God, the second strongest of the Seven Great Powers, and a close acquaintance of Asura Kingdom&#x27;s next king.&quot;</p>
 <p>&quot;I appreciate you being so understanding.&quot;</p>
 <p>So he was terrified of both Orsted and Ariel. Connections really do mean everything no matter what world you&#x27;re in. Thank you, CEO Orsted and Section Chief Ariel! With their influence in play, these negotiations were looking pretty promising. That said, I wasn&#x27;t very public about my working relationship with Orsted. I guess those rumors had spread from somewhere.</p>
 <p>&quot;But, you see…Mister Rudeus…&quot;</p>
@@ -178,7 +182,8 @@ nav_title = "Chapter 2"
 <p>&quot;And would that buyer happen to be a certain Mr. B.G.?&quot; I guessed.</p>
 <p>&quot;Yes! Yes, precisely. Mister Rudeus, I am impressed how readily you guessed it correctly.&quot;</p>
 <p>In other words, Linia was supposed to go to Eris&#x27;s family.</p>
-<p>&quot;She&#x27;s a princess of the Dedoldia tribe, can fight and use magic, and she&#x27;s a beautiful, if impertinent, virgin. When I told the buyer that, they immediately offered three hundred Asuran gold coins as a down payment.&quot;</p>
+<p>&quot;She&#x27;s a princess of the Dedoldia tribe, can fight and use magic, and she&#x27;s a beautiful, if impertinent, virgin. When I told the buyer</p>
+<p>that, they immediately offered three hundred Asuran gold coins as a down payment.&quot;</p>
 <p>I wasn&#x27;t sure if it was James or one of his sons who was responsible for this, but either way, the Greyrat family had a serious obsession with beastfolk. Honestly, if they had the extra coin to waste on buying slaves, they should be using it to fund the rebuilding efforts in the Fittoa Region.</p>
 <p>Then again, Eris had fallen for Linia at first sight, too. So maybe it was in her family&#x27;s nature to open their wallets whenever they saw limited merchandise that they&#x27;d never have a chance to own again if they passed up the first opportunity.</p>
 <p>&quot;A slave worth this much is rare indeed. We can&#x27;t quietly let her go without lifting a finger.&quot;</p>

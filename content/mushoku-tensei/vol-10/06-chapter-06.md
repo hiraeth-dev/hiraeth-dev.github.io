@@ -71,7 +71,8 @@ nav_title = "Chapter 6"
 <p>When I said her name, Cliff looked at her in shock. Apparently, they had never met. &quot;O-oh! So you&#x27;re the one they call Silent, huh? Hmph. I&#x27;m Cliff. I&#x27;m sure you&#x27;ve at least heard of me before, right?&quot;</p>
 <p>&quot;Yes, I have. They say you&#x27;re amazing. And yes, I&#x27;m Silent.&quot; Her speech sounded stilted and unnatural, probably because she was only pretending to know who Cliff was. Cliff seemed to be in a pleasant mood, though, so I wasn&#x27;t going to say anything.</p>
 <p>&quot;Pleased to meet you. I am Elinalise Dragonroad. That&#x27;s an incredible mask.&quot;</p>
-<p>&quot;A pleasure. Your hairstyle is amazing, too,&quot; Nanahoshi replied in a completely flat tone. Watching how she interacted with them made me nervous. Still, she surely wouldn&#x27;t start anything, since she wanted to avoid trouble.</p>
+<p>&quot;A pleasure. Your hairstyle is amazing, too,&quot; Nanahoshi replied in a completely flat tone. Watching how she interacted with them</p>
+<p>made me nervous. Still, she surely wouldn&#x27;t start anything, since she wanted to avoid trouble.</p>
 <p>Honestly, I hadn&#x27;t thought she&#x27;d come. I&#x27;d sent her an invitation just in case, which she&#x27;d accepted. But even then, I hadn&#x27;t thought she would actually attend. She&#x27;d just responded, in a voice devoid of emotion, &quot;Marriage? I guess you really are serious about living here in this world.&quot;</p>
 <p>&quot;This is rare,&quot; I said to her in a low voice. &quot;Seeing you outside that room.&quot;</p>
 <p>&quot;You&#x27;re the one who invited me, aren&#x27;t you?&quot;</p>
@@ -146,7 +147,8 @@ nav_title = "Chapter 6"
 <p>&quot;Thanks.&quot;</p>
 <p>She started to retreat after that short remark, but Sylphie stopped her. &quot;Um, Miss Nanahoshi, can I ask you something?&quot;</p>
 <p>&quot;What would that be?&quot;</p>
-<p>&quot;You said before that the two of you come from the same place. But what did that mean? Um, correct me if I&#x27;m wrong, but you come from a different world, right?&quot; Sylphie&#x27;s voice dropped to a whisper in the latter half of her question.</p>
+<p>&quot;You said before that the two of you come from the same place. But what did that mean? Um, correct me if I&#x27;m wrong, but you come</p>
+<p>from a different world, right?&quot; Sylphie&#x27;s voice dropped to a whisper in the latter half of her question.</p>
 <p>Nanahoshi looked at me as if to ask what I wanted to do. I didn&#x27;t mind which way she answered. I wasn&#x27;t trying to hide anything from Sylphie…though she might look at me funny if she found out. It would be tricky to explain.</p>
 <p>&quot;I misunderstood, since he spoke the same language as me,&quot; Nanahoshi said. Well, that decided it.</p>
 <p>Last to approach us were Cliff and Elinalise. Cliff had us line up, and then he cut a cross-like shape through the air with one hand, offering a simple prayer. &quot;The two of you aren&#x27;t followers of Millis, but this is the only blessing I know.&quot;</p>

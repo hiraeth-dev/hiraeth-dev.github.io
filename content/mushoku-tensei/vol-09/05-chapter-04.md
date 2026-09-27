@@ -35,7 +35,8 @@ nav_title = "Chapter 4"
 <p>Jealous? Seriously? It wasn&#x27;t like I&#x27;d done anything with her, right? Why would he be angry at me? Was it that joke I made about wanting to have a go with her? That didn&#x27;t amount to anything, though. She turned me down because she had a fiancée… which would be this guy. Right.</p>
 <p>&quot;Th-There&#x27;s nothing special about me, I assure you,&quot; I said, in the calmest voice that I could muster. &quot;I&#x27;m just a sad, pitiful mouse of a man, honestly. I can&#x27;t imagine why a Demon King like yourself would be jealous of me… the Demon Empress must have been exaggerating somewhat.&quot;</p>
 <p>Badigadi responded by bursting into laughter, as if I&#x27;d cracked a truly hilarious joke. &quot;Bwahahahaha! Don&#x27;t be modest, boy! I&#x27;ve heard all about that astonishing pool of mana you&#x27;ve got inside you.&quot;</p>
-<p>Astonishing felt like a strong word. Yes, it was becoming obvious that I had way more mana than most people did. But surely it wasn&#x27;t anything impressive enough to make a genuine Demon King jealous… right?</p>
+<p>Astonishing felt like a strong word. Yes, it was becoming obvious that I had way more mana than most people did. But surely it wasn&#x27;t</p>
+<p>anything impressive enough to make a genuine Demon King jealous… right?</p>
 <p>Come to think of it, though, Kishirika had made some comment about this as well. What were her words exactly? All I could really remember was her cackling with laughter for no apparent reason… &quot;Uh… well, yes. I do seem to have a bit more mana than most people.&quot;</p>
 <p>&quot;Ahahahaha! &#x27;A bit more&#x27;, eh? Yes, indeed!&quot; Badigadi proceeded to roar with laughter at some length. After a while, he abruptly fell silent and dropped to the ground with a loud thump. &quot;Sit down, boy.&quot;</p>
 <p>I quickly took a seat. Badigadi was still enormous, even seated. It felt like I was conversing with a mountain of muscle. It was a pity I hadn&#x27;t been blessed with that kind of a physique.</p>
@@ -111,7 +112,8 @@ nav_title = "Chapter 4"
 <p>&quot;I&#x27;d like to ask that you spare my life, even if I lose this duel.&quot;</p>
 <p>Badigadi burst into laughter once again. &quot;Bwahahahaha! Begging for your life before we&#x27;ve even started? You never cease to amuse me!&quot;</p>
 <p>&quot;Well, a life&#x27;s a tragic thing to waste, don&#x27;t you think?&quot; I said.</p>
-<p>&quot;Ah, yes. You humans die so quickly as it is! I hear many of you feel that way!&quot; the Demon King replied with a cackle. &quot;But why are you so sure you&#x27;ll lose? One would think such a massive pool of mana would lend a man some confidence.&quot;</p>
+<p>&quot;Ah, yes. You humans die so quickly as it is! I hear many of you feel that way!&quot; the Demon King replied with a cackle. &quot;But why are</p>
+<p>you so sure you&#x27;ll lose? One would think such a massive pool of mana would lend a man some confidence.&quot;</p>
 <p>&quot;I was nearly killed by someone called the Dragon God not too long ago. That probably has something to do with it.&quot;</p>
 <p>Badigadi&#x27;s laughter came to an abrupt halt. &quot;The Dragon God? You mean Orsted? You fought him and lived?&quot;</p>
 <p>&quot;By the skin of my teeth. If he hadn&#x27;t spared me on a whim, I wouldn&#x27;t be standing here today.&quot;</p>
@@ -179,13 +181,15 @@ nav_title = "Chapter 4"
 <p>***</p>
 <p>Following this, Badigadi apparently went off somewhere with that toupee guy, a handsome middle-aged man in armor, and an old guy in a robe. It sounded like the bigshots had a few things to discuss in private.</p>
 <p>As for me, I lay in the infirmary for a while before regaining consciousness. Once I came to, Vice-Principal Jenius took me to a room in the Teachers&#x27; Building and offered me some tea and snacks while I recuperated.</p>
-<p>He didn&#x27;t have much to tell me. It sounded like he wasn&#x27;t entirely clear on what was going on himself. The Demon King had shown up out of nowhere, wandered around knocking out both students and beastfolk alike, challenged me to a duel, allowed me to claim victory, and then knocked me unconscious. That was all we had to go on, and it wasn&#x27;t enough to make sense of the situation. Still, it seemed no one Badigadi knocked out had actually died from their injuries. He was supposedly a peaceful guy by nature, so that probably made sense.</p>
+<p>He didn&#x27;t have much to tell me. It sounded like he wasn&#x27;t entirely clear on what was going on himself. The Demon King had shown up out of nowhere, wandered around knocking out both students and beastfolk alike, challenged me to a duel, allowed me to claim victory, and then knocked me unconscious. That was all we had to go on, and it wasn&#x27;t enough to make sense of the situation. Still, it seemed no one Badigadi knocked out had actually died from their</p>
+<p>injuries. He was supposedly a peaceful guy by nature, so that probably made sense.</p>
 <p>A number of very important people were trying to figure out his objectives as we spoke. The guy with the toupee was actually the principal of this school. It took me a minute to recall his name was Georg, a King-tier Wind magician. I&#x27;d seen him once before, back at the entrance ceremony. Joining him in his talks with Badigadi were the leader of the Magic Guild and the captain of the Magic Nation knights stationed in this city.</p>
 <p>&quot;But I must say, Rudeus, that was a truly remarkable effort. You struck down a Demon King with a single preemptive strike, and he even acknowledged you as the victor! The principal believed a lone adventurer like yourself could only buy us a little time… but surely no one could have expected this! Why, you got my blood pumping for the first time in years!&quot;</p>
 <p>There was genuine excitement in the vice-principal&#x27;s voice. It sounded like the crowd hadn&#x27;t heard my discussion with Badigadi before the duel began. None of this was that impressive when you considered that he&#x27;d let me take the first shot, and I&#x27;d never really been in danger.</p>
 <p>Jenius fawned over me for a while longer before finally letting me go on my way. He did tell me to stay put in my dormitory until everything was fully figured out.</p>
 <p>As I left the Teachers&#x27; Building, Zanoba came running up to meet me. &quot;Ah, there you are, Master! I saw every second of your duel. It was truly impressive! But I suppose I should have expected you to triumph.&quot;</p>
-<p>I shook my head. &quot;He just let me spar with him, that&#x27;s all.&quot; My spell had broken through his aura, true. But he hadn&#x27;t even tried to evade it or defend himself. And given the fact that he could regenerate completely when defeated, I couldn&#x27;t possibly have beaten him in a real battle.</p>
+<p>I shook my head. &quot;He just let me spar with him, that&#x27;s all.&quot; My spell had broken through his aura, true. But he hadn&#x27;t even tried to evade it or defend himself. And given the fact that he could</p>
+<p>regenerate completely when defeated, I couldn&#x27;t possibly have beaten him in a real battle.</p>
 <p>&quot;You&#x27;re too modest by far!&quot; said Zanoba with a chuckle. &quot;Sparring evenly with a Demon King is impressive enough, I assure you.&quot;</p>
 <p>When I glanced at Julie, she looked even more frightened than usual. I guess it had been a pretty gruesome spectacle, even at a distance. Hopefully I hadn&#x27;t scarred her for life.</p>
 <p>On the way back to my dorm, I ran into Cliff and a very pleasedlooking Elinalise. &quot;Hello there, Rudeus. What was all that commotion about earlier?&quot;</p>
@@ -251,6 +255,7 @@ nav_title = "Chapter 4"
 <p>Without a moment&#x27;s hesitation he marched up to the podium and gazed down at us like an emperor surveying his domain.</p>
 <p>&quot;Behold! It is I, Badigadi—the immortal Demon King!&quot;</p>
 <p><em>Is this seriously happening? Is he seriously…wearing a school uniform?!</em></p>
-<p>The Demon King Badigadi had formally enrolled at the Ranoa University of Magic as sort of a publicity stunt. He wasn&#x27;t studying much of anything, of course, but he made a habit of sitting in on classes and speaking to students who caught his eye… which usually resulted in them desperately fleeing for help. Those who were brave enough to stick around were supposedly rewarded with tidbits from his vast stores of knowledge, but they were few and far between.</p>
+<p>The Demon King Badigadi had formally enrolled at the Ranoa University of Magic as sort of a publicity stunt. He wasn&#x27;t studying much of anything, of course, but he made a habit of sitting in on</p>
+<p>classes and speaking to students who caught his eye… which usually resulted in them desperately fleeing for help. Those who were brave enough to stick around were supposedly rewarded with tidbits from his vast stores of knowledge, but they were few and far between.</p>
 <p>One way or another, though, things had come to a relatively peaceful conclusion.</p>
 <p><strong>Chapter 5: The White Mask (Part 1)</strong></p>

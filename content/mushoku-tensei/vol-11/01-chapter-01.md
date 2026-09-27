@@ -46,7 +46,8 @@ nav_title = "Chapter 1"
 <p>&quot;So what&#x27;s the story, brother dear?&quot; asked Aisha, leaning forward eagerly. &quot;What happened to that Eris girl you were with before?&quot;</p>
 <p>I wasn&#x27;t eager to revisit that topic, but…it made sense they were curious about it. &quot;Well, you see…&quot;</p>
 <p>Smiling awkwardly, I took a few minutes to fill my sisters in on the recent developments in my life. I started off with my return to the Fittoa Region, where I split up with Eris and became an adventurer. I mentioned that I&#x27;d contracted a disease and headed to the University of Magic in hopes of finding a cure. And then I explained that I&#x27;d met Sylphie here, and she&#x27;d managed to cure my illness.</p>
-<p>Of course, I didn&#x27;t specify that the illness was erectile dysfunction, or the means by which Sylphie had cured it. That&#x27;s not the sort of thing you talk about with a pair of ten-year-old girls. I did  make sure to mention Sylphie was in a slightly tricky situation that required her to dress as a man in public. Princess Ariel had already given me permission to explain this to anyone who I thought needed to know.</p>
+<p>Of course, I didn&#x27;t specify that the illness was erectile dysfunction, or the means by which Sylphie had cured it. That&#x27;s not the sort of thing you talk about with a pair of ten-year-old girls. I did  make sure to mention Sylphie was in a slightly tricky situation that</p>
+<p>required her to dress as a man in public. Princess Ariel had already given me permission to explain this to anyone who I thought needed to know.</p>
 <p>To be honest, it might have been smarter not to tell my little sisters about this. They were still just children, after all. But if they were going to be living with us from now on, they&#x27;d inevitably figure out the truth at some point, or at least start to harbor some suspicions. Considering the trouble that could cause down the road, I opted to give them a basic outline of the situation up front.</p>
 <p>&quot;…And that brings us up to the present, I guess.&quot;</p>
 <p>After five minutes or so, I&#x27;d covered all of the most important events.</p>
@@ -178,14 +179,16 @@ nav_title = "Chapter 1"
 <p>&quot;Excuse me? Are you even hearing yourself right now?&quot;</p>
 <p>&quot;Come on! That was supposed to be a laugh line!&quot;</p>
 <p>Once I gave her the cue, Nanahoshi did chuckle a little, but it sounded kind of forced. Kids these days! No appreciation for the classics.</p>
-<p>At any rate, the girl clearly wasn&#x27;t in any shape to be conducting experiments today. Not that I had time to help out, either. We&#x27;d have to resume our research later, once things had calmed down a bit.</p>
+<p>At any rate, the girl clearly wasn&#x27;t in any shape to be conducting experiments today. Not that I had time to help out, either. We&#x27;d</p>
+<p>have to resume our research later, once things had calmed down a bit.</p>
 <p>***</p>
 <p>Once the school day was over, I met up with Sylphie and we headed home together. I wanted to get her advice about Norn and Aisha. She was much closer to their age, so I was hoping she might have some insight.</p>
 <p>Before I could broach the subject, though, Sylphie spoke up. &quot;Oh, right. Let&#x27;s stop by the market, Rudy. We&#x27;ve got more people in the house now, so we&#x27;re going to need more food.&quot;</p>
 <p>Sounded reasonable enough to me. We made a little detour.</p>
 <p>As soon as we set foot inside the marketplace, the sweet smell of stewing beans hit my nose from all directions. The Commerce District market was always bustling in the evening hours. People tend to think of markets as an early-morning thing, but the ones in this area sold a lot of meat supplied by hunters or adventurers. Hunters had unpredictable schedules, but adventurers tended to spend their days slaying monsters out in the forests or plains. Naturally, the meat they brought back with them in the evenings tended to go on sale at night.</p>
 <p>There wasn&#x27;t much variety in the food available here, and most ingredients were fairly expensive. But the Kingdom of Ranoa and the other Magic Nations were actually better off than most countries in this region; if you could afford it, there was at least meat available here. If you headed out further east, you&#x27;d find countries where there was little fresh food to be had at any price.</p>
-<p>Apart from the market itself, you could also find some jobs for adventurers posted in this area of the city. Most of these involved magically freezing fresh meat—jobs popular with younger university students who&#x27;d learned basic magic and needed some pocket change.</p>
+<p>Apart from the market itself, you could also find some jobs for adventurers posted in this area of the city. Most of these involved</p>
+<p>magically freezing fresh meat—jobs popular with younger university students who&#x27;d learned basic magic and needed some pocket change.</p>
 <p>Sylphie and I wandered around, picking out ingredients for dinner. I took the opportunity to fill her in about everything that had happened today.</p>
 <p>&quot;Well, I think you&#x27;re right,&quot; she said. &quot;It sounds like the two of them don&#x27;t get along very well.&quot;</p>
 <p>&quot;I&#x27;m not sure what they&#x27;re thinking, honestly. I guess I don&#x27;t know how to see the world through a kid&#x27;s eyes anymore.&quot;</p>

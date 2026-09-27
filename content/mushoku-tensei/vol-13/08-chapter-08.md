@@ -57,7 +57,8 @@ nav_title = "Chapter 8"
 <p>&quot;Sorry about that,&quot; I said with a smile, renewing my focus on the tasks at hand. &quot;I guess I was just lost in thought.&quot;</p>
 <p>Picking the presents was our main activity for the day. We decided to look all around the city and take our time with the decision.</p>
 <p>Our search got underway in the Workshop District. You could find all sorts of magical tools and implements in this area of the city. Of course, there were plenty of enchanted objects for sale in the Commerce District as well, but those were largely tested, refined products that commanded very high prices. In the Workshop District, you got a more eclectic mix, including prototypes and experiments produced by fledgling creators.</p>
-<p>For the most part, their effects weren&#x27;t too remarkable—they were more like toys than anything else. But sometimes you&#x27;d dig through a pile of junk and find a masterpiece from an inventor who&#x27;d soon be famous.</p>
+<p>For the most part, their effects weren&#x27;t too remarkable—they were more like toys than anything else. But sometimes you&#x27;d dig</p>
+<p>through a pile of junk and find a masterpiece from an inventor who&#x27;d soon be famous.</p>
 <p>Or so Roxy told me, at least. One of her old classmates from the University had joined a workshop here as an apprentice, so she knew a few things about the area. Unfortunately, they&#x27;d moved to a different city at some point.</p>
 <p>Roxy didn&#x27;t seem too optimistic about our mission. &quot;To be honest, I don&#x27;t think we&#x27;ll find anything those two would like here,&quot; she&#x27;d said, but she was browsing through the magical implements on display with great interest.</p>
 <p>Naturally, I wasn&#x27;t expecting to find a suitable present for Norn or Aisha either. The reason I&#x27;d brought us here was to find a gift for Roxy.</p>

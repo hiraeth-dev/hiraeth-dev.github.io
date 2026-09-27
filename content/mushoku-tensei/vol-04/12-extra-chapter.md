@@ -36,7 +36,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Wah…waah…&quot; Fitz looked pitiful, tears in his eyes, as he glanced at Luke. &quot;I-I&#x27;m so…sorry…&quot;</p>
 <p>&quot;Don&#x27;t apologize to me.&quot; Luke climbed down from his bed and gave a sigh as he scratched at his head. &quot;No one&#x27;s going to blame you.&quot;</p>
 <p>&quot;B-but, I&#x27;m old enough by now…and yet I&#x27;m still…still, well, wetting myself like this…&quot;</p>
-<p>&quot;You&#x27;re not the only one who had a terrifying experience that day.&quot; Luke shrugged as he said it, but he had a serious look on his face. His tone was entirely sincere. &quot;Besides, there&#x27;s lots of guys here who soil their sheets at night. The maids are used to it. Now hurry up, get changed and hand your shirts over to the person in charge of washing. Lady Ariel is waiting for us.&quot; Once Luke finished speaking, he left the room.</p>
+<p>&quot;You&#x27;re not the only one who had a terrifying experience that day.&quot; Luke shrugged as he said it, but he had a serious look on his face. His tone was entirely sincere. &quot;Besides, there&#x27;s lots of guys here who soil their sheets at night. The maids are used to it. Now hurry up, get changed and hand your shirts over to the person in charge of</p>
+<p>washing. Lady Ariel is waiting for us.&quot; Once Luke finished speaking, he left the room.</p>
 <p>Fitz wiped away his tears and crawled out of bed, grabbing his sunglasses from the nearby table and sliding them onto his face.</p>
 <p>***</p>
 <p>Fitz was a victim of the incident that decimated the Fittoa Region. He was transported into mid-air, a hundred meters above the ground. Like anyone else, Fitz was no exception to the law of gravity, so he fell.</p>
@@ -52,7 +53,8 @@ nav_title = "Extra Chapter"
 <p>&quot;&#x27;Lord Pilemon&#x27;? As if you don&#x27;t know him. Luke, that&#x27;s your father, isn&#x27;t it?&quot;</p>
 <p>&quot;I&#x27;ve been told to keep business and private matters separate.&quot;</p>
 <p>Once Fitz finished setting her hair, Ariel rose out of her seat and lifted her arms shoulder-high. Fitz immediately set about undressing her. Normally changing the princess&#x27; clothes would be a job for one of her ladies-in-waiting, but this was another custom she&#x27;d been practicing since she was a child.</p>
-<p>Fitz felt flustered as he peeled away the beautiful silks that were wrapped around Ariel&#x27;s vibrant white skin, exchanging them for clothes that a lady-in-waiting had prepared in advance. The clothing was complex, with a bizarre structure that Fitz wasn&#x27;t even sure how to wear. Yet he managed to slip it briskly onto her body.</p>
+<p>Fitz felt flustered as he peeled away the beautiful silks that were wrapped around Ariel&#x27;s vibrant white skin, exchanging them for clothes that a lady-in-waiting had prepared in advance. The clothing</p>
+<p>was complex, with a bizarre structure that Fitz wasn&#x27;t even sure how to wear. Yet he managed to slip it briskly onto her body.</p>
 <p>He wasn&#x27;t even sure how to dress people when he was first assigned the job. But he&#x27;d become quite skilled at it. Even a country bumpkin like Fitz could learn after being forced to do the same thing over and over again.</p>
 <p>&quot;Fitz…you messed up one of the buttons.&quot;</p>
 <p>&quot;Huh? Ah, yes, I&#x27;m sorry.&quot; Just then he&#x27;d gotten distracted, and the princess pointed out his mistake. Fitz hurried to try and fix it, but he wasn&#x27;t sure which button he&#x27;d slipped up on. With clothing like this, if you messed up a single step of the process it made it impossible to figure out where to start with fixing it.</p>
@@ -126,7 +128,8 @@ nav_title = "Extra Chapter"
 <p>It was early afternoon. Ariel was meeting with Luke&#x27;s father, Pilemon Notos Greyrat. Pilemon topped the list of Ariel&#x27;s supporters. While he had poor judgment, he was a young man acting as the Liege Lord of the Milbotts Region. Every time something came up, he would pay her a visit to discuss the future.</p>
 <p>Ariel currently didn&#x27;t have many supporters. She wasn&#x27;t an adult yet, and although she was popular with the general public, she didn&#x27;t enjoy the same level of acclaim amongst the nobles. That was why they were presently laying groundwork with them.</p>
 <p>The powerful, high-ranking nobles who backed the first or second prince wouldn&#x27;t simply double-cross them to support Ariel. They had already established their positions within their factions.</p>
-<p>That was why Pilemon suggested capturing the undecided voters. This meant winning over noblemen from the countryside who didn&#x27;t involve themselves with the continent&#x27;s political disputes, as well as middle- and lower-ranking nobles who didn&#x27;t hold much power. Then Pilemon would use his power to appoint them as government officials, placing those who were exceptional in lower (albeit important) positions.</p>
+<p>That was why Pilemon suggested capturing the undecided voters. This meant winning over noblemen from the countryside who didn&#x27;t involve themselves with the continent&#x27;s political disputes, as well as middle- and lower-ranking nobles who didn&#x27;t hold much power. Then Pilemon would use his power to appoint them as</p>
+<p>government officials, placing those who were exceptional in lower (albeit important) positions.</p>
 <p>Theirs was a strategy for the future, for ten or twenty years from now. A decade from now, those who supported Ariel thanks to Pilemon&#x27;s work would be in various key positions (even if they weren&#x27;t at the top) and would provide great support for her.</p>
 <p>&quot;The Knights&#x27; Guild, the Magicians&#x27; Guild, the Imperial Guard, and the City Watch… For these, we&#x27;ve laid the groundwork for all the key positions.&quot;</p>
 <p>&quot;It&#x27;s too early to say if the seeds we planted will bear fruit. It&#x27;s possible someone will see through our plan and pull it out by the root.&quot;</p>
@@ -134,7 +137,8 @@ nav_title = "Extra Chapter"
 <p>The Asura Kingdom hadn&#x27;t seen a civil war in a long time. As long as there was no solid proof left behind, even assassination in the court was permissible. Consequently, the nobles had forgotten the power of the military. Ariel and Pilemon, on the other hand, worked first and foremost to obtain the military&#x27;s support.</p>
 <p>&quot;It&#x27;s vexing to have to take such roundabout measures like this.&quot;</p>
 <p>&quot;Indeed.&quot; Pilemon was the head of the Notos Greyrat family, but he was younger than the other Greyrats and didn&#x27;t have much in the way of popularity or coin.</p>
-<p>Ariel was similar. She was part of the royal family, so she could use money freely, but it was clear at a glance that a huge gap lay between her and the other candidates. Her only edge was her popularity with the people, and popularity was quick to fade. The other princes didn&#x27;t do much to change the peoples&#x27; hearts. Popularity was too fickle to use as a linchpin.</p>
+<p>Ariel was similar. She was part of the royal family, so she could use money freely, but it was clear at a glance that a huge gap lay between her and the other candidates. Her only edge was her</p>
+<p>popularity with the people, and popularity was quick to fade. The other princes didn&#x27;t do much to change the peoples&#x27; hearts. Popularity was too fickle to use as a linchpin.</p>
 <p>But just who was it that she was fighting, and for what purpose?</p>
 <p>&quot;But Your Highness, a solid and steady path is the quickest one.&quot;</p>
 <p>&quot;Yes, of course. I know that. Obtaining the crown requires one to take the winding road.&quot;</p>

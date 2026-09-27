@@ -30,7 +30,8 @@ nav_title = "Chapter 4"
 <p>At Sylphie&#x27;s suggestion, I looked past the monster to see what appeared to be a stone shrine. Our destination, I assumed.</p>
 <p>&quot;What should we do? Fight it?&quot;</p>
 <p>Good question. For now, the monster hadn&#x27;t spotted us, so sneaking past was still an option…but I had a hunch that this was its territory, given that it showed no signs of leaving. A-rank monsters included ones that could reflexively dodge my Stone Cannon, so it wouldn&#x27;t be a pushover in a fight.</p>
-<p>I glanced at Eris and nodded. She looked like she heard me loud and clear, even though I still hadn&#x27;t said a word. Guess we were taking it down. We still hadn&#x27;t done anything trial-worthy up here, and I got the feeling we&#x27;d get a failing grade if we avoided it.</p>
+<p>I glanced at Eris and nodded. She looked like she heard me loud and clear, even though I still hadn&#x27;t said a word. Guess we were taking it down. We still hadn&#x27;t done anything trial-worthy up here, and I got the</p>
+<p>feeling we&#x27;d get a failing grade if we avoided it.</p>
 <p>&quot;Eris will draw its attention, I&#x27;ll bind its feet, and once I do, Sylphie and Roxy will attack it together. I don&#x27;t know if we can take it down in one hit, so aim for the wings first. If it looks like we can finish it off at that point, Eris will strike the final blow. If it looks like it can escape my Quagmire, Eris will buy some time while I finish it off. Okay?&quot;</p>
 <p>&quot;Got it!&quot; Eris confirmed as she leapt into the fray. She was like a dog who was sick of being told to stay put.</p>
 <p>I turned my eyes to the other two. Roxy and Sylphie both ran to take positions where they could support Eris from either flank. I&#x27;d almost forgotten—Sylphie was fast. I doubted she was fully recovered from giving birth…maybe that sort of recovery was something that healing magic could speed along.</p>
@@ -54,7 +55,8 @@ nav_title = "Chapter 4"
 <p>Eris watched with caution for a bit, but after deciding the battle was over, she turned to me and started waving. Roxy lifted her staff to signal that she was okay as well. Sylphie was looking toward the monster with great interest, as though she&#x27;d never seen one so enormous in her life.</p>
 <p>All right, that went well. We ganged up on it and emerged without a scratch. Things sure hadn&#x27;t gone this smoothly back when I was traveling through the Demon Continent. Eris and I had grown stronger.</p>
 <p>&quot;Mmahhh, waaaah!&quot;</p>
-<p>Oops. Sieg woke up from his sleep and he started fussing around on my back. Aww, poor baby. Are you hungry? Or do you not like being on your daddy&#x27;s back? Are you cold? If you are, sorry. We&#x27;ll be back home safe and sound soon enough.</p>
+<p>Oops. Sieg woke up from his sleep and he started fussing around on my back. Aww, poor baby. Are you hungry? Or do you not like being on your daddy&#x27;s back? Are you cold? If you are, sorry. We&#x27;ll be back home</p>
+<p>safe and sound soon enough.</p>
 <p>&quot;Oooh…&quot;</p>
 <p>Just then, I realized. That the look on my face had changed dramatically. My wives could tell as they approached me, too. I gritted my teeth as I spaced out in horror, my gaze fixed on the defeated monster. It was lying in the quagmire, lifeless.</p>
 <p>&quot;Oh!&quot;</p>
@@ -68,7 +70,8 @@ nav_title = "Chapter 4"
 <p>It looked to be a bit small to call a shrine. It was about one meter tall and two meters wide. Its stone double doors were half-ajar, wide enough to just barely let a single person through. On the door was an emblem I was familiar with. Yes, that same emblem that I&#x27;d been wearing as of late, the one that looked like a dragon from a distance.</p>
 <p>The emblem of the dragonfolk.</p>
 <p>These were dragonfolk ruins.</p>
-<p>I could see some sort of altar beside the ruins, but it was run-down and covered in moss. Perhaps this was some sort of magical implement? Something to hide the ruins from view. Compared to the ancient teleportation circles I&#x27;d grown accustomed to seeing, this one had a different air about it. People long ago must have made pilgrimages here.</p>
+<p>I could see some sort of altar beside the ruins, but it was run-down and covered in moss. Perhaps this was some sort of magical implement? Something to hide the ruins from view. Compared to the ancient</p>
+<p>teleportation circles I&#x27;d grown accustomed to seeing, this one had a different air about it. People long ago must have made pilgrimages here.</p>
 <p>The altar wasn&#x27;t the only difference here. Some details about the shrine itself differed from the ruins that housed those circles. The ancient teleportation circles that I knew were single-story buildings with a basement. From what I could tell through the half-ajar doorway, this shrine had stairs. Stairs that descended into darkness. When I tried knocking on the door with my gauntlet, the sound echoed for quite a while. It must go deep into the earth.</p>
 <p>Hmm… I know I was told to get a baptism here…but did a place like this really have anyone living inside? There had been a monster waltzing around right its doorstop, one that the locals dreaded handling.</p>
 <p>&quot;Anybody home?&quot; I called out, to no reply. I turned around and gave the others a confused look, as though to suggest that we might have taken a wrong turn. All I got in return was Eris&#x27;s curt command: &quot;Get in there already.&quot;</p>

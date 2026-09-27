@@ -73,7 +73,8 @@ nav_title = "Chapter 2"
 <p>&quot;It&#x27;s… kind of tough to just sit there watching them, when you can&#x27;t tell them how you feel.&quot; Fitz&#x27;s face had gone red at some point. His blush reached all the way to the tips of his ears. &quot;So, uh, I think you ought to introduce them. Give him the chance to get it off his chest, at least.&quot;</p>
 <p>&quot;That might lead to all sorts of trouble down the road, though.&quot;</p>
 <p>&quot;Well, what can you do? Once you get them in a room together, the rest&#x27;s up to them.&quot;</p>
-<p>Ooh. That was true enough. After I set up the initial meeting, it was up to them what happened next. In other words, I could wash my hands of the whole thing. If I could make that very clear beforehand, so much the better. &quot;Okay then. I&#x27;ll try working out something along those lines. Thanks for the advice, Master Fitz.&quot;</p>
+<p>Ooh. That was true enough. After I set up the initial meeting, it was up to them what happened next. In other words, I could wash my hands of the whole thing. If I could make that very clear</p>
+<p>beforehand, so much the better. &quot;Okay then. I&#x27;ll try working out something along those lines. Thanks for the advice, Master Fitz.&quot;</p>
 <p>&quot;Y-You&#x27;re welcome… I&#x27;m always happy to help…&quot;</p>
 <p>Fitz still seemed a little uncertain about all of this, but I&#x27;d made up my mind. As I left the library, I noticed Fitz slumping face-first onto the table out of the corner of my eye. It was probably a little embarrassing to be giving out advice like some wise old sage at his age, all things considered. But despite his lack of worldly experience, he always seemed to have something insightful to say. I was genuinely grateful to him.</p>
 <p>***</p>
@@ -93,7 +94,8 @@ nav_title = "Chapter 2"
 <p>That really wasn&#x27;t the worst-case scenario I had in mind, but okay.</p>
 <p>We found Elinalise all alone in an empty classroom.</p>
 <p>She was leaning over with her elbows resting on the windowsill, but for once there wasn&#x27;t someone naked standing right behind her. She was just looking out the window, evidently lost in thought.</p>
-<p>I knew what was on her mind, of course. She was waiting impatiently for the sun to finish setting. Once night fell, the bars out in town would open their doors. And inside those bars, she&#x27;d find lots of men ready and willing to have some fun. That was the only sort of thing she ever thought about. Still, from the perspective of someone who didn&#x27;t know any better, I guess she would have looked a lot like an angel.</p>
+<p>I knew what was on her mind, of course. She was waiting impatiently for the sun to finish setting. Once night fell, the bars out in town would open their doors. And inside those bars, she&#x27;d find lots of men ready and willing to have some fun. That was the only sort of thing she ever thought about. Still, from the perspective of</p>
+<p>someone who didn&#x27;t know any better, I guess she would have looked a lot like an angel.</p>
 <p>&quot;Oh. Hello there, Rudeus. Did you actually come to see me for once?&quot; Elinalise glanced over at me with an expression of mild surprise. To be sure, I hadn&#x27;t spoken to her very often since we enrolled at the University. Every once in a while, she&#x27;d come find me at lunchtime to see how I was doing, but that was about it. &quot;Hm? And who&#x27;s this nice young man with you?&quot;</p>
 <p>Cliff appeared from behind me, pressed one fist against his stomach, and brought his feet neatly together. Presumably this was some formal greeting from Millishion.</p>
 <p>&quot;Elinalise, this is Cliff Grimoire. He&#x27;s a special student in his second year here.&quot;</p>

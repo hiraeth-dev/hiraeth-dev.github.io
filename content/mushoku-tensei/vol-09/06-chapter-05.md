@@ -74,7 +74,8 @@ nav_title = "Chapter 5"
 <p>Just to try it out, I tried walking through a crowded hallway with Linia and Pursena following closely behind me. The mass of bodies parted magically in front of me.</p>
 <p>This was definitely a brand-new experience. I sort of felt like the director of a hospital doing his rounds, or maybe Moses parting the Red Sea. It was hard not to swagger. Out of the way, kids, this here&#x27;s my hallway…</p>
 <p>The moment this thought crossed my mind, though, I stopped in my tracks. What if the guys who&#x27;d bullied me in my previous life had started off this exact same way?</p>
-<p>That realization took all the fun out of it instantly. Whatever I&#x27;d accomplished so far in this life, the fact was that I&#x27;d spent my entire last one at the very bottom of the totem pole. That was never going to change, even if my condition did cure itself. And if I forgot about it, I&#x27;d probably end up repeating the exact same mistakes I&#x27;d made before. I had a more positive outlook on life now, sure, but I was still the same person deep down. I couldn&#x27;t let myself forget that.</p>
+<p>That realization took all the fun out of it instantly. Whatever I&#x27;d accomplished so far in this life, the fact was that I&#x27;d spent my entire</p>
+<p>last one at the very bottom of the totem pole. That was never going to change, even if my condition did cure itself. And if I forgot about it, I&#x27;d probably end up repeating the exact same mistakes I&#x27;d made before. I had a more positive outlook on life now, sure, but I was still the same person deep down. I couldn&#x27;t let myself forget that.</p>
 <p>This time around, I wasn&#x27;t going to end up a shut-in.</p>
 <p>***</p>
 <p>A little while after all this, I was in the library, pursuing my research as usual.</p>
@@ -88,7 +89,8 @@ nav_title = "Chapter 5"
 <p>&quot;Yeah. I found out about them from the principal and viceprincipal, actually,&quot; said Fitz with a slightly mischievous grin. &quot;Who do you think it is?&quot;</p>
 <p>Well, it probably wasn&#x27;t a professor. There were a handful of other students trying to learn Summoning as best they could, but surely none of them knew anything more than Advanced spells at best. What did that even leave us, then? &quot;…Someone from the Magicians&#x27; Guild, maybe?&quot; It wouldn&#x27;t be surprising if they had a few experts in the field somewhere. Maybe one of their researchers was borrowing some of the school&#x27;s facilities to conduct their experiments.</p>
 <p>&quot;Hmm, sort of. They are an A-ranked member of the Guild, supposedly.&quot;</p>
-<p>&quot;Wow…&quot; Based on what I&#x27;d learned about their structure, an Aranked member of the Magicians&#x27; Guild was the equivalent of a branch manager, while being S-ranked meant you were part of the central leadership group. Principal Georg was an S-ranked member, and the vice-principal was ranked B. &quot;Doesn&#x27;t that mean they&#x27;re pretty high up in the hierarchy?&quot;</p>
+<p>&quot;Wow…&quot; Based on what I&#x27;d learned about their structure, an Aranked member of the Magicians&#x27; Guild was the equivalent of a</p>
+<p>branch manager, while being S-ranked meant you were part of the central leadership group. Principal Georg was an S-ranked member, and the vice-principal was ranked B. &quot;Doesn&#x27;t that mean they&#x27;re pretty high up in the hierarchy?&quot;</p>
 <p>&quot;Yeah. That&#x27;s really something, don&#x27;t you think?&quot;</p>
 <p>Even B-ranked members were entitled to some very nice perks. You could start up a school for magicians anywhere you wanted, and the Guild would offer you financial and logistical support.</p>
 <p>&quot;So… who is it, then?&quot;</p>
@@ -189,7 +191,8 @@ nav_title = "Chapter 5"
 <p>Fifteen years had passed since that day, but she didn&#x27;t look any different at all. That was just bizarre. Wouldn&#x27;t she have changed at least a little in all that time?</p>
 <p>No… hold on. Why does she look anything like she used to? If she&#x27;d been reincarnated here, she should have been reborn into an entirely new body, just like me.</p>
 <p>Before I could ask her anything, though, she answered my questions pre-emptively. &quot;I don&#x27;t know how I was transported to this nightmare of a world, but I&#x27;m stuck here for now.&quot;</p>
-<p>If she&#x27;d been transported, our situations were actually rather different. I&#x27;d been reincarnated into a new body, with only my memories intact. But unless I was misunderstanding her, she&#x27;d basically been warped here just as she was—in the same body, at the same age.</p>
+<p>If she&#x27;d been transported, our situations were actually rather different. I&#x27;d been reincarnated into a new body, with only my memories intact. But unless I was misunderstanding her, she&#x27;d</p>
+<p>basically been warped here just as she was—in the same body, at the same age.</p>
 <p><em>&quot;My name is Nanahoshi Shizuka, and I&#x27;m Japanese. I&#x27;ve been using the name Silent Sevenstar lately, though.&quot;</em></p>
 <p>Confusion and doubt swirled through my mind, tangling in my thoughts until I couldn&#x27;t think of a single word to say. But my silence didn&#x27;t seem to discourage her. &quot;Where were you from, anyway? America? Or maybe Europe? You&#x27;re obviously Caucasian, but you speak Japanese… is one of your parents Japanese? Or maybe you&#x27;re a foreigner who lived there?&quot;</p>
 <p>I felt like she&#x27;d gone well past the three questions she asked for at this point, but I wasn&#x27;t in any shape to object. My tongue was thoroughly tied.</p>

@@ -31,7 +31,8 @@ nav_title = "Chapter 1"
 <p>&quot;Thus, we&#x27;re going to take the eastern route.&quot;</p>
 <p>&quot;As usual, you&#x27;re a coward,&quot; Eris complained.</p>
 <p>&quot;I&#x27;m just faint of heart.&quot;</p>
-<p>&quot;I think I could do it just fine.&quot; It seemed Eris wanted to see the Begaritt Continent. Her eyes were alight. However, the distance between the Central Continent and the Millis Continent was nothing compared to the distance between here and the Begaritt Continent. &quot;We&#x27;d be on a ship for a long time if we chose that route. Are you sure you&#x27;d be okay with that, Eris?&quot;</p>
+<p>&quot;I think I could do it just fine.&quot; It seemed Eris wanted to see the Begaritt Continent. Her eyes were alight. However, the distance</p>
+<p>between the Central Continent and the Millis Continent was nothing compared to the distance between here and the Begaritt Continent. &quot;We&#x27;d be on a ship for a long time if we chose that route. Are you sure you&#x27;d be okay with that, Eris?&quot;</p>
 <p>&quot;…We&#x27;re not going to Begaritt.&quot;</p>
 <p>And that was how we decided we were taking the eastern route.</p>
 <p>***</p>
@@ -128,7 +129,8 @@ nav_title = "Chapter 1"
 <p>But if that were the case, why help me acquire the demon eye or give me advice on how to save Aisha? I didn&#x27;t know. I didn&#x27;t know what he was thinking. Nor was I sure if I should say anything to Ruijerd.</p>
 <p>&quot;…&quot;</p>
 <p>I wanted to confide in someone, but I didn&#x27;t think it was right to put more on Ruijerd&#x27;s shoulders. Maybe telling him would even fulfill the Man-God&#x27;s unknown conditions, and the god would be able to talk directly to Ruijerd. Honestly, Ruijerd would probably be easily taken in by whatever the Man-God said to him. I wasn&#x27;t even entirely convinced he was telling me the truth, but at least my hostility made it difficult for him to deceive me. I wanted to believe that as long as I kept that up, nothing too terrible would happen.</p>
-<p>&quot;Mister Ruijerd, if you ever find yourself in a difficult situation and someone whispers honeyed words in your ear, don&#x27;t ever believe what they say. Deceitful people strategically target you when you&#x27;re the most vulnerable.&quot;</p>
+<p>&quot;Mister Ruijerd, if you ever find yourself in a difficult situation and someone whispers honeyed words in your ear, don&#x27;t ever</p>
+<p>believe what they say. Deceitful people strategically target you when you&#x27;re the most vulnerable.&quot;</p>
 <p>In the end, I didn&#x27;t tell him about the Man-God.</p>
 <p>&quot;I have no idea what you&#x27;re talking about, but I understand.&quot;</p>
 <p>I had mixed feelings, watching him look at me so earnestly and nod. Ruijerd trusted me, and yet I was hiding things from him. It was largely because I&#x27;d determined keeping them secret was the best course of action, but that didn&#x27;t alleviate the guilt.</p>

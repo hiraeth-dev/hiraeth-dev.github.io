@@ -15,7 +15,8 @@ nav_title = "Side Story"
 <p>I traded my pajamas for clothes that were easy to move about in; a light brown top and pants, made of soft material. Not the least bit sexy.</p>
 <p>Just as I was about to leave, I stopped. &quot;Oh, I can&#x27;t forget this.&quot;</p>
 <p>I donned a giant hat that completely covered my hair and ears, and stepped from the room.</p>
-<p>The room next to mine was a luxurious suite. It contained a canopied bed, tucked within which was the Princess with her beautiful golden hair. Her face looked angelic as she slept, and there was no indication she&#x27;d wake soon. It was still too early for that.</p>
+<p>The room next to mine was a luxurious suite. It contained a canopied bed, tucked within which was the Princess with her</p>
+<p>beautiful golden hair. Her face looked angelic as she slept, and there was no indication she&#x27;d wake soon. It was still too early for that.</p>
 <p>I crept in quietly, so I didn&#x27;t wake her, and went to the room beside hers. Seated there in a chair, looking a bit drowsy, was a young man. He wore an ordinary shirt, but his pants were made of leather and he had a sword hanging at his side. His hair was white, and a large pair of sunglasses hid his face. He was petite enough to almost resemble a woman, but something about his body was clearly masculine.</p>
 <p>On the table beside him was a bell. If he rang it, the linked bell in the neighboring room would also ring. A signal for the two waiting nearby—the Princess&#x27;s Knight and the Princess&#x27;s Attendant—to come flying this way.</p>
 <p>&quot;Good morning, Fitz.&quot;</p>
@@ -25,14 +26,16 @@ nav_title = "Side Story"
 <p>&quot;You&#x27;re going running again today?&quot;</p>
 <p>&quot;Yeah. It&#x27;s important to be consistent with exercise.&quot;</p>
 <p>&quot;Alright. Have fun.&quot;</p>
-<p>I left, slipping into the deathly-still hallway, which was currently blanketed in a kind of quiet that was characteristic of the morning hours. I loved this kind of quiet. This place was always bustling and noisy, but during this particular time, it was still. It was silent at night too, but that felt eerie, like something was lurking out of sight.</p>
+<p>I left, slipping into the deathly-still hallway, which was currently blanketed in a kind of quiet that was characteristic of the morning hours. I loved this kind of quiet. This place was always bustling and</p>
+<p>noisy, but during this particular time, it was still. It was silent at night too, but that felt eerie, like something was lurking out of sight.</p>
 <p>I moved stealthily down the hall so as not to wake anyone else, creeping down the central staircase to the first floor and slipping right out the front. A few steps into the faint darkness, I turned back. An enormous building with a red roof filled my horizon. The Ranoa University of Magic&#x27;s student dormitory.</p>
 <p>***</p>
 <p>My daily morning routine was a jog. It was something I&#x27;d been doing ever since Rudy and I were separated. Running was important. I hadn&#x27;t understood that immediately after Rudy left, but I did now. Being able to continue running when you were at your limit, convinced you couldn&#x27;t go any further, became the difference between life and death. No matter how good you were at magic or swordplay, in the end, the most important thing was stamina.</p>
 <p>That aside, I also loved running. There were only two things I could hear during an early morning jog—the sound of my feet and the sound of my breathing. Those two things banished my thoughts and cleared my mind. I was at my sharpest when I was running.</p>
 <p>&quot;Huff… huff…&quot;</p>
 <p>One of my goals for the start of each day was to keep running in the Magic City of Sharia until I couldn&#x27;t run anymore. By doing that, I wouldn&#x27;t just become familiar with the city&#x27;s layout, but also learned my physical limits. No-one had taught me this, but it was something I thought Rudy might do if he were in my position.</p>
-<p>I ran through the Workshop District. It bustled with commerce and with people noisily unloading their goods, but this part of it was quiet. Although…when I looked in the direction where I sensed people moving, it seemed the craftsmen had already begun their work. In which case, perhaps, they&#x27;d actually going to be going to bed right after this.</p>
+<p>I ran through the Workshop District. It bustled with commerce and with people noisily unloading their goods, but this part of it was quiet. Although…when I looked in the direction where I sensed</p>
+<p>people moving, it seemed the craftsmen had already begun their work. In which case, perhaps, they&#x27;d actually going to be going to bed right after this.</p>
 <p>I ran by a corner shop with a strange name, and decided to turn down an unfamiliar narrow back alley. The layout of the Magic City of Sharia wasn&#x27;t particularly complex, but it was honeycombed with many small alleys I wasn&#x27;t familiar with. I intended to memorize all of them. Rudy would no doubt do the same in my place.</p>
 <p>&quot;Ah, so this is where it leads?&quot;</p>
 <p>The alley opened onto a street I knew. It led from an area in the Workshop District full of artisans&#x27; workshops and dwellings, to a part of the Commerce District where stores were lined up side-by-side, separated by the large, winding main road. I hadn&#x27;t realized there was a smaller street connecting them. It was likely a path the artisans used daily. Now that I knew it, I could take a slight shortcut from the school to the Commerce District when I went shopping.</p>
@@ -59,7 +62,8 @@ nav_title = "Side Story"
 <p>Meanwhile, my chest was flat even for someone with elf blood. Depressingly flat. Flat enough that I didn&#x27;t even need a brassier.</p>
 <p>&quot;I wish they&#x27;d get even a little bit bigger…&quot;</p>
 <p>The elf blood ran thick in my veins. Rudy had introduced me to the concept of a genetic throwback, but really, couldn&#x27;t I have had one well-endowed ancestor? My originally green hair meant there was demon blood in my family line, and my mother was halfbeastfolk, so she&#x27;d been blessed in the chest department.</p>
-<p>To be perfectly honest, I wanted them to get a little bigger. Even just a little. My unfeminine body hadn&#x27;t bothered me in the past, but it might make a difference to my future. It would be devastating to meet someone I liked and be mistaken for a man.</p>
+<p>To be perfectly honest, I wanted them to get a little bigger. Even just a little. My unfeminine body hadn&#x27;t bothered me in the past, but</p>
+<p>it might make a difference to my future. It would be devastating to meet someone I liked and be mistaken for a man.</p>
 <p>&quot;Hmm,&quot; I sighed as I wiped my body down and got dressed. I was wearing a brassiere, of course. I didn&#x27;t think it was necessary, but the Princess had ordered me to wear one.</p>
 <p>I dumped the dirty water in a bucket in the corner of the room; I&#x27;d use it to do the laundry later. &quot;Alright, let&#x27;s give it our all again, today.&quot;</p>
 <p>I slapped my cheeks before stepping out of the room.</p>
@@ -98,7 +102,8 @@ nav_title = "Side Story"
 <p>&quot;There&#x27;s no purpose in wearing fancy clothes when that&#x27;s exactly what we&#x27;re going to buy.&quot;</p>
 <p>Normally the Princess and her Attendant dressed to the nines, but for some reason they were indifferent about their outfits when they went shopping. Meanwhile, just walking into the Princess&#x27;s favorite shop made me incredibly self-conscious about how we looked to those around us.</p>
 <p>&quot;Come on, please hurry.&quot;</p>
-<p>A handful of us accompanied her as we left the university and walked down the main road. It drew the attention of those around when the Princess, her Knight, and her Attendant all moved as a group. The Princess was beautiful, the Knight was dashing, and the Attendant was striking.</p>
+<p>A handful of us accompanied her as we left the university and walked down the main road. It drew the attention of those around</p>
+<p>when the Princess, her Knight, and her Attendant all moved as a group. The Princess was beautiful, the Knight was dashing, and the Attendant was striking.</p>
 <p>I followed behind, but could tell that everyone&#x27;s gazes were glued to the Princess. She&#x27;d become infamous in this town. Just as she&#x27;d planned. It made me kind of happy to think about how I&#x27;d helped that happen.</p>
 <p>&quot;Oh.&quot; I suddenly remembered my jogging path that morning. &quot;If we&#x27;re going to the clothing store, I found a good route for us to take. It should be a shortcut.&quot;</p>
 <p>&quot;Truly? Well then, please escort us.&quot;</p>
@@ -124,7 +129,8 @@ nav_title = "Side Story"
 <p>&quot;Hmm…&quot;</p>
 <p>Earlier, at the store, the Princess had gone straight to the underwear section. Then, after an intense discussion with the Attendant, they bought me underwear. That&#x27;s right. Me.</p>
 <p>&quot;You need to have some sexier underwear, Sylphie, in order for you to feel confident and take charge when the right time comes,&quot; she told me. Perhaps she&#x27;d heard me mumbling to myself that morning. Still, what the heck did she mean by &quot;when the right time comes&quot;?</p>
-<p>They&#x27;d forced me to try the items on in the store. It might sound arrogant to say as much, but I thought the underwear, with its pale green fabric and lace flowers, suited me really well. My body was still so thin I could be mistaken for a boy, so you couldn&#x27;t quite say I looked sexy in them, but… maybe if Rudy saw he&#x27;d at least think I look cute.</p>
+<p>They&#x27;d forced me to try the items on in the store. It might sound arrogant to say as much, but I thought the underwear, with its pale green fabric and lace flowers, suited me really well. My body was still so thin I could be mistaken for a boy, so you couldn&#x27;t quite say I</p>
+<p>looked sexy in them, but… maybe if Rudy saw he&#x27;d at least think I look cute.</p>
 <p>&quot;Rudy, huh?&quot;</p>
 <p>Suddenly, I remembered what I&#x27;d been thinking about during class that afternoon. The thing I wanted to do.</p>
 <p>Perhaps what I wanted was to get along with Rudy. It was thanks to him that my life was like this right now. I wanted to make friends with him and return the favor—no, that wasn&#x27;t quite right. It wasn&#x27;t just about that. These feelings surely didn&#x27;t come purely from gratitude. Most likely I… yes, I guess I really did…</p>

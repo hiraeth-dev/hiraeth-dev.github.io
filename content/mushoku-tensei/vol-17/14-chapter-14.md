@@ -117,7 +117,8 @@ nav_title = "Chapter 14"
 <p>&quot;Ever since that, I made sure to keep my belly button nice and clean. You must be disappointed to see it ruined like this, right?&quot;</p>
 <p>&quot;It&#x27;s not ruined, Roxy.&quot;</p>
 <p>This time, I got my response off immediately. It wasn&#x27;t like I had a fetish for innie belly buttons or anything. As long as it was part of Roxy, I&#x27;d lavish it with love no matter what. Even if she could fire missiles from it.</p>
-<p>Oh, wait. Now I remembered. I&#x27;d licked her belly button on a whim during one of our baby-making sessions, and she got all embarrassed. It was fun seeing her squirm, so I started barraging her with belly button compliments…</p>
+<p>Oh, wait. Now I remembered. I&#x27;d licked her belly button on a whim during one of our baby-making sessions, and she got all</p>
+<p>embarrassed. It was fun seeing her squirm, so I started barraging her with belly button compliments…</p>
 <p>&quot;I&#x27;m not falling for this. You&#x27;re all talk, Rudy.&quot;</p>
 <p><em>Wow. She really doesn&#x27;t want to believe me, huh?</em></p>
 <p>&quot;You want to convince me? Then prove you&#x27;re being honest!&quot;</p>

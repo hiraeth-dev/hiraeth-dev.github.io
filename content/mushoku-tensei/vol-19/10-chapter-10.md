@@ -61,7 +61,8 @@ nav_title = "Chapter 10"
 <p>&quot;My, my,&quot; he said. &quot;You saw through that quite quickly… It seems your reputation was well-earned.&quot;</p>
 <p>The Death God held out his hand, fingers spread wide. A Stone of Absorption was embedded in the palm of his leather gauntlet. I hadn&#x27;t noticed it before, but he must have used it to drain the mana from my spells. Orsted never mentioned anything about him having one of these…</p>
 <p>Could that be one of the stones we&#x27;d brought back from that labyrinth in Begaritt? It wouldn&#x27;t be surprising for an elite knight of the King Dragon Realm to collect items of that kind…and that was the sort of thing Orsted might not even know about.</p>
-<p>Well, whatever. I got a little cocky there at first, but I never expected to beat one of the Seven Great Powers easily. It would be tough to beat someone capable of totally canceling out my magic, but I knew exactly how those absorption stones worked. You had to extend your hand in the direction of the incoming spell and feed the stone a bit of mana. I just had to make that impossible.</p>
+<p>Well, whatever. I got a little cocky there at first, but I never expected to beat one of the Seven Great Powers easily. It would be tough to beat someone capable of totally canceling out my magic, but I knew exactly how those absorption stones worked. You had to extend your hand in the direction of the incoming spell and feed the stone a bit of mana. I just had to make that</p>
+<p>impossible.</p>
 <p>Getting behind him seemed like the way to go. This landing didn&#x27;t give us a lot of room to maneuver, but with the three of us working together, there had to be some way to get it done. From the looks of things, he only had one of those stones on him. Maybe if Roxy and I cast spells at him simultaneously from in front and behind, while Zanoba charged in to attack…</p>
 <p>Well, I knew it wasn&#x27;t going to be that simple. But if it didn&#x27;t work out, we could try something else. Trial and error was our only real option here. He&#x27;d have to go down eventually, right?</p>
 <p>&quot;Roxy, I need you to slip behind Zanoba, please.&quot;</p>
@@ -131,7 +132,8 @@ nav_title = "Chapter 10"
 <p>He&#x27;d claimed we were putting up a &quot;respectable fight.&quot; What a joke. It felt like he was taking it easy on us. The man had nullified my entire barrage of Stone Cannon spells; he could have canceled out all our magic from the very start. But instead, he&#x27;d let us cast at him and teased me into carelessness. He could very well have other tricks up his sleeve as nasty as the first one.</p>
 <p>What had Orsted told me again? When you want to defend, attack instead…when you want to attack, defend? Could that mean my current hesitation was exactly what the Death God wanted?</p>
 <p>I couldn&#x27;t tell. I had no idea how to proceed. He had me secondguessing every single thought. Roxy&#x27;s necklace was gone. So was Zanoba&#x27;s armor. We had no idea what kind of tricks our enemy was capable of, and even the Version Two might not protect me from even one attack.</p>
-<p>This wasn&#x27;t going to work. It just wasn&#x27;t. We needed to back off, at least for now.</p>
+<p>This wasn&#x27;t going to work. It just wasn&#x27;t. We needed to back off, at</p>
+<p>least for now.</p>
 <p>But what about Zanoba?</p>
 <p>I had to talk him down. If that didn&#x27;t work, I&#x27;d have to knock him senseless from behind. Then we could fall back to the Version One and regroup for another try.</p>
 <p>&quot;You understand now, Zanoba? This is hopeless. If you keep charging straight at him, you&#x27;re going to die.&quot;</p>
@@ -197,7 +199,8 @@ nav_title = "Chapter 10"
 <p>&quot;I&#x27;m well aware, Your Majesty. And I understand how difficult these decisions were for you.&quot;</p>
 <p>Zanoba&#x27;s reply sounded calm and reasonable to me. But for some reason, it seemed to infuriate his brother. Clenching both hands tightly into fists, Pax glared at him with bitter fury in his eyes.</p>
 <p>&quot;You don&#x27;t understand a thing! No one understands me, and no one cares to try. Just look, you fool. The proof is right before your eyes!&quot;</p>
-<p>With a wide sweep of his arm, the king gestured at the world beyond his balcony. The city far below us lay silent in the night, despite the ring of rebel bonfires burning all around the palace. You could barely make out the huge crowd massed around the city&#x27;s walls; their campfires and tents were visible even from here. At this distance, it really did look like Latakia was surrounded by a massive army.</p>
+<p>With a wide sweep of his arm, the king gestured at the world beyond his balcony. The city far below us lay silent in the night, despite the ring of</p>
+<p>rebel bonfires burning all around the palace. You could barely make out the huge crowd massed around the city&#x27;s walls; their campfires and tents were visible even from here. At this distance, it really did look like Latakia was surrounded by a massive army.</p>
 <p>&quot;A horde of soldiers, my own troops, and yet they make no move to crush these rebels!&quot;</p>
 <p>&quot;You&#x27;re mistaken, Your Majesty. The large majority of that crowd consists of ordinary citizens, not soldiers. Many among them are simply merchants or adventurers of unclear origin.&quot;</p>
 <p>&quot;What difference does that make?!&quot; shouted Pax bitterly, slamming his fist against the railing. &quot;It&#x27;s still proof that everyone in this kingdom has rejected me!&quot;</p>

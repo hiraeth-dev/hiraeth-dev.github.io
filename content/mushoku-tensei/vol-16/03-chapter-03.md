@@ -18,7 +18,8 @@ nav_title = "Chapter 3"
 <p><em>Come to think of it, Linia and Pursena seemed to have the same ability.</em></p>
 <p>Despite acting as the perfect servant with Roxy, Leo and Eris weren&#x27;t the most compatible. Or rather, Leo seemed put off by Eris. She, on the other hand, absolutely adored animals. She loved nothing more than burying her face in their soft fur and giving them a squeeze. Perhaps she had cornered him and done just that without me knowing. The Mad Sword King&#x27;s power was no joke. I had experienced it myself. When she embraced someone with all her strength, it was like being crushed to death by a bear. Your life flashed before your eyes.</p>
 <p>I didn&#x27;t mind her hugging me like that, but I could understand why Leo might keep a wide berth. He only approached her when it was time to go for a walk, whereupon the two of them would check the house&#x27;s perimeter before setting off.</p>
-<p>I had a feeling this had to do with her stamina. A walk for him wasn&#x27;t a stroll around the block; I suspected he was circling the entire city on his little outings. To accomplish that so quickly required impressive speed, and the only person in our household who could match such a pace was Eris. Sylphie might be able to keep up if she tried, but just barely. In any case, Leo typically chose Eris as his partner when going for walks. Maybe he considered her a fellow security guard.</p>
+<p>I had a feeling this had to do with her stamina. A walk for him wasn&#x27;t a stroll around the block; I suspected he was circling the entire city on his little outings. To accomplish that so quickly required impressive speed, and the only person in our household who could match such a pace was Eris. Sylphie might be able to keep up if she tried, but just barely. In any case, Leo typically chose Eris as his</p>
+<p>partner when going for walks. Maybe he considered her a fellow security guard.</p>
 <p>Incidentally, Leo&#x27;s territory encompassed a two-kilometer radius around our house. He wouldn&#x27;t let so much as a stray cat into his territory. From the look of things, he was making good on his mission to protect our family. This whole Guardian Beast business had given me more peace of mind than I expected.</p>
 <p><em>A dog was definitely a good pick.</em></p>
 <p>The only issue was that said dog also happened to be the protector god of the beastfolk tribe. When Ghislaine came over to check in on Eris, she was gobsmacked to find Leo here.</p>
@@ -182,5 +183,6 @@ nav_title = "Chapter 3"
 <p>&quot;All right. Well, I&#x27;ll be heading back in a few, so take care of the princess for me until then.&quot;</p>
 <p>&quot;Will do.&quot; Luke smiled forlornly as he left. Sylphie and I followed him to the gate and saw him off. His receding figure reminded me of a lonely salaryman, completely exhausted as he made his way home from work.</p>
 <p>&quot;What&#x27;s going on with him?&quot; Sylphie wondered.</p>
-<p>I didn&#x27;t respond, but I couldn&#x27;t help feeling like something had been set into motion. No matter how I decided to act on this, I couldn&#x27;t do a half-assed job. With that in mind, it was time to report to Orsted.</p>
+<p>I didn&#x27;t respond, but I couldn&#x27;t help feeling like something had been set into motion. No matter how I decided to act on this, I</p>
+<p>couldn&#x27;t do a half-assed job. With that in mind, it was time to report to Orsted.</p>
 <p><strong>Chapter 4: Mind Made Up</strong></p>

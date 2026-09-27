@@ -91,7 +91,8 @@ nav_title = "Chapter 5"
 <p>&quot;Ah, right…sorry. That was a dumb thing to say…&quot;</p>
 <p>For an instant, I found myself wondering how I would have felt if Lucie had been stillborn. Just the thought of it was horrible enough.</p>
 <p>&quot;It&#x27;s fine! We&#x27;ll just try again.&quot;</p>
-<p>Suzanne seemed almost nonchalant about it, though. Was losing a baby really something you could shrug off like that? At the very least, I knew I would have taken it hard. It wasn&#x27;t easy for Sylphie to get pregnant, so there was no telling how long it would take for us to get another shot.</p>
+<p>Suzanne seemed almost nonchalant about it, though. Was losing a baby really something you could shrug off like that? At the very</p>
+<p>least, I knew I would have taken it hard. It wasn&#x27;t easy for Sylphie to get pregnant, so there was no telling how long it would take for us to get another shot.</p>
 <p>And more importantly, Sylphie would have been devastated. It was easy to picture her crying her eyes out and apologizing to me for losing our child.</p>
 <p>Gah. Just thinking about this was making my stomach hurt.</p>
 <p>There wasn&#x27;t any point in dwelling on it, right? Lucie had come out fine, and Sylphie was okay too. Enough time had passed that I felt relatively confident it wasn&#x27;t just a dream.</p>
@@ -167,7 +168,8 @@ nav_title = "Chapter 5"
 <p>It would take more focused experiments to be sure what this meant, but I did have a working hypothesis. Basically, I suspected that the stone was converting the mana I fed it into waves that could instantly disintegrate anything else made of mana. The results were similar to the spell Disturb Magic, but I felt like these stones were even more thorough at obliterating the spells they interacted with.</p>
 <p>There were still many things this theory alone couldn&#x27;t explain, of course. For example, figurines I&#x27;d created with magic were completely unaffected by the stones, even at point-blank range.</p>
 <p>Earthen figurines were immune to the waves, but the projectile from my Stone Cannon wasn&#x27;t. I had no idea why that would be the case. Maybe the mana in the figurines had stabilized over time, making them immune to disruption? Hmm.</p>
-<p>There wasn&#x27;t much point going down these rabbit holes, though. I didn&#x27;t even have a good grasp of what &quot;mana&quot; really was. Rather than groping around for a comprehensive explanation, I wanted to focus on how I could use these things. And how I could counteract them in the future.</p>
+<p>There wasn&#x27;t much point going down these rabbit holes, though. I didn&#x27;t even have a good grasp of what &quot;mana&quot; really was. Rather than groping around for a comprehensive explanation, I wanted to</p>
+<p>focus on how I could use these things. And how I could counteract them in the future.</p>
 <p>With that thought in mind, I&#x27;d carried out another experiment.</p>
 <p>I had the feeling that I could use these stones to destroy some things Disturb Magic couldn&#x27;t. Magic circles, for example.</p>
 <p>Cliff had helped me out with this experiment. As I&#x27;d hoped, I managed to destroy both a Barrier spell and the magic circle he&#x27;d used to cast it. The design on his original scroll was unaffected, but as long as the spell was in active use, the stones of absorption could erase the circle itself.</p>

@@ -62,7 +62,8 @@ nav_title = "Chapter 11"
 <p>&quot;Even I don&#x27;t think I can stand against the elite of the Seven Great Powers. Those people are monsters beyond comprehension. It was bad luck that we ran into someone like that on the road. It can only be considered good luck that we managed to survive.&quot; The words made it sound like he was making excuses, but it also felt like there was a tinge of self-reproach in Ruijerd&#x27;s tone. Perhaps he acknowledged that there was nothing he could do, but saw that as a separate matter from him being unable to fulfill his duty.</p>
 <p>&quot;Rudeus,&quot; he continued. &quot;If we ever meet someone like that again, you absolutely must not pick a fight with them. Don&#x27;t even meet their eyes. If you don&#x27;t want things to happen again like they did this time, that is.&quot;</p>
 <p>&quot;Y-yeah. Well, next time I&#x27;ll probably just avert my eyes and move on.&quot;</p>
-<p>He was angry with me. Well, if I hadn&#x27;t called out to Orsted we probably would&#x27;ve just passed each other by. I would admit to that mistake. Although he didn&#x27;t look that dangerous at first. No…after Ruijerd and Eris reacted the way they did toward him, I should have been more cautious.</p>
+<p>He was angry with me. Well, if I hadn&#x27;t called out to Orsted we probably would&#x27;ve just passed each other by. I would admit to that</p>
+<p>mistake. Although he didn&#x27;t look that dangerous at first. No…after Ruijerd and Eris reacted the way they did toward him, I should have been more cautious.</p>
 <p>&quot;So then, what&#x27;s bothering you?&quot; I asked.</p>
 <p>Ruijerd cast a sharp glare at me. &quot;Who is the &#x27;Man-God&#x27;?&quot;</p>
 <p>Oh. So that&#x27;s what this was about.</p>
@@ -146,7 +147,8 @@ nav_title = "Chapter 11"
 <p>&quot;I don&#x27;t know. For now, I intend to look for any remnants of the Superd tribe on the Central Continent. Restoring honor to my tribe is just a dream within a dream if I&#x27;m all by myself.&quot;</p>
 <p>&quot;All right then. Good luck. If I have any free time, I&#x27;ll see if I can do something to help out, too.&quot;</p>
 <p>&quot;…Heh. And if I have any free time, I&#x27;ll see about looking for your mother,&quot; Ruijerd said as he turned away. He didn&#x27;t need to prepare for his journey. He could make his way even if he set out with just the clothes on his back.</p>
-<p>Yet he suddenly stopped and turned back. &quot;That reminds me, I need to return this.&quot; Ruijerd removed the pendant that was hanging from around his neck. It was the Migurd tribe pendant I&#x27;d received from Roxy. It was the only item that tied Roxy and me together…at least, it had been.</p>
+<p>Yet he suddenly stopped and turned back. &quot;That reminds me, I need to return this.&quot; Ruijerd removed the pendant that was hanging from around his neck. It was the Migurd tribe pendant I&#x27;d received</p>
+<p>from Roxy. It was the only item that tied Roxy and me together…at least, it had been.</p>
 <p>&quot;Please keep that with you,&quot; I told him.</p>
 <p>&quot;Are you sure? Isn&#x27;t it important to you?&quot;</p>
 <p>&quot;That&#x27;s exactly why I want you to keep it.&quot;</p>

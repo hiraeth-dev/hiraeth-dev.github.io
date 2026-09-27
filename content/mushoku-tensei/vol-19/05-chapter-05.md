@@ -131,7 +131,8 @@ nav_title = "Chapter 5"
 <p>No major roads lead to Fort Karon. Most of our journey was spent bumping along narrow dirt trails through long stretches of farmland. We passed some small villages on the way, but nothing you could really call a town. Some nights we even had to sleep out in the open.</p>
 <p>I spent most of my time on the first stretch of the trip speculating about the Man-God&#x27;s plans. But at some point, it suddenly sunk in that we were heading off to war. The thought instantly made me queasy with anxiety.</p>
 <p>War. Even just repeating the word in my mind made my muscles tense up. I&#x27;d grown fairly used to killing in the years since my arrival in this world, but the concept of war frightened me in a way I found difficult to describe. It wasn&#x27;t the thought of us killing our enemies, or them killing us, that scared me so much—it was war as a whole, as a phenomenon. I guess I&#x27;d always felt this way, but the fear felt a hundred times more real now that I was heading into battle.</p>
-<p>Could we even win this fight? Zanoba&#x27;s arguments had convinced me that we wouldn&#x27;t be completely outmatched, but the fact remained that this would be my first time on the battlefield.</p>
+<p>Could we even win this fight? Zanoba&#x27;s arguments had convinced me that we wouldn&#x27;t be completely outmatched, but the fact remained that this</p>
+<p>would be my first time on the battlefield.</p>
 <p>&quot;Look over there, Master Rudeus! It&#x27;s a band of adventurers, if I&#x27;m not mistaken. I wonder what they&#x27;re doing out here in the middle of nowhere with all that gear?&quot;</p>
 <p>In contrast to my growing anxiety, Zanoba seemed to be enjoying himself greatly. Any time he spotted something along the road, he would loudly point it out to me with a big grin on his face. The man was so damn chipper, you would think we were on our way to an amusement park or something.</p>
 <p>&quot;It looks like a party on their way to explore a labyrinth. There are quite a few in this region, but not all of them are located near a town. Parties with a serious interest in reaching the bottom floors will often head out to the more remote, less crowded options.&quot;</p>
@@ -215,7 +216,8 @@ nav_title = "Chapter 5"
 <p>&quot;I knew it! That&#x27;s the one who used to be a court mage…&quot;</p>
 <p>&quot;Didn&#x27;t she reach the King tier?&quot;</p>
 <p>&quot;She developed all the theory behind our drills, right?&quot;</p>
-<p>Grinning from ear to ear, Zanoba launched into a more detailed introduction. &quot;This woman is Roxy Migurdia, a former court magician of our own kingdom. I imagine many of you recognize her name, as it was she who essentially created our current anti-magic training program. She is accompanied by her star disciple, Rudeus Greyrat. Both have reached the King tier in their art!&quot;</p>
+<p>Grinning from ear to ear, Zanoba launched into a more detailed introduction. &quot;This woman is Roxy Migurdia, a former court magician of our own kingdom. I imagine many of you recognize her name, as it was she who</p>
+<p>essentially created our current anti-magic training program. She is accompanied by her star disciple, Rudeus Greyrat. Both have reached the King tier in their art!&quot;</p>
 <p>Sounds of surprise and admiration rippled through the crowd.</p>
 <p>A bit belatedly, I realized what was going on here. Roxy had been a prominent figure in Shirone for some time, as a mage employed directly by the royal family. Some of the older soldiers must have recognized her from back then.</p>
 <p>That said, I wasn&#x27;t too pleased about the way Zanoba had called her Roxy Migurdia. She was Roxy M. Greyrat these days, thank you very much. Okay, he&#x27;d probably just used the name they would recognize, but still!</p>

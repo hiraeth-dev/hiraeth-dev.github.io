@@ -37,7 +37,8 @@ nav_title = "Chapter 7"
 <p>&quot;Bwahaha! I don&#x27;t get sick or injured!&quot;</p>
 <p>And so, both Zanoba and Badigadi took their leave. Huh. I&#x27;d thought for sure they would be the last ones to leave.</p>
 <p>The reception drew to a close as Ariel and her group prepared to depart. While they were doing that, I decided to check on Elinalise. I went up to the second floor and peeked into the guest room.</p>
-<p>I was greeted by an exciting display—no no, not the sexual kind. Just Elinalise using Cliff&#x27;s lap as a pillow. Apparently, he was done comforting her, and they&#x27;d moved on to the lovey-dovey bits. I felt kind of envious. I&#x27;d have to do the same with Sylphie later.</p>
+<p>I was greeted by an exciting display—no no, not the sexual kind. Just Elinalise using Cliff&#x27;s lap as a pillow. Apparently, he was done</p>
+<p>comforting her, and they&#x27;d moved on to the lovey-dovey bits. I felt kind of envious. I&#x27;d have to do the same with Sylphie later.</p>
 <p>&quot;Um, Mister Cliff, I&#x27;d like to talk to grandmo—I mean, Miss Elinalise. Do you mind?&quot; Sylphie asked timidly as she crept up behind me.</p>
 <p>Cliff looked to me as if he were asking for help. Elinalise lifted herself up and nodded at me. I nodded back. At that, Cliff stood up and left the room.</p>
 <p>&quot;Thanks, Rudy.&quot; Sylphie smiled softly before heading inside.</p>
@@ -75,7 +76,8 @@ nav_title = "Chapter 7"
 <p>&quot;Luke is prepared for that possibility.&quot;</p>
 <p>Well, I wasn&#x27;t. I was newly married and I didn&#x27;t want to kill or be killed.</p>
 <p>&quot;Please,&quot; Ariel said. Her voice was somber.</p>
-<p>What was this match going to prove? Maybe it was some kind of Asura Kingdom tradition. I could easily picture old man Sauros saying, &quot;If you want to take Eris as your wife, you must defeat me first!&quot;</p>
+<p>What was this match going to prove? Maybe it was some kind of Asura Kingdom tradition. I could easily picture old man Sauros</p>
+<p>saying, &quot;If you want to take Eris as your wife, you must defeat me first!&quot;</p>
 <p>But Sauros was dead.</p>
 <p>&quot;Rudeus. Please accept. If you&#x27;re a man, then you should understand,&quot; Luke said.</p>
 <p>There it was—the &quot;if you&#x27;re a man&quot; line. An unfair remark. It was almost like he was saying I wasn&#x27;t a man because I didn&#x27;t understand.</p>
@@ -152,7 +154,8 @@ nav_title = "Chapter 7"
 <p>&quot;Well, enough about me,&quot; I said. &quot;Are you done talking?&quot;</p>
 <p>&quot;Yeah.&quot; Sylphie nodded cheerfully.</p>
 <p>***</p>
-<p>So Elinalise was Sylphie&#x27;s grandmother, after all. Laws&#x27; mother, in other words. Elinalise had birthed half-elf children all over the world and, due to the curse and her own personality, trouble followed her everywhere. Her conflict-resolution abilities were something she&#x27;d only mastered in recent decades; prior to that, she&#x27;d often left storms and scandals in her wake, some of which still haunted her.</p>
+<p>So Elinalise was Sylphie&#x27;s grandmother, after all. Laws&#x27; mother, in other words. Elinalise had birthed half-elf children all over the</p>
+<p>world and, due to the curse and her own personality, trouble followed her everywhere. Her conflict-resolution abilities were something she&#x27;d only mastered in recent decades; prior to that, she&#x27;d often left storms and scandals in her wake, some of which still haunted her.</p>
 <p>Her reputation was particularly bad among other elves, who routinely ostracized her children just for the crime of being related to her. Many of her children and grandchildren disparaged her, trying to distance themselves from her. Elinalise stopped revealing her true name to any children she went on to have. She would raise them to adulthood, then cut ties with them. That was how she&#x27;d been living, until now.</p>
 <p>Elinalise had known with just one look that Sylphie was either her grandchild or great-grandchild. She hadn&#x27;t intended to reveal as much to her, but when she saw Sylphie looking so happy about her marriage, she was overwhelmed with emotion. It was an emotional story. I got teary-eyed myself during the recounting of it. But Elinalise refused all attempts to comfort her, claiming this was the result of her own actions.</p>
 <p>Once that conversation was over, Cliff called me to the corner of the room. &quot;Rudeus?&quot; he said.</p>

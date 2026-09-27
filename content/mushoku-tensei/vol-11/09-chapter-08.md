@@ -245,7 +245,8 @@ nav_title = "Chapter 8"
 <p>&quot;I&#x27;m sorry, Rudeus! I can&#x27;t go after all!&quot;</p>
 <p>Elinalise was lounging around wearing nothing but a blanket. And she&#x27;d apparently lost her nerve completely.</p>
 <p>Her slim, elegant limbs and tastefully draped bosom definitely had a certain classical appeal, but I felt no urge to display her in a museum. I&#x27;d never been a big art appreciation guy in the first place. It did occur to me that she&#x27;d make a pretty sexy figurine, though.</p>
-<p>Cliff was sitting slumped in a corner of the room, looking a bit like an Egyptian mummy. There was a big smile on his face, but he was obviously passed out. He actually looked more like a masterpiece than his girlfriend. What would you title a statue like this? Blissful Demise?</p>
+<p>Cliff was sitting slumped in a corner of the room, looking a bit like an Egyptian mummy. There was a big smile on his face, but he was obviously passed out. He actually looked more like a</p>
+<p>masterpiece than his girlfriend. What would you title a statue like this? Blissful Demise?</p>
 <p>&quot;I can&#x27;t bear to be parted from Cliff for two whole years!&quot; yelped Elinalise. &quot;I know it&#x27;s horrible of me, but I simply won&#x27;t do it!&quot;</p>
 <p><em>Hmm. Well. People do say women are more guided by their emotions, don&#x27;t they?</em></p>
 <p>&quot;I mean, if you&#x27;re going, then there&#x27;s hardly any need for me to tag along too,&quot; she babbled. &quot;Your father and I aren&#x27;t even on good terms. He probably wouldn&#x27;t want to see my face! Shouldn&#x27;t I stick around to protect my pregnant granddaughter, in any case?&quot;</p>

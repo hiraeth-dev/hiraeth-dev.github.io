@@ -14,7 +14,8 @@ nav_title = "Chapter 12"
 <p>Demotion was also a possibility for those who messed up repeatedly. Failing five consecutive jobs with a rank lower than your own or ten consecutive jobs at your present rank would knock you down a peg. You couldn&#x27;t be demoted by failing tasks at a higher rank than your own, but after five in a row you&#x27;d lose the privilege to accept them.</p>
 <p>Jalil and Vizquel had been working diligently to knock out F- and E-rank jobs for us every single day, so we&#x27;d managed to get this far in no time at all. Now that we were D-ranked, we finally had access to more profitable C-rank tasks. Those were easy pickings for our party, so we&#x27;d probably pull ourselves up to rank C soon enough.</p>
 <p>This might be the right time to cut off our arrangement with Jalil and Vizquel. They didn&#x27;t seem to be abducting pets any more, but I wasn&#x27;t entirely sure what problems the whole job-swapping thing might cause in the long run. We&#x27;d saved up a decent amount of cash at this point, so we had the option of saying our goodbyes to our &quot;business partners&quot; and leaving Rikarisu behind for good.</p>
-<p>After a bit of thought, however, I decided to keep milking them until we made it up to rank C. There didn&#x27;t seem to be any issues at the moment, and it was hard to turn my back on such a low-stress money-making system. It wouldn&#x27;t hurt to have more money in our wallet before we left.</p>
+<p>After a bit of thought, however, I decided to keep milking them until we made it up to rank C. There didn&#x27;t seem to be any issues at the moment, and it was hard to turn my back on such a low-stress</p>
+<p>money-making system. It wouldn&#x27;t hurt to have more money in our wallet before we left.</p>
 <p>At present, our savings amounted to one green ore coin, six iron coins, fourteen scrap iron coins, and thirty-five stone coins…or 1,875 stone coins in total. So…1,875 yen basically. Our entire assets amounted to less than the value of two Asuran large copper coins…</p>
 <p><em>Okay, cut it out. It doesn&#x27;t matter what this would buy us on a different continent.</em></p>
 <p>Once we hit rank C, we&#x27;d say goodbye to Jalil and Vizquel, then promptly leave this city. Seemed like a solid plan to me.</p>
@@ -84,7 +85,8 @@ nav_title = "Chapter 12"
 <p>&quot;Come on, Rudeus, say something! If they kill all the monsters, we&#x27;ll both fail our jobs!&quot;</p>
 <p>Kurt was turning to me for support. He did have a point. If Blaze&#x27;s party happened to kill our &quot;unknown&quot; monster, we wouldn&#x27;t get the chance to track it down or fight it…</p>
 <p><em>Wait a second. We basically just need to locate and identify it, right?</em></p>
-<p>I felt like reporting that the White-Fang Cobras had been here might be enough to satisfy our client. And to hedge our bets, we could always hunt down some random monsters here before we left. A big enough loot haul ought to cover the 20% breach-of-contract fee.</p>
+<p>I felt like reporting that the White-Fang Cobras had been here might be enough to satisfy our client. And to hedge our bets, we</p>
+<p>could always hunt down some random monsters here before we left. A big enough loot haul ought to cover the 20% breach-of-contract fee.</p>
 <p>&quot;Well, we don&#x27;t know for sure that this was a triple-booking. There might be something other than the White-Fang Cobras here as well.&quot;</p>
 <p>Blaze grimaced. &quot;So? You want to look around together, is that it? You expect us to be your babysitters?&quot;</p>
 <p>&quot;Who the hell wants your help anyway?!&quot; said Kurt, his face flushed with anger.</p>
@@ -136,7 +138,8 @@ nav_title = "Chapter 12"
 <p>That Executioner was swifter than you&#x27;d expect from its appearance, but it wasn&#x27;t fast enough to keep up with these kids when they were running for their lives. Little by little, they were gaining some distance from their pursuer.</p>
 <p>But then, just as it seemed like they were going to give it the slip…their luck ran out.</p>
 <p>A group of Almond Anacondas was waiting for them in the direction they&#x27;d been fleeing.</p>
-<p>These snake-monsters traveled in groups of three to five; they took their name from the distinctive almond-like pattern on their bodies, which were typically about three meters long. Their fangs were full of deadly venom, and they moved with great agility. Due to their toughness and their tendency to attack in numbers, they were also classified as B-rank monsters.</p>
+<p>These snake-monsters traveled in groups of three to five; they took their name from the distinctive almond-like pattern on their bodies, which were typically about three meters long. Their fangs</p>
+<p>were full of deadly venom, and they moved with great agility. Due to their toughness and their tendency to attack in numbers, they were also classified as B-rank monsters.</p>
 <p>Kurt and company were trapped between the two best-known and most-feared inhabitants of the Petrified Forest. I could see their expressions wavering between smiles of disbelief and outright terror. They&#x27;d probably assumed that if they ran into either of these notoriously dangerous monsters, they could simply run away. And, to be fair, it almost worked with the Executioner.</p>
 <p>In the end, however, they hadn&#x27;t sufficiently considered what might go wrong. This place was just too dangerous for them; they really should have recognized that and steered clear of it. Not that I didn&#x27;t sympathize with their eagerness to push themselves.</p>
 <p>&quot;We should go! Now!&quot;</p>
@@ -255,7 +258,8 @@ nav_title = "Chapter 12"
 <p>&quot;I wouldn&#x27;t have expected to find one in this forest,&quot; continued Ruijerd. &quot;Let alone such a huge specimen.&quot;</p>
 <p>&quot;They don&#x27;t usually live here then?&quot;</p>
 <p>&quot;No. But one does spawn every once in a while.&quot;</p>
-<p>Red-Hoods were apparently a more powerful variant of White-Fang Cobra. Not only were they larger in size, they were also far more agile. Their scales were tough and resistant to fire magic; their fangs were enormous and full of deadly venom. It wasn&#x27;t clear what a White-Fang had to eat to mutate into one of these, but on occasion, you&#x27;d find one where they lived.</p>
+<p>Red-Hoods were apparently a more powerful variant of White-Fang Cobra. Not only were they larger in size, they were also far</p>
+<p>more agile. Their scales were tough and resistant to fire magic; their fangs were enormous and full of deadly venom. It wasn&#x27;t clear what a White-Fang had to eat to mutate into one of these, but on occasion, you&#x27;d find one where they lived.</p>
 <p>White-Fang Cobras were B-ranked monsters, but the Red-Hood Cobra was an A-rank—and for good reason. They could wipe out a typical B-ranked party in mere seconds.</p>
 <p>At the moment, this one was occupied with his current meal, and didn&#x27;t seem to have noticed us. It was just getting started on its third adventurer of the day.</p>
 <p>&quot;We can take this thing, right?&quot; said Eris, confidently unsheathing her sword.</p>
@@ -297,7 +301,8 @@ nav_title = "Chapter 12"
 <p>***</p>
 <p>By the time we finished processing the Red-Hood Cobra&#x27;s body, the sun had already set. We were having a snake-meat feast for dinner tonight, naturally.</p>
 <p>I didn&#x27;t know which specific parts of this thing were valuable, so we just ripped out its fangs, then stripped off its skin and rolled it up like a carpet. We&#x27;d found the eggs that Kurt&#x27;s party had been looking for nearby, but they were so large it seemed impossible to carry them. I thought over our options for a while before deciding to smash the things. Deliberately allowing monsters to spawn was a nono around here after all.</p>
-<p>As for Blaze and company…we relieved them of anything that looked valuable, then burned and buried their bodies. If we&#x27;d just left them lying there, would they have turned into Executioners eventually? I didn&#x27;t entirely understand this whole &quot;reviving as a zombie&quot; phenomenon to be honest.</p>
+<p>As for Blaze and company…we relieved them of anything that looked valuable, then burned and buried their bodies. If we&#x27;d just left them lying there, would they have turned into Executioners</p>
+<p>eventually? I didn&#x27;t entirely understand this whole &quot;reviving as a zombie&quot; phenomenon to be honest.</p>
 <p><em>Gotta say, though, that red snake was really something…</em></p>
 <p>I found myself thinking back on the battle we&#x27;d just fought specifically, about the way that cobra had avoided my magic.</p>
 <p>It had dodged my spells. Numerous times in fact. Until that direct hit at the very end, I never really even grazed the thing.</p>

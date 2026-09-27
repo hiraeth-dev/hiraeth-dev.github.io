@@ -142,7 +142,8 @@ nav_title = "Chapter 7"
 <p>Philip gracefully escorted his wife from the scene after he returned from restraining Sauros. Whenever a situation developed, he would address it with glacial composure while everyone else stood dumbfounded. He was cool, like a master magician. A man you could rely on, someone you could consult with about anything.</p>
 <p>&quot;So, what is it? The surprise you were talking about,&quot; I inquired, after picking the bouquet off the floor.</p>
 <p>Eris folded her arms, puffed out her chest, and stuck out her chin. It had been a while since I last saw this pose.</p>
-<p>&quot;Hmph! Alphonse! Bring it here!&quot; She snapped her fingers as if to make a sharp, assertive sound, but it came out dull and flat. Her cheeks flushed, but Alphonse seemed unperturbed as he produced a staff from the shadows of a sculpture.</p>
+<p>&quot;Hmph! Alphonse! Bring it here!&quot; She snapped her fingers as if to make a sharp, assertive sound, but it came out dull and flat. Her</p>
+<p>cheeks flushed, but Alphonse seemed unperturbed as he produced a staff from the shadows of a sculpture.</p>
 <p>A staff, the same one that Roxy had used. A magician&#x27;s staff. One made of gnarled, knobby wood. At its tip was a large, costlylooking magical crystal. The moment I saw it I knew. That staff was expensive. I knew because I had made two wands myself.</p>
 <p>The rank of a staff was determined by the wood and the stone at its tip. Each type of magic had a certain affinity with different types of wood. Fire and earth spells matched best with persimmon wood, while water and wind matched best with pagoda wood.</p>
 <p>But even if the affinities didn&#x27;t match, it didn&#x27;t mean the power of a spell was diminished. The important thing wasn&#x27;t the wood, but the magical crystal. Channeling magic through the crystal increased the potency of a spell. There were many grades of crystal, but the larger and more transparent, the more effective it was. A crystal&#x27;s price increased astronomically with its effectiveness.</p>
@@ -211,7 +212,8 @@ nav_title = "Chapter 7"
 <p>&quot;But most of all, Eris has grown tremendously under your supervision.&quot; Philip sounded like he never could never imagined this.</p>
 <p>He had heard how exceptional I was from Paul, but as the son of someone who spent all his time flipping skirts at my age, he probably thought I would be the same type of delinquent. He figured something interesting might happen by pitting his unruly daughter against me, like observing the chemical reactions of a science experiment. Apparently, that was about as far as he&#x27;d imagined it.</p>
 <p>&quot;I can still remember the day when Paul came running here crying,&quot; Philip muttered to himself.</p>
-<p>I asked Philip to explain, who said Paul came crying because he was going to get married but didn&#x27;t have the money to afford a place and needed a stable job. Yet at the same time Paul didn&#x27;t want to return to his noble family. Apparently, he got on his knees for my sake, something he didn&#x27;t do even when the incident with Lilia happened. Well, that was in the past, anyway.</p>
+<p>I asked Philip to explain, who said Paul came crying because he was going to get married but didn&#x27;t have the money to afford a place and needed a stable job. Yet at the same time Paul didn&#x27;t want to</p>
+<p>return to his noble family. Apparently, he got on his knees for my sake, something he didn&#x27;t do even when the incident with Lilia happened. Well, that was in the past, anyway.</p>
 <p>&quot;Wouldn&#x27;t Eris have found a way even without me here?&quot;</p>
 <p>&quot;Found a way? Of course not. Even I thought Eris was hopeless. I thought she had no future as a member of a noble family. That was why I hired Ghislaine to teach her swordplay so that she might at least become an adventurer.&quot; After he said that, Philip recounted several of his past episodes with Eris, every single one painful to listen to.</p>
 <p>&quot;So how about it? Will you marry Eris and help me seize control of the Boreas family? If so, I&#x27;ll tie her hands and put her in your bed right now.&quot;</p>
@@ -223,7 +225,8 @@ nav_title = "Chapter 7"
 <p>&quot;I will be the one to seize control of the family. All you must do is take the seat. If you want women, I&#x27;ll give them to you.&quot;</p>
 <p>Did he really think I would listen just because he said he&#x27;d give me women? Paul&#x27;s bad reputation truly was loathsome.</p>
 <p>&quot;I&#x27;ll pretend you said all this because you&#x27;re drunk.&quot;</p>
-<p>Philip laughed quietly when I said that. &quot;That&#x27;s right, go ahead and do that. All that stuff about the Boreas family aside, you&#x27;re free to pursue whatever relationship you want with Eris, you know? I have no responsibility for her. Even if I did marry her off, she would surely come right back. I would prefer to hand her over to you instead.&quot; Another muted laugh.</p>
+<p>Philip laughed quietly when I said that. &quot;That&#x27;s right, go ahead and do that. All that stuff about the Boreas family aside, you&#x27;re free to pursue whatever relationship you want with Eris, you know? I</p>
+<p>have no responsibility for her. Even if I did marry her off, she would surely come right back. I would prefer to hand her over to you instead.&quot; Another muted laugh.</p>
 <p>If he married Eris off, she would probably punch her husband to death within a couple of days. I could picture it easily. Just as easily as I could picture myself dancing to Philip&#x27;s tune if I took him up on that offer.</p>
 <p>&quot;All right, it&#x27;s about time to sleep then.&quot;</p>
 <p>&quot;Yes, good night,&quot; I responded.</p>

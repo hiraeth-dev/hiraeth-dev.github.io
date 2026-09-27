@@ -53,7 +53,8 @@ nav_title = "Epilogue"
 <p>&quot;There it is.&quot;</p>
 <p>Roxy furrowed her brows. She found the names of Rudeus and the others in the missing persons column.</p>
 <p>Rudeus Greyrat. Zenith Greyrat. Lilia Greyrat. Aisha Greyrat.</p>
-<p>She knew that Lilia had become one of Paul&#x27;s wives; Rudeus had written as much in one of his letters. Paul and Norn&#x27;s names had a line drawn through them. She took another look at the list of deceased just in case. They weren&#x27;t there; that meant they had to be alive. Then again, it could have also meant there was no information on them. A short-lived moment of relief. &quot;At least I can rejoice in the fact that they&#x27;re not dead for now.&quot;</p>
+<p>She knew that Lilia had become one of Paul&#x27;s wives; Rudeus had written as much in one of his letters. Paul and Norn&#x27;s names had a</p>
+<p>line drawn through them. She took another look at the list of deceased just in case. They weren&#x27;t there; that meant they had to be alive. Then again, it could have also meant there was no information on them. A short-lived moment of relief. &quot;At least I can rejoice in the fact that they&#x27;re not dead for now.&quot;</p>
 <p>Absentmindedly she looked over the message board again. The desperation of the writers was so clear.</p>
 <p>Roxy wondered if her own parents were doing well back home. Quite some time had passed since she fought with them and left her village. Until recently, she hadn&#x27;t paid much attention to the flow of time, in part because she was a member of the Migurd race. The months passed quickly. Perhaps she should at least send a letter.</p>
 <p>&quot;That&#x27;s…&quot;</p>

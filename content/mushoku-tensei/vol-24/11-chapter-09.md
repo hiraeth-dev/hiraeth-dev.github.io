@@ -48,7 +48,8 @@ nav_title = "Chapter 9"
 <p>&quot;We can see the entrance now. Do you see them? Those are Superd. See how their faces are pointing this way even though we&#x27;re still inside the forest?&quot;</p>
 <p>I pointed towards the village and the two soldiers stiffened. They were Superd, really and truly.</p>
 <p>&quot;Their hair is green.&quot;</p>
-<p>&quot;That&#x27;s right. But there&#x27;s nothing to be afraid of. You get along just fine with the ogres, with their red skin and horns. Superd hair is a little different, that&#x27;s all. On the inside, they&#x27;re just like you…although, as with any types of people, there will be some cultural differences. If you&#x27;re friendly, they&#x27;ll like you. If you&#x27;re hostile, you&#x27;ll put them off. They&#x27;re just like us. Look, please.&quot;</p>
+<p>&quot;That&#x27;s right. But there&#x27;s nothing to be afraid of. You get along just fine with the ogres, with their red skin and horns. Superd hair is a little</p>
+<p>different, that&#x27;s all. On the inside, they&#x27;re just like you…although, as with any types of people, there will be some cultural differences. If you&#x27;re friendly, they&#x27;ll like you. If you&#x27;re hostile, you&#x27;ll put them off. They&#x27;re just like us. Look, please.&quot;</p>
 <p>As I spoke, one of the guards came up to us. First off, I needed them to understand that Superd weren&#x27;t devils. Say hello with a smile and get a smile back. That was the first step in good human relations. I raised a hand and greeted the guard.</p>
 <p><em>&quot;Jambo!&quot;</em></p>
 <p>The guard stared at me doubtfully, hand half raised. He turned to look at his companion. Oops. Got a bit carried away there.</p>
@@ -60,7 +61,8 @@ nav_title = "Chapter 9"
 <p>Galixon and Sandor entered the village slowly behind me, their faces tight. They were nervous. To stop them from fretting, I slowed my pace.</p>
 <p>&quot;There was a plague going around here until just the other day, but humans can&#x27;t catch it.&quot;</p>
 <p>I didn&#x27;t know that for a fact. Sokas Tea seemed to cure it, but I didn&#x27;t even know whether the cause was Vita or the plague. Maybe I was already infected, and a month from now the Biheiril Kingdom would be plunged into a pandemic… I&#x27;d still choose the survival of the Superd over the risk of infecting humans I didn&#x27;t know.</p>
-<p>&quot;They&#x27;re getting food ready over there. Guess they&#x27;re making dinner, considering the time. That place there is where they grow vegetables. Over on the other side, they&#x27;re butchering the spoils of the hunt. See the carcass? It&#x27;s visible now, but that&#x27;s an invisible monster. They didn&#x27;t attack us on the way here, but they&#x27;re in the forest. The Invisible Wolves become visible after they&#x27;ve been dead for a little while. Just as the name implies, they&#x27;re wolves, and they&#x27;re invisible. Only the Superd can hunt them well.&quot;</p>
+<p>&quot;They&#x27;re getting food ready over there. Guess they&#x27;re making dinner, considering the time. That place there is where they grow vegetables. Over on the other side, they&#x27;re butchering the spoils of the hunt. See the carcass? It&#x27;s visible now, but that&#x27;s an invisible monster. They didn&#x27;t attack us on the way here, but they&#x27;re in the forest. The Invisible Wolves become visible</p>
+<p>after they&#x27;ve been dead for a little while. Just as the name implies, they&#x27;re wolves, and they&#x27;re invisible. Only the Superd can hunt them well.&quot;</p>
 <p>The chief and the others would need to get ready, so I took them on a quick look around the village, explaining as we went. None of the Superd came near us. I wasn&#x27;t about to approach them carelessly either. With how standoffish they were being, I had to wonder if it wouldn&#x27;t have a negative effect on the soldiers&#x27; mental image of them.</p>
 <p>I was worrying too much. All they were seeing were the idyllic scenes you&#x27;d find in any village anywhere. It was okay. We were all okay.</p>
 <p>&quot;There&#x27;s a Millis Church man over there.&quot;</p>
@@ -86,7 +88,8 @@ nav_title = "Chapter 9"
 <p>&quot;There are many warriors amongst the Superd, but as you can see, more than half of them are harmless women and children. Please, set aside your preconceptions and look at them without prejudice. Do they look like devils to you?&quot;</p>
 <p>I asked them just after they&#x27;d gotten a look at Orsted. I was blatantly implying how much more devilish Orsted looked. I&#x27;d apologize to him afterwards.</p>
 <p>&quot;They don&#x27;t,&quot; Sandor said in the silence that followed. &quot;Setting aside, uh, Mister Dragon God? The village itself seems like any other normal village.&quot;</p>
-<p>&quot;Yeah. It looks like my hometown,&quot; Galixon agreed. Whether Orsted had been effective or not, Galixon and Sandor&#x27;s impressions weren&#x27;t bad so far.</p>
+<p>&quot;Yeah. It looks like my hometown,&quot; Galixon agreed. Whether Orsted had been effective or not, Galixon and Sandor&#x27;s impressions weren&#x27;t bad so</p>
+<p>far.</p>
 <p>I noticed the young guard from earlier coming towards us. &quot;The chief will see you,&quot; he said.</p>
 <p>&quot;Thank you. If the two of you would please follow me, I&#x27;ll introduce you to the chief.&quot;</p>
 <p>The chief was ready to see us. Feeling that this was a good sign, I guided the two soldiers to where the chief awaited us.</p>
@@ -120,7 +123,8 @@ nav_title = "Chapter 9"
 <p>The other two exchanged a look. They didn&#x27;t seem convinced. Not to worry, that wasn&#x27;t a problem. If it came down to a fight, Dohga&#x27;s presence wasn&#x27;t going to make a difference.</p>
 <p>I had also been told not to be alone, mind you. I could have these two wait for me in an Earth Fortress while I went and got Dohga, but we were going to meet up with Chandle in the Second City of Irel…</p>
 <p>I realized the forest had opened into a clearing. We&#x27;d reached the Earthwyrm Ravine. In front of us were two bridges. Perfect. Across the bridge there were hardly any Invisible Wolves, so it was relatively safe. They could wait for me once we were across to the other side.</p>
-<p>&quot;I&#x27;ll go first,&quot; Galixon said like this was the natural order. Sandor and I followed him. Maybe I should have taken the rear to make sure they don&#x27;t fall, I thought. I kept on alert, so I&#x27;d be ready whenever either of them fell.</p>
+<p>&quot;I&#x27;ll go first,&quot; Galixon said like this was the natural order. Sandor and I followed him. Maybe I should have taken the rear to make sure they don&#x27;t</p>
+<p>fall, I thought. I kept on alert, so I&#x27;d be ready whenever either of them fell.</p>
 <p>Suddenly, Galixon stopped.</p>
 <p>&quot;What&#x27;s wrong?&quot; I asked. Galixon turned back. His face was blank. It didn&#x27;t suit his magnificent mustache.</p>
 <p>&quot;You gonna do it?&quot; The question was directed at Sandor. I turned and saw him shrug.</p>

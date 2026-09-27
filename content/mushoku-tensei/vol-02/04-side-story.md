@@ -12,7 +12,8 @@ nav_title = "Side Story"
 <p>He completely miscalculated by not considering two things. Firstly, that I possessed enough magical prowess to escape the two bandits, and secondly, that those two had no loyalty to him whatsoever.</p>
 <p>As for the perverted noble, he played innocent and escaped punishment. Part of it was because Thomas&#x27;s testimony was inadequate, and part of it was because the two bandits were dead, so we could find no proof of the noble&#x27;s involvement. There were too many unknown variables. I suspected political machinations were involved.</p>
 <p>The incident was considered resolved entirely because of Ghislaine&#x27;s involvement. The Greyrat family could tout the fact that they had the Sword King Ghislaine staying with them, preventing possible future incidents while proclaiming the strength and wealth of their house.</p>
-<p>I was ordered to give all the credit to Ghislaine, even after I told them what transpired. It seemed they didn&#x27;t want others in the Greyrat family to know of my existence. Yet more political bargaining, I assumed. The bigger surprise to me was that there were even more Greyrats.</p>
+<p>I was ordered to give all the credit to Ghislaine, even after I told them what transpired. It seemed they didn&#x27;t want others in the Greyrat family to know of my existence. Yet more political</p>
+<p>bargaining, I assumed. The bigger surprise to me was that there were even more Greyrats.</p>
 <p>&quot;And that&#x27;s how it is. Understood?&quot;</p>
 <p>&quot;Yes…understood.&quot;</p>
 <p>Philip explained all of this to me in the reception room. I thought he was just the son of the liege lord, but he was also the town&#x27;s mayor. I wondered if he was the one who had settled the whole matter.</p>

@@ -26,7 +26,8 @@ nav_title = "Chapter 7"
 <p>What&#x27;s more, I was in love with both of them. One had already given me a child. What did I have to complain about? Nothing, that&#x27;s what.</p>
 <p>That said…I did want to try sleeping with both of them at once.</p>
 <p>Part of it was that they both approached it so differently.</p>
-<p>Sylphie was a bit on the submissive side. As a general rule, she did anything I asked her to in bed. When I suggested we try something new, she&#x27;d often lower her eyes anxiously, but she never objected.</p>
+<p>Sylphie was a bit on the submissive side. As a general rule, she did anything I asked her to in bed. When I suggested we try</p>
+<p>something new, she&#x27;d often lower her eyes anxiously, but she never objected.</p>
 <p>That&#x27;s not to say she was a dead fish, though. Once we actually got started, she always enjoyed herself. Within a couple minutes she&#x27;d be gasping for air and clinging to me desperately. It was obvious how much she wanted to please me, and it was adorable.</p>
 <p>Roxy, on the other hand, was something of a technician. She was constantly making use of the things she learned from Elinalise, trying to increase her skills. When I asked her to try something, she&#x27;d give some thought to the best way to do it. When I offered to do something myself, she&#x27;d make all sorts of suggestions. Given the difference in our sizes, we had some physical challenges to overcome, but she was creative and hard-working enough to find ways around them. And that was just as adorable, in its own way.</p>
 <p>Sylphie was the indulgent type, and Roxy was an experimenter. They were both wonderful. I didn&#x27;t prefer one over the other.</p>
@@ -71,7 +72,8 @@ nav_title = "Chapter 7"
 <p>&quot;That&#x27;s too bad, but what can you do? He&#x27;s doing it all for you, Elinalise.&quot;</p>
 <p>&quot;Yes, yes. I understand all that, believe me.&quot;</p>
 <p>&quot;And once you finally move into your love nest, you probably won&#x27;t emerge for a solid week, right?&quot;</p>
-<p>I was speaking from experience. The moment we got back from the Begaritt Continent, Elinalise and Cliff had shut themselves up in here for days. It was enough to make you wonder if all they really cared about was the sex. Not that I had any right to say so, given my own healthy libido.</p>
+<p>I was speaking from experience. The moment we got back from the Begaritt Continent, Elinalise and Cliff had shut themselves up in</p>
+<p>here for days. It was enough to make you wonder if all they really cared about was the sex. Not that I had any right to say so, given my own healthy libido.</p>
 <p>&quot;Sigh…I can&#x27;t help being jealous of you, Rudeus.&quot;</p>
 <p>&quot;Why? Sometimes I go without for a couple days myself.&quot;</p>
 <p>&quot;Yes, but you get to fool around with Sylphie and Roxy at once, don&#x27;t you? I&#x27;m satisfied with Cliff, of course, but I&#x27;m sure you three have a lot of fun together.&quot;</p>
@@ -124,7 +126,8 @@ nav_title = "Chapter 7"
 <p>A man and a woman stood facing the priest, wearing pure white clothing. Behind them, twenty-odd spectators looked on quietly.</p>
 <p>&quot;Should anyone seek to divide you, his holy shield will protect you. Should anyone seek to harm you, his holy sword will judge them. And should your love prove a lie, his fiery sorrow will pierce the heavens.&quot;</p>
 <p>I was one of those spectators. Standing in the very first row, in fact, all dressed up in Asuran-style finery.</p>
-<p>Sylphie stood on my right, and Roxy on my left. Both of them wore modest, formal dresses. We hadn&#x27;t owned any of these clothes beforehand, so we&#x27;d gone out and bought them for the occasion. I wasn&#x27;t sure when we&#x27;d need to wear them again, but it couldn&#x27;t hurt to have them around.</p>
+<p>Sylphie stood on my right, and Roxy on my left. Both of them wore modest, formal dresses. We hadn&#x27;t owned any of these clothes beforehand, so we&#x27;d gone out and bought them for the occasion. I</p>
+<p>wasn&#x27;t sure when we&#x27;d need to wear them again, but it couldn&#x27;t hurt to have them around.</p>
 <p>Ariel and Luke stood on Sylphie&#x27;s other side, wearing what looked to be some very expensive clothes of their own. Behind us was another row of VIPs, including Zanoba, Linia, and Pursena. And behind them, there was a row of miscellaneous guests—Ginger, Julie, and two girls who were apparently Ariel&#x27;s attendants, among others. I couldn&#x27;t see them from where I stood, but Norn and Aisha were somewhere back there, too.</p>
 <p>They were both wearing nice dresses today too, but I&#x27;d opted to rent those. They were both growing girls, so it felt premature to buy anything. They hadn&#x27;t been too pleased about that, of course.</p>
 <p>There were some guests I didn&#x27;t recognize as well. But unsurprisingly, Nanahoshi hadn&#x27;t shown.</p>

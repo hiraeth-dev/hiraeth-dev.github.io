@@ -42,7 +42,8 @@ nav_title = "Chapter 10"
 <p>&quot;You guys haven&#x27;t even told me what you took me captive for! What are you claiming I did wrong? I haven&#x27;t…&quot; Kishirika hesitated a moment. &quot;I haven&#x27;t done anything wrong, have I?&quot; She started fidgeting, rubbing her hands together. There were too many possibilities to rule out. Kishirika dabbled in all sorts of evil—too much, one might argue. Even she was self-aware enough to know that wrongdoing was most of what she did with her time. It wouldn&#x27;t be too surprising if someone was angry with her for it.</p>
 <p>To her surprise, the demon king declared, &quot;Hmph! You haven&#x27;t done anything wrong!&quot;</p>
 <p>It had taken mere seconds for her fury to subside. Atofe knew how futile it was to be angry with this particular captive.</p>
-<p>&quot;Then tell me why!&quot; demanded Kishirika. &quot;No matter how unreasonable you are, you are not so evil you would capture me for no reason whatsoever! The only time you do something like this is when you have the wrong idea about something, or someone has deceived you into…&quot; Her voice trailed off as realization dawned on her. &quot;So that&#x27;s it. Someone&#x27;s tricked you again!&quot;</p>
+<p>&quot;Then tell me why!&quot; demanded Kishirika. &quot;No matter how unreasonable you are, you are not so evil you would capture me for no reason whatsoever! The only time you do something like this is when you have the wrong idea about something, or someone has deceived you</p>
+<p>into…&quot; Her voice trailed off as realization dawned on her. &quot;So that&#x27;s it. Someone&#x27;s tricked you again!&quot;</p>
 <p>&quot;No! No one has deceived me!&quot; Atofe shouted back, denying Kishirika&#x27;s charge.</p>
 <p>&quot;That&#x27;s what deceived people say! All right then! If that&#x27;s what brought all of this about, tell me everything. There&#x27;s still time. I can save you before it&#x27;s too late and you do something irrevocable. So why don&#x27;t you remove these shackles first?&quot; Kishirika thrust her hands out in front of her, holding them up.</p>
 <p>Atofe wasn&#x27;t looking at her. She stared off into the distance, lost in thought. &quot;Deception is committed through conversation. That wasn&#x27;t the case for us. We fought. We fought one another, and at the end, I admitted defeat.&quot;</p>
@@ -66,7 +67,8 @@ nav_title = "Chapter 10"
 <p>&quot;Say &#x27;aaah.&#x27;&quot;</p>
 <p>&quot;N-no… Stop… Stooooop!&quot;</p>
 <p><strong>Rudeus</strong></p>
-<p><strong>T</strong>HE DEMON WORLD&#x27;S Great Emperor Kishirika Kishirisu nibbled on the doughnut I&#x27;d brought her while tears poured down her cheeks. &quot;Does something so delicious really exist? I cannot believe it…!&quot;</p>
+<p><strong>T</strong>HE DEMON WORLD&#x27;S Great Emperor Kishirika Kishirisu nibbled on the doughnut I&#x27;d brought her while tears poured down her cheeks. &quot;Does</p>
+<p>something so delicious really exist? I cannot believe it…!&quot;</p>
 <p>Aisha had done me the favor of creating this, aided by the fresh eggs and sugar we&#x27;d secured from the Holy Country of Millis. Apparently, Nanahoshi had told her about it; through Aisha&#x27;s own diligent study, she had managed to recreate it. It was a simple matter to gather the necessary ingredients, since our house cooked up a lot of fried foods anyway.</p>
 <p>&quot;I struggle to fathom this… Perhaps the entire reason I was born was to savor the flavor of this delicious creation!&quot;</p>
 <p>It had been a long time since I last saw Kishirika, and at first she had been in a wretched mood. Now she seemed perfectly fine. Ah, the magic of doughnuts! I had actually asked Roxy to sample it as well before bringing one here, and it had been incredibly effective. I don&#x27;t think I&#x27;ve ever seen her look that happy before. Sadly, that meant I&#x27;d lost to a doughnut.</p>
@@ -153,7 +155,8 @@ nav_title = "Chapter 10"
 <p>Ooh! I shook my head. No, I&#x27;m Rudeus the Abstinent. I must resist such temptation! Khh!</p>
 <p>&quot;Tell me where Al and Alex are. Rudeus needs strong fighters on his side, right? Those two would be perfect for this.&quot;</p>
 <p>&quot;What?&quot; Kishirika frowned. &quot;I gave Rudeus his reward just a moment ago and told him someone&#x27;s location. I even gave him a Demon Eye as a special extra thanks. I can give no more.&quot;</p>
-<p>Al and Alex? I was pretty sure those were nicknames for the two surviving North Gods. Those close to them tended to call them by those nicknames. I didn&#x27;t remember bringing it up to Atofe that I had been looking for those two, but they were her family. Perhaps she hadn&#x27;t needed any prompting to bring them up.</p>
+<p>Al and Alex? I was pretty sure those were nicknames for the two surviving North Gods. Those close to them tended to call them by those nicknames. I didn&#x27;t remember bringing it up to Atofe that I had been</p>
+<p>looking for those two, but they were her family. Perhaps she hadn&#x27;t needed any prompting to bring them up.</p>
 <p>&quot;Tell me,&quot; Atofe demanded.</p>
 <p>&quot;I told you already, no!&quot;</p>
 <p>Kishirika seemed disinclined to fulfill Atofe&#x27;s request. It was good that I had learned Geese&#x27;s current location, but I still knew nothing about what he was scheming. I needed to increase my number of allies if at all possible. We needed all the help we could get.</p>
@@ -166,7 +169,8 @@ nav_title = "Chapter 10"
 <p>Her face lit up. &quot;All of it, you say? Welp, guess I have no choice! Yes, wait just a moment!&quot; Again, she turned her eye to the empty air. It took only a few seconds of searching before she found what she was looking for.</p>
 <p>She makes for one handy search engine, I thought.</p>
 <p>&quot;I don&#x27;t know about Al. He seems to be somewhere in Asura, I think, but the mana there is thick. Or he&#x27;s using something to ward off my ability to see him. Either way, it&#x27;s all blurry. Alex is walking down a highway. Looks like he&#x27;s headed in the direction of Biheiril Kingdom.&quot;</p>
-<p>&quot;Is he now? Perfect. Rudeus, when you go to Biheiril Kingdom, seek out a man named Alexander. He should be able to lend you his strength,&quot; said Atofe.</p>
+<p>&quot;Is he now? Perfect. Rudeus, when you go to Biheiril Kingdom, seek out a man named Alexander. He should be able to lend you his</p>
+<p>strength,&quot; said Atofe.</p>
 <p>&quot;All right.&quot;</p>
 <p>North God Kalman the Third was headed to Biheiril Kingdom? The same place Geese was? I had to wonder if that could be a coincidence. No, knowing the Man-God, he&#x27;d realize Kishirika would track Geese down, right? Then it was bound to be a trap. It just had to be.</p>
 <p>&quot;Now then, that&#x27;s all, right? I&#x27;ll be going now. All my limbs are free, no one&#x27;s got their hands on me, right? Good then. I&#x27;m off! Fwahahaha! Fwahahahahaha! Fwahaha! Fwahaha!&quot;</p>
@@ -191,7 +195,8 @@ nav_title = "Chapter 10"
 <p>Not very professional behavior, but I&#x27;ll let it pass, I thought.</p>
 <p>&quot;A report from the east came in, mew. They said they found someone exactly like that figurine—green hair, a red jewel in the forehead. A Superd. That&#x27;s what was written in the support, anyhow, mew.&quot;</p>
 <p>&quot;Oh! Really?!&quot; I excitedly snatched the letter and reviewed the contents.</p>
-<p>The report was incredibly precise. It recounted the discovery of a foreign merchant making a deal with a man. The man had a weapon: a white shaft with cloth covering the tip. He wore an armored headband over his forehead and was swathed in thick robes with a hood pulled over his head to conceal his eyes. It was only thanks to a sudden gust of wind that his green hair was spotted; it also exposed the human clothes hidden beneath his thick shroud. The man had moved secretively, trying to avoid people&#x27;s notice while he bought some medicine. Our informant failed to confirm what medicine he&#x27;d purchased, but the man&#x27;s appearance matched Ruijerd closely.</p>
+<p>The report was incredibly precise. It recounted the discovery of a foreign merchant making a deal with a man. The man had a weapon: a white shaft with cloth covering the tip. He wore an armored headband over his forehead and was swathed in thick robes with a hood pulled over his head to conceal his eyes. It was only thanks to a sudden gust of wind that</p>
+<p>his green hair was spotted; it also exposed the human clothes hidden beneath his thick shroud. The man had moved secretively, trying to avoid people&#x27;s notice while he bought some medicine. Our informant failed to confirm what medicine he&#x27;d purchased, but the man&#x27;s appearance matched Ruijerd closely.</p>
 <p>&quot;What?&quot; I gasped as I read the final line on the report.</p>
 <p><em>Location of Discovery: Biheiril Kingdom, about half a day west of its second-biggest city, Irel, in a village close to the Earth Wyrm&#x27;s forest valley.</em></p>
 <p>Biheirel Kingdom. It was the third time I had heard that same location in a single day. No matter how dense I was, even I realized what was going on here.</p>

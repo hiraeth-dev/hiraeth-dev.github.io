@@ -107,7 +107,8 @@ nav_title = "Chapter 8"
 <p>Fitz hadn&#x27;t even glanced in my direction for a while now. …Huh? Is he giving me the cold shoulder? But why, though? Was it something I said?</p>
 <p>&quot;I see. Thank you for the greetings. I have to remind you, though, that Fitz isn&#x27;t supposed to speak while he&#x27;s guarding the Princess. I&#x27;m sure you understand, yes?&quot;</p>
 <p>His words were superficially friendly, but Luke was trying to chase me off. One thing was clear, at least. I&#x27;d definitely come by at an inconvenient moment. Still, it seemed really harsh of Fitz to ignore me completely like this…</p>
-<p>Fitz still wasn&#x27;t looking at me. Well, no. He was shooting me glances now and then, but they weren&#x27;t exactly friendly. I could tell he was frowning. His body language made it very clear that he was waiting impatiently for me to leave. I can be a bit oblivious at times, but even I could see that he was snubbing me.</p>
+<p>Fitz still wasn&#x27;t looking at me. Well, no. He was shooting me glances now and then, but they weren&#x27;t exactly friendly. I could tell he was frowning. His body language made it very clear that he was</p>
+<p>waiting impatiently for me to leave. I can be a bit oblivious at times, but even I could see that he was snubbing me.</p>
 <p>&quot;What&#x27;s the matter?&quot; asked Luke calmly.</p>
 <p>&quot;It&#x27;s nothing. Please excuse me.&quot;</p>
 <p>I turned and walked off quietly. I don&#x27;t think I gave anything away on the surface, but on the inside, this was hitting me hard. Being shunned like that by Fitz hurt so badly that I could hardly even think straight.</p>
@@ -118,7 +119,8 @@ nav_title = "Chapter 8"
 <p>I thought things over at some length as I walked, but I couldn&#x27;t come up with any explanation for why Fitz had treated me like that. As far I recalled, I hadn&#x27;t done anything to upset him recently. I kind of wanted to talk to someone. Or maybe just vent.</p>
 <p>Zanoba was off at the Magicians&#x27; Guild today, helping them with their research into Blessed Children. He&#x27;d probably taken Julie with him. Linia and Pursena were technically an option, but I wasn&#x27;t too optimistic that they&#x27;d take this seriously. It would probably end up with them jumping to conclusions and teasing me ruthlessly. Elinalise and Cliff weren&#x27;t an option, of course. Badigadi didn&#x27;t seem to be on campus today, either. And Nanahoshi… kind of had her hands full with her own problems.</p>
 <p>I couldn&#x27;t think of anyone else to turn to. I didn&#x27;t have that many friends.</p>
-<p>In the end, I headed straight over to the library. At times like these, it was best to sit somewhere quiet and lose yourself in a stupid book for a couple hours. A tale of heroism or adventure might be nice right about now. Had any tales about Kishirika and Badigadi been turned into a book? That was the sort of thing I wanted right now: the tale of two peerless warriors, smacking pitiful magicians around as they cackled with laughter…</p>
+<p>In the end, I headed straight over to the library. At times like these, it was best to sit somewhere quiet and lose yourself in a</p>
+<p>stupid book for a couple hours. A tale of heroism or adventure might be nice right about now. Had any tales about Kishirika and Badigadi been turned into a book? That was the sort of thing I wanted right now: the tale of two peerless warriors, smacking pitiful magicians around as they cackled with laughter…</p>
 <p>I stepped into the library, nodding slightly at the guard. We&#x27;d never had an actual conversation, but I&#x27;d been here often enough that he let me pass automatically. I paused for a moment to brush the snow off my clothes, used a silent spell to quickly dry myself off, and then headed for my usual seat with a small sigh of relief.</p>
 <p>The building was, as I&#x27;d expected, nearly empty. There weren&#x27;t many students here who spent their days off in the library. In this world, reading wasn&#x27;t that big a thing in general… the literacy rate wasn&#x27;t especially high, after all.</p>
 <p>&quot;…Huh?&quot;</p>
@@ -135,7 +137,8 @@ nav_title = "Chapter 8"
 <p>Fitz&#x27;s words came out smoothly, without a moment&#x27;s hesitation. Almost as if it was something he&#x27;d rehearsed in advance.</p>
 <p>&quot;I see. Well, I&#x27;m sorry for getting in your way while you were working, then.&quot;</p>
 <p>&quot;Oh, that&#x27;s okay! I&#x27;m sorry, too. I wasn&#x27;t trying to be rude or anything.&quot;</p>
-<p>I was starting to get an idea about what was actually going on here. I couldn&#x27;t be completely sure, but…it was likely Princess Ariel had somehow taken on Fitz&#x27;s appearance as a disguise. There was probably a magic item or implement involved somehow. She hadn&#x27;t spoken to me because her voice wasn&#x27;t affected by its powers. Maybe the color of her eyes didn&#x27;t change, either? That would explain why Fitz always kept his eyes hidden. Otherwise, it would be a dangerous giveaway when Ariel needed to disguise herself as him.</p>
+<p>I was starting to get an idea about what was actually going on here. I couldn&#x27;t be completely sure, but…it was likely Princess Ariel had somehow taken on Fitz&#x27;s appearance as a disguise. There was probably a magic item or implement involved somehow. She hadn&#x27;t spoken to me because her voice wasn&#x27;t affected by its powers. Maybe the color of her eyes didn&#x27;t change, either? That would</p>
+<p>explain why Fitz always kept his eyes hidden. Otherwise, it would be a dangerous giveaway when Ariel needed to disguise herself as him.</p>
 <p>Yeah. The more I thought about it, the more it seemed to fit. The reason &quot;Fitz&quot; had shunned me earlier was simple enough. I was friendly enough with the actual person that I would have seen through her attempt to imitate him.</p>
 <p>Right. I hadn&#x27;t done anything to make him angry, after all. Seemed like a good explanation to me. I&#x27;d take it.</p>
 <p>&quot;That&#x27;s a relief, though. I thought you hated me now, Master Fitz. It got me really worried there for a minute.&quot;</p>
@@ -175,7 +178,8 @@ nav_title = "Chapter 8"
 <p>&quot;Fitz… is a man.&quot;</p>
 <p>In the end, that was the extent of his reply.</p>
 <p>Ultimately, I still wasn&#x27;t sure about Fitz&#x27;s gender.</p>
-<p>Jenius had backed up the official story, but he was clearly under some pressure, and he&#x27;d thought it over for a weirdly long time. It was hard to say if he was truthful with me or not. Of course, he&#x27;d automatically used the pronouns &quot;him&quot; and &quot;his&quot; for Fitz before he even heard my question… did that mean he&#x27;d told me the truth after all?</p>
+<p>Jenius had backed up the official story, but he was clearly under some pressure, and he&#x27;d thought it over for a weirdly long time. It was hard to say if he was truthful with me or not. Of course, he&#x27;d automatically used the pronouns &quot;him&quot; and &quot;his&quot; for Fitz before he</p>
+<p>even heard my question… did that mean he&#x27;d told me the truth after all?</p>
 <p>No, there was no point over-analyzing it. I didn&#x27;t have the evidence to make up my mind either way.</p>
 <p>Without realizing it, I&#x27;d made my way over to the library and to the table where I always worked with Fitz. I sat down and let out a soft little sigh. What was the point of finding out about his gender, anyway? Could I even bring myself to tell him how I felt? Could I tell someone that I had feelings for them? Me, of all people?</p>
 <p>It was good to get these things off your chest, in theory… but the idea felt kind of wrong. I wasn&#x27;t approaching this the right way. First off, what did I even want to happen after I confessed?</p>

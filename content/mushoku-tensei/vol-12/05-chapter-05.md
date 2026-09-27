@@ -24,7 +24,8 @@ nav_title = "Chapter 5"
 <p>Lilia immediately coaxed Roxy off to the bath. Hoping that there might be something I could do for her in the meanwhile, I hovered outside her room, but then Vierra shooed me away. She said it was rude to approach a girl&#x27;s room while she was bathing. Of course, I didn&#x27;t have any ulterior motives. I just wanted to do whatever I could for her.</p>
 <p>I mean it. Really.</p>
 <p>Okay, yes, I did have a previous offense. But this time was completely innocent!</p>
-<p>I thought about defending my case, but decided to drop it. This was fine. It was me, after all. If I suddenly glanced to my side and saw her clothes sitting there, there was no guarantee that my hand wouldn&#x27;t slip and pocket the small white fabric nestled on top. I couldn&#x27;t give my perverted side the opportunity. Right now, my feelings were still innocent. So really, it was fine.</p>
+<p>I thought about defending my case, but decided to drop it. This was fine. It was me, after all. If I suddenly glanced to my side and saw her clothes sitting there, there was no guarantee that my hand wouldn&#x27;t slip and pocket the small white fabric nestled on top. I</p>
+<p>couldn&#x27;t give my perverted side the opportunity. Right now, my feelings were still innocent. So really, it was fine.</p>
 <p>We were going to rest for a few days to give Roxy time to recover her strength. That said, she was an adventurer. She had no major injuries, was still strong enough to walk unaided, and swore that with good food and a soft bed to sleep soundly in, she&#x27;d be back to normal before long. Everything seemed to be going smoothly.</p>
 <p>But I couldn&#x27;t get over the fact that I&#x27;d screwed up and behaved shamefully in front of her. I hoped she wasn&#x27;t disillusioned with me. The barfing had been disrespectful, but I was just so shocked. I never stopped thinking about her the entire time we&#x27;d been apart. To think she might have forgotten me…it was overwhelming.</p>
 <p>Come to think of it, Sylphie had said she was stunned, too, when I acted like we were meeting for the first time. I wondered if she&#x27;d felt the same way back then. I&#x27;d have to apologize to her when I made it back home.</p>
@@ -32,7 +33,8 @@ nav_title = "Chapter 5"
 <p>On the second day, Roxy jumped out of bed. It was right at the lunch hour. She marched over to our table as we were eating, moving as stiff as a robot.</p>
 <p>&quot;Good morning, Teacher.&quot;</p>
 <p>&quot;Yes. Good morning, Rudy—I mean, Mister Rudeus.&quot;</p>
-<p>There were four of us, including myself, at the table. The others were Elinalise, Paul, and Talhand. Geese and the remaining three were currently out shopping. Our group composition was such that the labyrinth party spent their entire time resting while they were in the city, and the waiting party ran errands in the meantime. Geese was part of the labyrinth party, but for some reason, he was taking command of the waiting party. He sure was a hard worker. Maybe he should quit being an adventurer and become an administrator instead.</p>
+<p>There were four of us, including myself, at the table. The others were Elinalise, Paul, and Talhand. Geese and the remaining three were currently out shopping. Our group composition was such that</p>
+<p>the labyrinth party spent their entire time resting while they were in the city, and the waiting party ran errands in the meantime. Geese was part of the labyrinth party, but for some reason, he was taking command of the waiting party. He sure was a hard worker. Maybe he should quit being an adventurer and become an administrator instead.</p>
 <p>&quot;Everyone…&quot;</p>
 <p>All those present turned their eyes toward Roxy.</p>
 <p>Meekly, she swept her gaze over each of us, then bowed her head. &quot;I&#x27;m sorry for causing you all trouble, but I really am okay now.&quot;</p>
@@ -107,7 +109,8 @@ nav_title = "Chapter 5"
 <p>&quot;Hmm. Well, let&#x27;s save thinkin&#x27; &#x27;bout the fourth floor for next time. For now, we&#x27;re focusin&#x27; on the third floor.&quot;</p>
 <p>&quot;Gotcha.&quot;</p>
 <p>There were instances of long-existing labyrinths combining with others, forming a single labyrinth with two centers—two hearts with magically imbued crystals. These types were said to change in structure partway through. The Teleportation Labyrinth had that kind of layout, but that didn&#x27;t necessarily mean it had two centers. It was a possibility, nothing more.</p>
-<p>In fact, according to the book, the Teleportation Labyrinth had only one magic crystal. However, there was still the possibility that it had originally been an ordinary labyrinth which later merged with these old ruins to take its current form. Speaking of ruins, there were also the ones containing the teleportation circles we&#x27;d used to get here.</p>
+<p>In fact, according to the book, the Teleportation Labyrinth had only one magic crystal. However, there was still the possibility that it had originally been an ordinary labyrinth which later merged with</p>
+<p>these old ruins to take its current form. Speaking of ruins, there were also the ones containing the teleportation circles we&#x27;d used to get here.</p>
 <p>&quot;What&#x27;s this book you&#x27;re talking about?&quot; Roxy asked, suspicious.</p>
 <p>&quot;Rudy brought it with him. It&#x27;s got notes from a guy who traveled almost to the very depths of the Teleportation Labyrinth. You should read it, too.&quot; Geese passed the book in question over to her.</p>
 <p>&quot;Oh, I didn&#x27;t realize such a thing existed. Understood. I&#x27;ll go over it carefully tomorrow.&quot;</p>
@@ -139,7 +142,8 @@ nav_title = "Chapter 5"
 <p><em>I wish she&#x27;d be more confident.</em></p>
 <p>True, I might beat her when it came to mana capacity and spell usage, but the strength of a person&#x27;s stats wasn&#x27;t the sum of their worth. It was only with experience that one gained true power, and I felt like Roxy was ahead of me in that regard. She&#x27;d spent a whole month trapped and fighting in the Teleportation Labyrinth. And just days after being rescued, she was recovered enough to go right back in as if nothing had ever happened.</p>
 <p>If that were me—if I were to experience something so horrific— I&#x27;d probably swear to myself to never enter that labyrinth again. As the Japanese proverb stated, a wise man stays away from danger. You could call me a chicken if you wanted; I knew I was a coward.</p>
-<p>&quot;Okay then, we&#x27;re all done with that. Next is the waiting party.&quot; After that, Geese promptly gave his orders to the waiting party. He handed Vierra a list of supplies to purchase, then consulted Shierra about Roxy&#x27;s condition. He also advised her to prepare whatever medical supplies she deemed necessary in preparation for Zenith&#x27;s rescue. Finally, he entrusted Lilia with overseeing those tasks.</p>
+<p>&quot;Okay then, we&#x27;re all done with that. Next is the waiting party.&quot; After that, Geese promptly gave his orders to the waiting party. He handed Vierra a list of supplies to purchase, then consulted Shierra about Roxy&#x27;s condition. He also advised her to prepare whatever</p>
+<p>medical supplies she deemed necessary in preparation for Zenith&#x27;s rescue. Finally, he entrusted Lilia with overseeing those tasks.</p>
 <p>If Geese was the leader of the labyrinth party, then Lilia was the leader of the waiting party. And Paul was the overall leader of our group. He oversaw all final decision-making and kept track of everyone.</p>
 <p>&quot;Okay then, everyone, let&#x27;s prepare for three days from now. Dismissed.&quot; At Paul&#x27;s order, the meeting ended.</p>
 <p>The next day, I spent my time ambling about on the first floor of the inn, staying in Roxy&#x27;s vicinity as she read. I wanted her to consult me if there was anything she didn&#x27;t understand. Me, specifically not anyone else.</p>

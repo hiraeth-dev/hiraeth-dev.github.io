@@ -133,7 +133,8 @@ nav_title = "Chapter 12"
 <p>I found myself wondering about where Zenith was now for a moment, but I shook the thought out of my head. There was no point in making myself anxious.</p>
 <p>&quot;Were you just as promiscuous back then, too?&quot;</p>
 <p>&quot;Promiscuous? That&#x27;s rather rude. I suppose I was, though. But back in those days, we all used to sleep in our underwear, or the nude. Ghislaine didn&#x27;t even know what a bra was at first! You should have seen the way Paul ogled her…&quot;</p>
-<p>It was hard to imagine Ghislaine being quite that shameless…but maybe she was just clueless. That would fit with what I knew of her. As for Paul, well…not to excuse the guy&#x27;s behavior, but I probably would have done the same thing. Beastfolk women tended to be pretty impressive in the chest department.</p>
+<p>It was hard to imagine Ghislaine being quite that shameless…but maybe she was just clueless. That would fit with what I knew of her. As for Paul, well…not to excuse the guy&#x27;s behavior, but I probably</p>
+<p>would have done the same thing. Beastfolk women tended to be pretty impressive in the chest department.</p>
 <p>&quot;You know, come to think of it… I guess Zenith was about your age now when I first met her,&quot; Elinalise said.</p>
 <p>&quot;Really? You&#x27;ve known her since she was a teenager?&quot;</p>
 <p>&quot;Yes. She was a clueless, innocent little girl. Paul picked her up off the street and dragged her into our party, the scoundrel.&quot;</p>

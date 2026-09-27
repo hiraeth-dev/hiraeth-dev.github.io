@@ -11,7 +11,8 @@ nav_title = "Chapter 6"
 <p>After my meeting with Ariel, I immediately took off to meet Orsted and relay what had been discussed. If Luke was the Man-God&#x27;s messenger, I was Orsted&#x27;s. I would brief him on every little detail. In essence, I was an informant. Rudeus the Tattletale, you might say.</p>
 <p>&quot;Hm, so they already looked into information on Gaunis…&quot; Orsted muttered.</p>
 <p>&quot;What should we do next?&quot; I asked, despite half-expecting him to glare at me and tell me to think for myself sometimes.</p>
-<p>Just to be clear, I wasn&#x27;t the type who sought the approval of others for every little thing I did, all right? I intended to be as independent as I could, but I had only become Orsted&#x27;s subordinate recently. I wasn&#x27;t yet sure what needed to be reported to him and what could be handled on my own. While I was figuring out that boundary, I was largely deferring to him for most matters on our current mission. I didn&#x27;t want him snapping at me for doing things without getting his input first.</p>
+<p>Just to be clear, I wasn&#x27;t the type who sought the approval of others for every little thing I did, all right? I intended to be as independent as I could, but I had</p>
+<p>only become Orsted&#x27;s subordinate recently. I wasn&#x27;t yet sure what needed to be reported to him and what could be handled on my own. While I was figuring out that boundary, I was largely deferring to him for most matters on our current mission. I didn&#x27;t want him snapping at me for doing things without getting his input first.</p>
 <p>Also, I was asking for his opinion, not seeking a concrete answer. He didn&#x27;t have to spell out everything for me; he just needed to point me in the right direction. In this way, I would slowly learn how he wanted to handle matters. Plus, I did have a suggestion handy if he told me to think for myself: Orsted and I could use teleportation circles to infiltrate the Asuran library, where we could swipe the necessary materials. That was what I had planned if he had no other suggestions.</p>
 <p>&quot;You should head to the Library Labyrinth in that case.&quot;</p>
 <p>His answer caught me off guard. I tilted my head. &quot;Library Labyrinth?&quot; What the heck is that?</p>
@@ -46,7 +47,8 @@ nav_title = "Chapter 6"
 <p>Perhaps I should have gone home instead of rushing back here, but it was too late to regret my decision. I could spend the night here and speak with Ariel about the Library Labyrinth first thing in the morning.</p>
 <p>With that in mind, I started toward the guest quarters, only to notice something moving in the corner of my vision.</p>
 <p><em>Crap, a roach? Even at this altitude? Guess not even Perugius&#x27;s spirits can protect against an infestation. Makes sense, considering the rats I saw in the basement.</em></p>
-<p>But then realized that this thing, whatever it was, stood outside the nearby window. Silver light poured in through the glass, and a beautiful garden spread out beyond it. The moon didn&#x27;t provide much light, but I squinted and noticed sitting at the table outside.</p>
+<p>But then realized that this thing, whatever it was, stood outside the nearby window. Silver light poured in through the glass, and a</p>
+<p>beautiful garden spread out beyond it. The moon didn&#x27;t provide much light, but I squinted and noticed sitting at the table outside.</p>
 <p><em>Who would be out there at this hour?</em></p>
 <p>Maybe Sylvaril was putting in some overtime. Whatever the case, I decided to head out there and find out.</p>
 <p>&quot;Huh.&quot;</p>
@@ -139,7 +141,8 @@ nav_title = "Chapter 6"
 <p>For some reason, she shot a meaningful look at Eris when she spoke.</p>
 <p><em>What&#x27;s that supposed to mean? Is she eyeing Eris? Is she actually interested in her? I mean yeah, Eris does look pretty boyish and badass, but…really?</em></p>
 <p>No, that couldn&#x27;t be it. Ghislaine was the one who wanted to take revenge for Sauros, but Eris had even greater reason to want his death avenged. Ariel likely thought that Eris was after the same thing and was acting as my bodyguard in name only.</p>
-<p>I didn&#x27;t know Eris&#x27;s thoughts on that, but if she was presented with the opportunity to take down Sauros&#x27;s killers, she would likely do it. I would too. Myself, I wouldn&#x27;t go all out to hunt them down and murder them, but if there was a mastermind behind it all and they happened to appear in front of me, I would bring them to justice.</p>
+<p>I didn&#x27;t know Eris&#x27;s thoughts on that, but if she was presented with the opportunity to take down Sauros&#x27;s killers, she would likely</p>
+<p>do it. I would too. Myself, I wouldn&#x27;t go all out to hunt them down and murder them, but if there was a mastermind behind it all and they happened to appear in front of me, I would bring them to justice.</p>
 <p>Sauros&#x27;s death was a result of scheming to reduce the Boreas family&#x27;s power, since they were one of four families that oversaw a vast stretch of kingdom land, while also weakening the first prince&#x27;s influence. There were so many possible culprits that it was hard to narrow it down.</p>
 <p>&quot;I will,&quot; said Ghislaine to Ariel, bowing her head. Her tail flicked behind her as she turned her gaze to Sylphie. &quot;Well, what should I do then?&quot;</p>
 <p>&quot;Um, for the moment, we&#x27;ll have you come along as Princess Ariel&#x27;s bodyguard. Please shield her from the ashes of battle.&quot;</p>

@@ -51,7 +51,8 @@ nav_title = "Chapter 13"
 <p>For a moment I didn&#x27;t understand what she meant. Then I realized she was talking about the order in which they&#x27;d met. Elinalise had met Roxy first, then encountered Sylphie later on.</p>
 <p>&quot;Honestly, I can&#x27;t stand to look at Roxy the way she is right now. She yearns to throw herself into the relationship and lean on you, but is forcing herself to hang back, just because she happened to meet you too late.&quot;</p>
 <p>I felt bad for Roxy when she put it like that…but I also felt bad for Sylphie when I looked at it from her perspective.</p>
-<p>&quot;If you part on bad terms, I have no doubt she&#x27;ll lead a miserable life. It&#x27;s possible some dirtbag will take advantage of her, treat her terribly, and then sell her off as collateral for his unpaid loans, causing her to end up bearing the child of a man she doesn&#x27;t even know.&quot;</p>
+<p>&quot;If you part on bad terms, I have no doubt she&#x27;ll lead a miserable life. It&#x27;s possible some dirtbag will take advantage of her, treat her terribly, and then sell her off as collateral for his unpaid</p>
+<p>loans, causing her to end up bearing the child of a man she doesn&#x27;t even know.&quot;</p>
 <p>&quot;Isn&#x27;t that going a bit too far?&quot; I asked uncomfortably.</p>
 <p>&quot;I know of a woman who led such a life.&quot;</p>
 <p>She spoke so frankly I found myself wondering for a moment if she was speaking of her own personal experience.</p>
@@ -110,7 +111,8 @@ nav_title = "Chapter 13"
 <p>Just then, anxiety reared its ugly head.</p>
 <p>Those were the Man-God&#x27;s words. He&#x27;d said I would &quot;regret&quot; something.</p>
 <p>True enough, there was Paul&#x27;s death, Zenith becoming a husk, and me losing my left hand. I&#x27;d lost a lot. Yet strangely enough, I didn&#x27;t feel regret. I could thank Roxy for that.</p>
-<p>Yes, part of me thought: If only I&#x27;d been stronger, if only I&#x27;d learned how to wield the sword better, if only I&#x27;d been strong enough to defeat that hydra. But another part of me felt strongly that it would&#x27;ve been impossible either way. My aptitude for battle wasn&#x27;t the best. I couldn&#x27;t wrap that battle aura stuff around my body, nor did I know how to try. You had to be able to manipulate your battle aura to advance as a swordsman. Besides, the hydra had been immune to magic. Even if I had worked diligently to learn King-tier spells, they would&#x27;ve been useless. There might have been some other way, but the past was the past.</p>
+<p>Yes, part of me thought: If only I&#x27;d been stronger, if only I&#x27;d learned how to wield the sword better, if only I&#x27;d been strong enough to defeat that hydra. But another part of me felt strongly that it would&#x27;ve been impossible either way. My aptitude for battle wasn&#x27;t</p>
+<p>the best. I couldn&#x27;t wrap that battle aura stuff around my body, nor did I know how to try. You had to be able to manipulate your battle aura to advance as a swordsman. Besides, the hydra had been immune to magic. Even if I had worked diligently to learn King-tier spells, they would&#x27;ve been useless. There might have been some other way, but the past was the past.</p>
 <p>That was why I had no regrets. Paul&#x27;s death had allowed me to reflect on my past. I&#x27;d worried people and caused them trouble, but ultimately, there was good that had come out of it all. What I felt wasn&#x27;t regret—it was sadness. Just sadness. Sadness was all I carried with me from the Begaritt Continent.</p>
 <p>But that was also why I felt anxious now. Perhaps the thing I would really regret was yet to come. For instance, maybe something had happened to the little sisters I left behind.</p>
 <p><em>Remember what he said.</em></p>

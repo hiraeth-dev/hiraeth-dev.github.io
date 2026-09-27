@@ -92,7 +92,8 @@ nav_title = "Chapter 4"
 <p>&quot;I digress,&quot; said Orsted. &quot;You are likely right about the Man-God having a puppet in the kingdom.&quot;</p>
 <p>I nodded. &quot;Then the key to victory will be sniffing this person out, I assume?&quot;</p>
 <p>&quot;Indeed. I know nothing of his third apostle, assuming he even has one. It could be that this person is operating separately and is unrelated to the Asuran throne. Keep your guard up.&quot;</p>
-<p>In order to achieve victory against the Man-God, we had to identify his three puppets, defeat them, and accomplish our own objectives in the process. We would probably have to repeat this process again and again. Our current goal was getting Ariel on the throne. Although it wasn&#x27;t confirmed, Luke was most likely one of his lackeys. The identities of the other two remained a mystery.</p>
+<p>In order to achieve victory against the Man-God, we had to identify his three puppets, defeat them, and accomplish our own objectives in the process. We would probably have to repeat this</p>
+<p>process again and again. Our current goal was getting Ariel on the throne. Although it wasn&#x27;t confirmed, Luke was most likely one of his lackeys. The identities of the other two remained a mystery.</p>
 <p>&quot;Is there anyone you know with absolute certainty is not on his side?&quot;</p>
 <p>I asked this knowing I was asking for the impossible. It didn&#x27;t really matter who the Man-God&#x27;s puppets were; our objectives wouldn&#x27;t change. Still, if he assumed control over Zanoba or Cliff and Orsted tasked me with killing them, I wouldn&#x27;t know what to do. I&#x27;d be devastated.</p>
 <p>&quot;Your family is safe from his influence. In addition to the bracelet you wear, they are also under the Guardian Beast&#x27;s protection.&quot;</p>

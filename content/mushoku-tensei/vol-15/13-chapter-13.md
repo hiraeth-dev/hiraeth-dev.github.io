@@ -28,7 +28,8 @@ nav_title = "Chapter 13"
 <p>There were plenty of other questions I needed to get around to as well. For example…</p>
 <p>&quot;During our battle earlier, you mentioned that I possess something called a Laplace Aspect. Could you explain what that is?&quot;</p>
 <p>&quot;How much do you know about Laplace?&quot;</p>
-<p>&quot;Well, I know he caused a great war four hundred years ago in which humankind was almost defeated. People say he had an immense amount of mana, but was incapable of using Battle Aura. Uhm… although he was very powerful, Lord Perugius eventually sealed him away with the help of two companions… Oh, and he betrayed the Superd.&quot;</p>
+<p>&quot;Well, I know he caused a great war four hundred years ago in which humankind was almost defeated. People say he had an</p>
+<p>immense amount of mana, but was incapable of using Battle Aura. Uhm… although he was very powerful, Lord Perugius eventually sealed him away with the help of two companions… Oh, and he betrayed the Superd.&quot;</p>
 <p>I&#x27;d heard a bunch of other rumors about the man, but those felt like the most important points.</p>
 <p>&quot;Is that all?&quot;</p>
 <p>&quot;Oh, right. I did hear he&#x27;s supposedly going to be resurrected soon.&quot;</p>
@@ -143,7 +144,8 @@ nav_title = "Chapter 13"
 <p>&quot;Oh. Right. Sure.&quot;</p>
 <p><em>Crap. Maybe it was.</em></p>
 <p><em>Sorry, Lucie! Daddy&#x27;s off to work away from home! I&#x27;ll be back once we&#x27;ve saved the world from the Man-God, okay? Farewell for now! Make sure to eat all your veggies!</em></p>
-<p>&quot;However, I&#x27;m no Atofe. It was never my intention to tear you away from the family you risked everything to protect. And I don&#x27;t have any plans of dragging you around with me for years on end… currently, at least.&quot;</p>
+<p>&quot;However, I&#x27;m no Atofe. It was never my intention to tear you away from the family you risked everything to protect. And I don&#x27;t</p>
+<p>have any plans of dragging you around with me for years on end… currently, at least.&quot;</p>
 <p>&quot;Wait, really? That&#x27;s kind of a relief to hear.&quot;</p>
 <p>Phew. From the sound of things, I was going to get some days off after all. Being separated from everyone I loved would have been… challenging, to say the least. Keeping them safe was my top priority, but I wanted to be around them, too.</p>
 <p>&quot;Is there anything else you want from me?&quot;</p>
@@ -154,7 +156,8 @@ nav_title = "Chapter 13"
 <p>Ooh, that sounded promising. Hmm. Would asking for a salary be taking things a bit too far?</p>
 <p>I mean, it wasn&#x27;t that unreasonable. If you want someone to do a job responsibly, you pay them for it. By taking your money, they accept responsibility for their work. Anyone who works for free will do so irresponsibly… or so I&#x27;d read in some manga once upon a time.</p>
 <p>Naturally, I wanted to be a responsible subordinate to Orsted. And surely taking some cash from him would be the perfect way to demonstrate this.</p>
-<p>&quot;Uhm, so… since I&#x27;m going to be out of the house a lot, my family&#x27;s going to lose one of its breadwinners. I wasn&#x27;t bringing home that much to begin with, and… well, I actually ran up quite a few expenses, uh, preparing for our battle the other day. We still have some savings for now, but I could see them running out one of these days. If I&#x27;m not working, we&#x27;ll probably have to cut back on our dinner menu a little. And we&#x27;ve got a bunch of growing kids to—&quot;</p>
+<p>&quot;Uhm, so… since I&#x27;m going to be out of the house a lot, my family&#x27;s going to lose one of its breadwinners. I wasn&#x27;t bringing home that much to begin with, and… well, I actually ran up quite a few expenses, uh, preparing for our battle the other day. We still have some savings for now, but I could see them running out one of these</p>
+<p>days. If I&#x27;m not working, we&#x27;ll probably have to cut back on our dinner menu a little. And we&#x27;ve got a bunch of growing kids to—&quot;</p>
 <p>&quot;You want money, then?&quot;</p>
 <p>&quot;Well, sure, if you want to be blunt about it! Heheh.&quot;</p>
 <p>As I giggled evilly out of sheer embarrassment, Orsted reached into his coat and pulled something out, which he then dropped casually onto the table in front of me. It was a dagger… no, a shortsword… in a beautifully ornamented sheath.</p>
@@ -201,7 +204,8 @@ nav_title = "Chapter 13"
 <p>&quot;Yeah. It sounds like I&#x27;ve got that Laplace Aspect thing mixed up inside me somewhere, but I&#x27;m still the same person I was yesterday.&quot;</p>
 <p>&quot;So nothing&#x27;s really different now, right?&quot;</p>
 <p>&quot;Right. I learned a few new things about myself, that&#x27;s all. I haven&#x27;t changed a bit.&quot;</p>
-<p>I kept my answers simple and straightforward, with no apologies or excuses. To be honest, I wasn&#x27;t sure if Eris had been keeping up with my conversation with Orsted. The man seemed to feel that reincarnation was a perfectly ordinary, everyday phenomenon, and I&#x27;d read enough science fiction in my previous life to make sense of his explanations. But without that kind of background knowledge, it might have been almost incomprehensible.</p>
+<p>I kept my answers simple and straightforward, with no apologies or excuses. To be honest, I wasn&#x27;t sure if Eris had been keeping up with my conversation with Orsted. The man seemed to feel that reincarnation was a perfectly ordinary, everyday phenomenon, and I&#x27;d read enough science fiction in my previous life to make sense of</p>
+<p>his explanations. But without that kind of background knowledge, it might have been almost incomprehensible.</p>
 <p>Then again… Eris was about twenty years old now. She was past the age where you could get by without doing any thinking for yourself. There was a part of me that wanted her to stay clueless forever, but that was just a stupid, selfish dream.</p>
 <p>&quot;Hmm…&quot; Eris nodded at my words, although it was hard to say if she really understood them. &quot;Do you want me to keep this a secret from Sylphie and Roxy?&quot;</p>
 <p>&quot;If you don&#x27;t mind, yeah. I&#x27;d rather tell them myself, when the time&#x27;s right.&quot;</p>

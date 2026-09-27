@@ -88,7 +88,8 @@ nav_title = "Chapter 3"
 <p><em>Uh…what is this? Are you going to get moving or not? Please don&#x27;t tell me this kid just nodded off on the job… Hmm. Maybe he&#x27;s waiting for a nice wet kiss?</em></p>
 <p>&quot;Uh, Ruijerd, is he…&quot;</p>
 <p>&quot;The Migurd can converse with others of their race, even at a distance.&quot;</p>
-<p>&quot;Oh. Now that you mention it, I think my master told me a bit about that.&quot; To be specific, she&#x27;d written in her Dictionary of Demonkind that the Migurd were capable of telepathic communication with their close friends and family members. She also noted that she herself lacked this ability, and had left her village because of it.</p>
+<p>&quot;Oh. Now that you mention it, I think my master told me a bit about that.&quot; To be specific, she&#x27;d written in her Dictionary of Demonkind that the Migurd were capable of telepathic communication with their close friends and family members. She</p>
+<p>also noted that she herself lacked this ability, and had left her village because of it.</p>
 <p>Poor girl.</p>
 <p>Come to think of it though…if this was a Migurd village, maybe mentioning Roxy&#x27;s name would be helpful? Then again, I didn&#x27;t know if she was connected to this specific place. There was also the chance it could backfire completely.</p>
 <p>&quot;The elder&#x27;s on his way,&quot; Rowin said, opening his eyes at last.</p>

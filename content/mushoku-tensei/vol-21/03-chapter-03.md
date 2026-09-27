@@ -36,7 +36,8 @@ nav_title = "Chapter 3"
 <p>&quot;Rudeus Greyrat stands accused.&quot;</p>
 <p><em>Wait, wait. I&#x27;m not following this. Can someone catch me up on what happened last time?</em></p>
 <p><em>I gotcha! Iiiiit&#x27;s recap time!</em></p>
-<p>Our hero Rudeus, trying to rescue his mother, Zenith, went and hung out around the Blessed Child and the captain of her guard, Therese. Then one day, he went to the church headquarters to see Therese, only to find himself trapped inside a King-tier barrier. His captors told him he stood accused of heresy for plotting to kidnap the Blessed Child.</p>
+<p>Our hero Rudeus, trying to rescue his mother, Zenith, went and hung out around the Blessed Child and the captain of her guard, Therese. Then one day, he went to the church headquarters to see Therese, only to find</p>
+<p>himself trapped inside a King-tier barrier. His captors told him he stood accused of heresy for plotting to kidnap the Blessed Child.</p>
 <p>And now I&#x27;m all caught up. Don&#x27;t I feel better.</p>
 <p>Like, okay. I admit I had, at one time, thought about doing some light kidnapping. But I ditched that plan! Instead, I got Therese on my side and had her negotiate Zenith&#x27;s return for me. There had to be some mistake. Either that or someone was spreading false information. I&#x27;d kept that kidnapping plan close to the vest. Aisha, Geese, Cliff…oh, and the pope. The pope was the most suspicious one on that list, though it was also possible Geese had been captured and they&#x27;d tortured it out of him…oh. I hoped Aisha was okay.</p>
 <p>&quot;The inquisition shall now begin! Answer truthfully, Rudeus.&quot;</p>

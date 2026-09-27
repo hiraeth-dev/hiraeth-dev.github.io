@@ -15,7 +15,8 @@ nav_title = "Chapter 1"
 <p>The day I became whole again was also the day of our once-amonth homeroom session. Walking on air, I parted ways with Sylphie, who was walking slightly bowlegged, and peeked into the classroom. Inside were Zanoba, Julie, Linia, Pursena, and finally Cliff. As usual, Nanahoshi was nowhere to be seen.</p>
 <p>&quot;Good morning, Master.&quot;</p>
 <p>&quot;Good morning, Grandmaster.&quot;</p>
-<p>Zanoba and Julie greeted me as soon as they saw me. It hit me then that Julie was pretty cute. She would be seven this year—still just a child, but already cute, with her orange hair that curled outward at the ends. I patted her head. She looked at me in surprise, but immediately lowered her gaze and trembled.</p>
+<p>Zanoba and Julie greeted me as soon as they saw me. It hit me then that Julie was pretty cute. She would be seven this year—still just a child, but already cute, with her orange hair that curled</p>
+<p>outward at the ends. I patted her head. She looked at me in surprise, but immediately lowered her gaze and trembled.</p>
 <p>It seemed she was still afraid of me. It wasn&#x27;t like I was going to eat her or anything…</p>
 <p>&quot;Good morning, Zanoba. Julie.&quot;</p>
 <p>As soon as I greeted them in return, Zanoba tilted his head with an audible, &quot;Hm?&quot; Then he asked, &quot;Master, did something good happen to you?&quot;</p>
@@ -60,7 +61,8 @@ nav_title = "Chapter 1"
 <p>Thinking about it, he had a point. I&#x27;d enrolled here with the goal of curing my impotence. Now that that was done, it might be a good idea to head for Begaritt to reunite with my family. But…</p>
 <p>A lot had happened this past year. I&#x27;d been reunited with Zanoba and we&#x27;d adopted Julie. I&#x27;d become friends with Linia and Pursena, and also formed a bond with Cliff. Then there was Nanahoshi, the girl from my previous world who&#x27;d been transported here. I had a feeling our meeting wasn&#x27;t coincidence. The Man-God&#x27;s real objective might even have been to bring me here so I could meet Nanahoshi, with Sylphie as just the icing on the cake.</p>
 <p>Of course, Sylphie was what mattered most to me. As long as she stayed here, so would I. A bodyguard to the Princess was bound to encounter danger, and while I didn&#x27;t have much to offer, I wanted to protect her with all I had.</p>
-<p>Princess Ariel was currently in her fifth year. She would likely stay until graduation, but I wondered what she had planned after that. If she meant to return to the Asura Kingdom, would it be right for me to accompany them? Now that my illness was cured, I felt like I should touch base with Paul before I went running off across the land. I&#x27;d been periodically sending him letters since enrolling here. I had no way of knowing if any had made it to him, but if even one had, and he responded, I&#x27;d miss his reply if I left the university.</p>
+<p>Princess Ariel was currently in her fifth year. She would likely stay until graduation, but I wondered what she had planned after that. If she meant to return to the Asura Kingdom, would it be right for me to accompany them? Now that my illness was cured, I felt like I should touch base with Paul before I went running off across the</p>
+<p>land. I&#x27;d been periodically sending him letters since enrolling here. I had no way of knowing if any had made it to him, but if even one had, and he responded, I&#x27;d miss his reply if I left the university.</p>
 <p>So I&#x27;d wait, for now. At the very least, I&#x27;d stay in this city until I received a response from Paul.</p>
 <p>&quot;No,&quot; I said to Jenius. &quot;I&#x27;m not sure if I&#x27;ll stay all the way to graduation, but I&#x27;ll be continuing here as a student for the time being.&quot;</p>
 <p>&quot;Oh really? Glad to hear,&quot; he said with a strained smile. I couldn&#x27;t tell if that smile meant he was happy or not.</p>
@@ -77,7 +79,8 @@ nav_title = "Chapter 1"
 <p>&quot;Does that mean you&#x27;re one of those people? Someone with no romantic experiences?&quot;</p>
 <p>&quot;Tch!&quot; She clicked her tongue harshly. &quot;Even I have been in love before. Although we fought and that was the end.&quot;</p>
 <p>Come to think of it, hadn&#x27;t she been in the midst of a lovers&#x27; quarrel when she was summoned here? I wasn&#x27;t sure whether she loved only one of her suitors, or if she was starring in her own reverse harem, but irrespective of whether she intended to apologize or continue their fight, she still had to go home.</p>
-<p>In fact, now that I thought about it, there was a high possibility that those other two had been transported here as well. But I&#x27;d heard no rumors of people like that outside of Nanahoshi, so it was equally possible they hadn&#x27;t. Then again, the likelihood of survival after being thrown into this world all alone and mana-less would be… No, I shouldn&#x27;t say that. Perhaps Nanahoshi had already made those calculations, based on how lucky she had been to make it this far…and what would happen to someone if they weren&#x27;t so lucky.</p>
+<p>In fact, now that I thought about it, there was a high possibility that those other two had been transported here as well. But I&#x27;d heard no rumors of people like that outside of Nanahoshi, so it was</p>
+<p>equally possible they hadn&#x27;t. Then again, the likelihood of survival after being thrown into this world all alone and mana-less would be… No, I shouldn&#x27;t say that. Perhaps Nanahoshi had already made those calculations, based on how lucky she had been to make it this far…and what would happen to someone if they weren&#x27;t so lucky.</p>
 <p>Nanahoshi&#x27;s lips hardened into a frown as she mumbled, &quot;It&#x27;s enough if the person you like just stays by your side.&quot;</p>
 <p>It sounded like she was having a tough time. I shouldn&#x27;t have asked.</p>
 <p>***</p>
@@ -140,7 +143,8 @@ nav_title = "Chapter 1"
 <p>Sylphie clapped a hand over her mouth at my blunt declaration. Luke faltered, breaking his formal posture as the shock registered on his face. Even Ariel looked utterly dumbfounded. Had I said something weird again? Maybe they thought I was moving too fast.</p>
 <p>&quot;You&#x27;re going to marry Sylphie?&quot;</p>
 <p>&quot;Yes.&quot;</p>
-<p>This was fast, of course. I&#x27;d only recently realized that Master Fitz was actually Sylphie. Part of me felt like we should date for several months, get to know each other better first. Also, if we got married, I couldn&#x27;t take off at a moment&#x27;s notice even if I got an urgent letter from Paul. Still, even taking all that into account, I meant what I said.</p>
+<p>This was fast, of course. I&#x27;d only recently realized that Master Fitz was actually Sylphie. Part of me felt like we should date for several months, get to know each other better first. Also, if we got married, I couldn&#x27;t take off at a moment&#x27;s notice even if I got an</p>
+<p>urgent letter from Paul. Still, even taking all that into account, I meant what I said.</p>
 <p>I thought back to Eris. Sylphie might leave me, too, if I beat around the bush once more instead of being clear and honest about my feelings. I didn&#x27;t think I could take another blow like that. I was leaving nothing to chance this time.</p>
 <p>&quot;Marriage. A magnificent decision.&quot; Princess Ariel nodded in satisfaction and looked at Sylphie. &quot;Sylphiette Greyrat.&quot;</p>
 <p>&quot;Wha?! Huh?! Greyrat… What?!&quot; Sylphie became flustered.</p>

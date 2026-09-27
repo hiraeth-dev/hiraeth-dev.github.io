@@ -67,7 +67,8 @@ nav_title = "Chapter 2"
 <p>I was bewildered. Totally bewildered. What the hell had happened? Where was Buena Village now? Where were Zenith and Lilia? The Citadel of Roa had disappeared, too. Did that mean even Rudeus was gone?</p>
 <p><em>This can&#x27;t be happening.</em></p>
 <p>At some point, I&#x27;d fallen to my knees in shock and anguish. The words &quot;they were wiped out by a teleport trap&quot; echoed inside my mind.</p>
-<p>It was a phrase I&#x27;d heard more than once back in my adventuring days, when I was still exploring labyrinths. Teleportation traps were the one thing you had to watch out for. They split your party up and left you uncertain of your own location. Triggering one was a very, very bad idea. I heard numerous stories of veteran teams that were totally wiped out as a result of those things. Once, I&#x27;d seen a stunned man recounting how his whole party had stepped on a teleportation circle. He&#x27;d managed to team up with another adventurer and fight his way out of the labyrinth, only to discover that all his friends had perished.</p>
+<p>It was a phrase I&#x27;d heard more than once back in my adventuring days, when I was still exploring labyrinths. Teleportation traps were the one thing you had to watch out for. They split your party up and left you uncertain of your own location. Triggering one</p>
+<p>was a very, very bad idea. I heard numerous stories of veteran teams that were totally wiped out as a result of those things. Once, I&#x27;d seen a stunned man recounting how his whole party had stepped on a teleportation circle. He&#x27;d managed to team up with another adventurer and fight his way out of the labyrinth, only to discover that all his friends had perished.</p>
 <p>But why had this happened here? To us?</p>
 <p>&quot;Daddy…aren&#x27;t we home yet?&quot;</p>
 <p>Norn&#x27;s voice snapped me back to reality. Her small hand was clutching at my sleeve.</p>
@@ -94,7 +95,8 @@ nav_title = "Chapter 2"
 <p>Talk about blind optimism.</p>
 <p>***</p>
 <p>My first six months in Millis were productive enough.</p>
-<p>As it turned out, a large number of Fittoans had been teleported to this continent, and we went around rescuing every last one of them. Some had already been sold off as slaves, and forcibly liberating someone else&#x27;s &quot;property&quot; was against the law in Millis. But the thought of someone selling Zenith or Lilia into slavery made me so furious that I never hesitated to break that law. I stuck stubbornly to a policy of rescuing everyone we found.</p>
+<p>As it turned out, a large number of Fittoans had been teleported to this continent, and we went around rescuing every last one of</p>
+<p>them. Some had already been sold off as slaves, and forcibly liberating someone else&#x27;s &quot;property&quot; was against the law in Millis. But the thought of someone selling Zenith or Lilia into slavery made me so furious that I never hesitated to break that law. I stuck stubbornly to a policy of rescuing everyone we found.</p>
 <p>Once I&#x27;d decided on that course of action, I turned to Zenith&#x27;s family for help. As it happens, my wife came from a noble house with some real power in Millis. They were well-known for producing many famous knights, among other things. With their assistance, I started to lay the groundwork for freeing all the slaves we&#x27;d located.</p>
 <p>All in all, our efforts went smoothly. We moved fast and found many of the stranded, penniless Fittoans quickly. Once we extracted them from whatever predicament they&#x27;d landed in, we provided those capable of heading back home themselves with traveling funds, recruited any willing volunteers into our squad, and found places for the children and elderly refugees to stay.</p>
 <p>Freeing the slaves took more effort, of course. We paid for their freedom where we could. When that wasn&#x27;t an option, we had Zenith&#x27;s family put the pressure on. And when that didn&#x27;t work, we looked for chances to snatch them from their owners.</p>
@@ -128,7 +130,8 @@ nav_title = "Chapter 2"
 <p>I didn&#x27;t want to believe that, of course.</p>
 <p>So I drank. When I was drunk, at least, I could feel something like happiness.</p>
 <p>I wasn&#x27;t doing much real work anymore.</p>
-<p>In another six months, we&#x27;d be starting an operation to send many of the Fittoans we&#x27;d found on the Millis Continent back home. These were old people, women, children, and people so sick they could barely move. Even if we gave them money, there was no guarantee they could endure a long journey. But they all wanted to return to their homeland, and so my squad would be escorting them all the way back to the Kingdom of Asura.</p>
+<p>In another six months, we&#x27;d be starting an operation to send many of the Fittoans we&#x27;d found on the Millis Continent back home. These were old people, women, children, and people so sick they</p>
+<p>could barely move. Even if we gave them money, there was no guarantee they could endure a long journey. But they all wanted to return to their homeland, and so my squad would be escorting them all the way back to the Kingdom of Asura.</p>
 <p>The planning was moving forward steadily. But despite my role as captain of the squad, I skipped out on the meetings and spent my days drinking.</p>
 <p>I would be remaining in Millis after the operation, along with a few other key members of the Search and Rescue Squad. Once it was complete, however, our activities would be scaled down sharply. In other words, they were going to cut off the search for victims after only two years. It felt much too early…but at the same time, I had to admit that I understood their logic. Continuing to comb the countryside would just be a waste of money at this point.</p>
 <p>In the end, I hadn&#x27;t managed to find a single member of my family.</p>
@@ -137,7 +140,8 @@ nav_title = "Chapter 2"
 <p>There were a few exceptions, though, and Norn was one of them.</p>
 <p>&quot;Daddy! Guess what? Guess what happened when I was outside?&quot;</p>
 <p>No matter how drunk I might be, Norn would always chatter happily at me. This sweet little kid was all I had left of my family now.</p>
-<p>Right. There was a good reason I hadn&#x27;t gone to the Demon Continent or Begaritt, wasn&#x27;t there? I had Norn to take care of. What was I supposed to do, abandon my four-year-old daughter? There was no way I could have left her behind and wandered off somewhere I might easily die.</p>
+<p>Right. There was a good reason I hadn&#x27;t gone to the Demon Continent or Begaritt, wasn&#x27;t there? I had Norn to take care of. What was I supposed to do, abandon my four-year-old daughter? There</p>
+<p>was no way I could have left her behind and wandered off somewhere I might easily die.</p>
 <p>&quot;Hm? What&#x27;s up, Norn? Did something good happen?&quot;</p>
 <p>&quot;Yeah! I almost fell down in the street outside, but this big bald guy helped me out! And then he gave me this! Look!&quot;</p>
 <p>With a big smile, Norn showed me the bright red apple in her hands. It sure looked fresh and juicy.</p>

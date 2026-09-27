@@ -186,7 +186,8 @@ nav_title = "Chapter 6"
 <p>No. Rudeus wasn&#x27;t a child. Even if an enemy did appear, he would be able to handle them. Rudeus&#x27; defenses could be weak, perhaps because he was young, but he wasn&#x27;t so naive as to let his guard down in enemy territory.</p>
 <p>Besides, right now he didn&#x27;t have Eris to worry about. If Rudeus used the full extent of his powers, he couldn&#x27;t be defeated. The only problem was that he was conflicted about taking a person&#x27;s life. If he limited his powers too much, the tables might be turned on him. No…he wasn&#x27;t that foolish, surely.</p>
 <p>Rudeus didn&#x27;t need his concern. Still, Ruijerd was troubled. If he continued into town with the children like this, he had a bad feeling about what might happen.</p>
-<p>He&#x27;d faced similar circumstances many times before. He would rescue children from slave merchants and attempt to return them to the city, only to be mistaken as a kidnapper himself. His head was shaved and the jewel in his forehead was hidden, but he was poor with words. If the garrison stopped him for questioning, he had no confidence in his ability to explain what had happened.</p>
+<p>He&#x27;d faced similar circumstances many times before. He would rescue children from slave merchants and attempt to return them to the city, only to be mistaken as a kidnapper himself. His head was shaved and the jewel in his forehead was hidden, but he was poor</p>
+<p>with words. If the garrison stopped him for questioning, he had no confidence in his ability to explain what had happened.</p>
 <p>Surely the humans of the city would take care of things if he just left the children there, right? No, Rudeus would definitely have some choice words for him if he did that.</p>
 <p>&quot;Mew, Mister, I&#x27;m sorry about before, mew.&quot;</p>
 <p>While he worried, one of the girls came over and patted his leg. The other children looked similarly apologetic. It almost felt like they were the ones rescuing him.</p>
@@ -197,7 +198,8 @@ nav_title = "Chapter 6"
 <p>Suddenly his third eye sensed someone rapidly approaching. Their speed was incredible, and their aura was strong. They came from the direction of the building they&#x27;d left behind. Was it one of the smugglers&#x27; allies? But they seemed too adept for that. It couldn&#x27;t be, he thought. Did they actually defeat Rudeus…?</p>
 <p>&quot;Get back.&quot; He had the children take cover behind him as he readied his spear.</p>
 <p>The victor would be the one who struck first. He would bring them down in one blow.</p>
-<p>Or so he thought, but Ruijerd&#x27;s opponent stopped just short of his reach. It was a male beastperson, holding a thick hatchet in his hand. The man was clearly wary as he took a stance of his own. He was elderly, but he had a calm, composed and dignified air about him. The air of a warrior. Yet Ruijerd would kill him if he were in league with those bastards from before. Someone who let something like this happen to children of his own race was no true warrior.</p>
+<p>Or so he thought, but Ruijerd&#x27;s opponent stopped just short of his reach. It was a male beastperson, holding a thick hatchet in his hand. The man was clearly wary as he took a stance of his own. He</p>
+<p>was elderly, but he had a calm, composed and dignified air about him. The air of a warrior. Yet Ruijerd would kill him if he were in league with those bastards from before. Someone who let something like this happen to children of his own race was no true warrior.</p>
 <p>&quot;Ah, Grandpa, mew!&quot; The cat girl called out to the older warrior and rushed to him.</p>
 <p>&quot;Tona! You&#x27;re all right!&quot;</p>
 <p>The old warrior welcomed the girl into his arms, a look of relief crossing his face. Ruijerd lowered his spear. Apparently this man had come to save the children. Ruijerd was wrong to doubt him as a warrior; he was clearly an honorable man.</p>

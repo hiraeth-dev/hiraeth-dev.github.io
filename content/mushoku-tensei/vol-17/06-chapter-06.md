@@ -17,7 +17,8 @@ nav_title = "Chapter 6"
 <p>&quot;This wasn&#x27;t even on our map,&quot; I murmured.</p>
 <p>&quot;Yeah, it&#x27;s positioned so you can&#x27;t see it from a distance,&quot; said Triss. &quot;And this is all our turf, so you won&#x27;t see it on any maps.&quot;</p>
 <p>&quot;Hmm…&quot;</p>
-<p>We proceeded to follow the curve of the lake to the cliff on the far side. At first glance, it looked like a sheer, almost featureless rock face right at the water&#x27;s edge. But a single stone tablet stood on the ground nearby. When Triss performed some sort of incantation in front of it, part of the cliff melted away, and a cave appeared before our eyes.</p>
+<p>We proceeded to follow the curve of the lake to the cliff on the far side. At first glance, it looked like a sheer, almost featureless rock face right at the water&#x27;s edge. But a single stone tablet stood on the</p>
+<p>ground nearby. When Triss performed some sort of incantation in front of it, part of the cliff melted away, and a cave appeared before our eyes.</p>
 <p>&quot;This way,&quot; she called. &quot;It&#x27;s easy to slip and fall in here, so watch your step.&quot;</p>
 <p>She led the way once again, stepping carefully into the lake, which continued into the cliffside cave. Apparently, the water was very shallow here. It only came up to about her knees.</p>
 <p>&quot;Come on, Rudeus!&quot; said Eris, her eyes sparkling with excitement. &quot;Let&#x27;s go!&quot;</p>
@@ -261,7 +262,8 @@ nav_title = "Chapter 6"
 <p>During the day, I would pretend to be Ariel&#x27;s ally, but carefully lead her into the enemy&#x27;s traps. And at night, I&#x27;d sneak off to meet with Darius&#x27; spies and tell them everything I knew. In fact, I&#x27;d secretly orchestrated all of these events, after many years of scheming. Even my marriage to Sylphie was supposedly just another step in my master plan.</p>
 <p>This version of Rudeus sounded like one ridiculously thorough, clever guy. It was a shame I couldn&#x27;t have him take the reins for me. My life would probably go a lot smoother.</p>
 <p>At first, Luke had found all of this implausible. It was particularly hard for him to believe I had any interest in joining the nobility. I felt like he&#x27;d never trusted me that much, but I guess I&#x27;d earned that benefit of the doubt, at least.</p>
-<p>However, recent events like the destruction of the teleportation circles and the betrayal of the Notos family had unfolded exactly as the Man-God predicted. That was enough to chip away at Luke&#x27;s faith in me. And once he started looking at me with suspicion, he found reasons to believe the Man-God&#x27;s story.</p>
+<p>However, recent events like the destruction of the teleportation circles and the betrayal of the Notos family had unfolded exactly as</p>
+<p>the Man-God predicted. That was enough to chip away at Luke&#x27;s faith in me. And once he started looking at me with suspicion, he found reasons to believe the Man-God&#x27;s story.</p>
 <p>It seemed he still suspected me, even now.</p>
 <p>Ariel told me that the best way to prove my innocence to Luke was through my actions. She also promised that she would keep him from doing anything unwise in the meantime.</p>
 <p>Hearing all this came as something of a relief. The Man-God hadn&#x27;t done anything that clever here, so it wouldn&#x27;t be that hard to break his grip on Luke. The fact of the matter was, I&#x27;d never even met Darius, I had no desire to take over my dad&#x27;s childhood home, and I wasn&#x27;t interested in sleeping with Ariel. Luke could suspect me to his heart&#x27;s content, but I just wasn&#x27;t going to betray them.</p>
@@ -270,7 +272,8 @@ nav_title = "Chapter 6"
 <p>***</p>
 <p>The next day, we set out south from Rikket.</p>
 <p>Luke constantly glared at me now, and did his very best to ensure that I was never alone with Ariel. He probably thought that I might murder the princess and send her head to Grabel, now that she&#x27;d publicly declared I would never be a noble.</p>
-<p>I didn&#x27;t really mind. At this point, I knew what was going on in Luke&#x27;s head, and Ariel had him on a leash. It was one less thing to worry about. I don&#x27;t know if Ariel had anticipated any of this, but I was impressed by how quickly she&#x27;d lightened the load on my shoulders.</p>
+<p>I didn&#x27;t really mind. At this point, I knew what was going on in Luke&#x27;s head, and Ariel had him on a leash. It was one less thing to worry about. I don&#x27;t know if Ariel had anticipated any of this, but I</p>
+<p>was impressed by how quickly she&#x27;d lightened the load on my shoulders.</p>
 <p>One other thing worth mentioning took place that day. The princess personally told both Ghislaine and Eris about the things we&#x27;d learned about the death of Sauros.</p>
 <p>&quot;…So all in all, it seems quite likely that members of my faction played a key role in the downfall of Lord Sauros.&quot;</p>
 <p>&quot;I see…&quot;</p>

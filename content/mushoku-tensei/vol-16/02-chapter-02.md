@@ -26,7 +26,8 @@ nav_title = "Chapter 2"
 <p><em>But wait, could this be his way of putting a leash on me in case I betray him? Like, if I turn my back on him, will he threaten me? &quot;With a snap of my fingers, that beast residing at your house will devour your entire family.&quot;</em></p>
 <p>That really didn&#x27;t seem likely.</p>
 <p>&quot;In any case, I&#x27;m going to summon it now. If it seems dangerous, we&#x27;ll get rid of it together, and then I can give Orsted an earful.&quot;</p>
-<p>&quot;Sounds good to me!&quot; Eris declared in excitement. She pulled a sword from its scabbard with a majestic clang. She had two at her hip. On the right was Eminence, a magic blade the Sword God had gifted her. On her left was one she had grown attached to and used for a long time.</p>
+<p>&quot;Sounds good to me!&quot; Eris declared in excitement. She pulled a sword from its scabbard with a majestic clang. She had two at her</p>
+<p>hip. On the right was Eminence, a magic blade the Sword God had gifted her. On her left was one she had grown attached to and used for a long time.</p>
 <p><em>Isn&#x27;t it cumbersome, carrying both at the same time?</em></p>
 <p>&quot;When that happens, all of us will be able to fight Orsted together!&quot; she declared.</p>
 <p><em>We&#x27;re not going to fight. We&#x27;re just going to file a complaint, like a normal dissatisfied customer. If we tried to take him down, we&#x27;d be the ones kicking the bucket instead.</em></p>

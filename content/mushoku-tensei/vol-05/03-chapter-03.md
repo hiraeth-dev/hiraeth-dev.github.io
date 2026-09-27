@@ -168,7 +168,8 @@ nav_title = "Chapter 3"
 <p>What was I supposed to do about any of it now?</p>
 <p>Paul didn&#x27;t say another word. Norn was silent, too. But I could see the hostility in their eyes, and it hurt me deeply. It felt like they&#x27;d taken a big piece out of my heart.</p>
 <p>I glanced around the room and saw that Paul&#x27;s comrades were also looking at me with reproachful eyes.</p>
-<p>More painful memories came flooding back. I remembered the day after a bunch of delinquents stripped me naked and tied me up outside for everyone to see. I remembered the way everyone looked at me when I walked into the classroom that morning.</p>
+<p>More painful memories came flooding back. I remembered the day after a bunch of delinquents stripped me naked and tied me up</p>
+<p>outside for everyone to see. I remembered the way everyone looked at me when I walked into the classroom that morning.</p>
 <p>My mind went blank.</p>
 <p>***</p>
 <p>At some point, I&#x27;d made my way back to our room in the inn.</p>

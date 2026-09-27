@@ -141,7 +141,8 @@ nav_title = "Chapter 2"
 <p><em>I have to kill that bastard, if it&#x27;s the last thing I do…</em></p>
 <p>Well… that was a downer.</p>
 <p>Losing both Zanoba and Aisha in such a horrible way must have been crushing.</p>
-<p>That said, I was slightly curious why my future self hadn&#x27;t tried to locate the rest of my family. Maybe I&#x27;d decided that I had no right to call myself Lucie&#x27;s father. Or maybe Lilia and the others had died as well, and those events just weren&#x27;t recorded in this diary. Norn&#x27;s name hadn&#x27;t come up in a very long time, which wasn&#x27;t exactly reassuring…</p>
+<p>That said, I was slightly curious why my future self hadn&#x27;t tried to locate the rest of my family. Maybe I&#x27;d decided that I had no right to call myself Lucie&#x27;s father. Or maybe Lilia and the others had died as well, and those events just weren&#x27;t recorded in this diary. Norn&#x27;s</p>
+<p>name hadn&#x27;t come up in a very long time, which wasn&#x27;t exactly reassuring…</p>
 <p><em>Okay, let&#x27;s stop speculating.</em></p>
 <p>If it wasn&#x27;t in the diary, it hadn&#x27;t happened. That was how I needed to approach this.</p>
 <p>In any case… it didn&#x27;t seem like Zanoba&#x27;s death was necessarily the Man-God&#x27;s doing, but my future self was blaming everything on him. At this point in my life, I&#x27;d clearly developed a single-minded obsession with taking revenge. I threw myself into the search for the Man-God even more intensely than before, viciously butchering anyone who stood in my way.</p>

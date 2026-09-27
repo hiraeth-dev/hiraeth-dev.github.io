@@ -62,7 +62,8 @@ nav_title = "Chapter 5"
 <p>My brother&#x27;s cold tone set off a twinge of fear inside me.</p>
 <p>I thought he was going to punch me for a second. I was so scared I cried a little.</p>
 <p>Was I going to have to keep living like this, constantly flinching in fear?</p>
-<p>On the day of the exam, Rudeus told me about the dorms. Apparently, the University of Magic let its students live in big buildings on the campus, to help them grow more independent. It sounded like the solution to all my problems.</p>
+<p>On the day of the exam, Rudeus told me about the dorms. Apparently, the University of Magic let its students live in big</p>
+<p>buildings on the campus, to help them grow more independent. It sounded like the solution to all my problems.</p>
 <p>I had no doubt my sister would pass the exam, which meant she wouldn&#x27;t have to go to school. So if I moved into the dorms, I wouldn&#x27;t have to see her or Rudeus anymore. No one would compare me to anybody. I could just be myself and live my own life.</p>
 <p>The more I thought about, the more perfect it sounded.</p>
 <p>A few days later, we got the results from the test, and my brother asked me what I wanted to do now. Hesitantly, I admitted that I wanted to live in the dorms.</p>

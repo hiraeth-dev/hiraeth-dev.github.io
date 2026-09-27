@@ -27,7 +27,8 @@ nav_title = "Chapter 7"
 <p>&quot;Does Aisha…&quot; Lilia began to ask, glancing outside the window, &quot;…sometimes say things that are offensive?&quot;</p>
 <p>&quot;Of course not. She&#x27;s an exceptional kid. No normal child could put that much forethought into their actions at six.&quot;</p>
 <p>&quot;But she&#x27;s not as great as you. I tried to teach her as much as I could these past few years, but even now, my daughter&#x27;s too stupid to understand how amazing you are, Lord Rudeus.&quot;</p>
-<p>&quot;Calling her stupid is going a bit overboard.&quot; Besides, I&#x27;d had an advantage in the form of the memories from my previous life. I had considered the possibility that Aisha might be the same as me, but when I tried asking her about the existence of things like television and cellphones, she just stared blankly at me. The girl was just an ordinary genius. Paul&#x27;s genes, as it turned out, were actually pretty incredible.</p>
+<p>&quot;Calling her stupid is going a bit overboard.&quot; Besides, I&#x27;d had an advantage in the form of the memories from my previous life. I had considered the possibility that Aisha might be the same as me, but when I tried asking her about the existence of things like television and cellphones, she just stared blankly at me. The girl was just an</p>
+<p>ordinary genius. Paul&#x27;s genes, as it turned out, were actually pretty incredible.</p>
 <p>&quot;What do you think of Aisha?&quot; Lilia asked, as if the question had just popped into her head.</p>
 <p>&quot;Huh? I told you, she&#x27;s exceptional.&quot;</p>
 <p>&quot;I don&#x27;t mean that. I mean her appearance.&quot;</p>
@@ -80,7 +81,8 @@ nav_title = "Chapter 7"
 <p>&quot;Just a moment.&quot; She grabbed the hem of my shirt and dragged me along with her. I shot Ruijerd a look so he would understand, then went ahead and followed her.</p>
 <p>The place she brought me to was a small thicket by the roadside. She crouched and gestured for me to follow suit. I did as she asked and leaned in close as if we were about to have a secret conversation.</p>
 <p>&quot;Mister Kennel Master, I actually have a favor I want to ask of you, privately.&quot;</p>
-<p>&quot;A favor? If it&#x27;s something I can do, sure.&quot; If my cute little sister had a task for me, I would do my best to fulfill it. Norn already hated me, and I didn&#x27;t want Aisha to hate me, too. I seemed to be in her good graces for now, but that was because she thought I was the Kennel Master.</p>
+<p>&quot;A favor? If it&#x27;s something I can do, sure.&quot; If my cute little sister had a task for me, I would do my best to fulfill it. Norn already hated me, and I didn&#x27;t want Aisha to hate me, too. I seemed to be in her</p>
+<p>good graces for now, but that was because she thought I was the Kennel Master.</p>
 <p>&quot;Please take me along with you.&quot;</p>
 <p>My eyes went wide when I heard her ask that. Was this Lilia&#x27;s doing…?</p>
 <p>&quot;Did your mom tell you to say that?&quot; Perhaps she thought that since I refused her request, she&#x27;d use her daughter&#x27;s tears to persuade me instead. Lilia was more cunning than I gave her credit for.</p>
@@ -135,6 +137,7 @@ nav_title = "Chapter 7"
 <p>And off they went.</p>
 <p>Eris had a completely unamused look on her face as she said, &quot;What the hell? She completely saw right through you.&quot;</p>
 <p>&quot;H-how…?&quot;</p>
-<p>Ruijerd gave the horse&#x27;s reins a tug and the carriage jerked into motion. In retrospect, there were many opportunities for her to realize the truth. I called her by her name when we first met, and when I was speaking to Eris and Ruijerd after that, I&#x27;m pretty sure they let my name slip, too.</p>
+<p>Ruijerd gave the horse&#x27;s reins a tug and the carriage jerked into motion. In retrospect, there were many opportunities for her to realize the truth. I called her by her name when we first met, and</p>
+<p>when I was speaking to Eris and Ruijerd after that, I&#x27;m pretty sure they let my name slip, too.</p>
 <p>So why did she pretend not to know? Think, think, I told myself, and the answer came quickly. She was probably trying to determine for herself if her brother was someone who could be trusted. If I&#x27;d kept up the charade of being the Kennel Master and tried to drag her along with me, I had no doubt she would&#x27;ve turned her back on me.</p>
 <p>&quot;Haha.&quot; Once I realized that, I laughed. She truly was a brilliant, clever little girl. I looked forward to seeing her once she was older.</p>

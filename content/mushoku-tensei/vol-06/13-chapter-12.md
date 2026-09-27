@@ -99,14 +99,16 @@ nav_title = "Chapter 12"
 <p>&quot;Oh, All right…&quot;</p>
 <p>There were two possibilities, then. Either she hadn&#x27;t settled down yet and so she had no contact information to list, or someone else had spotted her and updated the list, so her contact information hadn&#x27;t been recorded. There was the possibility that there&#x27;d been some mistake, but I didn&#x27;t think that was it. There was an extremely high possibility that Sylphie had survived. For the moment, I should just be happy about that.</p>
 <p>Of course, I was worried, too. About her hair color, for instance. It was a slightly different shade than that of the Superd&#x27;s, but it was still the same general color. According to the Man-God, the curse was one that applied only to the Superd tribe. Still, there were many cruel people out there in the world. She might be out there somewhere, crying because of a comment made about her hair…</p>
-<p>No. Paul had said that she could use healing magic without the need for incantations. That meant she had enough strength to survive on her own. Perhaps she was just like me, working as an adventurer. Perhaps she was searching for her family, unaware that they&#x27;d already passed away. In fact, if she&#x27;d survived the incident, that was probably the most likely possibility. I just prayed she hadn&#x27;t become a slave or anything.</p>
+<p>No. Paul had said that she could use healing magic without the need for incantations. That meant she had enough strength to</p>
+<p>survive on her own. Perhaps she was just like me, working as an adventurer. Perhaps she was searching for her family, unaware that they&#x27;d already passed away. In fact, if she&#x27;d survived the incident, that was probably the most likely possibility. I just prayed she hadn&#x27;t become a slave or anything.</p>
 <p>For the moment, I took it upon myself to cross Lilia&#x27;s and Aisha&#x27;s names off the missing list. There was already a line through my name. They had heard that Eris was on her way here, so they probably knew about me as well.</p>
 <p>Among Paul&#x27;s family, the only name that remained was Zenith Greyrat, meaning she still hadn&#x27;t been found, after all. Perhaps I&#x27;d ask the Man-God the next time he appeared in my dreams.</p>
 <p>When I finished looking over the bulletin board, Eris still hadn&#x27;t come out of the room. She was normally so quick to recover. This was the first time I&#x27;d seen her this troubled over something. But we&#x27;d journeyed so far to get here, and now that she&#x27;d arrived home, there was no family or warm house to welcome her. Perhaps that was enough to overwhelm even someone as strong as Eris.</p>
 <p>Maybe I should go back and comfort her after all, I thought. No, let&#x27;s wait a little bit longer.</p>
 <p>I decided to return to the building where I&#x27;d left our luggage. I figured I&#x27;d find something to preoccupy myself, though I didn&#x27;t have any ideas as to what. Perhaps I&#x27;d just rest a little instead.</p>
 <p>***</p>
-<p>Alphonse called to me as I moved to leave. He brought me to a room located in the refugee camp&#x27;s headquarters and took a seat in front of me. To my right sat Ghislaine. The only reason the two of them were sitting was probably because Eris wasn&#x27;t with us. Unlike me, they seemed to understand the master/servant hierarchy.</p>
+<p>Alphonse called to me as I moved to leave. He brought me to a room located in the refugee camp&#x27;s headquarters and took a seat in front of me. To my right sat Ghislaine. The only reason the two of</p>
+<p>them were sitting was probably because Eris wasn&#x27;t with us. Unlike me, they seemed to understand the master/servant hierarchy.</p>
 <p>&quot;Now then, Master Rudeus, please provide a concise report.&quot;</p>
 <p>&quot;A report?&quot;</p>
 <p>&quot;Yes, as to what you have been doing these past three years.&quot;</p>
@@ -167,7 +169,8 @@ nav_title = "Chapter 12"
 <p>&quot;Not quite. While I can&#x27;t help but grimace at the idea of the man himself, Lord Darius has the most influence in the capital right now. Lady Eris won&#x27;t like him, but it would guarantee her status and the comfort of her living conditions.&quot;</p>
 <p>&quot;But still…&quot;</p>
 <p>&quot;And if she were to make a bit of a selfish request, he would surely listen to her. For example, if she requested the development of a village in the Fittoa Region for its people.&quot;</p>
-<p>Now I understood. If she became a powerful woman herself, then she&#x27;d be able to tap into his money and influence. Even so, I didn&#x27;t like the idea of Eris being with that pervert. &quot;What are our other options?&quot;</p>
+<p>Now I understood. If she became a powerful woman herself, then she&#x27;d be able to tap into his money and influence. Even so, I</p>
+<p>didn&#x27;t like the idea of Eris being with that pervert. &quot;What are our other options?&quot;</p>
 <p>&quot;As for the other nobles… With Lord Sauros and Lord Philip gone, Lady Eris doesn&#x27;t have any value left as the daughter of a noble family.&quot;</p>
 <p>Value, hm? Maybe that was how they saw it. In my eyes, Eris already had plenty of value just on her own.</p>
 <p>&quot;Lord Rudeus, which do you think is the best route for us to take?&quot; Alphonse asked.</p>

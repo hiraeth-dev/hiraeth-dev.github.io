@@ -48,7 +48,8 @@ nav_title = "Chapter 8"
 <p>When she arrived, she was in full battle mode. Rather than normal civilian clothes, she wore the overcoat of a Sword King and carried two swords—a bold announcement to anyone in viewing distance that here was a warrior they ought to know about.</p>
 <p>&quot;Now that I&#x27;m here, it&#x27;ll all be fine! I&#x27;ll cut them all in half!&quot; Eris boasted. &quot;Dumb move on Geese&#x27;s part, turning against you! Wormy guy was right when he was all &#x27;Aw, no, I&#x27;m no match for the boss, no way!&#x27;&quot;</p>
 <p>Hearing her chatter away, cheerful as anything, settled my nerves a bit. I wasn&#x27;t going to get caught up in a battle and murdered this week, I consoled myself. On some level, I probably even believed it.</p>
-<p>&quot;Eris…&quot; I said, then wrapped her in my arms. That turned into fondling her breasts, at which point she beat me to death. As my consciousness faded, everything became clear:</p>
+<p>&quot;Eris…&quot; I said, then wrapped her in my arms. That turned into fondling her breasts, at which point she beat me to death. As my</p>
+<p>consciousness faded, everything became clear:</p>
 <p>This.</p>
 <p>This had been Geese&#x27;s plan all along.</p>
 <p>— FIN —</p>

@@ -70,7 +70,8 @@ nav_title = "Chapter 2"
 <p>No. It was probably just their captain. Auber was supposed to be much flashier.</p>
 <p>The soldiers remained silent, but didn&#x27;t move. They clearly had no intention of letting us pass.</p>
 <p>&quot;Hop off, Rudy,&quot; Sylphie said quietly.</p>
-<p>I got off the horse and backed up closer to the carriage. Sylphie promptly spurred her horse forward, positioning herself between Eris and Ghislaine. &quot;I am Fitz, guardian mage!&quot; she called out, her eyes fixed on the plumed soldier. &quot;Are you aware that this carriage carries Ariel Anemoi Asura, Second Princess of Asura? Who are you, and who do you serve?!&quot;</p>
+<p>I got off the horse and backed up closer to the carriage. Sylphie promptly spurred her horse forward, positioning herself between Eris and Ghislaine. &quot;I am Fitz, guardian mage!&quot; she called out, her</p>
+<p>eyes fixed on the plumed soldier. &quot;Are you aware that this carriage carries Ariel Anemoi Asura, Second Princess of Asura? Who are you, and who do you serve?!&quot;</p>
 <p><em>Wow. That girl can sound really intimidating when she wants to…</em></p>
 <p>The plumed soldier didn&#x27;t say a word in a response. Instead, he drew his sword. The rest of the soldiers quickly followed his lead, filling the air with the sound of ringing metal.</p>
 <p>In that same moment, many more armored soldiers emerged from the forest on either side of the road. The majority carried swords, but I saw a few with staffs as well.</p>

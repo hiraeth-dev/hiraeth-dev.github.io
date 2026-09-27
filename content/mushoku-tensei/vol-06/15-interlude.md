@@ -11,7 +11,8 @@ nav_title = "Interlude"
 <p>&quot;This food really goes great with some alcohol!&quot;</p>
 <p>Ever since they arrived in this town, Talhand had been in good spirits. Krasma didn&#x27;t just have the bitter alcohol of the Demon Continent, but the sweet alcohol of the seafolk as well. Talhand, being a dwarf, loved alcohol, and as long as the drinking was fun, he didn&#x27;t seem to mind how bad it tasted. When he went to the pub, he invariably hit it off with the ruffians there and drank enough alcohol to fill an entire bathtub. Pubs were everywhere in Krasma, so between that and the good food, Talhand was in paradise.</p>
 <p>As for Roxy, she still had the tastes of a child despite her age, so the cuisine of this town didn&#x27;t agree with her. The food and seasonings of the Demon Continent weren&#x27;t her thing, on the whole. She liked sweet things.</p>
-<p>The saving grace was the seafolk&#x27;s specialty, which was sweet alcohol. It came as quite a shock to Roxy, who&#x27;d only ever associated alcohol with bitterness. The liquor had an airy, seashore-like fragrance to it, and if you took a drink, an indescribably sweet flavor would spread in your mouth. The aftertaste left a bit of saltiness, which only made you want to snack as you drank.</p>
+<p>The saving grace was the seafolk&#x27;s specialty, which was sweet alcohol. It came as quite a shock to Roxy, who&#x27;d only ever associated alcohol with bitterness. The liquor had an airy, seashore-like fragrance to it, and if you took a drink, an indescribably sweet flavor</p>
+<p>would spread in your mouth. The aftertaste left a bit of saltiness, which only made you want to snack as you drank.</p>
 <p>&quot;Now that&#x27;s a rare sight! So you&#x27;re drinkin&#x27; too, eh, Roxy?!&quot;</p>
 <p>&quot;Yes, I am.&quot;</p>
 <p>&quot;Yer in a good mood today, eh?&quot; Talhand watched as Roxy drank and cheerfully put in his next order. &quot;Barkeep, bring us a cask! I&#x27;ll teach ya how to drink like a dwarf!&quot;</p>
@@ -89,7 +90,8 @@ nav_title = "Interlude"
 <p>&quot;Urgh…&quot;</p>
 <p>Her head was pounding, and her face puckered when she smelled the stench of alcohol on her own breath. She immediately used a spell specifically tailored for hangovers to remove the toxins from her body, then used a healing spell on her head. When she looked around, she realized she was in a pub. It looked as if there had been a brawl; the table was broken, and empty casks and shattered bottles lay strewn about.</p>
 <p>&quot;Urgh, I really did drink too much.&quot; Her memory was hazy, but she did remember drinking too much.</p>
-<p>She glanced to the side to see a half-naked Talhand lying there with only the whites of his eyes showing. For a moment, Roxy thought he might be dead, but a dwarf could never drink himself to death. Besides, Talhand used to say that he&#x27;d once dreamed of drowning to death in alcohol, so even if he had, it would have been the death he&#x27;d aspired to.</p>
+<p>She glanced to the side to see a half-naked Talhand lying there with only the whites of his eyes showing. For a moment, Roxy</p>
+<p>thought he might be dead, but a dwarf could never drink himself to death. Besides, Talhand used to say that he&#x27;d once dreamed of drowning to death in alcohol, so even if he had, it would have been the death he&#x27;d aspired to.</p>
 <p>Roxy cast her gaze about the room once again. There were heaps of bodies everywhere, all spread about and moaning. Among them was the man who&#x27;d solicited money for more drinks. Everyone here had clearly drunk themselves into oblivion and was now suffering in the throes of a hangover.</p>
 <p>That&#x27;s what you get for drinking so much when you can&#x27;t even use healing magic, Roxy thought.</p>
 <p>Among the sea of unconscious forms, only two people were standing—an angry barkeep and a disheartened Kishirika.</p>
@@ -159,7 +161,8 @@ nav_title = "Interlude"
 <p>&quot;Then we&#x27;ll part ways with you somewhere before then,&quot; Elinalise replied.</p>
 <p>It seemed Elinalise and Talhand didn&#x27;t want to meet Paul. The reason was apparently the huge fight they&#x27;d had when he left, but they wouldn&#x27;t tell her exactly what had happened. Roxy wasn&#x27;t particularly interested, either, so she hadn&#x27;t been all that persistent in asking.</p>
 <p>&quot;Hmm, but Rudeus is pretty far off and all by himself,&quot; Talhand blurted out, pressing his hand to his chin.</p>
-<p>That brought Roxy to a sudden realization. She would head to Millishion from here, and then, most likely, travel alongside Paul to the Begaritt Continent. If she did that, then Rudeus would be left alone, unaware of the circumstances, searching the northern part of the Central Continent by himself.</p>
+<p>That brought Roxy to a sudden realization. She would head to Millishion from here, and then, most likely, travel alongside Paul to the Begaritt Continent. If she did that, then Rudeus would be left</p>
+<p>alone, unaware of the circumstances, searching the northern part of the Central Continent by himself.</p>
 <p>&quot;We need to find some way to let him know,&quot; Elinalise said, concerned.</p>
 <p>But how? The northern part of the Central Continent looked nearby on a map, but it was much further in reality. Roxy fell back into thought. Rudeus was exceptional, but he was still young. It was cruel to leave him to struggle in vain in such a vulnerable period of his life. Whether he reunited with his family or struck out on his own, she at least wanted to tell him that he didn&#x27;t need to search anymore.</p>
 <p>&quot;And that&#x27;s where I come in…du-du-du-dun!&quot;</p>

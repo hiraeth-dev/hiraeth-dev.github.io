@@ -29,7 +29,8 @@ nav_title = "Chapter 1"
 <p>I did want to see how sexy her body had gotten now that she was thirteen, but that desire was destined to remain unfulfilled. Namely because there was an important component missing from this equation.</p>
 <p>&quot;You don&#x27;t have a swimsuit, do you?&quot; I asked.</p>
 <p>&quot;What the heck is a swimsuit? I don&#x27;t need one!&quot;</p>
-<p>Her response was so shocking I couldn&#x27;t hide my confusion. What the heck is a swimsuit, I don&#x27;t need one, she said. So she meant to swim totally naked…? No, no way, that couldn&#x27;t be it. Most likely she meant to swim in her underwear. I pictured her clad in nothing but her underwear, water pouring over her. The damp fabric would cling to her body, and through the sheer material I would be able to see the color of her skin, as well as the slight protrusions on her chest.</p>
+<p>Her response was so shocking I couldn&#x27;t hide my confusion. What the heck is a swimsuit, I don&#x27;t need one, she said. So she meant to swim totally naked…? No, no way, that couldn&#x27;t be it. Most likely she meant to swim in her underwear. I pictured her clad in nothing but her underwear, water pouring over her. The damp fabric would cling to her body, and through the sheer material I would be able to</p>
+<p>see the color of her skin, as well as the slight protrusions on her chest.</p>
 <p>Why didn&#x27;t I ever join them when she went to play in the water back in Fittoa? Oh yes, because I was busy. Even on my days off I was preoccupied with something. Still, I should have gone with her just one time at least.</p>
 <p>No, now wasn&#x27;t the time to think about that. I needed to focus on the city right before me. Live in the now. That&#x27;s right, live in the now! Woo-hoo, the ocean!</p>
 <p>&quot;No, you shouldn&#x27;t swim in this ocean.&quot; A voice cut in from behind like a bucket of ice-cold water.</p>
@@ -48,13 +49,15 @@ nav_title = "Chapter 1"
 <p>&quot;On the beach, you can squirt water on yourself and…&quot;</p>
 <p>&quot;Rudeus, you&#x27;ve got that weird look on your face again.&quot;</p>
 <p>&quot;Ugh.&quot; Apparently, my expressions changed too easily with my emotions.</p>
-<p>As I tried to clean the lecherous look off my face, Eris turned her eyes to the ocean and smiled. &quot;But it sounds interesting! Let&#x27;s do that afterward!&quot; She happily kicked off and soared through the air, returning to the lizard. It was an incredible leap. Just the sound of her takeoff made me jump—it was like a low thumping noise. She had really toned her legs and lower body. Right now that really complemented her build, but I imagine her becoming even more brawny and muscular in the future, and that worried me a little.</p>
+<p>As I tried to clean the lecherous look off my face, Eris turned her eyes to the ocean and smiled. &quot;But it sounds interesting! Let&#x27;s do</p>
+<p>that afterward!&quot; She happily kicked off and soared through the air, returning to the lizard. It was an incredible leap. Just the sound of her takeoff made me jump—it was like a low thumping noise. She had really toned her legs and lower body. Right now that really complemented her build, but I imagine her becoming even more brawny and muscular in the future, and that worried me a little.</p>
 <p>***</p>
 <p>Once we decided on our inn and boarded our lizard, we headed straight for the Adventurers&#x27; Guild. A diverse crowd of adventurers clamored around the Wind Port Adventurers&#x27; Guild. It wasn&#x27;t an unfamiliar sight, but it seemed there were a considerable number of humans present this time. Once I crossed over to the Millis Continent, their numbers would surely increase exponentially.</p>
 <p>There was an uncertain look on Ruijerd&#x27;s face as I went to check out the bulletin board as I always did. &quot;I thought we were going to cross the sea immediately?&quot;</p>
 <p>&quot;I&#x27;m just looking. I heard that you can make a better income on the Millis Continent, anyway.&quot;</p>
 <p>You could make a better income on the Millis Continent because the currency was different. The Millis Continent currency was broken up into six types: the king dollar, the general dollar, gold coins, silver coins, large copper coins, and copper coins. Comparing this to the Demon Continent&#x27;s cheapest currency, which was the stone coin:</p>
-<p>1 king&#x27;s dollar = 50,000 stone coins 1 general&#x27;s dollar = 10,000 stone coins 1 gold coin = 5,000 stone coins 1 silver coin = 1,000 stone coins 1 large copper coin = 100 stone coins 1 small copper coin = 10 stone coins</p>
+<p>1 king&#x27;s dollar = 50,000 stone coins 1 general&#x27;s dollar = 10,000 stone coins 1 gold coin = 5,000 stone coins 1 silver coin = 1,000 stone coins</p>
+<p>1 large copper coin = 100 stone coins 1 small copper coin = 10 stone coins</p>
 <p>A B-ranked mission in the Demon Continent netted you about five to ten scrap iron coins. That converted into 150-200 stone coins. If Millis Continent&#x27;s B-ranked missions were worth—let&#x27;s assume five large copper coins, that would be 1,500 stone coins. That was ten times as much. We were better off making money on Millis Continent.</p>
 <p>That said, if we had time to kill before our ship was ready, then we would probably take one of the jobs here. Generally, that meant B-ranked missions. Not only were A-ranked and S-ranked missions dangerous, most of them took more than a week to complete. If we wanted a consistent daily income, then B-ranked jobs were our best option. It was also why I had no plan to raise our party to S-rank, because it would mean we could no longer accept B-ranked missions.</p>
 <p>In fact, as an A-ranked party you could undertake S-ranked missions anyway, so I initially questioned the need for having an Srank in the party ranking system at all. When I asked one of the guild personnel about it, they told me there were special benefits if you rose to S-rank. I didn&#x27;t pry any further, but I guessed it meant getting bigger discounts for lodging, being allotted better-quality guild jobs, or the assurance that they would turn a blind eye to some of a party&#x27;s illegal behavior. Something along those lines.</p>
@@ -115,7 +118,8 @@ nav_title = "Chapter 1"
 <p>&quot;Hey, hey! You start calling it small and he&#x27;ll set his dogs loose on you!&quot;</p>
 <p>&quot;Gahahaha!&quot;</p>
 <p>Before I realized what was happening, they were all laughing at me over something completely unrelated. Too bad for them, though. I was still growing (and coming along nicely, at that), so yes, it might be little more than a bamboo shoot for now. But the day it would grow into a magnificent, robust tree wasn&#x27;t far off.</p>
-<p>Ah, forget that. If we kept getting laughed at like this, Eris would go back into demon rage mode…or so I thought. Instead, she kept stealing glances at me with her cheeks flushed bright red. Aww, how adorable.</p>
+<p>Ah, forget that. If we kept getting laughed at like this, Eris would go back into demon rage mode…or so I thought. Instead, she kept</p>
+<p>stealing glances at me with her cheeks flushed bright red. Aww, how adorable.</p>
 <p>&quot;Eris, what&#x27;s wrong?&quot;</p>
 <p>&quot;I-It&#x27;s nothing!&quot;</p>
 <p>Heh heh heh. If you&#x27;re that interested, then why don&#x27;t you take a look while I&#x27;m showering tonight? Don&#x27;t worry, I&#x27;ll explain everything to Ruijerd. If you want, we can even get in together. Of course, a hand, leg, body, or even a tongue might slip in the process…</p>
@@ -160,7 +164,8 @@ nav_title = "Chapter 1"
 <p>&quot;I know,&quot; I said. &quot;It was a joke.&quot;</p>
 <p>That aside, two hundred coins was no ordinary amount of money. Even if we prioritized taking on S-ranked and A-ranked jobs, it would take us years to save up that much. It seemed the Millis Continent really didn&#x27;t want any Superd crossing its borders.</p>
 <p>&quot;We&#x27;re in a bind. We can&#x27;t just leave Ruijerd behind.&quot;</p>
-<p>Leaving Ruijerd behind would be the quickest way to make the crossing. The two of us were fairly experienced adventurers by now, so we could continue our journey even without him. That said, I had no intention of doing that. Ruijerd was going to be with us until our journey was over. Our friendship was unbreakable and eternal, after all. &quot;Of course we won&#x27;t leave him behind.&quot;</p>
+<p>Leaving Ruijerd behind would be the quickest way to make the crossing. The two of us were fairly experienced adventurers by now, so we could continue our journey even without him. That said, I had no intention of doing that. Ruijerd was going to be with us until our</p>
+<p>journey was over. Our friendship was unbreakable and eternal, after all. &quot;Of course we won&#x27;t leave him behind.&quot;</p>
 <p>&quot;Then what are we going to do?&quot;</p>
 <p>&quot;We have…three options,&quot; I said, holding up the corresponding number of fingers. There were always three options for everything. One was to move forward, one was to go back, and the other was to stay where we were.</p>
 <p>&quot;Ah.&quot;</p>

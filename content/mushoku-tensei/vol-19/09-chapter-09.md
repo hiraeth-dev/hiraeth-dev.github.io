@@ -102,7 +102,8 @@ nav_title = "Chapter 9"
 <p>&quot;Oh, sorry! This carpet&#x27;s a little slippery, huh?&quot;</p>
 <p>&quot;I&#x27;m quite aware of your love and admiration for Miss Roxy, but would it truly be right to let her reminisce over the wrong room?&quot;</p>
 <p>A reasonable point. I decided to hold off on further foot-stomping.</p>
-<p>In any case, it was kind of nice to get a little glimpse into Roxy&#x27;s past like this. If it wasn&#x27;t for the Teleportation Incident, maybe this place would have ended up as her home.</p>
+<p>In any case, it was kind of nice to get a little glimpse into Roxy&#x27;s past</p>
+<p>like this. If it wasn&#x27;t for the Teleportation Incident, maybe this place would have ended up as her home.</p>
 <p>&quot;Let&#x27;s just…keep moving, please,&quot; said Roxy. The three of us resumed our progress down the hallway.</p>
 <p>In the end, we didn&#x27;t run into anyone as we made our way through the palace. There was nobody in here at all, and it wasn&#x27;t clear why.</p>
 <p>&quot;Now, the formal entrance hall of this palace is actually located on its second story, meaning any guests from the outside enter on that floor. The third floor is largely devoted to more practical functions, such as—&quot;</p>
@@ -120,7 +121,8 @@ nav_title = "Chapter 9"
 <p>Randolph cocked his gaunt head as he muttered these thoughts, gazing steadily in our direction. His body language was like that of an exhausted middle-aged office worker&#x27;s. And yet, a chill ran down my spine.</p>
 <p>&quot;Now, I would have built my chambers right down on the first floor. Attending to my duties would be easier, my food would reach me piping hot, and I could emerge whenever I pleased… But I suppose that&#x27;s the logic of a commoner, isn&#x27;t it?&quot;</p>
 <p>Randolph giggled shrilly to himself as he babbled on. Somehow, the man&#x27;s face looked even more skull-like when he was smiling. Roxy swallowed audibly at the sight.</p>
-<p>&quot;To be fair, the spot does have its advantages. It&#x27;s an ideal place to hole up in if you find yourself under siege like this. They used plenty of magic-resistant brick when they made this place, after all—no need to worry about any long-range spells. And every floor has strong defensive chokepoints, so it would pose challenges for anyone storming their way up here. They built this place for war, to be certain.&quot;</p>
+<p>&quot;To be fair, the spot does have its advantages. It&#x27;s an ideal place to hole up in if you find yourself under siege like this. They used plenty of magic-resistant brick when they made this place, after all—no need to worry about any long-range spells. And every floor has strong defensive chokepoints, so it would pose challenges for anyone storming their way up</p>
+<p>here. They built this place for war, to be certain.&quot;</p>
 <p>What was Randolph even getting at? He was just…sitting there. Maybe we could walk right around him?</p>
 <p>To tell the truth, I didn&#x27;t want to take a single step closer.</p>
 <p>&quot;Sir Randolph.&quot;</p>
@@ -152,7 +154,8 @@ nav_title = "Chapter 9"
 <p>&quot;Now, now, let&#x27;s all take a few deep breaths,&quot; said the Death God mildly. &quot;King Pax is rather anguished at the moment, you see. He needs a little…space.&quot;</p>
 <p>&quot;Anguished? Why?&quot;</p>
 <p>&quot;These rooms offer an excellent view of the city around this castle. He can see the hostile soldiers within his own walls, glaring his way with hatred in their eyes. And the soldiers gathering beyond—who simply watch and wait, making no move to save him…&quot; Randolph&#x27;s gaze moved behind us for a moment.</p>
-<p>I followed his gaze and saw that he was right. A massive window on the landing offered a sweeping, panoramic view of Latakia and her surroundings. The rebel army was camped around the palace, yes. But you could also see the crowds and campfires clustered around the city&#x27;s sealed-off outer walls. From up here, it did look like a huge army was sitting out there with no interest in attacking the rebels. But I knew that the majority of those people were simple merchants, adventurers, or ordinary travelers. They were never going to storm the city&#x27;s walls.</p>
+<p>I followed his gaze and saw that he was right. A massive window on the landing offered a sweeping, panoramic view of Latakia and her</p>
+<p>surroundings. The rebel army was camped around the palace, yes. But you could also see the crowds and campfires clustered around the city&#x27;s sealed-off outer walls. From up here, it did look like a huge army was sitting out there with no interest in attacking the rebels. But I knew that the majority of those people were simple merchants, adventurers, or ordinary travelers. They were never going to storm the city&#x27;s walls.</p>
 <p>&quot;Until His Majesty comes to terms with these events, I won&#x27;t move from this spot,&quot; concluded Randolph.</p>
 <p>&quot;And how long will that take?&quot; asked Zanoba through gritted teeth.</p>
 <p>&quot;Ah, how I wish I had the answer to that question. I do expect it won&#x27;t take too much longer…&quot;</p>
@@ -165,7 +168,8 @@ nav_title = "Chapter 9"
 <p><em>Ah, shit. This is very, very bad. I don&#x27;t have the Version One…we really shouldn&#x27;t be fighting him.</em></p>
 <p>&quot;Calm down, Zanoba! Picking a fight is not a good idea right now,&quot; I warned him.</p>
 <p>&quot;But Master Rudeus…!&quot; he protested.</p>
-<p>Based on what Randolph said, he was simply protecting Pax and following his orders. Zanoba had come here to help Pax as well. We had no reason to be enemies. Of course, that logic wouldn&#x27;t apply if he was a disciple of the Man-God, but the odds of that were low. This was way too convoluted to be a trap designed to kill me. And if the objective was to murder Pax and prevent Shirone&#x27;s transformation into a republic, the Death God could have accomplished it a long time ago. Like…back when Pax was staying in the King Dragon Realm.</p>
+<p>Based on what Randolph said, he was simply protecting Pax and following his orders. Zanoba had come here to help Pax as well. We had no reason to be enemies. Of course, that logic wouldn&#x27;t apply if he was a</p>
+<p>disciple of the Man-God, but the odds of that were low. This was way too convoluted to be a trap designed to kill me. And if the objective was to murder Pax and prevent Shirone&#x27;s transformation into a republic, the Death God could have accomplished it a long time ago. Like…back when Pax was staying in the King Dragon Realm.</p>
 <p>It couldn&#x27;t hurt to ask, though. Just to be sure.</p>
 <p>&quot;Sir Randolph, we&#x27;re willing to wait if you really think it&#x27;s necessary,&quot; I said. &quot;But I do have just one question for you first.&quot;</p>
 <p>&quot;By all means, go right ahead.&quot;</p>

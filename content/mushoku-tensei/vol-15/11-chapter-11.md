@@ -14,7 +14,8 @@ nav_title = "Chapter 11"
 <p>What was I supposed to do here? Should I take this fight seriously?</p>
 <p>To be honest, I was okay with losing. It actually seemed preferable.</p>
 <p>I&#x27;d fallen hard for Eris. Sure, I&#x27;d just told her that I liked Sylphie and Roxy more, but that was more of a reflexive response than anything else. I couldn&#x27;t actually rank my feelings for them in a real sense. Sylphie, Roxy, and Eris were all wonderful, lovable women in their own ways. It might sound indecisive, but that was just the kind of no-good bum I was—I had an overactive sex drive and a total inability to stay loyal to a single person.</p>
-<p>Honestly, a part of me was already drooling at the idea of hopping into bed with this new, sexy version of Eris. If she wanted me to love her, I was more than happy to oblige. It wasn&#x27;t like that would be &quot;cheating&quot; at this point, right? I mean, I did love her. And there was nothing wrong with that, dammit! What could be more natural than wanting to make such an attractive woman yours? Come at me, you Millis Church fools! I&#x27;ll marry as many people as I want!</p>
+<p>Honestly, a part of me was already drooling at the idea of hopping into bed with this new, sexy version of Eris. If she wanted me to love her, I was more than happy to oblige. It wasn&#x27;t like that would be &quot;cheating&quot; at this point, right? I mean, I did love her. And there was nothing wrong with that, dammit! What could be more</p>
+<p>natural than wanting to make such an attractive woman yours? Come at me, you Millis Church fools! I&#x27;ll marry as many people as I want!</p>
 <p>Anyway. That was all well and good, but the question was how Eris would react if I forfeited this duel. What if she took it as some sort of humiliating insult? What if she decided I was just a coward? Eris had become a master swordswoman so she could protect me from Orsted. Maybe I needed to demonstrate my strength to her, and show that I&#x27;d improved as well.</p>
 <p>…In reality, I hadn&#x27;t trained nearly as hard as her, but that wasn&#x27;t the point.</p>
 <p>She probably wanted me to take this seriously and put up the best fight I could. If I lost, that was fine by me; if I won, I could always ask her to marry me anyway. Maybe I could try out a line like &quot;All right, you&#x27;re mine now. Come on, we&#x27;re going home.&quot;</p>
@@ -24,7 +25,8 @@ nav_title = "Chapter 11"
 <p>&quot;Rudeus.&quot;</p>
 <p>Just as I had reached that conclusion, though, Ghislaine called to me.</p>
 <p>&quot;Yes?&quot;</p>
-<p>I hadn&#x27;t seen the woman in a while, but she hadn&#x27;t changed that much, apart from getting a little further into middle age. We&#x27;d exchanged pleasantries and had a few conversations since her arrival in the city, but she hadn&#x27;t gone into much detail about the situation with Eris. That wasn&#x27;t so strange, since we&#x27;d never been that intimate with each other.</p>
+<p>I hadn&#x27;t seen the woman in a while, but she hadn&#x27;t changed that much, apart from getting a little further into middle age. We&#x27;d exchanged pleasantries and had a few conversations since her arrival in the city, but she hadn&#x27;t gone into much detail about the situation</p>
+<p>with Eris. That wasn&#x27;t so strange, since we&#x27;d never been that intimate with each other.</p>
 <p>&quot;Miss Eris hasn&#x27;t changed much at all. You need to show her how you feel.&quot;</p>
 <p>Her voice was calm but firm, just as I remembered it. And the implication of her words made me hesitate.</p>
 <p>Was fighting Eris here really the right move?</p>
@@ -180,7 +182,8 @@ nav_title = "Chapter 11"
 <p>&quot;…Well, yeah. Oh, did you want to have a formal ceremony, maybe? We could call a bunch of people and—&quot;</p>
 <p>&quot;Ugh, no, I don&#x27;t even remember how to dance anymore… Look, that&#x27;s not what I&#x27;m talking about. I wanna do it.&quot;</p>
 <p>Hmm. Do what, exactly?</p>
-<p>Before I could give the matter much though, Eris threw her arm around my shoulders and pulled me in for a violent kiss. Her teeth knocked against mine hard enough to send a jolt of pain through my jaw. I tried to pull back, but the door behind me made that impossible. Eris kept on grinding her forehead against mine enthusiastically.</p>
+<p>Before I could give the matter much though, Eris threw her arm around my shoulders and pulled me in for a violent kiss. Her teeth</p>
+<p>knocked against mine hard enough to send a jolt of pain through my jaw. I tried to pull back, but the door behind me made that impossible. Eris kept on grinding her forehead against mine enthusiastically.</p>
 <p>&quot;Puhah…&quot;</p>
 <p>As I finally came up for air, Eris moved her arm down to my waist and started basically dragging me across the floor. Within seconds, she&#x27;d brought me over the bed.</p>
 <p><em>Wait. What the heck is even going on here? Holy crap. You&#x27;re moving way too fast, miss!</em></p>
@@ -220,7 +223,8 @@ nav_title = "Chapter 11"
 <p>But despite my defeat, looking at Eris sleeping next to me with that content expression on her face was filling me with warm and tender feelings. She&#x27;d been like a raging wolf last night, but now she looked borderline angelic. It put a real smirk on my face.</p>
 <p>Maybe this was how Sylphie felt when she watched me sleeping.</p>
 <p>&quot;Hmm… This sure feels different, though…&quot;</p>
-<p>Incidentally, my head was currently resting on Eris&#x27; arm. Up till now, I&#x27;d never been on the receiving end of this maneuver, so it felt weirdly refreshing. My pillow was a little on the slender side, but it was also very solid—for some reason, it made me feel like I was totally safe.</p>
+<p>Incidentally, my head was currently resting on Eris&#x27; arm. Up till now, I&#x27;d never been on the receiving end of this maneuver, so it felt weirdly refreshing. My pillow was a little on the slender side, but it</p>
+<p>was also very solid—for some reason, it made me feel like I was totally safe.</p>
 <p>Come to think of it… five years had passed since we&#x27;d last seen each other. Eris had done a lot of growing in that time, but I still wasn&#x27;t completely clear on how muscular she&#x27;d gotten. The room had been too dark for me to get a great look last night, although everything I could make out was very enticing.</p>
 <p>Squirming around a little, I reached out to touch Eris&#x27; belly.</p>
 <p>&quot;Oooh, how splendid…&quot;</p>

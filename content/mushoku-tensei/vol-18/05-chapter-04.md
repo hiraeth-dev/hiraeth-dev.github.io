@@ -65,7 +65,8 @@ nav_title = "Chapter 4"
 <p>&quot;Then maybe we could find something to cover his body with that would prevent any of his mana from escaping?&quot;</p>
 <p>&quot;Certainly, if you trap him in a box with no openings whatsoever, then his curse probably won&#x27;t activate, but that doesn&#x27;t really solve anything.&quot;</p>
 <p>&quot;Fair point.&quot;</p>
-<p>The two of us were researching Orsted&#x27;s curse. This past year, we had conducted experiments using the research he&#x27;d already done on Elinalise&#x27;s curse as a base. That was how we managed to identify his head as the main source of his curse. Thus, Cliff developed helmet-shaped magical implements. Orsted would try them on and Cliff would offer up his responses, which was how we tested the efficacy of the implements.</p>
+<p>The two of us were researching Orsted&#x27;s curse. This past year, we had conducted experiments using the research he&#x27;d already done on Elinalise&#x27;s curse as a base. That was how we managed to identify</p>
+<p>his head as the main source of his curse. Thus, Cliff developed helmet-shaped magical implements. Orsted would try them on and Cliff would offer up his responses, which was how we tested the efficacy of the implements.</p>
 <p>Our experiments had borne some fruit. By having Orsted equip the latest version of Cliff&#x27;s helmet, we managed to soften the curse&#x27;s effects, albeit only marginally. If he wore that thing around town, he&#x27;d still make children cry and stray dogs cower in fear and run, and horses would likely scramble away from him, thereby overturning the carts they were pulling. However, it was enough to at least soften Sylphie and Eris&#x27;s attitude toward him. Before, they&#x27;d hated him as fiercely as if he&#x27;d personally killed their parents, but that was now reduced to the level of disgust one felt toward a loathsome boss, perhaps. Not ideal, but enough for them to realize that he really was plagued by a curse, and that the reason I was working for him was because it didn&#x27;t affect me at all.</p>
 <p>It was during the course of his research that Cliff finally realized the nature of Orsted&#x27;s curse and why I had lied to him and Zanoba previously. That marked an important step forward. His feelings toward Orsted were still complicated, but at least he was making do at this point.</p>
 <p>We still had a long way to go. At present, the helmet was roughly twice the size of Orsted&#x27;s actual head. There was no ventilation, so putting it on meant you had to hold your breath, and you couldn&#x27;t see anything, hear anything, or speak at all. Obviously, Orsted could not wear it for an extended period. Yes, the road ahead was long indeed.</p>
@@ -77,7 +78,8 @@ nav_title = "Chapter 4"
 <p>Orsted was shocked by what Cliff&#x27;s research had accomplished. In the many long time loops he&#x27;d lived through, he&#x27;d sometimes tried doing something about his curse, but after several years of testing to no avail, he&#x27;d more or less given up. Perhaps, in these two hundred years he&#x27;d lived on continuous repeat, there had been others besides Cliff researching curses who&#x27;d made some progress, but they wouldn&#x27;t align themselves with Orsted.</p>
 <p>The important thing was that we&#x27;d produced results. The next time Orsted went through another loop, he could now find a way to convince Cliff to research his curse for him. While we&#x27;re on the subject, I wonder if I&#x27;d even be in said loop? He mentioned I wasn&#x27;t in the previous ones he&#x27;d lived through.</p>
 <p>&quot;Rudeus.&quot;</p>
-<p>As I was lost in thought, Orsted called to me. Cliff had left the office by that point. He was all too eager to distance himself from Orsted as quickly as possible, likely thanks to the curse&#x27;s effects. No matter how much he reasoned that it was a curse producing such emotions in him, his body was convinced Orsted was an enemy. It&#x27;s like how humans know cockroaches don&#x27;t hold the power to actually kill them, but they still act terrified when they spot one.</p>
+<p>As I was lost in thought, Orsted called to me. Cliff had left the office by that point. He was all too eager to distance himself from Orsted as quickly as possible, likely thanks to the curse&#x27;s effects. No matter how much he reasoned that it was a curse producing such emotions in him, his body was convinced Orsted was an enemy. It&#x27;s</p>
+<p>like how humans know cockroaches don&#x27;t hold the power to actually kill them, but they still act terrified when they spot one.</p>
 <p>&quot;…I appreciate this.&quot;</p>
 <p>Being thanked like that made me grin from ear to ear. Aww, Mister CEO, you really know how to flatter a person. Woohoo! We should definitely go window-shopping together once his anti-curse helmet was complete. A city date with Orsted… Instead of a wolf in sheep&#x27;s clothing, I&#x27;d get to see what it was like to be a weak and feeble sheep borrowing the wolf&#x27;s skin to intimidate everyone else.</p>
 <p>&quot;No need to thank me. It&#x27;s emotionally draining to keep this up with my entire family opposing it. Also, if you&#x27;re able to go around as you please, it&#x27;ll get under the Man-God&#x27;s skin more. I&#x27;m only doing this for my own benefit.&quot;</p>
@@ -99,7 +101,8 @@ nav_title = "Chapter 4"
 <p>&quot;This is no time for jokes, Master! Please, use your healing magic on Julie. The bleeding won&#x27;t stop!&quot; Zanoba begged desperately.</p>
 <p><em>Was there some kind of accident or something?</em></p>
 <p>Julie glanced at me, eyes bleary and tear-filled. &quot;Grand Master…my stomach hurts so badly. Please help me…&quot;</p>
-<p>I was no doctor, but I inspected her, driven by their pleas. There were no outward signs of injury, which could only mean it was internal. The blood was coming from her crotch, and the smell was almost nauseating. I&#x27;d be willing to bet…no, there&#x27;s no mistake about it.</p>
+<p>I was no doctor, but I inspected her, driven by their pleas. There were no outward signs of injury, which could only mean it was internal. The blood was coming from her crotch, and the smell was</p>
+<p>almost nauseating. I&#x27;d be willing to bet…no, there&#x27;s no mistake about it.</p>
 <p>&quot;It&#x27;s likely her period, right? Your best bet would be to call Miss Ginger,&quot; I said.</p>
 <p>&quot;Pardon? Oh, now I understand! Yes, come to think of it, Julie is a lady. My mind must be failing, that I did not even imagine that possibility!&quot; Zanoba chuckled to himself.</p>
 <p>Julie glanced at him worriedly. &quot;Master?&quot;</p>
@@ -110,7 +113,8 @@ nav_title = "Chapter 4"
 <p><em>Ooh, what&#x27;s this I hear, Zanzan? Sure are popular, ain&#x27;t ya? Cheeky little rascal.</em></p>
 <p>I shrugged. &quot;Well, that works too. I can go buy some stuff for us. We can eat here.&quot;</p>
 <p>So Julie&#x27;s already a woman, huh? I planned to wait until she reached adulthood to put our plans into action, but I&#x27;d noticed recently that her total mana pool had stopped growing. It was probably about time for us to get started.</p>
-<p>After leaving, I briefly rendezvoused with Cliff, bought some food, and then returned. I was back in Zanoba&#x27;s research room within an hour or so. The three of us were currently munching away on our food, huddling together. Ginger was close by, seeing to Julie. At this point she was more of a maid than a knight.</p>
+<p>After leaving, I briefly rendezvoused with Cliff, bought some food, and then returned. I was back in Zanoba&#x27;s research room</p>
+<p>within an hour or so. The three of us were currently munching away on our food, huddling together. Ginger was close by, seeing to Julie. At this point she was more of a maid than a knight.</p>
 <p>We considered moving rooms to give Julie some space, but she insisted we remain close by because she was anxious. We finally settled upon staying to keep her calm.</p>
 <p>&quot;Master, how is the magic armor doing?&quot; Zanoba asked.</p>
 <p>&quot;Not bad. I was able to stop a monster&#x27;s attack with it. Although I still feel like its performance is a little unreliable. It may be fine against beasts, but it&#x27;d be rough going up against a swordsman in that thing.&quot;</p>
@@ -140,7 +144,8 @@ nav_title = "Chapter 4"
 <p>Now all we had to do was make block prints so we could massproduce it, then add color by hand. Our work lacked the professionalism and standardization of a printing press, but it wasn&#x27;t so bad since most books in this world were made by hand anyway. I had already made it a habit to bring along a book and figurine with me when I set out on one of my jobs to save people, never missing an opportunity to proselytize. Which was all fine and good, but we needed to take a more concerted approach.</p>
 <p>&quot;That will be a bit difficult,&quot; Zanoba said, frowning.</p>
 <p>&quot;The cost?&quot; I guessed.</p>
-<p>&quot;No. We have plenty of funding as it is, and Princess Ariel is providing additional financial backing. I have received word that she&#x27;s already set up our workshop in the Asura Kingdom as well, so there&#x27;s no problem on the production front, either. The issue lies in the sales themselves. We have no connections with any merchants.&quot;</p>
+<p>&quot;No. We have plenty of funding as it is, and Princess Ariel is providing additional financial backing. I have received word that</p>
+<p>she&#x27;s already set up our workshop in the Asura Kingdom as well, so there&#x27;s no problem on the production front, either. The issue lies in the sales themselves. We have no connections with any merchants.&quot;</p>
 <p>&quot;Ah, that part…&quot;</p>
 <p>Come to think of it, I&#x27;d never considered who we&#x27;d get to actually sell them. I had contemplated opening my own shop so I could do it myself, but given my current circumstances, that wasn&#x27;t going to happen. We needed a salesperson—someone to peddle our merch for us. I couldn&#x27;t think of anyone in my circle of acquaintances with the necessary business acumen.</p>
 <p>&quot;I wonder if we&#x27;d be better off seeing if Ariel could introduce us to someone,&quot; I muttered.</p>
@@ -174,7 +179,8 @@ nav_title = "Chapter 4"
 <p>&quot;We&#x27;re back,&quot; I announced again, once we were inside the house.</p>
 <p>Sylphie came shuffling out from deeper within and said, &quot;Welcome home, Rudy, Roxy…oh, and Norn.&quot; My beautiful wife was wearing an apron, and Lucie was tottering along behind her. When she spotted Norn, she scrambled over to tackle her.</p>
 <p>&quot;Nornie! Welcome home!&quot;</p>
-<p>&quot;Lucie! I&#x27;m glad to be home!&quot; Accustomed to this greeting, Norn swept the little girl into her arms and stroked her head. It was obvious how much Lucie liked my sister by the way she beamed up at her. But the moment her eyes met mine, she hid herself in Norn&#x27;s shadow.</p>
+<p>&quot;Lucie! I&#x27;m glad to be home!&quot; Accustomed to this greeting, Norn swept the little girl into her arms and stroked her head. It was</p>
+<p>obvious how much Lucie liked my sister by the way she beamed up at her. But the moment her eyes met mine, she hid herself in Norn&#x27;s shadow.</p>
 <p><em>Aww, you seriously don&#x27;t have to act that displeased by me.</em></p>
 <p>&quot;Norn, did we plan for you to stay with us today?&quot; Sylphie asked.</p>
 <p>&quot;No, but I heard about Mistress Linia coming to stay here, so I decided to come take a look.&quot;</p>
@@ -198,7 +204,8 @@ nav_title = "Chapter 4"
 <p>So Aisha made that by hand? She claimed it was a used outfit, but it looked brand-new to me. I guess maybe the fabric itself is old.</p>
 <p>&quot;Why put off tomorrow what we can do today? I&#x27;m going to have her working her tail off!&quot; Aisha declared.</p>
 <p>&quot;Yes&#x27;m, ready for duty, mew!&quot;</p>
-<p>&quot;Let&#x27;s start with the cooking!&quot; Petite little Aisha led the way with the much taller Linia marching behind her. The two were in high spirits as they filed past us and began preparations in the kitchen. It was kind of entertaining to see Aisha so pumped up.</p>
+<p>&quot;Let&#x27;s start with the cooking!&quot; Petite little Aisha led the way with the much taller Linia marching behind her. The two were in high</p>
+<p>spirits as they filed past us and began preparations in the kitchen. It was kind of entertaining to see Aisha so pumped up.</p>
 <p>&quot;Mistress Linia certainly does seem to be in high spirits,&quot; Norn commented. &quot;I figured she would be much more depressed about being reduced to a slave.&quot;</p>
 <p><em>That&#x27;s because Linia&#x27;s an idiot. It&#x27;s like swallowing something piping hot; it burns at first, but once it&#x27;s down the hatch, you forget how it felt like magma on your tongue.</em></p>
 <p>After that, our whole family sat down together for a meal for the first time in a while. I even got to hop into the bath with Eris once we were finished and see just how big her belly had gotten. Before it grew too late, Sylphie and I tucked Lucie into bed. I gave magic lessons to Aisha and Norn as soon as they got out of the bath, then stopped by with Lilia briefly to talk about Zenith&#x27;s future. I stared the whole time Roxy breastfed Lara before bed. And finally, I had a little bit of sexy time with Sylphie before nodding off myself.</p>

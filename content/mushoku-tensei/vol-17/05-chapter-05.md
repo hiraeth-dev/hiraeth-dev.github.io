@@ -86,7 +86,8 @@ nav_title = "Chapter 5"
 <p>&quot;Ughhh. Goddamn it, what a joke… Look, I&#x27;m in a bad mood right now. I lost at dice, and Donovan rubbed my face in it for hours! This new slave girl spat in my goddamn face! And then I had to run out here in the rain! Tell me what you want right now, or I&#x27;m leaving. I&#x27;m not in the mood for any more crap today, all right? Better luck next time!&quot;</p>
 <p><em>You know, I feel like most of that isn&#x27;t actually our fault, miss…</em></p>
 <p>I wanted to get to the point, of course, but we clearly needed to get her calmed down first.</p>
-<p>As I was trying to find the right words, though, Luke stepped smoothly forward. Taking Triss by the hand, he wiped the water from her forehead with his handkerchief. &quot;Our sincere apologies for the abrupt summons, miss. Please forgive us if you can. We know your time is precious, but we ask only that you consider what we have to say.&quot;</p>
+<p>As I was trying to find the right words, though, Luke stepped smoothly forward. Taking Triss by the hand, he wiped the water from her forehead with his handkerchief. &quot;Our sincere apologies for the abrupt summons, miss. Please forgive us if you can. We know your</p>
+<p>time is precious, but we ask only that you consider what we have to say.&quot;</p>
 <p><em>Wow, okay. That felt seriously fake…</em></p>
 <p>Triss just stared at Luke for a moment with her mouth hanging open. But then a blush spread across her face, and she lowered her gaze from his. &quot;Uh, well… if you say so, I guess I&#x27;ll hear you out, at least…&quot;</p>
 <p>Somehow, it had actually worked. Never underestimate the power of a pretty face.</p>
@@ -130,7 +131,8 @@ nav_title = "Chapter 5"
 <p>Triss stared across the room at her, wide-eyed with surprise. &quot;Wh… Why do you know that name?&quot;</p>
 <p>&quot;Oh, it really is you. Don&#x27;t you remember me? The two of us met just once, at my fifth birthday party.&quot;</p>
 <p>I&#x27;d considered intervening, but Ariel gestured with her hand and gave me a quick wink. From the looks of things, she had a plan.</p>
-<p>&quot;P-Princess Ariel?!&quot; Triss said, looking utterly stunned. For a long moment, she seemed to be studying Ariel&#x27;s features closely, perhaps comparing them to her memories—and then she froze entirely, her mouth hanging slightly open. &quot;Why… But… What are you doing here, Your Highness…?&quot;</p>
+<p>&quot;P-Princess Ariel?!&quot; Triss said, looking utterly stunned. For a long moment, she seemed to be studying Ariel&#x27;s features closely, perhaps comparing them to her memories—and then she froze entirely, her</p>
+<p>mouth hanging slightly open. &quot;Why… But… What are you doing here, Your Highness…?&quot;</p>
 <p>Her legs trembling, Triss kneeled on the wooden floor. The princess pushed past me and stood before her.</p>
 <p>&quot;I received word that my father is deathly ill, and attempted to return to Asura,&quot; Ariel said with a self-effacing smile. &quot;But it seems my elder brother isn&#x27;t in an especially welcoming mood.&quot;</p>
 <p>Uhm, is it really a good idea to just throw that out there? It certainly didn&#x27;t seem that way to a sneaky, careful guy like me… but on second thought, that kind of openness was probably the best way to earn real trust.</p>
@@ -139,7 +141,8 @@ nav_title = "Chapter 5"
 <p>&quot;But what about you, Tristina? What are you doing in a place like this? The last I heard, you&#x27;d gone missing without a trace…&quot;</p>
 <p>&quot;Uhm, well…&quot; Triss hesitated for a moment; but looking up into Ariel&#x27;s eyes, she seemed to find a reason to continue. &quot;It&#x27;s a long story, but—&quot;</p>
 <p>From that point on, everything moved along quickly and easily. As I turned out, I didn&#x27;t need to say a single word. Triss poured out her whole miserable life story to Ariel like a sinner at confession.</p>
-<p>Darius had kidnapped her at a young age, and kept her as a sex slave for years. Eventually, he&#x27;d sold her to this bandit gang. For a time, she&#x27;d been the leader&#x27;s woman, but he&#x27;d trained her as a bandit on a whim. And when a new boss took over, she gained her freedom as a member of the band. There were all sorts of strange and ugly details in the story, but Triss told it calmly, without any tears or smiles.</p>
+<p>Darius had kidnapped her at a young age, and kept her as a sex slave for years. Eventually, he&#x27;d sold her to this bandit gang. For a time, she&#x27;d been the leader&#x27;s woman, but he&#x27;d trained her as a bandit on a whim. And when a new boss took over, she gained her freedom as a member of the band. There were all sorts of strange</p>
+<p>and ugly details in the story, but Triss told it calmly, without any tears or smiles.</p>
 <p>Princess Ariel, on the other hand, was crying openly for most of it. And her tears looked absolutely genuine. With the last of them still running down her face, she made Triss a promise: &quot;I can&#x27;t truly understand your suffering, but I guarantee I&#x27;ll give the man who did this to you his rightful punishment.&quot; Then she asked Triss to help our cause by testifying to what Darius had done to her.</p>
 <p>It was a remarkably convincing act.</p>
 <p>Still, Triss was hesitant to agree. The Kingdom of Asura was very powerful, and Darius was a sly and vicious man. She insisted that we stood no chance of victory. Ariel, in turn, told her that this wasn&#x27;t true. She named her allies: Sylphie, Eris, Ghislaine, me, and Perugius himself, and argued we were capable of overcoming Darius and winning her the throne.</p>

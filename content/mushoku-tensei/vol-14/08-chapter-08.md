@@ -88,7 +88,8 @@ nav_title = "Chapter 8"
 <p><em>Crap.</em></p>
 <p>I could see where this was going.</p>
 <p>&quot;So you slipped past my defenses. I like your spirit!&quot;</p>
-<p>&quot;Haaaaah!&quot; Zanoba threw his fist. The strength behind it was enough to make my hair stand on end. His punch cut straight through the air as it closed in on her face. Atofe tried to deflect the blow with her gauntlet…</p>
+<p>&quot;Haaaaah!&quot; Zanoba threw his fist. The strength behind it was enough to make my hair stand on end. His punch cut straight</p>
+<p>through the air as it closed in on her face. Atofe tried to deflect the blow with her gauntlet…</p>
 <p>&quot;Gah?!&quot;</p>
 <p>…but she failed. His fist slammed against her glove, causing her to stumble as her armor warped under the force of his blow.</p>
 <p>&quot;Haaah!&quot;</p>
@@ -124,7 +125,8 @@ nav_title = "Chapter 8"
 <p>Or so I thought. A voice sounded out:&quot;…raging flames consume my body. Burn In Place!&quot;</p>
 <p>A wave of heat spilled from one man, enveloping the others. That warmth began to counter my Frost Nova. The man who had cast the spell had steam pouring out of his arms as he defrosted the ice.</p>
 <p><em>So it was Moore…</em></p>
-<p>The old knight captain had started his chant the moment I lifted my staff, allowing him to counter my spell only seconds later. I was shocked at the amount of magical power he possessed, as well as how quickly he finished his incantation. I hadn&#x27;t pulled my punches with that spell. However, his magic only managed to free him and the two guards closest to him. The others were completely encapsulated in ice. There was still a great difference in our magical power, and I&#x27;d won that battle.</p>
+<p>The old knight captain had started his chant the moment I lifted my staff, allowing him to counter my spell only seconds later. I was shocked at the amount of magical power he possessed, as well as how quickly he finished his incantation. I hadn&#x27;t pulled my punches with that spell. However, his magic only managed to free him and the two guards closest to him. The others were completely</p>
+<p>encapsulated in ice. There was still a great difference in our magical power, and I&#x27;d won that battle.</p>
 <p><em>And now I&#x27;ve killed for the first time.</em></p>
 <p>&quot;I&#x27;m impressed at how much magical power you possess, being able to freeze all of us. Everyone, recite the incantation for Burn In Place!&quot;</p>
 <p>&quot;As you command! Fire Spirit who presides over all things between heaven and earth…&quot;</p>

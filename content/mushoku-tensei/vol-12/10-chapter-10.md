@@ -71,7 +71,8 @@ nav_title = "Chapter 10"
 <p>Zenith stared at me vacantly. Then she looked back at Lilia, her eyes like a mirror—empty, reflecting only what they saw before them.</p>
 <p>&quot;Hm…?&quot;</p>
 <p>She tilted her head again, and Lilia&#x27;s eyes went wide.</p>
-<p>Something was wrong. Strange. She wasn&#x27;t speaking. All she did was groan. Plus, the way she moved—it was as if she&#x27;d forgotten Lilia as well. It was one thing to forget me, but could she truly not recognize Lilia? The maid had aged, admittedly, but she hadn&#x27;t changed that much. Her hair and even her clothes were the same as before.</p>
+<p>Something was wrong. Strange. She wasn&#x27;t speaking. All she did was groan. Plus, the way she moved—it was as if she&#x27;d forgotten Lilia as well. It was one thing to forget me, but could she truly not recognize Lilia? The maid had aged, admittedly, but she hadn&#x27;t</p>
+<p>changed that much. Her hair and even her clothes were the same as before.</p>
 <p>&quot;Ohhh… Aah…&quot;</p>
 <p>Her voice was clumsy, her eyes were blank, and she could form no words. All she did was stare at us.</p>
 <p>&quot;My lady…could it be that…?&quot; It seemed Lilia had realized it too.</p>
@@ -95,7 +96,8 @@ nav_title = "Chapter 10"
 <p>But still, I loved him.</p>
 <p>It wasn&#x27;t quite the same as the parent-and-child love Paul felt for me. To me, Paul was more like a partner in crime. Strictly speaking, I was mentally older, but he had more physical years on me. Even when it came to life experience, he was probably well ahead of me when you considered the decades I&#x27;d spent as a shut-in.</p>
 <p>None of that really mattered. Age was pointless. When I talked to Paul, I felt like the two of us were on an even footing. I couldn&#x27;t see him as a father, and I&#x27;d probably never really thought of myself as his child.</p>
-<p>But Paul was different. He&#x27;d seen me as his child from the very beginning. Me, who&#x27;d been a piece of shit thirty-something recluse on the inside at the time. Me, whose actions thus far had to have been bizarre from an outside perspective. Still, he regarded me as family, never turning his eyes away. There were areas where he failed as a father, but he never faltered in considering me family. Never once did he treat me like a stranger. I was always, always his son. Despite my abnormal abilities, he still saw me as his son. He faced me head-on.</p>
+<p>But Paul was different. He&#x27;d seen me as his child from the very beginning. Me, who&#x27;d been a piece of shit thirty-something recluse on the inside at the time. Me, whose actions thus far had to have</p>
+<p>been bizarre from an outside perspective. Still, he regarded me as family, never turning his eyes away. There were areas where he failed as a father, but he never faltered in considering me family. Never once did he treat me like a stranger. I was always, always his son. Despite my abnormal abilities, he still saw me as his son. He faced me head-on.</p>
 <p>He was a father. He always had been. Even as he carried burdens far too heavy for him, he acted as a father and continued to do things for the sake of our family. At the end, he&#x27;d even shielded me—used his body, as a father, to protect me. His son.</p>
 <p>He&#x27;d bravely put his life on the line, as if it were the most natural thing in the world. And he died.</p>
 <p>It was strange.</p>

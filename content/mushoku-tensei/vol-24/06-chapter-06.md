@@ -35,7 +35,8 @@ nav_title = "Chapter 6"
 <p>&quot;My…plan?&quot; Words escaped me. What was I supposed to do at a time like this? The village was in the grip of the plague. We needed to cure it. That meant detoxification magic. But earlier, I&#x27;d tried detoxification magic on Ruijerd to no effect.</p>
 <p>I hadn&#x27;t been able to try every kind of healing magic, but it seemed likely that detoxification magic wasn&#x27;t effective here. There were plenty of diseases and sicknesses like that. If detoxification magic wouldn&#x27;t work, the best thing to do was leave it to an expert on diseases. What experts were there? Would Ariel send me a doctor if I asked?</p>
 <p>No one in the world knew more about diseases than Orsted. Except when it came to the Superd, he&#x27;d… No. Never mind that. I&#x27;d see what I could do.</p>
-<p>Communication came first. It was three days back to the magic circle I&#x27;d set up… Wait! I&#x27;d already set up a backup teleportation circle in the basement of the office just in case something like this happened. I could put a magic circle and contact tablet in this village. I&#x27;d go back to the office and explain what was going on to Orsted. Then, from the CEO&#x27;s office, I&#x27;d tell all our allies about the current crisis. I&#x27;ve got this.</p>
+<p>Communication came first. It was three days back to the magic circle I&#x27;d set up… Wait! I&#x27;d already set up a backup teleportation circle in the</p>
+<p>basement of the office just in case something like this happened. I could put a magic circle and contact tablet in this village. I&#x27;d go back to the office and explain what was going on to Orsted. Then, from the CEO&#x27;s office, I&#x27;d tell all our allies about the current crisis. I&#x27;ve got this.</p>
 <p>&quot;We&#x27;ll set up a teleportation circle in the back of the village, go back to the office, then send word to everyone asking for someone who can diagnose this.&quot;</p>
 <p>&quot;Understood. Then I&#x27;ll work on defending the village and nursing the sick.&quot;</p>
 <p>&quot;Thank you.&quot; We wrapped up the meeting quickly, then I rushed off to the edge of the village. In the middle of this deep forest, we had a high concentration of magical energy. I could probably set up a teleportation circle here without even using magic crystals. I&#x27;d bring the spare tablets from the office as a precaution, then set up the circle.</p>
@@ -82,7 +83,8 @@ nav_title = "Chapter 6"
 <p>&quot;He will not get in the way,&quot; Orsted said. &quot;His daughter will be a crucial piece in the battle against Laplace.&quot;</p>
 <p>&quot;His daughter? How will she be crucial?&quot;</p>
 <p>&quot;Laplace will be immortal when he becomes the Demon God, but he has a weakness. Only a Superd, with that third eye of theirs, will be able to detect it and deal him a killing blow.&quot;</p>
-<p>&quot;Oh.&quot; So only a Superd could strike the Demon God&#x27;s weak point. Inside me, things clicked into place. Why Laplace had tried to transfer his curse to the Superd and kill them all. Why, even though Ruijerd was in a lower fighting class than the others, he&#x27;d been able to deal him such a blow that even Perugius had been grateful later. Why the Superd had contracted the plague. Why the plague had only taken hold after Ruijerd arrived in the village, later than planned.</p>
+<p>&quot;Oh.&quot; So only a Superd could strike the Demon God&#x27;s weak point. Inside me, things clicked into place. Why Laplace had tried to transfer his curse to the Superd and kill them all. Why, even though Ruijerd was in a lower fighting class than the others, he&#x27;d been able to deal him such a blow that even Perugius had been grateful later. Why the Superd had contracted</p>
+<p>the plague. Why the plague had only taken hold after Ruijerd arrived in the village, later than planned.</p>
 <p>…Why I&#x27;d traveled to the Central Continent with Ruijerd.</p>
 <p>The strength went out of me, and I staggered back. My legs caught on a chair and I fell heavily, but by putting my weight on the armrests I was able to stop myself from slipping any further.</p>
 <p>&quot;In the usual course of history, does Ruijerd survive?&quot; I asked.</p>
@@ -191,7 +193,8 @@ nav_title = "Chapter 6"
 <p>For the moment, we&#x27;d try it and see. That&#x27;s all there was to it.</p>
 <p>After four days, I&#x27;d move. I had a mountain of things to do and no clue of how to go about them. My impatience at our lack of progress intensified. It was exhausting…</p>
 <p>I fell asleep for the day, alone in Ruijerd&#x27;s house and overwhelmed by my thoughts.</p>
-<p>I woke to someone shaking me. A pretty girl swam into focus in front of my eyes. She had silky blonde hair with bangs cut to just above her eyebrows. I knew exactly who this was.</p>
+<p>I woke to someone shaking me. A pretty girl swam into focus in front of my eyes. She had silky blonde hair with bangs cut to just above her</p>
+<p>eyebrows. I knew exactly who this was.</p>
 <p>&quot;Rudeus, wake up! Rudeus…!&quot;</p>
 <p>It was Norn. Ah, another dream. Another illusion. This time Norn was my wife. I supposed Vita was still alive. I hoped that meant the Superd&#x27;s condition had been a dream too.</p>
 <p>&quot;Vita needs better material…&quot; I mumbled.</p>
@@ -206,7 +209,8 @@ nav_title = "Chapter 6"
 <p>What?! Did that mean graduation was over too? It couldn&#x27;t be…</p>
 <p>What about me at the graduation ceremony, dabbing my eyes with a hankie? No—never mind. That wasn&#x27;t important right now.</p>
 <p>&quot;…How did you get here?&quot;</p>
-<p>&quot;Cliff! He told me everything, then brought me with him!&quot; Norn said. Hiccupping, she turned to look behind her. There, framed in the entrance, stood two figures, shadows against the backlight. One cut a more slender silhouette. The light caught on her blonde hair, making it sparkle. Her slim elven figure was bewitching. The other was a man. He was shorter than average, and not especially broad either. Despite that, he seemed weathered and reliable… Maybe it was the patch over one of his eyes.</p>
+<p>&quot;Cliff! He told me everything, then brought me with him!&quot; Norn said. Hiccupping, she turned to look behind her. There, framed in the entrance, stood two figures, shadows against the backlight. One cut a more slender silhouette. The light caught on her blonde hair, making it sparkle. Her slim elven figure was bewitching. The other was a man. He was shorter than</p>
+<p>average, and not especially broad either. Despite that, he seemed weathered and reliable… Maybe it was the patch over one of his eyes.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-24/insert-06.webp" alt="Illustration" loading="lazy" />
 </div>

@@ -88,7 +88,8 @@ nav_title = "Chapter 9"
 <p>It felt like a good idea to put Eris on her guard as well. We probably weren&#x27;t in much real danger with Ruijerd around, but I didn&#x27;t want us slipping up due to complacency. The two of us really ought to protect ourselves.</p>
 <p>With that thought in mind, I reached into my inner breast pocket and clutched tightly at my money pouch. I didn&#x27;t have that much cash to lose, but it would still be a disaster if someone swiped it.</p>
 <p>&quot;…Tch.&quot;</p>
-<p>Sometimes, one of the rougher-looking guys we passed would stare menacingly at Ruijerd, but when he glared right back, they tended to click their tongues and look away. In this sort of neighborhood, people who could throw a good punch probably inspired more respect than adventurers.</p>
+<p>Sometimes, one of the rougher-looking guys we passed would stare menacingly at Ruijerd, but when he glared right back, they tended to click their tongues and look away. In this sort of</p>
+<p>neighborhood, people who could throw a good punch probably inspired more respect than adventurers.</p>
 <p>&quot;Is this really where the cat went, Ruijerd?&quot;</p>
 <p>&quot;We&#x27;ll see.&quot;</p>
 <p>That reply wasn&#x27;t particularly reassuring. We weren&#x27;t just wandering around aimlessly here, were we?</p>
@@ -178,7 +179,8 @@ nav_title = "Chapter 9"
 <p><em>Ah, right. Now I get it. I&#x27;m not afraid because I just saw someone die. I&#x27;m afraid…because Ruijerd killed that man…without a second thought…just because he kicked me.</em></p>
 <p>I&#x27;m afraid of Ruijerd.</p>
 <p>Roxy had warned me, hadn&#x27;t she? &quot;…there are many differences in what&#x27;s commonly accepted in human culture versus demon culture, so you might not know what words will trigger an outburst.&quot; So what was I going to do if Ruijerd ever turned his wrath on me? The man was strong; as strong as Ghislaine, or even stronger. Was it possible for me to beat him with my magic? I could probably put up a fight at least. I&#x27;d worked out multiple strategies for head-to-head fights against close-range combat specialists.</p>
-<p>For whatever reason, many of the people in my life fell into that category…including Paul, Ghislaine, and Eris. And Ruijerd was probably the single strongest of them. It was hard for me to say with any confidence that I could take him. But if I were fighting to kill from the very start, there were plenty of things I could try.</p>
+<p>For whatever reason, many of the people in my life fell into that category…including Paul, Ghislaine, and Eris. And Ruijerd was</p>
+<p>probably the single strongest of them. It was hard for me to say with any confidence that I could take him. But if I were fighting to kill from the very start, there were plenty of things I could try.</p>
 <p>What if he went after Eris, though? Could I possibly protect her as well?</p>
 <p>No. Not a chance.</p>
 <p>&quot;Y-you can&#x27;t kill someone just for that!&quot;</p>

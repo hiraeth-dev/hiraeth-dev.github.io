@@ -47,7 +47,8 @@ nav_title = "Chapter 4"
 <p>&quot;Wh-what&#x27;s that supposed to mean?&quot;</p>
 <p>&quot;It means you can rest your head on my legs.&quot;</p>
 <p>&quot;…Really? Well…thanks.&quot;</p>
-<p>Normally, Eris would have kicked up a royal fuss at the very suggestion, but it seemed she was too drowsy to care. Without much hesitation, she plopped her head in my lap. For a moment, her face tensed and she clenched her hands into fists, but once she closed her eyes, she was sound asleep within seconds.</p>
+<p>Normally, Eris would have kicked up a royal fuss at the very suggestion, but it seemed she was too drowsy to care. Without much hesitation, she plopped her head in my lap. For a moment, her face</p>
+<p>tensed and she clenched her hands into fists, but once she closed her eyes, she was sound asleep within seconds.</p>
 <p>The girl must have been seriously exhausted. I took the opportunity to gently stroke her long, red hair, and she squirmed a little as she slept.</p>
 <div class="chapter-illustration">
   <img src="/novels/mushoku-tensei/vol-03/insert-02.webp" alt="Illustration" loading="lazy" />

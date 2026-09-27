@@ -111,7 +111,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Think of it like a sign of friendship, then,&quot; I said. &quot;C&#x27;mon, you don&#x27;t see coins like that every day, right? That there&#x27;s a Millis bronze coin, y&#x27;know.&quot;</p>
 <p>The man stared hard at me for a while, but in the end, he put the coin in his pocket, then brought his fists together in thanks.</p>
 <p>Bet you&#x27;re pondering why I went with a Millis coin instead of money from these parts. Fact is that the teleportation circle plonked me down out here in the middle of nowhere, so I didn&#x27;t have time to go change my cash.</p>
-<p>I left the tavern and headed for the dimly glowing boulder. The closer I got, the better I could appreciate its ginormous size. There was a scaffold platform and a ladder, but the boulder was so big that wasn&#x27;t much comfort. It looked like it might come to pieces when I was halfway up.</p>
+<p>I left the tavern and headed for the dimly glowing boulder. The closer I got, the better I could appreciate its ginormous size. There was a scaffold platform and a ladder, but the boulder was so big that wasn&#x27;t</p>
+<p>much comfort. It looked like it might come to pieces when I was halfway up.</p>
 <p>&quot;Hey, I really gotta climb this thing?&quot; I said. No one was around to answer me. Which meant the answer was, Shut up and climb.</p>
 <p>Contrary to what I&#x27;d expected, the ladder was sturdy and there was no wind. The only thing making it difficult was the darkness, but I managed to make it to the top without my feet slipping.</p>
 <p>The flat top of the boulder was studded with daggers stabbed into the rock, adorned with scraps of red cloth. There were mystical letters written on the surface, a bit like a magic circle. I&#x27;d seen this kinda place before. If my hunch was right, this was where the village&#x27;s youths came for their coming-of-age ritual. Or maybe they took the daggers of dead folks, tied a scrap of their clothing to the handle, and stuck them up here. My village had a ritual like that, too. Not that I&#x27;d ever done it.</p>
@@ -139,7 +140,8 @@ nav_title = "Extra Chapter"
 <p>Only real obsessive types talked like that.</p>
 <p>&quot;See, the Master passed this way once several hundred years ago, and since then, it hasn&#x27;t returned. So it might well be today, get it? It didn&#x27;t come yesterday or the day before. Several hundred years later might be today. Right?&quot;</p>
 <p>&quot;You&#x27;re not wrong.&quot; His eyes said he was serious. He really thought that tomorrow could be the day the Master happened by this big old boulder.</p>
-<p>By the way, I&#x27;m pretty sure the only intel this kid had dug up on the Master was the &quot;once every few hundred years it appears close to this boulder&quot; tidbit. With only that to go on, he&#x27;d trekked out here to the back of beyond, then spent days and days sitting up here, waiting. He was a bonafide nutjob.</p>
+<p>By the way, I&#x27;m pretty sure the only intel this kid had dug up on the Master was the &quot;once every few hundred years it appears close to this boulder&quot; tidbit. With only that to go on, he&#x27;d trekked out here to the back of beyond, then spent days and days sitting up here, waiting. He was a</p>
+<p>bonafide nutjob.</p>
 <p>&quot;What&#x27;s got you hunting the Master anyway? It kill your folks or something?&quot;</p>
 <p>&quot;That&#x27;s pretty much it, actually.&quot;</p>
 <p>&quot;Liar.&quot;</p>
@@ -191,7 +193,8 @@ nav_title = "Extra Chapter"
 <p>The battle ended right after midday, as the sun began to turn toward the horizon. The Behemoth&#x27;s flailing grew more lethargic as it drew closer to death. Even as it bled out, it kept on writhing where it lay, refusing to yield. Its defiance didn&#x27;t last long. All of a sudden, it stopped fighting. It stood up and walked, slowly, like it was trying to get away. It was way too late for that, but I guessed the Behemoth hadn&#x27;t worked that out.</p>
 <p>At the end, the behemoth stretched itself out to its full height. It pushed up on four of its legs…then let out a massive breath, and all the strength went out of it. It toppled back, as if to sit down, then it stopped moving altogether.</p>
 <p>The moment it fell, the warriors all put their fists together and knelt, lowering their heads to the dead Behemoth. I didn&#x27;t copy them, but just standing there felt kinda awkward, so I retreated to the back of the group. The warriors stayed as they were. It was like they were waiting for something.</p>
-<p>At last, the sand cleared. As the carcass of the behemoth came into view, so did an approaching figure on the horizon. He wore layer upon layer of ragged robes and carried a great sword.</p>
+<p>At last, the sand cleared. As the carcass of the behemoth came into view, so did an approaching figure on the horizon. He wore layer upon</p>
+<p>layer of ragged robes and carried a great sword.</p>
 <p>&quot;A hero,&quot; someone said. One after another, other voices echoed the same word, clamoring for his attention.</p>
 <p>&quot;Hero…&quot;</p>
 <p>&quot;Hero!&quot;</p>

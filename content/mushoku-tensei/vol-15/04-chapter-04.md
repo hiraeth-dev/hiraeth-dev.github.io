@@ -172,7 +172,8 @@ nav_title = "Chapter 4"
 <p>…Or maybe I was just slapping a convenient reason on a bunch of random events.</p>
 <p>&quot;Okay, so what&#x27;s the bottom line here? That you came here from the future?&quot;</p>
 <p>&quot;That&#x27;s not the point. It&#x27;s more that… Argh. How am I supposed to explain this?&quot;</p>
-<p>Nanahoshi was practically tearing her hair out in frustration at this point. She seemed to be having a really hard time putting her ideas into words. &quot;I&#x27;m guessing that, at some point in the future, something established a… chain of causality leading to the Man-God&#x27;s downfall.&quot;</p>
+<p>Nanahoshi was practically tearing her hair out in frustration at this point. She seemed to be having a really hard time putting her</p>
+<p>ideas into words. &quot;I&#x27;m guessing that, at some point in the future, something established a… chain of causality leading to the Man-God&#x27;s downfall.&quot;</p>
 <p>&quot;A chain of causality…?&quot;</p>
 <p>&quot;Right. And in order to prevent that future from being realized, the Man-God began to meddle with your life.&quot;</p>
 <p>&quot;Hm…&quot;</p>

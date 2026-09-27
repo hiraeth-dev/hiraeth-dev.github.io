@@ -71,7 +71,8 @@ nav_title = "Interlude"
 <p>&quot;Very well. I shall allow it.&quot;</p>
 <p>&quot;Thank you, Prince Zanoba!&quot;</p>
 <p>This really wasn&#x27;t what I&#x27;d had in mind. I mean, educating Julie was ultimately for Zanoba&#x27;s good, not Ginger&#x27;s. Then again, maybe there was some unspoken rule that slaves weren&#x27;t supposed to receive too much education?</p>
-<p>Humanity was driven out of the Garden of Eden because they ate the fruit of knowledge. Stay ignorant, and you might be perfectly happy to spend the rest of your life dancing around with a fig leaf over your crotch, singing, &quot;Yatta,&quot; all day long. That&#x27;s why kings prefer their subjects to be as clueless as possible. The less you educate them, the less likely they are to rise up against you. Of course, you&#x27;re also sabotaging their ability to learn new skills and become more useful, but that&#x27;s a trade-off lots of rulers are willing to make.</p>
+<p>Humanity was driven out of the Garden of Eden because they ate the fruit of knowledge. Stay ignorant, and you might be perfectly happy to spend the rest of your life dancing around with a fig leaf over your crotch, singing, &quot;Yatta,&quot; all day long. That&#x27;s why kings</p>
+<p>prefer their subjects to be as clueless as possible. The less you educate them, the less likely they are to rise up against you. Of course, you&#x27;re also sabotaging their ability to learn new skills and become more useful, but that&#x27;s a trade-off lots of rulers are willing to make.</p>
 <p>In any case… I guess it would have been tricky for Zanoba to grant Ginger a more typical reward like land or treasure anyway, given his current position. She&#x27;d probably realized that and kept her request modest out of loyalty.</p>
 <p>&quot;Well, all right, then,&quot; I said. &quot;Back to the grind, I guess. How far have you gotten?&quot;</p>
 <p>&quot;I was planning to work on the legs next, Master.&quot;</p>

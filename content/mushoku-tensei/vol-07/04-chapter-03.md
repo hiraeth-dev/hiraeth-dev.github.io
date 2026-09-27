@@ -54,7 +54,8 @@ nav_title = "Chapter 3"
 <p>&quot;Hey, look. He&#x27;s praying again!&quot;</p>
 <p>&quot;Leave it alone. Quagmire&#x27;s just a pious kid. I saw him goin&#x27; at it in the middle of the street the other day…&quot;</p>
 <p><em>Whoops. That was careless of me.</em></p>
-<p>At some point, I&#x27;d reached into my pocket and bowed my head in a reflexive prayer. As long as I had my holy relic, I&#x27;d be all right. I could endure anything the world threw at me. With Roxy watching over me, nothing could harm me. I was invincible. I was Mecha-Rudeus, the indestructible!</p>
+<p>At some point, I&#x27;d reached into my pocket and bowed my head in a reflexive prayer. As long as I had my holy relic, I&#x27;d be all right. I</p>
+<p>could endure anything the world threw at me. With Roxy watching over me, nothing could harm me. I was invincible. I was Mecha-Rudeus, the indestructible!</p>
 <p>&quot;Pfft.&quot;</p>
 <p>&quot;Quagmire Rudeus? Gimme a damn break.&quot;</p>
 <p>&quot;That kid&#x27;s so full of himself…&quot;</p>
@@ -113,7 +114,8 @@ nav_title = "Chapter 3"
 <p>&quot;Sure. I&#x27;ll do what I can.&quot;</p>
 <p>&quot;Seriously, you better. I mean, my arrows might not even work on those things… If one of them closes in on you, we might not be able to help…&quot;</p>
 <p>Sara definitely seemed nervous about this one. She could fire off arrows with incredible speed and accuracy, but that didn&#x27;t mean much against enemies with such tough natural defenses. Although she could find weak points to aim for, like the eyes or mouth, the precision that required put her at a real disadvantage—especially against larger groups of enemies.</p>
-<p>And of course, there were quite a few A-ranked monsters that could shrug off an arrow, or even dodge them in midair. The Snow Drakes were definitely in that category. The other monsters that inhabited these ruins mostly weren&#x27;t too threatening. But if we did find ourselves facing an A-ranked monster, it was hard to tell if Sara could deal much damage. That was clearly frustrating for her.</p>
+<p>And of course, there were quite a few A-ranked monsters that could shrug off an arrow, or even dodge them in midair. The Snow Drakes were definitely in that category. The other monsters that</p>
+<p>inhabited these ruins mostly weren&#x27;t too threatening. But if we did find ourselves facing an A-ranked monster, it was hard to tell if Sara could deal much damage. That was clearly frustrating for her.</p>
 <p>Still, that was kind of how things went in this line of business. Few adventurers could accomplish much without a party. I wasn&#x27;t much good on my own, either. When you started getting cocky, it was only a matter of time until you got showed up by someone better. And when you thought you&#x27;d figured out how the world works, it wouldn&#x27;t be long until it flipped the tables on you. Staying humble was the only way to go.</p>
 <p>Sara was still young. She probably hadn&#x27;t experienced many real setbacks yet, and consequently she seemed more worried about what might happen to the other members of the party if she couldn&#x27;t perform her role. The fact that she might be in danger herself didn&#x27;t seem to register.</p>
 <p>Of course, the rest of us could always step in to offer a little inconspicuous assistance when she needed it. If that wasn&#x27;t enough, well…we&#x27;d have to cross that bridge when we came to it.</p>
@@ -122,7 +124,8 @@ nav_title = "Chapter 3"
 <p>&quot;If it comes to the worst, we can always make a run for it!&quot; added Patrice.</p>
 <p>&quot;You&#x27;re real good at running away, Patrice. I&#x27;ll give ya that much,&quot; said Mimir.</p>
 <p>&quot;Don&#x27;t be so modest, Mimir,&quot; said Timothy. &quot;You&#x27;re our best sprinter by a long shot.&quot;</p>
-<p>Everyone burst out laughing, and the tension in the air seemed to lessen just a little. Timothy was a soft-spoken man, but he knew how to interject a joke or a suggestion when one was called for. That was another thing I wanted to learn to imitate.</p>
+<p>Everyone burst out laughing, and the tension in the air seemed to lessen just a little. Timothy was a soft-spoken man, but he knew</p>
+<p>how to interject a joke or a suggestion when one was called for. That was another thing I wanted to learn to imitate.</p>
 <p>&quot;Okay then,&quot; said Suzanne, clapping her hands together. &quot;Shall we get going, folks?&quot;</p>
 <p>Everyone rose to their feet, their expressions serious once again.</p>
 <p>The entrance to the ruins was located by the banks of a winding mountain stream. It was nothing more than a hole in the cliff face, really. The space inside was half-covered in ice, with thick icicles hanging across the entrance. From above, you could easily overlook it. To be honest, the place looked less like a ruin and more like a cave where bears might hibernate for the winter. It almost felt like we&#x27;d come to the wrong place.</p>
@@ -158,7 +161,8 @@ nav_title = "Chapter 3"
 <p>I could still peer over Sara&#x27;s head when she was in front of me, but since she was a little shorter, it was probably impossible for her to see anything when Patrice was directly in front of her. We&#x27;d usually have the middle row staggered in alignment so she could target enemies up ahead, but there just wasn&#x27;t enough space in this passage. This formation seemed like our only option for the moment. If things got messy, I might have to throw up a wall of earth directly ahead of our front line…</p>
 <p>## &quot;…Oh.&quot;</p>
 <p>Just then, the passage we&#x27;d been following suddenly came to an end. We&#x27;d stepped out into a large, open space, so brightly lit that it almost felt like we were back outside. &quot;Wow…&quot;</p>
-<p>I looked up and realized the entire ceiling was covered in patches of something that emitted a bluish-white glow. From this distance, I couldn&#x27;t tell if it was moss or some sort of mineral, but whatever the stuff was, it made our torches seem almost unnecessary.</p>
+<p>I looked up and realized the entire ceiling was covered in patches of something that emitted a bluish-white glow. From this distance, I couldn&#x27;t tell if it was moss or some sort of mineral, but</p>
+<p>whatever the stuff was, it made our torches seem almost unnecessary.</p>
 <p>Our path was also much wider than it had been a minute ago. There was suddenly enough space for five people to walk comfortably abreast. Up ahead, a sheer rock face sloped into the darkness on one side of the path. It was hard to make out what lay at the bottom, but it seemed to be some sort of underground lake or river. I had a bad feeling about what might be lurking down there. Falling into it would probably not be the greatest idea.</p>
 <p>Further along the path was the place we&#x27;d come here to visit: a massive, fort-like structure, crumbling in places but structurally intact.</p>
 <p>These were the Galgau Ruins.</p>
@@ -185,7 +189,8 @@ nav_title = "Chapter 3"
 <p>&quot;Whoa…&quot;</p>
 <p>&quot;Ugh!&quot;</p>
 <p>An enormous frog had popped out of the water down below and swallowed one of the bats in a single gulp. The men of the party looked on with something like wonder; Sara, on the other hand, grimaced in disgust.</p>
-<p>The amphibian was a vivid blue-and-black thing that reminded me of the poison dart frogs back in my world. I had to assume it wasn&#x27;t safe to eat. From this distance it was hard to say exactly how big it was, but given how easily it had eaten that Giant Bat, I had to assume it was at least five meters tall. And it was energetic for its size, too. I could see it glancing eagerly all around, wondering if any more prey might tumble down into its lair. If the thing could be this active in such intense cold, it had to be remarkably tough, even for a monster.</p>
+<p>The amphibian was a vivid blue-and-black thing that reminded me of the poison dart frogs back in my world. I had to assume it wasn&#x27;t safe to eat. From this distance it was hard to say exactly how big it was, but given how easily it had eaten that Giant Bat, I had to assume it was at least five meters tall. And it was energetic for its size, too. I could see it glancing eagerly all around, wondering if any more prey might tumble down into its lair. If the thing could be this</p>
+<p>active in such intense cold, it had to be remarkably tough, even for a monster.</p>
 <p>&quot;Let&#x27;s try not to fall down there, huh?&quot; muttered Suzanne.</p>
 <p>Sara just nodded vehemently. I could see goosebumps on her skin.</p>
 <p>Somehow, I got the sense our archer wasn&#x27;t a frog person. I thought the big amphibian had a somewhat charming face, but to each their own. That said, I&#x27;d run into more than a few frog-faced people on the Demon Continent. It was something Sara would have to get over one of these days.</p>
@@ -202,7 +207,8 @@ nav_title = "Chapter 3"
 <p>We were on the job right now. I might have been tempted to take a few shots if I had a camera, but there was no time for that sort of thing. I needed to get these scales collected and get back to town as soon as possible.</p>
 <p>Yeah. Let&#x27;s hurry back…to my lonely, empty room in the inn…</p>
 <p>I shook my head to clear it of unpleasant thoughts and turned my attention to the ruined fortress itself. &quot;This thing&#x27;s been here ever since the First Human-Demon war, huh…?&quot;</p>
-<p>After all the time I&#x27;d spent travelling the Demon Continent, I&#x27;d seen my fair share of buildings constructed by demonkind. That included quite a few large, peculiar-looking castles and forts, including Kishirisu Castle in the city of Rikarisu. This fortress did bear some resemblance to them, but it was clearly older, and made a slightly different impression from the ones I&#x27;d seen so far. Maybe that made sense, though, since this was a functional outpost built to be used in an actual war. Everything about it was large in scale; the ceilings were nearly five meters overhead. But oddly enough, the passages tended to be disproportionately narrow.</p>
+<p>After all the time I&#x27;d spent travelling the Demon Continent, I&#x27;d seen my fair share of buildings constructed by demonkind. That included quite a few large, peculiar-looking castles and forts, including Kishirisu Castle in the city of Rikarisu. This fortress did bear some resemblance to them, but it was clearly older, and made a</p>
+<p>slightly different impression from the ones I&#x27;d seen so far. Maybe that made sense, though, since this was a functional outpost built to be used in an actual war. Everything about it was large in scale; the ceilings were nearly five meters overhead. But oddly enough, the passages tended to be disproportionately narrow.</p>
 <p>The height made sense, at least. Demons could be physically very different from human beings, which included being taller on average. As for the narrow hallways…maybe it was a deliberate attempt to make the place easier to defend?</p>
 <p>&quot;Hmm…take a right at the next fork, Suze.&quot;</p>
 <p>&quot;Got it.&quot;</p>
@@ -211,7 +217,8 @@ nav_title = "Chapter 3"
 <p>A glance at the map was enough to see that these ruins were something of a maze. It looked a little bit like the scribblings of a kid who preferred his labyrinths to be tangled and nonsensical because they &quot;looked cooler&quot; that way. Given what I knew about Demonkind, that might have been part of the motivation here, but…</p>
 <p>&quot;Well, they&#x27;re not built like us, you know? This might have been more convenient for them, somehow.&quot;</p>
 <p>&quot;Hmm, I suppose you might be right…&quot;</p>
-<p>Even in an underground fortress like this, they&#x27;d presumably balanced their forces with a variety of demons, including some who could fly and others who could crawl on the walls. That might explain the tall ceilings and narrow hallways, as well as the weirdly complex layout. Like…what if the holes in the ceiling that looked like ventilation shafts actually led to passages that only wall-crawling demons could use? Having some passages that only demons could possibly make use of would have given them a major advantage against any humans who made their way inside.</p>
+<p>Even in an underground fortress like this, they&#x27;d presumably balanced their forces with a variety of demons, including some who could fly and others who could crawl on the walls. That might explain the tall ceilings and narrow hallways, as well as the weirdly complex layout. Like…what if the holes in the ceiling that looked like ventilation shafts actually led to passages that only wall-crawling</p>
+<p>demons could use? Having some passages that only demons could possibly make use of would have given them a major advantage against any humans who made their way inside.</p>
 <p>In any case, it felt like a really long time since we&#x27;d seen a monster. Everything I&#x27;d heard around town led me to believe that these ruins were populated with plenty of bug and amphibian-type creatures, but we hadn&#x27;t come under attack even once since entering the fortress itself. There were bones lying around here and there, sometimes still stained with blood, but the monsters themselves were nowhere to be seen.</p>
 <p>But of course, that didn&#x27;t mean we could let down our guard.</p>
 <p>Suddenly, a long gust of wind blew past us with an eerie whistle. And for some reason, the hairs on the back of my neck stood up.</p>
@@ -319,7 +326,8 @@ nav_title = "Chapter 3"
 <p>Acting mostly on reflex, I tried an ice spell. Gusts of freezing wind rushed through the air, sending scales flying off the ground. A moment later, spears of ice thick as a man&#x27;s thigh sliced toward the Snow Drakes that had made it past my wall.</p>
 <p>The monsters weren&#x27;t far away, and they didn&#x27;t have much room to maneuver. But somehow, they managed to avoid most of the spears with quick, agile movements of their bodies. The few projectiles that did strike home weren&#x27;t effective, either—they just bounced off the Snow Drakes&#x27; scales instead of penetrating them.</p>
 <p>I&#x27;d chosen my magic poorly. Snow Drake scales were natural insulators, and they lived in a frigid region of the world. Of course an ice spell wouldn&#x27;t work on them.</p>
-<p>My wall of earth broke apart. More slithering white bodies pushed their way through the crumbling rubble. I saw at least a dozen of them in that first wave alone. They were bearing down on me as a group now, in large numbers. Earlier I&#x27;d only seen a few at once, but they&#x27;d bunched up as my wall slowed the front ranks down. Every single one of them moved as quickly and nimbly as a tiny lizard, despite their massive size.</p>
+<p>My wall of earth broke apart. More slithering white bodies pushed their way through the crumbling rubble. I saw at least a dozen of them in that first wave alone. They were bearing down on me as a group now, in large numbers. Earlier I&#x27;d only seen a few at once, but they&#x27;d bunched up as my wall slowed the front ranks</p>
+<p>down. Every single one of them moved as quickly and nimbly as a tiny lizard, despite their massive size.</p>
 <p>This was not good. I couldn&#x27;t hope to run anymore. I had to fight. I had to fight them off, somehow, while I retreated. Could I possibly pull that off? Probably not.</p>
 <p>Had the others managed to escape, at least?</p>
 <p>At least I&#x27;d left a letter in my room at the inn in case something like this happened. When an adventurer died, someone from their party usually dealt with the things they left behind. I wasn&#x27;t an official member of Counter Arrow, of course, but maybe they&#x27;d at least send that message off for me…</p>
@@ -395,7 +403,8 @@ nav_title = "Chapter 3"
 <p>&quot;Timothy…are you all right?&quot;</p>
 <p>&quot;Yes. He was kind enough to take it easy on me. Sara, lower your bow, please.&quot;</p>
 <p>Rubbing the area around his neck with one hand, Timothy gestured at Sara with the other. She&#x27;d pulled her bow all the way back and looked ready to let an arrow loose at any moment.</p>
-<p>&quot;I think I might have a rough idea of what happened here,&quot; he continued with a small sigh, smiling gently at the man who&#x27;d just decked him. &quot;I remember hearing that a large number of monsters emerged from Ilbron Cave some time ago, and the party that was sent to fight them was wiped out. The sole survivor reported that they&#x27;d found a nest of Snow Drakes deep inside the cave.&quot;</p>
+<p>&quot;I think I might have a rough idea of what happened here,&quot; he continued with a small sigh, smiling gently at the man who&#x27;d just decked him. &quot;I remember hearing that a large number of monsters emerged from Ilbron Cave some time ago, and the party that was</p>
+<p>sent to fight them was wiped out. The sole survivor reported that they&#x27;d found a nest of Snow Drakes deep inside the cave.&quot;</p>
 <p>Right. I remembered that part as well.</p>
 <p>Ilbron Cave was about a day&#x27;s travel from Rosenburg. The monsters that inhabited it were mostly D- or E-ranked threats. You could find huge lumps of rock salt deep inside it, so adventurers sometimes ventured out there to retrieve some. Recently, though, news had reached the city that masses of C-ranked monsters had been pouring out of the cave. There was a small town nearby, and it wasn&#x27;t far from Rosenburg, either. Given the dangers and urgency of the situation, the matter was immediately referred to the Guild.</p>
 <p>When the first party sent out to get control of the situation was annihilated, the survivor&#x27;s account of a Snow Drake pack prompted the Guild to hike the job from B to S-rank. While everyone else in Rosenburg shrunk back, the S-ranked party Stepped Leader (which usually focused on exploring labyrinths) boldly took on the task.</p>
@@ -412,7 +421,8 @@ nav_title = "Chapter 3"
 <p>Timothy agreed to this immediately, but Sara and Suzanne scowled. They didn&#x27;t actually complain, though. There was an unwritten rule among adventurers when it came to this sort of thing.</p>
 <p>When you got another party mixed up in a fight against a group of monsters, that party only got to take a single one of the resulting corpses afterward. This was intended as a way to discourage parties from deliberately blundering into other people&#x27;s fights to secure a share of the loot.</p>
 <p>&quot;Once you&#x27;ve collected your scales, leave the clean-up to us and head on back to Rosenburg. Don&#x27;t worry, we&#x27;ll seal that hole in the back of the ruins up good and tight.&quot;</p>
-<p>With that said, Soldat turned on his heel and stalked away. The other members of Stepped Leader shrugged and followed him back into the depths of the ruins. They&#x27;d probably deal with the corpses in the Snow Drakes&#x27; nest first, then work their way back here collecting all the valuable materials. It wasn&#x27;t unfair, really, but it wasn&#x27;t a great feeling knowing that they&#x27;d profit off the ones we&#x27;d managed to kill as well. For one thing, we never would have been in danger in the first place if they hadn&#x27;t been around. I felt like we deserved some damages for emotional distress, or whatever.</p>
+<p>With that said, Soldat turned on his heel and stalked away. The other members of Stepped Leader shrugged and followed him back into the depths of the ruins. They&#x27;d probably deal with the corpses in the Snow Drakes&#x27; nest first, then work their way back here collecting all the valuable materials. It wasn&#x27;t unfair, really, but it wasn&#x27;t a great feeling knowing that they&#x27;d profit off the ones we&#x27;d managed to kill as well. For one thing, we never would have been in danger in the</p>
+<p>first place if they hadn&#x27;t been around. I felt like we deserved some damages for emotional distress, or whatever.</p>
 <p>At the end of the day, though, it definitely wasn&#x27;t worth arguing about with those guys. So we got to take these mixed feelings home with us instead. Great.</p>
 <p>&quot;Okay then. Let&#x27;s gather up our scales and get out of here.&quot; Timothy&#x27;s smile was a tired one, and his cheek was already starting to swell.</p>
 <p>All I could do was sigh and nod.</p>
@@ -433,7 +443,8 @@ nav_title = "Chapter 3"
 <p>To be honest, I was expecting it to be some sort of sarcastic parting shot, but… &quot;Why don&#x27;t you come to the afterparty for once?&quot;</p>
 <p>&quot;Huh…?&quot;</p>
 <p>&quot;You know, the afterparty. We&#x27;re just going to the bar.&quot;</p>
-<p>It wasn&#x27;t that I&#x27;d failed to understand the literal meaning of her words, of course. I was just surprised that she&#x27;d asked. When a party of adventurers finished a job that lasted several days or more, they typically headed straight to a bar to drink themselves silly and praise each other for their heroics. It was a way of celebrating the fact that you made it back alive.</p>
+<p>It wasn&#x27;t that I&#x27;d failed to understand the literal meaning of her words, of course. I was just surprised that she&#x27;d asked. When a party of adventurers finished a job that lasted several days or more, they</p>
+<p>typically headed straight to a bar to drink themselves silly and praise each other for their heroics. It was a way of celebrating the fact that you made it back alive.</p>
 <p>I always skipped out on those events. When I got back from a job, my standard procedure was to head back to my inn, offer a few prayers, and then go straight to bed.</p>
 <p>The members of Counter Arrow knew that, of course. They knew I always refused. I needed to head back and tell Roxy I&#x27;d tried my hardest out there. That was the way I&#x27;d done things so far, and I wasn&#x27;t planning to change up my routine now.</p>
 <p>But for some reason, I found myself nodding. &quot;Okay. I guess I&#x27;ll come along.&quot;</p>

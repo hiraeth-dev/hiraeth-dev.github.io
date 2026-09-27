@@ -30,7 +30,8 @@ nav_title = "Chapter 7"
 <p>&quot;Sorry, a reward?&quot;</p>
 <p>&quot;If things go south and you wind up accepting a reward from her, there&#x27;ll be nothing the rest of us can do to help you.&quot;</p>
 <p>&quot;Uh, okay… I&#x27;ll keep that in mind.&quot; I nodded, genuinely intending to take his advice.</p>
-<p>I had no idea what he meant, but I had no interest in accepting any reward. I hadn&#x27;t fallen so far that I would sell out Kishirika for compensation. Speaking of, said Demon Emperor was currently bound in so much rope she resembled a caterpillar as she lay there on the floor. She would be punished later. I didn&#x27;t know what they had in mind—a spanking? Toilet cleaning duty?—but surely it wouldn&#x27;t be too severe.</p>
+<p>I had no idea what he meant, but I had no interest in accepting any reward. I hadn&#x27;t fallen so far that I would sell out Kishirika for compensation. Speaking of, said Demon Emperor was currently bound in so much rope she resembled a caterpillar as she lay there</p>
+<p>on the floor. She would be punished later. I didn&#x27;t know what they had in mind—a spanking? Toilet cleaning duty?—but surely it wouldn&#x27;t be too severe.</p>
 <p>That aside, I couldn&#x27;t let my guard down. We were meeting a demon king, after all. The only high-ranking demons I knew were Kishirika and Badigadi.</p>
 <p><em>The two of them are always so happy-go-lucky, but I bet if you pissed them off…huh, weird. I get the feeling it wouldn&#x27;t be that bad, actually.</em></p>
 <p>&quot;Move it.&quot;</p>
@@ -267,7 +268,8 @@ nav_title = "Chapter 7"
 <p>&quot;Moore, you did a splendid job. Everything went the way you said it would,&quot; said Atofe.</p>
 <p>&quot;If you&#x27;re that pleased, I hope you&#x27;ll hold up your end and do as I asked you.&quot;</p>
 <p>&quot;No.&quot; Atofe&#x27;s response was curt as she lifted a hand. At her gesture, the other knights drew their swords. &quot;Now, then…&quot;</p>
-<p>The demon king stepped toward us and unsheathed her own weapon. As she towered above us on the slope, she pointed her blade at me and said, &quot;Fwahahaha! I am Immortal Demon King Atoferatofe Rybak! If you best me, I will declare you a hero! If you lose, you will be my puppet until the day you breathe your last!&quot;</p>
+<p>The demon king stepped toward us and unsheathed her own weapon. As she towered above us on the slope, she pointed her</p>
+<p>blade at me and said, &quot;Fwahahaha! I am Immortal Demon King Atoferatofe Rybak! If you best me, I will declare you a hero! If you lose, you will be my puppet until the day you breathe your last!&quot;</p>
 <p>The smile on her face was savage, and a stifling aura of bloodlust wafted off her. Despite being shorter than me, she looked like a five-meter-tall titan right now.</p>
 <p><em>Sorry, Sylphie. I might not be able to make it back home after all.</em></p>
 <p><strong>Chapter 8: Showdown with the Immortal Demon King</strong></p>

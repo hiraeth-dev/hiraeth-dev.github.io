@@ -27,7 +27,8 @@ nav_title = "Chapter 4"
 <p>I had no doubt that I was face to face with the Death God, Randolph Marianne.</p>
 <p>A pair of armored knights flanked this central group of three. I assumed they were among those who&#x27;d been dispatched here from the King Dragon Realm along with Randolph.</p>
 <p>&quot;Your Majesty. It is I, Zanoba Shirone. I have returned from the Magic City of Sharia in answer to your summons.&quot;</p>
-<p>As he spoke, Zanoba stepped forward and dropped to one knee. From the looks of things, he didn&#x27;t have any issue bowing and scraping before his little brother. I kneeled as well but made sure to keep the Gatling gun hidden underneath my robe fixed on Randolph.</p>
+<p>As he spoke, Zanoba stepped forward and dropped to one knee. From</p>
+<p>the looks of things, he didn&#x27;t have any issue bowing and scraping before his little brother. I kneeled as well but made sure to keep the Gatling gun hidden underneath my robe fixed on Randolph.</p>
 <p>Pax studied Zanoba from above for a moment, then pulled his hand off his consort&#x27;s backside and licked it. &quot;You certainly made excellent time.&quot;</p>
 <p>&quot;The matter clearly called for urgency, so I made the utmost haste.&quot;</p>
 <p>&quot;Oh, did you, now? And here I was, thinking you must have been lurking somewhere inside Shirone in the first place. I never got word that you&#x27;d crossed our borders, you see…&quot;</p>
@@ -74,7 +75,8 @@ nav_title = "Chapter 4"
 <p>&quot;Hmph. I was only joking, obviously.&quot;</p>
 <p><em>Oh. Uh, I guess we&#x27;re not doing this after all?</em></p>
 <p>A bit surprised, I glanced over at Randolph to find him stifling yet another yawn. From all appearances, he wasn&#x27;t even paying attention to the conversation. I was starting to wonder if that man might be sleep-deprived or something. He yawned as often as a college kid who wanted everyone to know he&#x27;d pulled another all-nighter. I&#x27;d never seen someone look so profoundly bored before.</p>
-<p>&quot;I&#x27;ve heard the rumors about your Rudeus Greyrat myself,&quot; said Pax with an indifferent shrug. &quot;Although aided by the Armored Dragon King, he supposedly defeated both the Water God Reida and the three blades of the North God in the Kingdom of Asura. And Randolph here is a precious asset on loan to me from the King Dragon Realm. I&#x27;m sure he wouldn&#x27;t lose the fight, but if I got him badly injured I&#x27;d be too ashamed to face His Majesty.&quot;</p>
+<p>&quot;I&#x27;ve heard the rumors about your Rudeus Greyrat myself,&quot; said Pax with an indifferent shrug. &quot;Although aided by the Armored Dragon King, he supposedly defeated both the Water God Reida and the three blades of the North God in the Kingdom of Asura. And Randolph here is a precious asset on loan to me from the King Dragon Realm. I&#x27;m sure he wouldn&#x27;t lose the</p>
+<p>fight, but if I got him badly injured I&#x27;d be too ashamed to face His Majesty.&quot;</p>
 <p>Apparently this was all Pax had to say about me.</p>
 <p>He repositioned himself on his throne and fixed a sharp glare on his brother, abruptly changing the subject. &quot;On another note…if I&#x27;m not mistaken, brother, you seem to be quite wary of me.&quot;</p>
 <p>&quot;In my defense, Your Majesty,&quot; replied Zanoba, &quot;our last parting wasn&#x27;t on the best of terms.&quot;</p>
@@ -88,7 +90,8 @@ nav_title = "Chapter 4"
 <p>&quot;Hm?&quot;</p>
 <p>&quot;You see, it was that unfortunate incident which provided me with a chance to change.&quot;</p>
 <p>I really wasn&#x27;t sure what kind of change Pax was referring to. In appearance, he was still the same rotund little man as ever. At a glance, at least.</p>
-<p>Yet, as I studied him more carefully, I realized he&#x27;d actually lost a decent amount of weight. It was hard to tell from a distance, especially with him leaning back on that throne, but his waist and chin were a bit less flabby than before. His neck was thick, but looked more muscular than anything else. It seemed like he&#x27;d actually gotten in shape.</p>
+<p>Yet, as I studied him more carefully, I realized he&#x27;d actually lost a decent amount of weight. It was hard to tell from a distance, especially with him leaning back on that throne, but his waist and chin were a bit less flabby than before. His neck was thick, but looked more muscular than anything</p>
+<p>else. It seemed like he&#x27;d actually gotten in shape.</p>
 <p>…Of course, I gathered he was talking about something a little more profound.</p>
 <p>&quot;I won&#x27;t deny it—when they shipped me off to the King Dragon Realm to serve as a hostage, I wept with anger at the unfairness of it all. For many days, I bitterly cursed your name, and that of Rudeus Greyrat.&quot;</p>
 <p>Zanoba swallowed audibly.</p>
@@ -101,7 +104,8 @@ nav_title = "Chapter 4"
 <p>&quot;This girl seemed to spend all her time alone in the gardens, doing nothing in particular, with a melancholy expression on her face. No one spoke to her, and she spoke to no one. When I asked her what she was doing, her reply was always &#x27;Nothing, really.&#x27;&quot;</p>
 <p>Over time, Pax developed an interest in this strange, quiet girl. He made a habit of speaking to her in the gardens every single day. The girl wasn&#x27;t talkative, but she always replied when Pax spoke to her. She knew almost nothing of the world, and seemed to take great pleasure in hearing him describe it. Her happiness proved infectious, and Pax began to consciously look for topics of conversation that might interest her.</p>
 <p>&quot;But then, one day, I happened to overhear a bit of palace gossip. Rumor had it that the shame of Shirone had grown close to the half-wit girl.&quot;</p>
-<p>They were thought to be a fitting couple. But there was much concern expressed about the dreadful possibility they might reproduce, and fill the palace with children just as worthless as they were. It was a rumor meant to inspire malicious laughter.</p>
+<p>They were thought to be a fitting couple. But there was much concern expressed about the dreadful possibility they might reproduce, and fill the</p>
+<p>palace with children just as worthless as they were. It was a rumor meant to inspire malicious laughter.</p>
 <p>&quot;In that moment, I wanted nothing more than to cut the heads of those vicious gossips from their shoulders.&quot;</p>
 <p>Back in Shirone, it would have been trivially easy to arrange. Anyone who slandered a member of the royal family, no matter how drunk they might be, would suffer dearly for their mistake. Here, however, Pax could do nothing.</p>
 <p>&quot;In the King Dragon Realm, I had no authority. No power.&quot;</p>
@@ -132,7 +136,8 @@ nav_title = "Chapter 4"
 <p>&quot;Do you understand now, Zanoba? At this point, I don&#x27;t have any reason to resent you.&quot;</p>
 <p>&quot;I do indeed! A most impressive tale, Your Majesty. I&#x27;m overcome with admiration!&quot;</p>
 <p>Zanoba bowed his head yet again, seemingly overwhelmed with emotion. As he lifted his face from the ground, he gingerly posed a single question.</p>
-<p>&quot;But I do wonder…given that you have the finest of knights at your disposal, why did you feel the need to recall me to Shirone?&quot;</p>
+<p>&quot;But I do wonder…given that you have the finest of knights at your</p>
+<p>disposal, why did you feel the need to recall me to Shirone?&quot;</p>
 <p>&quot;Hah!&quot; snorted Pax disdainfully. &quot;I should think it would be obvious.&quot;</p>
 <p>Did the man have to be so pompous about everything? It was seriously slowing down the conversation. Didn&#x27;t help that Zanoba spoke just as formally, mind you…</p>
 <p>&quot;To be sure, Randolph could deal with this invasion easily enough. But while he is my underling for now, he is a knight of King Dragon, and in time I must return him to its king. What would His Majesty think, to learn I was incapable of defending my own borders without relying on a borrowed blade?&quot;</p>
@@ -155,7 +160,8 @@ nav_title = "Chapter 4"
 <p>Pax frowned slightly, perhaps uncertain what to make of this. Was Zanoba an ally or an enemy in the making?</p>
 <p>He ultimately seemed to give up on trying to decide. &quot;Hmph,&quot; he muttered. &quot;Well, it&#x27;s all the same in the end.&quot;</p>
 <p>And then, in a voice far louder and more confident, he issued his commands.</p>
-<p>&quot;Zanoba Shirone, I order you to organize the defense of Fort Karon. Your troops have already been deployed there. Take up your post as their commander, and hold back the invaders from the north.&quot;</p>
+<p>&quot;Zanoba Shirone, I order you to organize the defense of Fort Karon. Your troops have already been deployed there. Take up your post as their</p>
+<p>commander, and hold back the invaders from the north.&quot;</p>
 <p>&quot;Yes, Your Majesty!&quot;</p>
 <p>After drawing himself up to his full height, Zanoba bowed deeply one last time, and our audience came to an end. I followed my friend out of the throne room, feeling like a man who&#x27;d just dodged a bullet.</p>
 <p>***</p>
@@ -166,7 +172,8 @@ nav_title = "Chapter 4"
 <p>It was Zanoba who eventually broke the silence. His tone of voice was the same as ever, and there was actually a hint of happiness on his face.</p>
 <p>&quot;You think?&quot;</p>
 <p>&quot;Understanding that the Kingdom of Shirone should be protected by its people, he asked me for my help despite our personal differences. A most admirable attitude, wouldn&#x27;t you agree?&quot;</p>
-<p>Well, sure, when you put it that way. He&#x27;d more demanded help rather than asked nicely, in my opinion, but maybe that wasn&#x27;t worth getting into.</p>
+<p>Well, sure, when you put it that way. He&#x27;d more demanded help rather</p>
+<p>than asked nicely, in my opinion, but maybe that wasn&#x27;t worth getting into.</p>
 <p>&quot;I know you were quite concerned about his intentions, Master Rudeus, but people do change. And they do make mistakes.&quot;</p>
 <p>&quot;Yeah, I guess you&#x27;re right.&quot;</p>
 <p>&quot;Pax&#x27;s methods may be violent, and his tactics sometimes incorrect. But I believe he&#x27;s doing the very best he can for the kingdom.&quot;</p>
@@ -196,7 +203,8 @@ nav_title = "Chapter 4"
 <p>Phew. Okay, that makes more sense. He&#x27;d startled me there for a minute. The last thing I wanted to think about was Zanoba changing sides on me at the last moment. That would really leave me out of options…</p>
 <p>All that aside, it felt pretty odd to hear him talk about &quot;protecting&quot; his brother. &quot;You know, Zanoba, I didn&#x27;t think you actually cared what happened to Pax.&quot;</p>
 <p>For a moment, Zanoba looked at me in blank surprise. Then he propped his chin back on his hand and pondered my remark.</p>
-<p>&quot;I suppose I didn&#x27;t, up until today. After all, I hadn&#x27;t even seen the man for many years.&quot; Zanoba furrowed his brow thoughtfully, humming under his breath. &quot;But now that I think about it, this may be the first time he&#x27;s ever turned to me for help like that!&quot;</p>
+<p>&quot;I suppose I didn&#x27;t, up until today. After all, I hadn&#x27;t even seen the man for many years.&quot; Zanoba furrowed his brow thoughtfully, humming under his</p>
+<p>breath. &quot;But now that I think about it, this may be the first time he&#x27;s ever turned to me for help like that!&quot;</p>
 <p>All of a sudden, Zanoba&#x27;s frown gave way to a cheerful smile. Weird. He had to know that Pax was only using him, right? He&#x27;d never been the kind of guy to take pride in his dependability before. Well, maybe some of his determination to protect Shirone was carrying over to its king. They were relatively similar goals, after all.</p>
 <p>In any case… I was having a lot of trouble guessing what the Man-God&#x27;s plan was this time. It wasn&#x27;t clear who any of his disciples were, and there was no sign of anyone trying to kill me at the moment. It felt like I was missing something—overlooking some crucial piece of the puzzle.</p>
 <p>It was always possible that this &quot;trap&quot; was a mere figment of Orsted&#x27;s imagination. I couldn&#x27;t afford to be too optimistic about that possibility, though. Most likely, there was a trap here, and I simply hadn&#x27;t yet discovered it.</p>
@@ -204,7 +212,8 @@ nav_title = "Chapter 4"
 <p>Convincing Zanoba to come back home was clearly going to be a challenge, too. Pax wasn&#x27;t threatening him in any way at the moment, or at least, there&#x27;d been no sudden assassination attempts. If he asked Zanoba to stay here permanently in some key military position, it was hard to imagine that Zanoba would refuse.</p>
 <p>Frankly, unless Pax tried to have him killed, my chances of convincing him to leave seemed dim at best. So long as his life wasn&#x27;t in danger, he&#x27;d essentially moved back home to take a job, you know? A boss like Pax was likely to demand a lot of mandatory overtime…but at the end of the day, Zanoba had the right to choose his own employer as he pleased.</p>
 <p>Still, there was a good chance Pax would change his attitude eventually and try to dispose of Zanoba. At the moment I had no evidence he was planning anything, but that didn&#x27;t rule out the possibility. It wouldn&#x27;t do much good to have my suspicions confirmed after my friend was murdered. I needed to find some sign of Pax&#x27;s real intentions in advance.</p>
-<p>On top of that, even if Pax had no interest in harming Zanoba right now, he could change his mind at any moment. And right now, I had nothing solid to go off either way. Somehow, I had to search for evidence that might not even exist.</p>
+<p>On top of that, even if Pax had no interest in harming Zanoba right</p>
+<p>now, he could change his mind at any moment. And right now, I had nothing solid to go off either way. Somehow, I had to search for evidence that might not even exist.</p>
 <p><em>God, I think I might go bald from stress…</em></p>
 <p>Resigned to the fact I wouldn&#x27;t reach any useful conclusions on my own, I resolved to ask Roxy for her thoughts tomorrow.</p>
 <p><strong>Chapter 5: Fort Karon</strong></p>

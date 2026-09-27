@@ -30,7 +30,8 @@ nav_title = "Chapter 10"
 <p>&quot;………&quot;</p>
 <p>&quot;…&quot;</p>
 <p>For some reason, I wasn&#x27;t hearing anything. His clothes were wet, yeah, but even so… taking them off and drying them out with a spell should have produced at least some faint hint of a sound. This was really odd. Did he have some way of changing his clothes without making any noise at all?</p>
-<p>Come to think of it, there had been a girl at my elementary school who could change into her swimsuit without taking her clothes off first. That was a pretty cool trick. That school wasn&#x27;t equipped with actual changing rooms, so the boys and girls were forced to change clothes together in the classrooms. Those were good times, in retrospect. Later, once the internet got popular, I stumbled across an explanation of that stealthy clothes-changing method. I&#x27;d developed a certain interest in tricks of that sort. My interest in this matter was purely academic, of course. It definitely wasn&#x27;t a sexual thing. Probably.</p>
+<p>Come to think of it, there had been a girl at my elementary school who could change into her swimsuit without taking her</p>
+<p>clothes off first. That was a pretty cool trick. That school wasn&#x27;t equipped with actual changing rooms, so the boys and girls were forced to change clothes together in the classrooms. Those were good times, in retrospect. Later, once the internet got popular, I stumbled across an explanation of that stealthy clothes-changing method. I&#x27;d developed a certain interest in tricks of that sort. My interest in this matter was purely academic, of course. It definitely wasn&#x27;t a sexual thing. Probably.</p>
 <p>If Fitz hadn&#x27;t taken off his clothes, he&#x27;d probably be freezing right about now. With that excuse in mind, I slowly turned around.</p>
 <p>My eyes met Master Fitz&#x27;s at once. He still had his sunglasses on, but I could tell he was looking at my face. I didn&#x27;t look away this time. Mainly because his face was alarmingly pale. &quot;Master Fitz!&quot;</p>
 <p>He was still clutching his shoulders with both arms, trembling more fiercely than before. There was no color in his face at all. It was obvious that he was chilled to the bone.</p>
@@ -150,7 +151,8 @@ nav_title = "Chapter 10"
 <p>…Come to think of it, though, there was one other exception. Back in Buena Village, I&#x27;d been pretty relaxed around my cute little friend Sylphie. In that case, maybe casual was just the norm for us.</p>
 <p>For a while we just sat cuddled up against each other in our underwear, saying nothing in particular, listening to the crackling of the fire. When I turned my neck just a little, I could look right down at Sylphie&#x27;s collarbone. Her bra was slightly loose, so when I glanced down from that angle, I sometimes caught a glimpse of a pretty little pink something-or-other.</p>
 <p>After a little while, though, I broke the pleasant silence. &quot;So anyway… can I ask why you were crossdressing all this time, Sylphie? What happened to you after the Displacement Incident?&quot;</p>
-<p>I wanted to know why she was Princess Ariel&#x27;s bodyguard, why she&#x27;d dyed her hair white, and why she was hiding her identity. I didn&#x27;t know if it was okay for me to ask those questions, but it seemed worthwhile to try.</p>
+<p>I wanted to know why she was Princess Ariel&#x27;s bodyguard, why she&#x27;d dyed her hair white, and why she was hiding her identity. I</p>
+<p>didn&#x27;t know if it was okay for me to ask those questions, but it seemed worthwhile to try.</p>
 <p>&quot;Oh, right. Uhm… where do I even start…?&quot;</p>
 <p>Slowly, Sylphie began to walk me through her story.</p>
 <p>She began with her training at Buena Village, and her attempts to find out where I was from Zenith and Lilia. They&#x27;d ended up thoroughly training her in Healing magic and etiquette, respectively. She also mentioned making me the pendant I still wore to this day.</p>
@@ -162,7 +164,8 @@ nav_title = "Chapter 10"
 <p>&quot;Uhm, mind if I continue my story?&quot;</p>
 <p>&quot;Sorry about that. Go right ahead.&quot;</p>
 <p>After the Displacement Incident, Sylphie&#x27;s life had taken a sharp turn for the stormy and dramatic. She was ejected above a garden in the royal palace with a dangerous monster right below her. After saving Princess Ariel&#x27;s life by sheer coincidence, she was granted her present role as her Guardian Mage as a reward.</p>
-<p>Somehow, her hair had lost its original color when she was teleported. And the people of the royal capital were so different from what she was used to in their outlook and ambitions that every day left her with a stomachache. She&#x27;d been forced to fend off assassins sent to kill Ariel, as the members of the royal family and their supporters struggled for power.</p>
+<p>Somehow, her hair had lost its original color when she was teleported. And the people of the royal capital were so different from what she was used to in their outlook and ambitions that every day left her with a stomachache. She&#x27;d been forced to fend off</p>
+<p>assassins sent to kill Ariel, as the members of the royal family and their supporters struggled for power.</p>
 <p>Eventually, they&#x27;d been driven from the capital and set off on a journey none of them were ready for. There had been betrayals, deceptions, and moments of desperate danger. But eventually, they&#x27;d reached the Ranoa University of Magic, where they began to plot their comeback… at which point I showed up.</p>
 <p>&quot;I know it&#x27;s not your fault, Rudy…but when you introduced yourself to me like a stranger, it was kind of a shock.&quot;</p>
 <p>&quot;I&#x27;m sorry about that. But you know, if you&#x27;d just told me who you were a little earlier, this wouldn&#x27;t have taken nearly so long.&quot;</p>

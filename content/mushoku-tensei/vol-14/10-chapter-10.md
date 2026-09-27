@@ -170,7 +170,8 @@ nav_title = "Chapter 10"
 <p>I suddenly sensed a presence behind me and whipped around. All I saw was the empty chair I&#x27;d left behind. No one was there.</p>
 <p><em>Of course not.</em></p>
 <p>&quot;Must have been my imagination.&quot;</p>
-<p>The only things in the room were a desk, a chair, and a bookshelf. There was nowhere for anyone to hide. There was a window, but it wasn&#x27;t large enough for someone to sneak in and out of. The only entrance was the door I was standing in front of. The room was small enough that one candle was enough to illuminate every nook and cranny. The only person who could possibly be in here was me.</p>
+<p>The only things in the room were a desk, a chair, and a bookshelf. There was nowhere for anyone to hide. There was a window, but it wasn&#x27;t large enough for someone to sneak in and out of. The only entrance was the door I was standing in front of. The room was small enough that one candle was enough to illuminate</p>
+<p>every nook and cranny. The only person who could possibly be in here was me.</p>
 <p><em>Then why did I think someone else was here, even though it&#x27;s practically impossible?</em></p>
 <p>Despite my skepticism, I continued to sense a presence in the room. It was odd. Maybe there was a bug under my bookshelf or something?</p>
 <p>&quot;…?&quot;</p>

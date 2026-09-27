@@ -68,7 +68,8 @@ nav_title = "Chapter 8"
 <p>Pointing my staff in the direction of my enemy, I released the spell with all the ferocity I could muster.</p>
 <p>There was a brilliant flash at the center of the village, and a wave of heat and light swept across the ground. From the corner of my eye, I saw trees incinerated in an instant, reduced to charred shadows of themselves. A powerful shock wave followed a moment later.</p>
 <p>The Magic Armor I was wearing weighed several tons. It endured the heat and the shockwave without so much as trembling.</p>
-<p>Once the wave of devastation had swept fully past me, I looked down toward the village. A huge mushroom cloud was rising over it. I couldn&#x27;t see the ground clearly under all the smoke and dust, but I&#x27;d fed that spell enough mana to obliterate everything in its radius. It was probably the single most powerful attack I&#x27;d ever used in my life.</p>
+<p>Once the wave of devastation had swept fully past me, I looked down toward the village. A huge mushroom cloud was rising over it. I couldn&#x27;t see the ground clearly under all the smoke and dust, but I&#x27;d</p>
+<p>fed that spell enough mana to obliterate everything in its radius. It was probably the single most powerful attack I&#x27;d ever used in my life.</p>
 <p>&quot;…&quot;</p>
 <p>And yet, I couldn&#x27;t stop trembling in fear.</p>
 <p>I could still feel that rage, and it was far, far closer now. He was approaching me at a ferocious speed. We&#x27;d been so far apart at first, but now he was almost on me.</p>
@@ -78,7 +79,8 @@ nav_title = "Chapter 8"
 <p>Forcibly suppressing the fear and anxiety rising up inside me, I pointed my Gatling gun toward the cloud of dust that was rapidly approaching my position.</p>
 <p>&quot;Hoo! Haa!&quot;</p>
 <p>I needed to keep the initiative. If I let him set the pace, I was done for.</p>
-<p>Had I even dealt him any damage? Had the poisons on the door, or the aphrodisiac incense burner, or any of the other traps had any effect at all? I&#x27;d put all the power I could into those four spells I&#x27;d just hit him with. If they&#x27;d left him totally unharmed, it was hard to imagine this pseudo-Gatling gun would even scratch him. But for that matter, had my spells even landed? Surely he couldn&#x27;t have evaded them. Their area of effect had been massive; I&#x27;d made them as huge and as deadly as I possibly could. And I&#x27;d fired them from so far away that he couldn&#x27;t possibly have seen them coming, even with an Eye of Foresight. No matter what kind of Demon Eye he might possess, at that range it—</p>
+<p>Had I even dealt him any damage? Had the poisons on the door, or the aphrodisiac incense burner, or any of the other traps had any effect at all? I&#x27;d put all the power I could into those four spells I&#x27;d just hit him with. If they&#x27;d left him totally unharmed, it was hard to imagine this pseudo-Gatling gun would even scratch him. But for that matter, had my spells even landed? Surely he couldn&#x27;t have evaded them. Their area of effect had been massive; I&#x27;d made them as huge and as deadly as I possibly could. And I&#x27;d fired them from so far away that he couldn&#x27;t possibly have seen them coming, even with an Eye</p>
+<p>of Foresight. No matter what kind of Demon Eye he might possess, at that range it—</p>
 <p><em>A human silhouette approaches.</em></p>
 <p>&quot;Fireeeee!&quot;</p>
 <p>Shouting out the command word, I activated the Gatling gun on my right hand. As mana flowed into it, the cannon immediately began to fire Stone Cannons at a ferocious rate of speed. So many &#x27;bullets&#x27; cut through the air that the sound of their whistling built into something like a scream.</p>
@@ -103,7 +105,8 @@ nav_title = "Chapter 8"
 <p>My fully formed magic was reduced to a chaotic tangle by a sudden surge of external power. The spell began to fade into a meaningless cloud of mana.</p>
 <p>&quot;Kuh!&quot;</p>
 <p>But I forcefully reformed it, pulling the strands back into their proper place.</p>
-<p>I was capable of this now. I&#x27;d finally learned how to do it. While teaching Sylphie how to use Disturb Magic, I&#x27;d also been training myself to counteract it: to complete a spell, even after it was ruined. All those hours of practice had been worth it for this one moment.</p>
+<p>I was capable of this now. I&#x27;d finally learned how to do it. While teaching Sylphie how to use Disturb Magic, I&#x27;d also been training</p>
+<p>myself to counteract it: to complete a spell, even after it was ruined. All those hours of practice had been worth it for this one moment.</p>
 <p>Orsted&#x27;s eyes opened wide in surprise. Was this the first time he&#x27;d seen his Disturb Magic fail to—</p>
 <p><em>Whoa.</em></p>
 <p>The instant my Quagmire turned the ground beneath his feet to muck, Orsted used a spell of his own to overwrite it. He covered my swamp completely with an earthen plate.</p>
@@ -138,7 +141,8 @@ nav_title = "Chapter 8"
 <p>Orsted pulled his right hand back to prepare for my attack. Leading with the shield on my left arm, I powered myself straight forward with both of my legs. My intention was to slam right into him like a battering ram.</p>
 <p><em>Orsted assumes a Water God Style stance.</em></p>
 <p>The instant I saw this with my Eye of Foresight, I swung my shield forward, stabbing in his direction with the blade mounted at its tip. This was a sword that did more damage to enemies with powerful defenses. Maybe it would work.</p>
-<p>My body slammed into Orsted with a loud, metallic clang. It felt like I&#x27;d smashed right into a wall. But the impact sent him flying backward; and there was blood spraying from his arm. His eyes, still fixed on me, were burning with hatred and anger.</p>
+<p>My body slammed into Orsted with a loud, metallic clang. It felt like I&#x27;d smashed right into a wall. But the impact sent him flying</p>
+<p>backward; and there was blood spraying from his arm. His eyes, still fixed on me, were burning with hatred and anger.</p>
 <p>This was my chance. Whipping my Gatling gun into position, I quickly fired a barrage of stones. They slammed into him in mid-air, tearing what remained of his clothing apart—and revealing a bruised and battered body underneath. There were burns, cuts, and scrapes all over him. My stone bullets struck his exposed skin repeatedly, sending fresh spurts of blood into the air.</p>
 <p>Finally, Orsted smashed into the ground with a mighty crash.</p>
 <p>I could do this. I could kill him. As long as I could land direct hits, my spells could do plenty of damage. Yes, the stones had bounced off of him, but they&#x27;d torn at his skin and left him bleeding. Eventually, that would be enough to kill him. If I could just hurt him badly enough right now, before he—</p>

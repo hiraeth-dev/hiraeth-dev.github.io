@@ -25,7 +25,8 @@ nav_title = "Chapter 11"
 <p>&quot;Is this…the Fighting God&#x27;s armor?&quot; Randolph asked abruptly. He stared up at it, dumbfounded.</p>
 <p>&quot;No, this is something Zanoba and I put together,&quot; I said. &quot;It&#x27;s a magical implement—Magic Armor, as we call it—used for intense battles.&quot;</p>
 <p>&quot;Oh, is that so…?&quot; he murmured thoughtfully. &quot;Yeah, if you&#x27;d used this thing, I might have been in a bad way.&quot;</p>
-<p>I shook my head. &quot;I&#x27;m not so sure. Ultimately, I was powerless in the face of your Enthralling Blade.&quot;</p>
+<p>I shook my head. &quot;I&#x27;m not so sure. Ultimately, I was powerless in the</p>
+<p>face of your Enthralling Blade.&quot;</p>
 <p>Randolph grinned. &quot;You had me cornered before I even had a chance to use it.&quot;</p>
 <p>&quot;Sorry?&quot;</p>
 <p>&quot;Your synchronized attack left me pretty battered, and the last of my mana was pretty much drained getting rid of those Stone Cannons you launched at me,&quot; he explained, as if trying to comfort me.</p>
@@ -85,7 +86,8 @@ nav_title = "Chapter 11"
 <p>&quot;Did I make the wrong call again?&quot; Zanoba suddenly blurted as I was lost in thought.</p>
 <p>I had no idea what he was feeling. It was impossible to know how much he really thought of Pax, as his brother. All I knew from studying his face right now was that he had held some kind of special feeling for the man. Perhaps something in their past—something that I didn&#x27;t know about—that spurred such emotions in him.</p>
 <p>&quot;I don&#x27;t know,&quot; I confessed honestly. &quot;But seeing this should discourage people from trying to oppose the next king. And, I guess…the country will be more stable now?&quot;</p>
-<p>I couldn&#x27;t remember the name of this supposed thirteenth prince, but if I remembered right, he was only three. There was no way he could have incited all of this. General Jade must have been the instigator. I understood why he did it, but that didn&#x27;t mean I liked it.</p>
+<p>I couldn&#x27;t remember the name of this supposed thirteenth prince, but if I remembered right, he was only three. There was no way he could have incited all of this. General Jade must have been the instigator. I understood</p>
+<p>why he did it, but that didn&#x27;t mean I liked it.</p>
 <p>I wondered if General Jade had actually been the Man-God&#x27;s disciple. Was I supposed to kill him then? But if his whole aim had been to kill Pax, those cows had already left the barn. Everything was already over. It was possible the Man-God had already withdrawn from here.</p>
 <p>Best to leave things be, I decided.</p>
 <p>There was no use spinning my wheels here. Whatever I did seemed unlikely to help our overarching goal. In fact, I&#x27;d lost all confidence in my own decision-making. The best thing to do would be returning home for further orders from Orsted. I needed to inform him about Pax&#x27;s untimely demise…but I couldn&#x27;t leave without Zanoba.</p>
@@ -114,7 +116,8 @@ nav_title = "Chapter 11"
 <p>I had learned intermediate magic almost instantly. Roxy herself picked it up just as quickly, I assumed. Not everyone found it so intuitive, though. I&#x27;d found that out the hard way by teaching Eris and Ghislaine. Pax had probably done the best he could. He put in effort, contrived his own methods for using the magic, practiced them, and finally reached the next level. He was probably hoping Roxy would shower him in praise for his accomplishment, but to his disappointment, she&#x27;d sighed. If Roxy had done the same thing to me back when I was living in Buena Village, then…well, I probably wouldn&#x27;t respect her the way I do now. I might not have married her either.</p>
 <p>&quot;At the time, I was more focused on the power and spells I hadn&#x27;t mastered. Even after I reached the King tier, I had my sights set on something even greater. Perhaps I was arrogant, and ignored those who weren&#x27;t on my level.&quot; Roxy chewed on her lip, squeezing her knees tightly.</p>
 <p>I reached over and stroked her back. She trembled slightly under my touch.</p>
-<p>&quot;I thought I had learned from my past mistakes. I knew that I&#x27;d messed up and swore to do better,&quot; she said, eyes welling up with tears. &quot;But it seemed like I didn&#x27;t learn a thing. It occurred to me, if only faintly, that maybe I had failed as an instructor, but I tried to defend myself by insisting that no, it was the environment at the palace that was the problem.&quot;</p>
+<p>&quot;I thought I had learned from my past mistakes. I knew that I&#x27;d messed up and swore to do better,&quot; she said, eyes welling up with tears. &quot;But it</p>
+<p>seemed like I didn&#x27;t learn a thing. It occurred to me, if only faintly, that maybe I had failed as an instructor, but I tried to defend myself by insisting that no, it was the environment at the palace that was the problem.&quot;</p>
 <p>Tears began trickling down her cheeks as she continued, &quot;I never realized it was my attitude that warped him. It never occurred to me—not once—not until he said so that day.&quot;</p>
 <p>As she broke into a sob, she pressed her face into her knees, as if trying to shut off her tears. She curled in on herself, shrinking even as I continued rubbing her back.</p>
 <p>&quot;I always thought I could just do better with the next student, but…Pax only had one chance to learn for the first time. And I blew it.&quot;</p>

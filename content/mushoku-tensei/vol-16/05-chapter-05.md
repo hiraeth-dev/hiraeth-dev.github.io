@@ -75,7 +75,8 @@ nav_title = "Chapter 5"
 <p>&quot;What frame of mind is that?&quot; I asked.</p>
 <p>&quot;The key tenets of what makes a king: fighting, winning, and ruling over one&#x27;s subjects.&quot;</p>
 <p>I furrowed my brow.</p>
-<p>&quot;However, if that&#x27;s truly all there is to it, why did Aldebaran&#x27;s people betray and kill him? Was the king who had this play written trying to curse the generation that came after him? When I was younger, I couldn&#x27;t help having these doubts. It was only when I turned fifteen that I suddenly realized. &#x27;You hold power beyond yourself. It will be the end of you.&#x27; These words perfectly summed up the core message.&quot;</p>
+<p>&quot;However, if that&#x27;s truly all there is to it, why did Aldebaran&#x27;s people betray and kill him? Was the king who had this play written trying to curse the generation that came after him? When I was</p>
+<p>younger, I couldn&#x27;t help having these doubts. It was only when I turned fifteen that I suddenly realized. &#x27;You hold power beyond yourself. It will be the end of you.&#x27; These words perfectly summed up the core message.&quot;</p>
 <p>She paused, and glanced off into the distance again as she continued, &quot;Too much power will lead one down the path of destruction. Thus, one should only wield as much power as they can control. If one wants to become king, they must be able to master everything they have at their disposal. Even now, I still believe that to be true.&quot;</p>
 <p>Ariel hung her head, her long lashes casting shadows over her cheeks. &quot;I&#x27;m perfectly aware that you and Lord Perugius are both more than I can handle.&quot; She wore her usual soft smile, but it looked like she was on the verge of tears. &quot;I&#x27;m going to ask Lord Perugius for his help one more time, but if he refuses me, I think I will give up on trying to convince him.&quot;</p>
 <p>&quot;You&#x27;re going to give up?&quot; I asked.</p>
@@ -118,7 +119,8 @@ nav_title = "Chapter 5"
 <p>&quot;If we&#x27;re going to make you king, we could enlist Lord Orsted&#x27;s help in the matter…but frankly, he doesn&#x27;t hold much sway in Asura Kingdom. I don&#x27;t think he would be much help to you,&quot; I said, prefacing my main point. &quot;As such, I think Lord Perugius&#x27;s help will be crucial.&quot;</p>
 <p>&quot;Agreed,&quot; Ariel said solemnly, sitting up straighter in her chair.</p>
 <p>Perhaps I was only imagining it, but Sylphie and Luke looked more serious now than they had a few minutes ago.</p>
-<p>Orsted had also mentioned that convincing Perugius to support Ariel was paramount, which only further reinforced how much authority Perugius held in Asura. The problem was how to go about persuading him.</p>
+<p>Orsted had also mentioned that convincing Perugius to support Ariel was paramount, which only further reinforced how much</p>
+<p>authority Perugius held in Asura. The problem was how to go about persuading him.</p>
 <p><em>Perugius posed a question to us before, which was…</em></p>
 <p>&quot;What is the most important quality a king must have? If you can bring me that answer yourself, then I will give you my support,&quot; I said, reciting what I remembered of our previous conversation with Perugius.</p>
 <p>Ariel&#x27;s eyes twitched. She had racked her brain over and over for the answer to that question.</p>

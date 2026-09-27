@@ -20,7 +20,8 @@ nav_title = "Chapter 11"
 <p>Though it appeared flawless, the magic circle was something she&#x27;d pieced together with years of painstaking work. At a glance, it seemed like a problem that was ultimately solvable, if tremendously complicated. But the mysterious defect suggested otherwise.</p>
 <p>&quot;It&#x27;s hopeless,&quot; Nanahoshi said as she flopped facedown on the bed.</p>
 <p>I headed out to her research room to recover the diagram of her circle. Her spiel had jogged something in my memory, but I didn&#x27;t want to excite her prematurely. First, I would confirm whether anything could be done or not.</p>
-<p>The next day, I called Cliff and Zanoba to the research room. People said three heads were better than one, so I was going to use the power of three geniuses&#x27; brains. Since I&#x27;d summoned Cliff, Elinalise had naturally tagged along. She seemed to frequent his research room, but what about her classes? At this rate she&#x27;d be lucky if she weren&#x27;t expelled.</p>
+<p>The next day, I called Cliff and Zanoba to the research room. People said three heads were better than one, so I was going to use the power of three geniuses&#x27; brains. Since I&#x27;d summoned Cliff, Elinalise had naturally tagged along. She seemed to frequent his</p>
+<p>research room, but what about her classes? At this rate she&#x27;d be lucky if she weren&#x27;t expelled.</p>
 <p>&quot;It&#x27;s hard to believe someone like Silent is in that kind of state. She just seemed like she was made of tougher stuff,&quot; Elinalise mused.</p>
 <p>&quot;Truly strong people don&#x27;t close themselves off from the world and bear all their burdens on their own.&quot;</p>
 <p>&quot;Well, I suppose that&#x27;s true.&quot; Elinalise shrugged. Despite her prolific social life, she hadn&#x27;t interacted much with Nanahoshi. And, though she didn&#x27;t look it, she was skilled at handling younger women. It might be a good idea to enlist her help in getting Nanahoshi to take a breather.</p>
@@ -106,7 +107,8 @@ nav_title = "Chapter 11"
 <p>&quot;Sounds wonderful, wouldn&#x27;t you agree, Cliff?&quot;</p>
 <p>Cliff, who&#x27;d been crumpling the plastic bottle in his hands, looked back at us. &quot;Huh? Yeah, sure! That makes us even. But you&#x27;re pretty exceptional yourself, so I wouldn&#x27;t mind you helping me out with my own research next time!&quot;</p>
 <p>Elinalise giggled.</p>
-<p>And so our group headed to the pub that afternoon. For some reason, Linia and Pursena joined us as we were making our way through the school building, saying things like, &quot;We don&#x27;t want to be left out,&quot; and &quot;Take us along too, mew.&quot; How in the world had they managed to sniff us out?</p>
+<p>And so our group headed to the pub that afternoon. For some reason, Linia and Pursena joined us as we were making our way</p>
+<p>through the school building, saying things like, &quot;We don&#x27;t want to be left out,&quot; and &quot;Take us along too, mew.&quot; How in the world had they managed to sniff us out?</p>
 <p>As our little congregation filed outside, Ariel stopped to ask what we were doing. When I explained the situation she said, &quot;Then I should have someone chaperone you,&quot; and sent Sylphie along. Clearly &quot;chaperone&quot; was an excuse and Ariel was just being considerate. By the time we made it out the school gate, Badigadi had joined us at some point and was hanging out at the very rear of our group. No, seriously, just when had he snuck in here?</p>
 <p>On our way, we stopped by the Magicians&#x27; Guild, where Nanahoshi went to withdraw some money. She was apparently using it as a bank, and had an impressive amount stashed there.</p>
 <p>The pub we selected was one of Badigadi&#x27;s favorites. Despite the early afternoon hour, there were other patrons present. Nanahoshi didn&#x27;t pay that any mind, however. She went to the counter and slammed down her bagful of gold. &quot;Reserve the whole place for us,&quot; she said.</p>
@@ -167,7 +169,8 @@ nav_title = "Chapter 11"
 <p>Of course, I had no such impure thoughts—though that would change once we got home.</p>
 <p>&quot;Rudy, isn&#x27;t it kind of noisy?&quot; Sylphie said suddenly.</p>
 <p>&quot;Hm?&quot; Now that she mentioned it…</p>
-<p>I strained my ears. I could hear the sound of someone banging on something, and voices arguing. Sounded almost like when cats fought. As we approached our house, we saw a group standing at the door, noisily banging on it. From afar, all I could see were their silhouettes. Some neighborhood brats, maybe, or thieves of some sort.</p>
+<p>I strained my ears. I could hear the sound of someone banging on something, and voices arguing. Sounded almost like when cats</p>
+<p>fought. As we approached our house, we saw a group standing at the door, noisily banging on it. From afar, all I could see were their silhouettes. Some neighborhood brats, maybe, or thieves of some sort.</p>
 <p>My mind was still muddled from the alcohol, but I activated my demon eye to be safe. Sylphie slapped at her cheeks and, though still unsteady, stood on her own two feet. &quot;Rudy, I&#x27;m going to detoxify us.&quot;</p>
 <p>&quot;Got it.&quot;</p>
 <p>Sylphie voicelessly cast detoxification on me, and I could feel the alcohol inside me evaporate. It didn&#x27;t completely sober me up, but my head felt clearer. Careful to make sure our would-be thieves didn&#x27;t spot us, I crept quietly toward them. That&#x27;s when I heard their voices.</p>

@@ -28,7 +28,8 @@ nav_title = "Chapter 7"
 <p>But the cardinal had tried to get to Aisha and Geese. What a nightmare.</p>
 <p>&quot;Anyway, you&#x27;ve got Mother Zenith back. Does that mean…?&quot;</p>
 <p>&quot;Yeah. It&#x27;s all over,&quot; I said. I told Aisha and Geese everything that had happened.</p>
-<p>After I finished, Aisha sighed with admiration. &quot;Big Brother, you&#x27;re like, totally the hero or something,&quot; she said, her eyes sparkling. &quot;Everyone is just screwing everything up then one day, bam, call to adventure, a stranger comes to town, then he mysteriously returns where he came from.&quot;</p>
+<p>After I finished, Aisha sighed with admiration. &quot;Big Brother, you&#x27;re like, totally the hero or something,&quot; she said, her eyes sparkling. &quot;Everyone is just screwing everything up then one day, bam, call to</p>
+<p>adventure, a stranger comes to town, then he mysteriously returns where he came from.&quot;</p>
 <p>Don&#x27;t be stupid, I thought. I&#x27;m not handsome enough to be the leading man.</p>
 <p>We arranged to take Zenith back to see the Blessed Child the following day. Carlisle and Claire came to Cliff&#x27;s house by carriage to get us, and the five of us, Cliff included, set off together.</p>
 <p>Inside the carriage, I had a chance to talk to Carlisle. He seemed majorly cut up about everything and kept apologizing to me. I wasn&#x27;t interested in pointing fingers. Maybe he could have handled things a bit better, but hey… People make mistakes. The important thing is that you learn from them, so that you can do better in future, right? Besides, I couldn&#x27;t claim to be doing too well on that front. Who was I to start harping on at other people about their screw ups? How was anyone supposed to move forward if you kept digging it up? Not that it was my job to make sure any of them were moving forward.</p>
@@ -95,7 +96,8 @@ nav_title = "Chapter 7"
 <p>&quot;Arus loves breasts. Just like Rudy when he was little. Whenever I pick him up he grabs at mine and he looks so pleased with himself. I suppose even the breasts of an old granny like me will do! He&#x27;s a little bit bad, just like Paul and Rudy. I told him if he&#x27;s going to make all the girls cry like Rudy, he has to make sure they&#x27;re all happy in the end too.&quot;</p>
 <p>I realized my eyes were hot. Tears were streaming down my cheeks. Lucie hardly ever went near Zenith, and Lara couldn&#x27;t talk. More than half of the scenes the Blessed Child described were just Zenith&#x27;s delusions. Hallucinations playing behind her empty eyes. But the world she saw was so kind.</p>
 <p>&quot;Oh, I almost forgot! Rudy started working for this really amazing guy. The Dragon God Orsted, he&#x27;s called. One of the three Demon Slayer Heroes and a distant apprentice of the Dragon God Urupen. He&#x27;s supposed to be suuuper strong and suuuper scary. Everyone seems terrified of him, but he doesn&#x27;t seem so bad to me. I think deep down he just wants to make friends. He&#x27;s hung up on Rudy in particular. He keeps coming to see how our family is getting along. I talk to him sometimes, but he doesn&#x27;t seem very used to talking to people. He gets all tongue-tied. He&#x27;s a good person, though. He teaches Lucie tricks to help her with her magic when she&#x27;s struggling, though they&#x27;re a bit complicated—I don&#x27;t think she understands him very well.</p>
-<p>&quot;Once, I asked if he wanted to hold Lara. He was so nervous about it! But he was very careful when he took her. He&#x27;s not so keen on Leo and Arus though, I think. The other day he made Arus cry, then left without greeting Eris. I wonder what sort of work Rudy is doing for this man who&#x27;s so strong, and yet so kind. Whatever it is, I&#x27;m proud of him. I&#x27;m sure Paul would be too.&quot;</p>
+<p>&quot;Once, I asked if he wanted to hold Lara. He was so nervous about it! But he was very careful when he took her. He&#x27;s not so keen on Leo and Arus though, I think. The other day he made Arus cry, then left without greeting Eris. I wonder what sort of work Rudy is doing for this man who&#x27;s so strong, and yet so kind. Whatever it is, I&#x27;m proud of him. I&#x27;m</p>
+<p>sure Paul would be too.&quot;</p>
 <p><em>How much of that is true? Orsted almost never comes to the house… Is he coming by without telling me?</em></p>
 <p>&quot;Rudy&#x27;s grown up into such a wonderful young man. Norn and Aisha are grown up too now, and Sylphie had her second baby. Lilia was so worried, saying now she had that on top of looking after me! How silly. Obviously, the children come first. I&#x27;m going to visit my mother, so I&#x27;m leaving Sylphie to you, Lilia, okay?</p>
 <p>&quot;Don&#x27;t worry about me. I&#x27;ll be fine. I used to be an adventurer, you know! We&#x27;re going with Rudy and Aisha and Rudy&#x27;s friend Cliff. Hah ha, I&#x27;m getting all excited, thinking about going on a trip with Rudy!&quot;</p>
@@ -118,7 +120,8 @@ nav_title = "Chapter 7"
 <p>&quot;Because of her current condition, she doesn&#x27;t always interpret what she reads correctly, and I think she may be filling in the parts she can&#x27;t read with her own stories…&quot; The Blessed Child&#x27;s voice trailed off.</p>
 <p>She beckoned to me, gesturing to me to bring my ear to her mouth. The otaku all immediately covered their ears and turned away.</p>
 <p>I leaned in toward her. She whispered, &quot;She is a Blessed Child.&quot;</p>
-<p>I nodded slowly. I&#x27;d known from the start that it was likely she was cursed. And I knew all too well that a Cursed Child and a Blessed Child were, in essence, one and the same.</p>
+<p>I nodded slowly. I&#x27;d known from the start that it was likely she was cursed. And I knew all too well that a Cursed Child and a Blessed Child</p>
+<p>were, in essence, one and the same.</p>
 <p>&quot;If this gets out, things will get out of hand again. I recommend you keep it safe,&quot; she said.</p>
 <p>&quot;No question about that,&quot; I agreed. &quot;I&#x27;m a follower of Orsted. I&#x27;ll protect her, no matter what.&quot;</p>
 <p>&quot;Total commitment… That&#x27;s who you are, isn&#x27;t it?&quot;</p>
@@ -196,7 +199,8 @@ nav_title = "Chapter 7"
 <p>&quot;From this day forth, I, Claire Latria, shall be a demon integrationist and do everything in my power to assist that cause. I will trust in you, Rudeus, and make no comment on your religion or your educational methods, nor shall I permit such words from any other.&quot;</p>
 <p>&quot;Thank you…&quot; I replied. &quot;Just don&#x27;t overdo it, okay? Pushing your thoughts on others never goes well.&quot;</p>
 <p>&quot;I understand.&quot;</p>
-<p>If I could get the old bird to be a bit more flexible, then I could rest a whole lot easier. That way, I could know for sure that she wasn&#x27;t going to start any fights with my wives or daughters. She was all obedient now, but what&#x27;s the saying? Vows made in storms are forgotten in calm… When we met again…or rather if we met again, I really didn&#x27;t want to get into another argument.</p>
+<p>If I could get the old bird to be a bit more flexible, then I could rest a whole lot easier. That way, I could know for sure that she wasn&#x27;t going to start any fights with my wives or daughters. She was all obedient now, but what&#x27;s the saying? Vows made in storms are forgotten in calm… When we met again…or rather if we met again, I really didn&#x27;t want to get into</p>
+<p>another argument.</p>
 <p>&quot;That&#x27;s all I have to say,&quot; I said.</p>
 <p>&quot;Thank you for your kindness,&quot; she replied curtly, then nodded.</p>
 <p>Could you be any worse at apologizing? I thought. Honestly…</p>

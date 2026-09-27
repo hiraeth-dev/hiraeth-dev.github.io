@@ -12,7 +12,8 @@ nav_title = "Prologue"
 <p>***</p>
 <p>Year Four-Hundred and Twenty-Two of the Armored Dragon.</p>
 <p>The Duchy of Basherant, a prominent country in the northwest of the Central Continent, was one of the three Great Magic Nations. Its third largest city was Pipin, and in this city lived an adventurer who had become the talk of the town. He was known on the streets as Quagmire.</p>
-<p>The man in question had been teleported a great distance during the Displacement Incident, and spent several years trying to return to the Fittoa Region. Upon his return, he—like many others despaired at the disaster&#x27;s aftermath. He traveled to the northern part of the Central Continent, also known as the Northern Territories, in search of a still-missing family member, where he scoured each country in turn while working as an adventurer.</p>
+<p>The man in question had been teleported a great distance during the Displacement Incident, and spent several years trying to return to the Fittoa Region. Upon his return, he—like many others despaired at the disaster&#x27;s aftermath. He traveled to the northern</p>
+<p>part of the Central Continent, also known as the Northern Territories, in search of a still-missing family member, where he scoured each country in turn while working as an adventurer.</p>
 <p>Quagmire&#x27;s mornings began early. As a deeply religious man, he was up before dawn to offer quiet prayer to a relic of his God, which was tucked away in a small box. But this was no sacrament of the Millis faith. In fact, those of the Millis faith would likely raise an eyebrow at the object of his worship. Regardless, he looked the picture of piety with his head bent in prayer.</p>
 <p>After his morning prayers, Quagmire would change into athletic attire and run laps around the town. As he would say, &quot;I may be a magician, but before that, I&#x27;m an adventurer. And an adventurer has to be able to move when the necessity arises.&quot; After about an hour of running, he would commence on a special training ritual from his hometown, the likes of which had never been seen in the Duchy of Basherant. He would lie prone with his belly on the ground and lift himself up by the arms, and he would do this a hundred times. Then he would lie on his back and lift his upper body toward his knees another hundred times. Once that was finished, he&#x27;d crouch and stand yet another hundred times. He did this routine daily, without fail.</p>
 <p>&quot;My muscles get jealous. If I don&#x27;t pay attention to them every day, they get all huffy with me. Just like a woman. Although, unlike a woman, they won&#x27;t just suddenly go off and disappear on me. Muscles don&#x27;t betray you. Isn&#x27;t that right, Hulk, Hercules?&quot;</p>
@@ -68,7 +69,8 @@ nav_title = "Prologue"
 <p>So, was Quagmire dead then?</p>
 <p>No—he was still alive! He&#x27;d quickly conjured an enormous wall of water to protect himself, and was still moving, cutting through the curtain of water vapor rising through the air. Ignoring the embers singing the edges of his robe, he created a stone cannon and launched this earthen bullet at high velocity.</p>
 <p>It pierced the wyrm&#x27;s scales. &quot;Graaaah!&quot; the creature shrieked.</p>
-<p>Quagmire lobbed shots at the creature, one after another. The red wyrm evaded several, but they were coming hard and fast, and eventually, the creature turned tail and ran. It was a clever beast. It understood quickly there was great power hidden within the small vessel that was Quagmire.</p>
+<p>Quagmire lobbed shots at the creature, one after another. The red wyrm evaded several, but they were coming hard and fast, and</p>
+<p>eventually, the creature turned tail and ran. It was a clever beast. It understood quickly there was great power hidden within the small vessel that was Quagmire.</p>
 <p>Quagmire didn&#x27;t pursue. Was he really going to let such perfect prey get away? For a moment that seemed to be the case, until…</p>
 <p>&quot;Gu-graaah!&quot; the beast roared.</p>
 <p>It had run straight into the pool of goop from before, sinking fast into the sticky mud. Quagmire channeled more mana into the swampy water, and as the wyrm struggled to break free, the goo clung to it even more firmly than before.</p>
@@ -93,7 +95,8 @@ nav_title = "Prologue"
 <p>Bam!</p>
 <p>The door to the pub swung open. Freezing air came billowing in. Everyone&#x27;s gazes turned. My body shook.</p>
 <p>&quot;I&#x27;ve finally found you, Rudeus the Quagmire!&quot;</p>
-<p>The new arrival was an elf with long hair in thick ringlets. She had the look of an adventurer, but was garbed in a dress, with a backpack and a sword and shield upon her hip. Her face was, in one word, beautiful. She had large, narrowed eyes, pointed ears, and radiant blonde hair. She was also incredibly thin, with a flat chest and did I mention the ears? She was truly the perfect picture of an elf.</p>
+<p>The new arrival was an elf with long hair in thick ringlets. She had the look of an adventurer, but was garbed in a dress, with a</p>
+<p>backpack and a sword and shield upon her hip. Her face was, in one word, beautiful. She had large, narrowed eyes, pointed ears, and radiant blonde hair. She was also incredibly thin, with a flat chest and did I mention the ears? She was truly the perfect picture of an elf.</p>
 <p>And she was pointing at me. Everyone&#x27;s eyes turned my way.</p>
 <p>&quot;Gah! So you were here after all, Quagmire…&quot; The guy who&#x27;d jeered earlier looked disgusted, but I considerately ignored him. I was generous, after all.</p>
 <p>&quot;So you&#x27;ve finally found me, eh…&quot; I said nonchalantly to the elf, even though I had no idea who the heck she was. I hadn&#x27;t done anything in the past few years that might give someone reason to hold a grudge against me. I&#x27;d helped people, avoided fights, and been careful not to attract the wrong kind of attention. This was the first time a beautiful woman had sought me out, but maybe I&#x27;d done enough general good that people were now seeking me out to give thanks?</p>
@@ -114,7 +117,8 @@ nav_title = "Prologue"
 <p>&quot;More importantly!&quot; Instead of answering the number-one question on my mind, Elinalise leaned close enough to kiss me, and put her lips to my ear. &quot;I heard you killed a Red Wyrm all by yourself, didn&#x27;t you?&quot;</p>
 <p>&quot;Y-yeah, well, it was basically at death&#x27;s door, anyway.&quot;</p>
 <p>&quot;Now I understand why Roxy was so proud of you.&quot;</p>
-<p>Well, it hadn&#x27;t been an easy fight. It wouldn&#x27;t be an exaggeration to say it had had the least room for error of all the requests I&#x27;d taken in these past few years. It still paled in comparison to my confrontation with the Dragon God Orsted, though. Once you&#x27;d experienced something that extreme, you found yourself being strangely calm about other things by comparison.</p>
+<p>Well, it hadn&#x27;t been an easy fight. It wouldn&#x27;t be an exaggeration to say it had had the least room for error of all the requests I&#x27;d taken in these past few years. It still paled in comparison to my confrontation with the Dragon God Orsted, though. Once</p>
+<p>you&#x27;d experienced something that extreme, you found yourself being strangely calm about other things by comparison.</p>
 <p>&quot;I&#x27;m tickled pink to hear my teacher&#x27;s been boasting about me… No, that actually tickles. What are you doing?&quot;</p>
 <p>&quot;Touching your chest. You&#x27;re very strong.&quot; Elinalise was fingering my upper arms and chest. Still, it wasn&#x27;t a bad feeling, being told how strong I was. Her finger brushed the pendant Lilia had given me. &quot;My, my, how quaint. Who gave you this?&quot;</p>
 <p>&quot;Our maid.&quot;</p>

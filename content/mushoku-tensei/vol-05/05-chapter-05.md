@@ -56,7 +56,8 @@ nav_title = "Chapter 5"
 <p>&quot;You&#x27;re going to join the nobility with Philip&#x27;s support, right?&quot;</p>
 <p>&quot;What are you talking about? When did anyone say anything about that?&quot;</p>
 <p>&quot;Huh? It was a year or so before the disaster, I think. Philip sent me a letter saying you and Eris were really hitting it off, so he wanted you to marry into his family. If you ask me, the Asuran nobility are a bunch of rotten scumbags, but I said you could do what you wanted…&quot;</p>
-<p>Interesting. So Philip had already reached out to Paul about that before our conversation on my tenth birthday. Even if I&#x27;d shot down the idea, he was probably planning to spend the next few years trying to push the two of us together. That wasn&#x27;t some spontaneous proposal at all.</p>
+<p>Interesting. So Philip had already reached out to Paul about that before our conversation on my tenth birthday. Even if I&#x27;d shot down</p>
+<p>the idea, he was probably planning to spend the next few years trying to push the two of us together. That wasn&#x27;t some spontaneous proposal at all.</p>
 <p>In any case, that explained why Paul jumped to a few conclusions about me and Eris. Two young people in love, stranded in an unfamiliar land, all alone and deeply anxious? You&#x27;d kind of assume they would &quot;get to know each better&quot; over the course of their journey.</p>
 <p>&quot;From the look on your face, I&#x27;m guessing Philip set you up.&quot;</p>
 <p>&quot;It would appear so, yes.&quot;</p>
@@ -96,7 +97,8 @@ nav_title = "Chapter 5"
 <p>In purely rational terms, splitting up from Eris here was a valid option. Not that I&#x27;d stay in Millishion in that event—I could just go off and search another part of the world for my family. Returning to the Demon Continent might be a reasonable approach, for example.</p>
 <p>But that was only true on a purely rational level. I couldn&#x27;t just abandon Eris for my own benefit. I had to get her back home safe.</p>
 <p>Also, the idea of leaving my job half-done so I could work on something else brought back a few unpleasant memories. In my previous life, I&#x27;d never really finished anything I started. I didn&#x27;t want to fall back into that destructive habit. Knowing me, it would probably end up with Eris failing to reach Fittoa safely, and my solo search of the Demon Continent turning up absolutely nothing.</p>
-<p>Better to focus on one thing at a time, then. There was also the whole Ruijerd issue to consider, after all. It was hard to imagine our stubborn friend getting along with some random members of the Search and Rescue Squad, and he&#x27;d probably be furious if I tried to drop out of our party now. In his book, that would qualify as conduct unbefitting of a warrior.</p>
+<p>Better to focus on one thing at a time, then. There was also the whole Ruijerd issue to consider, after all. It was hard to imagine our stubborn friend getting along with some random members of the Search and Rescue Squad, and he&#x27;d probably be furious if I tried to</p>
+<p>drop out of our party now. In his book, that would qualify as conduct unbefitting of a warrior.</p>
 <p>&quot;It&#x27;s nice of you to offer, but I do think it would be best for me to escort her back.&quot;</p>
 <p>&quot;Yeah, it&#x27;s not like we&#x27;ve got anyone stronger than you in the squad, anyway. Not surprised you wouldn&#x27;t want to hand the job off.&quot; There was a hint of a grimace on Paul&#x27;s face as he said those words.</p>
 <p>Maybe he was a little self-conscious about the fact I&#x27;d beaten him in a fight? He was clearly tipsy at the time, so I felt like it didn&#x27;t count…but if I said so now, it would probably be more humiliating than anything else. Sometimes the best move is just to keep your mouth shut.</p>
@@ -169,7 +171,8 @@ nav_title = "Chapter 5"
 <p>&quot;That&#x27;s not what I&#x27;m talking about! That man didn&#x27;t even show up for your tenth birthday, Rudeus. And the way he treated you yesterday was unbelievable! You had to travel all the way across the Demon Continent! You got locked up in a jail cell in the Great Forest, for crying out loud! But when you finally, finally made it back to him, he basically told you to get lost! How can you just forgive that jerk?!&quot;</p>
 <p><em>Wow. That was quite a rant.</em></p>
 <p>I understood where Eris was coming from. When you put it in those terms, Paul did sound like a really crappy father. I could even have believed that he hated my guts. If I was an ordinary child, his actions would have been unforgivable.</p>
-<p>But the way I saw things, it was inevitable that he&#x27;d make a few mistakes trying to deal with a son like me. I was reincarnated with my memories intact, and I took full advantage of that from the very start. How could anyone be expected to be a &quot;normal&quot; dad to a kid that weird? Paul had had a hard time figuring out how to interact with me, let alone how to raise me. And to be honest, I don&#x27;t think he really knew what it meant to be a good father in the first place…not that I did either, of course.</p>
+<p>But the way I saw things, it was inevitable that he&#x27;d make a few mistakes trying to deal with a son like me. I was reincarnated with my memories intact, and I took full advantage of that from the very start. How could anyone be expected to be a &quot;normal&quot; dad to a kid that weird? Paul had had a hard time figuring out how to interact with me, let alone how to raise me. And to be honest, I don&#x27;t think</p>
+<p>he really knew what it meant to be a good father in the first place…not that I did either, of course.</p>
 <p>As his son, all I needed to do was watch his awkward attempts at parenting with warmth, understanding, and just a pinch of condescension. Paul could mess up as many times as he needed to. I&#x27;d take his mistakes in stride. They weren&#x27;t going to hurt me as deeply as that fight yesterday did.</p>
 <p>But of course, we&#x27;d be going our separate ways soon anyway.</p>
 <p>&quot;Eris.&quot;</p>
@@ -180,7 +183,8 @@ nav_title = "Chapter 5"
 <p>&quot;What is it?&quot;</p>
 <p>&quot;Where did that bruise on her face come from?&quot; That thing definitely wasn&#x27;t there yesterday.</p>
 <p>&quot;I had some trouble stopping her,&quot; Ruijerd replied in a level tone of voice.</p>
-<p>Hmm. Normally, he was the kind of guy who&#x27;d explode in righteous anger if he saw someone strike a child, but maybe his principles were more flexible than I thought. Eris must have thrashed around like a lunatic in her fury. And of course, the two of them did spar constantly, so this was hardly the first time he&#x27;d given her a bruise or two…</p>
+<p>Hmm. Normally, he was the kind of guy who&#x27;d explode in righteous anger if he saw someone strike a child, but maybe his principles were more flexible than I thought. Eris must have thrashed around like a lunatic in her fury. And of course, the two of them did</p>
+<p>spar constantly, so this was hardly the first time he&#x27;d given her a bruise or two…</p>
 <p>Looking at his face more closely, though, I realized that wasn&#x27;t really relevant. Ruijerd wasn&#x27;t calm right now. He wasn&#x27;t an expressive man, but I could see something like anguish in his eyes.</p>
 <p>He never wanted to hit her. He must have had no choice.</p>
 <p>I didn&#x27;t know exactly what had happened, or what words they&#x27;d exchanged. But there was one thing I could say for sure: It was my fault the two of them got in a fight. But I was able to make peace with Paul as a result…which meant I ought to be more grateful than anything.</p>

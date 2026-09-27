@@ -64,7 +64,8 @@ nav_title = "Extra Chapter"
 <p>He looked about the same age as her brother Rudeus. His hair was long enough in front that she could only barely make out his eyes. Something the way he looked at her made her think he was the headstrong type.</p>
 <p>&quot;Wh-who are you?&quot;</p>
 <p>The young man frowned irritably at the question. &quot;What, you don&#x27;t recognize me? I&#x27;m Cliff Grimoire. I&#x27;m a novice at this church. Just started here this year.&quot;</p>
-<p>For a mere novice, this young man seemed a little full of himself. But that arrogant tone helped spur Norn&#x27;s memory. She&#x27;d met him once before. He was a friend of her brother&#x27;s, and a somewhat notorious student at the University of Magic.</p>
+<p>For a mere novice, this young man seemed a little full of himself. But that arrogant tone helped spur Norn&#x27;s memory. She&#x27;d met him</p>
+<p>once before. He was a friend of her brother&#x27;s, and a somewhat notorious student at the University of Magic.</p>
 <p>Now that she thought about it, she&#x27;d seen him at this church as well. When they said mass here, he was often hanging around helping out the priest.</p>
 <p>&quot;Oh…right, of course. Hello.&quot; Wiping away her tears, Norn bowed her head slightly.</p>
 <p>Cliff snorted and strode closer to her. &quot;Something bothering you, then? Go ahead, tell me all about it.&quot;</p>
@@ -75,7 +76,8 @@ nav_title = "Extra Chapter"
 <p>&quot;I think you may be aware, but the woman Rudeus is traveling with is my wife. I&#x27;m worried about her, of course, but I have faith in Rudeus&#x27; skills. I&#x27;m confident that he&#x27;ll keep her safe. So for my part, I have an obligation to protect his family here in Sharia. If he risks his life for Lise, I&#x27;ll do the same for you and your sister.&quot;</p>
 <p>Now it made a bit more sense. Norn had known that Elinalise woman was once in her father&#x27;s party, but not that she was married. It figured, though, considering how beautiful she was.</p>
 <p>&quot;I&#x27;ve noticed you coming in to pray every day from the confession booth. But this is the first time you broke down in tears, right?&quot;</p>
-<p>Norn had no way of knowing this, but Cliff tended to use these quiet afternoon hours to get a bit of studying done inside the confession booth while waiting for the rare visitor. Normally, he stayed in there unless he had some chore to take care of, but he&#x27;d revealed himself when he saw Norn crying.</p>
+<p>Norn had no way of knowing this, but Cliff tended to use these quiet afternoon hours to get a bit of studying done inside the confession booth while waiting for the rare visitor. Normally, he</p>
+<p>stayed in there unless he had some chore to take care of, but he&#x27;d revealed himself when he saw Norn crying.</p>
 <p>&quot;…&quot;</p>
 <p>&quot;Go on, you can trust me. I&#x27;ll take care of everything,&quot; said Cliff confidently, thumping a hand to his chest. &quot;Is it an awkward problem? We can use the confession booth, if you like.&quot;</p>
 <p>Norn was a little wary of the offer. In her experience, it was usually wisest not to trust anyone you were meeting for the first time.</p>

@@ -11,7 +11,8 @@ nav_title = "Chapter 3"
 <p>It was only after the two became intimate that she began to experience a problem: her libido suddenly spiked. She wanted to have sex every single night.</p>
 <p>Elves weren&#x27;t inclined to frequent intimacy, at least not nearly as much as humans and goblins. Her partner struggled to keep up with her needs, but the two still lived in harmony. However, something strange happened to her body around that time. After they began having sex, she started birthing a small, round magical crystal every month. Inside was an incredibly dense accumulation of mana. When she told her husband, he was a bit unnerved by this abnormal phenomenon, but assured her it was nothing to worry about.</p>
 <p>A short time after that, the husband began selling these crystals in a human town. Although it seemed like his eyes were clouded by greed, one could hardly blame him for coveting the money these crystals earned him. He had never been rich, and his wife didn&#x27;t work. At least, the man never treated his wife like she was his own personal money tree.</p>
-<p>Tragedy struck five years later. The husband died—or rather, he was murdered. With his cargo of extremely expensive crystals, he earned the attention of some bandits. They attacked him, taking both his life and his wealth.</p>
+<p>Tragedy struck five years later. The husband died—or rather, he was murdered. With his cargo of extremely expensive crystals, he</p>
+<p>earned the attention of some bandits. They attacked him, taking both his life and his wealth.</p>
 <p>With him gone, the woman was now a widow. Although she fell deep into depression, she still endured. Unfortunately, there was a problem with her body—her insatiable libido ballooned again. Ten days after her husband passed, the urge came on strong and swift from deep inside her. She couldn&#x27;t suppress it and assailed one of the men in the village. She knew it was wrong, but she did it anyway. At least the man in question wasn&#x27;t unwilling, and nothing happened after they did the deed once.</p>
 <p>Ten more days passed, and she went after a different man. Then another ten days and she did it again. Her appetite was so untamable that word soon spread of her wild promiscuity. The women of the village all denounced her and drove her out. That woman became a prostitute after that, then a slave, and finally an adventurer. It&#x27;s said that even to this day, she continues wandering the world.</p>
 <p>***</p>
@@ -55,7 +56,8 @@ nav_title = "Chapter 3"
 <p>In the end, I didn&#x27;t learn anything new about Zenith&#x27;s condition. There was a high probability she had a curse on her, but it hadn&#x27;t caused any problems yet. All I could do was prepare myself to act in case anything did happen later on.</p>
 <p>After breakfast, we gathered in a room with a long table and took our seats. Nanahoshi and Cliff sat to one side of me with Zanoba on the other. Directly across from me was Sylvaril of the Void, the woman with black wings who served Perugius.</p>
 <p>&quot;All right, now let&#x27;s begin our lesson.&quot;</p>
-<p>The agreement was for Perugius to teach Nanahoshi summoning magic, but Nanahoshi had been kind enough to ask that we be included. We were starting from the very basics, so Perugius wasn&#x27;t the one teaching us. He would turn up when it was time to put what we&#x27;d learned to the test. He was probably having tea with Ariel at this moment.</p>
+<p>The agreement was for Perugius to teach Nanahoshi summoning magic, but Nanahoshi had been kind enough to ask that we be included. We were starting from the very basics, so Perugius wasn&#x27;t the one teaching us. He would turn up when it was time to put what</p>
+<p>we&#x27;d learned to the test. He was probably having tea with Ariel at this moment.</p>
 <p><em>Uh, I should probably be focusing on the lesson instead of worrying about where Perugius is, though.</em></p>
 <p>&quot;First,&quot; said Sylvaril, &quot;let&#x27;s make sure we are all on the same page. What is summoning magic? You there…&quot;</p>
 <p>&quot;Cliff. Cliff Grimor.&quot;</p>
@@ -209,7 +211,8 @@ nav_title = "Chapter 3"
 <p>Nanahoshi shook her head. &quot;Nope. This is our destination.&quot; She strode forward and pressed her hand against the door.</p>
 <p>&quot;Ah…&quot;</p>
 <p>Although she barely touched it, the door gave way with a creak. Apparently, this one wasn&#x27;t locked. A large rat came scuttling out, shooting past our feet and slipping through the crack as Nanahoshi nudged the door open.</p>
-<p>A vast room lay within, with no other doors as far as I could see. This was the deepest, most inner part of the floating castle—a room hidden behind a door with a crest engraved on it, one that surely contained something secret inside its walls.</p>
+<p>A vast room lay within, with no other doors as far as I could see. This was the deepest, most inner part of the floating castle—a room</p>
+<p>hidden behind a door with a crest engraved on it, one that surely contained something secret inside its walls.</p>
 <p>&quot;As childish as it may sound for a man my age, I&#x27;m excited,&quot; said Zanoba.</p>
 <p>Cliff nodded in agreement. &quot;Me too.&quot;</p>
 <p><em>And me as well.</em></p>
@@ -223,7 +226,8 @@ nav_title = "Chapter 3"
 <p>The paint was chipped in various places, but thanks to how durable the stones were, the paintings weren&#x27;t damaged enough to be indecipherable. I knew of no tradition involving drawing murals like these in this world. They reminded me of Egyptian frescoes from my previous world.</p>
 <p>&quot;I can&#x27;t even begin to guess at how ancient they must be,&quot; Zanoba mumbled. &quot;Master, this is an incredible discovery!&quot;</p>
 <p>&quot;Calling it a discovery is a stretch. I&#x27;m pretty sure Lord Perugius already knew about these before we found them.&quot;</p>
-<p>Describing the paintings would be difficult, but they more or less depicted a story. All the murals featured one peculiar figure. Most likely, they were intended to depict what this person had seen and experienced during their life. There were no words to accompany the paintings, so it was hard to guess what scene or circumstance they were trying to convey. There were inverted mountains, people with wings, people worshipping what looked to be a king, a floating stone, people gathered together, a dragon flying, two people cuddling close with a baby, a fallen shadow, a mournful king, a rage-filled king, people consulting one another, and then an eerie shadow standing behind a group of people. The final painting, which most likely represented the conclusion of the story, was only half-finished, and it was anyone&#x27;s guess what the artist had tried to depict.</p>
+<p>Describing the paintings would be difficult, but they more or less depicted a story. All the murals featured one peculiar figure. Most</p>
+<p>likely, they were intended to depict what this person had seen and experienced during their life. There were no words to accompany the paintings, so it was hard to guess what scene or circumstance they were trying to convey. There were inverted mountains, people with wings, people worshipping what looked to be a king, a floating stone, people gathered together, a dragon flying, two people cuddling close with a baby, a fallen shadow, a mournful king, a rage-filled king, people consulting one another, and then an eerie shadow standing behind a group of people. The final painting, which most likely represented the conclusion of the story, was only half-finished, and it was anyone&#x27;s guess what the artist had tried to depict.</p>
 <p>&quot;I feel like I&#x27;ve seen this story somewhere before.&quot;</p>
 <p>&quot;Me too, but I can&#x27;t remember where.&quot;</p>
 <p>&quot;Hm…&quot;</p>
@@ -277,7 +281,8 @@ nav_title = "Chapter 3"
 <p>&quot;Improve it how?&quot; asked Sylphie.</p>
 <p>&quot;By sharing his hobbies or asking him about heroic stories from his past.&quot;</p>
 <p>&quot;Hobbies and heroic stories? Okay, I think I understand.&quot;</p>
-<p>&quot;It might help you to bring Zanoba along too. I think Perugius likes him the most out of all of us.&quot; Zanoba could carry the conversation for her, and Ariel could just nod. That would probably improve Perugius&#x27;s perception of her.</p>
+<p>&quot;It might help you to bring Zanoba along too. I think Perugius likes him the most out of all of us.&quot; Zanoba could carry the</p>
+<p>conversation for her, and Ariel could just nod. That would probably improve Perugius&#x27;s perception of her.</p>
 <p>&quot;Hm, okay. I&#x27;ll try telling Her Highness what you said.&quot;</p>
 <p>&quot;Don&#x27;t take me too seriously,&quot; I warned. &quot;I&#x27;m not infallible.&quot;</p>
 <p>&quot;Ehehe, I appreciate the advice regardless.&quot; Sylphie pecked me on the cheek.</p>

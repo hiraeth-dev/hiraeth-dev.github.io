@@ -27,7 +27,8 @@ nav_title = "Side Story"
 <p>Luke snorted in amusement. &quot;With a chest that flat, you&#x27;re not going to win over any Notos man.&quot;</p>
 <p>I covered my chest with my arm and shot Luke an angry look. He was always like this. He never missed a chance to mock me about the flatness of my chest. According to him, women without &quot;proper breasts&quot; weren&#x27;t even women, which meant I was the definition of unattractive. I&#x27;m not sure what he wanted me to do about that. I had elf blood in my veins, and elves just aren&#x27;t voluptuous.</p>
 <p>To be fair, Luke usually softened the blow in the end: &quot;I suppose that&#x27;s the reason that we&#x27;re friends, though.&quot;</p>
-<p>It was nice to know that he thought of me as a friend. Still, the constant insults about my appearance weren&#x27;t exactly doing wonders for my self-esteem. I knew my looks were unremarkable compared to Princess Ariel&#x27;s, but that was a really high bar to clear.</p>
+<p>It was nice to know that he thought of me as a friend. Still, the constant insults about my appearance weren&#x27;t exactly doing</p>
+<p>wonders for my self-esteem. I knew my looks were unremarkable compared to Princess Ariel&#x27;s, but that was a really high bar to clear.</p>
 <p>&quot;That&#x27;s not even what I meant, Luke!&quot;</p>
 <p>&quot;Well, what did you mean, then? Surely you don&#x27;t intend to reveal your true identity to him.&quot;</p>
 <p>&quot;Huh? Oh… you&#x27;re right.&quot; I was supposed to be Silent Fitz now. I couldn&#x27;t go around blowing my cover… what now?</p>
@@ -129,13 +130,15 @@ nav_title = "Side Story"
 <p>Just for starters, I recommended him a book that had helped me understand teleportation. It was simple enough that even a child could learn the basics from it. And it also mentioned some specific details that were often torn out of the more advanced books on the subject.</p>
 <p>Feeling slightly pleased with myself, I left the library behind.</p>
 <p>That evening, I was washing a load of underwear. Princess Ariel&#x27;s underwear, specifically.</p>
-<p>There was a reason that this job had fallen to me. First of all, the princess&#x27; underwear was made of extremely expensive fabric. And the fact that they had been worn by an Asuran princess added considerably to their value. In other words, you could sell them for quite a lot of money on the black market. There&#x27;d been an incident not long after we enrolled here, actually. Some of her panties had been stolen after we sent them off to be washed. Of the five that were washed, four disappeared; three of these were subsequently sold, and the male student responsible kept one for his own private purposes. Some of the more innocent girls in our dormitory had shrieked in disgust when this incident came to light. But for Princess Ariel—who&#x27;d grown up in the royal court of Asura—and myself, who&#x27;d served as her attendant for a brief time, it wasn&#x27;t really shocking. There had been many people in that place who did far more depraved things on a regular basis.</p>
+<p>There was a reason that this job had fallen to me. First of all, the princess&#x27; underwear was made of extremely expensive fabric. And the fact that they had been worn by an Asuran princess added considerably to their value. In other words, you could sell them for quite a lot of money on the black market. There&#x27;d been an incident not long after we enrolled here, actually. Some of her panties had</p>
+<p>been stolen after we sent them off to be washed. Of the five that were washed, four disappeared; three of these were subsequently sold, and the male student responsible kept one for his own private purposes. Some of the more innocent girls in our dormitory had shrieked in disgust when this incident came to light. But for Princess Ariel—who&#x27;d grown up in the royal court of Asura—and myself, who&#x27;d served as her attendant for a brief time, it wasn&#x27;t really shocking. There had been many people in that place who did far more depraved things on a regular basis.</p>
 <p>That didn&#x27;t mean the situation wasn&#x27;t unpleasant, though. Since then, doing the princess&#x27; laundry had become one of my official duties. She&#x27;d hesitated slightly to push the job on me, but I could wash my own clothes at the same time, so it wasn&#x27;t much of an inconvenience.</p>
 <p>Incidentally, in order to disguise my gender, I now wore the exact same panties as the princess—only in a different color.</p>
 <p>I finished up the day&#x27;s washing and headed to the balcony to put out the underwear to dry. The rest could wait, but we wanted these ready for tomorrow. But just as I was starting to hang them on the clothesline…</p>
 <p>&quot;Huh?&quot;</p>
 <p>I happened to glance down at the road below, and saw something that made me blink in surprise. There was a male student walking along the path, even though the sun had set.</p>
-<p>The dormitory rules were very strict on this: men weren&#x27;t allowed to walk this way after dark. Nobody wanted their panties stolen, and although it wasn&#x27;t that time of year yet, there was also the mating season to consider. What was this boy thinking, coming here at this hour? Maybe he was just taking a shortcut back to his own dorm. But even if that was the case, he&#x27;d probably be surrounded by the &quot;self-defense committee&quot; from the first floor soon enough.</p>
+<p>The dormitory rules were very strict on this: men weren&#x27;t allowed to walk this way after dark. Nobody wanted their panties stolen, and although it wasn&#x27;t that time of year yet, there was also the mating season to consider. What was this boy thinking, coming here at this hour? Maybe he was just taking a shortcut back to his own dorm. But even if that was the case, he&#x27;d probably be</p>
+<p>surrounded by the &quot;self-defense committee&quot; from the first floor soon enough.</p>
 <p>Should I tip them off right now, actually? The first person who spotted a boy at this hour was supposed to let everyone else know. I wasn&#x27;t supposed to talk out loud if I could help it, though…</p>
 <p><em>W-Wait a second, am I seeing things?</em></p>
 <p>As the boy drew closer, I realized it was Rudy. What&#x27;s he doing here?!</p>
@@ -175,7 +178,8 @@ nav_title = "Side Story"
 <p>None of that mattered right now, though. I had to apologize to Rudy. This was basically my fault, after all. &quot;Sorry. If I hadn&#x27;t dropped that underwear, this would never have happened.&quot;</p>
 <p>&quot;You haven&#x27;t done anything wrong. You helped me.&quot; Rudy&#x27;s voice sounded a little odd somehow. The usual stiffness in his voice had disappeared. I looked at his face and realized he was looking at me a little differently. And then all the pieces came together.</p>
 <p><em>…Rudy was wary of me until now, wasn&#x27;t he?</em></p>
-<p>His attitude had seemed a bit strange from the start, now that I thought about it. He was always bowing to me, for one thing. But now I understood why. It made sense, of course. I was Silent Fitz now, not his old friend. Why wouldn&#x27;t he be wary of me?</p>
+<p>His attitude had seemed a bit strange from the start, now that I thought about it. He was always bowing to me, for one thing. But</p>
+<p>now I understood why. It made sense, of course. I was Silent Fitz now, not his old friend. Why wouldn&#x27;t he be wary of me?</p>
 <p>It seemed like I&#x27;d earned a little trust now, though. That makes me kind of happy.</p>
 <p>None of this would have happened if I hadn&#x27;t screwed up, but it felt like the two of us were a little closer now.</p>
 <p>I took the opportunity to explain the dorm rules to Rudy, warning him about this road being off-limits after sunset. Just as I&#x27;d suspected, it seemed like nobody else had told him any of this. He nodded deeply as I spoke.</p>
@@ -186,7 +190,8 @@ nav_title = "Side Story"
 <p>I convinced myself that it didn&#x27;t matter anyway. So what if he didn&#x27;t remember me? We could start over fresh, with a blank slate. I could leave the past aside and get to know the person he was now. That sounded good enough to me.</p>
 <p>And so, all I said was &quot;That&#x27;s a secret.&quot;</p>
 <p>Rudy just blinked in confusion.</p>
-<p>I returned to the dorm after that. Naturally, I had Rudy return the panties first. Since he&#x27;d caught them in mid-air, they weren&#x27;t dirty or anything, but Rudy was a man. I was a little uncomfortable with making Princess Ariel wear underwear that he&#x27;d held in his hands. &quot;I guess I should wash them again, huh…?&quot;</p>
+<p>I returned to the dorm after that. Naturally, I had Rudy return the panties first. Since he&#x27;d caught them in mid-air, they weren&#x27;t</p>
+<p>dirty or anything, but Rudy was a man. I was a little uncomfortable with making Princess Ariel wear underwear that he&#x27;d held in his hands. &quot;I guess I should wash them again, huh…?&quot;</p>
 <p>Holding up the panties under a hallway light, I froze in place. They weren&#x27;t Princess Ariel&#x27;s after all. They were mine. Rudy had been holding these for…quite a while, hadn&#x27;t he?</p>
 <p>It took some time before I managed to stop writhing in embarrassment.</p>
 <p>It would be another month or so before the two of us started researching the Teleportation Incident together.</p>

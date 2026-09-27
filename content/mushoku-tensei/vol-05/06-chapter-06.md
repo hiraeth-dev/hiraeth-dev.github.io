@@ -70,7 +70,8 @@ nav_title = "Chapter 6"
 <p>Unfortunately, it seemed like we had our work cut out for us.</p>
 <p>For one thing, there was a prominent political faction in Millishion that advocated the &quot;expulsion&quot; of demonkind. The leaders of this group were associated with the Temple Knights, one of the Millis Church&#x27;s holy military orders. They loudly declared that all demons should be banished from the Millis Continent entirely.</p>
 <p>At present, this party wasn&#x27;t in control of Millis. The current pope belonged to a more powerful faction that called for coexistence with demonkind; as a result, the Temple Knights couldn&#x27;t take active steps to expel them. However, if a demon happened to cause trouble in the city, they&#x27;d eagerly come running to harass everyone involved. Despite their political weakness, they often got away with taking aggressive action in the name of &quot;justice&quot; or &quot;public order.&quot;</p>
-<p>If Ruijerd were to publicly announce he was a Superd and start doing jobs around Millishion, the Temple Knights would be making our lives miserable in no time. They had eyes and ears all over this city, from the sound of things.</p>
+<p>If Ruijerd were to publicly announce he was a Superd and start doing jobs around Millishion, the Temple Knights would be making</p>
+<p>our lives miserable in no time. They had eyes and ears all over this city, from the sound of things.</p>
 <p>In that case, maybe we could try working outside of it.</p>
 <p>With that thought in mind, I snatched up a B-ranked task the Guild had only just put up on the board. Apparently, a rampaging monster in a local village needed killing. The location was near enough that we could easily make a day trip of it.</p>
 <p>Our target this time was a Leaf Tiger. This was a monster native to the southern regions of the Great Forest, but for whatever reason this one had wandered south to take up residence in this area.</p>
@@ -133,7 +134,8 @@ nav_title = "Chapter 6"
 <p>&quot;Yes, I would mind! I&#x27;m coming too, got it?!&quot;</p>
 <p>Silly me. The word &quot;self-restraint&quot; wasn&#x27;t part of Eris&#x27; vocabulary.</p>
 <p>&quot;Ruijerd, could you say something here?&quot;</p>
-<p>When I turned back to Ruijerd in search of help, I found him holding a hand to his chin in thought. His intense gaze moved from my face to Eris&#x27;, and then back again. &quot;You&#x27;ve made up with your father, haven&#x27;t you? It shouldn&#x27;t be a problem, then. Let her come along.&quot;</p>
+<p>When I turned back to Ruijerd in search of help, I found him holding a hand to his chin in thought. His intense gaze moved from my face to Eris&#x27;, and then back again. &quot;You&#x27;ve made up with your</p>
+<p>father, haven&#x27;t you? It shouldn&#x27;t be a problem, then. Let her come along.&quot;</p>
 <p>Wow! Stabbed in the back! Was this the same guy who&#x27;d punched Eris to stop her from intervening last time?</p>
 <p>Oh well. I guess I&#x27;d have to let the majority rule on this one. &quot;Well, if you say so, Ruijerd…&quot;</p>
 <p>&quot;Hmph! What did you expect?&quot;</p>
@@ -151,7 +153,8 @@ nav_title = "Chapter 6"
 <p>I started to pull out a chair, then stopped as I noticed that Eris was looking rather grumpy herself. This technically wasn&#x27;t the first time she&#x27;d met Paul, but maybe introducing them would be a good idea. &quot;Um, Father, this is Eris. As I told you the other day, she&#x27;s Philip&#x27;s daughter, and a member of the Boreas—&quot;</p>
 <p>&quot;Oh. Right, right.&quot; Cutting me off mid-sentence, Paul rose to his feet and turned to Eris. He straightened up and put one hand to his chest, then lowered his head slightly. It was a practiced bow—no less smooth than Philip&#x27;s. &quot;It&#x27;s a pleasure to make your acquaintance, miss. I&#x27;m Paul Greyrat, Rudeus&#x27; father.&quot;</p>
 <p>Taken aback, Eris tried to glance at me, but couldn&#x27;t manage to totally break eye contact with my father.</p>
-<p>&quot;Uh, I&#x27;m…E-Eris Greyrat…sir.&quot; The expression on her face was still grumpy. Nonetheless, she grabbed the ends of her dress and gave an awkward little curtsy. It felt like she&#x27;d missed her chance to start screaming or throwing punches.</p>
+<p>&quot;Uh, I&#x27;m…E-Eris Greyrat…sir.&quot; The expression on her face was still grumpy. Nonetheless, she grabbed the ends of her dress and</p>
+<p>gave an awkward little curtsy. It felt like she&#x27;d missed her chance to start screaming or throwing punches.</p>
 <p>I had to admit, I was impressed with Paul. Apparently, he&#x27;d learned a thing or two about handling girls from his years as a womanizer.</p>
 <p>…Since when could he pull off a bow like that, though?</p>
 <p>&quot;All right then. Why don&#x27;t we all sit down?&quot;</p>
@@ -187,7 +190,8 @@ nav_title = "Chapter 6"
 <p>&quot;Norn, look. That was all my—&quot;</p>
 <p>&quot;It&#x27;s all right, Father.&quot;</p>
 <p>If she was a little older, the three of us might have found a way to talk this through. At her age, though, that was probably impossible. Both Paul and I had made mistakes and jumped to conclusions; we&#x27;d reconciled by acknowledging our faults. But you couldn&#x27;t expect a child to understand that. &quot;Norn&#x27;s still very young. And if I was in her shoes, I don&#x27;t think I&#x27;d forgive the jerk who punched you, either.&quot;</p>
-<p>It was sad that Norn hated me, but there wasn&#x27;t much I could do about it. We&#x27;d just have to talk things through a few years down the road. Once she was older, I was sure she&#x27;d understand. Time&#x27;s not an infinite resource, but it can heal at least some wounds.</p>
+<p>It was sad that Norn hated me, but there wasn&#x27;t much I could do about it. We&#x27;d just have to talk things through a few years down the</p>
+<p>road. Once she was older, I was sure she&#x27;d understand. Time&#x27;s not an infinite resource, but it can heal at least some wounds.</p>
 <p>&quot;No, it&#x27;s not all right.&quot; Evidently Paul wasn&#x27;t on board with my plan, though. &quot;You guys might be the only siblings you&#x27;ve got left, okay? I want you to be good to each other.&quot;</p>
 <p>As the meaning of those words sunk in, I frowned at my father. &quot;That&#x27;s a little ominous, don&#x27;t you think?&quot;</p>
 <p>&quot;…Yeah, you&#x27;re right. Sorry.&quot;</p>
@@ -230,7 +234,8 @@ nav_title = "Chapter 6"
 <p>Paul scratched his head ruefully, and Eris looked a bit reluctant, but they both leaned back in their chairs for the moment. The four of us proceeded to say a short Millis-style prayer. All this involved was clasping your hands together and closing your eyes for a few seconds.</p>
 <p>Eris and I weren&#x27;t believers, and Paul probably wasn&#x27;t either, but this was just good table manners in this world. When in Rome and all that, you know? We went through the motions without complaint.</p>
 <p>For some reason, it seemed like Eris and Norn were in a slightly better mood after this.</p>
-<p>We enjoyed our food while chatting about nothing of real importance. Paul and I did most of the talking, of course. Norn never looked in my direction, and for her part, Eris kept mostly silent. Paul did start to speak to her now and then, but the waves of hostility she emitted were strong enough that he always thought better of it. It was probably wise of him not to poke the beehive.</p>
+<p>We enjoyed our food while chatting about nothing of real importance. Paul and I did most of the talking, of course. Norn never looked in my direction, and for her part, Eris kept mostly silent. Paul</p>
+<p>did start to speak to her now and then, but the waves of hostility she emitted were strong enough that he always thought better of it. It was probably wise of him not to poke the beehive.</p>
 <p>As Eris and I left the restaurant together, I heard her mutter, &quot;Hmph, I guess he kept himself under control this time,&quot; under her breath.</p>
 <p>I didn&#x27;t even want to think about how she might have reacted if Paul had yelled at me, let alone taken a swing at me. But since there hadn&#x27;t been any of that, her desire to murder him might have faded—at least slightly.</p>
 <p>In that sense, at least, it had been a productive use of our time.</p>

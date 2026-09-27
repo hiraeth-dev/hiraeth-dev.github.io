@@ -59,7 +59,8 @@ nav_title = "Chapter 4"
 <p>&quot;Well, this is a matter between you and me, after all… Don&#x27;t worry, I&#x27;ll be sure to keep what commences between us a secret from Sylphie.&quot;</p>
 <p>&quot;Hey. There&#x27;s no need for secrets; nothing&#x27;s going to happen. And besides, I&#x27;m the one who reports back to Sylphie.&quot;</p>
 <p>&quot;Really? How disappointing,&quot; Ariel said. She came back to this joke from time to time. It was to check whether I&#x27;d cheat. Whether I&#x27;d betray Sylphie.</p>
-<p>And what are you gonna do if I actually give into the temptation, huh? Speaking of temptation…maybe because she was just out of the bath, she smelled really good. I&#x27;d never felt that way about Ariel before. She always presented herself so flawlessly, but something about her now seemed more human—that must have been it.</p>
+<p>And what are you gonna do if I actually give into the temptation, huh? Speaking of temptation…maybe because she was just out of the bath, she smelled really good. I&#x27;d never felt that way about Ariel before. She</p>
+<p>always presented herself so flawlessly, but something about her now seemed more human—that must have been it.</p>
 <p><em>Agh, don&#x27;t even think about it! Damnit, Goddess, give me strength!</em></p>
 <p>I took a big whiff of the idol to try and clear my head. Apparently, my vow of chastity had left me with some pent-up energy.</p>
 <p>&quot;I see you are a man of taste, Sir Rudeus,&quot; Ariel remarked.</p>
@@ -93,7 +94,8 @@ nav_title = "Chapter 4"
 <p>Only, the Asuran Kingdom wasn&#x27;t interested in conquering the vassal state, or expanding its territory. That wasn&#x27;t what this was about. The point was to wear down the King Dragon Realm—pure harassment, plain and simple. Also, the reason consumer prices were rising in the King Dragon Realm was thanks to the Asuran Kingdom ever so slightly increasing its tax on imports and traded goods.</p>
 <p>&quot;Would you mind stopping the invasion?&quot; I asked. &quot;It&#x27;d help me with some negotiations with the King Dragon Realm.&quot;</p>
 <p>&quot;Of course,&quot; Ariel replied.</p>
-<p>She picked up a pen and scribbled something on a piece of paper in front of her. Then she took what had to be the royal seal, stamped and folded the paper, sealed it, and then finally handed it to me.</p>
+<p>She picked up a pen and scribbled something on a piece of paper in front of her. Then she took what had to be the royal seal, stamped and</p>
+<p>folded the paper, sealed it, and then finally handed it to me.</p>
 <p>&quot;Give this to Luke, and it should end the invasion a few days later. Use it whenever you feel like it.&quot;</p>
 <p>&quot;Hahah!&quot; I crowed, taking it with gratitude.</p>
 <p>I had a bargaining chip now. Friendship is important, but so is power.</p>

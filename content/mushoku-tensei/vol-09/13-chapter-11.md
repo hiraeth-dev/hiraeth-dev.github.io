@@ -169,7 +169,8 @@ nav_title = "Chapter 11"
 <p>&quot;Yeah, I know. I&#x27;m just kind of nervous, that&#x27;s all.&quot;</p>
 <p>&quot;Ah, right. I guess it is your first time drinking…&quot;</p>
 <p>Rudy sipped steadily at his own drink as we spoke. He hadn&#x27;t watered down his glass, so he wasn&#x27;t gulping it down the way I was. After a few moments, he reached for the bottle and poured me a little more, diluting it with hot water just like before.</p>
-<p>For a while after that, the two of us ate and drank in silence. The smoked meat turned out to be too salty and not particularly good, but for some reason I couldn&#x27;t stop nibbling at it. After a while, my whole body started to get hot. The area just above my thighs, in particular, was practically throbbing. The stuff sure seemed to be working.</p>
+<p>For a while after that, the two of us ate and drank in silence. The smoked meat turned out to be too salty and not particularly good, but for some reason I couldn&#x27;t stop nibbling at it. After a while, my whole body started to get hot. The area just above my thighs, in</p>
+<p>particular, was practically throbbing. The stuff sure seemed to be working.</p>
 <p>Was it doing anything for Rudy, though?</p>
 <p>He looked the same as ever. Just as handsome as always. Maybe more handsome than always, in fact.</p>
 <p>My eyes kept finding parts of him I didn&#x27;t usually pay much attention to. His neck, his mouth… I was starting to get in a kind of naughty mood. Was it just my imagination, or was Rudy&#x27;s face getting redder?</p>

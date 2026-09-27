@@ -89,7 +89,8 @@ nav_title = "Chapter 9"
 <p>&quot;Of course I am. Never in my wildest dreams did I think I would get an opportunity to exact revenge on someone who has given me grief so many times I have lost count.&quot;</p>
 <p>&quot;Revenge, you say?&quot;</p>
 <p>&quot;Yes. A grudge, if you will, that&#x27;s lasted a number of years.&quot;</p>
-<p>He was probably referring to the war that happened 400 years ago—Laplace&#x27;s War. Perugius was a young adventurer at the time, but he aided the humans, fighting on the front lines. Atofe had also spearheaded some of the demons&#x27; forces, acting as a general. Perugius encountered her many times on the battlefield. Since he was young and inexperienced, he wasn&#x27;t able to beat her, instead sustaining life-threatening injuries at each encounter. Two people who saved him back then: the Dragon God Urupen, an older brothertype figure to Perugius, and North God Kalman.</p>
+<p>He was probably referring to the war that happened 400 years ago—Laplace&#x27;s War. Perugius was a young adventurer at the time, but he aided the humans, fighting on the front lines. Atofe had also spearheaded some of the demons&#x27; forces, acting as a general. Perugius encountered her many times on the battlefield. Since he was young and inexperienced, he wasn&#x27;t able to beat her, instead sustaining life-threatening injuries at each encounter. Two people</p>
+<p>who saved him back then: the Dragon God Urupen, an older brothertype figure to Perugius, and North God Kalman.</p>
 <p>Perugius could only grit his teeth in frustration at each loss. He planned to eventually take revenge on Atofe, but then North God Kalman married her. When Kalman died, he made the two swear an oath that they wouldn&#x27;t kill each other. Thus, Perugius never went back to the Demon Continent, destroying his chances for revenge. He had almost given up hope on ever striking back at Atofe, but this timing was more perfect than he could have imagined. He took a shot at her without her coming after him in return. That was what had him on cloud nine.</p>
 <p>&quot;I must thank you for that,&quot; said Perugius. &quot;You did a splendid job.&quot;</p>
 <p>&quot;Are you sure it&#x27;s okay that you broke your oath to North God Kalman?&quot;</p>
@@ -110,7 +111,8 @@ nav_title = "Chapter 9"
 <p>&quot;If you use this in any place I have a connection to, Clearnight of the Roaring Thunder will hear it, and Arumanfi will come to see you.&quot;</p>
 <p>I accepted the flute and tucked it away. It sounded like he would come to help me if I ever needed it. That wasn&#x27;t a bad solution either.</p>
 <p>&quot;Hm, seems the sun has set.&quot;</p>
-<p>I glanced back; the evening light had faded. Now the moon was hovering in the sky. Strangely enough, the area around us wasn&#x27;t dark. That was thanks to the blue glow the flowers in the garden gave off.</p>
+<p>I glanced back; the evening light had faded. Now the moon was hovering in the sky. Strangely enough, the area around us wasn&#x27;t</p>
+<p>dark. That was thanks to the blue glow the flowers in the garden gave off.</p>
 <p>&quot;This table is made from illuminators,&quot; Perugius explained. &quot;Go on, have a seat. Why don&#x27;t we continue to chat for a bit?&quot;</p>
 <p>Obediently, I plopped down.</p>
 <p>***</p>
@@ -156,7 +158,8 @@ nav_title = "Chapter 9"
 <p>Perugius folded his arms, closed his eyes, and furrowed his brows. After a long silence, he finally said, &quot;I care not for the Superd and their reputation, but I must honor my debts.&quot;</p>
 <p>&quot;Oh, then?&quot;</p>
 <p>&quot;Do as you like.&quot;</p>
-<p>Although he wasn&#x27;t pleased, Perugius had acquiesced, at least. Now we could sell our Ruijerd figurines without fear of Arumanfi appearing out of nowhere and destroying our shop. In fact, if someone disapproved of our doing so, we could tell them that Perugius had given us his permission. I had no idea how much weight his name carried, but it was sure to be handy, given his fame.</p>
+<p>Although he wasn&#x27;t pleased, Perugius had acquiesced, at least. Now we could sell our Ruijerd figurines without fear of Arumanfi appearing out of nowhere and destroying our shop. In fact, if</p>
+<p>someone disapproved of our doing so, we could tell them that Perugius had given us his permission. I had no idea how much weight his name carried, but it was sure to be handy, given his fame.</p>
 <p>Anyway, Zanoba sure made a persuasive argument. Being able to wriggle his way through such a difficult topic—he was definitely impressing me more and more lately. I needed to learn from his example.</p>
 <p>&quot;We appreciate your consideration.&quot;</p>
 <p>Both Zanoba and I bowed our heads. We were one step closer to selling these figurines to the public.</p>

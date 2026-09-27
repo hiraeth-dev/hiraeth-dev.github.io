@@ -103,7 +103,8 @@ nav_title = "Chapter 6"
 <p>We paid for our purchases and left the little store behind.</p>
 <p>Our next stop was a place that specialized in the sale of fabrics and furnishings. There were big rolls of handwoven cloth hanging all over the place. Princess Ariel had actually recommended this store to me a while ago, back when I was buying rugs for the house. They sold good-quality stuff at a wide range of prices and seemed to attract a broad clientele. I didn&#x27;t know how my sister had learned about it, though.</p>
 <p>Inside the store, Aisha quickly picked out some curtains. They were pink and frilly and were definitely the expensive side.</p>
-<p>When she took them up to the counter, though, she proceeded to haggle ruthlessly with the clerk. She dropped my name and Princess Ariel&#x27;s and used every single card she had to play. By the end, she&#x27;d managed to talk them down to an only moderately pricey figure.</p>
+<p>When she took them up to the counter, though, she proceeded to haggle ruthlessly with the clerk. She dropped my name and Princess Ariel&#x27;s and used every single card she had to play. By the</p>
+<p>end, she&#x27;d managed to talk them down to an only moderately pricey figure.</p>
 <p>&quot;Do you have enough to pay for those, Aisha? I can chip in a little if you want.&quot;</p>
 <p>&quot;That&#x27;s okay! I&#x27;ve got exactly enough.&quot;</p>
 <p>Handing over the remainder of her allowance, Aisha completed her purchase. She&#x27;d used every coin of the money I&#x27;d given her. The girl had a real way with money. It was a little frightening, to be honest.</p>
@@ -172,7 +173,8 @@ nav_title = "Chapter 6"
 <p>I decided to file that idea away for now. It never hurt to have a potential source of income in your back pocket.</p>
 <p>In any case, the fact that these spirits were purely artificial was interesting. I felt like it might be relevant to Zanoba&#x27;s project. By combining different disciplines of magic, maybe we could make ourselves a robot capable of saying &quot;hawawa&quot; every time it got flustered.</p>
 <p>&quot;Oh. By the way, Nanahoshi…if you can randomly summon objects from our old world now, isn&#x27;t there a chance we could bring over some really useful stuff?&quot;</p>
-<p>It seemed like a decent idea on the face of it, but Nanahoshi shook her head. &quot;At this stage, I&#x27;m only capable of summoning simple objects composed of a single consistent substance. Although I suppose that does give us a fairly wide range of possibilities.&quot;</p>
+<p>It seemed like a decent idea on the face of it, but Nanahoshi shook her head. &quot;At this stage, I&#x27;m only capable of summoning</p>
+<p>simple objects composed of a single consistent substance. Although I suppose that does give us a fairly wide range of possibilities.&quot;</p>
 <p>A single consistent substance, huh? That explained why the plastic bottle hadn&#x27;t come with a cap or label. But if she got better at setting her conditions, maybe we could summon complex objects piece by piece and then put them back together.</p>
 <p>&quot;Also, it&#x27;s not a great idea to pull too many things that belong in our old world into this one. I think I mentioned this before, didn&#x27;t I?&quot;</p>
 <p>Oh, was she still worried about that whole &quot;messing with the timeline&quot; thing?</p>
@@ -225,7 +227,8 @@ nav_title = "Chapter 6"
 <p>Lately, I felt like my life had settled into a smooth and pleasant rhythm.</p>
 <p>I woke up in the morning, did my training, ate breakfast, and went to the University. I stopped by to see Zanoba and then Cliff, checking in on the progress of their research and occasionally offering some advice. After lunch, I headed over to help out Nanahoshi with her summoning experiments. And once classes ended, I took an hour to tutor Norn.</p>
 <p>On my way back home, I went grocery shopping with Sylphie, and Aisha greeted us at the front door. Sylphie and I took a bath together, and the three of us ate dinner. Then we practiced magic in the living room and talked about our days.</p>
-<p>After Aisha went to bed, I worked on the baby-making project with Sylphie, then fell into a sound sleep with my wife as my body pillow. Each day went much like the one before it, but I still felt like I was making steady progress toward my goals.</p>
+<p>After Aisha went to bed, I worked on the baby-making project with Sylphie, then fell into a sound sleep with my wife as my body</p>
+<p>pillow. Each day went much like the one before it, but I still felt like I was making steady progress toward my goals.</p>
 <p>Maybe this was what happiness felt like?</p>
 <p>It wasn&#x27;t something I&#x27;d gotten much of in my first try at life. But assuming Paul made it back safe and sound in a year or so, things should only get better from here.</p>
 <p><strong>Chapter 7: The Third Turning Point</strong></p>

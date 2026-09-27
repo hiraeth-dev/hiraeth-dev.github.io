@@ -16,7 +16,8 @@ nav_title = "Chapter 12"
 <p>They&#x27;d been helping us out with this research for some time now, so I&#x27;d asked them to come observe whenever we were on the verge of a major breakthrough.</p>
 <p>Nanahoshi had disliked the idea, but ultimately gave in when I argued that they&#x27;d earned the right to be here.</p>
 <p>Of course, their presence wasn&#x27;t really a reward. They were here in case the experiment failed and Nanahoshi started thrashing around again. I wanted someone here to restrain her…and help me console her afterward, for that matter.</p>
-<p>It was pretty effective to have someone of a different gender comfort you. Might not be a universal rule, but it was true in my experience, at least. We could take her out to a nice tavern and give her lots of attention. Bring out the expensive champagne, that sort of thing. The three of us weren&#x27;t exactly host club material, but it&#x27;s the thought that counts, right?</p>
+<p>It was pretty effective to have someone of a different gender comfort you. Might not be a universal rule, but it was true in my</p>
+<p>experience, at least. We could take her out to a nice tavern and give her lots of attention. Bring out the expensive champagne, that sort of thing. The three of us weren&#x27;t exactly host club material, but it&#x27;s the thought that counts, right?</p>
 <p>All that said, I was feeling confident about this one.</p>
 <p>Cliff had given the design sketches his stamp of approval. And thanks to the Zaliff Prosthesis, Zanoba was growing increasingly good at executing this sort of detail work. I didn&#x27;t see any reason why we&#x27;d fail.</p>
 <p><em>Here goes nothing…</em></p>

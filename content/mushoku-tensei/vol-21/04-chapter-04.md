@@ -29,7 +29,8 @@ nav_title = "Chapter 4"
 <p>When you swallow poison, don&#x27;t forget the plate. I&#x27;d already kidnapped her, so I was already screwed. No more plans. We&#x27;re doing this.</p>
 <p>I had two cards left to play. Myself and this girl. Let&#x27;s imagine the worst-case scenario.</p>
 <p>The pope, the cardinal, Therese, and Claire were all my enemies. Working as agents of the Man-God, they&#x27;d already taken Cliff, Aisha, and Geese prisoner. In the half-hour or so since I took the Blessed Child, the Temple Knights were already moving. My assumption that no one had seen me teleport was wrong—someone had seen me—and the Temple Knights were headed here now. I hadn&#x27;t had time to set up a transport circle for the Magic Armor Version One, so I&#x27;d cast Quagmire to bury it in the garden for the time being, but the Temple Knights had already dug it out and carted it away.</p>
-<p>That would be about as bad as it could get. Bad enough that if things actually turned out that way, I&#x27;d be screwed… I had to find a way out of it with just two cards—my own fighting abilities and the Blessed Child.</p>
+<p>That would be about as bad as it could get. Bad enough that if things actually turned out that way, I&#x27;d be screwed… I had to find a way out of it</p>
+<p>with just two cards—my own fighting abilities and the Blessed Child.</p>
 <p>&quot;Blessed Child,&quot; I said, &quot;before I trust you, I have some questions.&quot;</p>
 <p>&quot;Naturally,&quot; she replied.</p>
 <p>If I was going to make this work, I needed to question the Blessed Child. I could decide whether I could rely on her later—right now, I needed information.</p>
@@ -105,7 +106,8 @@ nav_title = "Chapter 4"
 <p>&quot;Those orders serve the Holy Country of Millis,&quot; replied the Blessed Child. &quot;They don&#x27;t get involved in the petty quarrels of the church. Besides, the Missionary Knights are out of the country at present.&quot;</p>
 <p>They&#x27;re not even here? I was starting to feel like I might have a chance. I&#x27;d show them my hostage and engage them in fair and honest negotiations.</p>
 <p><em>After this sudden, violent attack I, the almighty Rudeus, follower of Orsted, have taken offense. Though I would be within my rights to draw and quarter the Blessed Child and cast down the light of the Holy Church of Millis, I shall be merciful. If you comply with my demands and apologize directly, I shall forgive you, and spare the Blessed Child&#x27;s life.</em></p>
-<p>Work in progress, we&#x27;ll go with that. While I negotiated, I&#x27;d get the Blessed Child to work out who&#x27;d betrayed me and the identities of the Man-God&#x27;s disciples. It was possible that some of this would come and bite me in the ass later, but assuming the negotiations themselves went smoothly, I was confident we could get out of the country unscathed. The mercenary band would probably have to wait. That was fine. I&#x27;d come back in a few years, once Cliff had established himself as a major player, and we&#x27;d talk then. I&#x27;d have to keep an eye on things, though. If, for example, it turned out that the pope was a disciple of the Man-God, I&#x27;d have no choice but to tear Cliff away from his ambitions in Millis. It wouldn&#x27;t be fair to him, but sometimes life is unfair.</p>
+<p>Work in progress, we&#x27;ll go with that. While I negotiated, I&#x27;d get the Blessed Child to work out who&#x27;d betrayed me and the identities of the Man-God&#x27;s disciples. It was possible that some of this would come and bite me in the ass later, but assuming the negotiations themselves went smoothly, I was confident we could get out of the country unscathed. The mercenary band would probably have to wait. That was fine. I&#x27;d come back in a few years, once Cliff had established himself as a major player, and we&#x27;d talk then. I&#x27;d have to keep an eye on things, though. If, for example, it turned out that the pope was a disciple of the Man-God, I&#x27;d</p>
+<p>have no choice but to tear Cliff away from his ambitions in Millis. It wouldn&#x27;t be fair to him, but sometimes life is unfair.</p>
 <p>&quot;If the other knight orders concern you, I suggest you act sooner rather than later. If they did arrest one of your friends, the longer we wait the more likely it is that something terrible will happen.&quot;</p>
 <p>&quot;Agreed.&quot;</p>
 <p>Only an hour had passed since I&#x27;d kidnapped the Blessed Child. The worst-case scenario was that Aisha and Geese were already under arrest, but there was no way the knights had had time to find them both, arrest them, and torture them yet. Still, the longer I hid, the more desperate they would become. People do crazy things when they&#x27;re desperate.</p>
@@ -147,7 +149,8 @@ nav_title = "Chapter 4"
 <p>&quot;It&#x27;s the Blessed Child…&quot;</p>
 <p>&quot;Rudeus brought the Blessed Child!&quot;</p>
 <p>&quot;Call for reinforcements!&quot;</p>
-<p>More and more and more of them emerged from the church, and from the city around us. In a moment, we were surrounded. How was I gonna pull this off?</p>
+<p>More and more and more of them emerged from the church, and from the city around us. In a moment, we were surrounded. How was I</p>
+<p>gonna pull this off?</p>
 <p>&quot;Sir Rudeus,&quot; said the Blessed Child, &quot;whatever you do, don&#x27;t let go of me.&quot;</p>
 <p>I didn&#x27;t reply. She was my lifeline. I kept my grip on her arms.</p>
 <p>None of the Temple Knights had their swords out, but they sounded pretty upset. They weren&#x27;t gonna risk hurting her. Just like the Blessed Child had said.</p>

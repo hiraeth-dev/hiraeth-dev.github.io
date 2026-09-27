@@ -165,7 +165,8 @@ nav_title = "Chapter 6"
 <p>&quot;It&#x27;ll encourage them to spread rumors that the Superd are actually pushovers.&quot;</p>
 <p>Ruijerd scowled. &quot;The Superd are not pushovers.&quot;</p>
 <p>&quot;Believe me, I know. But your strength is part of what makes people so afraid of you. If they think you&#x27;re weak, it might help us resolve conflicts peacefully, like we just did at the gate.&quot;</p>
-<p>That said, we didn&#x27;t want everyone thinking his people were totally powerless, either. That might end up encouraging more harassment of the surviving Superd villages…assuming there were still some out there somewhere. This was going to be a delicate balancing act.</p>
+<p>That said, we didn&#x27;t want everyone thinking his people were totally powerless, either. That might end up encouraging more</p>
+<p>harassment of the surviving Superd villages…assuming there were still some out there somewhere. This was going to be a delicate balancing act.</p>
 <p>&quot;Hm. Well, if you say so, Rudeus…&quot;</p>
 <p><em>Okay then. I think that just about covers it for now.</em></p>
 <p>I didn&#x27;t feel the need to issue too many specific instructions at the moment. It would only increase our odds of screwing something up. &quot;Anyway…I&#x27;ll give you all the support I can, Ruijerd. But the outcome&#x27;s ultimately going to depend on you, okay?&quot;</p>
@@ -177,7 +178,8 @@ nav_title = "Chapter 6"
 <p>Well, he didn&#x27;t really look like a Superd, and that was the most important thing. An ambiguous disguise was probably what we wanted anyway. The ideal reaction would be something like…&quot;This guy kinda looks like a Migurd, but not really. And he&#x27;s calling himself a Superd, but that doesn&#x27;t look right either… So what the hell?&quot;</p>
 <p>&quot;Also, I think you should be wearing this,&quot; I said, taking off my pendant and placing it on Ruijerd.</p>
 <p>&quot;This is…a Migurd amulet, isn&#x27;t it?&quot;</p>
-<p>&quot;Yes. My master gave it to me as a graduation present, and I&#x27;ve been wearing it ever since.&quot; With this dangling around Ruijerd&#x27;s neck, everyone would at least assume he was somehow connected to the Migurd.</p>
+<p>&quot;Yes. My master gave it to me as a graduation present, and I&#x27;ve been wearing it ever since.&quot; With this dangling around Ruijerd&#x27;s</p>
+<p>neck, everyone would at least assume he was somehow connected to the Migurd.</p>
 <p>&quot;It must be precious to you then. I&#x27;ll make sure to return it to you safely.&quot;</p>
 <p>&quot;Yeah. You better.&quot;</p>
 <p>&quot;Of course.&quot;</p>

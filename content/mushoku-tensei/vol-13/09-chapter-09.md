@@ -170,7 +170,8 @@ nav_title = "Chapter 9"
 <p>&quot;All right, everyone! Let&#x27;s go to the dining room!&quot;</p>
 <p>Stepping forward with a smile, I pushed a confused Norn and a dubious Aisha forward.</p>
 <p>The dining room was full of simple but attractive decorations. There weren&#x27;t any big banners hanging across the room or anything, but we did have some very nice flowers on the walls, and there were candles gleaming all around the place.</p>
-<p>The table was covered in a very nice white cloth, with plates and vases of flowers sitting on top of it. The drinks had already been poured, but there wasn&#x27;t any food yet. They&#x27;d presumably be carrying that out a little later.</p>
+<p>The table was covered in a very nice white cloth, with plates and vases of flowers sitting on top of it. The drinks had already been</p>
+<p>poured, but there wasn&#x27;t any food yet. They&#x27;d presumably be carrying that out a little later.</p>
 <p>At the far end of the table—the customary seat of honor—two chairs sat snugly next to each other. I brought Aisha and Norn there and offered them their seats.</p>
 <p>&quot;Wait, but… Huh? What&#x27;s going on?&quot;</p>
 <p>Norn still looked completely nonplussed.</p>

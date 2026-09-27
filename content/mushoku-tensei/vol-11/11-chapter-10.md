@@ -113,7 +113,8 @@ nav_title = "Chapter 10"
 <p>&quot;Huh?&quot;</p>
 <p>I didn&#x27;t know how to react. But Elinalise was already raising her shield and charging at the woman.</p>
 <p>&quot;Keeeaaah!&quot;</p>
-<p>The woman let out a high-pitched shriek, and her nails grew to an unnatural length. Her body itself was changing shape. Fully formed wings burst from her back and she beat them fiercely, trying to lift off the ground.</p>
+<p>The woman let out a high-pitched shriek, and her nails grew to an unnatural length. Her body itself was changing shape. Fully</p>
+<p>formed wings burst from her back and she beat them fiercely, trying to lift off the ground.</p>
 <p>Elinalise was already on her. Swinging her shield sharply into the woman&#x27;s face, she sent her crashing to the ground. And once she had the thrashing woman pinned in place with her foot, she stabbed her sword down.</p>
 <p>&quot;Gyeeaaah…&quot;</p>
 <p>The woman let out one final, eerie cry, but Elinalise just pushed the blade deeper.</p>

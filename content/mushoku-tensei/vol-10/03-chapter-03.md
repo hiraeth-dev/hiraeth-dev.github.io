@@ -93,7 +93,8 @@ nav_title = "Chapter 3"
 <p>&quot;Yeah. I&#x27;m glad we didn&#x27;t destroy it. Zanoba, your judgment was flawless.&quot;</p>
 <p>&quot;Heh heh. I knew what it was at first glance.&quot;</p>
 <p>&quot;I&#x27;d expect no less. Your eye for dolls has already surpassed mine,&quot; I said, offering my proudly grinning pupil some praise.</p>
-<p>That aside… A moving doll. Come to think of it, there were other inanimate objects in this world that moved, like armor. This doll was carved from wood, but maybe I could make stone figures move as well? And if I could find a way to make the figures move by themselves…and if I could develop a substance like silicon to give them skin, like humans…</p>
+<p>That aside… A moving doll. Come to think of it, there were other inanimate objects in this world that moved, like armor. This doll was</p>
+<p>carved from wood, but maybe I could make stone figures move as well? And if I could find a way to make the figures move by themselves…and if I could develop a substance like silicon to give them skin, like humans…</p>
 <p>The possibilities were endless.</p>
 <p>&quot;Zanoba, what should I do? My heart is pounding so hard!&quot;</p>
 <p>&quot;Mine too. I can feel the tears coming!&quot;</p>
@@ -117,7 +118,8 @@ nav_title = "Chapter 3"
 <p>We were looking for a place big enough to hide a human-sized doll, but had found nothing of the sort in our second round of searching the house. I thought it might be in the garden, since we hadn&#x27;t checked there, but that lead didn&#x27;t pan out. The doll&#x27;s footprints were clearly imprinted on the snow, but led nowhere.</p>
 <p>I was beginning to suspect there was a hidden room in the house. It had clearly been designed to be completely symmetrical, so perhaps we needed to look for anything that wasn&#x27;t symmetrical. With that in mind, I searched the house&#x27;s first and second floors for anomalies in the layout, but didn&#x27;t find anything. The lack of light made it hard to tell.</p>
 <p>&quot;It might be better to look again tomorrow, when we have daylight,&quot; Cliff suggested.</p>
-<p>We agreed. Before we quit for the night, however, we decided to move the doll to the university. We bound its arms and legs tightly and put it in Zanoba&#x27;s room. In better lighting, we could tell that it was quite old. It had looked pale white before, but I could see now that the original white paint was beginning to peel, and there were patches of mold.</p>
+<p>We agreed. Before we quit for the night, however, we decided to move the doll to the university. We bound its arms and legs tightly and put it in Zanoba&#x27;s room. In better lighting, we could tell that it was quite old. It had looked pale white before, but I could see now</p>
+<p>that the original white paint was beginning to peel, and there were patches of mold.</p>
 <p>&quot;Master, is this a…new doll?&quot; Julie asked. I&#x27;d thought she might be afraid of it, but instead, she just seemed curious. &quot;Shall I…clean it?&quot;</p>
 <p>When Zanoba brought home random dolls from the market, she was in charge of cleaning them up. Zanoba thought the best way to increase her appreciation for figurines was to have her practice cleaning and polishing them, and it seemed his education was working.</p>
 <p>&quot;How do we get it to move again?&quot; Zanoba wondered.</p>

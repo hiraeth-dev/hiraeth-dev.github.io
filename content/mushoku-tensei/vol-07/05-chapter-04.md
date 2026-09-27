@@ -81,7 +81,8 @@ nav_title = "Chapter 4"
 <p>&quot;Okay, Quagmire. Do it.&quot;</p>
 <p>&quot;Okay!&quot; Just as I was ordered, I put my hand on the device and began to pump mana in. I wasn&#x27;t used to magical devices like this, so I had no idea how much it needed, but I was sure that the manager would let me know when it was enough. I just had to keep going until then.</p>
 <p>As I continued charging the device and confirmed it was working, I looked around. &quot;Whoa.&quot;</p>
-<p>The device was heating the area closest to it. The snow gradually melted and was absorbed into the ground. Apparently, the ground of the plaza was also a magical device, for I could see a geometric shape carved into what looked like brick beneath us. Or perhaps the whole plaza itself was part of the device?</p>
+<p>The device was heating the area closest to it. The snow gradually melted and was absorbed into the ground. Apparently, the ground of the plaza was also a magical device, for I could see a</p>
+<p>geometric shape carved into what looked like brick beneath us. Or perhaps the whole plaza itself was part of the device?</p>
 <p>I continued to watch the snow melt as I poured in more of my mana. I couldn&#x27;t take my eyes off it. It was like watching snow thaw in fast forward, like I was witnessing spring&#x27;s approach, as white gave way to a spread of orange brick below. But spring was still distant, of course. The sky was still a murky gray, and the snow continued to fall.</p>
 <p>The snow in the plaza steadily disappeared, and I could see the faces of all those gathered in the area. &quot;Oooh!&quot;</p>
 <p>A commotion broke out, along with applause. What&#x27;s this about? I wondered. I dropped my hands and joined them in the applause.</p>
@@ -100,7 +101,8 @@ nav_title = "Chapter 4"
 <p>&quot;Rudeus Greyrat,&quot; I answered, even though I had no idea why she was asking. She took off running the minute she heard my name, not even bothering to reply.</p>
 <p><em>What the heck? So she&#x27;s just going to ask my name and run away? What a rude child.</em></p>
 <p>Or so I thought…but the girl ran toward a gathering of other young children. As she huddled amongst them, they seemed to confer with one another. I could hear their hushed voices from where I stood. Was my name really worth all that whispering? After a while, the group nodded and disappeared into an alleyway. As I looked on, I spotted the girl I had healed amongst them. She glanced over at me and bowed before scurrying off.</p>
-<p>&quot;Hm.&quot; It usually soured my mood when people gossiped about me, but not this time—probably because they weren&#x27;t badmouthing me. Perhaps something good would come from making a name for myself among those kids. And even if it was completely pointless, I didn&#x27;t mind occasional acts of charity. I actually felt good about myself for a change.</p>
+<p>&quot;Hm.&quot; It usually soured my mood when people gossiped about me, but not this time—probably because they weren&#x27;t badmouthing me. Perhaps something good would come from making a name for myself among those kids. And even if it was completely pointless, I</p>
+<p>didn&#x27;t mind occasional acts of charity. I actually felt good about myself for a change.</p>
 <p>Welp, let&#x27;s get back to the guild, I decided.</p>
 <p>***</p>
 <p>There, in the early afternoon at the guild, I spotted some faces I knew: Suzanne, Timothy, and Patrice—all the members of Counter Arrow. Well, not all. If they were here at this hour, it meant they&#x27;d just finished a request, so I had probably just missed the others.</p>
@@ -140,7 +142,8 @@ nav_title = "Chapter 4"
 <p>I moved the clouds by creating a tornado to disperse them.</p>
 <p>&quot;There we go.&quot; The clear blue sky shone above me as I set forth, boots crunching through the snow.</p>
 <p>***</p>
-<p>Night had descended and it was pitch black by the time I arrived at Trier Forest. Thanks to my weather manipulation, I didn&#x27;t have to wade through a blizzard to get here. Inside the forest, the trees formed a dome that covered the sky. My torch barely provided enough light to see with, and the snow lay dense and high on the ground. As I moved forward, I found myself buried to the waist. It was significantly more difficult to walk than usual. I plodded forward, step by step. Occasionally, a heap of the frozen powder would come cascading off nearby trees, as if trying to bury me.</p>
+<p>Night had descended and it was pitch black by the time I arrived at Trier Forest. Thanks to my weather manipulation, I didn&#x27;t have to wade through a blizzard to get here. Inside the forest, the trees formed a dome that covered the sky. My torch barely provided enough light to see with, and the snow lay dense and high on the</p>
+<p>ground. As I moved forward, I found myself buried to the waist. It was significantly more difficult to walk than usual. I plodded forward, step by step. Occasionally, a heap of the frozen powder would come cascading off nearby trees, as if trying to bury me.</p>
 <p>Hang on… It wasn&#x27;t falling on its own. Something was dumping it on me.</p>
 <p>I looked up and discovered the monster behind it: a Snowfall Treant. In the summer these were ordinary treants, but when winter came, snow accumulated on their branches. As their name implied, they would try to impede passing adventurers by burying them. They were a low-ranked treant unique to this region. They mostly just dumped snow on you, but there were occasionally individuals that could use ice magic, hurling down blocks of ice large enough to flatten a human in one blow. These were a higher-ranked sort called the Icefall Treant. I had yet to encounter one.</p>
 <p>If possible, I would prefer to keep it that way.</p>
@@ -173,7 +176,8 @@ nav_title = "Chapter 4"
 <p>&quot;Phew.&quot; I&#x27;d intended to be cautious, just to be sure that I didn&#x27;t catch Sara in the crossfire if she were in their vicinity, but the discretion seemed pointless. I waded over to the scattered lot of buffalo corpses. The cloying stench of blood surrounded me as I reached the center of the fallen herd.</p>
 <p>A mountain of bones lay there, remains of the prey they had devoured. Most were of four-legged animals, but there were also other Snow Buffalo bones among the pile. So these guys are cannibals, I noted mentally.</p>
 <p>I searched through the heap. The creatures had a habit of leaving leftovers other than bones, using the smell to lure in other beasts and animals to be a steady supply of food. Ruijerd had done something similar. It was frightening to think the buffaloes had enough wisdom to do the same thing as the Demon Continent&#x27;s fearsome Dead End.</p>
-<p>I expected I would find the bones of those they&#x27;d eaten for lunch here. In fact, I spotted several humanoid skulls. I made another mental note of that as I shoved aside the other bones, trying to find what I was looking for: Sara&#x27;s corpse, or at least something she&#x27;d worn on her person. If I found that, I was sure I&#x27;d be satisfied.</p>
+<p>I expected I would find the bones of those they&#x27;d eaten for lunch here. In fact, I spotted several humanoid skulls. I made another mental note of that as I shoved aside the other bones, trying to find</p>
+<p>what I was looking for: Sara&#x27;s corpse, or at least something she&#x27;d worn on her person. If I found that, I was sure I&#x27;d be satisfied.</p>
 <p>&quot;Ngh!&quot; A groan slipped from me as I fished through the bones. I had found a human head that still had skin on it and seen the face of someone I knew. &quot;Mimir…&quot;</p>
 <p>It was Counter Arrow&#x27;s healer. Half of his head had already been eaten. His cheeks were gone, leaving behind just his forehead and part of his hair, which were somehow just enough to identify him.</p>
 <p>&quot;Gh…hah…argh.&quot; My breath was caught in my throat. Mimir was dead. Timothy had already said so.</p>
@@ -205,7 +209,8 @@ nav_title = "Chapter 4"
 <p>I surveyed the area, but there were no beasts in sight. The sound was gone as well. All I heard was the creaking of branches and the rustling of trees in the wind—all sounds of nature.</p>
 <p>Just to be sure, I glanced up.</p>
 <p>&quot;Whoa!&quot;</p>
-<p>I instantly leaped to the side. A split second later, an enormous block came smashing down beside me, its mass sending the surrounding snow upwards in a surge. My vision was shrouded in a curtain of frozen powder, but my Eye of Foresight saw clearly what the object was: ice. A frozen block of it had just struck the ground where I had been. What would have happened if I had been beneath it? I shuddered and glanced behind me.</p>
+<p>I instantly leaped to the side. A split second later, an enormous block came smashing down beside me, its mass sending the surrounding snow upwards in a surge. My vision was shrouded in a curtain of frozen powder, but my Eye of Foresight saw clearly what the object was: ice. A frozen block of it had just struck the ground</p>
+<p>where I had been. What would have happened if I had been beneath it? I shuddered and glanced behind me.</p>
 <p>There it was, a shadow as big as a mountain. It had a thick trunk, doubtless hundreds of years old, with an overgrowth of foliage blotting out the sky above. Its roots, wide as my torso, creaked as they pursued me.</p>
 <p>&quot;An Icefall Treant?&quot;</p>
 <p>Having traversed the Demon Continent and Great Forest, I was used to the sight of treants. However, this was the first time I had seen one so enormous. Just how old was it? Treants grew in strength as they aged. This one was abnormally ancient, so I wondered how strong it must be.</p>
@@ -213,7 +218,8 @@ nav_title = "Chapter 4"
 <p>The treant stopped for a moment. When I looked, I saw something forming atop its branches. A flower? Fruit? No—magic! It was conjuring another block of ice.</p>
 <p>This wasn&#x27;t the first time I&#x27;d seen a monster use magic, but it was the first time I&#x27;d seen an enormous tree produce a gigantic slab of frozen water.</p>
 <p>&quot;Gah!&quot; I immediately poured mana into my staff and conjured a shockwave that slammed into my body. Like a shard of splintered wood, I went flying again, successfully escaping the block of ice that came slamming down just a hair&#x27;s breadth away, right where my body had been. A nearby tree let forth a resounding crack as its trunk fractured.</p>
-<p>As I toppled through the snow, I channeled mana into my staff once again. I was going to use Stone Cannon. I put everything I had into the spell and launched it at the treant. The creature was huge; there was no way I could miss.</p>
+<p>As I toppled through the snow, I channeled mana into my staff once again. I was going to use Stone Cannon. I put everything I had</p>
+<p>into the spell and launched it at the treant. The creature was huge; there was no way I could miss.</p>
 <p>It was too huge, in fact.</p>
 <p>My Stone Cannon plunged through the air and made impact. A familiar blast echoed around me, but the Icefall Treant was still moving. The cannon I had poured my all into should have made a direct hit. Had the creature really sustained no damage?</p>
 <p>Dumbfounded, I looked at the treant, which was illuminated by my dwindling bonfire. Its trunk was frozen over, wrapped in a shell of ice armor. Smart for a damn tree. The shield had effectively weakened the impact of my Stone Cannon, which now lay embedded in the tree&#x27;s base.</p>
@@ -222,7 +228,8 @@ nav_title = "Chapter 4"
 <p>&quot;Sara…?!&quot;</p>
 <p>For some reason, Sara&#x27;s body was visible at the base of the tree. Was she dead or still breathing? Treants usually killed their prey before draining them for nutrients, but some would just bind their target instead, gradually sapping their life. She seemed to be in a bad state, her body swollen and covered in bruises, but not wounded enough for me to be sure she was dead.</p>
 <p>Was she still alive or not? &quot;Hm…&quot;</p>
-<p>Something felt off. I narrowed my eyes and had a closer look. A number of corpses were tangled in the vast roots of the tree at about the same latitude as Sara. Some were decaying carcasses, including a completely desiccated Luster Grizzly. One thing in particular stood out—a Snow Buffalo. It thrashed about, caught in the tree&#x27;s roots. Although trapped, it was desperate to get away, struggling to break free as foam bubbled from its mouth.</p>
+<p>Something felt off. I narrowed my eyes and had a closer look. A number of corpses were tangled in the vast roots of the tree at about the same latitude as Sara. Some were decaying carcasses, including a completely desiccated Luster Grizzly. One thing in particular stood</p>
+<p>out—a Snow Buffalo. It thrashed about, caught in the tree&#x27;s roots. Although trapped, it was desperate to get away, struggling to break free as foam bubbled from its mouth.</p>
 <p>Of course, there was no way it could escape from the sturdy roots. But its presence proved that this particular Icefall Treant took its prey alive. Perhaps Sara wasn&#x27;t dead, then; just unconscious.</p>
 <p>How was I going to save her? The Icefall Treant was a tree the size of a skyscraper, with half its trunk protected by a barrier of ice. Frankly, I didn&#x27;t feel like I could defeat it. Even if I could use magic with a wide area of effect, Sara would surely get caught in the blast. She wasn&#x27;t trapped by ice, but could I really cut her free, get her out, and escape?</p>
 <p>While I was preoccupied, the treant continued its pursuit, its branches swinging at me. &quot;Cutting Flame!&quot; My magic severed a block of wood from the branch as I retreated backward.</p>
@@ -241,7 +248,8 @@ nav_title = "Chapter 4"
 <p>&quot;Mm…&quot; Her eyelids fluttered when I called her name. &quot;Huh? Who&#x27;s there?&quot; she asked faintly.</p>
 <p>&quot;It&#x27;s Rudeus.&quot;</p>
 <p>&quot;Rudeus…?&quot;</p>
-<p>&quot;I came to save you,&quot; I explained as I hoisted her onto my back, beating a hasty retreat. While I&#x27;d literally cut off the treant&#x27;s ability to attack along with its branches, there was no guarantee it wouldn&#x27;t come after me with its ice or some other attack.</p>
+<p>&quot;I came to save you,&quot; I explained as I hoisted her onto my back, beating a hasty retreat. While I&#x27;d literally cut off the treant&#x27;s ability</p>
+<p>to attack along with its branches, there was no guarantee it wouldn&#x27;t come after me with its ice or some other attack.</p>
 <p>It gave no sign of pursuit, however, not even as I waded through the snow. I kept running, quick as I could, until the treant was out of sight.</p>
 <p>***</p>
 <p>It had been a few hours since we escaped the tree.</p>
@@ -312,6 +320,7 @@ nav_title = "Chapter 4"
 <p>&quot;You too!&quot;</p>
 <p>&quot;Will do.&quot; I waved at her and disappeared inside.</p>
 <p>The inn&#x27;s lobby was warm, with a pleasant smell permeating the air. The owner had risen early and was already preparing breakfast. I left the first floor, which acted as a mess hall, clambered up to the third floor, and started a fire going in my room. Since it would take a while to heat up, I briefly opened the window to air the room out a little. From there, I could see the receding figures of Counter Arrow. At almost the same exact moment, one of them turned to look back.</p>
-<p>Sara&#x27;s eyes met mine. She moved her lips, as if to say something. Her words were silent, though. I knew that because the others didn&#x27;t turn. What did she say? Since I couldn&#x27;t read lips, it was impossible for me to tell. I just waved back at her and watched her go. She looked happy as she turned forward and scurried after the others.</p>
+<p>Sara&#x27;s eyes met mine. She moved her lips, as if to say something. Her words were silent, though. I knew that because the others didn&#x27;t turn. What did she say? Since I couldn&#x27;t read lips, it was impossible for me to tell. I just waved back at her and watched her</p>
+<p>go. She looked happy as she turned forward and scurried after the others.</p>
 <p>I was hit by a sudden wave of drowsiness by the time I shut the window. Let&#x27;s go to sleep, I decided, opting to lounge in bed and sleep until dinner. I felt like today, for the first time in a while, I could sleep soundly.</p>
 <p>With that in mind, I flopped over onto my mattress.</p>

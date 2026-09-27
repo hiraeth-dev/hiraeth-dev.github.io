@@ -13,7 +13,8 @@ nav_title = "Chapter 3"
 <p>I decided that if things dragged on like this much longer, we might need to press him for some answers. But then, just after dinner, Rudy finally broke his silence.</p>
 <p>&quot;Uh, Sylphie, Roxy? Could I trouble the two of you to come by my room this evening?&quot;</p>
 <p>His tone was a little awkward, but that wasn&#x27;t too unusual. It was just the way he tended to speak when he wanted to sleep with both of us at once. I never really understood why he felt so hesitant about these things. It wasn&#x27;t like he had anything to feel guilty about.</p>
-<p>In any case, Roxy and I made our usual preparations that evening. We took a bath together and washed each other carefully, then put on the perfume we reserved for these special occasions. I changed into a set of underwear I&#x27;d bought recently and picked out a nightgown to go with it. Rudy seemed to prefer soft ones with sleeves over the skimpier kinds, so I went with something relatively modest.</p>
+<p>In any case, Roxy and I made our usual preparations that evening. We took a bath together and washed each other carefully, then put on the perfume we reserved for these special occasions. I changed into a set of underwear I&#x27;d bought recently and picked out a nightgown to go with it. Rudy seemed to prefer soft ones with</p>
+<p>sleeves over the skimpier kinds, so I went with something relatively modest.</p>
 <p>I looked down at myself and considered undoing two of the front buttons to expose a little more skin. I wasn&#x27;t exactly busty, so it probably wouldn&#x27;t be that alluring…but I did want to earn as much of his attention as I possibly could.</p>
 <p><em>What if he thinks I&#x27;m desperate, though? No, this is Rudy we&#x27;re talking about…it&#x27;s fine, right? It&#x27;ll be fine.</em></p>
 <p>Just the other day, I&#x27;d noticed him looking down my shirt when I left a few buttons undone. I think he was trying to be subtle about it, but it was really obvious. He seemed to be enjoying himself, though, so I pretended not to notice. He carried me off to bed a little later.</p>
@@ -134,7 +135,8 @@ nav_title = "Chapter 3"
 <p>&quot;You know, Rudy, I still remember how sad and desperate you were.&quot;</p>
 <p>&quot;Yeah. Back then, I couldn&#x27;t have forgiven Eris. Just the idea of seeing her again probably would have terrified me.&quot;</p>
 <p>So why were things different now? Maybe it had something to do with that Blessed Child he&#x27;d run into the other day. They might have made some prediction involving her.</p>
-<p>That didn&#x27;t feel like a good enough reason to me, though. I mean, if someone had told me &quot;You&#x27;re going to marry a man named Rudeus and have five children with him,&quot; it would probably have been pretty exciting. But I wouldn&#x27;t have run out and married the first guy named Rudeus I could find. Did it really make sense for Rudy to marry this woman if he wasn&#x27;t even sure that he loved her?</p>
+<p>That didn&#x27;t feel like a good enough reason to me, though. I mean, if someone had told me &quot;You&#x27;re going to marry a man named Rudeus and have five children with him,&quot; it would probably have been pretty exciting. But I wouldn&#x27;t have run out and married the</p>
+<p>first guy named Rudeus I could find. Did it really make sense for Rudy to marry this woman if he wasn&#x27;t even sure that he loved her?</p>
 <p>&quot;If you&#x27;re firmly opposed to the idea, I won&#x27;t marry her. But at the very least, I think I need to see her and talk things through.&quot;</p>
 <p>Rudy paused and frowned, as if something had just occurred to him. &quot;You know, the thing is… Eris has been training in a place called the Sword Sanctum for years now. And it sounds like she was doing it for me.&quot;</p>
 <p>&quot;…&quot;</p>
@@ -218,7 +220,8 @@ nav_title = "Chapter 3"
 <p>&quot;That was the plan… until you appeared.&quot;</p>
 <p><em>What do I have to do with anything?</em></p>
 <p>&quot;Well, you&#x27;re not the problem, exactly. But it seems like you and your descendants are immune to the effects of Orsted&#x27;s curse. At some point in the future, those descendants are going to join forces with him, and together they&#x27;re going to kill me.&quot;</p>
-<p><em>Oh, I get it… so that&#x27;s why you went after Roxy when she got pregnant? The old man thought you manipulated Luke into dragging Sylphie off to die, too… But he didn&#x27;t say anything about you</em> <em>targeting Lucie. I guess it&#x27;s my second or third kid who&#x27;s going to be the problem, huh?</em></p>
+<p><em>Oh, I get it… so that&#x27;s why you went after Roxy when she got pregnant? The old man thought you manipulated Luke into dragging Sylphie off to die, too… But he didn&#x27;t say anything about you</em></p>
+<p><em>targeting Lucie. I guess it&#x27;s my second or third kid who&#x27;s going to be the problem, huh?</em></p>
 <p><em>Wait. Couldn&#x27;t you have just killed me years ago or something? Why would you let things come this far?</em></p>
 <p>&quot;Well, when I first noticed you during the Displacement Incident, I did try a few things just to see what would happen. I&#x27;m afraid you&#x27;ve got a very strong destiny, though. It never worked out the way I wanted it to.&quot;</p>
 <p><em>A strong destiny? What does that even mean?</em></p>
@@ -239,7 +242,8 @@ nav_title = "Chapter 3"
 <p>&quot;You know, I really did think my plan was perfect. Once I realized your destiny was strong, I took things nice and slow. I guided you along, step by step…all so I could strike in the most efficient way, at your most vulnerable moment.&quot;</p>
 <p><em>Is he trying to piss me off now? Ugh. Calm down. Don&#x27;t let him get to you… Roxy and Sylphie are both fine. It&#x27;s all good…</em></p>
 <p>&quot;I&#x27;m not sure why you&#x27;re trying so hard to convince yourself of that. You don&#x27;t think you&#x27;ve won, do you? Just so you know, your children&#x27;s destinies won&#x27;t be as strong as yours, your wives&#x27;, or your descendants&#x27;. I&#x27;m not planning to give up, either. I really would prefer not to die.&quot;</p>
-<p><em>Well, yeah, I guess you wouldn&#x27;t. Isn&#x27;t there some other way we could approach this, though? I&#x27;m willing to do anything to save my family. Maybe I could start a family tradition of teaching each new generation not to trust Orsted. We can tell our kids all about</em> <em>how wonderful the Man-God is, and how evil that nasty Dragon God is.</em></p>
+<p><em>Well, yeah, I guess you wouldn&#x27;t. Isn&#x27;t there some other way we could approach this, though? I&#x27;m willing to do anything to save my family. Maybe I could start a family tradition of teaching each new generation not to trust Orsted. We can tell our kids all about</em></p>
+<p><em>how wonderful the Man-God is, and how evil that nasty Dragon God is.</em></p>
 <p>&quot;Sorry, won&#x27;t work. Destiny isn&#x27;t that easy to derail.&quot;</p>
 <p><em>Can you think a little harder, please? I have a pretty strong destiny myself, right? There has to be something I can do.</em></p>
 <p>&quot;…Oh.&quot;</p>

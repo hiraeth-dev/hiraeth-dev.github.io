@@ -54,7 +54,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Hmph. Would anyone really reprimand you for wandering a little from the royal villa? If they wish to monitor your behavior to that extent, they ought to at least appoint one person to observe you. Now, let&#x27;s go!&quot;</p>
 <p>&quot;Okay,&quot; Benedikte answered, sounding a little happy despite herself.</p>
 <p>***</p>
-<p>There was a painting in Shirone Kingdom entitled Hell&#x27;s Banquet. It depicted five morbidly obese nobles throwing a dinner party. Which wasn&#x27;t so strange, but if one looked closely, they&#x27;d notice the nobles had a skeleton serving them. Three of the aristocrats seemed to be none the wiser, locked in cheerful conversation. One of them had noticed and wore a shocked look as he frantically turned to the person seated beside him. The last member of their group was collapsed on the table. It was unclear whether they were sleeping or dead.</p>
+<p>There was a painting in Shirone Kingdom entitled Hell&#x27;s Banquet. It depicted five morbidly obese nobles throwing a dinner party. Which wasn&#x27;t so strange, but if one looked closely, they&#x27;d notice the nobles had a skeleton serving them. Three of the aristocrats seemed to be none the wiser, locked in cheerful conversation. One of them had noticed and wore a shocked look as</p>
+<p>he frantically turned to the person seated beside him. The last member of their group was collapsed on the table. It was unclear whether they were sleeping or dead.</p>
 <p>Pax didn&#x27;t know much about this particular painting, but he did remember his older brother, Zanoba Shirone, standing in front of it and mumbling to himself as he studied the scene. Had the men there wanted to be a part of that banquet? If they hadn&#x27;t, then why were they forced to sit there? And who was it that had prepared the food they were being served, anyway? Zanoba had been asking such questions aloud. Perhaps it was because of that encounter that Pax remembered the painting so well.</p>
 <p>Perhaps the painting was depicting a scene like the very one I&#x27;m seeing now, Pax thought.</p>
 <p>A makeshift outdoor kitchen had been set up on the edge of the parade grounds to teach new recruits how to cook. Five squires were at the nearby table. Each of them was deathly pale, their eyes wandering constantly to the kitchen. The pungent odor that emanated from there was the same one that Pax had caught earlier. The smell only grew worse as one got closer to the point that even Pax felt the urge to pinch his nose.</p>
@@ -63,7 +64,8 @@ nav_title = "Extra Chapter"
 <p>The knights&#x27; expressions contorted into looks of despair, as if they genuinely thought their lives were forfeit—that there was no running from this.</p>
 <p>Perhaps the men in that painting had been in a similar type of situation. They were right about being unable to run. After all, the man concocting this macabre meal was someone Pax knew well.</p>
 <p>&quot;Death God Randolph,&quot; he murmured.</p>
-<p>Randolph Marianne was indeed known as the Death God, fifth among the Seven Great Powers. He served directly under High General Shagall as a member of the Blackwyrm Knights. He had no subordinates of his own and always worked solo. He was the strongest knight in the realm and had pretty much secured the highest possible position for himself. Despite his towering station, he&#x27;d personally gathered the squires to serve them a meal. It was no wonder they couldn&#x27;t run; Randolph had them literally and figuratively outmatched.</p>
+<p>Randolph Marianne was indeed known as the Death God, fifth among the Seven Great Powers. He served directly under High General Shagall as a member of the Blackwyrm Knights. He had no subordinates of his own and always worked solo. He was the strongest knight in the realm and had pretty</p>
+<p>much secured the highest possible position for himself. Despite his towering station, he&#x27;d personally gathered the squires to serve them a meal. It was no wonder they couldn&#x27;t run; Randolph had them literally and figuratively outmatched.</p>
 <p>Nonetheless, Pax couldn&#x27;t help but wonder what all of this was about. &quot;You men there, what is going on?&quot; he asked.</p>
 <p>&quot;And you are…?&quot;</p>
 <p>&quot;Seventh Prince of Shirone Kingdom, Pax.&quot;</p>
@@ -158,7 +160,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Sanshok?&quot; Pax repeated, bewildered.</p>
 <p>&quot;Yes. It&#x27;s the best spice for calming one&#x27;s emotions when they&#x27;re depressed or irritated. I truly did want the squires to try it as well…&quot;</p>
 <p>&quot;So it&#x27;s not poison?&quot;</p>
-<p>&quot;Poison?&quot; Randolph blinked at him. &quot;Oh, well, Sanshok seeds do have a poisonous color to them. Many people tend to avoid consuming it for that reason, yes. But you needn&#x27;t worry. Not a single soul has perished from eating it. Hm? But you mentioned the tingling sensation on your tongue does that mean you knew I had used Sanshok?&quot;</p>
+<p>&quot;Poison?&quot; Randolph blinked at him. &quot;Oh, well, Sanshok seeds do have a poisonous color to them. Many people tend to avoid consuming it for that reason, yes. But you needn&#x27;t worry. Not a single soul has perished from</p>
+<p>eating it. Hm? But you mentioned the tingling sensation on your tongue does that mean you knew I had used Sanshok?&quot;</p>
 <p>&quot;N-no, I had a feeling you&#x27;d used something, but not quite that!&quot;</p>
 <p>As Randolph tilted his head, the realization finally hit Pax—this man had truly only intended to treat those squires to a meal, nothing more.</p>
 <p>&quot;Yes, I see, Sanshok!&quot; Pax nodded to himself. &quot;I was almost certain you&#x27;d taken the skin of a Kiban and added that to the stew.&quot;</p>
@@ -171,7 +174,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Um, Prince Pax?&quot;</p>
 <p>&quot;What is it?&quot; Pax glanced over his shoulder.</p>
 <p>Randolph sported his usual creepy smile. Yet he seemed a bit anxious, rubbing his hands together as he worked up the courage to ask, &quot;Would it be at all possible for me to serve you a meal again in the future?&quot;</p>
-<p>&quot;Very well. Your cooking is delicious, after all.&quot; Pax quickly delivered his answer and turned away to leave. Although he&#x27;d been unnecessarily anxious about the meal being poisoned, the stew itself was scrumptious. Those unusual flavors were unlikely to suit most people&#x27;s palates, but Pax had never had anything like it. If Randolph was keen on serving him something like that again, he had no reason to refuse. He wasn&#x27;t lying when he said he was a gourmet with finicky tastes.</p>
+<p>&quot;Very well. Your cooking is delicious, after all.&quot; Pax quickly delivered his answer and turned away to leave. Although he&#x27;d been unnecessarily anxious about the meal being poisoned, the stew itself was scrumptious. Those unusual flavors were unlikely to suit most people&#x27;s palates, but Pax</p>
+<p>had never had anything like it. If Randolph was keen on serving him something like that again, he had no reason to refuse. He wasn&#x27;t lying when he said he was a gourmet with finicky tastes.</p>
 <p>&quot;Thank you,&quot; said Randolph, bowing his head low.</p>
 <p>After that, Pax began periodically eating Randolph&#x27;s cooking.</p>
 <p>***</p>
@@ -181,7 +185,8 @@ nav_title = "Extra Chapter"
 <p>&quot;I would have preferred not to hear the truth until my dying days,&quot; Randolph replied, standing beside the king and gazing down at the world below. He&#x27;d removed his eyepatch, and the eye underneath emitted a glaring light. &quot;I was really happy, you know? To hear you say my cooking was delicious.&quot;</p>
 <p>&quot;Don&#x27;t start that. It may not have looked appetizing, but I wasn&#x27;t lying to you when I said it was good,&quot; Pax said.</p>
 <p>&quot;Hehe, it&#x27;s hard to believe you when I now know you thought I meant to poison you.&quot;</p>
-<p>Their voices swelled with emotion as they conversed, gazing through the glass. Inconsequential happenstance had brought them together, and even after their initial meeting, nothing particularly exciting or significant took place. All that happened was that each time Pax and Benedikte sampled Randolph&#x27;s cooking, they praised its taste. They would chat a bit while he was concocting his odd dishes, but they&#x27;d go their separate ways once the meal was over. The cycle repeated numerous times until Randolph realized how often he was in Pax&#x27;s company. It would be a stretch to call Pax his pupil or apprentice, but he did offer some advice on swordsmanship and magic.</p>
+<p>Their voices swelled with emotion as they conversed, gazing through the glass. Inconsequential happenstance had brought them together, and even after their initial meeting, nothing particularly exciting or significant took place. All that happened was that each time Pax and Benedikte sampled Randolph&#x27;s cooking, they praised its taste. They would chat a bit while he was concocting his odd dishes, but they&#x27;d go their separate ways once the meal was over. The cycle repeated numerous times until Randolph realized how often he was in Pax&#x27;s company. It would be a stretch to call Pax his</p>
+<p>pupil or apprentice, but he did offer some advice on swordsmanship and magic.</p>
 <p>&quot;In the end, you and Benedikte are my only allies,&quot; Pax said as he watched the people gathered outside.</p>
 <p>They knew not all of the people out there were enemies; a knight had risked his life to venture out and bring back a scouting report. Yes, not all of them were against him, but Pax knew that they weren&#x27;t in support of him either. The vast majority of Shirone hadn&#x27;t welcomed his ascension to the throne. They could be his enemies under the right circumstances, but they could never be his allies.</p>
 <p>&quot;Why do people hate me so?&quot;</p>

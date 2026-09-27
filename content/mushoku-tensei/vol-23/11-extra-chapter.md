@@ -45,7 +45,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Pretty awful, right? He made me experience the worst possible thing imaginable, then He kicked me in the guts when I was down,&quot; I said, thinking back.</p>
 <p>&quot;And you trust the Man-God after all of that, hm? Fwahaha! You&#x27;re an interesting man!&quot;</p>
 <p>&quot;Right? I get that a lot.&quot;</p>
-<p>I doubted there was another man alive who&#x27;d fallen to the depths of despair and still clung to the Man-God in spite of it. Rudeus hadn&#x27;t done that. Neither had the guy I was speaking to now.</p>
+<p>I doubted there was another man alive who&#x27;d fallen to the depths of despair and still clung to the Man-God in spite of it. Rudeus hadn&#x27;t done</p>
+<p>that. Neither had the guy I was speaking to now.</p>
 <p>&quot;I think you&#x27;re pretty interestin&#x27; yourself,&quot; I said.</p>
 <p>&quot;Oh?&quot;</p>
 <p>Though I was skeptical from everything I&#x27;d heard until now, I started to suspect this guy wasn&#x27;t like Rudeus. He seemed like my kinda guy, to be honest.</p>
@@ -76,7 +77,8 @@ nav_title = "Extra Chapter"
 <p>The man pulled over another cask of ale. &quot;This,&quot; he said. &quot;From the looks of you, I&#x27;d bet you&#x27;re quite the heavy drinker!&quot;</p>
 <p>&quot;I enjoy a drop.&quot;</p>
 <p>A drinking contest, then. I wasn&#x27;t all that good at holding my liquor. I liked it more than Talhand, yes, but not enough to brag about.</p>
-<p>Badigadi had about ten empty casks strewn about around him. Taking that into account, maybe I can… Nah, I couldn&#x27;t get my hopes up. This man was an immortal demon. No matter how good my advantage here might seem, I&#x27;d bet the guy had an unlimited capacity to drink. He was like a bottomless pit. I wasn&#x27;t gonna win.</p>
+<p>Badigadi had about ten empty casks strewn about around him. Taking that into account, maybe I can… Nah, I couldn&#x27;t get my hopes up. This man was an immortal demon. No matter how good my advantage</p>
+<p>here might seem, I&#x27;d bet the guy had an unlimited capacity to drink. He was like a bottomless pit. I wasn&#x27;t gonna win.</p>
 <p>&quot;Well?&quot; Badigadi goaded me. &quot;Have you chickened out? Or are you the type who only agrees to a challenge if he&#x27;s sure he can win?&quot;</p>
 <p>&quot;Nah, more like I don&#x27;t bother with challenges I know I&#x27;m not gonna win,&quot; I said, correcting him.</p>
 <p>&quot;Rudeus Greyrat was different. He didn&#x27;t flinch at a fight. He let out a loud laugh and suddenly slung an Emperor-tier spell at me. Of course, I still beat him! Fwahahaha!&quot;</p>
@@ -87,7 +89,8 @@ nav_title = "Extra Chapter"
 <p>&quot;You must realize it too, eh? There are some battles you can&#x27;t win just by manipulating things from the safety of the shadows. Sometimes you gotta put your life on the line, to gamble on your chance at victory.&quot;</p>
 <p>I said nothing in response.</p>
 <p>&quot;I know it,&quot; said Badigadi. &quot;There was a time when I didn&#x27;t, which is why I ended up losing everything. So, I learned. I&#x27;ve honed my body, chugged all kinds of alcohol, and made battalions of friends! Fwahahaha! I wish I could show you the puny nobody I used to be!&quot;</p>
-<p>I only knew what this soapboxing Demon King was like based on the little bit the Man-God told me. Still, lack of intel aside, there was one thing I was certain of: for a Demon King, a contract was absolute. This contest wasn&#x27;t impossible. It was just a drinking competition. If I could nab a win out of this, I knew he would honor his promise. He&#x27;d become the Man-God&#x27;s stooge and my puppet. Immortal Demon King Badigadi, the guy who&#x27;d faced and bested a Dragon God way back in historical times, would be at the beck and call of me: Geese Nukadia, the Man-God&#x27;s little yes-man, a guy who picked the bones off of other people&#x27;s lives to get by.</p>
+<p>I only knew what this soapboxing Demon King was like based on the little bit the Man-God told me. Still, lack of intel aside, there was one thing I was certain of: for a Demon King, a contract was absolute. This contest wasn&#x27;t impossible. It was just a drinking competition. If I could</p>
+<p>nab a win out of this, I knew he would honor his promise. He&#x27;d become the Man-God&#x27;s stooge and my puppet. Immortal Demon King Badigadi, the guy who&#x27;d faced and bested a Dragon God way back in historical times, would be at the beck and call of me: Geese Nukadia, the Man-God&#x27;s little yes-man, a guy who picked the bones off of other people&#x27;s lives to get by.</p>
 <p>&quot;Fine,&quot; I said.</p>
 <p>If it were a battle of fists, I wouldn&#x27;t have a prayer. As long as he wasn&#x27;t looking for physical combat, though, then it wasn&#x27;t impossible.</p>
 <p>I nodded to myself. &quot;You got a fight. Hope you&#x27;re up for gettin&#x27; crushed, Demon King.&quot;</p>
@@ -103,7 +106,8 @@ nav_title = "Extra Chapter"
 <p>I was handed a tankard—a wooden cup the size of an enormous fist, into which they poured a translucent, golden ale, filling the tankard to the brim.</p>
 <p>&quot;Bottoms up!&quot;</p>
 <p>&quot;Yeah, knock &#x27;em back!&quot;</p>
-<p>I managed to guzzle down the first drink without any issues. Mm, yeah, this ale actually goes down pretty easily. I could down this stuff almost endlessly. Although, judging by the bodies on the floor, I wasn&#x27;t the only one who&#x27;d been convinced of that.</p>
+<p>I managed to guzzle down the first drink without any issues. Mm, yeah, this ale actually goes down pretty easily. I could down this stuff</p>
+<p>almost endlessly. Although, judging by the bodies on the floor, I wasn&#x27;t the only one who&#x27;d been convinced of that.</p>
 <p>&quot;Kehehe, they were fools, all of them—thinking they could challenge an Immortal Demon King like me to a drinking contest,&quot; said Badigadi.</p>
 <p>&quot;Has anyone ever beaten you at this before?&quot;</p>
 <p>&quot;Yes!&quot;</p>
@@ -148,7 +152,8 @@ nav_title = "Extra Chapter"
 <p>&quot;Bleeeegh!&quot;</p>
 <p>I retched. What came out of me had no form—it was all fluid, stomach acid mixed with ale, which created a disgusting puddle on the floor. An acrid odor filled the room. The men around us scrunched their faces in disgust even as they broke out into applause, fawning over the Demon King and his victory.</p>
 <p>&quot;Fwahaha! That&#x27;s the end of our match then!&quot;</p>
-<p>I was down on all fours on the floor, saliva dripping down my chin as I stared at the sick pooling beneath me. Everything felt awful. My whole body, my heart—all of it. I had lost, utterly and completely. I was a loser.</p>
+<p>I was down on all fours on the floor, saliva dripping down my chin as I stared at the sick pooling beneath me. Everything felt awful. My</p>
+<p>whole body, my heart—all of it. I had lost, utterly and completely. I was a loser.</p>
 <p>I forced my head up, where I could see the six-armed Demon King. He stood, still looking as dignified as ever even as he approached, drink in hand. He wore a triumphant look on his face.</p>
 <p>I averted my eyes. I couldn&#x27;t believe he&#x27;d defeated me. Sure, I knew there was no avenue of victory from the outside, but somewhere deep down, I knew there had to be some way to win. That if we were just doing a drinking contest, I had a chance. But in reality, I…</p>
 <p>Suddenly, it dawned on me.</p>
@@ -182,7 +187,8 @@ nav_title = "Extra Chapter"
 <p>We&#x27;re getting off track. I&#x27;m telling a story, here!</p>
 <p>At the time, humans and demons were locked in a conflict that&#x27;d later be called the Second Great Human-Demon War. It was little more than a skirmish when compared to the later Laplace War.</p>
 <p>Our long lifespans make us demons a patient lot, so our invasions are slow-paced. We are laid-back even when it comes to losing the pivotal battles in a war, thereby giving the humans the time to recover and rally against us once more. Winning a battle is less important than winning the overall war.</p>
-<p>Our dipshit hero joined the Demon King army, where he was given the position of tactical adviser. He saw how his people were engaging in the war and was dismayed. Things couldn&#x27;t continue like this. If they really wanted to win, they needed to commit to a more aggressive offense —to take key locations in enemy territory.</p>
+<p>Our dipshit hero joined the Demon King army, where he was given the position of tactical adviser. He saw how his people were engaging in the war and was dismayed. Things couldn&#x27;t continue like this. If they</p>
+<p>really wanted to win, they needed to commit to a more aggressive offense —to take key locations in enemy territory.</p>
 <p>What do you know? No one wanted to listen to him. They were all idiots, after all, unable to understand the logic of war! Fwahahaha!</p>
 <p>Anyway, one day—yes, I&#x27;m being vague, but it wasn&#x27;t a special day otherwise. It was out of the blue, really. Or was it? Maybe something had happened to precipitate the event, but our protagonist wasn&#x27;t bright enough to figure out the cause.</p>
 <p>Anyway!</p>

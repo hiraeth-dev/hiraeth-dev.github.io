@@ -25,7 +25,8 @@ nav_title = "Chapter 7"
 <p>&quot;What&#x27;s that? You ain&#x27;t even worth payin&#x27; any attention to.&quot;</p>
 <p>&quot;So you wanna settle this with swords, huh?!&quot;</p>
 <p>A squabble had broken out in the middle of the street. Two people had whipped out their blades and were glaring daggers at one another. A second later, they each made their attacks. Those around them spared barely a glance before shuffling away, as if they were all too used to the sight. No cheers, no jeers. Routine.</p>
-<p>Eris could tell neither combatant was particularly skilled. They were probably Intermediate-tier at best. Their postures were abysmal and they jerked clumsily, heavily as they smashed their blades together. One quick glance told her neither had the intention of taking the other&#x27;s life.</p>
+<p>Eris could tell neither combatant was particularly skilled. They were probably Intermediate-tier at best. Their postures were abysmal and they</p>
+<p>jerked clumsily, heavily as they smashed their blades together. One quick glance told her neither had the intention of taking the other&#x27;s life.</p>
 <p>&quot;What the…&quot; Rudeus gawped, his whole body trembling. He fell a step behind Eris, as if trying to hide behind her. He looked like he&#x27;d been dropped somewhere in Johannesburg.</p>
 <p>&quot;Stand up straight and walk properly,&quot; Eris barked at him.</p>
 <p>Rudeus would have no problem taking those two out—or anyone else around, for that matter. Eris knew that his magic was faster than an average swordsman, even at close range. Besides, Rudeus was Intermediate-tier in swordsmanship himself. Perhaps that kept him humble. He was currently wearing such heavy armor that he would find it difficult to inflict harm on even the most trivial swordsman. If a close range battle were unavoidable, he&#x27;d choose evasion over going on the offensive. He wouldn&#x27;t take the gamble of seeing who could move fastest.</p>
@@ -81,7 +82,8 @@ nav_title = "Chapter 7"
 <p>A flurry of footsteps came echoing down the corridor toward us. Several men in training uniforms were headed our way, and what they held in their hands were not wooden swords. They were the real deal.</p>
 <p><em>Oh, crap, oh, crap, oh, crap! I knew it! They think we&#x27;re intruders!</em></p>
 <p>&quot;Eris?!&quot; one of them gasped in surprise.</p>
-<p>Oops. That&#x27;s no man. The threatening atmosphere around her had thrown me off, but one of them was indeed a woman. She had slightly dark skin, navy-blue hair, and sharp, menacing eyes. There was no mistaking it. She was a swordsman—or, uh, swordswoman. Her movements were sharp and well-practiced, leaving not a single opening. I was a real amateur at swordplay, but even I could tell she was tough. Those thugs we glimpsed in the town couldn&#x27;t begin to compare to her.</p>
+<p>Oops. That&#x27;s no man. The threatening atmosphere around her had thrown me off, but one of them was indeed a woman. She had slightly dark skin, navy-blue hair, and sharp, menacing eyes. There was no mistaking it. She was a swordsman—or, uh, swordswoman. Her movements were sharp and well-practiced, leaving not a single opening. I was a real amateur at</p>
+<p>swordplay, but even I could tell she was tough. Those thugs we glimpsed in the town couldn&#x27;t begin to compare to her.</p>
 <p>Hold up a sec. I&#x27;ve met this girl before. Pretty sure she showed up for Ariel&#x27;s coronation. It was then that her name finally came back to me: Nina. She was indeed a formidable fighter who could go toe-to-toe with Eris. From what I remembered back then, she had promised to aid us whenever we needed. Talk is cheap, though; there&#x27;s no guarantee she&#x27;ll follow through.</p>
 <p>&quot;Nina. It&#x27;s been a while,&quot; Eris greeted her.</p>
 <p>&quot;Yes, it has. Why are you here?&quot;</p>
@@ -121,7 +123,8 @@ nav_title = "Chapter 7"
 <p>I continued, &quot;I&#x27;m sure the Sword God must be very busy indeed, but if you could kindly put me in contact with him…?&quot;</p>
 <p>Nina pulled a face. I assumed that she didn&#x27;t want someone she didn&#x27;t trust—like me—to meet the man.</p>
 <p>&quot;Anyway, I also brought a gift to present to the Sword God something I am sure he will like.&quot; It wasn&#x27;t a magic sword I had prepared for the occasion. Nothing like that. I&#x27;d brought a minor blade forged by the master smith Kuelkin a hundred years ago.</p>
-<p>According to Orsted, the Sword God was a sword connoisseur who had collected no small number of blades. This one in particular was special to him because it was one he had desperately longed for as a youth to no avail. Over several decades, this blade had been passed around to new owners until finally landing in the hands of a middling nobleman in Asura Kingdom. This nobleman lived a life that never required him to use a sword. It may have remained there forever, decorating the man&#x27;s parlor, had no one taken notice of it. Tragically (for him), I had used Ariel&#x27;s name to cozy up to the man. I visited his house and peppered him with compliments for his good taste in his parlor decorations. In exchange for some favors, he relinquished the blade to me. All I had to do now was hand it over to the Sword God, and negotiations would hopefully go smoothly.</p>
+<p>According to Orsted, the Sword God was a sword connoisseur who had collected no small number of blades. This one in particular was special to him because it was one he had desperately longed for as a youth to no avail. Over several decades, this blade had been passed around to new owners until finally landing in the hands of a middling nobleman in Asura Kingdom. This nobleman lived a life that never required him to use a</p>
+<p>sword. It may have remained there forever, decorating the man&#x27;s parlor, had no one taken notice of it. Tragically (for him), I had used Ariel&#x27;s name to cozy up to the man. I visited his house and peppered him with compliments for his good taste in his parlor decorations. In exchange for some favors, he relinquished the blade to me. All I had to do now was hand it over to the Sword God, and negotiations would hopefully go smoothly.</p>
 <p>&quot;Let me clarify one last time. The person you want to meet is Gall Falion, correct?&quot; Nina asked.</p>
 <p>Puzzled, I knitted my brows. &quot;Huh? Well, yes. That&#x27;s right.&quot; She phrased it as if there was another Sword God around here besides Gall Falion.</p>
 <p>&quot;Then he&#x27;s not here.&quot;</p>
@@ -170,7 +173,8 @@ nav_title = "Chapter 7"
 <p>&quot;I had a feeling you would say that.&quot;</p>
 <p>No doubt there were swordsmen from all over the world flooding into the Sword Sanctum right now. I had no idea how many were Sword Emperors and Sword Kings, but on top of that, there were likely those from other denominations who made the trip under the impression that they had a shot at taking him down. Nina and the rest of those here who had accepted Gino as Sword God were playing the role of weeding out the unworthy.</p>
 <p>Eris seems a little advanced for Nina to be weeding out, I thought, but I figured that probably wasn&#x27;t the reason for this private meeting. She&#x27;d just wanted to lay out the situation privately.</p>
-<p>Although, she seemed to know Eris pretty well. Perhaps she thought that if she left Eris to her own devices, our Berserker Sword King might well charge right into the depths of the Sanctum and pick a fight with Gino. Still, Miss Nina, I will have you know that our Eris is far more mature than she once was.</p>
+<p>Although, she seemed to know Eris pretty well. Perhaps she thought that if she left Eris to her own devices, our Berserker Sword King might well charge right into the depths of the Sanctum and pick a fight</p>
+<p>with Gino. Still, Miss Nina, I will have you know that our Eris is far more mature than she once was.</p>
 <p>&quot;If you want to talk to Gino, hm…&quot; Nina paused, contemplating. &quot;Things should calm down here in a little while. You can come back then.&quot;</p>
 <p>I nodded. &quot;All right then. Oh, but just in case, I&#x27;d like to ask something. A man named Geese hasn&#x27;t come by here, has he? He&#x27;s a demon with a face like a monkey.&quot;</p>
 <p>&quot;Demonfolk? Here? Most likely not, no.&quot;</p>
@@ -210,7 +214,8 @@ nav_title = "Chapter 7"
 <p>&quot;Your grip with your left hand is weak at the end of your swing,&quot; Eris said.</p>
 <p>&quot;Wha?!&quot;</p>
 <p>&quot;That&#x27;s why your sword went flying.&quot;</p>
-<p>There were a few seconds of silence before he said, &quot;Incredible! Thank you very much!&quot; He had already picked himself out of the snow, but upon receiving her feedback, he lowered to his knee and bowed his head.</p>
+<p>There were a few seconds of silence before he said, &quot;Incredible! Thank you very much!&quot; He had already picked himself out of the snow, but upon receiving her feedback, he lowered to his knee and bowed his</p>
+<p>head.</p>
 <p>&quot;Hmph.&quot; Eris grunted at him and tossed her wooden sword to the ground before starting toward me. &quot;What?&quot; She pursed her lips and glared at me when she noticed me looking at her.</p>
 <p>&quot;Oh, nothing.&quot;</p>
 <p>A significant weight had been lifted from her shoulders. Her expression said what she would not: Yeah. This is how this place is supposed to be.</p>

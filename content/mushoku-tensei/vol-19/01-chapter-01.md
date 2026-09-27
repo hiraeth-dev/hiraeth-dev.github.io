@@ -114,7 +114,8 @@ nav_title = "Chapter 1"
 <p>After calling an end to our conference, I headed straight over to inform Orsted. On my way there, I reflected on this odd series of events from a different angle.</p>
 <p>In the narrative of my future diary, Zanoba never returned to his homeland. I wasn&#x27;t sure if he&#x27;d stayed put in Sharia for his entire life, but at the very least, he&#x27;d spent most of his time at my side. In that timeline, it seemed likely that he never received an order to return home. Maybe Pax&#x27;s coup failed. Maybe it never happened at all.</p>
 <p>Either way, events were diverging from those recorded in the diary. And that meant there was a chance that the Man-God was up to something.</p>
-<p>Now that I thought about it, we hadn&#x27;t had all three of the Man-God&#x27;s disciples in action at once, for the last year and a half or so. Maybe Pax was the third, and he&#x27;d spent that time quietly laying the groundwork for these events? It seemed like a real possibility.</p>
+<p>Now that I thought about it, we hadn&#x27;t had all three of the Man-God&#x27;s disciples in action at once, for the last year and a half or so. Maybe Pax was the third, and he&#x27;d spent that time quietly laying the groundwork for these</p>
+<p>events? It seemed like a real possibility.</p>
 <p>Orsted had warned me to be patient, yes. But maybe the time for action had finally arrived.</p>
 <p><em>Yeah, that&#x27;s got to be it. This is the moment I&#x27;ve been waiting for all this time. I&#x27;m going to save Zanoba, damn it!</em></p>
 <p>&quot;Sir Orsted!&quot;</p>

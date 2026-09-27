@@ -16,13 +16,15 @@ nav_title = "Chapter 7"
 <p>&quot;Teacher, what do beasts like this eat?&quot; I asked of Roxy.</p>
 <p>&quot;Good question. There are many theories out there, but I&#x27;ve often heard that they feed on mana.&quot;</p>
 <p>&quot;Mana?&quot;</p>
-<p>Forests and caves had a high concentration of mana, in addition to being full of monsters. Come to think of it, Nanahoshi did mention that such magical energy could be found in all manner of things throughout this world. Mana, however, could not be seen with the naked eye, so how could this theory be confirmed?</p>
+<p>Forests and caves had a high concentration of mana, in addition to being full of monsters. Come to think of it, Nanahoshi did mention that such magical energy could be found in all manner of things</p>
+<p>throughout this world. Mana, however, could not be seen with the naked eye, so how could this theory be confirmed?</p>
 <p>Wait—there was the Eye of Magical Power, suggesting it was true.</p>
 <p>Still, if they really did feed on mana, then wouldn&#x27;t it also make sense for them to just gobble up my spells? The fact that they couldn&#x27;t must mean there were two types of magical power: the kind that could be consumed and the kind that couldn&#x27;t.</p>
 <p>Now that I thought about it, Paul had told me a long time ago that monsters were attracted to the magically imbued crystal at the heart of a labyrinth. Were the crystals really that enticing to monsters? The ones here weren&#x27;t even trying to delve deeper. All they&#x27;d done was create a nest and start inhabiting the place.</p>
 <p>Ah well, pondering the mystery would get me nowhere for now. There were other monsters, like the Armored Warrior, that clearly didn&#x27;t consume anything to survive. I&#x27;d leave the questions of monster ecology to the experts.</p>
 <p>&quot;Well, no matter what they consume, it doesn&#x27;t change the fact that they attack humans on sight. Let&#x27;s destroy these eggs as we find them, or they&#x27;ll be a thorn in our side when we next return,&quot; Roxy said as she coolly made short work of their eggs. She used a shortsword, rather than magic, to impale them one by one. Her expression was the very definition of indifference. I liked that side of her, too.</p>
-<p>At any rate, so monsters produced eggs, huh? I wondered if Armored Warriors had offspring as well. I pictured a mini version of them as big as a felt doll, carrying a toy sword and waddling around. I imagined their armored mommy and armored daddy watching over them happily. Then, suddenly, footsteps—an intruder. The armored mommy and daddy instruct their son to hide as they step out onto the battlefield. Paul appears before them, his face like that of a demon. He brutally murders the parents with a shortsword that is especially efficient at ripping through their armor—not unlike pesticide against insects. The child witnesses this and learns that humans are the enemy. He grows up and morphs into a beast that attacks humans on sight.</p>
+<p>At any rate, so monsters produced eggs, huh? I wondered if Armored Warriors had offspring as well. I pictured a mini version of them as big as a felt doll, carrying a toy sword and waddling around. I imagined their armored mommy and armored daddy watching over them happily. Then, suddenly, footsteps—an intruder. The armored mommy and daddy instruct their son to hide as they step out onto the battlefield. Paul appears before them, his face like that of a</p>
+<p>demon. He brutally murders the parents with a shortsword that is especially efficient at ripping through their armor—not unlike pesticide against insects. The child witnesses this and learns that humans are the enemy. He grows up and morphs into a beast that attacks humans on sight.</p>
 <p>Yeah, okay, that was a ridiculous thought.</p>
 <p>&quot;Rudy, what are you spacing out for?&quot; Roxy called over to me. &quot;Please help out.&quot;</p>
 <p>&quot;Oh, right.&quot;</p>
@@ -31,7 +33,8 @@ nav_title = "Chapter 7"
 <p>Our cleanup ended pretty uneventfully after that, without a single newly hatched larva popping out to try and cling to Roxy&#x27;s crotch.</p>
 <p>***</p>
 <p>Finally, we arrived at the depths of the labyrinth, the very place written about in the last pages of our book. It was a spacious, square room constructed of stone. There were three magic circles near one of the walls facing away from the entrance of the room.</p>
-<p>If that were all, the place wouldn&#x27;t have seemed special. But the room was absolutely empty except for the circles. The room before it had had a virtual swarm of Devouring Devils, and more than a hundred of their eggs to boot. Yet the only thing in here were these circles, almost as if this were holy ground where neither eggs nor the creepy-crawlies that birthed them dared enter. Only one word could sufficiently describe this phenomenon: abnormal.</p>
+<p>If that were all, the place wouldn&#x27;t have seemed special. But the room was absolutely empty except for the circles. The room before it had had a virtual swarm of Devouring Devils, and more than a hundred of their eggs to boot. Yet the only thing in here were these circles, almost as if this were holy ground where neither eggs nor the</p>
+<p>creepy-crawlies that birthed them dared enter. Only one word could sufficiently describe this phenomenon: abnormal.</p>
 <p>&quot;It&#x27;s the guardian,&quot; said Elinalise.</p>
 <p>Paul agreed. &quot;It does give off that vibe.&quot;</p>
 <p>&quot;Keeps your wits about you,&quot; Roxy warned.</p>
@@ -128,7 +131,8 @@ nav_title = "Chapter 7"
 <p>Second possibility: Unbeknownst to the author, one of the other party members had triggered a trap right before they entered the portal. The author assumed that they were stepping on the two-way portal, but what actually happened was that someone else triggered a random warp, teleporting everyone in the room off to a random location. Thus, the two-way portal actually was the correct one.</p>
 <p>Nah, that couldn&#x27;t be it. If such a trap were present, surely Geese would have noticed it.</p>
 <p>Third: The two-way circle was actually a double circle.</p>
-<p>Portals came in a lot of different shapes. Perhaps there existed one that was donut-shaped. If so, the correct portal might be surrounded by one such donut-shaped portal that was actually a teleportation trap. That was possible, right?</p>
+<p>Portals came in a lot of different shapes. Perhaps there existed one that was donut-shaped. If so, the correct portal might be</p>
+<p>surrounded by one such donut-shaped portal that was actually a teleportation trap. That was possible, right?</p>
 <p>In other words, as long as we stepped on the very center rather than the perimeter, we could reach the next floor.</p>
 <p>Idiot, I chastised myself. Who do you think you are, some kind of ace detective?</p>
 <p>The most probable of these three possibilities had to be the first one.</p>

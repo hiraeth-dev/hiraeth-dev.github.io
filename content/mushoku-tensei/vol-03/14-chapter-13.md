@@ -89,7 +89,8 @@ nav_title = "Chapter 13"
 <p>&quot;What?&quot; Glancing at Nokopara, the old lady snorted disdainfully. &quot;How exactly did I get scammed? Huh?&quot;</p>
 <p>&quot;Well, they—&quot;</p>
 <p>&quot;Vizquel cleared out those bugs just fine. Can&#x27;t beat a Zumeba for this sort of thing, can you? I haven&#x27;t seen a single one since.&quot;</p>
-<p>From the sound of things, Vizquel had dealt with some sort of insect infestation here. Come to think of it…this old lady matched what we knew of one of the clients Ruijerd had observed her working for.</p>
+<p>From the sound of things, Vizquel had dealt with some sort of insect infestation here. Come to think of it…this old lady matched</p>
+<p>what we knew of one of the clients Ruijerd had observed her working for.</p>
 <p>&quot;So long as you do the job quick and proper, I couldn&#x27;t care less if you&#x27;re the real Dead End!&quot;</p>
 <p>Nokopara wasn&#x27;t the only one startled by that comment. Ruijerd&#x27;s eyes went wide as well.</p>
 <p>&quot;L-Listen, lady…&quot;</p>
@@ -126,7 +127,8 @@ nav_title = "Chapter 13"
 <p>Meeting my desperate gaze, Kurt nodded decisively. &quot;Of course it was! I&#x27;ve never seen anyone as strong as these guys before!&quot;</p>
 <p><em>Oh my. What an honest boy!</em></p>
 <p>He proceeded to explain just how strong we really were, describing our defeat of the Executioner and the Almond Anacondas in a vigorous style that involved tons of sound effects.</p>
-<p>&quot;Seriously, Rudeus is freaking crazy! Those Execs are hella scary, no doubt, but that one shoulda never got on Dead End&#x27;s bad side! This was a one-on-one fight, right? Exec versus Rudeus! How do you think that went? Boom! Splat! It was over in one shot, man! One shot! Oh, and Ruijerd&#x27;s unbelievable too! He was just, like, fwoosh! And then kablam, there go the anacondas! He was doing all this ridiculous stuff without even batting an eye! Seriously, I got goosebumps!&quot;</p>
+<p>&quot;Seriously, Rudeus is freaking crazy! Those Execs are hella scary, no doubt, but that one shoulda never got on Dead End&#x27;s bad side! This was a one-on-one fight, right? Exec versus Rudeus! How do you think that went? Boom! Splat! It was over in one shot, man! One</p>
+<p>shot! Oh, and Ruijerd&#x27;s unbelievable too! He was just, like, fwoosh! And then kablam, there go the anacondas! He was doing all this ridiculous stuff without even batting an eye! Seriously, I got goosebumps!&quot;</p>
 <p>Nokopara listened to the entire story with a great big grin on his face, tossing in the occasional, &quot;Wow, ain&#x27;t that something,&quot; or, &quot;No kidding?&quot; When Kurt finally ran out of steam, he turned back to us.</p>
 <p>&quot;Well, that&#x27;s awful weird. Didn&#x27;t you guys take a job around the city? Why were you off in the forest savin&#x27; kids from monsters?&quot;</p>
 <p>&quot;Uh, well…we just tagged along with Jalil on that one…&quot;</p>
@@ -212,7 +214,8 @@ nav_title = "Chapter 13"
 <p>That was an ugly, frustrating day. Ruijerd set off running all by himself, leaving us behind. Soon enough, guardsmen ran up to ask everyone what had happened, and I insisted Ruijerd had done nothing wrong. But in their eyes, of course, I was just a child. They decided that he must have intimidated me into saying that.</p>
 <p>Before long, everyone arrived at the conclusion that Ruijerd had been planning out some evil plot here, using us as his pawns; the details of his scheme were unclear, but at least he&#x27;d never gotten the chance to carry it out. Everyone around us looked at me and Eris with pity in their eyes. They were convinced that we were naïve children who&#x27;d been manipulated by a vicious devil.</p>
 <p>I was so angry I could have punched someone. What exactly had Ruijerd done wrong anyway? All of this was my fault. None of it would have happened if I hadn&#x27;t gotten so damn complacent.</p>
-<p>Eris and I returned to the Wolfclaw Inn, gathered up our few possessions, and left it for good. We needed to hurry, or Ruijerd might wander off somewhere. It wasn&#x27;t like we could stick around in this city ourselves anyway. Nokopara was still alive, as were his supposed allies. And the fact remained that we&#x27;d broken the guild&#x27;s rules. Once things calmed down a little, we&#x27;d be boxed in again—and without Ruijerd to rely on.</p>
+<p>Eris and I returned to the Wolfclaw Inn, gathered up our few possessions, and left it for good. We needed to hurry, or Ruijerd</p>
+<p>might wander off somewhere. It wasn&#x27;t like we could stick around in this city ourselves anyway. Nokopara was still alive, as were his supposed allies. And the fact remained that we&#x27;d broken the guild&#x27;s rules. Once things calmed down a little, we&#x27;d be boxed in again—and without Ruijerd to rely on.</p>
 <p>&quot;Hey, Rudeus…&quot;</p>
 <p>As we were walking out of the inn, Kurt approached us with an uncertain expression on his face. I didn&#x27;t know what to say to him honestly.</p>
 <p>&quot;Why the heck are you guys travelling with that monster?&quot;</p>

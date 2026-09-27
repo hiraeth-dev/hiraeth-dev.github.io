@@ -129,7 +129,8 @@ nav_title = "Chapter 8"
 <p>&quot;Also, if you ever feel the urge to try and get revenge for this, I&#x27;d advise against it. I stepped in today since the whole thing was just an accident, but next time you might actually die.&quot; Not exactly subtle, but I wanted to make sure he knew where we stood.</p>
 <p>The boy&#x27;s eyes widened, and he rubbed at his nose, then checked the back of his head for lumps. After a few moments, he seemed to calm down. &quot;My name&#x27;s Kurt. What&#x27;s yours?&quot;</p>
 <p>&quot;I&#x27;m Rudeus Greyrat. Oh, and she&#x27;s Eris.&quot;</p>
-<p>At this point, the two others, who Eris had punished for their friend&#x27;s misdeeds, came up to introduce themselves as well. The four-armed muscleman was Bachiro, and Beak-boy&#x27;s real name was Gablin.</p>
+<p>At this point, the two others, who Eris had punished for their friend&#x27;s misdeeds, came up to introduce themselves as well. The</p>
+<p>four-armed muscleman was Bachiro, and Beak-boy&#x27;s real name was Gablin.</p>
 <p>Once we&#x27;d finished exchanging our names, these two took up positions on either side of Kurt, and the little group struck up a dramatic pose.</p>
 <p>&quot;Together, we are…the Tokurabu Village Toughs!&quot;</p>
 <p>&quot;…&quot;</p>
@@ -168,7 +169,8 @@ nav_title = "Chapter 8"
 <p>Eris was gazing out our window at the city, which was growing darker by the minute. That ruined castle was pretty captivating, sure, but you&#x27;d think the girl was a tourist or something. We had all sorts of things to worry about right now, didn&#x27;t we? Did she expect me deal with everything all by myself or what?</p>
 <p>Okay, no. I needed to stop being so negative. Eris trusted me; that&#x27;s why she wasn&#x27;t overthinking things right now. It wasn&#x27;t as if she was being a spoiled brat or anything. Now if only she&#x27;d stop getting into pointless fights…</p>
 <p>I fell back onto my bed, looked up at the ceiling and thought about what came next.</p>
-<p>First and foremost, we needed money. This room was costing us fifteen stone coins a night for the three of us. We needed to earn at least that much per day at a bare minimum. But based on what I&#x27;d seen earlier, F-rank jobs paid out about five stone coins, and even Erank jobs were only worth one scrap iron coin or so. As a solo adventurer, you could probably just tackle one F-rank job per day to cover the cost of your lodgings, then start saving some cash once you ranked up into more lucrative work. F- and E-rank tasks were mainly odd jobs around the city, but at D rank you started getting more requests to gather materials and such. Basically, the system was set up so that you could save up some money doing easy work, then buy some equipment to tackle more dangerous jobs.</p>
+<p>First and foremost, we needed money. This room was costing us fifteen stone coins a night for the three of us. We needed to earn at least that much per day at a bare minimum. But based on what I&#x27;d</p>
+<p>seen earlier, F-rank jobs paid out about five stone coins, and even Erank jobs were only worth one scrap iron coin or so. As a solo adventurer, you could probably just tackle one F-rank job per day to cover the cost of your lodgings, then start saving some cash once you ranked up into more lucrative work. F- and E-rank tasks were mainly odd jobs around the city, but at D rank you started getting more requests to gather materials and such. Basically, the system was set up so that you could save up some money doing easy work, then buy some equipment to tackle more dangerous jobs.</p>
 <p>It was well thought-out, but…there were three of us.</p>
 <p><em>Including the cost of lunch and everyday goods, we&#x27;re probably looking at twenty stone coins a day on average. If we handle one task a day, we&#x27;re probably looking at a net loss of ten to fifteen stone coins. And we&#x27;ve got 132 left at this point…</em></p>
 <p>We&#x27;d be flat broke in under two weeks. That wasn&#x27;t much of a cushion at all. We needed to be completing three or more jobs per day to stay out of the red.</p>
@@ -238,7 +240,8 @@ nav_title = "Chapter 8"
 <p>I patted Eris on the head, got up, and headed back to my own bed. Just as I reached it, my eyes met Ruijerd&#x27;s. He&#x27;d heard our conversation apparently. That was…somewhat embarrassing.</p>
 <p>After a moment, though, he just closed his eyes without a word.</p>
 <p>Man, what a good guy! Paul probably would&#x27;ve started mercilessly teasing me on the spot. Ruijerd really was a sweetheart. It&#x27;d just be plain wrong to put his problems on the backburner.</p>
-<p>Speaking of Paul though…I wonder if he&#x27;s worried about me or anything? I really ought to send a letter telling him that I was alive and well. Although it was hard to know if it&#x27;d actually reach him from way out here.</p>
+<p>Speaking of Paul though…I wonder if he&#x27;s worried about me or anything? I really ought to send a letter telling him that I was alive</p>
+<p>and well. Although it was hard to know if it&#x27;d actually reach him from way out here.</p>
 <p><em>Anyway. Tomorrow we&#x27;re hunting someone&#x27;s pet, I guess…</em></p>
 <p>The Man-God&#x27;s motives were still unclear to me. But for this one time, I was willing to follow his advice without giving it too much thought.</p>
 <p>Our first night as adventurers came to a quiet end—with the air in our little room still thick with anxiety.</p>

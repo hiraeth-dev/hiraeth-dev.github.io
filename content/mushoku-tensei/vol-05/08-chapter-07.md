@@ -14,7 +14,8 @@ nav_title = "Chapter 7"
 <p>In this world, there were no ferries that would carry land vehicles across bodies of water for you. Just like when we left the Demon Continent, we needed to sell off our means of transportation here and then buy a new one on the other side.</p>
 <p>Unlike that charming lizard, I hadn&#x27;t gotten too attached to our horse, so I decided to give it a name at the very end. Farewell, faithful Landbiscuit.</p>
 <p>Once we&#x27;d sold off our friend, we headed straight over to the checkpoint. This proved to be a very large building, unlike the one in Wind Port. There were even soldiers in helmets and armor standing outside the entrance.</p>
-<p>Fully armored knights had been a pretty common sight in the streets of Millishion as well. At a glance, their equipment appeared to be very sturdy, but when I thought about what Eris or Ruijerd could do, I wondered if it would serve much purpose. The people and monsters of this world tended to pack some serious firepower. One hit might be enough to smash off your fancy suit of armor and leave you in your boxer shorts. Hell, the knockback might even send you falling down a pit for an instant game over…</p>
+<p>Fully armored knights had been a pretty common sight in the streets of Millishion as well. At a glance, their equipment appeared to be very sturdy, but when I thought about what Eris or Ruijerd could do, I wondered if it would serve much purpose. The people and monsters of this world tended to pack some serious firepower. One hit might be enough to smash off your fancy suit of armor and leave</p>
+<p>you in your boxer shorts. Hell, the knockback might even send you falling down a pit for an instant game over…</p>
 <p>Okay, sorry. I&#x27;ll stop now.</p>
 <p>Entering the customs building, we found it packed with people. Many of them seemed to be adventurers, and many others were dressed like merchants. A number of alert-looking clerks were briskly processing their requests. It was a world of difference from Wind Port, where the office had been mostly empty and the staff apathetic at best.</p>
 <p>I walked up to the nearest open counter. &quot;Hello there.&quot;</p>
@@ -171,7 +172,8 @@ nav_title = "Chapter 7"
 <p>&quot;I&#x27;m a captain of the Shield Company. And I&#x27;m quite serious about this.&quot;</p>
 <p>&quot;Pah! A captain demoted for losing her entire unit!&quot;</p>
 <p>&quot;Hmph. Aren&#x27;t your own circumstances somewhat similar? No, my mistake. I at least completed my mission, whereas you simply abandoned your duty.&quot;</p>
-<p>Duke Bakshiel ground his teeth together and growled. From the sound of things, he&#x27;d been sent here as some sort of punishment as well. Once you knew that little detail, his grand title actually seemed more pathetic than intimidating. There was something like real hatred in his eyes now.</p>
+<p>Duke Bakshiel ground his teeth together and growled. From the sound of things, he&#x27;d been sent here as some sort of punishment as</p>
+<p>well. Once you knew that little detail, his grand title actually seemed more pathetic than intimidating. There was something like real hatred in his eyes now.</p>
 <p>&quot;Look, woman. I don&#x27;t care how powerful your family is. This sort of insolence will not—&quot;</p>
 <p>Bakshiel wasn&#x27;t able to finish his sentence. Halfway through it, the knight had bowed her head to him.</p>
 <p>&quot;I apologize. My words were uncalled for. Since I&#x27;ve been assigned here, I have no desire to put myself in conflict with you. However, this particular matter was of personal significance for me. I hope you&#x27;ll forgive my rudeness.&quot;</p>

@@ -71,7 +71,8 @@ nav_title = "Chapter 6"
 <p>The letter from Rudeus was brief and to the point, stating the facts of where Zenith had been found and her condition. It was so economical that it skimmed right past Paul&#x27;s death. Rudeus wrote that he planned on getting Zenith treated, but he made no mention of bringing her home.</p>
 <p>Claire wrote back immediately. She wanted to see Zenith more than anything.</p>
 <p>***</p>
-<p>Several more years passed, during which Claire searched for a way to cure Zenith. She went around the doctors and healing magicians of Millis, and visited the library of the Millis Church time and time again. She even stooped to studying texts written by demons in her research. It was unpardonable, but Claire was convinced that there must have been other cases like Zenith&#x27;s in history.</p>
+<p>Several more years passed, during which Claire searched for a way to cure Zenith. She went around the doctors and healing magicians of Millis, and visited the library of the Millis Church time and time again. She even stooped to studying texts written by demons in her research. It was unpardonable, but Claire was convinced that there must have been</p>
+<p>other cases like Zenith&#x27;s in history.</p>
 <p>Then finally, she found one. She had no idea if what she read could be trusted. The case described was suspect, unbelievable, and utterly nauseating. But a method did exist. There was precedent for a cure.</p>
 <p>The cure she found was not a demonic one. She read that once there had lived an elf who suffered from a similar condition to Zenith. This elf woman lost her mind, but eventually returned to herself…after having intercourse with dozens of men.</p>
 <p>Claire could scarcely believe it. It couldn&#x27;t be true. She could certainly never try it. But as she continued her research to try and find the basis for the story…she found that the elf woman really existed. And that she was still, even now, sleeping with hordes of men.</p>
@@ -116,7 +117,8 @@ nav_title = "Chapter 6"
 <p>Claire looked up in surprise. &quot;It…it was!&quot; she said. &quot;Around two hundred years ago, it said, there was a woman in the same state…&quot;</p>
 <p>&quot;And that woman was driven away from her village for what she did?&quot;</p>
 <p>&quot;You know the story… Does that mean you tried it?&quot;</p>
-<p>&quot;Of course not,&quot; I said. The other case Claire had found had to be Elinalise. The story Claire knew was a pretty generous massaging of the facts, of course. Yes, Elinalise had been in the same state as Zenith, but after a few decades, she got better. It wasn&#x27;t until later that she turned into a total slut.</p>
+<p>&quot;Of course not,&quot; I said. The other case Claire had found had to be Elinalise. The story Claire knew was a pretty generous massaging of the facts, of course. Yes, Elinalise had been in the same state as Zenith, but</p>
+<p>after a few decades, she got better. It wasn&#x27;t until later that she turned into a total slut.</p>
 <p>To be fair, it&#x27;s in the nature of old stories to get mixed up as they get passed down. It makes sense that it got twisted in the retelling.</p>
 <p>&quot;I didn&#x27;t try that &#x27;treatment,&#x27;&quot; I went on, &quot;but I did meet that woman and heard her story directly.&quot;</p>
 <p>I guess I hadn&#x27;t put Elinalise in my letter. I&#x27;d kept way too much secret back then.</p>

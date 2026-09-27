@@ -94,7 +94,8 @@ nav_title = "Chapter 9"
 <p>From afar, it wasn&#x27;t too bad. It looked like a golden accent perched atop its white and silver surroundings. But once you got close, the effect fell apart. It came from a different planet.</p>
 <p>But a trashy home didn&#x27;t necessarily reflect on its resident. After all, this was the headquarters of the Millis Church. It was basically filled with upgraded Cliffs, fresh off the production line. It might have looked in poor taste, but the fact that surely only the purest of saints lived inside…was far from guaranteed. I knew that much.</p>
 <p>In my past life, everyone knew that politicians and religious leaders were the most corrupted by money. At least, that&#x27;s how I saw it. It seemed to hold true for this world, too. And the people who held so much power that they didn&#x27;t even try to fake it always went mask-off in the end. Then again, keeping that crowd at arm&#x27;s length shouldn&#x27;t pose any problems.</p>
-<p>I took a deep breath and prepared to market myself. I&#x27;d show off my deep ties to Orsted and Ariel to make myself look big. I think that was one of my failures at the Latria home; it could have been why Claire looked down on me until it all went to hell.</p>
+<p>I took a deep breath and prepared to market myself. I&#x27;d show off my deep</p>
+<p>ties to Orsted and Ariel to make myself look big. I think that was one of my failures at the Latria home; it could have been why Claire looked down on me until it all went to hell.</p>
 <p>But today, I would be the most interesting man in the world. For him. That was why I came in my formal robes; they were what I wore when I meant business. I was the Right Hand of the Dragon God, Rudeus Greyrat. I talked myself up a little in my head.</p>
 <p>&quot;My apologies, but I can&#x27;t allow anyone who doesn&#x27;t have a permit inside.&quot;</p>
 <p>I got stopped at the entrance to one of the buildings. Sad emoji.</p>
@@ -117,7 +118,8 @@ nav_title = "Chapter 9"
 <p>The Millis Church Headquarters had four gardens. They made up the four triangular corners between the inner diamond and the outer square. Each one was planted with vegetation representing one of the four seasons. It was currently spring, and coincidentally, the springtime garden was the one I walked into. This springtime garden was spilling over with a rainbow of blooming flowers—but the bright, light hues of yellow, white, and pink dominated.</p>
 <p>I took it all in as I walked. I used to walk with a plant encyclopedia in one hand as I looked up the names and everything of all the flowers, but I didn&#x27;t know a thing about the plants in Millishion. Actually, wait, I&#x27;d seen that tree with the pink flowers before. Its name was similar to &quot;sakura,&quot; like the cherry blossoms, so it stuck out to me. I felt like I&#x27;d heard someone say the name recently, but what was it?</p>
 <p>&quot;Look, the Sarakh Trees are in bloom!&quot; someone said.</p>
-<p>Yeah, Sarakh, that was it. They were trees that grew by the mountains in the northern lands of the Asura Kingdom. They had pink flowers at the tips of their branches that bloomed as spring came in, so they were known as &quot;The Trees That Call Forth Spring&quot; over there. Their lumber had a particular fragrance that made them popular among nobles too. But they grew only in the mountains, so they were expensive. Currently, the Asura royal family oversaw all cultivation of Sarakh Trees, sometimes even exporting them to other nations.</p>
+<p>Yeah, Sarakh, that was it. They were trees that grew by the mountains in the northern lands of the Asura Kingdom. They had pink flowers at the tips of</p>
+<p>their branches that bloomed as spring came in, so they were known as &quot;The Trees That Call Forth Spring&quot; over there. Their lumber had a particular fragrance that made them popular among nobles too. But they grew only in the mountains, so they were expensive. Currently, the Asura royal family oversaw all cultivation of Sarakh Trees, sometimes even exporting them to other nations.</p>
 <p>Or, that&#x27;s what Ariel told me the last time I went to the Asura Kingdom.</p>
 <p>&quot;Yes, they&#x27;re quite beautiful indeed!&quot;</p>
 <p>&quot;The Sarakh Blossoms suit you very well, Blessed One!&quot;</p>
@@ -142,7 +144,8 @@ nav_title = "Chapter 9"
 <p>&quot;What&#x27;s wrong?&quot;</p>
 <p>Ah, right, good question. I had more important things to be thinking about. Um, uh… Well, I wasn&#x27;t here to convert… I needed to sniff out as to whether they were the Man-God&#x27;s disciples, so, um…</p>
 <p>&quot;S-so you&#x27;re allll, uh, god…guys?&quot;</p>
-<p>It happened in an instant. Three of the simps whipped out their swords and pointed them at my throat. The remaining four grabbed the e-girl and pulled her back, hiding her behind them.</p>
+<p>It happened in an instant. Three of the simps whipped out their swords and</p>
+<p>pointed them at my throat. The remaining four grabbed the e-girl and pulled her back, hiding her behind them.</p>
 <p>There wasn&#x27;t a trace of that simp shit remaining in them. The men now before me had the ferocity of soldiers on a battlefield. Their sunken pupils bored down into the shining whites of their eyes.</p>
 <p>Crap, these dudes were serious. I was sweating. I should not have started this conversation. Oh, wait. I hadn&#x27;t.</p>
 <p>&quot;There is a God.&quot;</p>
@@ -260,7 +263,8 @@ nav_title = "Chapter 9"
 <p>&quot;Yes, that&#x27;s correct.&quot;</p>
 <p>I would have loved to ask the details, but her entourage was still eyeing me. It was probably safer to leave it unsaid. But should I? Orsted never said a thing about this Blessed Child.</p>
 <p>&quot;Wow, that&#x27;s…something…&quot;</p>
-<p>Crap. I think I might have been too obvious about my ambivalence the moment I realized that something had been done to me. There was nothing I could ask that wouldn&#x27;t drive the entourage to attack. But it felt like I was missing a trick if I didn&#x27;t learn something here. There was no guarantee that we&#x27;d meet again. To ask, or not to ask?</p>
+<p>Crap. I think I might have been too obvious about my ambivalence the moment I realized that something had been done to me. There was nothing I could ask that wouldn&#x27;t drive the entourage to attack. But it felt like I was missing a trick if I didn&#x27;t learn something here. There was no guarantee that</p>
+<p>we&#x27;d meet again. To ask, or not to ask?</p>
 <p>&quot;Hngh… Phew…&quot;</p>
 <p>First, a deep breath.</p>
 <p>&quot;Blessed Child. May I ask you a question that I&#x27;m aware will seem quite rude?&quot;</p>
@@ -277,7 +281,8 @@ nav_title = "Chapter 9"
 <p>&quot;Please, tell me about Miss Eris!&quot;</p>
 <p>&quot;Oh… Sure.&quot;</p>
 <p>That was all? Well, hey, if she wasn&#x27;t an enemy, and if she had no relation to the Man-God, then I suppose I could trust her.</p>
-<p>Perhaps I&#x27;d include some shilling for our wonderful CEO, Orsted. Worry not, our company insurance covered preexisting blessings. With an eighty-year history of reliable service, you could rest easy that that our top-of-the-line staff would provide you with all the help you&#x27;d need. And our company is always recruiting associates with a can-do attitude to join our team.</p>
+<p>Perhaps I&#x27;d include some shilling for our wonderful CEO, Orsted. Worry</p>
+<p>not, our company insurance covered preexisting blessings. With an eighty-year history of reliable service, you could rest easy that that our top-of-the-line staff would provide you with all the help you&#x27;d need. And our company is always recruiting associates with a can-do attitude to join our team.</p>
 <p>Hmm, was it overreaching to scout the Blessed Child while I was planning to persuade the pope to back us? I think the Blessed Child and the pope belonged to different factions…</p>
 <p>&quot;Rudeus! Rudeus, are you here?&quot;</p>
 <p>As I was thinking up my future job board posting, I heard a voice calling for me from far off. It was Cliff&#x27;s; it seemed like he&#x27;d finally gotten the permit.</p>
@@ -292,6 +297,7 @@ nav_title = "Chapter 9"
 <p>&quot;Got it. I&#x27;ll tell her.&quot;</p>
 <p>&quot;Thank you.&quot;</p>
 <p>After I bid farewell to Therese, I gave a nod to the entourage and left them behind.</p>
-<p>The Blessed Child, huh? At a glance, she struck me as a sheltered pick-me or a shallow princess with an entourage of white knights, but I felt some unfathomable depth in her. She told me, clearly, she wasn&#x27;t my enemy, but I got the sense that she knew who the Man-God was. I should be on my guard. Wait, I forgot to ask her name…</p>
+<p>The Blessed Child, huh? At a glance, she struck me as a sheltered pick-me or a shallow princess with an entourage of white knights, but I felt some unfathomable depth in her. She told me, clearly, she wasn&#x27;t my enemy, but I got the sense that she knew who the Man-God was. I should be on my guard. Wait, I</p>
+<p>forgot to ask her name…</p>
 <p>Those were the thoughts running through my mind as I made my way toward Cliff to obtain my permit.</p>
 <p><strong>Chapter 10: The Pope, and…</strong></p>

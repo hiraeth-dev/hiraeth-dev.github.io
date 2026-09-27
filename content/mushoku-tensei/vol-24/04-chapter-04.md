@@ -171,7 +171,8 @@ nav_title = "Chapter 4"
 <p>&quot;Yes?&quot; He was about to tell me something I didn&#x27;t want to hear. Unpleasant possibilities filled my mind.</p>
 <p>&quot;Back at the meeting, I told a lie,&quot; he said. I didn&#x27;t say anything. &quot;The Elders believe that lie to be true.&quot;</p>
 <p>A lie.</p>
-<p>&quot;The plague wasn&#x27;t cured. The medicine didn&#x27;t work. We aren&#x27;t on the road to any kind of recovery.&quot; I remembered the woman I&#x27;d seen coughing in the village, the atmosphere of sickness that had filled the village, and what Chandle had said about how few people there were. &quot;Right now,&quot; Ruijerd went on, &quot;all we&#x27;re doing is slowing its progression.&quot;</p>
+<p>&quot;The plague wasn&#x27;t cured. The medicine didn&#x27;t work. We aren&#x27;t on the road to any kind of recovery.&quot; I remembered the woman I&#x27;d seen</p>
+<p>coughing in the village, the atmosphere of sickness that had filled the village, and what Chandle had said about how few people there were. &quot;Right now,&quot; Ruijerd went on, &quot;all we&#x27;re doing is slowing its progression.&quot;</p>
 <p>&quot;How?&quot; I said at last. Ruijerd reached up to touch his forehead guard.</p>
 <p>&quot;With this.&quot; Underneath the band, I saw a red—no, the jewel wasn&#x27;t red. It was blue. The jewel on his forehead that should have been red had changed to a bright blue. It was surrounded by black markings. The sort of thing a fourteen-year-old kid might scrawl on their left hand.</p>
 <p>&quot;What…is that?&quot;</p>
@@ -198,7 +199,8 @@ nav_title = "Chapter 4"
 <p>&quot;We must. It&#x27;s a tale that&#x27;s repeated since time began.&quot;</p>
 <p>&quot;Yeah, I bet.&quot; Two people indebted to one another become enemies. It tortures them, but they fight until one dies, and the survivor is left with a gaping hole in their heart. The same story probably recurs every time there&#x27;s a war.</p>
 <p>But surely this time was different. Surely this time there was something I could do. We were the exception—that was it, we had to be the exception. There was a way to avoid fighting. If our reason to fight went away, for example. I just had to eliminate it. If only I knew what it was.</p>
-<p>Orsted and the Man-God were one reason, but I couldn&#x27;t betray Orsted at this point. This was about Ruijerd and me. The reason Ruijerd had to fight me: his people, his fellow Superd. If there were no more Superd no, that was monstrous. Then it clicked. It was the plague. The plague that was devouring the Superd. If I worked out how to cure it, I&#x27;d get all the Superd on my side.</p>
+<p>Orsted and the Man-God were one reason, but I couldn&#x27;t betray Orsted at this point. This was about Ruijerd and me. The reason Ruijerd had to fight me: his people, his fellow Superd. If there were no more Superd no, that was monstrous. Then it clicked. It was the plague. The plague that</p>
+<p>was devouring the Superd. If I worked out how to cure it, I&#x27;d get all the Superd on my side.</p>
 <p>&quot;If I found a way to fully cure the plague, would you betray them and join me?&quot;</p>
 <p>Ruijerd&#x27;s face darkened slightly at the word &quot;betray.&quot; His gaze was intense, but I didn&#x27;t look away. Geese might have called first dibs on Ruijerd, but Ruijerd had told me about it. If he were fully on Geese&#x27;s side, he could have just killed me without saying anything. Ruijerd was unsure. That was why he&#x27;d brought me here.</p>
 <p>Ruijerd&#x27;s mouth twisted and his brow furrowed. I thought of myself as his friend, and I was sure he thought the same way about me. But he also felt obligated to Geese—and by extension the Man-God, who gave Geese his orders—for saving his people. Ruijerd was a man of conscience, after all.</p>

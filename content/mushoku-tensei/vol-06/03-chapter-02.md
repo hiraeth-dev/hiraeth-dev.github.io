@@ -30,7 +30,8 @@ nav_title = "Chapter 2"
 <p>I had to stay as calm as possible. With that in mind, I made my way around Wyvern.</p>
 <p>The King Dragon Realm was the third biggest country in this world, and the largest in the southern part of the Central Continent, with four vassal states under it. Once, this country had been just one of many in the south. That changed after it attacked the King Dragon Mountains in the northwest and slew their ruler, Kajakt the Monarch of the King Dragons. This gave his conquerors access to a huge vein of minerals, instantaneously boosting their country&#x27;s resources and power. It was also the origin of forty-eight magical swords that were now scattered about the world, as well as one of the places mentioned in a line of the Epic of the North God.</p>
 <p>Despite this storied past, the country didn&#x27;t seem like it put too much emphasis on tradition. Instead it felt like America—like a mix of different elements. There were many smithies and sword training halls, and the styles were diverse, but most of the techniques I saw belonged to the North God Style or Water God Style. I tried peeking into one of the training halls, but most of the people being taught were children. Even the masters of those halls were mostly only Advanced-tier swordfighters, so Eris took one look at them and said, with a snort of laughter, &quot;They&#x27;re nothing special.&quot; Even Ruijerd expressed disapproval.</p>
-<p>At any rate, I decided to gather information on missing persons. I found one of Paul&#x27;s underlings in the Adventurers&#x27; Guild who told me there was no information to be found in this country. It wasn&#x27;t going to be easy to find anyone who was still missing after all this time.</p>
+<p>At any rate, I decided to gather information on missing persons. I found one of Paul&#x27;s underlings in the Adventurers&#x27; Guild who told me there was no information to be found in this country. It wasn&#x27;t</p>
+<p>going to be easy to find anyone who was still missing after all this time.</p>
 <p>Following that, I did my usual market research. Specialty goods from both the Millis Continent and the Central Continent were sold here. It was among the wide variety of food being sold in the marketplace that I made a discovery: rice. Its color was a bit yellow, but it was definitely rice.</p>
 <p>Of course, I already knew there was rice in this country. I&#x27;d eaten white rice when I was in East Port. I had really been looking forward to eating this country&#x27;s cuisine, but unfortunately the only things their pubs served were easy-made soups, paella, and rice porridge. A bit different from what I was looking for. I wanted to eat pure white rice.</p>
 <p>The moment I saw the rice for sale, an electric shock ran through me. If I couldn&#x27;t buy cooked white rice, then I just needed to make it myself. I bought the rice instantly.</p>
@@ -38,7 +39,8 @@ nav_title = "Chapter 2"
 <p>&quot;What are you doing?&quot;</p>
 <p>I had my game face on as Eris came over. &quot;An experiment,&quot; I said.</p>
 <p>&quot;Hmm?&quot; She huffed in disinterest and started swinging her arms. Judging by the way she kept stealing glances at me, she was actually more curious than she let on.</p>
-<p>I turned over the hourglass I&#x27;d borrowed from the pub owner and powered up the fire. The pub owner said that the trick to cooking rice was slowly turning up the heat, so I was following his advice. After turning over the hourglass three times, I lowered the heat. Then I turned it over two more times. Finally, I extinguished the flames and turned it over another two times.</p>
+<p>I turned over the hourglass I&#x27;d borrowed from the pub owner and powered up the fire. The pub owner said that the trick to</p>
+<p>cooking rice was slowly turning up the heat, so I was following his advice. After turning over the hourglass three times, I lowered the heat. Then I turned it over two more times. Finally, I extinguished the flames and turned it over another two times.</p>
 <p>&quot;It&#x27;s done,&quot; I said.</p>
 <p>&quot;Really?&quot; Eris stopped swinging her arms and stooped beside me. Her scent wafted toward me, but my hunger was currently stronger than my sex drive.</p>
 <p>She looked at the pot in anticipation. I was also filled with excitement as I lifted the lid. The wave of heat carried the smell of freshly cooked rice right to my nose.</p>
@@ -59,7 +61,8 @@ nav_title = "Chapter 2"
 <p>&quot;Hey…is this really all there is to it?&quot;</p>
 <p><em>Gulp!</em></p>
 <p>I nodded quietly. Though I wasn&#x27;t proud of it, there had been a point in my former life when I subsisted solely on rice for meals and rice balls for snacks.</p>
-<p>&quot;Hmm…&quot; Eris chewed slowly, mixed emotions on her face. Her tastes were still that of a child. Once I broke an egg over it, she did say, &quot;This is better than before,&quot; and filled her cheeks with rice as she ate it all.</p>
+<p>&quot;Hmm…&quot; Eris chewed slowly, mixed emotions on her face. Her tastes were still that of a child. Once I broke an egg over it, she did</p>
+<p>say, &quot;This is better than before,&quot; and filled her cheeks with rice as she ate it all.</p>
 <p>Raw egg mixed with rice really was the best meal ever—and perfectly balanced, too. As we said that, we finished our food, gobbling down the last of the crunchy, burnt rice on the bottom.</p>
 <p>Ruijerd was the only one who didn&#x27;t get to share the meal, but he made no complaints. He&#x27;s the real adult, I thought. Still, I did feel a little guilty. Next time, I&#x27;d make sure he got a share.</p>
 <div class="chapter-illustration">
@@ -91,7 +94,8 @@ nav_title = "Chapter 2"
 <p>As I was preoccupied with those thoughts, Eris glared at the man who had spoken to us. &quot;Eris, please don&#x27;t start a fight,&quot; I said.</p>
 <p>&quot;Yeah, I know that already.&quot;</p>
 <p>&quot;Okay, good.&quot;</p>
-<p>Lately, she&#x27;d stopped scrapping with the other adventurers. Her demeanor had grown tougher this past year. She no longer had the look of a novice about her. Just one glance was enough to tell a person she was dangerous, so why would they bother approaching?</p>
+<p>Lately, she&#x27;d stopped scrapping with the other adventurers. Her demeanor had grown tougher this past year. She no longer had the</p>
+<p>look of a novice about her. Just one glance was enough to tell a person she was dangerous, so why would they bother approaching?</p>
 <p>For her own part, Eris had also come to understand the adventurers&#x27; style of humor. Even if someone said something offensive to her, she was now calm enough to realize that she&#x27;d heard it before. She&#x27;d answer their quip with an appropriate response, the other person would laugh, and then&#x27;d she&#x27;d grin back at them. She really had become just like an adventurer.</p>
 <p>That said, she was always still game if someone wanted to pick a fight with her. Some people, most of them C-ranked and young themselves, would deliberately approach her after seeing that she was A-ranked despite her youth. They&#x27;d come up and say something like, &quot;I bet you don&#x27;t have any skills yourself. You just had those guys in your party carry you the whole way, right?&quot;</p>
 <p>This invariably resulted in a one-punch knockout. Somehow, morons like this seemed to be in just about every Adventurers&#x27; Guild we went to.</p>

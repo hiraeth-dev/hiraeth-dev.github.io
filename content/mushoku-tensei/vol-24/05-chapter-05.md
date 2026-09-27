@@ -180,7 +180,8 @@ nav_title = "Chapter 5"
 <p>&quot;Love? What&#x27;s wrong?&quot; said the woman beside me, wiping the sweat from my forehead with her hand. She had ample curves and a precocious smile. My wife, Aisha.</p>
 <p>She and I had…um, how did we end up married again?</p>
 <p>Ah, that&#x27;s right! Okay, so we were in the bath, and I couldn&#x27;t restrain myself. She was always flirting with me, and every year her body got more… But wait, what?</p>
-<p>&quot;Hey, what&#x27;s wrong?&quot; she asked. &quot;Oh, now we&#x27;re married, should I keep calling you my big brother? Too late to stop now, I guess. You are such a pervert, Big Brother.&quot;</p>
+<p>&quot;Hey, what&#x27;s wrong?&quot; she asked. &quot;Oh, now we&#x27;re married, should I keep calling you my big brother? Too late to stop now, I guess. You are</p>
+<p>such a pervert, Big Brother.&quot;</p>
 <p>I didn&#x27;t reply. Paul was there behind Aisha. He was sitting in a chair, and he didn&#x27;t have any legs. He watched us and shot me a flippant grin.</p>
 <p>&quot;It&#x27;s no good. I&#x27;ve already got you,&quot; he whispered. &quot;You&#x27;ve worked it out, right?&quot;</p>
 <p>Had I worked it out? Oh. Okay, yeah. I&#x27;d started to work it out. The reason behind this string of nightmares. This sense that something was wrong. I&#x27;d woken up over and over again, and every time it had been a dream.</p>
@@ -256,7 +257,8 @@ nav_title = "Chapter 5"
 <p>I didn&#x27;t say anything.</p>
 <p>&quot;Rudy, hey there, what&#x27;s wrong?&quot; I realized tears were streaming from my eyes. All the dreams Vita had shown me had been happy. This one was no different. If I hadn&#x27;t remembered, I could have lived a happy life here.</p>
 <p>In a world with no Eris and no Sylphie, I&#x27;d still be a virgin, so I&#x27;d marry my first girlfriend. My sisters would be grossed out and Zenith would tell me off. I&#x27;d go through ups and downs…and, little by little, I&#x27;d grow. It was entirely possible I&#x27;d screw it up spectacularly and we&#x27;d get divorced, but even so…</p>
-<p>In this world, my family would all live a happy life, not wanting for anything. I knew that. I knew in my soul that that was how it would go. This had to be Vita&#x27;s final act of resistance. He was doing this on the bet that even though I knew it was a dream, I wouldn&#x27;t destroy it. And he would be certain that, so long as he took Zenith&#x27;s form, I wouldn&#x27;t destroy him.</p>
+<p>In this world, my family would all live a happy life, not wanting for anything. I knew that. I knew in my soul that that was how it would go. This had to be Vita&#x27;s final act of resistance. He was doing this on the bet that even though I knew it was a dream, I wouldn&#x27;t destroy it. And he</p>
+<p>would be certain that, so long as he took Zenith&#x27;s form, I wouldn&#x27;t destroy him.</p>
 <p>This whole time, I&#x27;d been waiting and watching. I saw Zenith smiling like she used to. I thought that maybe staying like this would be okay. It was true. I couldn&#x27;t kill Zenith.</p>
 <p>But Vita.</p>
 <p>I&#x27;d already remembered. I&#x27;d remembered the people who weren&#x27;t here—Sylphie and Roxy and Eris, the goofy children we&#x27;d had together. The happy, irreplaceable family I&#x27;d given everything I had to build. The most precious thing I had. Zenith wasn&#x27;t like Paul. She was in a sort of vegetative state, but she wasn&#x27;t dead.</p>
@@ -288,7 +290,8 @@ nav_title = "Chapter 5"
 <p>&quot;Raxos&#x27;s bone ring was crafted by Death God Raxos for the purpose of killing me. It takes the form of the deceased person most trusted by the wearer to break the illusion, then corners the illusionist by taking away their hiding places. It only activates for wearers who have such a trusted person, though…&quot;</p>
 <p>Trusted person… In other words, Paul suddenly appearing in the dream was the doing of the bone ring. It was true, the shock of Paul&#x27;s appearance had forced me to confront the fact that none of it was real. After I realized I was dreaming, he&#x27;d given me the hints I needed to corner Vita. It wasn&#x27;t sloppy illusion magic on Vita&#x27;s part.</p>
 <p>&quot;It seems I was a little dismissive in my assessment of you. I was expecting it to go better at the end, too. Ah well. No one told me you were the sort of heartless man who&#x27;d raise a hand against his own mother.&quot;</p>
-<p>I hadn&#x27;t expected an attack like this. I hadn&#x27;t meant to conceal the ring, either. Actually, I&#x27;d been wracked with indecision. I&#x27;d wanted to spend more time with Zenith while she was healthy. I&#x27;d even gone along with an arranged marriage out of duty to her. After what she said to me at the end, I had no choice but to step away. The real Zenith would have told me to do the same. I&#x27;m sure she would.</p>
+<p>I hadn&#x27;t expected an attack like this. I hadn&#x27;t meant to conceal the ring, either. Actually, I&#x27;d been wracked with indecision. I&#x27;d wanted to spend more time with Zenith while she was healthy. I&#x27;d even gone along with an arranged marriage out of duty to her. After what she said to me at the end, I</p>
+<p>had no choice but to step away. The real Zenith would have told me to do the same. I&#x27;m sure she would.</p>
 <p>&quot;I made a mistake…&quot; Vita said. &quot;If I&#x27;d known, I&#x27;d have made Ruijerd threaten you instead.&quot;</p>
 <p>&quot;Why didn&#x27;t you?&quot;</p>
 <p>&quot;Ruijerd was considering joining you even if it meant leaving his village to die. I panicked.&quot;</p>

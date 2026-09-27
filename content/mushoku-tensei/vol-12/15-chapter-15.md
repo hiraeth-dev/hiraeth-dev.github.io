@@ -35,7 +35,8 @@ nav_title = "Chapter 15"
 <p>Of course Sylphie would&#x27;ve saved me had she been there. She&#x27;d cured my impotence, after all. But the one who actually saved me was Roxy. Even though she had feelings for me; even though she knew I already had someone. She&#x27;d resolved to do it, even knowing she might be tossed aside afterward.</p>
 <p>&quot;Norn, you should understand how it feels, locking yourself in your room, feeling like you&#x27;re so deep inside a hole you can&#x27;t see the light at the end of the tunnel. How are you supposed to cast aside the person who saved you from that?&quot; I argued.</p>
 <p>&quot;I do know! I&#x27;m grateful to you for helping me through that, but this is a totally separate matter! Lord Millis would never permit someone taking a second wife!&quot;</p>
-<p>Oh, that&#x27;s right. Norn was a follower of Millis. No—her religion wasn&#x27;t the issue here. Maybe it was just me. Maybe I was doing something wrong, and trying to strong-arm my way into being in the right.</p>
+<p>Oh, that&#x27;s right. Norn was a follower of Millis. No—her religion wasn&#x27;t the issue here. Maybe it was just me. Maybe I was doing</p>
+<p>something wrong, and trying to strong-arm my way into being in the right.</p>
 <p>&quot;Besides, why that tiny girl?! She&#x27;s not any different from me!&quot; Norn glared at Roxy.</p>
 <p>Roxy returned the younger girl&#x27;s gaze with her usual poker face. She was taller than Norn, but barely so, maybe even less than centimeters&#x27; worth. In the face of my younger sister&#x27;s hostile gaze, Roxy remained unfazed as she muttered, &quot;I may be small, but I&#x27;m still an adult.&quot;</p>
 <p>I wondered what she was going to say. Her voice trembled, an open door into her heart, but the words were such that they could be construed as impertinent.</p>
@@ -134,7 +135,8 @@ nav_title = "Chapter 15"
 <p>&quot;Would you teach me swordsmanship? When you have the time.&quot;</p>
 <p>&quot;Huh…?&quot;</p>
 <p>It was so sudden that, for a moment, the words made no sense to me.</p>
-<p>Swordsmanship—was she going to try using Paul&#x27;s sword? Part of me felt like a half-baked attempt at self-defense would only be self-destructive at best, but this world wasn&#x27;t like my previous one. It might probably do her some good to learn swordsmanship. Even a little power was better than none. The bigger issue was whether I would be any good as a teacher.</p>
+<p>Swordsmanship—was she going to try using Paul&#x27;s sword? Part of me felt like a half-baked attempt at self-defense would only be self-destructive at best, but this world wasn&#x27;t like my previous one. It might probably do her some good to learn swordsmanship. Even a</p>
+<p>little power was better than none. The bigger issue was whether I would be any good as a teacher.</p>
 <p>&quot;Are you sure you want me to teach you?&quot; I asked.</p>
 <p>&quot;I can&#x27;t approve of what you&#x27;ve done, but I don&#x27;t hate you, either.&quot;</p>
 <p>&quot;…Okay.&quot;</p>
