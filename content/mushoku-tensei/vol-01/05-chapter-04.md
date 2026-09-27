@@ -68,7 +68,7 @@ nav_title = "Chapter 4"
 <p>She was clad in brown, wizardly robes, her blue hair styled into braids, her posture prim and proper. Her white skin looked untouched by the sun, and her eyes were somewhat sleepy. Her expression didn&#x27;t exactly radiate sociability, and despite her lack of glasses, she looked like the sort of girl who liked to hole up in a library with her nose in a book.</p>
 <p>In one hand, she carried a bag, and in the other, she held a staff befitting a magician. The family came to greet her together, my mother carrying me in her arms.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-01/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-01/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;…&quot;</p>
 <p>&quot;…&quot;</p>

@@ -81,7 +81,7 @@ nav_title = "Chapter 1"
 <p>&quot;Yeah. It&#x27;s getting warmer out and all.&quot;</p>
 <p>&quot;Hey, Boss. We&#x27;ve got a great spot for midday naps, ya know? How about we show you sometime?&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-09/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-09/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Hmm? Can I do naughty things to you while you sleep, Linia?&quot;</p>
 <p>&quot;…Do you ever think about anything but sex, Boss?&quot;</p>

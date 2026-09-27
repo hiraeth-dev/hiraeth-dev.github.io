@@ -136,7 +136,7 @@ nav_title = "Chapter 7"
 <p>&quot;Heeey!&quot; shouted Aisha, jumping up out of her seat. &quot;I was gonna make a big announcement about that later! You&#x27;re horrible, Norn!&quot;</p>
 <p>&quot;Hmph! Serves you right!&quot; said Norn, turning away sulkily.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-15/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-15/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><em>Wait, wait. Did she just say what I thought she said?</em></p>
 <p>&quot;Hold on, Aisha. You…harvested the rice from the garden?!&quot;</p>

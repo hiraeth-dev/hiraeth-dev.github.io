@@ -111,7 +111,7 @@ nav_title = "Chapter 9"
 <p>&quot;Lilia, I insist you stay with us,&quot; Zenith pronounced. &quot;You&#x27;re family at this point! I am not letting you do something as foolish as leave!&quot;</p>
 <p>And that seemed to be the final word on the matter. Paul&#x27;s eyes went wide; Lilia brought her hand to her mouth, holding back her tears.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-01/insert-08.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-01/insert-08.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>All right, then. That was all done and settled.</p>
 <p>***</p>

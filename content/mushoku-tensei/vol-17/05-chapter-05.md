@@ -76,7 +76,7 @@ nav_title = "Chapter 5"
 <p><em>Wow. Are those puppies actually bigger than Eris&#x27;?</em></p>
 <p>&quot;Okay, so? Which of you wants to see me?&quot; the woman called out, looking around the room. &quot;I assumed some moron was gonna try and buy me for the night, but it looks like that ain&#x27;t it. Spit it out! I&#x27;m a busy woman!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-17/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-17/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>She&#x27;d spoken so loudly and intensely that her voice seemed to fill the entire cabin. Eris grimaced, and Cleane glared at her reproachfully.</p>
 <p>Before I could say anything, Sylphie spoke up. &quot;Uhm, I&#x27;m sorry, but we&#x27;ve got someone sleeping in the back. Would you mind lowering your voice?&quot;</p>

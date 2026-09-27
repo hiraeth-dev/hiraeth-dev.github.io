@@ -236,7 +236,7 @@ nav_title = "Chapter 7"
 <p>&quot;Ya lost yer balance and fell. Right?&quot;</p>
 <p>When Horseface repeated himself, Froggy paused, clicked his tongue bitterly, then stomped straight out of the guild. The crowd of onlookers promptly lost interest and began dispersing in groups of two and three.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-03/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-03/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Man. I&#x27;d given some thought to the possibility that we&#x27;d get into a fight here, but that was more nerve-wracking than expected.</p>
 <p>With the crisis past, I turned around and made for the guild&#x27;s bulletin board…totally oblivious to the ominous gaze of a certain horse-headed man.</p>

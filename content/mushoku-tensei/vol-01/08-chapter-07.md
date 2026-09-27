@@ -129,7 +129,7 @@ nav_title = "Chapter 7"
 <p>I grabbed his collar as he squirmed and tried to get away, and proceeded to wash away the mud. He struggled at first, but as he got used to the water&#x27;s temperature, he started to calm down. As for his clothes, those would have to be laundered at home.</p>
 <p>&quot;All right, that should about do it,&quot; I said. With the mud out of the way, I used fire magic to create hot wind, like an air dryer, then took a handkerchief to carefully wipe the rest of the boy&#x27;s face.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-01/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-01/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>In doing so, I could finally see his pointed, elf-like ears, as well as the emerald green hair he sported. I immediately remembered something Roxy had told me.</p>
 <p><em>&quot;If you ever see someone with emerald-green hair, make sure you don&#x27;t go anywhere near them.&quot;</em></p>

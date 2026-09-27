@@ -51,7 +51,7 @@ nav_title = "Chapter 4"
 <p>tensed and she clenched her hands into fists, but once she closed her eyes, she was sound asleep within seconds.</p>
 <p>The girl must have been seriously exhausted. I took the opportunity to gently stroke her long, red hair, and she squirmed a little as she slept.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-03/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-03/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>After a moment, I realized that Rokkus was watching me from across the hearth. There was a warm, amused smile on his face. I couldn&#x27;t help feeling a little self-conscious. &quot;…Uhm, what is it?&quot;</p>
 <p>&quot;You two certainly seem to get along.&quot;</p>

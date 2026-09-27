@@ -184,7 +184,7 @@ nav_title = "Chapter 9"
 <p>Randolph drew his sword, illuminating the hallway with its greenish glow. Zanoba took up his club in response; Roxy raised her staff as well.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-19/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-19/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>And so, without further ado, it began. Our battle against one of the Seven Great Powers was underway.</p>
 <p><strong>Chapter 10: Wasted Effort All Around</strong></p>

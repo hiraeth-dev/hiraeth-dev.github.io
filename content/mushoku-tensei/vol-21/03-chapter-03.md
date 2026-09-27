@@ -242,6 +242,6 @@ nav_title = "Chapter 3"
 <p>I realized she was looking into my eyes. I immediately tried to avert my gaze, but it was too late. A look of perfect understanding washed over her face, and she smiled. Then she held her arms out to me, as though welcoming me. When I saw it, it clicked. Maybe it was just an instinct, but I acted on it.</p>
 <p>I kidnapped the Blessed Child.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-21/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-21/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><strong>Chapter 4: Hardball Negotiations</strong></p>

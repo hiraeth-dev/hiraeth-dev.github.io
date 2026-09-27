@@ -144,7 +144,7 @@ nav_title = "Extra Chapter"
 <p>&quot;Yes, yes, of course! Ahh, what a fine day it is today.&quot; Randolph continued eerily smiling as he plated more of his bizarre stew for Benedikte.</p>
 <p>Benedikte gracefully took up her spoon and slowly began to dig in. Although she&#x27;d never been given instruction on etiquette, she held her utensil beautifully. She was probably mimicking what she&#x27;d seen others do.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-19/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-19/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;…Delicious,&quot; Benedikte mumbled as she continued eating.</p>
 <p>&quot;Indeed, it is.&quot; Pax resumed his dining as well. Being a voracious eater, he requested extra helpings several times until the pot was completely empty. &quot;Hmph, what do you think of that, Death God Randolph? We finished your entire stew. It was delectable.&quot;</p>

@@ -138,7 +138,7 @@ nav_title = "Chapter 10"
 <p>Still, Orsted didn&#x27;t stop. In no time at all, he was right in front of Reida.</p>
 <p>&quot;Die.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-17/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-17/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>And just like that, it was over. Orsted&#x27;s spear-hand strike punched straight through Reida&#x27;s chest, and he tossed her body to the side like a rag doll.</p>
 <p>&quot;No! Master Reida!&quot; screamed Isolde.</p>

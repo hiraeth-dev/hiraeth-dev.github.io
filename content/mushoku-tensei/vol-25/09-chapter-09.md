@@ -153,7 +153,7 @@ nav_title = "Chapter 9"
 <p>A million different thoughts raced about my mind but couldn&#x27;t coalesce into words. An unfathomable tremor rose from deep within my body. That golden armor was bad news. I didn&#x27;t know in precisely what way, but I could tell it was sinister. This was an opponent who&#x27;d kill me in an instant if I fought as I was.</p>
 <p>&quot;It&#x27;s been too long, Rudeus! You too, Alex!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-25/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-25/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Sandor was staring blankly, but his brow glistened with sweat. I got the sense that he felt he had to attack now, but he couldn&#x27;t move.</p>
 <p>&quot;Uncle. What brings you here?&quot;</p>

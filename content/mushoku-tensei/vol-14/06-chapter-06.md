@@ -211,7 +211,7 @@ nav_title = "Chapter 6"
 <p>***</p>
 <p>Kishirika looked the same as ever. She wore knee-high boots, leather hot pants, and a leather tube top. The revealing getup exposed the flat narrowness of her physique, from the pale skin of her clavicle to her belly button to her thighs. She had the same voluminous, wavy purple hair and two goat horns. She was covered in more dirt and grime this time, but there was no mistaking her for someone else. This was the Demon World&#x27;s Great Emperor, Kishirika Kishirisu.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-14/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-14/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Cliff stared, dumbfounded. Elinalise also watched in mute amazement, her face pulled into a comically blank expression that I&#x27;d never seen her wear before. I shared their confusion, though. Even I had no idea what was happening right now.</p>
 <p>Zanoba was the only one who had kept a cool head. He put a hand to his chin and mumbled, &quot;Ah, so this is the woman that His Majesty Badi thinks so fondly of.&quot;</p>

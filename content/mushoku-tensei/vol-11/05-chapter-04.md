@@ -32,7 +32,7 @@ nav_title = "Chapter 4"
 <p>&quot;Uh, M-Mister Greyrat? We&#x27;re in the middle of—&quot;</p>
 <p>&quot;I&#x27;d like a moment of everyone&#x27;s time, if you don&#x27;t mind.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-11/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-11/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;But—&quot;</p>
 <p>&quot;It won&#x27;t take long.&quot;</p>

@@ -316,7 +316,7 @@ nav_title = "Chapter 5"
 <p>&quot;But you&#x27;ve been with them for so long. What happens to your teamwork when you suddenly bring a new person in?&quot;</p>
 <p>&quot;Well, we just rework the basic battle guidelines administered by the clan, and a little practice does the rest. It still takes a bit of time, but that&#x27;s why leaders like me are proactive about putting forward recommendations for new members. Anyway, we&#x27;re here.&quot; Soldat stopped in his tracks. &quot;Come on, follow me.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-07/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-07/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Before us was a building, bewitching with its red paint and lit bonfires. It looked too intimidating to enter; I would normally never even approach such a place, let alone go inside.</p>
 <p>Yet as I hurried after Soldat, I found myself crossing the threshold with no problem. I used to wonder how someone as unpleasant as Soldat could lead an adventurer&#x27;s party, but now I kind of got it. He was strangely easy to follow, somewhat like Suzanne. You could trust either of them to lead you places.</p>
@@ -558,7 +558,7 @@ nav_title = "Chapter 5"
 <p>&quot;Think about it,&quot; Suzanne urged her. &quot;Could Rudeus really be such a despicable guy?&quot;</p>
 <p>&quot;No duh, he just hid it from us this entire time! I was fooled—we all were! Who knows, maybe he was even in league with Stepped Leader back at the Galgau Ruins!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-07/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-07/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Oh boy…&quot; Suzanne shrugged helplessly. She wasn&#x27;t well-versed in affairs of romance herself, so she didn&#x27;t have any good advice to offer. While she searched for words, Sara continued to brim with unfiltered resentment.</p>
 <p>Timothy interjected, &quot;What&#x27;s wrong? Isn&#x27;t it about time you guys tell me what happened too?&quot;</p>
@@ -599,5 +599,5 @@ nav_title = "Chapter 5"
 <p>But she was too scared to pursue him. She feared he might not listen, feared he would push her away. Additionally, she realized that his leaving town without saying anything to them was also a sign of rejection.</p>
 <p>A sob escaped her throat. In the end, Sara curled up in her bed like a turtle and didn&#x27;t move at all. When dawn broke and she finally drew herself out of bed, she was keenly aware of two things: that she had dark circles beneath her eyes, and that Rudeus had rejected her. She knew her love had ended, and as she watched the rising sun, she thought to herself: But if it comes to pass that we meet again, I&#x27;d like to apologize. And be sincere about it.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-07/insert-08.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-07/insert-08.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>

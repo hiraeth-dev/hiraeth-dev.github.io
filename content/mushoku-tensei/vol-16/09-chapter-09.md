@@ -326,7 +326,7 @@ nav_title = "Chapter 9"
 <p>&quot;Cheers!&quot;</p>
 <p>We clinked our glasses, spilling alcohol everywhere.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-16/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-16/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;But speaking of male friendship…what kind of things do men even talk about in times like this?&quot; Cliff asked, puzzled.</p>
 <p>&quot;Raunchy, sexy stuff?&quot; I suggested.</p>
@@ -587,7 +587,7 @@ nav_title = "Chapter 9"
 <p>&quot;Right?! I put everything I had into it!&quot; Eris nodded, pleased by my compliment.</p>
 <p>&quot;Guess I&#x27;ll have to work hard and find a way to counter it.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-16/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-16/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Eris huffed. &quot;It won&#x27;t be that easy!&quot;</p>
 <p>&quot;Yeah, I don&#x27;t expect I&#x27;ll be able to do it today…&quot;</p>

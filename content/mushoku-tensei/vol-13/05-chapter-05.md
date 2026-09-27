@@ -129,7 +129,7 @@ nav_title = "Chapter 5"
 <p>&quot;Ahaha! Gyaaaha!&quot;</p>
 <p>On some level, it seemed like Lucie understood that she meant well, too. The kid was all smiles whenever Zenith visited. It was honestly pretty heartwarming.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-13/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-13/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>But of course, there was a lot we didn&#x27;t know about Zenith&#x27;s condition and how it might develop. It was hard to imagine anything bad coming of these visits, but given how much was still uncertain, it was probably best for them to stay supervised.</p>
 <p>After all, accidents can happen, even when your intentions are good.</p>

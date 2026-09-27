@@ -55,7 +55,7 @@ nav_title = "Chapter 7"
 <p>&quot;Hehehe. You did want children pretty badly, didn&#x27;t you?&quot;</p>
 <p>My wife wrapped her arms around me as well, and started to pat me on the back.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-11/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-11/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I gave her one more gentle squeeze, then finally released her. Stepping back, I stared down into her eyes. I could see my face reflected in them, and it wasn&#x27;t a pretty sight. I had tears running down my cheeks.</p>
 <p>Sylphie closed her eyes. I kissed her and stroked her hair, enjoying the softness of her lips. This was what love felt like, wasn&#x27;t it?</p>

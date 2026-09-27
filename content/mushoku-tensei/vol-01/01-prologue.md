@@ -26,7 +26,7 @@ nav_title = "Prologue"
 <p>Summer was over, bringing with it the autumn chill. My wornout, years-old sweatshirt soaked up the cold rain, mercilessly robbing my body of precious heat.</p>
 <p>&quot;If only I could go back and do it all over again,&quot; I muttered, the words slipping unbidden from my mouth.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-01/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-01/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I hadn&#x27;t always been a garbage excuse for a human being. I was born to a well-off family, the fourth of five children, with two older brothers, an older sister, and a younger brother. Back in elementary school, everyone always praised me for being smart for my age. I didn&#x27;t have a knack for academics, but I was good at video games and had an athletic bent. I got along with folks. I was the heart of my class.</p>
 <p>In junior high, I joined the computer club, pored over magazines, and saved up my allowance to build my very own PC. My family, who didn&#x27;t know the first thing about computers, barely gave it a second thought.</p>

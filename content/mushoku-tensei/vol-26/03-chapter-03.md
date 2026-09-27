@@ -102,7 +102,7 @@ nav_title = "Chapter 3"
 <p>I looked into the sphere of mana as it destroyed everything within it while it rose slowly into the air. I watched cracks appear in the Fighting God Armor. It fell to pieces. Badigadi was compressed within the mass of energy and then faded into dust without even a murmur.</p>
 <p>I think he struggled, but there was nothing he could do. The Fighting God Armor didn&#x27;t function, and Badigadi was crushed even as he tried to regenerate.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-26/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-26/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The sphere vanished. The broken remains of the armor fell into the Earthwyrm Ravine. There were some clangs and clatters as they fell away, bouncing off the cliff walls, and the King Dragon Blade, still impaled in the metal, went with them.</p>
 <p>All that remained was the armor. All traces of Badigadi&#x27;s black flesh had vanished.</p>
@@ -138,7 +138,7 @@ nav_title = "Chapter 3"
 <p>Geese had all sorts of items on him. He wore a blue vest with a brown band around his middle and something that looked like chainmail. It was hard to tell now, when they were practically burnt to a crisp, but they were presumably precautions against all kinds of magic. I guessed it hadn&#x27;t been the Fighting God Armor&#x27;s power that allowed him to survive Electric back in the Third City of Heirulil.</p>
 <p>&quot;And now you&#x27;re here, boss, which I reckon must mean my final plan fizzled…&quot; Geese&#x27;s scorched cheeks twisted. His final plan? I guess that depended on whether you called sending Badigadi out alone counted as a &quot;plan.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-26/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-26/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;If any of &#x27;em, the Sword God or the North God, the Ogre God, the Abyssal King…if there&#x27;d been just one more, things might&#x27;ve been different… None of &#x27;em listened to me, y&#x27;know.&quot;</p>
 <p>&quot;Well, none of them were the best listeners,&quot; I replied. Geese seemed half delirious.</p>
@@ -269,7 +269,7 @@ nav_title = "Chapter 3"
 <p>That match-up could have been a truly legendary battle. A pair of opponents of that caliber could have gone down in history for good. Sadly, the actual battle was nothing so grand. It was too devastatingly one-sided for that. Honestly? It was tough for me to put it into words. I watched it, getting caught in the melee and narrowly escaping death as I did so, but they moved so fast I could hardly see anything. Even with the Eye of Foresight, I couldn&#x27;t tell what either of them were doing. The only thing I saw for sure was that Orsted always had the upper hand. I could tell that every time Alec tried to turn things around, Orsted smashed him into utter submission. He was completely outmatched. Even with the Fighting God Armor and the King Dragon Blade, he couldn&#x27;t touch a hair on Orsted&#x27;s</p>
 <p>head. The armor was smashed to pieces, which were now beginning to regenerate, but they had detached from Alec&#x27;s body. The King Dragon Blade lay on the ground nearby along with his arm.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-26/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-26/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Alec had long since lost all will to fight. He looked up at Orsted, his face petrified with fear. Tears streamed from his defeated eyes, and his mouth hung half open. The boy who&#x27;d boasted of becoming a hero was gone. In his place was a whimpering puppy, its spirit entirely broken.</p>
 <p>After a long silence, at last he spoke. &quot;I will become your follower,&quot; he said.</p>

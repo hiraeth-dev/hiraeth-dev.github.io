@@ -102,7 +102,7 @@ nav_title = "Chapter 8"
 <p>The last thing she said to me, still beaming, was: &quot;Zenith raised a good boy.&quot;</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-21/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-21/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I went to say goodbye to the Blessed Child, too. I had two parting gifts for her. In the past month, Aisha had found a Millishion artisan to make something for her. So, my first gift was an armband almost identical to my own. The usual design had a jewel-inlaid bezel, into which was embedded a stone. For this one, I made the stone myself with earth magic. It was black and glossy, and engraved with the emblem of the Dragon God. It ought to convey to anyone who saw it that the wearer was one of his followers. The second gift: a scroll Orsted sent me to summon a Guardian Beast.</p>
 <p>I showed up with my gifts and had the Blessed Child sent for, only for the simp squad to come out to meet me. Therese was with them too. She&#x27;d dodged the transfer. Apparently a petition with my name on it had helped with that. Still, she got a demotion instead, so she wasn&#x27;t commanding the Blessed Child&#x27;s guard anymore. A new captain had been appointed, so now Therese served under her as a sort of deputy.</p>

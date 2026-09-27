@@ -137,7 +137,7 @@ nav_title = "Chapter 6"
 <p>Once I was done, Roxy and I stood there, the two of us drenched to the bone. &quot;Congratulations,&quot; Roxy said.</p>
 <p>&quot;You are now a Water Saint.&quot; She looked stunning, her hand brushing aside her wet bangs, an all-too-rare grin on her face.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-01/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-01/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I hadn&#x27;t achieved anything in my past life. But I&#x27;d done something now. As soon as I realized that, a curious sensation welled up from within me. And I knew what it was. A sense of accomplishment.</p>
 <p>For the first time since coming to this world, I felt like I&#x27;d truly taken my first step.</p>

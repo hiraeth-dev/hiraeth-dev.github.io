@@ -165,7 +165,7 @@ nav_title = "Chapter 5"
 <p>&quot;Given the circumstances, I did,&quot; she replied. Before I knew it, my hands had curled into fists. My jaw was clenched tight. How could Claire be like this? She must know that if she&#x27;d just said, &quot;No, I was wrong,&quot; she&#x27;d be off the hook.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-21/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-21/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I fell silent. The whole table looked at me expectantly, as though I suddenly had all the authority.</p>
 <p>Wait, maybe I do, I realized. I&#x27;m still holding the Blessed Child&#x27;s arm. From the start, this had never been a discussion amongst equals.</p>

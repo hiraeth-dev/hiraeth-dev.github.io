@@ -107,7 +107,7 @@ nav_title = "Chapter 3"
 <p>&quot;Yes, sir! I understand completely!&quot;</p>
 <p>Norn&#x27;s response was quick and forceful. She was looking up at me with flushed cheeks and determination in her eyes. I found myself wondering if I&#x27;d looked something like this to Paul, back when I was little.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-13/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-13/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Maybe Norn would end up following a similar path…leaving me behind and finding some other master to train her. Once I got her up to the Beginner level, I could always send for Ghislaine or something. Assuming I found out where the woman was.</p>
 <p>There was also that Sword Sanctum place off to the west. If I offered enough money, maybe I could lure a Sword Saint away to teach her for a while.</p>

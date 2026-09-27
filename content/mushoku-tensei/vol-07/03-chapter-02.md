@@ -166,7 +166,7 @@ nav_title = "Chapter 2"
 <p>&quot;Exodus Flame.&quot;</p>
 <p>An enormous wave of magical fire cut through the pack like a hot knife through butter.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-07/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-07/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>An hour passed. The area around the lake had been reduced to a charred wasteland. The corpses of Luster Grizzlies were everywhere. Most had been burned to a crisp, but a few still had their pelts reasonably intact. At the moment, we were skinning as many of them as we could.</p>
 <p>My fire magic had wiped out the majority of the Grizzlies. After that, they split up and began to run in all directions. A handful did keep charging at us, but Suzanne and the others dealt with those, and I picked off the ones that tried to flee with Stone Cannon.</p>

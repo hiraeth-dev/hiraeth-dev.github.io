@@ -233,7 +233,7 @@ nav_title = "Interlude"
 <p>### &quot;Damn! Retreat!&quot;</p>
 <p>The two remaining men spun around sharply and began to run. But Eris was never one to leave a job half-finished. In a heartbeat, she caught up with one and savagely slashed into him from behind, disemboweling him. His entrails spilled across the ground as he fell.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-05/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-05/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The last assassin didn&#x27;t look back. By the time Eris turned to him, he&#x27;d already vanished into the distance.</p>
 <p>With a small snort of disdain, she vigorously flicked her sword to throw the blood and gore off its blade. From all appearances, she was as calm as ever. But her heart was still pounding rapidly in her chest. She&#x27;d just experienced her first life-or-death battle against other human beings. For the first time ever, she&#x27;d killed someone.</p>

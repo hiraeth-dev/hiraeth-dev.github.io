@@ -174,7 +174,7 @@ nav_title = "Chapter 8"
 <p>&quot;Be careful, Ghislaine. According to the literature I read, this guy can move at the speed of light.&quot;</p>
 <p>&quot;Rudeus, take the Young Mistress and fall back.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-02/insert-08.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-02/insert-08.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Just as Ghislaine asked, I used my back as a shield and escorted Eris a safe distance away so we wouldn&#x27;t be embroiled in the battle. I was careful not to go too far, staying within Ghislaine&#x27;s protective reach.</p>
 <p>If that really were Arumanfi the Bright, a sword couldn&#x27;t touch him. I was sure I&#x27;d read something like that in the Legend of Perugius.</p>
@@ -200,7 +200,7 @@ nav_title = "Chapter 8"
 <p>&quot;Ah!&quot;</p>
 <p>Right as I called out to Arumanfi, the sky turned white and a finger of light sped toward the ground. The instant it reached the earth the light ballooned at incredible speed, violently swallowing everything in its path like a tidal wave. The manor, the city, the citadel, the flowers and the trees. Everything was devoured as it expanded.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-02/insert-09.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-02/insert-09.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>As soon as Arumanfi saw what was happening, he disappeared in a burst of gold light. Ghislaine ran toward us but was swallowed before she could reach us. Eris froze in confusion, and I wrapped my body around hers to shield her.</p>
 <p>That was the day the Fittoa Region vanished.</p>

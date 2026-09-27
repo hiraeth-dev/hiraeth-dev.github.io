@@ -117,7 +117,7 @@ nav_title = "Chapter 2"
 <p>The moment his eyes met mine, I bowed my head and loudly introduced myself. &quot;It&#x27;s a pleasure to meet you. My name is Rudeus Greyrat. Provided everything goes smoothly, I&#x27;ll be a first-year starting next semester. If you find me lacking in any way, I hope you&#x27;ll help guide and encourage me along.&quot;</p>
 <p>&quot;Ah… hm? Oh, y-yes!&quot; Fitz tried to say something, but I&#x27;d already finished my introduction. After all, the first person to introduce themselves was the victor! His mouth kept opening and closing but finally, he managed, &quot;I&#x27;m Fitz. A pleasure.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-08/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-08/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>His voice was a bit awkward and high; it seemed he hadn&#x27;t yet hit puberty. Definitely younger than me, but an upperclassman was still an upperclassman. Afraid of leaving a bad impression, so I decided to show some deference. &quot;I realize this is an inconvenience, but thank you for participating in my trial.&quot;</p>
 <p>&quot;Uh… yeah.&quot;</p>

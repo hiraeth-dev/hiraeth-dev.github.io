@@ -9,47 +9,47 @@ nav_title = "Illustrations"
 
 <div class="illustrations-gallery">
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/cover.webp" alt="Cover" loading="eager" />
+    <img src="/novels/mushoku-tensei/vol-08/cover.webp" alt="Cover" loading="eager" decoding="async" />
     <figcaption>Cover</figcaption>
   </figure>
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/color-1.webp" alt="Color Illustration 1" loading="lazy" />
+    <img src="/novels/mushoku-tensei/vol-08/color-1.webp" alt="Color Illustration 1" loading="lazy" decoding="async" />
     <figcaption>Color Illustration 1</figcaption>
   </figure>
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/color-2.webp" alt="Color Illustration 2" loading="lazy" />
+    <img src="/novels/mushoku-tensei/vol-08/color-2.webp" alt="Color Illustration 2" loading="lazy" decoding="async" />
     <figcaption>Color Illustration 2</figcaption>
   </figure>
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/color-3.webp" alt="Color Illustration 3" loading="lazy" />
+    <img src="/novels/mushoku-tensei/vol-08/color-3.webp" alt="Color Illustration 3" loading="lazy" decoding="async" />
     <figcaption>Color Illustration 3</figcaption>
   </figure>
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/color-4.webp" alt="Color Illustration 4" loading="lazy" />
+    <img src="/novels/mushoku-tensei/vol-08/color-4.webp" alt="Color Illustration 4" loading="lazy" decoding="async" />
     <figcaption>Color Illustration 4</figcaption>
   </figure>
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/color-5.webp" alt="Color Illustration 5" loading="lazy" />
+    <img src="/novels/mushoku-tensei/vol-08/color-5.webp" alt="Color Illustration 5" loading="lazy" decoding="async" />
     <figcaption>Color Illustration 5</figcaption>
   </figure>
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/color-6.webp" alt="Color Illustration 6" loading="lazy" />
+    <img src="/novels/mushoku-tensei/vol-08/color-6.webp" alt="Color Illustration 6" loading="lazy" decoding="async" />
     <figcaption>Color Illustration 6</figcaption>
   </figure>
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/color-7.webp" alt="Color Illustration 7" loading="lazy" />
+    <img src="/novels/mushoku-tensei/vol-08/color-7.webp" alt="Color Illustration 7" loading="lazy" decoding="async" />
     <figcaption>Color Illustration 7</figcaption>
   </figure>
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/design-1.webp" alt="Character Design 1" loading="lazy" />
+    <img src="/novels/mushoku-tensei/vol-08/design-1.webp" alt="Character Design 1" loading="lazy" decoding="async" />
     <figcaption>Character Design 1</figcaption>
   </figure>
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/design-2.webp" alt="Character Design 2" loading="lazy" />
+    <img src="/novels/mushoku-tensei/vol-08/design-2.webp" alt="Character Design 2" loading="lazy" decoding="async" />
     <figcaption>Character Design 2</figcaption>
   </figure>
   <figure>
-    <img src="/novels/mushoku-tensei/vol-08/design-3.webp" alt="Character Design 3" loading="lazy" />
+    <img src="/novels/mushoku-tensei/vol-08/design-3.webp" alt="Character Design 3" loading="lazy" decoding="async" />
     <figcaption>Character Design 3</figcaption>
   </figure>
 </div>

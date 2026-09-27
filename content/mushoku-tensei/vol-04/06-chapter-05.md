@@ -134,5 +134,5 @@ nav_title = "Chapter 5"
 <p>&quot;It&#x27;s a demon! Aaaah, it&#x27;s a demon, aaah!&quot;</p>
 <p>The screams from downstairs started just as I reached the door.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-04/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-04/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>

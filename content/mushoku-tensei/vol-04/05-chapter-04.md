@@ -92,7 +92,7 @@ nav_title = "Chapter 4"
 <p>The mere thought made my crotch feel like Excalibur before Arthur took hold of it. And in my head Arthur screamed. He was yelling at me, telling me that right now Eris couldn&#x27;t resist. He told me I would never get another chance like this. Now was my chance to lose the virginity that I had been holding on to for so long.</p>
 <p>My inner Merlin, however, urged me to resist. I had already made a decision when I promised to wait until I was fifteen. I said I would wait until this journey was over. I supported what Merlin was saying, but my ability to resist was reaching its limits.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-04/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-04/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>What if I tested things out by just touching her breasts? I was sure they would be soft. And soft wasn&#x27;t the only thing they would be. That&#x27;s right—breasts were more than just soft. There was a firmness in the middle of all of that softness. A grail. The holy grail that my inner Arthur sought. What would happen if my hand, my Gawain, found that grail? The Battle of Camlann.</p>
 <p>Ahh, of course, it wasn&#x27;t just the holy grail. Eris&#x27; body was changing day by day, particularly her bosom. She was in the midst of puberty. I wasn&#x27;t sure if it was genetic, but she was rapidly developing in a way that resembled her mother. If it kept up at this rate, she would grow into a voluptuous beauty.</p>

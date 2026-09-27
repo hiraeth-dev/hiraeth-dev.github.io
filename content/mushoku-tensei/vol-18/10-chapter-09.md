@@ -173,7 +173,7 @@ nav_title = "Chapter 9"
 <p>&quot;You got it!&quot;</p>
 <p>The two girls bowed their heads at the same time. As I watched them, I found myself thinking, These two really are at their best when they&#x27;re together.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-18/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-18/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>We used the raft to return the way we came, heading toward the Holy Sword Highway. When we found the monument to the Seven Great Powers, I figured it was as good a time as any and pulled out my flute. I managed to summon Arumanfi, who led us back to the floating fortress.</p>
 <p>&quot;This place sure brings back memories. Never thought I&#x27;d come back to the city I once ruled before,&quot; Pursena spoke nostalgically as she gazed at the Magic City of Sharia from where we stood on the floating fortress.</p>

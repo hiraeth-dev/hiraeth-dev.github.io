@@ -226,7 +226,7 @@ nav_title = "Extra Chapter"
 <p>&quot;Well, you&#x27;ve been worrying yourself sick lately, right? I think I kind of understand how you feel. Whenever I watch Rudy at work, it makes me feel like I have to learn all sorts of new things.&quot;</p>
 <p>&quot;…&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-15/insert-09.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-15/insert-09.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Startled by Sylphie&#x27;s perceptiveness, Eris found herself at a loss for words. But Sylphie wasn&#x27;t done yet. &quot;You know, Eris… we&#x27;re pretty good at watching Rudy&#x27;s back, if you know what I mean. We keep an eye on things behind the scenes. You definitely helped us out today, but normally, we stay on top of those sorts of problems.&quot;</p>
 <p>Sylphie paused for a moment, and her grip on Eris&#x27; hands tightened noticeably.</p>

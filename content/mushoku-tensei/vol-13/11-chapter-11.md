@@ -170,7 +170,7 @@ nav_title = "Chapter 11"
 <p>&quot;Ngh…&quot;</p>
 <p>And they ended up hitting each other with a double crosscounter.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-13/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-13/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The two of them staggered back… and then the duel began in earnest.</p>
 <p>&quot;Oh my! Pursena charges fiercely forward! But Linia sidesteps it cleanly! Pursena&#x27;s driving at her like a tank, but…she wards her off! Linia&#x27;s keeping up the hit-and-run tactics, folks. Pursena&#x27;s hot on her tail! Pursena has the edge in power, and her opponent&#x27;s just a little faster! If it comes down to a slugging match, Linia&#x27;s got no chance. But power isn&#x27;t the only thing that counts! You&#x27;ve got to catch her first, or your strength is useless!&quot;</p>

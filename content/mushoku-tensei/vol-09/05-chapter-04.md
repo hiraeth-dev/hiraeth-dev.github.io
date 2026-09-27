@@ -146,7 +146,7 @@ nav_title = "Chapter 4"
 <p>&quot;Excellent! Have at me!&quot;</p>
 <p>I fired off the spell.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-09/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-09/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>My bullet tore through the air with a high-pitched whine. There wasn&#x27;t any recoil; for whatever reason, there never was with magic. But that didn&#x27;t make its power any less real.</p>
 <p>The stone slammed into Badigadi with an enormous bang. His entire upper body was blown apart; his six arms disintegrated instantly. His lower half, still intact, soared dozens of meters backward and plopped limply to the ground.</p>

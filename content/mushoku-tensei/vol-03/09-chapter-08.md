@@ -227,7 +227,7 @@ nav_title = "Chapter 8"
 <p>But that wasn&#x27;t true at all. She was afraid too. She&#x27;d just been hiding it from me. The stress must&#x27;ve been building up inside her for days. No wonder she&#x27;d gotten into that stupid fight earlier. That should have tipped me off right away, if I weren&#x27;t a total moron.</p>
 <p>&quot;Yes. Absolutely.&quot; I gently wrapped an arm around Eris&#x27;s shoulders, and she promptly put her head against my shoulder.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-03/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-03/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>She hadn&#x27;t taken a proper bath in days, so the faint scent wafting from her hair was new to me. It wasn&#x27;t unpleasant though. Not at all. Which was kind of a problem, since my rambunctious little buddy began threatening to act up again.</p>
 <p><em>Control yourself, Rudeus… Until we make it home, you&#x27;re an oblivious protagonist.</em></p>

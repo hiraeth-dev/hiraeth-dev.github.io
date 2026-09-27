@@ -178,7 +178,7 @@ nav_title = "Chapter 8"
 <p>I poured enough mana into the spell to stun everyone without killing them.</p>
 <p>Electricity shot from my hand. It crackled through the air as it enveloped the area before striking the ground. It conducted through the water and hit everyone in the vicinity.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-14/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-14/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Gyaaaah!&quot;</p>
 <p>&quot;Aaaah!&quot;</p>

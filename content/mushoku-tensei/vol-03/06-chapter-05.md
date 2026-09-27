@@ -134,7 +134,7 @@ nav_title = "Chapter 5"
 <p>As the words left my mouth, a rock shot from the end of my staff with a ferocious bang. It zipped forward in a nearly perfect horizontal line, and smashed into the camouflaged Stone Treant that lay in wait ahead of us.</p>
 <p>With an ear-splitting sound, the monster blew apart into tiny pieces. I&#x27;d killed it extremely dead.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-03/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-03/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Eris had already started running forward, but after my attack landed, she stopped in her tracks and turned to glare sulkily in my direction.</p>
 <p>&quot;What happened to softening it up, Rudeus?! Am I supposed to chop up the corpse?!&quot;</p>

@@ -58,7 +58,7 @@ nav_title = "Chapter 5"
 <p>&quot;Then tell me, do you recognize this?&quot;</p>
 <p>What he produced from the bag this time was a Roxy figurine. He put it on the floor, then plunked himself down behind it.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-06/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-06/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;This demon figurine was discovered five years ago in the markets.&quot; He put his hand on his chin and gazed affectionately at the figurine.</p>
 <p>When I&#x27;d tried to use the Ruijerd figure to proselytize, I found out that demon figurines were forbidden due to the influence of the Millis religious organization. I assumed Zanoba was looking to condemn the person who&#x27;d created them, although he didn&#x27;t seem very angry.</p>

@@ -62,7 +62,7 @@ nav_title = "Chapter 9"
 <p>Sylphie threw her arms around me with tears in her eyes. I&#x27;d gotten accustomed to holding her over the last six months. Her body was small and radiated warmth. It felt like hugging an affectionate little animal sometimes.</p>
 <p>But today, her shoulders were trembling, and she was sniffling softly. This wasn&#x27;t making it too easy to leave, honestly.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-11/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-11/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><em>…Should I just stay behind after all? Maybe I could wait for my child to be born before I help the old man.</em></p>
 <p><em>I mean, think about it. Normally, it would have taken me almost a year just to get out there. Couldn&#x27;t I stay home for another seven months and leave after my child&#x27;s born? The journey should only take six weeks now, so I could still make it on schedule.</em></p>

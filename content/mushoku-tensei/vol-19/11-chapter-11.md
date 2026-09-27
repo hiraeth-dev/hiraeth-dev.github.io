@@ -127,7 +127,7 @@ nav_title = "Chapter 11"
 <p>How was I supposed to respond to that? I didn&#x27;t know. I wasn&#x27;t a teacher. The only thing I thought of was the one word I&#x27;d used to address her so long ago.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-19/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-19/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Teacher,&quot; I said.</p>
 <p>The next words I had were superficial, plucked right from the pages of some manga or a video game, I couldn&#x27;t remember which. Maybe it was selfaggrandizing for me to say it. Maybe it would only provide empty consolation. And maybe I was only trying to obfuscate the problem.</p>

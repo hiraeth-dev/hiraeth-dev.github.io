@@ -63,7 +63,7 @@ nav_title = "Chapter 1"
 <p>&quot;I forbid you from using the title of Dragon King.&quot; He was glaring at me. Like, really glaring. Yeah, I got it. I could read his face, even when it wore an expression I&#x27;d never seen before. This was probably his &quot;angry face&quot;.</p>
 <p><em>He&#x27;s seriously hacked off. What the hell? Man, I&#x27;m trembling.</em></p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-22/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-22/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;All of them live as they please, clinging to their tattered pride. Then they die over petty grudges.&quot;</p>
 <p>When I didn&#x27;t say anything, Orsted continued, &quot;You are different. That is why you may not use that name, Rudeus Greyrat.&quot;</p>

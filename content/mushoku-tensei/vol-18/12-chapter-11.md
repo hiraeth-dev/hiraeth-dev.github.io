@@ -101,7 +101,7 @@ nav_title = "Chapter 11"
 <p>Julie gripped her creation in her hands and hurried back to Zanoba and the others. She walked right past him and sank to her knees in front of Belfried.</p>
 <p>&quot;I&#x27;ll give this to you, so please, please forgive me!&quot; Tears and snot started pouring down her face. The first thing she had to do was subdue his anger, which was why she&#x27;d brought out her figurine and offered it.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-18/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-18/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Rudeus and Zanoba were both flabbergasted by her actions. The former, in particular, never dreamed she would have such an exaggerated reaction to their query. He assumed they should gently broach the subject with Julie, since it would be difficult for her to admit she no longer wanted to be their slave. That&#x27;s why he was caught off guard when Zanoba waltzed up to her and outright blurted the whole question.</p>
 <p>And now things had come to this. Of course he was utterly floored. The only person present who wasn&#x27;t was Belfried. He&#x27;d planned to negotiate a price with Julie after their other discussions were dealt with, but when the object of his desires was suddenly thrust in front of him, he joyfully reached for it.</p>
@@ -148,7 +148,7 @@ nav_title = "Chapter 11"
 <p>Zanoba cocked his head. &quot;What are you saying? This masterful craftsmanship is a product of your hard work. You made every inch of it carefully—beautifully, even. Perhaps some parts only turned out perfect by coincidence, but at least half of it is a product of your own abilities.&quot;</p>
 <p>&quot;…Thank you. I&#x27;m going to continue honing my skills!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-18/insert-08.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-18/insert-08.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Very good.&quot; Zanoba nodded, pleased. &quot;And also, Julie, I meant what I said earlier. If there is anything you desire, you need only speak it. I will do whatever is in my power to grant your wish.&quot;</p>
 <p>&quot;Um… Let me think on that a little bit longer,&quot; she said awkwardly, feeling embarrassed by all of his praise.</p>

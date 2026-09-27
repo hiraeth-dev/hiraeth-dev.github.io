@@ -51,7 +51,7 @@ nav_title = "Interlude"
 <p>&quot;…Geese.&quot;</p>
 <p>&quot;Ah, Geese would make a great teacher. He was a better cook than most,&quot; Roxy said. She deliberately didn&#x27;t change the subject. Geese might be their enemy, but that wasn&#x27;t relevant at the moment. &quot;What did you learn from him?&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-22/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-22/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;He wouldn&#x27;t teach me,&quot; Eris muttered.</p>
 <p>&quot;Why not?&quot; Roxy inquired.</p>

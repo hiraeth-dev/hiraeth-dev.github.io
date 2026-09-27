@@ -230,7 +230,7 @@ nav_title = "Chapter 9"
 <p>Whew, scary. I could understand believing in God, but you couldn&#x27;t believe it to the point that you got tunnel vision. Wasn&#x27;t your God supposed to be forgiving?</p>
 <p>Just then, a voice suddenly came from behind. &quot;Pardon, Therese? May I join in on your conversation?&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-20/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-20/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The e-girl that the knights were simping over was peering at us. Her entourage was right behind her, ready to draw their blades at a moment&#x27;s notice.</p>
 <p>&quot;I believe I heard you say the name &#x27;Eris.&#x27; Might you be an acquaintance of a certain red-haired Miss Eris? The swordswoman?&quot;</p>

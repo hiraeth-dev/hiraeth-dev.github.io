@@ -221,7 +221,7 @@ nav_title = "Chapter 12"
 <p>&quot;Come on, it&#x27;s not that big a deal. I was just helping out my friend.&quot;</p>
 <p>Sylphie took the princess&#x27; hands and squeezed them gently as she spoke. They had been friends for an entire decade now, hadn&#x27;t they? You could really tell how much they cared about each other.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-17/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-17/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Please do come back to see me, Sylphie. You&#x27;re welcome any time.&quot;</p>
 <p>&quot;I will, I promise. And if you happen to be in Ranoa… well, I guess you wouldn&#x27;t have time to stop by our house or anything…&quot;</p>

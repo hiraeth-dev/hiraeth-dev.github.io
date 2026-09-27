@@ -93,7 +93,7 @@ nav_title = "Chapter 7"
 <p>After hearing my confirmation, Ariel said sharply, &quot;Begin!&quot;</p>
 <p>&quot;Haaaaah!&quot; Luke bellowed and kicked off from the ground. As the snow scattered, he launched his body toward mine.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-10/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-10/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>He was slow. No—compared to the average person, he probably wasn&#x27;t that slow. He was probably about as quick as Linia, but still, slow enough that I could predict his movements. He was nowhere at Eris&#x27; or Ruijerd&#x27;s level, never mind Orsted&#x27;s. He was probably a step behind Soldat, too. This was all he could muster, even with a magic item?</p>
 <p>Luke closed in, swinging his sword diagonally. &quot;Hah!&quot;</p>

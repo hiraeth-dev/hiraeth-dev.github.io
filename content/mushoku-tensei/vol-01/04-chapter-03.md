@@ -55,7 +55,7 @@ nav_title = "Chapter 3"
 <p>Splish.</p>
 <p>In my moment of shock, the ball of water plopped to the floor.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-01/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-01/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Wait.&quot; I hadn&#x27;t shouted an invocation, had I? But then… why? All I&#x27;d done was put myself into the same mental space as the last time I&#x27;d tried the spell. Did incantation not matter much when reproducing the flow of magical power?</p>
 <p>Was using magic without chanting really that easy? That had to be a high-level skill, right? &quot;If it&#x27;s that easy, what&#x27;s the point of the incantation at all?&quot; I mused aloud. Here I was, a complete beginner, and I&#x27;d successfully pulled off a spell without any words at all. I&#x27;d simply focused the magical energy of my body in the front of my mind and then willed it to take shape.</p>

@@ -82,7 +82,7 @@ nav_title = "Chapter 7"
 <p>&quot;Ah. If you say so, Master. My apologies, Sir Badi.&quot;</p>
 <p>&quot;Bwahahahaha! You can&#x27;t even drink when you please? The life of a student must be an unhappy one!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-09/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-09/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>With this boisterous conversation running in the background, I ate my lunch and set out for my next class. This one was a course on Advanced Healing, located in a fifth-year classroom.</p>
 <p>I&#x27;d been surprised to find that Pursena was taking this class as well. Specifically, the surprising part was that it was just Pursena. Linia was taking a different class. Normally, Pursena didn&#x27;t take anything seriously. But to her credit, she actually paid attention to the lectures… while gnawing on sticks of jerky, of course.</p>

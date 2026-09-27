@@ -136,7 +136,7 @@ nav_title = "Interlude"
 <p><em>He&#x27;s pressuring her into carnal relations!</em></p>
 <p>Rudeus Greyrat was a man known for having two other wives in addition to Eris. Nina remembered rumors about him being rather…amorous, as well. Word on the street was that he&#x27;d also done a lot of work behind the scenes to help Ariel become ruler. If he really was under Orsted&#x27;s command, then he&#x27;d likely assisted Ariel as Orsted&#x27;s pawn. And now, he was blackmailing her into sleeping with him.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-20/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-20/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I&#x27;ll kill him, Nina decided in an instant.</p>
 <p>No need to think. She didn&#x27;t know what secret Ariel was being blackmailed with. She didn&#x27;t know how strong Rudeus was. Isolde was under Ariel&#x27;s command. If the boss of a friend was being blackmailed, then there was no reason to stay her blade. She didn&#x27;t even have her sword, but none of that mattered; Nina would find a way to cut him down.</p>

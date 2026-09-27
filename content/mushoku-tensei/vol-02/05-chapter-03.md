@@ -32,7 +32,7 @@ nav_title = "Chapter 3"
 <p>Thank you, Wise Old Sage!</p>
 <p>After I had my fill, I called out to her in a quiet voice. &quot;Young Miss, wake up please. Miss Eris, it&#x27;s arithmetic funtime!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-02/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-02/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>She wasn&#x27;t waking up. I had no other choice.</p>
 <p>Don&#x27;t blame me if your panties get taken. It&#x27;s your fault for being a bad girl, I thought.</p>

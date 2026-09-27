@@ -189,7 +189,7 @@ nav_title = "Chapter 11"
 <p>The instant those words left my mouth, he pushed me onto the bed.</p>
 <p>And then—</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-09/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-09/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><strong>Rudeus</strong></p>
 <p><strong>I</strong> OPENED MY EYES and stared up at the underside of the top bunk. I was in my room. And I remembered the events of last night clearly.</p>

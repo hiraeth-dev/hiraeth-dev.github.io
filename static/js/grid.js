@@ -6,6 +6,11 @@
   const c = document.getElementById('grid-canvas') || document.getElementById('bg-canvas');
   if (!c) return;
 
+  const conn = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+  if (conn && (conn.saveData || conn.effectiveType === 'slow-2g' || conn.effectiveType === '2g')) {
+    return;
+  }
+
   const ctx = c.getContext('2d');
   let mx = -9999, my = -9999, lmx = -9999, lmy = -9999;
   let pts = [];

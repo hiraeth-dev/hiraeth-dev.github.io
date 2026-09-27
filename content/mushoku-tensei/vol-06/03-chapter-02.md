@@ -66,7 +66,7 @@ nav_title = "Chapter 2"
 <p>Raw egg mixed with rice really was the best meal ever—and perfectly balanced, too. As we said that, we finished our food, gobbling down the last of the crunchy, burnt rice on the bottom.</p>
 <p>Ruijerd was the only one who didn&#x27;t get to share the meal, but he made no complaints. He&#x27;s the real adult, I thought. Still, I did feel a little guilty. Next time, I&#x27;d make sure he got a share.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-06/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-06/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>We departed from the King Dragon Realm and took the highway up north. There were two more countries between us and the Shirone Kingdom: the Sanakia Kingdom and the Kikka Kingdom. They were both vassal states to the King Dragon Realm.</p>
 <p>Rice cultivation was booming in the Sanakia Kingdom. Its climate must have been perfect for it, because the highway was lined with rice paddies. There were lots of rivers in the area, so the topography was probably similar to Japan and East Asia. The rice was the same as the kind I ate in the King Dragon Realm, meaning it was probably exported from here. I decided to call it Sanakia rice.</p>

@@ -156,7 +156,7 @@ nav_title = "Interlude"
 <p>As though this sight had broken her grim mood, she laughed.</p>
 <p>&quot;You don&#x27;t expect me to eat all that! …Aha, ahahahaha!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-20/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-20/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Saying it aloud made her crack up even harder. The mercenaries were being laughed at, but they took it well because of how happy Aisha was. Every one of them, Aisha included, looked relieved and full of joy. After spending all day having Norn&#x27;s popularity shoved in her face, Aisha realized that she was equally popular in her own corner of the world.</p>
 <p>&quot;Hey, Big Brother, since they&#x27;re here and all, is it all right if we all eat together on the lawn?&quot;</p>

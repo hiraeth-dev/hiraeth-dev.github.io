@@ -174,7 +174,7 @@ nav_title = "Chapter 1"
 <p>&quot;Lord Maxwell is the wandering type,&quot; Sylvaril answered. &quot;Assuming he hasn&#x27;t already passed away, he is probably out venturing somewhere.&quot;</p>
 <p>&quot;Oh, that is a shame. Such a magnificent man… If only I had the chance to meet him…&quot; Zanoba could barely contain his excitement. Well, to be honest, it wasn&#x27;t like he was trying.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-14/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-14/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;May we continue?&quot; Sylvaril asked.</p>
 <p>&quot;Oh, yes, of course. My apologies. I was simply moved by the greatness of his work.&quot;</p>

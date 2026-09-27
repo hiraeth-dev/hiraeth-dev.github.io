@@ -111,7 +111,7 @@ nav_title = "Chapter 4"
 <p>&quot;Yeah? What&#x27;s that?&quot;</p>
 <p>&quot;Why didn&#x27;t Rudy know about what happened to Buena Village? I&#x27;m positive I had a message waiting for him at Zant Port.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-05/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-05/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Geese opened his mouth as if to explain, then grimaced slightly and let it fall shut. I recognized that expression. It meant he was hiding something.</p>
 <p>&quot;Uh, I dunno. He probably just got unlucky and didn&#x27;t notice it.&quot;</p>
@@ -331,5 +331,5 @@ nav_title = "Chapter 4"
 <p>I patted the back of Paul&#x27;s head a few times. For a while, the two of us just cried together.</p>
 <p>And so, for the first time in five years, I was finally reunited with my father.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-05/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-05/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>

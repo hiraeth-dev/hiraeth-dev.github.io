@@ -53,7 +53,7 @@ nav_title = "Chapter 4"
 <p>&quot;Congratulations. You found the Superd.&quot;</p>
 <p>&quot;I did,&quot; Ruijerd agreed, his eyes crinkling into a smile. Here, he was surrounded by people like him. Well, not exactly like him—the other four here were a bit grim—but Ruijerd looked happy among them.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-24/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-24/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;But Rudeus,&quot; he went on, &quot;why are you here?&quot;</p>
 <p>Oops, that&#x27;s right. I &#x27;hadn&#x27;t come here for a teary reunion. I couldn&#x27;t sit around reminiscing about old times.</p>

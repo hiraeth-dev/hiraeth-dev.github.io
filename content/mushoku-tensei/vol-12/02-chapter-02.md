@@ -117,7 +117,7 @@ nav_title = "Chapter 2"
 <p>&quot;Lord Rudeus! Would the both of you please stop? My goodness.&quot; Lilia glanced between the two of us before she spoke, sighing as she did so. Still, she did have a smile on her face.</p>
 <p>We continued talking after that, well into the night.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-12/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-12/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>By midnight, we&#x27;d turned off the lights and settled into our beds. I wondered if Paul and Lilia were already asleep. I could hear their rhythmic sounds of their breathing as they lay nearby. Apparently, they weren&#x27;t waiting for me to fall asleep so they could get it on. Paul did say he was going to restrict himself until Zenith was found, so maybe he really was keeping to his word.</p>
 <p>I couldn&#x27;t sleep, perhaps because I was a bit turned on from our talk. I&#x27;d never dreamed a day would come when I could actually experience swapping sex stories. Life sure was unpredictable.</p>

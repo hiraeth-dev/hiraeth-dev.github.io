@@ -38,7 +38,7 @@ nav_title = "Chapter 14"
 <p>&quot;Uhm, she got a little tu—&quot;</p>
 <p>Aisha stopped herself in midsentence. Her eyes had turned to the doorway to our living room. Roxy was peeking out from behind the door with only half her body visible.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-17/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-17/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Hey there, Roxy,&quot; I called. &quot;We just got back.&quot;</p>
 <p>At a glance, she didn&#x27;t look sick or injured. More like the picture of health.</p>

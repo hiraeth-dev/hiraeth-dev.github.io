@@ -118,7 +118,7 @@ nav_title = "Chapter 1"
 <p>&quot;I say puppet, but I won&#x27;t do something as extreme as manipulating her. As long as we can establish ties to Asura Kingdom in the future, that will be enough.&quot;</p>
 <p>&quot;All right then.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-16/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-16/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>He was probably thinking a hundred years into the future. Each small step we took would add up, altering the course of history in the process. As a result, the world would be very different in another century. For instance, we could persuade the princess to focus more on magical research or strengthening the military. We could even lay the groundwork necessary to erode the entire kingdom, if we wanted.</p>
 <p>&quot;Uh, are you sure it&#x27;s okay to do that?&quot; I asked, disturbed by my last thought.</p>

@@ -169,7 +169,7 @@ nav_title = "Chapter 6"
 <p>I wasn&#x27;t the only one flabbergasted. Cliff—and Elinalise—looked utterly dumbfounded, too.</p>
 <p>&quot;Father told me that my grandmother was one of Rudy&#x27;s father&#x27;s companions,&quot; Sylphie explained.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-10/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-10/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Had he really said that? Wait…that made sense, actually. Laws had said he and Paul became friends while he was helping guard the village. Maybe he&#x27;d figured out Paul&#x27;s connection to Elinalise through their conversations, though I doubted Paul knew of it.</p>
 <p>It was a small world. Now that I thought about it, the woodcarved pendant that Sylphie made me had the same shape as the pendant on Elinalise&#x27;s sword. In fact, their facial features were similar, too.</p>

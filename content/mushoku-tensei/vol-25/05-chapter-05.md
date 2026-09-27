@@ -160,7 +160,7 @@ nav_title = "Chapter 5"
 <p>If he was just getting serious now, then he was too late. Eris and Ruijerd had joined me and Sandor. It was four on one. Even if the one in the equation was one of the Seven Great Powers, equipped with the world&#x27;s strongest sword.</p>
 <p>&quot;In my right hand, a sword.&quot; Alec raised the point of the sword held in his right hand up to the sky. &quot;In my left hand, a sword.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-25/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-25/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>He gripped the hilt with his left hand. A two-handed grip. Up until now he&#x27;d been swinging the greatblade with one hand, but now he held it in two. Was this his true fighting style, then?</p>
 <p>Sandor cried out sharply, &quot;We&#x27;re finished! Flee!&quot; He dived to one side.</p>

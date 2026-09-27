@@ -12,7 +12,7 @@ nav_title = "Side Story"
 <p>However, déjà vu wasn&#x27;t the reason why Roxy paused. It was because there was a clear difference in the air here compared to Millis Continent.</p>
 <p>It&#x27;s been so long, she thought. Nostalgia rose from the depths of her chest. When was the last time she was here? It must have been about fifteen years ago. Now that she thought about it, she realized how much time had passed since she started envying the humans and fled from her village.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-04/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-04/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>When she landed in Millis Continent&#x27;s Millishion back then, and ate the sweets made by humans, she was shocked at how such delicious food could exist in the world. She decided then that she would never eat food from the Demon Continent again, and that she would never return, either.</p>
 <p>A bit simple-minded, if I do say so myself, she thought.</p>

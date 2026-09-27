@@ -116,7 +116,7 @@ nav_title = "Chapter 1"
 <p>I hadn&#x27;t said anything like that, just for the record. My party hadn&#x27;t been &quot;wiped out,&quot; and I wasn&#x27;t exactly broke. I had enough cash to last me for a while at least.</p>
 <p>&quot;But here&#x27;s the thing, kid…that look on your face is kind of a problem. You don&#x27;t look like someone who&#x27;s ready to take on the world alone. You look like a guy who doesn&#x27;t even care if he lives or dies.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-07/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-07/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;…&quot; I reached up and touched my face experimentally. My expression right now probably indicated that she&#x27;d seen right through me.</p>
 <p>&quot;On that note, I&#x27;ve got a proposal to make. How about we do that job together?&quot;</p>

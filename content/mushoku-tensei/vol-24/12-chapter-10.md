@@ -81,7 +81,7 @@ nav_title = "Chapter 10"
 <p>&quot;The teleportation circle and contact tablet have been deactivated. There&#x27;s no problem on our end, so Orsted&#x27;s office in Sharia has probably been attacked. It&#x27;s possible they attacked our house at the same time. Right now, there&#x27;s no one at the house…&quot;</p>
 <p>&quot;Right.&quot; Eris listened until partway through, then stood up. &quot;Does Rudeus know about this?&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-24/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-24/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;I don&#x27;t know. He might.&quot;</p>
 <p>Eris stood for a while without moving. She stayed in the same pose and just pulled her chin with the corners of her mouth turned down. After a moment, she looked up again, like she&#x27;d arrived at an answer.</p>

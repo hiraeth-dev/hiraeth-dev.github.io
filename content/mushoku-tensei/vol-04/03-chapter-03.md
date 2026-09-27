@@ -149,7 +149,7 @@ nav_title = "Chapter 3"
 <p>Then again, if I could comfort her properly, her affection meter would undoubtedly go up. She would fall head over heels for me, and the two of us would hold each other cheek-to-cheek in a love dance. Ruijerd must have assumed that was what would happen, and that&#x27;s why he&#x27;d left us alone.</p>
 <p>&quot;Don&#x27;t lose all of your confidence over this. I heard you managed to beat Ruijerd once. That&#x27;s amazing, right?&quot; I took a seat beside her as I spoke. When I did, Eris leaned her body against mine. The sweet scent of sweat filled my nostrils. It was a good smell, but I had to rein myself in. I needed to be a gentleman in this situation.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-04/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-04/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;It&#x27;s cheating, Rudeus. You got a demon eye for yourself while I had to work my butt off…&quot;</p>
 <p>I froze. My head instantly went numb. My inner wolf receded with its tail tucked firmly between its legs. There was nothing I could say in response.</p>

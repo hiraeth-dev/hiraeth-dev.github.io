@@ -164,7 +164,7 @@ nav_title = "Chapter 2"
 <p>&quot;Huh? Er, of course. I would very much appreciate it, Eris.&quot; It took the man a moment, but he took his cue eventually.</p>
 <p>&quot;W-well, if you insist! I suppose I&#x27;ll be your friend!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-03/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-03/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The sight of Ruijerd bowing his head to her was enough to break through the last of Eris&#x27;s defenses. Everything was really was so simple with her. It made me feel kind of ridiculous for overthinking things so much. Then again, I guess someone needed to compensate for her impulsiveness.</p>
 <p>&quot;Phew. Okay then. I think I&#x27;m going to get a little more rest, if you don&#x27;t mind.&quot;</p>

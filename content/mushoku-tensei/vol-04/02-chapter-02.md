@@ -38,7 +38,7 @@ nav_title = "Chapter 2"
 <p>No, wait, this wasn&#x27;t a succubus. As far as I knew, there were no succubi among the demon races. If I remembered correctly, succubi inhabited the Begaritt Continent. Paul had had an unusually tense look on his face when he told me, &quot;Our race has no chance against them.&quot; Even I would surely be powerless in the face of a succubus if I actually met one. Succubi were the natural enemy of the Greyrat family.</p>
 <p>That aside, there were no monsters within the city. In other words, she was no succubus. She was just some demon kid in skimpy clothing.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-04/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-04/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Y-you…you there, what have you…?&quot; She was trembling like a fawn. &quot;Th-this man is… He&#x27;s…!&quot; She had a look of utter disbelief on her face. A look of oh gosh golly mister, what have you done?!</p>
 <p>&quot;Ah, sorry. Did you know him?&quot; I asked, tilting my head. The look on that middle-aged man&#x27;s face didn&#x27;t give me the impression that he was acquainted with this kid. If I were to describe it, it was more like the look of a man past his prime getting aroused by a little girl. Look at him, ruddy face contorted into a smile even though he was unconscious. I had no doubt he&#x27;d take her home and provide a lavish meal and put her in bed, but in return he&#x27;d expect a long, hot night.</p>
@@ -148,7 +148,7 @@ nav_title = "Chapter 2"
 <p>&quot;I&#x27;m the Demon World&#x27;s Great Emperor. I wouldn&#x27;t &#x27;play around&#x27; about giving you a demon eye.&quot;</p>
 <p>Dammit, my eye… My eye is… Aaaaaaah—wait, what? I paused in confusion. I could see. Everything looked like it was doubled, though…? What the heck was going on? It was nauseating.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-04/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-04/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Depending on how you supply mana to it, you should be able to make it as thin as possible. Well, do your best to learn how to use it.&quot;</p>
 <p>&quot;Huh? What? What are you talking about?&quot;</p>

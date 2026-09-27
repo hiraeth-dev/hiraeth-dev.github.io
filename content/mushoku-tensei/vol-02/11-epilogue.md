@@ -81,5 +81,5 @@ nav_title = "Epilogue"
 <p>I want to sit at the table with all of them again, even just once more, she thought as her feet took her south.</p>
 <p>That was the beginning of Roxy Migurdia&#x27;s long journey.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-02/insert-10.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-02/insert-10.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>

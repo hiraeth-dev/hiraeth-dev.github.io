@@ -57,7 +57,7 @@ nav_title = "Chapter 1"
 <p>I pointed my finger at him and concentrated my magic. Once the Stone Canon formed, it began to spin rapidly, like a drill whose buzzing reverberated around the room. The young adventurers, their eyes wide, made to stand up.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-21/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-21/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Stay where you are,&quot; I said brusquely, and they stopped.</p>
 <p>I looked into Geese&#x27;s eyes and asked again,</p>

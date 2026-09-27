@@ -194,7 +194,7 @@ nav_title = "Chapter 6"
 <p>&quot;Juliette.&quot;</p>
 <p>&quot;Julie,&quot; she said with a clumsy grin. Close enough.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-08/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-08/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>And that was how Juliette (nicknamed Julie) came into Zanoba&#x27;s care. As Zanoba and I started training her, she began to slowly follow after and support him in various aspects of his otherwise messy life. At night, I tutored her in voiceless magic and the human tongue. Before she went to bed, Zanoba would brainwash—I mean, instruct her by means of rambling lectures on dolls and figurines. He also made her go through dexterity-developing exercises with him, probably because he still wanted to be able to make figurines by himself someday.</p>
 <p>In the meantime, there was still no sign that I&#x27;d achieve my true objective any time soon.</p>

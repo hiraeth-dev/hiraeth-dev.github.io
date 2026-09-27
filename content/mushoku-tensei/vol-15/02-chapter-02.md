@@ -212,7 +212,7 @@ nav_title = "Chapter 2"
 <p><em>And if I succeed…</em></p>
 <p><em>Well, maybe I can give the Man-God a taste of his own medicine.</em></p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-15/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-15/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Once I finished reading the final entry, I closed the diary.</p>
 <p>The back cover was scarred and battered—just like the front. Now that I&#x27;d read the whole thing, I could see the meaning in those scratches. They were testaments to the long, painful years I&#x27;d spent carrying this thing around.</p>

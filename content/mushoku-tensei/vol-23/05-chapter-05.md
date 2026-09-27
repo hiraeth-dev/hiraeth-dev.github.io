@@ -208,7 +208,7 @@ nav_title = "Chapter 5"
 <p>She nodded despite those uncertainties.</p>
 <p>&quot;Also, this,&quot; I said, handing her one more letter, far thinner than the one before. &quot;Just in case years have passed in that world, and if you have nowhere to go and nobody to rely on…I wrote this letter to tell my old brothers to look after you. Even if it&#x27;s just for a little bit.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-23/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-23/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;…!&quot;</p>
 <p>Nanahoshi accepted this letter with shaky hands.</p>

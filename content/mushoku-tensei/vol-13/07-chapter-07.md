@@ -155,7 +155,7 @@ nav_title = "Chapter 7"
 <p>&quot;Of course.&quot;</p>
 <p>Slowly bending over, Elinalise kissed Cliff on his forehead, rather than his lips.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-13/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-13/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>This part of the ceremony was based on a story from the life of Saint Millis.</p>
 <p>On the day of his departure for the battlefield, Millis had bestowed his necklace on his &quot;Most Beloved.&quot; In return, she kissed him on the forehead, praying as she did so for his safe return.</p>

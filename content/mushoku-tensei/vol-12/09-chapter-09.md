@@ -174,6 +174,6 @@ nav_title = "Chapter 9"
 <p>Then the light went out in his eyes.</p>
 <p>Paul was dead.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-12/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-12/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><strong>Chapter 10: Parents</strong></p>

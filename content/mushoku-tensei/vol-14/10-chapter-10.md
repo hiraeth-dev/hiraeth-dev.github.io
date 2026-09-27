@@ -183,7 +183,7 @@ nav_title = "Chapter 10"
 <p>His lips trembled in surprise. &quot;So…I succeeded?&quot; He glanced around, eyes narrowing as his expression filled with emotion. However, he then looked down at his hand, touched his stomach, and flinched. His smile turned self-deprecating. &quot;Nah, this is a failure. Guess there was no hope of me succeeding…&quot;</p>
 <p>I felt like I had seen him somewhere before, but I had no recollection of him. There was something familiar, though, as if he resembled someone. Who could it be? Paul, maybe? No, not him. Sauros then? But he didn&#x27;t exude the same level of boldness as Sauros. This old man seemed much more timid.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-14/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-14/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Wh-who are you? Um, are you the Man God perhaps?&quot;</p>
 <p>The moment I said that name, his eyes turned toward me and went wide.</p>

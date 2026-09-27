@@ -1775,6 +1775,54 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   box-shadow: 0 0 0 var(--accent);
 }
 
+/* ── Dictionary Skeleton Loading ── */
+.dict-skeleton-result {
+  border-radius: 8px;
+  padding: 18px 22px;
+  margin-top: 14px;
+  width: 100%;
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--sat, 155%));
+  border: 1px solid var(--border);
+  box-shadow: var(--glass-shadow), inset 0 1px 0 var(--glass-hi);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.skeleton-line, .skeleton-block {
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--bg-panel) 60%, transparent) 0%,
+    color-mix(in srgb, var(--accent) 15%, transparent) 50%,
+    color-mix(in srgb, var(--bg-panel) 60%, transparent) 100%
+  );
+  background-size: 200% 100%;
+  animation: glass-shimmer 2.2s infinite ease-in-out;
+  border-radius: 4px;
+}
+.skeleton-title {
+  height: 26px;
+  width: 38%;
+}
+.skeleton-subtitle {
+  height: 14px;
+  width: 20%;
+}
+.skeleton-block {
+  height: 48px;
+  width: 100%;
+  margin-top: 4px;
+}
+.skeleton-line.skeleton-text {
+  height: 14px;
+  width: 90%;
+}
+.skeleton-line.skeleton-text-short {
+  height: 14px;
+  width: 60%;
+}
+
 /* ── Typing test ── */
 .terminal-type { max-width: 1040px; margin: 30px auto; }
 #type-page.wrap { max-width: 1040px; }
@@ -2674,10 +2722,20 @@ html.anim-on .reveal.in {
   color: var(--fg-muted);
 }
 
-/* ── Light Novel & Roshidere Illustrations ── */
+/* ── Glass Skeleton Shimmer & Illustrations ── */
+@keyframes glass-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
 .chapter-illustration {
   margin: 2.25em 0;
   text-align: center;
+  position: relative;
 }
 .chapter-illustration img {
   border-radius: 6px;
@@ -2688,6 +2746,20 @@ html.anim-on .reveal.in {
   height: auto;
   margin: 0 auto;
   display: block;
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--bg-panel) 60%, transparent) 0%,
+    color-mix(in srgb, var(--accent) 15%, transparent) 50%,
+    color-mix(in srgb, var(--bg-panel) 60%, transparent) 100%
+  );
+  background-size: 200% 100%;
+  animation: glass-shimmer 2.2s infinite ease-in-out;
+  min-height: 240px;
+}
+.chapter-illustration img.loaded {
+  animation: none;
+  background: transparent;
+  min-height: unset;
 }
 .illustrations-gallery {
   display: flex;
@@ -2699,6 +2771,7 @@ html.anim-on .reveal.in {
   margin: 0;
   max-width: 100%;
   text-align: center;
+  position: relative;
 }
 .illustrations-gallery img {
   border-radius: 8px;
@@ -2709,6 +2782,20 @@ html.anim-on .reveal.in {
   height: auto;
   display: block;
   margin: 0 auto;
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--bg-panel) 60%, transparent) 0%,
+    color-mix(in srgb, var(--accent) 15%, transparent) 50%,
+    color-mix(in srgb, var(--bg-panel) 60%, transparent) 100%
+  );
+  background-size: 200% 100%;
+  animation: glass-shimmer 2.2s infinite ease-in-out;
+  min-height: 280px;
+}
+.illustrations-gallery img.loaded {
+  animation: none;
+  background: transparent;
+  min-height: unset;
 }
 .illustrations-gallery figcaption {
   margin-top: 0.75rem;
@@ -2718,6 +2805,38 @@ html.anim-on .reveal.in {
   letter-spacing: 0.05em;
   text-transform: uppercase;
 }
+
+/* ── Low-connection status banner ── */
+.conn-notice {
+  background: color-mix(in srgb, var(--bg-panel) 85%, transparent);
+  border: 1px solid var(--border);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  color: var(--fg-muted);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  padding: 6px 14px;
+  margin: 10px auto;
+  max-width: var(--wrap);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+.conn-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 8px var(--accent);
+  animation: pulse-dot 1.8s infinite;
+}
+@keyframes pulse-dot {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 1; }
+}
+
 .footnotes {
   margin-top: 3rem;
   padding-top: 1.5rem;

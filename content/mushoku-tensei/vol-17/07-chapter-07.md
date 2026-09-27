@@ -76,7 +76,7 @@ nav_title = "Chapter 7"
 <p>&quot;Eris! Ghislaine! It&#x27;s me!&quot;</p>
 <p>Eris stared at the woman from her horse, but didn&#x27;t immediately reply.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-17/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-17/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;I&#x27;m so glad to see you&#x27;re still alive and well, Eris! My master was so pessimistic about your chances against the Dragon God that I rather assumed you were riding off to die… But in any case, what are you doing in Asura? If you&#x27;d just sent a letter in advance, I—&quot;</p>
 <p>&quot;Who the heck are you?&quot;</p>

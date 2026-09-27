@@ -262,7 +262,7 @@ nav_title = "Chapter 2"
 <p>Someone had come between me and the bandits. They stood with their broad, sturdy back to me. I recognized the ears on the back of their head. It was Ghislaine Dedoldia. She glanced back at me and nodded.</p>
 <p>The moment she put her hand to the sword at her waist, the tip of it cut through the air in a flash of red light.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-02/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-02/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Huh…?&quot;</p>
 <p>The head of the man knee-deep in mud fell from his neck. This was despite the considerable distance between him and Ghislaine, too far for a sword&#x27;s reach.</p>

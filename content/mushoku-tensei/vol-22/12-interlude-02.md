@@ -188,7 +188,7 @@ nav_title = "Interlude"
 <p>&quot;It&#x27;s okay,&quot; Roxy said, hugging Lara to her. Her mouth was tight as she struggled not to cry. &quot;I&#x27;ll never leave you.&quot;</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-22/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-22/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The worry left Lara&#x27;s face, and she relaxed.</p>
 <p>&quot;Roxy, when do you think you&#x27;ll be back?&quot; Rokari asked.</p>

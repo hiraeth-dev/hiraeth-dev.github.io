@@ -106,7 +106,7 @@ nav_title = "Chapter 15"
 <p>&quot;Well, Roxy, let&#x27;s support Rudy together, then.&quot;</p>
 <p>&quot;Thank you, Sylphie.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-12/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-12/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>After they shared those words, they shook hands. The gesture radiated a curious sort of solidarity, and seeing it, I let out a sigh of relief. An unconscious reaction that slipped from me the moment I thought things would be okay.</p>
 <p>Norn glanced at me and furrowed her brows. &quot;If Miss Sylphie is accepting of it, then I have nothing more to say.&quot; Apparently, she wasn&#x27;t quite on board yet. She frowned slightly, clearly still displeased as she glared over at us. Perhaps I had earned her contempt once again.</p>

@@ -147,7 +147,7 @@ nav_title = "Chapter 6"
 <p>&quot;Ugh…&quot;</p>
 <p>Aisha looked visibly annoyed. As though to say, I&#x27;ll do it if I have to, but I don&#x27;t want to.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-20/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-20/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>If that was what excellence took, I was sure that Aisha had it in her. She could learn to comfort people and give them little pep talks. But that wouldn&#x27;t necessarily mean she could empathize. That was what I really wanted her to learn somewhere down the line; the anguish of someone who just can&#x27;t get it right, the frustration of someone who wants it desperately and still fails, and the powerlessness of someone who knows what to do, but whose body won&#x27;t cooperate. If Aisha could learn those feelings, then I was sure her tension with the mercenaries would ease considerably.</p>
 <p>If she never did, well… some people live with flaws like that for their entire lives. And they do, you know, okay. But.</p>

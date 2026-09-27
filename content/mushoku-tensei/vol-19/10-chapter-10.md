@@ -271,7 +271,7 @@ nav_title = "Chapter 10"
 <p>&quot;He&#x27;s…gone?&quot; asked Zanoba quietly.</p>
 <p>&quot;Yeah. I&#x27;m sorry, Zanoba.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-19/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-19/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I hadn&#x27;t even considered that he might suddenly leap to his death like that. But in retrospect, it might have been his intention from the start. Pax had been surrounded by his enemies, and felt he had no allies he could turn to. Maybe that was why he&#x27;d never tried to flee the palace—he thought he had nowhere to go.</p>
 <p>Maybe he&#x27;d anguished over the situation for days on end, ultimately deciding he was a complete failure as a king. Maybe he was ready to die from the moment we walked in that door.</p>

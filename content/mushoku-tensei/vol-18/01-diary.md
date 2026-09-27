@@ -93,7 +93,7 @@ nav_title = "Diary"
 <p>I&#x27;d like to continue doing the best I can.</p>
 <p>Your Son</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-18/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-18/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>With a thud, I shut my diary. I had written it like a letter—one I would never send to anyone. There were days where writing like this hardened my resolve, and that resolve meant plenty of motivation to get me moving.</p>
 <p>&quot;All right, guess it&#x27;s time to go.&quot;</p>

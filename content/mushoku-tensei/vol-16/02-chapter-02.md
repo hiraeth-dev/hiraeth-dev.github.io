@@ -159,7 +159,7 @@ nav_title = "Chapter 2"
 <p><em>Ahh, he&#x27;s so soft… They definitely have to be using some kinda conditioner on him. And if he&#x27;s our Guardian Beast, that means I&#x27;ll be able to enjoy his fluffy fur every single day.</em></p>
 <p>&quot;Yep, I&#x27;ve gotta be mistaken. This definitely isn&#x27;t the Sacred Beast.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-16/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-16/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Nope. This was not the holy creature the beastfolk looked up to with such reverence. Definitely not. There was no way their protector god would show up here of all places. It had to be a lookalike.</p>
 <p><em>That&#x27;s right. This thing is a…a lion, that&#x27;s it!</em></p>

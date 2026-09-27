@@ -244,7 +244,7 @@ nav_title = "Chapter 1"
 <p>&quot;…What do you think?&quot;</p>
 <p>Gingerly, I tried moving my left hand. I opened and closed it, stretched out each finger starting from the thumb, and folded them down starting from the pinky. The crude-looking clay responded as if it was just another part of my body.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-13/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-13/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;It&#x27;s moving! It&#x27;s really moving!&quot;</p>
 <p>&quot;Ah, but there&#x27;s more to it than that. Try touching something, why don&#x27;t you?&quot;</p>

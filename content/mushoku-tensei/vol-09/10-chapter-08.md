@@ -202,7 +202,7 @@ nav_title = "Chapter 8"
 <p>&quot;Ah! S-Sorry, Rudeus!&quot; Flushing bright red, Fitz quickly tried to push himself up and off me.</p>
 <p>&quot;Master Fitz…you really are a girl, aren&#x27;t you?&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-09/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-09/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>He looked at me in shock, then gaped wordlessly for a few seconds before finally managing to shake his head. &quot;N-No! I told you, I&#x27;m a man!&quot;</p>
 <p>Jumping up to his feet, he...or she...backed away from me for a few paces, then turned around and sprinted for the exit. Fitz had left a number of books behind on the table. Maybe she&#x27;d been picking up some reference documents for a class, like on the day of our first meeting here.</p>

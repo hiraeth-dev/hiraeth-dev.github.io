@@ -71,7 +71,7 @@ nav_title = "Chapter 11"
 <p>Her eyes widened, her eyelashes trembled, and her mouth fell open just a little. But then she caught herself, reined in her expression, and tossed her head haughtily to the side.</p>
 <p>&quot;H-hmph! Well, if you insist… I guess I&#x27;ll let you!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-15/insert-08.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-15/insert-08.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>And with that, Eris Greyrat became my wife.</p>
 <p>***</p>

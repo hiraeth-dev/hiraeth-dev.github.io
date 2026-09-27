@@ -288,7 +288,7 @@ nav_title = "Chapter 4"
 <p>I had been saved.</p>
 <p>It was strange that I found myself thinking that, since I was the one who had saved her.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-07/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-07/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>It was near dawn by the time we returned to the city of Rosenburg. Halfway there, Sara suggested that we make camp, but I shot that down, anxious to get back. For some reason the thought of just the two of us camping frightened me a bit.</p>
 <p>&quot;Ah!&quot;</p>

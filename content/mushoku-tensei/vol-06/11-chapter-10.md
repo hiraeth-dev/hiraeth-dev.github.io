@@ -173,7 +173,7 @@ nav_title = "Chapter 10"
 <p>Raw egg mixed with rice really was the best meal ever—and perfectly balanced, too. As we said that, we finished our food, gobbling down the last of the crunchy, burnt rice on the bottom.</p>
 <p>Ruijerd was the only one who didn&#x27;t get to share the meal, but he made no complaints. He&#x27;s the real adult, I thought. Still, I did feel a little guilty. Next time, I&#x27;d make sure he got a share.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-06/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-06/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>We departed from the King Dragon Realm and took the highway up north. There were two more countries between us and the Shirone Kingdom: the Sanakia Kingdom and the Kikka Kingdom. They were both vassal states to the King Dragon Realm.</p>
 <p>Rice cultivation was booming in the Sanakia Kingdom. Its climate must have been perfect for it, because the highway was lined with rice paddies. There were lots of rivers in the area, so the topography was probably similar to Japan and East Asia. The rice was the same as the kind I ate in the King Dragon Realm, meaning it was probably exported from here. I decided to call it Sanakia rice.</p>
@@ -325,7 +325,7 @@ nav_title = "Chapter 10"
 <p>Amidst the echoing of her protests, the soldiers looked my way in confusion. &quot;Wh-who the hell are you…?&quot;</p>
 <p>The girl had a face that resembled Lilia&#x27;s, with Paul&#x27;s brown hair pulled back into a ponytail. She was wearing a baggy maid&#x27;s outfit. Her face, which would normally have been light-hearted and gleeful, was contorted with tears and streaming snot.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-06/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-06/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The soldiers had been glaring at her with obscene looks on their faces. Wait, no. That wasn&#x27;t right. They looked like they pitied her. Were they doing this out of duty, rather than because they wanted to?</p>
 <p>&quot;Who are you?! State your name!&quot;</p>
@@ -712,7 +712,7 @@ nav_title = "Chapter 10"
 <p>&quot;Then tell me, do you recognize this?&quot;</p>
 <p>What he produced from the bag this time was a Roxy figurine. He put it on the floor, then plunked himself down behind it.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-06/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-06/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;This demon figurine was discovered five years ago in the markets.&quot; He put his hand on his chin and gazed affectionately at the figurine.</p>
 <p>When I&#x27;d tried to use the Ruijerd figure to proselytize, I found out that demon figurines were forbidden due to the influence of the Millis religious organization. I assumed Zanoba was looking to condemn the person who&#x27;d created them, although he didn&#x27;t seem very angry.</p>
@@ -1153,7 +1153,7 @@ nav_title = "Chapter 10"
 <p>My eyes were more drawn to the other person, a young girl with black hair who followed behind him. Upon closer inspection, her hair was more of a dark brown shade, a slightly ashen color. I didn&#x27;t usually remember people by their hair color, but it shouldn&#x27;t have been hard to remember someone with pure black hair. Except I couldn&#x27;t recall anyone like that.</p>
 <p>There was another reason this girl caught my eye. She had a mask pulled over her face. It was pure white with nothing drawn on it, a mask with absolutely no decoration. There was nothing particularly memorable about it, and yet if you saw it once, you&#x27;d never forget it. If I were to liken it to anything, it would be one of the peel-off face masks from the world of my last life. Since it stood out so horribly, I doubted it was a fashion statement.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-06/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-06/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Since I was so captivated by this girl&#x27;s appearance—well, not that captivated—I didn&#x27;t notice Ruijerd sitting in the driver&#x27;s seat, his face white as a sheet. Eris was the same way. With each step the man took, bringing him closer, her face hardened and her grip on the hilt of her sword grew so tight that her hands turned white.</p>
 <p>When the man noticed us, he gave a curious tilt of the head.</p>

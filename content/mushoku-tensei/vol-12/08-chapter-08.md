@@ -145,7 +145,7 @@ nav_title = "Chapter 8"
 <p>You could say that finding her this way, with her body in one piece, was far better than we could&#x27;ve hoped.</p>
 <p>&quot;Enough with the fighting!&quot; Geese snapped.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-12/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-12/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>But Paul just leaned his face in toward me, as if to intimidate me. &quot;Rudy. She&#x27;s there. Zenith is there—your mother! How can you be so calm?&quot;</p>
 <p>&quot;You would prefer I panic? How would me losing my composure solve anything?&quot;</p>

@@ -336,7 +336,7 @@ nav_title = "Chapter 3"
 <p>&quot;Huh? Oh, what is it?&quot;</p>
 <p>&quot;Thank you. You&#x27;ve taught me a valuable lesson here.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-20/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-20/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Norn seemed a bit confused by Cliff&#x27;s sudden gentle laugh, but she soon responded with laughter of her own. She crossed her hands in front of her, straightened her posture, raised her chin, and said, &quot;No, I have you to thank for teaching me so much over the years.&quot;</p>
 <p>And with that, she gave her a small bow of her head.</p>

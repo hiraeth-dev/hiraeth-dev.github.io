@@ -165,7 +165,7 @@ nav_title = "Chapter 1"
 <p>He was a knight and not just an axe guy, then. Even though his name and his physique were tough, there was an innocence to his face. I read him as the strong, kind, silent type. He was maybe in his twenties—or even still a teenager.</p>
 <p>Chandle, in his ocher armor, had a silver fox thing going on. He was pretty broad himself, but next to Dohga, he looked like a reed. They looked like two parts of a tag-team boss battle.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-24/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-24/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Well, your wish is our command. I can do anything you need.&quot;</p>
 <p>&quot;Um, right…&quot; Now that they were here, what the heck would I do with them? Was the sensible option to put them on the mercenary team? Maybe I could stick them with Zanoba. I couldn&#x27;t see them all getting along.</p>

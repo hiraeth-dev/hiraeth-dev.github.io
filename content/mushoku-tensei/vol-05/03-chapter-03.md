@@ -122,7 +122,7 @@ nav_title = "Chapter 3"
 <p>The kid had Paul&#x27;s nose and Zenith&#x27;s golden hair. I recognized her immediately. It was Norn. Norn Greyrat—my little sister. She&#x27;d gotten a lot bigger since the last time I saw her. She&#x27;d be five years old by now, right? Maybe even six. Why was she standing in front of me with her arms spread wide?</p>
 <p>&quot;Stop picking on Daddy!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-05/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-05/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I blinked in confusion. &quot;Huh?&quot; Picking on Daddy? What? No. Come on…</p>
 <p>Norn was glaring at me, looking like she might burst into tears at any moment. When I looked around the room…for some reason, everyone was looking at me like I was the bad guy.</p>

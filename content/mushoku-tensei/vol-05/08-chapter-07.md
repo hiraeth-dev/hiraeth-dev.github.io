@@ -205,7 +205,7 @@ nav_title = "Chapter 7"
 <p>Therese was still groping me like crazy, incidentally. Since she was sitting behind me it was hard to say for sure, but I&#x27;d bet the woman had a pretty blissful expression on her face. This didn&#x27;t nauseate me or anything, but it was definitely kind of awkward. I mean, I had a lady pressing her breasts against me and playing with my body, and I wasn&#x27;t remotely excited. It was a very…unfamiliar feeling.</p>
 <p>&quot;Seriously, though. You are just too cute, Rudeus. I could just eat you up!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-05/insert-08.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-05/insert-08.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Sorry, does that mean you want to sleep with me?&quot;</p>
 <p>Therese&#x27;s response to this modest attempt at humor was to cover my mouth with her hand. &quot;You&#x27;re definitely cuter when you stay quiet. Hearing you talk brings Paul Greyrat to mind.&quot;</p>

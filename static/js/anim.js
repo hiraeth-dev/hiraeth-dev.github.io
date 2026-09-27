@@ -81,4 +81,34 @@
       io2.observe(el);
     })(counts[c]);
   }
+
+  /* image skeleton shimmer cleanup when loaded */
+  var imgs = doc.querySelectorAll('.chapter-illustration img, .illustrations-gallery img');
+  imgs.forEach(function(img) {
+    if (img.complete && img.naturalWidth > 0) {
+      img.classList.add('loaded');
+    } else {
+      img.addEventListener('load', function() {
+        img.classList.add('loaded');
+      }, { once: true });
+    }
+  });
+
+  /* low connection detection & adaptive indicator */
+  var conn = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+  if (conn) {
+    var isSlow = conn.saveData || (conn.effectiveType && (conn.effectiveType === 'slow-2g' || conn.effectiveType === '2g'));
+    if (isSlow) {
+      doc.documentElement.classList.add('low-conn');
+      var notice = doc.createElement('div');
+      notice.id = 'conn-notice';
+      notice.className = 'conn-notice';
+      notice.setAttribute('role', 'status');
+      notice.innerHTML = '<span class="conn-dot"></span> Low connection detected &mdash; skeleton placeholders active';
+      var topNav = doc.querySelector('nav.top');
+      if (topNav && topNav.parentNode) {
+        topNav.parentNode.insertBefore(notice, topNav.nextSibling);
+      }
+    }
+  }
 })();

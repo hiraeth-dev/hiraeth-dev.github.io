@@ -186,7 +186,7 @@ nav_title = "Extra Chapter"
 <p>I can&#x27;t let it end like this. I couldn&#x27;t, and neither could he.</p>
 <p>&quot;All right,&quot; he said with a savage grin, then reached out and took my still-outstretched hand. &quot;I&#x27;ll come be your pawn.&quot; It was all so quick, it felt a bit anticlimactic. But what I&#x27;d said just now had brought this guy around. This guy, the greatest swordsman in the world, so powerful all humankind knew his name.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-21/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-21/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;So what do I do now? Do I guard you?&quot; he asked.</p>
 <p>&quot;Uh, no…&quot;</p>

@@ -150,7 +150,7 @@ nav_title = "Chapter 6"
 <p>&quot;The Dragon God?! That settles it then!&quot; Atofe trembled all over as she gazed at the bottle. &quot;This is the very drink Urupen sent Carl and I when we got married! The fabled secret spirits of the Dragon Clan!&quot;</p>
 <p><em>Ahhh, so that&#x27;s the story. No wonder she likes it.</em></p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-22/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-22/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Its name: Nile Ale, the Dragon God&#x27;s Jewel!&quot;</p>
 <p><em>Man, what a killer move. I&#x27;ve got goosebumps.</em></p>

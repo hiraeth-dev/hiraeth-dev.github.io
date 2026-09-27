@@ -32,7 +32,7 @@ nav_title = "Chapter 9"
 <p>&quot;Ghislaine is amazing! Amazingly amazing! If you call for help, she&#x27;ll come immediately! She&#x27;s super fast! And super strong!&quot; Words that Eris probably wasn&#x27;t even thinking about spilled from her mouth. Even though the others didn&#x27;t understand what she was saying, the sorrow in her voice conveyed the meaning well enough. And she was also expressing my emotions.</p>
 <p>&quot;Ghislaine is…hic…guh…not someone you can just…hic…&quot; Eris tried her best to not punch anyone, even through her tears.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-04/insert-08.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-04/insert-08.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>That&#x27;s right, she couldn&#x27;t punch Gyes here. Ghislaine had been violent during her time in this village. If Eris swung a fist here, Gyes could just say, &quot;See? They&#x27;re two peas in a pod.&quot;</p>
 <p>When I looked over at Gyes, he seemed confused. &quot;No, I can&#x27;t… This is unbelievable. Ghislaine…is respected? This can&#x27;t…&quot;</p>

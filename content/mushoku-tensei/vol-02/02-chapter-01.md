@@ -53,7 +53,7 @@ nav_title = "Chapter 1"
 <p>&quot;And you, shut up!&quot;</p>
 <p>That rebuke silenced the butler immediately.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-02/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-02/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>If this were the master of the house, that meant he was my employer, right? He certainly was angry. There must have been something about me he found lacking. I&#x27;d tried to be as polite as I could when I introduced myself, but perhaps the etiquette of nobles was different here.</p>
 <p>&quot;Hmph. So I guess Paul didn&#x27;t even see fit to teach his own son manners!&quot;</p>
@@ -131,7 +131,7 @@ nav_title = "Chapter 1"
 <p>But it wasn&#x27;t like I could just run away. So instead I greeted her just as Philip had instructed me. &quot;It&#x27;s a pleasure to meet you. I&#x27;m Rudeus Greyrat.&quot;</p>
 <p>&quot;Hmph!&quot; She took one look at me and her nostrils flared, just like her grandfather&#x27;s. She had her arms crossed firmly over her chest as she glared down at me—both figuratively and literally, since she was taller than I was. Her expression turned sour as she said, &quot;What&#x27;s this, he&#x27;s younger than I am! And yet he&#x27;s supposed to teach me? Stop joking around!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-02/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-02/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I knew it—she had a lot of pride. But I couldn&#x27;t just back down. &quot;I don&#x27;t think age has anything to do with it,&quot; I said.</p>
 <p>&quot;Oh yeah?! Do you have some sort of problem with me?!&quot; Her voice was so loud my ears rang.</p>

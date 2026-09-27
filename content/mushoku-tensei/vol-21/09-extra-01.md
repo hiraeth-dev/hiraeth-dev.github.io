@@ -102,7 +102,7 @@ nav_title = "Extra Chapter"
 <p>&quot;Haa…haa…Lady Eris…&quot; gasped the Blessed Child after around thirty swings, her voice trembling. &quot;My…my arms…&quot;</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-21/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-21/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Yeah? Okay, that&#x27;s enough then. You can stop,&quot; Eris said. The Blessed Child dropped the staff as instructed. The fatigue spread from her shoulders down to her wrists, almost like her whole upper torso was falling asleep. She felt a twinging sensation, like little cracks were spreading down her arms. She raised them up to her ears and swore she heard her muscles creak.</p>
 <p>&quot;U-um…&quot; she said, looking up at Eris, worried. Why had she been swinging that staff? She felt like she&#x27;d been tested. Was she a failure? Was Eris disgusted with her? Ha! You thought you could be like me?</p>

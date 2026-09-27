@@ -133,7 +133,7 @@ nav_title = "Chapter 3"
 <p><em>Yeah, probably not.</em></p>
 <p>The more important question right now was: what the hell was a Demon King doing here?</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-09/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-09/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;I see you have the Eye of Foresight, boy! You must be Rudeus Greyrat, then! I&#x27;ve heard tell of you from my fiancée, the Demon Empress Kishirika!&quot;</p>
 <p>Well, at the moment he was stomping up to me…</p>

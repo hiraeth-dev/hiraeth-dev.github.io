@@ -279,6 +279,6 @@ nav_title = "Chapter 8"
 <p>This time, I was the one taken aback.</p>
 <p>Gyes let out a long sigh.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-18/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-18/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><strong>Chapter 9: The Case of the Jerky Thief</strong></p>

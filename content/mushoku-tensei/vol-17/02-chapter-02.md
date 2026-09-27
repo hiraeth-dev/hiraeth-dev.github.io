@@ -198,7 +198,7 @@ nav_title = "Chapter 2"
 <p>&quot;Water Wall!&quot;</p>
 <p>Auber spat out all the oil in his mouth at once, igniting it with his burning sword. A stream of flame rushed toward Eris. But just before it could reach her, the fire hit the wall of water I&#x27;d summoned up at the last moment, and was instantly extinguished.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-17/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-17/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Eris didn&#x27;t even flinch. She slashed her sword diagonally from a point high above her head, looking to slice through both my wall and the enemy in one stroke.</p>
 <p>&quot;Taaah!&quot;</p>

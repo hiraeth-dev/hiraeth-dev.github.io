@@ -67,7 +67,7 @@ nav_title = "Chapter 11"
 <p>&quot;Uhm, well, okay. Nice to meet you, Ghislaine.&quot;</p>
 <p>&quot;Yeah. Same here.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-01/insert-10.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-01/insert-10.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>At this point, I went ahead and burned away the ropes around me with a bit of fire magic.</p>
 <p>My body was sore as hell. That wasn&#x27;t too surprising, since I hadn&#x27;t been sleeping in the most comfortable of places. I stretched out my arms and legs and reveled in the blissful sense of release. Sure, I&#x27;d spent most of my previous life sitting in a cramped little room moving nothing but my fingers, but that didn&#x27;t mean I wanted to spend so much time lying bound and helpless at the feet of some sadistic-looking older lady. Might have gotten a little uncomfortable after a while.</p>

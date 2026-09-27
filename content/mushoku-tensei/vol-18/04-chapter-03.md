@@ -193,7 +193,7 @@ nav_title = "Chapter 3"
 <p>&quot;Uh, you know. This and that.&quot;</p>
 <p>&quot;I was so shocked I tripped on the stairs, you know! Ugh, seriously, how embarrassing…&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-18/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-18/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Uh, yeah. Well, your speech was great. You killed it up there. Father must be watching from heaven and—&quot;</p>
 <p>&quot;That&#x27;s not what I want to hear right now!&quot;</p>

@@ -215,7 +215,7 @@ nav_title = "Chapter 12"
 <p>Eris&#x27;s face went red at once. Approximately one half-second later, she punched me.</p>
 <p>This was a real punch, too. I barely stayed conscious, and for a moment, I thought she&#x27;d snapped my neck. This girl just might be a world champ someday. I collapsed backward in a clumsy heap.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-03/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-03/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><em>Hmm. Wonder what was I supposed to do there…?</em></p>
 <p>As I looked up at her from the ground, Eris stared at the spot where I&#x27;d licked her, then briefly touched it with her tongue as well.</p>

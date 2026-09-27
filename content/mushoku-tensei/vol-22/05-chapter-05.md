@@ -54,7 +54,7 @@ nav_title = "Chapter 5"
 <p>Aisha went a bit pink. Then, with a sheepish laugh, she took the dress from Eris.</p>
 <p>&quot;Well, when you say it like that, Eris, I guess I&#x27;ll take this one.&quot; She looked more than a little pleased. Maybe she was happy Eris had called her &quot;little sister&quot;. The mind of a teenage girl was a mystery to me, but what was important was that she was happy.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-22/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-22/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>With that, we had a dress for Aisha, so we set off for the palace.</p>
 <p>***</p>
@@ -180,7 +180,7 @@ nav_title = "Chapter 5"
 <p>As long as he lived he put everything he had into being the king. He never lost his principles, and always did what he could while those around him lent him their support. That is to say, he would, future tense. He&#x27;d act the part of king. For the sake of his beloved country, he&#x27;d do his best.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-22/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-22/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Hahaha. Great, is it? You&#x27;re a little overfamiliar, Rudeus Greyrat.&quot;</p>
 <p>&quot;My apologies, Your Majesty,&quot; I said. He was the kind of person who wouldn&#x27;t leave any mark on the world. Continuing to associate with him wouldn&#x27;t reap me any great benefits.</p>
@@ -233,7 +233,7 @@ nav_title = "Chapter 5"
 <p>&quot;I&#x27;ll…treasure it,&quot; she said, cradling her son in one arm and the Pax figure in the other.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-22/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-22/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;I&#x27;m glad to hear that,&quot; Zanoba said. &quot;But nothing material is indestructible. When it becomes damaged, send word to me, and I shall come to repair it at once.&quot;</p>
 <p>&quot;I…will,&quot; Benedikte said with a small nod.</p>

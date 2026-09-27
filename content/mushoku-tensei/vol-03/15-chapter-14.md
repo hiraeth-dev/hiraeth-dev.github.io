@@ -139,7 +139,7 @@ nav_title = "Chapter 14"
 <p>&quot;Go ahead, Eris.&quot; It made me a little nostalgic to see her raising her hand like this. Almost felt like we were back in the classroom again.</p>
 <p>&quot;Are we going to look around to see what the shops are charging for stuff, like you used to?&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-03/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-03/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Oh, you mean my market research…?&quot; Hrm. Come to think of it, I&#x27;d slacked off on that in Rikarisu. I really had been rushing around thoughtlessly back there. If I&#x27;d bothered to study the local market in advance, I may have managed to get our all-terrain lizard for a somewhat better price.</p>
 <p>&quot;Yes, let&#x27;s do that. Knowing the local prices is the first step toward spending money wisely after all. Anything else come to mind?&quot;</p>

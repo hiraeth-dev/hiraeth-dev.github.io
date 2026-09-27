@@ -30,7 +30,7 @@ nav_title = "Chapter 7"
 <p>With those words, I held out both hands toward the steadily growing funnel of dust and earth.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-19/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-19/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I&#x27;d chosen to respond with a Saint-level wind spell. Despite its rank, its effects weren&#x27;t particularly fancy. But they were very powerful. A number of Saint-level spells, such as Cumulonimbus and Sandstorm, were combined magic that used wind plus some other element. Violent Storm, on the other hand, was a pure burst of wind. While it cost the same amount of mana as something like Sandstorm, all of that power was devoted to a single purpose.</p>
 <p>In practice, that meant it was capable of totally erasing the more complex phenomena created by water or earth spells. It was also devastatingly effective against flying monsters of all kinds, for the record. But other spells were better choices if your enemies were on the ground; the wind would lose some of its force at longer range as it pushed past trees and other obstacles.</p>

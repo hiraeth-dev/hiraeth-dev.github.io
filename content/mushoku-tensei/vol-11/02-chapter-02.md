@@ -138,7 +138,7 @@ nav_title = "Chapter 2"
 <p>Our first tutoring session was a productive one. Aisha already had a good grasp of the fundamentals; she hadn&#x27;t taken the time to learn the Intermediate spells, but I got the feeling she could have picked them up fairly quickly from the right textbook. She wasn&#x27;t capable of silent spellcasting, though. Ten was probably too late to learn that particular skill.</p>
 <p>I ran through a few things, then gave her a simple homework assignment: to use as much magic as she could every day, until her supply of mana ran dry.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-11/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-11/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>That night, Aisha clambered onto my bed and asked, &quot;Can I sleep with you tonight, Rudeus?&quot;</p>
 <p>After seeing her break down in tears the other day, I couldn&#x27;t bring myself to say no. And it wasn&#x27;t like it could do any harm, anyway.</p>

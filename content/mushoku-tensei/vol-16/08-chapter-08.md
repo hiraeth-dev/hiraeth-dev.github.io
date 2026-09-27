@@ -23,7 +23,7 @@ nav_title = "Chapter 8"
 <p>Her words echoed in the otherwise quiet chamber. It was so quiet aside from her voice that it was hard to believe seventeen people were present.</p>
 <p>&quot;Oh?&quot; Perugius exhaled. His expression was still unreadable, giving no hint whether she&#x27;d hit the mark or missed it entirely.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-16/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-16/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Determination to carry on the will of those that came before them…</p>
 <p>That was the answer she&#x27;d arrived at, and I could understand why. Her path to the crown began with death. Derrick was the first to fall. Thirteen of her other retainers joined him, pushing her to where she was now. I knew what kind of people they were and what future they hoped for because she&#x27;d told me. Through his words, Derrick had communicated his will for her to carry out. Even after his death Ariel tried to live up to what he saw in her. There were surely countless others who had placed their hopes in her. That was the foundation upon which she would become king.</p>

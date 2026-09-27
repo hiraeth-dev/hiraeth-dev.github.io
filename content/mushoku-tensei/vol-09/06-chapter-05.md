@@ -127,7 +127,7 @@ nav_title = "Chapter 5"
 <p>All I could do was run. I ran, and I ran, and I ran. I didn&#x27;t have the first idea where I was going.</p>
 <p>When I turned around, though, I found the girl following me. I didn&#x27;t understand why. Why hadn&#x27;t I gotten away from her by now? Was she that fast?</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-09/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-09/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>That wasn&#x27;t it, of course. I was just slow. I&#x27;d barely gotten anywhere, despite what my mind was telling me. It was just my heart dashing along at a hundred miles an hour.</p>
 <p>I ran even further, desperate and clumsy. I tripped and fell. I stumbled like a drunkard.</p>

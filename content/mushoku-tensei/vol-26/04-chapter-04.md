@@ -263,7 +263,7 @@ nav_title = "Chapter 4"
 <p>I realized that Zenith was rubbing Lilia&#x27;s back. Had I made Zenith worry too? She seemed to have lost her negative emotions, but I thought she&#x27;d at least worry about me. She was that sort of person.</p>
 <p>Anyway.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-26/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-26/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;I&#x27;m home,&quot; I said. I took a step into the house. It finally felt real that my long battle with Geese was over.</p>
 <p>***</p>

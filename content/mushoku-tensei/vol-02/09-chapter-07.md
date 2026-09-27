@@ -163,7 +163,7 @@ nav_title = "Chapter 7"
 <p>Contrary to its appearance, it was quite lightweight. I took it in both hands and swung it around. It was easy to lift and flip. Despite the large crystal at its tip, it was balanced well. No surprise there, given how expensive it was. Though the name was a bit…special.</p>
 <p>&quot;Thank you. For the party, and for giving me such an expensive gift.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-02/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-02/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Don&#x27;t worry about the price! Now quickly, let&#x27;s resume the party or the feast we prepared will get cold!&quot; Eris was in a good mood as she tugged at me, guiding me to the birthday seat that had been installed in front of a gigantic cake. &quot;I helped too!&quot;</p>
 <p>Other than Eris&#x27;s first home-cooked dishes, which were atrocious, the rest of the food was delicious.</p>

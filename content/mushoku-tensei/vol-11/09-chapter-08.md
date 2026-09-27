@@ -213,7 +213,7 @@ nav_title = "Chapter 8"
 <p>&quot;Wha—&quot;</p>
 <p>Come to think of it…Nanahoshi had mentioned something like this once, when she was telling me about her travels with Orsted. Something about how he used teleportation circles to jump all around the world…</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-11/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-11/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;But you said…you didn&#x27;t remember where they were!&quot;</p>
 <p>I remembered that part clearly. She&#x27;d told me she had no idea where to find them.</p>

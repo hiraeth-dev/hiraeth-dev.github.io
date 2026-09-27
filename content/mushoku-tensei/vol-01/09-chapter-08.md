@@ -95,7 +95,7 @@ nav_title = "Chapter 8"
 <p>And as I thought that, my mischievous streak suddenly sprang to the fore. After all, it was hardly fair that I was the only one naked.</p>
 <p>&quot;Gotcha!&quot; I snatched hold of his underwear with my hands, then yanked them down in one fell swoop. Come to me, Zenra Pendulum!</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-01/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-01/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Sylph shrieked. A moment later, he squatted and curled up into himself to hide his body from sight—but in that moment, what flashed before my eyes was not the pure short sword to which I&#x27;d grown recently accustomed; nor, naturally, was it a dark blade bearing ominous sigils.</p>
 <p>No, what was there—rather, what wasn&#x27;t there—was, well, replaced by something that shouldn&#x27;t have been there. It was something I&#x27;d seen many times over in my past life, on my computer monitor. Sometimes it was covered with a pixelated mosaic; other times it was uncensored. I&#x27;d stare, always thinking about how much I wanted to lick and be inside the real thing someday, my dark lust inevitable causing my white cannon to hit the mark on a handful of tissues.</p>

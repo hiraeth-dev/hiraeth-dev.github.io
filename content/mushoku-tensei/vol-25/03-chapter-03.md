@@ -79,7 +79,7 @@ nav_title = "Chapter 3"
 <p>I saw Julie and Ginger behind Zanoba. They were beat up. There were scrapes all over them and exhaustion had put dark shadows under their eyes. It looked like their magic was nearly exhausted.</p>
 <p>&quot;We had some trouble with invisible beasts along the way, you see. If the Superd had not come to our aid, we would have been in grave peril.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-25/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-25/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;You don&#x27;t say. Okay, let&#x27;s have those two lie down… Wait, no, you should tell us what you know first. You can sit in the corner and rest,&quot; I said. Without a word, Ginger and Julie tottered off into the hall and sank down next to a pillar. Roxy ran over immediately to cast healing magic on them.</p>
 <p>&quot;Okay, Zanoba. How much do you know about what&#x27;s happening?&quot;</p>

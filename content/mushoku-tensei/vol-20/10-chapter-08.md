@@ -62,7 +62,7 @@ nav_title = "Chapter 8"
 <p>&quot;I told her to sit down,&quot; I said firmly. That got Claire to slowly turn and fix her stare on me. Damn. Maybe I didn&#x27;t want her attention… Well, too late now. Time to roll with it.</p>
 <p>&quot;She may be wearing a maid uniform, but she&#x27;s my sister first. I&#x27;m having her tend to our mother&#x27;s needs, so she simply chose something practical for that kind of work. I&#x27;m afraid it&#x27;s unacceptable to treat her as &#x27;only&#x27; a maid.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-20/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-20/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;One dresses for the station they deserve. In this house, those who dress as maids will be treated as maids.&quot;</p>
 <p>Uh, screw these house rules in particular.</p>

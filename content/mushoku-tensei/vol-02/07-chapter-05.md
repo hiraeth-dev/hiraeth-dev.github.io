@@ -59,7 +59,7 @@ nav_title = "Chapter 5"
 <p>I climbed back up and sat beside her. This time I grabbed onto the hay so I wouldn&#x27;t be sent flying. Rather, that was my plan until I felt an impact on top of my head. &quot;Ouch!&quot;</p>
 <p>Her heel was perched on the crown of my head. There wasn&#x27;t enough power behind it to be an axe kick, so it seemed she was just resting it there. She was in a foul mood but didn&#x27;t seem to have much energy.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-02/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-02/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Won&#x27;t you…go back to practice?&quot;</p>
 <p>&quot;I don&#x27;t need to know how to dance.&quot;</p>
@@ -176,7 +176,7 @@ nav_title = "Chapter 5"
 <p>I held her hand and moved in and out, just as we did during sword practice. We matched our movements to the music, but they were still erratic. We probably looked quite peculiar to the onlookers.</p>
 <p>Eris was enjoying herself. She was finally laughing like a girl her age should, rather than being sullen and pouty as she usually was. Just seeing that was enough to make me feel like it was worth it attending this party.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-02/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-02/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Applause erupted when the dance finished. Sauros came running over, lifted the both of us onto his shoulders, and ran around the courtyard laughing the whole way.</p>
 <p>It was an enjoyable party.</p>

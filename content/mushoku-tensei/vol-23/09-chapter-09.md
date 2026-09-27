@@ -165,7 +165,7 @@ nav_title = "Chapter 9"
 <p>&quot;Oh, uh, let me explain.&quot; Just as I did with Sara not so long ago, I gave him a bite-sized version of everything that had happened. It was much easier to talk to Soldat about all of this than Sara, to be honest.</p>
 <p>&quot;Hmmm. Well, long as you&#x27;re okay with it, I guess.&quot; Strangely, Soldat&#x27;s reaction to it all was far less accepting than Sara&#x27;s had been. He pulled a face, glowering right back at Eris. &quot;Quagmire here was in a really bad way back then, y&#x27;know? We&#x27;re talking an-inch-from-suicide bad. Knowing all that, you still had the audacity to get with him again, huh?&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-23/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-23/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Eris&#x27;s hair almost seemed to stand on end, as if crackling with anger at him. I shot out of my seat and tried to make my way over to her so I could force her back. I even opened my mouth, hoping to pacify her with a few soothing words—tell her that Soldat didn&#x27;t mean any harm by it, so there was no reason to be cross with him.</p>
 <p>Before I could do anything, Eris whipped around and dashed out of the room.</p>

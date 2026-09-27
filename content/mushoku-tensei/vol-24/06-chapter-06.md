@@ -212,7 +212,7 @@ nav_title = "Chapter 6"
 <p>&quot;Cliff! He told me everything, then brought me with him!&quot; Norn said. Hiccupping, she turned to look behind her. There, framed in the entrance, stood two figures, shadows against the backlight. One cut a more slender silhouette. The light caught on her blonde hair, making it sparkle. Her slim elven figure was bewitching. The other was a man. He was shorter than</p>
 <p>average, and not especially broad either. Despite that, he seemed weathered and reliable… Maybe it was the patch over one of his eyes.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-24/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-24/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Rudeus,&quot; said Cliff Grimor, &quot;I&#x27;m sorry it took me so long to get here. It took a while to go through all the necessary procedures… The Millis Church isn&#x27;t a monolith. You&#x27;ll have to forgive me.&quot;</p>
 <p>He&#x27;d come. He&#x27;d read the message I sent him on the contact tablet and immediately tried to get here for me.</p>

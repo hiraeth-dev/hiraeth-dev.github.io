@@ -117,7 +117,7 @@ nav_title = "Chapter 1"
 <p>&quot;Urgh… Rudy, you really have gotten big, haven&#x27;t you?&quot; He squeezed my shoulders tight. It hurt a little bit, but I wouldn&#x27;t complain.</p>
 <p>&quot;I did indeed. I&#x27;m going to have a child soon as well. So just leave the rest to me and take some time to relax.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-12/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-12/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Huh? A child?!&quot; A strangled cry escaped Paul&#x27;s throat and light came flooding back to his eyes. &quot;Wh-whaaa?!&quot; He looked entirely bewildered as he patted his hands against my face. &quot;Wait, are you actually the real thing?&quot;</p>
 <p>&quot;I am indeed.&quot;</p>

@@ -92,7 +92,7 @@ nav_title = "Chapter 12"
 <p>Whipping my left hand forward, I fired off a wind spell, creating a shock wave in mid-air that robbed the Gryphon of its mobility. It spun helplessly for an instant; but before I could follow up, it twisted its body around with cat-like agility, trying to brace itself for a smooth landing.</p>
 <p>I fired off a Stone Cannon at the spot it was falling toward. The projectile whistled through the air and struck home, passing straight through the creature&#x27;s body with a wet crunch. The Gryphon staggered backward a few steps, then collapsed loudly to the ground.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-11/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-11/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The thing looked dead already, but I finished it off with a fire spell to be absolutely sure, and then spun around to see how Elinalise was faring.</p>
 <p>Fortunately, she was okay. I saw her fending off the Gryphon&#x27;s swipes with her shield while striking at it with her rapier. The Gryphon&#x27;s front legs were red with blood; she&#x27;d obviously been targeting them persistently, trying to reduce its ability to attack.</p>

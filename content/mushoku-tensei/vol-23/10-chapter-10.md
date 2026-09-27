@@ -74,7 +74,7 @@ nav_title = "Chapter 10"
 <p>It had been a long time since I last saw Kishirika, and at first she had been in a wretched mood. Now she seemed perfectly fine. Ah, the magic of doughnuts! I had actually asked Roxy to sample it as well before bringing one here, and it had been incredibly effective. I don&#x27;t think I&#x27;ve ever seen her look that happy before. Sadly, that meant I&#x27;d lost to a doughnut.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-23/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-23/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>No, no, I assured myself, I&#x27;m the one who established the route for these goods to come here from Millis. In that sense, I was the one who had created that smile. Father-in-law, Mother-in-law, I am making your daughter happy, just as I promised. I mean, they were also Aisha&#x27;s doughnuts, but still. Roxy&#x27;s reaction proved that doughnuts were super effective against demons.</p>
 <p>&quot;Ah…&quot;</p>

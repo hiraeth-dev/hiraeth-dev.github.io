@@ -149,7 +149,7 @@ nav_title = "Chapter 3"
 <p>Nanahoshi kept frowning as she picked up her spoon and fork and began eating. Her expression was contorted in disgust as she deboned the fish, squeezed some lemon, and took a small bite. Next, she took a hesitant bite of the rice, chewing slowly. There was a white porcelain bowl filled with miso soup that she also sipped from.</p>
 <p>Finally, she said, &quot;This miso soup doesn&#x27;t have any dashi in it.&quot; Big, fat tears welled up in her eyes. She continued eating as they fell.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-14/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-14/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>It was pretty terrible. The rice was dry and tasteless, and the miso soup was incredibly salty. While the fish was delicious enough, it smelled awful and it didn&#x27;t go with the lemon at all. The balance was terrible. It wasn&#x27;t good at all. The Japanese cuisine from our memories had a much more delicate flavor. Despite all of that, Nanahoshi continued shoveling it down through her tears. She didn&#x27;t speak again until she finished, but that didn&#x27;t take long.</p>
 <p>&quot;Thank you for the food.&quot;</p>
@@ -332,7 +332,7 @@ nav_title = "Chapter 3"
 <p>I pulled a handkerchief from my pocket, moistening it with my water magic, and slowly began wiping the blood from Sylphie&#x27;s face.</p>
 <p>&quot;Eh…?&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-14/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-14/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Once that was clean, I started scrubbing her hand next. The worst vehicle for disease was a sick person&#x27;s bodily fluids. I didn&#x27;t think wiping Nanahoshi&#x27;s blood off of Sylphie would magically fix everything, but I couldn&#x27;t leave her looking like that. For Sylphie&#x27;s part, she didn&#x27;t try to resist; she merely stood there and let me work.</p>
 <p>&quot;It&#x27;s okay, Sylphie. I watched your whole interaction with Nanahoshi. You didn&#x27;t do anything wrong.&quot;</p>

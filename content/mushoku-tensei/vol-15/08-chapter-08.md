@@ -33,7 +33,7 @@ nav_title = "Chapter 8"
 <p>&quot;Hrm?!&quot;</p>
 <p>Great clouds of smoke immediately burst out of it.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-15/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-15/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>As he dropped it and assumed a defensive stance, the man heard a small metallic clink. A silver ring had fallen to the ground next to the little box, which was somehow still discharging smoke with remarkable intensity.</p>
 <p>The ring had presumably popped out of the box when it hit the ground. For some reason, it blinked with a faint red light—and the needle of his compass pointed directly at it.</p>
@@ -211,7 +211,7 @@ nav_title = "Chapter 8"
 <p>&quot;…I can&#x27;t do that, I&#x27;m afraid.&quot;</p>
 <p>The moment I heard those words, I bit ferociously at Orsted&#x27;s foot.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-15/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-15/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Fgaaaaaah!&quot;</p>
 <p>At the same time, I raised the bleeding stump of my right arm off the ground, channeled all my remaining mana into it, and ordered it to explode.</p>

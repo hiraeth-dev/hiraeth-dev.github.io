@@ -200,7 +200,7 @@ nav_title = "Chapter 8"
 <p>&quot;You&#x27;re doing a good job staying awake,&quot; Sara commented as she plopped down beside me. She had two mugs in her hands with towers of steam rising from them. She held one of them out toward me, grunting as if that would be enough for me to understand that I should take it.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-23/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-23/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Thanks,&quot; I said, deciding to oblige her. Inside the mug was a relatively opaque red liquid. I&#x27;d never seen anything like it before. It didn&#x27;t look like tomato soup. When I took a whiff, the smell nearly burned my nostrils. Whatever it was, I suspected it was spicy. &quot;What is this exactly?&quot;</p>
 <p>&quot;Alisa&#x27;s special soup to ward off drowsiness.&quot;</p>

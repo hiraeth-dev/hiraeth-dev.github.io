@@ -40,7 +40,7 @@ nav_title = "Chapter 3"
 <p>&quot;How is it?&quot; I asked.</p>
 <p>&quot;There&#x27;s nothing here,&quot; Zanoba answered.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-10/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-10/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I used my lamp to illuminate the area. There was nothing, not even at the edges of the room. Besides, the previous owner had surely checked the basement out. It was the most suspicious place in the manor, after all.</p>
 <p>&quot;Let&#x27;s return to the bedroom and prepare ourselves.&quot;</p>

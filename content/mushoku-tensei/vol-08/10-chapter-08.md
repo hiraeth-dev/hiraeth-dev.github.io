@@ -18,7 +18,7 @@ nav_title = "Chapter 8"
 <p>&quot;Now then… where should we start this conversation?&quot; I put my hand to my chin as I regarded them both. Their skirts had flipped up from all the twisting around they were doing, exposing their tenderlooking thighs. Truly a sight to behold.</p>
 <p>&quot;Mm?!&quot; Pursena realized what I was looking at. She wiggled her nose, sniffing, and her expression turned to one of unease. Her sense of smell told her what it was I was looking at and thinking about. In contrast, Linia seemed clueless, still glaring me down and huffing at me. It seemed Pursena had the better nose.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-08/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-08/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>In all actuality, given the illness that plagued me, there should&#x27;ve been almost no scent of arousal coming from me.</p>
 <p>&quot;Hm.&quot;</p>
@@ -218,7 +218,7 @@ nav_title = "Chapter 8"
 <p>No—he&#x27;d said there was a reason he kept them on. Maybe he had a complex about his looks, for example. Let&#x27;s just forget about it, I thought. I didn&#x27;t want him to hate me.</p>
 <p>Silence fell between us for a while. Realizing that I was looking at him, Master Fitz lifted himself up. For some reason, I thought that his cheeks looked red, but it was probably just my imagination.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-08/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-08/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;You want to see?&quot;</p>
 <p>My heartrate accelerated the moment he said that. What was this? Did I want to see what? What was it that he thought I wanted to see? &quot;See what?&quot;</p>

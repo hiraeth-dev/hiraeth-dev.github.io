@@ -68,7 +68,7 @@ nav_title = "Chapter 4"
 <p>&quot;Gyaaaaah!&quot;</p>
 <p>Eris&#x27;s body twisted as she drew her sword from her right hip and raked it across Gall Falion&#x27;s body.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-25/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-25/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;…Ngh!&quot; He swiftly leapt back, hitting the ground with a thud.</p>
 <p>When his legs reached the ground, his torso wasn&#x27;t on top of them. Gall Falion&#x27;s upper half was airborne. It spun around three times, then fell back to earth.</p>

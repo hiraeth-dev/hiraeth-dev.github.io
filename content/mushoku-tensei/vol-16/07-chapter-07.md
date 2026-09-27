@@ -24,7 +24,7 @@ nav_title = "Chapter 7"
 <p>&quot;Gah?!&quot;</p>
 <p>I grabbed her coat to stop her advance. She snapped around and glowered at me. &quot;What&#x27;s your problem?!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-16/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-16/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Eris, there may be traps. Let someone else take the lead. If a fight breaks out, you can take the vanguard, but for now, stay back.&quot;</p>
 <p>&quot;…Fine.&quot; She pursed her lips, pouting as she reluctantly retreated behind me.</p>

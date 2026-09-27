@@ -180,7 +180,7 @@ nav_title = "Chapter 6"
 <p><em>No way, did he self-KO? Did he push himself into the ravine with his own attack…?</em></p>
 <p>That wasn&#x27;t it. There was a smile on Alec&#x27;s face. A nasty smile. A victorious smile.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-25/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-25/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><em>Oh…right.</em></p>
 <p>Alec had fallen off the bridge, but he&#x27;d be back. The King Dragon Blade&#x27;s power was gravity manipulation. Even if he fell all the way to the bottom of the ravine, he&#x27;d have no trouble getting back up.</p>

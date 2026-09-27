@@ -159,5 +159,5 @@ nav_title = "Chapter 11"
 <p>Eris and I watched Ruijerd go, in silence and with gratitude for everything he&#x27;d done for us up until now, until he faded away completely.</p>
 <p>That was how our journey reached its conclusion.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-06/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-06/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>

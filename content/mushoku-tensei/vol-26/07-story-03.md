@@ -64,7 +64,7 @@ nav_title = "Story 3"
 <p>It was only having a clear enemy and a clear goal that kept me moving to the end. That had turned me into the person I was now.</p>
 <p>&quot;Keep talking all you like,&quot; the Man-God muttered. &quot;I&#x27;m still not going to let them off easily.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-26/insert-09.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-26/insert-09.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Oh… I mean, um, that wasn&#x27;t why I said it…&quot;</p>
 <p>What was I trying to say? It wasn&#x27;t that there was anything I really wanted to say to the Man-God. Just because I didn&#x27;t hate him didn&#x27;t mean I particularly liked him. I obviously wasn&#x27;t planning on thanking him, either.</p>

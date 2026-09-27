@@ -48,7 +48,7 @@ nav_title = "Chapter 7"
 <p>&quot;That&#x27;s our Blessed Child…&quot;</p>
 <p>&quot;She really is blessed…&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-21/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-21/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><em>That light didn&#x27;t appear before. Was she putting on a show? Or does it take effort?</em></p>
 <p>Maybe it was like fire magic. As your magic gets stronger, the fire gets hotter and brighter. Maybe this phenomenon only happened when she was pushing her power to its limit. She&#x27;d switched from basic cable to fiber optic.</p>

@@ -260,7 +260,7 @@ nav_title = "Chapter 9"
 <p>In the face of its overwhelming power, Roxy bit her lip, looked down slightly, and squeezed the hat to her chest. After a moment, she managed to squeak out the words &quot;Th…thank you, Sylphie.&quot;</p>
 <p>I could see tears glimmering in her eyes.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-13/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-13/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I wouldn&#x27;t hear about it for some time, but according to Roxy, this was the moment she felt that Sylphie had truly accepted her into our lives.</p>
 <p>With the main event behind us, the rest of the party went off smoothly.</p>

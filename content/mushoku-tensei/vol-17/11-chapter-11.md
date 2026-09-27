@@ -178,7 +178,7 @@ nav_title = "Chapter 11"
 <p>I looked up at Princess Ariel. She met my gaze with a playful smile and a wink. How long had it been since I&#x27;d seen this expression on her face? These days, her smiles were mostly forced. But when we were children, she&#x27;d often grinned at me like this.</p>
 <p>&quot;Haha!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-17/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-17/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>It seemed I&#x27;d been forgiven. My words and deeds should, by all rights, have been construed as a betrayal. But she wasn&#x27;t even going to punish me for them.</p>
 <p>&quot;Now then…&quot;</p>

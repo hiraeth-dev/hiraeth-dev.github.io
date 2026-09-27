@@ -139,7 +139,7 @@ nav_title = "Interlude"
 <p>&quot;You can&#x27;t see? Even with your eye, Your Greatness?&quot;</p>
 <p>&quot;I&#x27;m not quite at my full strength yet,&quot; Kishirika explained. &quot;Well, you&#x27;ll understand if you see for yourself.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-06/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-06/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;That&#x27;s troubling. If something&#x27;s wrong, I need to know the details.&quot; Roxy pressed her for an explanation. In her ventures thus far, she&#x27;d seen the tragedies that befell the refugees. It was disconcerting that even the Great Emperor of the Demon World was having trouble zeroing in on Zenith with her demon eyes.</p>
 <p>&quot;Well…complain if you like, but I can&#x27;t see what I can&#x27;t see. Ohh, that&#x27;s right. This may come as a surprise, but she may be in the middle of that labyrinth. It&#x27;s a labyrinth city, and I&#x27;ve never been there myself, so I can&#x27;t say for sure.&quot;</p>

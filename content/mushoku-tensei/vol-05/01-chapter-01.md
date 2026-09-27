@@ -124,7 +124,7 @@ nav_title = "Chapter 1"
 <p>Maybe it would be slightly overprotective to have her take our bodyguard along. After all, the girl could handle herself just fine against even B-ranked monsters…but still. When a girl adventurer gets beaten by a Goblin, that&#x27;s an instant sex-slave bad end, right? I didn&#x27;t know that much about the Goblins of this world, but that was definitely their whole deal back in mine. And I mean, if I was the lucky Goblin who managed to knock Eris unconscious, I&#x27;d certainly enjoy myself. Wouldn&#x27;t anyone? Assuming they were a little green monster, of course? I totally would. Just hypothetically.</p>
 <p>If something that terrible happened to Eris the moment I took my eyes off her, I&#x27;d never be able to face Ghislaine or Philip ever again…</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-05/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-05/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;It&#x27;s all right, Rudeus,&quot; said Ruijerd, snapping me out of my reverie. &quot;Let her handle this one alone.&quot;</p>
 <p>That was unusual. Normally, he stayed out of these sorts of arguments. For the last year and a half, Ruijerd had been giving Eris lessons on how to fight all sorts of different monsters and enemies. His educational methods were a little too obscure for me to follow, but she&#x27;d clearly learned a great deal from him. If he was convinced she could do this, it was probably going to be all right.</p>
@@ -363,6 +363,6 @@ nav_title = "Chapter 1"
 <p>In the years since I&#x27;d last seen him, Paul Greyrat had evidently undergone something of a transformation.</p>
 <p>His face was gaunt; there were bags under his eyes and stubble on his cheeks. His hair was unkempt, and his breath reeked of booze. In basically every respect, my father looked like a total mess. The difference from the man that I remembered was…dramatic, to say the least.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-05/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-05/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>### <strong>Paul</strong></p>

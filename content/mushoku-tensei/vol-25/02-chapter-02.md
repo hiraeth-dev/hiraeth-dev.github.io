@@ -160,7 +160,7 @@ nav_title = "Chapter 2"
 <p>&quot;Okay… What do I do with this?&quot; I asked the Atofe Hand. It didn&#x27;t reply. Instead, it reached out. It went straight past the bottles for the cloudy crystal. It rested on top of the crystal ball, and with that, control returned to me.</p>
 <p>What&#x27;s this about? I wondered. What was it telling me to do? I had bottles and a crystal and an altar. It was like an adventure-game puzzle. In which case, I&#x27;d like a hint.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-25/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-25/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Rudeus. There.&quot;</p>
 <p>Dohga, now standing behind me, was pointing at something above my head. I looked up and saw a blue glow coming from the top of the great pillars holding up the altar.</p>

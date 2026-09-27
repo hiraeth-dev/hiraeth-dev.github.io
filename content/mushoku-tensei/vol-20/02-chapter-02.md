@@ -110,7 +110,7 @@ nav_title = "Chapter 2"
 <p>&quot;Wh-what is it?&quot; she asked suspiciously.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-20/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-20/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 
 <p>Ginger. With a stuffed animal. Oh no, that wasn&#x27;t to say they didn&#x27;t belong together, but it was an unexpected sight. I felt like I&#x27;d walked in on something. I could have sworn that Ginger had no interest in these sorts of things. Maybe Zanoba no longer being a prince had given her a change of heart.</p>

@@ -109,7 +109,7 @@ nav_title = "Chapter 2"
 <p>Lilia and Aisha nodded as usual. Only Lucie looked the slightest bit reluctant as she held on to Aisha&#x27;s hand. She was doing her best to not let that emotion show on her face.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-23/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-23/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I really ought to spend a bit more time with her once the situation with Geese settled down.</p>
 <p>***</p>

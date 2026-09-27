@@ -152,7 +152,7 @@ nav_title = "Chapter 3"
 <p>&quot;…Are you groping me?&quot;</p>
 <p>&quot;Uh, no.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-07/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-07/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I deposited Sara on a clear patch of ground. Her response was to cover her chest with one arm and glare at me. Her face was flushed, and there was murder in her eyes.</p>
 <p>Was she seriously upset that I&#x27;d touched her there? I honestly hadn&#x27;t felt much of anything, except the rigid leather of her chest protector. Maybe it would have gotten my pulse racing back in the day, but I wasn&#x27;t an innocent little boy anymore, if you know what I mean.</p>
@@ -389,7 +389,7 @@ nav_title = "Chapter 3"
 <p>Now that I saw them up close, though, I did at least recognize them. They were Stepped Leader, an S-ranked adventurer party. They were a highly competent bunch associated with the prominent clan Thunderbolt. I&#x27;d heard them called the strongest single party in the entire city of Rosenburg.</p>
 <p>This extremely short-tempered man was their leader, naturally. As I recalled, his name was Soldat Heckler. He was supposedly a highly skilled swordsman of the Sword God Style.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-07/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-07/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Oh…&quot; Now that I&#x27;d remembered this much, something finally clicked home.</p>
 <p>Suzanne turned around at the sound of my voice. Everyone else looked my way as well. I couldn&#x27;t help flinching slightly. &quot;Rudeus, do you know something about this?&quot;</p>

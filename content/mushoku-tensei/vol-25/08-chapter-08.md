@@ -247,6 +247,6 @@ nav_title = "Chapter 8"
 <p>Suddenly, I felt someone&#x27;s gaze. I looked back and saw Norn looking my way, her expression troubled.</p>
 <p>She was curled up, so I hadn&#x27;t noticed, but she was sitting right between Atofe and Ruijerd. Her eyes were pleading with me to do something. I shook my head to tell her this was out of my hands, at which she looked like she might cry.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-25/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-25/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><strong>Chapter 9: Making Peace with the Ogre God</strong></p>

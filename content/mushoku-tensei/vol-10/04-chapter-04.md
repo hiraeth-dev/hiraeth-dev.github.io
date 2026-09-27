@@ -162,7 +162,7 @@ nav_title = "Chapter 4"
 <p>And so I introduced Sylphie to our new house, documentarystyle.</p>
 <p>She sat on the bed and cuddled with me. She was in a good mood, a big smile on her face. I was glad she liked the place. I wanted to push her down and get to husband-and-wife business, but there was a little something I wanted to talk about first.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-10/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-10/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Sylphie, it&#x27;s been approximately three weeks since I announced our betrothal. I realize that isn&#x27;t a long time, but we have taken a bit of a break from discussing it.&quot;</p>
 <p>&quot;Y-yes.&quot;</p>

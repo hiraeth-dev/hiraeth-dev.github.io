@@ -59,7 +59,7 @@ nav_title = "Chapter 13"
 <p>Tears streamed down Julie&#x27;s cheeks. Her tiny fingers clutched at his sleeves. &quot;I…I&#x27;ve been waiting patiently for your return this whole time, Master!&quot;</p>
 <p>&quot;I know,&quot; he said.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-19/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-19/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>It was a heartfelt reunion. In fact, Julie showed so much emotion at his return I almost started to question whether my family had been cruel to her while he was gone.</p>
 <p>The next words to come out of Julie&#x27;s mouth were jaw-dropping.</p>

@@ -129,7 +129,7 @@ nav_title = "Chapter 2"
 <p>&quot;Ghislaine!&quot; I cried. That meant the one with black hair had to be Isolde! Water Emperor Isolde! Ghislaine and Isolde had been working together!</p>
 <p>&quot;Sylphie!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-26/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-26/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Sylphie came darting onto the battlefield like a mouse. She went over to the fallen and simply laid her hands on them. It only took that much for their wounds to heal. Before I knew it, she&#x27;d healed Dohga and Zanoba. She was using unvoiced casting. Until now, I hadn&#x27;t really considered that it had this advantage—I hadn&#x27;t had the chance. Now I saw it, it was clear as day. She was crazy fast. Faster than me and Cliff together. As I watched, Eris and Ruijerd emerged from the bushes and returned to the battlefield, and before I knew it, our line of battle was back on its feet. Isolde took the main shield position with Dohga and Zanoba relegated to sub-shields. Eris, Ghislaine, and Ruijerd were our attackers. And now, we had Sylphie and her unvoiced healing magic as our healer. Our battle line was standing.</p>
 <p>We&#x27;d made it out of hell.</p>
@@ -146,7 +146,7 @@ nav_title = "Chapter 2"
 <p>&quot;That&#x27;s fine! It&#x27;s all fine! You got here in time!&quot;</p>
 <p>Behind her was a giant set of armor.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-26/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-26/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Three meters tall and dark blue, its right hand was equipped with the Gatling gun and its left with a shotgun. Besides that, there was a magic sword with the power to ignore all defenses clenched in its fist. The armor was as thick and hefty as a sumo wrestler&#x27;s body; it was lying face down. It didn&#x27;t look that different from the Version One, but this was not the Version One. This armor, gotten ready just in case of an occasion such as this, was my honest-to-god trump card. It was a weapon for short, decisive battles. Increasing its mana consumption several times over gave it massively improved mobility and armor. In concept, it was the inverse of the Version Three, and so we&#x27;d named it—</p>
 <p>&quot;This is the Magic Armor Version Zero,&quot; Roxy said.</p>

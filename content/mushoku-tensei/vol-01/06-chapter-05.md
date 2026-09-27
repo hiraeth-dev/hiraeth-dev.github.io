@@ -21,7 +21,7 @@ nav_title = "Chapter 5"
 <p>Roxy gifted me with a wand. It was a stick, roughly thirty centimeters long, set with a small red stone at the tip.</p>
 <p>&quot;I crafted it yesterday,&quot; Roxy said. &quot;It completely slipped my mind, since you&#x27;ve been using magic this whole time. A master is supposed to create a rod or wand for a pupil who can use elementary magic. My apologies for forgetting.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-01/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-01/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>As much as she didn&#x27;t like being called &quot;Master,&quot; Roxy sure seemed reluctant to buck the traditions of the role.</p>
 <p>&quot;Thank you, Master,&quot; I said. &quot;I&#x27;ll take good care of it.&quot;</p>

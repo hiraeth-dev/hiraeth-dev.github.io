@@ -166,6 +166,6 @@ nav_title = "Chapter 5"
 <p>Just like that, she kicked her steed into motion. It sprinted forward across the plain, kicking up snow as it went; Ghislaine hurried her own horse after it. They barreled past the courier who&#x27;d delivered the letter, sending him flying to one side, and disappeared into the distance in a matter of seconds.</p>
 <p>Nina and Isolde just stood there staring after them, too stunned to even blink.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-15/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-15/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><strong>Chapter 6: Preparations</strong></p>

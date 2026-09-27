@@ -126,5 +126,5 @@ nav_title = "Extra Chapter"
 <p>On the other hand, it wasn&#x27;t something she had to do. Protecting those two was something she planned to do anyway.</p>
 <p>&quot;I&#x27;ve gotten wiser,&quot; she realized, pleased with herself. She was in high spirits as she headed back to her inn.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-16/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-16/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>

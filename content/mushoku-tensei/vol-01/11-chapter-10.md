@@ -261,7 +261,7 @@ nav_title = "Chapter 10"
 <p>&quot;I want to earn Sylphie&#x27;s tuition for her.&quot;</p>
 <p>&quot;I don&#x27;t think it&#x27;s in her best interest for you to do that.&quot; &quot;Maybe not. I think it&#x27;s in my best interest, though.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-01/insert-09.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-01/insert-09.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The room fell completely silent for a long moment. I had to fight the urge to squirm awkwardly in my seat.</p>
 <p>&quot;I see. So, that&#x27;s how it is, huh?&quot;</p>

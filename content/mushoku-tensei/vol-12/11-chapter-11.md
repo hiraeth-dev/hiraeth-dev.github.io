@@ -133,7 +133,7 @@ nav_title = "Chapter 11"
 <p>&quot;Rudy, I think I think I can share in your sadness.&quot;</p>
 <p>I felt something soft press against the back of my head. Thump, thump came the gentle pulse of her heart. A soothing sound. Why did listening to it comfort me so, I wondered? Why did it make me feel like things would be okay?</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-12/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-12/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The same went for her smell. Roxy&#x27;s scent was relaxing, too. Up until now, whenever I faced anything difficult, it had been strangely comforting to remember this smell and the thing she taught me. When I&#x27;d been in the grips of my ED, just thinking about Roxy had been enough to help me endure.</p>
 <p>Why was that? The answer hung in the back of my throat but refused to come out.</p>

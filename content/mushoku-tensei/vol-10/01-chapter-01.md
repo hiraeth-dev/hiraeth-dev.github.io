@@ -98,7 +98,7 @@ nav_title = "Chapter 1"
 <p>I lifted my head at her request. I didn&#x27;t want to risk embarrassing Sylphie, however, so I remained kneeling. It would be wise to remain humble in front of my partner&#x27;s boss.</p>
 <p>&quot;So, what brings someone as widely renowned throughout this school as you, Master Rudeus, before me today?&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-10/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-10/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>I could feel my brain tingling as I listened to her voice. It was pleasant. This was what people called charisma, wasn&#x27;t it? Or perhaps she was a Blessed Child as well. I could easily believe there was a Blessed Child whose voice was like magic that mesmerized the listener.</p>
 <p>&quot;I&#x27;m sure Sylphie—I mean, Sylphiette—has already told you quite a bit. I came here in hopes of discussing the matter with you further.&quot;</p>

@@ -134,7 +134,7 @@ nav_title = "Chapter 10"
 <p>&quot;I&#x27;ll pass.&quot; His reply was instant. Geese returned to cooking as if their conversation had never happened.</p>
 <p>Eris looked dumbfounded for a moment, but she recovered quickly and yelled, &quot;Why not?!&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-04/insert-09.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-04/insert-09.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;&#x27;Cause I don&#x27;t want to.&quot;</p>
 <p>&quot;So, why not?!&quot;</p>
@@ -227,5 +227,5 @@ nav_title = "Chapter 10"
 <p>Although blue dragons were a rare encounter in the mountains, there were still many monsters. Trying to pass through the range presented a considerable danger. Instead, Millis had created a shortcut straight through where monsters wouldn&#x27;t appear. I could see why this saint had been so highly praised.</p>
 <p>We made it through the valley in three days, completing our long, arduous journey out of the Great Forest. Straight from there was the Holy Country of Millis. We had finally returned to the domain of men, a fact which made my heart leap as I continued my journey.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-04/insert-10.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-04/insert-10.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>

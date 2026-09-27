@@ -105,5 +105,5 @@ nav_title = "Chapter 16"
 <p>Many things had fallen into place, with a great deal of pain and a great deal of joy along the way. I&#x27;d repeated horrible mistakes along the way, but it wasn&#x27;t over. No matter how much I screwed up or got</p>
 <p>things wrong, it wasn&#x27;t the end. I still had a lot of life to live in this world. And that&#x27;s what I was going to do: live to the fullest, so that no matter when I died, I&#x27;d have no regrets.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-12/insert-08.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-12/insert-08.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>

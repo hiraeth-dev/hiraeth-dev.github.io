@@ -16,7 +16,7 @@ nav_title = "Chapter 1"
 <p>The diary was weathered and worn. Its cover was scarred, and the first pages were yellowed with age. Still, the words were at least comprehensible.</p>
 <p>Bracing myself, I began to read.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-15/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-15/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><em>I&#x27;ve decided to start keeping a diary.</em></p>
 <p><em>It&#x27;s been an eventful couple of weeks, you know?</em></p>
@@ -173,7 +173,7 @@ nav_title = "Chapter 1"
 <p>With that, Roxy sat back down on my lap and leaned back against me. Cupping one hand around her shoulder, I stared down at her face, now only inches from mine.</p>
 <p>That was when I realized that I had no idea what I wanted to talk about.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-15/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-15/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Uhm, so… how was your day?&quot;</p>
 <p>&quot;Oh, it wasn&#x27;t too eventful, really. Some mischievous student did send the principal&#x27;s wig flying at one point, though.&quot;</p>

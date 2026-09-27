@@ -138,7 +138,7 @@ nav_title = "Chapter 1"
 <p>Angie didn&#x27;t have long to wonder because as she looked up, she was puzzled at what she saw—girl&#x27;s underwear.</p>
 <p>Rudeus was suddenly holding panties in his hands—ones that looked like they clearly belonged to an underage girl, judging by the size.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-18/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-18/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><em>What…when did…where… Why is he holding those?</em></p>
 <p>It was strange. Moments ago he&#x27;d been holding a bundle of cloth containing his medicine…no. This was the cloth he&#x27;d been holding. The underwear had simply been folded up. Huh? But why?</p>

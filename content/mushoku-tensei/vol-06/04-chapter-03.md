@@ -111,7 +111,7 @@ nav_title = "Chapter 3"
 <p>Amidst the echoing of her protests, the soldiers looked my way in confusion. &quot;Wh-who the hell are you…?&quot;</p>
 <p>The girl had a face that resembled Lilia&#x27;s, with Paul&#x27;s brown hair pulled back into a ponytail. She was wearing a baggy maid&#x27;s outfit. Her face, which would normally have been light-hearted and gleeful, was contorted with tears and streaming snot.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-06/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-06/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The soldiers had been glaring at her with obscene looks on their faces. Wait, no. That wasn&#x27;t right. They looked like they pitied her. Were they doing this out of duty, rather than because they wanted to?</p>
 <p>&quot;Who are you?! State your name!&quot;</p>

@@ -49,7 +49,7 @@ nav_title = "Chapter 12"
 <p>&quot;Yesssss!!!&quot;</p>
 <p>Nanahoshi leapt to her feet and clutched her fists in triumph.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-13/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-13/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Congratulations, Master Rudeus!&quot;</p>
 <p>&quot;Well done, Nanahoshi!&quot;</p>

@@ -16,7 +16,7 @@ nav_title = "Chapter 9"
 <p>Nanahoshi was still bedridden. Her complexion had improved considerably, but the fatigue still remained. She&#x27;d also lost a lot of weight. It was as if everything she had in her stomach had been flushed out, leaving nothing but a skeleton behind.</p>
 <p>&quot;I&#x27;m feeling quite a bit better.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-14/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-14/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>To be on the safe side, she would need to rest another month, but at least she was in better spirits now.</p>
 <p>Her expression was different from her usual tense one. Rather, she looked like she was dazed from having just woken up. Her hair was a disheveled mess, sticking out in every direction. I used to think she lived an unhealthy lifestyle, but at least she kept her hair brushed every day.</p>

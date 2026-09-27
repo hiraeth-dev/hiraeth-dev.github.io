@@ -159,7 +159,7 @@ nav_title = "Chapter 7"
 <p>&quot;And?&quot; The younger girl jerked her chin at the cat-eared woman, prompting her for more.</p>
 <p>&quot;Mewhahaha! And this is the consulting fee, mew.&quot; The cateared woman passed over one of the many mini-towers of golden coins. There were probably about five or six coins per stack. &quot;With this, I hope I can expect you to keep workin&#x27; with me-ow, yeah?&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-18/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-18/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Why, of course. I intend to continue working with you for a loooong time to come.&quot;</p>
 <p>&quot;Mewhahaha!&quot; snickered the cat-eared woman. &quot;You really are rotten to the core, aren&#x27;t ya?&quot;</p>

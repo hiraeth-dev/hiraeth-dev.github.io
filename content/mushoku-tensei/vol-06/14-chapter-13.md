@@ -91,7 +91,7 @@ nav_title = "Chapter 13"
 <p>Then came a few words, in a tone so soft and sweet, it was as if a forbidden seal had been undone. &quot;Rudeus, I want to be your little kitty. Mew~&quot;</p>
 <p>Those words went straight though my ear and infiltrated my simpleton&#x27;s brain, snuffing out the last threads of reason that were keeping me from giving in. Eris was a dog. A wild dog, even though her last word was &#x27;mew&#x27;. In response to those words, I became a beast, too. A creature of instinct, one that shoved Eris down onto the bed.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-06/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-06/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>That night, Eris and I ascended the steps to adulthood together. During that time, I forgot all about the other complicated matters weighing on us. All I could think about was how I wanted to be with Eris. I didn&#x27;t say as much, but I think I loved her. I wanted to protect her forever. I didn&#x27;t care about the circumstances.</p>
 <p>Paul had said it himself, hadn&#x27;t he? Who cared about a noble&#x27;s duties? I didn&#x27;t need to think about stuff like that. I would do anything to help her. While we were at it, three children would be fine, but I was sure we&#x27;d make more than that.</p>

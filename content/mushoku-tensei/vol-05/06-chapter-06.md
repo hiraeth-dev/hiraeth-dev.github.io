@@ -19,7 +19,7 @@ nav_title = "Chapter 6"
 <p>This didn&#x27;t strike me as the friendliest way to say hello. Hmm. Had I done anything to make her upset with me? The only thing that came to mind was that time I beat the crap out of Paul before her eyes.</p>
 <p>Yeah, that probably had something to do with it.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-05/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-05/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Um…Father and I made up with each other, Norn,&quot; I protested gently.</p>
 <p>In response, she shouted &quot;You liar!&quot; and scampered off as fast as her little legs would carry her.</p>

@@ -63,7 +63,7 @@ nav_title = "Chapter 5"
 <p>&quot;Hey, I&#x27;m not saying it &#x27;cause I enjoy this.&quot;</p>
 <p>&quot;Then what—?&quot; I began, grabbing Paul by the chest of his shirt. But then I saw it.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-24/insert-04.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-24/insert-04.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Isn&#x27;t it obvious?&quot; he asked. Paul&#x27;s lower half was missing.</p>
 <p>***</p>
@@ -227,7 +227,7 @@ nav_title = "Chapter 5"
 <p>&quot;Oh, Rudy, you&#x27;re home. You&#x27;re early today,&quot; said Zenith as she got food ready. Placemats were on the table for the whole family, with plates and cups set out. I didn&#x27;t say anything. &quot;What&#x27;s wrong? You seem troubled… Oh! That&#x27;s right. You&#x27;re home early, so that&#x27;s perfect. The thing is… Ta-dah!&quot;</p>
 <p>She looked well. She was a little older than the Zenith I remembered, but otherwise, she was the same cheerful mother I remembered from when we lived in Fittoa.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-24/insert-05.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-24/insert-05.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;You&#x27;re grown up, Rudy, but I haven&#x27;t heard anything about romance! So I went out and found a partner for you!&quot; Zenith declared, showing me a painting of a woman on a board—a matchmaker photo. I knew the woman in the painting. I was pretty sure she worked at the Magicians&#x27; Guild, the fourth daughter of a Ranoa noble family. She had more of a talent for magic than her sisters, so she&#x27;d enrolled at the University of Magic, but while she was there her family fell into ruin. Unable to go home, she&#x27;d joined the Magicians&#x27; Guild.</p>
 <p>&quot;She&#x27;s in the same guild as you. When I said I was looking for a bride for you, Rudy, she seemed enthusiastic. You don&#x27;t seem like you&#x27;d be happy with a strategic marriage. Well, I thought that was a matter of taste, so I talked to her, and she didn&#x27;t seem totally opposed…&quot;</p>

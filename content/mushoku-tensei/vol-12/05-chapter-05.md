@@ -163,6 +163,6 @@ nav_title = "Chapter 5"
 <p>In the intervening years, my height had exceeded hers. Perhaps she felt discouraged by that. She did seem to be self-conscious about how short she was.</p>
 <p>Such were my thoughts as we spent the day together, reading. I was content.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-12/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-12/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><strong>Chapter 6: Easy as Pie</strong></p>

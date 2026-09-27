@@ -91,9 +91,36 @@
     });
   }
 
-  function setLoading(isLoading) {
-    input.disabled = isLoading;
+  function setLoading(isLoading, keepInputActive) {
+    if (!keepInputActive) {
+      input.disabled = isLoading;
+    }
     submitBtn.disabled = isLoading;
+  }
+
+  var dictCache = {};
+  try {
+    var saved = sessionStorage.getItem('hiraeth_dict_cache');
+    if (saved) dictCache = JSON.parse(saved);
+  } catch (e) {}
+
+  function saveCache(word, entry) {
+    try {
+      dictCache[word] = entry;
+      var keys = Object.keys(dictCache);
+      if (keys.length > 80) delete dictCache[keys[0]];
+      sessionStorage.setItem('hiraeth_dict_cache', JSON.stringify(dictCache));
+    } catch (e) {}
+  }
+
+  function renderSkeleton(word) {
+    return '<div class="dict-result dict-skeleton-result" aria-busy="true" aria-label="Loading definition">'
+      + '<div class="skeleton-line skeleton-title"></div>'
+      + '<div class="skeleton-line skeleton-subtitle"></div>'
+      + '<div class="skeleton-block"></div>'
+      + '<div class="skeleton-line skeleton-text"></div>'
+      + '<div class="skeleton-line skeleton-text-short"></div>'
+      + '</div>';
   }
 
   function bindRetry() {
@@ -121,8 +148,12 @@
       });
   }
 
-  // case-insensitive lookup: walk candidate spellings until one hits
+  // case-insensitive lookup: check cache, then walk candidate spellings until one hits
   function lookup(word, controller) {
+    var key = word.trim().toLowerCase();
+    if (dictCache[key]) {
+      return Promise.resolve(dictCache[key]);
+    }
     var candidates = DictEngine.lookupCandidates(word);
     var i = 0;
 
@@ -134,7 +165,10 @@
       }
       return fetchExtract(candidates[i++], controller).then(function(raw) {
         var res = DictEngine.parseResponse(raw, currentLang());
-        if (res.ok) return res.entry;
+        if (res.ok) {
+          saveCache(key, res.entry);
+          return res.entry;
+        }
         // try next spelling on misses; real failures bubble up
         if (res.kind === 'notfound' || res.kind === 'empty') return attempt();
         throw new Error(res.error || 'lookup failed');
@@ -299,10 +333,9 @@
     if (row) row.appendChild(btn);
   }
 
-  function doLookup(word, statusOverride) {
-    setLoading(true);
-    output.innerHTML = statusOverride
-      || '<p class="dict-status"><span class="live-dot"></span> looking up…</p>';
+  function doLookup(word, statusOverride, isAuto) {
+    setLoading(true, isAuto);
+    output.innerHTML = statusOverride || renderSkeleton(word);
 
     if (currentController) currentController.abort();
     var controller = new AbortController();
@@ -330,12 +363,29 @@
         }
       })
       .then(function() {
-        if (controller === currentController) setLoading(false);
+        if (controller === currentController) setLoading(false, false);
       });
   }
 
+  var debounceTimer = null;
+  input.addEventListener('input', function() {
+    clearTimeout(debounceTimer);
+    var word = input.value.trim();
+    if (!word) {
+      if (currentController) currentController.abort();
+      output.innerHTML = '';
+      return;
+    }
+    if (word.length >= 2) {
+      debounceTimer = setTimeout(function() {
+        doLookup(word, null, true);
+      }, 350);
+    }
+  });
+
   form.addEventListener('submit', function(e) {
     e.preventDefault();
+    clearTimeout(debounceTimer);
     var word = input.value.trim();
     if (!word) return;
     doLookup(word);

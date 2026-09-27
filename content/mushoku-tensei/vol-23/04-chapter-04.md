@@ -229,7 +229,7 @@ nav_title = "Chapter 4"
 <p>This journey got me thinking—Sieg, he wasn&#x27;t as fragile as I thought. Not in terms of his power or his health. More like, his spirit was so strong.</p>
 
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-23/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-23/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;It&#x27;s okay now. I think looking at you on the journey—it comforted me. It made me remember that you really would protect us.&quot;</p>
 <p>Rudy chuckled. His face looked doubtful, as though in disbelief that any aspect of him could be comforting. But Rudy took things as they came. When Sieg had green hair, he didn&#x27;t lose his cool or anything. He&#x27;d even stared down Lord Perugius with courage. I was sure he&#x27;d have done the same if any other child faced that same kind of danger.</p>

@@ -25,7 +25,7 @@ nav_title = "Chapter 2"
 <p>Sylphie trailed off and fell silent. Across the table, Roxy was squeezing her own hands together with a faint smile. Apparently, those who&#x27;d gone through this experience felt that my hand played an important role in the childbirth process.</p>
 <p>&quot;I don&#x27;t need Rudeus around,&quot; replied Eris firmly, pouting somewhat.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-19/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-19/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>It made me a bit sad to hear she didn&#x27;t think my presence was required, but at the end of the day, she had Lilia and Aisha to take care of her. I wasn&#x27;t strictly necessary, when it came down to it.</p>
 <p>&quot;When he gets back home, he can thank me for giving him a nice, big, healthy son. That&#x27;s all I need from him.&quot;</p>

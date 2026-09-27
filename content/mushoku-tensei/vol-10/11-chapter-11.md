@@ -93,7 +93,7 @@ nav_title = "Chapter 11"
 <p>She nodded firmly, looking truly pleased with herself. &quot;Yes, I did. Now I can finally move on to the next step! As I probe deeper into layered magic circles, I should be able to summon just about anything. If I can organize the circle better, then by just changing out two or three of the layers, I can most likely …&quot;</p>
 <p>Nanahoshi suddenly snapped back to reality. She averted her eyes, looking a bit awkward. &quot;Sorry. F-for causing you so much trouble.&quot;</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-10/insert-06.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-10/insert-06.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;It&#x27;s give and take, right? Next time I&#x27;m in a bind, lend me a hand, okay?&quot;</p>
 <p>&quot;I-I&#x27;d already planned on that.&quot;</p>

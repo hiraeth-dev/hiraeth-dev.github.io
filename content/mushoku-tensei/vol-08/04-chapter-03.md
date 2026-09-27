@@ -105,7 +105,7 @@ nav_title = "Chapter 3"
 <p>That last word was meant as an insult, I assumed—though when girls like her talked that way, it actually turned older men on.</p>
 <p>Regardless, this had been a successful preemptive attack. At least, I wanted to believe my efforts had been good enough to avoid getting caught up in something outrageous later on.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-08/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-08/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Zanoba had a conflicted look on his face as he watched me interact with the two of them. Once we stepped away, he spoke in a hushed voice. &quot;Master, why are you acting so submissive toward them?&quot;</p>
 <p>&quot;My dear pupil, it is important to avoid unnecessary conflicts.&quot;</p>
@@ -304,7 +304,7 @@ nav_title = "Chapter 3"
 <p>&quot;Gyaaaah! Panty thief!&quot;</p>
 <p><em>Huh?</em></p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-08/insert-03.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-08/insert-03.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>The scream of a female student came not from above, but from behind me. Panicked, I turned around to find the screaming person pointing their finger at me. This is a misunderstanding!</p>
 <p>But it was already too late. Moments after the scream, the windows on the other verandas swung noisily open. Then figures came leaping out from the first floor, one after another.</p>

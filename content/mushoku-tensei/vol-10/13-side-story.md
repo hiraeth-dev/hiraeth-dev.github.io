@@ -45,7 +45,7 @@ nav_title = "Side Story"
 <p>She was telling him to get out of her way. However, those words didn&#x27;t register with the man called Auber. The only thing that did was Eris&#x27; murderous intent. That and the realization that talking was pointless. With that, Auber—with one sword in his right hand reached for the shorter sword at his waist with his left. However, he wielded his weapon in reverse, brandishing the flat side of the blade at her.</p>
 <p>At striking distance, Eris decided she would remove the obstacle in her path by force. Shkt! Her blade whizzed through the air. She was using Sword of Light, an ability honed through all of her practice. A normal opponent had no hope of countering the Sword God Style&#x27;s most lethal technique.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-10/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-10/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Hmph!&quot;</p>
 <p>That was only if they were a normal opponent, however. Auber gripped both swords in his hands and used them to brush off the attack. Eris had perceptively anticipated his reaction and was now swinging her blade back in the opposite direction.</p>

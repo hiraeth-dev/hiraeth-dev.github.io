@@ -110,7 +110,7 @@ nav_title = "Chapter 1"
 <p>The waves grew higher, and the shockwaves from the three who continued to fight sent up plumes of water. Clouds filled the entirety of the sky. It was dark and I couldn&#x27;t even see fifty meters in front of me due to the rain. Even then, while I wouldn&#x27;t have lost sight of my opponent, I wouldn&#x27;t be surprised if these fighters had lost sight of Rudeus. He, by contrast, was aided by the Eye of Distant Sight.</p>
 <p>The demon eye would no doubt be fixed as usual on the three fighters. Demon King Badigadi neutralized the power of demonic eyes, so he, and Geese up there on his shoulder, would be nigh impossible to make out. But Master Rudeus had to be able to see Atofe and the Ogre God, and so know where to aim.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-26/insert-01.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-26/insert-01.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Master Rudeus&#x27;s raised hand closed in a fist. An accumulation of magic, so enormous I felt my hair stand on end, rose into the heavens. Just like that, the clouds contracted. Those clouds that had seemed as though they might cover the whole world vanished in an instant.</p>
 <p>I could see the moon.</p>

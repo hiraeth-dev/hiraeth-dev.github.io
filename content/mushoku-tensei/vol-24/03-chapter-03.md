@@ -143,7 +143,7 @@ nav_title = "Chapter 3"
 <p>It was Chandle. He&#x27;d positioned himself to protect my back.</p>
 <p>&quot;…Uh-huh!&quot; Dohga stood up and came over to stand right in front of me, pulling his axe off his back.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-24/insert-02.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-24/insert-02.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p><em>Guys, c&#x27;mon! I can&#x27;t see anything!</em></p>
 <p>&quot;The enemy is invisible, numbers unknown! Dohga, eyes are no good here—use your ears! Just deal with the enemy in front of you! Master Rudeus, you use magic! Area of effect spells to burn them all!&quot; Chandle barked, rattling off instructions. He was a quick thinker. I guess he was captain of a knight order, after all. I did as I was told and concentrated magic in my hands.</p>

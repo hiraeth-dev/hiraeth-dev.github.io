@@ -72,7 +72,7 @@ nav_title = "Story 2"
 <p>I didn&#x27;t want to gloss over Geese&#x27;s death, but a lot of my feelings over that time had faded in the past ten years. What I remembered now was his smile. He&#x27;d always been wearing that stupid grin and talking about jinxes. Imagining it now, I could only think of it as a good memory. No one I loved had died because of Geese. I had no reason to hold a grudge.</p>
 <p>Now that he was gone, I could at least visit his grave.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-26/insert-08.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-26/insert-08.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;Right, I&#x27;ll be back soon. Probably with the family, next time.&quot;</p>
 <p>I stood up. I wasn&#x27;t going to change anything just because of a weird dream. I was going to do what I wanted to, and what I had to. That was all. And with that, I set off back to the house where my family was waiting.</p>

@@ -245,7 +245,7 @@ nav_title = "Chapter 14"
 <p>This time, I put more feeling into the words.</p>
 <p>In reply, Elinalise just patted me on the shoulders.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-11/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-11/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>***</p>
 <p>Despite the awkward atmosphere, our party moved steadily onward.</p>

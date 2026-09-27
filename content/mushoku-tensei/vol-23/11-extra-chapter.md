@@ -161,7 +161,7 @@ nav_title = "Extra Chapter"
 <p>I returned to my seat and silently took my tankard in hand, holding it up. It was the eleventh drink someone had poured for me at some point.</p>
 <p>&quot;Who made a rule that if ya vomit ya lose, huh?&quot; I spoke.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-23/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-23/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>Badigadi&#x27;s face went blank for a moment. He was completely taken aback. He soon grinned and plonked himself down. &quot;Nobody did!&quot; he admitted gleefully.</p>
 <p>Oh, hell yeah. Time for round two.</p>

@@ -67,7 +67,7 @@ nav_title = "Chapter 7"
 <p>&quot;N-no, not exactly how I&#x27;d describe it.&quot; He looked at me in confusion.</p>
 <p>Come on, I&#x27;ll get embarrassed if you stare like that, I thought.</p>
 <div class="chapter-illustration">
-  <img src="/novels/mushoku-tensei/vol-04/insert-07.webp" alt="Illustration" loading="lazy" />
+  <img src="/novels/mushoku-tensei/vol-04/insert-07.webp" alt="Illustration" loading="lazy" decoding="async" />
 </div>
 <p>&quot;You&#x27;re naked, but you act awfully full of yourself.&quot;</p>
 <p>&quot;Hey, newbie, better watch your mouth. I&#x27;ve been here longer than you. That means I&#x27;m the master of this cell, your elder. Show some respect,&quot; I commanded.</p>
