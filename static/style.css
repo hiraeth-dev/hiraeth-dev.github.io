@@ -135,7 +135,7 @@ html[data-font="space"] {
   --font-read: "Space Mono", "Maple Mono NF", monospace;
 }
 
-/* Themes: amber, mallow, deep, slick, safelight, tungsten. */
+/* Themes: amber, mallow, gruvbox-material, safelight, tungsten. */
 :root {
   --cat-dark: #5C3410;
   --cat-mid: #9A5A1C;
@@ -244,55 +244,56 @@ html[data-theme="mallow"] {
 }
 
 
-/* ── slick — An oil film on wet asphalt. Thin panes, wide blur, two hues bleeding through. ── */
-html[data-theme="slick"] {
-  --bg: #04080B;
-  --bg-elev: #0A1219;
-  --fg: #DCEAF0;
-  --fg-dim: #7B8F9C;
-  --accent: #5EEAD4;
-  --accent-2: #E879C7;
-  --glass: rgba(10, 22, 32, .30);
-  --glass-hi: rgba(14, 32, 46, .46);
-  --line: rgba(190, 230, 240, .14);
-  --line-hi: rgba(94, 234, 212, .48);
-  --sheen: rgba(255, 255, 255, .11);
-  --grid: rgba(150, 220, 235, .055);
-  --glow: rgba(94, 234, 212, .30);
-  --halo-a: rgba(0, 200, 190, .26);
-  --halo-b: rgba(150, 70, 255, .24);
-  --blur: 24px;
-  --sat: 200%;
-  --bg-panel: #0A1219;
-  --bg-panel-alt: #0E1A26;
-  --bg-glow: #0A1219;
-  --bg-core: #020507;
-  --fg-muted: #4E616C;
+/* ── gruvbox-material — Earthy warm groove with forest olive, aged gold, and terracotta. ── */
+html[data-theme="gruvbox-material"],
+html[data-theme="gruvbox"] {
+  --bg: #282828;
+  --bg-elev: #32302f;
+  --fg: #ddc7a1;
+  --fg-dim: #a89984;
+  --accent: #a9b665;
+  --accent-2: #d8a657;
+  --glass: rgba(40, 40, 40, .45);
+  --glass-hi: rgba(50, 48, 47, .65);
+  --line: rgba(221, 199, 161, .14);
+  --line-hi: rgba(169, 182, 101, .45);
+  --sheen: rgba(221, 199, 161, .07);
+  --grid: rgba(169, 182, 101, .07);
+  --glow: rgba(169, 182, 101, .28);
+  --halo-a: rgba(169, 182, 101, .16);
+  --halo-b: rgba(216, 166, 87, .12);
+  --blur: 16px;
+  --sat: 140%;
+  --bg-panel: #32302f;
+  --bg-panel-alt: #3c3836;
+  --bg-glow: #32302f;
+  --bg-core: #1b1b1b;
+  --fg-muted: #928374;
   --border: var(--line);
   --border-strong: var(--line-hi);
-  --accent-bright: #A7F3EA;
-  --accent-soft: #E879C7;
-  --accent-dim: #2AA893;
-  --link: #E879C7;
-  --link-hover: #5EEAD4;
-  --focus-ring: #5EEAD4;
-  --grid-fade: #04080B;
-  --grid-line: rgba(150, 220, 235, .09);
-  --grid-dot: rgba(94, 234, 212, .30);
-  --bar-a: #5EEAD4;
-  --bar-b: #E879C7;
-  --bar-c: #A7F3EA;
-  --orange: #E879C7;
-  --orange-deep: #8A4A6E;
-  --red: #FF6B6B;
-  --red-deep: #C44545;
-  --cyan: #5EEAD4;
-  --cyan-deep: #2AA893;
-  --yellow: #A7F3EA;
-  --cat-dark: #0E4A44;
-  --cat-mid: #1E9E8A;
-  --cat-base: #5EEAD4;
-  --cat-light: #A7F3EA;
+  --accent-bright: #d4be98;
+  --accent-soft: #d8a657;
+  --accent-dim: #89b482;
+  --link: #d8a657;
+  --link-hover: #a9b665;
+  --focus-ring: #a9b665;
+  --grid-fade: #282828;
+  --grid-line: rgba(221, 199, 161, .08);
+  --grid-dot: rgba(169, 182, 101, .28);
+  --bar-a: #a9b665;
+  --bar-b: #d8a657;
+  --bar-c: #7daea3;
+  --orange: #e78a4e;
+  --orange-deep: #a6501a;
+  --red: #ea6962;
+  --red-deep: #a83a35;
+  --cyan: #7daea3;
+  --cyan-deep: #4e736a;
+  --yellow: #d8a657;
+  --cat-dark: #3c3836;
+  --cat-mid: #89b482;
+  --cat-base: #a9b665;
+  --cat-light: #ddc7a1;
 }
 
 /* ── safelight — Darkroom red. Almost no blue light in it, and the dimmest of the six. ── */

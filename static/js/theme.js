@@ -2,9 +2,10 @@
   var html = document.documentElement;
   var btn = document.getElementById('theme-btn');
   if (!btn) return;
-  var VALID = ['amber', 'mallow', 'slick', 'safelight', 'tungsten'];
+  var VALID = ['amber', 'mallow', 'gruvbox-material', 'safelight', 'tungsten'];
   var DEF = (window.matchMedia && window.matchMedia('(max-width: 768px)').matches) ? 'safelight' : 'amber';
   var current = html.getAttribute('data-theme') || DEF;
+  if (current === 'gruvbox' || current === 'slick') current = 'gruvbox-material';
   if (VALID.indexOf(current) < 0) {
     current = DEF;
     html.setAttribute('data-theme', current);
