@@ -5,7 +5,7 @@
 {% block content %}
 <main>
 
-<div class="wrap">
+<div class="wrap wrap-wide">
   <nav class="back-link">
     <a href="/">&larr; Home</a>
   </nav>
@@ -76,26 +76,28 @@
           </label>
         </div>
 
-        <div class="studio-field" id="cmp-quality-row">
-          <span class="studio-label">quality</span>
-          <div class="studio-slider-wrap">
-            <input type="range" id="cmp-quality" class="studio-range" min="1" max="100" value="70">
-            <div class="studio-range-labels">
-              <span>low</span>
-              <span id="cmp-quality-val" class="studio-range-val">70%</span>
-              <span>high</span>
+        <div class="studio-grid2">
+          <div class="studio-field" id="cmp-quality-row">
+            <span class="studio-label">quality</span>
+            <div class="studio-slider-wrap">
+              <input type="range" id="cmp-quality" class="studio-range" min="1" max="100" value="70">
+              <div class="studio-range-labels">
+                <span>low</span>
+                <span id="cmp-quality-val" class="studio-range-val">70%</span>
+                <span>high</span>
+              </div>
             </div>
           </div>
-        </div>
 
-        <div class="studio-field" id="cmp-maxdim-row">
-          <span class="studio-label">cap longest side</span>
-          <div class="studio-slider-wrap">
-            <input type="range" id="cmp-maxdim" class="studio-range" min="0" max="8000" step="100" value="0">
-            <div class="studio-range-labels">
-              <span>off</span>
-              <span id="cmp-maxdim-val" class="studio-range-val">none</span>
-              <span>8000px</span>
+          <div class="studio-field" id="cmp-maxdim-row">
+            <span class="studio-label">cap longest side</span>
+            <div class="studio-slider-wrap">
+              <input type="range" id="cmp-maxdim" class="studio-range" min="0" max="8000" step="100" value="0">
+              <div class="studio-range-labels">
+                <span>off</span>
+                <span id="cmp-maxdim-val" class="studio-range-val">none</span>
+                <span>8000px</span>
+              </div>
             </div>
           </div>
         </div>
