@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{# Legacy /tool1/ path — the tool moved to /studio/. Sends visitors and
+   crawlers to the new URL with a canonical link, without a hard 404. #}
+
+{% block title %}studio — {{ config.title }}{% endblock title %}
+
+{% block head %}
+<link rel="canonical" href="{{ config.base_url }}{{ page.extra.target }}">
+<script>location.replace({{ page.extra.target | json_encode | safe }} + location.search + location.hash);</script>
+{% endblock head %}
+
+{% block content %}
+<main>
+<div class="wrap">
+  <div class="terminal">
+    <div class="terminal-bar">
+      <span>tty4</span>
+      <div class="terminal-dots">
+        <span class="dot dot-red"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-cyan"></span>
+      </div>
+    </div>
+    <div class="terminal-body">
+      <div class="prompt"><span>$</span> studio</div>
+      <p class="studio-blurb">
+        This tool has moved. Taking you to
+        <a href="{{ page.extra.target }}">studio</a> &hellip;
+      </p>
+      <p><a href="{{ page.extra.target }}">&rarr; {{ page.extra.target }}</a></p>
+    </div>
+  </div>
+</div>
+</main>
+{% endblock content %}
+
+{% block extrascripts %}
+{{ super() }}
+{% endblock extrascripts %}

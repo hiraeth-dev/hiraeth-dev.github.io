@@ -1,0 +1,350 @@
+{% extends "base.html" %}
+
+{% block title %}studio — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<main>
+
+<div class="wrap">
+  <nav class="back-link">
+    <a href="/">&larr; Home</a>
+  </nav>
+
+  <div class="terminal terminal-studio spot">
+    <div class="terminal-bar">
+      <span>tty4</span>
+      <div class="terminal-dots">
+        <span class="dot dot-red"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-cyan"></span>
+      </div>
+    </div>
+
+    <div class="terminal-body" style="align-items:stretch;">
+
+      <div class="prompt"><span>$</span> studio</div>
+
+      <p class="studio-blurb">
+        Images, PDFs and documents — all processed in this tab. Nothing is uploaded.
+      </p>
+
+      <div class="studio-tabs" role="tablist" aria-label="tool">
+        <button class="studio-tab is-active" role="tab" data-tab="compress" aria-selected="true" aria-controls="panel-compress">compress</button>
+        <button class="studio-tab" role="tab" data-tab="convert" aria-selected="false" aria-controls="panel-convert">convert</button>
+        <button class="studio-tab" role="tab" data-tab="image" aria-selected="false" aria-controls="panel-image">image</button>
+      </div>
+
+      <!-- shared drop zone + queue -->
+      <div id="studio-drop" class="studio-drop">
+        <div class="studio-drop-text">
+          drop files here or
+          <label class="studio-browse" for="studio-input">browse</label>
+        </div>
+        <input type="file" id="studio-input" class="studio-input" multiple>
+      </div>
+
+      <div class="studio-queue-head">
+        <span id="studio-count" class="studio-count"></span>
+        <span id="studio-hint" class="studio-hint"></span>
+        <button id="studio-clear" class="studio-clear" type="button">clear</button>
+      </div>
+
+      <div id="studio-queue" class="studio-queue"></div>
+
+      <!-- ── compress ─────────────────────────────────────────────── -->
+      <section id="panel-compress" class="studio-panel" role="tabpanel">
+        <div class="studio-grid2">
+          <label class="studio-field">
+            <span class="studio-label">applies to</span>
+            <select id="cmp-mode" class="studio-select">
+              <option value="auto">everything in the queue</option>
+              <option value="image">images only</option>
+              <option value="pdf">pdfs only</option>
+              <option value="office">word / excel only</option>
+            </select>
+          </label>
+
+          <label class="studio-field" id="cmp-format-row">
+            <span class="studio-label">image format</span>
+            <select id="cmp-format" class="studio-select">
+              <option value="original">keep original</option>
+              <option value="jpeg">JPEG</option>
+              <option value="png">PNG</option>
+              <option value="webp">WebP</option>
+              <option value="avif">AVIF (slow)</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="studio-field" id="cmp-quality-row">
+          <span class="studio-label">quality</span>
+          <div class="studio-slider-wrap">
+            <input type="range" id="cmp-quality" class="studio-range" min="1" max="100" value="70">
+            <div class="studio-range-labels">
+              <span>low</span>
+              <span id="cmp-quality-val" class="studio-range-val">70%</span>
+              <span>high</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="studio-field" id="cmp-maxdim-row">
+          <span class="studio-label">cap longest side</span>
+          <div class="studio-slider-wrap">
+            <input type="range" id="cmp-maxdim" class="studio-range" min="0" max="8000" step="100" value="0">
+            <div class="studio-range-labels">
+              <span>off</span>
+              <span id="cmp-maxdim-val" class="studio-range-val">none</span>
+              <span>8000px</span>
+            </div>
+          </div>
+        </div>
+
+        <label class="studio-check" id="cmp-raster-row">
+          <input type="checkbox" id="cmp-raster">
+          <span>rasterise pdf pages (much smaller)</span>
+        </label>
+        <p class="studio-warn" id="cmp-raster-warn" hidden>
+          Rasterising re-photographs each page, so the output is far smaller but its
+          text stops being selectable or searchable. Metadata-only is lossless.
+        </p>
+
+        <div class="studio-field" id="cmp-dpi-row" hidden>
+          <span class="studio-label">raster dpi</span>
+          <select id="cmp-dpi" class="studio-select">
+            <option value="72">72 — smallest</option>
+            <option value="110" selected>110 — balanced</option>
+            <option value="150">150 — sharper</option>
+            <option value="200">200 — large</option>
+          </select>
+        </div>
+
+        <p class="studio-note">
+          Office files (word/excel) ship already compressed, so expect single-digit
+          savings there — the win is stripping author and revision metadata.
+        </p>
+      </section>
+
+      <!-- ── convert ──────────────────────────────────────────────── -->
+      <section id="panel-convert" class="studio-panel" role="tabpanel" hidden>
+        <div class="studio-grid2">
+          <label class="studio-field">
+            <span class="studio-label">convert to</span>
+            <select id="cv-target" class="studio-select"></select>
+          </label>
+
+          <div class="studio-field" id="cv-dpi-row">
+            <span class="studio-label">dpi <small>(pdf → image)</small></span>
+            <select id="cv-dpi" class="studio-select">
+              <option value="72">72 — screen</option>
+              <option value="150" selected>150 — balanced</option>
+              <option value="200">200 — high</option>
+              <option value="300">300 — print</option>
+            </select>
+          </div>
+        </div>
+
+        <p class="studio-hint-line" id="cv-hint"></p>
+
+        <div class="studio-field" id="cv-quality-row">
+          <span class="studio-label">quality</span>
+          <div class="studio-slider-wrap">
+            <input type="range" id="cv-quality" class="studio-range" min="1" max="100" value="90">
+            <div class="studio-range-labels">
+              <span>low</span>
+              <span>high</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="studio-field" id="cv-op-row" hidden>
+          <span class="studio-label">page tool</span>
+          <select id="cv-op" class="studio-select">
+            <option value="merge">merge all pdfs into one</option>
+            <option value="extract">extract pages</option>
+            <option value="delete">delete pages</option>
+            <option value="rotate">rotate pages</option>
+            <option value="unlock">unlock (decrypt)</option>
+            <option value="clean">clean metadata</option>
+          </select>
+        </div>
+
+        <div class="studio-field" id="cv-range-row" hidden>
+          <span class="studio-label" id="cv-range-label">pages</span>
+          <input type="text" id="cv-range" class="studio-input-text" placeholder="1-3, 7, 10-12" autocomplete="off">
+          <span class="studio-hint-inline">1-based, ranges allowed</span>
+        </div>
+
+        <div class="studio-field" id="cv-rotate-row" hidden>
+          <span class="studio-label">rotate by</span>
+          <select id="cv-rotate" class="studio-select">
+            <option value="90">90°</option>
+            <option value="180">180°</option>
+            <option value="270">270°</option>
+          </select>
+        </div>
+
+        <div class="studio-field" id="cv-sheet-row" hidden>
+          <span class="studio-label">sheet</span>
+          <select id="cv-sheet" class="studio-select"></select>
+        </div>
+
+        <div class="studio-field" id="cv-password-row" hidden>
+          <span class="studio-label" id="cv-password-label">pdf password</span>
+          <input type="password" id="cv-password" class="studio-input-text" autocomplete="off" placeholder="enter password">
+        </div>
+        <p class="studio-warn" id="cv-locked-hint" hidden>
+          Locked PDFs can be read, converted and unlocked once you supply the password
+          above. The password never leaves this tab.
+        </p>
+      </section>
+
+      <!-- ── image ────────────────────────────────────────────────── -->
+      <section id="panel-image" class="studio-panel" role="tabpanel" hidden>
+        <div class="studio-grid2">
+          <label class="studio-field">
+            <span class="studio-label">resize by</span>
+            <select id="img-mode" class="studio-select">
+              <option value="percent">percentage</option>
+              <option value="width">width</option>
+              <option value="height">height</option>
+              <option value="longest">longest side</option>
+              <option value="exact">exact size</option>
+              <option value="dpi">print dpi</option>
+              <option value="original">leave alone</option>
+            </select>
+          </label>
+
+          <label class="studio-field">
+            <span class="studio-label">preset</span>
+            <select id="img-preset" class="studio-select">
+              <option value="">none</option>
+            </select>
+          </label>
+        </div>
+
+        <label class="studio-field" id="img-pct-row">
+          <span class="studio-label">percent</span>
+          <input type="number" id="img-pct" class="studio-input-num" min="1" max="1000" value="50">
+        </label>
+
+        <label class="studio-field" id="img-w-row" hidden>
+          <span class="studio-label">width (px)</span>
+          <input type="number" id="img-w" class="studio-input-num" min="1" max="20000" value="1920">
+        </label>
+
+        <label class="studio-field" id="img-h-row" hidden>
+          <span class="studio-label">height (px)</span>
+          <input type="number" id="img-h" class="studio-input-num" min="1" max="20000" value="1080">
+        </label>
+
+        <label class="studio-field" id="img-longest-row" hidden>
+          <span class="studio-label">longest side (px)</span>
+          <input type="number" id="img-longest" class="studio-input-num" min="1" max="20000" value="1920">
+        </label>
+
+        <label class="studio-field" id="img-dpi-row" hidden>
+          <span class="studio-label">print dpi</span>
+          <input type="number" id="img-dpi" class="studio-input-num" min="36" max="1200" value="300">
+        </label>
+
+        <div class="studio-field" id="img-exact-row" hidden>
+          <span class="studio-label">aspect</span>
+          <select id="img-aspect" class="studio-select"></select>
+        </div>
+
+        <div class="studio-field" id="img-fit-row" hidden>
+          <span class="studio-label">fit</span>
+          <select id="img-fit" class="studio-select">
+            <option value="contain">fit inside (letterbox)</option>
+            <option value="fill">fill box (crop overflow)</option>
+          </select>
+        </div>
+
+        <div class="studio-grid2">
+          <label class="studio-field">
+            <span class="studio-label">output format</span>
+            <select id="img-format" class="studio-select">
+              <option value="original">keep original</option>
+              <option value="jpeg">JPEG</option>
+              <option value="png">PNG</option>
+              <option value="webp">WebP</option>
+              <option value="avif">AVIF (slow)</option>
+            </select>
+          </label>
+
+          <div class="studio-field" id="img-quality-row">
+            <span class="studio-label">quality</span>
+            <div class="studio-slider-wrap">
+              <input type="range" id="img-quality" class="studio-range" min="1" max="100" value="85">
+              <div class="studio-range-labels">
+                <span>low</span>
+                <span id="img-quality-val" class="studio-range-val">85%</span>
+                <span>high</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <label class="studio-check">
+          <input type="checkbox" id="img-crop-enable">
+          <span>crop interactively <small>(applies to the image selected below)</small></span>
+        </label>
+
+        <div id="studio-crop-wrap" class="studio-crop-wrap" hidden>
+          <div class="studio-grid2">
+            <label class="studio-field">
+              <span class="studio-label">edit image</span>
+              <select id="img-pick" class="studio-select"></select>
+            </label>
+            <div class="studio-field">
+              <span class="studio-label">crop aspect</span>
+              <select id="img-aspect-crop" class="studio-select"></select>
+            </div>
+          </div>
+          <div id="studio-crop" class="studio-crop"></div>
+          <div class="studio-grid4">
+            <label class="studio-field"><span class="studio-label">x</span><input type="number" id="img-crop-x" class="studio-input-num" value="0"></label>
+            <label class="studio-field"><span class="studio-label">y</span><input type="number" id="img-crop-y" class="studio-input-num" value="0"></label>
+            <label class="studio-field"><span class="studio-label">w</span><input type="number" id="img-crop-w" class="studio-input-num" value="0"></label>
+            <label class="studio-field"><span class="studio-label">h</span><input type="number" id="img-crop-h" class="studio-input-num" value="0"></label>
+          </div>
+        </div>
+
+        <p class="studio-hint-line" id="img-out-dims"></p>
+      </section>
+
+      <p class="studio-empty" id="note-compress" hidden>
+        Nothing in the queue this tab can work on.
+      </p>
+      <p class="studio-empty" id="note-convert" hidden>
+        Nothing in the queue this tab can work on.
+      </p>
+      <p class="studio-empty" id="note-image" hidden>
+        No images in the queue — the image tab resizes and crops image files.
+      </p>
+
+      <div class="studio-actions">
+        <button id="studio-run" class="studio-btn studio-btn-primary" type="button" disabled>compress</button>
+        <button id="studio-cancel" class="studio-btn" type="button" hidden>cancel</button>
+        <span id="studio-status" class="studio-status" role="status" aria-live="polite"></span>
+      </div>
+
+      <div id="studio-results" class="studio-results"></div>
+
+      <p class="studio-foot">
+        Runs entirely in your browser — pdf.js, pdf-lib, Squoosh codecs, mammoth and
+        SheetJS are fetched on demand and cached.
+      </p>
+
+    </div>
+  </div>
+</div>
+
+</main>
+{% endblock content %}
+
+{% block extrascripts %}
+{{ super() }}
+<script type="module" src="/js/studio/app.js"></script>
+{% endblock extrascripts %}

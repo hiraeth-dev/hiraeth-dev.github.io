@@ -110,7 +110,41 @@ the static CSS underlay (`body:has(#grid-canvas)::before`). Reduced-motion
 users get one static frame. Glass tuning: slightly larger/softer hover
 bloom; base grid untouched.
 
-## 4. Adding a theme
+## 4. Studio (image + PDF tools)
+
+`/studio/`, `templates/studio.html`, `static/js/studio/*.js`. Replaced the old
+`/tool1/` compress page; `/tool1/` now renders `templates/redirect.html` and
+bounces to `/studio/`, with the target in `content/tool1.md` front matter
+(`extra.target`) and a canonical link.
+
+**Everything runs in the tab.** No uploads, no backend — the site is static on
+GitHub Pages, so any feature that needs a server cannot ship here.
+
+Modules: `core.js` (pinned CDN loader, file queue, batch runner, zip),
+`image.js` (decode/encode/resize/crop), `pdf.js` (pdf.js read + pdf-lib write),
+`office.js` (mammoth/SheetJS + zip recompress), `crop.js` (crop box UI),
+`app.js` (tabs + wiring). Engines load on first use, so the page ships almost
+no JS; all CDN URLs are pinned in `core.js:CDN`.
+
+Two upstream API traps, both already hit once — keep these in mind:
+- pdf.js v6 **removed** `PDFDocumentProxy.destroy()`. Use `destroyDoc(doc)`,
+  which goes through `doc.loadingTask.destroy()`.
+- pdf.js **detaches** the buffer it is given. `openDocument()` always hands it
+  a private copy; callers reuse the original bytes for pdf-lib.
+
+Honest capability limits (surfaced in the UI, not hidden):
+- Images ⇄ images, resize, crop, images→PDF, PDF→images, PDF page tools: full
+  quality.
+- PDF compression is two explicit modes: *metadata strip* (lossless, small
+  savings) and *rasterise* (big savings, text stops being selectable).
+- `unlock` decrypts via pdf.js, but pdf-lib cannot re-save an encrypted file,
+  so the unlocked copy is rasterised. It says so in the result row.
+- DOCX/XLSX → PDF/image is approximate (mammoth/SheetJS → HTML → SVG
+  `foreignObject` → canvas). PDF→DOCX is not attempted.
+- PPTX/PPTD/ODP and legacy binary `.doc`/`.rtf` are refused with a reason.
+  There is no usable in-browser slide renderer, so this is a hard limit.
+
+## 5. Adding a theme
 
 1. Copy a `[data-theme]` block, define **every** token in §1 (missing
    tokens silently inherit the previous theme — the classic bug).
@@ -120,7 +154,7 @@ bloom; base grid untouched.
 4. Update `site.webmanifest` colors only if changing the default.
 5. Rebuild (`zola build`), serve `public/`, screenshot every theme.
 
-## 5. Checks before push
+## 6. Checks before push
 
 - `zola build` clean; no console errors.
 - Every theme renders: cards legible over the grid (glass opacity!).

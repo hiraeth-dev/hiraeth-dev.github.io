@@ -1,4 +1,6 @@
 +++
-title = "compress"
-template = "tool1.html"
+title = "studio"
+template = "redirect.html"
+[extra]
+target = "/studio/"
 +++

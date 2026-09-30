@@ -14,6 +14,7 @@
   <link rel="manifest" href="/site.webmanifest">
   <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="/atom.xml">
   <meta name="description" content="{{ config.description }}">
+{% block head %}{% endblock head %}
 </head>
 <body class="{% block body_class %}{% endblock body_class %}">
 <div id="scroll-bar" aria-hidden="true"></div>
