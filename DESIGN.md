@@ -12,8 +12,8 @@ Base palette per theme — every theme **must** define all of these:
 | Core (per theme, literal) | `--bg`, `--bg-elev`, `--fg`, `--fg-dim`, `--accent`, `--accent-2` |
 | Glass (per theme, literal) | `--glass`, `--glass-hi`, `--line`, `--line-hi`, `--sheen`, `--grid`, `--glow`, `--halo-a`, `--halo-b`, `--blur`, `--sat` |
 | Legacy compat (per theme, literal) | `--bg-panel` (=bg-elev), `--bg-panel-alt`, `--bg-glow` (=bg-elev), `--bg-core`, `--fg-muted`, `--border` (=line), `--border-strong` (=line-hi), `--accent-bright/soft/dim`, `--link`, `--link-hover`, `--focus-ring`, `--grid-fade` (=bg, except amber `transparent`), `--grid-line`, `--grid-dot`, `--bar-a/b/c`, `--orange(+deep)`, `--red(+deep)`, `--cyan(+deep)`, `--yellow`, `--cat-dark/mid/base/light` |
-| Type (global `:root`) | `--font-mono`, `--font-read`, `--text-xs/sm/base/lg/xl/2xl`, `--content-w{-wide,-list}` |
-| Glass system (global, auto-derived) | `--glass-bg` (panel 62%), `--glass-bg-strong` (panel 82%), `--glass-blur` (= per-theme `--blur`), `--glass-hi` (fg 14%), `--glass-shadow(-hover)` |
+| Type (global `:root`) | `--font-mono`, `--font-read`, `--text-xs/sm/base/lg/xl/2xl`, `--content-w{-wide,-list,-read}` |
+| Glass system (global, auto-derived) | `--glass-bg` (panel 15%), `--glass-bg-strong` (panel 82%), `--glass-blur` (= per-theme `--blur`), `--glass-hi` (fg 20%), `--glass-shadow(-hover)` |
 
 Fonts switch via `html[data-font]`, which also bumps root `font-size`
 (maple/space 110%, iosevka 115%). Default theme is `amber` desktop / `safelight` mobile, default font
@@ -41,7 +41,35 @@ run desaturated neutral at 25% opacity, other themes use their own
 If `backdrop-filter` is unsupported, `@supports not` falls every glass
 surface back to solid `var(--bg-panel)`.
 
-## 2. Component recipes
+## 2. Reading measure & text wrapping
+
+Long-form pages (`.chapter-body`, `.page-header`, `.page-nav`, and the back
+link on reading pages) are capped at `--content-w-read` (760px). This is a
+**fixed px width on purpose**: all three reading fonts are monospace but have
+different advance widths, so a px cap is what holds the *character* count
+stable while cycling fonts. Measured at 760px: maple 65, iosevka 74.6,
+space 63.7 chars/line — all inside the 45–75 band. At 790px Iosevka already
+breaks the 75 ceiling. Do not widen this to `--content-w-wide` (1100px =
+95 chars, well past the point where readers skip lines).
+
+Wrapping:
+- `text-wrap: pretty` on prose (`.chapter-body p`, `.footnote p`,
+  `.dict-meaning-item`, `.playlist-item .summary`) — pulls a word down so a
+  paragraph never ends on a stranded short last line.
+- `text-wrap: balance` on headings (`.page-header h2`, `.section-heading`,
+  `.terminal-body h1`, `.book-title`, `.novel-title`) — evens out short
+  headings; browsers ignore it past ~6 lines.
+
+Note: `pretty` on its own is nearly invisible at this measure (it only
+prevents single-word last lines, which a 95-char measure almost never
+produces). The measure is what actually fixed readability; `pretty` is
+cheap insurance and matters more at narrower widths.
+
+`templates/base.html` exposes a `body_class` block; `page.html` sets it to
+`reading` so the back link can align to the reading column without
+disturbing other pages.
+
+## 3. Component recipes
 
 **Glass panel** (terminal, novel/stack/stat/chapter cards, playlist,
 code-block, dict-result, theme-menu, dict-meaning-item):
@@ -82,7 +110,7 @@ the static CSS underlay (`body:has(#grid-canvas)::before`). Reduced-motion
 users get one static frame. Glass tuning: slightly larger/softer hover
 bloom; base grid untouched.
 
-## 3. Adding a theme
+## 4. Adding a theme
 
 1. Copy a `[data-theme]` block, define **every** token in §1 (missing
    tokens silently inherit the previous theme — the classic bug).
@@ -92,10 +120,15 @@ bloom; base grid untouched.
 4. Update `site.webmanifest` colors only if changing the default.
 5. Rebuild (`zola build`), serve `public/`, screenshot every theme.
 
-## 4. Checks before push
+## 5. Checks before push
 
 - `zola build` clean; no console errors.
 - Every theme renders: cards legible over the grid (glass opacity!).
 - Keyboard: focus rings visible; menus Esc-closable.
 - `prefers-reduced-motion`: static grid, no spotlight, no typewriter.
 - Mobile 390px: no horizontal overflow.
+- Reading measure: `getComputedStyle` chars/line stays 45–75 on a chapter
+  page for **all three** fonts (cycle with the font button). Panel, header,
+  nav and back link must all report the same left edge and width.
+- `zola build` after any template change — `body_class` block edits render
+  nothing visible in dev if the build is stale.

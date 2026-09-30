@@ -15,7 +15,7 @@
   <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="/atom.xml">
   <meta name="description" content="{{ config.description }}">
 </head>
-<body>
+<body class="{% block body_class %}{% endblock body_class %}">
 <div id="scroll-bar" aria-hidden="true"></div>
 {% block canvas %}<canvas id="grid-canvas"></canvas>{% endblock canvas %}
 

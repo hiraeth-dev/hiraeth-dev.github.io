@@ -105,6 +105,11 @@
   --content-w: 720px;
   --content-w-wide: 1100px;
   --content-w-list: 960px;
+  /* Reading measure. All three reading fonts are monospace, so a fixed px
+     width holds every one of them inside 64–75 chars/line (measured:
+     maple 65, iosevka 74.6, space 63.7). Going wider breaks the 75 ceiling
+     on Iosevka, whose advance is narrower. */
+  --content-w-read: 760px;
 }
 
 /* ── Glass tokens: auto-derived from the active theme, so all 8 themes
@@ -1094,7 +1099,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 
 /* ── Content pages (MT chapters, CP) ── */
 .chapter-body {
-  max-width: var(--content-w); margin: 0 auto;
+  max-width: var(--content-w-read); margin: 0 auto;
   padding: 32px 36px;
   background: var(--glass-bg);
   backdrop-filter: blur(10px) saturate(var(--sat, 155%));
@@ -1110,9 +1115,24 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 .chapter-body u { text-decoration: underline; text-underline-offset: 3px; }
 .chapter-body img { max-width: 100%; max-height: 600px; width: auto; height: auto; display: block; margin: 1.5em auto; }
 
+/* ── Text wrapping ──
+   `pretty` on prose pulls a word down so a paragraph never ends on a
+   stranded short last line. `balance` evens out the lines of short
+   headings instead (ignored past ~6 lines, so long ones wrap normally). */
+.chapter-body p,
+.footnote p,
+.dict-meaning-item,
+.playlist-item .summary { text-wrap: pretty; }
+
+.page-header h2,
+.section-heading,
+.terminal-body h1,
+.book-title,
+.novel-title { text-wrap: balance; }
+
 .page-header {
   display: flex; justify-content: space-between; align-items: center;
-  max-width: var(--content-w); margin: 0 auto; padding: 24px 24px 24px;
+  max-width: var(--content-w-read); margin: 0 auto; padding: 24px 24px 24px;
 }
 .page-header h2 {
   font-size: var(--text-lg); color: var(--fg);
@@ -1421,7 +1441,8 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
   .novels-grid { gap: 16px; }
   .playlist-item .title { font-size: 1.0625rem; }
   .chapter-list, .novel-hero, .back-link { max-width: var(--content-w-wide); }
-  .chapter-body, .page-header, .page-nav { max-width: var(--content-w-wide); }
+  /* Reading pages: keep the back link on the same column as the text. */
+  body.reading .back-link { max-width: var(--content-w-read); }
   .chapter-grid { grid-template-columns: repeat(3, 1fr); gap: 18px; }
 }
 @media (min-width: 1440px) {
@@ -1431,7 +1452,7 @@ html.grid-live body:has(#grid-canvas)::before { opacity: 0; }
 /* ── Content page nav ── */
 .page-nav {
   display: flex; justify-content: space-between;
-  max-width: var(--content-w); margin: 0 auto; padding: 24px 24px 24px;
+  max-width: var(--content-w-read); margin: 0 auto; padding: 24px 24px 24px;
   font-size: var(--text-sm);
 }
 .page-nav a {

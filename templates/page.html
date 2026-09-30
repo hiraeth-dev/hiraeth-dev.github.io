@@ -2,6 +2,9 @@
 
 {% block title %}{{ page.title }} — {{ config.title }}{% endblock title %}
 
+{# Marks this as a reading page so the back link can align to the reading column #}
+{% block body_class %}reading{% endblock body_class %}
+
 {% block content %}
 <nav class="back-link wrap">
   {% set parent_path = page.ancestors | last %}
