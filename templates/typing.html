@@ -20,54 +20,66 @@
       </div>
     </div>
     <div class="terminal-body" style="align-items:stretch;">
+
       <div class="type-header-row">
         <div class="prompt"><span>$</span> typing-test</div>
+        <span class="type-tag">wpm &amp; accuracy</span>
+      </div>
 
-        <!-- Sleek Unified Minimal Toolbar -->
-        <div id="type-toolbar" class="type-toolbar" role="toolbar" aria-label="Typing test configuration">
-          <div class="type-tb-group" id="type-mode-group">
-            <button type="button" class="type-tb-btn active" data-mode="time">time</button>
-            <button type="button" class="type-tb-btn" data-mode="words">words</button>
-          </div>
-          <span class="type-tb-sep"></span>
-          <div class="type-tb-group" id="type-time-group">
-            <button type="button" class="type-tb-btn" data-dur="15">15</button>
-            <button type="button" class="type-tb-btn active" data-dur="30">30</button>
-            <button type="button" class="type-tb-btn" data-dur="60">60</button>
-            <button type="button" class="type-tb-btn" data-dur="120">120</button>
-          </div>
-          <div class="type-tb-group" id="type-words-group" style="display:none;">
-            <button type="button" class="type-tb-btn" data-count="10">10</button>
-            <button type="button" class="type-tb-btn" data-count="25">25</button>
-            <button type="button" class="type-tb-btn active" data-count="50">50</button>
-            <button type="button" class="type-tb-btn" data-count="100">100</button>
-          </div>
-          <span class="type-tb-sep"></span>
-          <div class="type-tb-group">
-            <button type="button" class="type-tb-btn" id="type-punct-btn" title="Toggle punctuation and capitalization">@ punct</button>
-          </div>
-          <span class="type-tb-sep"></span>
-          <div class="type-tb-group" id="type-size-group" title="Font size">
-            <span class="type-tb-label">Aa</span>
-            <button type="button" class="type-tb-btn" data-size="sm">S</button>
-            <button type="button" class="type-tb-btn active" data-size="md">M</button>
-            <button type="button" class="type-tb-btn" data-size="lg">L</button>
-          </div>
+      <!-- Config lives on its own row so it never crowds the prompt -->
+      <div id="type-toolbar" class="type-toolbar" role="toolbar" aria-label="Typing test configuration">
+        <div class="type-tb-group" id="type-mode-group" role="group" aria-label="mode">
+          <span class="type-tb-label">mode</span>
+          <button type="button" class="type-tb-btn active" data-mode="time">time</button>
+          <button type="button" class="type-tb-btn" data-mode="words">words</button>
+        </div>
+
+        <div class="type-tb-group" id="type-time-group" role="group" aria-label="duration">
+          <span class="type-tb-label">length</span>
+          <button type="button" class="type-tb-btn" data-dur="15">15s</button>
+          <button type="button" class="type-tb-btn active" data-dur="30">30s</button>
+          <button type="button" class="type-tb-btn" data-dur="60">60s</button>
+          <button type="button" class="type-tb-btn" data-dur="120">120s</button>
+        </div>
+
+        <div class="type-tb-group" id="type-words-group" role="group" aria-label="word count" style="display:none;">
+          <span class="type-tb-label">length</span>
+          <button type="button" class="type-tb-btn" data-count="10">10w</button>
+          <button type="button" class="type-tb-btn" data-count="25">25w</button>
+          <button type="button" class="type-tb-btn active" data-count="50">50w</button>
+          <button type="button" class="type-tb-btn" data-count="100">100w</button>
+        </div>
+
+        <div class="type-tb-group" role="group" aria-label="punctuation">
+          <span class="type-tb-label">punct</span>
+          <button type="button" class="type-tb-btn" id="type-punct-btn" aria-pressed="false">off</button>
+        </div>
+
+        <div class="type-tb-group" id="type-size-group" role="group" aria-label="text size">
+          <span class="type-tb-label">size</span>
+          <button type="button" class="type-tb-btn" data-size="sm">s</button>
+          <button type="button" class="type-tb-btn active" data-size="md">m</button>
+          <button type="button" class="type-tb-btn" data-size="lg">l</button>
         </div>
       </div>
 
-      <!-- Live progress and stats -->
+      <!-- Three evenly weighted stats rather than scattered corners -->
       <div id="type-live-bar" class="type-live-bar">
-        <div class="type-live-timer-wrap">
-          <span id="live-timer" class="live-timer-val">30</span>
+        <div class="type-stat type-stat-timer">
+          <span class="type-stat-val"><span id="live-timer">30</span></span>
+          <span class="type-stat-lbl" id="live-timer-lbl">seconds left</span>
         </div>
-        <div class="type-live-metrics">
-          <div class="live-metric"><span class="metric-val" id="live-wpm">0</span> <span class="metric-lbl">wpm</span></div>
-          <div class="live-metric"><span class="metric-val" id="live-acc">100</span><span class="metric-unit">%</span> <span class="metric-lbl">acc</span></div>
+        <div class="type-stat">
+          <span class="type-stat-val"><span id="live-wpm">0</span><span class="type-stat-unit">wpm</span></span>
+          <span class="type-stat-lbl">speed</span>
+        </div>
+        <div class="type-stat">
+          <span class="type-stat-val"><span id="live-acc">100</span><span class="type-stat-unit">%</span></span>
+          <span class="type-stat-lbl">accuracy</span>
         </div>
       </div>
 
-      <!-- Typing Words Area -->
+      <!-- Typing area -->
       <div id="type-words" class="type-words font-size-md" tabindex="0" aria-label="Typing test area">
         <div id="type-words-viewport" class="type-words-viewport">
           <div id="type-caret" class="type-caret"></div>
@@ -81,7 +93,7 @@
         </div>
       </div>
 
-      <!-- Results View -->
+      <!-- Results -->
       <div id="type-results" class="type-results" style="display:none;">
         <div class="type-results-header">
           <div class="type-hero-stat">
@@ -92,17 +104,20 @@
             <span class="type-hero-val" id="result-acc">0%</span>
             <span class="type-hero-label">accuracy</span>
           </div>
-          <div class="type-sub-stats">
-            <div class="sub-stat"><span class="sub-stat-lbl">raw</span><span class="sub-stat-val" id="result-raw">0</span></div>
-            <div class="sub-stat"><span class="sub-stat-lbl">chars</span><span class="sub-stat-val" id="result-chars">0/0/0</span></div>
-            <div class="sub-stat"><span class="sub-stat-lbl">mode</span><span class="sub-stat-val" id="result-mode">time 30s</span></div>
-            <div class="sub-stat"><span class="sub-stat-lbl">time</span><span class="sub-stat-val" id="result-time">30s</span></div>
+          <div class="type-hero-stat">
+            <span class="type-hero-val" id="result-raw">0</span>
+            <span class="type-hero-label">raw wpm</span>
           </div>
+        </div>
+
+        <div class="type-sub-stats">
+          <div class="sub-stat"><span class="sub-stat-lbl">chars</span><span class="sub-stat-val" id="result-chars">0/0/0</span></div>
+          <div class="sub-stat"><span class="sub-stat-lbl">mode</span><span class="sub-stat-val" id="result-mode">time 30s</span></div>
+          <div class="sub-stat"><span class="sub-stat-lbl">elapsed</span><span class="sub-stat-val" id="result-time">30s</span></div>
         </div>
 
         <div id="result-sassy" class="type-sassy-tag"></div>
 
-        <!-- High fidelity SVG graph -->
         <div class="type-graph-container">
           <div class="type-graph-title">
             <span>speed progression</span>
@@ -115,7 +130,6 @@
           <div id="type-graph" class="type-graph"></div>
         </div>
 
-        <!-- Words to practice review (toofan style) -->
         <div id="type-error-review" class="type-error-review" style="display:none;">
           <div class="error-review-title">words to practice</div>
           <div id="type-error-words" class="error-words-list"></div>

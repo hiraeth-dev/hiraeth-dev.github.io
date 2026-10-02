@@ -110,7 +110,7 @@ the static CSS underlay (`body:has(#grid-canvas)::before`). Reduced-motion
 users get one static frame. Glass tuning: slightly larger/softer hover
 bloom; base grid untouched.
 
-## 4. Studio (image + PDF tools)
+## 4. Tools: studio & typing
 
 `/studio/`, `templates/studio.html`, `static/js/studio/*.js`. Replaced the old
 `/tool1/` compress page; `/tool1/` now renders `templates/redirect.html` and
@@ -143,6 +143,27 @@ Honest capability limits (surfaced in the UI, not hidden):
   `foreignObject` → canvas). PDF→DOCX is not attempted.
 - PPTX/PPTD/ODP and legacy binary `.doc`/`.rtf` are refused with a reason.
   There is no usable in-browser slide renderer, so this is a hard limit.
+
+### Typing test (`/typing/`, `static/js/typing.js`)
+
+Config lives on its own glass row (`.type-toolbar`) with labelled groups, not
+beside the prompt. Live figures are a 3-up grid of `.type-stat` cells (timer /
+wpm / accuracy) rather than values scattered to opposite corners; the timer
+cell's label switches between "seconds left" and "words done" to match the mode.
+
+Contract worth knowing if you touch it: `typing.js` writes **only bare numbers**
+into `#live-timer`, `#live-wpm` and `#live-acc`, so units and labels must live in
+*sibling* spans, never inside those elements.
+
+`.type-words-viewport` masks its bottom edge, so a partial line fades out instead
+of being sliced through the glyphs. On completion `.type-words` gets
+`.test-done`, which collapses the typing area (it is reference, not a work area)
+and the live strip is hidden — otherwise stale numbers sit above the results.
+
+`.type-focus-overlay` and `.type-mobile-input` previously had **no CSS at all**:
+the input painted a default white box on desktop and the hint never went away.
+The overlay now keys off `.type-words.is-focused`, set from the focus/blur
+listeners in `typing.js`.
 
 ## 5. Adding a theme
 

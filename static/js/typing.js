@@ -72,6 +72,8 @@
     DOM.mobileInput = document.getElementById("type-mobile-input");
 
     DOM.liveTimer = document.getElementById("live-timer");
+    DOM.liveTimerLbl = document.getElementById("live-timer-lbl");
+    DOM.liveBar = document.getElementById("type-live-bar");
     DOM.liveWpm = document.getElementById("live-wpm");
     DOM.liveAcc = document.getElementById("live-acc");
 
@@ -112,6 +114,12 @@
     DOM.wordsArea.addEventListener("click", function() {
       DOM.wordsArea.focus();
       if (DOM.mobileInput) DOM.mobileInput.focus();
+    });
+    DOM.wordsArea.addEventListener("focus", function() {
+      DOM.wordsArea.classList.add("is-focused");
+    });
+    DOM.wordsArea.addEventListener("blur", function() {
+      DOM.wordsArea.classList.remove("is-focused");
     });
 
     if (DOM.btnRestart) {
@@ -178,6 +186,9 @@
         if (state.timerRunning || state.timerFinished) return;
         state.punctEnabled = !state.punctEnabled;
         DOM.punctBtn.classList.toggle("active", state.punctEnabled);
+        DOM.punctBtn.setAttribute("aria-pressed", state.punctEnabled ? "true" : "false");
+        // the button doubles as the state readout
+        DOM.punctBtn.textContent = state.punctEnabled ? "on" : "off";
         resetTest();
       });
     }
@@ -378,9 +389,12 @@
       var remaining = Math.max(0, Math.ceil(state.timerDuration - elapsed));
       DOM.liveTimer.textContent = remaining;
       DOM.liveTimer.classList.toggle("urgent", remaining <= 5 && remaining > 0);
+      // the label has to describe whichever figure is showing
+      if (DOM.liveTimerLbl) DOM.liveTimerLbl.textContent = "seconds left";
     } else {
       DOM.liveTimer.textContent = Math.min(state.currentWordIdx + 1, state.words.length) + "/" + state.wordCount;
       DOM.liveTimer.classList.remove("urgent");
+      if (DOM.liveTimerLbl) DOM.liveTimerLbl.textContent = "words done";
     }
   }
 
@@ -856,6 +870,8 @@
     DOM.wordsArea.classList.add("test-done");
     DOM.results.style.display = "block";
     DOM.hints.style.display = "none";
+    // the live strip would sit above the results showing frozen numbers
+    if (DOM.liveBar) DOM.liveBar.style.display = "none";
   }
 
   function resetTest() {
@@ -874,6 +890,7 @@
 
     DOM.results.style.display = "none";
     DOM.hints.style.display = "flex";
+    if (DOM.liveBar) DOM.liveBar.style.display = "";
     if (DOM.graph) DOM.graph.innerHTML = "";
     DOM.wordsArea.classList.remove("test-done");
 
