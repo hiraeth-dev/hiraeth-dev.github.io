@@ -119,4 +119,5 @@ the traps in the studio and typing tools. Read it before restyling.
 ## Licence
 
 Code, templates, styling and other original assets are under the
-[MIT licence](LICENSE) — do as you like with them.
+[MIT licence](LICENSE) — do as you like with them. Third-party text under
+`content/` is excluded and keeps whatever terms it came with.
