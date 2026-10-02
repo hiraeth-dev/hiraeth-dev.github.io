@@ -54,7 +54,7 @@ PDF is approximate. Both are surfaced in the UI rather than hidden.
 
 ### Reading
 
-Public-domain novels, chapter by chapter:
+Novels, chapter by chapter:
 
 | Novel | Pages |
 |---|---|
@@ -118,8 +118,5 @@ the traps in the studio and typing tools. Read it before restyling.
 
 ## Licence
 
-Site code and styling: do as you like with it.
-
-The novel text is public domain, with the exception of **Mushoku Tensei**
-(ᴍᴜɴ) by Rifujin na Magonote, and **Reverend Insanity** / **Lord of the
-Mysteries** by Death's Door. Those remain the authors' and translators' work.
+Code, templates, styling and other original assets are under the
+[MIT licence](LICENSE) — do as you like with them.
